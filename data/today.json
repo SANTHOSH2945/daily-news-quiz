@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to NFHS-6, what significant trend was observed regarding exclusive breastfeeding among Indian infants under six months?",
-    "options": ["Increased sharply", "Remained stable", "Declined significantly", "Data not collected"],
-    "correctAnswer": "Declined significantly"
+    "question": "Rahul Gandhi offered to assist with Abhishek Banerjee's medical treatment by suggesting a flight to which major Indian city?",
+    "options": ["Chennai", "Bengaluru", "Hyderabad", "Delhi"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "The NFHS-6 survey indicates a decline in exclusive breastfeeding rates. What was the approximate percentage drop from the previous 63.7% to the current 55.8%?",
-    "options": ["5%", "8%", "12%", "15%"],
-    "correctAnswer": "8%"
+    "question": "The city of Hyderabad, mentioned as a potential destination for medical treatment, is the capital of which Indian state?",
+    "options": ["Andhra Pradesh", "Kerala", "Telangana", "Karnataka"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 3,
-    "question": "Despite a fall in exclusive breastfeeding, what positive trend was noted alongside in child health indicators by NFHS-6, relevant to states like Telangana and Andhra Pradesh?",
-    "options": ["Decrease in child mortality", "Gains in child nutrition", "Increase in birth rate", "Improvement in maternal health literacy"],
-    "correctAnswer": "Gains in child nutrition"
+    "question": "Mamata Banerjee revealed that Rahul Gandhi extended an offer to fly Abhishek Banerjee for medical care to Hyderabad following what event?",
+    "options": ["A political rally", "An alleged attack in West Bengal", "A public debate", "A health check-up"],
+    "correctAnswer": "An alleged attack in West Bengal"
   },
   {
     "id": 4,
-    "question": "The NFHS-6 findings on breastfeeding highlight a critical gap in what area for mothers across the nation, including states like Telangana and Andhra Pradesh?",
-    "options": ["Access to formula milk", "Financial assistance for mothers", "Breastfeeding support and counselling", "Pediatrician availability"],
-    "correctAnswer": "Breastfeeding support and counselling"
+    "question": "The offer to fly Abhishek Banerjee to Hyderabad for treatment was made by Rahul Gandhi to which TMC leader?",
+    "options": ["Abhishek Banerjee", "Kalyan Banerjee", "Mamata Banerjee", "Derek O'Brien"],
+    "correctAnswer": "Mamata Banerjee"
   },
   {
     "id": 5,
-    "question": "What specific age group of infants is the NFHS-6 data on exclusive breastfeeding focused on?",
-    "options": ["Under 3 months", "Under 6 months", "Under 1 year", "Under 2 years"],
-    "correctAnswer": "Under 6 months"
+    "question": "In a recent Mann Ki Baat address, PM Modi urged citizens to take precautions against which severe weather condition prevalent in many parts of India, including Telangana and Andhra Pradesh?",
+    "options": ["Cyclonic storms", "Heavy rainfall", "Heatwave", "Cold wave"],
+    "correctAnswer": "Heatwave"
   },
   {
     "id": 6,
-    "question": "The decline in exclusive breastfeeding rates is a public health concern that states like Telangana and Andhra Pradesh need to address through what kind of interventions?",
-    "options": ["Promoting supplementary feeding", "Strengthening infant formula distribution", "Enhancing awareness and support programs for new mothers", "Discouraging natural childbirth"],
-    "correctAnswer": "Enhancing awareness and support programs for new mothers"
+    "question": "PM Modi's Mann Ki Baat emphasized the importance of which environmental practice, crucial for sustainable living in drought-prone or water-stressed regions like parts of Telangana and Andhra Pradesh?",
+    "options": ["Air pollution control", "Afforestation drives", "Water conservation", "Waste management"],
+    "correctAnswer": "Water conservation"
   },
   {
     "id": 7,
-    "question": "Which national survey recently reported a sharp fall in exclusive breastfeeding rates for infants in India, a trend that would also be reflected in states like Telangana?",
-    "options": ["NSSO Survey", "Census of India", "NFHS-6", "Economic Survey"],
-    "correctAnswer": "NFHS-6"
+    "question": "Which significant agricultural produce, for which India is famous and states like Andhra Pradesh are major cultivators, did PM Modi celebrate in his Mann Ki Baat?",
+    "options": ["Wheat", "Rice", "Spices", "Mango"],
+    "correctAnswer": "Mango"
   },
   {
     "id": 8,
-    "question": "What was the exclusive breastfeeding rate for Indian infants under six months, as reported by NFHS-6?",
-    "options": ["63.7%", "55.8%", "70.1%", "48.5%"],
-    "correctAnswer": "55.8%"
+    "question": "In his Mann Ki Baat address, PM Modi lauded which specific category of beverages, highlighting their role in reflecting India's rich cultural diversity?",
+    "options": ["Traditional summer drinks", "Herbal teas", "Milk-based beverages", "Carbonated soft drinks"],
+    "correctAnswer": "Traditional summer drinks"
   },
   {
     "id": 9,
-    "question": "According to a recent NHS/NFHS survey, what positive societal trend was observed among married women in India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Increased political participation", "More involvement in household decision-making", "Higher employment rates", "Greater access to higher education"],
-    "correctAnswer": "More involvement in household decision-making"
+    "question": "PM Modi's Mann Ki Baat address highlighted the importance of recognizing the contributions of which group towards nation-building?",
+    "options": ["Government officials", "Military personnel", "Ordinary Indians", "Industrialists"],
+    "correctAnswer": "Ordinary Indians"
   },
   {
     "id": 10,
-    "question": "The survey on women's empowerment specifically noted increased participation of married women in decisions related to which three aspects?",
-    "options": ["Career choices, property disputes, and investments", "Purchases, health, and family trips", "Child education, religious ceremonies, and community work", "Agricultural practices, vehicle purchases, and legal matters"],
-    "correctAnswer": "Purchases, health, and family trips"
+    "question": "What overarching theme, alongside water conservation and sports achievements, did PM Modi emphasize in Mann Ki Baat to encourage societal betterment?",
+    "options": ["Economic reforms", "Space exploration", "Community service", "Digital literacy"],
+    "correctAnswer": "Community service"
   },
   {
     "id": 11,
-    "question": "This observed increase in women's participation in household decisions is indicative of what broader societal shift in India, relevant to states like Andhra Pradesh and Telangana?",
-    "options": ["Economic recession", "Growing gender inequality", "Enhanced women's agency and empowerment", "Decline in family values"],
-    "correctAnswer": "Enhanced women's agency and empowerment"
+    "question": "The recent Mann Ki Baat celebrated India's heritage related to which specific fruit, noting its cultural and economic significance?",
+    "options": ["Apple", "Banana", "Guava", "Mango"],
+    "correctAnswer": "Mango"
   },
   {
     "id": 12,
-    "question": "The survey findings on women's decision-making suggest a potential improvement in which Sustainable Development Goal (SDG) for India, applicable to states like Telangana and Andhra Pradesh?",
-    "options": ["SDG 1 (No Poverty)", "SDG 4 (Quality Education)", "SDG 5 (Gender Equality)", "SDG 6 (Clean Water and Sanitation)"],
-    "correctAnswer": "SDG 5 (Gender Equality)"
+    "question": "PM Modi, during Mann Ki Baat, encouraged citizens to embrace what specific form of societal engagement for the betterment of the nation?",
+    "options": ["Political activism", "International diplomacy", "Citizen participation", "Scientific research"],
+    "correctAnswer": "Citizen participation"
   },
   {
     "id": 13,
-    "question": "The Supreme Court recently ruled that a child's right to know their father outweighs which individual right in a paternity suit, a ruling applicable across all Indian states?",
-    "options": ["Right to property", "Right to privacy", "Right to livelihood", "Right to freedom of speech"],
-    "correctAnswer": "Right to privacy"
+    "question": "What was one of the achievements highlighted by PM Modi in Mann Ki Baat, besides social service and water conservation?",
+    "options": ["Economic growth", "Technological advancements", "Sports achievements", "Infrastructure development"],
+    "correctAnswer": "Sports achievements"
   },
   {
     "id": 14,
-    "question": "In a significant ruling, the Supreme Court directed a man to undergo what test in a paternity suit, setting a precedent for courts nationwide including in Telangana?",
-    "options": ["Blood test", "Lie detector test", "DNA test", "Psychological evaluation"],
-    "correctAnswer": "DNA test"
+    "question": "The PM's Mann Ki Baat discourse included a strong focus on two main areas: inspiring social service and which other crucial environmental effort?",
+    "options": ["Wildlife protection", "Renewable energy promotion", "Water conservation", "Disaster management"],
+    "correctAnswer": "Water conservation"
   },
   {
     "id": 15,
-    "question": "A recent court ruling classified which act by a father-in-law towards a daughter-in-law as 'domestic violence', a legal interpretation valid in states like Andhra Pradesh?",
-    "options": ["Harassment", "Verbal abuse", "Stealing money", "Refusing medical care"],
-    "correctAnswer": "Stealing money"
+    "question": "What fundamental right did the Supreme Court of India recently rule takes precedence over an individual's right to privacy in paternity suits?",
+    "options": ["Right to education", "Right to property", "Child's right to know father", "Right to freedom of speech"],
+    "correctAnswer": "Child's right to know father"
   },
   {
     "id": 16,
-    "question": "The Supreme Court recently awarded compensation to a convict who was wrongfully held for 24 days after being granted parole. What was the amount awarded?",
-    "options": ["Rs 5 lakh", "Rs 11 lakh", "Rs 20 lakh", "Rs 50 lakh"],
-    "correctAnswer": "Rs 11 lakh"
+    "question": "In a recent ruling concerning paternity suits, the Supreme Court directed a man to undergo which specific scientific test?",
+    "options": ["Blood test", "DNA test", "Lie detector test", "Polygraph test"],
+    "correctAnswer": "DNA test"
   },
   {
     "id": 17,
-    "question": "A High Court recently ruled that a conviction as a juvenile cannot be a ground to block the issuance of which official document, a directive that impacts juvenile justice in states like Telangana?",
-    "options": ["Aadhar card", "Voter ID", "Driving License", "Passport"],
-    "correctAnswer": "Passport"
+    "question": "The Supreme Court's ruling that a child's right to know their father outweighs privacy was made in the context of what type of legal case?",
+    "options": ["Divorce settlement", "Property dispute", "Paternity suit", "Child custody battle"],
+    "correctAnswer": "Paternity suit"
   },
   {
     "id": 18,
-    "question": "The High Court's ruling regarding juvenile conviction and passport issuance aims to prevent what for former juvenile offenders across India, including Andhra Pradesh?",
-    "options": ["Re-offending", "Stigmatizing", "Financial burden", "International travel"],
-    "correctAnswer": "Stigmatizing"
+    "question": "The Supreme Court affirmed the primacy of a child's right to know their biological father, even when conflicting with whose personal right?",
+    "options": ["The mother's", "The alleged father's", "The state's", "The grandparents'"],
+    "correctAnswer": "The alleged father's"
   },
   {
     "id": 19,
-    "question": "What deadline did the Supreme Court set for High Courts, including the High Courts for Telangana and Andhra Pradesh, to deliver verdicts in reserved cases?",
-    "options": ["1 month", "3 months", "6 months", "1 year"],
-    "correctAnswer": "3 months"
+    "question": "What compensation did the Supreme Court award to a convict who was unlawfully held for 24 days after his parole?",
+    "options": ["Rs 1.1 lakh", "Rs 11 lakh", "Rs 24 lakh", "Rs 1 crore"],
+    "correctAnswer": "Rs 11 lakh"
   },
   {
     "id": 20,
-    "question": "Paradoxically, on the same day the SC set a 3-month deadline for HCs, it delivered a verdict that had been reserved for how long?",
-    "options": ["6 months", "9 months", "12 months", "15 months"],
-    "correctAnswer": "15 months"
+    "question": "For what specific reason did the Supreme Court award compensation to a convict in a recent ruling?",
+    "options": ["Wrongful conviction", "Unlawful detention after parole", "Delay in trial", "Lack of legal aid"],
+    "correctAnswer": "Unlawful detention after parole"
   },
   {
     "id": 21,
-    "question": "According to the National Health Authority (NHA), what was the approximate total expenditure by Indians on medicines in the fiscal year 2022-23?",
-    "options": ["Rs 50,000 crore", "Rs 1.6 lakh crore", "Rs 2.5 lakh crore", "Rs 3 lakh crore"],
-    "correctAnswer": "Rs 1.6 lakh crore"
+    "question": "The Supreme Court's decision to award compensation to a convict underscores the importance of upholding which legal principle?",
+    "options": ["Speedy trial", "Fair investigation", "Right to appeal", "Due process and personal liberty"],
+    "correctAnswer": "Due process and personal liberty"
   },
   {
     "id": 22,
-    "question": "The NHA data on medicine spending highlights the significant financial burden of healthcare on citizens across India, including those in states like Telangana and Andhra Pradesh. Which national government initiative broadly aims to mitigate such burdens?",
-    "options": ["PM-KISAN", "Ayushman Bharat", "Swachh Bharat Abhiyan", "Make in India"],
-    "correctAnswer": "Ayushman Bharat"
+    "question": "How many days was a convict reportedly held unlawfully *after* his parole period, leading to a Supreme Court compensation award?",
+    "options": ["10 days", "15 days", "24 days", "30 days"],
+    "correctAnswer": "24 days"
   },
   {
     "id": 23,
-    "question": "The substantial medicine expenditure reported by NHA underscores the importance of which aspect in healthcare policy for states like Andhra Pradesh?",
-    "options": ["Promoting alternative medicine", "Regulating drug prices and ensuring affordable access", "Increasing hospital beds", "Expanding medical tourism"],
-    "correctAnswer": "Regulating drug prices and ensuring affordable access"
+    "question": "According to the National Health Authority (NHA), what was the approximate total expenditure by Indians on medicines during the fiscal year 2022-23?",
+    "options": ["Rs 16,000 crore", "Rs 1.6 lakh crore", "Rs 16 lakh crore", "Rs 160 lakh crore"],
+    "correctAnswer": "Rs 1.6 lakh crore"
   },
   {
     "id": 24,
-    "question": "The data on medicine spending for '2022-23' reported by NHA reflects consumption patterns for which financial year?",
-    "options": ["2021-22", "2022-23", "2023-24", "2020-21"],
-    "correctAnswer": "2022-23"
+    "question": "Which organization published the data indicating that Indians spent Rs 1.6 lakh crore on medicines in 2022-23?",
+    "options": ["Ministry of Health and Family Welfare", "Indian Council of Medical Research (ICMR)", "National Health Authority (NHA)", "All India Institute of Medical Sciences (AIIMS)"],
+    "correctAnswer": "National Health Authority (NHA)"
   },
   {
     "id": 25,
-    "question": "The National Health Authority (NHA) is primarily responsible for implementing which major national health scheme that aims to improve medicine accessibility and affordability across India, relevant to states like Telangana?",
-    "options": ["Beti Bachao Beti Padhao", "Pradhan Mantri Jan Dhan Yojana", "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)", "National Food Security Act"],
-    "correctAnswer": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)"
+    "question": "The NHA reported the medicine expenditure figure of Rs 1.6 lakh crore for which specific financial year?",
+    "options": ["2021-22", "2022-23", "2023-24", "2020-21"],
+    "correctAnswer": "2022-23"
   }
 ]

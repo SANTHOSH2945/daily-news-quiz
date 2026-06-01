@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which two states among the following are mentioned as participating in the enumeration phase of the Socio-Economic and Religious (SIR) survey that recently began?",
-    "options": ["Karnataka and Kerala", "Andhra Pradesh and Telangana", "Punjab and Haryana", "Gujarat and Maharashtra"],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "In a recent 'Mann Ki Baat' address, what natural phenomenon did the Prime Minister urge citizens, including those in Telangana and Andhra Pradesh, to take precautions against?",
+    "options": ["Floods", "Earthquakes", "Heatwaves", "Cyclones"],
+    "correctAnswer": "Heatwaves"
   },
   {
     "id": 2,
-    "question": "What is the primary aim of the Socio-Economic and Religious (SIR) survey currently being conducted in four states, including Andhra Pradesh and Telangana?",
-    "options": ["To assess political affiliations", "To collect data on socio-economic and religious life", "To determine electoral boundaries", "To promote tourism"],
-    "correctAnswer": "To collect data on socio-economic and religious life"
-  },
-  {
-    "id": 3,
-    "question": "Which of the following aspects is NOT among the data collected by the Socio-Economic and Religious (SIR) survey mentioned in the news, which includes states like Andhra Pradesh and Telangana?",
-    "options": ["Population", "Income", "Military service record", "Land ownership"],
-    "correctAnswer": "Military service record"
-  },
-  {
-    "id": 4,
-    "question": "Which Indian state was the first to conduct a comprehensive household survey to capture socio-economic and caste details in 2014, as highlighted in the context of the current SIR survey?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"],
+    "question": "The Prime Minister's 'Mann Ki Baat' program is a platform for addressing national issues. Which Indian state, known for experiencing significant summer temperatures, would find advice on heatwave precautions particularly relevant?",
+    "options": ["Kerala", "Jammu & Kashmir", "Telangana", "Himachal Pradesh"],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 3,
+    "question": "During the recent Mann Ki Baat, the Prime Minister highlighted the importance of taking care amidst heatwaves. Which government agency typically issues advisories regarding heatwave conditions in regions like Andhra Pradesh?",
+    "options": ["ISRO", "IMD", "DRDO", "RBI"],
+    "correctAnswer": "IMD"
+  },
+  {
+    "id": 4,
+    "question": "The Prime Minister's 'Mann Ki Baat' is a monthly radio program. How frequently is this program typically broadcast?",
+    "options": ["Weekly", "Bi-monthly", "Monthly", "Annually"],
+    "correctAnswer": "Monthly"
+  },
+  {
     "id": 5,
-    "question": "The comprehensive household survey conducted by Telangana in 2014 was widely seen as a precursor to what, according to the news?",
-    "options": ["Industrial development", "State's welfare schemes", "Educational reforms", "Agricultural policies"],
-    "correctAnswer": "State's welfare schemes"
+    "question": "Heatwaves, as mentioned by the PM, commonly lead to which health risk if precautions are not taken, particularly in states like Andhra Pradesh?",
+    "options": ["Hypothermia", "Dehydration", "Frostbite", "Scurvy"],
+    "correctAnswer": "Dehydration"
   },
   {
     "id": 6,
-    "question": "What does the acronym 'SIR' stand for in the context of the recent survey being conducted in states like Andhra Pradesh and Telangana?",
-    "options": ["State Infrastructure Review", "Socio-Economic and Religious", "Scientific Innovation Research", "System Integration Report"],
-    "correctAnswer": "Socio-Economic and Religious"
+    "question": "The Union Government is considering a policy change regarding exemptions on which specific type of roads that connect major cities in states like Telangana?",
+    "options": ["State Highways", "District Roads", "National Highways", "Rural Roads"],
+    "correctAnswer": "National Highways"
   },
   {
     "id": 7,
-    "question": "How many states are simultaneously conducting the comprehensive Socio-Economic and Religious (SIR) survey, which includes Andhra Pradesh and Telangana?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Four"
+    "question": "If the list of vehicles exempted from National Highway tolls is pruned, which sector in states like Andhra Pradesh might face increased operational costs?",
+    "options": ["Agriculture", "IT Services", "Logistics and Transportation", "Education"],
+    "correctAnswer": "Logistics and Transportation"
   },
   {
     "id": 8,
-    "question": "Besides Andhra Pradesh and Telangana, which two other states are mentioned as participating in the enumeration phase of the Socio-Economic and Religious (SIR) survey?",
-    "options": ["Punjab and Haryana", "Bihar and Odisha", "Karnataka and Kerala", "Gujarat and Rajasthan"],
-    "correctAnswer": "Bihar and Odisha"
+    "question": "Which entity is responsible for the development and maintenance of National Highways, including those passing through Telangana and Andhra Pradesh?",
+    "options": ["State PWD", "NHAI", "Municipal Corporations", "Gram Panchayats"],
+    "correctAnswer": "NHAI"
   },
   {
     "id": 9,
-    "question": "What is a notable characteristic of the current Socio-Economic and Religious (SIR) survey, as highlighted in the news?",
-    "options": ["It's the first time such a survey is limited to urban areas.", "It's the first time such a comprehensive survey is being conducted simultaneously in these four states.", "It only focuses on religious data.", "It is entirely privately funded."],
-    "correctAnswer": "It's the first time such a comprehensive survey is being conducted simultaneously in these four states."
+    "question": "A policy to prune NH toll exemptions would mean that more vehicles would be required to pay tolls. What is the primary purpose of collecting tolls on National Highways?",
+    "options": ["Funding state police", "Generating revenue for road maintenance and new infrastructure", "Reducing traffic congestion", "Subsidizing public transport"],
+    "correctAnswer": "Generating revenue for road maintenance and new infrastructure"
   },
   {
     "id": 10,
-    "question": "Which of the following categories is specifically mentioned as a data point being collected during the Socio-Economic and Religious (SIR) survey in states like Andhra Pradesh and Telangana?",
-    "options": ["Employment history", "Education", "Political party membership", "Pet ownership"],
-    "correctAnswer": "Education"
+    "question": "Which type of infrastructure in states like Andhra Pradesh and Telangana would be directly impacted by changes in national highway toll policies?",
+    "options": ["Airports", "Seaports", "Road Networks", "Railways"],
+    "correctAnswer": "Road Networks"
   },
   {
     "id": 11,
-    "question": "Besides population, income, education, and land ownership, what other key aspect is mentioned for data collection in the Socio-Economic and Religious (SIR) survey?",
-    "options": ["Health", "Climate data", "Mineral resources", "Forest cover"],
-    "correctAnswer": "Health"
+    "question": "The Supreme Court of India recently made observations on the legality of commercializing prostitution. Which part of the Indian Constitution ensures the right to life and personal liberty, relevant to such discussions?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "correctAnswer": "Article 21"
   },
   {
     "id": 12,
-    "question": "What public health issue is described as an 'epidemic' in India, costing millions due to its affordability and accessibility, affecting states like Telangana and Andhra Pradesh?",
-    "options": ["Malaria", "Smokeless tobacco", "Dengue", "Tuberculosis"],
-    "correctAnswer": "Smokeless tobacco"
+    "question": "The Supreme Court recently clarified that while the law is against the commercialization of prostitution, it does not aim to ban what?",
+    "options": ["Human trafficking", "The individual act of prostitution", "Organized crime", "Child labor"],
+    "correctAnswer": "The individual act of prostitution"
   },
   {
     "id": 13,
-    "question": "The article highlights that India's smokeless tobacco epidemic traps millions of Indians in what condition, a concern for states across the nation?",
-    "options": ["Isolation", "Poverty", "Advanced education", "Economic prosperity"],
-    "correctAnswer": "Poverty"
+    "question": "The Supreme Court's judgments apply uniformly across all Indian states, including Andhra Pradesh and Telangana. What is the highest judicial body in India?",
+    "options": ["High Court", "District Court", "Supreme Court", "Lok Adalat"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 14,
-    "question": "What severe health condition is directly linked to the consumption of smokeless tobacco, as emphasized in the news about India's public health crisis?",
-    "options": ["Diabetes", "Heart attack", "Cancer", "Asthma"],
-    "correctAnswer": "Cancer"
+    "question": "The recent SC observation regarding prostitution highlights the distinction between commercial exploitation and individual choices. Which fundamental right in the Indian Constitution relates to protecting individual dignity and choice?",
+    "options": ["Right to Equality", "Right to Freedom of Speech", "Right to Life and Personal Liberty", "Right to Property"],
+    "correctAnswer": "Right to Life and Personal Liberty"
   },
   {
     "id": 15,
-    "question": "What characteristic makes smokeless tobacco products particularly dangerous for low-income populations in India, as per the report?",
-    "options": ["High demand", "Extreme affordability", "Limited availability", "Complex packaging"],
-    "correctAnswer": "Extreme affordability"
+    "question": "In India, which legislative body is primarily responsible for enacting laws that the Supreme Court interprets and clarifies?",
+    "options": ["State Assemblies", "Parliament", "Panchayats", "Municipal Councils"],
+    "correctAnswer": "Parliament"
   },
   {
     "id": 16,
-    "question": "Which specific smokeless tobacco product is mentioned in the article as costing mere rupees and contributing to the epidemic across India?",
-    "options": ["Cigarettes", "Bidi", "Gutka", "Hookah"],
-    "correctAnswer": "Gutka"
+    "question": "The BJP's recent meeting for poll picks included candidates for Rajya Sabha and which state-level legislative body, important for states like Andhra Pradesh and Telangana?",
+    "options": ["Legislative Assembly", "Legislative Council", "Municipal Corporation", "Zilla Parishad"],
+    "correctAnswer": "Legislative Council"
   },
   {
     "id": 17,
-    "question": "Despite graphic warnings, what is the main issue cited regarding smokeless tobacco products like gutka in India, impacting all states including Andhra Pradesh and Telangana?",
-    "options": ["Over-regulation", "Under-regulation", "Lack of consumer interest", "Export bans"],
-    "correctAnswer": "Under-regulation"
+    "question": "Which of the following pairs of states *both* currently have a Legislative Council (MLC), making BJP's MLC poll picks relevant to them?",
+    "options": ["Kerala and Gujarat", "Rajasthan and Punjab", "Telangana and Andhra Pradesh", "Madhya Pradesh and Haryana"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 18,
-    "question": "The article calls for stricter policies targeting which aspect of smokeless tobacco to combat the public health crisis in India?",
-    "options": ["Export tariffs", "Affordability", "International distribution", "Manufacturing innovation"],
-    "correctAnswer": "Affordability"
+    "question": "The abbreviation 'MLC' in the context of Indian state legislatures stands for what?",
+    "options": ["Member of Legislative Chamber", "Member of Lok Sabha Council", "Member of Legislative Council", "Minister of Legislative Committee"],
+    "correctAnswer": "Member of Legislative Council"
   },
   {
     "id": 19,
-    "question": "To tackle the smokeless tobacco epidemic in India, what aspect related to its presence in the market needs stricter policies?",
-    "options": ["Brand promotion", "Availability", "Historical context", "Cultural integration"],
-    "correctAnswer": "Availability"
+    "question": "In which House of the Indian Parliament are members selected during Rajya Sabha elections, as part of the BJP's poll pick finalization?",
+    "options": ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Vidhan Parishad"],
+    "correctAnswer": "Rajya Sabha"
   },
   {
     "id": 20,
-    "question": "What is another key area, besides affordability and availability, that requires stricter policies to address the smokeless tobacco crisis across India?",
-    "options": ["Nutritional value", "Aesthetic design", "Appeal", "Shelf life"],
-    "correctAnswer": "Appeal"
+    "question": "A state with a bicameral legislature, such as Andhra Pradesh or Telangana, means it has two houses. What are these two houses typically called?",
+    "options": ["President's House and Governor's House", "Lok Sabha and Rajya Sabha", "Legislative Assembly and Legislative Council", "Parliament and State Assembly"],
+    "correctAnswer": "Legislative Assembly and Legislative Council"
   },
   {
     "id": 21,
-    "question": "What term describes substances like gutka that are chewed or placed in the mouth rather than smoked, contributing to India's public health challenges?",
-    "options": ["Vaping products", "Nicotine patches", "Smokeless tobacco", "Herbal remedies"],
-    "correctAnswer": "Smokeless tobacco"
+    "question": "The process of finalizing candidates for MLC elections by the BJP indicates their strategic focus on which level of governance?",
+    "options": ["National", "State", "Local (Panchayat)", "International"],
+    "correctAnswer": "State"
   },
   {
     "id": 22,
-    "question": "The article describes the smokeless tobacco situation in India as an 'epidemic' due to its widespread nature and what other implied factor?",
-    "options": ["Seasonal fluctuation", "Lack of attention from authorities", "Limited geographical spread", "Easy to cure"],
-    "correctAnswer": "Lack of attention from authorities"
+    "question": "What is the minimum age required to be a member of the Legislative Council (MLC) in states like Telangana and Andhra Pradesh?",
+    "options": ["18 years", "21 years", "25 years", "30 years"],
+    "correctAnswer": "30 years"
   },
   {
     "id": 23,
-    "question": "Beyond direct health impacts, what is a socio-economic consequence for individuals and families impacted by the smokeless tobacco epidemic in India?",
-    "options": ["Improved social status", "Increased financial stability", "Entrapment in poverty", "Access to better healthcare"],
-    "correctAnswer": "Entrapment in poverty"
+    "question": "Members of the Legislative Council (MLCs) in states like Andhra Pradesh are elected through various methods, including nomination by the Governor and election by whom?",
+    "options": ["Directly by the public", "Members of local bodies, graduates, and teachers constituencies", "Only by MPs", "Only by MLAs"],
+    "correctAnswer": "Members of local bodies, graduates, and teachers constituencies"
   },
   {
     "id": 24,
-    "question": "The headline suggests 'no one is stopping' the smokeless tobacco epidemic in India, implying a lack of what?",
-    "options": ["Scientific research", "Public awareness", "Effective regulatory and enforcement action", "International aid"],
-    "correctAnswer": "Effective regulatory and enforcement action"
+    "question": "Which major political party recently held a high-level meeting to select candidates for both national (Rajya Sabha) and state (MLC) level elections?",
+    "options": ["Indian National Congress", "Bahujan Samaj Party", "Bharatiya Janata Party", "Aam Aadmi Party"],
+    "correctAnswer": "Bharatiya Janata Party"
   },
   {
     "id": 25,
-    "question": "The article highlights the urgent need for a multi-faceted approach to combat India's smokeless tobacco epidemic by addressing which primary areas?",
-    "options": ["Export and import restrictions", "Affordability, availability, and appeal", "Research and development of new products", "International collaborations only"],
-    "correctAnswer": "Affordability, availability, and appeal"
+    "question": "The presence of a Legislative Council (MLC) in a state like Telangana reflects which type of legislative structure?",
+    "options": ["Unicameral", "Bicameral", "Tricameral", "Monocameral"],
+    "correctAnswer": "Bicameral"
   }
 ]

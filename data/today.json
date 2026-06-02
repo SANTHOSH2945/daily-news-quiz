@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What was India's clear message to Nepal regarding calls for intervention by UK and China?",
-    "options": [
-      "'No role for third parties'",
-      "'Mediation is welcome'",
-      "'International cooperation is key'",
-      "'Dialogue with all stakeholders'"
-    ],
-    "correctAnswer": "'No role for third parties'"
+    "question": "What primary sector in states like Telangana and Andhra Pradesh faces a severe threat due to the rapidly developing El Nino phenomenon, as per the WMO alert?",
+    "options": ["Agriculture", "Information Technology", "Manufacturing", "Tourism"],
+    "correctAnswer": "Agriculture"
   },
   {
     "id": 2,
-    "question": "Which country's Prime Minister called for UK and China intervention, prompting India's clear message?",
-    "options": [
-      "Sri Lanka",
-      "Bangladesh",
-      "Nepal",
-      "Bhutan"
-    ],
-    "correctAnswer": "Nepal"
+    "question": "The World Meteorological Organization (WMO) has issued an alert regarding El Nino. What is the approximate likelihood of its formation, impacting India's monsoon and states like AP and Telangana?",
+    "options": ["20%", "50%", "80%", "100%"],
+    "correctAnswer": "80%"
   },
   {
     "id": 3,
-    "question": "Who recently hosted Nepal's ruling party chief Rabi Lamichhane in India?",
-    "options": [
-      "Congress President",
-      "BJP President Nitin Nabin",
-      "External Affairs Minister",
-      "Prime Minister Narendra Modi"
-    ],
-    "correctAnswer": "BJP President Nitin Nabin"
+    "question": "Until at least which month are moderate to strong El Nino conditions expected to continue, potentially impacting the entire four-month monsoon season in states like Andhra Pradesh and Telangana?",
+    "options": ["August", "September", "October", "November"],
+    "correctAnswer": "November"
   },
   {
     "id": 4,
-    "question": "Which Indian political party's president hosted Nepal's ruling party chief Rabi Lamichhane?",
-    "options": [
-      "Indian National Congress",
-      "Bharatiya Janata Party (BJP)",
-      "Aam Aadmi Party (AAP)",
-      "Communist Party of India (Marxist)"
-    ],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "question": "A weakened monsoon due to El Nino, as warned by the WMO, would most significantly impact which major agricultural activity in states such as Telangana and Andhra Pradesh?",
+    "options": ["Winter harvesting", "Rabi crop planting", "Summer sowing", "Horticultural exports"],
+    "correctAnswer": "Summer sowing"
   },
   {
     "id": 5,
-    "question": "What central education board recently faced a 'debacle' leading to leadership transfers and a probe?",
-    "options": [
-      "ICSE",
-      "CBSE",
-      "NIOS",
-      "State Boards of Education"
-    ],
-    "correctAnswer": "CBSE"
+    "question": "Besides threatening to weaken India's monsoon, El Nino is also raising odds for what global phenomenon, which could have ripple effects on regional climate patterns in India?",
+    "options": ["Decrease in global temperatures", "Increase in global extreme weather risks", "Expansion of polar ice caps", "Stable oceanic currents"],
+    "correctAnswer": "Increase in global extreme weather risks"
   },
   {
     "id": 6,
-    "question": "What services related to CBSE are being probed for procurement irregularities following a recent 'debacle'?",
-    "options": [
-      "Examination Paper Setting services",
-      "Online Mark Submission (OSM) services",
-      "Teacher Training services",
-      "Infrastructure Development services"
-    ],
-    "correctAnswer": "Online Mark Submission (OSM) services"
+    "question": "As per the new Urban Congestion Policy, what is a mandatory financial condition for states like Telangana and Andhra Pradesh to avail Central funding for urban decongestion projects on national highways?",
+    "options": ["Projects must be completed within 12 months", "States must contribute financially", "Projects must use imported materials", "Projects must include smart city features"],
+    "correctAnswer": "States must contribute financially"
   },
   {
     "id": 7,
-    "question": "Who were transferred by the Centre following the CBSE debacle?",
-    "options": [
-      "The entire board of directors",
-      "Only the Chairman",
-      "Chairman and Secretary",
-      "All regional officers"
-    ],
-    "correctAnswer": "Chairman and Secretary"
+    "question": "What specific design feature is mandated for Ring Road and Bypass projects funded under the new Urban Congestion Policy, affecting infrastructure development in cities within states like AP and Telangana?",
+    "options": ["Single-lane roads", "Non-motorized vehicle priority lanes", "Fully access-controlled, 4-lane corridors", "Open tolling system"],
+    "correctAnswer": "Fully access-controlled, 4-lane corridors"
   },
   {
     "id": 8,
-    "question": "What kind of attack did the CBSE re-verification portal recently face?",
-    "options": [
-      "Technical Glitch",
-      "Power Outage",
-      "Cyberattack",
-      "System Overload"
-    ],
-    "correctAnswer": "Cyberattack"
+    "question": "Which of the following is an accepted mechanism for states, including Andhra Pradesh and Telangana, to contribute financially to Centre-funded urban decongestion projects?",
+    "options": ["Issuing new state bonds", "Land acquisition cost sharing", "Charging higher taxes", "Diverting education funds"],
+    "correctAnswer": "Land acquisition cost sharing"
   },
   {
     "id": 9,
-    "question": "What is the name of the central board whose re-verification portal faced a cyberattack?",
-    "options": [
-      "UPSC",
-      "NTA",
-      "CBSE",
-      "SSC"
-    ],
-    "correctAnswer": "CBSE"
+    "question": "The new Urban Congestion Policy specifies a particular type of tolling for its funded projects. What is this type of tolling, relevant for new infrastructure in states like AP/Telangana?",
+    "options": ["Open tolling", "Manual tolling", "Closed tolling", "Fixed-rate tolling"],
+    "correctAnswer": "Closed tolling"
   },
   {
     "id": 10,
-    "question": "What action did the Centre take regarding the chairman and secretary of CBSE after the recent issues?",
-    "options": [
-      "Awarded them for efficiency",
-      "Extended their tenure",
-      "Transferred them",
-      "Sent them for international training"
-    ],
-    "correctAnswer": "Transferred them"
+    "question": "What is the primary focus of the new Urban Congestion Policy that mandates states like Telangana and Andhra Pradesh to contribute funds for Ring Road and Bypass projects?",
+    "options": ["Rural development", "Border security", "Urban decongestion", "Coastal area protection"],
+    "correctAnswer": "Urban decongestion"
   },
   {
     "id": 11,
-    "question": "A panel has been formed to probe the procurement of what specific services for CBSE?",
-    "options": [
-      "Transportation services",
-      "OSM (Online Mark Submission) services",
-      "Counseling services",
-      "Printing services"
-    ],
-    "correctAnswer": "OSM (Online Mark Submission) services"
+    "question": "In May, which country retained its position as the largest crude oil supplier to India, a factor influencing energy security and prices in states like AP and Telangana?",
+    "options": ["Saudi Arabia", "Iraq", "Russia", "USA"],
+    "correctAnswer": "Russia"
   },
   {
     "id": 12,
-    "question": "The recent CBSE issues involved the transfer of its chairman and which other key official?",
-    "options": [
-      "Vice-Chairman",
-      "Registrar",
-      "Secretary",
-      "Chief Financial Officer"
-    ],
-    "correctAnswer": "Secretary"
+    "question": "Which nation emerged as the second-largest crude supplier to India in May, contributing to the diversified energy portfolio of the country, benefiting states like Telangana and Andhra Pradesh?",
+    "options": ["UAE", "Kuwait", "Nigeria", "Venezuela"],
+    "correctAnswer": "UAE"
   },
   {
     "id": 13,
-    "question": "Which country's acting president is scheduled to visit India from June 3?",
-    "options": [
-      "Argentina",
-      "Brazil",
-      "Colombia",
-      "Venezuela"
-    ],
-    "correctAnswer": "Venezuela"
+    "question": "What largely helped India meet its LPG demand in May, despite disruptions in imports from West Asia, benefiting households and industries in states like AP and Telangana?",
+    "options": ["Reduced domestic demand", "Higher inflows from the US and domestic production", "Increased imports from China", "Emergency reserves from Europe"],
+    "correctAnswer": "Higher inflows from the US and domestic production"
   },
   {
     "id": 14,
-    "question": "What is the name of Venezuela's acting president visiting India?",
-    "options": [
-      "Nicolas Maduro",
-      "Juan Guaido",
-      "Delcy Rodriguez",
-      "Diosdado Cabello"
-    ],
-    "correctAnswer": "Delcy Rodriguez"
+    "question": "How did India's crude oil and LPG supplies in May compare to pre-conflict levels, despite an improvement from earlier months, affecting overall economic stability in states like AP and Telangana?",
+    "options": ["Significantly above pre-conflict levels", "Exactly at pre-conflict levels", "Not yet at pre-conflict levels", "Irrelevant to pre-conflict levels"],
+    "correctAnswer": "Not yet at pre-conflict levels"
   },
   {
     "id": 15,
-    "question": "On what date is Venezuela's acting president Delcy Rodriguez scheduled to visit India?",
-    "options": [
-      "May 28",
-      "June 3",
-      "July 15",
-      "August 1"
-    ],
-    "correctAnswer": "June 3"
+    "question": "Disruptions in crude and LPG supplies to India during March and April, prior to May's improvement, were primarily linked to issues in which region, impacting fuel availability in states including AP and Telangana?",
+    "options": ["South America", "East Asia", "West Asia", "North Africa"],
+    "correctAnswer": "West Asia"
   },
   {
     "id": 16,
-    "question": "Which South American nation's leader is visiting India from June 3?",
-    "options": [
-      "Chile",
-      "Peru",
-      "Ecuador",
-      "Venezuela"
-    ],
-    "correctAnswer": "Venezuela"
+    "question": "What factor primarily contributed to the increased costs for beverage companies in India this summer, affecting pricing for consumers in states like AP and Telangana?",
+    "options": ["Increased marketing budgets", "Rising costs for cans and glass bottles", "Decreased consumer demand", "New government taxes on beverages"],
+    "correctAnswer": "Rising costs for cans and glass bottles"
   },
   {
     "id": 17,
-    "question": "Delcy Rodriguez, acting president of Venezuela, is visiting which country?",
-    "options": [
-      "China",
-      "Russia",
-      "India",
-      "South Africa"
-    ],
-    "correctAnswer": "India"
+    "question": "What percentage price hike is anticipated for packaging materials, such as aluminium cans and glass bottles, impacting the beverage industry and consumers in states like Andhra Pradesh and Telangana?",
+    "options": ["5-10%", "15-20%", "25-30%", "Over 30%"],
+    "correctAnswer": "15-20%"
   },
   {
     "id": 18,
-    "question": "India recently objected to a joint statement made by which two entities concerning Jammu & Kashmir?",
-    "options": [
-      "UN and USA",
-      "China and Pakistan",
-      "Pakistan and EU",
-      "Russia and SCO"
-    ],
-    "correctAnswer": "Pakistan and EU"
+    "question": "Which specific beverage product's 300 ml can is anticipated to see a price increase of Rs 10 due to rising packaging costs, as projected by distributors in the Indian market, affecting states like AP and Telangana?",
+    "options": ["Pepsi", "Sprite", "Thums Up", "Diet Coke"],
+    "correctAnswer": "Diet Coke"
   },
   {
     "id": 19,
-    "question": "What specific region's reference in a Pak-EU joint statement did India deem 'unwarranted'?",
-    "options": [
-      "Punjab",
-      "Gujarat",
-      "Jammu & Kashmir",
-      "North-East India"
-    ],
-    "correctAnswer": "Jammu & Kashmir"
+    "question": "Supply disruptions from which region were identified as a cause for the increased costs of aluminium cans, impacting beverage manufacturers operating in states across India, including AP and Telangana?",
+    "options": ["East Asia", "West Asia", "North America", "Europe"],
+    "correctAnswer": "West Asia"
   },
   {
     "id": 20,
-    "question": "How did India describe the reference to Jammu & Kashmir in the recent Pak-EU joint statement?",
-    "options": [
-      "Acceptable",
-      "Neutral",
-      "Constructive",
-      "Unwarranted"
-    ],
-    "correctAnswer": "Unwarranted"
+    "question": "Besides supply disruptions for aluminium cans, what other rising cost contributed to the overall increase in packaging prices for the beverage industry, impacting businesses and consumers in states like AP and Telangana?",
+    "options": ["Increased sugar prices", "Higher transport tariffs", "Increased LPG costs", "Higher labor wages"],
+    "correctAnswer": "Increased LPG costs"
   },
   {
     "id": 21,
-    "question": "Which international body, alongside Pakistan, issued a joint statement criticized by India for its J&K reference?",
-    "options": [
-      "African Union",
-      "ASEAN",
-      "European Union",
-      "G7"
-    ],
-    "correctAnswer": "European Union"
+    "question": "According to the MHA's new tightened rules, foreign nationals on a 180-day visa must now register their stay in India by when, impacting expatriates and officials in states like AP and Telangana?",
+    "options": ["Within 14 days of arrival", "After 90 days of arrival", "Before their visa expires", "Only if staying more than 180 days"],
+    "correctAnswer": "Before their visa expires"
   },
   {
     "id": 22,
-    "question": "India's strong reaction was against a joint statement that mentioned J&K, issued by Pakistan and which other entity?",
-    "options": [
-      "United Kingdom",
-      "United States",
-      "European Union",
-      "Saudi Arabia"
-    ],
-    "correctAnswer": "European Union"
+    "question": "For foreigners in India seeking extensions for stays exceeding 180 days, under what kind of situations are these extensions strictly permitted by the MHA, affecting foreign residents in states like AP and Telangana?",
+    "options": ["Tourist purposes", "Business meetings", "Educational pursuits", "Emergent situations"],
+    "correctAnswer": "Emergent situations"
   },
   {
     "id": 23,
-    "question": "The interaction between BJP president Nitin Nabin and Nepal ruling party chief Rabi Lamichhane was described as what?",
-    "options": [
-      "A formal debate",
-      "A meaningful interaction",
-      "A brief exchange",
-      "A contentious discussion"
-    ],
-    "correctAnswer": "A meaningful interaction"
+    "question": "As per the MHA's new rules, what is the maximum duration for a single extension permitted beyond the initial 180-day limit for foreigners, relevant to administrative processes in states like AP/Telangana?",
+    "options": ["30 days", "60 days", "90 days", "No single extension is permitted beyond the initial 180-day limit"],
+    "correctAnswer": "No single extension is permitted beyond the initial 180-day limit"
   },
   {
     "id": 24,
-    "question": "Which central entity is probing the procurement of OSM services following the CBSE 'debacle'?",
-    "options": [
-      "A High Court",
-      "The Central Government",
-      "A State Education Ministry",
-      "An independent NGO"
-    ],
-    "correctAnswer": "The Central Government"
+    "question": "Which central ministry is responsible for announcing the tightened rules for foreigners extending their stay in India, affecting regulatory bodies in states like AP and Telangana?",
+    "options": ["Ministry of External Affairs", "Ministry of Finance", "Ministry of Home Affairs (MHA)", "Ministry of Tourism"],
+    "correctAnswer": "Ministry of Home Affairs (MHA)"
   },
   {
     "id": 25,
-    "question": "The news about the CBSE debacle and cyberattack on its re-verification portal is significant for students in Telangana and Andhra Pradesh as it impacts:",
-    "options": [
-      "Only students studying in Delhi",
-      "All students across India, including those in Telangana and Andhra Pradesh, who take CBSE exams",
-      "Only students in private schools",
-      "Only students appearing for state board exams"
-    ],
-    "correctAnswer": "All students across India, including those in Telangana and Andhra Pradesh, who take CBSE exams"
+    "question": "The Central Consumer Protection Authority (CCPA) penalized PhysicsWallah for employing 'dark patterns'. What was one of the key 'dark patterns' identified, impacting consumers in states like AP and Telangana?",
+    "options": ["Offering too many free courses", "Auto-selecting donations during checkout", "Providing excessive customer support", "Overly transparent pricing"],
+    "correctAnswer": "Auto-selecting donations during checkout"
   }
 ]

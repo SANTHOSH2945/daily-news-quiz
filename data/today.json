@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What did the Supreme Court refuse an urgent hearing for, concerning the NEET-UG examination?",
-    "options": ["A) A PIL seeking a computer-based re-exam", "B) A request to increase NEET seats", "C) A petition for deferring the exam date", "D) A plea for regional language options in NEET"],
-    "correctAnswer": "A) A PIL seeking a computer-based re-exam"
+    "question": "What new online facility has CBSE recently launched for students regarding their answer sheets?",
+    "options": ["Online admission forms", "Online re-evaluation portal", "Online exam registration", "Online certificate verification"],
+    "correctAnswer": "Online re-evaluation portal"
   },
   {
     "id": 2,
-    "question": "What was one of the reasons cited by the Supreme Court for not granting an urgent hearing for the NEET-UG re-examination plea?",
-    "options": ["A) The NTA had already announced a re-exam", "B) Authorities faced challenges in conducting the re-exam quickly", "C) The plea was filed too late", "D) The issue was already resolved by the Education Ministry"],
-    "correctAnswer": "B) Authorities faced challenges in conducting the re-exam quickly"
+    "question": "What is a primary objective of the new online portal launched by CBSE for re-evaluations?",
+    "options": ["To reduce administrative staff", "To increase exam fees", "To enhance transparency in mark checking", "To introduce new subjects"],
+    "correctAnswer": "To enhance transparency in mark checking"
   },
   {
     "id": 3,
-    "question": "With which other petitions was the PIL seeking NTA reforms tagged by the Supreme Court?",
-    "options": ["A) Petitions related to university admissions", "B) Petitions seeking NTA reforms", "C) Petitions challenging CBSE results", "D) Petitions regarding medical college fee structures"],
-    "correctAnswer": "B) Petitions seeking NTA reforms"
+    "question": "What specific controversy prompted the Education Ministry's investigation into CBSE's marking processes?",
+    "options": ["Teacher salary disputes", "On-screen marking (OSM) tender", "Curriculum changes", "School affiliation issues"],
+    "correctAnswer": "On-screen marking (OSM) tender"
   },
   {
     "id": 4,
-    "question": "Which country's acting president is poised for a New Delhi visit, signaling a deepening energy partnership with India?",
-    "options": ["A) Brazil", "B) Colombia", "C) Venezuela", "D) Argentina"],
-    "correctAnswer": "C) Venezuela"
+    "question": "What kind of support does CBSE provide for students using its new online re-evaluation portal?",
+    "options": ["A dedicated helpline number", "An informative video guide", "Live chat support", "Physical guidance centers"],
+    "correctAnswer": "An informative video guide"
   },
   {
     "id": 5,
-    "question": "What is India actively seeking to diversify by encouraging increased purchases from nations like Venezuela?",
-    "options": ["A) Its technology exports", "B) Its oil sources", "C) Its agricultural imports", "D) Its diplomatic alliances"],
-    "correctAnswer": "B) Its oil sources"
+    "question": "Which government body has been investigating potential discrepancies in CBSE's on-screen marking and cybersecurity matters?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Education Ministry", "Ministry of Health"],
+    "correctAnswer": "Education Ministry"
   },
   {
     "id": 6,
-    "question": "In the context of the upcoming visit, which South American nation has recently emerged as a significant crude supplier for India?",
-    "options": ["A) Brazil", "B) Mexico", "C) Venezuela", "D) Ecuador"],
-    "correctAnswer": "C) Venezuela"
+    "question": "Which national health regulatory body recently issued a warning about the risks of HIV and hepatitis from unsafe injections?",
+    "options": ["AIIMS", "ICMR", "NMC", "NITI Aayog"],
+    "correctAnswer": "NMC"
   },
   {
     "id": 7,
-    "question": "Which Indian High Court recognized the 'right to be forgotten' as integral to the right to privacy?",
-    "options": ["A) Bombay High Court", "B) Madras High Court", "C) Calcutta High Court", "D) Delhi High Court"],
-    "correctAnswer": "D) Delhi High Court"
+    "question": "What two specific health risks were highlighted by the NMC concerning unsafe injection practices?",
+    "options": ["Malaria and Dengue", "Tuberculosis and Pneumonia", "HIV and Hepatitis", "Typhoid and Cholera"],
+    "correctAnswer": "HIV and Hepatitis"
   },
   {
     "id": 8,
-    "question": "What specific action are search engines like Google expected to take under the 'right to be forgotten' ruling by the Delhi High Court?",
-    "options": ["A) Publish all judicial records", "B) Index all personal information", "C) De-index private or favorably concluded judicial records", "D) Store personal data indefinitely"],
-    "correctAnswer": "C) De-index private or favorably concluded judicial records"
+    "question": "The NMC's recent public health warning primarily targets which unsafe medical practice?",
+    "options": ["Unsafe blood transfusions", "Unsafe surgical procedures", "Unsafe disposal of medical waste", "Unsafe injection practices"],
+    "correctAnswer": "Unsafe injection practices"
   },
   {
     "id": 9,
-    "question": "The 'right to be forgotten' ruling aims to protect individuals from reputational harm due to persistent digital information, emphasizing its connection to which fundamental right?",
-    "options": ["A) Right to freedom of speech", "B) Right to education", "C) Right to privacy", "D) Right to property"],
-    "correctAnswer": "C) Right to privacy"
+    "question": "The NMC's warning against unsafe injections aims to mitigate the spread of which type of diseases?",
+    "options": ["Airborne diseases", "Waterborne diseases", "Vector-borne diseases", "Bloodborne diseases"],
+    "correctAnswer": "Bloodborne diseases"
   },
   {
     "id": 10,
-    "question": "What did the Education Ministry state to a Parliamentary panel regarding paper-based examinations?",
-    "options": ["A) They are highly secure", "B) They are leak-prone", "C) They are cost-effective", "D) They are being phased out rapidly"],
-    "correctAnswer": "B) They are leak-prone"
+    "question": "What is the main objective of the National Medical Commission (NMC) in issuing warnings about unsafe injections?",
+    "options": ["To regulate drug prices", "To promote medical tourism", "To protect public health from infection risks", "To increase vaccination rates"],
+    "correctAnswer": "To protect public health from infection risks"
   },
   {
     "id": 11,
-    "question": "To which body did the Education Ministry convey its concerns about the leak-prone nature of paper examinations?",
-    "options": ["A) The Supreme Court", "B) The National Testing Agency (NTA)", "C) A Parliamentary panel", "D) State Education Ministers"],
-    "correctAnswer": "C) A Parliamentary panel"
+    "question": "What serious cybersecurity concern regarding CBSE has been raised by cyber activists recently?",
+    "options": ["Hacking of examination servers", "Exposure of student data", "Tampering of answer sheets", "Malfunctioning of the re-evaluation portal"],
+    "correctAnswer": "Exposure of student data"
   },
   {
     "id": 12,
-    "question": "How many new judges were recently appointed to the Supreme Court of India, as per the Law Ministry?",
-    "options": ["A) 3", "B) 5", "C) 7", "D) 9"],
-    "correctAnswer": "B) 5"
+    "question": "Who were the primary group to claim that CBSE student data has been exposed?",
+    "options": ["Government officials", "Educational consultants", "Cyber activists", "Parent associations"],
+    "correctAnswer": "Cyber activists"
   },
   {
     "id": 13,
-    "question": "What is the total strength of the Supreme Court, including the Chief Justice of India, after the recent appointments?",
-    "options": ["A) 32", "B) 34", "C) 37", "D) 39"],
-    "correctAnswer": "C) 37"
+    "question": "The term 'CBSE crisis' used in recent headlines largely refers to what issue?",
+    "options": ["Staffing shortages", "Financial irregularities", "Student data security breaches", "Examination paper leaks"],
+    "correctAnswer": "Student data security breaches"
   },
   {
     "id": 14,
-    "question": "Following the latest appointments, how many vacancies currently remain in the Supreme Court of India?",
-    "options": ["A) Zero", "B) One", "C) Two", "D) Three"],
-    "correctAnswer": "B) One"
+    "question": "What is a direct implication of the reported CBSE student data exposure for individuals?",
+    "options": ["Delay in results", "Compromise of personal privacy", "Increased tuition fees", "Changes in curriculum"],
+    "correctAnswer": "Compromise of personal privacy"
   },
   {
     "id": 15,
-    "question": "According to Piyush Goyal, what is the current stage of negotiations for the bilateral trade agreement between India and the US?",
-    "options": ["A) Just beginning", "B) Focusing on minor details like commas and full stops", "C) Stalled indefinitely", "D) Requiring a complete re-draft"],
-    "correctAnswer": "B) Focusing on minor details like commas and full stops"
+    "question": "The concerns about CBSE's student data security are primarily focused on the breach of what aspect?",
+    "options": ["Financial records", "Academic performance only", "Personal information and privacy", "School infrastructure details"],
+    "correctAnswer": "Personal information and privacy"
   },
   {
     "id": 16,
-    "question": "What is a key factor on which the finalization of the India-US trade treaty hinges, as mentioned in the news?",
-    "options": ["A) India's new export policies", "B) Clarity on the US tariff mechanism post-next month", "C) Changes in US leadership", "D) Bilateral investment treaties"],
-    "correctAnswer": "B) Clarity on the US tariff mechanism post-next month"
+    "question": "What directive did the Supreme Court recently issue regarding rape survivors' presence in court?",
+    "options": ["They must attend every hearing.", "They should not be repeatedly called for cross-examination.", "They must provide new evidence each time.", "They are required to face the accused directly."],
+    "correctAnswer": "They should not be repeatedly called for cross-examination."
   },
   {
     "id": 17,
-    "question": "What landmark ruling did the Supreme Court issue regarding temporary casual laborers in government departments?",
-    "options": ["A) They are not entitled to any benefits", "B) They are entitled to pensionary benefits upon superannuation", "C) They must be regularized to receive benefits", "D) They can only receive a one-time severance package"],
-    "correctAnswer": "B) They are entitled to pensionary benefits upon superannuation"
+    "question": "The Supreme Court highlighted that forcing rape survivors to repeatedly appear in court causes what?",
+    "options": ["Legal complications", "Procedural delays", "Unjustifiable hardship", "Financial burden"],
+    "correctAnswer": "Unjustifiable hardship"
   },
   {
     "id": 18,
-    "question": "What specific condition was highlighted by the Supreme Court's ruling regarding casual laborers receiving pensionary benefits?",
-    "options": ["A) They must have worked for at least 40 years", "B) They must be regularized before retirement", "C) They are entitled even without job regularization", "D) Their employment must be contractual"],
-    "correctAnswer": "C) They are entitled even without job regularization"
+    "question": "Which higher court's order was recently quashed by the Supreme Court to protect rape survivors from repeated court appearances?",
+    "options": ["District Court", "Sessions Court", "High Court", "Magistrate Court"],
+    "correctAnswer": "High Court"
   },
   {
     "id": 19,
-    "question": "Which ministry is reportedly cracking down on the CBSE due to a tender row?",
-    "options": ["A) Ministry of Finance", "B) Ministry of Home Affairs", "C) Ministry of Education", "D) Ministry of Health and Family Welfare"],
-    "correctAnswer": "C) Ministry of Education"
+    "question": "The Supreme Court's recent ruling aims to provide relief to victims of what specific category of crimes during legal proceedings?",
+    "options": ["Financial fraud", "Property disputes", "Heinous crimes, especially sexual offenses", "Traffic violations"],
+    "correctAnswer": "Heinous crimes, especially sexual offenses"
   },
   {
     "id": 20,
-    "question": "What is the specific nature of the controversy for which the Ministry of Education is cracking down on CBSE?",
-    "options": ["A) Exam paper leaks", "B) Fee structure issues", "C) OSM tender row", "D) Curriculum changes"],
-    "correctAnswer": "C) OSM tender row"
+    "question": "What is the primary concern addressed by the Supreme Court in ruling against repeated court appearances for rape survivors?",
+    "options": ["Overburdening the judiciary", "Causing undue distress to victims", "Eending trial durations", "Increasing legal costs"],
+    "correctAnswer": "Causing undue distress to victims"
   },
   {
     "id": 21,
-    "question": "What is the primary reason cited for the government's reduced Kharif fertiliser demand estimate?",
-    "options": ["A) Increase in organic farming", "B) Weak monsoon outlook", "C) Surge in fertiliser prices", "D) Surplus stock from previous season"],
-    "correctAnswer": "B) Weak monsoon outlook"
+    "question": "According to recent data, what percentage of Indian women are now using the internet?",
+    "options": ["32%", "48%", "64%", "80%"],
+    "correctAnswer": "64%"
   },
   {
     "id": 22,
-    "question": "For which cropping season has the Indian government reduced its fertiliser demand estimate?",
-    "options": ["A) Rabi", "B) Kharif", "C) Zaid", "D) Perennial"],
-    "correctAnswer": "B) Kharif"
+    "question": "In approximately how many years has internet usage among Indian women reportedly doubled?",
+    "options": ["2 years", "4 years", "6 years", "8 years"],
+    "correctAnswer": "4 years"
   },
   {
     "id": 23,
-    "question": "Despite the weak monsoon outlook and reduced fertiliser demand, what has the government assured regarding essential food items?",
-    "options": ["A) India will need to import more food", "B) There are ample stocks of rice, wheat, and pulses", "C) Food prices will significantly increase", "D) Farmers will receive higher subsidies"],
-    "correctAnswer": "B) There are ample stocks of rice, wheat, and pulses"
+    "question": "Besides increased internet usage, what other area has seen a significant rise for Indian women according to the survey?",
+    "options": ["Political representation", "Entrepreneurship", "Preschool attendance and years of schooling", "Healthcare access"],
+    "correctAnswer": "Preschool attendance and years of schooling"
   },
   {
     "id": 24,
-    "question": "Which two countries from West Asia are expected to join the BRICS cultural meet amidst regional tensions?",
-    "options": ["A) Saudi Arabia and Qatar", "B) Turkey and Egypt", "C) Iran and UAE", "D) Israel and Jordan"],
-    "correctAnswer": "C) Iran and UAE"
+    "question": "What persistent disparity was highlighted in female school attendance despite national progress?",
+    "options": ["Income-based disparity", "Urban-rural disparity", "Age-group disparity", "Caste-based disparity"],
+    "correctAnswer": "Urban-rural disparity"
   },
   {
     "id": 25,
-    "question": "The expected participation of Iran and UAE in the BRICS cultural meet is highlighted in the context of what broader regional situation?",
-    "options": ["A) Economic prosperity in West Asia", "B) Cultural exchange initiatives", "C) West Asia tensions", "D) New trade agreements"],
-    "correctAnswer": "C) West Asia tensions"
+    "question": "The recent survey indicates a notable shift for Indian women primarily in which two key areas?",
+    "options": ["Employment and income", "Digital access and education", "Health and nutrition", "Travel and leisure"],
+    "correctAnswer": "Digital access and education"
   }
 ]

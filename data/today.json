@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What new online facility has CBSE recently launched for students regarding their answer sheets?",
-    "options": ["Online admission forms", "Online re-evaluation portal", "Online exam registration", "Online certificate verification"],
-    "correctAnswer": "Online re-evaluation portal"
+    "question": "What was India's clear message to Nepal regarding calls for intervention by UK and China?",
+    "options": [
+      "'No role for third parties'",
+      "'Mediation is welcome'",
+      "'International cooperation is key'",
+      "'Dialogue with all stakeholders'"
+    ],
+    "correctAnswer": "'No role for third parties'"
   },
   {
     "id": 2,
-    "question": "What is a primary objective of the new online portal launched by CBSE for re-evaluations?",
-    "options": ["To reduce administrative staff", "To increase exam fees", "To enhance transparency in mark checking", "To introduce new subjects"],
-    "correctAnswer": "To enhance transparency in mark checking"
+    "question": "Which country's Prime Minister called for UK and China intervention, prompting India's clear message?",
+    "options": [
+      "Sri Lanka",
+      "Bangladesh",
+      "Nepal",
+      "Bhutan"
+    ],
+    "correctAnswer": "Nepal"
   },
   {
     "id": 3,
-    "question": "What specific controversy prompted the Education Ministry's investigation into CBSE's marking processes?",
-    "options": ["Teacher salary disputes", "On-screen marking (OSM) tender", "Curriculum changes", "School affiliation issues"],
-    "correctAnswer": "On-screen marking (OSM) tender"
+    "question": "Who recently hosted Nepal's ruling party chief Rabi Lamichhane in India?",
+    "options": [
+      "Congress President",
+      "BJP President Nitin Nabin",
+      "External Affairs Minister",
+      "Prime Minister Narendra Modi"
+    ],
+    "correctAnswer": "BJP President Nitin Nabin"
   },
   {
     "id": 4,
-    "question": "What kind of support does CBSE provide for students using its new online re-evaluation portal?",
-    "options": ["A dedicated helpline number", "An informative video guide", "Live chat support", "Physical guidance centers"],
-    "correctAnswer": "An informative video guide"
+    "question": "Which Indian political party's president hosted Nepal's ruling party chief Rabi Lamichhane?",
+    "options": [
+      "Indian National Congress",
+      "Bharatiya Janata Party (BJP)",
+      "Aam Aadmi Party (AAP)",
+      "Communist Party of India (Marxist)"
+    ],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 5,
-    "question": "Which government body has been investigating potential discrepancies in CBSE's on-screen marking and cybersecurity matters?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Education Ministry", "Ministry of Health"],
-    "correctAnswer": "Education Ministry"
+    "question": "What central education board recently faced a 'debacle' leading to leadership transfers and a probe?",
+    "options": [
+      "ICSE",
+      "CBSE",
+      "NIOS",
+      "State Boards of Education"
+    ],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 6,
-    "question": "Which national health regulatory body recently issued a warning about the risks of HIV and hepatitis from unsafe injections?",
-    "options": ["AIIMS", "ICMR", "NMC", "NITI Aayog"],
-    "correctAnswer": "NMC"
+    "question": "What services related to CBSE are being probed for procurement irregularities following a recent 'debacle'?",
+    "options": [
+      "Examination Paper Setting services",
+      "Online Mark Submission (OSM) services",
+      "Teacher Training services",
+      "Infrastructure Development services"
+    ],
+    "correctAnswer": "Online Mark Submission (OSM) services"
   },
   {
     "id": 7,
-    "question": "What two specific health risks were highlighted by the NMC concerning unsafe injection practices?",
-    "options": ["Malaria and Dengue", "Tuberculosis and Pneumonia", "HIV and Hepatitis", "Typhoid and Cholera"],
-    "correctAnswer": "HIV and Hepatitis"
+    "question": "Who were transferred by the Centre following the CBSE debacle?",
+    "options": [
+      "The entire board of directors",
+      "Only the Chairman",
+      "Chairman and Secretary",
+      "All regional officers"
+    ],
+    "correctAnswer": "Chairman and Secretary"
   },
   {
     "id": 8,
-    "question": "The NMC's recent public health warning primarily targets which unsafe medical practice?",
-    "options": ["Unsafe blood transfusions", "Unsafe surgical procedures", "Unsafe disposal of medical waste", "Unsafe injection practices"],
-    "correctAnswer": "Unsafe injection practices"
+    "question": "What kind of attack did the CBSE re-verification portal recently face?",
+    "options": [
+      "Technical Glitch",
+      "Power Outage",
+      "Cyberattack",
+      "System Overload"
+    ],
+    "correctAnswer": "Cyberattack"
   },
   {
     "id": 9,
-    "question": "The NMC's warning against unsafe injections aims to mitigate the spread of which type of diseases?",
-    "options": ["Airborne diseases", "Waterborne diseases", "Vector-borne diseases", "Bloodborne diseases"],
-    "correctAnswer": "Bloodborne diseases"
+    "question": "What is the name of the central board whose re-verification portal faced a cyberattack?",
+    "options": [
+      "UPSC",
+      "NTA",
+      "CBSE",
+      "SSC"
+    ],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 10,
-    "question": "What is the main objective of the National Medical Commission (NMC) in issuing warnings about unsafe injections?",
-    "options": ["To regulate drug prices", "To promote medical tourism", "To protect public health from infection risks", "To increase vaccination rates"],
-    "correctAnswer": "To protect public health from infection risks"
+    "question": "What action did the Centre take regarding the chairman and secretary of CBSE after the recent issues?",
+    "options": [
+      "Awarded them for efficiency",
+      "Extended their tenure",
+      "Transferred them",
+      "Sent them for international training"
+    ],
+    "correctAnswer": "Transferred them"
   },
   {
     "id": 11,
-    "question": "What serious cybersecurity concern regarding CBSE has been raised by cyber activists recently?",
-    "options": ["Hacking of examination servers", "Exposure of student data", "Tampering of answer sheets", "Malfunctioning of the re-evaluation portal"],
-    "correctAnswer": "Exposure of student data"
+    "question": "A panel has been formed to probe the procurement of what specific services for CBSE?",
+    "options": [
+      "Transportation services",
+      "OSM (Online Mark Submission) services",
+      "Counseling services",
+      "Printing services"
+    ],
+    "correctAnswer": "OSM (Online Mark Submission) services"
   },
   {
     "id": 12,
-    "question": "Who were the primary group to claim that CBSE student data has been exposed?",
-    "options": ["Government officials", "Educational consultants", "Cyber activists", "Parent associations"],
-    "correctAnswer": "Cyber activists"
+    "question": "The recent CBSE issues involved the transfer of its chairman and which other key official?",
+    "options": [
+      "Vice-Chairman",
+      "Registrar",
+      "Secretary",
+      "Chief Financial Officer"
+    ],
+    "correctAnswer": "Secretary"
   },
   {
     "id": 13,
-    "question": "The term 'CBSE crisis' used in recent headlines largely refers to what issue?",
-    "options": ["Staffing shortages", "Financial irregularities", "Student data security breaches", "Examination paper leaks"],
-    "correctAnswer": "Student data security breaches"
+    "question": "Which country's acting president is scheduled to visit India from June 3?",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Venezuela"
+    ],
+    "correctAnswer": "Venezuela"
   },
   {
     "id": 14,
-    "question": "What is a direct implication of the reported CBSE student data exposure for individuals?",
-    "options": ["Delay in results", "Compromise of personal privacy", "Increased tuition fees", "Changes in curriculum"],
-    "correctAnswer": "Compromise of personal privacy"
+    "question": "What is the name of Venezuela's acting president visiting India?",
+    "options": [
+      "Nicolas Maduro",
+      "Juan Guaido",
+      "Delcy Rodriguez",
+      "Diosdado Cabello"
+    ],
+    "correctAnswer": "Delcy Rodriguez"
   },
   {
     "id": 15,
-    "question": "The concerns about CBSE's student data security are primarily focused on the breach of what aspect?",
-    "options": ["Financial records", "Academic performance only", "Personal information and privacy", "School infrastructure details"],
-    "correctAnswer": "Personal information and privacy"
+    "question": "On what date is Venezuela's acting president Delcy Rodriguez scheduled to visit India?",
+    "options": [
+      "May 28",
+      "June 3",
+      "July 15",
+      "August 1"
+    ],
+    "correctAnswer": "June 3"
   },
   {
     "id": 16,
-    "question": "What directive did the Supreme Court recently issue regarding rape survivors' presence in court?",
-    "options": ["They must attend every hearing.", "They should not be repeatedly called for cross-examination.", "They must provide new evidence each time.", "They are required to face the accused directly."],
-    "correctAnswer": "They should not be repeatedly called for cross-examination."
+    "question": "Which South American nation's leader is visiting India from June 3?",
+    "options": [
+      "Chile",
+      "Peru",
+      "Ecuador",
+      "Venezuela"
+    ],
+    "correctAnswer": "Venezuela"
   },
   {
     "id": 17,
-    "question": "The Supreme Court highlighted that forcing rape survivors to repeatedly appear in court causes what?",
-    "options": ["Legal complications", "Procedural delays", "Unjustifiable hardship", "Financial burden"],
-    "correctAnswer": "Unjustifiable hardship"
+    "question": "Delcy Rodriguez, acting president of Venezuela, is visiting which country?",
+    "options": [
+      "China",
+      "Russia",
+      "India",
+      "South Africa"
+    ],
+    "correctAnswer": "India"
   },
   {
     "id": 18,
-    "question": "Which higher court's order was recently quashed by the Supreme Court to protect rape survivors from repeated court appearances?",
-    "options": ["District Court", "Sessions Court", "High Court", "Magistrate Court"],
-    "correctAnswer": "High Court"
+    "question": "India recently objected to a joint statement made by which two entities concerning Jammu & Kashmir?",
+    "options": [
+      "UN and USA",
+      "China and Pakistan",
+      "Pakistan and EU",
+      "Russia and SCO"
+    ],
+    "correctAnswer": "Pakistan and EU"
   },
   {
     "id": 19,
-    "question": "The Supreme Court's recent ruling aims to provide relief to victims of what specific category of crimes during legal proceedings?",
-    "options": ["Financial fraud", "Property disputes", "Heinous crimes, especially sexual offenses", "Traffic violations"],
-    "correctAnswer": "Heinous crimes, especially sexual offenses"
+    "question": "What specific region's reference in a Pak-EU joint statement did India deem 'unwarranted'?",
+    "options": [
+      "Punjab",
+      "Gujarat",
+      "Jammu & Kashmir",
+      "North-East India"
+    ],
+    "correctAnswer": "Jammu & Kashmir"
   },
   {
     "id": 20,
-    "question": "What is the primary concern addressed by the Supreme Court in ruling against repeated court appearances for rape survivors?",
-    "options": ["Overburdening the judiciary", "Causing undue distress to victims", "Eending trial durations", "Increasing legal costs"],
-    "correctAnswer": "Causing undue distress to victims"
+    "question": "How did India describe the reference to Jammu & Kashmir in the recent Pak-EU joint statement?",
+    "options": [
+      "Acceptable",
+      "Neutral",
+      "Constructive",
+      "Unwarranted"
+    ],
+    "correctAnswer": "Unwarranted"
   },
   {
     "id": 21,
-    "question": "According to recent data, what percentage of Indian women are now using the internet?",
-    "options": ["32%", "48%", "64%", "80%"],
-    "correctAnswer": "64%"
+    "question": "Which international body, alongside Pakistan, issued a joint statement criticized by India for its J&K reference?",
+    "options": [
+      "African Union",
+      "ASEAN",
+      "European Union",
+      "G7"
+    ],
+    "correctAnswer": "European Union"
   },
   {
     "id": 22,
-    "question": "In approximately how many years has internet usage among Indian women reportedly doubled?",
-    "options": ["2 years", "4 years", "6 years", "8 years"],
-    "correctAnswer": "4 years"
+    "question": "India's strong reaction was against a joint statement that mentioned J&K, issued by Pakistan and which other entity?",
+    "options": [
+      "United Kingdom",
+      "United States",
+      "European Union",
+      "Saudi Arabia"
+    ],
+    "correctAnswer": "European Union"
   },
   {
     "id": 23,
-    "question": "Besides increased internet usage, what other area has seen a significant rise for Indian women according to the survey?",
-    "options": ["Political representation", "Entrepreneurship", "Preschool attendance and years of schooling", "Healthcare access"],
-    "correctAnswer": "Preschool attendance and years of schooling"
+    "question": "The interaction between BJP president Nitin Nabin and Nepal ruling party chief Rabi Lamichhane was described as what?",
+    "options": [
+      "A formal debate",
+      "A meaningful interaction",
+      "A brief exchange",
+      "A contentious discussion"
+    ],
+    "correctAnswer": "A meaningful interaction"
   },
   {
     "id": 24,
-    "question": "What persistent disparity was highlighted in female school attendance despite national progress?",
-    "options": ["Income-based disparity", "Urban-rural disparity", "Age-group disparity", "Caste-based disparity"],
-    "correctAnswer": "Urban-rural disparity"
+    "question": "Which central entity is probing the procurement of OSM services following the CBSE 'debacle'?",
+    "options": [
+      "A High Court",
+      "The Central Government",
+      "A State Education Ministry",
+      "An independent NGO"
+    ],
+    "correctAnswer": "The Central Government"
   },
   {
     "id": 25,
-    "question": "The recent survey indicates a notable shift for Indian women primarily in which two key areas?",
-    "options": ["Employment and income", "Digital access and education", "Health and nutrition", "Travel and leisure"],
-    "correctAnswer": "Digital access and education"
+    "question": "The news about the CBSE debacle and cyberattack on its re-verification portal is significant for students in Telangana and Andhra Pradesh as it impacts:",
+    "options": [
+      "Only students studying in Delhi",
+      "All students across India, including those in Telangana and Andhra Pradesh, who take CBSE exams",
+      "Only students in private schools",
+      "Only students appearing for state board exams"
+    ],
+    "correctAnswer": "All students across India, including those in Telangana and Andhra Pradesh, who take CBSE exams"
   }
 ]

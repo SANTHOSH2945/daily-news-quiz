@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What primary sector in states like Telangana and Andhra Pradesh faces a severe threat due to the rapidly developing El Nino phenomenon, as per the WMO alert?",
-    "options": ["Agriculture", "Information Technology", "Manufacturing", "Tourism"],
-    "correctAnswer": "Agriculture"
+    "question": "What national agency's NEETUG portal vulnerabilities were recently flagged by a cybersecurity researcher, impacting students including those from Telangana and Andhra Pradesh?",
+    "options": ["UPSC", "SSC", "NTA", "JEE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 2,
-    "question": "The World Meteorological Organization (WMO) has issued an alert regarding El Nino. What is the approximate likelihood of its formation, impacting India's monsoon and states like AP and Telangana?",
-    "options": ["20%", "50%", "80%", "100%"],
-    "correctAnswer": "80%"
+    "question": "Who identified the security flaw in the National Testing Agency's (NTA) NEETUG portal, an issue affecting students across India including Telangana and Andhra Pradesh?",
+    "options": ["A government cybersecurity expert", "A 16-year-old cybersecurity researcher", "An international hacking group", "The NTA internal audit team"],
+    "correctAnswer": "A 16-year-old cybersecurity researcher"
   },
   {
     "id": 3,
-    "question": "Until at least which month are moderate to strong El Nino conditions expected to continue, potentially impacting the entire four-month monsoon season in states like Andhra Pradesh and Telangana?",
-    "options": ["August", "September", "October", "November"],
-    "correctAnswer": "November"
+    "question": "The NTA portal vulnerability, as reported in the news, could have exposed what kind of sensitive information for examination candidates, including those in Telangana and Andhra Pradesh?",
+    "options": ["Financial transaction details", "Sensitive examination-related data", "Medical records of candidates", "Personal social media accounts"],
+    "correctAnswer": "Sensitive examination-related data"
   },
   {
     "id": 4,
-    "question": "A weakened monsoon due to El Nino, as warned by the WMO, would most significantly impact which major agricultural activity in states such as Telangana and Andhra Pradesh?",
-    "options": ["Winter harvesting", "Rabi crop planting", "Summer sowing", "Horticultural exports"],
-    "correctAnswer": "Summer sowing"
+    "question": "Besides the NTA portal, which other prominent national education website faced a wave of cyber attacks, causing concern among students and parents across India, including in Telangana and Andhra Pradesh?",
+    "options": ["UGC website", "AICTE portal", "CBSE website", "NCERT portal"],
+    "correctAnswer": "CBSE website"
   },
   {
     "id": 5,
-    "question": "Besides threatening to weaken India's monsoon, El Nino is also raising odds for what global phenomenon, which could have ripple effects on regional climate patterns in India?",
-    "options": ["Decrease in global temperatures", "Increase in global extreme weather risks", "Expansion of polar ice caps", "Stable oceanic currents"],
-    "correctAnswer": "Increase in global extreme weather risks"
+    "question": "Which political party criticized the government's response to the CBSE controversy, demanding the sacking of the Education Minister, thereby echoing concerns from students and parents in states like Telangana and Andhra Pradesh?",
+    "options": ["BJP", "Aam Aadmi Party", "Congress", "Trinamool Congress"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 6,
-    "question": "As per the new Urban Congestion Policy, what is a mandatory financial condition for states like Telangana and Andhra Pradesh to avail Central funding for urban decongestion projects on national highways?",
-    "options": ["Projects must be completed within 12 months", "States must contribute financially", "Projects must use imported materials", "Projects must include smart city features"],
-    "correctAnswer": "States must contribute financially"
+    "question": "The Congress party demanded the sacking of which Union Minister over the CBSE controversy, citing an 'inept and incompetent ecosystem' affecting students in all states including Telangana and Andhra Pradesh?",
+    "options": ["Nirmala Sitharaman", "Piyush Goyal", "Dharmendra Pradhan", "Amit Shah"],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 7,
-    "question": "What specific design feature is mandated for Ring Road and Bypass projects funded under the new Urban Congestion Policy, affecting infrastructure development in cities within states like AP and Telangana?",
-    "options": ["Single-lane roads", "Non-motorized vehicle priority lanes", "Fully access-controlled, 4-lane corridors", "Open tolling system"],
-    "correctAnswer": "Fully access-controlled, 4-lane corridors"
+    "question": "The recent controversies affecting national examination bodies like CBSE and NTA are of particular concern to students and educational stakeholders in states such as Telangana and Andhra Pradesh due to their impact on what?",
+    "options": ["The availability of study materials", "The integrity and fairness of national examinations", "The cost of application fees", "The number of available exam centers"],
+    "correctAnswer": "The integrity and fairness of national examinations"
   },
   {
     "id": 8,
-    "question": "Which of the following is an accepted mechanism for states, including Andhra Pradesh and Telangana, to contribute financially to Centre-funded urban decongestion projects?",
-    "options": ["Issuing new state bonds", "Land acquisition cost sharing", "Charging higher taxes", "Diverting education funds"],
-    "correctAnswer": "Land acquisition cost sharing"
+    "question": "Which company reportedly edged past TCS in the technical evaluation for a CBSE-related tender amidst recent controversies, impacting the technology infrastructure used for exams nationwide, including for students from Telangana and Andhra Pradesh?",
+    "options": ["Infosys", "Wipro", "Coempt", "HCLTech"],
+    "correctAnswer": "Coempt"
   },
   {
     "id": 9,
-    "question": "The new Urban Congestion Policy specifies a particular type of tolling for its funded projects. What is this type of tolling, relevant for new infrastructure in states like AP/Telangana?",
-    "options": ["Open tolling", "Manual tolling", "Closed tolling", "Fixed-rate tolling"],
-    "correctAnswer": "Closed tolling"
+    "question": "The scrutiny around the CBSE debacle includes an examination of the 'tender design' for technical evaluations. This process affects the delivery of services for national exams that students from states like Telangana and Andhra Pradesh participate in. What was the core of this technical evaluation?",
+    "options": ["Curriculum development", "Teacher training programs", "Vendor selection for examination technology", "School infrastructure grants"],
+    "correctAnswer": "Vendor selection for examination technology"
   },
   {
     "id": 10,
-    "question": "What is the primary focus of the new Urban Congestion Policy that mandates states like Telangana and Andhra Pradesh to contribute funds for Ring Road and Bypass projects?",
-    "options": ["Rural development", "Border security", "Urban decongestion", "Coastal area protection"],
-    "correctAnswer": "Urban decongestion"
+    "question": "Amidst the NTA portal vulnerabilities, what type of sensitive data was specifically mentioned as being at risk for students taking national exams, including those from Telangana and Andhra Pradesh?",
+    "options": ["Personal health records", "Financial account numbers", "Examination-related information", "Residential addresses"],
+    "correctAnswer": "Examination-related information"
   },
   {
     "id": 11,
-    "question": "In May, which country retained its position as the largest crude oil supplier to India, a factor influencing energy security and prices in states like AP and Telangana?",
-    "options": ["Saudi Arabia", "Iraq", "Russia", "USA"],
-    "correctAnswer": "Russia"
+    "question": "A proposed scheme to phase out which category of vehicles is likely to get cabinet approval, potentially impacting commercial transport and environmental standards in states like Telangana and Andhra Pradesh?",
+    "options": ["BS-III passenger cars", "BS-IV two-wheelers", "BS-IV trucks and buses", "BS-VI passenger cars"],
+    "correctAnswer": "BS-IV trucks and buses"
   },
   {
     "id": 12,
-    "question": "Which nation emerged as the second-largest crude supplier to India in May, contributing to the diversified energy portfolio of the country, benefiting states like Telangana and Andhra Pradesh?",
-    "options": ["UAE", "Kuwait", "Nigeria", "Venezuela"],
-    "correctAnswer": "UAE"
+    "question": "The scheme to phase out BS-IV trucks and buses is aimed at promoting which environmental objective across India, including Telangana and Andhra Pradesh?",
+    "options": ["Increasing fuel consumption", "Reducing vehicular pollution", "Promoting diesel engines", "Expanding highway infrastructure"],
+    "correctAnswer": "Reducing vehicular pollution"
   },
   {
     "id": 13,
-    "question": "What largely helped India meet its LPG demand in May, despite disruptions in imports from West Asia, benefiting households and industries in states like AP and Telangana?",
-    "options": ["Reduced domestic demand", "Higher inflows from the US and domestic production", "Increased imports from China", "Emergency reserves from Europe"],
-    "correctAnswer": "Higher inflows from the US and domestic production"
+    "question": "If approved, the phasing out of BS-IV trucks and buses would require commercial operators in states like Telangana and Andhra Pradesh to upgrade their fleet to vehicles complying with which higher emission standard?",
+    "options": ["BS-I", "BS-II", "BS-V", "BS-VI"],
+    "correctAnswer": "BS-VI"
   },
   {
     "id": 14,
-    "question": "How did India's crude oil and LPG supplies in May compare to pre-conflict levels, despite an improvement from earlier months, affecting overall economic stability in states like AP and Telangana?",
-    "options": ["Significantly above pre-conflict levels", "Exactly at pre-conflict levels", "Not yet at pre-conflict levels", "Irrelevant to pre-conflict levels"],
-    "correctAnswer": "Not yet at pre-conflict levels"
+    "question": "Which government body is expected to give its nod for the scheme to phase out BS-IV trucks and buses, a policy that will have implications for logistics and transportation in states like Telangana and Andhra Pradesh?",
+    "options": ["Niti Aayog", "The Supreme Court", "The Union Cabinet", "The Ministry of Road Transport and Highways"],
+    "correctAnswer": "The Union Cabinet"
   },
   {
     "id": 15,
-    "question": "Disruptions in crude and LPG supplies to India during March and April, prior to May's improvement, were primarily linked to issues in which region, impacting fuel availability in states including AP and Telangana?",
-    "options": ["South America", "East Asia", "West Asia", "North Africa"],
-    "correctAnswer": "West Asia"
+    "question": "The potential phasing out of BS-IV trucks and buses across India, including Telangana and Andhra Pradesh, reflects a national push towards what kind of vehicles?",
+    "options": ["Slower and heavier vehicles", "Less fuel-efficient vehicles", "More environmentally friendly vehicles", "Vehicles with manual transmissions"],
+    "correctAnswer": "More environmentally friendly vehicles"
   },
   {
     "id": 16,
-    "question": "What factor primarily contributed to the increased costs for beverage companies in India this summer, affecting pricing for consumers in states like AP and Telangana?",
-    "options": ["Increased marketing budgets", "Rising costs for cans and glass bottles", "Decreased consumer demand", "New government taxes on beverages"],
-    "correctAnswer": "Rising costs for cans and glass bottles"
+    "question": "Who is scheduled to chair the Niti Aayog governing council meeting on June 11, a crucial forum that includes Chief Ministers from states like Telangana and Andhra Pradesh?",
+    "options": ["The Vice President of India", "The Union Finance Minister", "The Speaker of Lok Sabha", "Prime Minister Narendra Modi"],
+    "correctAnswer": "Prime Minister Narendra Modi"
   },
   {
     "id": 17,
-    "question": "What percentage price hike is anticipated for packaging materials, such as aluminium cans and glass bottles, impacting the beverage industry and consumers in states like Andhra Pradesh and Telangana?",
-    "options": ["5-10%", "15-20%", "25-30%", "Over 30%"],
-    "correctAnswer": "15-20%"
+    "question": "The Niti Aayog governing council meeting on June 11 will review deliberations and actions taken on reforms aimed at boosting which key economic areas for India, including contributions from states like Telangana and Andhra Pradesh?",
+    "options": ["Agricultural subsidies and exports", "Manufacturing and self-reliance", "IT services and software exports", "Tourism and hospitality sector"],
+    "correctAnswer": "Manufacturing and self-reliance"
   },
   {
     "id": 18,
-    "question": "Which specific beverage product's 300 ml can is anticipated to see a price increase of Rs 10 due to rising packaging costs, as projected by distributors in the Indian market, affecting states like AP and Telangana?",
-    "options": ["Pepsi", "Sprite", "Thums Up", "Diet Coke"],
-    "correctAnswer": "Diet Coke"
+    "question": "Who are the key state-level representatives from Telangana and Andhra Pradesh who are members of the Niti Aayog governing council, ensuring their states' perspectives are heard in national policy discussions?",
+    "options": ["Chief Secretaries", "Governors", "Chief Ministers", "Finance Ministers"],
+    "correctAnswer": "Chief Ministers"
   },
   {
     "id": 19,
-    "question": "Supply disruptions from which region were identified as a cause for the increased costs of aluminium cans, impacting beverage manufacturers operating in states across India, including AP and Telangana?",
-    "options": ["East Asia", "West Asia", "North America", "Europe"],
-    "correctAnswer": "West Asia"
+    "question": "The Niti Aayog governing council meeting is crucial for states like Telangana and Andhra Pradesh as it focuses on reviewing what kind of actions taken on reforms?",
+    "options": ["Judicial appointments", "Defense modernization plans", "Chief secretaries' deliberations and reforms", "Foreign policy initiatives"],
+    "correctAnswer": "Chief secretaries' deliberations and reforms"
   },
   {
     "id": 20,
-    "question": "Besides supply disruptions for aluminium cans, what other rising cost contributed to the overall increase in packaging prices for the beverage industry, impacting businesses and consumers in states like AP and Telangana?",
-    "options": ["Increased sugar prices", "Higher transport tariffs", "Increased LPG costs", "Higher labor wages"],
-    "correctAnswer": "Increased LPG costs"
+    "question": "What external economic pressures are mentioned as impacting the rupee and raw material prices, forming part of the broader economic discussions at the Niti Aayog meeting, relevant to states like Telangana and Andhra Pradesh?",
+    "options": ["Trade wars with China", "Conflict in West Asia", "Global stock market crash", "Brexit implications"],
+    "correctAnswer": "Conflict in West Asia"
   },
   {
     "id": 21,
-    "question": "According to the MHA's new tightened rules, foreign nationals on a 180-day visa must now register their stay in India by when, impacting expatriates and officials in states like AP and Telangana?",
-    "options": ["Within 14 days of arrival", "After 90 days of arrival", "Before their visa expires", "Only if staying more than 180 days"],
-    "correctAnswer": "Before their visa expires"
+    "question": "The Niti Aayog governing council meeting discusses national policy and economic development strategies. How do these discussions directly involve and impact states like Telangana and Andhra Pradesh?",
+    "options": ["Only through federal grants", "Primarily through central directives", "Through the participation of their Chief Ministers and the implementation of national policies", "Exclusively via parliamentary debates"],
+    "correctAnswer": "Through the participation of their Chief Ministers and the implementation of national policies"
   },
   {
     "id": 22,
-    "question": "For foreigners in India seeking extensions for stays exceeding 180 days, under what kind of situations are these extensions strictly permitted by the MHA, affecting foreign residents in states like AP and Telangana?",
-    "options": ["Tourist purposes", "Business meetings", "Educational pursuits", "Emergent situations"],
-    "correctAnswer": "Emergent situations"
+    "question": "The recent restructuring of Niti Aayog precedes the governing council meeting. This body plays a key role in policy formulation and cooperation between the Centre and states, including Telangana and Andhra Pradesh, in what area?",
+    "options": ["Military defense strategy", "National security intelligence", "Economic and social development planning", "Space exploration programs"],
+    "correctAnswer": "Economic and social development planning"
   },
   {
     "id": 23,
-    "question": "As per the MHA's new rules, what is the maximum duration for a single extension permitted beyond the initial 180-day limit for foreigners, relevant to administrative processes in states like AP/Telangana?",
-    "options": ["30 days", "60 days", "90 days", "No single extension is permitted beyond the initial 180-day limit"],
-    "correctAnswer": "No single extension is permitted beyond the initial 180-day limit"
+    "question": "Discussions at the Niti Aayog Governing Council, attended by the Chief Ministers of Telangana and Andhra Pradesh, are expected to cover reforms promoting what national initiative, aimed at reducing dependence on imports?",
+    "options": ["Digital India", "Swachh Bharat Abhiyan", "'Atmanirbhar Bharat' or Self-reliant India", "Make in India"],
+    "correctAnswer": "'Atmanirbhar Bharat' or Self-reliant India"
   },
   {
     "id": 24,
-    "question": "Which central ministry is responsible for announcing the tightened rules for foreigners extending their stay in India, affecting regulatory bodies in states like AP and Telangana?",
-    "options": ["Ministry of External Affairs", "Ministry of Finance", "Ministry of Home Affairs (MHA)", "Ministry of Tourism"],
-    "correctAnswer": "Ministry of Home Affairs (MHA)"
+    "question": "The agenda for the Niti Aayog Governing Council meeting includes reviewing Chief Secretaries' deliberations regarding reforms. This implies that the Chief Secretaries of which states, including Telangana and Andhra Pradesh, would have contributed to these discussions?",
+    "options": ["Only Union Territories", "Only BJP-ruled states", "All Indian states and UTs", "Only states with high GDP"],
+    "correctAnswer": "All Indian states and UTs"
   },
   {
     "id": 25,
-    "question": "The Central Consumer Protection Authority (CCPA) penalized PhysicsWallah for employing 'dark patterns'. What was one of the key 'dark patterns' identified, impacting consumers in states like AP and Telangana?",
-    "options": ["Offering too many free courses", "Auto-selecting donations during checkout", "Providing excessive customer support", "Overly transparent pricing"],
-    "correctAnswer": "Auto-selecting donations during checkout"
+    "question": "By addressing reforms to boost manufacturing and self-reliance, the Niti Aayog meeting seeks to foster economic growth. How would successful implementation of these reforms benefit states such as Telangana and Andhra Pradesh?",
+    "options": ["By increasing military expenditure", "By attracting investment, creating jobs, and improving state economies", "By reducing the state's political autonomy", "By centralizing all economic decision-making"],
+    "correctAnswer": "By attracting investment, creating jobs, and improving state economies"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian government entity recently flagged a significant number of user accounts for suspicious activity related to ticket booking fraud?",
-    "options": ["Indian Railways", "IRCTC", "RailTel", "Ministry of Railways"],
-    "correctAnswer": "IRCTC"
+    "question": "What recent stance has the Supreme Court taken regarding police officers found abusing their authority in India?",
+    "options": ["They should be treated with leniency.", "Normal presumptions for accused individuals will apply.", "They must face strict consequences.", "Their cases should be referred to state police boards only."],
+    "correctAnswer": "They must face strict consequences."
   },
   {
     "id": 2,
-    "question": "How many suspicious user IDs did IRCTC deactivate to combat ticket booking fraud?",
-    "options": ["Approximately 1 crore", "Over 2 crore", "More than 3 crore", "Around 5 crore"],
-    "correctAnswer": "More than 3 crore"
+    "question": "According to the Supreme Court's recent directive, applicable across India including Telangana and Andhra Pradesh, what is the consequence for police officers abusing their position, specifically concerning anticipatory bail?",
+    "options": ["They are automatically granted anticipatory bail.", "Anticipatory bail can be cancelled for them.", "Anticipatory bail remains unaffected.", "Only regular bail is applicable to them."],
+    "correctAnswer": "Anticipatory bail can be cancelled for them."
   },
   {
     "id": 3,
-    "question": "What number of user accounts were verified by IRCTC after being flagged, ensuring their legitimacy?",
-    "options": ["2 crore", "4 crore", "6 crore", "8 crore"],
-    "correctAnswer": "6 crore"
+    "question": "The Supreme Court emphasized that normal presumptions for accused individuals do not apply to whom, in cases of abuse of authority?",
+    "options": ["Civilian protestors", "Elected representatives", "Police officers abusing their position", "Judicial officials"],
+    "correctAnswer": "Police officers abusing their position"
   },
   {
     "id": 4,
-    "question": "What technology is IRCTC expanding to monitor food quality in railway kitchens across India, including those serving Telangana and Andhra Pradesh?",
-    "options": ["Biometric scanning", "AI-powered monitoring system", "GPS tracking", "Manual inspection teams"],
-    "correctAnswer": "AI-powered monitoring system"
+    "question": "A recent Supreme Court ruling highlighted the need for stern action against police officers abusing authority. This ruling applies across all Indian states, including Telangana and Andhra Pradesh. What specific form of relief was denied to accused police officers in a related case mentioned in the news?",
+    "options": ["Regular bail", "Parole", "Anticipatory bail", "Judicial custody"],
+    "correctAnswer": "Anticipatory bail"
   },
   {
     "id": 5,
-    "question": "How many cameras are being utilized in IRCTC's AI-powered kitchen monitoring system to oversee railway kitchens?",
-    "options": ["Under 1,000", "Around 1,500", "Over 2,300", "More than 3,000"],
-    "correctAnswer": "Over 2,300"
+    "question": "What was the recent Supreme Court ruling regarding individuals with qualifications exceeding the maximum prescribed for a job?",
+    "options": ["They must be given preference.", "They can be disqualified from the job.", "Their qualifications are irrelevant.", "They can only apply for higher positions."],
+    "correctAnswer": "They can be disqualified from the job."
   },
   {
     "id": 6,
-    "question": "The IRCTC AI monitoring system is deployed across how many railway kitchens to detect hygiene issues?",
-    "options": ["Approximately 200", "Around 500", "Over 800", "More than 1,000"],
-    "correctAnswer": "Over 800"
+    "question": "The Supreme Court's decision to allow barring overqualified persons from jobs aims to ensure employment opportunities for which group?",
+    "options": ["Candidates with advanced degrees", "Those with lower educational attainment", "Experienced professionals", "Foreign-educated individuals"],
+    "correctAnswer": "Those with lower educational attainment"
   },
   {
     "id": 7,
-    "question": "How many different types of hygiene issues can IRCTC's AI system detect in railway kitchens?",
-    "options": ["5", "7", "9", "12"],
-    "correctAnswer": "9"
+    "question": "According to a recent Supreme Court judgment applicable across India, including Telangana and Andhra Pradesh, what is a valid reason to disqualify a candidate for a job?",
+    "options": ["Lack of experience", "Being overqualified beyond the maximum prescribed", "Having too many professional certifications", "Attending a private university"],
+    "correctAnswer": "Being overqualified beyond the maximum prescribed"
   },
   {
     "id": 8,
-    "question": "What is the primary goal of IRCTC's expansion of AI monitoring in railway kitchens?",
-    "options": ["To reduce staff count", "To speed up food preparation", "To ensure food quality and hygiene", "To manage inventory"],
-    "correctAnswer": "To ensure food quality and hygiene"
+    "question": "A recent Supreme Court ruling prevents overqualified candidates from displacing genuinely eligible applicants. What is the core principle behind this judgment, which impacts employment opportunities across India?",
+    "options": ["Promoting higher education for all.", "Ensuring employment opportunities for those with lower educational attainment.", "Prioritizing practical experience over academic qualifications.", "Streamlining the recruitment process."],
+    "correctAnswer": "Ensuring employment opportunities for those with lower educational attainment."
   },
   {
     "id": 9,
-    "question": "Who recently arrived in India on a five-day visit aimed at boosting energy cooperation?",
-    "options": ["The President of Colombia", "The Acting President of Venezuela", "The Prime Minister of Brazil", "The Foreign Minister of Argentina"],
-    "correctAnswer": "The Acting President of Venezuela"
+    "question": "How many suspicious user IDs did IRCTC recently deactivate to combat ticket booking fraud across India?",
+    "options": ["Over 6 crore", "Over 3 crore", "Over 9 crore", "Over 1 crore"],
+    "correctAnswer": "Over 3 crore"
   },
   {
     "id": 10,
-    "question": "What is the name of Venezuela's acting president who visited India?",
-    "options": ["Maria Rodriguez", "Sofia Garcia", "Delcy Rodriguez", "Elena Chavez"],
-    "correctAnswer": "Delcy Rodriguez"
+    "question": "What is the total number of user accounts IRCTC has recently verified in its efforts against ticket booking fraud, impacting users across states like Telangana and Andhra Pradesh?",
+    "options": ["3 crore", "9 crore", "6 crore", "2.5 crore"],
+    "correctAnswer": "6 crore"
   },
   {
     "id": 11,
-    "question": "What was the main focus of Delcy Rodriguez's five-day visit to India?",
-    "options": ["Cultural exchange programs", "Defense partnership", "Energy cooperation and trade", "Tourism promotion"],
-    "correctAnswer": "Energy cooperation and trade"
+    "question": "What technology is IRCTC expanding to monitor hygiene in railway kitchens across India, including those serving Telangana and Andhra Pradesh?",
+    "options": ["Biometric scanning", "Manual inspection teams", "AI-powered monitoring system", "Drone surveillance"],
+    "correctAnswer": "AI-powered monitoring system"
   },
   {
     "id": 12,
-    "question": "India is seeking to diversify its oil sources, a goal underscored by the recent Venezuelan visit. This is primarily due to disruptions in which region?",
-    "options": ["North American", "West Asian", "European", "African"],
-    "correctAnswer": "West Asian"
+    "question": "How many railway kitchens are currently overseen by IRCTC's AI-powered monitoring system nationwide?",
+    "options": ["2,394", "800", "900", "600"],
+    "correctAnswer": "800"
   },
   {
     "id": 13,
-    "question": "Which Indian public sector undertaking has an existing joint venture related to energy ties with Venezuela?",
-    "options": ["Reliance Industries", "Indian Oil Corporation", "ONGC Videsh", "Bharat Petroleum"],
-    "correctAnswer": "ONGC Videsh"
+    "question": "What is the total number of cameras used in IRCTC's AI-powered kitchen monitoring system across India?",
+    "options": ["800", "9 crore", "2,394", "3 crore"],
+    "correctAnswer": "2,394"
   },
   {
     "id": 14,
-    "question": "Who among the Indian leaders was scheduled to hold talks with Venezuela's acting president, Delcy Rodriguez?",
-    "options": ["The President of India", "The Vice President of India", "The Prime Minister of India", "The External Affairs Minister"],
-    "correctAnswer": "The Prime Minister of India"
+    "question": "How many types of hygiene issues can IRCTC's AI-powered system detect in railway kitchens, a system deployed across states like Telangana and Andhra Pradesh?",
+    "options": ["3 types", "9 types", "5 types", "12 types"],
+    "correctAnswer": "9 types"
   },
   {
     "id": 15,
-    "question": "Beyond energy, what other areas are India and Venezuela exploring for partnerships during the recent high-level visit?",
-    "options": ["Agriculture and textiles", "Space research and robotics", "Trade, investment, and technology", "Pharmaceuticals and education"],
-    "correctAnswer": "Trade, investment, and technology"
+    "question": "IRCTC's recent actions against ticket booking fraud and improvements in kitchen hygiene are applicable to railway services across India, directly benefiting passengers in which two prominent southern states mentioned as a focus?",
+    "options": ["Kerala and Karnataka", "Tamil Nadu and Maharashtra", "Telangana and Andhra Pradesh", "Odisha and West Bengal"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 16,
-    "question": "What is the name of the national program under which Ladakh's first model border village is being established?",
-    "options": ["Border Area Development Program", "High Altitude Living Initiative", "Vibrant Village Program", "Remote Settlement Scheme"],
-    "correctAnswer": "Vibrant Village Program"
+    "question": "The expansion of AI monitoring in railway kitchens by IRCTC primarily aims to ensure what for millions of passengers nationwide?",
+    "options": ["Faster food delivery", "Food quality and hygiene", "Wider menu options", "Reduced food costs"],
+    "correctAnswer": "Food quality and hygiene"
   },
   {
     "id": 17,
-    "question": "The first model border village in Ladakh, under the Vibrant Village Program, is being established at which remote settlement?",
-    "options": ["Leh", "Kargil", "Chumur", "Nubra Valley"],
-    "correctAnswer": "Chumur"
+    "question": "Beyond deactivating suspicious accounts, what other significant step has IRCTC taken to ensure food quality for railway passengers across India?",
+    "options": ["Introducing new catering partners.", "Expanding AI-powered kitchen monitoring.", "Offering free meals on all trains.", "Conducting monthly passenger surveys."],
+    "correctAnswer": "Expanding AI-powered kitchen monitoring."
   },
   {
     "id": 18,
-    "question": "At approximately what altitude is the remote settlement of Chumur, where Ladakh's first model border village is located?",
-    "options": ["Around 10,000 feet", "About 12,000 feet", "Approximately 16,700 feet", "Over 20,000 feet"],
-    "correctAnswer": "Approximately 16,700 feet"
-  },
-  {
-    "id": 19,
-    "question": "The model village in Chumur, Ladakh, is situated along the border with which country?",
-    "options": ["Pakistan", "Nepal", "China", "Bhutan"],
-    "correctAnswer": "China"
-  },
-  {
-    "id": 20,
-    "question": "What type of housing is a key feature of the model villages under the Vibrant Village Program, considering their challenging environments?",
-    "options": ["Traditional wooden huts", "Temporary shelters", "Climate-resilient housing", "Pre-fabricated tents"],
-    "correctAnswer": "Climate-resilient housing"
-  },
-  {
-    "id": 21,
-    "question": "Which of the following is an example of an initiative to enhance livelihoods in the model border villages, as mentioned in the news?",
-    "options": ["Factory employment", "Tourism development", "Goat rearing and greenhouse cultivation", "Software development"],
-    "correctAnswer": "Goat rearing and greenhouse cultivation"
-  },
-  {
-    "id": 22,
-    "question": "What is one of the overarching goals of establishing model villages under the Vibrant Village Program, besides livelihood enhancement?",
-    "options": ["To promote cultural tourism", "To encourage migration to urban areas", "To foster secure, permanent settlements", "To establish military outposts"],
-    "correctAnswer": "To foster secure, permanent settlements"
-  },
-  {
-    "id": 23,
-    "question": "The Vibrant Village Program aims to strengthen which type of cooperation in border areas?",
-    "options": ["Economic-industrial cooperation", "Academic-research cooperation", "Civil-defence cooperation", "Sports-cultural cooperation"],
-    "correctAnswer": "Civil-defence cooperation"
-  },
-  {
-    "id": 24,
-    "question": "Which specific issue is IRCTC addressing by deactivating over three crore suspicious user IDs?",
-    "options": ["Data privacy breaches", "Ticket booking fraud", "System overload", "Incorrect passenger information"],
+    "question": "IRCTC flagged a significant number of user accounts. What was the primary reason for this action, affecting online ticket bookings for all Indian citizens?",
+    "options": ["Inactivity", "Ticket booking fraud", "VIP bookings", "Bulk travel agency accounts"],
     "correctAnswer": "Ticket booking fraud"
   },
   {
+    "id": 19,
+    "question": "Which national entity is responsible for expanding AI monitoring across railway kitchens in India, including those serving Telangana and Andhra Pradesh?",
+    "options": ["Indian Railways", "Ministry of Health", "IRCTC", "Food Safety and Standards Authority of India (FSSAI)"],
+    "correctAnswer": "IRCTC"
+  },
+  {
+    "id": 20,
+    "question": "The AI monitoring system in IRCTC kitchens primarily detects issues related to what aspect of food preparation?",
+    "options": ["Cooking speed", "Staff uniforms", "Hygiene", "Ingredient sourcing"],
+    "correctAnswer": "Hygiene"
+  },
+  {
+    "id": 21,
+    "question": "What action did IRCTC take concerning over 3 crore suspicious user IDs in its effort to curb fraud for Indian railway passengers?",
+    "options": ["Sent warning emails", "Temporarily suspended them", "Deactivated them", "Asked for re-verification"],
+    "correctAnswer": "Deactivated them"
+  },
+  {
+    "id": 22,
+    "question": "What is the primary purpose of IRCTC's AI-powered kitchen monitoring system, which benefits passengers across all Indian states?",
+    "options": ["To manage inventory", "To ensure food quality and hygiene", "To train new chefs", "To track staff attendance"],
+    "correctAnswer": "To ensure food quality and hygiene"
+  },
+  {
+    "id": 23,
+    "question": "The AI system for kitchen monitoring by IRCTC is operational in approximately how many kitchens nationwide, including those in Telangana and Andhra Pradesh?",
+    "options": ["2,394", "300", "800", "900"],
+    "correctAnswer": "800"
+  },
+  {
+    "id": 24,
+    "question": "For passengers traveling through states like Telangana and Andhra Pradesh, what new technology is ensuring better food quality in railway kitchens?",
+    "options": ["Advanced cooking robots", "Bio-sensors in food", "AI-powered monitoring system", "Automated food packaging"],
+    "correctAnswer": "AI-powered monitoring system"
+  },
+  {
     "id": 25,
-    "question": "India's strategy to diversify its oil sources, exemplified by the visit from Venezuela's acting president, primarily aims to enhance what?",
-    "options": ["Environmental sustainability", "Energy security", "International trade balance", "Local employment"],
-    "correctAnswer": "Energy security"
+    "question": "What specific problem related to ticket booking fraud did IRCTC address by deactivating user accounts, a measure impacting all railway users in India?",
+    "options": ["Duplicate bookings", "Resale of tickets at higher prices", "Suspicious user ID activities", "Bulk ticket cancellations"],
+    "correctAnswer": "Suspicious user ID activities"
   }
 ]

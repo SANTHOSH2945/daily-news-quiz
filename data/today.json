@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the expelled TMC leader who claimed the Speaker recognized him as an opposition leader?",
-    "options": ["Firhad Hakim", "Ritabrata Banerjee", "Mamata Banerjee", "DK Shivakumar"],
-    "correctAnswer": "Ritabrata Banerjee"
+    "question": "Which Indian government entity recently flagged a significant number of user accounts for suspicious activity related to ticket booking fraud?",
+    "options": ["Indian Railways", "IRCTC", "RailTel", "Ministry of Railways"],
+    "correctAnswer": "IRCTC"
   },
   {
     "id": 2,
-    "question": "Who recently resigned from the position of Kolkata mayor?",
-    "options": ["Mamata Banerjee", "Ritabrata Banerjee", "Firhad Hakim", "Siddaramaiah"],
-    "correctAnswer": "Firhad Hakim"
+    "question": "How many suspicious user IDs did IRCTC deactivate to combat ticket booking fraud?",
+    "options": ["Approximately 1 crore", "Over 2 crore", "More than 3 crore", "Around 5 crore"],
+    "correctAnswer": "More than 3 crore"
   },
   {
     "id": 3,
-    "question": "How many rebel MLAs reportedly support Ritabrata Banerjee's claim of opposition leadership within the TMC?",
-    "options": ["28", "38", "48", "58"],
-    "correctAnswer": "58"
+    "question": "What number of user accounts were verified by IRCTC after being flagged, ensuring their legitimacy?",
+    "options": ["2 crore", "4 crore", "6 crore", "8 crore"],
+    "correctAnswer": "6 crore"
   },
   {
     "id": 4,
-    "question": "What event is cited as preceding the major internal crisis and organizational overhaul within the TMC?",
-    "options": ["A significant election defeat", "Formation of a new alliance", "A national protest movement", "The Speaker's resignation"],
-    "correctAnswer": "A significant election defeat"
+    "question": "What technology is IRCTC expanding to monitor food quality in railway kitchens across India, including those serving Telangana and Andhra Pradesh?",
+    "options": ["Biometric scanning", "AI-powered monitoring system", "GPS tracking", "Manual inspection teams"],
+    "correctAnswer": "AI-powered monitoring system"
   },
   {
     "id": 5,
-    "question": "Who reportedly 'permitted' Firhad Hakim to step aside from his mayoral role?",
-    "options": ["The Governor", "The Speaker", "Mamata Banerjee", "Ritabrata Banerjee"],
-    "correctAnswer": "Mamata Banerjee"
+    "question": "How many cameras are being utilized in IRCTC's AI-powered kitchen monitoring system to oversee railway kitchens?",
+    "options": ["Under 1,000", "Around 1,500", "Over 2,300", "More than 3,000"],
+    "correctAnswer": "Over 2,300"
   },
   {
     "id": 6,
-    "question": "How many lives were claimed in the devastating hotel fire in Delhi?",
-    "options": ["11", "21", "31", "41"],
-    "correctAnswer": "21"
+    "question": "The IRCTC AI monitoring system is deployed across how many railway kitchens to detect hygiene issues?",
+    "options": ["Approximately 200", "Around 500", "Over 800", "More than 1,000"],
+    "correctAnswer": "Over 800"
   },
   {
     "id": 7,
-    "question": "How many foreign nationals were among the deceased in the Delhi hotel fire?",
-    "options": ["7", "12", "17", "21"],
-    "correctAnswer": "17"
+    "question": "How many different types of hygiene issues can IRCTC's AI system detect in railway kitchens?",
+    "options": ["5", "7", "9", "12"],
+    "correctAnswer": "9"
   },
   {
     "id": 8,
-    "question": "What were the primary issues revealed by investigations into the Delhi hotel fire tragedy?",
-    "options": ["Electrical short circuit and old wiring", "Safety lapses and illegal expansion", "Terrorist attack and structural failure", "Natural disaster and poor maintenance"],
-    "correctAnswer": "Safety lapses and illegal expansion"
+    "question": "What is the primary goal of IRCTC's expansion of AI monitoring in railway kitchens?",
+    "options": ["To reduce staff count", "To speed up food preparation", "To ensure food quality and hygiene", "To manage inventory"],
+    "correctAnswer": "To ensure food quality and hygiene"
   },
   {
     "id": 9,
-    "question": "Who recently took oath as the new Chief Minister of Karnataka?",
-    "options": ["Siddaramaiah", "Basavaraj Bommai", "DK Shivakumar", "Pralhad Joshi"],
-    "correctAnswer": "DK Shivakumar"
+    "question": "Who recently arrived in India on a five-day visit aimed at boosting energy cooperation?",
+    "options": ["The President of Colombia", "The Acting President of Venezuela", "The Prime Minister of Brazil", "The Foreign Minister of Argentina"],
+    "correctAnswer": "The Acting President of Venezuela"
   },
   {
     "id": 10,
-    "question": "DK Shivakumar, the new Chief Minister of Karnataka, belongs to which political party?",
-    "options": ["BJP", "JD(S)", "Congress", "AAP"],
-    "correctAnswer": "Congress"
+    "question": "What is the name of Venezuela's acting president who visited India?",
+    "options": ["Maria Rodriguez", "Sofia Garcia", "Delcy Rodriguez", "Elena Chavez"],
+    "correctAnswer": "Delcy Rodriguez"
   },
   {
     "id": 11,
-    "question": "Who congratulated DK Shivakumar on taking oath as Karnataka CM and pledged to work closely with the new government?",
-    "options": ["The President of India", "The Prime Minister", "The Chief Justice of India", "The Speaker of Lok Sabha"],
-    "correctAnswer": "The Prime Minister"
+    "question": "What was the main focus of Delcy Rodriguez's five-day visit to India?",
+    "options": ["Cultural exchange programs", "Defense partnership", "Energy cooperation and trade", "Tourism promotion"],
+    "correctAnswer": "Energy cooperation and trade"
   },
   {
     "id": 12,
-    "question": "Who shared the stage with DK Shivakumar during his oath-taking ceremony, projecting Congress unity?",
-    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Siddaramaiah", "Sonia Gandhi"],
-    "correctAnswer": "Siddaramaiah"
+    "question": "India is seeking to diversify its oil sources, a goal underscored by the recent Venezuelan visit. This is primarily due to disruptions in which region?",
+    "options": ["North American", "West Asian", "European", "African"],
+    "correctAnswer": "West Asian"
   },
   {
     "id": 13,
-    "question": "In which state did DK Shivakumar recently take oath as the Chief Minister?",
-    "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Karnataka"],
-    "correctAnswer": "Karnataka"
+    "question": "Which Indian public sector undertaking has an existing joint venture related to energy ties with Venezuela?",
+    "options": ["Reliance Industries", "Indian Oil Corporation", "ONGC Videsh", "Bharat Petroleum"],
+    "correctAnswer": "ONGC Videsh"
   },
   {
     "id": 14,
-    "question": "Which alliance allotted a Rajya Sabha seat to the Congress party from Tamil Nadu?",
-    "options": ["DMK-led alliance", "AIADMK-led alliance", "TVK-led alliance", "PMK-led alliance"],
-    "correctAnswer": "TVK-led alliance"
+    "question": "Who among the Indian leaders was scheduled to hold talks with Venezuela's acting president, Delcy Rodriguez?",
+    "options": ["The President of India", "The Vice President of India", "The Prime Minister of India", "The External Affairs Minister"],
+    "correctAnswer": "The Prime Minister of India"
   },
   {
     "id": 15,
-    "question": "The TVK-led alliance allotted a seat to Congress for which house of parliament?",
-    "options": ["Lok Sabha", "Vidhan Sabha", "Rajya Sabha", "Vidhan Parishad"],
-    "correctAnswer": "Rajya Sabha"
+    "question": "Beyond energy, what other areas are India and Venezuela exploring for partnerships during the recent high-level visit?",
+    "options": ["Agriculture and textiles", "Space research and robotics", "Trade, investment, and technology", "Pharmaceuticals and education"],
+    "correctAnswer": "Trade, investment, and technology"
   },
   {
     "id": 16,
-    "question": "From which Indian state was a Rajya Sabha seat allotted to the Congress by the TVK-led alliance?",
-    "options": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Karnataka"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "What is the name of the national program under which Ladakh's first model border village is being established?",
+    "options": ["Border Area Development Program", "High Altitude Living Initiative", "Vibrant Village Program", "Remote Settlement Scheme"],
+    "correctAnswer": "Vibrant Village Program"
   },
   {
     "id": 17,
-    "question": "Which party received a Rajya Sabha seat from the TVK-led alliance in Tamil Nadu?",
-    "options": ["BJP", "DMK", "Congress", "AIADMK"],
-    "correctAnswer": "Congress"
+    "question": "The first model border village in Ladakh, under the Vibrant Village Program, is being established at which remote settlement?",
+    "options": ["Leh", "Kargil", "Chumur", "Nubra Valley"],
+    "correctAnswer": "Chumur"
   },
   {
     "id": 18,
-    "question": "When are the biennial elections for Rajya Sabha seats, as mentioned in the news context, scheduled?",
-    "options": ["May 18", "June 18", "July 18", "August 18"],
-    "correctAnswer": "June 18"
+    "question": "At approximately what altitude is the remote settlement of Chumur, where Ladakh's first model border village is located?",
+    "options": ["Around 10,000 feet", "About 12,000 feet", "Approximately 16,700 feet", "Over 20,000 feet"],
+    "correctAnswer": "Approximately 16,700 feet"
   },
   {
     "id": 19,
-    "question": "Following the recent internal turmoil, what kind of change has been prompted within the TMC?",
-    "options": ["A national expansion", "An organizational overhaul", "An international collaboration", "A leadership merger"],
-    "correctAnswer": "An organizational overhaul"
+    "question": "The model village in Chumur, Ladakh, is situated along the border with which country?",
+    "options": ["Pakistan", "Nepal", "China", "Bhutan"],
+    "correctAnswer": "China"
   },
   {
     "id": 20,
-    "question": "The devastating hotel fire with safety lapses and illegal expansion occurred in which Indian city?",
-    "options": ["Mumbai", "Chennai", "Delhi", "Bengaluru"],
-    "correctAnswer": "Delhi"
+    "question": "What type of housing is a key feature of the model villages under the Vibrant Village Program, considering their challenging environments?",
+    "options": ["Traditional wooden huts", "Temporary shelters", "Climate-resilient housing", "Pre-fabricated tents"],
+    "correctAnswer": "Climate-resilient housing"
   },
   {
     "id": 21,
-    "question": "What status does expelled TMC leader Ritabrata Banerjee claim the Speaker has accepted for his rebel group?",
-    "options": ["Ruling party", "Coalition partner", "Main opposition", "Independent bloc"],
-    "correctAnswer": "Main opposition"
+    "question": "Which of the following is an example of an initiative to enhance livelihoods in the model border villages, as mentioned in the news?",
+    "options": ["Factory employment", "Tourism development", "Goat rearing and greenhouse cultivation", "Software development"],
+    "correctAnswer": "Goat rearing and greenhouse cultivation"
   },
   {
     "id": 22,
-    "question": "The Congress party aimed to project what quality during the oath-taking ceremony of the new Karnataka CM?",
-    "options": ["Strength", "Diversity", "Unity", "Innovation"],
-    "correctAnswer": "Unity"
+    "question": "What is one of the overarching goals of establishing model villages under the Vibrant Village Program, besides livelihood enhancement?",
+    "options": ["To promote cultural tourism", "To encourage migration to urban areas", "To foster secure, permanent settlements", "To establish military outposts"],
+    "correctAnswer": "To foster secure, permanent settlements"
   },
   {
     "id": 23,
-    "question": "Firhad Hakim, who resigned as Kolkata mayor, belongs to which political party?",
-    "options": ["BJP", "CPI(M)", "TMC", "Congress"],
-    "correctAnswer": "TMC"
+    "question": "The Vibrant Village Program aims to strengthen which type of cooperation in border areas?",
+    "options": ["Economic-industrial cooperation", "Academic-research cooperation", "Civil-defence cooperation", "Sports-cultural cooperation"],
+    "correctAnswer": "Civil-defence cooperation"
   },
   {
     "id": 24,
-    "question": "In the context of the TMC crisis, what specific recognition did Ritabrata Banerjee claim to have received from the Speaker?",
-    "options": ["Party President", "Chief Whip", "Cabinet Minister", "Opposition Leader"],
-    "correctAnswer": "Opposition Leader"
+    "question": "Which specific issue is IRCTC addressing by deactivating over three crore suspicious user IDs?",
+    "options": ["Data privacy breaches", "Ticket booking fraud", "System overload", "Incorrect passenger information"],
+    "correctAnswer": "Ticket booking fraud"
   },
   {
     "id": 25,
-    "question": "What was Prime Minister Modi's stated intention regarding working with the new Karnataka government?",
-    "options": ["To observe its performance", "To work closely with it", "To provide conditional support", "To remain neutral"],
-    "correctAnswer": "To work closely with it"
+    "question": "India's strategy to diversify its oil sources, exemplified by the visit from Venezuela's acting president, primarily aims to enhance what?",
+    "options": ["Environmental sustainability", "Energy security", "International trade balance", "Local employment"],
+    "correctAnswer": "Energy security"
   }
 ]

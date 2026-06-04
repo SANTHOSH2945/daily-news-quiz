@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Union Cabinet has recommended an ordinance to ease tax rules for which type of investors in certain securities?",
-    "options": [
-      "Domestic Institutional Investors (DIIs)",
-      "Non-Resident Indians (NRIs)",
-      "Foreign Portfolio Investors (FPIs)",
-      "Small and Medium Enterprises (SMEs)"
-    ],
-    "correctAnswer": "Foreign Portfolio Investors (FPIs)"
+    "question": "According to recent news, over which Indian state did the monsoon officially set in first, marking the beginning of the rainy season in India?",
+    "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+    "correctAnswer": "Kerala"
   },
   {
     "id": 2,
-    "question": "What is a primary objective of the Union Cabinet's recent move to ease tax rules for foreign investors?",
-    "options": [
-      "To increase domestic consumption",
-      "To strengthen the Indian rupee",
-      "To reduce government expenditure",
-      "To boost agricultural exports"
-    ],
-    "correctAnswer": "To strengthen the Indian rupee"
+    "question": "What is the primary significance of the monsoon setting in over India for states like Telangana and Andhra Pradesh?",
+    "options": ["Boosts tourism in coastal areas", "Crucial for agricultural production and water resources", "Triggers major political reforms", "Improves international trade routes"],
+    "correctAnswer": "Crucial for agricultural production and water resources"
   },
   {
     "id": 3,
-    "question": "Foreign Portfolio Investors (FPIs) had previously raised concerns regarding which two specific taxes, influencing the new ordinance?",
-    "options": [
-      "Goods and Services Tax (GST) and Income Tax",
-      "Property Tax and Corporate Tax",
-      "Capital Gains Tax and Securities Transaction Tax (STT)",
-      "Excise Duty and Customs Duty"
-    ],
-    "correctAnswer": "Capital Gains Tax and Securities Transaction Tax (STT)"
+    "question": "Which national authority is responsible for announcing the onset and progress of the monsoon in India?",
+    "options": ["National Disaster Management Authority (NDMA)", "Indian Meteorological Department (IMD)", "Ministry of Agriculture and Farmers Welfare", "Central Water Commission (CWC)"],
+    "correctAnswer": "Indian Meteorological Department (IMD)"
   },
   {
     "id": 4,
-    "question": "Which specific financial instruments are primarily targeted by the ordinance to ease tax rules for foreign investors?",
-    "options": [
-      "Real estate properties",
-      "Commodity futures",
-      "Certain securities",
-      "Cryptocurrencies"
-    ],
-    "correctAnswer": "Certain securities"
+    "question": "The monsoon rains are vital for which major crop extensively cultivated in South Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Wheat", "Mustard", "Rice", "Sugarcane"],
+    "correctAnswer": "Rice"
   },
   {
     "id": 5,
-    "question": "According to Hardeep Singh Puri, what is considered a practical solution to reduce India's crude oil imports?",
-    "options": [
-      "Increasing public transportation ridership",
-      "Promoting electric vehicles",
-      "Implementing flex-fuel vehicles",
-      "Subsidizing solar panels"
-    ],
-    "correctAnswer": "Implementing flex-fuel vehicles"
+    "question": "Beyond agriculture, the onset of monsoon is also critical for which aspect in many Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Industrial output in urban centers", "Replenishing groundwater levels and reservoirs", "Boosting the stock market", "Facilitating international sporting events"],
+    "correctAnswer": "Replenishing groundwater levels and reservoirs"
   },
   {
     "id": 6,
-    "question": "The national initiative to promote flex-fuel vehicles is primarily aimed at achieving which broader economic and environmental goal for India?",
-    "options": [
-      "Increasing vehicle exports",
-      "Reducing dependence on crude imports",
-      "Enhancing road safety",
-      "Boosting domestic steel production"
-    ],
-    "correctAnswer": "Reducing dependence on crude imports"
+    "question": "Which Indian regulatory body has mandated a standardized green 'Vegan' logo for approved vegan food packages?",
+    "options": ["BIS (Bureau of Indian Standards)", "AGMARK", "FSSAI (Food Safety and Standards Authority of India)", "ECOMARK"],
+    "correctAnswer": "FSSAI (Food Safety and Standards Authority of India)"
   },
   {
     "id": 7,
-    "question": "Which national education board recently clarified that public sector bank accounts are not exclusively required for paying re-evaluation fees?",
-    "options": [
-      "UGC",
-      "CBSE",
-      "AICTE",
-      "NTA"
-    ],
-    "correctAnswer": "CBSE"
+    "question": "From which date will the new official FSSAI 'Vegan' logo become mandatory for all approved vegan food packages in India, including those sold in Telangana and Andhra Pradesh?",
+    "options": ["January 1, 2025", "July 1, 2026", "July 1, 2027", "January 1, 2028"],
+    "correctAnswer": "July 1, 2027"
   },
   {
     "id": 8,
-    "question": "For which specific class's answer sheet verification and re-evaluation did CBSE issue clarification regarding payment options?",
-    "options": [
-      "Class X",
-      "Class XII",
-      "Class VIII",
-      "Class XI"
-    ],
-    "correctAnswer": "Class XII"
+    "question": "What is the primary aim of introducing a standardized 'Vegan' logo by FSSAI?",
+    "options": ["To increase the production of meat alternatives", "To make vegan products more expensive", "To help consumers confidently identify plant-based products and prevent misleading claims", "To reduce the variety of vegan products available"],
+    "correctAnswer": "To help consumers confidently identify plant-based products and prevent misleading claims"
   },
   {
     "id": 9,
-    "question": "What significant challenge did the CBSE online portal successfully overcome shortly after its launch for re-evaluation applications?",
-    "options": [
-      "Server overload due to high traffic",
-      "A major power outage",
-      "A significant cyberattack attempt",
-      "Software compatibility issues"
-    ],
-    "correctAnswer": "A significant cyberattack attempt"
+    "question": "The FSSAI operates under which Union Ministry of the Government of India?",
+    "options": ["Ministry of Agriculture and Farmers Welfare", "Ministry of Commerce and Industry", "Ministry of Health and Family Welfare", "Ministry of Consumer Affairs, Food and Public Distribution"],
+    "correctAnswer": "Ministry of Health and Family Welfare"
   },
   {
     "id": 10,
-    "question": "Apart from specific bank accounts, what other options did CBSE confirm for paying re-evaluation fees for Class XII answer sheets?",
-    "options": [
-      "Only cash payments at designated centers",
-      "Various online payment options",
-      "Demand drafts via post",
-      "Direct bank transfers exclusively"
-    ],
-    "correctAnswer": "Various online payment options"
+    "question": "The new vegan logo initiative by FSSAI reflects a growing trend in consumer preferences for which type of diet across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Keto diet", "Plant-based diet", "Mediterranean diet", "Paleo diet"],
+    "correctAnswer": "Plant-based diet"
   },
   {
     "id": 11,
-    "question": "The Congress party plans to intensify its agitation over the next fortnight, primarily focusing on which two major controversies?",
-    "options": [
-      "Railway privatization and agricultural reforms",
-      "NEET and CBSE examination controversies",
-      "Inflation and unemployment rates",
-      "Border disputes and foreign trade policies"
-    ],
-    "correctAnswer": "NEET and CBSE examination controversies"
+    "question": "Which national entrance examination for medical courses recently faced controversy over alleged paper leaks and systemic issues?",
+    "options": ["JEE Advanced", "CLAT", "NEET-UG", "UPSC Civil Services Exam"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 12,
-    "question": "What is the satirical platform 'Cockroach Janta Party' (CJP) primarily protesting against, ahead of its June 6 protest?",
-    "options": [
-      "Fuel price hikes",
-      "Examination controversies",
-      "Labor law reforms",
-      "Healthcare policies"
-    ],
-    "correctAnswer": "Examination controversies"
+    "question": "According to the news, which political leader criticized the 'corrupt, broken system' in connection with the NEET-UG paper leak controversy?",
+    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Mamata Banerjee"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 13,
-    "question": "What is a key demand of the 'Cockroach Janta Party' (CJP) mentioned in the news regarding the examination controversies?",
-    "options": [
-      "A nationwide re-examination",
-      "Resignation of the Education Minister",
-      "Formation of a new regulatory body",
-      "Increased budget for education"
-    ],
-    "correctAnswer": "Resignation of the Education Minister"
+    "question": "The NEET-UG paper leak controversy raised questions about the tenure of which Union Minister?",
+    "options": ["Finance Minister", "Home Minister", "Education Minister", "Defence Minister"],
+    "correctAnswer": "Education Minister"
   },
   {
     "id": 14,
-    "question": "Which student wings of the Congress party are reportedly holding nationwide protests on NEET-CBSE controversies?",
-    "options": [
-      "ABVP and SFI",
-      "Youth Congress and NSUI",
-      "Chhatra Yuva Sangharsh Samiti (CYSS) and AISA",
-      "AISF and KSU"
-    ],
-    "correctAnswer": "Youth Congress and NSUI"
+    "question": "The NEET-UG examination is primarily conducted for admission to which courses across India, including institutions in Telangana and Andhra Pradesh?",
+    "options": ["Engineering and Technology", "Law and Management", "Medical and Dental courses", "Arts and Humanities"],
+    "correctAnswer": "Medical and Dental courses"
   },
   {
     "id": 15,
-    "question": "Why did Congress reportedly advise its cadre to ignore the 'Cockroach Janta Party' (CJP) and focus on other issues?",
-    "options": [
-      "CJP's demands were too radical",
-      "Congress did not endorse satirical protests",
-      "Wary of rival parties using the protests for their own agenda",
-      "CJP had no significant public support"
-    ],
-    "correctAnswer": "Wary of rival parties using the protests for their own agenda"
+    "question": "The concerns raised about the NEET-UG system, including paper leaks, have a direct impact on the future of aspiring students from which sector across all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Primary education", "Vocational training", "Higher education and professional careers", "Adult literacy programs"],
+    "correctAnswer": "Higher education and professional careers"
   },
   {
     "id": 16,
-    "question": "The Congress party emphasized which of the following as their primary concern in the ongoing student and youth issues?",
-    "options": [
-      "UPSC reforms",
-      "NEET",
-      "JEE Mains",
-      "State board exams"
-    ],
-    "correctAnswer": "NEET"
+    "question": "What type of national cadre, similar to the IAS and IPS, is proposed for doctors in India?",
+    "options": ["All India Legal Service", "All India Engineering Service", "All India Medical Service", "All India Forest Service"],
+    "correctAnswer": "All India Medical Service"
   },
   {
     "id": 17,
-    "question": "Who was recently sworn in as the Chief Minister of Karnataka?",
-    "options": [
-      "G. Parameshwara",
-      "Siddaramaiah",
-      "D.K. Shivakumar",
-      "Basavaraj Bommai"
-    ],
-    "correctAnswer": "D.K. Shivakumar"
+    "question": "Which Union Ministry is currently considering the proposal for an All India Medical Service?",
+    "options": ["Ministry of Finance", "Ministry of Home Affairs", "Union Health Ministry", "Ministry of Personnel, Public Grievances and Pensions"],
+    "correctAnswer": "Union Health Ministry"
   },
   {
     "id": 18,
-    "question": "Alongside D.K. Shivakumar as CM, who was sworn in as the Deputy Chief Minister of Karnataka?",
-    "options": [
-      "Mallikarjun Kharge",
-      "G. Parameshwara",
-      "Rahul Gandhi",
-      "Priyanka Gandhi"
-    ],
-    "correctAnswer": "G. Parameshwara"
+    "question": "What is identified as a key factor delaying the implementation of the proposed All India Medical Service?",
+    "options": ["Lack of funds from the Central government", "Opposition from private healthcare providers", "Awaiting responses and views from various states and Union Territories", "Insufficient number of medical graduates"],
+    "correctAnswer": "Awaiting responses and views from various states and Union Territories"
   },
   {
     "id": 19,
-    "question": "The formation of the new Karnataka cabinet aimed to balance which key interests, as mentioned in the news?",
-    "options": [
-      "Economic and environmental interests",
-      "Urban and rural interests",
-      "Caste and regional interests",
-      "Industrial and agricultural interests"
-    ],
-    "correctAnswer": "Caste and regional interests"
+    "question": "If implemented, the All India Medical Service aims to create a national pool of doctors to address which critical aspect of healthcare delivery across states like Andhra Pradesh and Telangana?",
+    "options": ["Standardize medical education curriculum", "Ensure equitable distribution of medical professionals and improve public health services", "Regulate pharmaceutical prices", "Promote private medical colleges"],
+    "correctAnswer": "Ensure equitable distribution of medical professionals and improve public health services"
   },
   {
     "id": 20,
-    "question": "What were some of the early initiatives announced by the new Karnataka government, specifically focusing on youth welfare?",
-    "options": [
-      "New sports academies and cultural festivals",
-      "Free student bus passes and a private job portal",
-      "Skill development centers and startup incubation funds",
-      "Reduced university fees and hostel subsidies"
-    ],
-    "correctAnswer": "Free student bus passes and a private job portal"
+    "question": "For how many years has the proposal for an IAS-like medical cadre been awaiting states' views?",
+    "options": ["3 years", "5 years", "8 years", "10 years"],
+    "correctAnswer": "8 years"
   },
   {
     "id": 21,
-    "question": "The swearing-in ceremony of the new Karnataka government highlighted which specific aspects?",
-    "options": [
-      "Economic reforms and development plans",
-      "Scientific advancements and technological innovation",
-      "Religious traditions and drew national Congress leaders",
-      "International diplomacy and foreign policy"
-    ],
-    "correctAnswer": "Religious traditions and drew national Congress leaders"
+    "question": "The Union Cabinet recently recommended an ordinance to ease tax rules for which specific group of investors in some securities?",
+    "options": ["Domestic retail investors", "Small and Medium Enterprises (SMEs)", "Foreign investors", "Non-Resident Indians (NRIs)"],
+    "correctAnswer": "Foreign investors"
   },
   {
     "id": 22,
-    "question": "The composition of the new Karnataka cabinet reportedly reflected the strong influence of which prominent political figure?",
-    "options": [
-      "D.K. Shivakumar",
-      "G. Parameshwara",
-      "Siddaramaiah",
-      "Rahul Gandhi"
-    ],
-    "correctAnswer": "Siddaramaiah"
+    "question": "The ordinance to ease tax rules for foreign investors is primarily aimed at strengthening which Indian currency?",
+    "options": ["Rupee", "Dollar", "Euro", "Pound"],
+    "correctAnswer": "Rupee"
   },
   {
     "id": 23,
-    "question": "The initiatives such as free student bus passes and a private job portal launched by the new Karnataka government primarily target which segment of the population?",
-    "options": [
-      "Farmers",
-      "Senior citizens",
-      "Youth",
-      "Women"
-    ],
-    "correctAnswer": "Youth"
+    "question": "This move by the Union Cabinet follows significant withdrawals by which type of investors from the Indian market?",
+    "options": ["Domestic Institutional Investors (DIIs)", "Individual stock traders", "Foreign Portfolio Investors (FPIs)", "Corporate bond holders"],
+    "correctAnswer": "Foreign Portfolio Investors (FPIs)"
   },
   {
     "id": 24,
-    "question": "Approximately how many applications for Class XII answer sheet verification and re-evaluation had CBSE processed as of the news report?",
-    "options": [
-      "Over 10,000",
-      "Over 25,000",
-      "Over 43,000",
-      "Over 50,000"
-    ],
-    "correctAnswer": "Over 43,000"
+    "question": "Which specific tax concerns raised by FPIs is the new ordinance designed to address?",
+    "options": ["Goods and Services Tax (GST) and Income Tax", "Customs duties and import tariffs", "Capital gains and securities transaction taxes", "Property taxes and wealth taxes"],
+    "correctAnswer": "Capital gains and securities transaction taxes"
   },
   {
     "id": 25,
-    "question": "Which body officially recommended the ordinance to ease tax rules for foreign investors in certain securities?",
-    "options": [
-      "Reserve Bank of India (RBI)",
-      "Ministry of Finance",
-      "Securities and Exchange Board of India (SEBI)",
-      "The Union Cabinet"
-    ],
-    "correctAnswer": "The Union Cabinet"
+    "question": "Easing tax rules for foreign investors is expected to stimulate foreign investment, which in turn can boost economic growth and job creation across all Indian states, including which two prominent Southern states?",
+    "options": ["Bihar and Uttar Pradesh", "Rajasthan and Gujarat", "Telangana and Andhra Pradesh", "Punjab and Haryana"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   }
 ]

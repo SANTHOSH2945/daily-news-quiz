@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Department of Personnel and Training (DoPT) plans an IAS mentorship meet. Which significant Indian landmark is chosen as the venue for this event?",
-    "options": ["Gateway of India", "India Gate", "Red Fort", "Statue of Unity"],
-    "correctAnswer": "Statue of Unity"
+    "question": "Union Minister Kiren Rijiju dismissed claims of bias against minorities in India, citing a significant increase in the Minority Affairs Ministry's budget. This ministry's initiatives are applicable nationwide, including in which of the following South Indian states?",
+    "options": ["Kerala", "Karnataka", "Andhra Pradesh", "Odisha"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "The DoPT's IAS mentorship meet is scheduled to coincide with Ekta Diwas. What does Ekta Diwas commemorate?",
-    "options": ["Mahatma Gandhi's birth anniversary", "Jawaharlal Nehru's birth anniversary", "Sardar Vallabhbhai Patel's birth anniversary", "Subhas Chandra Bose's birth anniversary"],
-    "correctAnswer": "Sardar Vallabhbhai Patel's birth anniversary"
+    "question": "The budget for the Minority Affairs Ministry, which supports various communities across India, including Telangana, has increased over the past decade. Who is the current Union Minority Affairs Minister?",
+    "options": ["Amit Shah", "Kiren Rijiju", "Nirmala Sitharaman", "S. Jaishankar"],
+    "correctAnswer": "Kiren Rijiju"
   },
   {
     "id": 3,
-    "question": "Who inspired the DoPT's initiative for a mentorship and knowledge-sharing event for IAS officers?",
-    "options": ["President of India", "Prime Minister Narendra Modi", "Vice President of India", "Speaker of Lok Sabha"],
-    "correctAnswer": "Prime Minister Narendra Modi"
+    "question": "Kiren Rijiju, the Union Minister for Minority Affairs, stated that the ministry's budget increased from Rs 1,949 crore to Rs 4,115 crore over the last decade. This budget allocation supports welfare schemes for minorities, including those residing in states like Telangana. What was the approximate percentage increase in the ministry's budget?",
+    "options": ["50%", "75%", "111%", "150%"],
+    "correctAnswer": "111%"
   },
   {
     "id": 4,
-    "question": "Which entities are requested by the DoPT to nominate senior and young IAS officers for the mentorship event?",
-    "options": ["Central Ministries", "Public Sector Undertakings", "States and Union territories", "Autonomous Bodies"],
-    "correctAnswer": "States and Union territories"
+    "question": "While recent political discussions concern statehood for Jammu and Kashmir and constitutional guarantees, the process of state reorganization has significantly impacted South Indian states. Which of the following states was formed by bifurcating an existing state in 2014, leading to the creation of a new capital for the original state?",
+    "options": ["Karnataka", "Telangana", "Kerala", "Tamil Nadu"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 5,
-    "question": "What is the primary aim of the DoPT's upcoming mentorship and knowledge-sharing event for IAS officers?",
-    "options": ["To discuss budget allocations", "To review performance appraisals", "To foster engagement and share expertise among civil servants", "To organize cultural programs"],
-    "correctAnswer": "To foster engagement and share expertise among civil servants"
+    "question": "The demands for statehood in certain regions, as highlighted by protests for Jammu and Kashmir, underscore the diverse administrative structures within India. Which constitutional Article, often debated in the context of special provisions, was abrogated for Jammu & Kashmir?",
+    "options": ["Article 370", "Article 301", "Article 280", "Article 356"],
+    "correctAnswer": "Article 370"
   },
   {
     "id": 6,
-    "question": "Recent news mentions protests demanding the resignation of Dharmendra Pradhan over controversies related to which sector?",
-    "options": ["Healthcare", "Defence", "Agriculture", "Examinations"],
-    "correctAnswer": "Examinations"
+    "question": "Following a fire tragedy in Delhi, Uttar Pradesh CM Yogi Adityanath ordered comprehensive security inspections. Similar measures for fire safety are crucial for commercial establishments in all Indian states. Which city is a major commercial hub in Andhra Pradesh, where such safety inspections would be vital?",
+    "options": ["Chennai", "Hyderabad", "Visakhapatnam", "Bengaluru"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 7,
-    "question": "Where did the Cockroach Janta Party (CJP) founder intend to hold a peaceful protest regarding national examination controversies after changing plans?",
-    "options": ["India Gate", "Parliament Street Police Station", "Jantar Mantar", "Red Fort"],
-    "correctAnswer": "Jantar Mantar"
+    "question": "After the Delhi Malviya Nagar fire tragedy, states are prompted to ensure fire safety. In Telangana, fire safety audits are conducted by which primary authority to ensure compliance in commercial buildings?",
+    "options": ["GHMC", "Telangana State Disaster Response & Fire Services Department", "Hyderabad Metropolitan Development Authority", "Police Department"],
+    "correctAnswer": "Telangana State Disaster Response & Fire Services Department"
   },
   {
     "id": 8,
-    "question": "The CJP's protest targets the resignation of which Union Minister over examination controversies?",
-    "options": ["Rajnath Singh", "Amit Shah", "Dharmendra Pradhan", "Nirmala Sitharaman"],
-    "correctAnswer": "Dharmendra Pradhan"
+    "question": "Uttar Pradesh Chief Minister Yogi Adityanath ordered inspections of hotels and commercial establishments for fire safety. These inspections are crucial to prevent tragedies in urban centers across India, including growing cities like Warangal in Telangana. What type of report are hotels typically required to submit regarding their fire safety systems?",
+    "options": ["Environmental Impact Report", "Financial Audit Report", "Fire Safety Audit Report", "Structural Stability Report"],
+    "correctAnswer": "Fire Safety Audit Report"
   },
   {
     "id": 9,
-    "question": "An alleged conversion case, detailed in a police chargesheet, involves an employee of which major Indian IT company?",
-    "options": ["Infosys", "Wipro", "HCLTech", "TCS"],
-    "correctAnswer": "TCS"
+    "question": "The Cockroach Janta Party (CJP) founder Abhijeet Dipke planned a protest at Jantar Mantar, New Delhi, demanding the resignation of Dharmendra Pradhan. While this event is specific to Delhi, Jantar Mantar is historically known for what type of activities?",
+    "options": ["Archaeological excavations", "Astronomical observations", "Political rallies and protests", "Royal coronation ceremonies"],
+    "correctAnswer": "Political rallies and protests"
   },
   {
     "id": 10,
-    "question": "What specific type of coercion is alleged in the TCS employee case detailed in a police chargesheet?",
-    "options": ["Financial fraud", "Workplace harassment", "Religious conversion push", "Data theft"],
-    "correctAnswer": "Religious conversion push"
+    "question": "The CJP founder called for the resignation of Union Minister Dharmendra Pradhan over \"examination controversies.\" Which portfolio does Dharmendra Pradhan currently hold in the Union Cabinet?",
+    "options": ["Education", "Petroleum & Natural Gas", "Skill Development & Entrepreneurship", "Finance"],
+    "correctAnswer": "Education"
   },
   {
     "id": 11,
-    "question": "Industrialist Kumar Mangalam Birla recently lauded which organization for its consistent societal and national support?",
-    "options": ["FICCI", "CII", "RSS", "NASSCOM"],
-    "correctAnswer": "RSS"
+    "question": "The Department of Personnel and Training (DoPT) plans an IAS mentorship meet at the Statue of Unity. IAS officers from which Indian states, including Telangana and Andhra Pradesh, are expected to be nominated for this knowledge-sharing event?",
+    "options": ["All States and Union Territories", "Northern States only", "Southern States only", "Eastern States only"],
+    "correctAnswer": "All States and Union Territories"
   },
   {
     "id": 12,
-    "question": "Kumar Mangalam Birla spoke of India's opportune moment amidst global shifts and highlighted the transformative impact of which technology?",
-    "options": ["Biotechnology", "Nanotechnology", "Artificial Intelligence (AI)", "Renewable Energy"],
-    "correctAnswer": "Artificial Intelligence (AI)"
-  },
-  {
-    "id": 13,
-    "question": "Which emerging technology BTech program achieved 100% placements at IIT Roorkee, reflecting high demand in the Indian IT sector?",
-    "options": ["Mechanical Engineering", "Civil Engineering", "Data Science and AI", "Chemical Engineering"],
-    "correctAnswer": "Data Science and AI"
-  },
-  {
-    "id": 14,
-    "question": "Graduates from IIT-Roorkee's BTech AI program secured roles primarily in which types of firms?",
-    "options": ["Government PSUs", "Manufacturing industries", "Leading tech and finance firms", "Agricultural startups"],
-    "correctAnswer": "Leading tech and finance firms"
-  },
-  {
-    "id": 15,
-    "question": "Which book, focusing on the struggles of rare disease families and advocating for a national policy, was recently launched by the Deputy Chairman of Rajya Sabha?",
-    "options": ["'Heal India'", "'Life's Journey'", "'SHAURYA: A Father's Promise'", "'Rare Hope'"],
-    "correctAnswer": "'SHAURYA: A Father's Promise'"
-  },
-  {
-    "id": 16,
-    "question": "The book 'SHAURYA: A Father's Promise' primarily advocates for the implementation of what kind of policy?",
-    "options": ["A comprehensive National Education Policy", "A comprehensive National Rare Disease Policy", "A comprehensive National Healthcare Policy", "A comprehensive National Sports Policy"],
-    "correctAnswer": "A comprehensive National Rare Disease Policy"
-  },
-  {
-    "id": 17,
-    "question": "The book 'SHAURYA: A Father's Promise' chronicles a son's battle with which specific rare disease?",
-    "options": ["Cystic Fibrosis", "Muscular Dystrophy", "MPS II", "Hemophilia"],
-    "correctAnswer": "MPS II"
-  },
-  {
-    "id": 18,
-    "question": "Besides its founder, who among the following was recently appointed as a spokesperson for the Cockroach Janta Party (CJP)?",
-    "options": ["Rahul Gandhi", "Priyanka Gandhi", "Saurav Das", "Arvind Kejriwal"],
-    "correctAnswer": "Saurav Das"
-  },
-  {
-    "id": 19,
-    "question": "Ekta Diwas, on which the DoPT's IAS mentorship meet is planned, is annually observed to commemorate the birth anniversary of which national leader?",
-    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Dr. B.R. Ambedkar"],
+    "question": "The IAS mentorship and knowledge-sharing event is planned by DoPT at the Statue of Unity on 'Ekta Diwas'. What significant historical figure is commemorated by the Statue of Unity?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Subhas Chandra Bose"],
     "correctAnswer": "Sardar Vallabhbhai Patel"
   },
   {
+    "id": 13,
+    "question": "The DoPT initiative for IAS officers at the Statue of Unity on Ekta Diwas was inspired by whose suggestion?",
+    "options": ["The President of India", "The Prime Minister of India", "The Union Home Minister", "The Cabinet Secretary"],
+    "correctAnswer": "The Prime Minister of India"
+  },
+  {
+    "id": 14,
+    "question": "Which central government department is responsible for requesting states and UTs to nominate IAS officers for the mentorship meet at the Statue of Unity, an event that will include officers from Andhra Pradesh and Telangana cadres?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Department of Personnel and Training (DoPT)", "NITI Aayog"],
+    "correctAnswer": "Department of Personnel and Training (DoPT)"
+  },
+  {
+    "id": 15,
+    "question": "Ekta Diwas, on which the DoPT plans its IAS mentorship meet at the Statue of Unity, is celebrated annually on which date?",
+    "options": ["October 2nd", "October 31st", "November 14th", "January 26th"],
+    "correctAnswer": "October 31st"
+  },
+  {
+    "id": 16,
+    "question": "RJD's Manoj Jha defended assisting the CJP in holding a press conference at the Constitution Club. The Constitution Club of India is located in which major Indian city, a center for national politics and media?",
+    "options": ["Mumbai", "Kolkata", "New Delhi", "Bengaluru"],
+    "correctAnswer": "New Delhi"
+  },
+  {
+    "id": 17,
+    "question": "Manoj Jha is a prominent leader of which political party, which has a significant presence in states like Bihar but also participates in national political discourse impacting all states, including Telangana and Andhra Pradesh?",
+    "options": ["JD(U)", "RJD", "Congress", "BJP"],
+    "correctAnswer": "RJD"
+  },
+  {
+    "id": 18,
+    "question": "Industrialist Kumar Mangalam Birla lauded the RSS for its century of service, emphasizing its role in nation-building. The RSS (Rashtriya Swayamsevak Sangh) is a prominent organization active across India, including in which of the following states known for its cultural heritage?",
+    "options": ["Punjab", "Assam", "Rajasthan", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": 19,
+    "question": "Kumar Mangalam Birla spoke of India's opportune moment amidst global shifts and the transformative impact of AI. The industrial group he heads is a major conglomerate with operations across various sectors in India, including manufacturing and services that contribute to the economy of states like Telangana. What is the name of this industrial group?",
+    "options": ["Reliance Industries", "Tata Group", "Adani Group", "Aditya Birla Group"],
+    "correctAnswer": "Aditya Birla Group"
+  },
+  {
     "id": 20,
-    "question": "Kumar Mangalam Birla lauded the RSS for its consistent societal and national support, highlighting its enduring strength in service for approximately how long?",
-    "options": ["A decade", "Half a century", "A century", "Two centuries"],
-    "correctAnswer": "A century"
+    "question": "Kumar Mangalam Birla mentioned the \"century of service\" by the RSS. The RSS was founded in which year?",
+    "options": ["1905", "1925", "1947", "1965"],
+    "correctAnswer": "1925"
   },
   {
     "id": 21,
-    "question": "According to Kumar Mangalam Birla, India is at an opportune moment amidst what kind of global phenomenon?",
-    "options": ["Economic Recession", "Political Instability", "Global Shifts", "Environmental Crisis"],
-    "correctAnswer": "Global Shifts"
+    "question": "A TCS employee in Nashik detailed alleged conversion efforts in a police chargesheet. TCS (Tata Consultancy Services) is a global IT services and consulting company with a significant presence in major Indian IT hubs, including which city in Telangana, often called 'Cyberabad'?",
+    "options": ["Bengaluru", "Chennai", "Pune", "Hyderabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 22,
-    "question": "IIT Roorkee's successful Data Science and AI BTech program, which achieved 100% placements, was a collaboration with which foundation?",
-    "options": ["Tata Trust", "Reliance Foundation", "Mehta Family Foundation", "Azim Premji Foundation"],
-    "correctAnswer": "Mehta Family Foundation"
+    "question": "The chargesheet in the TCS case mentioned alleged attempts to convert the victim to Islam. Which Indian state has a significant presence of the IT giant TCS, as highlighted by the recent news from Nashik?",
+    "options": ["Maharashtra", "Gujarat", "West Bengal", "Uttar Pradesh"],
+    "correctAnswer": "Maharashtra"
   },
   {
     "id": 23,
-    "question": "Which recently prominent political party, led by Abhijeet Dipke, has been in the news for its protests regarding national examination controversies?",
-    "options": ["Aam Aadmi Party", "Bahujan Samaj Party", "Cockroach Janta Party (CJP)", "Janata Dal (United)"],
-    "correctAnswer": "Cockroach Janta Party (CJP)"
+    "question": "Ritabrata Banerjee's political rise in West Bengal politics is described as a \"sensational political shift.\" West Bengal shares a rich history with other Indian states. Which of the following is the capital city of West Bengal?",
+    "options": ["Bhubaneswar", "Patna", "Kolkata", "Ranchi"],
+    "correctAnswer": "Kolkata"
   },
   {
     "id": 24,
-    "question": "Kumar Mangalam Birla, while speaking on India's growth, stressed the need for national resilience during what he termed a 'critical development phase' amidst global shifts and transformative technology. What was the core message about national resilience?",
-    "options": ["Increasing military power", "Strengthening international alliances", "Adapting to changes and challenges", "Promoting cultural heritage"],
-    "correctAnswer": "Adapting to changes and challenges"
+    "question": "Tamil Nadu BJP president Nainar Nagenthran dismissed rumors about K Annamalai's resignation. Annamalai previously served as an IPS officer before joining politics. Which Union Minister did Annamalai reportedly meet, fueling speculation about his political future?",
+    "options": ["Rajnath Singh", "Amit Shah", "Nitin Gadkari", "S. Jaishankar"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 25,
-    "question": "The DoPT's upcoming mentorship and knowledge-sharing event for IAS officers is specifically designed for which categories of officers?",
-    "options": ["Retired and serving IAS officers", "Senior and young IAS officers", "Only female IAS officers", "Only IAS officers from a single cadre"],
-    "correctAnswer": "Senior and young IAS officers"
+    "question": "The news discussed the political activities of the BJP in Tamil Nadu, a major South Indian state. Which of the following is one of the neighboring states of Tamil Nadu, whose political developments often impact regional dynamics, including those in Andhra Pradesh?",
+    "options": ["Kerala", "Odisha", "Karnataka", "Both A and C"],
+    "correctAnswer": "Both A and C"
   }
 ]

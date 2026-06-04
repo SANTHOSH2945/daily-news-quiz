@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What recent stance has the Supreme Court taken regarding police officers found abusing their authority in India?",
-    "options": ["They should be treated with leniency.", "Normal presumptions for accused individuals will apply.", "They must face strict consequences.", "Their cases should be referred to state police boards only."],
-    "correctAnswer": "They must face strict consequences."
+    "question": "The Union Cabinet has recommended an ordinance to ease tax rules for which type of investors in certain securities?",
+    "options": [
+      "Domestic Institutional Investors (DIIs)",
+      "Non-Resident Indians (NRIs)",
+      "Foreign Portfolio Investors (FPIs)",
+      "Small and Medium Enterprises (SMEs)"
+    ],
+    "correctAnswer": "Foreign Portfolio Investors (FPIs)"
   },
   {
     "id": 2,
-    "question": "According to the Supreme Court's recent directive, applicable across India including Telangana and Andhra Pradesh, what is the consequence for police officers abusing their position, specifically concerning anticipatory bail?",
-    "options": ["They are automatically granted anticipatory bail.", "Anticipatory bail can be cancelled for them.", "Anticipatory bail remains unaffected.", "Only regular bail is applicable to them."],
-    "correctAnswer": "Anticipatory bail can be cancelled for them."
+    "question": "What is a primary objective of the Union Cabinet's recent move to ease tax rules for foreign investors?",
+    "options": [
+      "To increase domestic consumption",
+      "To strengthen the Indian rupee",
+      "To reduce government expenditure",
+      "To boost agricultural exports"
+    ],
+    "correctAnswer": "To strengthen the Indian rupee"
   },
   {
     "id": 3,
-    "question": "The Supreme Court emphasized that normal presumptions for accused individuals do not apply to whom, in cases of abuse of authority?",
-    "options": ["Civilian protestors", "Elected representatives", "Police officers abusing their position", "Judicial officials"],
-    "correctAnswer": "Police officers abusing their position"
+    "question": "Foreign Portfolio Investors (FPIs) had previously raised concerns regarding which two specific taxes, influencing the new ordinance?",
+    "options": [
+      "Goods and Services Tax (GST) and Income Tax",
+      "Property Tax and Corporate Tax",
+      "Capital Gains Tax and Securities Transaction Tax (STT)",
+      "Excise Duty and Customs Duty"
+    ],
+    "correctAnswer": "Capital Gains Tax and Securities Transaction Tax (STT)"
   },
   {
     "id": 4,
-    "question": "A recent Supreme Court ruling highlighted the need for stern action against police officers abusing authority. This ruling applies across all Indian states, including Telangana and Andhra Pradesh. What specific form of relief was denied to accused police officers in a related case mentioned in the news?",
-    "options": ["Regular bail", "Parole", "Anticipatory bail", "Judicial custody"],
-    "correctAnswer": "Anticipatory bail"
+    "question": "Which specific financial instruments are primarily targeted by the ordinance to ease tax rules for foreign investors?",
+    "options": [
+      "Real estate properties",
+      "Commodity futures",
+      "Certain securities",
+      "Cryptocurrencies"
+    ],
+    "correctAnswer": "Certain securities"
   },
   {
     "id": 5,
-    "question": "What was the recent Supreme Court ruling regarding individuals with qualifications exceeding the maximum prescribed for a job?",
-    "options": ["They must be given preference.", "They can be disqualified from the job.", "Their qualifications are irrelevant.", "They can only apply for higher positions."],
-    "correctAnswer": "They can be disqualified from the job."
+    "question": "According to Hardeep Singh Puri, what is considered a practical solution to reduce India's crude oil imports?",
+    "options": [
+      "Increasing public transportation ridership",
+      "Promoting electric vehicles",
+      "Implementing flex-fuel vehicles",
+      "Subsidizing solar panels"
+    ],
+    "correctAnswer": "Implementing flex-fuel vehicles"
   },
   {
     "id": 6,
-    "question": "The Supreme Court's decision to allow barring overqualified persons from jobs aims to ensure employment opportunities for which group?",
-    "options": ["Candidates with advanced degrees", "Those with lower educational attainment", "Experienced professionals", "Foreign-educated individuals"],
-    "correctAnswer": "Those with lower educational attainment"
+    "question": "The national initiative to promote flex-fuel vehicles is primarily aimed at achieving which broader economic and environmental goal for India?",
+    "options": [
+      "Increasing vehicle exports",
+      "Reducing dependence on crude imports",
+      "Enhancing road safety",
+      "Boosting domestic steel production"
+    ],
+    "correctAnswer": "Reducing dependence on crude imports"
   },
   {
     "id": 7,
-    "question": "According to a recent Supreme Court judgment applicable across India, including Telangana and Andhra Pradesh, what is a valid reason to disqualify a candidate for a job?",
-    "options": ["Lack of experience", "Being overqualified beyond the maximum prescribed", "Having too many professional certifications", "Attending a private university"],
-    "correctAnswer": "Being overqualified beyond the maximum prescribed"
+    "question": "Which national education board recently clarified that public sector bank accounts are not exclusively required for paying re-evaluation fees?",
+    "options": [
+      "UGC",
+      "CBSE",
+      "AICTE",
+      "NTA"
+    ],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 8,
-    "question": "A recent Supreme Court ruling prevents overqualified candidates from displacing genuinely eligible applicants. What is the core principle behind this judgment, which impacts employment opportunities across India?",
-    "options": ["Promoting higher education for all.", "Ensuring employment opportunities for those with lower educational attainment.", "Prioritizing practical experience over academic qualifications.", "Streamlining the recruitment process."],
-    "correctAnswer": "Ensuring employment opportunities for those with lower educational attainment."
+    "question": "For which specific class's answer sheet verification and re-evaluation did CBSE issue clarification regarding payment options?",
+    "options": [
+      "Class X",
+      "Class XII",
+      "Class VIII",
+      "Class XI"
+    ],
+    "correctAnswer": "Class XII"
   },
   {
     "id": 9,
-    "question": "How many suspicious user IDs did IRCTC recently deactivate to combat ticket booking fraud across India?",
-    "options": ["Over 6 crore", "Over 3 crore", "Over 9 crore", "Over 1 crore"],
-    "correctAnswer": "Over 3 crore"
+    "question": "What significant challenge did the CBSE online portal successfully overcome shortly after its launch for re-evaluation applications?",
+    "options": [
+      "Server overload due to high traffic",
+      "A major power outage",
+      "A significant cyberattack attempt",
+      "Software compatibility issues"
+    ],
+    "correctAnswer": "A significant cyberattack attempt"
   },
   {
     "id": 10,
-    "question": "What is the total number of user accounts IRCTC has recently verified in its efforts against ticket booking fraud, impacting users across states like Telangana and Andhra Pradesh?",
-    "options": ["3 crore", "9 crore", "6 crore", "2.5 crore"],
-    "correctAnswer": "6 crore"
+    "question": "Apart from specific bank accounts, what other options did CBSE confirm for paying re-evaluation fees for Class XII answer sheets?",
+    "options": [
+      "Only cash payments at designated centers",
+      "Various online payment options",
+      "Demand drafts via post",
+      "Direct bank transfers exclusively"
+    ],
+    "correctAnswer": "Various online payment options"
   },
   {
     "id": 11,
-    "question": "What technology is IRCTC expanding to monitor hygiene in railway kitchens across India, including those serving Telangana and Andhra Pradesh?",
-    "options": ["Biometric scanning", "Manual inspection teams", "AI-powered monitoring system", "Drone surveillance"],
-    "correctAnswer": "AI-powered monitoring system"
+    "question": "The Congress party plans to intensify its agitation over the next fortnight, primarily focusing on which two major controversies?",
+    "options": [
+      "Railway privatization and agricultural reforms",
+      "NEET and CBSE examination controversies",
+      "Inflation and unemployment rates",
+      "Border disputes and foreign trade policies"
+    ],
+    "correctAnswer": "NEET and CBSE examination controversies"
   },
   {
     "id": 12,
-    "question": "How many railway kitchens are currently overseen by IRCTC's AI-powered monitoring system nationwide?",
-    "options": ["2,394", "800", "900", "600"],
-    "correctAnswer": "800"
+    "question": "What is the satirical platform 'Cockroach Janta Party' (CJP) primarily protesting against, ahead of its June 6 protest?",
+    "options": [
+      "Fuel price hikes",
+      "Examination controversies",
+      "Labor law reforms",
+      "Healthcare policies"
+    ],
+    "correctAnswer": "Examination controversies"
   },
   {
     "id": 13,
-    "question": "What is the total number of cameras used in IRCTC's AI-powered kitchen monitoring system across India?",
-    "options": ["800", "9 crore", "2,394", "3 crore"],
-    "correctAnswer": "2,394"
+    "question": "What is a key demand of the 'Cockroach Janta Party' (CJP) mentioned in the news regarding the examination controversies?",
+    "options": [
+      "A nationwide re-examination",
+      "Resignation of the Education Minister",
+      "Formation of a new regulatory body",
+      "Increased budget for education"
+    ],
+    "correctAnswer": "Resignation of the Education Minister"
   },
   {
     "id": 14,
-    "question": "How many types of hygiene issues can IRCTC's AI-powered system detect in railway kitchens, a system deployed across states like Telangana and Andhra Pradesh?",
-    "options": ["3 types", "9 types", "5 types", "12 types"],
-    "correctAnswer": "9 types"
+    "question": "Which student wings of the Congress party are reportedly holding nationwide protests on NEET-CBSE controversies?",
+    "options": [
+      "ABVP and SFI",
+      "Youth Congress and NSUI",
+      "Chhatra Yuva Sangharsh Samiti (CYSS) and AISA",
+      "AISF and KSU"
+    ],
+    "correctAnswer": "Youth Congress and NSUI"
   },
   {
     "id": 15,
-    "question": "IRCTC's recent actions against ticket booking fraud and improvements in kitchen hygiene are applicable to railway services across India, directly benefiting passengers in which two prominent southern states mentioned as a focus?",
-    "options": ["Kerala and Karnataka", "Tamil Nadu and Maharashtra", "Telangana and Andhra Pradesh", "Odisha and West Bengal"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "Why did Congress reportedly advise its cadre to ignore the 'Cockroach Janta Party' (CJP) and focus on other issues?",
+    "options": [
+      "CJP's demands were too radical",
+      "Congress did not endorse satirical protests",
+      "Wary of rival parties using the protests for their own agenda",
+      "CJP had no significant public support"
+    ],
+    "correctAnswer": "Wary of rival parties using the protests for their own agenda"
   },
   {
     "id": 16,
-    "question": "The expansion of AI monitoring in railway kitchens by IRCTC primarily aims to ensure what for millions of passengers nationwide?",
-    "options": ["Faster food delivery", "Food quality and hygiene", "Wider menu options", "Reduced food costs"],
-    "correctAnswer": "Food quality and hygiene"
+    "question": "The Congress party emphasized which of the following as their primary concern in the ongoing student and youth issues?",
+    "options": [
+      "UPSC reforms",
+      "NEET",
+      "JEE Mains",
+      "State board exams"
+    ],
+    "correctAnswer": "NEET"
   },
   {
     "id": 17,
-    "question": "Beyond deactivating suspicious accounts, what other significant step has IRCTC taken to ensure food quality for railway passengers across India?",
-    "options": ["Introducing new catering partners.", "Expanding AI-powered kitchen monitoring.", "Offering free meals on all trains.", "Conducting monthly passenger surveys."],
-    "correctAnswer": "Expanding AI-powered kitchen monitoring."
+    "question": "Who was recently sworn in as the Chief Minister of Karnataka?",
+    "options": [
+      "G. Parameshwara",
+      "Siddaramaiah",
+      "D.K. Shivakumar",
+      "Basavaraj Bommai"
+    ],
+    "correctAnswer": "D.K. Shivakumar"
   },
   {
     "id": 18,
-    "question": "IRCTC flagged a significant number of user accounts. What was the primary reason for this action, affecting online ticket bookings for all Indian citizens?",
-    "options": ["Inactivity", "Ticket booking fraud", "VIP bookings", "Bulk travel agency accounts"],
-    "correctAnswer": "Ticket booking fraud"
+    "question": "Alongside D.K. Shivakumar as CM, who was sworn in as the Deputy Chief Minister of Karnataka?",
+    "options": [
+      "Mallikarjun Kharge",
+      "G. Parameshwara",
+      "Rahul Gandhi",
+      "Priyanka Gandhi"
+    ],
+    "correctAnswer": "G. Parameshwara"
   },
   {
     "id": 19,
-    "question": "Which national entity is responsible for expanding AI monitoring across railway kitchens in India, including those serving Telangana and Andhra Pradesh?",
-    "options": ["Indian Railways", "Ministry of Health", "IRCTC", "Food Safety and Standards Authority of India (FSSAI)"],
-    "correctAnswer": "IRCTC"
+    "question": "The formation of the new Karnataka cabinet aimed to balance which key interests, as mentioned in the news?",
+    "options": [
+      "Economic and environmental interests",
+      "Urban and rural interests",
+      "Caste and regional interests",
+      "Industrial and agricultural interests"
+    ],
+    "correctAnswer": "Caste and regional interests"
   },
   {
     "id": 20,
-    "question": "The AI monitoring system in IRCTC kitchens primarily detects issues related to what aspect of food preparation?",
-    "options": ["Cooking speed", "Staff uniforms", "Hygiene", "Ingredient sourcing"],
-    "correctAnswer": "Hygiene"
+    "question": "What were some of the early initiatives announced by the new Karnataka government, specifically focusing on youth welfare?",
+    "options": [
+      "New sports academies and cultural festivals",
+      "Free student bus passes and a private job portal",
+      "Skill development centers and startup incubation funds",
+      "Reduced university fees and hostel subsidies"
+    ],
+    "correctAnswer": "Free student bus passes and a private job portal"
   },
   {
     "id": 21,
-    "question": "What action did IRCTC take concerning over 3 crore suspicious user IDs in its effort to curb fraud for Indian railway passengers?",
-    "options": ["Sent warning emails", "Temporarily suspended them", "Deactivated them", "Asked for re-verification"],
-    "correctAnswer": "Deactivated them"
+    "question": "The swearing-in ceremony of the new Karnataka government highlighted which specific aspects?",
+    "options": [
+      "Economic reforms and development plans",
+      "Scientific advancements and technological innovation",
+      "Religious traditions and drew national Congress leaders",
+      "International diplomacy and foreign policy"
+    ],
+    "correctAnswer": "Religious traditions and drew national Congress leaders"
   },
   {
     "id": 22,
-    "question": "What is the primary purpose of IRCTC's AI-powered kitchen monitoring system, which benefits passengers across all Indian states?",
-    "options": ["To manage inventory", "To ensure food quality and hygiene", "To train new chefs", "To track staff attendance"],
-    "correctAnswer": "To ensure food quality and hygiene"
+    "question": "The composition of the new Karnataka cabinet reportedly reflected the strong influence of which prominent political figure?",
+    "options": [
+      "D.K. Shivakumar",
+      "G. Parameshwara",
+      "Siddaramaiah",
+      "Rahul Gandhi"
+    ],
+    "correctAnswer": "Siddaramaiah"
   },
   {
     "id": 23,
-    "question": "The AI system for kitchen monitoring by IRCTC is operational in approximately how many kitchens nationwide, including those in Telangana and Andhra Pradesh?",
-    "options": ["2,394", "300", "800", "900"],
-    "correctAnswer": "800"
+    "question": "The initiatives such as free student bus passes and a private job portal launched by the new Karnataka government primarily target which segment of the population?",
+    "options": [
+      "Farmers",
+      "Senior citizens",
+      "Youth",
+      "Women"
+    ],
+    "correctAnswer": "Youth"
   },
   {
     "id": 24,
-    "question": "For passengers traveling through states like Telangana and Andhra Pradesh, what new technology is ensuring better food quality in railway kitchens?",
-    "options": ["Advanced cooking robots", "Bio-sensors in food", "AI-powered monitoring system", "Automated food packaging"],
-    "correctAnswer": "AI-powered monitoring system"
+    "question": "Approximately how many applications for Class XII answer sheet verification and re-evaluation had CBSE processed as of the news report?",
+    "options": [
+      "Over 10,000",
+      "Over 25,000",
+      "Over 43,000",
+      "Over 50,000"
+    ],
+    "correctAnswer": "Over 43,000"
   },
   {
     "id": 25,
-    "question": "What specific problem related to ticket booking fraud did IRCTC address by deactivating user accounts, a measure impacting all railway users in India?",
-    "options": ["Duplicate bookings", "Resale of tickets at higher prices", "Suspicious user ID activities", "Bulk ticket cancellations"],
-    "correctAnswer": "Suspicious user ID activities"
+    "question": "Which body officially recommended the ordinance to ease tax rules for foreign investors in certain securities?",
+    "options": [
+      "Reserve Bank of India (RBI)",
+      "Ministry of Finance",
+      "Securities and Exchange Board of India (SEBI)",
+      "The Union Cabinet"
+    ],
+    "correctAnswer": "The Union Cabinet"
   }
 ]

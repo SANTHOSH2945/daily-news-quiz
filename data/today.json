@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which global digital infrastructure firm recently announced a massive Rs 3 lakh crore investment plan in India by 2030, welcomed by PM Modi?",
-    "options": ["Option A", "Option B", "AirTrunk", "Option D"],
-    "correctAnswer": "AirTrunk"
+    "question": "NTPC, a major power generator with presence in Telangana and Andhra Pradesh, is setting up new units. What is the primary type of these new units?",
+    "options": [
+      "Solar farms",
+      "Wind turbines",
+      "Flexible coal-fired units",
+      "Hydroelectric plants"
+    ],
+    "correctAnswer": "Flexible coal-fired units"
   },
   {
     "id": 2,
-    "question": "What is the primary focus of AirTrunk's Rs 3 lakh crore investment plan in India by 2030?",
-    "options": ["A) Renewable energy projects", "B) Digital infrastructure, including data centres", "C) Automotive manufacturing expansion", "D) Pharmaceutical research and development"],
-    "correctAnswer": "B) Digital infrastructure, including data centres"
+    "question": "The flexible coal-fired units being set up by NTPC aim to address a specific challenge in India's energy grid, particularly impacting power distribution in states like Telangana and Andhra Pradesh. What is this challenge?",
+    "options": [
+      "Scarcity of coal reserves",
+      "Intermittent renewable energy generation",
+      "High cost of nuclear power",
+      "Lack of transmission lines"
+    ],
+    "correctAnswer": "Intermittent renewable energy generation"
   },
   {
     "id": 3,
-    "question": "AirTrunk's investment in India aims to boost the country's capabilities in which two key technological areas?",
-    "options": ["A) Biotechnology and Space Exploration", "B) Data Centres and Artificial Intelligence (AI)", "C) Electric Vehicles and Battery Production", "D) Agricultural Technology and Food Processing"],
-    "correctAnswer": "B) Data Centres and Artificial Intelligence (AI)"
+    "question": "To ensure reliable power supply and grid stability in regions including Telangana and Andhra Pradesh, NTPC's new units are designed for what?",
+    "options": [
+      "Continuous base load operation",
+      "Two-shift operation and lower minimum loads",
+      "Exclusive use of imported coal",
+      "Complete shutdown during peak renewable generation"
+    ],
+    "correctAnswer": "Two-shift operation and lower minimum loads"
   },
   {
     "id": 4,
-    "question": "Prime Minister Modi highlighted that AirTrunk's investment would strengthen India's global position in which technology sectors?",
-    "options": ["A) Biotechnology and Pharmaceuticals", "B) Cloud Computing and AI", "C) Renewable Energy and Smart Grids", "D) Space Technology and Defence"],
-    "correctAnswer": "B) Cloud Computing and AI"
+    "question": "How do NTPC's new flexible coal-fired units contribute to India's energy transition, a transition that affects power infrastructure in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "By replacing all existing coal plants",
+      "By providing crucial balancing support for renewable energy",
+      "By exclusively generating renewable power",
+      "By reducing overall power generation capacity"
+    ],
+    "correctAnswer": "By providing crucial balancing support for renewable energy"
   },
   {
     "id": 5,
-    "question": "Beyond strengthening global position, what other significant benefits did PM Modi attribute to the AirTrunk investment in India?",
-    "options": ["A) Boosting agricultural exports and rural development", "B) Creating jobs and driving innovation-led growth", "C) Expanding traditional manufacturing and infrastructure", "D) Enhancing tourism and cultural exchange"],
-    "correctAnswer": "B) Creating jobs and driving innovation-led growth"
+    "question": "What is the overarching goal of NTPC in setting up flexible coal-fired units, aiming to benefit power consumers across India, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "To increase dependence on imported fuel",
+      "To ensure reliable power supply",
+      "To reduce the total number of power plants",
+      "To export surplus power to neighboring countries"
+    ],
+    "correctAnswer": "To ensure reliable power supply"
   },
   {
     "id": 6,
-    "question": "Given the emphasis on data centers and AI in India's digital economy push, which city, a major tech hub in Telangana, is likely to see significant benefits from such investments?",
-    "options": ["A) Visakhapatnam", "B) Amaravati", "C) Hyderabad", "D) Vijayawada"],
-    "correctAnswer": "C) Hyderabad"
+    "question": "The new NTPC units, important for power balancing in the national grid and indirectly for states like Telangana, are described as what type of units?",
+    "options": [
+      "Supercritical units",
+      "Ultra-supercritical units",
+      "Sub-critical units",
+      "Combined cycle gas turbine units"
+    ],
+    "correctAnswer": "Sub-critical units"
   },
   {
     "id": 7,
-    "question": "Andhra Pradesh, with its focus on developing IT and digital capabilities, would classify an investment in digital infrastructure like AirTrunk's as beneficial for which aspect of its economy?",
-    "options": ["A) Primary Sector Growth", "B) Manufacturing Sector Boost", "C) Digital Economy and Services", "D) Traditional Handicrafts Sector"],
-    "correctAnswer": "C) Digital Economy and Services"
+    "question": "As the share of renewable energy grows in India, influencing the power landscape in states like Andhra Pradesh, what critical support will NTPC's flexible coal units provide?",
+    "options": [
+      "Primary generation of renewable energy",
+      "Long-term energy storage",
+      "Reinforcing grid stability and balance",
+      "Reducing transmission losses"
+    ],
+    "correctAnswer": "Reinforcing grid stability and balance"
   },
   {
     "id": 8,
-    "question": "Which national agency, responsible for conducting various entrance examinations, has recently faced scrutiny over alleged irregularities?",
-    "options": ["A) UPSC", "B) SSC", "C) NTA", "D) CBSE"],
-    "correctAnswer": "C) NTA"
+    "question": "What specific operational characteristic makes NTPC's new coal-fired units 'flexible' for grid management in a scenario with increasing renewables, affecting states like Telangana?",
+    "options": [
+      "Ability to run on multiple fuel types",
+      "Designed for two-shift operation and lower minimum loads",
+      "Operated entirely by AI",
+      "Located only near major cities"
+    ],
+    "correctAnswer": "Designed for two-shift operation and lower minimum loads"
   },
   {
     "id": 9,
-    "question": "Congress MP Digvijaya Singh has sought a white paper from PM Modi concerning irregularities in which aspect of NTA's operations?",
-    "options": ["A) Budget Allocation", "B) Examination Management", "C) Employee Recruitment", "D) Infrastructure Development"],
-    "correctAnswer": "B) Examination Management"
+    "question": "NTPC has a significant presence in thermal power generation. Which of the following states benefits from power supplied by NTPC projects, including those within its borders or region?",
+    "options": [
+      "Gujarat",
+      "Punjab",
+      "Andhra Pradesh",
+      "West Bengal"
+    ],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 10,
-    "question": "The recent concerns over NTA irregularities were highlighted with reference to the cancellation of which specific national exam?",
-    "options": ["A) JEE Main", "B) CLAT", "C) NEET-UG 2026", "D) UPSC Civil Services Prelims"],
-    "correctAnswer": "C) NEET-UG 2026"
+    "question": "The intermittency of renewable energy generation poses a challenge for grid operators. What is NTPC's strategy, relevant to power supply in states like Telangana, to counter this intermittency?",
+    "options": [
+      "Building more standalone renewable projects",
+      "Investing solely in hydropower",
+      "Setting up flexible coal-fired thermal units",
+      "Reducing industrial power consumption"
+    ],
+    "correctAnswer": "Setting up flexible coal-fired thermal units"
   },
   {
     "id": 11,
-    "question": "How do alleged irregularities in national exams like NEET-UG, as highlighted by MP Digvijaya Singh, affect students in states like Telangana and Andhra Pradesh?",
-    "options": ["A) They ensure fair competition", "B) They create anxiety and uncertainty", "C) They reduce exam difficulty", "D) They guarantee admission to top colleges"],
-    "correctAnswer": "B) They create anxiety and uncertainty"
+    "question": "Why is 'grid stability' a key concern that NTPC is addressing with its new flexible units, especially as more renewable energy comes online in states like Andhra Pradesh?",
+    "options": [
+      "To prevent cyberattacks on the grid",
+      "To maintain consistent frequency and voltage despite fluctuating supply",
+      "To reduce the cost of electricity",
+      "To enable direct supply to individual households"
+    ],
+    "correctAnswer": "To maintain consistent frequency and voltage despite fluctuating supply"
   },
   {
     "id": 12,
-    "question": "What specific document did Congress MP Digvijaya Singh request from PM Modi regarding NTA's alleged irregularities?",
-    "options": ["A) An audit report", "B) A press conference", "C) A white paper", "D) A policy reform bill"],
-    "correctAnswer": "C) A white paper"
+    "question": "NTPC's move to set up flexible coal-fired units indicates a strategy for India's future energy mix. What does this strategy imply about the role of coal power in the coming decades for states like Telangana?",
+    "options": [
+      "Coal power will be completely phased out",
+      "Coal power will remain crucial for balancing and stability",
+      "Only renewable energy sources will be expanded",
+      "Nuclear power will become the primary source"
+    ],
+    "correctAnswer": "Coal power will remain crucial for balancing and stability"
   },
   {
     "id": 13,
-    "question": "The Congress MP's letter to PM Modi on NTA irregularities covered a span of how many years?",
-    "options": ["A) Three years", "B) Five years", "C) Eight years", "D) Ten years"],
-    "correctAnswer": "C) Eight years"
+    "question": "What does the term 'sub-critical' imply about the new coal-fired units being set up by NTPC, a power producer for states like Andhra Pradesh?",
+    "options": [
+      "They operate at lower temperatures and pressures than supercritical units",
+      "They are environmentally superior to all other coal plants",
+      "They can only generate small amounts of power",
+      "They are primarily used for residential heating"
+    ],
+    "correctAnswer": "They operate at lower temperatures and pressures than supercritical units"
   },
   {
     "id": 14,
-    "question": "In line with India's digital economy push and focus on data centers, which state has been actively promoting Hyderabad as a hub for AI development?",
-    "options": ["A) Karnataka", "B) Maharashtra", "C) Telangana", "D) Tamil Nadu"],
-    "correctAnswer": "C) Telangana"
+    "question": "In the context of India's growing renewable energy sector, how do NTPC's flexible coal units provide 'balancing support' to the grid, benefiting regions like Telangana?",
+    "options": [
+      "By exporting excess renewable power",
+      "By compensating for drops in renewable generation",
+      "By generating more renewable power themselves",
+      "By reducing the need for any power generation"
+    ],
+    "correctAnswer": "By compensating for drops in renewable generation"
   },
   {
     "id": 15,
-    "question": "What kind of infrastructure development is Andhra Pradesh also focusing on to boost its digital economy, similar to the nationwide trend highlighted by AirTrunk's investment?",
-    "options": ["A) Heavy industries", "B) Agro-processing units", "C) Data storage and connectivity", "D) Traditional textile mills"],
-    "correctAnswer": "C) Data storage and connectivity"
+    "question": "The growth of which sector necessitates the deployment of flexible thermal power units by NTPC, impacting the overall power stability in states like Andhra Pradesh?",
+    "options": [
+      "Nuclear power",
+      "Hydroelectric power",
+      "Renewable energy sector",
+      "Gas-fired power"
+    ],
+    "correctAnswer": "Renewable energy sector"
   },
   {
     "id": 16,
-    "question": "Telangana's initiatives in AI are aimed at strengthening its position as a global leader in technology. What kind of investments primarily support this goal?",
-    "options": ["A) Only government funding", "B) Public-private partnerships and foreign investments", "C) Only local startups", "D) Restricted to academic research"],
-    "correctAnswer": "B) Public-private partnerships and foreign investments"
+    "question": "As a Public Sector Undertaking, NTPC's initiatives like these new units are aligned with what national objective related to energy, affecting all states including Telangana?",
+    "options": [
+      "Maximizing private sector profits",
+      "Ensuring national energy security and reliability",
+      "Promoting only imported energy sources",
+      "Reducing the country's carbon footprint to zero immediately"
+    ],
+    "correctAnswer": "Ensuring national energy security and reliability"
   },
   {
     "id": 17,
-    "question": "The growth of the digital economy, bolstered by investments in AI and data centers, is crucial for job creation and innovation in states like Telangana and Andhra Pradesh. Which sector benefits most directly?",
-    "options": ["A) Agriculture", "B) IT and ITES", "C) Mining", "D) Fisheries"],
-    "correctAnswer": "B) IT and ITES"
+    "question": "Flexible coal units are designed to operate efficiently under varying load conditions. What kind of fluctuations in the electricity grid do these units specifically help manage, relevant to power demand in states like Andhra Pradesh?",
+    "options": [
+      "Seasonal variations in temperature",
+      "Rapid changes in electricity demand and supply from renewables",
+      "Long-term decline in industrial activity",
+      "Fixed daily consumption patterns"
+    ],
+    "correctAnswer": "Rapid changes in electricity demand and supply from renewables"
   },
   {
     "id": 18,
-    "question": "Students in Andhra Pradesh, like those nationwide, are reportedly experiencing anxiety due to unresolved leak issues in national exams managed by which body?",
-    "options": ["A) APPSC", "B) TSPSC", "C) NTA", "D) SSC"],
-    "correctAnswer": "C) NTA"
+    "question": "NTPC's investment in flexible coal units indicates a strategic direction for India's power sector. What is this direction, concerning the interplay of traditional and green energy sources in states like Telangana?",
+    "options": [
+      "Phasing out coal completely",
+      "Integrating coal as a flexible partner to renewables",
+      "Shifting entirely to nuclear power",
+      "Prioritizing only solar energy"
+    ],
+    "correctAnswer": "Integrating coal as a flexible partner to renewables"
   },
   {
     "id": 19,
-    "question": "When national exams like NEET-UG are cancelled due to irregularities, what immediate challenge do students from Telangana and Andhra Pradesh often face?",
-    "options": ["A) Automatic admission to desired courses", "B) Delayed career progression and re-preparation", "C) Reduced competition from other states", "D) Access to special scholarships"],
-    "correctAnswer": "B) Delayed career progression and re-preparation"
+    "question": "How would the enhanced grid stability provided by NTPC's flexible units benefit state power utilities (DISCOMs) in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "By increasing their operational costs",
+      "By making their power procurement more predictable and stable",
+      "By forcing them to buy only renewable power",
+      "By reducing the overall demand for electricity"
+    ],
+    "correctAnswer": "By making their power procurement more predictable and stable"
   },
   {
     "id": 20,
-    "question": "Following nationwide concerns about NTA exam irregularities, what role do state governments like Telangana's or Andhra Pradesh's typically play in advocating for their students?",
-    "options": ["A) Directly re-conduct the exams", "B) Lodge official complaints and seek reforms", "C) Ignore national trends", "D) Provide financial aid without addressing the root cause"],
-    "correctAnswer": "B) Lodge official complaints and seek reforms"
+    "question": "During a recent interaction, former US President Donald Trump referred to which Indian leader as a 'good friend'?",
+    "options": [
+      "Rahul Gandhi",
+      "Amit Shah",
+      "Narendra Modi",
+      "S. Jaishankar"
+    ],
+    "correctAnswer": "Narendra Modi"
   },
   {
     "id": 21,
-    "question": "For students in Telangana and Andhra Pradesh aspiring for medical careers, NEET-UG is a critical examination. The recent cancellation due to irregularities directly impacts their prospects for admission to which courses?",
-    "options": ["A) Engineering and Technology", "B) Arts and Humanities", "C) Medical and Dental", "D) Law and Administration"],
-    "correctAnswer": "C) Medical and Dental"
+    "question": "What did Donald Trump recently state regarding the US's economic ties with India?",
+    "options": [
+      "India benefits significantly from its economic ties with the US",
+      "Both countries equally benefit",
+      "The US now benefits significantly from its economic ties with India",
+      "Economic ties are declining"
+    ],
+    "correctAnswer": "The US now benefits significantly from its economic ties with India"
   },
   {
     "id": 22,
-    "question": "AirTrunk, the company behind the Rs 3 lakh crore investment in India's digital infrastructure, is backed by which major global investment firm?",
-    "options": ["A) The Carlyle Group", "B) KKR", "C) Blackstone", "D) SoftBank"],
-    "correctAnswer": "C) Blackstone"
+    "question": "What did Donald Trump express confidence in regarding US-India relations?",
+    "options": [
+      "A new defense pact",
+      "A cultural exchange program",
+      "A trade agreement",
+      "Joint space exploration"
+    ],
+    "correctAnswer": "A trade agreement"
   },
   {
     "id": 23,
-    "question": "By what year does AirTrunk plan to execute its Rs 3 lakh crore investment in India?",
-    "options": ["A) 2025", "B) 2028", "C) 2030", "D) 2035"],
-    "correctAnswer": "C) 2030"
+    "question": "An incident involving Donald Trump and an Indian journalist recently triggered a 'racism row.' What was the core of Trump's controversial remark?",
+    "options": [
+      "He criticized India's economic policies",
+      "He questioned the journalist's nationality",
+      "He refused to answer a question",
+      "He praised China over India"
+    ],
+    "correctAnswer": "He questioned the journalist's nationality"
   },
   {
     "id": 24,
-    "question": "Telangana has actively positioned itself to attract large-scale data center investments. This strategy aligns with which national push welcomed by PM Modi regarding digital infrastructure?",
-    "options": ["A) Agricultural mechanization", "B) Space research expansion", "C) Digital economy and cloud computing growth", "D) Traditional manufacturing revival"],
-    "correctAnswer": "C) Digital economy and cloud computing growth"
+    "question": "The journalist involved in the recent 'racism row' with Donald Trump was from which country?",
+    "options": [
+      "China",
+      "Pakistan",
+      "India",
+      "United Kingdom"
+    ],
+    "correctAnswer": "India"
   },
   {
     "id": 25,
-    "question": "With its developing smart cities and SEZs, Andhra Pradesh is also a potential location for investments in digital infrastructure. What kind of infrastructure development would directly benefit from AirTrunk-like initiatives?",
-    "options": ["A) New highways and bridges", "B) Power plants and grids", "C) High-speed internet and data storage facilities", "D) Seaports and logistics hubs"],
-    "correctAnswer": "C) High-speed internet and data storage facilities"
+    "question": "How did Donald Trump characterize the current state of US economic relations with India, suggesting a shift from previous periods?",
+    "options": [
+      "Balanced",
+      "Unprofitable for the US",
+      "Highly beneficial for India",
+      "Significantly beneficial for the US"
+    ],
+    "correctAnswer": "Significantly beneficial for the US"
   }
 ]

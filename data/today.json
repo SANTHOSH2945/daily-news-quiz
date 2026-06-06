@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Due to portal issues, CBSE extended the deadline for Class 12 verification. How does this extension primarily benefit students in states like Telangana and Andhra Pradesh?",
-    "options": ["By allowing them to apply for state board examinations.", "By providing more time to address concerns about CBSE answer sheets.", "By enabling them to switch to international boards.", "By offering scholarships for higher education."],
-    "correctAnswer": "By providing more time to address concerns about CBSE answer sheets."
+    "question": "What percentage of India's shrimp export rejections are attributed to the presence of banned antibiotics, according to recent reports?",
+    "options": ["25%", "33%", "43%", "50%"],
+    "correctAnswer": "43%"
   },
   {
     "id": 2,
-    "question": "What was the reason for CBSE extending the deadline for Class 12 post-result applications?",
-    "options": ["National holiday declaration", "Lack of applications", "Portal access issues", "Change in examination pattern"],
-    "correctAnswer": "Portal access issues"
+    "question": "Which regulatory body in India is advocating for stricter enforcement regarding the use of banned antibiotics in shrimp farming for export?",
+    "options": ["FSSAI", "APEDA", "CDSCO", "MPEDA"],
+    "correctAnswer": "CDSCO"
   },
   {
     "id": 3,
-    "question": "The extended deadline for CBSE Class 12 answer sheet verification and re-evaluation is now until which date?",
-    "options": ["June 1st", "June 7th", "July 1st", "July 7th"],
-    "correctAnswer": "June 7th"
+    "question": "The issue of banned antibiotics leading to shrimp export rejections significantly impacts which key economic sector in Andhra Pradesh, a leading state in this area?",
+    "options": ["Dairy farming", "Sericulture", "Aquaculture", "Textile manufacturing"],
+    "correctAnswer": "Aquaculture"
   },
   {
     "id": 4,
-    "question": "What kind of issues were students reporting regarding the CBSE post-result portal?",
-    "options": ["Issues with exam center allocation", "Problems like missing pages or incorrect answer sheets", "Delays in result announcement", "Difficulties in downloading admit cards"],
-    "correctAnswer": "Problems like missing pages or incorrect answer sheets"
+    "question": "What is identified as a primary concern leading to a significant portion of India's shrimp export rejections, as highlighted in recent news?",
+    "options": ["High tariffs", "Poor packaging", "Presence of banned antibiotics", "Inadequate cold chain logistics"],
+    "correctAnswer": "Presence of banned antibiotics"
   },
   {
     "id": 5,
-    "question": "The CBSE decision to extend deadlines is aimed at offering students more time to address concerns about which aspects of their results?",
-    "options": ["Admission dates and fees", "Scanned copies and evaluation discrepancies", "Scholarship eligibility", "Career counseling services"],
-    "correctAnswer": "Scanned copies and evaluation discrepancies"
+    "question": "The CDSCO's call for stricter enforcement against banned antibiotics in shrimp exports primarily aims to address issues related to:",
+    "options": ["Domestic consumption safety", "Export quality and market access", "Preventing local water pollution", "Improving aquaculture yield"],
+    "correctAnswer": "Export quality and market access"
   },
   {
     "id": 6,
-    "question": "The recent NEET protest by groups like the Cockroach Janta Party and Indian Youth Congress reflects concerns for medical aspirants nationwide. How do such protests impact students from Telangana and Andhra Pradesh aiming for medical colleges?",
-    "options": ["They provide direct admissions to state medical colleges.", "They highlight issues and potential reforms in the national medical entrance exam system.", "They offer preferential treatment in state quota seats.", "They lead to the cancellation of state-level entrance exams."],
-    "correctAnswer": "They highlight issues and potential reforms in the national medical entrance exam system."
+    "question": "The 'Cockroach Janta Party' protest at Jantar Mantar primarily called for the resignation of which Union Minister?",
+    "options": ["Home Minister", "Finance Minister", "Education Minister", "Health Minister"],
+    "correctAnswer": "Education Minister"
   },
   {
     "id": 7,
-    "question": "Which newly formed online group initiated a NEET protest mentioned in the news?",
-    "options": ["National Students Union of India", "Cockroach Janta Party (CJP)", "All India Students' Federation", "Students' Federation of India"],
-    "correctAnswer": "Cockroach Janta Party (CJP)"
+    "question": "Which national examinations were cited as reasons for the 'Cockroach Janta Party' protest against the Union Education Minister, impacting students including those from Telangana and Andhra Pradesh?",
+    "options": ["UPSC Civil Services", "JEE Main & Advanced", "NEET, CBSE, CUET, SSC", "CAT & XAT"],
+    "correctAnswer": "NEET, CBSE, CUET, SSC"
   },
   {
     "id": 8,
-    "question": "Which political youth wing rejected an overture from the Cockroach Janta Party for a joint NEET protest?",
-    "options": ["Bharatiya Janata Yuva Morcha", "Youth Akali Dal", "Indian Youth Congress (IYC)", "Nationalist Congress Youth Wing"],
-    "correctAnswer": "Indian Youth Congress (IYC)"
+    "question": "Climate activist Sonam Wangchuk announced a potential six-week hunger strike in solidarity with which protest movement, concerning national examination irregularities?",
+    "options": ["Farmers' protest", "Ladakh climate fast", "Cockroach Janta Party protest", "Anti-privatization movement"],
+    "correctAnswer": "Cockroach Janta Party protest"
   },
   {
     "id": 9,
-    "question": "What was the Indian Youth Congress's stance regarding the joint protest proposal for NEET?",
-    "options": ["They accepted the proposal for broader impact.", "They stated they would not share platforms and would conduct their own protests.", "They postponed their own protests indefinitely.", "They sought a merger with the Cockroach Janta Party."],
-    "correctAnswer": "They stated they would not share platforms and would conduct their own protests."
+    "question": "The 'Cockroach Janta Party' protest against the Union Education Minister is described as primarily comprising which demographic group?",
+    "options": ["Senior citizens", "Farmers", "Students and young professionals", "Industrial workers"],
+    "correctAnswer": "Students and young professionals"
   },
   {
     "id": 10,
-    "question": "The nationwide protests regarding NEET, as mentioned, are primarily focusing on what aspect related to the government?",
-    "options": ["Funding for private medical colleges", "Government accountability regarding exam conduct", "Introducing new medical courses", "Increasing internship durations"],
-    "correctAnswer": "Government accountability regarding exam conduct"
+    "question": "What animal mask was commonly worn by participants in the 'Cockroach Janta Party' protest to symbolize their concerns?",
+    "options": ["Rat", "Cockroach", "Fox", "Bee"],
+    "correctAnswer": "Cockroach"
   },
   {
     "id": 11,
-    "question": "Oil India Limited's discovery of natural gas in the Andaman offshore strengthens India's energy security. How do such national discoveries indirectly benefit states like Telangana and Andhra Pradesh?",
-    "options": ["By directly providing gas pipelines to these states from Andaman.", "By reducing reliance on imported energy, potentially stabilizing national energy prices.", "By establishing new oil refineries in these states.", "By creating direct employment opportunities in Andaman for residents of AP/TS."],
-    "correctAnswer": "By reducing reliance on imported energy, potentially stabilizing national energy prices."
+    "question": "Where did the 'Cockroach Janta Party' gather for their protest against the Union Education Minister regarding examination issues?",
+    "options": ["Parliament House", "India Gate", "Jantar Mantar", "Red Fort"],
+    "correctAnswer": "Jantar Mantar"
   },
   {
     "id": 12,
-    "question": "Which state-run company announced the discovery of natural gas in its third exploratory well off the Andaman Islands?",
-    "options": ["Oil and Natural Gas Corporation (ONGC)", "Gas Authority of India Limited (GAIL)", "Oil India Limited (OIL)", "Hindustan Petroleum Corporation Limited (HPCL)"],
-    "correctAnswer": "Oil India Limited (OIL)"
+    "question": "The main issues prompting the 'Cockroach Janta Party' protest revolved around:",
+    "options": ["Fuel price hikes", "Employment opportunities", "Irregularities in examinations", "Agricultural policies"],
+    "correctAnswer": "Irregularities in examinations"
   },
   {
     "id": 13,
-    "question": "What is the name of the third exploratory well where Oil India Limited discovered natural gas in the Andaman offshore?",
-    "options": ["Mumbai High-3", "Krishna Godavari-3", "Vijayapuram-3", "Cauvery Basin-3"],
-    "correctAnswer": "Vijayapuram-3"
+    "question": "Due to portal access issues, CBSE recently extended the deadline for applications related to which board examination results, affecting students including those in Telangana and Andhra Pradesh?",
+    "options": ["Class 10", "Class 12", "JEE Main", "NEET UG"],
+    "correctAnswer": "Class 12"
   },
   {
     "id": 14,
-    "question": "The discovery of natural gas in the Andaman offshore primarily strengthens which potential of the region?",
-    "options": ["Tourism potential", "Agricultural potential", "Hydrocarbon potential", "Fishing potential"],
-    "correctAnswer": "Hydrocarbon potential"
+    "question": "What was the specific purpose of the CBSE portal for which the deadline was extended for Class 12 students?",
+    "options": ["Exam registration", "Scholarship applications", "Answer sheet verification and re-evaluation", "Fee payment for exams"],
+    "correctAnswer": "Answer sheet verification and re-evaluation"
   },
   {
     "id": 15,
-    "question": "How many of Oil India Limited's three wells in the Andaman offshore block have now established hydrocarbon presence?",
-    "options": ["One", "Two", "Three", "Zero"],
-    "correctAnswer": "Two"
+    "question": "The extension of the CBSE Class 12 application deadline was primarily in response to:",
+    "options": ["Public holidays", "Student requests for more time", "Technical glitches and portal issues", "Natural calamities"],
+    "correctAnswer": "Technical glitches and portal issues"
   },
   {
     "id": 16,
-    "question": "The clarification by JEE (Advanced) authorities about no mass data leak is important for students nationwide. How does this assurance particularly impact candidates from Telangana and Andhra Pradesh aspiring for IITs?",
-    "options": ["It guarantees them admission regardless of their scores.", "It reassures them about the integrity of their examination records and results.", "It provides them with access to previous years' question papers.", "It offers special coaching programs in their states."],
-    "correctAnswer": "It reassures them about the integrity of their examination records and results."
+    "question": "What specific issues did Class 12 students report regarding the CBSE portal that led to the deadline extension?",
+    "options": ["High server load", "Missing pages or incorrect answer sheets", "Lack of language options", "Complex user interface"],
+    "correctAnswer": "Missing pages or incorrect answer sheets"
   },
   {
     "id": 17,
-    "question": "Which institution clarified that a cloud storage misconfiguration did not lead to any mass extraction of JEE (Advanced) candidate data?",
-    "options": ["IIT-Bombay", "IIT-Delhi", "IIT-Roorkee", "IIT-Madras"],
-    "correctAnswer": "IIT-Roorkee"
+    "question": "The extended deadline for CBSE Class 12 answer sheet verification and re-evaluation applications is now until:",
+    "options": ["June 1", "June 7", "June 15", "June 30"],
+    "correctAnswer": "June 7"
   },
   {
     "id": 18,
-    "question": "The JEE (Advanced) authorities stated that the issue was identified by whom?",
-    "options": ["Internal audit team", "Government investigative agency", "An ethical hacker", "A disgruntled former employee"],
-    "correctAnswer": "An ethical hacker"
+    "question": "Given the recent concerns about banned antibiotics in shrimp exports, which Indian state, a leader in aquaculture, is particularly affected by these developments in its economy?",
+    "options": ["Gujarat", "Maharashtra", "West Bengal", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 19,
-    "question": "What kind of issue was identified by the ethical hacker related to JEE (Advanced) data?",
-    "options": ["A physical breach of server rooms", "A phishing scam targeting candidates", "A cloud storage misconfiguration", "A malware attack on official websites"],
-    "correctAnswer": "A cloud storage misconfiguration"
+    "question": "The increased scrutiny on banned antibiotics in shrimp exports, impacting states like Andhra Pradesh, is crucial for maintaining India's trade relations with what kind of markets?",
+    "options": ["Domestic retail", "Regional trade blocs", "International food markets", "Local street vendors"],
+    "correctAnswer": "International food markets"
   },
   {
     "id": 20,
-    "question": "According to IIT-Roorkee, what was the impact of the identified cloud storage issue on examination records or results?",
-    "options": ["Significant impact, requiring re-examination.", "Minor impact, affecting only a few candidates.", "No impact whatsoever.", "Data was partially compromised but restored."],
-    "correctAnswer": "No impact whatsoever."
+    "question": "The Union Education Minister, Dharmendra Pradhan, who has faced calls for resignation from the 'Cockroach Janta Party' regarding national examination issues, heads which specific ministry?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of Education", "Ministry of Health and Family Welfare"],
+    "correctAnswer": "Ministry of Education"
   },
   {
     "id": 21,
-    "question": "A new blood test can predict lung cancer years in advance, which is significant for India. How can this breakthrough particularly benefit the healthcare sector and public health in states like Telangana and Andhra Pradesh?",
-    "options": ["By completely eradicating lung cancer in the region.", "By enabling earlier detection and intervention, potentially improving patient outcomes.", "By making lung cancer treatment free for all citizens.", "By encouraging medical tourism for lung cancer treatment."],
-    "correctAnswer": "By enabling earlier detection and intervention, potentially improving patient outcomes."
+    "question": "The 'Cockroach Janta Party' protest highlighted discontent among students across India, including those in Telangana and Andhra Pradesh, primarily regarding which of the following aspects of the education system?",
+    "options": ["College admission fees", "Examination system and alleged irregularities", "Availability of study materials", "Digital education infrastructure"],
+    "correctAnswer": "Examination system and alleged irregularities"
   },
   {
     "id": 22,
-    "question": "How many years in advance can the new blood test predict lung cancer, according to scientists?",
-    "options": ["1 year", "2 years", "5 years", "10 years"],
-    "correctAnswer": "5 years"
+    "question": "What was the main message conveyed by the 'Cockroach Janta Party' protestors through their demonstration?",
+    "options": ["Support for the current education policies", "Demand for increased government funding in education", "Criticism of alleged corruption and mismanagement in the education sector", "Call for privatizing national examinations"],
+    "correctAnswer": "Criticism of alleged corruption and mismanagement in the education sector"
   },
   {
     "id": 23,
-    "question": "The new blood test identifies individuals at higher risk of lung cancer through what specific signature?",
-    "options": ["A DNA signature", "A 14-protein signature", "A genetic mutation signature", "A cellular enzyme signature"],
-    "correctAnswer": "A 14-protein signature"
+    "question": "The recent extension of the CBSE Class 12 application deadline provides relief to students across India, including those from Telangana and Andhra Pradesh, who experienced difficulties primarily with:",
+    "options": ["Finding examination centers", "Accessing online learning platforms", "Portal access for re-evaluation and verification", "Downloading admit cards"],
+    "correctAnswer": "Portal access for re-evaluation and verification"
   },
   {
     "id": 24,
-    "question": "Why is the early detection of lung cancer particularly important in India, as highlighted in the news?",
-    "options": ["Because there are no existing treatments for lung cancer in India.", "Because most cases in India are currently found at late stages.", "Because India has the highest lung cancer incidence globally.", "Because lung cancer treatment is exceptionally expensive in India."],
-    "correctAnswer": "Because most cases in India are currently found at late stages."
+    "question": "The CBSE, which recently extended its Class 12 post-result application deadline, is a board primarily responsible for which type of education in India, catering to students in states like Telangana and Andhra Pradesh?",
+    "options": ["Higher education", "Primary education", "Secondary and senior secondary education", "Vocational training"],
+    "correctAnswer": "Secondary and senior secondary education"
   },
   {
     "id": 25,
-    "question": "What potential impact could this blood test have for monitoring and preventive measures against lung cancer?",
-    "options": ["It may lead to increased reliance on invasive diagnostic procedures.", "It may lead to a decrease in overall cancer research funding.", "It may lead to earlier monitoring and preventive measures.", "It may only be applicable to a very small subset of the population."],
-    "correctAnswer": "It may lead to earlier monitoring and preventive measures."
+    "question": "The issue of banned antibiotics in shrimp exports highlights the importance of adherence to food safety standards set by:",
+    "options": ["National Seafood Board of India", "Importing countries' food safety authorities", "Bureau of Indian Standards", "Ministry of Agriculture and Farmers Welfare"],
+    "correctAnswer": "Importing countries' food safety authorities"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What percentage of India's shrimp export rejections are attributed to the presence of banned antibiotics, according to recent reports?",
-    "options": ["25%", "33%", "43%", "50%"],
-    "correctAnswer": "43%"
+    "question": "Which national board continues to use Coempt Edutek's OSM system for Class 12 re-evaluation, impacting students in states like Telangana and Andhra Pradesh?",
+    "options": ["CBSE", "ICSE", "NIOS", "State Board of Telangana"],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 2,
-    "question": "Which regulatory body in India is advocating for stricter enforcement regarding the use of banned antibiotics in shrimp farming for export?",
-    "options": ["FSSAI", "APEDA", "CDSCO", "MPEDA"],
-    "correctAnswer": "CDSCO"
+    "question": "The CBSE continues to use which specific system from Coempt Edutek for Class 12 re-evaluation, a crucial process for students in Telangana and Andhra Pradesh?",
+    "options": ["Coempt Edu-Score", "Edutek Re-evaluator", "OSM system", "National Assessment Platform"],
+    "correctAnswer": "OSM system"
   },
   {
     "id": 3,
-    "question": "The issue of banned antibiotics leading to shrimp export rejections significantly impacts which key economic sector in Andhra Pradesh, a leading state in this area?",
-    "options": ["Dairy farming", "Sericulture", "Aquaculture", "Textile manufacturing"],
-    "correctAnswer": "Aquaculture"
+    "question": "Recent protests at Jantar Mantar highlighted concerns regarding which set of national examinations, directly affecting aspiring students from Telangana and Andhra Pradesh?",
+    "options": ["JEE & GATE", "UPSC Civil Services", "NEET, CBSE, CUET, and SSC", "CAT & XAT"],
+    "correctAnswer": "NEET, CBSE, CUET, and SSC"
   },
   {
     "id": 4,
-    "question": "What is identified as a primary concern leading to a significant portion of India's shrimp export rejections, as highlighted in recent news?",
-    "options": ["High tariffs", "Poor packaging", "Presence of banned antibiotics", "Inadequate cold chain logistics"],
-    "correctAnswer": "Presence of banned antibiotics"
+    "question": "The 'Cockroach' party's protest at Jantar Mantar demanded the resignation of which Union Minister over issues related to national examinations, a matter of concern for students across India, including Telangana?",
+    "options": ["Union Finance Minister", "Union Home Minister", "Union Education Minister", "Union Health Minister"],
+    "correctAnswer": "Union Education Minister"
   },
   {
     "id": 5,
-    "question": "The CDSCO's call for stricter enforcement against banned antibiotics in shrimp exports primarily aims to address issues related to:",
-    "options": ["Domestic consumption safety", "Export quality and market access", "Preventing local water pollution", "Improving aquaculture yield"],
-    "correctAnswer": "Export quality and market access"
+    "question": "Who among the following was called for resignation by protesters at Jantar Mantar concerning issues with examinations like NEET and CUET, affecting students from Andhra Pradesh?",
+    "options": ["Dharmendra Pradhan", "Amit Shah", "Nirmala Sitharaman", "Rajnath Singh"],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 6,
-    "question": "The 'Cockroach Janta Party' protest at Jantar Mantar primarily called for the resignation of which Union Minister?",
-    "options": ["Home Minister", "Finance Minister", "Education Minister", "Health Minister"],
-    "correctAnswer": "Education Minister"
+    "question": "Which significant educational issue, impacting thousands of students from Telangana and Andhra Pradesh, was the primary focus of the recent Jantar Mantar protests?",
+    "options": ["Fee hike in private colleges", "Delays in result publication", "Issues linked to examinations such as NEET, CBSE, CUET and SSC", "Shortage of teaching staff"],
+    "correctAnswer": "Issues linked to examinations such as NEET, CBSE, CUET and SSC"
   },
   {
     "id": 7,
-    "question": "Which national examinations were cited as reasons for the 'Cockroach Janta Party' protest against the Union Education Minister, impacting students including those from Telangana and Andhra Pradesh?",
-    "options": ["UPSC Civil Services", "JEE Main & Advanced", "NEET, CBSE, CUET, SSC", "CAT & XAT"],
-    "correctAnswer": "NEET, CBSE, CUET, SSC"
-  },
-  {
-    "id": 8,
-    "question": "Climate activist Sonam Wangchuk announced a potential six-week hunger strike in solidarity with which protest movement, concerning national examination irregularities?",
-    "options": ["Farmers' protest", "Ladakh climate fast", "Cockroach Janta Party protest", "Anti-privatization movement"],
-    "correctAnswer": "Cockroach Janta Party protest"
-  },
-  {
-    "id": 9,
-    "question": "The 'Cockroach Janta Party' protest against the Union Education Minister is described as primarily comprising which demographic group?",
-    "options": ["Senior citizens", "Farmers", "Students and young professionals", "Industrial workers"],
-    "correctAnswer": "Students and young professionals"
-  },
-  {
-    "id": 10,
-    "question": "What animal mask was commonly worn by participants in the 'Cockroach Janta Party' protest to symbolize their concerns?",
-    "options": ["Rat", "Cockroach", "Fox", "Bee"],
+    "question": "Many participants in the Jantar Mantar protest concerning national examination issues, including those from student backgrounds, wore masks of which insect?",
+    "options": ["Butterfly", "Bee", "Cockroach", "Ant"],
     "correctAnswer": "Cockroach"
   },
   {
+    "id": 8,
+    "question": "The controversy surrounding national exams like NEET and CUET affects students from all states. Which major metropolitan city was the site of the recent large-scale protest?",
+    "options": ["Mumbai", "Chennai", "Hyderabad", "Delhi"],
+    "correctAnswer": "Delhi"
+  },
+  {
+    "id": 9,
+    "question": "What was the primary reason cited by protesters for demanding the resignation of the Union Education Minister, a concern shared by students in Andhra Pradesh?",
+    "options": ["Misuse of funds", "Nepotism in appointments", "Issues linked to examinations such as NEET, CBSE, CUET and SSC", "Curriculum changes"],
+    "correctAnswer": "Issues linked to examinations such as NEET, CBSE, CUET and SSC"
+  },
+  {
+    "id": 10,
+    "question": "Coempt Edutek is the company providing the OSM system to CBSE. What is the core function of this system for Class 12 exams?",
+    "options": ["Online registration", "Syllabus distribution", "Question paper generation", "Re-evaluation process"],
+    "correctAnswer": "Re-evaluation process"
+  },
+  {
     "id": 11,
-    "question": "Where did the 'Cockroach Janta Party' gather for their protest against the Union Education Minister regarding examination issues?",
-    "options": ["Parliament House", "India Gate", "Jantar Mantar", "Red Fort"],
-    "correctAnswer": "Jantar Mantar"
+    "question": "Whose speech in the UK was recently disrupted, leading to India's condemnation of 'indecorous behaviour'?",
+    "options": ["The Prime Minister", "The Chief Justice of India (CJI) Surya Kant", "The Foreign Minister", "The Speaker of Lok Sabha"],
+    "correctAnswer": "The Chief Justice of India (CJI) Surya Kant"
   },
   {
     "id": 12,
-    "question": "The main issues prompting the 'Cockroach Janta Party' protest revolved around:",
-    "options": ["Fuel price hikes", "Employment opportunities", "Irregularities in examinations", "Agricultural policies"],
-    "correctAnswer": "Irregularities in examinations"
+    "question": "The disrupted speech by India's Chief Justice of India (CJI) Surya Kant in the UK focused on what crucial contemporary subject, relevant to technological advancements in Telangana?",
+    "options": ["Climate Change Policy", "Economic Reforms", "Artificial Intelligence and International Law", "Space Exploration"],
+    "correctAnswer": "Artificial Intelligence and International Law"
   },
   {
     "id": 13,
-    "question": "Due to portal access issues, CBSE recently extended the deadline for applications related to which board examination results, affecting students including those in Telangana and Andhra Pradesh?",
-    "options": ["Class 10", "Class 12", "JEE Main", "NEET UG"],
-    "correctAnswer": "Class 12"
+    "question": "CJI Surya Kant highlighted AI's influence across various sectors. Which of these was explicitly mentioned as being impacted by AI, reflecting a national trend including in Andhra Pradesh?",
+    "options": ["Agriculture", "Sports", "Tourism", "Justice System"],
+    "correctAnswer": "Justice System"
   },
   {
     "id": 14,
-    "question": "What was the specific purpose of the CBSE portal for which the deadline was extended for Class 12 students?",
-    "options": ["Exam registration", "Scholarship applications", "Answer sheet verification and re-evaluation", "Fee payment for exams"],
-    "correctAnswer": "Answer sheet verification and re-evaluation"
+    "question": "The disruption during CJI Surya Kant's lecture in the UK was condemned by India as what kind of behaviour?",
+    "options": ["Unparliamentary conduct", "Undiplomatic stance", "Indecorous behaviour", "Unprofessional action"],
+    "correctAnswer": "Indecorous behaviour"
   },
   {
     "id": 15,
-    "question": "The extension of the CBSE Class 12 application deadline was primarily in response to:",
-    "options": ["Public holidays", "Student requests for more time", "Technical glitches and portal issues", "Natural calamities"],
-    "correctAnswer": "Technical glitches and portal issues"
+    "question": "In which country did the incident involving the disruption of CJI Surya Kant's speech on AI and international law occur?",
+    "options": ["United States", "United Kingdom", "Canada", "Australia"],
+    "correctAnswer": "United Kingdom"
   },
   {
     "id": 16,
-    "question": "What specific issues did Class 12 students report regarding the CBSE portal that led to the deadline extension?",
-    "options": ["High server load", "Missing pages or incorrect answer sheets", "Lack of language options", "Complex user interface"],
-    "correctAnswer": "Missing pages or incorrect answer sheets"
+    "question": "The topic of Artificial Intelligence (AI) discussed by CJI Surya Kant is particularly relevant to which emerging sector in states like Telangana and Andhra Pradesh?",
+    "options": ["Traditional farming", "Handicrafts", "Information Technology and Innovation", "Heavy manufacturing"],
+    "correctAnswer": "Information Technology and Innovation"
   },
   {
     "id": 17,
-    "question": "The extended deadline for CBSE Class 12 answer sheet verification and re-evaluation applications is now until:",
-    "options": ["June 1", "June 7", "June 15", "June 30"],
-    "correctAnswer": "June 7"
+    "question": "Besides the justice system, CJI Surya Kant mentioned several other sectors influenced by AI. Which of the following was listed?",
+    "options": ["Education", "Healthcare", "Defence", "Entertainment"],
+    "correctAnswer": "Defence"
   },
   {
     "id": 18,
-    "question": "Given the recent concerns about banned antibiotics in shrimp exports, which Indian state, a leader in aquaculture, is particularly affected by these developments in its economy?",
-    "options": ["Gujarat", "Maharashtra", "West Bengal", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What did the organizers do when a participant attempted to question CJI Surya Kant during his speech on AI and international law?",
+    "options": ["Allowed the interaction to continue", "Postponed the speech", "Intervened and prevented the interaction", "Called for security to remove the participant"],
+    "correctAnswer": "Intervened and prevented the interaction"
   },
   {
     "id": 19,
-    "question": "The increased scrutiny on banned antibiotics in shrimp exports, impacting states like Andhra Pradesh, is crucial for maintaining India's trade relations with what kind of markets?",
-    "options": ["Domestic retail", "Regional trade blocs", "International food markets", "Local street vendors"],
-    "correctAnswer": "International food markets"
+    "question": "The lecture delivered by CJI Surya Kant in the UK discussed the intersection of Artificial Intelligence with what other field of law?",
+    "options": ["Constitutional Law", "Criminal Law", "Family Law", "International Law"],
+    "correctAnswer": "International Law"
   },
   {
     "id": 20,
-    "question": "The Union Education Minister, Dharmendra Pradhan, who has faced calls for resignation from the 'Cockroach Janta Party' regarding national examination issues, heads which specific ministry?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of Education", "Ministry of Health and Family Welfare"],
-    "correctAnswer": "Ministry of Education"
+    "question": "A recent Ebola scare in India led to the quarantine of three African nationals in which state, prompting nationwide health alerts including in Telangana and Andhra Pradesh?",
+    "options": ["Kerala", "Maharashtra", "Chhattisgarh", "Uttar Pradesh"],
+    "correctAnswer": "Chhattisgarh"
   },
   {
     "id": 21,
-    "question": "The 'Cockroach Janta Party' protest highlighted discontent among students across India, including those in Telangana and Andhra Pradesh, primarily regarding which of the following aspects of the education system?",
-    "options": ["College admission fees", "Examination system and alleged irregularities", "Availability of study materials", "Digital education infrastructure"],
-    "correctAnswer": "Examination system and alleged irregularities"
+    "question": "In which specific city of Chhattisgarh were individuals quarantined due to suspected Ebola cases, initiating a public health response in India?",
+    "options": ["Raipur", "Bilaspur", "Durg", "Jagdalpur"],
+    "correctAnswer": "Durg"
   },
   {
     "id": 22,
-    "question": "What was the main message conveyed by the 'Cockroach Janta Party' protestors through their demonstration?",
-    "options": ["Support for the current education policies", "Demand for increased government funding in education", "Criticism of alleged corruption and mismanagement in the education sector", "Call for privatizing national examinations"],
-    "correctAnswer": "Criticism of alleged corruption and mismanagement in the education sector"
+    "question": "What is the specified quarantine period for suspected Ebola cases in India, as implemented during the recent scare in Chhattisgarh, a protocol applicable to states like Andhra Pradesh?",
+    "options": ["7 days", "14 days", "21 days", "28 days"],
+    "correctAnswer": "21 days"
   },
   {
     "id": 23,
-    "question": "The recent extension of the CBSE Class 12 application deadline provides relief to students across India, including those from Telangana and Andhra Pradesh, who experienced difficulties primarily with:",
-    "options": ["Finding examination centers", "Accessing online learning platforms", "Portal access for re-evaluation and verification", "Downloading admit cards"],
-    "correctAnswer": "Portal access for re-evaluation and verification"
+    "question": "The World Health Organization (WHO) classified recent Ebola outbreaks in Uganda and DRC as what, heightening vigilance in countries like India?",
+    "options": ["Regional Epidemic Alert", "Global Health Crisis", "Public Health Emergency of International Concern", "Pandemic Threat Level 4"],
+    "correctAnswer": "Public Health Emergency of International Concern"
   },
   {
     "id": 24,
-    "question": "The CBSE, which recently extended its Class 12 post-result application deadline, is a board primarily responsible for which type of education in India, catering to students in states like Telangana and Andhra Pradesh?",
-    "options": ["Higher education", "Primary education", "Secondary and senior secondary education", "Vocational training"],
-    "correctAnswer": "Secondary and senior secondary education"
+    "question": "The state health minister of Chhattisgarh assured preparedness following the Ebola scare. Which type of facilities were specifically put on alert?",
+    "options": ["Airports and railway stations", "Schools and universities", "Hospitals and medical facilities", "Research laboratories"],
+    "correctAnswer": "Hospitals and medical facilities"
   },
   {
     "id": 25,
-    "question": "The issue of banned antibiotics in shrimp exports highlights the importance of adherence to food safety standards set by:",
-    "options": ["National Seafood Board of India", "Importing countries' food safety authorities", "Bureau of Indian Standards", "Ministry of Agriculture and Farmers Welfare"],
-    "correctAnswer": "Importing countries' food safety authorities"
+    "question": "The article 'The bird that woke us up has fallen silent' draws attention to the declining population of which common bird, a concern for urban biodiversity across India, including Telangana's cities?",
+    "options": ["Peacock", "Sparrow", "Pigeon", "Crow"],
+    "correctAnswer": "Sparrow"
   }
 ]

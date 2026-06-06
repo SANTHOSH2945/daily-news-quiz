@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "NTPC, a major power generator with presence in Telangana and Andhra Pradesh, is setting up new units. What is the primary type of these new units?",
-    "options": [
-      "Solar farms",
-      "Wind turbines",
-      "Flexible coal-fired units",
-      "Hydroelectric plants"
-    ],
-    "correctAnswer": "Flexible coal-fired units"
+    "question": "Due to portal issues, CBSE extended the deadline for Class 12 verification. How does this extension primarily benefit students in states like Telangana and Andhra Pradesh?",
+    "options": ["By allowing them to apply for state board examinations.", "By providing more time to address concerns about CBSE answer sheets.", "By enabling them to switch to international boards.", "By offering scholarships for higher education."],
+    "correctAnswer": "By providing more time to address concerns about CBSE answer sheets."
   },
   {
     "id": 2,
-    "question": "The flexible coal-fired units being set up by NTPC aim to address a specific challenge in India's energy grid, particularly impacting power distribution in states like Telangana and Andhra Pradesh. What is this challenge?",
-    "options": [
-      "Scarcity of coal reserves",
-      "Intermittent renewable energy generation",
-      "High cost of nuclear power",
-      "Lack of transmission lines"
-    ],
-    "correctAnswer": "Intermittent renewable energy generation"
+    "question": "What was the reason for CBSE extending the deadline for Class 12 post-result applications?",
+    "options": ["National holiday declaration", "Lack of applications", "Portal access issues", "Change in examination pattern"],
+    "correctAnswer": "Portal access issues"
   },
   {
     "id": 3,
-    "question": "To ensure reliable power supply and grid stability in regions including Telangana and Andhra Pradesh, NTPC's new units are designed for what?",
-    "options": [
-      "Continuous base load operation",
-      "Two-shift operation and lower minimum loads",
-      "Exclusive use of imported coal",
-      "Complete shutdown during peak renewable generation"
-    ],
-    "correctAnswer": "Two-shift operation and lower minimum loads"
+    "question": "The extended deadline for CBSE Class 12 answer sheet verification and re-evaluation is now until which date?",
+    "options": ["June 1st", "June 7th", "July 1st", "July 7th"],
+    "correctAnswer": "June 7th"
   },
   {
     "id": 4,
-    "question": "How do NTPC's new flexible coal-fired units contribute to India's energy transition, a transition that affects power infrastructure in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "By replacing all existing coal plants",
-      "By providing crucial balancing support for renewable energy",
-      "By exclusively generating renewable power",
-      "By reducing overall power generation capacity"
-    ],
-    "correctAnswer": "By providing crucial balancing support for renewable energy"
+    "question": "What kind of issues were students reporting regarding the CBSE post-result portal?",
+    "options": ["Issues with exam center allocation", "Problems like missing pages or incorrect answer sheets", "Delays in result announcement", "Difficulties in downloading admit cards"],
+    "correctAnswer": "Problems like missing pages or incorrect answer sheets"
   },
   {
     "id": 5,
-    "question": "What is the overarching goal of NTPC in setting up flexible coal-fired units, aiming to benefit power consumers across India, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "To increase dependence on imported fuel",
-      "To ensure reliable power supply",
-      "To reduce the total number of power plants",
-      "To export surplus power to neighboring countries"
-    ],
-    "correctAnswer": "To ensure reliable power supply"
+    "question": "The CBSE decision to extend deadlines is aimed at offering students more time to address concerns about which aspects of their results?",
+    "options": ["Admission dates and fees", "Scanned copies and evaluation discrepancies", "Scholarship eligibility", "Career counseling services"],
+    "correctAnswer": "Scanned copies and evaluation discrepancies"
   },
   {
     "id": 6,
-    "question": "The new NTPC units, important for power balancing in the national grid and indirectly for states like Telangana, are described as what type of units?",
-    "options": [
-      "Supercritical units",
-      "Ultra-supercritical units",
-      "Sub-critical units",
-      "Combined cycle gas turbine units"
-    ],
-    "correctAnswer": "Sub-critical units"
+    "question": "The recent NEET protest by groups like the Cockroach Janta Party and Indian Youth Congress reflects concerns for medical aspirants nationwide. How do such protests impact students from Telangana and Andhra Pradesh aiming for medical colleges?",
+    "options": ["They provide direct admissions to state medical colleges.", "They highlight issues and potential reforms in the national medical entrance exam system.", "They offer preferential treatment in state quota seats.", "They lead to the cancellation of state-level entrance exams."],
+    "correctAnswer": "They highlight issues and potential reforms in the national medical entrance exam system."
   },
   {
     "id": 7,
-    "question": "As the share of renewable energy grows in India, influencing the power landscape in states like Andhra Pradesh, what critical support will NTPC's flexible coal units provide?",
-    "options": [
-      "Primary generation of renewable energy",
-      "Long-term energy storage",
-      "Reinforcing grid stability and balance",
-      "Reducing transmission losses"
-    ],
-    "correctAnswer": "Reinforcing grid stability and balance"
+    "question": "Which newly formed online group initiated a NEET protest mentioned in the news?",
+    "options": ["National Students Union of India", "Cockroach Janta Party (CJP)", "All India Students' Federation", "Students' Federation of India"],
+    "correctAnswer": "Cockroach Janta Party (CJP)"
   },
   {
     "id": 8,
-    "question": "What specific operational characteristic makes NTPC's new coal-fired units 'flexible' for grid management in a scenario with increasing renewables, affecting states like Telangana?",
-    "options": [
-      "Ability to run on multiple fuel types",
-      "Designed for two-shift operation and lower minimum loads",
-      "Operated entirely by AI",
-      "Located only near major cities"
-    ],
-    "correctAnswer": "Designed for two-shift operation and lower minimum loads"
+    "question": "Which political youth wing rejected an overture from the Cockroach Janta Party for a joint NEET protest?",
+    "options": ["Bharatiya Janata Yuva Morcha", "Youth Akali Dal", "Indian Youth Congress (IYC)", "Nationalist Congress Youth Wing"],
+    "correctAnswer": "Indian Youth Congress (IYC)"
   },
   {
     "id": 9,
-    "question": "NTPC has a significant presence in thermal power generation. Which of the following states benefits from power supplied by NTPC projects, including those within its borders or region?",
-    "options": [
-      "Gujarat",
-      "Punjab",
-      "Andhra Pradesh",
-      "West Bengal"
-    ],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What was the Indian Youth Congress's stance regarding the joint protest proposal for NEET?",
+    "options": ["They accepted the proposal for broader impact.", "They stated they would not share platforms and would conduct their own protests.", "They postponed their own protests indefinitely.", "They sought a merger with the Cockroach Janta Party."],
+    "correctAnswer": "They stated they would not share platforms and would conduct their own protests."
   },
   {
     "id": 10,
-    "question": "The intermittency of renewable energy generation poses a challenge for grid operators. What is NTPC's strategy, relevant to power supply in states like Telangana, to counter this intermittency?",
-    "options": [
-      "Building more standalone renewable projects",
-      "Investing solely in hydropower",
-      "Setting up flexible coal-fired thermal units",
-      "Reducing industrial power consumption"
-    ],
-    "correctAnswer": "Setting up flexible coal-fired thermal units"
+    "question": "The nationwide protests regarding NEET, as mentioned, are primarily focusing on what aspect related to the government?",
+    "options": ["Funding for private medical colleges", "Government accountability regarding exam conduct", "Introducing new medical courses", "Increasing internship durations"],
+    "correctAnswer": "Government accountability regarding exam conduct"
   },
   {
     "id": 11,
-    "question": "Why is 'grid stability' a key concern that NTPC is addressing with its new flexible units, especially as more renewable energy comes online in states like Andhra Pradesh?",
-    "options": [
-      "To prevent cyberattacks on the grid",
-      "To maintain consistent frequency and voltage despite fluctuating supply",
-      "To reduce the cost of electricity",
-      "To enable direct supply to individual households"
-    ],
-    "correctAnswer": "To maintain consistent frequency and voltage despite fluctuating supply"
+    "question": "Oil India Limited's discovery of natural gas in the Andaman offshore strengthens India's energy security. How do such national discoveries indirectly benefit states like Telangana and Andhra Pradesh?",
+    "options": ["By directly providing gas pipelines to these states from Andaman.", "By reducing reliance on imported energy, potentially stabilizing national energy prices.", "By establishing new oil refineries in these states.", "By creating direct employment opportunities in Andaman for residents of AP/TS."],
+    "correctAnswer": "By reducing reliance on imported energy, potentially stabilizing national energy prices."
   },
   {
     "id": 12,
-    "question": "NTPC's move to set up flexible coal-fired units indicates a strategy for India's future energy mix. What does this strategy imply about the role of coal power in the coming decades for states like Telangana?",
-    "options": [
-      "Coal power will be completely phased out",
-      "Coal power will remain crucial for balancing and stability",
-      "Only renewable energy sources will be expanded",
-      "Nuclear power will become the primary source"
-    ],
-    "correctAnswer": "Coal power will remain crucial for balancing and stability"
+    "question": "Which state-run company announced the discovery of natural gas in its third exploratory well off the Andaman Islands?",
+    "options": ["Oil and Natural Gas Corporation (ONGC)", "Gas Authority of India Limited (GAIL)", "Oil India Limited (OIL)", "Hindustan Petroleum Corporation Limited (HPCL)"],
+    "correctAnswer": "Oil India Limited (OIL)"
   },
   {
     "id": 13,
-    "question": "What does the term 'sub-critical' imply about the new coal-fired units being set up by NTPC, a power producer for states like Andhra Pradesh?",
-    "options": [
-      "They operate at lower temperatures and pressures than supercritical units",
-      "They are environmentally superior to all other coal plants",
-      "They can only generate small amounts of power",
-      "They are primarily used for residential heating"
-    ],
-    "correctAnswer": "They operate at lower temperatures and pressures than supercritical units"
+    "question": "What is the name of the third exploratory well where Oil India Limited discovered natural gas in the Andaman offshore?",
+    "options": ["Mumbai High-3", "Krishna Godavari-3", "Vijayapuram-3", "Cauvery Basin-3"],
+    "correctAnswer": "Vijayapuram-3"
   },
   {
     "id": 14,
-    "question": "In the context of India's growing renewable energy sector, how do NTPC's flexible coal units provide 'balancing support' to the grid, benefiting regions like Telangana?",
-    "options": [
-      "By exporting excess renewable power",
-      "By compensating for drops in renewable generation",
-      "By generating more renewable power themselves",
-      "By reducing the need for any power generation"
-    ],
-    "correctAnswer": "By compensating for drops in renewable generation"
+    "question": "The discovery of natural gas in the Andaman offshore primarily strengthens which potential of the region?",
+    "options": ["Tourism potential", "Agricultural potential", "Hydrocarbon potential", "Fishing potential"],
+    "correctAnswer": "Hydrocarbon potential"
   },
   {
     "id": 15,
-    "question": "The growth of which sector necessitates the deployment of flexible thermal power units by NTPC, impacting the overall power stability in states like Andhra Pradesh?",
-    "options": [
-      "Nuclear power",
-      "Hydroelectric power",
-      "Renewable energy sector",
-      "Gas-fired power"
-    ],
-    "correctAnswer": "Renewable energy sector"
+    "question": "How many of Oil India Limited's three wells in the Andaman offshore block have now established hydrocarbon presence?",
+    "options": ["One", "Two", "Three", "Zero"],
+    "correctAnswer": "Two"
   },
   {
     "id": 16,
-    "question": "As a Public Sector Undertaking, NTPC's initiatives like these new units are aligned with what national objective related to energy, affecting all states including Telangana?",
-    "options": [
-      "Maximizing private sector profits",
-      "Ensuring national energy security and reliability",
-      "Promoting only imported energy sources",
-      "Reducing the country's carbon footprint to zero immediately"
-    ],
-    "correctAnswer": "Ensuring national energy security and reliability"
+    "question": "The clarification by JEE (Advanced) authorities about no mass data leak is important for students nationwide. How does this assurance particularly impact candidates from Telangana and Andhra Pradesh aspiring for IITs?",
+    "options": ["It guarantees them admission regardless of their scores.", "It reassures them about the integrity of their examination records and results.", "It provides them with access to previous years' question papers.", "It offers special coaching programs in their states."],
+    "correctAnswer": "It reassures them about the integrity of their examination records and results."
   },
   {
     "id": 17,
-    "question": "Flexible coal units are designed to operate efficiently under varying load conditions. What kind of fluctuations in the electricity grid do these units specifically help manage, relevant to power demand in states like Andhra Pradesh?",
-    "options": [
-      "Seasonal variations in temperature",
-      "Rapid changes in electricity demand and supply from renewables",
-      "Long-term decline in industrial activity",
-      "Fixed daily consumption patterns"
-    ],
-    "correctAnswer": "Rapid changes in electricity demand and supply from renewables"
+    "question": "Which institution clarified that a cloud storage misconfiguration did not lead to any mass extraction of JEE (Advanced) candidate data?",
+    "options": ["IIT-Bombay", "IIT-Delhi", "IIT-Roorkee", "IIT-Madras"],
+    "correctAnswer": "IIT-Roorkee"
   },
   {
     "id": 18,
-    "question": "NTPC's investment in flexible coal units indicates a strategic direction for India's power sector. What is this direction, concerning the interplay of traditional and green energy sources in states like Telangana?",
-    "options": [
-      "Phasing out coal completely",
-      "Integrating coal as a flexible partner to renewables",
-      "Shifting entirely to nuclear power",
-      "Prioritizing only solar energy"
-    ],
-    "correctAnswer": "Integrating coal as a flexible partner to renewables"
+    "question": "The JEE (Advanced) authorities stated that the issue was identified by whom?",
+    "options": ["Internal audit team", "Government investigative agency", "An ethical hacker", "A disgruntled former employee"],
+    "correctAnswer": "An ethical hacker"
   },
   {
     "id": 19,
-    "question": "How would the enhanced grid stability provided by NTPC's flexible units benefit state power utilities (DISCOMs) in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "By increasing their operational costs",
-      "By making their power procurement more predictable and stable",
-      "By forcing them to buy only renewable power",
-      "By reducing the overall demand for electricity"
-    ],
-    "correctAnswer": "By making their power procurement more predictable and stable"
+    "question": "What kind of issue was identified by the ethical hacker related to JEE (Advanced) data?",
+    "options": ["A physical breach of server rooms", "A phishing scam targeting candidates", "A cloud storage misconfiguration", "A malware attack on official websites"],
+    "correctAnswer": "A cloud storage misconfiguration"
   },
   {
     "id": 20,
-    "question": "During a recent interaction, former US President Donald Trump referred to which Indian leader as a 'good friend'?",
-    "options": [
-      "Rahul Gandhi",
-      "Amit Shah",
-      "Narendra Modi",
-      "S. Jaishankar"
-    ],
-    "correctAnswer": "Narendra Modi"
+    "question": "According to IIT-Roorkee, what was the impact of the identified cloud storage issue on examination records or results?",
+    "options": ["Significant impact, requiring re-examination.", "Minor impact, affecting only a few candidates.", "No impact whatsoever.", "Data was partially compromised but restored."],
+    "correctAnswer": "No impact whatsoever."
   },
   {
     "id": 21,
-    "question": "What did Donald Trump recently state regarding the US's economic ties with India?",
-    "options": [
-      "India benefits significantly from its economic ties with the US",
-      "Both countries equally benefit",
-      "The US now benefits significantly from its economic ties with India",
-      "Economic ties are declining"
-    ],
-    "correctAnswer": "The US now benefits significantly from its economic ties with India"
+    "question": "A new blood test can predict lung cancer years in advance, which is significant for India. How can this breakthrough particularly benefit the healthcare sector and public health in states like Telangana and Andhra Pradesh?",
+    "options": ["By completely eradicating lung cancer in the region.", "By enabling earlier detection and intervention, potentially improving patient outcomes.", "By making lung cancer treatment free for all citizens.", "By encouraging medical tourism for lung cancer treatment."],
+    "correctAnswer": "By enabling earlier detection and intervention, potentially improving patient outcomes."
   },
   {
     "id": 22,
-    "question": "What did Donald Trump express confidence in regarding US-India relations?",
-    "options": [
-      "A new defense pact",
-      "A cultural exchange program",
-      "A trade agreement",
-      "Joint space exploration"
-    ],
-    "correctAnswer": "A trade agreement"
+    "question": "How many years in advance can the new blood test predict lung cancer, according to scientists?",
+    "options": ["1 year", "2 years", "5 years", "10 years"],
+    "correctAnswer": "5 years"
   },
   {
     "id": 23,
-    "question": "An incident involving Donald Trump and an Indian journalist recently triggered a 'racism row.' What was the core of Trump's controversial remark?",
-    "options": [
-      "He criticized India's economic policies",
-      "He questioned the journalist's nationality",
-      "He refused to answer a question",
-      "He praised China over India"
-    ],
-    "correctAnswer": "He questioned the journalist's nationality"
+    "question": "The new blood test identifies individuals at higher risk of lung cancer through what specific signature?",
+    "options": ["A DNA signature", "A 14-protein signature", "A genetic mutation signature", "A cellular enzyme signature"],
+    "correctAnswer": "A 14-protein signature"
   },
   {
     "id": 24,
-    "question": "The journalist involved in the recent 'racism row' with Donald Trump was from which country?",
-    "options": [
-      "China",
-      "Pakistan",
-      "India",
-      "United Kingdom"
-    ],
-    "correctAnswer": "India"
+    "question": "Why is the early detection of lung cancer particularly important in India, as highlighted in the news?",
+    "options": ["Because there are no existing treatments for lung cancer in India.", "Because most cases in India are currently found at late stages.", "Because India has the highest lung cancer incidence globally.", "Because lung cancer treatment is exceptionally expensive in India."],
+    "correctAnswer": "Because most cases in India are currently found at late stages."
   },
   {
     "id": 25,
-    "question": "How did Donald Trump characterize the current state of US economic relations with India, suggesting a shift from previous periods?",
-    "options": [
-      "Balanced",
-      "Unprofitable for the US",
-      "Highly beneficial for India",
-      "Significantly beneficial for the US"
-    ],
-    "correctAnswer": "Significantly beneficial for the US"
+    "question": "What potential impact could this blood test have for monitoring and preventive measures against lung cancer?",
+    "options": ["It may lead to increased reliance on invasive diagnostic procedures.", "It may lead to a decrease in overall cancer research funding.", "It may lead to earlier monitoring and preventive measures.", "It may only be applicable to a very small subset of the population."],
+    "correctAnswer": "It may lead to earlier monitoring and preventive measures."
   }
 ]

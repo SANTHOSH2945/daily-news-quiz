@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What major economic reform initiative has the Telangana government recently focused on to boost industrial investment?",
-    "options": ["T-Hub expansion", "Dharani Portal implementation", "TS-iPASS", "Mission Kakatiya"],
-    "correctAnswer": "TS-iPASS"
+    "question": "Who is the current Chief Minister of Telangana, as mentioned in recent news regarding a controversial statement?",
+    "options": [
+      "K. Chandrashekar Rao",
+      "Revanth Reddy",
+      "Y. S. Jagan Mohan Reddy",
+      "N. Chandrababu Naidu"
+    ],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 2,
-    "question": "Which sector is a primary focus for industrial development and reforms in Andhra Pradesh under the current government?",
-    "options": ["Textile and Apparel", "IT and Electronics", "Automobile Manufacturing", "Food Processing"],
-    "correctAnswer": "IT and Electronics"
+    "question": "What is the name of the task force that Telangana CM Revanth Reddy reportedly linked to Adolf Hitler for inspiration?",
+    "options": [
+      "HYDRAA",
+      "WASAA",
+      "TSF",
+      "GHMC Task Force"
+    ],
+    "correctAnswer": "HYDRAA"
   },
   {
     "id": 3,
-    "question": "A key objective of Telangana's industrial policy reforms is to enhance what aspect for businesses?",
-    "options": ["Promoting agriculture exports", "Subsidizing traditional crafts", "Developing rural healthcare", "Enhancing ease of doing business"],
-    "correctAnswer": "Enhancing ease of doing business"
+    "question": "Which historical figure did Telangana CM Revanth Reddy reportedly claim inspired the name of his task force?",
+    "options": [
+      "Benito Mussolini",
+      "Joseph Stalin",
+      "Adolf Hitler",
+      "Mao Zedong"
+    ],
+    "correctAnswer": "Adolf Hitler"
   },
   {
     "id": 4,
-    "question": "Where is the All India Institute of Medical Sciences (AIIMS) located in Telangana?",
-    "options": ["Warangal", "Bibinagar", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Bibinagar"
+    "question": "According to Telangana CM Revanth Reddy's statement, what word did he claim was Adolf Hitler's favorite?",
+    "options": [
+      "Aryan",
+      "Reich",
+      "Hydra",
+      "Fuhrer"
+    ],
+    "correctAnswer": "Hydra"
   },
   {
     "id": 5,
-    "question": "Which city in Andhra Pradesh hosts a prominent AIIMS facility?",
-    "options": ["Visakhapatnam", "Vijayawada", "Mangalagiri", "Tirupati"],
-    "correctAnswer": "Mangalagiri"
+    "question": "Which major political party criticized Telangana CM Revanth Reddy's statements about Hitler and his task force?",
+    "options": [
+      "Congress",
+      "BRS",
+      "BJP",
+      "AIMIM"
+    ],
+    "correctAnswer": "BJP"
   },
   {
     "id": 6,
-    "question": "What major initiative has the Telangana government launched to improve public eye health across the state, including rural areas?",
-    "options": ["Arogya Telangana", "Basthi Dawakhana", "Kanti Velugu", "Health @Doorstep"],
-    "correctAnswer": "Kanti Velugu"
+    "question": "What specific claim did Telangana CM Revanth Reddy make about 'Hydra' regarding Hitler's core team?",
+    "options": [
+      "It was a propaganda unit",
+      "It was a security detail",
+      "It was an assassination squad",
+      "It was a paramilitary wing"
+    ],
+    "correctAnswer": "It was an assassination squad"
   },
   {
     "id": 7,
-    "question": "Andhra Pradesh recently launched a scheme to improve infrastructure in government schools and hospitals. What is it known as?",
-    "options": ["Amma Vodi", "Nadu-Nedu", "YSR Rythu Bharosa", "Jagananna Vidya Deevena"],
-    "correctAnswer": "Nadu-Nedu"
+    "question": "The BJP accused the Congress of displaying a 'dangerous Hitler mindset' in response to whose recent statements?",
+    "options": [
+      "Rahul Gandhi",
+      "Mallikarjun Kharge",
+      "Revanth Reddy",
+      "Siddaramaiah"
+    ],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 8,
-    "question": "What is the name of the flagship health insurance scheme for the poor in Andhra Pradesh, which covers a wide range of medical treatments?",
-    "options": ["PMJAY", "Aarogyasri", "Arogya Raksha", "Jeevan Bima"],
-    "correctAnswer": "Aarogyasri"
+    "question": "The recent controversy involving Telangana CM Revanth Reddy's remarks specifically concerned the inspiration for what?",
+    "options": [
+      "A new government scheme",
+      "A political slogan",
+      "A task force name",
+      "A state emblem design"
+    ],
+    "correctAnswer": "A task force name"
   },
   {
     "id": 9,
-    "question": "Telangana's KCR Kit scheme aims to reduce maternal and infant mortality by providing what to new mothers?",
-    "options": ["Free ambulance service", "Subsidized vaccinations for children", "Financial assistance and essentials for mother and newborn", "Free medical check-ups during pregnancy"],
-    "correctAnswer": "Financial assistance and essentials for mother and newborn"
+    "question": "Telangana Chief Minister Revanth Reddy made claims regarding the word 'Hydra' in the context of what specific group?",
+    "options": [
+      "His party's youth wing",
+      "His core team/task force",
+      "A new police unit",
+      "A historical research group"
+    ],
+    "correctAnswer": "His core team/task force"
   },
   {
     "id": 10,
-    "question": "Who is the current Chief Minister of Telangana as of late 2023 / early 2024?",
-    "options": ["K. Chandrashekar Rao", "A. Revanth Reddy", "K. T. Rama Rao", "N. Chandrababu Naidu"],
-    "correctAnswer": "A. Revanth Reddy"
+    "question": "What was the BJP's primary accusation against Congress regarding CM Revanth Reddy's controversial statements?",
+    "options": [
+      "Promoting anti-national sentiments",
+      "Echoing Rahul Gandhi's language and displaying a 'dangerous Hitler mindset'",
+      "Disrespecting national heroes",
+      "Spreading misinformation"
+    ],
+    "correctAnswer": "Echoing Rahul Gandhi's language and displaying a 'dangerous Hitler mindset'"
   },
   {
     "id": 11,
-    "question": "Who is the current Chief Minister of Andhra Pradesh?",
-    "options": ["Y. S. Jagan Mohan Reddy", "N. Chandrababu Naidu", "Pawan Kalyan", "K. Rosaiah"],
-    "correctAnswer": "Y. S. Jagan Mohan Reddy"
+    "question": "The controversy surrounding Telangana CM Revanth Reddy's statement specifically linked 'Hydra' to Hitler's what?",
+    "options": [
+      "Favorite pet",
+      "Military strategy",
+      "Core team",
+      "Economic policy"
+    ],
+    "correctAnswer": "Core team"
   },
   {
     "id": 12,
-    "question": "Which political party currently governs Telangana?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "What was the BJP's reaction to Telangana CM Revanth Reddy's claims regarding Hitler's inspiration for his task force?",
+    "options": [
+      "They supported his historical research",
+      "They expressed mild disagreement",
+      "They fumed at his claims",
+      "They remained silent"
+    ],
+    "correctAnswer": "They fumed at his claims"
   },
   {
     "id": 13,
-    "question": "Which political party currently governs Andhra Pradesh?",
-    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "What is cited as a potential benefit of shifting India's massive entrance exam system online?",
+    "options": [
+      "Increased travel time",
+      "Higher printing costs",
+      "Reduced environmental impact",
+      "Slower result processing"
+    ],
+    "correctAnswer": "Reduced environmental impact"
   },
   {
     "id": 14,
-    "question": "What type of major political protest in Hyderabad recently drew significant attention regarding youth issues?",
-    "options": ["Farmers' protest against land acquisition", "Students' protest demanding job notifications", "Employees' protest for pay revision", "Doctors' protest for better working conditions"],
-    "correctAnswer": "Students' protest demanding job notifications"
+    "question": "What is a significant hurdle mentioned for a widespread shift to online entrance exams in India?",
+    "options": [
+      "Lack of exam content",
+      "Abundant digital infrastructure",
+      "Digital divide in infrastructure and familiarity",
+      "Excessive internet speed"
+    ],
+    "correctAnswer": "Digital divide in infrastructure and familiarity"
   },
   {
     "id": 15,
-    "question": "What is the name of the prominent state-level alliance formed by opposition parties in Andhra Pradesh ahead of the upcoming elections?",
-    "options": ["Praja Kutami", "Mahakutami", "TDP-Jana Sena-BJP alliance", "United Progressive Alliance (UPA)"],
-    "correctAnswer": "TDP-Jana Sena-BJP alliance"
+    "question": "What is considered paramount for a successful widespread shift to online exams in India?",
+    "options": [
+      "Increasing exam fees",
+      "Ensuring equitable access and preparation for all students",
+      "Limiting access to rural areas",
+      "Reducing the number of exams"
+    ],
+    "correctAnswer": "Ensuring equitable access and preparation for all students"
   },
   {
     "id": 16,
-    "question": "Telangana recently held Assembly elections in late 2023. What was the outcome regarding the then-ruling party, BRS?",
-    "options": ["BRS retained power with a reduced majority.", "BRS lost power to the Congress party.", "BRS formed a coalition government.", "BRS achieved a landslide victory."],
-    "correctAnswer": "BRS lost power to the Congress party."
+    "question": "The news discusses the challenges and potential benefits of transitioning which system to online in India?",
+    "options": [
+      "Public transportation booking",
+      "Massive entrance exam system",
+      "Healthcare record management",
+      "Agricultural market sales"
+    ],
+    "correctAnswer": "Massive entrance exam system"
   },
   {
     "id": 17,
-    "question": "The Andhra Pradesh government recently undertook a significant administrative reform that involved facing legal challenges regarding what?",
-    "options": ["Implementation of welfare schemes", "Construction of new Secretariat", "Reorganization of districts", "Privatization of state-owned enterprises"],
-    "correctAnswer": "Reorganization of districts"
+    "question": "Which political party issued a seven-day ultimatum to the government regarding alleged examination and recruitment irregularities?",
+    "options": [
+      "Indian National Congress",
+      "Bharatiya Janata Party",
+      "Cockroach Janta Party",
+      "Aam Aadmi Party"
+    ],
+    "correctAnswer": "Cockroach Janta Party"
   },
   {
     "id": 18,
-    "question": "Which historical site in Telangana is a UNESCO World Heritage Site and a major tourism draw?",
-    "options": ["Golconda Fort", "Charminar", "Ramappa Temple", "Warangal Fort"],
-    "correctAnswer": "Ramappa Temple"
+    "question": "The Cockroach Janta Party's primary demand, as stated in the news, concerns the removal or resignation of which Union Minister?",
+    "options": [
+      "Union Home Minister",
+      "Union Finance Minister",
+      "Union Education Minister",
+      "Union Health Minister"
+    ],
+    "correctAnswer": "Union Education Minister"
   },
   {
     "id": 19,
-    "question": "What is the primary focus of the Andhra Pradesh tourism department for promoting its extensive coastline?",
-    "options": ["Developing spiritual circuits", "Promoting eco-tourism and beaches", "Attracting adventure sports enthusiasts", "Marketing historical monuments"],
-    "correctAnswer": "Promoting eco-tourism and beaches"
+    "question": "Where did the Cockroach Janta Party organize a large protest over alleged examination and recruitment irregularities?",
+    "options": [
+      "Red Fort",
+      "India Gate",
+      "Jantar Mantar",
+      "Parliament House"
+    ],
+    "correctAnswer": "Jantar Mantar"
   },
   {
     "id": 20,
-    "question": "Telangana's Yadadri Temple City project aims to boost religious tourism centered around which deity?",
-    "options": ["Lord Shiva", "Lord Vishnu (Narasimha)", "Goddess Durga", "Lord Ganesha"],
-    "correctAnswer": "Lord Vishnu (Narasimha)"
+    "question": "What action is the Cockroach Janta Party threatening if their demands regarding exam irregularities are not met?",
+    "options": [
+      "Court injunctions",
+      "Nationwide protests",
+      "Formation of a new government",
+      "International appeals"
+    ],
+    "correctAnswer": "Nationwide protests"
   },
   {
     "id": 21,
-    "question": "What is the name of the famous flower festival in Telangana that is a major cultural and tourist attraction?",
-    "options": ["Bonalu", "Bathukamma", "Sammakka Saralamma Jatara", "Dasara"],
-    "correctAnswer": "Bathukamma"
+    "question": "Who is the Union Education Minister whose resignation or removal is being demanded by the Cockroach Janta Party?",
+    "options": [
+      "Amit Shah",
+      "Nirmala Sitharaman",
+      "Dharmendra Pradhan",
+      "S. Jaishankar"
+    ],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 22,
-    "question": "Which major irrigation project in Telangana is known globally for its multi-stage lift system and massive scale?",
-    "options": ["Sripada Yellampalli Project", "Kaleshwaram Lift Irrigation Project", "Palamuru-Rangareddy Lift Irrigation Project", "Devadula Lift Irrigation Project"],
-    "correctAnswer": "Kaleshwaram Lift Irrigation Project"
+    "question": "The article titled 'Keeping the lights on: How India manages its power demand' primarily focuses on what aspect of India?",
+    "options": [
+      "Renewable energy production",
+      "Electricity grid modernization",
+      "Management of power demand",
+      "Rural electrification programs"
+    ],
+    "correctAnswer": "Management of power demand"
   },
   {
     "id": 23,
-    "question": "What is the name of the international airport serving Hyderabad, a major gateway to Telangana?",
-    "options": ["Rajiv Gandhi International Airport", "Begumpet Airport", "Shamshabad International Airport", "Hyderabad City Airport"],
-    "correctAnswer": "Rajiv Gandhi International Airport"
+    "question": "Which essential service's management strategy in India is highlighted in the news?",
+    "options": [
+      "Water supply",
+      "Internet connectivity",
+      "Public transport",
+      "Power demand"
+    ],
+    "correctAnswer": "Power demand"
   },
   {
     "id": 24,
-    "question": "As per the current government's three-capital proposal, which city is designated as the executive capital of Andhra Pradesh?",
-    "options": ["Amaravati", "Visakhapatnam", "Kurnool", "Vijayawada"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "Which political alliance recently convened a huddle in Delhi amidst internal rifts and recent election defeats?",
+    "options": [
+      "NDA",
+      "UPA",
+      "INDIA bloc",
+      "Third Front"
+    ],
+    "correctAnswer": "INDIA bloc"
   },
   {
     "id": 25,
-    "question": "What is the name of the massive afforestation program undertaken by the Telangana government to increase green cover across the state?",
-    "options": ["Mission Bhagiratha", "Haritha Haram", "Palle Pragathi", "Pattana Pragathi"],
-    "correctAnswer": "Haritha Haram"
+    "question": "Approximately how many parties reportedly confirmed their participation in the recent INDIA bloc meeting in Delhi?",
+    "options": [
+      "Fifteen",
+      "Twenty-three",
+      "Thirty-five",
+      "Forty-two"
+    ],
+    "correctAnswer": "Twenty-three"
   }
 ]

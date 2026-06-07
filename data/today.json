@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the current Chief Minister of Telangana, as mentioned in recent news regarding a controversial statement?",
-    "options": [
-      "K. Chandrashekar Rao",
-      "Revanth Reddy",
-      "Y. S. Jagan Mohan Reddy",
-      "N. Chandrababu Naidu"
-    ],
-    "correctAnswer": "Revanth Reddy"
+    "question": "The Land Port Management System (LPMS) emphasizes digital platforms for efficiency. Which major Indian state, known for its IT sector and digital governance initiatives, aligns with this focus on digital infrastructure and efficient administration?",
+    "options": ["Telangana", "Gujarat", "Rajasthan", "Punjab"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 2,
-    "question": "What is the name of the task force that Telangana CM Revanth Reddy reportedly linked to Adolf Hitler for inspiration?",
-    "options": [
-      "HYDRAA",
-      "WASAA",
-      "TSF",
-      "GHMC Task Force"
-    ],
-    "correctAnswer": "HYDRAA"
+    "question": "The Land Port Management System (LPMS) aims to streamline operations using digital platforms. In the context of national digital initiatives, which of the following is a key component of 'Digital Telangana', emphasizing paperless governance and citizen services?",
+    "options": ["MeeSeva", "DigiLocker", "UMANG", "e-NAM"],
+    "correctAnswer": "MeeSeva"
   },
   {
     "id": 3,
-    "question": "Which historical figure did Telangana CM Revanth Reddy reportedly claim inspired the name of his task force?",
-    "options": [
-      "Benito Mussolini",
-      "Joseph Stalin",
-      "Adolf Hitler",
-      "Mao Zedong"
-    ],
-    "correctAnswer": "Adolf Hitler"
+    "question": "The Land Port Management System (LPMS) aims for national logistics efficiency. In Andhra Pradesh, which of the following is a major port that serves as a key hub for trade and transport, aligning with national infrastructure goals?",
+    "options": ["Visakhapatnam Port", "Chennai Port", "Paradip Port", "Tuticorin Port"],
+    "correctAnswer": "Visakhapatnam Port"
   },
   {
     "id": 4,
-    "question": "According to Telangana CM Revanth Reddy's statement, what word did he claim was Adolf Hitler's favorite?",
-    "options": [
-      "Aryan",
-      "Reich",
-      "Hydra",
-      "Fuhrer"
-    ],
-    "correctAnswer": "Hydra"
+    "question": "The LPMS initiative promotes 'smarter border operations'. Which of the following initiatives in Andhra Pradesh focuses on smart governance and digital transformation for public services?",
+    "options": ["AP Fiber Grid", "Amma Vodi", "Jagananna Vidya Deevena", "YSR Rythu Bharosa"],
+    "correctAnswer": "AP Fiber Grid"
   },
   {
     "id": 5,
-    "question": "Which major political party criticized Telangana CM Revanth Reddy's statements about Hitler and his task force?",
-    "options": [
-      "Congress",
-      "BRS",
-      "BJP",
-      "AIMIM"
-    ],
-    "correctAnswer": "BJP"
+    "question": "The concept of digital platforms like LPMS is central to modernizing government functions. Telangana has been a pioneer in leveraging technology for administration. Which city in Telangana is widely recognized as a major IT and digital hub of India?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 6,
-    "question": "What specific claim did Telangana CM Revanth Reddy make about 'Hydra' regarding Hitler's core team?",
-    "options": [
-      "It was a propaganda unit",
-      "It was a security detail",
-      "It was an assassination squad",
-      "It was a paramilitary wing"
-    ],
-    "correctAnswer": "It was an assassination squad"
+    "question": "The National Family Health Survey (NFHS) provides critical health data, including anaemia figures, for states like Andhra Pradesh and Telangana. Which agency under the Ministry of Health and Family Welfare is responsible for coordinating and supervising this large-scale survey?",
+    "options": ["National Health Mission", "International Institute for Population Sciences (IIPS)", "Indian Council of Medical Research (ICMR)", "National Centre for Disease Control (NCDC)"],
+    "correctAnswer": "International Institute for Population Sciences (IIPS)"
   },
   {
     "id": 7,
-    "question": "The BJP accused the Congress of displaying a 'dangerous Hitler mindset' in response to whose recent statements?",
-    "options": [
-      "Rahul Gandhi",
-      "Mallikarjun Kharge",
-      "Revanth Reddy",
-      "Siddaramaiah"
-    ],
-    "correctAnswer": "Revanth Reddy"
+    "question": "NFHS-6 data on anaemia is currently missing from fact sheets. What is a common public health initiative implemented in states like Andhra Pradesh and Telangana to combat anaemia, particularly among women and children?",
+    "options": ["Mid-day Meal Scheme", "Janani Shishu Suraksha Karyakram", "Weekly Iron and Folic Acid Supplementation (WIFS) program", "Ayushman Bharat"],
+    "correctAnswer": "Weekly Iron and Folic Acid Supplementation (WIFS) program"
   },
   {
     "id": 8,
-    "question": "The recent controversy involving Telangana CM Revanth Reddy's remarks specifically concerned the inspiration for what?",
-    "options": [
-      "A new government scheme",
-      "A political slogan",
-      "A task force name",
-      "A state emblem design"
-    ],
-    "correctAnswer": "A task force name"
+    "question": "The NFHS provides district-level data that informs state-specific health policies. What is the approximate percentage of women aged 15-49 years in Telangana who were anaemic as per NFHS-5 (2019-21)?",
+    "options": ["35%", "45%", "58%", "65%"],
+    "correctAnswer": "58%"
   },
   {
     "id": 9,
-    "question": "Telangana Chief Minister Revanth Reddy made claims regarding the word 'Hydra' in the context of what specific group?",
-    "options": [
-      "His party's youth wing",
-      "His core team/task force",
-      "A new police unit",
-      "A historical research group"
-    ],
-    "correctAnswer": "His core team/task force"
+    "question": "Similarly, what was the approximate percentage of women aged 15-49 years in Andhra Pradesh who were anaemic as per NFHS-5 (2019-21)?",
+    "options": ["40%", "50%", "60%", "70%"],
+    "correctAnswer": "60%"
   },
   {
     "id": 10,
-    "question": "What was the BJP's primary accusation against Congress regarding CM Revanth Reddy's controversial statements?",
-    "options": [
-      "Promoting anti-national sentiments",
-      "Echoing Rahul Gandhi's language and displaying a 'dangerous Hitler mindset'",
-      "Disrespecting national heroes",
-      "Spreading misinformation"
-    ],
-    "correctAnswer": "Echoing Rahul Gandhi's language and displaying a 'dangerous Hitler mindset'"
+    "question": "The absence of anaemia data from NFHS-6 fact sheets highlights the importance of continuous health monitoring. Which state government program in Andhra Pradesh focuses on improving maternal and child health outcomes, indirectly impacting anaemia prevalence?",
+    "options": ["YSR Aarogyasri", "Jagananna Vidya Deevena", "YSR Sampoorna Poshana", "Pedalandariki Illu"],
+    "correctAnswer": "YSR Sampoorna Poshana"
   },
   {
     "id": 11,
-    "question": "The controversy surrounding Telangana CM Revanth Reddy's statement specifically linked 'Hydra' to Hitler's what?",
-    "options": [
-      "Favorite pet",
-      "Military strategy",
-      "Core team",
-      "Economic policy"
-    ],
-    "correctAnswer": "Core team"
+    "question": "In Telangana, a key government initiative aims to provide nutritious food to pregnant and lactating women and children to combat malnutrition and anaemia. What is this scheme called?",
+    "options": ["KCR Kits", "Arogya Lakshmi", "Mission Indradhanush", "Kalyan Lakshmi"],
+    "correctAnswer": "Arogya Lakshmi"
   },
   {
     "id": 12,
-    "question": "What was the BJP's reaction to Telangana CM Revanth Reddy's claims regarding Hitler's inspiration for his task force?",
-    "options": [
-      "They supported his historical research",
-      "They expressed mild disagreement",
-      "They fumed at his claims",
-      "They remained silent"
-    ],
-    "correctAnswer": "They fumed at his claims"
+    "question": "The news highlights India's management of power demand. Which type of power generation contributes significantly to the energy mix of both Telangana and Andhra Pradesh?",
+    "options": ["Solar Power", "Wind Power", "Thermal Power", "Hydro Power"],
+    "correctAnswer": "Thermal Power"
   },
   {
     "id": 13,
-    "question": "What is cited as a potential benefit of shifting India's massive entrance exam system online?",
-    "options": [
-      "Increased travel time",
-      "Higher printing costs",
-      "Reduced environmental impact",
-      "Slower result processing"
-    ],
-    "correctAnswer": "Reduced environmental impact"
+    "question": "Both Andhra Pradesh and Telangana have made significant strides in renewable energy. Which of the following is a prominent renewable energy source being extensively developed in these states?",
+    "options": ["Geothermal", "Tidal", "Solar", "Nuclear"],
+    "correctAnswer": "Solar"
   },
   {
     "id": 14,
-    "question": "What is a significant hurdle mentioned for a widespread shift to online entrance exams in India?",
-    "options": [
-      "Lack of exam content",
-      "Abundant digital infrastructure",
-      "Digital divide in infrastructure and familiarity",
-      "Excessive internet speed"
-    ],
-    "correctAnswer": "Digital divide in infrastructure and familiarity"
+    "question": "To manage peak power demand, states often rely on various sources. What is the name of the major hydroelectric project located on the Krishna River, shared by Andhra Pradesh and Telangana, which plays a crucial role in meeting regional power needs?",
+    "options": ["Srisailam Dam", "Nagarjuna Sagar Dam", "Polavaram Project", "Dowleswaram Barrage"],
+    "correctAnswer": "Srisailam Dam"
   },
   {
     "id": 15,
-    "question": "What is considered paramount for a successful widespread shift to online exams in India?",
-    "options": [
-      "Increasing exam fees",
-      "Ensuring equitable access and preparation for all students",
-      "Limiting access to rural areas",
-      "Reducing the number of exams"
-    ],
-    "correctAnswer": "Ensuring equitable access and preparation for all students"
+    "question": "Telangana has often reported high peak power demand, especially during agricultural seasons. Which state-owned power generation company primarily fulfills the electricity requirements of Telangana?",
+    "options": ["NTPC", "TSGENCO", "APGENCO", "NHPC"],
+    "correctAnswer": "TSGENCO"
   },
   {
     "id": 16,
-    "question": "The news discusses the challenges and potential benefits of transitioning which system to online in India?",
-    "options": [
-      "Public transportation booking",
-      "Massive entrance exam system",
-      "Healthcare record management",
-      "Agricultural market sales"
-    ],
-    "correctAnswer": "Massive entrance exam system"
+    "question": "Andhra Pradesh is also a key player in the national power sector. Which state-owned power generation company is responsible for electricity generation in Andhra Pradesh?",
+    "options": ["TSGENCO", "APGENCO", "NSPCL", "DVC"],
+    "correctAnswer": "APGENCO"
   },
   {
     "id": 17,
-    "question": "Which political party issued a seven-day ultimatum to the government regarding alleged examination and recruitment irregularities?",
-    "options": [
-      "Indian National Congress",
-      "Bharatiya Janata Party",
-      "Cockroach Janta Party",
-      "Aam Aadmi Party"
-    ],
-    "correctAnswer": "Cockroach Janta Party"
+    "question": "To enhance power supply reliability, states are focusing on improving transmission and distribution. What is the name of the electricity distribution company serving major parts of rural Telangana?",
+    "options": ["TSSPDCL", "TSNPDCL", "TRANSCO", "APCPDCL"],
+    "correctAnswer": "TSNPDCL"
   },
   {
     "id": 18,
-    "question": "The Cockroach Janta Party's primary demand, as stated in the news, concerns the removal or resignation of which Union Minister?",
-    "options": [
-      "Union Home Minister",
-      "Union Finance Minister",
-      "Union Education Minister",
-      "Union Health Minister"
-    ],
-    "correctAnswer": "Union Education Minister"
+    "question": "Similarly, which electricity distribution company serves major parts of rural Andhra Pradesh, particularly in the northern coastal districts?",
+    "options": ["APCPDCL", "APEPDCL", "APSPDCL", "TSNPDCL"],
+    "correctAnswer": "APEPDCL"
   },
   {
     "id": 19,
-    "question": "Where did the Cockroach Janta Party organize a large protest over alleged examination and recruitment irregularities?",
-    "options": [
-      "Red Fort",
-      "India Gate",
-      "Jantar Mantar",
-      "Parliament House"
-    ],
-    "correctAnswer": "Jantar Mantar"
+    "question": "The news mentions national political alliances. In the context of state governance, which political party currently holds power in Telangana?",
+    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 20,
-    "question": "What action is the Cockroach Janta Party threatening if their demands regarding exam irregularities are not met?",
-    "options": [
-      "Court injunctions",
-      "Nationwide protests",
-      "Formation of a new government",
-      "International appeals"
-    ],
-    "correctAnswer": "Nationwide protests"
+    "question": "Which political alliance recently secured a significant victory in the Andhra Pradesh Assembly elections, leading to a change in governance?",
+    "options": ["YSR Congress Party", "TDP+Jana Sena+BJP Alliance", "Indian National Congress", "Bharat Rashtra Samithi"],
+    "correctAnswer": "TDP+Jana Sena+BJP Alliance"
   },
   {
     "id": 21,
-    "question": "Who is the Union Education Minister whose resignation or removal is being demanded by the Cockroach Janta Party?",
-    "options": [
-      "Amit Shah",
-      "Nirmala Sitharaman",
-      "Dharmendra Pradhan",
-      "S. Jaishankar"
-    ],
-    "correctAnswer": "Dharmendra Pradhan"
+    "question": "The news discusses national infrastructure. What is the capital city of Andhra Pradesh, as decided by the state government, currently under development?",
+    "options": ["Visakhapatnam", "Amaravati", "Kurnool", "Vijayawada"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 22,
-    "question": "The article titled 'Keeping the lights on: How India manages its power demand' primarily focuses on what aspect of India?",
-    "options": [
-      "Renewable energy production",
-      "Electricity grid modernization",
-      "Management of power demand",
-      "Rural electrification programs"
-    ],
-    "correctAnswer": "Management of power demand"
+    "question": "To promote industrial growth, Telangana launched a single-window clearance system for investors. What is this system called?",
+    "options": ["TS-iPASS", "T-Hub", "WE-Hub", "RICH"],
+    "correctAnswer": "TS-iPASS"
   },
   {
     "id": 23,
-    "question": "Which essential service's management strategy in India is highlighted in the news?",
-    "options": [
-      "Water supply",
-      "Internet connectivity",
-      "Public transport",
-      "Power demand"
-    ],
-    "correctAnswer": "Power demand"
+    "question": "Andhra Pradesh also has a dedicated investment promotion body to attract industries and streamline approvals. Which organization serves this purpose?",
+    "options": ["APIIC", "APCO", "APSRTC", "APMDC"],
+    "correctAnswer": "APIIC"
   },
   {
     "id": 24,
-    "question": "Which political alliance recently convened a huddle in Delhi amidst internal rifts and recent election defeats?",
-    "options": [
-      "NDA",
-      "UPA",
-      "INDIA bloc",
-      "Third Front"
-    ],
-    "correctAnswer": "INDIA bloc"
+    "question": "The news touches upon social welfare schemes. Which flagship scheme in Telangana provides financial assistance to farmers for investment support for crops?",
+    "options": ["Rythu Bandhu", "Dalit Bandhu", "KCR Kits", "Aasara Pensions"],
+    "correctAnswer": "Rythu Bandhu"
   },
   {
     "id": 25,
-    "question": "Approximately how many parties reportedly confirmed their participation in the recent INDIA bloc meeting in Delhi?",
-    "options": [
-      "Fifteen",
-      "Twenty-three",
-      "Thirty-five",
-      "Forty-two"
-    ],
-    "correctAnswer": "Twenty-three"
+    "question": "In Andhra Pradesh, a similar scheme provides financial support to farmers. What is this scheme called?",
+    "options": ["YSR Rythu Bharosa", "Jagananna Vidya Deevena", "Amma Vodi", "YSR Cheyutha"],
+    "correctAnswer": "YSR Rythu Bharosa"
   }
 ]

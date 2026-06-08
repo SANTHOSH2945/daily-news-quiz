@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What primary aim did the INDIA bloc emphasize regarding democratic processes in their recent meeting?",
-    "options": [
-      "Economic reforms",
-      "Electoral integrity",
-      "Foreign policy alignment",
-      "Healthcare infrastructure"
-    ],
-    "correctAnswer": "Electoral integrity"
+    "question": "Which emerging youth-led political party was discussed by the INDIA bloc, despite not being physically present in their huddle?",
+    "options": ["Youth for Change Party", "Cockroach Janata Party (CJP)", "Progressive Youth Front", "Democratic Youth Alliance"],
+    "correctAnswer": "Cockroach Janata Party (CJP)"
   },
   {
     "id": 2,
-    "question": "The INDIA bloc recently called for the resignation of a Union Minister concerning which national issue?",
-    "options": [
-      "Agricultural subsidies",
-      "Exam controversies",
-      "Border disputes",
-      "Industrial policy"
-    ],
-    "correctAnswer": "Exam controversies"
+    "question": "What key message did INDIA bloc allies convey to Congress during their first post-election meeting?",
+    "options": ["To adopt a more aggressive stance against BJP", "To be 'large-hearted' towards regional partners", "To focus solely on national issues", "To expand the bloc by inviting new members"],
+    "correctAnswer": "To be 'large-hearted' towards regional partners"
   },
   {
     "id": 3,
-    "question": "Which national economic discussion did the INDIA bloc propose for an all-party meeting?",
-    "options": [
-      "Banking sector regulations",
-      "Digital payments policy",
-      "The overall state of the economy",
-      "Tourism development"
-    ],
-    "correctAnswer": "The overall state of the economy"
+    "question": "Which political party criticized remarks made by Congress during the Kerala polls at the recent INDIA bloc meeting?",
+    "options": ["DMK", "TMC", "CPM", "NCP"],
+    "correctAnswer": "CPM"
   },
   {
     "id": 4,
-    "question": "Which major opposition alliance recently held a key meeting to discuss national issues and coordination?",
-    "options": [
-      "National Democratic Alliance (NDA)",
-      "United Progressive Alliance (UPA)",
-      "Left Democratic Front (LDF)",
-      "INDIA bloc"
-    ],
-    "correctAnswer": "INDIA bloc"
+    "question": "Which leader from the Congress party assured commitment to the INDIA bloc alliance during their recent meeting?",
+    "options": ["Mallikarjun Kharge", "Sonia Gandhi", "Rahul Gandhi", "Priyanka Gandhi Vadra"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 5,
-    "question": "Some regional MPs in India have expressed intentions to align with the BJP-led national coalition. What is this coalition called?",
-    "options": [
-      "INDIA bloc",
-      "United Front",
-      "National Democratic Alliance (NDA)",
-      "Third Front"
-    ],
-    "correctAnswer": "National Democratic Alliance (NDA)"
+    "question": "Which political party mocked the INDIA bloc's recent meeting, suggesting their gatherings have shrunk significantly?",
+    "options": ["Bharatiya Janata Party (BJP)", "Bahujan Samaj Party (BSP)", "Aam Aadmi Party (AAP)", "Shiv Sena (UBT)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 6,
-    "question": "Regional parties, including those in Telangana and Andhra Pradesh, play a crucial role in national politics. What significant aspect of national politics do they often influence, as highlighted by recent news?",
-    "options": [
-      "International trade agreements",
-      "Formation of national government alliances",
-      "Defense procurements",
-      "Space exploration policies"
-    ],
-    "correctAnswer": "Formation of national government alliances"
+    "question": "According to BJP MP Sambit Patra, what has the INDIA bloc alliance lost?",
+    "options": ["Its original charter", "Internal discipline", "Public support and credibility", "Financial backing from allies"],
+    "correctAnswer": "Public support and credibility"
   },
   {
     "id": 7,
-    "question": "The Lok Sabha Speaker was recently addressed by MPs from a regional party regarding their political intentions. Which parliamentary position oversees such official communications from elected representatives?",
-    "options": [
-      "Prime Minister",
-      "Chief Justice of India",
-      "Lok Sabha Speaker",
-      "President of India"
-    ],
-    "correctAnswer": "Lok Sabha Speaker"
+    "question": "What type of issues did INDIA bloc leaders discuss during their recent meeting, as mentioned in the news?",
+    "options": ["International relations and foreign policy", "Internal party reforms and leadership changes", "The NEET-CBSE row and the economy", "Agricultural policies and farmer welfare"],
+    "correctAnswer": "The NEET-CBSE row and the economy"
   },
   {
     "id": 8,
-    "question": "To enhance internal coordination, the INDIA bloc pledged to conduct meetings with what frequency?",
-    "options": [
-      "Annually",
-      "Quarterly",
-      "Bi-monthly",
-      "Weekly"
-    ],
-    "correctAnswer": "Bi-monthly"
+    "question": "How frequently do INDIA bloc leaders plan to meet, as decided recently?",
+    "options": ["Every month", "Every six months", "Annually", "Every two months"],
+    "correctAnswer": "Every two months"
   },
   {
     "id": 9,
-    "question": "During the monsoon session, how frequently did the INDIA bloc agree to coordinate its strategy in Parliament?",
-    "options": [
-      "Only at the beginning and end",
-      "Daily",
-      "Once a week",
-      "As needed"
-    ],
-    "correctAnswer": "Daily"
+    "question": "Unlike Mamata Banerjee, who chose to focus on rebuilding his own turf rather than fully engaging with the INDIA bloc after losing power?",
+    "options": ["Sharad Pawar", "Arvind Kejriwal", "MK Stalin", "Akhilesh Yadav"],
+    "correctAnswer": "MK Stalin"
   },
   {
     "id": 10,
-    "question": "The news highlights that some regional leaders maintain distance from national alliances. For regional parties in states like Telangana and Andhra Pradesh, what is a common motivation for such an approach?",
-    "options": [
-      "To attract foreign investment exclusively",
-      "To preserve regional identity and autonomy",
-      "To focus solely on international relations",
-      "To boycott all legislative proceedings"
-    ],
-    "correctAnswer": "To preserve regional identity and autonomy"
+    "question": "Mamata Banerjee views the INDIA bloc as a source of what, according to the news?",
+    "options": ["Financial aid and resources", "International recognition", "Relevance and protection", "New electoral strategies"],
+    "correctAnswer": "Relevance and protection"
   },
   {
     "id": 11,
-    "question": "Which popular South Indian dish, a staple in Telangana and Andhra Pradesh, was recently part of a social media culinary discussion involving a prominent Indian politician?",
-    "options": [
-      "Biryani",
-      "Dosa",
-      "Idli",
-      "Vada"
-    ],
-    "correctAnswer": "Idli"
+    "question": "How many Trinamool Congress (TMC) MPs reportedly wrote to the Lok Sabha Speaker expressing their support for the BJP-led NDA?",
+    "options": ["Approximately 10", "At least 20", "About 5", "All TMC MPs"],
+    "correctAnswer": "At least 20"
   },
   {
     "id": 12,
-    "question": "The culinary discussion about 'idli' by Shashi Tharoor highlighted its significance as a traditional food from which broad region of India?",
-    "options": [
-      "North India",
-      "East India",
-      "West India",
-      "South India"
-    ],
-    "correctAnswer": "South India"
+    "question": "Who is the current Lok Sabha Speaker to whom TMC MPs reportedly wrote their letter of support for the NDA?",
+    "options": ["Sumitra Mahajan", "Meira Kumar", "Om Birla", "G. M. C. Balayogi"],
+    "correctAnswer": "Om Birla"
   },
   {
     "id": 13,
-    "question": "Beyond its culinary aspect, the discussion around 'idli' reflects a broader appreciation for which regional Indian culture that is prominent in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "North-Eastern culture",
-      "Himalayan culture",
-      "South Indian culture",
-      "Central Indian culture"
-    ],
-    "correctAnswer": "South Indian culture"
+    "question": "According to rebel leader Ritabrata Banerjee, what was a key reason for the growing dissent among TMC MPs?",
+    "options": ["Disagreement on national policies", "Lack of funding for local projects", "Disillusionment with party leadership and parliamentary treatment", "Desire for higher ministerial posts"],
+    "correctAnswer": "Disillusionment with party leadership and parliamentary treatment"
   },
   {
     "id": 14,
-    "question": "The issue of 'electoral integrity,' discussed by the INDIA bloc, is vital for fair elections in all Indian states, including Andhra Pradesh and Telangana. What does 'electoral integrity' primarily aim to ensure?",
-    "options": [
-      "Maximum voter turnout",
-      "Fair and transparent election processes",
-      "Reduction of campaign costs",
-      "Mandatory voting for all citizens"
-    ],
-    "correctAnswer": "Fair and transparent election processes"
+    "question": "Which Rajya Sabha MP's resignation was mentioned in connection with the deepening TMC turmoil?",
+    "options": ["Derek O'Brien", "Sukhendu Shekhar Ray", "Sushmita Dev", "Mausam Noor"],
+    "correctAnswer": "Sukhendu Shekhar Ray"
   },
   {
     "id": 15,
-    "question": "Exam controversies are a national concern impacting students across India, including those in Andhra Pradesh and Telangana. What measure was proposed by the INDIA bloc regarding the Union Education Minister?",
-    "options": [
-      "An increase in budget",
-      "A vote of confidence",
-      "A public apology",
-      "A call for resignation"
-    ],
-    "correctAnswer": "A call for resignation"
+    "question": "The move by TMC MPs to support the NDA aims to align with what political course?",
+    "options": ["A more regional focus", "The NDA's political course", "A neutral non-aligned stance", "A renewed opposition strategy"],
+    "correctAnswer": "The NDA's political course"
   },
   {
     "id": 16,
-    "question": "The call for an all-party meeting on the economy by the INDIA bloc is relevant for understanding economic challenges faced by all Indian states. What is one potential impact of a fluctuating national economy on states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Increased state autonomy in foreign policy",
-      "Direct impact on state budget allocations and development projects",
-      "Exclusive control over national fiscal policy",
-      "Guaranteed increase in export revenue"
-    ],
-    "correctAnswer": "Direct impact on state budget allocations and development projects"
+    "question": "How many Indian crew members were safely evacuated after an unladen oil tanker caught fire near Oman?",
+    "options": ["12", "18", "24", "30"],
+    "correctAnswer": "24"
   },
   {
     "id": 17,
-    "question": "India's concern for its seafarers, as mentioned in the news, is particularly relevant for states with coastal lines. Which state among the following, known for its extensive coastline, potentially contributes a significant number of seafarers?",
-    "options": [
-      "Telangana",
-      "Andhra Pradesh",
-      "Madhya Pradesh",
-      "Bihar"
-    ],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What was the name of the unladen oil tanker that caught fire near Oman, carrying Indian crew members?",
+    "options": ["MV Horizon", "MT MARIVEX", "SS Neptune", "MS Seafarer"],
+    "correctAnswer": "MT MARIVEX"
   },
   {
     "id": 18,
-    "question": "The Strait of Hormuz, near where Indian seafarers were reportedly attacked, is a crucial maritime route for trade affecting India. What is its primary economic significance for India?",
-    "options": [
-      "It is a major route for tourist cruises.",
-      "It is vital for India's oil imports and general trade.",
-      "It provides direct access to Europe.",
-      "It is a primary route for freshwater supply."
-    ],
-    "correctAnswer": "It is vital for India's oil imports and general trade."
+    "question": "The MT MARIVEX vessel, which caught fire near Oman, was blacklisted by the OFAC of which country?",
+    "options": ["Russia", "China", "United States", "Iran"],
+    "correctAnswer": "United States"
   },
   {
     "id": 19,
-    "question": "The Forward Seamen's Union of India appealed to authorities for help for distressed Indian seafarers. What is the main role of such unions in India?",
-    "options": [
-      "Organizing cultural festivals",
-      "Managing maritime shipping companies",
-      "Advocating for seafarers' rights and safety",
-      "Issuing maritime navigation licenses"
-    ],
-    "correctAnswer": "Advocating for seafarers' rights and safety"
+    "question": "What was the flag of the vessel MT MARIVEX, which caught fire near Oman?",
+    "options": ["Liberian-flagged", "Panama-flagged", "Marshall Islands-flagged", "Palau-flagged"],
+    "correctAnswer": "Palau-flagged"
   },
   {
     "id": 20,
-    "question": "Maritime security concerns, as highlighted by the attack on a vessel with Indian seafarers, are critical for India, including coastal states like Andhra Pradesh which rely on sea trade. What agency is primarily responsible for protecting India's maritime interests?",
-    "options": [
-      "Indian Army",
-      "Indian Air Force",
-      "Indian Navy",
-      "Indian Coast Guard"
-    ],
-    "correctAnswer": "Indian Navy"
+    "question": "In which city did a tragic accident occur involving a minibus carrying Indian workers that collided with a truck?",
+    "options": ["Riyadh", "Doha", "Dubai", "Kuwait City"],
+    "correctAnswer": "Dubai"
   },
   {
     "id": 21,
-    "question": "The news indicated a shift in political alignment where some regional MPs expressed support for which national bloc?",
-    "options": [
-      "INDIA bloc",
-      "Left Front",
-      "National Democratic Alliance (NDA)",
-      "Samajwadi Party"
-    ],
-    "correctAnswer": "National Democratic Alliance (NDA)"
+    "question": "What was revealed as the cause for the truck stopping unexpectedly in the Dubai accident involving Indian workers?",
+    "options": ["A tire burst", "Driver fell asleep", "A technical issue", "Running out of fuel"],
+    "correctAnswer": "A technical issue"
   },
   {
     "id": 22,
-    "question": "The news mentions 'electoral setbacks' for regional leaders. How might such setbacks influence the strategic decisions of regional parties in states like Telangana and Andhra Pradesh regarding national alliances?",
-    "options": [
-      "They would stop participating in national elections.",
-      "They might encourage seeking new alliances or consolidating regional power.",
-      "They would withdraw completely from political activities.",
-      "They would only focus on international relations."
-    ],
-    "correctAnswer": "They might encourage seeking new alliances or consolidating regional power."
+    "question": "What was suggested as a contributing factor from the bus driver's side in the devastating Dubai crash?",
+    "options": ["Over-speeding", "Driving under influence", "Inattentive driving and failure to maintain a safe distance", "Mechanical failure of the bus"],
+    "correctAnswer": "Inattentive driving and failure to maintain a safe distance"
   },
   {
     "id": 23,
-    "question": "The INDIA bloc decided to petition which constitutional authority regarding concerns about electoral integrity?",
-    "options": [
-      "The President of India",
-      "The Election Commission of India",
-      "The Chief Justice of India (CJI)",
-      "The Union Home Minister"
-    ],
-    "correctAnswer": "The Chief Justice of India (CJI)"
+    "question": "According to the news, 24 Indian seafarers require urgent assistance after their vessel was reportedly attacked off the coast of which country?",
+    "options": ["Yemen", "Somalia", "Oman", "Saudi Arabia"],
+    "correctAnswer": "Oman"
   },
   {
     "id": 24,
-    "question": "The overall 'opposition landscape' in India is changing according to the news. How might this impact the political strategies of regional parties in Andhra Pradesh and Telangana ahead of upcoming elections?",
-    "options": [
-      "It would lead to mandatory mergers with national parties.",
-      "It would have no effect on state-level politics.",
-      "It would force them to reassess alliances, manifestos, and voter outreach.",
-      "It would make them solely focus on local municipal issues."
-    ],
-    "correctAnswer": "It would force them to reassess alliances, manifestos, and voter outreach."
+    "question": "What was Uttar Pradesh's GSDP reported to have soared to, as its economic growth graph inches upwards?",
+    "options": ["Rs. 10.25 lakh crore", "Rs. 20.25 lakh crore", "Rs. 30.25 lakh crore", "Rs. 40.25 lakh crore"],
+    "correctAnswer": "Rs. 30.25 lakh crore"
   },
   {
     "id": 25,
-    "question": "The news about regional leaders and national alliances reflects the federal structure of India. What does the strong presence and influence of regional parties from states like Andhra Pradesh and Telangana signify for Indian democracy?",
-    "options": [
-      "A weakening of the federal system",
-      "A shift towards a unitary form of government",
-      "Vibrant regional representation and diversity in the political landscape",
-      "An exclusive focus on international diplomacy"
-    ],
-    "correctAnswer": "Vibrant regional representation and diversity in the political landscape"
+    "question": "Uttar Pradesh's economic growth graph shows its Compound Annual Growth Rate (CAGR) has hit what percentage?",
+    "options": ["7.5%", "8.9%", "9.6%", "10.8%"],
+    "correctAnswer": "10.8%"
   }
 ]

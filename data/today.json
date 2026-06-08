@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "The Land Port Management System (LPMS) emphasizes digital platforms for efficiency. Which major Indian state, known for its IT sector and digital governance initiatives, aligns with this focus on digital infrastructure and efficient administration?",
-    "options": ["Telangana", "Gujarat", "Rajasthan", "Punjab"],
-    "correctAnswer": "Telangana"
+    "question": "What is the primary reason mentioned in the news for NEET paper setters to be placed in lockdown until the re-exam?",
+    "options": [
+      "To reduce operational costs associated with paper setting",
+      "To prevent leaks and maintain the integrity and security of the examination",
+      "To allow more time for paper setters to revise questions",
+      "To ensure better coordination with national education authorities"
+    ],
+    "correctAnswer": "To prevent leaks and maintain the integrity and security of the examination"
   },
   {
     "id": 2,
-    "question": "The Land Port Management System (LPMS) aims to streamline operations using digital platforms. In the context of national digital initiatives, which of the following is a key component of 'Digital Telangana', emphasizing paperless governance and citizen services?",
-    "options": ["MeeSeva", "DigiLocker", "UMANG", "e-NAM"],
-    "correctAnswer": "MeeSeva"
+    "question": "Which national examination, widely taken by students from Telangana and Andhra Pradesh, requires its paper setters to be in 'lockdown' due to a re-examination?",
+    "options": [
+      "JEE Advanced",
+      "UPSC Civil Services Exam",
+      "NEET (National Eligibility cum Entrance Test)",
+      "CLAT (Common Law Admission Test)"
+    ],
+    "correctAnswer": "NEET (National Eligibility cum Entrance Test)"
   },
   {
     "id": 3,
-    "question": "The Land Port Management System (LPMS) aims for national logistics efficiency. In Andhra Pradesh, which of the following is a major port that serves as a key hub for trade and transport, aligning with national infrastructure goals?",
-    "options": ["Visakhapatnam Port", "Chennai Port", "Paradip Port", "Tuticorin Port"],
-    "correctAnswer": "Visakhapatnam Port"
+    "question": "The 'lockdown' measure for NEET paper setters is primarily aimed at enhancing which aspect of the examination process for all states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Speed of paper setting",
+      "Accessibility for rural students",
+      "Confidentiality and fairness",
+      "Number of examination centers"
+    ],
+    "correctAnswer": "Confidentiality and fairness"
   },
   {
     "id": 4,
-    "question": "The LPMS initiative promotes 'smarter border operations'. Which of the following initiatives in Andhra Pradesh focuses on smart governance and digital transformation for public services?",
-    "options": ["AP Fiber Grid", "Amma Vodi", "Jagananna Vidya Deevena", "YSR Rythu Bharosa"],
-    "correctAnswer": "AP Fiber Grid"
+    "question": "How does the re-examination of NEET, as highlighted in the news, impact medical aspirants from states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It allows them to skip the exam directly",
+      "It necessitates re-preparation and causes uncertainty in their academic schedules",
+      "It provides direct admission to medical colleges",
+      "It only affects students from northern states"
+    ],
+    "correctAnswer": "It necessitates re-preparation and causes uncertainty in their academic schedules"
   },
   {
     "id": 5,
-    "question": "The concept of digital platforms like LPMS is central to modernizing government functions. Telangana has been a pioneer in leveraging technology for administration. Which city in Telangana is widely recognized as a major IT and digital hub of India?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which central agency is primarily responsible for conducting the NEET examination, affecting admissions to medical colleges across India, including in Telangana and Andhra Pradesh?",
+    "options": [
+      "UGC (University Grants Commission)",
+      "NTA (National Testing Agency)",
+      "CBSE (Central Board of Secondary Education)",
+      "AICTE (All India Council for Technical Education)"
+    ],
+    "correctAnswer": "NTA (National Testing Agency)"
   },
   {
     "id": 6,
-    "question": "The National Family Health Survey (NFHS) provides critical health data, including anaemia figures, for states like Andhra Pradesh and Telangana. Which agency under the Ministry of Health and Family Welfare is responsible for coordinating and supervising this large-scale survey?",
-    "options": ["National Health Mission", "International Institute for Population Sciences (IIPS)", "Indian Council of Medical Research (ICMR)", "National Centre for Disease Control (NCDC)"],
-    "correctAnswer": "International Institute for Population Sciences (IIPS)"
+    "question": "The stringent security measures like 'lockdown' for NEET paper setters are a response to what kind of past issues in national examinations, indirectly affecting students in states like Andhra Pradesh?",
+    "options": [
+      "Logistical challenges in distribution",
+      "Paper leaks and malpractices",
+      "Lack of sufficient invigilators",
+      "Delays in result declaration"
+    ],
+    "correctAnswer": "Paper leaks and malpractices"
   },
   {
     "id": 7,
-    "question": "NFHS-6 data on anaemia is currently missing from fact sheets. What is a common public health initiative implemented in states like Andhra Pradesh and Telangana to combat anaemia, particularly among women and children?",
-    "options": ["Mid-day Meal Scheme", "Janani Shishu Suraksha Karyakram", "Weekly Iron and Folic Acid Supplementation (WIFS) program", "Ayushman Bharat"],
-    "correctAnswer": "Weekly Iron and Folic Acid Supplementation (WIFS) program"
+    "question": "What specific challenge might students from Telangana face due to the NEET re-examination, related to their academic planning and career progression?",
+    "options": [
+      "Difficulty in choosing between engineering and medicine",
+      "Potential delays in college admissions and academic year start",
+      "Increased competition due to more candidates",
+      "Requirement to study a new syllabus"
+    ],
+    "correctAnswer": "Potential delays in college admissions and academic year start"
   },
   {
     "id": 8,
-    "question": "The NFHS provides district-level data that informs state-specific health policies. What is the approximate percentage of women aged 15-49 years in Telangana who were anaemic as per NFHS-5 (2019-21)?",
-    "options": ["35%", "45%", "58%", "65%"],
-    "correctAnswer": "58%"
+    "question": "In the context of the NEET re-examination, what does the news imply about the importance of maintaining public trust in the national examination system for states like Andhra Pradesh?",
+    "options": [
+      "It suggests that public trust is irrelevant to exam conduct",
+      "It highlights the critical need for transparency and fairness to ensure student confidence",
+      "It indicates that state-level exams are more trusted than national ones",
+      "It implies that only certain states' students are affected by trust issues"
+    ],
+    "correctAnswer": "It highlights the critical need for transparency and fairness to ensure student confidence"
   },
   {
     "id": 9,
-    "question": "Similarly, what was the approximate percentage of women aged 15-49 years in Andhra Pradesh who were anaemic as per NFHS-5 (2019-21)?",
-    "options": ["40%", "50%", "60%", "70%"],
-    "correctAnswer": "60%"
+    "question": "What kind of educational institutions in Telangana and Andhra Pradesh primarily rely on NEET scores for admissions?",
+    "options": [
+      "Engineering Colleges",
+      "Management Institutes",
+      "Medical and Dental Colleges",
+      "Law Universities"
+    ],
+    "correctAnswer": "Medical and Dental Colleges"
   },
   {
     "id": 10,
-    "question": "The absence of anaemia data from NFHS-6 fact sheets highlights the importance of continuous health monitoring. Which state government program in Andhra Pradesh focuses on improving maternal and child health outcomes, indirectly impacting anaemia prevalence?",
-    "options": ["YSR Aarogyasri", "Jagananna Vidya Deevena", "YSR Sampoorna Poshana", "Pedalandariki Illu"],
-    "correctAnswer": "YSR Sampoorna Poshana"
+    "question": "The news about NEET paper setters being in 'lockdown' signifies a heightened focus on which aspect of the examination process to safeguard student futures in states like Telangana?",
+    "options": [
+      "Question paper difficulty",
+      "Evaluation methodology",
+      "Examination security and integrity",
+      "Number of exam attempts"
+    ],
+    "correctAnswer": "Examination security and integrity"
   },
   {
     "id": 11,
-    "question": "In Telangana, a key government initiative aims to provide nutritious food to pregnant and lactating women and children to combat malnutrition and anaemia. What is this scheme called?",
-    "options": ["KCR Kits", "Arogya Lakshmi", "Mission Indradhanush", "Kalyan Lakshmi"],
-    "correctAnswer": "Arogya Lakshmi"
+    "question": "The news regarding 30 doctors from 9 states taking pharma company junkets highlights what ethical concern for medical professionals in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Lack of travel opportunities for doctors",
+      "Potential conflict of interest and undue influence on prescriptions",
+      "Insufficient knowledge about pharmaceutical products",
+      "High cost of medical conferences"
+    ],
+    "correctAnswer": "Potential conflict of interest and undue influence on prescriptions"
   },
   {
     "id": 12,
-    "question": "The news highlights India's management of power demand. Which type of power generation contributes significantly to the energy mix of both Telangana and Andhra Pradesh?",
-    "options": ["Solar Power", "Wind Power", "Thermal Power", "Hydro Power"],
-    "correctAnswer": "Thermal Power"
+    "question": "If doctors in Andhra Pradesh are found guilty of taking unethical 'junkets' from pharmaceutical companies, which state-level body is typically responsible for taking disciplinary action?",
+    "options": [
+      "Andhra Pradesh High Court",
+      "Andhra Pradesh Medical Council (APMC)",
+      "State Human Rights Commission",
+      "Indian Medical Association (IMA) - State Chapter"
+    ],
+    "correctAnswer": "Andhra Pradesh Medical Council (APMC)"
   },
   {
     "id": 13,
-    "question": "Both Andhra Pradesh and Telangana have made significant strides in renewable energy. Which of the following is a prominent renewable energy source being extensively developed in these states?",
-    "options": ["Geothermal", "Tidal", "Solar", "Nuclear"],
-    "correctAnswer": "Solar"
+    "question": "The news mentions that '6 state medical councils' have not yet acted against guilty doctors. This raises questions about the effectiveness of which regulatory bodies in states, including Telangana?",
+    "options": [
+      "State Pharmacy Councils",
+      "State Medical Councils",
+      "State Bar Councils",
+      "State Nursing Councils"
+    ],
+    "correctAnswer": "State Medical Councils"
   },
   {
     "id": 14,
-    "question": "To manage peak power demand, states often rely on various sources. What is the name of the major hydroelectric project located on the Krishna River, shared by Andhra Pradesh and Telangana, which plays a crucial role in meeting regional power needs?",
-    "options": ["Srisailam Dam", "Nagarjuna Sagar Dam", "Polavaram Project", "Dowleswaram Barrage"],
-    "correctAnswer": "Srisailam Dam"
+    "question": "What is the implied consequence for doctors in states like Telangana and Andhra Pradesh if they are found guilty of serious ethical violations like accepting illegal pharma company junkets?",
+    "options": [
+      "They receive a promotion for their services",
+      "They may face suspension or cancellation of their medical license",
+      "They are given an award for industry collaboration",
+      "They are required to attend more medical conferences"
+    ],
+    "correctAnswer": "They may face suspension or cancellation of their medical license"
   },
   {
     "id": 15,
-    "question": "Telangana has often reported high peak power demand, especially during agricultural seasons. Which state-owned power generation company primarily fulfills the electricity requirements of Telangana?",
-    "options": ["NTPC", "TSGENCO", "APGENCO", "NHPC"],
-    "correctAnswer": "TSGENCO"
+    "question": "Beyond 'junkets', what other forms of unethical influence from pharmaceutical companies are often cautioned against by medical councils in states across India, including AP and Telangana?",
+    "options": [
+      "Providing free medical samples to patients",
+      "Offering gifts, cash, or paid endorsements for specific drugs",
+      "Sponsoring medical research independently",
+      "Organizing educational seminars for doctors"
+    ],
+    "correctAnswer": "Offering gifts, cash, or paid endorsements for specific drugs"
   },
   {
     "id": 16,
-    "question": "Andhra Pradesh is also a key player in the national power sector. Which state-owned power generation company is responsible for electricity generation in Andhra Pradesh?",
-    "options": ["TSGENCO", "APGENCO", "NSPCL", "DVC"],
-    "correctAnswer": "APGENCO"
+    "question": "The common regulatory framework that binds medical councils of all Indian states, including Telangana and Andhra Pradesh, in addressing ethical issues is governed by which national body?",
+    "options": [
+      "Ministry of Health and Family Welfare",
+      "National Medical Commission (NMC)",
+      "Indian Council of Medical Research (ICMR)",
+      "All India Institute of Medical Sciences (AIIMS)"
+    ],
+    "correctAnswer": "National Medical Commission (NMC)"
   },
   {
     "id": 17,
-    "question": "To enhance power supply reliability, states are focusing on improving transmission and distribution. What is the name of the electricity distribution company serving major parts of rural Telangana?",
-    "options": ["TSSPDCL", "TSNPDCL", "TRANSCO", "APCPDCL"],
-    "correctAnswer": "TSNPDCL"
+    "question": "What is the broader impact of alleged pharma-doctor nexus on public health and patient trust in the medical profession within states like Andhra Pradesh?",
+    "options": [
+      "It improves access to advanced medicines",
+      "It erodes public trust and may lead to irrational prescriptions",
+      "It has no discernible impact on public trust",
+      "It makes healthcare more affordable for patients"
+    ],
+    "correctAnswer": "It erodes public trust and may lead to irrational prescriptions"
   },
   {
     "id": 18,
-    "question": "Similarly, which electricity distribution company serves major parts of rural Andhra Pradesh, particularly in the northern coastal districts?",
-    "options": ["APCPDCL", "APEPDCL", "APSPDCL", "TSNPDCL"],
-    "correctAnswer": "APEPDCL"
+    "question": "The news mentions a 'reset' for the INDIA bloc. How might this national political realignment potentially influence the strategies of regional parties in Telangana, such as the BRS or the state unit of Congress?",
+    "options": [
+      "By compelling them to disband their state-level operations",
+      "By creating new opportunities for alliances, negotiations, or stronger opposition roles",
+      "By making state elections irrelevant for national politics",
+      "By dictating their complete merger with the largest national party"
+    ],
+    "correctAnswer": "By creating new opportunities for alliances, negotiations, or stronger opposition roles"
   },
   {
     "id": 19,
-    "question": "The news mentions national political alliances. In the context of state governance, which political party currently holds power in Telangana?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "What is the primary characteristic of the 'INDIA bloc' discussed in the news, which aims for a national political impact that could affect states like Andhra Pradesh?",
+    "options": [
+      "It's a purely economic alliance of states",
+      "It's a military pact between different regions",
+      "It's a political alliance of opposition parties to challenge the ruling government",
+      "It's a cultural exchange program among Indian states"
+    ],
+    "correctAnswer": "It's a political alliance of opposition parties to challenge the ruling government"
   },
   {
     "id": 20,
-    "question": "Which political alliance recently secured a significant victory in the Andhra Pradesh Assembly elections, leading to a change in governance?",
-    "options": ["YSR Congress Party", "TDP+Jana Sena+BJP Alliance", "Indian National Congress", "Bharat Rashtra Samithi"],
-    "correctAnswer": "TDP+Jana Sena+BJP Alliance"
+    "question": "Given the 'reset' for the INDIA bloc, how might this affect the national political strategies of major parties like BJP or Congress in states like Andhra Pradesh?",
+    "options": [
+      "It will force them to abandon their presence in AP",
+      "It could lead to revised alliance strategies and campaigning approaches in AP to secure regional support",
+      "It will make national parties less interested in AP's political landscape",
+      "It mandates a single-party rule across all states including AP"
+    ],
+    "correctAnswer": "It could lead to revised alliance strategies and campaigning approaches in AP to secure regional support"
   },
   {
     "id": 21,
-    "question": "The news discusses national infrastructure. What is the capital city of Andhra Pradesh, as decided by the state government, currently under development?",
-    "options": ["Visakhapatnam", "Amaravati", "Kurnool", "Vijayawada"],
-    "correctAnswer": "Amaravati"
+    "question": "Which major political parties from Telangana or Andhra Pradesh are typically considered significant regional players whose alignment or non-alignment could impact national political alliances like the INDIA bloc?",
+    "options": [
+      "Shiv Sena and Akali Dal",
+      "DMK and TMC",
+      "YSRCP, TDP, and BRS",
+      "AAP and BJD"
+    ],
+    "correctAnswer": "YSRCP, TDP, and BRS"
   },
   {
     "id": 22,
-    "question": "To promote industrial growth, Telangana launched a single-window clearance system for investors. What is this system called?",
-    "options": ["TS-iPASS", "T-Hub", "WE-Hub", "RICH"],
-    "correctAnswer": "TS-iPASS"
+    "question": "The news suggests a potential instability or shift within a national political alliance. What implications could this have for the political landscape and potential elections in states such as Andhra Pradesh?",
+    "options": [
+      "It guarantees stable governments for five years",
+      "It could lead to new political realignments, coalition talks, or early elections",
+      "It completely isolates state politics from national influence",
+      "It only affects states with international borders"
+    ],
+    "correctAnswer": "It could lead to new political realignments, coalition talks, or early elections"
   },
   {
     "id": 23,
-    "question": "Andhra Pradesh also has a dedicated investment promotion body to attract industries and streamline approvals. Which organization serves this purpose?",
-    "options": ["APIIC", "APCO", "APSRTC", "APMDC"],
-    "correctAnswer": "APIIC"
+    "question": "What kind of political developments, as hinted by the 'reset' of the INDIA bloc, often lead to shifts in national alliances and affect regional political parties in states like Telangana?",
+    "options": [
+      "Economic reforms only",
+      "Changes in international trade policies",
+      "Electoral outcomes in key states, shifts in party leadership, or ideological disagreements",
+      "Cultural festivals and traditions"
+    ],
+    "correctAnswer": "Electoral outcomes in key states, shifts in party leadership, or ideological disagreements"
   },
   {
     "id": 24,
-    "question": "The news touches upon social welfare schemes. Which flagship scheme in Telangana provides financial assistance to farmers for investment support for crops?",
-    "options": ["Rythu Bandhu", "Dalit Bandhu", "KCR Kits", "Aasara Pensions"],
-    "correctAnswer": "Rythu Bandhu"
+    "question": "How might the 'reset' of the INDIA bloc influence the bargaining power of regional parties from Telangana and Andhra Pradesh within a national framework?",
+    "options": [
+      "It diminishes their bargaining power significantly",
+      "It could increase their strategic importance as kingmakers or crucial allies",
+      "It forces them to operate independently without any national ties",
+      "It only affects their local municipal elections"
+    ],
+    "correctAnswer": "It could increase their strategic importance as kingmakers or crucial allies"
   },
   {
     "id": 25,
-    "question": "In Andhra Pradesh, a similar scheme provides financial support to farmers. What is this scheme called?",
-    "options": ["YSR Rythu Bharosa", "Jagananna Vidya Deevena", "Amma Vodi", "YSR Cheyutha"],
-    "correctAnswer": "YSR Rythu Bharosa"
+    "question": "The news about the INDIA bloc's 'reset' underscores the dynamic nature of Indian national politics. What role do regional parties from states like Andhra Pradesh typically play in such national alignments?",
+    "options": [
+      "They have no role in national politics",
+      "They often act as junior partners or provide crucial support to form a national government or opposition",
+      "They are solely focused on international diplomacy",
+      "They exclusively dictate national policy decisions"
+    ],
+    "correctAnswer": "They often act as junior partners or provide crucial support to form a national government or opposition"
   }
 ]

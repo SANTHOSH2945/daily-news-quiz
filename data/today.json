@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the political leader who recently received a rap from the Congress party for a 'Hitler inspiration' remark?",
-    "options": ["K. Chandrashekar Rao", "Nara Chandrababu Naidu", "Revanth Reddy", "Y. S. Jagan Mohan Reddy"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "What specific Indian state's court was mentioned in the context of the notice that led to the rejection of Meenakshi Natarajan's Rajya Sabha nomination?",
+    "options": ["Madhya Pradesh", "Karnataka", "Telangana", "Tamil Nadu"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 2,
-    "question": "Revanth Reddy, the current Chief Minister of which Indian state, was recently in news for a controversial remark?",
-    "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "For which legislative body was Meenakshi Natarajan's nomination rejected?",
+    "options": ["Lok Sabha", "State Legislative Assembly", "Rajya Sabha", "Municipal Corporation"],
+    "correctAnswer": "Rajya Sabha"
   },
   {
     "id": 3,
-    "question": "The Congress party issued a rap to Revanth Reddy concerning a remark he made, which was about what?",
-    "options": ["Economic policy", "Border dispute", "Hitler inspiration", "Agricultural reforms"],
-    "correctAnswer": "Hitler inspiration"
-  },
-  {
-    "id": 4,
-    "question": "Which political party did Revanth Reddy receive a reprimand from regarding his controversial comments?",
-    "options": ["Bharatiya Janata Party (BJP)", "Telugu Desam Party (TDP)", "Indian National Congress (INC)", "Biju Janata Dal (BJD)"],
-    "correctAnswer": "Indian National Congress (INC)"
-  },
-  {
-    "id": 5,
-    "question": "The recent controversy involving Revanth Reddy and his 'Hitler inspiration' remark places him as a prominent political figure in which South Indian state?",
-    "options": ["Kerala", "Andhra Pradesh", "Telangana", "Karnataka"],
-    "correctAnswer": "Telangana"
-  },
-  {
-    "id": 6,
-    "question": "What is the primary political office held by Revanth Reddy in Telangana, according to recent news?",
-    "options": ["Member of Parliament", "Chief Minister", "Speaker of Assembly", "Governor"],
-    "correctAnswer": "Chief Minister"
-  },
-  {
-    "id": 7,
-    "question": "India recently called for accountability and slammed fake news regarding alleged abuses in which disputed territory?",
-    "options": ["Aksai Chin", "Gilgit-Baltistan", "PoK (Pakistan-occupied Kashmir)", "Siachen Glacier"],
-    "correctAnswer": "PoK (Pakistan-occupied Kashmir)"
-  },
-  {
-    "id": 8,
-    "question": "What specific action did India urge globally concerning the situation in PoK, as per recent reports?",
-    "options": ["Economic sanctions", "Military intervention", "Diplomatic negotiations", "Global action for accountability"],
-    "correctAnswer": "Global action for accountability"
-  },
-  {
-    "id": 9,
-    "question": "India's recent diplomatic stance involved raising concerns about human rights and misinformation in a region bordering Pakistan. Which region is this?",
-    "options": ["Balochistan", "Sindh", "Khyber Pakhtunkhwa", "Pakistan-occupied Kashmir (PoK)"],
-    "correctAnswer": "Pakistan-occupied Kashmir (PoK)"
-  },
-  {
-    "id": 10,
-    "question": "Which major Indian political party is set to organize a new 'Nabin' team to take charge of its party organization?",
-    "options": ["Indian National Congress", "Aam Aadmi Party", "Bharatiya Janata Party", "Trinamool Congress"],
-    "correctAnswer": "Bharatiya Janata Party"
-  },
-  {
-    "id": 11,
-    "question": "The term 'Nabin team' recently appeared in news in relation to the organizational restructuring of which political party in India?",
-    "options": ["Samajwadi Party", "Bahujan Samaj Party", "Bharatiya Janata Party", "Nationalist Congress Party"],
-    "correctAnswer": "Bharatiya Janata Party"
-  },
-  {
-    "id": 12,
-    "question": "The 'Nabin' team is slated to manage the organizational structure of which prominent Indian political entity?",
-    "options": ["Congress", "CPI(M)", "BJP", "BRS"],
-    "correctAnswer": "BJP"
-  },
-  {
-    "id": 13,
-    "question": "Prime Minister Modi recently held a call with the Amir of which country, following an attack in that nation?",
-    "options": ["Saudi Arabia", "UAE", "Qatar", "Kuwait"],
-    "correctAnswer": "Kuwait"
-  },
-  {
-    "id": 14,
-    "question": "PM Modi recently condemned an attack in a foreign country during a call with its leader. Which country was it?",
-    "options": ["Iran", "Iraq", "Kuwait", "Oman"],
-    "correctAnswer": "Kuwait"
-  },
-  {
-    "id": 15,
-    "question": "Which Indian political party recently released a 'report card' criticizing the Prime Minister for prioritizing 'publicity over performance'?",
-    "options": ["Aam Aadmi Party", "Shiv Sena", "Indian National Congress", "Janata Dal (United)"],
+    "question": "Which political party challenged the rejection of Meenakshi Natarajan's Rajya Sabha nomination?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Trinamool Congress (TMC)", "Bahujan Samaj Party (BSP)"],
     "correctAnswer": "Indian National Congress"
   },
   {
+    "id": 4,
+    "question": "What was the primary reason cited by the Congress for challenging the rejection of Meenakshi Natarajan's nomination?",
+    "options": ["Lack of educational qualifications", "A Telangana court's notice on a private complaint", "Failure to submit documents on time", "Discrepancies in electoral rolls"],
+    "correctAnswer": "A Telangana court's notice on a private complaint"
+  },
+  {
+    "id": 5,
+    "question": "The Congress argued that a Telangana court's notice on a private complaint does not constitute what, in the context of Rajya Sabha nominations?",
+    "options": ["A civil dispute", "A political vendetta", "A criminal case requiring disclosure", "A valid legal challenge"],
+    "correctAnswer": "A criminal case requiring disclosure"
+  },
+  {
+    "id": 6,
+    "question": "In which state's Rajya Sabha election dynamics was Meenakshi Natarajan's nomination rejection said to have a significant impact?",
+    "options": ["Telangana", "Andhra Pradesh", "Madhya Pradesh", "Karnataka"],
+    "correctAnswer": "Madhya Pradesh"
+  },
+  {
+    "id": 7,
+    "question": "What term did the Congress use to describe the rejection of Meenakshi Natarajan's nomination?",
+    "options": ["Unfortunate but legally sound", "A minor administrative error", "Egregious and blatantly unlawful", "Standard procedure for complex cases"],
+    "correctAnswer": "Egregious and blatantly unlawful"
+  },
+  {
+    "id": 8,
+    "question": "Which body was urged by the Congress to reinstate Meenakshi Natarajan's Rajya Sabha nomination?",
+    "options": ["Supreme Court of India", "Parliament Secretariat", "Election Commission", "President of India"],
+    "correctAnswer": "Election Commission"
+  },
+  {
+    "id": 9,
+    "question": "Which prominent political figure received a rap from the Congress party for a 'Hitler inspiration' remark?",
+    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Revanth", "Y. S. Jagan Mohan Reddy"],
+    "correctAnswer": "Revanth"
+  },
+  {
+    "id": 10,
+    "question": "From which political party did Revanth receive a rap for his controversial remark?",
+    "options": ["Bharatiya Janata Party (BJP)", "Telangana Rashtra Samithi (BRS)", "Indian National Congress", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress"
+  },
+  {
+    "id": 11,
+    "question": "What specific controversial remark led to Revanth receiving a rap from his party?",
+    "options": ["Comment on state finances", "'Hitler inspiration' remark", "Criticism of a central policy", "Statement on electoral alliances"],
+    "correctAnswer": "'Hitler inspiration' remark"
+  },
+  {
+    "id": 12,
+    "question": "Revanth, a key political leader mentioned in the news, is primarily associated with the politics of which Indian state?",
+    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 13,
+    "question": "The news regarding Revanth's remark highlights an issue within which political party in India?",
+    "options": ["Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "Indian National Congress", "Yuvajana Sramika Rythu Congress Party (YSRCP)"],
+    "correctAnswer": "Indian National Congress"
+  },
+  {
+    "id": 14,
+    "question": "Who is the power sector veteran who flagged electrical safety lapses and sought reforms to curb accidents in India?",
+    "options": ["Anil Ambani", "D Radhakrishna", "R. K. Singh", "Gautam Adani"],
+    "correctAnswer": "D Radhakrishna"
+  },
+  {
+    "id": 15,
+    "question": "What critical issue did D Radhakrishna highlight, prompting the call for reform in electrical safety regulations?",
+    "options": ["Power theft", "Tariff inconsistencies", "Alarming accidents and fatalities linked to electrocutions", "Insufficient power generation"],
+    "correctAnswer": "Alarming accidents and fatalities linked to electrocutions"
+  },
+  {
     "id": 16,
-    "question": "The 'Congress report card' critique on the Prime Minister focused on his alleged preference for what over actual governance?",
-    "options": ["Infrastructure projects", "Foreign tours", "Publicity", "Social media engagement"],
-    "correctAnswer": "Publicity"
+    "question": "Which of the following was NOT explicitly proposed by D Radhakrishna to improve electrical safety?",
+    "options": ["Third-party certification", "Regular building inspections", "Free electrical audits for all households", "Robust law enforcement"],
+    "correctAnswer": "Free electrical audits for all households"
   },
   {
     "id": 17,
-    "question": "The recent 'Congress report card' evaluated the performance of which high-ranking Indian official?",
-    "options": ["Union Home Minister", "Finance Minister", "Prime Minister", "President"],
-    "correctAnswer": "Prime Minister"
+    "question": "D Radhakrishna recommended the creation of a specialized national agency for what purpose?",
+    "options": ["Managing power distribution", "Overseeing electrical safety", "Regulating electricity tariffs", "Promoting renewable energy"],
+    "correctAnswer": "Overseeing electrical safety"
   },
   {
     "id": 18,
-    "question": "The NDA alliance is set to celebrate PM Modi for reaching how many years in the Prime Minister's Office, surpassing a former PM?",
-    "options": ["8 years", "10 years", "12 years", "15 years"],
-    "correctAnswer": "12 years"
+    "question": "The proposed electrical safety reforms in India are aimed at curbing what specific type of incidents?",
+    "options": ["Power outages", "Grid failures", "Electrocution accidents and fatalities", "Equipment malfunctions"],
+    "correctAnswer": "Electrocution accidents and fatalities"
   },
   {
     "id": 19,
-    "question": "Prime Minister Modi is being celebrated by the NDA for having a longer tenure in the PMO than which former Indian Prime Minister?",
-    "options": ["Indira Gandhi", "Lal Bahadur Shastri", "Jawaharlal Nehru", "Morarji Desai"],
-    "correctAnswer": "Jawaharlal Nehru"
+    "question": "Which Union Minister launched the Land Port Management System in India?",
+    "options": ["Nirmala Sitharaman", "Rajnath Singh", "Amit Shah", "Nitin Gadkari"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 20,
-    "question": "Which political alliance is celebrating Prime Minister Modi's milestone of 12 years in the PMO?",
-    "options": ["UPA", "NDA", "INDIA", "Grand Alliance"],
-    "correctAnswer": "NDA"
+    "question": "What is the primary objective of the newly launched Land Port Management System?",
+    "options": ["To attract foreign investments", "To cut cargo delays and boost border trade efficiency", "To develop inland waterways", "To enhance digital payments"],
+    "correctAnswer": "To cut cargo delays and boost border trade efficiency"
   },
   {
     "id": 21,
-    "question": "What are some of the key themes mentioned in relation to the 12 years of PM Modi's government, according to recent reports?",
-    "options": ["Economic stagnation", "Environmental degradation", "Collective thinking, resolve and dream", "Social unrest"],
-    "correctAnswer": "Collective thinking, resolve and dream"
+    "question": "The Land Port Management System is designed to improve efficiency primarily for what type of trade?",
+    "options": ["Maritime trade", "Air cargo trade", "Border trade", "Digital trade"],
+    "correctAnswer": "Border trade"
   },
   {
     "id": 22,
-    "question": "The 12-year tenure of Prime Minister Modi's government is being highlighted with themes like 'collective thinking, resolve and what other attribute'?",
-    "options": ["Struggle", "Unity", "Dream", "Sacrifice"],
-    "correctAnswer": "Dream"
+    "question": "What kind of delays is the Land Port Management System specifically aimed at reducing?",
+    "options": ["Passenger travel delays", "Cargo delays", "Construction project delays", "Regulatory approval delays"],
+    "correctAnswer": "Cargo delays"
   },
   {
     "id": 23,
-    "question": "The Chief Justice of India recently met with the High Commissioner in the UK to seek cover for an ex-judge and their family following a threat. Where was the threat reported to have originated?",
-    "options": ["UK", "Pakistan", "India", "Sri Lanka"],
-    "correctAnswer": "India"
+    "question": "The Congress party argued that a private complaint notice from which state's court was unjustly used to reject a Rajya Sabha nomination?",
+    "options": ["Andhra Pradesh", "Kerala", "Telangana", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 24,
-    "question": "Which high-ranking Indian judicial figure recently raised concerns about threats originating in India for an ex-judge and kin with the Chief Justice of the Bombay High Court?",
-    "options": ["Attorney General of India", "Solicitor General of India", "Chief Justice of India", "Union Law Minister"],
-    "correctAnswer": "Chief Justice of India"
+    "question": "What was the political affiliation of the individual named Revanth who received a rap from his own party?",
+    "options": ["Bharatiya Janata Party (BJP)", "Yuvajana Sramika Rythu Congress Party (YSRCP)", "Indian National Congress", "Biju Janata Dal (BJD)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 25,
-    "question": "The Chief Justice of India sought cover for an ex-judge and family after meeting with the High Commissioner of which country (where the meeting occurred)?",
-    "options": ["United States", "Canada", "United Kingdom", "Australia"],
-    "correctAnswer": "United Kingdom"
+    "question": "The proposed electrical safety reforms by D Radhakrishna seek to make what type of inspections mandatory for buildings?",
+    "options": ["Annual fire safety inspections", "Structural integrity inspections", "Regular building inspections", "Plumbing system inspections"],
+    "correctAnswer": "Regular building inspections"
   }
 ]

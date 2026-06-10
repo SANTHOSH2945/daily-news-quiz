@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What specific Indian state's court was mentioned in the context of the notice that led to the rejection of Meenakshi Natarajan's Rajya Sabha nomination?",
+    "question": "Which Congress leader's Rajya Sabha nomination from Madhya Pradesh was recently rejected due to an alleged non-disclosure of a Telangana case in her affidavit?",
+    "options": ["Sonia Gandhi", "Meenakshi Natarajan", "Priyanka Gandhi", "Renuka Chowdhury"],
+    "correctAnswer": "Meenakshi Natarajan"
+  },
+  {
+    "id": 2,
+    "question": "The rejection of Meenakshi Natarajan's Rajya Sabha nomination was linked to the alleged non-disclosure of a case originating from which Indian state?",
     "options": ["Madhya Pradesh", "Karnataka", "Telangana", "Tamil Nadu"],
     "correctAnswer": "Telangana"
   },
   {
-    "id": 2,
-    "question": "For which legislative body was Meenakshi Natarajan's nomination rejected?",
-    "options": ["Lok Sabha", "State Legislative Assembly", "Rajya Sabha", "Municipal Corporation"],
+    "id": 3,
+    "question": "For which legislative body was Meenakshi Natarajan's nomination rejected, leading to a dispute involving a Telangana case?",
+    "options": ["Lok Sabha", "State Assembly", "Rajya Sabha", "Municipal Corporation"],
     "correctAnswer": "Rajya Sabha"
   },
   {
-    "id": 3,
-    "question": "Which political party challenged the rejection of Meenakshi Natarajan's Rajya Sabha nomination?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Trinamool Congress (TMC)", "Bahujan Samaj Party (BSP)"],
-    "correctAnswer": "Indian National Congress"
-  },
-  {
     "id": 4,
-    "question": "What was the primary reason cited by the Congress for challenging the rejection of Meenakshi Natarajan's nomination?",
-    "options": ["Lack of educational qualifications", "A Telangana court's notice on a private complaint", "Failure to submit documents on time", "Discrepancies in electoral rolls"],
-    "correctAnswer": "A Telangana court's notice on a private complaint"
+    "question": "Which political party is preparing to challenge the disqualification of Meenakshi Natarajan's Rajya Sabha nomination, citing a Telangana-related case?",
+    "options": ["BJP", "Congress", "BRS", "TDP"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 5,
-    "question": "The Congress argued that a Telangana court's notice on a private complaint does not constitute what, in the context of Rajya Sabha nominations?",
-    "options": ["A civil dispute", "A political vendetta", "A criminal case requiring disclosure", "A valid legal challenge"],
-    "correctAnswer": "A criminal case requiring disclosure"
+    "question": "The Congress party is considering moving which Indian judicial body regarding the rejection of Meenakshi Natarajan's Rajya Sabha nomination, linked to a Telangana case?",
+    "options": ["High Court", "District Court", "Supreme Court", "National Green Tribunal"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 6,
-    "question": "In which state's Rajya Sabha election dynamics was Meenakshi Natarajan's nomination rejection said to have a significant impact?",
-    "options": ["Telangana", "Andhra Pradesh", "Madhya Pradesh", "Karnataka"],
-    "correctAnswer": "Madhya Pradesh"
+    "question": "The alleged non-disclosure in Meenakshi Natarajan's affidavit, which led to her Rajya Sabha nomination rejection, pertained to a case from which specific Indian state?",
+    "options": ["Madhya Pradesh", "Karnataka", "Telangana", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 7,
-    "question": "What term did the Congress use to describe the rejection of Meenakshi Natarajan's nomination?",
-    "options": ["Unfortunate but legally sound", "A minor administrative error", "Egregious and blatantly unlawful", "Standard procedure for complex cases"],
-    "correctAnswer": "Egregious and blatantly unlawful"
+    "question": "The controversy surrounding Meenakshi Natarajan's Rajya Sabha nomination primarily involves alleged irregularities in which document?",
+    "options": ["Voter ID card", "Aadhar card", "Passport", "Affidavit"],
+    "correctAnswer": "Affidavit"
   },
   {
     "id": 8,
-    "question": "Which body was urged by the Congress to reinstate Meenakshi Natarajan's Rajya Sabha nomination?",
-    "options": ["Supreme Court of India", "Parliament Secretariat", "Election Commission", "President of India"],
-    "correctAnswer": "Election Commission"
+    "question": "According to recent news, Narendra Modi has become India's longest-serving elected Prime Minister. How did he describe his tenure?",
+    "options": ["A personal achievement", "A collective yagya", "A bureaucratic success", "A historical milestone"],
+    "correctAnswer": "A collective yagya"
   },
   {
     "id": 9,
-    "question": "Which prominent political figure received a rap from the Congress party for a 'Hitler inspiration' remark?",
-    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Revanth", "Y. S. Jagan Mohan Reddy"],
-    "correctAnswer": "Revanth"
+    "question": "Which US President recently congratulated PM Modi on becoming India's longest-serving elected Prime Minister?",
+    "options": ["Joe Biden", "Barack Obama", "Donald Trump", "George W. Bush"],
+    "correctAnswer": "Donald Trump"
   },
   {
     "id": 10,
-    "question": "From which political party did Revanth receive a rap for his controversial remark?",
-    "options": ["Bharatiya Janata Party (BJP)", "Telangana Rashtra Samithi (BRS)", "Indian National Congress", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "PM Modi remarked that the nation has shifted towards political stability and rapid development under whose rule?",
+    "options": ["UPA", "NDA", "Third Front", "Coalition Government"],
+    "correctAnswer": "NDA"
   },
   {
     "id": 11,
-    "question": "What specific controversial remark led to Revanth receiving a rap from his party?",
-    "options": ["Comment on state finances", "'Hitler inspiration' remark", "Criticism of a central policy", "Statement on electoral alliances"],
-    "correctAnswer": "'Hitler inspiration' remark"
+    "question": "What vision did Prime Minister Modi emphasize his government's commitment to realizing for all citizens, as mentioned in recent reports?",
+    "options": ["Digital India", "Swachh Bharat", "Viksit Bharat", "Make in India"],
+    "correctAnswer": "Viksit Bharat"
   },
   {
     "id": 12,
-    "question": "Revanth, a key political leader mentioned in the news, is primarily associated with the politics of which Indian state?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "In the context of PM Modi's record tenure, which period did he contrast with the current pace of development, referring to a 'Congress Growth Rate'?",
+    "options": ["Pre-liberalization era", "Post-independence era", "The past", "Emergency period"],
+    "correctAnswer": "The past"
   },
   {
     "id": 13,
-    "question": "The news regarding Revanth's remark highlights an issue within which political party in India?",
-    "options": ["Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "Indian National Congress", "Yuvajana Sramika Rythu Congress Party (YSRCP)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "Donald Trump described PM Modi using which phrase during his congratulatory message?",
+    "options": ["A strong leader", "A visionary", "A strong, healthy, and wise man", "A global statesman"],
+    "correctAnswer": "A strong, healthy, and wise man"
   },
   {
     "id": 14,
-    "question": "Who is the power sector veteran who flagged electrical safety lapses and sought reforms to curb accidents in India?",
-    "options": ["Anil Ambani", "D Radhakrishna", "R. K. Singh", "Gautam Adani"],
-    "correctAnswer": "D Radhakrishna"
+    "question": "What historical milestone did Prime Minister Narendra Modi achieve, which was widely reported in the news?",
+    "options": ["Longest-serving Finance Minister", "Longest-serving elected Chief Minister", "Longest-serving elected Prime Minister", "Longest-serving President"],
+    "correctAnswer": "Longest-serving elected Prime Minister"
   },
   {
     "id": 15,
-    "question": "What critical issue did D Radhakrishna highlight, prompting the call for reform in electrical safety regulations?",
-    "options": ["Power theft", "Tariff inconsistencies", "Alarming accidents and fatalities linked to electrocutions", "Insufficient power generation"],
-    "correctAnswer": "Alarming accidents and fatalities linked to electrocutions"
+    "question": "India recently summoned a US diplomat to protest an attack on a commercial vessel off the coast of which country?",
+    "options": ["Yemen", "Iran", "Oman", "Saudi Arabia"],
+    "correctAnswer": "Oman"
   },
   {
     "id": 16,
-    "question": "Which of the following was NOT explicitly proposed by D Radhakrishna to improve electrical safety?",
-    "options": ["Third-party certification", "Regular building inspections", "Free electrical audits for all households", "Robust law enforcement"],
-    "correctAnswer": "Free electrical audits for all households"
+    "question": "How many Indian crew members were initially reported missing after the attack on the commercial vessel Settebello off Oman's coast?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Three"
   },
   {
     "id": 17,
-    "question": "D Radhakrishna recommended the creation of a specialized national agency for what purpose?",
-    "options": ["Managing power distribution", "Overseeing electrical safety", "Regulating electricity tariffs", "Promoting renewable energy"],
-    "correctAnswer": "Overseeing electrical safety"
+    "question": "What was the name of the commercial vessel that was attacked off Oman's coast, carrying 24 Indian crew members?",
+    "options": ["Marivex", "Settebello", "INS Vikrant", "MV Ever Given"],
+    "correctAnswer": "Settebello"
   },
   {
     "id": 18,
-    "question": "The proposed electrical safety reforms in India are aimed at curbing what specific type of incidents?",
-    "options": ["Power outages", "Grid failures", "Electrocution accidents and fatalities", "Equipment malfunctions"],
-    "correctAnswer": "Electrocution accidents and fatalities"
+    "question": "Which Indian government body condemned the attack on the commercial vessel off Oman's coast and confirmed the rescue of 21 Indian crew members?",
+    "options": ["Ministry of Defence", "Ministry of Shipping", "Ministry of External Affairs", "Ministry of Home Affairs"],
+    "correctAnswer": "Ministry of External Affairs"
   },
   {
     "id": 19,
-    "question": "Which Union Minister launched the Land Port Management System in India?",
-    "options": ["Nirmala Sitharaman", "Rajnath Singh", "Amit Shah", "Nitin Gadkari"],
-    "correctAnswer": "Amit Shah"
+    "question": "The vessel Settebello, attacked off Oman, was sailing under the flag of which nation?",
+    "options": ["India", "US", "Palau", "Panama"],
+    "correctAnswer": "Palau"
   },
   {
     "id": 20,
-    "question": "What is the primary objective of the newly launched Land Port Management System?",
-    "options": ["To attract foreign investments", "To cut cargo delays and boost border trade efficiency", "To develop inland waterways", "To enhance digital payments"],
-    "correctAnswer": "To cut cargo delays and boost border trade efficiency"
+    "question": "What specific type of incident was reported as the cause of the attack on the commercial vessel Settebello off Oman's coast?",
+    "options": ["Pirate boarding", "Engine room fire", "Missile strike", "Collision"],
+    "correctAnswer": "Engine room fire"
   },
   {
     "id": 21,
-    "question": "The Land Port Management System is designed to improve efficiency primarily for what type of trade?",
-    "options": ["Maritime trade", "Air cargo trade", "Border trade", "Digital trade"],
-    "correctAnswer": "Border trade"
+    "question": "Which Indian regulatory body recently clarified that there are no new rules banning zero added sugar in baby foods?",
+    "options": ["RBI", "SEBI", "FSSAI", "NITI Aayog"],
+    "correctAnswer": "FSSAI"
   },
   {
     "id": 22,
-    "question": "What kind of delays is the Land Port Management System specifically aimed at reducing?",
-    "options": ["Passenger travel delays", "Cargo delays", "Construction project delays", "Regulatory approval delays"],
-    "correctAnswer": "Cargo delays"
+    "question": "The existing guidelines on added sugars in baby foods in India, confirmed by the food regulator, date back to which year?",
+    "options": ["2018", "2019", "2020", "2021"],
+    "correctAnswer": "2020"
   },
   {
     "id": 23,
-    "question": "The Congress party argued that a private complaint notice from which state's court was unjustly used to reject a Rajya Sabha nomination?",
-    "options": ["Andhra Pradesh", "Kerala", "Telangana", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "What is the primary issue that Tan90's 'Cooling-as-a-Service' solution aims to address in India's agricultural sector?",
+    "options": ["Water scarcity", "Soil degradation", "Food spoilage", "Pest infestations"],
+    "correctAnswer": "Food spoilage"
   },
   {
     "id": 24,
-    "question": "What was the political affiliation of the individual named Revanth who received a rap from his own party?",
-    "options": ["Bharatiya Janata Party (BJP)", "Yuvajana Sramika Rythu Congress Party (YSRCP)", "Indian National Congress", "Biju Janata Dal (BJD)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "Tan90's innovative cold chain solution leverages which material to create on-demand cold storage, as reported in the news?",
+    "options": ["Liquid Nitrogen", "Dry Ice", "Phase Change Materials", "Solar Panels"],
+    "correctAnswer": "Phase Change Materials"
   },
   {
     "id": 25,
-    "question": "The proposed electrical safety reforms by D Radhakrishna seek to make what type of inspections mandatory for buildings?",
-    "options": ["Annual fire safety inspections", "Structural integrity inspections", "Regular building inspections", "Plumbing system inspections"],
-    "correctAnswer": "Regular building inspections"
+    "question": "The article on 'Rethinking India’s cold chain' highlights significant financial losses in India due to what specific issue, especially in rural areas?",
+    "options": ["High transportation costs", "Lack of an efficient cold chain", "Crop diseases", "Labor shortages"],
+    "correctAnswer": "Lack of an efficient cold chain"
   }
 ]

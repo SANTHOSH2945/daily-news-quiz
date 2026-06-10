@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian organization, serving as the country's ship safety certifier, recently announced it would not certify vessels owned by Iranian or Russian entities due to Western sanctions?",
-    "options": ["Lloyd's Register India", "Indian Register of Shipping (IRClass)", "Bureau Veritas India", "DNV India"],
-    "correctAnswer": "Indian Register of Shipping (IRClass)"
+    "question": "Who is the political leader who recently received a rap from the Congress party for a 'Hitler inspiration' remark?",
+    "options": ["K. Chandrashekar Rao", "Nara Chandrababu Naidu", "Revanth Reddy", "Y. S. Jagan Mohan Reddy"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 2,
-    "question": "What is the primary reason cited for IRClass's decision to de-class vessels linked to Iran and Russia?",
-    "options": ["Environmental concerns", "Western sanctions", "Maintenance issues", "Crew shortages"],
-    "correctAnswer": "Western sanctions"
-  },
-  {
-    "id": 3,
-    "question": "Approximately how many ships has India's ship certifier, IRClass, de-classed since 2023 due to sanctions?",
-    "options": ["Around 50", "Around 100", "Around 235", "Around 500"],
-    "correctAnswer": "Around 235"
-  },
-  {
-    "id": 4,
-    "question": "What amount of gross tonnage has IRClass removed from sanctioned vessels since 2023?",
-    "options": ["1 million gross tons", "5 million gross tons", "10 million gross tons", "13 million gross tons"],
-    "correctAnswer": "13 million gross tons"
-  },
-  {
-    "id": 5,
-    "question": "Despite its actions on certification, what aspect of maritime operations does IRClass acknowledge having limited control over?",
-    "options": ["Ship registration details", "Crew nationality", "Cargo movements after certification", "Vessel design specifications"],
-    "correctAnswer": "Cargo movements after certification"
-  },
-  {
-    "id": 6,
-    "question": "The national policy by IRClass regarding sanctioned vessels can have implications for maritime trade and port operations across India's coastline. Which major port city in Andhra Pradesh is a significant hub for such activities?",
-    "options": ["Chennai", "Kochi", "Visakhapatnam", "Paradip"],
-    "correctAnswer": "Visakhapatnam"
-  },
-  {
-    "id": 7,
-    "question": "What significant change is being speculated regarding the Union government's structure, hinted at by BJP's organizational rejig?",
-    "options": ["A new parliamentary session", "A Union Cabinet reshuffle", "A change in Lok Sabha Speaker", "A national election announcement"],
-    "correctAnswer": "A Union Cabinet reshuffle"
-  },
-  {
-    "id": 8,
-    "question": "Which political party's recent organizational changes and Rajya Sabha nominations are suggesting an upcoming Union Cabinet reshuffle?",
-    "options": ["Indian National Congress", "Bharatiya Janata Party (BJP)", "Trinamool Congress (TMC)", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
-  },
-  {
-    "id": 9,
-    "question": "Prime Minister Modi is speculated to induct a new team in the Union Cabinet in preparation for which upcoming assembly elections?",
-    "options": ["Uttar Pradesh", "Gujarat", "Punjab", "Karnataka"],
-    "correctAnswer": "Punjab"
-  },
-  {
-    "id": 10,
-    "question": "What potential new role might some current Union ministers take on, according to recent speculations about the BJP?",
-    "options": ["State Governor positions", "Ambassadorial roles", "Party organizational roles", "Advisory council members"],
-    "correctAnswer": "Party organizational roles"
-  },
-  {
-    "id": 11,
-    "question": "If a Union Cabinet reshuffle takes place, ministerial representation from which states, including Telangana and Andhra Pradesh, could potentially be affected?",
-    "options": ["Only northern states", "Only southern states", "All states of India", "Only election-bound states"],
-    "correctAnswer": "All states of India"
-  },
-  {
-    "id": 12,
-    "question": "Which country's ambassador emphasized India's indispensable role in the G7 discussions?",
-    "options": ["Germany", "United States", "France", "Japan"],
-    "correctAnswer": "France"
-  },
-  {
-    "id": 13,
-    "question": "According to French Ambassador Thierry Mathou, India's participation in a defensive mission for which strategically important waterway would send a powerful signal?",
-    "options": ["Suez Canal", "Malacca Strait", "Strait of Hormuz", "Panama Canal"],
-    "correctAnswer": "Strait of Hormuz"
-  },
-  {
-    "id": 14,
-    "question": "The French envoy stated that the Rafale defense deal is expected to align with which major Indian government initiative?",
-    "options": ["Digital India", "Swachh Bharat Abhiyan", "Make in India", "Skill India Mission"],
-    "correctAnswer": "Make in India"
-  },
-  {
-    "id": 15,
-    "question": "French Ambassador Thierry Mathou highlighted India's participation in G7 discussions concerning what global economic issues?",
-    "options": ["Climate change adaptation", "Cybersecurity threats", "Economic imbalances and global governance reform", "Agricultural subsidies"],
-    "correctAnswer": "Economic imbalances and global governance reform"
-  },
-  {
-    "id": 16,
-    "question": "What is the name of the French Ambassador who made recent comments about India's international standing and defense collaborations?",
-    "options": ["Emmanuel Lenain", "Thierry Mathou", "Florence Parly", "Jean-Yves Le Drian"],
-    "correctAnswer": "Thierry Mathou"
-  },
-  {
-    "id": 17,
-    "question": "The 'Make in India' initiative, which the Rafale deal aims to align with, is crucial for boosting manufacturing and industrial growth in various states. Which of the following states is a significant contributor to India's manufacturing sector and could benefit from such initiatives?",
-    "options": ["Uttarakhand", "Himachal Pradesh", "Telangana", "Goa"],
+    "question": "Revanth Reddy, the current Chief Minister of which Indian state, was recently in news for a controversial remark?",
+    "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Telangana"],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 3,
+    "question": "The Congress party issued a rap to Revanth Reddy concerning a remark he made, which was about what?",
+    "options": ["Economic policy", "Border dispute", "Hitler inspiration", "Agricultural reforms"],
+    "correctAnswer": "Hitler inspiration"
+  },
+  {
+    "id": 4,
+    "question": "Which political party did Revanth Reddy receive a reprimand from regarding his controversial comments?",
+    "options": ["Bharatiya Janata Party (BJP)", "Telugu Desam Party (TDP)", "Indian National Congress (INC)", "Biju Janata Dal (BJD)"],
+    "correctAnswer": "Indian National Congress (INC)"
+  },
+  {
+    "id": 5,
+    "question": "The recent controversy involving Revanth Reddy and his 'Hitler inspiration' remark places him as a prominent political figure in which South Indian state?",
+    "options": ["Kerala", "Andhra Pradesh", "Telangana", "Karnataka"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 6,
+    "question": "What is the primary political office held by Revanth Reddy in Telangana, according to recent news?",
+    "options": ["Member of Parliament", "Chief Minister", "Speaker of Assembly", "Governor"],
+    "correctAnswer": "Chief Minister"
+  },
+  {
+    "id": 7,
+    "question": "India recently called for accountability and slammed fake news regarding alleged abuses in which disputed territory?",
+    "options": ["Aksai Chin", "Gilgit-Baltistan", "PoK (Pakistan-occupied Kashmir)", "Siachen Glacier"],
+    "correctAnswer": "PoK (Pakistan-occupied Kashmir)"
+  },
+  {
+    "id": 8,
+    "question": "What specific action did India urge globally concerning the situation in PoK, as per recent reports?",
+    "options": ["Economic sanctions", "Military intervention", "Diplomatic negotiations", "Global action for accountability"],
+    "correctAnswer": "Global action for accountability"
+  },
+  {
+    "id": 9,
+    "question": "India's recent diplomatic stance involved raising concerns about human rights and misinformation in a region bordering Pakistan. Which region is this?",
+    "options": ["Balochistan", "Sindh", "Khyber Pakhtunkhwa", "Pakistan-occupied Kashmir (PoK)"],
+    "correctAnswer": "Pakistan-occupied Kashmir (PoK)"
+  },
+  {
+    "id": 10,
+    "question": "Which major Indian political party is set to organize a new 'Nabin' team to take charge of its party organization?",
+    "options": ["Indian National Congress", "Aam Aadmi Party", "Bharatiya Janata Party", "Trinamool Congress"],
+    "correctAnswer": "Bharatiya Janata Party"
+  },
+  {
+    "id": 11,
+    "question": "The term 'Nabin team' recently appeared in news in relation to the organizational restructuring of which political party in India?",
+    "options": ["Samajwadi Party", "Bahujan Samaj Party", "Bharatiya Janata Party", "Nationalist Congress Party"],
+    "correctAnswer": "Bharatiya Janata Party"
+  },
+  {
+    "id": 12,
+    "question": "The 'Nabin' team is slated to manage the organizational structure of which prominent Indian political entity?",
+    "options": ["Congress", "CPI(M)", "BJP", "BRS"],
+    "correctAnswer": "BJP"
+  },
+  {
+    "id": 13,
+    "question": "Prime Minister Modi recently held a call with the Amir of which country, following an attack in that nation?",
+    "options": ["Saudi Arabia", "UAE", "Qatar", "Kuwait"],
+    "correctAnswer": "Kuwait"
+  },
+  {
+    "id": 14,
+    "question": "PM Modi recently condemned an attack in a foreign country during a call with its leader. Which country was it?",
+    "options": ["Iran", "Iraq", "Kuwait", "Oman"],
+    "correctAnswer": "Kuwait"
+  },
+  {
+    "id": 15,
+    "question": "Which Indian political party recently released a 'report card' criticizing the Prime Minister for prioritizing 'publicity over performance'?",
+    "options": ["Aam Aadmi Party", "Shiv Sena", "Indian National Congress", "Janata Dal (United)"],
+    "correctAnswer": "Indian National Congress"
+  },
+  {
+    "id": 16,
+    "question": "The 'Congress report card' critique on the Prime Minister focused on his alleged preference for what over actual governance?",
+    "options": ["Infrastructure projects", "Foreign tours", "Publicity", "Social media engagement"],
+    "correctAnswer": "Publicity"
+  },
+  {
+    "id": 17,
+    "question": "The recent 'Congress report card' evaluated the performance of which high-ranking Indian official?",
+    "options": ["Union Home Minister", "Finance Minister", "Prime Minister", "President"],
+    "correctAnswer": "Prime Minister"
+  },
+  {
     "id": 18,
-    "question": "What type of military aircraft is central to the defense deal that the French envoy mentioned would align with the 'Make in India' initiative?",
-    "options": ["Tejas", "Sukhoi Su-30MKI", "Mirage 2000", "Rafale"],
-    "correctAnswer": "Rafale"
+    "question": "The NDA alliance is set to celebrate PM Modi for reaching how many years in the Prime Minister's Office, surpassing a former PM?",
+    "options": ["8 years", "10 years", "12 years", "15 years"],
+    "correctAnswer": "12 years"
   },
   {
     "id": 19,
-    "question": "India's 'indispensable' role in the G7 discussions implies its growing influence in addressing what type of global challenges?",
-    "options": ["Regional border disputes", "Internal political reforms", "Global economic and governance issues", "Cultural exchange programs"],
-    "correctAnswer": "Global economic and governance issues"
+    "question": "Prime Minister Modi is being celebrated by the NDA for having a longer tenure in the PMO than which former Indian Prime Minister?",
+    "options": ["Indira Gandhi", "Lal Bahadur Shastri", "Jawaharlal Nehru", "Morarji Desai"],
+    "correctAnswer": "Jawaharlal Nehru"
   },
   {
     "id": 20,
-    "question": "Which two Telugu-speaking states have actively promoted industrial growth and investment through policies aligned with national initiatives like 'Make in India'?",
-    "options": ["Kerala and Karnataka", "Tamil Nadu and Odisha", "Andhra Pradesh and Telangana", "Maharashtra and Gujarat"],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "Which political alliance is celebrating Prime Minister Modi's milestone of 12 years in the PMO?",
+    "options": ["UPA", "NDA", "INDIA", "Grand Alliance"],
+    "correctAnswer": "NDA"
   },
   {
     "id": 21,
-    "question": "The speculation about a Union Cabinet reshuffle in India is partly fueled by changes in which organizational body of the BJP?",
-    "options": ["Youth Wing", "Farmers' Cell", "State units", "Legal Cell"],
-    "correctAnswer": "State units"
+    "question": "What are some of the key themes mentioned in relation to the 12 years of PM Modi's government, according to recent reports?",
+    "options": ["Economic stagnation", "Environmental degradation", "Collective thinking, resolve and dream", "Social unrest"],
+    "correctAnswer": "Collective thinking, resolve and dream"
   },
   {
     "id": 22,
-    "question": "The decision by IRClass to not certify Iran- or Russia-linked vessels highlights India's adherence to what international framework?",
-    "options": ["NATO protocols", "UN Security Council resolutions", "Western sanctions regime", "BRICS economic agreements"],
-    "correctAnswer": "Western sanctions regime"
+    "question": "The 12-year tenure of Prime Minister Modi's government is being highlighted with themes like 'collective thinking, resolve and what other attribute'?",
+    "options": ["Struggle", "Unity", "Dream", "Sacrifice"],
+    "correctAnswer": "Dream"
   },
   {
     "id": 23,
-    "question": "India's G7 involvement, as stated by the French envoy, signifies its participation in shaping which aspect of the international system?",
-    "options": ["Sports diplomacy", "Global governance reform", "Space exploration initiatives", "Wildlife conservation efforts"],
-    "correctAnswer": "Global governance reform"
+    "question": "The Chief Justice of India recently met with the High Commissioner in the UK to seek cover for an ex-judge and their family following a threat. Where was the threat reported to have originated?",
+    "options": ["UK", "Pakistan", "India", "Sri Lanka"],
+    "correctAnswer": "India"
   },
   {
     "id": 24,
-    "question": "The 'Make in India' initiative aims to reduce India's reliance on imports and boost domestic manufacturing. This has implications for job creation and economic development in states like Telangana, particularly in which sectors?",
-    "options": ["Tourism and Hospitality", "Agriculture and Fisheries", "IT, Pharmaceuticals, and Aerospace", "Mining and Quarrying"],
-    "correctAnswer": "IT, Pharmaceuticals, and Aerospace"
+    "question": "Which high-ranking Indian judicial figure recently raised concerns about threats originating in India for an ex-judge and kin with the Chief Justice of the Bombay High Court?",
+    "options": ["Attorney General of India", "Solicitor General of India", "Chief Justice of India", "Union Law Minister"],
+    "correctAnswer": "Chief Justice of India"
   },
   {
     "id": 25,
-    "question": "In the context of a potential Union Cabinet reshuffle, what body's nominations are also seen as a hint for upcoming changes?",
-    "options": ["Lok Sabha", "NITI Aayog", "Supreme Court", "Rajya Sabha"],
-    "correctAnswer": "Rajya Sabha"
+    "question": "The Chief Justice of India sought cover for an ex-judge and family after meeting with the High Commissioner of which country (where the meeting occurred)?",
+    "options": ["United States", "Canada", "United Kingdom", "Australia"],
+    "correctAnswer": "United Kingdom"
   }
 ]

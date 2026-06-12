@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to the Economic Advisory Council to the PM's proposal for targeted delimitation, what is the current number of Lok Sabha seats in Telangana?",
-    "options": ["17", "25", "28", "39"],
-    "correctAnswer": "17"
+    "question": "What is the extended duration for the NEET (UG)-2026 exam window?",
+    "options": ["180 minutes", "195 minutes", "200 minutes", "210 minutes"],
+    "correctAnswer": "195 minutes"
   },
   {
     "id": 2,
-    "question": "After the proposed targeted delimitation, what is the expected number of Lok Sabha seats for Telangana?",
-    "options": ["22", "26", "30", "38"],
-    "correctAnswer": "26"
+    "question": "What are the new timings for the NEET (UG)-2026 exam as per the NTA's announcement?",
+    "options": ["10:00 AM to 1:15 PM", "1:00 PM to 4:15 PM", "2:00 PM to 5:15 PM", "9:00 AM to 12:15 PM"],
+    "correctAnswer": "2:00 PM to 5:15 PM"
   },
   {
     "id": 3,
-    "question": "How many Lok Sabha seats is Telangana expected to gain as per the Economic Advisory Council's delimitation proposal?",
-    "options": ["7", "9", "11", "13"],
-    "correctAnswer": "9"
+    "question": "How many rough-work pages will candidates receive in total for the NEET (UG)-2026 exam?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Four"
   },
   {
     "id": 4,
-    "question": "What is the current number of Lok Sabha seats in Andhra Pradesh, as per the delimitation proposal?",
-    "options": ["17", "25", "28", "39"],
-    "correctAnswer": "25"
+    "question": "Where will two of the rough-work pages be placed in the NEET (UG)-2026 exam booklet for easier access?",
+    "options": ["At the end of the booklet", "In the middle of the booklet", "At the beginning of the booklet", "Provided separately"],
+    "correctAnswer": "At the beginning of the booklet"
   },
   {
     "id": 5,
-    "question": "What is the proposed number of Lok Sabha seats for Andhra Pradesh after the targeted delimitation?",
-    "options": ["30", "34", "38", "42"],
-    "correctAnswer": "38"
+    "question": "What is one of the primary aims of the 'student-friendly' changes introduced by the NTA for NEET (UG)-2026?",
+    "options": ["To increase the difficulty level", "To reduce exam slots", "To ensure a fairer and more comfortable exam experience", "To limit candidate registrations"],
+    "correctAnswer": "To ensure a fairer and more comfortable exam experience"
   },
   {
     "id": 6,
-    "question": "How many additional Lok Sabha seats is Andhra Pradesh expected to receive under the proposed delimitation?",
-    "options": ["9", "11", "13", "15"],
-    "correctAnswer": "13"
+    "question": "Which organization is responsible for rolling out the 'student-friendly' measures for NEET UG 2026?",
+    "options": ["UGC", "CBSE", "NTA", "AICTE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 7,
-    "question": "Which body proposed the 'targeted' delimitation for 170 Lok Sabha seats, including those in Telangana and Andhra Pradesh?",
-    "options": ["Election Commission of India", "NITI Aayog", "Economic Advisory Council to PM Modi", "Delimitation Commission of India"],
-    "correctAnswer": "Economic Advisory Council to PM Modi"
+    "question": "For which academic year's NEET (UG) exam are the recently announced changes in duration and rough-work pages applicable?",
+    "options": ["NEET UG 2024", "NEET UG 2025", "NEET UG 2026", "NEET UG 2027"],
+    "correctAnswer": "NEET UG 2026"
   },
   {
     "id": 8,
-    "question": "The proposal for increasing Lok Sabha seats in states like Telangana and Andhra Pradesh recommends what specific type of delimitation?",
-    "options": ["Universal", "Proportional", "Targeted", "Regional"],
-    "correctAnswer": "Targeted"
+    "question": "What national issue prompted protests by the Cockroach Janta Party (CJP)?",
+    "options": ["Fuel price hikes", "Exam irregularities and paper leaks", "Agricultural policy changes", "Healthcare reforms"],
+    "correctAnswer": "Exam irregularities and paper leaks"
   },
   {
     "id": 9,
-    "question": "The 'targeted' delimitation proposal by the Economic Advisory Council to PM Modi affects a total of how many Lok Sabha seats nationwide?",
-    "options": ["100", "150", "170", "200"],
-    "correctAnswer": "170"
+    "question": "Which Union Minister's resignation was demanded by the Cockroach Janta Party (CJP) due to exam irregularities?",
+    "options": ["Home Minister", "Finance Minister", "Education Minister", "Defence Minister"],
+    "correctAnswer": "Education Minister"
   },
   {
     "id": 10,
-    "question": "Which legislative body's seat allocation in Telangana and Andhra Pradesh is directly impacted by the Economic Advisory Council's delimitation proposal?",
-    "options": ["Rajya Sabha", "State Legislative Assembly", "Lok Sabha", "State Legislative Council"],
-    "correctAnswer": "Lok Sabha"
+    "question": "According to the CJP's manifesto, what compensation point was proposed for students affected by paper leaks?",
+    "options": ["Reimbursement of exam fees", "Monetary compensation for affected students", "Free coaching classes", "Scholarships for higher education"],
+    "correctAnswer": "Monetary compensation for affected students"
   },
   {
     "id": 11,
-    "question": "Before the proposed delimitation, what was the combined total number of Lok Sabha seats for Telangana and Andhra Pradesh?",
-    "options": ["38", "42", "45", "50"],
-    "correctAnswer": "42"
+    "question": "What measure regarding future exams was proposed in the CJP's five-point manifesto following paper leaks?",
+    "options": ["Online-only exams", "Reduced syllabus", "Swift backup exams", "Decentralized examination centers"],
+    "correctAnswer": "Swift backup exams"
   },
   {
     "id": 12,
-    "question": "If the proposed delimitation is implemented, what would be the combined total number of Lok Sabha seats for Telangana and Andhra Pradesh?",
-    "options": ["58", "62", "64", "68"],
-    "correctAnswer": "64"
+    "question": "How did the CJP propose answer sheets should be evaluated to ensure fairness after exam irregularities?",
+    "options": ["Digital evaluation only", "Physical answer sheet evaluation", "AI-based evaluation", "Peer evaluation"],
+    "correctAnswer": "Physical answer sheet evaluation"
   },
   {
     "id": 13,
-    "question": "Telangana's Lok Sabha seats are proposed to increase from 17 to 26. What is the approximate percentage increase?",
-    "options": ["40%", "45%", "53%", "58%"],
-    "correctAnswer": "53%"
+    "question": "What relief measure was proposed for candidates regarding age limits due to exam irregularities, as per the CJP?",
+    "options": ["One-time age waiver", "Automatic age relaxation", "Extended age limit for all exams", "Reduced age limit criteria"],
+    "correctAnswer": "Automatic age relaxation"
   },
   {
     "id": 14,
-    "question": "Andhra Pradesh's Lok Sabha seats are proposed to increase from 25 to 38. What is the exact percentage increase?",
-    "options": ["48%", "50%", "52%", "54%"],
-    "correctAnswer": "52%"
+    "question": "What type of audits were demanded by the CJP to prevent future exam leaks and ensure transparency?",
+    "options": ["Financial audits", "Environmental audits", "Tech audits", "Personnel audits"],
+    "correctAnswer": "Tech audits"
   },
   {
     "id": 15,
-    "question": "Which of the following Southern states is NOT listed among those expected to see an increase in Lok Sabha seats under the proposed delimitation alongside Telangana and Andhra Pradesh?",
-    "options": ["Karnataka", "Tamil Nadu", "Kerala", "Odisha"],
-    "correctAnswer": "Odisha"
+    "question": "What was the initial location mentioned for the Cockroach Janta Party's protest against exam irregularities?",
+    "options": ["Bengaluru", "Delhi", "Mumbai", "Pune"],
+    "correctAnswer": "Pune"
   },
   {
     "id": 16,
-    "question": "The Economic Advisory Council to the PM's proposal suggests that the number of seats in southern states like Telangana and Andhra Pradesh is expected to:",
-    "options": ["Remain unchanged", "Decrease slightly", "Rise significantly", "Be merged with other states"],
-    "correctAnswer": "Rise significantly"
+    "question": "What was a primary reason cited for the National Pharmaceutical Pricing Authority (NPPA) to raise prices of key medicines?",
+    "options": ["Increased research and development costs", "Higher marketing expenses", "Rising raw material expenses", "Government taxation policies"],
+    "correctAnswer": "Rising raw material expenses"
   },
   {
     "id": 17,
-    "question": "Which state's Chief Minister was among those from Congress-governed states who attended the NITI Aayog meeting with historic 100% attendance, as mentioned in the news?",
-    "options": ["Telangana", "Uttar Pradesh", "Gujarat", "West Bengal"],
-    "correctAnswer": "Telangana"
+    "question": "Which two essential cancer injections saw a significant price hike approved by the NPPA?",
+    "options": ["Insulin and Metformin", "Amoxicillin and Azithromycin", "Carboplatin and Cisplatin", "Paracetamol and Ibuprofen"],
+    "correctAnswer": "Carboplatin and Cisplatin"
   },
   {
     "id": 18,
-    "question": "The recent NITI Aayog meeting, attended by the Chief Minister of Telangana, achieved a historic milestone regarding:",
-    "options": ["Unanimous policy adoption", "100% attendance of CMs", "Record number of agendas discussed", "First meeting chaired by a non-PM"],
-    "correctAnswer": "100% attendance of CMs"
+    "question": "By what percentage did the NPPA greenlight a price hike for essential Carboplatin and Cisplatin injections?",
+    "options": ["25%", "30%", "40%", "50%"],
+    "correctAnswer": "50%"
   },
   {
     "id": 19,
-    "question": "Along with Congress-governed states like Telangana, Chief Ministers from which other political party's states were also present at the NITI Aayog meeting?",
-    "options": ["BJP", "TMC", "AAP", "DMK"],
-    "correctAnswer": "AAP"
+    "question": "Besides specific cancer drugs, what other medical supplies had their prices adjusted by the NPPA to ensure availability?",
+    "options": ["Antibiotics and painkillers", "Anti-tetanus immunoglobulin and key childhood vaccines", "Vitamins and supplements", "Heart disease medications and blood thinners"],
+    "correctAnswer": "Anti-tetanus immunoglobulin and key childhood vaccines"
   },
   {
     "id": 20,
-    "question": "The participation of the Chief Minister of Telangana at the NITI Aayog meeting contributed to what significant attendance record?",
-    "options": ["Highest ever participation by Southern CMs", "First time all new CMs attended", "Historic 100% attendance", "Largest gathering of state leaders"],
-    "correctAnswer": "Historic 100% attendance"
+    "question": "Which regulatory body approved the price increases for essential cancer drugs and other key medicines?",
+    "options": ["Drug Controller General of India (DCGI)", "Ministry of Health and Family Welfare", "Indian Medical Association (IMA)", "National Pharmaceutical Pricing Authority (NPPA)"],
+    "correctAnswer": "National Pharmaceutical Pricing Authority (NPPA)"
   },
   {
     "id": 21,
-    "question": "The NITI Aayog meeting, where Telangana's CM was present, saw Karnataka's CM D.K. Shivakumar ending what specific state action?",
-    "options": ["A political protest", "A boycott by the previous administration", "A border dispute negotiation", "A financial aid request"],
-    "correctAnswer": "A boycott by the previous administration"
+    "question": "What is the main objective behind the NPPA's decision to increase prices for certain life-saving drugs?",
+    "options": ["To increase pharmaceutical company profits", "To make drugs unaffordable for the general public", "To prevent shortages and ensure availability", "To reduce drug consumption"],
+    "correctAnswer": "To prevent shortages and ensure availability"
   },
   {
     "id": 22,
-    "question": "According to the Economic Advisory Council to PM Modi, which of these pairs of states would account for 22 of the 59 proposed two-way splits in Lok Sabha seats?",
-    "options": ["Telangana and Andhra Pradesh", "Kerala and Tamil Nadu", "Karnataka and Maharashtra", "Uttar Pradesh and Bihar"],
-    "correctAnswer": "Kerala and Tamil Nadu"
+    "question": "What issue was the NPPA aiming to prevent by increasing the prices of essential cancer drugs?",
+    "options": ["Overproduction", "Export restrictions", "Shortages", "Quality degradation"],
+    "correctAnswer": "Shortages"
   },
   {
     "id": 23,
-    "question": "The proposed delimitation aims to significantly alter the political representation in the Lok Sabha for several states, prominently including:",
-    "options": ["Gujarat and Rajasthan", "West Bengal and Odisha", "Telangana and Andhra Pradesh", "Punjab and Haryana"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "What specific feedback from candidates regarding booklet design was addressed by the NTA for NEET (UG)-2026, leading to changes in rough-work page placement?",
+    "options": ["Too many pages", "Small font size", "Convenience and accessibility", "Color scheme"],
+    "correctAnswer": "Convenience and accessibility"
   },
   {
     "id": 24,
-    "question": "The proposal for 'targeted' delimitation by the Economic Advisory Council primarily suggests an increase in Lok Sabha seats for which region of India?",
-    "options": ["North East", "Northern States", "Southern States", "Western States"],
-    "correctAnswer": "Southern States"
+    "question": "According to the news, what was the broad geographical scope of the Cockroach Janta Party's protests regarding exam irregularities?",
+    "options": ["Limited to Pune", "State-specific", "Nationwide", "International"],
+    "correctAnswer": "Nationwide"
   },
   {
     "id": 25,
-    "question": "Which of the following is a direct consequence for Telangana and Andhra Pradesh if the Economic Advisory Council's delimitation proposal is implemented?",
-    "options": ["Decrease in Rajya Sabha seats", "Increase in Lok Sabha representation", "Reduction in central funds", "Change in state boundaries"],
-    "correctAnswer": "Increase in Lok Sabha representation"
+    "question": "What specific financial factor related to drug production directly contributed to the need for a price hike for essential cancer drugs, as per the NPPA?",
+    "options": ["Increased advertising costs", "Higher distribution expenses", "Rising raw material expenses", "Increased labor wages"],
+    "correctAnswer": "Rising raw material expenses"
   }
 ]

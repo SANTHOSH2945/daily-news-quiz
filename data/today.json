@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which specific product category is currently under scrutiny by India's drug regulator for safety compliance?",
-    "options": [
-      "Skin creams",
-      "Hair colour/dye",
-      "Dental products",
-      "Nutritional supplements"
-    ],
-    "correctAnswer": "Hair colour/dye"
+    "question": "The news highlights concerns regarding 'Dr AI' and self-diagnosis. What is a primary concern associated with relying on AI for medical diagnosis in India?",
+    "options": ["Over-reliance leading to misdiagnosis", "Lack of access in rural areas of states like Telangana", "High cost of AI-powered diagnostic tools", "Shortage of AI developers in medical field"],
+    "correctAnswer": "Over-reliance leading to misdiagnosis"
   },
   {
     "id": 2,
-    "question": "What are hair colour manufacturers in India specifically asked to prove by the drug regulator?",
-    "options": [
-      "Their marketing budget",
-      "Their distribution network",
-      "Their safety compliance",
-      "Their export volume"
-    ],
-    "correctAnswer": "Their safety compliance"
+    "question": "Which field, according to the news, is experiencing both convenience and potential risks due to the increasing availability of AI tools for self-assessment in India?",
+    "options": ["Education", "Healthcare", "Finance", "Agriculture"],
+    "correctAnswer": "Healthcare"
   },
   {
     "id": 3,
-    "question": "Which two sets of norms are highlighted for hair colour companies to adhere to in India?",
-    "options": [
-      "FDI Rules and WTO Guidelines",
-      "Cosmetics Rules and BIS norms",
-      "Labor Laws and Environmental Acts",
-      "Import-Export Policy and GST Regulations"
-    ],
-    "correctAnswer": "Cosmetics Rules and BIS norms"
+    "question": "While discussing the rise of AI in self-diagnosis across India, what dangerous aspect is particularly emphasized in the headline?",
+    "options": ["Data privacy breaches", "Misinformation spread", "Dangerous comfort of self-diagnosis", "High energy consumption of AI systems"],
+    "correctAnswer": "Dangerous comfort of self-diagnosis"
   },
   {
     "id": 4,
-    "question": "What type of essential instructions are hair dye manufacturers now required to include on their labels?",
-    "options": [
-      "Storage instructions",
-      "Application duration guidelines",
-      "Mandatory patch-test instructions",
-      "Disposal methods"
-    ],
-    "correctAnswer": "Mandatory patch-test instructions"
+    "question": "The US blamed Iran for attacking ships with Indian onboard. Where did the alleged drone attack on Indian vessels take place, as mentioned by Iran's embassy in India?",
+    "options": ["Arabian Sea", "Strait of Hormuz", "Gulf of Aden", "Red Sea"],
+    "correctAnswer": "Strait of Hormuz"
   },
   {
     "id": 5,
-    "question": "The increased scrutiny on cosmetic safety by India's drug regulator is a response to the growing market in which sector?",
-    "options": [
-      "Pharmaceuticals",
-      "Food and Beverages",
-      "Automotive",
-      "Cosmetic market"
-    ],
-    "correctAnswer": "Cosmetic market"
+    "question": "What accusation did Iran's embassy in India dismiss as 'baseless' regarding Indian-crewed ships?",
+    "options": ["US attacking ships", "Piracy by Indian sailors", "A drone attack by Iran", "Smuggling of goods by Indian vessels"],
+    "correctAnswer": "A drone attack by Iran"
   },
   {
     "id": 6,
-    "question": "Which regulatory body in India is demanding hair colour manufacturers prove their products meet safety standards?",
-    "options": [
-      "SEBI",
-      "IRDAI",
-      "India's drug regulator",
-      "RBI"
-    ],
-    "correctAnswer": "India's drug regulator"
+    "question": "Who has been appointed as the next Chief of Army Staff, taking charge on June 30?",
+    "options": ["Gen Manoj Pande", "Lt Gen Dhiraj Seth", "Gen Anil Chauhan", "Air Chief Marshal Vivek Ram Chaudhari"],
+    "correctAnswer": "Lt Gen Dhiraj Seth"
   },
   {
     "id": 7,
-    "question": "What is the primary aim of the drug regulator's recent move concerning hair dye products?",
-    "options": [
-      "To increase taxation on cosmetics",
-      "To encourage foreign investment in cosmetics",
-      "To ensure product safety for consumers",
-      "To promote traditional remedies"
-    ],
-    "correctAnswer": "To ensure product safety for consumers"
+    "question": "The appointment of Lt Gen Dhiraj Seth as Army Chief is a significant national event for India. When is he slated to take charge of this key defense role?",
+    "options": ["July 15", "August 1", "June 30", "September 10"],
+    "correctAnswer": "June 30"
   },
   {
     "id": 8,
-    "question": "Which two organizations have jointly launched a Rs. 1-crore challenge to fight anaemia?",
-    "options": [
-      "WHO and UNICEF",
-      "Ministry of Health and Family Welfare and World Bank",
-      "ICMR and Gates Foundation",
-      "NITI Aayog and UNDP"
-    ],
-    "correctAnswer": "ICMR and Gates Foundation"
+    "question": "Which state saw an IAF AN-32 aircraft crash resulting in fatalities, as mentioned in the evening news wrap?",
+    "options": ["Uttar Pradesh", "Rajasthan", "Assam", "Karnataka"],
+    "correctAnswer": "Assam"
   },
   {
     "id": 9,
-    "question": "What is the prize money associated with the challenge launched by ICMR and Gates Foundation to combat anaemia?",
-    "options": [
-      "Rs. 10 lakh",
-      "Rs. 50 lakh",
-      "Rs. 1 crore",
-      "Rs. 10 crore"
-    ],
-    "correctAnswer": "Rs. 1 crore"
+    "question": "The appointment of a new Army Chief, Lt Gen Dhiraj Seth, is crucial for India's defense. What is the highest military position he will assume?",
+    "options": ["Chief of Naval Staff", "Chief of Air Staff", "Chief of Army Staff", "Chief of Defence Staff"],
+    "correctAnswer": "Chief of Army Staff"
   },
   {
     "id": 10,
-    "question": "The ICMR and Gates Foundation initiative aims to combat which widespread health issue in India?",
-    "options": [
-      "Diabetes",
-      "Malaria",
-      "Tuberculosis",
-      "Anaemia"
-    ],
-    "correctAnswer": "Anaemia"
+    "question": "Which organization launched a digital training programme for examination officials across India?",
+    "options": ["CBSE", "UGC", "NTA", "AICTE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 11,
-    "question": "For whom is the ICMR-Gates Foundation challenge primarily seeking to create appealing, iron-rich foods?",
-    "options": [
-      "Elderly men",
-      "Infants and toddlers",
-      "Women and girls",
-      "Athletes"
-    ],
-    "correctAnswer": "Women and girls"
+    "question": "What is the primary objective of the digital training programme launched by NTA for examination officials, applicable to all states including Telangana and Andhra Pradesh?",
+    "options": ["To recruit new officials", "To enhance examination integrity and efficiency", "To provide financial literacy", "To promote digital marketing skills"],
+    "correctAnswer": "To enhance examination integrity and efficiency"
   },
   {
     "id": 12,
-    "question": "The initiative to fight anaemia seeks to move beyond which traditional approach?",
-    "options": [
-      "Dietary restrictions",
-      "Traditional supplements",
-      "Surgical interventions",
-      "Herbal remedies"
-    ],
-    "correctAnswer": "Traditional supplements"
+    "question": "The NTA's digital training program is aimed at improving the conduct of examinations. Which group of individuals is the specific target of this training?",
+    "options": ["Students", "Teachers", "Examination officials", "Parents"],
+    "correctAnswer": "Examination officials"
   },
   {
     "id": 13,
-    "question": "What qualities are desired for the innovative food products sought in the anaemia challenge?",
-    "options": [
-      "Expensive and gourmet",
-      "Seasonal and perishable",
-      "Innovative, affordable, and fitting daily diets",
-      "Imported and high-end"
-    ],
-    "correctAnswer": "Innovative, affordable, and fitting daily diets"
+    "question": "According to the news, what is a significant obstacle hindering the INDIA bloc's efforts for lasting opposition unity at the national level?",
+    "options": ["Lack of funding", "Internal state-level rivalries", "Insufficient public support", "Absence of a clear leader"],
+    "correctAnswer": "Internal state-level rivalries"
   },
   {
     "id": 14,
-    "question": "What is the monetary value of the challenge launched by ICMR and Gates Foundation?",
-    "options": [
-      "Rs. 50 lakh",
-      "Rs. 2 crore",
-      "Rs. 1 crore",
-      "Rs. 75 lakh"
-    ],
-    "correctAnswer": "Rs. 1 crore"
+    "question": "The INDIA bloc's 'five-point truce plan' aims to counter a particular political party. Which party is this alliance primarily formed to counter?",
+    "options": ["Congress", "Samajwadi Party", "AAP", "BJP"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 15,
-    "question": "What new requirement has the Supreme Court ruled a must in child custody disputes?",
-    "options": [
-      "Mandatory financial audit of parents",
-      "Psychological evaluation of parents",
-      "Compulsory mediation by a judge",
-      "Physical fitness test for parents"
-    ],
-    "correctAnswer": "Psychological evaluation of parents"
+    "question": "Which two parties are mentioned as clashing in state elections, undermining the INDIA bloc's national unity efforts?",
+    "options": ["BJP and TMC", "Congress and Samajwadi Party", "Shiv Sena and NCP", "BJD and YSRCP"],
+    "correctAnswer": "Congress and Samajwadi Party"
   },
   {
     "id": 16,
-    "question": "Who authored the Supreme Court judgment stating the necessity of psychological evaluation of parents in child custody disputes?",
-    "options": [
-      "Justice D.Y. Chandrachud",
-      "Justice N. Kotiswar Singh",
-      "Justice Hima Kohli",
-      "Justice B.R. Gavai"
-    ],
-    "correctAnswer": "Justice N. Kotiswar Singh"
+    "question": "India's External Affairs Minister S. Jaishankar recently engaged in talks with his counterpart from which European country?",
+    "options": ["Sweden", "Norway", "Finland", "Denmark"],
+    "correctAnswer": "Finland"
   },
   {
     "id": 17,
-    "question": "What is a key rationale mentioned by the SC for assessing the mental and psychological conditions of parents in custody cases?",
-    "options": [
-      "To determine their income levels",
-      "To assess their social standing",
-      "To deal with the needs of the growing child",
-      "To check their criminal records"
-    ],
-    "correctAnswer": "To deal with the needs of the growing child"
+    "question": "During the Kultaranta Talks, what specific area of cooperation was discussed between India's EAM S. Jaishankar and the Finnish Foreign Minister?",
+    "options": ["Trade agreements", "Cultural exchange", "Defence cooperation", "Climate change initiatives"],
+    "correctAnswer": "Defence cooperation"
   },
   {
     "id": 18,
-    "question": "According to the Supreme Court, when should the assessment of parents’ psychological conditions be conducted?",
-    "options": [
-      "After the child's assessment",
-      "Concurrently with the child's assessment",
-      "Prior to a similar assessment of the child",
-      "Only if requested by one of the parents"
-    ],
-    "correctAnswer": "Prior to a similar assessment of the child"
+    "question": "Who is the current External Affairs Minister of India, mentioned in the context of recent diplomatic engagements?",
+    "options": ["Nirmala Sitharaman", "Subrahmanyam Jaishankar", "Piyush Goyal", "Amit Shah"],
+    "correctAnswer": "Subrahmanyam Jaishankar"
   },
   {
     "id": 19,
-    "question": "The Supreme Court ruling on child custody emphasizes evaluating parents' conditions to better address whose needs?",
-    "options": [
-      "The legal system's needs",
-      "The growing child's needs",
-      "The grandparents' needs",
-      "The school's needs"
-    ],
-    "correctAnswer": "The growing child's needs"
+    "question": "EAM S. Jaishankar emphasized that India's energy procurement is driven by what primary factor?",
+    "options": ["Global sanctions", "International alliances", "National interests", "Environmental concerns"],
+    "correctAnswer": "National interests"
   },
   {
     "id": 20,
-    "question": "What does the psychological assessment of parents help to understand in child custody disputes?",
-    "options": [
-      "Their financial assets",
-      "Their career aspirations",
-      "Their compatibility with each of the parents for the child",
-      "Their political affiliations"
-    ],
-    "correctAnswer": "Their compatibility with each of the parents for the child"
+    "question": "What is the fundamental issue raised about the reliability of 'Dr AI' for self-diagnosis?",
+    "options": ["It is always available but not always right", "It is too slow for emergency cases", "It requires expensive hardware", "It is only available in English"],
+    "correctAnswer": "It is always available but not always right"
   },
   {
     "id": 21,
-    "question": "Which type of disputes now mandatorily require psychological evaluation of parents as per the SC?",
-    "options": [
-      "Property disputes",
-      "Divorce proceedings without children",
-      "Child custody disputes",
-      "Business disputes"
-    ],
-    "correctAnswer": "Child custody disputes"
+    "question": "The article on Dr AI raises concerns about the 'dangerous comfort' of self-diagnosis. This refers to the potential for individuals to:",
+    "options": ["Become overly reliant on technology", "Ignore professional medical advice", "Delay seeking proper treatment", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 22,
-    "question": "What is the primary objective of the ICMR-Gates Foundation challenge in combating anaemia?",
-    "options": [
-      "To develop new diagnostic tools",
-      "To find innovative food-based solutions",
-      "To provide surgical treatments",
-      "To establish more blood banks"
-    ],
-    "correctAnswer": "To find innovative food-based solutions"
+    "question": "According to the news, which country's embassy in India issued a statement dismissing US accusations of drone attacks on Indian vessels?",
+    "options": ["Russia", "China", "Iran", "Pakistan"],
+    "correctAnswer": "Iran"
   },
   {
     "id": 23,
-    "question": "What type of ingredients are specifically sought for the new foods in the anaemia challenge?",
-    "options": [
-      "Protein-rich",
-      "Vitamin-C rich",
-      "Iron-rich",
-      "Calcium-rich"
-    ],
-    "correctAnswer": "Iron-rich"
+    "question": "Apart from the IAF aircraft crash, what other economic concern for Delhiites was mentioned in the evening news wrap?",
+    "options": ["Increase in petrol prices", "Rise in property taxes", "Higher electricity bills", "Hike in public transport fares"],
+    "correctAnswer": "Higher electricity bills"
   },
   {
     "id": 24,
-    "question": "The Supreme Court states that assessing parents' psychological conditions is as important as assessing what aspect of the child?",
-    "options": [
-      "The child's academic performance",
-      "The child's physical health",
-      "How a child will respond to either of the parents",
-      "The child's social circle"
-    ],
-    "correctAnswer": "How a child will respond to either of the parents"
+    "question": "The NTA program focuses on digital training. What type of training does this imply for the officials?",
+    "options": ["Manual handling of papers", "Computer-based skill development", "Physical fitness routines", "Language proficiency"],
+    "correctAnswer": "Computer-based skill development"
   },
   {
     "id": 25,
-    "question": "India's drug regulator's move on hair dye safety aims to ensure compliance with existing norms related to which product aspects?",
-    "options": [
-      "Marketing strategies and pricing",
-      "Packaging size and weight",
-      "Ingredients, restrictions, and labelling",
-      "Sales targets and profit margins"
-    ],
-    "correctAnswer": "Ingredients, restrictions, and labelling"
+    "question": "What did the INDIA bloc attempt to do with a 'five-point plan'?",
+    "options": ["Launch a new political party", "Counter the BJP", "Form international alliances", "Introduce new economic reforms"],
+    "correctAnswer": "Counter the BJP"
   }
 ]

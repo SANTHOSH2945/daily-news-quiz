@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which major city in Telangana is known for its extensive use of Intelligent Traffic Management Systems (ITMS) to enhance road safety and traffic flow?",
-    "options": ["Hyderabad", "Warangal", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "What new requirement has the Supreme Court recently made mandatory in child custody disputes?",
+    "options": [
+      "Financial background checks of parents",
+      "Psychological evaluation of parents",
+      "Educational qualification assessment of parents",
+      "Joint family living arrangement for the child"
+    ],
+    "correctAnswer": "Psychological evaluation of parents"
   },
   {
     "id": 2,
-    "question": "Andhra Pradesh has implemented several measures to reduce road accidents. Which government body primarily oversees road safety enforcement and awareness campaigns in the state?",
-    "options": ["Andhra Pradesh State Road Transport Corporation (APSRTC)", "Transport Department, Government of Andhra Pradesh", "Andhra Pradesh Police Department", "National Highways Authority of India (NHAI)"],
-    "correctAnswer": "Transport Department, Government of Andhra Pradesh"
+    "question": "According to the Supreme Court's recent ruling, whose mental and psychological conditions are equally important to ascertain for a child's needs in custody cases?",
+    "options": [
+      "Grandparents",
+      "Guardians",
+      "Parents",
+      "Child itself"
+    ],
+    "correctAnswer": "Parents"
   },
   {
     "id": 3,
-    "question": "Regarding the compliance with helmet usage, what is a common challenge faced by traffic authorities in both Telangana and Andhra Pradesh despite awareness campaigns?",
-    "options": ["Lack of availability of helmets", "High cost of standard helmets", "Resistance from riders, especially in rural areas", "Insufficient traffic police personnel"],
-    "correctAnswer": "Resistance from riders, especially in rural areas"
+    "question": "The Supreme Court ruled that assessment of parents' psychological conditions must be conducted __________ a similar assessment of the child in custody cases.",
+    "options": [
+      "After",
+      "Simultaneously with",
+      "Prior to",
+      "Independently of"
+    ],
+    "correctAnswer": "Prior to"
   },
   {
     "id": 4,
-    "question": "In line with promoting safer driving practices, what initiative has the Telangana government undertaken to ensure commercial vehicle operators adhere to safety regulations?",
-    "options": ["Mandatory weekly safety drills", "Introduction of a 'Safe Driver Award' program", "Compulsory refresher training and fitness certificates for vehicles", "GPS tracking for all commercial vehicles"],
-    "correctAnswer": "Compulsory refresher training and fitness certificates for vehicles"
+    "question": "Who was the Justice that wrote the judgment regarding mandatory psych evaluations in child custody disputes, as mentioned in the news?",
+    "options": [
+      "Justice D.Y. Chandrachud",
+      "Justice N Kotiswar Singh",
+      "Justice B.R. Gavai",
+      "Justice Hima Kohli"
+    ],
+    "correctAnswer": "Justice N Kotiswar Singh"
   },
   {
     "id": 5,
-    "question": "Which program in Andhra Pradesh focuses on educating school children on fundamental road safety rules and responsible pedestrian behavior?",
-    "options": ["Bal Suraksha Abhiyan", "Chinnari Bhadram", "Road Safety Clubs in Schools", "Vidya Vanam"],
-    "correctAnswer": "Road Safety Clubs in Schools"
+    "question": "The primary objective of assessing parents' psychological conditions in child custody cases, as per the SC, is to understand:",
+    "options": [
+      "Their financial stability",
+      "Their compatibility with the child",
+      "Their social standing",
+      "Their legal knowledge"
+    ],
+    "correctAnswer": "Their compatibility with the child"
   },
   {
     "id": 6,
-    "question": "Following the emphasis on people-centric urban planning, which city in Telangana is often cited for its initiatives in developing green corridors and smart infrastructure projects like the Strategic Road Development Plan (SRDP)?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Khammam"],
-    "correctAnswer": "Hyderabad"
+    "question": "The recent SC ruling on child custody emphasizes the importance of understanding parents' conditions to effectively deal with what?",
+    "options": [
+      "Their own personal issues",
+      "The needs of the growing child",
+      "Financial planning for the child",
+      "Legal procedures of the court"
+    ],
+    "correctAnswer": "The needs of the growing child"
   },
   {
     "id": 7,
-    "question": "Andhra Pradesh is focusing on modern urban development initiatives. Which city is central to the state's recent efforts to build world-class infrastructure and attract investment as a key urban hub?",
-    "options": ["Vijayawada", "Visakhapatnam", "Tirupati", "Guntur"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "During a fuel crunch, institutional, industrial, and commercial consumers can be directed to procure petrol or diesel from which source, instead of retail outlets?",
+    "options": [
+      "International suppliers",
+      "Unauthorized dealers",
+      "Authorized bulk channels",
+      "Grey market"
+    ],
+    "correctAnswer": "Authorized bulk channels"
   },
   {
     "id": 8,
-    "question": "In the context of 'Cities for People,' what is a significant challenge Hyderabad faces concerning equitable access to housing and basic services, particularly for migrant populations?",
-    "options": ["Abundant availability of affordable land", "Over-reliance on public transport", "Proliferation of informal settlements and slum areas", "Lack of proper drainage systems"],
-    "correctAnswer": "Proliferation of informal settlements and slum areas"
+    "question": "Under the new government order, what is the maximum limit for diesel sales to a customer or vehicle from retail outlets per day during a fuel crunch?",
+    "options": [
+      "100 litres",
+      "150 litres",
+      "200 litres",
+      "500 litres"
+    ],
+    "correctAnswer": "200 litres"
   },
   {
     "id": 9,
-    "question": "Which government entity in Andhra Pradesh is primarily responsible for the planning and controlled development of urban areas across the state, excluding specific capital region authorities?",
-    "options": ["Andhra Pradesh Urban Development Authority (APUDA)", "Directorate of Town and Country Planning (DTCP)", "Andhra Pradesh Housing Board (APHB)", "Urban Local Bodies (ULBs)"],
-    "correctAnswer": "Directorate of Town and Country Planning (DTCP)"
+    "question": "Which types of consumers are primarily targeted by the government's new order to cap bulk fuel purchases during a crunch?",
+    "options": [
+      "Individual car owners",
+      "Small household consumers",
+      "Institutional, industrial, and commercial consumers",
+      "Farmers"
+    ],
+    "correctAnswer": "Institutional, industrial, and commercial consumers"
   },
   {
     "id": 10,
-    "question": "Telangana has invested in digital solutions for urban governance. Which online portal allows citizens in major cities to access various municipal services, pay taxes, and lodge grievances?",
-    "options": ["MeeSeva Portal", "e-Pragati", "Greater Hyderabad Municipal Corporation (GHMC) Online Services", "TS-Online"],
-    "correctAnswer": "MeeSeva Portal"
+    "question": "A key provision of the government's new fuel order states that fuel procured under this provision:",
+    "options": [
+      "Can be resold with a permit",
+      "Cannot be resold",
+      "Must be consumed within 24 hours",
+      "Is exempt from taxes"
+    ],
+    "correctAnswer": "Cannot be resold"
   },
   {
     "id": 11,
-    "question": "Which initiative by the Andhra Pradesh government aims to provide affordable housing for the urban and rural poor, aligning with national goals for inclusive urban development?",
-    "options": ["Pedalandariki Illu", "Jagananna Colonies", "NTR Housing Scheme", "Amma Vodi"],
-    "correctAnswer": "Jagananna Colonies"
+    "question": "The government's recent notification aims to manage bulk fuel buys during what specific situation?",
+    "options": [
+      "Public holidays",
+      "Fuel crunch",
+      "Regular business operations",
+      "Festival seasons"
+    ],
+    "correctAnswer": "Fuel crunch"
   },
   {
     "id": 12,
-    "question": "The Telangana government's 'Layout Regularisation Scheme (LRS)' aims to address which aspect of urban planning and development?",
-    "options": ["Promoting new greenfield developments", "Regularizing unauthorized and unapproved layouts", "Encouraging vertical growth in urban areas", "Providing subsidies for smart city projects"],
-    "correctAnswer": "Regularizing unauthorized and unapproved layouts"
+    "question": "The order to cap bulk fuel purchases is primarily intended to:",
+    "options": [
+      "Increase government revenue",
+      "Ensure equitable distribution during scarcity",
+      "Reduce fuel prices for all consumers",
+      "Promote the use of alternative fuels"
+    ],
+    "correctAnswer": "Ensure equitable distribution during scarcity"
   },
   {
     "id": 13,
-    "question": "In Andhra Pradesh, what significant role do Urban Local Bodies (ULBs) play in urban planning and service delivery, as emphasized in national discussions on decentralized governance?",
-    "options": ["Formulating state-level urban policies", "Direct implementation of central government schemes only", "Local-level planning, infrastructure provision, and municipal service management", "Managing inter-state urban migration"],
-    "correctAnswer": "Local-level planning, infrastructure provision, and municipal service management"
+    "question": "Which agency recently arrested ex-RCom executives Doshi & Seth in connection with the ADAG case?",
+    "options": [
+      "CBI",
+      "NIA",
+      "ED (Enforcement Directorate)",
+      "Income Tax Department"
+    ],
+    "correctAnswer": "ED (Enforcement Directorate)"
   },
   {
     "id": 14,
-    "question": "Hyderabad's rapid growth has led to significant urban sprawl. What strategy is being primarily employed by the Telangana government to manage this sprawl and ensure sustainable development around the city?",
-    "options": ["Demolishing unauthorized structures", "Promoting satellite townships and ring road development", "Restricting industrial growth", "Imposing a moratorium on new constructions"],
-    "correctAnswer": "Promoting satellite townships and ring road development"
+    "question": "The ADAG case, involving entities and associates, is connected to which prominent Indian business figure?",
+    "options": [
+      "Mukesh Ambani",
+      "Anil Ambani",
+      "Gautam Adani",
+      "Anand Mahindra"
+    ],
+    "correctAnswer": "Anil Ambani"
   },
   {
     "id": 15,
-    "question": "Which department in the Telangana government is primarily responsible for the planning, execution, and development of urban infrastructure and smart city projects across the state?",
-    "options": ["Department of Municipal Administration and Urban Development", "Roads and Buildings Department", "Planning Department", "Panchayati Raj and Rural Development Department"],
-    "correctAnswer": "Department of Municipal Administration and Urban Development"
+    "question": "Along with Doshi and Seth, who else from the core leadership team of Anil Ambani is currently in judicial custody in connection with the ED case?",
+    "options": [
+      "Vijay Mallya",
+      "Nirav Modi",
+      "Amitabh Jhunjhunwala",
+      "Chanda Kochhar"
+    ],
+    "correctAnswer": "Amitabh Jhunjhunwala"
   },
   {
     "id": 16,
-    "question": "How has the Direct Benefit Transfer (DBT) system significantly improved the delivery of welfare schemes in Telangana, as highlighted by national discussions on reducing corruption?",
-    "options": ["By increasing the number of eligible beneficiaries", "By eliminating middlemen and ensuring direct credit to beneficiaries' accounts", "By simplifying the application process for schemes", "By expanding the range of welfare schemes offered"],
-    "correctAnswer": "By eliminating middlemen and ensuring direct credit to beneficiaries' accounts"
+    "question": "Which specific scam led to Doshi's earlier arrest in 2011 by the CBI?",
+    "options": [
+      "Coal Scam",
+      "2G spectrum scam",
+      "Commonwealth Games scam",
+      "Harshad Mehta scam"
+    ],
+    "correctAnswer": "2G spectrum scam"
   },
   {
     "id": 17,
-    "question": "Which flagship scheme in Andhra Pradesh aims at empowering women and alleviating poverty through financial assistance provided directly to women's self-help groups?",
-    "options": ["Amma Vodi", "YSR Cheyutha", "Jagananna Vidya Deevena", "YSR Aasara"],
-    "correctAnswer": "YSR Aasara"
+    "question": "The special investigation team handling ED’s case against Ambani and his group entities is constituted at the agency’s:",
+    "options": [
+      "Regional office",
+      "Headquarters",
+      "Field office",
+      "International liaison office"
+    ],
+    "correctAnswer": "Headquarters"
   },
   {
     "id": 18,
-    "question": "In line with the national focus on anti-poverty and farmer welfare initiatives, what is a key feature of the Rythu Bandhu scheme in Telangana regarding farmer support?",
-    "options": ["Interest-free crop loans", "Direct investment support for agriculture twice a year", "Free electricity for irrigation", "Crop insurance for all farmers"],
-    "correctAnswer": "Direct investment support for agriculture twice a year"
+    "question": "Doshi was behind bars for how many months after his arrest in 2011 by CBI?",
+    "options": [
+      "Three months",
+      "Five months",
+      "Seven months",
+      "Twelve months"
+    ],
+    "correctAnswer": "Seven months"
   },
   {
     "id": 19,
-    "question": "What mechanism implemented in Andhra Pradesh ensures transparency and reduces leakage in the distribution of welfare funds through Direct Benefit Transfer (DBT)?",
-    "options": ["Public display boards listing beneficiaries", "Biometric authentication at payment points", "Real-time monitoring dashboard and direct bank account transfers", "Quarterly audits by external agencies"],
-    "correctAnswer": "Real-time monitoring dashboard and direct bank account transfers"
+    "question": "Which national authority is responsible for revising the price caps of drugs in India, as per the news?",
+    "options": [
+      "CDSCO",
+      "AIIMS",
+      "NPPA (National Pharmaceutical Pricing Authority)",
+      "ICMR"
+    ],
+    "correctAnswer": "NPPA (National Pharmaceutical Pricing Authority)"
   },
   {
     "id": 20,
-    "question": "Beyond central government schemes, which state-specific program in Telangana provides pension benefits directly to eligible citizens like the elderly, widows, and disabled individuals?",
-    "options": ["Aasara Pensions", "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)", "Shadi Mubarak Scheme", "Kanti Velugu"],
-    "correctAnswer": "Aasara Pensions"
+    "question": "The price cap on how many key cancer drugs was recently increased by 50%?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": "Two"
   },
   {
     "id": 21,
-    "question": "Which city in Telangana is widely recognized as a major hub for IT, deep technology, and startup innovation, often called the 'Startup Capital of India' by some, aligning with national innovation drives?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "By what percentage was the price cap on two key cancer drugs recently increased?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctAnswer": "50%"
   },
   {
     "id": 22,
-    "question": "Andhra Pradesh is actively promoting innovation and entrepreneurship. Which initiative by the state government supports budding entrepreneurs and startups through incubation, mentorship, and funding assistance?",
-    "options": ["AP Innovation Society", "Rythu Bharosa Kendras", "Jagananna Vidya Kanuka", "YSR Zero Interest Scheme"],
-    "correctAnswer": "AP Innovation Society"
+    "question": "Besides cancer drugs, which other critical health products had their prices revised by the NPPA to ensure continued availability?",
+    "options": [
+      "Painkillers and antibiotics",
+      "Anti-tetanus immunoglobulin and three key childhood vaccines",
+      "Vitamins and supplements",
+      "Diabetes medications"
+    ],
+    "correctAnswer": "Anti-tetanus immunoglobulin and three key childhood vaccines"
   },
   {
     "id": 23,
-    "question": "What specific sector within deep technology is Hyderabad's startup ecosystem particularly strong in, reflecting national innovation goals and global partnerships?",
-    "options": ["Textile manufacturing technology", "Artificial Intelligence (AI) and Machine Learning (ML)", "Traditional handicraft automation", "Agricultural commodity trading platforms"],
-    "correctAnswer": "Artificial Intelligence (AI) and Machine Learning (ML)"
+    "question": "The decision to revise drug prices was taken at which meeting number of the NPPA?",
+    "options": [
+      "120th",
+      "135th",
+      "147th",
+      "160th"
+    ],
+    "correctAnswer": "147th"
   },
   {
     "id": 24,
-    "question": "How does the Telangana government foster a conducive environment for startups, in line with national innovation drives like 'Bharat Innovates'?",
-    "options": ["By providing free office spaces indefinitely", "Through T-Hub, a large-scale innovation incubator, and various policy incentives", "By guaranteeing government contracts to all startups", "By imposing strict regulations on foreign investments"],
-    "correctAnswer": "Through T-Hub, a large-scale innovation incubator, and various policy incentives"
+    "question": "Which specific paragraph of the Drug Price Control Order (DPCO), 2013, did NPPA invoke for revising prices of critical formulations?",
+    "options": [
+      "Para 10",
+      "Para 15",
+      "Para 19",
+      "Para 22"
+    ],
+    "correctAnswer": "Para 19"
   },
   {
     "id": 25,
-    "question": "In Andhra Pradesh, what is a key focus area for encouraging innovation and startups in Visakhapatnam, leveraging its strategic location and existing infrastructure?",
-    "options": ["Heavy machinery manufacturing", "Fintech, IT, and pharmaceutical research", "Traditional fishing and aquaculture technology", "Space exploration and satellite development"],
-    "correctAnswer": "Fintech, IT, and pharmaceutical research"
+    "question": "The NPPA invoked its extraordinary powers under DPCO, 2013, to revise prices of formulations considered critical for what purpose?",
+    "options": [
+      "Economic growth",
+      "Public health",
+      "Pharmaceutical industry profit",
+      "International trade"
+    ],
+    "correctAnswer": "Public health"
   }
 ]

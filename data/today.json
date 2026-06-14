@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What examination is the Centre focused on rebuilding confidence for, as mentioned in recent news, directly impacting students in states like Telangana and Andhra Pradesh?",
-    "options": ["UPSC Civil Services Exam", "JEE Advanced", "NEET-UG", "CAT Exam"],
-    "correctAnswer": "NEET-UG"
+    "question": "During the recent meeting between PM Modi and President Macron in Nice, what is the announced target for doubling bilateral trade between India and France?",
+    "options": ["3 years", "5 years", "7 years", "10 years"],
+    "correctAnswer": "5 years"
   },
   {
     "id": 2,
-    "question": "What assurance have government officials given regarding the papers for the NEET-UG retest?",
-    "options": ["They will be printed abroad.", "They are susceptible to cyber breaches.", "They are not susceptible to cyber breaches.", "They will be delivered by drone."],
-    "correctAnswer": "They are not susceptible to cyber breaches."
+    "question": "How many major outcomes were announced after PM Modi's talks with President Macron to deepen their strategic partnership?",
+    "options": ["7", "10", "13", "15"],
+    "correctAnswer": "13"
   },
   {
     "id": 3,
-    "question": "What is the name of the Indian seafarer whose body repatriation is sought from Oman, a matter of concern for Indian citizens across all states?",
-    "options": ["Abhishek Banerjee", "Nishanth Uirthanathan", "Kunal Ghosh", "Ashok Gehlot"],
-    "correctAnswer": "Nishanth Uirthanathan"
+    "question": "Which of the following areas was highlighted for deepening cooperation through an innovation roadmap between India and France?",
+    "options": ["Traditional arts", "Critical and emerging technology", "Agricultural exports from Telangana", "Tourism promotion in Andhra Pradesh"],
+    "correctAnswer": "Critical and emerging technology"
   },
   {
     "id": 4,
-    "question": "Where did Indian seafarer Nishanth Uirthanathan die aboard a vessel, prompting repatriation efforts by the Indian Embassy?",
-    "options": ["Dubai", "Muscat", "Oman", "Yemen"],
-    "correctAnswer": "Oman"
+    "question": "Which type of dialogue was launched to deepen economic ties between India and France?",
+    "options": ["Cultural Exchange Dialogue", "Economic Security Dialogue", "Climate Change Dialogue", "Bilateral Investment Dialogue focusing on Andhra Pradesh"],
+    "correctAnswer": "Economic Security Dialogue"
   },
   {
     "id": 5,
-    "question": "Which vessel was Nishanth Uirthanathan serving on when he died, leading to a family's plea for justice?",
-    "options": ["MV Virat 1", "MT Celestial", "INS Vikrant", "SS Titanic"],
-    "correctAnswer": "MT Celestial"
+    "question": "A new working group was announced to be launched for cooperation in which specific technological domain between India and France?",
+    "options": ["Space exploration", "Artificial Intelligence (AI) governance", "Biotechnology in Telangana", "Renewable energy"],
+    "correctAnswer": "Artificial Intelligence (AI) governance"
   },
   {
     "id": 6,
-    "question": "Which Indian diplomatic mission is coordinating efforts for the repatriation of Nishanth Uirthanathan's body from Oman?",
-    "options": ["Indian Embassy in Dubai", "Indian High Commission in London", "Indian Embassy in Muscat", "Indian Consulate in New York"],
-    "correctAnswer": "Indian Embassy in Muscat"
+    "question": "The India-France strategic partnership seeks to ramp up defence cooperation, consistent with which Indian initiative?",
+    "options": ["Digital India", "Skill India", "Make in India", "Clean India"],
+    "correctAnswer": "Make in India"
   },
   {
     "id": 7,
-    "question": "What specific allegations were made by the family of Nishanth Uirthanathan regarding his death and the shipping company's conduct?",
-    "options": ["Lack of communication and inadequate medical care", "Intentional harm by crew members", "Financial fraud by the company", "Refusal to pay salary"],
-    "correctAnswer": "Lack of communication and inadequate medical care"
-  },
-  {
-    "id": 8,
-    "question": "What is the primary demand of Nishanth Uirthanathan's family regarding his death?",
-    "options": ["Financial compensation only", "Repatriation of his mortal remains and investigation", "Immediate arrest of the captain", "A new job for the family"],
-    "correctAnswer": "Repatriation of his mortal remains and investigation"
-  },
-  {
-    "id": 9,
-    "question": "What was the name of the Indian vessel that sank off the coast of Oman recently, leading to the rescue of all crew members?",
-    "options": ["MT Celestial", "Indian Virat 1", "MV Sagar Samrat", "INS Arihant"],
-    "correctAnswer": "Indian Virat 1"
-  },
-  {
-    "id": 10,
-    "question": "How many Indian crew members were safely rescued after the Indian vessel Virat 1 sank off Oman?",
-    "options": ["10", "12", "14", "16"],
-    "correctAnswer": "14"
-  },
-  {
-    "id": 11,
-    "question": "Off the coast of which country did the Indian vessel Virat 1 sink due to mechanical failure?",
-    "options": ["UAE", "Iran", "Pakistan", "Oman"],
-    "correctAnswer": "Oman"
-  },
-  {
-    "id": 12,
-    "question": "What was cited as the cause for the sinking of the Indian vessel Virat 1 off the coast of Oman?",
-    "options": ["Collision with another ship", "Stormy weather", "Mechanical failure", "Piracy attack"],
-    "correctAnswer": "Mechanical failure"
-  },
-  {
-    "id": 13,
-    "question": "What was the nationality of the crew members aboard the Virat 1 who were safely rescued after the vessel sank?",
-    "options": ["Omani", "Emirati", "Indian", "Pakistani"],
-    "correctAnswer": "Indian"
-  },
-  {
-    "id": 14,
-    "question": "What was the ultimate outcome for all the crew members of the Indian vessel Virat 1 after it sank?",
-    "options": ["All were reported missing.", "All were safely rescued.", "Half were rescued, half were lost.", "They were taken captive."],
-    "correctAnswer": "All were safely rescued."
-  },
-  {
-    "id": 15,
-    "question": "Which international airline is evaluating direct flights to India, seeing new opportunities from a recently established Free Trade Agreement?",
-    "options": ["Emirates", "Qatar Airways", "Air New Zealand", "Singapore Airlines"],
-    "correctAnswer": "Air New Zealand"
-  },
-  {
-    "id": 16,
-    "question": "What type of agreement has created new opportunities for Air New Zealand to consider direct flights to India?",
-    "options": ["Bilateral Investment Treaty", "Free Trade Agreement", "Open Skies Agreement", "Cultural Exchange Program"],
-    "correctAnswer": "Free Trade Agreement"
-  },
-  {
-    "id": 17,
-    "question": "With which airlines is Air New Zealand collaborating for potential non-stop services to India, aiming to strengthen travel connections?",
-    "options": ["British Airways and Lufthansa", "Air India and Singapore Airlines", "Qantas and Cathay Pacific", "Emirates and Etihad Airways"],
-    "correctAnswer": "Air India and Singapore Airlines"
-  },
-  {
-    "id": 18,
-    "question": "By what year is a non-stop service between India and New Zealand anticipated, contingent on approvals and aircraft readiness, according to Air New Zealand's CEO?",
-    "options": ["2025", "2026", "2028", "2030"],
-    "correctAnswer": "2028"
-  },
-  {
-    "id": 19,
-    "question": "What are the key conditions mentioned for the launch of Air New Zealand's non-stop service to India?",
-    "options": ["Increased tourism only", "Government subsidies and reduced fuel prices", "Necessary approvals and aircraft readiness", "Direct flights from specific regional Indian airports only"],
-    "correctAnswer": "Necessary approvals and aircraft readiness"
-  },
-  {
-    "id": 20,
-    "question": "What specific sector of India's technological advancements is being highlighted and presented to the world, relevant to tech hubs like Hyderabad in Telangana?",
-    "options": ["Agricultural technology", "Deep-tech", "Renewable energy solutions", "Textile manufacturing"],
-    "correctAnswer": "Deep-tech"
-  },
-  {
-    "id": 21,
-    "question": "Which international figure was mentioned as holding the mic for India's deep-tech story to the world, showcasing India's global technological standing?",
-    "options": ["Joe Biden", "Emmanuel Macron", "Rishi Sunak", "Justin Trudeau"],
-    "correctAnswer": "Emmanuel Macron"
-  },
-  {
-    "id": 22,
-    "question": "The headline 'NICE: India sells its deep-tech story to the world' implies NICE is related to what?",
-    "options": ["A new Indian city development project.", "A global event or initiative showcasing Indian technology.", "An abbreviation for 'National Institute of Cyber Security'.", "A new policy framework for economic development."],
-    "correctAnswer": "A global event or initiative showcasing Indian technology."
-  },
-  {
-    "id": 23,
-    "question": "How is India positioned globally regarding its deep-tech capabilities, as suggested by selling its deep-tech story to the world?",
-    "options": ["As a nascent market with limited potential.", "As a leading player with significant advancements.", "As a consumer of foreign technology only.", "As a country focused solely on traditional industries."],
-    "correctAnswer": "As a leading player with significant advancements."
-  },
-  {
-    "id": 24,
-    "question": "Which Indian city is a prominent hub for deep-tech and IT innovations, highly relevant to India's deep-tech story being showcased globally?",
-    "options": ["Kolkata", "Jaipur", "Hyderabad", "Lucknow"],
+    "question": "In the context of India's 'Make in India' initiative for defence cooperation, which city, known for its defence and aerospace manufacturing ecosystem, could particularly benefit from such efforts?",
+    "options": ["Kolkata", "Bengaluru", "Hyderabad", "Kochi"],
     "correctAnswer": "Hyderabad"
   },
   {
+    "id": 8,
+    "question": "The innovation roadmap between India and France aims to deepen cooperation in critical and emerging technology. Which Indian state has actively promoted itself as a hub for such emerging technologies?",
+    "options": ["Bihar", "Odisha", "Telangana", "Rajasthan"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 9,
+    "question": "An economic security dialogue was launched between India and France. Given Andhra Pradesh's strategic coastline, which major port could play a significant role in enhancing maritime economic security?",
+    "options": ["Paradip", "Visakhapatnam", "Chennai", "Mormugao"],
+    "correctAnswer": "Visakhapatnam"
+  },
+  {
+    "id": 10,
+    "question": "Defence Minister Rajnath Singh stated that India's armed forces have been granted what against security threats?",
+    "options": ["Limited deployment orders", "Full freedom to counter terrorism", "Budgetary restrictions", "Diplomatic mandates"],
+    "correctAnswer": "Full freedom to counter terrorism"
+  },
+  {
+    "id": 11,
+    "question": "Rajnath Singh criticized past governments for their approach towards security threats, characterizing it as:",
+    "options": ["Proactive", "Decisive", "Soft", "Collaborative"],
+    "correctAnswer": "Soft"
+  },
+  {
+    "id": 12,
+    "question": "Which historical figure did Defence Minister Rajnath Singh laud as a symbol of national pride, linking his values to the current government's philosophy?",
+    "options": ["Chhatrapati Shivaji", "Tipu Sultan", "Maharana Pratap", "Sardar Patel"],
+    "correctAnswer": "Maharana Pratap"
+  },
+  {
+    "id": 13,
+    "question": "Apart from an innovation roadmap, what specific working group related to technology was announced to be launched for cooperation between India and France?",
+    "options": ["AI Ethics and Policy", "AI Governance", "AI for Healthcare", "AI for Smart Cities"],
+    "correctAnswer": "AI Governance"
+  },
+  {
+    "id": 14,
+    "question": "Beyond increasing trade, the Modi-Macron meet also aimed to ramp up cooperation in which critical sector, consistent with India's 'Make in India' initiative?",
+    "options": ["Agriculture", "Space", "Defence", "Education"],
+    "correctAnswer": "Defence"
+  },
+  {
+    "id": 15,
+    "question": "The recent talks between PM Modi and President Macron in Nice aimed to deepen which type of partnership between their nations?",
+    "options": ["Economic partnership", "Cultural partnership", "Strategic partnership", "Environmental partnership"],
+    "correctAnswer": "Strategic partnership"
+  },
+  {
+    "id": 16,
+    "question": "The 'Make in India' initiative, pivotal for defence and technology collaborations, encourages manufacturing growth. Which of the following states has been actively creating policies to attract manufacturing investments under this initiative, including in coastal economic zones?",
+    "options": ["Nagaland", "Himachal Pradesh", "Andhra Pradesh", "Sikkim"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": 17,
+    "question": "With the launch of an innovation roadmap in critical technologies with France, which Indian city, a major IT hub, is expected to be at the forefront of such advancements due to its robust tech ecosystem?",
+    "options": ["Chandigarh", "Lucknow", "Hyderabad", "Jaipur"],
+    "correctAnswer": "Hyderabad"
+  },
+  {
+    "id": 18,
+    "question": "Nuclear cooperation was a key aspect of the India-France discussions. Which state in India has a planned nuclear power project site at Kovvada, potentially benefiting from such international collaborations?",
+    "options": ["Kerala", "Andhra Pradesh", "West Bengal", "Assam"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": 19,
+    "question": "PM Modi and President Macron concluded their talks in Nice, opening a new chapter in the ties between India and which specific country?",
+    "options": ["Germany", "France", "Italy", "Spain"],
+    "correctAnswer": "France"
+  },
+  {
+    "id": 20,
+    "question": "Who is the current Defence Minister of India, quoted on granting full freedom to the armed forces to counter security threats?",
+    "options": ["Amit Shah", "S. Jaishankar", "Rajnath Singh", "Nirmala Sitharaman"],
+    "correctAnswer": "Rajnath Singh"
+  },
+  {
+    "id": 21,
+    "question": "The India-France economic security dialogue would likely focus on strengthening resilience against what kind of threats, impacting national and regional economies like Telangana's?",
+    "options": ["Cultural threats", "Environmental threats", "Economic vulnerabilities", "Social unrest"],
+    "correctAnswer": "Economic vulnerabilities"
+  },
+  {
+    "id": 22,
+    "question": "The innovation roadmap adopted by India and France aims to deepen cooperation in which broad categories of technology to foster growth and competitiveness?",
+    "options": ["Traditional and manual", "Critical and emerging", "Obsolete and outdated", "Low-skill and routine"],
+    "correctAnswer": "Critical and emerging"
+  },
+  {
+    "id": 23,
+    "question": "Enhanced defence cooperation, consistent with 'Make in India', is expected to lead to modernization of military capabilities and also boost which sector within India, with significant contributions from states like Andhra Pradesh?",
+    "options": ["Tourism", "Food processing", "Defence manufacturing", "Agricultural exports from Telangana"],
+    "correctAnswer": "Defence manufacturing"
+  },
+  {
+    "id": 24,
+    "question": "The discussions between India and France concluded with the aim to achieve what status for their partnership, signifying long-term commitment?",
+    "options": ["Temporary alliance", "Limited collaboration", "Enduring strategic partnership", "Trade-exclusive agreement"],
+    "correctAnswer": "Enduring strategic partnership"
+  },
+  {
     "id": 25,
-    "question": "Air New Zealand's evaluation of direct flights to India would generally improve what for Indian citizens, including those from Telangana and Andhra Pradesh?",
-    "options": ["Domestic travel infrastructure", "International connectivity and tourism", "Agricultural export routes", "Inter-state trade agreements"],
-    "correctAnswer": "International connectivity and tourism"
+    "question": "The adoption of an innovation roadmap with France underlines India's focus on which sector for future economic and strategic advancement, often driven by innovation hubs in states like Telangana?",
+    "options": ["Primary agriculture", "Heavy industries", "Technology and innovation", "Basic services"],
+    "correctAnswer": "Technology and innovation"
   }
 ]

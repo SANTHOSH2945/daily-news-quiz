@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the prominent political figure mentioned in the news headline facing a 'Telangana challenge'?",
-    "options": ["K. Chandrashekar Rao", "Nara Chandrababu Naidu", "Pawan Kalyan", "Jagan Mohan Reddy"],
-    "correctAnswer": "Pawan Kalyan"
+    "question": "What examination is the Centre focused on rebuilding confidence for, as mentioned in recent news, directly impacting students in states like Telangana and Andhra Pradesh?",
+    "options": ["UPSC Civil Services Exam", "JEE Advanced", "NEET-UG", "CAT Exam"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 2,
-    "question": "Which political party is primarily discussed in the context of expanding its influence in Telangana?",
-    "options": ["YSR Congress Party", "Telugu Desam Party", "Jana Sena", "Bharat Rashtra Samithi"],
-    "correctAnswer": "Jana Sena"
+    "question": "What assurance have government officials given regarding the papers for the NEET-UG retest?",
+    "options": ["They will be printed abroad.", "They are susceptible to cyber breaches.", "They are not susceptible to cyber breaches.", "They will be delivered by drone."],
+    "correctAnswer": "They are not susceptible to cyber breaches."
   },
   {
     "id": 3,
-    "question": "According to the headline, beyond which Indian state is Jana Sena primarily seeking to expand its presence?",
-    "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Odisha"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What is the name of the Indian seafarer whose body repatriation is sought from Oman, a matter of concern for Indian citizens across all states?",
+    "options": ["Abhishek Banerjee", "Nishanth Uirthanathan", "Kunal Ghosh", "Ashok Gehlot"],
+    "correctAnswer": "Nishanth Uirthanathan"
   },
   {
     "id": 4,
-    "question": "In which state is Pawan Kalyan's party, Jana Sena, primarily based as per the news?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Kerala"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Where did Indian seafarer Nishanth Uirthanathan die aboard a vessel, prompting repatriation efforts by the Indian Embassy?",
+    "options": ["Dubai", "Muscat", "Oman", "Yemen"],
+    "correctAnswer": "Oman"
   },
   {
     "id": 5,
-    "question": "What is the specific political objective of Jana Sena discussed in the headline regarding Telangana?",
-    "options": ["Forming an alliance", "Expanding its presence", "Contesting local elections", "Establishing a new headquarters"],
-    "correctAnswer": "Expanding its presence"
+    "question": "Which vessel was Nishanth Uirthanathan serving on when he died, leading to a family's plea for justice?",
+    "options": ["MV Virat 1", "MT Celestial", "INS Vikrant", "SS Titanic"],
+    "correctAnswer": "MT Celestial"
   },
   {
     "id": 6,
-    "question": "The news headline refers to a 'challenge' for Pawan Kalyan concerning which state's political landscape?",
-    "options": ["Andhra Pradesh", "Tamil Nadu", "Telangana", "Karnataka"],
-    "correctAnswer": "Telangana"
+    "question": "Which Indian diplomatic mission is coordinating efforts for the repatriation of Nishanth Uirthanathan's body from Oman?",
+    "options": ["Indian Embassy in Dubai", "Indian High Commission in London", "Indian Embassy in Muscat", "Indian Consulate in New York"],
+    "correctAnswer": "Indian Embassy in Muscat"
   },
   {
     "id": 7,
-    "question": "What does the headline imply about Jana Sena's current geographical reach?",
-    "options": ["It is strong across South India", "It is mainly confined to Andhra Pradesh", "It has a significant presence in Telangana", "It has no presence in any state"],
-    "correctAnswer": "It is mainly confined to Andhra Pradesh"
+    "question": "What specific allegations were made by the family of Nishanth Uirthanathan regarding his death and the shipping company's conduct?",
+    "options": ["Lack of communication and inadequate medical care", "Intentional harm by crew members", "Financial fraud by the company", "Refusal to pay salary"],
+    "correctAnswer": "Lack of communication and inadequate medical care"
   },
   {
     "id": 8,
-    "question": "Which political party is associated with Pawan Kalyan in the provided news context?",
-    "options": ["BJP", "Congress", "Jana Sena", "TDP"],
-    "correctAnswer": "Jana Sena"
+    "question": "What is the primary demand of Nishanth Uirthanathan's family regarding his death?",
+    "options": ["Financial compensation only", "Repatriation of his mortal remains and investigation", "Immediate arrest of the captain", "A new job for the family"],
+    "correctAnswer": "Repatriation of his mortal remains and investigation"
   },
   {
     "id": 9,
-    "question": "The headline poses a question: 'Can Jana Sena expand beyond...' which state?",
-    "options": ["Karnataka", "Andhra Pradesh", "Telangana", "Maharashtra"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What was the name of the Indian vessel that sank off the coast of Oman recently, leading to the rescue of all crew members?",
+    "options": ["MT Celestial", "Indian Virat 1", "MV Sagar Samrat", "INS Arihant"],
+    "correctAnswer": "Indian Virat 1"
   },
   {
     "id": 10,
-    "question": "What is Pawan Kalyan's stated goal for Jana Sena mentioned in the news context?",
-    "options": ["To merge with another party", "To contest national elections only", "To expand beyond Andhra Pradesh", "To focus solely on Andhra Pradesh"],
-    "correctAnswer": "To expand beyond Andhra Pradesh"
+    "question": "How many Indian crew members were safely rescued after the Indian vessel Virat 1 sank off Oman?",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": "14"
   },
   {
     "id": 11,
-    "question": "The 'Telangana challenge' in the headline refers to the efforts of which political leader?",
-    "options": ["K. Chandrashekar Rao", "Jagan Mohan Reddy", "Pawan Kalyan", "N. Chandrababu Naidu"],
-    "correctAnswer": "Pawan Kalyan"
+    "question": "Off the coast of which country did the Indian vessel Virat 1 sink due to mechanical failure?",
+    "options": ["UAE", "Iran", "Pakistan", "Oman"],
+    "correctAnswer": "Oman"
   },
   {
     "id": 12,
-    "question": "What is the central theme of the news headline regarding Jana Sena's future?",
-    "options": ["Financial stability", "International alliances", "Inter-state expansion", "Internal reforms"],
-    "correctAnswer": "Inter-state expansion"
+    "question": "What was cited as the cause for the sinking of the Indian vessel Virat 1 off the coast of Oman?",
+    "options": ["Collision with another ship", "Stormy weather", "Mechanical failure", "Piracy attack"],
+    "correctAnswer": "Mechanical failure"
   },
   {
     "id": 13,
-    "question": "By focusing on 'Telangana challenge,' the article highlights a potential growth area for which party?",
-    "options": ["BRS", "Congress", "TDP", "Jana Sena"],
-    "correctAnswer": "Jana Sena"
+    "question": "What was the nationality of the crew members aboard the Virat 1 who were safely rescued after the vessel sank?",
+    "options": ["Omani", "Emirati", "Indian", "Pakistani"],
+    "correctAnswer": "Indian"
   },
   {
     "id": 14,
-    "question": "The phrase 'expand beyond Andhra Pradesh' directly refers to the strategy of which political entity?",
-    "options": ["Andhra Pradesh government", "Telangana government", "Pawan Kalyan's party", "A national party"],
-    "correctAnswer": "Pawan Kalyan's party"
+    "question": "What was the ultimate outcome for all the crew members of the Indian vessel Virat 1 after it sank?",
+    "options": ["All were reported missing.", "All were safely rescued.", "Half were rescued, half were lost.", "They were taken captive."],
+    "correctAnswer": "All were safely rescued."
   },
   {
     "id": 15,
-    "question": "Which two specific Indian states are central to the discussion about Jana Sena's political future in the headline?",
-    "options": ["Karnataka and Kerala", "Telangana and Andhra Pradesh", "Tamil Nadu and Odisha", "Maharashtra and Gujarat"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "Which international airline is evaluating direct flights to India, seeing new opportunities from a recently established Free Trade Agreement?",
+    "options": ["Emirates", "Qatar Airways", "Air New Zealand", "Singapore Airlines"],
+    "correctAnswer": "Air New Zealand"
   },
   {
     "id": 16,
-    "question": "What characteristic of Jana Sena's presence is implied by the term 'expand beyond Andhra Pradesh'?",
-    "options": ["Its national footprint", "Its limited state-level presence", "Its international collaborations", "Its historical legacy"],
-    "correctAnswer": "Its limited state-level presence"
+    "question": "What type of agreement has created new opportunities for Air New Zealand to consider direct flights to India?",
+    "options": ["Bilateral Investment Treaty", "Free Trade Agreement", "Open Skies Agreement", "Cultural Exchange Program"],
+    "correctAnswer": "Free Trade Agreement"
   },
   {
     "id": 17,
-    "question": "The news headline questions the ability of Jana Sena to establish a stronger foothold in which state, away from its primary base?",
-    "options": ["Karnataka", "Tamil Nadu", "Telangana", "Kerala"],
-    "correctAnswer": "Telangana"
+    "question": "With which airlines is Air New Zealand collaborating for potential non-stop services to India, aiming to strengthen travel connections?",
+    "options": ["British Airways and Lufthansa", "Air India and Singapore Airlines", "Qantas and Cathay Pacific", "Emirates and Etihad Airways"],
+    "correctAnswer": "Air India and Singapore Airlines"
   },
   {
     "id": 18,
-    "question": "Pawan Kalyan's political strategy, as per the headline, involves broadening the geographical scope of which party?",
-    "options": ["TDP", "YSRCP", "Jana Sena", "BRS"],
-    "correctAnswer": "Jana Sena"
+    "question": "By what year is a non-stop service between India and New Zealand anticipated, contingent on approvals and aircraft readiness, according to Air New Zealand's CEO?",
+    "options": ["2025", "2026", "2028", "2030"],
+    "correctAnswer": "2028"
   },
   {
     "id": 19,
-    "question": "What is the primary aim of Jana Sena, as suggested by the 'Telangana challenge' context?",
-    "options": ["Consolidating power in AP", "Establishing new alliances in AP", "Gaining political ground outside AP", "Focusing on local issues in AP"],
-    "correctAnswer": "Gaining political ground outside AP"
+    "question": "What are the key conditions mentioned for the launch of Air New Zealand's non-stop service to India?",
+    "options": ["Increased tourism only", "Government subsidies and reduced fuel prices", "Necessary approvals and aircraft readiness", "Direct flights from specific regional Indian airports only"],
+    "correctAnswer": "Necessary approvals and aircraft readiness"
   },
   {
     "id": 20,
-    "question": "The headline 'Pawan Kalyan's Telangana challenge' implies the nature of this challenge for his party is related to which aspect?",
-    "options": ["Electoral defeat", "Funding issues", "Public relations crisis", "Strategic expansion"],
-    "correctAnswer": "Strategic expansion"
+    "question": "What specific sector of India's technological advancements is being highlighted and presented to the world, relevant to tech hubs like Hyderabad in Telangana?",
+    "options": ["Agricultural technology", "Deep-tech", "Renewable energy solutions", "Textile manufacturing"],
+    "correctAnswer": "Deep-tech"
   },
   {
     "id": 21,
-    "question": "Which state is presented as a new frontier for Jana Sena's political activities?",
-    "options": ["Andhra Pradesh", "Tamil Nadu", "Telangana", "Karnataka"],
-    "correctAnswer": "Telangana"
+    "question": "Which international figure was mentioned as holding the mic for India's deep-tech story to the world, showcasing India's global technological standing?",
+    "options": ["Joe Biden", "Emmanuel Macron", "Rishi Sunak", "Justin Trudeau"],
+    "correctAnswer": "Emmanuel Macron"
   },
   {
     "id": 22,
-    "question": "The news implies that Jana Sena currently holds significant political influence primarily within which state?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Maharashtra"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The headline 'NICE: India sells its deep-tech story to the world' implies NICE is related to what?",
+    "options": ["A new Indian city development project.", "A global event or initiative showcasing Indian technology.", "An abbreviation for 'National Institute of Cyber Security'.", "A new policy framework for economic development."],
+    "correctAnswer": "A global event or initiative showcasing Indian technology."
   },
   {
     "id": 23,
-    "question": "What is Pawan Kalyan attempting to do with Jana Sena, according to the headline's question?",
-    "options": ["Consolidate power in Andhra Pradesh", "Merge with a national party", "Expand its political reach into another state", "Withdraw from politics"],
-    "correctAnswer": "Expand its political reach into another state"
+    "question": "How is India positioned globally regarding its deep-tech capabilities, as suggested by selling its deep-tech story to the world?",
+    "options": ["As a nascent market with limited potential.", "As a leading player with significant advancements.", "As a consumer of foreign technology only.", "As a country focused solely on traditional industries."],
+    "correctAnswer": "As a leading player with significant advancements."
   },
   {
     "id": 24,
-    "question": "The headline 'Pawan Kalyan's Telangana challenge' suggests he is facing hurdles in achieving what in Telangana?",
-    "options": ["Personal popularity", "Economic ventures", "Political expansion", "Cultural exchange programs"],
-    "correctAnswer": "Political expansion"
+    "question": "Which Indian city is a prominent hub for deep-tech and IT innovations, highly relevant to India's deep-tech story being showcased globally?",
+    "options": ["Kolkata", "Jaipur", "Hyderabad", "Lucknow"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 25,
-    "question": "The news story specifically highlights the efforts of a political party to move beyond its existing stronghold in Andhra Pradesh. Which party is it?",
-    "options": ["Telugu Desam Party", "YSR Congress Party", "Bharat Rashtra Samithi", "Jana Sena"],
-    "correctAnswer": "Jana Sena"
+    "question": "Air New Zealand's evaluation of direct flights to India would generally improve what for Indian citizens, including those from Telangana and Andhra Pradesh?",
+    "options": ["Domestic travel infrastructure", "International connectivity and tourism", "Agricultural export routes", "Inter-state trade agreements"],
+    "correctAnswer": "International connectivity and tourism"
   }
 ]

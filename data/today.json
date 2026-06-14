@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What national examinations are at the center of recent student protests and demands for accountability in India, as mentioned in the news?",
-    "options": ["JEE Advanced and CLAT", "NEET and CBSE", "GATE and UPSC CSE", "CAT and XAT"],
-    "correctAnswer": "NEET and CBSE"
+    "question": "The Centre recently asked the Chief Minister of which Indian state to probe allegations of missing coal worth Rs 1,600 crore?",
+    "options": ["Andhra Pradesh", "Telangana", "Odisha", "Chhattisgarh"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 2,
-    "question": "Students across India are protesting and demanding the resignation of which Union Minister over alleged examination irregularities?",
-    "options": ["Home Minister", "Finance Minister", "Education Minister", "Health Minister"],
-    "correctAnswer": "Education Minister"
+    "question": "What is the estimated financial value of the missing coal that the Centre has requested the Telangana CM to investigate?",
+    "options": ["Rs 1,000 crore", "Rs 1,600 crore", "Rs 2,000 crore", "Rs 500 crore"],
+    "correctAnswer": "Rs 1,600 crore"
   },
   {
     "id": 3,
-    "question": "What organization, founded by Abhijeet Dipke, has urged the Prime Minister to address the concerns of students regarding examination irregularities?",
-    "options": ["Student Welfare Front (SWF)", "Citizens for Justice and Progress (CJP)", "Cockroach Janta Party (CJP)", "National Students' Union (NSU)"],
-    "correctAnswer": "Cockroach Janta Party (CJP)"
+    "question": "Which company, jointly owned by the Telangana government and the Centre, is at the heart of the missing coal allegations?",
+    "options": ["NTPC", "BHEL", "SCCL", "GAIL"],
+    "correctAnswer": "SCCL"
   },
   {
     "id": 4,
-    "question": "In which city were students mentioned as protesting initially, demanding the Education Minister's resignation over alleged exam irregularities?",
-    "options": ["Delhi", "Mumbai", "Amritsar", "Chennai"],
-    "correctAnswer": "Amritsar"
+    "question": "What is the approximate amount of unpaid dues by the Telangana government to SCCL, which is impacting the company's financial stability?",
+    "options": ["Exceeding Rs 10,000 crore", "Exceeding Rs 25,000 crore", "Exceeding Rs 51,500 crore", "Exceeding Rs 75,000 crore"],
+    "correctAnswer": "Exceeding Rs 51,500 crore"
   },
   {
     "id": 5,
-    "question": "The protests regarding alleged examination irregularities highlight which major issue faced by students across India?",
-    "options": ["Lack of access to study materials", "High tuition fees", "Examination transparency and fairness", "Scarcity of job opportunities"],
-    "correctAnswer": "Examination transparency and fairness"
+    "question": "What is the equity ratio of ownership between the Telangana government and the Centre in Singareni Collieries Company Limited (SCCL)?",
+    "options": ["51:49", "49:51", "60:40", "40:60"],
+    "correctAnswer": "51:49"
   },
   {
     "id": 6,
-    "question": "Which Chief Minister recently condemned derogatory social media comments targeting Akhilesh Yadav's daughter, emphasizing civility in public discourse?",
-    "options": ["CM of Bihar", "CM of Uttar Pradesh", "CM of Madhya Pradesh", "CM of Rajasthan"],
-    "correctAnswer": "CM of Uttar Pradesh"
+    "question": "Approximately how many employees does Singareni Collieries Company Limited (SCCL) have, as mentioned in the context of its financial situation?",
+    "options": ["Nearly 10,000", "Nearly 20,000", "Nearly 30,000", "Nearly 40,000"],
+    "correctAnswer": "Nearly 40,000"
   },
   {
     "id": 7,
-    "question": "The statement 'Beti, beti hoti hai' was made by UP CM Yogi Adityanath in defense of whom, following derogatory social media comments?",
-    "options": ["A political leader's wife", "A social activist's daughter", "Akhilesh Yadav's daughter", "A journalist's child"],
-    "correctAnswer": "Akhilesh Yadav's daughter"
+    "question": "The Union Coal Minister wrote to the Telangana CM regarding the missing coal. Which Union Ministry is he representing?",
+    "options": ["Ministry of Finance", "Ministry of Home Affairs", "Ministry of Coal", "Ministry of Power"],
+    "correctAnswer": "Ministry of Coal"
   },
   {
     "id": 8,
-    "question": "What did UP CM Yogi Adityanath direct police to do regarding derogatory social media comments against Akhilesh Yadav's daughter?",
-    "options": ["Monitor social media trends", "Take action against those making such comments", "Issue a public apology", "Block social media platforms"],
-    "correctAnswer": "Take action against those making such comments"
+    "question": "The allegations of missing coal and unpaid dues are stated to particularly impact the financial stability of which company based in Telangana?",
+    "options": ["SCCL", "TSGENCO", "TSNPDCL", "TSREDCO"],
+    "correctAnswer": "SCCL"
   },
   {
     "id": 9,
-    "question": "Which agency recently seized 17 kg of smuggled gold worth Rs 25 crore in operations across Kolkata and Agartala?",
-    "options": ["Central Bureau of Investigation (CBI)", "Enforcement Directorate (ED)", "Directorate of Revenue Intelligence (DRI)", "National Investigation Agency (NIA)"],
-    "correctAnswer": "Directorate of Revenue Intelligence (DRI)"
+    "question": "The issue of missing coal allegations impacting SCCL and the Telangana government's dues highlights the joint ownership structure between the state and the:",
+    "options": ["NITI Aayog", "Prime Minister's Office", "Central Government", "Reserve Bank of India"],
+    "correctAnswer": "Central Government"
   },
   {
     "id": 10,
-    "question": "What was the approximate value of the 17 kg of smuggled gold seized by the DRI in Kolkata and Agartala?",
-    "options": ["Rs 10 crore", "Rs 25 crore", "Rs 50 crore", "Rs 75 crore"],
-    "correctAnswer": "Rs 25 crore"
+    "question": "In the context of the missing coal controversy, which specific government entity is primarily accused of having unpaid dues to SCCL?",
+    "options": ["Central Government", "Andhra Pradesh Government", "Telangana Government", "Odisha Government"],
+    "correctAnswer": "Telangana Government"
   },
   {
     "id": 11,
-    "question": "In which two cities were the operations conducted by the DRI that led to the seizure of smuggled gold?",
-    "options": ["Mumbai and Delhi", "Kolkata and Chennai", "Agartala and Bengaluru", "Kolkata and Agartala"],
-    "correctAnswer": "Kolkata and Agartala"
+    "question": "As per a recent report, what was India's ranking among the top buyers of Russian crude oil in May?",
+    "options": ["1st", "2nd", "3rd", "4th"],
+    "correctAnswer": "2nd"
   },
   {
     "id": 12,
-    "question": "A Nigerian national was recently arrested in Mumbai with cocaine. What was the estimated value of the seized cocaine?",
-    "options": ["Rs 50 lakh", "Rs 1 crore", "Rs 2.03 crore", "Rs 5 crore"],
-    "correctAnswer": "Rs 2.03 crore"
+    "question": "In May, what percentage of India's total Russian hydrocarbon purchases was constituted by crude oil?",
+    "options": ["65%", "73%", "83%", "90%"],
+    "correctAnswer": "83%"
   },
   {
     "id": 13,
-    "question": "The Mumbai police apprehended a Nigerian national for drug trafficking in which specific area of Mumbai?",
-    "options": ["Bandra", "Colaba", "Worli", "Andheri"],
-    "correctAnswer": "Worli"
+    "question": "Which country remained the biggest importer of Russian energy, surpassing India, in May?",
+    "options": ["USA", "Germany", "China", "Japan"],
+    "correctAnswer": "China"
   },
   {
     "id": 14,
-    "question": "The arrest of Eze Samuel Nweze in Mumbai highlights India's ongoing efforts against the trafficking of which illegal substance?",
-    "options": ["Heroin", "Ganja", "Cocaine", "Methamphetamine"],
-    "correctAnswer": "Cocaine"
-  },
-  {
-    "id": 15,
-    "question": "According to Rahul Gandhi, which political alliance has 'already won the 2029 elections'?",
-    "options": ["NDA", "UPA", "INDIA bloc", "Third Front"],
-    "correctAnswer": "INDIA bloc"
-  },
-  {
-    "id": 16,
-    "question": "Rahul Gandhi emphasized the importance of uniting the opposition to challenge the perceived encroachment on democratic institutions by which major political party?",
-    "options": ["Indian National Congress", "Samajwadi Party", "Bharatiya Janata Party (BJP)", "All India Trinamool Congress"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
-  },
-  {
-    "id": 17,
-    "question": "What was the core strategy laid out by Rahul Gandhi for the INDIA alliance, as mentioned in the news?",
-    "options": ["Aggressive campaigning", "Resistance with unity", "Focus on economic reforms", "International diplomacy"],
-    "correctAnswer": "Resistance with unity"
-  },
-  {
-    "id": 18,
-    "question": "How many Indian sailors were recently convicted in Nigeria in a cocaine case, as per the news?",
-    "options": ["5", "8", "11", "15"],
-    "correctAnswer": "11"
-  },
-  {
-    "id": 19,
-    "question": "An Indian sailor died on a vessel off the coast of which country, leading to demands for aid from a union?",
-    "options": ["Yemen", "Somalia", "Saudi Arabia", "Oman"],
-    "correctAnswer": "Oman"
-  },
-  {
-    "id": 20,
-    "question": "What organization is seeking assistance for the repatriation and proper preservation of the body of an Indian sailor who died off Oman's coast?",
-    "options": ["Indian Maritime Board", "Seafarers' Welfare Association", "Forward Seamen's Union of India", "Ministry of External Affairs"],
-    "correctAnswer": "Forward Seamen's Union of India"
-  },
-  {
-    "id": 21,
-    "question": "What critical issue faced the body of the deceased Indian sailor onboard the vessel off Oman's coast, as highlighted by the union?",
-    "options": ["Lack of identification", "Absence of burial rites", "Delay in repatriation", "Lack of proper refrigeration for over two days"],
-    "correctAnswer": "Lack of proper refrigeration for over two days"
-  },
-  {
-    "id": 22,
-    "question": "At which international summit is PM Modi scheduled to hold bilateral talks with Donald Trump?",
-    "options": ["BRICS Summit", "G20 Summit", "G7 Summit", "ASEAN Summit"],
+    "question": "Prime Minister Narendra Modi is expected to voice the aspirations of the 'Global South' at which upcoming international summit?",
+    "options": ["BRICS Summit", "G20 Summit", "G7 Summit", "SCO Summit"],
     "correctAnswer": "G7 Summit"
   },
   {
+    "id": 15,
+    "question": "Besides the G7 summit, PM Modi is scheduled to make the first-ever visit by an Indian PM since its independence in 1993 to which European country?",
+    "options": ["Czech Republic", "Hungary", "Poland", "Slovakia"],
+    "correctAnswer": "Slovakia"
+  },
+  {
+    "id": 16,
+    "question": "PM Modi is expected to underscore India's concerns over the consequences of the West Asia conflict and the energy crisis for which group of nations at the G7 summit?",
+    "options": ["Developed Nations", "Global North", "Global South", "OPEC Nations"],
+    "correctAnswer": "Global South"
+  },
+  {
+    "id": 17,
+    "question": "Which Indian regulatory body issued a nationwide advisory on June 12 banning metallic pins and wires in food products?",
+    "options": ["BIS (Bureau of Indian Standards)", "FSSAI (Food Safety and Standards Authority of India)", "AGMARK (Agricultural Produce (Grading and Marking) Act)", "BEE (Bureau of Energy Efficiency)"],
+    "correctAnswer": "FSSAI (Food Safety and Standards Authority of India)"
+  },
+  {
+    "id": 18,
+    "question": "What was the primary safety concern that led FSSAI to ban metallic pins and wires in food products?",
+    "options": ["Risk of allergic reactions", "Damage to food packaging machinery", "Inadvertent consumption causing injury", "Alteration of food taste"],
+    "correctAnswer": "Inadvertent consumption causing injury"
+  },
+  {
+    "id": 19,
+    "question": "What is the primary objective of the demographic panel recently constituted by the Indian government?",
+    "options": ["To promote family planning", "To study population changes", "To conduct a new census", "To manage migration flows"],
+    "correctAnswer": "To study population changes"
+  },
+  {
+    "id": 20,
+    "question": "Who chaired the meeting with MHA officials to review arrangements for the proper functioning of the national demographic panel?",
+    "options": ["Prime Minister", "President", "Home Minister Amit Shah", "Health Minister"],
+    "correctAnswer": "Home Minister Amit Shah"
+  },
+  {
+    "id": 21,
+    "question": "According to Captain Savio Ramos of the Maritime Union of India (MUI), what option does a sailor have once a ship enters a restricted (sanctioned) zone?",
+    "options": ["To demand higher pay", "To seek de-boarding", "To report to international authorities", "To change the ship's flag"],
+    "correctAnswer": "To seek de-boarding"
+  },
+  {
+    "id": 22,
+    "question": "Captain Savio Ramos, mentioned in the news regarding seafarers' rights, is the General Secretary of which organization?",
+    "options": ["Indian Navy Association", "Directorate General of Shipping", "Maritime Union of India (MUI)", "Indian Coast Guard"],
+    "correctAnswer": "Maritime Union of India (MUI)"
+  },
+  {
     "id": 23,
-    "question": "The upcoming meeting between PM Modi and Donald Trump at the G7 Summit will be their first in approximately how many months?",
-    "options": ["6 months", "12 months", "16 months", "24 months"],
-    "correctAnswer": "16 months"
+    "question": "The Principal Secretary to the PM emphasized India's need to build systems that can learn, adapt, and 'bounce forward' through disruptions. What term was used to describe such systems that emerge stronger?",
+    "options": ["Resilient systems", "Robust systems", "Antifragile systems", "Stable systems"],
+    "correctAnswer": "Antifragile systems"
   },
   {
     "id": 24,
-    "question": "Abhijeet Dipke of CJP referred to the Union Minister, whose resignation is being demanded over exam irregularities, as what?",
-    "options": ["Corrupt minister", "Failed minister", "Indecisive minister", "Absentee minister"],
-    "correctAnswer": "Failed minister"
+    "question": "In the context of India's system building, the objective is not only recovery but also to build stronger institutions, infrastructure, and governance systems capable of managing future what?",
+    "options": ["Economic growth", "Political reforms", "Shocks and uncertainties", "International relations"],
+    "correctAnswer": "Shocks and uncertainties"
   },
   {
     "id": 25,
-    "question": "What was the vessel fined by Nigeria in the cocaine case involving 11 Indian sailors?",
-    "options": ["$1.3 million", "$3.3 million", "$5.3 million", "$7.3 million"],
-    "correctAnswer": "$5.3 million"
+    "question": "At the G7 summit, in addition to the consequences of the West Asia conflict and the energy crisis, PM Modi is expected to stress the significance of freedom of navigation through which vital waterway?",
+    "options": ["Suez Canal", "Malacca Strait", "Strait of Hormuz", "Bab-el-Mandeb"],
+    "correctAnswer": "Strait of Hormuz"
   }
 ]

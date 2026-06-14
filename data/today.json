@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "K.C. Venugopal, a prominent leader of which national political party, recently criticized the CPM for its electoral decline, a concern relevant to political discourse across India including Telangana and Andhra Pradesh?",
-    "options": ["BJP", "Congress", "BRS", "YSRCP"],
-    "correctAnswer": "Congress"
+    "question": "Who is the prominent political figure mentioned in the news headline facing a 'Telangana challenge'?",
+    "options": ["K. Chandrashekar Rao", "Nara Chandrababu Naidu", "Pawan Kalyan", "Jagan Mohan Reddy"],
+    "correctAnswer": "Pawan Kalyan"
   },
   {
     "id": 2,
-    "question": "Which political party did Congress leader K.C. Venugopal accuse of having a 'political inferiority complex' following its recent electoral defeat?",
-    "options": ["BJP", "DMK", "CPM", "TDP"],
-    "correctAnswer": "CPM"
+    "question": "Which political party is primarily discussed in the context of expanding its influence in Telangana?",
+    "options": ["YSR Congress Party", "Telugu Desam Party", "Jana Sena", "Bharat Rashtra Samithi"],
+    "correctAnswer": "Jana Sena"
   },
   {
     "id": 3,
-    "question": "K.C. Venugopal's recent remarks against the CPM, concerning their electoral performance, stemmed from their defeat in which Indian state?",
-    "options": ["West Bengal", "Tripura", "Kerala", "Tamil Nadu"],
-    "correctAnswer": "Kerala"
+    "question": "According to the headline, beyond which Indian state is Jana Sena primarily seeking to expand its presence?",
+    "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Odisha"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 4,
-    "question": "What specific barb against Rahul Gandhi, originating from the CPM, did K.C. Venugopal counter in his recent statements?",
-    "options": ["'Dynast politician'", "'ED agent'", "'Anti-national'", "'Corrupt leader'"],
-    "correctAnswer": "'ED agent'"
+    "question": "In which state is Pawan Kalyan's party, Jana Sena, primarily based as per the news?",
+    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Kerala"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 5,
-    "question": "According to K.C. Venugopal, what did he urge the CPM to focus on instead of criticizing Rahul Gandhi, a sentiment that could apply to any party introspecting its performance in states like Telangana and Andhra Pradesh?",
-    "options": ["Form new alliances", "Focus on their own downfall", "Adopt new policies", "Change leadership"],
-    "correctAnswer": "Focus on their own downfall"
+    "question": "What is the specific political objective of Jana Sena discussed in the headline regarding Telangana?",
+    "options": ["Forming an alliance", "Expanding its presence", "Contesting local elections", "Establishing a new headquarters"],
+    "correctAnswer": "Expanding its presence"
   },
   {
     "id": 6,
-    "question": "Actress Gautami Tadimalla, known for her significant contributions to South Indian cinema, including Telugu films, recently resigned from which political party?",
-    "options": ["DMK", "AIADMK", "BJP", "Congress"],
-    "correctAnswer": "AIADMK"
+    "question": "The news headline refers to a 'challenge' for Pawan Kalyan concerning which state's political landscape?",
+    "options": ["Andhra Pradesh", "Tamil Nadu", "Telangana", "Karnataka"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 7,
-    "question": "In which Indian state is the political party AIADMK, from which actress Gautami Tadimalla recently resigned, primarily based?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "What does the headline imply about Jana Sena's current geographical reach?",
+    "options": ["It is strong across South India", "It is mainly confined to Andhra Pradesh", "It has a significant presence in Telangana", "It has no presence in any state"],
+    "correctAnswer": "It is mainly confined to Andhra Pradesh"
   },
   {
     "id": 8,
-    "question": "Gautami Tadimalla's resignation from AIADMK is described as a 'fresh setback' for the party. What is her primary profession mentioned in the context of her public identity?",
-    "options": ["Politician", "Social worker", "Actress", "Journalist"],
-    "correctAnswer": "Actress"
+    "question": "Which political party is associated with Pawan Kalyan in the provided news context?",
+    "options": ["BJP", "Congress", "Jana Sena", "TDP"],
+    "correctAnswer": "Jana Sena"
   },
   {
     "id": 9,
-    "question": "The news of Gautami Tadimalla's resignation highlights political movements within regional parties in India. This party, AIADMK, is historically associated with which popular South Indian leader?",
-    "options": ["M. Karunanidhi", "N.T. Rama Rao", "J. Jayalalithaa", "K. Chandrashekar Rao"],
-    "correctAnswer": "J. Jayalalithaa"
+    "question": "The headline poses a question: 'Can Jana Sena expand beyond...' which state?",
+    "options": ["Karnataka", "Andhra Pradesh", "Telangana", "Maharashtra"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 10,
-    "question": "Gautami Tadimalla, a well-known personality, has prominently worked in multiple South Indian film industries. Which of the following regional film industries is she particularly known for, making her familiar to audiences in Telangana and Andhra Pradesh?",
-    "options": ["Malayalam", "Kannada", "Telugu", "Oriya"],
-    "correctAnswer": "Telugu"
+    "question": "What is Pawan Kalyan's stated goal for Jana Sena mentioned in the news context?",
+    "options": ["To merge with another party", "To contest national elections only", "To expand beyond Andhra Pradesh", "To focus solely on Andhra Pradesh"],
+    "correctAnswer": "To expand beyond Andhra Pradesh"
   },
   {
     "id": 11,
-    "question": "Rahul Gandhi is set to launch a nationwide youth outreach program to address the issue of paper leaks and exam irregularities, a concern shared by students in Telangana and Andhra Pradesh. Which city is mentioned as the launch location for this initiative?",
-    "options": ["Lucknow", "Varanasi", "Prayagraj", "Agra"],
-    "correctAnswer": "Prayagraj"
+    "question": "The 'Telangana challenge' in the headline refers to the efforts of which political leader?",
+    "options": ["K. Chandrashekar Rao", "Jagan Mohan Reddy", "Pawan Kalyan", "N. Chandrababu Naidu"],
+    "correctAnswer": "Pawan Kalyan"
   },
   {
     "id": 12,
-    "question": "The youth outreach by Rahul Gandhi primarily targets what issues that affect students and job aspirants across India?",
-    "options": ["Tuition fee hikes", "Paper leaks and exam irregularities", "Campus politics", "Student loan defaults"],
-    "correctAnswer": "Paper leaks and exam irregularities"
+    "question": "What is the central theme of the news headline regarding Jana Sena's future?",
+    "options": ["Financial stability", "International alliances", "Inter-state expansion", "Internal reforms"],
+    "correctAnswer": "Inter-state expansion"
   },
   {
     "id": 13,
-    "question": "Besides paper leaks and exam irregularities, Rahul Gandhi's nationwide campaign, which resonates with youth concerns in states like Telangana and Andhra Pradesh, also aims to address which other major issue?",
-    "options": ["Rural development", "Unemployment", "Agricultural subsidies", "Digital literacy"],
-    "correctAnswer": "Unemployment"
+    "question": "By focusing on 'Telangana challenge,' the article highlights a potential growth area for which party?",
+    "options": ["BRS", "Congress", "TDP", "Jana Sena"],
+    "correctAnswer": "Jana Sena"
   },
   {
     "id": 14,
-    "question": "Rahul Gandhi's visit to Prayagraj for his youth outreach holds political significance ahead of the Assembly elections in which state, although his campaign has national implications for youth in regions like AP and Telangana?",
-    "options": ["Bihar", "Madhya Pradesh", "Uttar Pradesh", "Rajasthan"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "The phrase 'expand beyond Andhra Pradesh' directly refers to the strategy of which political entity?",
+    "options": ["Andhra Pradesh government", "Telangana government", "Pawan Kalyan's party", "A national party"],
+    "correctAnswer": "Pawan Kalyan's party"
   },
   {
     "id": 15,
-    "question": "What is the primary political party behind the nationwide campaign against paper leaks and exam irregularities being launched by Rahul Gandhi?",
-    "options": ["BJP", "Samajwadi Party", "Congress", "Bahujan Samaj Party"],
-    "correctAnswer": "Congress"
+    "question": "Which two specific Indian states are central to the discussion about Jana Sena's political future in the headline?",
+    "options": ["Karnataka and Kerala", "Telangana and Andhra Pradesh", "Tamil Nadu and Odisha", "Maharashtra and Gujarat"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 16,
-    "question": "Rahul Gandhi and Congress leaders criticized the Centre over remarks by a US Secretary regarding a crisis in which region, following the deaths of Indian sailors? This issue has national implications for India's foreign policy.",
-    "options": ["South China Sea", "Middle East", "Eastern Europe", "Indo-Pacific"],
-    "correctAnswer": "Middle East"
+    "question": "What characteristic of Jana Sena's presence is implied by the term 'expand beyond Andhra Pradesh'?",
+    "options": ["Its national footprint", "Its limited state-level presence", "Its international collaborations", "Its historical legacy"],
+    "correctAnswer": "Its limited state-level presence"
   },
   {
     "id": 17,
-    "question": "The criticism by Rahul Gandhi against PM Modi followed remarks by which US Secretary, concerning the killing of three Indian sailors, an issue of national security relevant to all Indian citizens, including those in Telangana and Andhra Pradesh?",
-    "options": ["Antony Blinken", "Lloyd Austin", "Marco Rubio", "Janet Yellen"],
-    "correctAnswer": "Marco Rubio"
+    "question": "The news headline questions the ability of Jana Sena to establish a stronger foothold in which state, away from its primary base?",
+    "options": ["Karnataka", "Tamil Nadu", "Telangana", "Kerala"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 18,
-    "question": "What did Congress leaders demand from the US following the remarks about the killing of Indian sailors, which they felt showed no remorse?",
-    "options": ["Economic aid", "Military support", "An unconditional apology", "Trade concessions"],
-    "correctAnswer": "An unconditional apology"
+    "question": "Pawan Kalyan's political strategy, as per the headline, involves broadening the geographical scope of which party?",
+    "options": ["TDP", "YSRCP", "Jana Sena", "BRS"],
+    "correctAnswer": "Jana Sena"
   },
   {
     "id": 19,
-    "question": "Rahul Gandhi described PM Modi's actions regarding the US remarks as 'like an obedient servant.' This criticism came after the deaths of how many Indian sailors?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Three"
+    "question": "What is the primary aim of Jana Sena, as suggested by the 'Telangana challenge' context?",
+    "options": ["Consolidating power in AP", "Establishing new alliances in AP", "Gaining political ground outside AP", "Focusing on local issues in AP"],
+    "correctAnswer": "Gaining political ground outside AP"
   },
   {
     "id": 20,
-    "question": "The controversy surrounding the US remarks and Indian sailors' deaths highlights concerns about India's standing in international relations, a matter important to all states including Telangana and Andhra Pradesh. Which Indian minister was also criticized alongside the Centre and PM Modi?",
-    "options": ["Finance Minister", "External Affairs Minister", "Home Minister", "Defence Minister"],
-    "correctAnswer": "External Affairs Minister"
+    "question": "The headline 'Pawan Kalyan's Telangana challenge' implies the nature of this challenge for his party is related to which aspect?",
+    "options": ["Electoral defeat", "Funding issues", "Public relations crisis", "Strategic expansion"],
+    "correctAnswer": "Strategic expansion"
   },
   {
     "id": 21,
-    "question": "The Jal Jeevan Mission, a national initiative with significant impact in states like Telangana and Andhra Pradesh, aims to provide which essential service to rural homes?",
-    "options": ["Electricity", "Broadband internet", "Functional household tap connections", "Gas cylinders"],
-    "correctAnswer": "Functional household tap connections"
+    "question": "Which state is presented as a new frontier for Jana Sena's political activities?",
+    "options": ["Andhra Pradesh", "Tamil Nadu", "Telangana", "Karnataka"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 22,
-    "question": "Which state recently achieved nearly 90% coverage under the Jal Jeevan Mission, providing functional household tap connections to over 1.2 crore rural homes, as highlighted in recent news?",
-    "options": ["Bihar", "Madhya Pradesh", "Uttar Pradesh", "Rajasthan"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "The news implies that Jana Sena currently holds significant political influence primarily within which state?",
+    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Maharashtra"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 23,
-    "question": "The Jal Jeevan Mission aims to achieve the 'Har Ghar Jal' target. What does 'Har Ghar Jal' translate to in English?",
-    "options": ["Water for every field", "Water for every home", "Clean rivers", "Water conservation"],
-    "correctAnswer": "Water for every home"
+    "question": "What is Pawan Kalyan attempting to do with Jana Sena, according to the headline's question?",
+    "options": ["Consolidate power in Andhra Pradesh", "Merge with a national party", "Expand its political reach into another state", "Withdraw from politics"],
+    "correctAnswer": "Expand its political reach into another state"
   },
   {
     "id": 24,
-    "question": "The progress of the Jal Jeevan Mission, which benefits all states including Telangana and Andhra Pradesh, is significantly driven by which two types of initiatives mentioned in the news?",
-    "options": ["Industrial projects and private funding", "Multi-village water supply schemes and local Paani Samitis", "Urban infrastructure development and corporate partnerships", "International aid and non-profit organizations"],
-    "correctAnswer": "Multi-village water supply schemes and local Paani Samitis"
+    "question": "The headline 'Pawan Kalyan's Telangana challenge' suggests he is facing hurdles in achieving what in Telangana?",
+    "options": ["Personal popularity", "Economic ventures", "Political expansion", "Cultural exchange programs"],
+    "correctAnswer": "Political expansion"
   },
   {
     "id": 25,
-    "question": "RSS chief Mohan Bhagwat recently emphasized keeping 'doors open' for dialogue with which neighboring country, a stance relevant to India's national security and regional stability affecting all states, including Telangana and Andhra Pradesh?",
-    "options": ["China", "Nepal", "Bangladesh", "Pakistan"],
-    "correctAnswer": "Pakistan"
+    "question": "The news story specifically highlights the efforts of a political party to move beyond its existing stronghold in Andhra Pradesh. Which party is it?",
+    "options": ["Telugu Desam Party", "YSR Congress Party", "Bharat Rashtra Samithi", "Jana Sena"],
+    "correctAnswer": "Jana Sena"
   }
 ]

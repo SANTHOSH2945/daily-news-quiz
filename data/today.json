@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What aspect of India's international relations was recently emphasized by the Prime Minister in a statement about 'new chapters'?",
-    "options": [
-      "Economic dominance",
-      "Strategic alliances",
-      "Cultural outreach",
-      "Vast potential"
-    ],
-    "correctAnswer": "Vast potential"
+    "question": "According to recent news, what major issue is troubling students ahead of the NEET(UG) retest?",
+    "options": ["Exam venue changes", "Syllabus modifications", "Glitches and promises of paper", "Lack of study material"],
+    "correctAnswer": "Glitches and promises of paper"
   },
   {
     "id": 2,
-    "question": "What theme was highlighted for the 12th International Day of Yoga, an initiative actively promoted by India?",
-    "options": [
-      "Yoga For Youth",
-      "Yoga For Environmental Health",
-      "Yoga For Healthy Ageing",
-      "Yoga For Digital Wellness"
-    ],
-    "correctAnswer": "Yoga For Healthy Ageing"
+    "question": "Who among the following reviewed the preparedness of state governments for the NEET(UG) retest?",
+    "options": ["Education Minister", "Health Secretary", "Union home secretary Govind Mohan", "NTA Chairman"],
+    "correctAnswer": "Union home secretary Govind Mohan"
   },
   {
     "id": 3,
-    "question": "The Supreme Court recently sought responses concerning alleged denial of admissions under which national act?",
-    "options": [
-      "Goods and Services Tax Act",
-      "Right to Information Act",
-      "Right to Education Act",
-      "Environmental Protection Act"
-    ],
-    "correctAnswer": "Right to Education Act"
+    "question": "Which of these aspects was NOT a special focus during the review of NEET(UG) retest preparedness, as mentioned in the news?",
+    "options": ["Student convenience", "Security arrangements", "Integrity of the process", "Curriculum updates"],
+    "correctAnswer": "Curriculum updates"
   },
   {
     "id": 4,
-    "question": "The NCERT recently altered the depiction of which ancient Indian artefact in a Class 9 arts textbook?",
-    "options": [
-      "Chola Bronze Nataraja",
-      "Lion Capital of Ashoka",
-      "Dancing Girl from Indus Valley",
-      "Didarganj Yakshi"
-    ],
-    "correctAnswer": "Dancing Girl from Indus Valley"
+    "question": "Approximately how many aspirants had downloaded their NEET(UG) retest admit cards by Monday morning, as reported?",
+    "options": ["Over one lakh", "Over two lakh", "Over three lakh", "Over four lakh"],
+    "correctAnswer": "Over four lakh"
   },
   {
     "id": 5,
-    "question": "The Indian Prime Minister welcomed a recent international peace understanding with a hope for what specific outcome related to global commerce?",
-    "options": [
-      "Increased bilateral trade agreements",
-      "Restoration of regional stability and freedom of navigation",
-      "New economic sanctions",
-      "Expansion of military presence"
-    ],
-    "correctAnswer": "Restoration of regional stability and freedom of navigation"
+    "question": "The NTA is reportedly working towards resolving all issues related to the NEET(UG) retest, including what specific financial aspect?",
+    "options": ["Scholarship disbursements", "Exam fee waivers", "Refunds", "Travel allowances"],
+    "correctAnswer": "Refunds"
   },
   {
     "id": 6,
-    "question": "A major Indian political party recently criticized the Prime Minister's foreign policy stance on an international peace pact, implying 'blind devotion' to which country?",
-    "options": [
-      "Russia",
-      "China",
-      "Israel",
-      "Saudi Arabia"
-    ],
-    "correctAnswer": "Israel"
+    "question": "What does NTA stand for in the context of the NEET(UG) exam, as mentioned in the news?",
+    "options": ["National Testing Authority", "National Tutoring Association", "New Technology Advancement", "National Talent Assessment"],
+    "correctAnswer": "National Testing Authority"
   },
   {
     "id": 7,
-    "question": "India's diplomatic engagements include strengthening bilateral ties, with the Prime Minister recently highlighting a 'new chapter' with which European nation?",
-    "options": [
-      "Germany",
-      "France",
-      "Slovakia",
-      "Poland"
-    ],
-    "correctAnswer": "Slovakia"
-  },
-  {
-    "id": 8,
-    "question": "India's promotion of preventive healthcare and holistic well-being often involves discussions on cooperation in which traditional medicine system?",
-    "options": [
-      "Homeopathy",
-      "Naturopathy",
-      "Allopathy",
-      "AYUSH"
-    ],
-    "correctAnswer": "AYUSH"
-  },
-  {
-    "id": 9,
-    "question": "The Right to Education (RTE) Act mandates a certain percentage of admissions in private schools for which group of students?",
-    "options": [
-      "Meritorious students",
-      "Students from economically weaker sections",
-      "Children of government employees",
-      "Students from tribal areas"
-    ],
-    "correctAnswer": "Students from economically weaker sections"
-  },
-  {
-    "id": 10,
-    "question": "Which ancient Indian civilization is associated with the 'Dancing Girl' artefact, controversially modified in a recent school textbook?",
-    "options": [
-      "Vedic Civilization",
-      "Mauryan Empire",
-      "Gupta Empire",
-      "Indus Valley Civilization"
-    ],
-    "correctAnswer": "Indus Valley Civilization"
-  },
-  {
-    "id": 11,
-    "question": "What type of legal petition highlighted the persistent denial of education for economically weaker section children under the RTE Act, prompting Supreme Court intervention?",
-    "options": [
-      "Writ of Habeas Corpus",
-      "Writ of Mandamus",
-      "Public Interest Litigation (PIL)",
-      "Special Leave Petition (SLP)"
-    ],
-    "correctAnswer": "Public Interest Litigation (PIL)"
-  },
-  {
-    "id": 12,
-    "question": "Approximately how old is the 'Dancing Girl' bronze sculpture, whose depiction was recently altered in an NCERT textbook?",
-    "options": [
-      "1,500 years",
-      "2,500 years",
-      "3,500 years",
-      "4,500 years"
-    ],
-    "correctAnswer": "4,500 years"
-  },
-  {
-    "id": 13,
-    "question": "Which Indian organization is primarily responsible for the content and revision of school textbooks at the national level, as seen in a recent controversy?",
-    "options": [
-      "University Grants Commission (UGC)",
-      "Central Board of Secondary Education (CBSE)",
-      "National Council of Educational Research and Training (NCERT)",
-      "All India Council for Technical Education (AICTE)"
-    ],
-    "correctAnswer": "National Council of Educational Research and Training (NCERT)"
-  },
-  {
-    "id": 14,
-    "question": "The Indian Prime Minister expressed hope that a recent international peace pact would help reopen and ensure freedom of navigation through which critical global trade route?",
-    "options": [
-      "Suez Canal",
-      "Panama Canal",
-      "Strait of Hormuz",
-      "Malacca Strait"
-    ],
+    "question": "The safe passage through which strait has sparked hope for India-bound ships, facilitating energy supplies for states like Telangana and Andhra Pradesh, as per the news?",
+    "options": ["Strait of Malacca", "Strait of Hormuz", "Bab-el-Mandeb Strait", "Sunda Strait"],
     "correctAnswer": "Strait of Hormuz"
   },
   {
+    "id": 8,
+    "question": "What critical supplies, vital for India, may not bring immediate relief despite safe passage due to extensive damage mentioned in the context of international events?",
+    "options": ["Food grains", "Medical supplies", "Energy supplies", "Electronic components"],
+    "correctAnswer": "Energy supplies"
+  },
+  {
+    "id": 9,
+    "question": "With which entity does India have a long-term gas supply contract, mentioned in the context of national energy security?",
+    "options": ["Saudi Aramco", "Gazprom", "QatarEnergy’s Ras Laffan facility", "Chevron"],
+    "correctAnswer": "QatarEnergy’s Ras Laffan facility"
+  },
+  {
+    "id": 10,
+    "question": "Which UAE gas plant, important for India's energy supply, experienced damage and disrupted operations?",
+    "options": ["Das Island Gas Plant", "Ruwais Gas Plant", "Jebel Ali Gas Plant", "Habshan Gas Plant"],
+    "correctAnswer": "Habshan Gas Plant"
+  },
+  {
+    "id": 11,
+    "question": "What percentage of UAE's Habshan Gas Plant capacity had been restored as per officials, following disruption?",
+    "options": ["40%", "50%", "60%", "70%"],
+    "correctAnswer": "60%"
+  },
+  {
+    "id": 12,
+    "question": "By what year do officials expect the full structural restoration of UAE's Habshan Gas Plant?",
+    "options": ["2024", "2025", "2026", "2027"],
+    "correctAnswer": "2027"
+  },
+  {
+    "id": 13,
+    "question": "How many candidates qualified for the Main Examination in UPSC Civil Services Prelims 2026?",
+    "options": ["12,343", "13,343", "14,343", "15,343"],
+    "correctAnswer": "13,343"
+  },
+  {
+    "id": 14,
+    "question": "What is the deadline for UPSC Prelims 2026 qualifiers to complete online formalities for the Mains exam, including fee payment and cadre preference submission?",
+    "options": ["June 21", "June 28", "July 5", "July 12"],
+    "correctAnswer": "June 28"
+  },
+  {
     "id": 15,
-    "question": "What was the specific visual change made to the 'Dancing Girl' artefact in a new NCERT Class 9 arts textbook that drew criticism?",
-    "options": [
-      "Changed its posture",
-      "Added a weapon to its hand",
-      "Depicted with a covered torso",
-      "Altered its facial features"
-    ],
-    "correctAnswer": "Depicted with a covered torso"
+    "question": "Which of the following services is NOT explicitly mentioned for recruitment through the UPSC Civil Services exam in the provided news?",
+    "options": ["IAS", "IPS", "IRS", "IFS"],
+    "correctAnswer": "IRS"
   },
   {
     "id": 16,
-    "question": "The 12th International Day of Yoga was recently marked by a special session where the President of which island nation joined the Indian High Commission's event?",
-    "options": [
-      "Sri Lanka",
-      "Maldives",
-      "Mauritius",
-      "Seychelles"
-    ],
-    "correctAnswer": "Mauritius"
+    "question": "Which body announced the Civil Services Preliminary Examination 2026 results?",
+    "options": ["NTA", "SSC", "UPSC", "CBSE"],
+    "correctAnswer": "UPSC"
   },
   {
     "id": 17,
-    "question": "Which judicial body holds the power to issue notices to the Central and State governments regarding the implementation of national education policies like the RTE Act?",
-    "options": [
-      "High Courts",
-      "District Courts",
-      "Supreme Court",
-      "National Human Rights Commission"
-    ],
-    "correctAnswer": "Supreme Court"
+    "question": "What are the two main examination stages mentioned for the Civil Services Examination?",
+    "options": ["Screening and Interview", "Preliminary and Main", "Aptitude and Subjective", "Written and Oral"],
+    "correctAnswer": "Preliminary and Main"
   },
   {
     "id": 18,
-    "question": "The Indian Prime Minister welcomed a US-Iran understanding to end West Asian conflict. Which US President was credited with announcing this agreement?",
-    "options": [
-      "Joe Biden",
-      "Barack Obama",
-      "Donald Trump",
-      "George W. Bush"
-    ],
-    "correctAnswer": "Donald Trump"
+    "question": "Which international deal did PM Modi welcome, expressing hopes for freedom of navigation?",
+    "options": ["Israel-Palestine peace talks", "Russia-Ukraine ceasefire", "US-Iran deal", "China-Taiwan trade agreement"],
+    "correctAnswer": "US-Iran deal"
   },
   {
     "id": 19,
-    "question": "The International Day of Yoga emphasizes yoga's benefits for preventive healthcare and holistic well-being, underscoring the shared heritage between India and other nations. What is the numerical order of the recently observed IDY?",
-    "options": [
-      "10th",
-      "11th",
-      "12th",
-      "13th"
-    ],
-    "correctAnswer": "12th"
+    "question": "Which country reportedly brokered a temporary ceasefire between the US and Iran earlier in April?",
+    "options": ["India", "China", "Pakistan", "Turkey"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 20,
-    "question": "The Right to Education Act aims to ensure education for all children. What specific provision of the act was the subject of a recent PIL alleging widespread denial?",
-    "options": [
-      "Free textbooks for all students",
-      "Mid-day meals in schools",
-      "Reservation for Economically Weaker Sections",
-      "Compulsory digital literacy"
-    ],
-    "correctAnswer": "Reservation for Economically Weaker Sections"
+    "question": "In which city is the signing of the US-Iran agreement, expected to formally mark the end of the conflict, expected to be hosted?",
+    "options": ["New York", "Vienna", "Geneva", "Tehran"],
+    "correctAnswer": "Geneva"
   },
   {
     "id": 21,
-    "question": "Debates surrounding the NCERT textbook changes to historical artefacts often revolve around issues of what?",
-    "options": [
-      "Technological advancement",
-      "Economic theory",
-      "Historical accuracy and cultural representation",
-      "Scientific innovation"
-    ],
-    "correctAnswer": "Historical accuracy and cultural representation"
+    "question": "When did the US-Iran conflict, mentioned in the news, reportedly start?",
+    "options": ["January 1", "February 28", "March 15", "April 10"],
+    "correctAnswer": "February 28"
   },
   {
     "id": 22,
-    "question": "A recent international agreement, welcomed by India's Prime Minister, primarily aims to restore peace and ensure freedom of navigation in which region?",
-    "options": [
-      "East Asia",
-      "West Asia",
-      "Southeast Asia",
-      "North Africa"
-    ],
-    "correctAnswer": "West Asia"
+    "question": "How many foreign trips has PM Modi completed, marking a significant diplomatic milestone during his tenure?",
+    "options": ["75", "80", "90", "100"],
+    "correctAnswer": "100"
   },
   {
     "id": 23,
-    "question": "The Congress party's criticism of the Prime Minister's welcoming of the US-Iran peace pact focused on allegations related to India's foreign policy in general. What was the central point of their critique?",
-    "options": [
-      "Lack of economic incentives",
-      "Ignoring environmental concerns",
-      "Perceived bias towards a specific nation",
-      "Insufficient military build-up"
-    ],
-    "correctAnswer": "Perceived bias towards a specific nation"
+    "question": "PM Modi has visited how many countries, reaching a diplomatic milestone during his tenure?",
+    "options": ["65", "70", "78", "85"],
+    "correctAnswer": "78"
   },
   {
     "id": 24,
-    "question": "Beyond the specific incident in the news, the Supreme Court's involvement in the RTE Act cases highlights its role in protecting which fundamental right in India?",
-    "options": [
-      "Right to Freedom of Religion",
-      "Right to Equality",
-      "Right to Education",
-      "Right to Property"
-    ],
-    "correctAnswer": "Right to Education"
+    "question": "Which two European countries are mentioned as part of PM Modi's recent visit where he achieved a diplomatic milestone?",
+    "options": ["Germany and Italy", "France and Slovakia", "UK and Spain", "Poland and Hungary"],
+    "correctAnswer": "France and Slovakia"
   },
   {
     "id": 25,
-    "question": "India's proactive role in promoting global events like the International Day of Yoga primarily serves to highlight its rich heritage in which domain?",
-    "options": [
-      "Space exploration",
-      "Traditional healthcare and wellness",
-      "Information technology",
-      "Automotive industry"
-    ],
-    "correctAnswer": "Traditional healthcare and wellness"
+    "question": "What is the individual power generation capacity (in MW) of each unit at the Kudankulam nuclear power site, contributing to India's clean energy transition?",
+    "options": ["500 MW", "750 MW", "1,000 MW", "1,200 MW"],
+    "correctAnswer": "1,000 MW"
   }
 ]

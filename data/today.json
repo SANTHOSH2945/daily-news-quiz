@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is one of the primary reasons for the strong comeback of civil engineering at top IITs, including institutions like IIT Hyderabad, as observed by industry experts?",
-    "options": ["The rise of renewable energy projects", "A focus on aerospace engineering", "Opportunities presented by the infrastructure boom", "Increased demand for software developers"],
-    "correctAnswer": "Opportunities presented by the infrastructure boom"
+    "question": "What aspect of India's international relations was recently emphasized by the Prime Minister in a statement about 'new chapters'?",
+    "options": [
+      "Economic dominance",
+      "Strategic alliances",
+      "Cultural outreach",
+      "Vast potential"
+    ],
+    "correctAnswer": "Vast potential"
   },
   {
     "id": 2,
-    "question": "Beyond the infrastructure boom, what broader economic shift is influencing student choices towards core branches like civil engineering at IITs, a trend relevant to engineering education across India, including Telangana and Andhra Pradesh?",
-    "options": ["A decline in research funding", "AI fears driving a search for stability", "Government scholarships for specific fields", "The popularity of entrepreneurship"],
-    "correctAnswer": "AI fears driving a search for stability"
+    "question": "What theme was highlighted for the 12th International Day of Yoga, an initiative actively promoted by India?",
+    "options": [
+      "Yoga For Youth",
+      "Yoga For Environmental Health",
+      "Yoga For Healthy Ageing",
+      "Yoga For Digital Wellness"
+    ],
+    "correctAnswer": "Yoga For Healthy Ageing"
   },
   {
     "id": 3,
-    "question": "An IIT Madras alumnus noted a specific fear accelerating the move toward core branches like civil engineering for students seeking stability. What is this fear?",
-    "options": ["Fear of climate change", "Fear of economic recession", "Fear of AI replacing jobs in other sectors", "Fear of global pandemics"],
-    "correctAnswer": "Fear of AI replacing jobs in other sectors"
+    "question": "The Supreme Court recently sought responses concerning alleged denial of admissions under which national act?",
+    "options": [
+      "Goods and Services Tax Act",
+      "Right to Information Act",
+      "Right to Education Act",
+      "Environmental Protection Act"
+    ],
+    "correctAnswer": "Right to Education Act"
   },
   {
     "id": 4,
-    "question": "The news highlights a 'strong comeback' for civil engineering at top IITs. What does this imply about the previous trend of student interest in this field?",
-    "options": ["It was consistently the most popular branch.", "Interest had waned in recent times.", "It was a brand new field of study.", "It was primarily chosen by international students."],
-    "correctAnswer": "Interest had waned in recent times."
+    "question": "The NCERT recently altered the depiction of which ancient Indian artefact in a Class 9 arts textbook?",
+    "options": [
+      "Chola Bronze Nataraja",
+      "Lion Capital of Ashoka",
+      "Dancing Girl from Indus Valley",
+      "Didarganj Yakshi"
+    ],
+    "correctAnswer": "Dancing Girl from Indus Valley"
   },
   {
     "id": 5,
-    "question": "Which of the following is NOT cited as a reason for the renewed interest in civil engineering at premier institutions like IITs, a development relevant to the infrastructure needs of states like Telangana and Andhra Pradesh?",
-    "options": ["Infrastructure boom", "AI fears", "Students seeking stability", "Decreased demand for core engineers"],
-    "correctAnswer": "Decreased demand for core engineers"
+    "question": "The Indian Prime Minister welcomed a recent international peace understanding with a hope for what specific outcome related to global commerce?",
+    "options": [
+      "Increased bilateral trade agreements",
+      "Restoration of regional stability and freedom of navigation",
+      "New economic sanctions",
+      "Expansion of military presence"
+    ],
+    "correctAnswer": "Restoration of regional stability and freedom of navigation"
   },
   {
     "id": 6,
-    "question": "The rise in civil engineering interest at IITs is seen as beneficial for states like Telangana and Andhra Pradesh due to their focus on what?",
-    "options": ["Space exploration projects", "Large-scale IT development", "Significant infrastructure and industrial development projects", "Promotion of agricultural exports"],
-    "correctAnswer": "Significant infrastructure and industrial development projects"
+    "question": "A major Indian political party recently criticized the Prime Minister's foreign policy stance on an international peace pact, implying 'blind devotion' to which country?",
+    "options": [
+      "Russia",
+      "China",
+      "Israel",
+      "Saudi Arabia"
+    ],
+    "correctAnswer": "Israel"
   },
   {
     "id": 7,
-    "question": "What is the primary concern that Rahul Gandhi's planned national outreach, relevant to students across India including those in Telangana and Andhra Pradesh, aims to address?",
-    "options": ["Lack of sports facilities", "Repeated examination failures and paper leak scandals", "High cost of higher education", "Insufficient foreign language courses"],
-    "correctAnswer": "Repeated examination failures and paper leak scandals"
+    "question": "India's diplomatic engagements include strengthening bilateral ties, with the Prime Minister recently highlighting a 'new chapter' with which European nation?",
+    "options": [
+      "Germany",
+      "France",
+      "Slovakia",
+      "Poland"
+    ],
+    "correctAnswer": "Slovakia"
   },
   {
     "id": 8,
-    "question": "The Congress party's national outreach aims to unite students beyond political affiliations and provide a platform for the affected youth to demand accountability for which recurring issues that impact students in states like Telangana and Andhra Pradesh?",
-    "options": ["Limited access to online education and digital literacy issues", "Issues related to student visas for studying abroad", "Repeated examination failures and paper leak scandals", "Lack of student exchange programs and cultural events"],
-    "correctAnswer": "Repeated examination failures and paper leak scandals"
+    "question": "India's promotion of preventive healthcare and holistic well-being often involves discussions on cooperation in which traditional medicine system?",
+    "options": [
+      "Homeopathy",
+      "Naturopathy",
+      "Allopathy",
+      "AYUSH"
+    ],
+    "correctAnswer": "AYUSH"
   },
   {
     "id": 9,
-    "question": "The AICC general secretary stated that Rahul Gandhi would hold conventions in several cities as part of the national outreach. Which of the following cities was NOT mentioned in the news as a venue for these conventions?",
-    "options": ["Allahabad", "Patna", "Hyderabad", "Delhi"],
-    "correctAnswer": "Hyderabad"
+    "question": "The Right to Education (RTE) Act mandates a certain percentage of admissions in private schools for which group of students?",
+    "options": [
+      "Meritorious students",
+      "Students from economically weaker sections",
+      "Children of government employees",
+      "Students from tribal areas"
+    ],
+    "correctAnswer": "Students from economically weaker sections"
   },
   {
     "id": 10,
-    "question": "What is the stated purpose of the Congress's national outreach program for students, extending its relevance to states like Telangana and Andhra Pradesh?",
-    "options": ["To promote sports and cultural activities among youth", "To provide financial assistance to students", "To unite students and provide a platform for their grievances regarding examination issues", "To offer career counseling services to graduates"],
-    "correctAnswer": "To unite students and provide a platform for their grievances regarding examination issues"
+    "question": "Which ancient Indian civilization is associated with the 'Dancing Girl' artefact, controversially modified in a recent school textbook?",
+    "options": [
+      "Vedic Civilization",
+      "Mauryan Empire",
+      "Gupta Empire",
+      "Indus Valley Civilization"
+    ],
+    "correctAnswer": "Indus Valley Civilization"
   },
   {
     "id": 11,
-    "question": "The initiative by Rahul Gandhi highlights a national issue affecting students. How does this issue indirectly relate to states like Telangana and Andhra Pradesh?",
-    "options": ["It only concerns students in North India.", "Students from these states are also impacted by national examination systems like NEET and job market challenges.", "It focuses solely on agricultural student issues.", "It promotes regional language education."],
-    "correctAnswer": "Students from these states are also impacted by national examination systems like NEET and job market challenges."
+    "question": "What type of legal petition highlighted the persistent denial of education for economically weaker section children under the RTE Act, prompting Supreme Court intervention?",
+    "options": [
+      "Writ of Habeas Corpus",
+      "Writ of Mandamus",
+      "Public Interest Litigation (PIL)",
+      "Special Leave Petition (SLP)"
+    ],
+    "correctAnswer": "Public Interest Litigation (PIL)"
   },
   {
     "id": 12,
-    "question": "According to PM Modi, how has India's role in the global technology landscape evolved from being a consumer, a development relevant to the thriving tech sectors in Telangana and Andhra Pradesh?",
-    "options": ["India has become a leading importer of tech solutions.", "India has transformed into a contributor to global solutions.", "India has primarily focused on tech manufacturing.", "India has reduced its engagement in global tech discussions."],
-    "correctAnswer": "India has transformed into a contributor to global solutions."
+    "question": "Approximately how old is the 'Dancing Girl' bronze sculpture, whose depiction was recently altered in an NCERT textbook?",
+    "options": [
+      "1,500 years",
+      "2,500 years",
+      "3,500 years",
+      "4,500 years"
+    ],
+    "correctAnswer": "4,500 years"
   },
   {
     "id": 13,
-    "question": "Which country's leader backed PM Modi's narrative about India's deep-tech story to the world, a narrative supported by tech hubs in states like Telangana and Andhra Pradesh?",
-    "options": ["USA", "Japan", "France", "Germany"],
-    "correctAnswer": "France"
+    "question": "Which Indian organization is primarily responsible for the content and revision of school textbooks at the national level, as seen in a recent controversy?",
+    "options": [
+      "University Grants Commission (UGC)",
+      "Central Board of Secondary Education (CBSE)",
+      "National Council of Educational Research and Training (NCERT)",
+      "All India Council for Technical Education (AICTE)"
+    ],
+    "correctAnswer": "National Council of Educational Research and Training (NCERT)"
   },
   {
     "id": 14,
-    "question": "The discussion on India's deep-tech story would be particularly relevant to which sectors in Telangana and Andhra Pradesh?",
-    "options": ["Primary agriculture and fishing", "Traditional handicrafts and tourism", "Information Technology, research & development, and startups", "Heavy manufacturing and mining"],
-    "correctAnswer": "Information Technology, research & development, and startups"
+    "question": "The Indian Prime Minister expressed hope that a recent international peace pact would help reopen and ensure freedom of navigation through which critical global trade route?",
+    "options": [
+      "Suez Canal",
+      "Panama Canal",
+      "Strait of Hormuz",
+      "Malacca Strait"
+    ],
+    "correctAnswer": "Strait of Hormuz"
   },
   {
     "id": 15,
-    "question": "The article mentions global venture capitalists and Indian entrepreneurs present at the deep-tech conclave. What does this signify for the deep-tech ecosystem in states like Telangana and Andhra Pradesh?",
-    "options": ["A decrease in local investment opportunities", "Increased global interest and potential for funding and collaboration", "A shift towards traditional industries", "A focus on government-only funding"],
-    "correctAnswer": "Increased global interest and potential for funding and collaboration"
+    "question": "What was the specific visual change made to the 'Dancing Girl' artefact in a new NCERT Class 9 arts textbook that drew criticism?",
+    "options": [
+      "Changed its posture",
+      "Added a weapon to its hand",
+      "Depicted with a covered torso",
+      "Altered its facial features"
+    ],
+    "correctAnswer": "Depicted with a covered torso"
   },
   {
     "id": 16,
-    "question": "Name one prominent Indian entrepreneur mentioned in the context of the deep-tech conclave where PM Modi highlighted India's capabilities.",
-    "options": ["Mukesh Ambani", "Ritesh Agarwal of OYO", "Anand Mahindra", "Kiran Mazumdar-Shaw"],
-    "correctAnswer": "Ritesh Agarwal of OYO"
+    "question": "The 12th International Day of Yoga was recently marked by a special session where the President of which island nation joined the Indian High Commission's event?",
+    "options": [
+      "Sri Lanka",
+      "Maldives",
+      "Mauritius",
+      "Seychelles"
+    ],
+    "correctAnswer": "Mauritius"
   },
   {
     "id": 17,
-    "question": "Who were some of the key officials present during PM Modi's discussion with global venture capitalists and entrepreneurs regarding India's deep-tech story?",
-    "options": ["Defence Minister and Finance Minister", "Commerce Minister and Principal Scientific Adviser", "Home Minister and External Affairs Minister", "Health Minister and Education Minister"],
-    "correctAnswer": "Commerce Minister and Principal Scientific Adviser"
+    "question": "Which judicial body holds the power to issue notices to the Central and State governments regarding the implementation of national education policies like the RTE Act?",
+    "options": [
+      "High Courts",
+      "District Courts",
+      "Supreme Court",
+      "National Human Rights Commission"
+    ],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 18,
-    "question": "What type of solutions is India now emerging as a contributor to, rather than just a consumer, according to the Prime Minister, a trend that strengthens the innovation ecosystem in states like Telangana and Andhra Pradesh?",
-    "options": ["Only consumer goods solutions", "Basic industrial solutions", "Deep-tech and innovative solutions", "Agricultural production solutions"],
-    "correctAnswer": "Deep-tech and innovative solutions"
+    "question": "The Indian Prime Minister welcomed a US-Iran understanding to end West Asian conflict. Which US President was credited with announcing this agreement?",
+    "options": [
+      "Joe Biden",
+      "Barack Obama",
+      "Donald Trump",
+      "George W. Bush"
+    ],
+    "correctAnswer": "Donald Trump"
   },
   {
     "id": 19,
-    "question": "What is the ambitious bilateral trade target set by India and France to achieve within the next five years, which could benefit export-oriented industries in Telangana and Andhra Pradesh?",
-    "options": ["Maintain current trade levels", "Decrease trade by half", "Double bilateral trade", "Triple bilateral trade"],
-    "correctAnswer": "Double bilateral trade"
+    "question": "The International Day of Yoga emphasizes yoga's benefits for preventive healthcare and holistic well-being, underscoring the shared heritage between India and other nations. What is the numerical order of the recently observed IDY?",
+    "options": [
+      "10th",
+      "11th",
+      "12th",
+      "13th"
+    ],
+    "correctAnswer": "12th"
   },
   {
     "id": 20,
-    "question": "Besides doubling bilateral trade, what key area of cooperation was announced after the meeting between PM Modi and President Macron that includes an innovation roadmap?",
-    "options": ["Cultural exchange programs", "Agricultural subsidies", "Nuclear cooperation", "Tourism promotion"],
-    "correctAnswer": "Nuclear cooperation"
+    "question": "The Right to Education Act aims to ensure education for all children. What specific provision of the act was the subject of a recent PIL alleging widespread denial?",
+    "options": [
+      "Free textbooks for all students",
+      "Mid-day meals in schools",
+      "Reservation for Economically Weaker Sections",
+      "Compulsory digital literacy"
+    ],
+    "correctAnswer": "Reservation for Economically Weaker Sections"
   },
   {
     "id": 21,
-    "question": "An innovation roadmap was adopted to deepen cooperation in what specific field between India and France, a field with significant relevance to tech-driven states like Telangana and Andhra Pradesh?",
-    "options": ["Traditional crafts and arts", "Critical and emerging technology", "Oceanography and marine biology", "Sports and entertainment"],
-    "correctAnswer": "Critical and emerging technology"
+    "question": "Debates surrounding the NCERT textbook changes to historical artefacts often revolve around issues of what?",
+    "options": [
+      "Technological advancement",
+      "Economic theory",
+      "Historical accuracy and cultural representation",
+      "Scientific innovation"
+    ],
+    "correctAnswer": "Historical accuracy and cultural representation"
   },
   {
     "id": 22,
-    "question": "The outcomes of the Modi-Macron meet include the launch of which new dialogue?",
-    "options": ["Cultural Heritage Dialogue", "Economic Security Dialogue", "Environmental Protection Dialogue", "Tourism Promotion Dialogue"],
-    "correctAnswer": "Economic Security Dialogue"
+    "question": "A recent international agreement, welcomed by India's Prime Minister, primarily aims to restore peace and ensure freedom of navigation in which region?",
+    "options": [
+      "East Asia",
+      "West Asia",
+      "Southeast Asia",
+      "North Africa"
+    ],
+    "correctAnswer": "West Asia"
   },
   {
     "id": 23,
-    "question": "What Indian government initiative is consistent with the goal to ramp up defence cooperation between India and France, which has implications for manufacturing and technology across India, including potential opportunities for industry in Telangana and Andhra Pradesh?",
-    "options": ["Skill India initiative", "Swachh Bharat Abhiyan", "Make in India initiative", "Digital India campaign"],
-    "correctAnswer": "Make in India initiative"
+    "question": "The Congress party's criticism of the Prime Minister's welcoming of the US-Iran peace pact focused on allegations related to India's foreign policy in general. What was the central point of their critique?",
+    "options": [
+      "Lack of economic incentives",
+      "Ignoring environmental concerns",
+      "Perceived bias towards a specific nation",
+      "Insufficient military build-up"
+    ],
+    "correctAnswer": "Perceived bias towards a specific nation"
   },
   {
     "id": 24,
-    "question": "The agreement to double bilateral trade and deepen cooperation in critical technology between India and France is expected to benefit states like Telangana and Andhra Pradesh in what way?",
-    "options": ["By reducing agricultural output", "By hindering industrial growth", "By fostering economic growth, investment, and technological advancement", "By promoting only service sector jobs"],
-    "correctAnswer": "By fostering economic growth, investment, and technological advancement"
+    "question": "Beyond the specific incident in the news, the Supreme Court's involvement in the RTE Act cases highlights its role in protecting which fundamental right in India?",
+    "options": [
+      "Right to Freedom of Religion",
+      "Right to Equality",
+      "Right to Education",
+      "Right to Property"
+    ],
+    "correctAnswer": "Right to Education"
   },
   {
     "id": 25,
-    "question": "In addition to an economic security dialogue, what other working group related to advanced technology was announced after the India-France meeting, relevant to innovation hubs like Hyderabad?",
-    "options": ["Working group for renewable energy", "Working group for space exploration", "Working group for AI governance", "Working group for traditional medicine"],
-    "correctAnswer": "Working group for AI governance"
+    "question": "India's proactive role in promoting global events like the International Day of Yoga primarily serves to highlight its rich heritage in which domain?",
+    "options": [
+      "Space exploration",
+      "Traditional healthcare and wellness",
+      "Information technology",
+      "Automotive industry"
+    ],
+    "correctAnswer": "Traditional healthcare and wellness"
   }
 ]

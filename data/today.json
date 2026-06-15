@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "During the recent meeting between PM Modi and President Macron in Nice, what is the announced target for doubling bilateral trade between India and France?",
-    "options": ["3 years", "5 years", "7 years", "10 years"],
-    "correctAnswer": "5 years"
+    "question": "What is one of the primary reasons for the strong comeback of civil engineering at top IITs, including institutions like IIT Hyderabad, as observed by industry experts?",
+    "options": ["The rise of renewable energy projects", "A focus on aerospace engineering", "Opportunities presented by the infrastructure boom", "Increased demand for software developers"],
+    "correctAnswer": "Opportunities presented by the infrastructure boom"
   },
   {
     "id": 2,
-    "question": "How many major outcomes were announced after PM Modi's talks with President Macron to deepen their strategic partnership?",
-    "options": ["7", "10", "13", "15"],
-    "correctAnswer": "13"
+    "question": "Beyond the infrastructure boom, what broader economic shift is influencing student choices towards core branches like civil engineering at IITs, a trend relevant to engineering education across India, including Telangana and Andhra Pradesh?",
+    "options": ["A decline in research funding", "AI fears driving a search for stability", "Government scholarships for specific fields", "The popularity of entrepreneurship"],
+    "correctAnswer": "AI fears driving a search for stability"
   },
   {
     "id": 3,
-    "question": "Which of the following areas was highlighted for deepening cooperation through an innovation roadmap between India and France?",
-    "options": ["Traditional arts", "Critical and emerging technology", "Agricultural exports from Telangana", "Tourism promotion in Andhra Pradesh"],
-    "correctAnswer": "Critical and emerging technology"
+    "question": "An IIT Madras alumnus noted a specific fear accelerating the move toward core branches like civil engineering for students seeking stability. What is this fear?",
+    "options": ["Fear of climate change", "Fear of economic recession", "Fear of AI replacing jobs in other sectors", "Fear of global pandemics"],
+    "correctAnswer": "Fear of AI replacing jobs in other sectors"
   },
   {
     "id": 4,
-    "question": "Which type of dialogue was launched to deepen economic ties between India and France?",
-    "options": ["Cultural Exchange Dialogue", "Economic Security Dialogue", "Climate Change Dialogue", "Bilateral Investment Dialogue focusing on Andhra Pradesh"],
-    "correctAnswer": "Economic Security Dialogue"
+    "question": "The news highlights a 'strong comeback' for civil engineering at top IITs. What does this imply about the previous trend of student interest in this field?",
+    "options": ["It was consistently the most popular branch.", "Interest had waned in recent times.", "It was a brand new field of study.", "It was primarily chosen by international students."],
+    "correctAnswer": "Interest had waned in recent times."
   },
   {
     "id": 5,
-    "question": "A new working group was announced to be launched for cooperation in which specific technological domain between India and France?",
-    "options": ["Space exploration", "Artificial Intelligence (AI) governance", "Biotechnology in Telangana", "Renewable energy"],
-    "correctAnswer": "Artificial Intelligence (AI) governance"
+    "question": "Which of the following is NOT cited as a reason for the renewed interest in civil engineering at premier institutions like IITs, a development relevant to the infrastructure needs of states like Telangana and Andhra Pradesh?",
+    "options": ["Infrastructure boom", "AI fears", "Students seeking stability", "Decreased demand for core engineers"],
+    "correctAnswer": "Decreased demand for core engineers"
   },
   {
     "id": 6,
-    "question": "The India-France strategic partnership seeks to ramp up defence cooperation, consistent with which Indian initiative?",
-    "options": ["Digital India", "Skill India", "Make in India", "Clean India"],
-    "correctAnswer": "Make in India"
+    "question": "The rise in civil engineering interest at IITs is seen as beneficial for states like Telangana and Andhra Pradesh due to their focus on what?",
+    "options": ["Space exploration projects", "Large-scale IT development", "Significant infrastructure and industrial development projects", "Promotion of agricultural exports"],
+    "correctAnswer": "Significant infrastructure and industrial development projects"
   },
   {
     "id": 7,
-    "question": "In the context of India's 'Make in India' initiative for defence cooperation, which city, known for its defence and aerospace manufacturing ecosystem, could particularly benefit from such efforts?",
-    "options": ["Kolkata", "Bengaluru", "Hyderabad", "Kochi"],
-    "correctAnswer": "Hyderabad"
+    "question": "What is the primary concern that Rahul Gandhi's planned national outreach, relevant to students across India including those in Telangana and Andhra Pradesh, aims to address?",
+    "options": ["Lack of sports facilities", "Repeated examination failures and paper leak scandals", "High cost of higher education", "Insufficient foreign language courses"],
+    "correctAnswer": "Repeated examination failures and paper leak scandals"
   },
   {
     "id": 8,
-    "question": "The innovation roadmap between India and France aims to deepen cooperation in critical and emerging technology. Which Indian state has actively promoted itself as a hub for such emerging technologies?",
-    "options": ["Bihar", "Odisha", "Telangana", "Rajasthan"],
-    "correctAnswer": "Telangana"
+    "question": "The Congress party's national outreach aims to unite students beyond political affiliations and provide a platform for the affected youth to demand accountability for which recurring issues that impact students in states like Telangana and Andhra Pradesh?",
+    "options": ["Limited access to online education and digital literacy issues", "Issues related to student visas for studying abroad", "Repeated examination failures and paper leak scandals", "Lack of student exchange programs and cultural events"],
+    "correctAnswer": "Repeated examination failures and paper leak scandals"
   },
   {
     "id": 9,
-    "question": "An economic security dialogue was launched between India and France. Given Andhra Pradesh's strategic coastline, which major port could play a significant role in enhancing maritime economic security?",
-    "options": ["Paradip", "Visakhapatnam", "Chennai", "Mormugao"],
-    "correctAnswer": "Visakhapatnam"
-  },
-  {
-    "id": 10,
-    "question": "Defence Minister Rajnath Singh stated that India's armed forces have been granted what against security threats?",
-    "options": ["Limited deployment orders", "Full freedom to counter terrorism", "Budgetary restrictions", "Diplomatic mandates"],
-    "correctAnswer": "Full freedom to counter terrorism"
-  },
-  {
-    "id": 11,
-    "question": "Rajnath Singh criticized past governments for their approach towards security threats, characterizing it as:",
-    "options": ["Proactive", "Decisive", "Soft", "Collaborative"],
-    "correctAnswer": "Soft"
-  },
-  {
-    "id": 12,
-    "question": "Which historical figure did Defence Minister Rajnath Singh laud as a symbol of national pride, linking his values to the current government's philosophy?",
-    "options": ["Chhatrapati Shivaji", "Tipu Sultan", "Maharana Pratap", "Sardar Patel"],
-    "correctAnswer": "Maharana Pratap"
-  },
-  {
-    "id": 13,
-    "question": "Apart from an innovation roadmap, what specific working group related to technology was announced to be launched for cooperation between India and France?",
-    "options": ["AI Ethics and Policy", "AI Governance", "AI for Healthcare", "AI for Smart Cities"],
-    "correctAnswer": "AI Governance"
-  },
-  {
-    "id": 14,
-    "question": "Beyond increasing trade, the Modi-Macron meet also aimed to ramp up cooperation in which critical sector, consistent with India's 'Make in India' initiative?",
-    "options": ["Agriculture", "Space", "Defence", "Education"],
-    "correctAnswer": "Defence"
-  },
-  {
-    "id": 15,
-    "question": "The recent talks between PM Modi and President Macron in Nice aimed to deepen which type of partnership between their nations?",
-    "options": ["Economic partnership", "Cultural partnership", "Strategic partnership", "Environmental partnership"],
-    "correctAnswer": "Strategic partnership"
-  },
-  {
-    "id": 16,
-    "question": "The 'Make in India' initiative, pivotal for defence and technology collaborations, encourages manufacturing growth. Which of the following states has been actively creating policies to attract manufacturing investments under this initiative, including in coastal economic zones?",
-    "options": ["Nagaland", "Himachal Pradesh", "Andhra Pradesh", "Sikkim"],
-    "correctAnswer": "Andhra Pradesh"
-  },
-  {
-    "id": 17,
-    "question": "With the launch of an innovation roadmap in critical technologies with France, which Indian city, a major IT hub, is expected to be at the forefront of such advancements due to its robust tech ecosystem?",
-    "options": ["Chandigarh", "Lucknow", "Hyderabad", "Jaipur"],
+    "question": "The AICC general secretary stated that Rahul Gandhi would hold conventions in several cities as part of the national outreach. Which of the following cities was NOT mentioned in the news as a venue for these conventions?",
+    "options": ["Allahabad", "Patna", "Hyderabad", "Delhi"],
     "correctAnswer": "Hyderabad"
   },
   {
-    "id": 18,
-    "question": "Nuclear cooperation was a key aspect of the India-France discussions. Which state in India has a planned nuclear power project site at Kovvada, potentially benefiting from such international collaborations?",
-    "options": ["Kerala", "Andhra Pradesh", "West Bengal", "Assam"],
-    "correctAnswer": "Andhra Pradesh"
+    "id": 10,
+    "question": "What is the stated purpose of the Congress's national outreach program for students, extending its relevance to states like Telangana and Andhra Pradesh?",
+    "options": ["To promote sports and cultural activities among youth", "To provide financial assistance to students", "To unite students and provide a platform for their grievances regarding examination issues", "To offer career counseling services to graduates"],
+    "correctAnswer": "To unite students and provide a platform for their grievances regarding examination issues"
   },
   {
-    "id": 19,
-    "question": "PM Modi and President Macron concluded their talks in Nice, opening a new chapter in the ties between India and which specific country?",
-    "options": ["Germany", "France", "Italy", "Spain"],
+    "id": 11,
+    "question": "The initiative by Rahul Gandhi highlights a national issue affecting students. How does this issue indirectly relate to states like Telangana and Andhra Pradesh?",
+    "options": ["It only concerns students in North India.", "Students from these states are also impacted by national examination systems like NEET and job market challenges.", "It focuses solely on agricultural student issues.", "It promotes regional language education."],
+    "correctAnswer": "Students from these states are also impacted by national examination systems like NEET and job market challenges."
+  },
+  {
+    "id": 12,
+    "question": "According to PM Modi, how has India's role in the global technology landscape evolved from being a consumer, a development relevant to the thriving tech sectors in Telangana and Andhra Pradesh?",
+    "options": ["India has become a leading importer of tech solutions.", "India has transformed into a contributor to global solutions.", "India has primarily focused on tech manufacturing.", "India has reduced its engagement in global tech discussions."],
+    "correctAnswer": "India has transformed into a contributor to global solutions."
+  },
+  {
+    "id": 13,
+    "question": "Which country's leader backed PM Modi's narrative about India's deep-tech story to the world, a narrative supported by tech hubs in states like Telangana and Andhra Pradesh?",
+    "options": ["USA", "Japan", "France", "Germany"],
     "correctAnswer": "France"
   },
   {
+    "id": 14,
+    "question": "The discussion on India's deep-tech story would be particularly relevant to which sectors in Telangana and Andhra Pradesh?",
+    "options": ["Primary agriculture and fishing", "Traditional handicrafts and tourism", "Information Technology, research & development, and startups", "Heavy manufacturing and mining"],
+    "correctAnswer": "Information Technology, research & development, and startups"
+  },
+  {
+    "id": 15,
+    "question": "The article mentions global venture capitalists and Indian entrepreneurs present at the deep-tech conclave. What does this signify for the deep-tech ecosystem in states like Telangana and Andhra Pradesh?",
+    "options": ["A decrease in local investment opportunities", "Increased global interest and potential for funding and collaboration", "A shift towards traditional industries", "A focus on government-only funding"],
+    "correctAnswer": "Increased global interest and potential for funding and collaboration"
+  },
+  {
+    "id": 16,
+    "question": "Name one prominent Indian entrepreneur mentioned in the context of the deep-tech conclave where PM Modi highlighted India's capabilities.",
+    "options": ["Mukesh Ambani", "Ritesh Agarwal of OYO", "Anand Mahindra", "Kiran Mazumdar-Shaw"],
+    "correctAnswer": "Ritesh Agarwal of OYO"
+  },
+  {
+    "id": 17,
+    "question": "Who were some of the key officials present during PM Modi's discussion with global venture capitalists and entrepreneurs regarding India's deep-tech story?",
+    "options": ["Defence Minister and Finance Minister", "Commerce Minister and Principal Scientific Adviser", "Home Minister and External Affairs Minister", "Health Minister and Education Minister"],
+    "correctAnswer": "Commerce Minister and Principal Scientific Adviser"
+  },
+  {
+    "id": 18,
+    "question": "What type of solutions is India now emerging as a contributor to, rather than just a consumer, according to the Prime Minister, a trend that strengthens the innovation ecosystem in states like Telangana and Andhra Pradesh?",
+    "options": ["Only consumer goods solutions", "Basic industrial solutions", "Deep-tech and innovative solutions", "Agricultural production solutions"],
+    "correctAnswer": "Deep-tech and innovative solutions"
+  },
+  {
+    "id": 19,
+    "question": "What is the ambitious bilateral trade target set by India and France to achieve within the next five years, which could benefit export-oriented industries in Telangana and Andhra Pradesh?",
+    "options": ["Maintain current trade levels", "Decrease trade by half", "Double bilateral trade", "Triple bilateral trade"],
+    "correctAnswer": "Double bilateral trade"
+  },
+  {
     "id": 20,
-    "question": "Who is the current Defence Minister of India, quoted on granting full freedom to the armed forces to counter security threats?",
-    "options": ["Amit Shah", "S. Jaishankar", "Rajnath Singh", "Nirmala Sitharaman"],
-    "correctAnswer": "Rajnath Singh"
+    "question": "Besides doubling bilateral trade, what key area of cooperation was announced after the meeting between PM Modi and President Macron that includes an innovation roadmap?",
+    "options": ["Cultural exchange programs", "Agricultural subsidies", "Nuclear cooperation", "Tourism promotion"],
+    "correctAnswer": "Nuclear cooperation"
   },
   {
     "id": 21,
-    "question": "The India-France economic security dialogue would likely focus on strengthening resilience against what kind of threats, impacting national and regional economies like Telangana's?",
-    "options": ["Cultural threats", "Environmental threats", "Economic vulnerabilities", "Social unrest"],
-    "correctAnswer": "Economic vulnerabilities"
+    "question": "An innovation roadmap was adopted to deepen cooperation in what specific field between India and France, a field with significant relevance to tech-driven states like Telangana and Andhra Pradesh?",
+    "options": ["Traditional crafts and arts", "Critical and emerging technology", "Oceanography and marine biology", "Sports and entertainment"],
+    "correctAnswer": "Critical and emerging technology"
   },
   {
     "id": 22,
-    "question": "The innovation roadmap adopted by India and France aims to deepen cooperation in which broad categories of technology to foster growth and competitiveness?",
-    "options": ["Traditional and manual", "Critical and emerging", "Obsolete and outdated", "Low-skill and routine"],
-    "correctAnswer": "Critical and emerging"
+    "question": "The outcomes of the Modi-Macron meet include the launch of which new dialogue?",
+    "options": ["Cultural Heritage Dialogue", "Economic Security Dialogue", "Environmental Protection Dialogue", "Tourism Promotion Dialogue"],
+    "correctAnswer": "Economic Security Dialogue"
   },
   {
     "id": 23,
-    "question": "Enhanced defence cooperation, consistent with 'Make in India', is expected to lead to modernization of military capabilities and also boost which sector within India, with significant contributions from states like Andhra Pradesh?",
-    "options": ["Tourism", "Food processing", "Defence manufacturing", "Agricultural exports from Telangana"],
-    "correctAnswer": "Defence manufacturing"
+    "question": "What Indian government initiative is consistent with the goal to ramp up defence cooperation between India and France, which has implications for manufacturing and technology across India, including potential opportunities for industry in Telangana and Andhra Pradesh?",
+    "options": ["Skill India initiative", "Swachh Bharat Abhiyan", "Make in India initiative", "Digital India campaign"],
+    "correctAnswer": "Make in India initiative"
   },
   {
     "id": 24,
-    "question": "The discussions between India and France concluded with the aim to achieve what status for their partnership, signifying long-term commitment?",
-    "options": ["Temporary alliance", "Limited collaboration", "Enduring strategic partnership", "Trade-exclusive agreement"],
-    "correctAnswer": "Enduring strategic partnership"
+    "question": "The agreement to double bilateral trade and deepen cooperation in critical technology between India and France is expected to benefit states like Telangana and Andhra Pradesh in what way?",
+    "options": ["By reducing agricultural output", "By hindering industrial growth", "By fostering economic growth, investment, and technological advancement", "By promoting only service sector jobs"],
+    "correctAnswer": "By fostering economic growth, investment, and technological advancement"
   },
   {
     "id": 25,
-    "question": "The adoption of an innovation roadmap with France underlines India's focus on which sector for future economic and strategic advancement, often driven by innovation hubs in states like Telangana?",
-    "options": ["Primary agriculture", "Heavy industries", "Technology and innovation", "Basic services"],
-    "correctAnswer": "Technology and innovation"
+    "question": "In addition to an economic security dialogue, what other working group related to advanced technology was announced after the India-France meeting, relevant to innovation hubs like Hyderabad?",
+    "options": ["Working group for renewable energy", "Working group for space exploration", "Working group for AI governance", "Working group for traditional medicine"],
+    "correctAnswer": "Working group for AI governance"
   }
 ]

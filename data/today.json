@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is the target year for the next Census in India, for which houselisting operations are actively underway across various states, including Telangana and Andhra Pradesh?",
-    "options": ["2025", "2026", "2027", "2028"],
-    "correctAnswer": "2027"
+    "question": "What new regulation has the Central government implemented regarding the sale of cough syrups across India?",
+    "options": [
+      "They are banned completely.",
+      "They now require a doctor's prescription for sale.",
+      "They can only be sold in government hospitals.",
+      "Their price has been significantly increased."
+    ],
+    "correctAnswer": "They now require a doctor's prescription for sale."
   },
   {
     "id": 2,
-    "question": "Which crucial initial phase of the Census 2027 operations has been completed by 23 states and Union Territories in India, indicating preparation for comprehensive data collection?",
-    "options": ["Data analysis", "Final enumeration", "Houselisting", "Demographic survey"],
-    "correctAnswer": "Houselisting"
+    "question": "What was a primary concern that led the Centre to mandate prescriptions for cough syrups, impacting states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Rising prices of cough syrups.",
+      "Contaminated syrups and public health safety.",
+      "Lack of availability in rural areas.",
+      "Excessive advertising by pharmaceutical companies."
+    ],
+    "correctAnswer": "Contaminated syrups and public health safety."
   },
   {
     "id": 3,
-    "question": "According to recent reports, how many states and Union Territories have successfully completed the first phase of houselisting for Census 2027?",
-    "options": ["15", "23", "30", "35"],
-    "correctAnswer": "23"
+    "question": "The new Central regulation on cough syrup sales applies to which geographical area, thereby affecting all states including Telangana and Andhra Pradesh?",
+    "options": [
+      "Only metropolitan cities.",
+      "Selected border regions.",
+      "The entire country.",
+      "Only states with high reported cough syrup abuse."
+    ],
+    "correctAnswer": "The entire country."
   },
   {
     "id": 4,
-    "question": "What is a key methodological characteristic of the upcoming Census 2027 highlighted in the news, indicating a shift in how data will be collected across India?",
-    "options": ["Paper-based only", "Manual enumeration", "Digital-first approach", "Sample-based survey"],
-    "correctAnswer": "Digital-first approach"
+    "question": "From what previous regulatory category were cough syrup formulations removed by the government, leading to the new prescription requirement?",
+    "options": [
+      "Luxury goods.",
+      "Schedule X drugs.",
+      "A decades-old exemption.",
+      "Essential commodities list."
+    ],
+    "correctAnswer": "A decades-old exemption."
   },
   {
     "id": 5,
-    "question": "Which specific Indian states were mentioned in the news as having recently launched self-enumeration for the Census 2027 houselisting phase?",
-    "options": ["Karnataka and Tamil Nadu", "Kerala and Nagaland", "Gujarat and Maharashtra", "Punjab and Haryana"],
-    "correctAnswer": "Kerala and Nagaland"
+    "question": "How is the new regulation requiring prescriptions for cough syrups expected to affect the distribution and sale accountability in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It will reduce the variety of available syrups.",
+      "It aims to enhance accountability and public health safety.",
+      "It will increase the black market for syrups.",
+      "It only impacts online pharmacies."
+    ],
+    "correctAnswer": "It aims to enhance accountability and public health safety."
   },
   {
     "id": 6,
-    "question": "The houselisting phase of Census 2027 in India, relevant for all regions including Telangana and Andhra Pradesh, primarily aims to collect data on what?",
-    "options": ["Electoral preferences", "Housing and household details", "Agricultural output", "Industrial development"],
-    "correctAnswer": "Housing and household details"
+    "question": "Despite a predicted 'below normal' monsoon, what has been India's recent performance in grain output over the last two deficit rain years?",
+    "options": [
+      "A significant decline in output.",
+      "No dip in grain output.",
+      "Output remained stagnant.",
+      "A slight increase in output due to imports."
+    ],
+    "correctAnswer": "No dip in grain output."
   },
   {
     "id": 7,
-    "question": "As per the news, how many additional states and Union Territories are currently undergoing houselisting operations for Census 2027, complementing those that have already finished?",
-    "options": ["5", "8", "12", "18"],
-    "correctAnswer": "8"
+    "question": "What climatic phenomenon is predicted to pose a risk to Indian farming this year, potentially impacting agricultural states like Andhra Pradesh and Telangana?",
+    "options": [
+      "La Niña.",
+      "Polar Vortex.",
+      "El Niño.",
+      "Arctic Oscillation."
+    ],
+    "correctAnswer": "El Niño."
   },
   {
     "id": 8,
-    "question": "Which Indian state was recently reported to have commenced its field operations for the houselisting phase of Census 2027?",
-    "options": ["Uttar Pradesh", "Himachal Pradesh", "Rajasthan", "Odisha"],
-    "correctAnswer": "Himachal Pradesh"
+    "question": "What measures has India implemented to mitigate the impact of drought on agriculture, which are crucial for states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Reliance solely on imported grains.",
+      "Expansion of rain harvesting and cloud seeding.",
+      "Expanded irrigation and drought-resistant crops.",
+      "Shifting agricultural focus to industrial production."
+    ],
+    "correctAnswer": "Expanded irrigation and drought-resistant crops."
   },
   {
     "id": 9,
-    "question": "For states like Telangana and Andhra Pradesh, the comprehensive coverage aimed by Census 2027 primarily focuses on gathering information about their citizens' what?",
-    "options": ["Political affiliations", "Socio-economic characteristics", "Dietary habits", "Travel patterns"],
-    "correctAnswer": "Socio-economic characteristics"
+    "question": "How might a 'below normal' monsoon impact agricultural states such as Andhra Pradesh and Telangana, despite national mitigation efforts?",
+    "options": [
+      "It will lead to a boom in cash crop production.",
+      "It could still impact sowing and overall yield.",
+      "It will primarily affect urban populations.",
+      "It has no discernible effect due to modern technology."
+    ],
+    "correctAnswer": "It could still impact sowing and overall yield."
   },
   {
     "id": 10,
-    "question": "What kind of questionnaire is utilized for collecting data during the houselisting phase of the digital-first Census 2027 across India?",
-    "options": ["Open-ended", "Qualitative", "Structured", "Telephonic"],
-    "correctAnswer": "Structured"
+    "question": "Which entities are explicitly mentioned as preparing contingency plans in anticipation of monsoon deficits to protect agricultural interests across India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Only the central government.",
+      "International aid organizations.",
+      "Vulnerable states.",
+      "Private farming corporations."
+    ],
+    "correctAnswer": "Vulnerable states."
   },
   {
     "id": 11,
-    "question": "What is a primary reason cited in the news for patients in India turning to Artificial Intelligence (AI) for medical treatment and advice?",
-    "options": ["Lower consultation costs", "Faster diagnosis times", "Non-judgmental interaction", "Access to specialized doctors"],
-    "correctAnswer": "Non-judgmental interaction"
+    "question": "Which national university is investigating allegations of question paper leaks for its June-July 2026 term-end exams, affecting students nationwide including in Telangana and Andhra Pradesh?",
+    "options": [
+      "Delhi University.",
+      "Indira Gandhi National Open University (IGNOU).",
+      "Jawaharlal Nehru University (JNU).",
+      "Banaras Hindu University (BHU)."
+    ],
+    "correctAnswer": "Indira Gandhi National Open University (IGNOU)."
   },
   {
     "id": 12,
-    "question": "The increasing adoption of AI in healthcare across India, including its potential use in states like Telangana and Andhra Pradesh, reflects a broader trend towards what in modern medical practice?",
-    "options": ["Exclusive reliance on traditional medicine", "Complete patient anonymity", "Advanced technological integration", "Reduced human-to-human interaction"],
-    "correctAnswer": "Advanced technological integration"
+    "question": "On what specific platform were IGNOU question papers allegedly being sold, according to the recent allegations?",
+    "options": [
+      "Facebook Marketplace.",
+      "WhatsApp groups.",
+      "Telegram.",
+      "University's official website forum."
+    ],
+    "correctAnswer": "Telegram."
   },
   {
     "id": 13,
-    "question": "In the context of AI's appeal in Indian healthcare, what patient concern does its 'non-judgmental' nature primarily address?",
-    "options": ["High consultation fees", "Long waiting times for appointments", "Fear of stigma or personal bias from human doctors", "Lack of advanced medical equipment in clinics"],
-    "correctAnswer": "Fear of stigma or personal bias from human doctors"
+    "question": "What price per subject was allegedly charged by touts for the leaked IGNOU question papers for the June-July 2026 exams?",
+    "options": [
+      "Rs 99 per subject.",
+      "Rs 199 per subject.",
+      "Rs 499 per subject.",
+      "Rs 999 per subject."
+    ],
+    "correctAnswer": "Rs 199 per subject."
   },
   {
     "id": 14,
-    "question": "The news highlights a growing patient preference for AI. What could be a long-term implication for healthcare services in Indian states like Telangana and Andhra Pradesh?",
-    "options": ["A decreased need for medical professionals", "An increased reliance on technology for initial consultations", "Stagnation of medical research", "A reversal to purely traditional medicine"],
-    "correctAnswer": "An increased reliance on technology for initial consultations"
+    "question": "What has been IGNOU's official stance regarding the alleged question paper leak, despite complaints and shared screenshots?",
+    "options": [
+      "They have cancelled all affected papers.",
+      "They have admitted to the leak and launched an internal inquiry.",
+      "They claim no evidence of a leak and have not cancelled any papers.",
+      "They have postponed all upcoming examinations indefinitely."
+    ],
+    "correctAnswer": "They claim no evidence of a leak and have not cancelled any papers."
   },
   {
     "id": 15,
-    "question": "What fundamental human element is minimized when patients turn to AI for medical counsel, contributing to its appeal as suggested by the report?",
-    "options": ["Empathy", "Cost of service", "Time commitment", "Human bias"],
-    "correctAnswer": "Human bias"
+    "question": "How do alleged question paper leaks in national universities like IGNOU impact students in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "They have no impact as exams are online.",
+      "They create an unfair advantage and undermine academic integrity.",
+      "They provide an easier way for students to pass.",
+      "They only affect students in North India."
+    ],
+    "correctAnswer": "They create an unfair advantage and undermine academic integrity."
   },
   {
     "id": 16,
-    "question": "According to a recent UNICEF report, approximately what alarming percentage of Indian children are exposed to extreme heat, including those in states like Telangana and Andhra Pradesh?",
-    "options": ["50%", "75%", "92%", "100%"],
-    "correctAnswer": "92%"
+    "question": "Which national examination is referenced in the news regarding an accused individual getting court permission for a retest, significantly impacting aspiring students from Telangana and Andhra Pradesh?",
+    "options": [
+      "JEE Main.",
+      "UPSC Civil Services Exam.",
+      "NEET.",
+      "CLAT."
+    ],
+    "correctAnswer": "NEET."
   },
   {
     "id": 17,
-    "question": "The UNICEF report further indicates that how many million children in India are specifically exposed to heatwaves?",
-    "options": ["45 million", "67 million", "89 million", "100 million"],
-    "correctAnswer": "89 million"
+    "question": "What specific permission did a court grant to an accused individual in a NEET leak case?",
+    "options": [
+      "To be released on bail without conditions.",
+      "To take the retest for the examination.",
+      "To have their previous scores validated.",
+      "To file a counter-suit against the authorities."
+    ],
+    "correctAnswer": "To take the retest for the examination."
   },
   {
     "id": 18,
-    "question": "What critical gap do India's existing Heat Action Plans reportedly have, according to the UNICEF report, impacting child protection?",
-    "options": ["Lack of adequate funding", "Lack of public awareness campaigns", "Lack of child-specific measures", "Lack of scientific data"],
-    "correctAnswer": "Lack of child-specific measures"
+    "question": "Why is the integrity of national examinations like NEET crucial for students in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It determines eligibility for government jobs.",
+      "It ensures fair competition for limited medical seats.",
+      "It is a prerequisite for obtaining a passport.",
+      "It is a general knowledge test for all citizens."
+    ],
+    "correctAnswer": "It ensures fair competition for limited medical seats."
   },
   {
     "id": 19,
-    "question": "India's high hazard exposure score, as highlighted in the UNICEF report, is particularly significant for which two environmental factors?",
-    "options": ["Floods and earthquakes", "Droughts and cyclones", "Extreme heat and air pollution", "Forest fires and tsunamis"],
-    "correctAnswer": "Extreme heat and air pollution"
+    "question": "What type of courses does NEET primarily serve as an entrance examination for, relevant to students pursuing higher education in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Engineering and Technology.",
+      "Medical and Dental.",
+      "Arts and Humanities.",
+      "Business Management."
+    ],
+    "correctAnswer": "Medical and Dental."
   },
   {
     "id": 20,
-    "question": "Which international organization released the report that brought to light the extensive exposure of Indian children to extreme heat?",
-    "options": ["World Health Organization (WHO)", "United Nations Educational, Scientific and Cultural Organization (UNESCO)", "United Nations Children's Fund (UNICEF)", "The World Bank"],
-    "correctAnswer": "United Nations Children's Fund (UNICEF)"
+    "question": "Which central body is primarily responsible for conducting the NEET examination, ensuring its nationwide implementation including in Telangana and Andhra Pradesh?",
+    "options": [
+      "UGC (University Grants Commission).",
+      "CBSE (Central Board of Secondary Education).",
+      "NTA (National Testing Agency).",
+      "AICTE (All India Council for Technical Education)."
+    ],
+    "correctAnswer": "NTA (National Testing Agency)."
   },
   {
     "id": 21,
-    "question": "The UNICEF report underscores the urgent need for what type of interventions to protect young lives in India from the impacts of extreme heat?",
-    "options": ["Global financial aid", "Large-scale tree plantation drives", "Targeted interventions", "Urban planning redesigns only"],
-    "correctAnswer": "Targeted interventions"
+    "question": "What is the primary objective behind the government's new regulation to make prescriptions mandatory for cough syrups?",
+    "options": [
+      "To increase revenue from drug sales.",
+      "To reduce the number of pharmacies.",
+      "To enhance patient safety and regulatory oversight.",
+      "To promote alternative traditional medicines."
+    ],
+    "correctAnswer": "To enhance patient safety and regulatory oversight."
   },
   {
     "id": 22,
-    "question": "What is the total number of children in India reportedly exposed to extreme heat, according to the recent UNICEF report?",
-    "options": ["150 million", "200 million", "329 million", "400 million"],
-    "correctAnswer": "329 million"
+    "question": "Prior to the recent regulation, how were many cough syrup formulations commonly sold in India, including in Telangana and Andhra Pradesh?",
+    "options": [
+      "Only through government hospitals.",
+      "As restricted Schedule H drugs.",
+      "Over-the-counter without a prescription.",
+      "Via an online-only delivery system."
+    ],
+    "correctAnswer": "Over-the-counter without a prescription."
   },
   {
     "id": 23,
-    "question": "The report suggests that the vulnerability of Indian children to environmental hazards like extreme heat implies a need for states like Telangana and Andhra Pradesh to focus on what to protect their younger population?",
-    "options": ["Industrial expansion policies", "Agricultural diversification methods", "Climate adaptation strategies", "Tourism promotion initiatives"],
-    "correctAnswer": "Climate adaptation strategies"
+    "question": "Which specific agricultural practice is mentioned as being expanded in India to build resilience against drought effects in agricultural states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Increased use of chemical fertilizers.",
+      "Expansion of irrigation facilities.",
+      "Promotion of monoculture farming.",
+      "Migration of farmers to urban areas."
+    ],
+    "correctAnswer": "Expansion of irrigation facilities."
   },
   {
     "id": 24,
-    "question": "What specific type of environmental plan is mentioned in the UNICEF report as needing improvements for better child protection against heat in India?",
-    "options": ["Disaster Management Plans", "Heat Action Plans", "Water Conservation Plans", "Forest Management Plans"],
-    "correctAnswer": "Heat Action Plans"
+    "question": "How do drought-resistant crops contribute to India's food security during adverse monsoon years, directly benefiting agricultural regions such as Andhra Pradesh and Telangana?",
+    "options": [
+      "They require less sunlight.",
+      "They absorb moisture from the air.",
+      "They help maintain grain output despite water scarcity.",
+      "They are easier to transport and store."
+    ],
+    "correctAnswer": "They help maintain grain output despite water scarcity."
   },
   {
     "id": 25,
-    "question": "The high number of children exposed to extreme heat and heatwaves in India, as per the UNICEF report, points to a significant public health challenge in which crucial sector?",
-    "options": ["Higher Education", "Child welfare and health", "Economic development", "Infrastructure and housing"],
-    "correctAnswer": "Child welfare and health"
+    "question": "Beyond the financial cost, what other significant implications do exam paper leaks, like those alleged for IGNOU, have for the academic credibility of national institutions and the fairness for students from regions like Telangana and Andhra Pradesh?",
+    "options": [
+      "They encourage students to study harder.",
+      "They improve the national ranking of universities.",
+      "They undermine trust, fairness, and the value of hard work.",
+      "They streamline the examination process."
+    ],
+    "correctAnswer": "They undermine trust, fairness, and the value of hard work."
   }
 ]

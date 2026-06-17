@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What new regulation has the Centre introduced regarding the sale of cough syrups?",
-    "options": [
-      "No sale of cough syrups without a doctor's prescription",
-      "Increased tax on cough syrup sales",
-      "Ban on online sale of cough syrups",
-      "Mandatory clinical trials for all new cough syrups"
-    ],
-    "correctAnswer": "No sale of cough syrups without a doctor's prescription"
+    "question": "What is the monthly monetary value recognized by India's Supreme Court for a homemaker's unpaid labor, applicable to families in Telangana and Andhra Pradesh?",
+    "options": ["Rs 10,000", "Rs 20,000", "Rs 30,000", "Rs 50,000"],
+    "correctAnswer": "Rs 30,000"
   },
   {
     "id": 2,
-    "question": "Prior to the recent change, what was the status of cough syrups concerning prescription requirements in India?",
-    "options": [
-      "They always required a prescription",
-      "They were sold exclusively through government pharmacies",
-      "They were exempt from prescription requirements for decades",
-      "They required a special license for sale"
-    ],
-    "correctAnswer": "They were exempt from prescription requirements for decades"
+    "question": "The Supreme Court of India recently acknowledged 'loss of domestic care' as compensable. What is the primary implication of this ruling for women in states like Telangana and Andhra Pradesh?",
+    "options": ["Mandatory government salaries for homemakers", "Recognition of homemakers' economic contribution", "Exemption from all taxes for homemakers", "Exclusive right to property ownership"],
+    "correctAnswer": "Recognition of homemakers' economic contribution"
   },
   {
     "id": 3,
-    "question": "What primary concern prompted the Centre to change the regulation on cough syrup sales?",
-    "options": [
-      "High addiction rates among youth",
-      "Rising cost of raw materials",
-      "Concerns over contaminated syrups",
-      "Increase in seasonal flu cases"
-    ],
-    "correctAnswer": "Concerns over contaminated syrups"
+    "question": "Which type of surveys in India highlight the significant gender disparity in hours dedicated to domestic duties, a reality also observed in Telangana and Andhra Pradesh?",
+    "options": ["Consumer expenditure surveys", "National family health surveys", "Time-use surveys", "Employment-unemployment surveys"],
+    "correctAnswer": "Time-use surveys"
   },
   {
     "id": 4,
-    "question": "What is the main objective behind requiring a doctor's prescription for cough syrups?",
-    "options": [
-      "To boost pharmaceutical company profits",
-      "To simplify the drug distribution process",
-      "To enhance accountability and public health safety",
-      "To reduce the number of medical consultations"
-    ],
-    "correctAnswer": "To enhance accountability and public health safety"
+    "question": "The recent Supreme Court ruling valuing homemakers' work aims to challenge which long-standing issue prevalent across Indian society, including Telangana and Andhra Pradesh?",
+    "options": ["High cost of living", "Lack of educational opportunities", "Devaluation of unpaid domestic labor", "Limited access to healthcare"],
+    "correctAnswer": "Devaluation of unpaid domestic labor"
   },
   {
     "id": 5,
-    "question": "The new cough syrup regulation brings all formulations under what kind of oversight?",
-    "options": [
-      "Experimental regulatory oversight",
-      "State-specific guidelines",
-      "Local municipal health board supervision",
-      "Regular regulatory oversight"
-    ],
-    "correctAnswer": "Regular regulatory oversight"
+    "question": "What estimated portion of India's GDP is considered to be contributed by women's household work, a factor now gaining legal recognition for families in states like Telangana?",
+    "options": ["A negligible portion", "Less than 5%", "A substantial portion", "Over 75%"],
+    "correctAnswer": "A substantial portion"
   },
   {
     "id": 6,
-    "question": "The recent change in cough syrup sales policy aims to enhance accountability and what other aspect in the distribution of these medicines?",
-    "options": [
-      "Profit margins",
-      "Geographic reach",
-      "Public health safety",
-      "Speed of delivery"
-    ],
-    "correctAnswer": "Public health safety"
+    "question": "The Supreme Court's decision to value homemakers' work for compensation acknowledges their role in the economy. This principle is expected to benefit women in which legal contexts, including those arising in Andhra Pradesh?",
+    "options": ["Criminal defense cases", "Property tax disputes", "Motor accident claims and divorce settlements", "Intellectual property rights"],
+    "correctAnswer": "Motor accident claims and divorce settlements"
   },
   {
     "id": 7,
-    "question": "For how long were cough syrups exempted from prescription requirements before the recent policy change?",
-    "options": [
-      "Since 2020",
-      "Only for a few months",
-      "For decades",
-      "Since India's independence"
-    ],
-    "correctAnswer": "For decades"
+    "question": "What societal norm is implicitly addressed and challenged by the Supreme Court's valuation of homemakers' unpaid labor across India, including its impact on families in Telangana?",
+    "options": ["The notion that domestic work has no economic value", "The preference for male heirs in property inheritance", "The lack of public transport for women", "The need for more women in politics"],
+    "correctAnswer": "The notion that domestic work has no economic value"
   },
   {
     "id": 8,
-    "question": "The new regulation on cough syrups applies to which geographical area within India?",
-    "options": [
-      "Only major metropolitan cities",
-      "Select northern states",
-      "Across all of India",
-      "Only union territories"
-    ],
-    "correctAnswer": "Across all of India"
+    "question": "The 'loss of domestic care' as a compensable factor directly recognizes the significant contribution of homemakers to which aspect of family life in states like Andhra Pradesh?",
+    "options": ["Leisure activities", "Political participation", "Family well-being and economic stability", "Religious practices"],
+    "correctAnswer": "Family well-being and economic stability"
   },
   {
     "id": 9,
-    "question": "The concern over contaminated syrups, leading to the policy change, highlights what broader issue in public health?",
-    "options": [
-      "The need for more pharmacies",
-      "The importance of robust drug quality control",
-      "The over-reliance on traditional medicine",
-      "The lack of public awareness campaigns"
-    ],
-    "correctAnswer": "The importance of robust drug quality control"
+    "question": "Beyond monetary compensation, what broader societal shift does the Supreme Court's ruling on homemakers' work signify for gender equality in states such as Telangana?",
+    "options": ["Decreased importance of women's education", "Increased recognition of women's non-monetary contributions", "Reduced need for childcare facilities", "Promotion of traditional gender roles"],
+    "correctAnswer": "Increased recognition of women's non-monetary contributions"
   },
   {
     "id": 10,
-    "question": "What is the implication of cough syrups now requiring a doctor's prescription for the general public?",
-    "options": [
-      "They will become more expensive",
-      "They will be harder to access for self-medication",
-      "They will only be available in government hospitals",
-      "Their effectiveness will decrease"
-    ],
-    "correctAnswer": "They will be harder to access for self-medication"
+    "question": "Which of the following is NOT a direct implication of the Supreme Court's ruling on valuing homemakers' work for families in India, including Telangana and Andhra Pradesh?",
+    "options": ["Enhancing compensatory awards in accident cases", "Recognizing unpaid labor as economic contribution", "Mandatory government salaries for all homemakers", "Challenging gender stereotypes about work"],
+    "correctAnswer": "Mandatory government salaries for all homemakers"
   },
   {
     "id": 11,
-    "question": "What climatic phenomenon poses a significant risk to India's farming this year, according to the news?",
-    "options": [
-      "La Niña",
-      "Arctic Oscillation",
-      "El Niño",
-      "Indian Ocean Dipole"
-    ],
-    "correctAnswer": "El Niño"
+    "question": "Which national entrance examination, crucial for students from Telangana and Andhra Pradesh, led to a temporary ban on the Telegram app due to concerns over exam content circulation?",
+    "options": ["JEE Main", "UPSC Civil Services", "NEET-UG", "CLAT"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 12,
-    "question": "What is the prediction for the monsoon this year in India?",
-    "options": [
-      "Above normal",
-      "Record rainfall",
-      "Below normal",
-      "Highly unpredictable"
-    ],
-    "correctAnswer": "Below normal"
+    "question": "The Russian messaging platform that challenged the Centre's temporary ban in the Delhi High Court, affecting its users including those in Telangana and Andhra Pradesh, is:",
+    "options": ["WhatsApp", "Signal", "Telegram", "Viber"],
+    "correctAnswer": "Telegram"
   },
   {
     "id": 13,
-    "question": "What percentage of monsoon deficit has already impacted sowing in India this year?",
-    "options": [
-      "10%",
-      "25%",
-      "35%",
-      "50%"
-    ],
-    "correctAnswer": "35%"
+    "question": "What was the primary concern cited by the Centre for imposing a temporary ban on Telegram, impacting students preparing for competitive exams in states like Andhra Pradesh?",
+    "options": ["Privacy breaches", "Terrorist communication", "Circulation of exam-related content", "Hate speech dissemination"],
+    "correctAnswer": "Circulation of exam-related content"
   },
   {
     "id": 14,
-    "question": "How has India managed to avoid a dip in grain output despite deficit rain years in the past?",
-    "options": [
-      "By importing all necessary grains",
-      "By implementing measures like expanded irrigation and drought-resistant crops",
-      "By shifting completely to non-agricultural sectors",
-      "Through extensive cloud seeding operations"
-    ],
-    "correctAnswer": "By implementing measures like expanded irrigation and drought-resistant crops"
+    "question": "The Delhi High Court is currently reviewing a challenge against the Centre's ban by a messaging platform. This legal action pertains to which upcoming event, affecting aspiring medical students from Telangana?",
+    "options": ["Board examinations", "NEET-UG re-test", "State PSC exams", "University admissions"],
+    "correctAnswer": "NEET-UG re-test"
   },
   {
     "id": 15,
-    "question": "What specific agricultural measures have been implemented in India to mitigate the impact of droughts?",
-    "options": [
-      "Promotion of industrial farming and greenhouses",
-      "Expanded irrigation and use of drought-resistant crops",
-      "Mass migration of farmers to urban areas",
-      "Reliance on foreign aid for food security"
-    ],
-    "correctAnswer": "Expanded irrigation and use of drought-resistant crops"
+    "question": "The debate around the Telegram ban highlights potential conflicts between national security interests/exam integrity and which fundamental right of citizens, including those in Telangana and Andhra Pradesh?",
+    "options": ["Right to education", "Right to privacy", "Freedom of speech and expression", "Right to assembly"],
+    "correctAnswer": "Freedom of speech and expression"
   },
   {
     "id": 16,
-    "question": "What kind of crops are being increasingly utilized in India to combat the effects of drought?",
-    "options": [
-      "Water-intensive cash crops",
-      "Genetically modified luxury crops",
-      "Drought-resistant crops",
-      "Export-oriented crops"
-    ],
-    "correctAnswer": "Drought-resistant crops"
+    "question": "Which Union Ministry is typically responsible for directives like the ban on messaging platforms for national security or public order reasons, affecting digital users across states including Andhra Pradesh?",
+    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Electronics and Information Technology (MeitY)", "Ministry of Law and Justice"],
+    "correctAnswer": "Ministry of Electronics and Information Technology (MeitY)"
   },
   {
     "id": 17,
-    "question": "What are 'vulnerable states' in India preparing in response to the predicted 'below normal' monsoon?",
-    "options": [
-      "New tourism policies",
-      "Contingency plans",
-      "Industrial expansion projects",
-      "Digital literacy campaigns"
-    ],
-    "correctAnswer": "Contingency plans"
+    "question": "What type of legal intervention is Telegram seeking from the Delhi High Court regarding the Centre's ban, a decision that affects its user base throughout India, including Telangana?",
+    "options": ["A public apology from the government", "Financial compensation for lost business", "Judicial intervention against the restriction", "A new policy framework for social media"],
+    "correctAnswer": "Judicial intervention against the restriction"
   },
   {
     "id": 18,
-    "question": "The ability of India to maintain grain output in deficit years demonstrates what about its agricultural sector?",
-    "options": [
-      "Its complete independence from monsoon",
-      "Its vulnerability to global market fluctuations",
-      "Its resilience and adaptive strategies",
-      "Its declining importance to the economy"
-    ],
-    "correctAnswer": "Its resilience and adaptive strategies"
+    "question": "For students in Telangana and Andhra Pradesh aspiring for medical careers, the NEET-UG examination serves as the gateway for admission to which courses?",
+    "options": ["Engineering and Technology", "Law and Management", "MBBS and BDS", "Arts and Humanities"],
+    "correctAnswer": "MBBS and BDS"
   },
   {
     "id": 19,
-    "question": "What is the primary concern for India's farming due to the 'below normal' monsoon predicted this year?",
-    "options": [
-      "Lack of skilled labor",
-      "Decreased international demand for Indian produce",
-      "Impact on sowing and overall crop yield",
-      "Excessive groundwater levels"
-    ],
-    "correctAnswer": "Impact on sowing and overall crop yield"
+    "question": "The re-test for NEET-UG was necessitated due to issues related to:",
+    "options": ["Changes in exam pattern", "Software glitches", "Alleged paper leaks and irregularities", "Lack of sufficient exam centers"],
+    "correctAnswer": "Alleged paper leaks and irregularities"
   },
   {
     "id": 20,
-    "question": "From what past events has India learned to prepare for current drought risks, as mentioned in the news?",
-    "options": [
-      "Recent industrial recessions",
-      "Historical droughts",
-      "Global pandemics",
-      "Political instability"
-    ],
-    "correctAnswer": "Historical droughts"
+    "question": "What is the full form of NEET, the national examination whose re-test led to the temporary ban on Telegram, impacting students nationwide including those from Andhra Pradesh?",
+    "options": ["National Engineering Entrance Test", "National Eligibility cum Entrance Test", "National Education & Employment Test", "National Examination for Elite Talent"],
+    "correctAnswer": "National Eligibility cum Entrance Test"
   },
   {
     "id": 21,
-    "question": "What role does expanded irrigation play in India's strategy to maintain grain output during deficit rainfall years?",
-    "options": [
-      "It makes farming entirely rain-dependent",
-      "It reduces the need for drought-resistant crops",
-      "It provides alternative water sources for crops",
-      "It only benefits urban areas"
-    ],
-    "correctAnswer": "It provides alternative water sources for crops"
+    "question": "While a specific statement was made by Kerala's CM, the broader issue of states safeguarding their autonomy in shaping educational content, against potential central interference, is a matter of concern for many states including Telangana and Andhra Pradesh. This falls under which aspect of India's federal structure?",
+    "options": ["Union List subjects", "Concurrent List subjects", "State List subjects", "Residuary powers"],
+    "correctAnswer": "State List subjects"
   },
   {
     "id": 22,
-    "question": "The 35% monsoon deficit mentioned in the news has already impacted which crucial agricultural activity?",
-    "options": [
-      "Harvesting",
-      "Crop storage",
-      "Sowing",
-      "Food processing"
-    ],
-    "correctAnswer": "Sowing"
+    "question": "The principle that states like Andhra Pradesh and Telangana have the authority to decide on their school curriculum is rooted in which fundamental aspect of India's governance?",
+    "options": ["Unitary system", "Confederalism", "Federalism", "Monarchy"],
+    "correctAnswer": "Federalism"
   },
   {
     "id": 23,
-    "question": "The 'below normal' monsoon prediction for India is strongly linked to which global weather pattern, as per the news?",
-    "options": [
-      "North Atlantic Oscillation",
-      "Indian Ocean Dipole",
-      "El Niño",
-      "Southern Annular Mode"
-    ],
-    "correctAnswer": "El Niño"
+    "question": "The Supreme Court's ruling on the economic value of homemakers' work draws attention to the often-unaccounted contributions of women to which broader economic metric for states like Telangana and Andhra Pradesh?",
+    "options": ["State Budget Deficit", "Foreign Direct Investment (FDI)", "State Gross Domestic Product (GSDP)", "Balance of Payments"],
+    "correctAnswer": "State Gross Domestic Product (GSDP)"
   },
   {
     "id": 24,
-    "question": "What has been the overall trend in India's grain output despite recent rainfall deficits over the last two years?",
-    "options": [
-      "Significant decline",
-      "Stagnation with no growth",
-      "No dip in output",
-      "Increase in reliance on imports"
-    ],
-    "correctAnswer": "No dip in output"
+    "question": "The recognition of 'loss of domestic care' as compensable primarily addresses situations where a homemaker is unable to perform duties due to what circumstances, directly impacting families in Andhra Pradesh?",
+    "options": ["Relocation to another city", "Retirement from professional work", "Injury or death", "Voluntary reduction of household responsibilities"],
+    "correctAnswer": "Injury or death"
   },
   {
     "id": 25,
-    "question": "The implementation of contingency plans by vulnerable states in India aims to address which primary challenge related to agriculture?",
-    "options": [
-      "Increasing fertilizer prices",
-      "Impact of predicted 'below normal' monsoon",
-      "Labor shortages in farming",
-      "Competition from international markets"
-    ],
-    "correctAnswer": "Impact of predicted 'below normal' monsoon"
+    "question": "The Supreme Court ruling valuing homemakers' work is seen as a significant step towards achieving which Sustainable Development Goal (SDG) in India, relevant to states like Telangana?",
+    "options": ["SDG 1: No Poverty", "SDG 4: Quality Education", "SDG 5: Gender Equality", "SDG 13: Climate Action"],
+    "correctAnswer": "SDG 5: Gender Equality"
   }
 ]

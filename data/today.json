@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Union Minister Pralhad Joshi recently launched a certification portal for which energy initiative, urging states like Telangana and Andhra Pradesh to boost its implementation?",
-    "options": ["Solar Energy Grid", "Green Hydrogen Mission", "Wind Power Expansion", "Nuclear Energy Development"],
-    "correctAnswer": "Green Hydrogen Mission"
-  },
-  {
-    "id": 2,
-    "question": "What is one of the primary goals of India's Green Hydrogen Mission, which states like Telangana and Andhra Pradesh are encouraged to support, to enhance energy security?",
-    "options": ["Increase fossil fuel exports", "Reduce import dependence for energy", "Expand coal mining operations", "Promote thermal power plants"],
-    "correctAnswer": "Reduce import dependence for energy"
-  },
-  {
-    "id": 3,
-    "question": "The Green Hydrogen Mission includes incentives for the domestic production of which key equipment, potentially benefiting manufacturing hubs in states like Andhra Pradesh and Telangana?",
-    "options": ["Solar panels", "Wind turbines", "Electrolysers", "Battery storage"],
-    "correctAnswer": "Electrolysers"
-  },
-  {
-    "id": 4,
-    "question": "In which industrial sector are pilot projects for green hydrogen actively being pursued under the national mission, potentially offering opportunities for states like Andhra Pradesh and Telangana?",
-    "options": ["Textile manufacturing", "Steel sector", "Pharmaceutical industry", "IT services"],
-    "correctAnswer": "Steel sector"
-  },
-  {
-    "id": 5,
-    "question": "The Green Hydrogen Mission aims to secure significant agreements for the supply of green ammonia to which type of plants, important for the agricultural sector in states like Andhra Pradesh?",
-    "options": ["Power generation plants", "Fertilizer plants", "Water treatment plants", "Automobile manufacturing plants"],
-    "correctAnswer": "Fertilizer plants"
-  },
-  {
-    "id": 6,
-    "question": "How can states like Andhra Pradesh, with its long coastline and ports, potentially contribute significantly to India's Green Hydrogen Mission?",
-    "options": ["By developing large-scale coal mines", "By facilitating export and import infrastructure for green hydrogen products", "By focusing solely on thermal power", "By increasing reliance on imported oil"],
-    "correctAnswer": "By facilitating export and import infrastructure for green hydrogen products"
-  },
-  {
-    "id": 7,
-    "question": "What economic benefits are projected for states like Telangana and Andhra Pradesh by actively participating in the national Green Hydrogen Mission?",
-    "options": ["Decline in industrial output", "Increased energy insecurity", "Investment, job creation, and energy security", "Reduced focus on renewable energy"],
-    "correctAnswer": "Investment, job creation, and energy security"
-  },
-  {
-    "id": 8,
-    "question": "What general trend was observed in the recent national rankings of Industrial Training Institutes (ITIs) across India, which impacts the skilled workforce development in states like Telangana and Andhra Pradesh?",
-    "options": ["Significant decline", "Stagnation", "Overall improvement", "No change reported"],
-    "correctAnswer": "Overall improvement"
-  },
-  {
-    "id": 9,
-    "question": "Improved national ITI rankings signify a positive development in which area of the Indian education and skill development system, relevant to creating a skilled workforce in states like Andhra Pradesh and Telangana?",
-    "options": ["Higher education research", "Vocational training and skill development", "Primary school enrollment", "Arts and humanities programs"],
-    "correctAnswer": "Vocational training and skill development"
-  },
-  {
-    "id": 10,
-    "question": "How do improved national ITI rankings indirectly benefit states such as Telangana and Andhra Pradesh?",
-    "options": ["By increasing the number of unskilled laborers", "By providing a larger pool of skilled workers for local industries", "By reducing the need for industrial development", "By solely focusing on academic achievements"],
-    "correctAnswer": "By providing a larger pool of skilled workers for local industries"
-  },
-  {
-    "id": 11,
-    "question": "Which national entrance examination recently required the Indian Air Force (IAF) to airlift retest papers to 18 zones across the country, affecting students in states like Telangana and Andhra Pradesh?",
-    "options": ["JEE Advanced", "UPSC Civil Services", "NEET-UG", "GATE"],
+    "question": "What recent national examination has been marred by a widespread paper leak scandal, leading to significant scrutiny of India's examination infrastructure?",
+    "options": ["UPSC Civil Services Exam", "JEE Main", "NEET-UG", "CAT Exam"],
     "correctAnswer": "NEET-UG"
   },
   {
+    "id": 2,
+    "question": "Which government body's grading mishaps were highlighted in the context of the recent NEET-UG paper leak scandal, revealing systemic weaknesses?",
+    "options": ["NTA", "CBSE", "UGC", "AICTE"],
+    "correctAnswer": "CBSE"
+  },
+  {
+    "id": 3,
+    "question": "The fallout from the NEET-UG paper leak has raised significant questions about the integrity and systemic weaknesses in which crucial national framework?",
+    "options": ["India's judicial system", "India's public health system", "India's examination infrastructure", "India's economic policies"],
+    "correctAnswer": "India's examination infrastructure"
+  },
+  {
+    "id": 4,
+    "question": "Which state was specifically mentioned in the news for facing logistical challenges that contributed to the issues surrounding the NEET-UG examination?",
+    "options": ["Uttar Pradesh", "Maharashtra", "Bihar", "West Bengal"],
+    "correctAnswer": "Bihar"
+  },
+  {
+    "id": 5,
+    "question": "Which digital platform did the government defend restricting access to, citing its use for mass dissemination of unlawful examination-related content ahead of the NEET retest?",
+    "options": ["WhatsApp", "Signal", "Telegram", "Facebook"],
+    "correctAnswer": "Telegram"
+  },
+  {
+    "id": 6,
+    "question": "The government referred to which messaging application as the 'new dark web' in an affidavit defending its temporary restriction ahead of the NEET-UG retest?",
+    "options": ["Instagram", "Telegram", "Twitter", "Snapchat"],
+    "correctAnswer": "Telegram"
+  },
+  {
+    "id": 7,
+    "question": "What specific date was mentioned for the NEET-UG retest, preceding the government's temporary restriction on the Telegram app?",
+    "options": ["June 15", "June 21", "July 1", "July 7"],
+    "correctAnswer": "June 21"
+  },
+  {
+    "id": 8,
+    "question": "The NEET-UG paper leak incident has prompted critical questions regarding equity, responsibility, and confidence in what specific national system?",
+    "options": ["National defense", "Higher education admission", "Public sector employment", "Agricultural policies"],
+    "correctAnswer": "Higher education admission"
+  },
+  {
+    "id": 9,
+    "question": "Which national-level medical entrance examination recently faced widespread controversies concerning paper leaks and grading irregularities?",
+    "options": ["AIIMS Entrance Exam", "JIPMER Entrance Exam", "NEET-UG", "AFMC Entrance Exam"],
+    "correctAnswer": "NEET-UG"
+  },
+  {
+    "id": 10,
+    "question": "The government's defense for restricting Telegram ahead of the NEET retest primarily focused on the app's capability to facilitate what?",
+    "options": ["Political dissent", "International espionage", "Mass dissemination of unlawful examination content", "Financial fraud"],
+    "correctAnswer": "Mass dissemination of unlawful examination content"
+  },
+  {
+    "id": 11,
+    "question": "What is identified as a primary concern stemming from the recent NEET-UG paper leak, impacting the examination system?",
+    "options": ["Lack of qualified invigilators", "Systemic weaknesses and disruption", "Insufficient number of exam centers", "High examination fees"],
+    "correctAnswer": "Systemic weaknesses and disruption"
+  },
+  {
     "id": 12,
-    "question": "Approximately how many sorties did the Indian Air Force (IAF) fly to ensure the secure and timely delivery of NEET-UG retest papers across the nation?",
-    "options": ["50", "100", "200", "500"],
-    "correctAnswer": "200"
+    "question": "Besides paper leaks, the NEET scandal also highlighted issues related to which other aspect of the examination process mentioned in the news?",
+    "options": ["Question paper design flaws", "Delayed results", "Grading mishaps", "Lack of transparency in admissions"],
+    "correctAnswer": "Grading mishaps"
   },
   {
     "id": 13,
-    "question": "The IAF's involvement in transporting NEET-UG retest papers highlights the importance of what aspect in conducting nationwide examinations, including those in Andhra Pradesh and Telangana?",
-    "options": ["Digital-only examinations", "Efficient and secure logistics", "Decentralized question paper creation", "Local language examination only"],
-    "correctAnswer": "Efficient and secure logistics"
+    "question": "The government filed an affidavit in response to Telegram's legal challenge concerning which action related to the app?",
+    "options": ["Imposition of new taxes", "Permanent ban", "Temporary restriction of access", "Data privacy regulations"],
+    "correctAnswer": "Temporary restriction of access"
   },
   {
     "id": 14,
-    "question": "The European Commission President stated that an India-EU Free Trade Agreement (FTA) is expected to be signed by when, impacting trade for all Indian states, including Andhra Pradesh and Telangana?",
-    "options": ["Next decade", "Mid-year", "Year-end", "Early next year"],
-    "correctAnswer": "Year-end"
+    "question": "What does the acronym NEET-UG stand for, referring to the national medical entrance exam recently in the news?",
+    "options": ["National Eligibility Entrance Test - Undergraduate", "New Education Evaluation Test - University Graduates", "National Engineering Entrance Test - Unified Group", "National Examination for Educational Technology - Undergraduate"],
+    "correctAnswer": "National Eligibility Entrance Test - Undergraduate"
   },
   {
     "id": 15,
-    "question": "Which important economic corridor, potentially benefiting southern states of India like Andhra Pradesh through enhanced connectivity, was also discussed at the G7 summit alongside the India-EU FTA?",
-    "options": ["East-West Industrial Corridor", "India-Middle East-Europe Economic Corridor", "Trans-Siberian Corridor", "African Growth Corridor"],
-    "correctAnswer": "India-Middle East-Europe Economic Corridor"
+    "question": "Which organization is primarily responsible for conducting the NEET-UG examination across India?",
+    "options": ["CBSE", "UGC", "National Testing Agency (NTA)", "Ministry of Education"],
+    "correctAnswer": "National Testing Agency (NTA)"
   },
   {
     "id": 16,
-    "question": "How could the anticipated India-EU Free Trade Agreement positively impact the agricultural and seafood export sectors of Andhra Pradesh?",
-    "options": ["By increasing import duties on agricultural products", "By opening new markets and reducing tariffs for exports", "By restricting trade to domestic markets", "By promoting only unprocessed goods"],
-    "correctAnswer": "By opening new markets and reducing tariffs for exports"
+    "question": "The Pradhan Mantri Ujjwala Yojana (PMUY) was launched in India in which year?",
+    "options": ["2014", "2015", "2016", "2017"],
+    "correctAnswer": "2016"
   },
   {
     "id": 17,
-    "question": "What potential benefit could Telangana's thriving IT and pharmaceutical sectors gain from the India-EU Free Trade Agreement?",
-    "options": ["Reduced access to European markets", "Increased competition from local EU producers", "Greater market access and investment opportunities in Europe", "Stricter non-tariff barriers"],
-    "correctAnswer": "Greater market access and investment opportunities in Europe"
+    "question": "What is the primary objective of the Pradhan Mantri Ujjwala Yojana (PMUY)?",
+    "options": ["To provide free electricity connections", "To promote digital literacy", "To provide clean cooking fuel to low-income households", "To offer housing subsidies"],
+    "correctAnswer": "To provide clean cooking fuel to low-income households"
   },
   {
     "id": 18,
-    "question": "At which international summit did Prime Minister Modi and EU leaders discuss the upcoming India-EU Free Trade Agreement and the India-Middle East-Europe Economic Corridor?",
-    "options": ["BRICS Summit", "G20 Summit", "G7 Summit", "ASEAN Summit"],
-    "correctAnswer": "G7 Summit"
+    "question": "The Pradhan Mantri Ujjwala Yojana (PMUY) is primarily designed to benefit which segment of the population?",
+    "options": ["High-income urban families", "Medium-income agricultural workers", "Low-income households", "Government employees"],
+    "correctAnswer": "Low-income households"
   },
   {
     "id": 19,
-    "question": "What term gained popularity on social media to describe the growing bonhomie between PM Modi and Italian PM Giorgia Meloni, which has translated into stronger bilateral ties?",
-    "options": ["Modioni", "Melodi", "IndoItaly", "G7Duo"],
-    "correctAnswer": "Melodi"
+    "question": "What type of traditional, harmful cooking fuel does the PMUY scheme aim to replace with cleaner alternatives?",
+    "options": ["Kerosene", "Firewood and dung cakes", "Coal", "Electric stoves"],
+    "correctAnswer": "Firewood and dung cakes"
   },
   {
     "id": 20,
-    "question": "The improved relationship between India and Italy has been elevated to what kind of partnership, impacting various sectors including defense and trade for all states?",
-    "options": ["Friendly Alliance", "Economic Partnership", "Special Strategic Partnership", "Cultural Exchange Program"],
-    "correctAnswer": "Special Strategic Partnership"
+    "question": "Beyond providing clean fuel, what other significant benefits does the PMUY scheme aim to achieve, particularly for women?",
+    "options": ["Financial independence and entrepreneurship", "Improved health and elevated social status", "Access to better education", "Enhanced political participation"],
+    "correctAnswer": "Improved health and elevated social status"
   },
   {
     "id": 21,
-    "question": "What are two key areas that have seen a boost due to the strengthening ties between India and Italy, potentially benefiting industrial states like Andhra Pradesh and Telangana?",
-    "options": ["Tourism and education", "Bilateral trade and defense ties", "Space exploration and fisheries", "Art and literature exchanges"],
-    "correctAnswer": "Bilateral trade and defense ties"
+    "question": "Which state was specifically highlighted in the news for the prominent success and widespread implementation of the Pradhan Mantri Ujjwala Yojana (PMUY)?",
+    "options": ["Bihar", "Rajasthan", "Uttar Pradesh", "Madhya Pradesh"],
+    "correctAnswer": "Uttar Pradesh"
   },
   {
     "id": 22,
-    "question": "What is the primary focus of the revitalized defense ties between India and Italy, offering opportunities for states with defense manufacturing capabilities like Andhra Pradesh?",
-    "options": ["Import of finished defense goods", "Co-development and industrial collaboration", "Joint military exercises only", "Selling surplus equipment"],
-    "correctAnswer": "Co-development and industrial collaboration"
+    "question": "The PMUY scheme contributes to environmental sustainability by encouraging the use of which cleaner cooking option?",
+    "options": ["Solar energy", "Biogas", "LPG (Liquefied Petroleum Gas)", "Natural Gas"],
+    "correctAnswer": "LPG (Liquefied Petroleum Gas)"
   },
   {
     "id": 23,
-    "question": "How might the 'Special Strategic Partnership' between India and Italy impact the shipbuilding and port infrastructure development in coastal states like Andhra Pradesh?",
-    "options": ["No direct impact", "Decreased foreign investment", "Potential for increased maritime trade and defense-related infrastructure projects", "Shift towards air transport"],
-    "correctAnswer": "Potential for increased maritime trade and defense-related infrastructure projects"
+    "question": "What does the acronym PMUY stand for?",
+    "options": ["Pradhan Mantri Utthan Yojana", "Pradhan Mantri Ujala Yojana", "Pradhan Mantri Ujjwala Yojana", "Pradhan Mantri Unnati Yojana"],
+    "correctAnswer": "Pradhan Mantri Ujjwala Yojana"
   },
   {
     "id": 24,
-    "question": "What specific aspect of the Green Hydrogen certification portal launched by Union Minister Joshi aims to facilitate its adoption and growth in all states, including Telangana and Andhra Pradesh?",
-    "options": ["Imposing strict new taxes", "Streamlining regulations", "Limiting access to only a few states", "Discouraging private investment"],
-    "correctAnswer": "Streamlining regulations"
+    "question": "The PMUY initiative aims to improve women's health by reducing their exposure to what harmful element typically associated with traditional cooking fuels?",
+    "options": ["Chemical additives", "Indoor air pollution", "Contaminated water", "Unsafe handling of fuel"],
+    "correctAnswer": "Indoor air pollution"
   },
   {
     "id": 25,
-    "question": "What key strategy is the Green Hydrogen Mission adopting to promote domestic production and reduce reliance on imports, relevant for industrial growth in states like Telangana and Andhra Pradesh?",
-    "options": ["Imposing high import tariffs on green hydrogen", "Providing incentives for electrolyser production", "Limiting green hydrogen usage to specific regions", "Exporting all domestically produced hydrogen"],
-    "correctAnswer": "Providing incentives for electrolyser production"
+    "question": "The Pradhan Mantri Ujjwala Yojana is described as a 'game-changer' for its positive impact on what aspect of low-income households?",
+    "options": ["Digital connectivity", "Access to clean water", "Access to cleaner cooking options and women's well-being", "Agricultural productivity"],
+    "correctAnswer": "Access to cleaner cooking options and women's well-being"
   }
 ]

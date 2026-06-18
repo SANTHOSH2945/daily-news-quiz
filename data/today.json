@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What recent national examination has been marred by a widespread paper leak scandal, leading to significant scrutiny of India's examination infrastructure?",
-    "options": ["UPSC Civil Services Exam", "JEE Main", "NEET-UG", "CAT Exam"],
-    "correctAnswer": "NEET-UG"
+    "question": "Which central investigative agency recently filed a chargesheet against Naxal operative Gade Innaiah for inciting violence, a phenomenon historically linked to regions like Telangana and Andhra Pradesh?",
+    "options": ["CBI", "ED", "NIA", "NCB"],
+    "correctAnswer": "NIA"
   },
   {
     "id": 2,
-    "question": "Which government body's grading mishaps were highlighted in the context of the recent NEET-UG paper leak scandal, revealing systemic weaknesses?",
-    "options": ["NTA", "CBSE", "UGC", "AICTE"],
-    "correctAnswer": "CBSE"
+    "question": "Naxal operative Gade Innaiah was charged for aggressively promoting which specific beliefs, known to be a concern in states like Telangana and Andhra Pradesh?",
+    "options": ["Gandhian principles", "Maoist ideology", "Socialist democracy", "Capitalist economics"],
+    "correctAnswer": "Maoist ideology"
   },
   {
     "id": 3,
-    "question": "The fallout from the NEET-UG paper leak has raised significant questions about the integrity and systemic weaknesses in which crucial national framework?",
-    "options": ["India's judicial system", "India's public health system", "India's examination infrastructure", "India's economic policies"],
-    "correctAnswer": "India's examination infrastructure"
+    "question": "According to the news, Naxal operative Gade Innaiah was charged by the NIA for inciting a crowd during what specific event, a common setting for such activities in affected regions of India including Telangana and Andhra Pradesh?",
+    "options": ["A political rally", "A public festival", "A funeral gathering", "A student protest"],
+    "correctAnswer": "A funeral gathering"
   },
   {
     "id": 4,
-    "question": "Which state was specifically mentioned in the news for facing logistical challenges that contributed to the issues surrounding the NEET-UG examination?",
-    "options": ["Uttar Pradesh", "Maharashtra", "Bihar", "West Bengal"],
-    "correctAnswer": "Bihar"
+    "question": "In his alleged incitement, Naxal operative Gade Innaiah criticized which specific group, according to the news, a tactic often used in Naxal-affected areas like parts of Telangana and Andhra Pradesh?",
+    "options": ["Government officials", "Industrialists", "Former rebels who had surrendered", "Religious leaders"],
+    "correctAnswer": "Former rebels who had surrendered"
   },
   {
     "id": 5,
-    "question": "Which digital platform did the government defend restricting access to, citing its use for mass dissemination of unlawful examination-related content ahead of the NEET retest?",
-    "options": ["WhatsApp", "Signal", "Telegram", "Facebook"],
-    "correctAnswer": "Telegram"
+    "question": "The actions of Naxal operative Gade Innaiah are believed to have fueled which specific form of extremism, a challenge historically faced by states like Andhra Pradesh and Telangana?",
+    "options": ["Right-wing extremism", "Religious extremism", "Left-wing extremism", "Cyber extremism"],
+    "correctAnswer": "Left-wing extremism"
   },
   {
     "id": 6,
-    "question": "The government referred to which messaging application as the 'new dark web' in an affidavit defending its temporary restriction ahead of the NEET-UG retest?",
-    "options": ["Instagram", "Telegram", "Twitter", "Snapchat"],
-    "correctAnswer": "Telegram"
+    "question": "While Rajya Sabha elections recently made news in Jharkhand and Mizoram, how many seats does the state of Telangana currently have in the Rajya Sabha?",
+    "options": ["7", "11", "18", "24"],
+    "correctAnswer": "7"
   },
   {
     "id": 7,
-    "question": "What specific date was mentioned for the NEET-UG retest, preceding the government's temporary restriction on the Telegram app?",
-    "options": ["June 15", "June 21", "July 1", "July 7"],
-    "correctAnswer": "June 21"
+    "question": "Following recent Rajya Sabha elections highlighted in the news, how many seats does the state of Andhra Pradesh currently have in the Rajya Sabha?",
+    "options": ["7", "11", "18", "24"],
+    "correctAnswer": "11"
   },
   {
     "id": 8,
-    "question": "The NEET-UG paper leak incident has prompted critical questions regarding equity, responsibility, and confidence in what specific national system?",
-    "options": ["National defense", "Higher education admission", "Public sector employment", "Agricultural policies"],
-    "correctAnswer": "Higher education admission"
+    "question": "Drawing parallels from Uttar Pradesh's Mukhyamantri Bal Seva Yojana, which broader government department in Telangana is primarily responsible for implementing child welfare initiatives for vulnerable children?",
+    "options": ["Health Department", "Education Department", "Women Development and Child Welfare Department", "Rural Development Department"],
+    "correctAnswer": "Women Development and Child Welfare Department"
   },
   {
     "id": 9,
-    "question": "Which national-level medical entrance examination recently faced widespread controversies concerning paper leaks and grading irregularities?",
-    "options": ["AIIMS Entrance Exam", "JIPMER Entrance Exam", "NEET-UG", "AFMC Entrance Exam"],
-    "correctAnswer": "NEET-UG"
+    "question": "Following the model of child welfare schemes like the one mentioned in Uttar Pradesh, which state government in India, bordering Telangana, has its own robust initiatives for child protection and development?",
+    "options": ["Karnataka", "Odisha", "Andhra Pradesh", "Maharashtra"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 10,
-    "question": "The government's defense for restricting Telegram ahead of the NEET retest primarily focused on the app's capability to facilitate what?",
-    "options": ["Political dissent", "International espionage", "Mass dissemination of unlawful examination content", "Financial fraud"],
-    "correctAnswer": "Mass dissemination of unlawful examination content"
+    "question": "Discussions around Dalit concerns and social justice are significant nationwide. Which specific welfare scheme has the Andhra Pradesh government implemented, in part, for the upliftment and economic empowerment of SC/ST women?",
+    "options": ["Amma Vodi", "YSR Cheyutha", "Pedalandariki Illu", "Jagananna Vidya Deevena"],
+    "correctAnswer": "YSR Cheyutha"
   },
   {
     "id": 11,
-    "question": "What is identified as a primary concern stemming from the recent NEET-UG paper leak, impacting the examination system?",
-    "options": ["Lack of qualified invigilators", "Systemic weaknesses and disruption", "Insufficient number of exam centers", "High examination fees"],
-    "correctAnswer": "Systemic weaknesses and disruption"
+    "question": "In the context of national discussions on Dalit welfare, which prominent Telangana government scheme aims at providing financial assistance for SC/ST families for their specific social and economic development?",
+    "options": ["KCR Kits", "Dharani Portal", "Dalit Bandhu", "Mission Bhagiratha"],
+    "correctAnswer": "Dalit Bandhu"
   },
   {
     "id": 12,
-    "question": "Besides paper leaks, the NEET scandal also highlighted issues related to which other aspect of the examination process mentioned in the news?",
-    "options": ["Question paper design flaws", "Delayed results", "Grading mishaps", "Lack of transparency in admissions"],
-    "correctAnswer": "Grading mishaps"
+    "question": "Given the national concerns over exam irregularities and paper leaks, which major state-level examination board in Telangana is responsible for conducting intermediate and other significant exams for students?",
+    "options": ["CBSE", "TSPSC", "Telangana State Board of Intermediate Education", "NTA"],
+    "correctAnswer": "Telangana State Board of Intermediate Education"
   },
   {
     "id": 13,
-    "question": "The government filed an affidavit in response to Telegram's legal challenge concerning which action related to the app?",
-    "options": ["Imposition of new taxes", "Permanent ban", "Temporary restriction of access", "Data privacy regulations"],
-    "correctAnswer": "Temporary restriction of access"
+    "question": "Following national protests against exam paper leaks, which state body in Andhra Pradesh is primarily responsible for conducting recruitment examinations for various government posts, and has faced scrutiny over such issues in the past?",
+    "options": ["APPSC", "APSCHE", "Andhra University", "JNTU"],
+    "correctAnswer": "APPSC"
   },
   {
     "id": 14,
-    "question": "What does the acronym NEET-UG stand for, referring to the national medical entrance exam recently in the news?",
-    "options": ["National Eligibility Entrance Test - Undergraduate", "New Education Evaluation Test - University Graduates", "National Engineering Entrance Test - Unified Group", "National Examination for Educational Technology - Undergraduate"],
-    "correctAnswer": "National Eligibility Entrance Test - Undergraduate"
+    "question": "Rahul Gandhi's 'Chhatron Ki Goonj' petition addresses unemployment, a critical issue across India. Which government initiative in Telangana specifically aims to foster innovation and entrepreneurship, indirectly contributing to youth employment?",
+    "options": ["Rythu Bandhu", "T-Hub", "WE-Hub", "Mission Kakatiya"],
+    "correctAnswer": "T-Hub"
   },
   {
     "id": 15,
-    "question": "Which organization is primarily responsible for conducting the NEET-UG examination across India?",
-    "options": ["CBSE", "UGC", "National Testing Agency (NTA)", "Ministry of Education"],
-    "correctAnswer": "National Testing Agency (NTA)"
+    "question": "In response to national concerns about unemployment and education, what major program in Andhra Pradesh focuses on skill development and vocational training to enhance youth employability?",
+    "options": ["YSR Rythu Bharosa", "Jagananna Vidya Deevena", "AP Skill Development Corporation (APSSDC)", "Amma Vodi"],
+    "correctAnswer": "AP Skill Development Corporation (APSSDC)"
   },
   {
     "id": 16,
-    "question": "The Pradhan Mantri Ujjwala Yojana (PMUY) was launched in India in which year?",
-    "options": ["2014", "2015", "2016", "2017"],
-    "correctAnswer": "2016"
+    "question": "While a survey shows national optimism about the economy, which sector is a primary contributor to Telangana's state economy and job growth, especially in the Hyderabad region?",
+    "options": ["Agriculture", "IT and ITES", "Mining", "Fisheries"],
+    "correctAnswer": "IT and ITES"
   },
   {
     "id": 17,
-    "question": "What is the primary objective of the Pradhan Mantri Ujjwala Yojana (PMUY)?",
-    "options": ["To provide free electricity connections", "To promote digital literacy", "To provide clean cooking fuel to low-income households", "To offer housing subsidies"],
-    "correctAnswer": "To provide clean cooking fuel to low-income households"
+    "question": "According to general economic trends in India, which sector forms the backbone of Andhra Pradesh's economy, being a major employer and contributor to its Gross State Domestic Product (GSDP)?",
+    "options": ["Manufacturing", "Tourism", "Agriculture and allied sectors", "Financial Services"],
+    "correctAnswer": "Agriculture and allied sectors"
   },
   {
     "id": 18,
-    "question": "The Pradhan Mantri Ujjwala Yojana (PMUY) is primarily designed to benefit which segment of the population?",
-    "options": ["High-income urban families", "Medium-income agricultural workers", "Low-income households", "Government employees"],
-    "correctAnswer": "Low-income households"
+    "question": "The national survey highlights corruption as a top concern. Which anti-corruption agency primarily functions at the state level in Telangana to combat corruption among government officials?",
+    "options": ["CBI", "ED", "Anti-Corruption Bureau (ACB)", "NIA"],
+    "correctAnswer": "Anti-Corruption Bureau (ACB)"
   },
   {
     "id": 19,
-    "question": "What type of traditional, harmful cooking fuel does the PMUY scheme aim to replace with cleaner alternatives?",
-    "options": ["Kerosene", "Firewood and dung cakes", "Coal", "Electric stoves"],
-    "correctAnswer": "Firewood and dung cakes"
+    "question": "Similar to national concerns about corruption, which state-level body in Andhra Pradesh is responsible for investigating corruption charges against public servants and promoting transparency?",
+    "options": ["Lokayukta", "Central Vigilance Commission", "Enforcement Directorate", "Andhra Pradesh Crime Investigation Department (CID)"],
+    "correctAnswer": "Lokayukta"
   },
   {
     "id": 20,
-    "question": "Beyond providing clean fuel, what other significant benefits does the PMUY scheme aim to achieve, particularly for women?",
-    "options": ["Financial independence and entrepreneurship", "Improved health and elevated social status", "Access to better education", "Enhanced political participation"],
-    "correctAnswer": "Improved health and elevated social status"
+    "question": "Following recent Rajya Sabha elections and political discussions highlighted in national news, which political party currently holds power in Telangana?",
+    "options": ["BJP", "Congress", "BRS", "MIM"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 21,
-    "question": "Which state was specifically highlighted in the news for the prominent success and widespread implementation of the Pradhan Mantri Ujjwala Yojana (PMUY)?",
-    "options": ["Bihar", "Rajasthan", "Uttar Pradesh", "Madhya Pradesh"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "In the context of national political dynamics and alliances, which party currently leads the government in Andhra Pradesh?",
+    "options": ["TDP", "YSRCP", "Janasena", "BJP"],
+    "correctAnswer": "YSRCP"
   },
   {
     "id": 22,
-    "question": "The PMUY scheme contributes to environmental sustainability by encouraging the use of which cleaner cooking option?",
-    "options": ["Solar energy", "Biogas", "LPG (Liquefied Petroleum Gas)", "Natural Gas"],
-    "correctAnswer": "LPG (Liquefied Petroleum Gas)"
+    "question": "The news mentions political discourse involving an MP and a minister. In Telangana, who is the current Chief Minister?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "G. Kishan Reddy"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 23,
-    "question": "What does the acronym PMUY stand for?",
-    "options": ["Pradhan Mantri Utthan Yojana", "Pradhan Mantri Ujala Yojana", "Pradhan Mantri Ujjwala Yojana", "Pradhan Mantri Unnati Yojana"],
-    "correctAnswer": "Pradhan Mantri Ujjwala Yojana"
+    "question": "The national news highlights various political figures. Who is the current Chief Minister of Andhra Pradesh?",
+    "options": ["Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan", "N. Kiran Kumar Reddy"],
+    "correctAnswer": "Y. S. Jagan Mohan Reddy"
   },
   {
     "id": 24,
-    "question": "The PMUY initiative aims to improve women's health by reducing their exposure to what harmful element typically associated with traditional cooking fuels?",
-    "options": ["Chemical additives", "Indoor air pollution", "Contaminated water", "Unsafe handling of fuel"],
-    "correctAnswer": "Indoor air pollution"
+    "question": "The general political landscape includes discussions on national parties. Which major national party, having been mentioned in the context of Rajya Sabha elections in other states, also has a significant presence and contests elections in Telangana and Andhra Pradesh?",
+    "options": ["BJD", "AAP", "Congress", "JD(U)"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 25,
-    "question": "The Pradhan Mantri Ujjwala Yojana is described as a 'game-changer' for its positive impact on what aspect of low-income households?",
-    "options": ["Digital connectivity", "Access to clean water", "Access to cleaner cooking options and women's well-being", "Agricultural productivity"],
-    "correctAnswer": "Access to cleaner cooking options and women's well-being"
+    "question": "Discussions regarding general governance and political issues are widespread across India. Which legislative structure is characteristic of both Telangana and Andhra Pradesh, having both an Assembly and a Council, compared to some other states which are unicameral?",
+    "options": ["Legislative Assembly only", "Legislative Council only", "Both Legislative Assembly and Legislative Council", "None of the above"],
+    "correctAnswer": "Both Legislative Assembly and Legislative Council"
   }
 ]

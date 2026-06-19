@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the approved interest rate for Provident Fund (PF) as per recent news?",
-    "options": ["7.50%", "8.00%", "8.25%", "9.00%"],
-    "correctAnswer": "8.25%"
+    "question": "Which national medical entrance examination recently saw a retest for a significant number of candidates across India?",
+    "options": ["JEE Advanced", "NEET-UG", "AIIMS Entrance", "UPSC CMS"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 2,
-    "question": "Which digital payment method will enable Provident Fund (PF) withdrawals starting from July?",
-    "options": ["RTGS", "NEFT", "UPI", "IMPS"],
-    "correctAnswer": "UPI"
+    "question": "The recent re-examination process for NEET-UG primarily pertains to which field of study?",
+    "options": ["Engineering", "Law", "Medical", "Management"],
+    "correctAnswer": "Medical"
   },
   {
     "id": 3,
-    "question": "From which month will the new UPI facility for Provident Fund (PF) withdrawals be available?",
-    "options": ["June", "July", "August", "September"],
-    "correctAnswer": "July"
+    "question": "What percentage of candidates for the NEET-UG retest were noted to come from just three states, highlighting regional concentration?",
+    "options": ["25.1%", "34.4%", "41.8%", "50.0%"],
+    "correctAnswer": "34.4%"
   },
   {
     "id": 4,
-    "question": "What percentage interest has been given a nod for Provident Fund (PF) accounts?",
-    "options": ["8.15%", "8.25%", "8.35%", "8.45%"],
-    "correctAnswer": "8.25%"
+    "question": "The high number of NEET-UG re-exam candidates from certain regions indicates a significant demand for entrance into which type of educational institutions nationwide?",
+    "options": ["IITs", "IIMs", "Medical Colleges", "Law Universities"],
+    "correctAnswer": "Medical Colleges"
   },
   {
     "id": 5,
-    "question": "What financial scheme is associated with the 8.25% interest rate and UPI withdrawals from July?",
-    "options": ["Public Provident Fund (PPF)", "National Pension System (NPS)", "Atal Pension Yojana (APY)", "Provident Fund (PF)"],
-    "correctAnswer": "Provident Fund (PF)"
+    "question": "The controversy surrounding the NEET-UG exam and subsequent retest highlights the national importance of ensuring what in competitive examinations?",
+    "options": ["Regional quotas", "Exam integrity and fairness", "Reduced syllabus", "Increased application fees"],
+    "correctAnswer": "Exam integrity and fairness"
   },
   {
     "id": 6,
-    "question": "The withdrawal of Provident Fund (PF) through UPI is slated to begin in which specific month?",
-    "options": ["April", "July", "October", "January"],
-    "correctAnswer": "July"
+    "question": "Which digital communication platform was recently involved in a high court challenge regarding a temporary ban in India?",
+    "options": ["WhatsApp", "Signal", "Telegram", "Discord"],
+    "correctAnswer": "Telegram"
   },
   {
     "id": 7,
-    "question": "What is the precise interest rate approved for Provident Fund (PF) according to recent reports?",
-    "options": ["Seven and a half percent", "Eight percent", "Eight and a quarter percent", "Nine percent"],
-    "correctAnswer": "Eight and a quarter percent"
+    "question": "The high court's questioning of curtailing user rights on a digital platform related to an exam highlights concerns about what national principle?",
+    "options": ["Freedom of association", "Right to privacy and digital access", "Right to education", "Freedom of speech and expression"],
+    "correctAnswer": "Right to privacy and digital access"
   },
   {
     "id": 8,
-    "question": "Which major digital payment system is being integrated for easier Provident Fund (PF) withdrawals?",
-    "options": ["Net Banking", "Credit Cards", "UPI", "Cheques"],
-    "correctAnswer": "UPI"
+    "question": "How many users were cited by the high court as potentially having their rights curtailed due to a temporary ban on a digital platform in India?",
+    "options": ["50 million", "100 million", "150 million", "200 million"],
+    "correctAnswer": "150 million"
   },
   {
     "id": 9,
-    "question": "The new feature for Provident Fund (PF) withdrawals via UPI is scheduled for implementation in which part of the year?",
-    "options": ["First quarter", "Second quarter", "Third quarter", "Fourth quarter"],
-    "correctAnswer": "Third quarter"
+    "question": "The Centre described the architecture of the digital platform involved in the ban controversy as a 'Frankenstein' due to its perceived susceptibility to what?",
+    "options": ["High data consumption", "Lack of user-friendly interface", "Misuse and evidence deletion", "Frequent server outages"],
+    "correctAnswer": "Misuse and evidence deletion"
   },
   {
     "id": 10,
-    "question": "What specific financial benefit for Provident Fund (PF) has received official approval recently?",
-    "options": ["Increased loan eligibility", "8.25% interest rate", "Tax exemption on all withdrawals", "Higher employer contribution"],
-    "correctAnswer": "8.25% interest rate"
+    "question": "The legal challenge regarding the temporary ban on a digital platform underscores the ongoing debate in India concerning government oversight versus which fundamental aspect of online communication?",
+    "options": ["Commercial viability", "User engagement", "Network infrastructure", "Data security and user autonomy"],
+    "correctAnswer": "Data security and user autonomy"
   },
   {
     "id": 11,
-    "question": "Which new method of withdrawal for Provident Fund is starting in July?",
-    "options": ["ATM withdrawal", "Cheque withdrawal", "UPI withdrawal", "Physical application"],
-    "correctAnswer": "UPI withdrawal"
+    "question": "Which country's petroleum minister is set to visit India next week, indicating discussions on energy cooperation?",
+    "options": ["Saudi Arabia", "Russia", "Iran", "Qatar"],
+    "correctAnswer": "Iran"
   },
   {
     "id": 12,
-    "question": "How much interest has been 'given a nod' for Provident Fund?",
-    "options": ["Less than 8%", "Exactly 8.25%", "More than 8.5%", "Between 7% and 8%"],
-    "correctAnswer": "Exactly 8.25%"
+    "question": "The visit of a petroleum minister from a key oil-producing nation to India primarily focuses on which sector of bilateral relations?",
+    "options": ["Defence", "Agriculture", "Energy", "Tourism"],
+    "correctAnswer": "Energy"
   },
   {
     "id": 13,
-    "question": "When does the option to 'Withdraw PF via UPI' become active?",
-    "options": ["From June onwards", "From July onwards", "From August onwards", "From September onwards"],
-    "correctAnswer": "From July onwards"
+    "question": "Such high-level visits by petroleum ministers are crucial for India's national interest in ensuring what?",
+    "options": ["Cultural exchange", "Technological advancements", "Energy security and stable supply", "Sports collaboration"],
+    "correctAnswer": "Energy security and stable supply"
   },
   {
     "id": 14,
-    "question": "What is the newly approved feature for Provident Fund withdrawals, aimed at convenience?",
-    "options": ["Mandatory physical application", "UPI enabled withdrawals", "Reduced interest rate on withdrawals", "Increased processing fee"],
-    "correctAnswer": "UPI enabled withdrawals"
+    "question": "The discussions with Iran's petroleum minister are part of India's broader strategy to diversify its sources for which critical resource?",
+    "options": ["Rare earth metals", "Crude oil and natural gas", "Agricultural products", "Semiconductor chips"],
+    "correctAnswer": "Crude oil and natural gas"
   },
   {
     "id": 15,
-    "question": "What rate of return for Provident Fund has been recently finalized?",
-    "options": ["Under 8%", "Exactly 8.25%", "Over 9%", "Variable based on market"],
-    "correctAnswer": "Exactly 8.25%"
+    "question": "Which country's foreign minister is slated to attend the BRICS National Security Advisors (NSA) meet in Delhi?",
+    "options": ["Brazil", "South Africa", "Russia", "China"],
+    "correctAnswer": "China"
   },
   {
     "id": 16,
-    "question": "What proportion of lawyers in India are estimated to be fake, as per recent reports?",
-    "options": ["1 in 2", "1 in 3", "1 in 4", "1 in 5"],
-    "correctAnswer": "1 in 3"
+    "question": "The upcoming BRICS NSA meet in Delhi will involve discussions on what critical national aspect?",
+    "options": ["Economic development", "Cultural exchange programs", "National security", "Environmental policies"],
+    "correctAnswer": "National security"
   },
   {
     "id": 17,
-    "question": "Which apex court is considering a digital registry for lawyers to verify their authenticity?",
-    "options": ["High Courts", "District Courts", "Supreme Court", "Tribunals"],
-    "correctAnswer": "Supreme Court"
+    "question": "The attendance of a foreign minister at the BRICS NSA meet underscores India's engagement in which type of international cooperation?",
+    "options": ["Regional trade blocs", "Military alliances", "Multilateral strategic and security dialogues", "Bilateral cultural festivals"],
+    "correctAnswer": "Multilateral strategic and security dialogues"
   },
   {
     "id": 18,
-    "question": "What kind of system is the Supreme Court planning to implement for lawyers, similar to Aadhaar?",
-    "options": ["Biometric attendance system", "Digital identity card", "Digital registry", "Online legal aid portal"],
-    "correctAnswer": "Digital registry"
+    "question": "BRICS is an acronym for an association of major emerging national economies. What does 'BRICS' stand for?",
+    "options": ["Britain, Russia, India, Canada, Spain", "Brazil, Russia, India, China, South Africa", "Belgium, Romania, Ireland, Cyprus, Sweden", "Bangladesh, Rwanda, Indonesia, Cambodia, Sudan"],
+    "correctAnswer": "Brazil, Russia, India, China, South Africa"
   },
   {
     "id": 19,
-    "question": "Approximately what percentage of lawyers in India are reported as fake?",
-    "options": ["25%", "33%", "40%", "50%"],
-    "correctAnswer": "33%"
+    "question": "The city hosting the BRICS National Security Advisors meet, according to the news, is a significant political and administrative center in India. Which city is it?",
+    "options": ["Mumbai", "Bengaluru", "Kolkata", "Delhi"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 20,
-    "question": "What is the Supreme Court's proposed solution to address the issue of fake lawyers?",
-    "options": ["Increased fines for fraud", "Mandatory re-examination", "Implementation of a digital registry", "Suspending Bar Council elections"],
-    "correctAnswer": "Implementation of a digital registry"
+    "question": "India has made significant progress on an interim Free Trade Agreement (FTA) with which major global economy?",
+    "options": ["European Union", "United States", "Japan", "Australia"],
+    "correctAnswer": "United States"
   },
   {
     "id": 21,
-    "question": "The planned Aadhaar-like system for lawyers aims to create what?",
-    "options": ["A centralized legal database", "A digital registry of legal practitioners", "A platform for online hearings", "An arbitration portal"],
-    "correctAnswer": "A digital registry of legal practitioners"
+    "question": "An interim FTA typically aims to achieve what between two trading partners?",
+    "options": ["Complete economic merger", "Temporary suspension of all trade", "Expedited and simplified trade liberalization", "Establishment of a single currency"],
+    "correctAnswer": "Expedited and simplified trade liberalization"
   },
   {
     "id": 22,
-    "question": "What issue concerning the legal profession is the Supreme Court primarily addressing with its new initiative?",
-    "options": ["Lack of judicial infrastructure", "High legal fees", "Presence of fake lawyers", "Delay in case proceedings"],
-    "correctAnswer": "Presence of fake lawyers"
+    "question": "The progress on an interim FTA with the US suggests India's commitment to enhancing what aspect of its national economy?",
+    "options": ["Domestic self-sufficiency", "Export-led growth and international trade", "Import substitution", "Centralized economic planning"],
+    "correctAnswer": "Export-led growth and international trade"
   },
   {
     "id": 23,
-    "question": "Which Indian identification system is referenced as a model for the lawyers' registry being considered by the Supreme Court?",
-    "options": ["PAN", "Voter ID", "Passport", "Aadhaar"],
-    "correctAnswer": "Aadhaar"
+    "question": "For India, securing such trade agreements as the interim US FTA is vital for fostering economic growth and creating opportunities across various states, including which regions known for IT and pharmaceuticals?",
+    "options": ["Gujarat and Maharashtra", "Punjab and Haryana", "Telangana and Andhra Pradesh", "Bihar and Jharkhand"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 24,
-    "question": "According to the headline, what fraction of the legal fraternity is reportedly fake?",
-    "options": ["One-half", "One-third", "One-fourth", "One-fifth"],
-    "correctAnswer": "One-third"
+    "question": "According to PM Modi, what is the core principle that Artificial Intelligence (AI) must adhere to for India?",
+    "options": ["Profit-centric", "Government-centric", "Human-centric", "Technology-centric"],
+    "correctAnswer": "Human-centric"
   },
   {
     "id": 25,
-    "question": "What new initiative is the Supreme Court exploring to verify lawyers' credentials and weed out fake practitioners?",
-    "options": ["Annual verification camps", "Compulsory re-enrollment", "A digital registry", "Physical document audits"],
-    "correctAnswer": "A digital registry"
+    "question": "PM Modi articulated India's vision for AI using the phrase 'AI is ______', emphasizing its broad applicability and benefit across society.",
+    "options": ["Advanced Intelligence", "All Inclusive", "Automated Innovation", "Artificial Ingenuity"],
+    "correctAnswer": "All Inclusive"
   }
 ]

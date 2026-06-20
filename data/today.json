@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which country recently hosted a crucial BRICS security conclave in New Delhi?",
-    "options": ["Russia", "China", "India", "South Africa"],
-    "correctAnswer": "India"
+    "question": "What is one of the key technological measures implemented for the NEET-UG re-exam across India, including states like Telangana and Andhra Pradesh, to enhance security?",
+    "options": ["AI-monitored CCTV feeds", "Satellite tracking of candidates", "Drone surveillance in examination halls", "Underground fiber-optic networks"],
+    "correctAnswer": "AI-monitored CCTV feeds"
   },
   {
     "id": 2,
-    "question": "What were the primary discussion points at the recent BRICS security conclave hosted by India?",
-    "options": ["Economic sanctions and trade agreements", "Global flashpoints, regional security, and terrorism", "Climate change and sustainable development", "Space exploration and digital currency regulation"],
-    "correctAnswer": "Global flashpoints, regional security, and terrorism"
+    "question": "Which Indian defence force is involved in the logistics for transporting NEET-UG question papers to examination centers nationwide, including regions like Andhra Pradesh?",
+    "options": ["Indian Air Force (IAF)", "Indian Army", "Indian Navy", "Border Security Force (BSF)"],
+    "correctAnswer": "Indian Air Force (IAF)"
   },
   {
     "id": 3,
-    "question": "Who among the following Indian officials hosted the BRICS security conclave in New Delhi?",
-    "options": ["S. Jaishankar", "Ajit Doval", "Rajnath Singh", "Nirmala Sitharaman"],
-    "correctAnswer": "Ajit Doval"
+    "question": "The NEET-UG re-exam, affecting students in states such as Telangana, implemented a ban on which messaging platform during the examination period to prevent malpractices?",
+    "options": ["WhatsApp", "Telegram", "Signal", "Viber"],
+    "correctAnswer": "Telegram"
   },
   {
     "id": 4,
-    "question": "In which Indian Union Territory was a new Standard Operating Procedure (SOP) released for sea turtle conservation?",
-    "options": ["Andaman and Nicobar Islands", "Puducherry", "Lakshadweep", "Daman and Diu"],
-    "correctAnswer": "Lakshadweep"
+    "question": "For the NEET-UG re-exam conducted across India, approximately how many CCTV cameras were deployed to ensure security and prevent malpractice?",
+    "options": ["Over 13,500", "Around 5,000", "Less than 1,000", "Exactly 20,000"],
+    "correctAnswer": "Over 13,500"
   },
   {
     "id": 5,
-    "question": "How many major sea turtle species are targeted for protection under the new SOP launched in Lakshadweep?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Four"
+    "question": "What is a crucial security measure implemented for candidate identification at NEET-UG re-exam centers in all states, including Andhra Pradesh?",
+    "options": ["Biometric verification", "Aadhaar card only", "Manual photo matching", "Voter ID verification"],
+    "correctAnswer": "Biometric verification"
   },
   {
     "id": 6,
-    "question": "What has been a significant positive outcome of the decade-long ban on poaching in Lakshadweep, as mentioned in the news?",
-    "options": ["Increase in dolphin populations", "Boost in green turtle populations", "Rise in coral reef health", "Decline in plastic pollution"],
-    "correctAnswer": "Boost in green turtle populations"
+    "question": "To ensure the integrity of the NEET-UG re-exam, which security measure was deployed to disrupt unauthorized communication within examination premises?",
+    "options": ["Mobile network jammers", "Signal boosters", "Wi-Fi hotspots", "Bluetooth devices"],
+    "correctAnswer": "Mobile network jammers"
   },
   {
     "id": 7,
-    "question": "What was the initial cause of the recent protests that emerged in Pakistan-occupied Kashmir (PoK)?",
-    "options": ["Demand for separate statehood", "Economic discontent over rising electricity costs and inflation", "Protests against military presence", "Calls for reunification with India"],
-    "correctAnswer": "Economic discontent over rising electricity costs and inflation"
+    "question": "What kind of drills were conducted prior to the NEET-UG re-exam across India, including Telangana, to ensure smooth execution of security protocols?",
+    "options": ["Mock drills", "Fire drills", "Medical emergency drills", "Evacuation drills"],
+    "correctAnswer": "Mock drills"
   },
   {
     "id": 8,
-    "question": "Beyond economic grievances, what political reform demand emerged from the PoK protests?",
-    "options": ["Demand for direct rule from Islamabad", "Elimination of reserved seats for refugees in the PoK assembly", "Greater autonomy for local councils", "Referendum on regional independence"],
-    "correctAnswer": "Elimination of reserved seats for refugees in the PoK assembly"
+    "question": "Besides advanced technology, what physical forces were deployed extensively for the NEET-UG re-exam security nationwide?",
+    "options": ["Police and paramilitary forces", "Private security guards", "National Cadet Corps (NCC)", "Home Guards"],
+    "correctAnswer": "Police and paramilitary forces"
   },
   {
     "id": 9,
-    "question": "The recent unrest in PoK is seen as exposing governance challenges that undermine which country's image as a peace broker?",
-    "options": ["Afghanistan", "China", "Pakistan", "Iran"],
-    "correctAnswer": "Pakistan"
+    "question": "The comprehensive security plan for the NEET-UG re-exam aims to ensure what kind of examination process across India?",
+    "options": ["Fair and secure", "Fast and efficient", "Technologically advanced", "Economically viable"],
+    "correctAnswer": "Fair and secure"
   },
   {
     "id": 10,
-    "question": "Shashi Tharoor recently faced criticism from the Congress party over remarks related to which political leader?",
-    "options": ["Rahul Gandhi", "Sonia Gandhi", "Narendra Modi", "Mallikarjun Kharge"],
-    "correctAnswer": "Narendra Modi"
+    "question": "The NEET-UG re-exam's stringent preparations across India, including states like Andhra Pradesh, focused on preventing what common issue?",
+    "options": ["Paper leaks and malpractices", "Traffic congestion", "Climate change impact", "Lack of seating capacity"],
+    "correctAnswer": "Paper leaks and malpractices"
   },
   {
     "id": 11,
-    "question": "What specific issue was Shashi Tharoor reportedly discussing with reference to PM Modi and US President Donald Trump?",
-    "options": ["Trade agreements", "Climate change initiatives", "Civilian sailors", "Space cooperation"],
-    "correctAnswer": "Civilian sailors"
+    "question": "Approximately how many jammers were mentioned as being deployed for the NEET-UG re-exam across India?",
+    "options": ["51,000", "13,500", "8,500", "214"],
+    "correctAnswer": "51,000"
   },
   {
     "id": 12,
-    "question": "What public health initiative in India is anticipated to deliver 'zero cervical cancer deaths in vaccinated young women' according to a Lancet study?",
-    "options": ["National AIDS Control Programme", "Pulse Polio Immunization", "India's HPV drive", "Tuberculosis Eradication Mission"],
-    "correctAnswer": "India's HPV drive"
+    "question": "The re-examination for NEET-UG, held on June 21, is primarily a response to issues related to:",
+    "options": ["Logistical delays", "Question paper leakage", "Technical glitches in online exams", "Protest by student unions"],
+    "correctAnswer": "Question paper leakage"
   },
   {
     "id": 13,
-    "question": "The Lancet study offers early clues about the potential impact of India's drive against which disease?",
-    "options": ["Diabetes", "Malaria", "Cervical cancer", "Heart disease"],
-    "correctAnswer": "Cervical cancer"
+    "question": "On what specific date was the NEET-UG re-exam scheduled for across India, affecting all participating states?",
+    "options": ["June 21", "July 1", "August 15", "September 5"],
+    "correctAnswer": "June 21"
   },
   {
     "id": 14,
-    "question": "What type of vaccination is central to India's public health drive aiming to prevent cervical cancer?",
-    "options": ["Influenza vaccine", "HPV vaccine", "Hepatitis B vaccine", "Tetanus vaccine"],
-    "correctAnswer": "HPV vaccine"
+    "question": "Which agency is primarily responsible for the conduct of the NEET-UG examination in India?",
+    "options": ["National Testing Agency (NTA)", "UGC", "CBSE", "AICTE"],
+    "correctAnswer": "National Testing Agency (NTA)"
   },
   {
     "id": 15,
-    "question": "Priyank Kharge, a politician from which Indian state, recently defended his letter regarding security concerns related to RSS marches?",
-    "options": ["Kerala", "Karnataka", "Telangana", "Uttar Pradesh"],
-    "correctAnswer": "Karnataka"
+    "question": "NEET-UG is primarily an entrance examination for admission to which field of study in India?",
+    "options": ["Medical courses", "Engineering courses", "Law courses", "Management courses"],
+    "correctAnswer": "Medical courses"
   },
   {
     "id": 16,
-    "question": "Which organization's marches in Karnataka were cited by Priyank Kharge in his defense regarding security concerns?",
-    "options": ["Bajrang Dal", "Popular Front of India (PFI)", "Rashtriya Swayamsevak Sangh (RSS)", "Communist Party of India (Marxist)"],
-    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
+    "question": "An Indian captain was recently detained in the UK for breaching sanctions, with his vessel en route to India. Which of the following major ports in Andhra Pradesh could potentially be a destination for such cargo vessels?",
+    "options": ["Visakhapatnam Port", "Mumbai Port", "Kolkata Port", "Chennai Port"],
+    "correctAnswer": "Visakhapatnam Port"
   },
   {
     "id": 17,
-    "question": "Which international body recently removed its negative travel advisory for the Indian state of Assam?",
-    "options": ["United Nations", "World Health Organization", "European Union", "ASEAN"],
-    "correctAnswer": "European Union"
+    "question": "The Indian captain detained in the UK was accused of breaching sanctions related to which country's oil tanker?",
+    "options": ["Russia", "Iran", "Venezuela", "North Korea"],
+    "correctAnswer": "Russia"
   },
   {
     "id": 18,
-    "question": "Which Indian state's Chief Minister announced that discussions are underway with the US and Canada for similar revisions to their travel guidance, following the EU's move?",
-    "options": ["West Bengal", "Arunachal Pradesh", "Assam", "Meghalaya"],
-    "correctAnswer": "Assam"
+    "question": "The vessel commanded by the detained Indian captain was found to be stateless. In which body of water was it intercepted by UK authorities?",
+    "options": ["English Channel", "Strait of Hormuz", "Suez Canal", "Malacca Strait"],
+    "correctAnswer": "English Channel"
   },
   {
     "id": 19,
-    "question": "Despite the removal of the EU travel advisory, which specific areas in Assam remain excluded due to the Armed Forces (Special Powers) Act (AFSPA)?",
-    "options": ["Kaziranga National Park", "Guwahati city", "Three districts", "All border regions"],
-    "correctAnswer": "Three districts"
+    "question": "Three Indian-flagged ships recently navigated safely through the Strait of Hormuz. This route is crucial for which Indian states that rely significantly on maritime trade and imports?",
+    "options": ["Andhra Pradesh and Telangana", "Uttar Pradesh and Madhya Pradesh", "Punjab and Haryana", "Rajasthan and Bihar"],
+    "correctAnswer": "Andhra Pradesh and Telangana"
   },
   {
     "id": 20,
-    "question": "In which Indian state did PM Modi recently make a statement alleging efforts were made to make it part of Pakistan?",
-    "options": ["Bihar", "Odisha", "West Bengal", "Assam"],
-    "correctAnswer": "West Bengal"
+    "question": "The safe passage of Indian-flagged ships through the Strait of Hormuz is vital for India's energy security. Which of the following is a major refinery or energy hub in Andhra Pradesh that benefits from such secure trade routes?",
+    "options": ["Visakhapatnam Refinery", "Panipat Refinery", "Kochi Refinery", "Mangalore Refinery"],
+    "correctAnswer": "Visakhapatnam Refinery"
   },
   {
     "id": 21,
-    "question": "Which political party was criticized by PM Modi in Tarakeswar regarding alleged historical efforts to make Bengal part of Pakistan?",
-    "options": ["Bharatiya Janata Party (BJP)", "Trinamool Congress (TMC)", "Indian National Congress", "Communist Party of India (Marxist)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "The Strait of Hormuz, a key international waterway for global trade including Indian shipping, connects the Persian Gulf with which larger body of water?",
+    "options": ["Arabian Sea", "Red Sea", "Bay of Bengal", "Mediterranean Sea"],
+    "correctAnswer": "Arabian Sea"
   },
   {
     "id": 22,
-    "question": "Sovandeb Chattopadhyay, a senior MLA from which Indian state, is involved in a signature forgery case probe?",
-    "options": ["Odisha", "Bihar", "West Bengal", "Jharkhand"],
-    "correctAnswer": "West Bengal"
+    "question": "India's maritime sector is crucial for its economy, with major ports located along its extensive coastline. Which of the following is a prominent port city in Andhra Pradesh playing a vital role in India's trade?",
+    "options": ["Visakhapatnam", "Kochi", "Paradip", "Mormugao"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 23,
-    "question": "Sovandeb Chattopadhyay is a senior MLA from which political party in West Bengal?",
-    "options": ["Communist Party of India (Marxist)", "Bharatiya Janata Party (BJP)", "All India Trinamool Congress (TMC)", "Indian National Congress"],
-    "correctAnswer": "All India Trinamool Congress (TMC)"
+    "question": "The Indian government is actively involved in ensuring the safety of its citizens abroad, as seen in cases involving Indian seafarers. What is the primary ministry responsible for diplomatic efforts to secure the release of Indian nationals overseas?",
+    "options": ["Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Defence", "Ministry of Commerce"],
+    "correctAnswer": "Ministry of External Affairs"
   },
   {
     "id": 24,
-    "question": "Which Indian organization, responsible for conducting competitive examinations, recently clarified about a candidate who received an Abu Dhabi exam centre?",
-    "options": ["UPSC", "SSC", "NTA", "CBSE"],
-    "correctAnswer": "NTA"
+    "question": "India is enhancing its digital infrastructure for various services, including examination security. Which city in Telangana is widely recognized as a major IT and technology hub, driving digital advancements in the region?",
+    "options": ["Hyderabad", "Warangal", "Kurnool", "Vijayawada"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 25,
-    "question": "The National Testing Agency (NTA) recently clarified an issue regarding a candidate's selection of an exam center in which international city?",
-    "options": ["Dubai", "Doha", "Riyadh", "Abu Dhabi"],
-    "correctAnswer": "Abu Dhabi"
+    "question": "The Indian government promotes various skill development programs to empower its youth. Considering the emphasis on technology in recent national initiatives, which city in Andhra Pradesh is emerging as a technology and educational hub for skill development?",
+    "options": ["Visakhapatnam", "Guntur", "Nellore", "Tirupati"],
+    "correctAnswer": "Visakhapatnam"
   }
 ]

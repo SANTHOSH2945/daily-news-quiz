@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The recent news highlights a re-exam for which national medical entrance test in India?",
-    "options": ["JEE Advanced", "NEET (UG)", "CLAT", "UPSC Civil Services"],
-    "correctAnswer": "NEET (UG)"
+    "question": "What is India's current Total Fertility Rate (TFR) mentioned in recent reports?",
+    "options": ["2.5 children per woman", "2.1 children per woman", "1.9 children per woman", "1.5 children per woman"],
+    "correctAnswer": "1.9 children per woman"
   },
   {
     "id": 2,
-    "question": "What specific measure was intensified across exam centres for the NEET (UG) re-exam mock drill, according to the news?",
-    "options": ["Digital learning tools", "Security", "Transport facilities", "Refreshment services"],
-    "correctAnswer": "Security"
+    "question": "India's Total Fertility Rate (TFR) dropping below the replacement level implies what demographic trend?",
+    "options": ["Rapid population growth", "Population stabilization", "Potential population decline in the long term", "Increased mortality rates"],
+    "correctAnswer": "Potential population decline in the long term"
   },
   {
     "id": 3,
-    "question": "What does 'NEET' primarily stand for in the context of Indian medical education?",
-    "options": ["National Engineering Entrance Test", "National Eligibility cum Entrance Test", "New Educational Excellence Test", "National Examination for Emerging Talent"],
-    "correctAnswer": "National Eligibility cum Entrance Test"
+    "question": "Which factor is NOT cited in recent reports as a reason for India's declining fertility rate?",
+    "options": ["Women's increased educational attainment", "Career focus among women", "Later marriages", "Government-mandated population control policies"],
+    "correctAnswer": "Government-mandated population control policies"
   },
   {
     "id": 4,
-    "question": "The re-exam for NEET (UG) signifies what general concern in the Indian education sector?",
-    "options": ["Lack of qualified teachers", "Issues related to exam integrity", "Insufficient medical seats", "High cost of education"],
-    "correctAnswer": "Issues related to exam integrity"
+    "question": "The evolving narrative regarding India's population, as per recent reports, is shifting from population control to what?",
+    "options": ["Mandatory family planning", "Individual choices about family planning", "Incentivized larger families", "Increased immigration"],
+    "correctAnswer": "Individual choices about family planning"
   },
   {
     "id": 5,
-    "question": "Who is typically responsible for conducting the NEET (UG) examination in India?",
-    "options": ["UGC", "AICTE", "NTA", "CBSE"],
-    "correctAnswer": "NTA"
+    "question": "How might the national trend of falling fertility rates, as reported, eventually impact the demographic structure of South Indian states like Telangana and Andhra Pradesh?",
+    "options": ["Lead to an increase in youth population", "Result in an aging population and potential labor shortages", "Cause a rapid decrease in life expectancy", "Boost the rural population significantly"],
+    "correctAnswer": "Result in an aging population and potential labor shortages"
   },
   {
     "id": 6,
-    "question": "Which political leader recently criticized the Central government over the issue of inflation?",
-    "options": ["Rahul Gandhi", "Shashi Tharoor", "Mallikarjun Kharge", "Eknath Shinde"],
-    "correctAnswer": "Mallikarjun Kharge"
+    "question": "Which national-level medical entrance examination has been in the news for requiring a re-exam after recent controversies?",
+    "options": ["JEE Advanced", "UPSC CSE", "NEET", "CAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 7,
-    "question": "Mallikarjun Kharge's criticism was primarily directed at the Central government regarding which economic concern?",
-    "options": ["Unemployment", "Poverty", "Inflation", "Trade deficit"],
-    "correctAnswer": "Inflation"
+    "question": "Who urged the government to prevent glitches ahead of the NEET re-exam, highlighting student stress?",
+    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 8,
-    "question": "What political party does Mallikarjun Kharge lead at the national level?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Shiv Sena (UBT)", "Trinamool Congress (TMC)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "A NEET candidate from which Indian city was involved in a clarification regarding an Abu Dhabi exam centre?",
+    "options": ["Nagpur", "Nasik", "Bengaluru", "Hyderabad"],
+    "correctAnswer": "Nasik"
   },
   {
     "id": 9,
-    "question": "According to the news, what accusation did Mallikarjun Kharge level against the BJP in the context of people's economic struggles?",
-    "options": ["Funding illegal activities", "Neglecting rural development", "'Buying parties'", "Increasing taxes unfairly"],
-    "correctAnswer": "'Buying parties'"
+    "question": "According to the NTA, how was the change of NEET exam center to Abu Dhabi for a candidate reportedly processed?",
+    "options": ["Through NTA administrative error", "Candidate's own registered login credentials", "Via a third-party agent", "Due to a technical glitch in the NTA portal"],
+    "correctAnswer": "Candidate's own registered login credentials"
   },
   {
     "id": 10,
-    "question": "What is the general impact of high inflation on the common people in India, as implied by Kharge's statement?",
-    "options": ["Increased purchasing power", "Difficulty affording necessities", "Boost in savings", "Lower interest rates"],
-    "correctAnswer": "Difficulty affording necessities"
+    "question": "The ongoing issues with the NEET examination directly affect aspirants from which professional courses in states like Telangana and Andhra Pradesh?",
+    "options": ["Engineering and Technology", "Medical and Dental", "Law and Management", "Arts and Humanities"],
+    "correctAnswer": "Medical and Dental"
   },
   {
     "id": 11,
-    "question": "Who was recently elected as the Vice President of the Financial Action Task Force (FATF)?",
-    "options": ["Shashi Tharoor", "Vivek Aggarwal", "Sanjay Raut", "Mallikarjun Kharge"],
-    "correctAnswer": "Vivek Aggarwal"
+    "question": "What was the primary concern raised by Rahul Gandhi regarding the NEET re-exam?",
+    "options": ["Lack of exam centers", "High examination fees", "Need for a reliable examination system", "Insufficient study material"],
+    "correctAnswer": "Need for a reliable examination system"
   },
   {
     "id": 12,
-    "question": "What does FATF primarily aim to combat globally, a concern relevant to India's financial integrity?",
-    "options": ["Climate change and global warming", "Money laundering and terrorist financing", "International trade imbalances", "Cyber warfare and data theft"],
-    "correctAnswer": "Money laundering and terrorist financing"
+    "question": "The NTA claimed the specific exam center change was previewed how many times from the candidate's login credentials?",
+    "options": ["Once", "Twice", "Thrice", "Not at all"],
+    "correctAnswer": "Twice"
   },
   {
     "id": 13,
-    "question": "India achieving a significant leadership role in FATF with Vivek Aggarwal's election underscores the country's commitment to what?",
-    "options": ["Promoting tourism", "Combating illicit financial systems", "Expanding space exploration", "Enhancing cultural exchanges"],
-    "correctAnswer": "Combating illicit financial systems"
+    "question": "Despite its records, what action did the NTA state it took regarding the aspirant's request for a center change?",
+    "options": ["Rejected the request outright", "Imposed a penalty on the candidate", "Accorded to the aspirant’s request", "Forwarded the request to another body"],
+    "correctAnswer": "Accorded to the aspirant’s request"
   },
   {
     "id": 14,
-    "question": "Before his election as FATF Vice President, Vivek Aggarwal's extensive experience included leading India's delegation to FATF and heading which specific unit?",
-    "options": ["Reserve Bank of India", "Securities and Exchange Board of India", "Financial Intelligence Unit", "National Investigation Agency"],
-    "correctAnswer": "Financial Intelligence Unit"
+    "question": "Which Member of Parliament from Hyderabad, Telangana, called for Pakistan to be put back on the FATF grey list?",
+    "options": ["K. Chandrashekar Rao", "Asaduddin Owaisi", "Jagan Mohan Reddy", "Bandaru Dattatreya"],
+    "correctAnswer": "Asaduddin Owaisi"
   },
   {
     "id": 15,
-    "question": "What is the full form of FATF?",
-    "options": ["Federal Anti-Terrorism Foundation", "Financial Accounting and Taxation Forum", "Financial Action Task Force", "Foreign Assets Tracking Facility"],
-    "correctAnswer": "Financial Action Task Force"
+    "question": "Asaduddin Owaisi, who recently made statements regarding FATF, is the President of which political party primarily based in Telangana?",
+    "options": ["Telugu Desam Party (TDP)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)", "Indian National Congress (INC)"],
+    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
   },
   {
     "id": 16,
-    "question": "What was the average annual number of pedestrians killed on Indian roads between 2019 and 2024, as per the news?",
-    "options": ["15,000", "20,500", "30,500", "40,000"],
-    "correctAnswer": "30,500"
+    "question": "The call by Asaduddin Owaisi to put Pakistan back on the FATF grey list was made after an Indian was elected to what position within FATF?",
+    "options": ["President", "Director-General", "Vice President", "Secretary"],
+    "correctAnswer": "Vice President"
   },
   {
     "id": 17,
-    "question": "The reported statistic on pedestrian deaths highlights a critical concern in India related to what aspect of daily life?",
-    "options": ["Air pollution", "Public transport efficiency", "Road safety", "Urban planning"],
-    "correctAnswer": "Road safety"
+    "question": "What does the acronym FATF stand for, as mentioned in connection with Asaduddin Owaisi's recent statement?",
+    "options": ["Financial Action Task Force", "Federal Anti-Terrorism Foundation", "Foreign Aid and Trade Fund", "Fiscal Accountability and Transparency Forum"],
+    "correctAnswer": "Financial Action Task Force"
   },
   {
     "id": 18,
-    "question": "The period covered by the average pedestrian death statistic mentioned in the news is from which year to which year?",
-    "options": ["2015-2020", "2017-2022", "2019-2024", "2020-2025"],
-    "correctAnswer": "2019-2024"
+    "question": "Increased educational attainment and later marriages are cited as contributing factors to which societal transition in India?",
+    "options": ["Rising unemployment rates", "Decline in agricultural productivity", "Shift towards individual choices about family planning", "Increased rural-urban migration"],
+    "correctAnswer": "Shift towards individual choices about family planning"
   },
   {
     "id": 19,
-    "question": "Which group of road users is primarily impacted by the high number of fatalities mentioned in the news across India?",
-    "options": ["Cyclists", "Motorcyclists", "Pedestrians", "Car passengers"],
-    "correctAnswer": "Pedestrians"
+    "question": "What kind of demographic challenge might India face if its TFR continues to remain below the replacement level?",
+    "options": ["Youth bulge leading to social unrest", "Sustained population explosion", "An aging population requiring increased social support", "A sudden increase in infant mortality"],
+    "correctAnswer": "An aging population requiring increased social support"
   },
   {
     "id": 20,
-    "question": "What general category of incidents do these fatalities fall under, affecting daily life across all Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Natural disasters", "Industrial accidents", "Road accidents", "Public health crises"],
-    "correctAnswer": "Road accidents"
+    "question": "The widespread stress faced by students due to examination glitches, as highlighted by Rahul Gandhi, points to a need for a more reliable system in which national body responsible for major entrance exams?",
+    "options": ["UPSC", "NTA", "SSC", "AICTE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 21,
-    "question": "Which company's digital arm is set to launch India's largest-ever IPO, aiming to raise up to $4 billion?",
-    "options": ["Airtel", "Vodafone Idea", "Jio Platforms", "BSNL"],
-    "correctAnswer": "Jio Platforms"
+    "question": "The declining birth rate in India reflects a shift towards more personal choices regarding what aspect of life?",
+    "options": ["Career paths", "Residential location", "Family planning and size", "Dietary habits"],
+    "correctAnswer": "Family planning and size"
   },
   {
     "id": 22,
-    "question": "What is the estimated value of Jio Platforms' upcoming IPO, touted as India's biggest ever?",
-    "options": ["$1 billion", "$2 billion", "$4 billion", "$10 billion"],
-    "correctAnswer": "$4 billion"
+    "question": "Asaduddin Owaisi, a prominent figure in Indian politics, represents which major city constituency in Telangana?",
+    "options": ["Secunderabad", "Warangal", "Hyderabad", "Karimnagar"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 23,
-    "question": "Jio Platforms is the digital arm of which major Indian conglomerate?",
-    "options": ["Tata Group", "Adani Group", "Reliance Industries", "Mahindra Group"],
-    "correctAnswer": "Reliance Industries"
+    "question": "Beyond conducting exams, what is the government's responsibility emphasized by Rahul Gandhi concerning student welfare during national examinations like NEET?",
+    "options": ["Providing free coaching classes", "Ensuring glitch-free and fair conduct", "Offering guaranteed job placements", "Waiving examination fees for all"],
+    "correctAnswer": "Ensuring glitch-free and fair conduct"
   },
   {
     "id": 24,
-    "question": "What is one of the primary purposes for which the proceeds from Jio Platforms' IPO are earmarked, according to the news?",
-    "options": ["International expansion", "Debt reduction", "Employee bonuses", "Charitable donations"],
-    "correctAnswer": "Debt reduction"
+    "question": "What is generally considered the replacement level of Total Fertility Rate (TFR) for a stable population, which India's current TFR is below?",
+    "options": ["1.0", "1.5", "2.1", "3.0"],
+    "correctAnswer": "2.1"
   },
   {
     "id": 25,
-    "question": "What does the acronym 'IPO' stand for in the context of the Indian stock market?",
-    "options": ["International Public Offering", "Initial Public Order", "Indian Private Ownership", "Initial Public Offering"],
-    "correctAnswer": "Initial Public Offering"
+    "question": "The recent NEET issues have primarily added what burden on students across India, including those in Telangana and Andhra Pradesh?",
+    "options": ["Increased tuition fees", "Additional academic pressure and mental stress", "Requirement to learn new subjects", "Longer duration of study programs"],
+    "correctAnswer": "Additional academic pressure and mental stress"
   }
 ]

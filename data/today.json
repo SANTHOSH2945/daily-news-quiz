@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is India's current Total Fertility Rate (TFR) mentioned in recent reports?",
-    "options": ["2.5 children per woman", "2.1 children per woman", "1.9 children per woman", "1.5 children per woman"],
-    "correctAnswer": "1.9 children per woman"
+    "question": "Which country recently hosted a crucial BRICS security conclave in New Delhi?",
+    "options": ["Russia", "China", "India", "South Africa"],
+    "correctAnswer": "India"
   },
   {
     "id": 2,
-    "question": "India's Total Fertility Rate (TFR) dropping below the replacement level implies what demographic trend?",
-    "options": ["Rapid population growth", "Population stabilization", "Potential population decline in the long term", "Increased mortality rates"],
-    "correctAnswer": "Potential population decline in the long term"
+    "question": "What were the primary discussion points at the recent BRICS security conclave hosted by India?",
+    "options": ["Economic sanctions and trade agreements", "Global flashpoints, regional security, and terrorism", "Climate change and sustainable development", "Space exploration and digital currency regulation"],
+    "correctAnswer": "Global flashpoints, regional security, and terrorism"
   },
   {
     "id": 3,
-    "question": "Which factor is NOT cited in recent reports as a reason for India's declining fertility rate?",
-    "options": ["Women's increased educational attainment", "Career focus among women", "Later marriages", "Government-mandated population control policies"],
-    "correctAnswer": "Government-mandated population control policies"
+    "question": "Who among the following Indian officials hosted the BRICS security conclave in New Delhi?",
+    "options": ["S. Jaishankar", "Ajit Doval", "Rajnath Singh", "Nirmala Sitharaman"],
+    "correctAnswer": "Ajit Doval"
   },
   {
     "id": 4,
-    "question": "The evolving narrative regarding India's population, as per recent reports, is shifting from population control to what?",
-    "options": ["Mandatory family planning", "Individual choices about family planning", "Incentivized larger families", "Increased immigration"],
-    "correctAnswer": "Individual choices about family planning"
+    "question": "In which Indian Union Territory was a new Standard Operating Procedure (SOP) released for sea turtle conservation?",
+    "options": ["Andaman and Nicobar Islands", "Puducherry", "Lakshadweep", "Daman and Diu"],
+    "correctAnswer": "Lakshadweep"
   },
   {
     "id": 5,
-    "question": "How might the national trend of falling fertility rates, as reported, eventually impact the demographic structure of South Indian states like Telangana and Andhra Pradesh?",
-    "options": ["Lead to an increase in youth population", "Result in an aging population and potential labor shortages", "Cause a rapid decrease in life expectancy", "Boost the rural population significantly"],
-    "correctAnswer": "Result in an aging population and potential labor shortages"
+    "question": "How many major sea turtle species are targeted for protection under the new SOP launched in Lakshadweep?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Four"
   },
   {
     "id": 6,
-    "question": "Which national-level medical entrance examination has been in the news for requiring a re-exam after recent controversies?",
-    "options": ["JEE Advanced", "UPSC CSE", "NEET", "CAT"],
-    "correctAnswer": "NEET"
+    "question": "What has been a significant positive outcome of the decade-long ban on poaching in Lakshadweep, as mentioned in the news?",
+    "options": ["Increase in dolphin populations", "Boost in green turtle populations", "Rise in coral reef health", "Decline in plastic pollution"],
+    "correctAnswer": "Boost in green turtle populations"
   },
   {
     "id": 7,
-    "question": "Who urged the government to prevent glitches ahead of the NEET re-exam, highlighting student stress?",
-    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "What was the initial cause of the recent protests that emerged in Pakistan-occupied Kashmir (PoK)?",
+    "options": ["Demand for separate statehood", "Economic discontent over rising electricity costs and inflation", "Protests against military presence", "Calls for reunification with India"],
+    "correctAnswer": "Economic discontent over rising electricity costs and inflation"
   },
   {
     "id": 8,
-    "question": "A NEET candidate from which Indian city was involved in a clarification regarding an Abu Dhabi exam centre?",
-    "options": ["Nagpur", "Nasik", "Bengaluru", "Hyderabad"],
-    "correctAnswer": "Nasik"
+    "question": "Beyond economic grievances, what political reform demand emerged from the PoK protests?",
+    "options": ["Demand for direct rule from Islamabad", "Elimination of reserved seats for refugees in the PoK assembly", "Greater autonomy for local councils", "Referendum on regional independence"],
+    "correctAnswer": "Elimination of reserved seats for refugees in the PoK assembly"
   },
   {
     "id": 9,
-    "question": "According to the NTA, how was the change of NEET exam center to Abu Dhabi for a candidate reportedly processed?",
-    "options": ["Through NTA administrative error", "Candidate's own registered login credentials", "Via a third-party agent", "Due to a technical glitch in the NTA portal"],
-    "correctAnswer": "Candidate's own registered login credentials"
+    "question": "The recent unrest in PoK is seen as exposing governance challenges that undermine which country's image as a peace broker?",
+    "options": ["Afghanistan", "China", "Pakistan", "Iran"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 10,
-    "question": "The ongoing issues with the NEET examination directly affect aspirants from which professional courses in states like Telangana and Andhra Pradesh?",
-    "options": ["Engineering and Technology", "Medical and Dental", "Law and Management", "Arts and Humanities"],
-    "correctAnswer": "Medical and Dental"
+    "question": "Shashi Tharoor recently faced criticism from the Congress party over remarks related to which political leader?",
+    "options": ["Rahul Gandhi", "Sonia Gandhi", "Narendra Modi", "Mallikarjun Kharge"],
+    "correctAnswer": "Narendra Modi"
   },
   {
     "id": 11,
-    "question": "What was the primary concern raised by Rahul Gandhi regarding the NEET re-exam?",
-    "options": ["Lack of exam centers", "High examination fees", "Need for a reliable examination system", "Insufficient study material"],
-    "correctAnswer": "Need for a reliable examination system"
+    "question": "What specific issue was Shashi Tharoor reportedly discussing with reference to PM Modi and US President Donald Trump?",
+    "options": ["Trade agreements", "Climate change initiatives", "Civilian sailors", "Space cooperation"],
+    "correctAnswer": "Civilian sailors"
   },
   {
     "id": 12,
-    "question": "The NTA claimed the specific exam center change was previewed how many times from the candidate's login credentials?",
-    "options": ["Once", "Twice", "Thrice", "Not at all"],
-    "correctAnswer": "Twice"
+    "question": "What public health initiative in India is anticipated to deliver 'zero cervical cancer deaths in vaccinated young women' according to a Lancet study?",
+    "options": ["National AIDS Control Programme", "Pulse Polio Immunization", "India's HPV drive", "Tuberculosis Eradication Mission"],
+    "correctAnswer": "India's HPV drive"
   },
   {
     "id": 13,
-    "question": "Despite its records, what action did the NTA state it took regarding the aspirant's request for a center change?",
-    "options": ["Rejected the request outright", "Imposed a penalty on the candidate", "Accorded to the aspirant’s request", "Forwarded the request to another body"],
-    "correctAnswer": "Accorded to the aspirant’s request"
+    "question": "The Lancet study offers early clues about the potential impact of India's drive against which disease?",
+    "options": ["Diabetes", "Malaria", "Cervical cancer", "Heart disease"],
+    "correctAnswer": "Cervical cancer"
   },
   {
     "id": 14,
-    "question": "Which Member of Parliament from Hyderabad, Telangana, called for Pakistan to be put back on the FATF grey list?",
-    "options": ["K. Chandrashekar Rao", "Asaduddin Owaisi", "Jagan Mohan Reddy", "Bandaru Dattatreya"],
-    "correctAnswer": "Asaduddin Owaisi"
+    "question": "What type of vaccination is central to India's public health drive aiming to prevent cervical cancer?",
+    "options": ["Influenza vaccine", "HPV vaccine", "Hepatitis B vaccine", "Tetanus vaccine"],
+    "correctAnswer": "HPV vaccine"
   },
   {
     "id": 15,
-    "question": "Asaduddin Owaisi, who recently made statements regarding FATF, is the President of which political party primarily based in Telangana?",
-    "options": ["Telugu Desam Party (TDP)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)", "Indian National Congress (INC)"],
-    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
+    "question": "Priyank Kharge, a politician from which Indian state, recently defended his letter regarding security concerns related to RSS marches?",
+    "options": ["Kerala", "Karnataka", "Telangana", "Uttar Pradesh"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 16,
-    "question": "The call by Asaduddin Owaisi to put Pakistan back on the FATF grey list was made after an Indian was elected to what position within FATF?",
-    "options": ["President", "Director-General", "Vice President", "Secretary"],
-    "correctAnswer": "Vice President"
+    "question": "Which organization's marches in Karnataka were cited by Priyank Kharge in his defense regarding security concerns?",
+    "options": ["Bajrang Dal", "Popular Front of India (PFI)", "Rashtriya Swayamsevak Sangh (RSS)", "Communist Party of India (Marxist)"],
+    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
   },
   {
     "id": 17,
-    "question": "What does the acronym FATF stand for, as mentioned in connection with Asaduddin Owaisi's recent statement?",
-    "options": ["Financial Action Task Force", "Federal Anti-Terrorism Foundation", "Foreign Aid and Trade Fund", "Fiscal Accountability and Transparency Forum"],
-    "correctAnswer": "Financial Action Task Force"
+    "question": "Which international body recently removed its negative travel advisory for the Indian state of Assam?",
+    "options": ["United Nations", "World Health Organization", "European Union", "ASEAN"],
+    "correctAnswer": "European Union"
   },
   {
     "id": 18,
-    "question": "Increased educational attainment and later marriages are cited as contributing factors to which societal transition in India?",
-    "options": ["Rising unemployment rates", "Decline in agricultural productivity", "Shift towards individual choices about family planning", "Increased rural-urban migration"],
-    "correctAnswer": "Shift towards individual choices about family planning"
+    "question": "Which Indian state's Chief Minister announced that discussions are underway with the US and Canada for similar revisions to their travel guidance, following the EU's move?",
+    "options": ["West Bengal", "Arunachal Pradesh", "Assam", "Meghalaya"],
+    "correctAnswer": "Assam"
   },
   {
     "id": 19,
-    "question": "What kind of demographic challenge might India face if its TFR continues to remain below the replacement level?",
-    "options": ["Youth bulge leading to social unrest", "Sustained population explosion", "An aging population requiring increased social support", "A sudden increase in infant mortality"],
-    "correctAnswer": "An aging population requiring increased social support"
+    "question": "Despite the removal of the EU travel advisory, which specific areas in Assam remain excluded due to the Armed Forces (Special Powers) Act (AFSPA)?",
+    "options": ["Kaziranga National Park", "Guwahati city", "Three districts", "All border regions"],
+    "correctAnswer": "Three districts"
   },
   {
     "id": 20,
-    "question": "The widespread stress faced by students due to examination glitches, as highlighted by Rahul Gandhi, points to a need for a more reliable system in which national body responsible for major entrance exams?",
-    "options": ["UPSC", "NTA", "SSC", "AICTE"],
-    "correctAnswer": "NTA"
+    "question": "In which Indian state did PM Modi recently make a statement alleging efforts were made to make it part of Pakistan?",
+    "options": ["Bihar", "Odisha", "West Bengal", "Assam"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 21,
-    "question": "The declining birth rate in India reflects a shift towards more personal choices regarding what aspect of life?",
-    "options": ["Career paths", "Residential location", "Family planning and size", "Dietary habits"],
-    "correctAnswer": "Family planning and size"
+    "question": "Which political party was criticized by PM Modi in Tarakeswar regarding alleged historical efforts to make Bengal part of Pakistan?",
+    "options": ["Bharatiya Janata Party (BJP)", "Trinamool Congress (TMC)", "Indian National Congress", "Communist Party of India (Marxist)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 22,
-    "question": "Asaduddin Owaisi, a prominent figure in Indian politics, represents which major city constituency in Telangana?",
-    "options": ["Secunderabad", "Warangal", "Hyderabad", "Karimnagar"],
-    "correctAnswer": "Hyderabad"
+    "question": "Sovandeb Chattopadhyay, a senior MLA from which Indian state, is involved in a signature forgery case probe?",
+    "options": ["Odisha", "Bihar", "West Bengal", "Jharkhand"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 23,
-    "question": "Beyond conducting exams, what is the government's responsibility emphasized by Rahul Gandhi concerning student welfare during national examinations like NEET?",
-    "options": ["Providing free coaching classes", "Ensuring glitch-free and fair conduct", "Offering guaranteed job placements", "Waiving examination fees for all"],
-    "correctAnswer": "Ensuring glitch-free and fair conduct"
+    "question": "Sovandeb Chattopadhyay is a senior MLA from which political party in West Bengal?",
+    "options": ["Communist Party of India (Marxist)", "Bharatiya Janata Party (BJP)", "All India Trinamool Congress (TMC)", "Indian National Congress"],
+    "correctAnswer": "All India Trinamool Congress (TMC)"
   },
   {
     "id": 24,
-    "question": "What is generally considered the replacement level of Total Fertility Rate (TFR) for a stable population, which India's current TFR is below?",
-    "options": ["1.0", "1.5", "2.1", "3.0"],
-    "correctAnswer": "2.1"
+    "question": "Which Indian organization, responsible for conducting competitive examinations, recently clarified about a candidate who received an Abu Dhabi exam centre?",
+    "options": ["UPSC", "SSC", "NTA", "CBSE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 25,
-    "question": "The recent NEET issues have primarily added what burden on students across India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Increased tuition fees", "Additional academic pressure and mental stress", "Requirement to learn new subjects", "Longer duration of study programs"],
-    "correctAnswer": "Additional academic pressure and mental stress"
+    "question": "The National Testing Agency (NTA) recently clarified an issue regarding a candidate's selection of an exam center in which international city?",
+    "options": ["Dubai", "Doha", "Riyadh", "Abu Dhabi"],
+    "correctAnswer": "Abu Dhabi"
   }
 ]

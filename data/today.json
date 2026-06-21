@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What was the central theme of International Yoga Day celebrations mentioned in recent news, relevant for all Indian states including Telangana and Andhra Pradesh?",
-    "options": ["Yoga for World Peace", "Yoga for Youth Empowerment", "Yoga for Healthy Ageing", "Yoga for Spiritual Awakening"],
-    "correctAnswer": "Yoga for Healthy Ageing"
+    "question": "What potential impact does El Nino generally have on India's monsoon, which can significantly affect states like Telangana and Andhra Pradesh?",
+    "options": ["Stronger rainfall", "Delayed onset and reduced rainfall", "No significant impact", "Earlier onset of monsoon"],
+    "correctAnswer": "Delayed onset and reduced rainfall"
   },
   {
     "id": 2,
-    "question": "Which prominent leader's statement on integrating yoga into daily life was highlighted during the recent International Yoga Day celebrations across India?",
-    "options": ["President Droupadi Murmu", "Prime Minister Narendra Modi", "Union Minister Amit Shah", "Union Minister Smriti Irani"],
-    "correctAnswer": "Prime Minister Narendra Modi"
+    "question": "How might the effects of El Nino on India's monsoon influence the household budget in states like Telangana and Andhra Pradesh?",
+    "options": ["Decrease in food prices due to surplus production", "Stable food prices", "Increase in food prices due to agricultural impact", "No direct impact on household budgets"],
+    "correctAnswer": "Increase in food prices due to agricultural impact"
   },
   {
     "id": 3,
-    "question": "The recent International Yoga Day emphasized yoga's role in promoting physical, mental, and emotional well-being for all ages. What key message was given about making yoga a regular practice?",
-    "options": ["To practice yoga only on specific holidays", "To make yoga an annual event", "To make yoga a way of life", "To practice yoga only under supervision"],
-    "correctAnswer": "To make yoga a way of life"
+    "question": "Which major sector in Indian states, including Telangana and Andhra Pradesh, is particularly vulnerable to the effects of El Nino-induced monsoon changes?",
+    "options": ["Information Technology", "Tourism", "Manufacturing", "Agriculture"],
+    "correctAnswer": "Agriculture"
   },
   {
     "id": 4,
-    "question": "Beyond physical benefits, what aspect of well-being did PM Modi highlight as being fostered by yoga during the recent national celebrations of International Yoga Day?",
-    "options": ["Financial stability", "Academic achievement", "Mental and emotional well-being", "Political awareness"],
-    "correctAnswer": "Mental and emotional well-being"
+    "question": "The news highlights El Nino as a key factor affecting India's monsoon. What is El Nino primarily known for?",
+    "options": ["A period of unusually cold ocean temperatures in the Atlantic", "A periodic warming of sea surface temperatures in the equatorial Pacific Ocean", "A type of tropical cyclone in the Indian Ocean", "A phenomenon that increases glacial melt"],
+    "correctAnswer": "A periodic warming of sea surface temperatures in the equatorial Pacific Ocean"
   },
   {
     "id": 5,
-    "question": "What health aspect was a particular focus of discussions led by Prime Minister Modi during the recent nationwide International Yoga Day celebrations?",
-    "options": ["Child nutrition", "Sports performance", "Healthy ageing", "Respiratory health"],
-    "correctAnswer": "Healthy ageing"
-  },
-  {
-    "id": 6,
-    "question": "PM Modi encouraged citizens across India, including those in Telangana and Andhra Pradesh, to view yoga not just as an annual event but as what?",
-    "options": ["A competitive sport", "A political movement", "A way of life", "A spiritual retreat"],
-    "correctAnswer": "A way of life"
-  },
-  {
-    "id": 7,
-    "question": "The International Yoga Day's focus on healthy ageing aims to address the well-being of which demographic group?",
-    "options": ["Children and teenagers", "Young adults", "The elderly population", "Professional athletes"],
-    "correctAnswer": "The elderly population"
-  },
-  {
-    "id": 8,
-    "question": "Which aspect of well-being did PM Modi particularly highlight that yoga promotes for all ages during its national celebration?",
-    "options": ["Financial independence", "Social media influence", "Physical, mental, and emotional well-being", "Academic excellence"],
-    "correctAnswer": "Physical, mental, and emotional well-being"
-  },
-  {
-    "id": 9,
-    "question": "Which national examination was subject to re-examination, a topic that has generated discussion among students across India, including in Telangana and Andhra Pradesh?",
+    "question": "Which major national examination recently saw a re-test conducted across India, affecting numerous students from states like Telangana and Andhra Pradesh?",
     "options": ["JEE Advanced", "UPSC Civil Services", "NEET-UG", "GATE"],
     "correctAnswer": "NEET-UG"
   },
   {
+    "id": 6,
+    "question": "What specific action did Prime Minister Narendra Modi take in Delhi to ensure a smooth commute for NEET-UG re-exam candidates?",
+    "options": ["He inaugurated new metro lines for students", "He provided special buses to exam centers", "He delayed his departure from Delhi airport", "He declared a public holiday for the re-exam"],
+    "correctAnswer": "He delayed his departure from Delhi airport"
+  },
+  {
+    "id": 7,
+    "question": "Approximately how many cities across India, including those serving students from states like Telangana and Andhra Pradesh, hosted the NEET-UG re-examination?",
+    "options": ["Around 100 cities", "Approximately 551 cities", "Exactly 250 cities", "Over 1000 cities"],
+    "correctAnswer": "Approximately 551 cities"
+  },
+  {
+    "id": 8,
+    "question": "What technological measures were prominently mentioned as being implemented at NEET-UG re-exam centers to prevent malpractice?",
+    "options": ["Biometric attendance only", "CCTV surveillance and jammers", "Manual invigilation only", "Digital exam format without physical papers"],
+    "correctAnswer": "CCTV surveillance and jammers"
+  },
+  {
+    "id": 9,
+    "question": "An incident was highlighted where a NEET-UG aspirant's exam center was initially assigned to Abu Dhabi but later revised to which Indian city for the re-test?",
+    "options": ["Bengaluru", "Nagpur", "Hyderabad", "Chennai"],
+    "correctAnswer": "Nagpur"
+  },
+  {
     "id": 10,
-    "question": "Who is the Union Education Minister who assured a smooth NEET retest, a matter of concern for students nationwide?",
-    "options": ["Piyush Goyal", "Subrahmanyam Jaishankar", "Dharmendra Pradhan", "Nitin Gadkari"],
-    "correctAnswer": "Dharmendra Pradhan"
+    "question": "Which national agency is responsible for conducting the NEET-UG examination?",
+    "options": ["UGC", "CBSE", "NTA", "AICTE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 11,
-    "question": "The controversy surrounding the NEET examination and subsequent retest has been a significant national issue. What type of examination is NEET-UG?",
-    "options": ["Engineering Entrance", "Medical Entrance", "Law Entrance", "Management Entrance"],
-    "correctAnswer": "Medical Entrance"
+    "question": "On which date is the International Day of Yoga celebrated annually, with pan-India participation including states like Telangana and Andhra Pradesh?",
+    "options": ["May 1st", "August 15th", "June 21st", "October 2nd"],
+    "correctAnswer": "June 21st"
   },
   {
     "id": 12,
-    "question": "Why was a retest for NEET-UG being conducted, as mentioned in the news affecting students across all states?",
-    "options": ["Due to a change in syllabus", "Due to examination controversies", "Due to low attendance", "Due to a new government policy"],
-    "correctAnswer": "Due to examination controversies"
+    "question": "What was the theme for the recent International Day of Yoga sessions involving Indian armed forces across the country?",
+    "options": ["Yoga for Peace", "Yoga for Wellness", "Yoga for Healthy Ageing", "Yoga for Harmony"],
+    "correctAnswer": "Yoga for Healthy Ageing"
   },
   {
     "id": 13,
-    "question": "The Union Education Minister's assurance regarding the NEET retest is significant for students in which educational streams?",
-    "options": ["Engineering", "Arts and Humanities", "Medical", "Commerce"],
-    "correctAnswer": "Medical"
+    "question": "Which Union Minister performed yoga with 1,000 soldiers in Shillong on International Yoga Day, emphasizing its significance?",
+    "options": ["Amit Shah", "Nitin Gadkari", "Rajnath Singh", "S. Jaishankar"],
+    "correctAnswer": "Rajnath Singh"
   },
   {
     "id": 14,
-    "question": "The NEET-UG re-examination is reported to be underway nationwide. What does this imply for students in Telangana and Andhra Pradesh?",
-    "options": ["They are exempt from the re-examination", "They have to travel to Delhi for the re-examination", "They are also participating in the re-examination process", "The re-examination does not affect them"],
-    "correctAnswer": "They are also participating in the re-examination process"
+    "question": "According to Defence Minister Rajnath Singh, what is yoga considered in terms of well-being, reflecting its importance for people across India?",
+    "options": ["A mere physical exercise", "A recreational activity", "A holistic science", "A temporary stress reliever"],
+    "correctAnswer": "A holistic science"
   },
   {
     "id": 15,
-    "question": "What was the Union Education Minister Dharmendra Pradhan's primary assurance regarding the NEET retest?",
-    "options": ["That it would be voluntary", "That it would be canceled", "That it would be smooth", "That only a few students would be eligible"],
-    "correctAnswer": "That it would be smooth"
+    "question": "Across which types of terrains did Indian forces participate in widespread yoga sessions pan-India?",
+    "options": ["Only on land", "Only in coastal areas", "Mountains, plains, and high seas", "Only in urban centers"],
+    "correctAnswer": "Mountains, plains, and high seas"
   },
   {
     "id": 16,
-    "question": "Which Indian food regulator is scrutinizing products marketed with potentially misleading labels like 'natural' and 'healthy'?",
-    "options": ["BIS (Bureau of Indian Standards)", "ASCI (Advertising Standards Council of India)", "FSSAI (Food Safety and Standards Authority of India)", "TRAI (Telecom Regulatory Authority of India)"],
-    "correctAnswer": "FSSAI (Food Safety and Standards Authority of India)"
+    "question": "How many indigenous naval platforms were recently commissioned by Prime Minister Modi, strengthening India's maritime capabilities, which are crucial for states like Andhra Pradesh with extensive coastlines?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Three"
   },
   {
     "id": 17,
-    "question": "What type of claims on food and supplement labels are under scrutiny by FSSAI for potentially deceiving consumers across India, including in Telangana and Andhra Pradesh?",
-    "options": ["Price claims", "Manufacturing date claims", "Health claims", "Ingredient sourcing claims"],
-    "correctAnswer": "Health claims"
+    "question": "Which of the following is NOT one of the indigenous naval ships recently commissioned by PM Modi?",
+    "options": ["INS Dunagiri", "INS Sanshodhak", "INS Agray", "INS Vikrant"],
+    "correctAnswer": "INS Vikrant"
   },
   {
     "id": 18,
-    "question": "FSSAI's intensified enforcement aims to ensure what aspect of food labeling for public protection?",
-    "options": ["Cost-effectiveness", "Marketing innovation", "Transparency", "Shelf-life extension"],
-    "correctAnswer": "Transparency"
+    "question": "What does the commissioning of indigenous naval ships, like those recently inducted, primarily signify for India's defence sector?",
+    "options": ["Increased reliance on foreign imports", "A shift to air power over naval power", "A significant stride in self-reliance and defence manufacturing", "A temporary measure to boost employment"],
+    "correctAnswer": "A significant stride in self-reliance and defence manufacturing"
   },
   {
     "id": 19,
-    "question": "Which specific marketing phrases on food products are mentioned as being under FSSAI's lens due to potential consumer deception?",
-    "options": ["Award-winning", "Limited edition", "Natural' and 'healthy'", "New and improved"],
-    "correctAnswer": "'Natural' and 'healthy'"
+    "question": "In which Indian city were the three indigenous naval ships, INS Dunagiri, INS Sanshodhak, and INS Agray, commissioned?",
+    "options": ["Visakhapatnam", "Mumbai", "Kochi", "Kolkata"],
+    "correctAnswer": "Kolkata"
   },
   {
     "id": 20,
-    "question": "The FSSAI crackdown on misleading labels is a response to what rising issue?",
-    "options": ["Decreasing food sales", "Rising complaints and social media attention", "Lack of new product launches", "International trade disputes"],
-    "correctAnswer": "Rising complaints and social media attention"
+    "question": "Approximately how many indigenously built warships has India inducted recently, showcasing its growing shipbuilding prowess and commitment to maritime security relevant to coastal states like Andhra Pradesh?",
+    "options": ["Under 10", "Around 20", "Over 40", "Exactly 50"],
+    "correctAnswer": "Over 40"
   },
   {
     "id": 21,
-    "question": "What is the main goal of FSSAI's recent actions regarding food and supplement labels?",
-    "options": ["To increase import duties", "To promote specific brands", "To protect public health", "To regulate advertising content"],
-    "correctAnswer": "To protect public health"
+    "question": "What is the primary role of an SSBN (Submersible Ship Ballistic Nuclear) in India's submarine fleet, as highlighted in the discussion on naval weapons?",
+    "options": ["Close-range coastal patrol", "Anti-submarine warfare and hunting enemy ships", "Strategic deterrence with ballistic missiles", "Support for amphibious operations"],
+    "correctAnswer": "Strategic deterrence with ballistic missiles"
   },
   {
     "id": 22,
-    "question": "The FSSAI's scrutiny of food labels is applicable to food products sold in which regions of India?",
-    "options": ["Only metropolitan cities", "Only northern states", "Only coastal regions", "All states and union territories, including Telangana and Andhra Pradesh"],
-    "correctAnswer": "All states and union territories, including Telangana and Andhra Pradesh"
+    "question": "Which type of Indian submarine weapon, mentioned in the news, is specifically noted for NOT being built to fight direct battles but for strategic purposes?",
+    "options": ["Conventional attack submarines", "SSN (Submersible Ship Nuclear)", "SSBN (Submersible Ship Ballistic Nuclear)", "Coastal defence boats"],
+    "correctAnswer": "SSBN (Submersible Ship Ballistic Nuclear)"
   },
   {
     "id": 23,
-    "question": "Besides 'natural' and 'healthy,' what other type of misleading claim is FSSAI particularly focused on concerning food labels?",
-    "options": ["Artificially flavored", "Organic certified", "No added sugar", "Gluten-free"],
-    "correctAnswer": "No added sugar"
+    "question": "India's strengthening maritime capability, driven by indigenous naval platforms, is a crucial deciding factor for the country's economic and strategic influence, particularly benefiting its extensive coastline which includes which major southern state?",
+    "options": ["Kerala", "Goa", "Andhra Pradesh", "Karnataka"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 24,
-    "question": "What does FSSAI urge consumers to do regarding catchy marketing phrases on food products?",
-    "options": ["Trust them implicitly", "Share them on social media", "Look beyond them", "Ignore them completely"],
-    "correctAnswer": "Look beyond them"
+    "question": "The recent commissioning of naval ships and discussion of submarine capabilities reflect India's ambition to become a major global producer in which specific sector?",
+    "options": ["Automobile manufacturing", "Software development", "Defence manufacturing", "Pharmaceuticals"],
+    "correctAnswer": "Defence manufacturing"
   },
   {
     "id": 25,
-    "question": "The FSSAI's action to crack down on misleading health claims is a measure to ensure what for consumers throughout India?",
-    "options": ["Increased variety of products", "Lower prices", "Better product information and safety", "Faster delivery services"],
-    "correctAnswer": "Better product information and safety"
+    "question": "What term is often used to describe India's increasing capability to design and build its own defence equipment, exemplified by the new naval ships, contributing to national security and economic growth?",
+    "options": ["Globalisation", "Privatisation", "Self-reliance (Atmanirbharta)", "Outsourcing"],
+    "correctAnswer": "Self-reliance (Atmanirbharta)"
   }
 ]

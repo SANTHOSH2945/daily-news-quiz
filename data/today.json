@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Dr. Prateek Sharma, whose journey was highlighted as an enduring tale of Indian middle-class values, was recognized with which national civilian award?",
-    "options": ["Bharat Ratna", "Padma Vibhushan", "Padma Bhushan", "Padma Shri"],
-    "correctAnswer": "Padma Shri"
+    "question": "What is the approximate number of permissible development works recently notified under the new rural employment framework by the Government of India, benefiting states like Telangana and Andhra Pradesh?",
+    "options": ["100", "200", "318", "450"],
+    "correctAnswer": "318"
   },
   {
     "id": 2,
-    "question": "The story of Padma Shri Dr. Prateek Sharma emphasizes the values of which specific demographic segment in India?",
-    "options": ["Elite class", "Indian middle class", "Rural agricultural class", "Urban industrial class"],
-    "correctAnswer": "Indian middle class"
+    "question": "The Government of India's new rural employment framework aims to boost development primarily in which sector, with projects applicable across states including Telangana and Andhra Pradesh?",
+    "options": ["Urban infrastructure", "Rural infrastructure and livelihoods", "Industrial development", "Defence manufacturing"],
+    "correctAnswer": "Rural infrastructure and livelihoods"
   },
   {
     "id": 3,
-    "question": "Padma Shri is one of the highest civilian awards in India. Which entity confers these awards?",
-    "options": ["The Prime Minister's Office", "The President of India", "The Chief Justice of India", "The Parliament of India"],
-    "correctAnswer": "The President of India"
+    "question": "The new rural employment framework, which includes a list of permissible development works, is expected to support which aspect in rural areas of states like Telangana and Andhra Pradesh?",
+    "options": ["Digital literacy only", "Skill development for IT jobs", "Livelihood generation and infrastructure building", "Agricultural mechanization for large farms"],
+    "correctAnswer": "Livelihood generation and infrastructure building"
   },
   {
     "id": 4,
-    "question": "The news mentions Dr. Prateek Sharma as a 'doctor'. In which broad category of Padma Awards is distinguished service in medicine recognized?",
-    "options": ["Art", "Social Work", "Public Affairs", "Medicine"],
-    "correctAnswer": "Medicine"
+    "question": "What term describes the initial nature of the list of 318 permissible development works notified under the new rural employment framework?",
+    "options": ["Final", "Mandatory", "Interim", "Experimental"],
+    "correctAnswer": "Interim"
   },
   {
     "id": 5,
-    "question": "Apart from Padma Shri, what are the other two categories of Padma Awards?",
-    "options": ["Bharat Ratna and Padma Bhushan", "Padma Vibhushan and Padma Bhushan", "Padma Vibhushan and Bharat Ratna", "Padma Khel and Padma Vidya"],
-    "correctAnswer": "Padma Vibhushan and Padma Bhushan"
+    "question": "The new rural employment framework, providing development works, is a national initiative applicable to all states. What is its core objective related to rural India?",
+    "options": ["Promoting tourism", "Enhancing urban migration", "Creating employment opportunities and assets", "Privatizing rural services"],
+    "correctAnswer": "Creating employment opportunities and assets"
   },
   {
     "id": 6,
-    "question": "India has kept its travel warning in place, asking citizens to avoid non-essential visits to which country?",
-    "options": ["Iraq", "Syria", "Iran", "Afghanistan"],
-    "correctAnswer": "Iran"
+    "question": "What was the primary concern expressed by farmers, including those potentially in agricultural states like Telangana and Andhra Pradesh, regarding the proposed India-US trade deal?",
+    "options": ["Lack of access to US markets", "Harm to domestic agriculture and unfair competition", "High import duties on US goods", "Promotion of organic farming practices"],
+    "correctAnswer": "Harm to domestic agriculture and unfair competition"
   },
   {
     "id": 7,
-    "question": "Despite advancements in diplomatic relations, what reason did India cite for maintaining its travel warning to Iran?",
-    "options": ["Economic sanctions", "Cultural differences", "Rapidly changing regional circumstances", "Lack of direct flights"],
-    "correctAnswer": "Rapidly changing regional circumstances"
+    "question": "The Kisan Mazdoor Morcha recently protested against which specific international agreement, citing concerns for Indian farmers and workers?",
+    "options": ["India-EU Free Trade Agreement", "India-Russia Defence Pact", "India-US Trade Deal", "India-China Border Protocol"],
+    "correctAnswer": "India-US Trade Deal"
   },
   {
     "id": 8,
-    "question": "Which Indian diplomatic mission in Iran recognized a positive shift in security, while still stressing caution?",
-    "options": ["Indian Consulate in Mashhad", "Indian Embassy in Tehran", "Indian High Commission in Shiraz", "Indian Trade Office in Esfahan"],
-    "correctAnswer": "Indian Embassy in Tehran"
+    "question": "What symbolic action did protestors take during the Kisan Mazdoor Morcha's demonstration against the India-US trade deal?",
+    "options": ["Holding a silent vigil", "Burning effigies of political leaders", "Organising a blood donation camp", "Planting saplings"],
+    "correctAnswer": "Burning effigies of political leaders"
   },
   {
     "id": 9,
-    "question": "For Indian nationals residing in Iran, what is the primary advice given by the Indian Embassy?",
-    "options": ["To evacuate immediately", "To begin non-essential travel", "To remain alert and adhere to local guidance", "To seek permanent residency"],
-    "correctAnswer": "To remain alert and adhere to local guidance"
+    "question": "Farmers protesting the India-US trade deal cited concerns over increased imports and what other competitive disadvantage from American farmers?",
+    "options": ["Better technology", "Stronger marketing", "Subsidized produce", "Lower labour costs"],
+    "correctAnswer": "Subsidized produce"
   },
   {
     "id": 10,
-    "question": "The travel warning issued by India to its citizens is primarily aimed at ensuring their ______.",
-    "options": ["Economic stability", "Educational opportunities", "Cultural immersion", "Safety and security"],
-    "correctAnswer": "Safety and security"
+    "question": "The opposition to the India-US trade deal by farmer groups echoes past debates surrounding which major policy issue in India?",
+    "options": ["Land acquisition reforms", "Farm laws", "Goods and Services Tax (GST)", "Demonetization"],
+    "correctAnswer": "Farm laws"
   },
   {
     "id": 11,
-    "question": "India firmly rejected Pakistan's attempt to politicize an international forum by raising the Kashmir issue. Which forum was this?",
-    "options": ["World Economic Forum", "United Nations", "BRICS Summit", "G20 Summit"],
-    "correctAnswer": "United Nations"
+    "question": "Beyond opposing the trade deal, what specific demands did protesting farmers raise, relevant to agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["Removal of all agricultural subsidies", "Increased imports of foreign seeds", "MSP guarantees and irrigation reforms", "Reduction in farm loan waivers"],
+    "correctAnswer": "MSP guarantees and irrigation reforms"
   },
   {
     "id": 12,
-    "question": "What did India's Ambassador Parvathaneni Harish state regarding Jammu and Kashmir's status?",
-    "options": ["It is a disputed territory", "It is an international matter", "It is an internal matter for India", "It is subject to UN resolution"],
-    "correctAnswer": "It is an internal matter for India"
+    "question": "Prime Minister Narendra Modi urged all Indian states, including Telangana and Andhra Pradesh, to fast-track the implementation of which new system for cybercrime victims?",
+    "options": ["Physical FIR at local police stations", "E-court proceedings for cyber cases", "E-Zero FIR in cyber crime cases", "Automated threat detection systems"],
+    "correctAnswer": "E-Zero FIR in cyber crime cases"
   },
   {
     "id": 13,
-    "question": "India is pushing for a review of mandates for which specific UN body to enhance its efficiency?",
-    "options": ["UN General Assembly", "International Court of Justice", "UN Security Council", "Economic and Social Council"],
-    "correctAnswer": "UN Security Council"
+    "question": "What is the primary aim of implementing e-Zero FIRs for cybercrime victims in states like Telangana and Andhra Pradesh?",
+    "options": ["To increase police manpower", "To prevent further harassment and financial loss", "To digitize all police records", "To reduce the number of reported crimes"],
+    "correctAnswer": "To prevent further harassment and financial loss"
   },
   {
     "id": 14,
-    "question": "The framework mentioned in relation to India's push for UN Security Council mandate review is referred to as:",
-    "options": ["UN-2030 Agenda", "UN-80 framework", "UN Sustainable Development Goals", "UN Peacekeeping Mandate"],
-    "correctAnswer": "UN-80 framework"
+    "question": "Besides fast-tracking e-Zero FIRs, what did the PM emphasize for combating rising digital fraud in states?",
+    "options": ["Reducing public awareness campaigns", "Slower action and less coordination", "Swift action, better coordination, and public awareness", "Outsourcing cybercrime investigation"],
+    "correctAnswer": "Swift action, better coordination, and public awareness"
   },
   {
     "id": 15,
-    "question": "Who was the Indian Ambassador mentioned in the news for rejecting Pakistan's remarks at the UN?",
-    "options": ["S. Jaishankar", "T.S. Tirumurti", "Ruchira Kamboj", "Parvathaneni Harish"],
-    "correctAnswer": "Parvathaneni Harish"
+    "question": "The PM reviewed the progress on the \"PM GatiShakti National Master Plan\" in the context of which area, relevant to states like Telangana and Andhra Pradesh?",
+    "options": ["Healthcare policy", "Infrastructure project planning", "Agricultural subsidies", "Space exploration"],
+    "correctAnswer": "Infrastructure project planning"
   },
   {
     "id": 16,
-    "question": "India emphasized that discussions regarding its internal matters at international forums are considered:",
-    "options": ["Essential for diplomacy", "Appropriate for global debate", "Inappropriate", "A necessary evil"],
-    "correctAnswer": "Inappropriate"
+    "question": "What health initiative's progress was also reviewed by the PM during discussions that included directives to states?",
+    "options": ["Polio Eradication Mission", "Ayushman Bharat Yojana", "TB Mukt Bharat Abhiyan", "National AIDS Control Programme"],
+    "correctAnswer": "TB Mukt Bharat Abhiyan"
   },
   {
     "id": 17,
-    "question": "The UN-80 framework likely refers to an initiative or discussion related to the upcoming 80th anniversary of which global organization?",
-    "options": ["World Bank", "International Monetary Fund", "United Nations", "World Trade Organization"],
-    "correctAnswer": "United Nations"
+    "question": "The concept of 'Zero FIR' allows an FIR to be registered at any police station, irrespective of the crime's jurisdiction. How does 'e-Zero FIR' enhance this for cybercrime, especially for citizens in Telangana and Andhra Pradesh?",
+    "options": ["It limits FIR registration to capital cities", "It requires the victim to travel to the crime location", "It allows for digital registration of FIR from anywhere", "It makes FIR registration optional"],
+    "correctAnswer": "It allows for digital registration of FIR from anywhere"
   },
   {
     "id": 18,
-    "question": "The news report states that India firmly rejected Pakistan's attempt to _____ a UN forum.",
-    "options": ["Facilitate", "Reform", "Politicize", "Boycott"],
-    "correctAnswer": "Politicize"
+    "question": "Why is 'fast-tracking' e-Zero FIRs particularly crucial for cybercrime cases in states like Telangana and Andhra Pradesh?",
+    "options": ["Cybercriminals operate slowly", "Digital evidence can be volatile and time-sensitive", "To reduce the number of physical police stations", "To increase government revenue"],
+    "correctAnswer": "Digital evidence can be volatile and time-sensitive"
   },
   {
     "id": 19,
-    "question": "In the Vivo case, a High Court issued a travel ban against accused individuals of which nationality?",
-    "options": ["Indian", "American", "Chinese", "German"],
-    "correctAnswer": "Chinese"
+    "question": "What significant challenge does rising digital fraud pose to law enforcement and citizens in states across India, including Telangana and Andhra Pradesh?",
+    "options": ["Lack of physical crime scenes", "Difficulty in identifying perpetrators across jurisdictions", "Over-reliance on traditional policing methods", "Decreased need for public vigilance"],
+    "correctAnswer": "Difficulty in identifying perpetrators across jurisdictions"
   },
   {
     "id": 20,
-    "question": "The travel ban imposed in the Vivo case is a measure taken by which part of India's judicial system?",
-    "options": ["Supreme Court", "District Court", "High Court", "Magistrate Court"],
-    "correctAnswer": "High Court"
+    "question": "The movement of India-bound ships through the Strait of Hormuz is critical for which aspect of the Indian economy, impacting states like Andhra Pradesh with major ports?",
+    "options": ["Inland waterways tourism", "International maritime trade", "Domestic fishing industry", "Himalayan mountaineering expeditions"],
+    "correctAnswer": "International maritime trade"
   },
   {
     "id": 21,
-    "question": "The Vivo case involves legal proceedings against individuals associated with what type of entity?",
-    "options": ["A political party", "A charitable trust", "A foreign technology company", "An educational institution"],
-    "correctAnswer": "A foreign technology company"
+    "question": "The Strait of Hormuz is a vital maritime chokepoint. For India-bound ships, what primary type of goods or resources often traverses this route, affecting energy security and economy across Indian states?",
+    "options": ["Fresh produce", "Crude oil and natural gas", "Luxury textiles", "Forest products"],
+    "correctAnswer": "Crude oil and natural gas"
   },
   {
     "id": 22,
-    "question": "What kind of restriction was imposed on two Chinese accused in the Vivo case?",
-    "options": ["House arrest", "Asset freeze", "Travel ban", "Community service"],
-    "correctAnswer": "Travel ban"
+    "question": "How many India-bound ships were reported to have crossed the Strait of Hormuz, with more waiting, highlighting continuous maritime traffic vital for India's economy and its states?",
+    "options": ["10", "20", "30", "50"],
+    "correctAnswer": "30"
   },
   {
     "id": 23,
-    "question": "The Vivo case highlights legal scrutiny faced by foreign companies operating within which country?",
-    "options": ["China", "United States", "India", "Germany"],
-    "correctAnswer": "India"
+    "question": "The PM's call for fast-tracking e-Zero FIRs in cybercrime cases highlights the importance of what type of reporting system for victims in states like Telangana and Andhra Pradesh?",
+    "options": ["Paper-based reporting", "Centralized reporting", "Accessible and quick digital reporting", "Post-investigation reporting"],
+    "correctAnswer": "Accessible and quick digital reporting"
   },
   {
     "id": 24,
-    "question": "The acronym 'HC' in the context of the Vivo case headline stands for:",
-    "options": ["Home Committee", "Humanitarian Council", "High Court", "Health Commission"],
-    "correctAnswer": "High Court"
+    "question": "The government's new rural employment framework, which benefits states like Telangana and Andhra Pradesh, focuses on development works aimed at improving what aspect of rural life?",
+    "options": ["Urban migration", "Connectivity and basic amenities", "Industrialization", "Luxury tourism"],
+    "correctAnswer": "Connectivity and basic amenities"
   },
   {
     "id": 25,
-    "question": "A travel ban is typically issued by a court to prevent individuals from leaving the country while legal proceedings are ongoing. This action falls under the purview of which branch of government?",
-    "options": ["Legislative", "Executive", "Judiciary", "Administrative"],
-    "correctAnswer": "Judiciary"
+    "question": "Farmers protesting the India-US trade deal voiced concerns that the pact would disproportionately affect which groups within the agricultural sector in India, including those in Telangana and Andhra Pradesh?",
+    "options": ["Large corporate farms", "Labourers and small traders", "Agri-tech startups", "Export-oriented businesses"],
+    "correctAnswer": "Labourers and small traders"
   }
 ]

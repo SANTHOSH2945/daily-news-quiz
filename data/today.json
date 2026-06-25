@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is the approximate number of permissible development works recently notified under the new rural employment framework by the Government of India, benefiting states like Telangana and Andhra Pradesh?",
-    "options": ["100", "200", "318", "450"],
-    "correctAnswer": "318"
+    "question": "What did the Supreme Court recently observe regarding private colleges being compelled to charge fees at government rates, a matter affecting educational institutions in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It would lead to an increase in student admissions.",
+      "It would ensure better quality of education.",
+      "It would force private colleges to shut down.",
+      "It would have no significant impact on their operations."
+    ],
+    "correctAnswer": "It would force private colleges to shut down."
   },
   {
     "id": 2,
-    "question": "The Government of India's new rural employment framework aims to boost development primarily in which sector, with projects applicable across states including Telangana and Andhra Pradesh?",
-    "options": ["Urban infrastructure", "Rural infrastructure and livelihoods", "Industrial development", "Defence manufacturing"],
-    "correctAnswer": "Rural infrastructure and livelihoods"
+    "question": "The Supreme Court's recent statement about private colleges and their fee structures primarily concerns the viability of which type of educational institutions?",
+    "options": [
+      "Government-funded universities",
+      "Public schools",
+      "Private professional colleges",
+      "Vocational training institutes"
+    ],
+    "correctAnswer": "Private professional colleges"
   },
   {
     "id": 3,
-    "question": "The new rural employment framework, which includes a list of permissible development works, is expected to support which aspect in rural areas of states like Telangana and Andhra Pradesh?",
-    "options": ["Digital literacy only", "Skill development for IT jobs", "Livelihood generation and infrastructure building", "Agricultural mechanization for large farms"],
-    "correctAnswer": "Livelihood generation and infrastructure building"
+    "question": "The issue of private college fees, as highlighted by the Supreme Court, directly impacts the sustainability of higher education in which sector across Indian states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Primary education",
+      "Technical education",
+      "Public sector universities",
+      "Distance learning programs"
+    ],
+    "correctAnswer": "Technical education"
   },
   {
     "id": 4,
-    "question": "What term describes the initial nature of the list of 318 permissible development works notified under the new rural employment framework?",
-    "options": ["Final", "Mandatory", "Interim", "Experimental"],
-    "correctAnswer": "Interim"
+    "question": "What is the underlying principle upheld by the Supreme Court in its observation regarding the financial autonomy of private colleges?",
+    "options": [
+      "Private colleges must always prioritize social welfare over profit.",
+      "Private colleges have a right to reasonable profits to sustain operations.",
+      "Government alone should determine fee structures for all colleges.",
+      "Students should have the final say in college fee amounts."
+    ],
+    "correctAnswer": "Private colleges have a right to reasonable profits to sustain operations."
   },
   {
     "id": 5,
-    "question": "The new rural employment framework, providing development works, is a national initiative applicable to all states. What is its core objective related to rural India?",
-    "options": ["Promoting tourism", "Enhancing urban migration", "Creating employment opportunities and assets", "Privatizing rural services"],
-    "correctAnswer": "Creating employment opportunities and assets"
+    "question": "The Supreme Court's recent ruling emphasizes the potential negative impact on the existence of private educational institutions if what condition is imposed?",
+    "options": [
+      "If they are asked to increase their infrastructure significantly.",
+      "If they are mandated to reserve more seats for economically weaker sections.",
+      "If they are compelled to charge fees equivalent to government rates.",
+      "If they are restricted from offering a wide range of courses."
+    ],
+    "correctAnswer": "If they are compelled to charge fees equivalent to government rates."
   },
   {
     "id": 6,
-    "question": "What was the primary concern expressed by farmers, including those potentially in agricultural states like Telangana and Andhra Pradesh, regarding the proposed India-US trade deal?",
-    "options": ["Lack of access to US markets", "Harm to domestic agriculture and unfair competition", "High import duties on US goods", "Promotion of organic farming practices"],
-    "correctAnswer": "Harm to domestic agriculture and unfair competition"
+    "question": "Which Union Minister is scheduled to launch a nationwide drive to destroy a significant quantity of drugs, an initiative that impacts drug enforcement efforts in all states including Telangana and Andhra Pradesh?",
+    "options": [
+      "Rajnath Singh",
+      "Nirmala Sitharaman",
+      "Amit Shah",
+      "S. Jaishankar"
+    ],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 7,
-    "question": "The Kisan Mazdoor Morcha recently protested against which specific international agreement, citing concerns for Indian farmers and workers?",
-    "options": ["India-EU Free Trade Agreement", "India-Russia Defence Pact", "India-US Trade Deal", "India-China Border Protocol"],
-    "correctAnswer": "India-US Trade Deal"
+    "question": "What is the primary objective of the massive drug destruction drive announced by Union Minister Amit Shah?",
+    "options": [
+      "To raise awareness about drug abuse among youth.",
+      "To confiscate properties of drug traffickers.",
+      "To destroy seized narcotics and send a strong message against drug trafficking.",
+      "To rehabilitate drug addicts across the country."
+    ],
+    "correctAnswer": "To destroy seized narcotics and send a strong message against drug trafficking."
   },
   {
     "id": 8,
-    "question": "What symbolic action did protestors take during the Kisan Mazdoor Morcha's demonstration against the India-US trade deal?",
-    "options": ["Holding a silent vigil", "Burning effigies of political leaders", "Organising a blood donation camp", "Planting saplings"],
-    "correctAnswer": "Burning effigies of political leaders"
+    "question": "How much quantity of drugs is targeted for destruction in the upcoming nationwide drive led by Amit Shah?",
+    "options": [
+      "20,000 kg",
+      "2 lakh kg",
+      "20 lakh kg",
+      "2 kg"
+    ],
+    "correctAnswer": "2 lakh kg"
   },
   {
     "id": 9,
-    "question": "Farmers protesting the India-US trade deal cited concerns over increased imports and what other competitive disadvantage from American farmers?",
-    "options": ["Better technology", "Stronger marketing", "Subsidized produce", "Lower labour costs"],
-    "correctAnswer": "Subsidized produce"
+    "question": "This drug destruction initiative is part of a broader strategy by the Indian government to combat what major issue affecting public health and safety across states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Illegal mining",
+      "Cybercrime",
+      "Drug trafficking and abuse",
+      "Wildlife poaching"
+    ],
+    "correctAnswer": "Drug trafficking and abuse"
   },
   {
     "id": 10,
-    "question": "The opposition to the India-US trade deal by farmer groups echoes past debates surrounding which major policy issue in India?",
-    "options": ["Land acquisition reforms", "Farm laws", "Goods and Services Tax (GST)", "Demonetization"],
-    "correctAnswer": "Farm laws"
+    "question": "The nationwide drug destruction drive underscores the government's commitment to what aspect of law enforcement against narcotics?",
+    "options": [
+      "Legalizing certain drugs for medicinal purposes.",
+      "Focusing solely on border control.",
+      "Eradicating the supply chain of illicit drugs.",
+      "Promoting international drug trade agreements."
+    ],
+    "correctAnswer": "Eradicating the supply chain of illicit drugs."
   },
   {
     "id": 11,
-    "question": "Beyond opposing the trade deal, what specific demands did protesting farmers raise, relevant to agricultural states like Telangana and Andhra Pradesh?",
-    "options": ["Removal of all agricultural subsidies", "Increased imports of foreign seeds", "MSP guarantees and irrigation reforms", "Reduction in farm loan waivers"],
-    "correctAnswer": "MSP guarantees and irrigation reforms"
+    "question": "Prime Minister Modi recently advocated for the implementation of 'e-Zero FIRs' in all states, including Telangana and Andhra Pradesh. What is the main objective of this initiative?",
+    "options": [
+      "To simplify tax filing for citizens.",
+      "To speed up probes into cyber fraud cases.",
+      "To streamline passport application processes.",
+      "To enhance online voter registration."
+    ],
+    "correctAnswer": "To speed up probes into cyber fraud cases."
   },
   {
     "id": 12,
-    "question": "Prime Minister Narendra Modi urged all Indian states, including Telangana and Andhra Pradesh, to fast-track the implementation of which new system for cybercrime victims?",
-    "options": ["Physical FIR at local police stations", "E-court proceedings for cyber cases", "E-Zero FIR in cyber crime cases", "Automated threat detection systems"],
-    "correctAnswer": "E-Zero FIR in cyber crime cases"
+    "question": "The 'e-Zero FIR' system, as suggested by PM Modi, is designed to enhance the investigation process for which specific category of crimes?",
+    "options": [
+      "Homicide cases",
+      "Property disputes",
+      "Cyber fraud",
+      "Traffic violations"
+    ],
+    "correctAnswer": "Cyber fraud"
   },
   {
     "id": 13,
-    "question": "What is the primary aim of implementing e-Zero FIRs for cybercrime victims in states like Telangana and Andhra Pradesh?",
-    "options": ["To increase police manpower", "To prevent further harassment and financial loss", "To digitize all police records", "To reduce the number of reported crimes"],
-    "correctAnswer": "To prevent further harassment and financial loss"
+    "question": "What significant advantage does the concept of a 'Zero FIR' offer, particularly when implemented as an 'e-Zero FIR' across states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It allows police to refuse registration of an FIR if the crime did not occur in their jurisdiction.",
+      "It enables an FIR to be registered immediately, irrespective of the jurisdiction where the crime occurred.",
+      "It mandates that all FIRs must be filed in person at the nearest police station.",
+      "It reduces the number of FIRs filed by consolidating similar complaints."
+    ],
+    "correctAnswer": "It enables an FIR to be registered immediately, irrespective of the jurisdiction where the crime occurred."
   },
   {
     "id": 14,
-    "question": "Besides fast-tracking e-Zero FIRs, what did the PM emphasize for combating rising digital fraud in states?",
-    "options": ["Reducing public awareness campaigns", "Slower action and less coordination", "Swift action, better coordination, and public awareness", "Outsourcing cybercrime investigation"],
-    "correctAnswer": "Swift action, better coordination, and public awareness"
+    "question": "The Prime Minister's call for 'e-Zero FIRs' emphasizes leveraging technology to improve which aspect of the Indian legal and policing system?",
+    "options": [
+      "Court proceedings",
+      "Judicial appointments",
+      "Crime reporting and investigation",
+      "Prison management"
+    ],
+    "correctAnswer": "Crime reporting and investigation"
   },
   {
     "id": 15,
-    "question": "The PM reviewed the progress on the \"PM GatiShakti National Master Plan\" in the context of which area, relevant to states like Telangana and Andhra Pradesh?",
-    "options": ["Healthcare policy", "Infrastructure project planning", "Agricultural subsidies", "Space exploration"],
-    "correctAnswer": "Infrastructure project planning"
+    "question": "Which specific characteristic of cybercrime makes the 'e-Zero FIR' system particularly effective for its investigation, as suggested by PM Modi's directive for all states?",
+    "options": [
+      "Its localized nature within a single district.",
+      "Its ability to transcend geographical boundaries quickly.",
+      "Its reliance on physical evidence only.",
+      "Its infrequent occurrence across states."
+    ],
+    "correctAnswer": "Its ability to transcend geographical boundaries quickly."
   },
   {
     "id": 16,
-    "question": "What health initiative's progress was also reviewed by the PM during discussions that included directives to states?",
-    "options": ["Polio Eradication Mission", "Ayushman Bharat Yojana", "TB Mukt Bharat Abhiyan", "National AIDS Control Programme"],
-    "correctAnswer": "TB Mukt Bharat Abhiyan"
+    "question": "What highly competitive national entrance examination recently underwent a retest after allegations of irregularities and a leak, impacting students nationwide including those from Telangana and Andhra Pradesh?",
+    "options": [
+      "JEE Advanced",
+      "CAT",
+      "NEET",
+      "UPSC Civil Services Exam"
+    ],
+    "correctAnswer": "NEET"
   },
   {
     "id": 17,
-    "question": "The concept of 'Zero FIR' allows an FIR to be registered at any police station, irrespective of the crime's jurisdiction. How does 'e-Zero FIR' enhance this for cybercrime, especially for citizens in Telangana and Andhra Pradesh?",
-    "options": ["It limits FIR registration to capital cities", "It requires the victim to travel to the crime location", "It allows for digital registration of FIR from anywhere", "It makes FIR registration optional"],
-    "correctAnswer": "It allows for digital registration of FIR from anywhere"
+    "question": "According to Prime Minister Modi, what was a key factor in the successful conduct of the NEET retest?",
+    "options": [
+      "International support and funding.",
+      "A collective bid and coordinated effort.",
+      "Lower number of candidates appearing for the retest.",
+      "Advanced foreign technology deployment."
+    ],
+    "correctAnswer": "A collective bid and coordinated effort."
   },
   {
     "id": 18,
-    "question": "Why is 'fast-tracking' e-Zero FIRs particularly crucial for cybercrime cases in states like Telangana and Andhra Pradesh?",
-    "options": ["Cybercriminals operate slowly", "Digital evidence can be volatile and time-sensitive", "To reduce the number of physical police stations", "To increase government revenue"],
-    "correctAnswer": "Digital evidence can be volatile and time-sensitive"
+    "question": "Which Union Minister recently commented on the NEET leak, acknowledging that it 'shouldn't have happened'?",
+    "options": [
+      "Piyush Goyal",
+      "Dharmendra Pradhan",
+      "Smriti Irani",
+      "Nitin Gadkari"
+    ],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 19,
-    "question": "What significant challenge does rising digital fraud pose to law enforcement and citizens in states across India, including Telangana and Andhra Pradesh?",
-    "options": ["Lack of physical crime scenes", "Difficulty in identifying perpetrators across jurisdictions", "Over-reliance on traditional policing methods", "Decreased need for public vigilance"],
-    "correctAnswer": "Difficulty in identifying perpetrators across jurisdictions"
+    "question": "The NEET examination is the primary gateway for admission to which professional courses in India, directly affecting the career paths of many students from states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Engineering and Architecture",
+      "Medical and Dental",
+      "Law and Journalism",
+      "Management and Finance"
+    ],
+    "correctAnswer": "Medical and Dental"
   },
   {
     "id": 20,
-    "question": "The movement of India-bound ships through the Strait of Hormuz is critical for which aspect of the Indian economy, impacting states like Andhra Pradesh with major ports?",
-    "options": ["Inland waterways tourism", "International maritime trade", "Domestic fishing industry", "Himalayan mountaineering expeditions"],
-    "correctAnswer": "International maritime trade"
+    "question": "What was the central concern surrounding the initial NEET examination that prompted widespread debate and ultimately led to a retest for some candidates?",
+    "options": [
+      "High examination fees",
+      "Inadequate number of test centers",
+      "Allegations of question paper leaks and irregularities",
+      "Difficulty of the questions"
+    ],
+    "correctAnswer": "Allegations of question paper leaks and irregularities"
   },
   {
     "id": 21,
-    "question": "The Strait of Hormuz is a vital maritime chokepoint. For India-bound ships, what primary type of goods or resources often traverses this route, affecting energy security and economy across Indian states?",
-    "options": ["Fresh produce", "Crude oil and natural gas", "Luxury textiles", "Forest products"],
-    "correctAnswer": "Crude oil and natural gas"
+    "question": "Which national educational body recently made a decision to delay the teaching of historical topics such as Nazism and the French Revolution by one academic year for students across India, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "UGC (University Grants Commission)",
+      "AICTE (All India Council for Technical Education)",
+      "NCERT (National Council of Educational Research and Training)",
+      "CBSE (Central Board of Secondary Education)"
+    ],
+    "correctAnswer": "NCERT (National Council of Educational Research and Training)"
   },
   {
     "id": 22,
-    "question": "How many India-bound ships were reported to have crossed the Strait of Hormuz, with more waiting, highlighting continuous maritime traffic vital for India's economy and its states?",
-    "options": ["10", "20", "30", "50"],
-    "correctAnswer": "30"
+    "question": "The NCERT's decision to delay topics like Nazism and the French Revolution affects students entering which specific grade level in the current academic year?",
+    "options": [
+      "Class VIII",
+      "Class IX",
+      "Class X",
+      "Class XI"
+    ],
+    "correctAnswer": "Class IX"
   },
   {
     "id": 23,
-    "question": "The PM's call for fast-tracking e-Zero FIRs in cybercrime cases highlights the importance of what type of reporting system for victims in states like Telangana and Andhra Pradesh?",
-    "options": ["Paper-based reporting", "Centralized reporting", "Accessible and quick digital reporting", "Post-investigation reporting"],
-    "correctAnswer": "Accessible and quick digital reporting"
+    "question": "The recent NCERT curriculum change regarding historical topics reflects a broader effort to revise and streamline what aspect of the Indian education system?",
+    "options": [
+      "Teacher training methodologies.",
+      "Examination patterns for board exams.",
+      "School textbook content and pedagogical approach.",
+      "Funding models for government schools."
+    ],
+    "correctAnswer": "School textbook content and pedagogical approach."
   },
   {
     "id": 24,
-    "question": "The government's new rural employment framework, which benefits states like Telangana and Andhra Pradesh, focuses on development works aimed at improving what aspect of rural life?",
-    "options": ["Urban migration", "Connectivity and basic amenities", "Industrialization", "Luxury tourism"],
-    "correctAnswer": "Connectivity and basic amenities"
+    "question": "The National Council of Educational Research and Training (NCERT) plays a crucial role in developing what for schools affiliated with various boards across India, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "Sports infrastructure and facilities.",
+      "Uniform policies and dress codes.",
+      "Syllabi and textbooks.",
+      "Mid-day meal schemes."
+    ],
+    "correctAnswer": "Syllabi and textbooks."
   },
   {
     "id": 25,
-    "question": "Farmers protesting the India-US trade deal voiced concerns that the pact would disproportionately affect which groups within the agricultural sector in India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Large corporate farms", "Labourers and small traders", "Agri-tech startups", "Export-oriented businesses"],
-    "correctAnswer": "Labourers and small traders"
+    "question": "What crucial clarification did the Ministry of External Affairs (MEA) recently issue regarding the nature of a passport for Indian citizens, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "It is primarily a document for identity verification within India.",
+      "It serves as conclusive proof of Indian citizenship.",
+      "It is merely a travel document and not a proof of citizenship.",
+      "It is only required for international business travel."
+    ],
+    "correctAnswer": "It is merely a travel document and not a proof of citizenship."
   }
 ]

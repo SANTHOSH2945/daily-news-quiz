@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What was the alias of the woman arrested in Jaipur for alleged links to Jaish-e-Mohammed?",
-    "options": ["Babita Dhakad alias 'Khadija'", "Ayesha Khan alias 'Fatima'", "Priya Sharma alias 'Noor'", "Shanti Devi alias 'Zohra'"],
-    "correctAnswer": "Babita Dhakad alias 'Khadija'"
+    "question": "What is the new fee for an ordinary passport application in India, effective from July 1?",
+    "options": ["Rs 1,500", "Rs 2,000", "Rs 2,500", "Rs 3,000"],
+    "correctAnswer": "Rs 2,500"
   },
   {
     "id": 2,
-    "question": "Which terror group was the Jaipur woman allegedly planning to marry an associate of, as per officials?",
-    "options": ["Lashkar-e-Taiba", "Harkat-ul-Mujahideen", "Jaish-e-Mohammed", "Al-Qaeda"],
-    "correctAnswer": "Jaish-e-Mohammed"
+    "question": "What is the new fee for a Tatkal passport application in India, effective from July 1?",
+    "options": ["Rs 4,000", "Rs 5,000", "Rs 6,000", "Rs 7,000"],
+    "correctAnswer": "Rs 6,000"
   },
   {
     "id": 3,
-    "question": "Through which neighboring country was the arrested Jaipur woman allegedly planning to enter Pakistan?",
-    "options": ["Bangladesh", "Bhutan", "Nepal", "Myanmar"],
-    "correctAnswer": "Nepal"
+    "question": "When are the new passport application fees set to take effect across India, impacting citizens including those in Telangana and Andhra Pradesh?",
+    "options": ["June 27", "July 1", "July 15", "August 1"],
+    "correctAnswer": "July 1"
   },
   {
     "id": 4,
-    "question": "For how long had the Jaipur woman, arrested for alleged terror links, been under military surveillance?",
-    "options": ["Several days", "Several weeks", "Several months", "Several years"],
-    "correctAnswer": "Several weeks"
+    "question": "Approximately how many years ago did the 'Emergency' period begin in India, an event that significantly impacted governance across all states, including Telangana and Andhra Pradesh?",
+    "options": ["30 years", "40 years", "50 years", "60 years"],
+    "correctAnswer": "50 years"
   },
   {
     "id": 5,
-    "question": "The recent arrest of a woman with alleged terror links highlights national security concerns across India, including states like Telangana and Andhra Pradesh, regarding which extremist organization?",
-    "options": ["Indian Mujahideen", "SIMI", "Jaish-e-Mohammed", "Hizb-ul-Mujahideen"],
-    "correctAnswer": "Jaish-e-Mohammed"
+    "question": "What initial event, involving students at a government engineering college in Ahmedabad, is cited as a trigger for the chain of events leading to the Indian Emergency?",
+    "options": ["Protest against exam reforms", "Walkout over hostel conditions", "Strike over faculty appointments", "Walkout over steep hike in monthly food bill"],
+    "correctAnswer": "Walkout over steep hike in monthly food bill"
   },
   {
     "id": 6,
-    "question": "The alleged plan by an individual with terror links to enter Pakistan via Nepal underscores India's vigilance against what type of threats, relevant to security agencies in all states?",
-    "options": ["Economic espionage", "Cyber warfare", "Cross-border terrorism", "Internal political unrest"],
-    "correctAnswer": "Cross-border terrorism"
+    "question": "In which year was the Emergency declared in India, marking a significant period of political and institutional crisis?",
+    "options": ["1971", "1973", "1975", "1977"],
+    "correctAnswer": "1975"
   },
   {
     "id": 7,
-    "question": "What was the name of the CBI operation that targeted a pan-India digital scam network?",
-    "options": ["Operation Cyber-Shield", "Operation Chakra-VI", "Operation Digital-Guard", "Operation Net-Saviour"],
-    "correctAnswer": "Operation Chakra-VI"
+    "question": "Which body recently stated that a passport is among the valid documents for SIR (Self-Identification & Registration) identification amid a citizenship row?",
+    "options": ["Ministry of Home Affairs", "Election Commission of India", "Supreme Court of India", "NITI Aayog"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 8,
-    "question": "How many states were involved in the pan-India digital scam network busted by the CBI?",
-    "options": ["10 states", "12 states", "14 states", "16 states"],
-    "correctAnswer": "16 states"
+    "question": "The Election Commission's clarification on valid documents for SIR identification impacts all Indian citizens. What does SIR stand for in this context?",
+    "options": ["State Identity Record", "Self-Identification & Registration", "Systematic Information Retrieval", "Secure Identity Reference"],
+    "correctAnswer": "Self-Identification & Registration"
   },
   {
     "id": 9,
-    "question": "Approximately how many locations were raided by the CBI in connection with the 'digital arrest' racket across India?",
-    "options": ["50 locations", "65 locations", "80 locations", "100 locations"],
-    "correctAnswer": "80 locations"
+    "question": "The news mentions the exploitation of loopholes in which specific act to facilitate political defections among elected representatives in India?",
+    "options": ["Representation of the People Act", "Anti-Defection Act", "Election Reforms Act", "Parliamentary Privileges Act"],
+    "correctAnswer": "Anti-Defection Act"
   },
   {
     "id": 10,
-    "question": "What was the primary deceptive method used by the 'digital arrest' racket to swindle victims?",
-    "options": ["Fake investment schemes", "Impersonating bank officials", "Impersonating government and court officials", "Lottery scams"],
-    "correctAnswer": "Impersonating government and court officials"
+    "question": "The Anti-Defection Law in India, which applies to MLAs and MPs from states like Telangana and Andhra Pradesh, is primarily enshrined in which Schedule of the Indian Constitution?",
+    "options": ["Seventh Schedule", "Eighth Schedule", "Ninth Schedule", "Tenth Schedule"],
+    "correctAnswer": "Tenth Schedule"
   },
   {
     "id": 11,
-    "question": "Which central agency led the crackdown on the pan-India 'digital arrest' racket?",
-    "options": ["National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
+    "question": "Sonam Wangchuk has set a deadline for the government, threatening a fast over various issues, including which major national entrance examination?",
+    "options": ["JEE Advanced", "UPSC Civil Services", "NEET", "CAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 12,
-    "question": "The CBI operation against the 'digital arrest' racket, impacting citizens across states including Telangana and Andhra Pradesh, involved suspects who laundered approximately how much money?",
-    "options": ["Rs 50 lakh", "Rs 1 crore", "Rs 2 crore", "Rs 5 crore"],
-    "correctAnswer": "Rs 2 crore"
+    "question": "Sonam Wangchuk plans to hold his protest fast at which iconic site in New Delhi, a common venue for demonstrations impacting national policy and citizens from all states?",
+    "options": ["India Gate", "Red Fort", "Jantar Mantar", "Parliament House"],
+    "correctAnswer": "Jantar Mantar"
   },
   {
     "id": 13,
-    "question": "The 'digital arrest' scam created deceptive websites impersonating which high-level institution?",
-    "options": ["The Reserve Bank of India", "The Prime Minister's Office", "The Supreme Court", "The Parliament of India"],
-    "correctAnswer": "The Supreme Court"
+    "question": "AIIMS (All India Institute of Medical Sciences) institutions across the country, including those in Andhra Pradesh and Telangana, are cracking down on what specific activity by students and staff?",
+    "options": ["Unauthorised research publication", "Unauthorised social media use", "Unauthorised leave requests", "Unauthorised patient communication"],
+    "correctAnswer": "Unauthorised social media use"
   },
   {
     "id": 14,
-    "question": "The recent CBI crackdown on a pan-India digital arrest racket, known as 'Operation Chakra-VI', serves as a warning for citizens in states like Andhra Pradesh and Telangana against what type of fraudulent activity?",
-    "options": ["Loan shark scams", "Fake job offers", "Online retail fraud", "Impersonation and 'digital arrest' threats"],
-    "correctAnswer": "Impersonation and 'digital arrest' threats"
+    "question": "Which city in Andhra Pradesh is home to one of the AIIMS institutions that would be affected by national policy changes like those on social media use?",
+    "options": ["Visakhapatnam", "Vijayawada", "Kurnool", "Mangalagiri"],
+    "correctAnswer": "Mangalagiri"
   },
   {
     "id": 15,
-    "question": "Which financial methods were primarily used by the 'digital arrest' racket suspects to launder money?",
-    "options": ["Cash payments and foreign bank accounts", "Cryptocurrency and dark web transactions", "Shell companies and mule accounts", "Direct bank transfers and physical assets"],
-    "correctAnswer": "Shell companies and mule accounts"
+    "question": "Which city in Telangana is home to one of the AIIMS institutions that would be affected by national policy changes like those on social media use?",
+    "options": ["Warangal", "Nalgonda", "Bibinagar", "Karimnagar"],
+    "correctAnswer": "Bibinagar"
   },
   {
     "id": 16,
-    "question": "The busting of the 'digital arrest' racket by CBI highlights the importance of digital literacy for citizens in all Indian states, including Telangana and Andhra Pradesh, to avoid scams involving impersonation of which officials?",
-    "options": ["Police and Judiciary", "Income Tax and Customs", "Bank and Insurance", "All of the above"],
-    "correctAnswer": "Police and Judiciary"
+    "question": "The alleged Ram Temple donation embezzlement case, currently under investigation, pertains to the temple located in which Indian city?",
+    "options": ["Varanasi", "Mathura", "Ayodhya", "Prayagraj"],
+    "correctAnswer": "Ayodhya"
   },
   {
     "id": 17,
-    "question": "Due to recent health concerns, what new requirement has been implemented for international arrivals in India?",
-    "options": ["Mandatory quarantine for 7 days", "Compulsory health check-ups at all airports", "To fill health self-declaration forms online", "Carry a medical fitness certificate from home country"],
-    "correctAnswer": "To fill health self-declaration forms online"
+    "question": "In the Ram Temple donation case, an FIR has been registered against eight individuals, and which type of investigative body has been formed by the state government to probe the allegations?",
+    "options": ["CBI", "ED", "SIT", "NIA"],
+    "correctAnswer": "SIT"
   },
   {
     "id": 18,
-    "question": "For what specific health scare are international arrivals in India now required to fill online self-declaration forms?",
-    "options": ["Dengue", "Malaria", "Ebola", "Zika Virus"],
-    "correctAnswer": "Ebola"
+    "question": "What significant event, where Canada recently admitted Khalistanis planted a bomb, took place 41 years ago involving an Air India flight?",
+    "options": ["Air India Express Flight 812 crash", "Air India Flight 182 (Kanishka) bombing", "Indian Airlines Flight 423 hijacking", "Air India Flight 855 crash"],
+    "correctAnswer": "Air India Flight 182 (Kanishka) bombing"
   },
   {
     "id": 19,
-    "question": "The new requirement for international arrivals to submit online health self-declaration forms is aimed at enhancing public health safety in all Indian states, including Andhra Pradesh and Telangana, in response to what?",
-    "options": ["Rising local infections", "A global pandemic", "An Ebola scare", "Increased tourism"],
-    "correctAnswer": "An Ebola scare"
+    "question": "Which country, in a first, recently admitted that Khalistanis planted a bomb on Air India 'Kanishka' Flight 182?",
+    "options": ["United Kingdom", "United States", "Canada", "Australia"],
+    "correctAnswer": "Canada"
   },
   {
     "id": 20,
-    "question": "What type of form are international arrivals required to fill online as a health measure in India?",
-    "options": ["Visa application form", "Customs declaration form", "Health self-declaration form", "Immigration pre-approval form"],
-    "correctAnswer": "Health self-declaration form"
+    "question": "The bombing of Air India Flight 182, which claimed 329 innocent lives, is described as the deadliest terrorist attack in the history of which country?",
+    "options": ["India", "United States", "Canada", "United Kingdom"],
+    "correctAnswer": "Canada"
   },
   {
     "id": 21,
-    "question": "This new policy, requiring online health self-declaration forms, applies to which specific group of individuals entering India?",
-    "options": ["Domestic travelers only", "Business travelers only", "International arrivals", "Indian citizens returning from abroad"],
-    "correctAnswer": "International arrivals"
+    "question": "Sharad Pawar's assertion about his party's unity comes amid fears of poaching, following similar splits in which two other prominent Indian political parties?",
+    "options": ["Congress and BJP", "AAP and BJD", "Shiv Sena (UBT) and Trinamool Congress", "SP and BSP"],
+    "correctAnswer": "Shiv Sena (UBT) and Trinamool Congress"
   },
   {
     "id": 22,
-    "question": "Which national issue did Rahul Gandhi recently criticize the Modi government and Union Minister Dharmendra Pradhan for?",
-    "options": ["Rising unemployment", "Agricultural policies", "Paper leaks", "Inflation control"],
-    "correctAnswer": "Paper leaks"
+    "question": "The 'Emergency' period in India began with a midnight broadcast on which national radio service?",
+    "options": ["Radio Mirchi", "All India Radio", "Radio City", "BBC Hindi"],
+    "correctAnswer": "All India Radio"
   },
   {
     "id": 23,
-    "question": "Rahul Gandhi attacked the Modi government over paper leaks, stating that students are being called what?",
-    "options": ["Anti-nationals", "Terrorists", "Lazy", "Unpatriotic"],
-    "correctAnswer": "Terrorists"
+    "question": "The new passport fees will universally apply to all applicants across India, including citizens residing in which two specified South Indian states?",
+    "options": ["Karnataka and Kerala", "Tamil Nadu and Odisha", "Telangana and Andhra Pradesh", "Goa and Maharashtra"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 24,
-    "question": "Who is the Union Minister mentioned in the news that Rahul Gandhi criticized regarding paper leaks?",
-    "options": ["Nirmala Sitharaman", "Amit Shah", "Dharmendra Pradhan", "S. Jaishankar"],
-    "correctAnswer": "Dharmendra Pradhan"
+    "question": "Sonam Wangchuk's 'deadline' for the government to resolve at least one issue is set for which date?",
+    "options": ["June 20", "June 25", "June 27", "July 1"],
+    "correctAnswer": "June 27"
   },
   {
     "id": 25,
-    "question": "The issue of widespread paper leaks, criticized by Rahul Gandhi, is a national concern affecting students in all states including Telangana and Andhra Pradesh, raising questions about what aspect of examinations?",
-    "options": ["The difficulty level", "The fairness and integrity", "The number of attempts allowed", "The syllabus coverage"],
-    "correctAnswer": "The fairness and integrity"
+    "question": "The 'Emergency' era in India, nearly 50 years ago, was triggered by a chain of events including economic shock, popular fury, political mobilisation, and what kind of crisis?",
+    "options": ["Military crisis", "Judicial crisis", "Institutional crisis", "Foreign policy crisis"],
+    "correctAnswer": "Institutional crisis"
   }
 ]

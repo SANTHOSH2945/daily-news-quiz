@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What did the Supreme Court recently observe regarding private colleges being compelled to charge fees at government rates, a matter affecting educational institutions in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "It would lead to an increase in student admissions.",
-      "It would ensure better quality of education.",
-      "It would force private colleges to shut down.",
-      "It would have no significant impact on their operations."
-    ],
-    "correctAnswer": "It would force private colleges to shut down."
+    "question": "What was the alias of the woman arrested in Jaipur for alleged links to Jaish-e-Mohammed?",
+    "options": ["Babita Dhakad alias 'Khadija'", "Ayesha Khan alias 'Fatima'", "Priya Sharma alias 'Noor'", "Shanti Devi alias 'Zohra'"],
+    "correctAnswer": "Babita Dhakad alias 'Khadija'"
   },
   {
     "id": 2,
-    "question": "The Supreme Court's recent statement about private colleges and their fee structures primarily concerns the viability of which type of educational institutions?",
-    "options": [
-      "Government-funded universities",
-      "Public schools",
-      "Private professional colleges",
-      "Vocational training institutes"
-    ],
-    "correctAnswer": "Private professional colleges"
+    "question": "Which terror group was the Jaipur woman allegedly planning to marry an associate of, as per officials?",
+    "options": ["Lashkar-e-Taiba", "Harkat-ul-Mujahideen", "Jaish-e-Mohammed", "Al-Qaeda"],
+    "correctAnswer": "Jaish-e-Mohammed"
   },
   {
     "id": 3,
-    "question": "The issue of private college fees, as highlighted by the Supreme Court, directly impacts the sustainability of higher education in which sector across Indian states, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Primary education",
-      "Technical education",
-      "Public sector universities",
-      "Distance learning programs"
-    ],
-    "correctAnswer": "Technical education"
+    "question": "Through which neighboring country was the arrested Jaipur woman allegedly planning to enter Pakistan?",
+    "options": ["Bangladesh", "Bhutan", "Nepal", "Myanmar"],
+    "correctAnswer": "Nepal"
   },
   {
     "id": 4,
-    "question": "What is the underlying principle upheld by the Supreme Court in its observation regarding the financial autonomy of private colleges?",
-    "options": [
-      "Private colleges must always prioritize social welfare over profit.",
-      "Private colleges have a right to reasonable profits to sustain operations.",
-      "Government alone should determine fee structures for all colleges.",
-      "Students should have the final say in college fee amounts."
-    ],
-    "correctAnswer": "Private colleges have a right to reasonable profits to sustain operations."
+    "question": "For how long had the Jaipur woman, arrested for alleged terror links, been under military surveillance?",
+    "options": ["Several days", "Several weeks", "Several months", "Several years"],
+    "correctAnswer": "Several weeks"
   },
   {
     "id": 5,
-    "question": "The Supreme Court's recent ruling emphasizes the potential negative impact on the existence of private educational institutions if what condition is imposed?",
-    "options": [
-      "If they are asked to increase their infrastructure significantly.",
-      "If they are mandated to reserve more seats for economically weaker sections.",
-      "If they are compelled to charge fees equivalent to government rates.",
-      "If they are restricted from offering a wide range of courses."
-    ],
-    "correctAnswer": "If they are compelled to charge fees equivalent to government rates."
+    "question": "The recent arrest of a woman with alleged terror links highlights national security concerns across India, including states like Telangana and Andhra Pradesh, regarding which extremist organization?",
+    "options": ["Indian Mujahideen", "SIMI", "Jaish-e-Mohammed", "Hizb-ul-Mujahideen"],
+    "correctAnswer": "Jaish-e-Mohammed"
   },
   {
     "id": 6,
-    "question": "Which Union Minister is scheduled to launch a nationwide drive to destroy a significant quantity of drugs, an initiative that impacts drug enforcement efforts in all states including Telangana and Andhra Pradesh?",
-    "options": [
-      "Rajnath Singh",
-      "Nirmala Sitharaman",
-      "Amit Shah",
-      "S. Jaishankar"
-    ],
-    "correctAnswer": "Amit Shah"
+    "question": "The alleged plan by an individual with terror links to enter Pakistan via Nepal underscores India's vigilance against what type of threats, relevant to security agencies in all states?",
+    "options": ["Economic espionage", "Cyber warfare", "Cross-border terrorism", "Internal political unrest"],
+    "correctAnswer": "Cross-border terrorism"
   },
   {
     "id": 7,
-    "question": "What is the primary objective of the massive drug destruction drive announced by Union Minister Amit Shah?",
-    "options": [
-      "To raise awareness about drug abuse among youth.",
-      "To confiscate properties of drug traffickers.",
-      "To destroy seized narcotics and send a strong message against drug trafficking.",
-      "To rehabilitate drug addicts across the country."
-    ],
-    "correctAnswer": "To destroy seized narcotics and send a strong message against drug trafficking."
+    "question": "What was the name of the CBI operation that targeted a pan-India digital scam network?",
+    "options": ["Operation Cyber-Shield", "Operation Chakra-VI", "Operation Digital-Guard", "Operation Net-Saviour"],
+    "correctAnswer": "Operation Chakra-VI"
   },
   {
     "id": 8,
-    "question": "How much quantity of drugs is targeted for destruction in the upcoming nationwide drive led by Amit Shah?",
-    "options": [
-      "20,000 kg",
-      "2 lakh kg",
-      "20 lakh kg",
-      "2 kg"
-    ],
-    "correctAnswer": "2 lakh kg"
+    "question": "How many states were involved in the pan-India digital scam network busted by the CBI?",
+    "options": ["10 states", "12 states", "14 states", "16 states"],
+    "correctAnswer": "16 states"
   },
   {
     "id": 9,
-    "question": "This drug destruction initiative is part of a broader strategy by the Indian government to combat what major issue affecting public health and safety across states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Illegal mining",
-      "Cybercrime",
-      "Drug trafficking and abuse",
-      "Wildlife poaching"
-    ],
-    "correctAnswer": "Drug trafficking and abuse"
+    "question": "Approximately how many locations were raided by the CBI in connection with the 'digital arrest' racket across India?",
+    "options": ["50 locations", "65 locations", "80 locations", "100 locations"],
+    "correctAnswer": "80 locations"
   },
   {
     "id": 10,
-    "question": "The nationwide drug destruction drive underscores the government's commitment to what aspect of law enforcement against narcotics?",
-    "options": [
-      "Legalizing certain drugs for medicinal purposes.",
-      "Focusing solely on border control.",
-      "Eradicating the supply chain of illicit drugs.",
-      "Promoting international drug trade agreements."
-    ],
-    "correctAnswer": "Eradicating the supply chain of illicit drugs."
+    "question": "What was the primary deceptive method used by the 'digital arrest' racket to swindle victims?",
+    "options": ["Fake investment schemes", "Impersonating bank officials", "Impersonating government and court officials", "Lottery scams"],
+    "correctAnswer": "Impersonating government and court officials"
   },
   {
     "id": 11,
-    "question": "Prime Minister Modi recently advocated for the implementation of 'e-Zero FIRs' in all states, including Telangana and Andhra Pradesh. What is the main objective of this initiative?",
-    "options": [
-      "To simplify tax filing for citizens.",
-      "To speed up probes into cyber fraud cases.",
-      "To streamline passport application processes.",
-      "To enhance online voter registration."
-    ],
-    "correctAnswer": "To speed up probes into cyber fraud cases."
+    "question": "Which central agency led the crackdown on the pan-India 'digital arrest' racket?",
+    "options": ["National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
+    "correctAnswer": "Central Bureau of Investigation (CBI)"
   },
   {
     "id": 12,
-    "question": "The 'e-Zero FIR' system, as suggested by PM Modi, is designed to enhance the investigation process for which specific category of crimes?",
-    "options": [
-      "Homicide cases",
-      "Property disputes",
-      "Cyber fraud",
-      "Traffic violations"
-    ],
-    "correctAnswer": "Cyber fraud"
+    "question": "The CBI operation against the 'digital arrest' racket, impacting citizens across states including Telangana and Andhra Pradesh, involved suspects who laundered approximately how much money?",
+    "options": ["Rs 50 lakh", "Rs 1 crore", "Rs 2 crore", "Rs 5 crore"],
+    "correctAnswer": "Rs 2 crore"
   },
   {
     "id": 13,
-    "question": "What significant advantage does the concept of a 'Zero FIR' offer, particularly when implemented as an 'e-Zero FIR' across states like Telangana and Andhra Pradesh?",
-    "options": [
-      "It allows police to refuse registration of an FIR if the crime did not occur in their jurisdiction.",
-      "It enables an FIR to be registered immediately, irrespective of the jurisdiction where the crime occurred.",
-      "It mandates that all FIRs must be filed in person at the nearest police station.",
-      "It reduces the number of FIRs filed by consolidating similar complaints."
-    ],
-    "correctAnswer": "It enables an FIR to be registered immediately, irrespective of the jurisdiction where the crime occurred."
+    "question": "The 'digital arrest' scam created deceptive websites impersonating which high-level institution?",
+    "options": ["The Reserve Bank of India", "The Prime Minister's Office", "The Supreme Court", "The Parliament of India"],
+    "correctAnswer": "The Supreme Court"
   },
   {
     "id": 14,
-    "question": "The Prime Minister's call for 'e-Zero FIRs' emphasizes leveraging technology to improve which aspect of the Indian legal and policing system?",
-    "options": [
-      "Court proceedings",
-      "Judicial appointments",
-      "Crime reporting and investigation",
-      "Prison management"
-    ],
-    "correctAnswer": "Crime reporting and investigation"
+    "question": "The recent CBI crackdown on a pan-India digital arrest racket, known as 'Operation Chakra-VI', serves as a warning for citizens in states like Andhra Pradesh and Telangana against what type of fraudulent activity?",
+    "options": ["Loan shark scams", "Fake job offers", "Online retail fraud", "Impersonation and 'digital arrest' threats"],
+    "correctAnswer": "Impersonation and 'digital arrest' threats"
   },
   {
     "id": 15,
-    "question": "Which specific characteristic of cybercrime makes the 'e-Zero FIR' system particularly effective for its investigation, as suggested by PM Modi's directive for all states?",
-    "options": [
-      "Its localized nature within a single district.",
-      "Its ability to transcend geographical boundaries quickly.",
-      "Its reliance on physical evidence only.",
-      "Its infrequent occurrence across states."
-    ],
-    "correctAnswer": "Its ability to transcend geographical boundaries quickly."
+    "question": "Which financial methods were primarily used by the 'digital arrest' racket suspects to launder money?",
+    "options": ["Cash payments and foreign bank accounts", "Cryptocurrency and dark web transactions", "Shell companies and mule accounts", "Direct bank transfers and physical assets"],
+    "correctAnswer": "Shell companies and mule accounts"
   },
   {
     "id": 16,
-    "question": "What highly competitive national entrance examination recently underwent a retest after allegations of irregularities and a leak, impacting students nationwide including those from Telangana and Andhra Pradesh?",
-    "options": [
-      "JEE Advanced",
-      "CAT",
-      "NEET",
-      "UPSC Civil Services Exam"
-    ],
-    "correctAnswer": "NEET"
+    "question": "The busting of the 'digital arrest' racket by CBI highlights the importance of digital literacy for citizens in all Indian states, including Telangana and Andhra Pradesh, to avoid scams involving impersonation of which officials?",
+    "options": ["Police and Judiciary", "Income Tax and Customs", "Bank and Insurance", "All of the above"],
+    "correctAnswer": "Police and Judiciary"
   },
   {
     "id": 17,
-    "question": "According to Prime Minister Modi, what was a key factor in the successful conduct of the NEET retest?",
-    "options": [
-      "International support and funding.",
-      "A collective bid and coordinated effort.",
-      "Lower number of candidates appearing for the retest.",
-      "Advanced foreign technology deployment."
-    ],
-    "correctAnswer": "A collective bid and coordinated effort."
+    "question": "Due to recent health concerns, what new requirement has been implemented for international arrivals in India?",
+    "options": ["Mandatory quarantine for 7 days", "Compulsory health check-ups at all airports", "To fill health self-declaration forms online", "Carry a medical fitness certificate from home country"],
+    "correctAnswer": "To fill health self-declaration forms online"
   },
   {
     "id": 18,
-    "question": "Which Union Minister recently commented on the NEET leak, acknowledging that it 'shouldn't have happened'?",
-    "options": [
-      "Piyush Goyal",
-      "Dharmendra Pradhan",
-      "Smriti Irani",
-      "Nitin Gadkari"
-    ],
-    "correctAnswer": "Dharmendra Pradhan"
+    "question": "For what specific health scare are international arrivals in India now required to fill online self-declaration forms?",
+    "options": ["Dengue", "Malaria", "Ebola", "Zika Virus"],
+    "correctAnswer": "Ebola"
   },
   {
     "id": 19,
-    "question": "The NEET examination is the primary gateway for admission to which professional courses in India, directly affecting the career paths of many students from states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Engineering and Architecture",
-      "Medical and Dental",
-      "Law and Journalism",
-      "Management and Finance"
-    ],
-    "correctAnswer": "Medical and Dental"
+    "question": "The new requirement for international arrivals to submit online health self-declaration forms is aimed at enhancing public health safety in all Indian states, including Andhra Pradesh and Telangana, in response to what?",
+    "options": ["Rising local infections", "A global pandemic", "An Ebola scare", "Increased tourism"],
+    "correctAnswer": "An Ebola scare"
   },
   {
     "id": 20,
-    "question": "What was the central concern surrounding the initial NEET examination that prompted widespread debate and ultimately led to a retest for some candidates?",
-    "options": [
-      "High examination fees",
-      "Inadequate number of test centers",
-      "Allegations of question paper leaks and irregularities",
-      "Difficulty of the questions"
-    ],
-    "correctAnswer": "Allegations of question paper leaks and irregularities"
+    "question": "What type of form are international arrivals required to fill online as a health measure in India?",
+    "options": ["Visa application form", "Customs declaration form", "Health self-declaration form", "Immigration pre-approval form"],
+    "correctAnswer": "Health self-declaration form"
   },
   {
     "id": 21,
-    "question": "Which national educational body recently made a decision to delay the teaching of historical topics such as Nazism and the French Revolution by one academic year for students across India, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "UGC (University Grants Commission)",
-      "AICTE (All India Council for Technical Education)",
-      "NCERT (National Council of Educational Research and Training)",
-      "CBSE (Central Board of Secondary Education)"
-    ],
-    "correctAnswer": "NCERT (National Council of Educational Research and Training)"
+    "question": "This new policy, requiring online health self-declaration forms, applies to which specific group of individuals entering India?",
+    "options": ["Domestic travelers only", "Business travelers only", "International arrivals", "Indian citizens returning from abroad"],
+    "correctAnswer": "International arrivals"
   },
   {
     "id": 22,
-    "question": "The NCERT's decision to delay topics like Nazism and the French Revolution affects students entering which specific grade level in the current academic year?",
-    "options": [
-      "Class VIII",
-      "Class IX",
-      "Class X",
-      "Class XI"
-    ],
-    "correctAnswer": "Class IX"
+    "question": "Which national issue did Rahul Gandhi recently criticize the Modi government and Union Minister Dharmendra Pradhan for?",
+    "options": ["Rising unemployment", "Agricultural policies", "Paper leaks", "Inflation control"],
+    "correctAnswer": "Paper leaks"
   },
   {
     "id": 23,
-    "question": "The recent NCERT curriculum change regarding historical topics reflects a broader effort to revise and streamline what aspect of the Indian education system?",
-    "options": [
-      "Teacher training methodologies.",
-      "Examination patterns for board exams.",
-      "School textbook content and pedagogical approach.",
-      "Funding models for government schools."
-    ],
-    "correctAnswer": "School textbook content and pedagogical approach."
+    "question": "Rahul Gandhi attacked the Modi government over paper leaks, stating that students are being called what?",
+    "options": ["Anti-nationals", "Terrorists", "Lazy", "Unpatriotic"],
+    "correctAnswer": "Terrorists"
   },
   {
     "id": 24,
-    "question": "The National Council of Educational Research and Training (NCERT) plays a crucial role in developing what for schools affiliated with various boards across India, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "Sports infrastructure and facilities.",
-      "Uniform policies and dress codes.",
-      "Syllabi and textbooks.",
-      "Mid-day meal schemes."
-    ],
-    "correctAnswer": "Syllabi and textbooks."
+    "question": "Who is the Union Minister mentioned in the news that Rahul Gandhi criticized regarding paper leaks?",
+    "options": ["Nirmala Sitharaman", "Amit Shah", "Dharmendra Pradhan", "S. Jaishankar"],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 25,
-    "question": "What crucial clarification did the Ministry of External Affairs (MEA) recently issue regarding the nature of a passport for Indian citizens, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "It is primarily a document for identity verification within India.",
-      "It serves as conclusive proof of Indian citizenship.",
-      "It is merely a travel document and not a proof of citizenship.",
-      "It is only required for international business travel."
-    ],
-    "correctAnswer": "It is merely a travel document and not a proof of citizenship."
+    "question": "The issue of widespread paper leaks, criticized by Rahul Gandhi, is a national concern affecting students in all states including Telangana and Andhra Pradesh, raising questions about what aspect of examinations?",
+    "options": ["The difficulty level", "The fairness and integrity", "The number of attempts allowed", "The syllabus coverage"],
+    "correctAnswer": "The fairness and integrity"
   }
 ]

@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What significant trend is India witnessing regarding the migration patterns of young professionals?",
-    "options": [
-      "Increased migration from urban centers to metro cities",
-      "A reversal from rural to urban migration, now moving to rural/remote areas",
-      "A stable migration pattern with no significant changes",
-      "Increased international migration for work opportunities"
-    ],
-    "correctAnswer": "A reversal from rural to urban migration, now moving to rural/remote areas"
+    "question": "Which island, whose transfer to a neighboring country is being called a 'dark chapter' by the BJP, is a subject of recent political debate in India?",
+    "options": ["Palk Strait Island", "Katchatheevu Island", "Rameshwaram Island", "Andaman Island"],
+    "correctAnswer": "Katchatheevu Island"
   },
   {
     "id": 2,
-    "question": "Which demographic cohorts are primarily driving the 'digital nomad' movement in India, as per the news?",
-    "options": [
-      "Senior citizens and retirees",
-      "Millennials and Gen Z",
-      "Blue-collar workers and daily wage earners",
-      "Agricultural laborers and farmers"
-    ],
-    "correctAnswer": "Millennials and Gen Z"
+    "question": "Which political party is being criticized by the BJP for the historical transfer of the Katchatheevu island to Sri Lanka?",
+    "options": ["Bharatiya Janata Party (BJP)", "All India Trinamool Congress (TMC)", "Indian National Congress (INC)", "Dravida Munnetra Kazhagam (DMK)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 3,
-    "question": "What are the main factors spurring the digital nomad movement among young professionals in India?",
-    "options": [
-      "Government incentives for rural employment",
-      "Remote work capabilities and a craving for a serene lifestyle",
-      "Lack of job opportunities in urban centers",
-      "Mandatory relocation policies by companies"
-    ],
-    "correctAnswer": "Remote work capabilities and a craving for a serene lifestyle"
+    "question": "To which neighboring country was Katchatheevu island historically transferred, according to recent discussions?",
+    "options": ["Bangladesh", "Maldives", "Sri Lanka", "Myanmar"],
+    "correctAnswer": "Sri Lanka"
   },
   {
     "id": 4,
-    "question": "How is the digital nomad movement transforming India's economic dynamics?",
-    "options": [
-      "By centralizing all economic activities in major cities",
-      "By increasing the cost of living in urban areas",
-      "By shifting work and economic activity towards rural and remote areas",
-      "By promoting traditional agricultural practices only"
-    ],
-    "correctAnswer": "By shifting work and economic activity towards rural and remote areas"
+    "question": "The BJP has recently referred to what historical event concerning an island as a 'dark chapter' for the Congress party?",
+    "options": ["Leasing of Diu Island", "Transfer of Katchatheevu Island", "Sale of Nicobar Islands", "Ceding of Shivalik Island"],
+    "correctAnswer": "Transfer of Katchatheevu Island"
   },
   {
     "id": 5,
-    "question": "What challenge is noted to exist alongside the growth of the digital nomad movement in India?",
-    "options": [
-      "Surplus of job opportunities in all sectors",
-      "Lack of qualified workforce",
-      "Infrastructure limitations",
-      "Strict government regulations on remote work"
-    ],
-    "correctAnswer": "Infrastructure limitations"
+    "question": "What method of drug trafficking has reportedly seen a 100-fold increase in cases in India over the last 5 years?",
+    "options": ["Sea-route smuggling", "Road network trafficking", "Drone drug trafficking", "Air cargo smuggling"],
+    "correctAnswer": "Drone drug trafficking"
   },
   {
     "id": 6,
-    "question": "The 'digital nomad' lifestyle described in the news involves working primarily from where?",
-    "options": [
-      "Strictly from corporate office towers",
-      "Only from co-working spaces in metropolitan areas",
-      "Rural and remote areas, embracing 'open skies'",
-      "Overseas locations exclusively"
-    ],
-    "correctAnswer": "Rural and remote areas, embracing 'open skies'"
+    "question": "According to recent reports, by what magnitude have drone drug trafficking cases increased in India over the past five years?",
+    "options": ["10-fold", "50-fold", "100-fold", "200-fold"],
+    "correctAnswer": "100-fold"
   },
   {
     "id": 7,
-    "question": "The current trend of young professionals moving to rural areas for work is described as a reversal of which age-old migration pattern?",
-    "options": [
-      "Seasonal migration for harvesting",
-      "Migration from urban centers to other urban centers",
-      "Migration from rural areas to urban centers",
-      "International migration for higher studies"
-    ],
-    "correctAnswer": "Migration from rural areas to urban centers"
+    "question": "The significant rise in drone drug trafficking cases in India poses a major challenge primarily to which sector?",
+    "options": ["Agricultural security", "Cyber security", "Border security", "Economic stability"],
+    "correctAnswer": "Border security"
   },
   {
     "id": 8,
-    "question": "What is one of the primary reasons young professionals in India are increasingly selecting rural and remote areas for their work?",
-    "options": [
-      "Higher salaries in rural areas",
-      "Government mandate to work from villages",
-      "A craving for a serene lifestyle",
-      "Lack of educational facilities in urban areas"
-    ],
-    "correctAnswer": "A craving for a serene lifestyle"
+    "question": "Which Union Ministry in India is reportedly moving fast to set up exclusive NDPS courts?",
+    "options": ["Ministry of Finance", "Ministry of Home Affairs (MHA)", "Ministry of Law and Justice", "Ministry of External Affairs"],
+    "correctAnswer": "Ministry of Home Affairs (MHA)"
   },
   {
     "id": 9,
-    "question": "The news highlights that the digital nomad movement is transforming which aspect of India?",
-    "options": [
-      "Its political landscape",
-      "Its religious demographics",
-      "Its economic dynamics",
-      "Its culinary traditions"
-    ],
-    "correctAnswer": "Its economic dynamics"
+    "question": "What is the primary objective of establishing exclusive NDPS courts, as stated by Amit Shah?",
+    "options": ["To expedite corporate litigation", "To handle environmental cases", "To speed up drug-related offense trials", "To resolve property disputes"],
+    "correctAnswer": "To speed up drug-related offense trials"
   },
   {
     "id": 10,
-    "question": "What does the phrase 'open skies' in the context of digital nomads imply about their workspace?",
-    "options": [
-      "Working outdoors without any shelter",
-      "Working from remote and less conventional locations",
-      "Working only from airports and airplanes",
-      "Working in glass-roofed offices"
-    ],
-    "correctAnswer": "Working from remote and less conventional locations"
+    "question": "Who recently announced the MHA's plan to expedite the establishment of exclusive NDPS courts?",
+    "options": ["Nirmala Sitharaman", "S. Jaishankar", "Amit Shah", "Narendra Modi"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 11,
-    "question": "What is 'Operation Sindoor' as referred to in the news headlines?",
-    "options": [
-      "A government scheme for women's empowerment",
-      "A military operation where bravehearts were martyred",
-      "A cultural festival celebrated in India",
-      "A new economic policy initiative"
-    ],
-    "correctAnswer": "A military operation where bravehearts were martyred"
+    "question": "The acronym NDPS in NDPS courts primarily stands for offenses related to what?",
+    "options": ["National Development & Public Services", "Narcotic Drugs and Psychotropic Substances", "Non-Disclosure & Patent Settlements", "Nuclear Disarmament & Public Safety"],
+    "correctAnswer": "Narcotic Drugs and Psychotropic Substances"
   },
   {
     "id": 12,
-    "question": "What unprecedented information did the government reveal for the first time concerning Operation Sindoor?",
-    "options": [
-      "Details of the operational strategy",
-      "The names of six martyred bravehearts",
-      "The total budget allocated for the operation",
-      "The number of enemy combatants neutralized"
-    ],
-    "correctAnswer": "The names of six martyred bravehearts"
+    "question": "How many new bullet train corridors is the Indian government aiming to develop across the country?",
+    "options": ["5", "7", "10", "12"],
+    "correctAnswer": "7"
   },
   {
     "id": 13,
-    "question": "The revelation of names of bravehearts martyred in Operation Sindoor is described as significant because:",
-    "options": [
-      "It marks the end of the operation",
-      "It is the first time such names were officially revealed for this operation",
-      "It indicates a change in government leadership",
-      "It led to immediate public protests"
-    ],
-    "correctAnswer": "It is the first time such names were officially revealed for this operation"
+    "question": "What is a key objective for the Indian government in designing structures and tunnels for the upcoming bullet train corridors?",
+    "options": ["Using recycled materials only", "Adopting standard design practices", "Prioritizing scenic views", "Developing underground networks exclusively"],
+    "correctAnswer": "Adopting standard design practices"
   },
   {
     "id": 14,
-    "question": "Which national examination is linked to student deaths, an issue cited by Rahul Gandhi in his criticism?",
-    "options": [
-      "JEE (Joint Entrance Examination)",
-      "UPSC (Union Public Service Commission) Civil Services Exam",
-      "NEET (National Eligibility cum Entrance Test)",
-      "CAT (Common Admission Test)"
-    ],
-    "correctAnswer": "NEET (National Eligibility cum Entrance Test)"
+    "question": "What maximum speed is being targeted for the new bullet train projects currently under planning in India?",
+    "options": ["250 kmph", "300 kmph", "350 kmph", "400 kmph"],
+    "correctAnswer": "350 kmph"
   },
   {
     "id": 15,
-    "question": "What specific concern did Rahul Gandhi raise in relation to NEET and student deaths?",
-    "options": [
-      "The high cost of NEET coaching centers",
-      "The lack of transparency in NEET result publication",
-      "Whether the Prime Minister had spared a thought for students affected by NEET-linked deaths",
-      "The inadequacy of NEET syllabus"
-    ],
-    "correctAnswer": "Whether the Prime Minister had spared a thought for students affected by NEET-linked deaths"
+    "question": "The seven new bullet train corridors are planned to span approximately what total distance across India?",
+    "options": ["1,000 km", "2,500 km", "4,000 km", "5,500 km"],
+    "correctAnswer": "4,000 km"
   },
   {
     "id": 16,
-    "question": "The issue of NEET-linked student deaths primarily falls under the purview of which sector in India?",
-    "options": [
-      "Defense and Security",
-      "Finance and Economy",
-      "Education and Student Welfare",
-      "Agriculture and Rural Development"
-    ],
-    "correctAnswer": "Education and Student Welfare"
+    "question": "Which Indian national airline has recently decided to stop providing crew laundry services on international layovers?",
+    "options": ["IndiGo", "SpiceJet", "Vistara", "Air India"],
+    "correctAnswer": "Air India"
   },
   {
     "id": 17,
-    "question": "Which institution is lauded as 'impartial and independent' and tasked with safeguarding rights in the new NCERT Class 9 textbook?",
-    "options": [
-      "The Parliament",
-      "The Executive",
-      "The Judiciary",
-      "The Election Commission"
-    ],
-    "correctAnswer": "The Judiciary"
+    "question": "What is the stated reason behind Air India's decision to discontinue crew laundry services on international layovers?",
+    "options": ["Environmental concerns", "Operational efficiency improvements", "Being a loss-making entity", "Crew preference for self-service"],
+    "correctAnswer": "Being a loss-making entity"
   },
   {
     "id": 18,
-    "question": "What controversy surrounded an earlier NCERT Class 8 textbook related to the judiciary?",
-    "options": [
-      "It praised the judiciary excessively",
-      "It contained a section on alleged judicial corruption",
-      "It omitted the role of the Supreme Court",
-      "It advocated for a completely new judicial system"
-    ],
-    "correctAnswer": "It contained a section on alleged judicial corruption"
+    "question": "For which specific service on international layovers has Air India announced a discontinuation for its crew members?",
+    "options": ["Hotel accommodation", "Meal allowances", "Laundry services", "Transportation services"],
+    "correctAnswer": "Laundry services"
   },
   {
     "id": 19,
-    "question": "How did the Supreme Court react to the controversial content on alleged judicial corruption in the Class 8 NCERT textbook?",
-    "options": [
-      "It praised the NCERT for its critical analysis",
-      "It remained silent on the issue",
-      "It strongly objected, calling it a conspiracy to defame the judiciary",
-      "It ordered the content to be expanded further"
-    ],
-    "correctAnswer": "It strongly objected, calling it a conspiracy to defame the judiciary"
+    "question": "In which educational material has 'SIR' (School-Industry Relations or similar concept, interpreting it as a general educational inclusion) recently made its way into Class IX textbooks?",
+    "options": ["State Board Textbooks", "CBSE Supplementary Readers", "NCERT Textbooks", "JEE Preparation Manuals"],
+    "correctAnswer": "NCERT Textbooks"
   },
   {
     "id": 20,
-    "question": "What action was ultimately taken regarding the controversial section in the Class 8 NCERT textbook about the judiciary?",
-    "options": [
-      "It was made mandatory reading",
-      "It was revised and republished immediately",
-      "It was withdrawn from the textbook",
-      "It was defended by the Supreme Court"
-    ],
-    "correctAnswer": "It was withdrawn from the textbook"
+    "question": "The new inclusion of 'SIR' (assuming a national educational topic) is featured in the NCERT textbook for which academic grade?",
+    "options": ["Class VII", "Class VIII", "Class IX", "Class X"],
+    "correctAnswer": "Class IX"
   },
   {
     "id": 21,
-    "question": "Which national educational body is at the center of the controversy regarding the content of textbooks on the Indian judiciary?",
-    "options": [
-      "UGC (University Grants Commission)",
-      "CBSE (Central Board of Secondary Education)",
-      "NCERT (National Council of Educational Research and Training)",
-      "AICTE (All India Council for Technical Education)"
-    ],
-    "correctAnswer": "NCERT (National Council of Educational Research and Training)"
+    "question": "Which national organization's Class IX textbooks now include the topic referred to as 'SIR'?",
+    "options": ["UGC", "AICTE", "NCERT", "NTA"],
+    "correctAnswer": "NCERT"
   },
   {
     "id": 22,
-    "question": "The new NCERT Class 9 textbook emphasizes that the judiciary's role is to primarily focus on what?",
-    "options": [
-      "Enforcing government policies",
-      "Promoting political ideologies",
-      "Safeguarding rights and ensuring justice",
-      "Managing economic development projects"
-    ],
-    "correctAnswer": "Safeguarding rights and ensuring justice"
+    "question": "What was the name of the operation launched by the Indian Army and IAF to provide medical assistance to quake-hit Venezuela?",
+    "options": ["Operation Maitri", "Operation Dost", "Operation Amistad", "Operation Sagar"],
+    "correctAnswer": "Operation Amistad"
   },
   {
     "id": 23,
-    "question": "The rise of digital nomads choosing rural and remote areas, a pan-India trend, could potentially boost which sector's growth in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Heavy industry manufacturing",
-      "Rural tourism and local economies",
-      "Urban real estate development",
-      "Deep-sea fishing industry"
-    ],
-    "correctAnswer": "Rural tourism and local economies"
+    "question": "To which quake-hit South American nation did India send a medical contingent under 'Operation Amistad'?",
+    "options": ["Chile", "Ecuador", "Venezuela", "Peru"],
+    "correctAnswer": "Venezuela"
   },
   {
     "id": 24,
-    "question": "For states like Telangana, a prominent IT hub, the \"digital nomad\" trend implies what for its existing IT workforce?",
-    "options": [
-      "A mandatory relocation to Hyderabad for all IT professionals",
-      "Increased flexibility for IT professionals to work effectively from non-urban areas within the state",
-      "A significant decrease in demand for IT professionals",
-      "A complete shift from software development to agriculture for IT workers"
-    ],
-    "correctAnswer": "Increased flexibility for IT professionals to work effectively from non-urban areas within the state"
+    "question": "Which two Indian armed forces coordinated to launch 'Operation Amistad' for international relief efforts?",
+    "options": ["Indian Navy and Coast Guard", "Indian Army and Indian Air Force (IAF)", "Border Security Force and CRPF", "National Disaster Response Force and ITBP"],
+    "correctAnswer": "Indian Army and Indian Air Force (IAF)"
   },
   {
     "id": 25,
-    "question": "What infrastructural development, if significantly improved, could further accelerate the digital nomad trend in less urbanized parts of Andhra Pradesh and Telangana?",
-    "options": [
-      "Expansion of large-scale industrial factories",
-      "Construction of more international airports",
-      "Improved internet connectivity and reliable power supply",
-      "Development of new seaports"
-    ],
-    "correctAnswer": "Improved internet connectivity and reliable power supply"
+    "question": "Under 'Operation Amistad', what specific type of aid was provided by India to the affected country?",
+    "options": ["Food supplies", "Financial assistance", "Medical contingent", "Search and rescue teams"],
+    "correctAnswer": "Medical contingent"
   }
 ]

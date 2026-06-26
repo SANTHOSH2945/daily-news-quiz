@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Who has been appointed as the new Chief of the Intelligence Bureau (IB), a central agency operating across all Indian states including Telangana and Andhra Pradesh?",
-    "options": ["P. K. Singh", "Sameer V. Kumar", "Dixit", "Rakesh Sharma"],
-    "correctAnswer": "Dixit"
+    "question": "According to recent discussions in India, what legislative overhaul was urged by an MP concerning passports and Aadhaar cards?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "B) Recognizing them as definitive proof of Indian citizenship"
   },
   {
     "id": 2,
-    "question": "Which batch IPS officer is Dixit, the newly appointed IB Chief, as mentioned in the recent news?",
-    "options": ["1990-batch", "1993-batch", "1995-batch", "1998-batch"],
-    "correctAnswer": "1993-batch"
+    "question": "Which Indian MP recently questioned the government's clarification that passports are merely travel documents and not definitive proof of citizenship?",
+    "options": [
+      "A) Rahul Gandhi",
+      "B) Shashi Tharoor",
+      "C) Smriti Irani",
+      "D) P. Chidambaram"
+    ],
+    "correctAnswer": "B) Shashi Tharoor"
   },
   {
     "id": 3,
-    "question": "The Intelligence Bureau (IB), whose new chief has been announced, primarily functions as which type of agency in India?",
-    "options": ["Economic Regulatory Body", "External Intelligence Agency", "Domestic Intelligence Agency", "Financial Investigation Unit"],
-    "correctAnswer": "Domestic Intelligence Agency"
+    "question": "What clarification did the Ministry of External Affairs (MEA) recently issue regarding the nature of Indian passports?",
+    "options": [
+      "A) They are primarily proof of residency",
+      "B) They are conclusive proof of Indian citizenship",
+      "C) They are travel documents, not definitive citizenship proof",
+      "D) They are valid for all international borders without a visa"
+    ],
+    "correctAnswer": "C) They are travel documents, not definitive citizenship proof"
   },
   {
     "id": 4,
-    "question": "The appointment of the IB Chief, a national security role, falls under the purview of which level of government in India?",
-    "options": ["State Government", "Union Government", "Supreme Court", "Parliament"],
-    "correctAnswer": "Union Government"
+    "question": "What 'absurd legal paradox' was highlighted by an Indian MP concerning the current understanding of citizenship proof in the country?",
+    "options": [
+      "A) Lack of Aadhaar for infants",
+      "B) Passports being insufficient as citizenship proof despite other uses",
+      "C) Dual citizenship not being recognized",
+      "D) The inability to vote without a passport"
+    ],
+    "correctAnswer": "B) Passports being insufficient as citizenship proof despite other uses"
   },
   {
     "id": 5,
-    "question": "What recent clarification has CBSE issued regarding foreign language as a subject combination for students, relevant to schools in Telangana and Andhra Pradesh?",
-    "options": ["Foreign language is now mandatory for all students till Class 10", "Foreign language subjects will be discontinued after Class 7", "Students in Std 7-9 with foreign language can keep combo till 10th", "Only European foreign languages are allowed from now on"],
-    "correctAnswer": "Students in Std 7-9 with foreign language can keep combo till 10th"
+    "question": "What solution was proposed by Shashi Tharoor to resolve the confusion surrounding passports and Aadhaar as proof of Indian citizenship?",
+    "options": [
+      "A) Implementing a single national ID",
+      "B) Issuing separate citizenship certificates",
+      "C) A legislative overhaul for a dual-document policy",
+      "D) Relying solely on birth certificates"
+    ],
+    "correctAnswer": "C) A legislative overhaul for a dual-document policy"
   },
   {
     "id": 6,
-    "question": "Which grades of CBSE students are primarily affected by the recent clarification on foreign language subject combinations, according to the news?",
-    "options": ["Standard 1-3", "Standard 4-6", "Standard 7-9", "Standard 11-12"],
-    "correctAnswer": "Standard 7-9"
+    "question": "What is the primary utility of an Indian passport, as clarified by the MEA, in the context of citizenship proof?",
+    "options": [
+      "A) Voting",
+      "B) Travel",
+      "C) Land ownership",
+      "D) Bank account opening"
+    ],
+    "correctAnswer": "B) Travel"
   },
   {
     "id": 7,
-    "question": "Students in Telangana and Andhra Pradesh attending CBSE schools will benefit from being able to continue which specific type of subject combination until Class 10, as per the recent announcement?",
-    "options": ["Fine Arts", "Vocational Skills", "Foreign Language", "Advanced Mathematics"],
-    "correctAnswer": "Foreign Language"
+    "question": "Which document, alongside passports, was suggested by an Indian MP to be made conclusive proof of citizenship through a legislative overhaul?",
+    "options": [
+      "A) PAN Card",
+      "B) Driving License",
+      "C) Aadhaar Card",
+      "D) Ration Card"
+    ],
+    "correctAnswer": "C) Aadhaar Card"
   },
   {
     "id": 8,
-    "question": "The recent CBSE directive, which impacts students nationwide including those in Andhra Pradesh and Telangana, aims to maintain the continuity of which type of subject choice for students in certain grades?",
-    "options": ["Regional language options", "Optional science subjects", "Foreign language combinations", "Physical education courses"],
-    "correctAnswer": "Foreign language combinations"
+    "question": "The debate around passport and Aadhaar as citizenship proof in India aims to resolve what for citizens?",
+    "options": [
+      "A) Tax complications",
+      "B) Public confusion and legal paradoxes",
+      "C) International travel restrictions",
+      "D) Access to government schemes"
+    ],
+    "correctAnswer": "B) Public confusion and legal paradoxes"
   },
   {
     "id": 9,
-    "question": "For CBSE students in Standard 7-9, the recent update allows them to continue their foreign language combination up to which standard?",
-    "options": ["Standard 8", "Standard 9", "Standard 10", "Standard 11"],
-    "correctAnswer": "Standard 10"
+    "question": "What type of update was suggested by an MP to establish passports and Aadhaar as definitive citizenship proof in India?",
+    "options": [
+      "A) Executive order",
+      "B) Judicial review",
+      "C) Legislative overhaul",
+      "D) Public referendum"
+    ],
+    "correctAnswer": "C) Legislative overhaul"
   },
   {
     "id": 10,
-    "question": "If a CBSE student in Visakhapatnam (Andhra Pradesh) currently in Class 8 is studying German as a foreign language, what is the implication of the new rule for their academic path?",
-    "options": ["They must drop German by Class 9", "They can continue studying German until Class 10", "They must switch to a regional language", "German will no longer be offered in CBSE schools"],
-    "correctAnswer": "They can continue studying German until Class 10"
+    "question": "What is *not* considered definitive proof of Indian citizenship according to a recent MEA clarification?",
+    "options": [
+      "A) Birth certificate",
+      "B) Passport",
+      "C) Naturalization certificate",
+      "D) OCI card"
+    ],
+    "correctAnswer": "B) Passport"
   },
   {
     "id": 11,
-    "question": "The Central Board of Secondary Education (CBSE), whose students in Telangana and Andhra Pradesh are affected by a new rule, is primarily managed by which entity?",
-    "options": ["State Education Boards", "Ministry of Education, Government of India", "Private Educational Trusts", "National Council of Educational Research and Training (NCERT)"],
-    "correctAnswer": "Ministry of Education, Government of India"
+    "question": "Which regulatory body in India recently restricted the supply of IVF consumables only to registered fertility centers?",
+    "options": [
+      "A) ICMR",
+      "B) AIIMS",
+      "C) CDSCO",
+      "D) MCI"
+    ],
+    "correctAnswer": "C) CDSCO"
   },
   {
     "id": 12,
-    "question": "Which of the following is NOT an implication of the CBSE's recent clarification regarding foreign language combinations for students in states like Andhra Pradesh?",
-    "options": ["Reduced pressure on students to drop foreign languages", "Enhanced opportunities for multilingualism", "Increased options for students seeking foreign language careers", "Mandatory introduction of new foreign languages in all schools"],
-    "correctAnswer": "Mandatory introduction of new foreign languages in all schools"
+    "question": "Under which specific acts are fertility clinics and sperm banks now required to register to access necessary IVF laboratory materials in India?",
+    "options": [
+      "A) Medical Devices Act and Clinical Trials Act",
+      "B) Drugs and Cosmetics Act",
+      "C) ART and Surrogacy Acts",
+      "D) Public Health Act"
+    ],
+    "correctAnswer": "C) ART and Surrogacy Acts"
   },
   {
     "id": 13,
-    "question": "The recent CBSE announcement benefits students who have opted for foreign languages, ensuring they can maintain their subject choice through which critical academic transition phase?",
-    "options": ["Primary to Middle School", "Middle to Secondary School (leading up to Class 10 boards)", "Secondary to Senior Secondary", "Higher Education entrance"],
-    "correctAnswer": "Middle to Secondary School (leading up to Class 10 boards)"
+    "question": "What is the main purpose behind the CDSCO's new guideline restricting IVF consumable supply in India?",
+    "options": [
+      "A) To increase the cost of IVF treatments",
+      "B) To ensure proper training for medical staff",
+      "C) To prevent unregistered entities from posing risks to patient health",
+      "D) To promote traditional medicine"
+    ],
+    "correctAnswer": "C) To prevent unregistered entities from posing risks to patient health"
   },
   {
     "id": 14,
-    "question": "According to the Chief Justice of India, which ancient Indian text conceptualized 'equality' centuries before the Magna Carta, a concept relevant to legal studies in states like Telangana?",
-    "options": ["Ramayana", "Mahabharata", "Arthashastra", "Vedas"],
-    "correctAnswer": "Arthashastra"
+    "question": "What types of entities, besides fertility clinics, are also subject to the new CDSCO registration requirement for IVF supplies in India?",
+    "options": [
+      "A) General hospitals",
+      "B) Research laboratories",
+      "C) Sperm banks",
+      "D) Pharmaceutical companies"
+    ],
+    "correctAnswer": "C) Sperm banks"
   },
   {
     "id": 15,
-    "question": "The Chief Justice of India's recent statement highlights the advanced philosophical concepts present in ancient Indian texts, which are part of the broader educational heritage for students across states like Telangana. Which concept was specifically mentioned as preceding the Magna Carta?",
-    "options": ["Rule of Law", "Democracy", "Equality", "Justice"],
-    "correctAnswer": "Equality"
+    "question": "What specific 'IVF consumables' are mentioned as being subject to the new CDSCO supply restrictions in India?",
+    "options": [
+      "A) Surgical instruments and bandages",
+      "B) IVF media and reagents",
+      "C) Anesthesia and pain medication",
+      "D) Diagnostic imaging equipment"
+    ],
+    "correctAnswer": "B) IVF media and reagents"
   },
   {
     "id": 16,
-    "question": "Who made the recent statement comparing the concept of 'equality' in Arthashastra to the Magna Carta?",
-    "options": ["Prime Minister of India", "Union Education Minister", "Chief Justice of India", "President of India"],
-    "correctAnswer": "Chief Justice of India"
+    "question": "The CDSCO guideline mandates registration to prevent what from unregistered entities in the context of IVF?",
+    "options": [
+      "A) Financial fraud",
+      "B) Access to critical IVF supplies",
+      "C) Overcharging patients",
+      "D) Misleading advertisements"
+    ],
+    "correctAnswer": "B) Access to critical IVF supplies"
   },
   {
     "id": 17,
-    "question": "Union Minister Dharmendra Pradhan stated that NCERT school textbooks should educate students about which historical period's 'dark deeds', a topic relevant for students in all states including Telangana?",
-    "options": ["The Mughal Era", "The British Colonial Period", "The Emergency", "The Partition of India"],
-    "correctAnswer": "The Emergency"
+    "question": "What does ART stand for in the context of the ART and Surrogacy Acts, relevant to IVF regulations in India?",
+    "options": [
+      "A) Advanced Reproductive Technology",
+      "B) Assisted Reproductive Technology",
+      "C) Artificial Reproduction Treatment",
+      "D) Automated Retrieval Techniques"
+    ],
+    "correctAnswer": "B) Assisted Reproductive Technology"
   },
   {
     "id": 18,
-    "question": "What historical event, also recently commented on by Prime Minister Modi, did Union Minister Dharmendra Pradhan suggest NCERT should cover more extensively in textbooks for students across India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Quit India Movement", "The Kargil War", "The Emergency", "Formation of Indian States"],
-    "correctAnswer": "The Emergency"
+    "question": "What significant regulatory update has been issued concerning the supply chain for IVF laboratory materials across India?",
+    "options": [
+      "A) A ban on all imported IVF materials",
+      "B) A price cap on IVF consumables",
+      "C) Restriction of supply to registered fertility centers",
+      "D) Mandatory government ownership of IVF clinics"
+    ],
+    "correctAnswer": "C) Restriction of supply to registered fertility centers"
   },
   {
     "id": 19,
-    "question": "On the anniversary of which significant historical event did PM Modi criticize the Congress party for an 'attack on the statute'?",
-    "options": ["India's Independence Day", "The adoption of the Indian Constitution", "The Emergency", "Quit India Movement"],
-    "correctAnswer": "The Emergency"
+    "question": "What significant reform initiative is responsible for replacing criminal fines with administrative penalties for minor hospital lapses in India?",
+    "options": [
+      "A) Digital India Mission",
+      "B) Make in India Initiative",
+      "C) Jan Vishwas reforms",
+      "D) Ayushman Bharat Yojana"
+    ],
+    "correctAnswer": "C) Jan Vishwas reforms"
   },
   {
     "id": 20,
-    "question": "The period of 'Emergency' in India, which Union Ministers recently discussed and is a crucial part of Indian political history taught in schools in states like Andhra Pradesh, is often cited as a time when which fundamental principle was severely undermined?",
-    "options": ["Economic Liberalization", "Freedom of Press and Civil Liberties", "International Relations", "Space Research"],
-    "correctAnswer": "Freedom of Press and Civil Liberties"
+    "question": "For what type of lapses will hospitals and clinics in India now primarily face administrative penalties instead of criminal fines?",
+    "options": [
+      "A) Major negligence leading to patient death",
+      "B) Minor procedural lapses",
+      "C) Intentional malpractice",
+      "D) Financial embezzlement"
+    ],
+    "correctAnswer": "B) Minor procedural lapses"
   },
   {
     "id": 21,
-    "question": "What did the Ministry of External Affairs (MEA) clarify regarding the use of passports as proof of citizenship, referencing the 1967 Act?",
-    "options": ["Passport is now the only valid proof of citizenship", "Passport was not citizenship proof even in 1967 Act", "Passports are mandatory for all citizens above 18", "Passports now serve as primary identity proof for voting"],
-    "correctAnswer": "Passport was not citizenship proof even in 1967 Act"
+    "question": "What is one of the key objectives of replacing criminal fines with administrative penalties for hospitals under the Jan Vishwas reforms in India?",
+    "options": [
+      "A) To increase government revenue",
+      "B) To ease business operations and reduce compliance burdens",
+      "C) To discourage new hospital establishments",
+      "D) To privatize public health services"
+    ],
+    "correctAnswer": "B) To ease business operations and reduce compliance burdens"
   },
   {
     "id": 22,
-    "question": "The Ministry of External Affairs (MEA) recently reiterated that a passport was not considered proof of citizenship even under which specific Act?",
-    "options": ["The Citizenship Act, 1955", "The Passport Act, 1967", "The Foreigners Act, 1946", "The Registration of Births and Deaths Act, 1969"],
-    "correctAnswer": "The Passport Act, 1967"
+    "question": "Which act's rules were revised by the Centre to introduce administrative penalties for minor hospital lapses across India?",
+    "options": [
+      "A) Consumer Protection Act",
+      "B) Clinical Establishments Act",
+      "C) Indian Penal Code",
+      "D) Essential Services Maintenance Act"
+    ],
+    "correctAnswer": "B) Clinical Establishments Act"
   },
   {
     "id": 23,
-    "question": "For residents of Andhra Pradesh and Telangana, obtaining a passport is a fundamental right but, as clarified by MEA, it does not automatically serve as definitive proof for what purpose?",
-    "options": ["International travel", "Age verification", "Citizenship status", "Employment abroad"],
-    "correctAnswer": "Citizenship status"
+    "question": "What does the new system of administrative penalties for hospitals in India provide, unlike criminal fines?",
+    "options": [
+      "A) Immediate closure of the establishment",
+      "B) A structured adjudication process with opportunities for hearings and appeals",
+      "C) Mandatory jail time for administrators",
+      "D) Public shaming campaigns"
+    ],
+    "correctAnswer": "B) A structured adjudication process with opportunities for hearings and appeals"
   },
   {
     "id": 24,
-    "question": "The clarification by the Ministry of External Affairs regarding passports and citizenship is significant for understanding legal frameworks related to national identity, applicable to all Indian citizens. Which historical legal document was specifically referenced in this clarification?",
-    "options": ["Indian Constitution", "Universal Declaration of Human Rights", "The 1967 Act", "The Geneva Conventions"],
-    "correctAnswer": "The 1967 Act"
+    "question": "Despite the shift to administrative penalties, what remains a primary focus and priority in the revised Clinical Establishments Act rules for hospitals in India?",
+    "options": [
+      "A) Profit maximization",
+      "B) Reducing staff wages",
+      "C) Patient safety and quality care",
+      "D) Expanding hospital chains"
+    ],
+    "correctAnswer": "C) Patient safety and quality care"
   },
   {
     "id": 25,
-    "question": "What specific information about the new IB Chief's professional background was mentioned in the news, indicating their seniority?",
-    "options": ["Their previous posting in a state police force", "Their specific designation as Additional Director", "Their IPS batch year", "Their academic qualifications"],
-    "correctAnswer": "Their IPS batch year"
+    "question": "The amendments replacing criminal fines with administrative penalties for hospitals in India primarily focus on what kind of procedures?",
+    "options": [
+      "A) High-risk surgeries",
+      "B) Emergency medical care",
+      "C) Routine, low-risk procedures",
+      "D) Experimental treatments"
+    ],
+    "correctAnswer": "C) Routine, low-risk procedures"
   }
 ]

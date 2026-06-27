@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which political party recently accused the Telangana Chief Minister of attempting to provoke Muslims?",
-    "options": ["Option A", "Option B", "Option C", "Option D"],
-    "correctAnswer": "BJP"
+    "question": "Which Indian state is home to the Satish Dhawan Space Centre, a crucial facility mentioned in relation to India's Gaganyaan mission?",
+    "options": ["Telangana", "Karnataka", "Kerala", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "What specific process was the Telangana Chief Minister accused of disrupting by the BJP?",
-    "options": ["GST implementation", "SIR process", "Panchayat elections", "Land registration reforms"],
-    "correctAnswer": "SIR process"
+    "question": "The first uncrewed Gaganyaan mission, a significant step for India's space program, is planned for this year. Which location in Andhra Pradesh is synonymous with India's orbital launches?",
+    "options": ["Visakhapatnam", "Tirupati", "Sriharikota", "Vijayawada"],
+    "correctAnswer": "Sriharikota"
   },
   {
     "id": 3,
-    "question": "The BJP accused the Telangana Chief Minister of an action with what alleged intention?",
-    "options": ["To boost economic growth", "To provoke Muslims", "To streamline governance", "To improve education standards"],
-    "correctAnswer": "To provoke Muslims"
+    "question": "V Narayanan, the ISRO chief mentioned in the news, announced progress on the uncrewed Gaganyaan mission. The primary launch facility for such missions is located in which region of Andhra Pradesh?",
+    "options": ["Coastal Andhra", "Rayalaseema", "Uttarandhra", "South Andhra"],
+    "correctAnswer": "Coastal Andhra"
   },
   {
     "id": 4,
-    "question": "The recent accusation by the BJP regarding 'provoking Muslims' targets the Chief Minister of which Indian state?",
-    "options": ["Andhra Pradesh", "Karnataka", "Kerala", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "What is the ultimate goal of the Gaganyaan mission, for which the uncrewed test flight is being prepared at facilities like those in Andhra Pradesh?",
+    "options": ["Lunar exploration", "Interplanetary travel", "Human spaceflight", "Asteroid mining"],
+    "correctAnswer": "Human spaceflight"
   },
   {
     "id": 5,
-    "question": "According to the BJP, what is the alleged outcome of the Telangana Chief Minister's actions regarding the SIR process?",
-    "options": ["Increased inter-community harmony", "Disruption of communal peace", "Enhanced public welfare", "Accelerated administrative efficiency"],
-    "correctAnswer": "Disruption of communal peace"
+    "question": "The news mentions the first uncrewed Gaganyaan mission. The launch pad infrastructure for such missions is a key asset for which Indian state?",
+    "options": ["Telangana", "Maharashtra", "Andhra Pradesh", "Tamil Nadu"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 6,
-    "question": "In the context of the BJP's criticism of the Telangana CM, what type of issue does the 'SIR process' likely relate to, given the accusation of 'provoking Muslims'?",
-    "options": ["A state-level infrastructure project", "A social or administrative process impacting specific communities", "A scientific research initiative", "An international trade agreement"],
-    "correctAnswer": "A social or administrative process impacting specific communities"
+    "question": "Which ISRO center in Andhra Pradesh is responsible for preparing for the upcoming uncrewed Gaganyaan mission launches?",
+    "options": ["Vikram Sarabhai Space Centre", "Liquid Propulsion Systems Centre", "Satish Dhawan Space Centre", "ISRO Inertial Systems Unit"],
+    "correctAnswer": "Satish Dhawan Space Centre"
   },
   {
     "id": 7,
-    "question": "The political controversy involving the Telangana CM and the BJP highlights ongoing tensions related to which aspect in the state?",
-    "options": ["Economic reforms and foreign investment", "Inter-party accusations and communal dynamics", "Interstate water disputes", "Agricultural subsidy distribution"],
-    "correctAnswer": "Inter-party accusations and communal dynamics"
+    "question": "The development and testing for the Gaganyaan mission, including aspects related to launch, have a strong operational base in which South Indian state?",
+    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 8,
-    "question": "The Defence Ministry recently clarified statements made by Defence Minister Rajnath Singh regarding casualties in which military operation?",
-    "options": ["Operation Vijay", "Operation Parakram", "Operation Sindoor", "Operation Pawan"],
-    "correctAnswer": "Operation Sindoor"
+    "question": "The ISRO chief announced the first uncrewed Gaganyaan mission for this year. This mission relies heavily on the capabilities of India's spaceport situated in which district of Andhra Pradesh?",
+    "options": ["Guntur", "Nellore", "Chittoor", "Krishna"],
+    "correctAnswer": "Nellore"
   },
   {
     "id": 9,
-    "question": "The Defence Ministry refuted claims that the Defence Minister misled Parliament regarding casualties during Operation Sindoor, clarifying the initial statement was about which specific false narrative?",
-    "options": ["Number of civilian casualties", "Number of Indian pilots lost", "Expenditure on the operation", "Involvement of international forces"],
-    "correctAnswer": "Number of Indian pilots lost"
+    "question": "What is the name of the ISRO Chairman who confirmed the work on the first uncrewed Gaganyaan mission, impacting the operations at Andhra Pradesh's space centre?",
+    "options": ["K. Radhakrishnan", "A.S. Kiran Kumar", "G. Madhavan Nair", "V. Narayanan"],
+    "correctAnswer": "V. Narayanan"
   },
   {
     "id": 10,
-    "question": "Operation Sindoor was conducted against which group, as per the Defence Ministry's recent clarification in India?",
-    "options": ["Naxalite forces", "Insurgents in Northeast India", "Pakistan-backed terrorists", "Separatist groups in Kashmir"],
-    "correctAnswer": "Pakistan-backed terrorists"
+    "question": "The Gaganyaan mission involves significant national investment. Which state directly benefits from the employment and technological advancements related to the Satish Dhawan Space Centre's role in this mission?",
+    "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Odisha"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 11,
-    "question": "A recent discussion in India highlighted concerns that a specific question in the Census, despite changes in family structures, has remained unchanged. What is this question about?",
-    "options": ["Marital status", "Head of the family", "Number of children", "Primary occupation"],
-    "correctAnswer": "Head of the family"
+    "question": "Gaganyaan's uncrewed mission is a step towards India's advanced space capabilities. The geographical location of the launch facility in Andhra Pradesh offers advantages due to its proximity to what?",
+    "options": ["Mountain ranges", "Dense forests", "Equator", "Deserts"],
+    "correctAnswer": "Equator"
   },
   {
     "id": 12,
-    "question": "The ongoing debate about India's Census questions reflects changes in which societal aspect?",
-    "options": ["Economic stratification", "Educational attainment", "Family structures", "Urbanization rates"],
-    "correctAnswer": "Family structures"
+    "question": "What kind of mission is Gaganyaan, for which the uncrewed flight is planned this year, utilizing facilities in Andhra Pradesh?",
+    "options": ["Robotic rover", "Crewed orbital", "Satellite deployment", "Asteroid sample return"],
+    "correctAnswer": "Crewed orbital"
   },
   {
     "id": 13,
-    "question": "Why is the 'head of the family' question in the Indian Census being debated, according to recent discussions?",
-    "options": ["It's too complex to answer", "It doesn't reflect modern Indian family structures", "It leads to data inaccuracies", "It's politically sensitive"],
-    "correctAnswer": "It doesn't reflect modern Indian family structures"
+    "question": "According to recent news, how are Indian passport holders residing abroad, including those from Telangana, now treated for the purpose of using the RTI Act?",
+    "options": ["As foreign nationals", "As PIO cardholders", "As OCI cardholders", "As citizens"],
+    "correctAnswer": "As citizens"
   },
   {
     "id": 14,
-    "question": "India is grappling with a widespread habit of self-medication. What is a significant public health concern fueled by the unsupervised use of prescription drugs, especially antibiotics?",
-    "options": ["Increased pharmaceutical profits", "Antimicrobial resistance", "Decreased demand for doctors", "Improved public immunity"],
-    "correctAnswer": "Antimicrobial resistance"
+    "question": "Citizens of Andhra Pradesh living overseas with an Indian passport can now utilize which legal framework to seek information from public authorities, as per the recent update?",
+    "options": ["Foreign Contribution (Regulation) Act", "Right to Information Act", "Passports Act", "Emigration Act"],
+    "correctAnswer": "Right to Information Act"
   },
   {
     "id": 15,
-    "question": "Recent government regulations in India on which specific over-the-counter products signal a push for safer medicine use to combat the issue of self-medication?",
-    "options": ["Painkillers", "Vitamins", "Cough syrups", "Antacids"],
-    "correctAnswer": "Cough syrups"
+    "question": "The recent ruling regarding RTI access for Indian passport holders abroad means that individuals from Hyderabad working in the USA can now what?",
+    "options": ["Vote in Indian elections remotely", "File RTI applications as citizens", "Seek consular help with reduced fees", "Get immediate Indian residency upon return"],
+    "correctAnswer": "File RTI applications as citizens"
   },
   {
     "id": 16,
-    "question": "Experts suggest that breaking India's habit of self-medication primarily requires improvements in two key areas. What are they?",
-    "options": ["Internet connectivity and digital literacy", "Healthcare access and public awareness", "Agricultural output and food security", "Industrial growth and employment rates"],
-    "correctAnswer": "Healthcare access and public awareness"
+    "question": "If a person originally from Vijayawada, Andhra Pradesh, holding an Indian passport, is living in Dubai, what is their status for exercising the Right to Information?",
+    "options": ["Non-citizen", "Foreign national", "Citizen", "Special category applicant"],
+    "correctAnswer": "Citizen"
   },
   {
     "id": 17,
-    "question": "The issue of self-medication in India underscores the importance of which aspect of healthcare for better public health outcomes?",
-    "options": ["Availability of generic medicines", "Affordable diagnostic tests", "Access to qualified medical professionals", "Digital health records"],
-    "correctAnswer": "Access to qualified medical professionals"
+    "question": "This new clarification benefits a large number of overseas Indians. What specific right is now fully extended to Indian passport holders abroad, including many from Telangana and Andhra Pradesh?",
+    "options": ["Right to property", "Right to privacy", "Right to information", "Right to reside anywhere in India"],
+    "correctAnswer": "Right to information"
   },
   {
     "id": 18,
-    "question": "While self-care for minor ailments is encouraged in India, what type of drugs is highlighted as problematic when used unsupervised due to fueling antimicrobial resistance?",
-    "options": ["Vitamins", "Herbal remedies", "Antibiotics", "Homeopathic medicines"],
-    "correctAnswer": "Antibiotics"
+    "question": "The news specifies that Indian passport holders abroad are treated as 'citizens' for using RTI. This directly impacts individuals from which two prominent Telugu-speaking states living overseas?",
+    "options": ["Karnataka and Tamil Nadu", "Kerala and Odisha", "Telangana and Andhra Pradesh", "Maharashtra and Gujarat"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 19,
-    "question": "The recent news highlights political defections occurring in various Indian states. In the Indian parliamentary system, such defections often lead to what?",
-    "options": ["Strengthening of legislative stability", "Shifts in party majorities or government formation", "Decreased public interest in politics", "Unanimous policy decisions"],
-    "correctAnswer": "Shifts in party majorities or government formation"
+    "question": "For a student from Warangal, Telangana, studying in the UK on an Indian passport, the recent RTI clarification means they can request information from Indian public bodies as if they were where?",
+    "options": ["A foreign national", "An OCI holder", "In India", "A special category non-resident"],
+    "correctAnswer": "In India"
   },
   {
     "id": 20,
-    "question": "The dynamic of political leaders accusing rivals of orchestrating defections, as seen in recent Indian news, is a common feature of which democratic process?",
-    "options": ["Bureaucratic appointments", "Electoral campaigns and legislative maneuvering", "Judicial proceedings", "Economic policy formulation"],
-    "correctAnswer": "Electoral campaigns and legislative maneuvering"
+    "question": "What essential document must an overseas resident, originally from Andhra Pradesh, possess to be treated as a citizen for RTI purposes, as per the recent news?",
+    "options": ["OCI card", "PIO card", "Indian passport", "Residence permit of host country"],
+    "correctAnswer": "Indian passport"
   },
   {
     "id": 21,
-    "question": "The postponement of major competitive exams due to 'paper leaks', as recently reported in India, indicates a significant challenge in which sector?",
-    "options": ["Healthcare infrastructure", "Public education and recruitment systems", "National defense", "Agricultural supply chains"],
-    "correctAnswer": "Public education and recruitment systems"
+    "question": "The expanded access to RTI for Indian passport holders abroad contributes to increased transparency for governance. How does this specifically empower citizens from states like Telangana and Andhra Pradesh living globally?",
+    "options": ["It grants them voting rights abroad", "It allows them to seek information on Indian government affairs", "It provides dual citizenship", "It ensures free healthcare in India"],
+    "correctAnswer": "It allows them to seek information on Indian government affairs"
   },
   {
     "id": 22,
-    "question": "What is a common legal measure considered by Indian state governments to tackle severe cases of examination malpractice like paper leaks?",
-    "options": ["Invoking the Right to Information Act", "Applying stringent laws like MCOCA or similar anti-organized crime acts", "Conducting public awareness campaigns", "Offering re-examinations immediately"],
-    "correctAnswer": "Applying stringent laws like MCOCA or similar anti-organized crime acts"
+    "question": "What is the legal implication for NRIs from Telangana who hold an Indian passport when they wish to file an RTI application, according to recent developments?",
+    "options": ["They must return to India to file", "They can only file through an embassy", "They are explicitly recognized as citizens for this purpose", "They are denied access to RTI"],
+    "correctAnswer": "They are explicitly recognized as citizens for this purpose"
   },
   {
     "id": 23,
-    "question": "A recent controversy involved a Union Minister of State for Agriculture denying allegations of receiving a large subsidy from his own ministry. Such allegations often raise concerns about what principle in Indian governance?",
-    "options": ["Freedom of speech", "Conflict of interest", "Separation of powers", "Rule of law"],
-    "correctAnswer": "Conflict of interest"
+    "question": "An engineer from Visakhapatnam, now working in Singapore with an Indian passport, wants to know about a government project in his hometown. Which legal right can he now confidently exercise from abroad, as per recent news?",
+    "options": ["Right to Vote", "Right to Education", "Right to Information", "Right to Property Acquisition"],
+    "correctAnswer": "Right to Information"
   },
   {
     "id": 24,
-    "question": "When a Union Minister in India states, 'I am a farmer,' in response to a subsidy row, it highlights the importance of what demographic in Indian politics and policy?",
-    "options": ["Urban industrialists", "Farmers and the agricultural sector", "Service professionals", "Information technology workers"],
-    "correctAnswer": "Farmers and the agricultural sector"
+    "question": "This recent development fosters greater engagement of the diaspora with Indian governance. For individuals from Andhra Pradesh and Telangana living abroad, what is the core benefit related to information access?",
+    "options": ["Preferential treatment in government services", "Ability to influence policy abroad", "Enhanced transparency and accountability from Indian authorities", "Exemption from Indian taxes"],
+    "correctAnswer": "Enhanced transparency and accountability from Indian authorities"
   },
   {
     "id": 25,
-    "question": "The controversy surrounding a Union Minister's alleged subsidy use and an opposition leader calling it a 'new model of corruption' points to ongoing concerns about what within the Indian political landscape?",
-    "options": ["Regional disparities", "Transparency and accountability in government", "Environmental regulations", "Foreign policy decisions"],
-    "correctAnswer": "Transparency and accountability in government"
+    "question": "What is the fundamental change in status for Indian passport holders abroad, including those originating from Telangana, when they choose to use the Right to Information Act?",
+    "options": ["They gain diplomatic immunity", "Their foreign residency is revoked", "They are recognized as full citizens for RTI purposes", "They must register with the MHA"],
+    "correctAnswer": "They are recognized as full citizens for RTI purposes"
   }
 ]

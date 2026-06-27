@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which island, whose transfer to a neighboring country is being called a 'dark chapter' by the BJP, is a subject of recent political debate in India?",
-    "options": ["Palk Strait Island", "Katchatheevu Island", "Rameshwaram Island", "Andaman Island"],
-    "correctAnswer": "Katchatheevu Island"
+    "question": "Which city in India recently renamed a road after a former US President, leading to his public acknowledgment?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "Which political party is being criticized by the BJP for the historical transfer of the Katchatheevu island to Sri Lanka?",
-    "options": ["Bharatiya Janata Party (BJP)", "All India Trinamool Congress (TMC)", "Indian National Congress (INC)", "Dravida Munnetra Kazhagam (DMK)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "Which former US President recently thanked India after a road was reportedly renamed in his honor in Hyderabad?",
+    "options": ["Barack Obama", "George W. Bush", "Donald Trump", "Bill Clinton"],
+    "correctAnswer": "Donald Trump"
   },
   {
     "id": 3,
-    "question": "To which neighboring country was Katchatheevu island historically transferred, according to recent discussions?",
-    "options": ["Bangladesh", "Maldives", "Sri Lanka", "Myanmar"],
-    "correctAnswer": "Sri Lanka"
+    "question": "The renaming of a road in Hyderabad after Donald Trump was highlighted as a 'first' for a US President in India. What was this specific 'first'?",
+    "options": ["First US President to visit Hyderabad", "First US President to have a statue erected", "First US President to be honored this way", "First US President to receive an Indian civilian award"],
+    "correctAnswer": "First US President to be honored this way"
   },
   {
     "id": 4,
-    "question": "The BJP has recently referred to what historical event concerning an island as a 'dark chapter' for the Congress party?",
-    "options": ["Leasing of Diu Island", "Transfer of Katchatheevu Island", "Sale of Nicobar Islands", "Ceding of Shivalik Island"],
-    "correctAnswer": "Transfer of Katchatheevu Island"
+    "question": "In which Indian state is Hyderabad, the city where a road was recently renamed after Donald Trump, located?",
+    "options": ["Andhra Pradesh", "Karnataka", "Maharashtra", "Telangana"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 5,
-    "question": "What method of drug trafficking has reportedly seen a 100-fold increase in cases in India over the last 5 years?",
-    "options": ["Sea-route smuggling", "Road network trafficking", "Drone drug trafficking", "Air cargo smuggling"],
-    "correctAnswer": "Drone drug trafficking"
+    "question": "Donald Trump expressed gratitude after a road was named after him. In which Indian city did this event reportedly occur?",
+    "options": ["Delhi", "Kolkata", "Hyderabad", "Jaipur"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 6,
-    "question": "According to recent reports, by what magnitude have drone drug trafficking cases increased in India over the past five years?",
+    "question": "The honor bestowed upon Donald Trump in Hyderabad involved the renaming of what?",
+    "options": ["A stadium", "A road", "A university", "A public park"],
+    "correctAnswer": "A road"
+  },
+  {
+    "id": 7,
+    "question": "According to recent news, what new directive have hospitals received regarding kidney transplants?",
+    "options": ["Reduce transplant costs", "Increase transplant capacity", "Make public their kidney transplant success rate", "Prioritize specific patient groups"],
+    "correctAnswer": "Make public their kidney transplant success rate"
+  },
+  {
+    "id": 8,
+    "question": "The recent mandate for hospitals across India, including those in Telangana and Andhra Pradesh, aims to improve transparency in which specific medical procedure?",
+    "options": ["Heart surgery", "Cancer treatment", "Kidney transplants", "Cataract operations"],
+    "correctAnswer": "Kidney transplants"
+  },
+  {
+    "id": 9,
+    "question": "The directive for hospitals to publish kidney transplant success rates is primarily intended to benefit whom?",
+    "options": ["Hospital management", "Pharmaceutical companies", "Medical researchers", "The public seeking transplants"],
+    "correctAnswer": "The public seeking transplants"
+  },
+  {
+    "id": 10,
+    "question": "This new policy on transparency in kidney transplants applies to hospitals across India. What specific information must be made public?",
+    "options": ["Doctor's salaries", "Hospital profits", "Success rates of transplants", "Number of beds"],
+    "correctAnswer": "Success rates of transplants"
+  },
+  {
+    "id": 11,
+    "question": "The Supreme Court recently ruled that homebuyers can seek relief for what specific issue related to property, even after taking possession?",
+    "options": ["Increase in property tax", "Delay after possession", "Change in architectural design", "Noise pollution from neighbors"],
+    "correctAnswer": "Delay after possession"
+  },
+  {
+    "id": 12,
+    "question": "According to a Supreme Court ruling, homebuyers in states like Telangana and Andhra Pradesh can seek relief for delays even after which stage of property acquisition?",
+    "options": ["Booking the property", "Signing the agreement", "Taking possession", "Final payment"],
+    "correctAnswer": "Taking possession"
+  },
+  {
+    "id": 13,
+    "question": "This Supreme Court ruling clarifies the rights of homebuyers across India, stating they can seek relief for delays related to what circumstance?",
+    "options": ["Builder bankruptcy", "Lack of amenities promised", "Delay after possession", "High interest rates on loans"],
+    "correctAnswer": "Delay after possession"
+  },
+  {
+    "id": 14,
+    "question": "Recent news highlights an issue concerning doctor registration rules across India. What is the core problem identified?",
+    "options": ["Lack of doctors", "High registration fees", "Two states having two different rules", "Complex online application process"],
+    "correctAnswer": "Two states having two different rules"
+  },
+  {
+    "id": 15,
+    "question": "The inconsistency in doctor registration rules across different Indian states, as highlighted in the news, primarily impacts which aspect of the medical profession?",
+    "options": ["Doctor-patient ratio", "Uniformity of medical practice and regulation", "Access to medical education", "International recognition of degrees"],
+    "correctAnswer": "Uniformity of medical practice and regulation"
+  },
+  {
+    "id": 16,
+    "question": "Which regulatory aspect in the Indian medical field has been noted for having differing rules across states, potentially affecting doctors in regions like Andhra Pradesh and Telangana?",
+    "options": ["Working hours of doctors", "Prescribing medication", "Registration of doctors", "Hospital licensing"],
+    "correctAnswer": "Registration of doctors"
+  },
+  {
+    "id": 17,
+    "question": "What is the Indian government planning to simplify in order to significantly reduce medicine wastage?",
+    "options": ["Manufacturing processes", "Storage guidelines", "Import rules for medicines", "Prescription formats"],
+    "correctAnswer": "Import rules for medicines"
+  },
+  {
+    "id": 18,
+    "question": "The government's plan to simplify medicine import rules is primarily aimed at achieving which specific outcome?",
+    "options": ["Increasing medicine exports", "Reducing pharmaceutical prices", "Cutting medicine wastage", "Boosting domestic production"],
+    "correctAnswer": "Cutting medicine wastage"
+  },
+  {
+    "id": 19,
+    "question": "This initiative by the government to simplify import rules for medicines will benefit healthcare systems in states like Telangana and Andhra Pradesh by addressing what critical issue?",
+    "options": ["Shortage of doctors", "High cost of treatment", "Medicine wastage", "Lack of medical infrastructure"],
+    "correctAnswer": "Medicine wastage"
+  },
+  {
+    "id": 20,
+    "question": "According to recent reports, by how much have drone drug trafficking cases increased in India over the past five years?",
     "options": ["10-fold", "50-fold", "100-fold", "200-fold"],
     "correctAnswer": "100-fold"
   },
   {
-    "id": 7,
-    "question": "The significant rise in drone drug trafficking cases in India poses a major challenge primarily to which sector?",
-    "options": ["Agricultural security", "Cyber security", "Border security", "Economic stability"],
-    "correctAnswer": "Border security"
-  },
-  {
-    "id": 8,
-    "question": "Which Union Ministry in India is reportedly moving fast to set up exclusive NDPS courts?",
-    "options": ["Ministry of Finance", "Ministry of Home Affairs (MHA)", "Ministry of Law and Justice", "Ministry of External Affairs"],
-    "correctAnswer": "Ministry of Home Affairs (MHA)"
-  },
-  {
-    "id": 9,
-    "question": "What is the primary objective of establishing exclusive NDPS courts, as stated by Amit Shah?",
-    "options": ["To expedite corporate litigation", "To handle environmental cases", "To speed up drug-related offense trials", "To resolve property disputes"],
-    "correctAnswer": "To speed up drug-related offense trials"
-  },
-  {
-    "id": 10,
-    "question": "Who recently announced the MHA's plan to expedite the establishment of exclusive NDPS courts?",
-    "options": ["Nirmala Sitharaman", "S. Jaishankar", "Amit Shah", "Narendra Modi"],
-    "correctAnswer": "Amit Shah"
-  },
-  {
-    "id": 11,
-    "question": "The acronym NDPS in NDPS courts primarily stands for offenses related to what?",
-    "options": ["National Development & Public Services", "Narcotic Drugs and Psychotropic Substances", "Non-Disclosure & Patent Settlements", "Nuclear Disarmament & Public Safety"],
-    "correctAnswer": "Narcotic Drugs and Psychotropic Substances"
-  },
-  {
-    "id": 12,
-    "question": "How many new bullet train corridors is the Indian government aiming to develop across the country?",
-    "options": ["5", "7", "10", "12"],
-    "correctAnswer": "7"
-  },
-  {
-    "id": 13,
-    "question": "What is a key objective for the Indian government in designing structures and tunnels for the upcoming bullet train corridors?",
-    "options": ["Using recycled materials only", "Adopting standard design practices", "Prioritizing scenic views", "Developing underground networks exclusively"],
-    "correctAnswer": "Adopting standard design practices"
-  },
-  {
-    "id": 14,
-    "question": "What maximum speed is being targeted for the new bullet train projects currently under planning in India?",
-    "options": ["250 kmph", "300 kmph", "350 kmph", "400 kmph"],
-    "correctAnswer": "350 kmph"
-  },
-  {
-    "id": 15,
-    "question": "The seven new bullet train corridors are planned to span approximately what total distance across India?",
-    "options": ["1,000 km", "2,500 km", "4,000 km", "5,500 km"],
-    "correctAnswer": "4,000 km"
-  },
-  {
-    "id": 16,
-    "question": "Which Indian national airline has recently decided to stop providing crew laundry services on international layovers?",
-    "options": ["IndiGo", "SpiceJet", "Vistara", "Air India"],
-    "correctAnswer": "Air India"
-  },
-  {
-    "id": 17,
-    "question": "What is the stated reason behind Air India's decision to discontinue crew laundry services on international layovers?",
-    "options": ["Environmental concerns", "Operational efficiency improvements", "Being a loss-making entity", "Crew preference for self-service"],
-    "correctAnswer": "Being a loss-making entity"
-  },
-  {
-    "id": 18,
-    "question": "For which specific service on international layovers has Air India announced a discontinuation for its crew members?",
-    "options": ["Hotel accommodation", "Meal allowances", "Laundry services", "Transportation services"],
-    "correctAnswer": "Laundry services"
-  },
-  {
-    "id": 19,
-    "question": "In which educational material has 'SIR' (School-Industry Relations or similar concept, interpreting it as a general educational inclusion) recently made its way into Class IX textbooks?",
-    "options": ["State Board Textbooks", "CBSE Supplementary Readers", "NCERT Textbooks", "JEE Preparation Manuals"],
-    "correctAnswer": "NCERT Textbooks"
-  },
-  {
-    "id": 20,
-    "question": "The new inclusion of 'SIR' (assuming a national educational topic) is featured in the NCERT textbook for which academic grade?",
-    "options": ["Class VII", "Class VIII", "Class IX", "Class X"],
-    "correctAnswer": "Class IX"
-  },
-  {
     "id": 21,
-    "question": "Which national organization's Class IX textbooks now include the topic referred to as 'SIR'?",
-    "options": ["UGC", "AICTE", "NCERT", "NTA"],
-    "correctAnswer": "NCERT"
+    "question": "What emerging method of drug trafficking has seen a massive surge in India recently, posing challenges for law enforcement in regions including Telangana and Andhra Pradesh?",
+    "options": ["Sea route trafficking", "Underground tunnel trafficking", "Drone drug trafficking", "Postal service trafficking"],
+    "correctAnswer": "Drone drug trafficking"
   },
   {
     "id": 22,
-    "question": "What was the name of the operation launched by the Indian Army and IAF to provide medical assistance to quake-hit Venezuela?",
-    "options": ["Operation Maitri", "Operation Dost", "Operation Amistad", "Operation Sagar"],
-    "correctAnswer": "Operation Amistad"
+    "question": "The 100-fold increase in drone drug trafficking cases over five years is a significant concern for law enforcement agencies in which country?",
+    "options": ["China", "Pakistan", "India", "Bangladesh"],
+    "correctAnswer": "India"
   },
   {
     "id": 23,
-    "question": "To which quake-hit South American nation did India send a medical contingent under 'Operation Amistad'?",
-    "options": ["Chile", "Ecuador", "Venezuela", "Peru"],
-    "correctAnswer": "Venezuela"
+    "question": "The observed trend of a 100-fold increase in drone drug trafficking cases over five years highlights a growing challenge for border security and internal law enforcement in all Indian states. What is this trend?",
+    "options": ["Decline in cases", "Stagnation in cases", "Cases up 100-fold", "Cases down by half"],
+    "correctAnswer": "Cases up 100-fold"
   },
   {
     "id": 24,
-    "question": "Which two Indian armed forces coordinated to launch 'Operation Amistad' for international relief efforts?",
-    "options": ["Indian Navy and Coast Guard", "Indian Army and Indian Air Force (IAF)", "Border Security Force and CRPF", "National Disaster Response Force and ITBP"],
-    "correctAnswer": "Indian Army and Indian Air Force (IAF)"
+    "question": "The news headline specifically highlighted Donald Trump thanking India after Hyderabad honored him. What was the nature of this honor?",
+    "options": ["He received a ceremonial key to the city", "A statue was unveiled in his likeness", "A road was renamed after him", "He was granted honorary citizenship"],
+    "correctAnswer": "A road was renamed after him"
   },
   {
     "id": 25,
-    "question": "Under 'Operation Amistad', what specific type of aid was provided by India to the affected country?",
-    "options": ["Food supplies", "Financial assistance", "Medical contingent", "Search and rescue teams"],
-    "correctAnswer": "Medical contingent"
+    "question": "The city of Hyderabad was in the news for an international diplomatic gesture involving a former US President. What city made this gesture?",
+    "options": ["Amaravati", "Visakhapatnam", "Hyderabad", "Vijayawada"],
+    "correctAnswer": "Hyderabad"
   }
 ]

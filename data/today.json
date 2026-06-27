@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which satellite-based navigation system is being used by India for safer flight approaches, making it a reality for national aviation?",
-    "options": ["NavIC", "GPS", "GAGAN", "GLONASS"],
-    "correctAnswer": "GAGAN"
+    "question": "Which major religious structure's donation process is currently under political scrutiny in India, as highlighted by recent controversies?",
+    "options": ["Kashi Vishwanath Temple", "Ram Temple Ayodhya", "Mahakal Temple Ujjain", "Somnath Temple"],
+    "correctAnswer": "Ram Temple Ayodhya"
   },
   {
     "id": 2,
-    "question": "What is the primary benefit of India implementing satellite-based approaches using the GAGAN system for flights?",
-    "options": ["Reduced flight costs", "Faster travel times", "Enhanced flight safety and precision", "Increased passenger capacity"],
-    "correctAnswer": "Enhanced flight safety and precision"
+    "question": "Which political leader recently accused the BJP of \"betrayal of Hindus\" regarding alleged Ram Temple donation irregularities?",
+    "options": ["Arvind Kejriwal", "Ashok Gehlot", "Uddhav Thackeray", "Priyank Kharge"],
+    "correctAnswer": "Uddhav Thackeray"
   },
   {
     "id": 3,
-    "question": "GAGAN stands for which of the following?",
-    "options": ["Global Air-Ground Augmentation Network", "GPS Aided Geo Augmented Navigation", "Geo-Atmospheric Global Aviation Network", "Global Aviation Guidance and Navigation"],
-    "correctAnswer": "GPS Aided Geo Augmented Navigation"
+    "question": "The ongoing political debate about Ram Temple funds primarily concerns its location in which Indian city?",
+    "options": ["Varanasi", "Mathura", "Ayodhya", "Haridwar"],
+    "correctAnswer": "Ayodhya"
   },
   {
     "id": 4,
-    "question": "Which country recently reaffirmed its strong support for India's bid for a permanent seat on the UN Security Council?",
-    "options": ["Maldives", "Sri Lanka", "Seychelles", "Mauritius"],
-    "correctAnswer": "Seychelles"
-  },
-  {
-    "id": 5,
-    "question": "According to Seychelles' Foreign Minister, what is one key reason India deserves a permanent UN Security Council seat?",
-    "options": ["Its historical colonial ties", "Its small geographic size", "Its significant global stature and population", "Its exclusive economic power"],
-    "correctAnswer": "Its significant global stature and population"
-  },
-  {
-    "id": 6,
-    "question": "The Seychelles Foreign Minister emphasized the need for reforms in global institutions to reflect current geopolitical realities, advocating for better representation for countries like India and which region?",
-    "options": ["South America", "East Asia", "Europe", "Africa"],
-    "correctAnswer": "Africa"
-  },
-  {
-    "id": 7,
-    "question": "Which international body is India seeking a permanent seat in, receiving support from Seychelles?",
-    "options": ["World Trade Organization (WTO)", "International Monetary Fund (IMF)", "UN Security Council (UNSC)", "G7"],
-    "correctAnswer": "UN Security Council (UNSC)"
-  },
-  {
-    "id": 8,
-    "question": "Which prominent Indian political figure recently criticized the central government's alleged silence and shift in foreign policy regarding the Gaza conflict?",
-    "options": ["Narendra Modi", "Sonia Gandhi", "Amit Shah", "Arvind Kejriwal"],
-    "correctAnswer": "Sonia Gandhi"
-  },
-  {
-    "id": 9,
-    "question": "Rahul Gandhi recently backed Sonia Gandhi's stance on the Gaza conflict, urging India to reclaim what aspect of its policy?",
-    "options": ["Economic liberalization policy", "Military non-intervention policy", "Independent foreign policy", "Climate change policy"],
-    "correctAnswer": "Independent foreign policy"
-  },
-  {
-    "id": 10,
-    "question": "The BJP accused the Congress of engaging in 'vote bank politics' in response to whose criticism of the government's stance on the Gaza conflict?",
-    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Sonia Gandhi", "Priyanka Gandhi Vadra"],
-    "correctAnswer": "Sonia Gandhi"
-  },
-  {
-    "id": 11,
-    "question": "What was the core accusation made by the BJP against the Congress regarding their criticism of the government's foreign policy on Gaza?",
-    "options": ["Ignoring national security", "Promoting regional conflicts", "Playing 'vote bank politics'", "Undermining economic stability"],
-    "correctAnswer": "Playing 'vote bank politics'"
-  },
-  {
-    "id": 12,
-    "question": "A former Chief Minister recently criticized a major political party, alleging deliberate stalling of justice in a sensitive murder case for what purpose?",
-    "options": ["To protect state officials", "For electoral advantage", "To destabilize the judiciary", "To avoid international scrutiny"],
-    "correctAnswer": "For electoral advantage"
-  },
-  {
-    "id": 13,
-    "question": "According to a recent political critique, despite a four-year lapse in a sensitive murder case, how many witnesses out of 180 had testified, suggesting a delay in justice?",
-    "options": ["5", "21", "50", "100"],
-    "correctAnswer": "21"
-  },
-  {
-    "id": 14,
-    "question": "The criticism regarding the delay in justice for electoral reasons was directed at which major political party in India?",
-    "options": ["Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)", "Bharatiya Janata Party (BJP)", "Communist Party of India (CPI)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
-  },
-  {
-    "id": 15,
-    "question": "The former Chief Minister who criticized the delay in justice for electoral reasons belongs to which political party?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Trinamool Congress (TMC)", "Biju Janata Dal (BJD)"],
-    "correctAnswer": "Indian National Congress (INC)"
-  },
-  {
-    "id": 16,
-    "question": "Regarding the Gaza conflict, the Congress party accused the central government of shifting India's foreign policy closer to which country?",
-    "options": ["Russia", "China", "United States", "Israel"],
-    "correctAnswer": "Israel"
-  },
-  {
-    "id": 17,
-    "question": "In response to criticism on its Gaza stance, the BJP countered by stating that India has consistently articulated its position and provided what to the region?",
-    "options": ["Military support", "Economic sanctions", "Humanitarian aid", "Political asylum"],
-    "correctAnswer": "Humanitarian aid"
-  },
-  {
-    "id": 18,
-    "question": "What kind of partnership did the Seychelles Foreign Minister describe the relationship between India and Seychelles as?",
-    "options": ["Economic partnership", "Cultural exchange", "Excellent, long-standing strategic partnership", "Military alliance"],
-    "correctAnswer": "Excellent, long-standing strategic partnership"
-  },
-  {
-    "id": 19,
-    "question": "Besides its significant global stature and population, what other contribution did Seychelles' Foreign Minister cite for India's deservingness of a permanent UNSC seat?",
-    "options": ["Its leading role in space exploration", "Its contributions to international peace", "Its rapidly growing IT sector", "Its status as a nuclear power"],
-    "correctAnswer": "Its contributions to international peace"
-  },
-  {
-    "id": 20,
-    "question": "The implementation of GAGAN for satellite-based approaches for flights in India signifies a major advancement in which sector?",
-    "options": ["Maritime transport", "Railways", "Aviation", "Road transport"],
-    "correctAnswer": "Aviation"
-  },
-  {
-    "id": 21,
-    "question": "A former Chief Minister recently urged voters to recognize a specific political party's alleged political maneuvering over genuine justice. Which party was this criticism directed towards?",
-    "options": ["Indian National Congress", "Aam Aadmi Party", "Bharatiya Janata Party", "All India Trinamool Congress"],
+    "question": "Which national political party is facing accusations from opposition leaders concerning alleged mismanagement or theft of Ram Temple donations?",
+    "options": ["Indian National Congress", "Aam Aadmi Party", "Bharatiya Janata Party", "Shiv Sena (UBT)"],
     "correctAnswer": "Bharatiya Janata Party"
   },
   {
+    "id": 5,
+    "question": "What core constitutional concept was recently alleged to be removed from NCERT Class 9 textbooks, a claim later denied by NCERT?",
+    "options": ["Fundamental Rights", "Directive Principles", "Preamble", "Judicial Review"],
+    "correctAnswer": "Preamble"
+  },
+  {
+    "id": 6,
+    "question": "Which national educational body clarified that the Preamble remains in its Class 9 Social Science textbooks despite removal claims?",
+    "options": ["UGC", "CBSE", "NCERT", "NTA"],
+    "correctAnswer": "NCERT"
+  },
+  {
+    "id": 7,
+    "question": "A new chapter on what significant historical period was introduced in the revised NCERT Class 9 textbooks, attracting attention?",
+    "options": ["The Partition of India", "The Emergency (1975-77)", "Quit India Movement", "Economic Reforms of 1991"],
+    "correctAnswer": "The Emergency (1975-77)"
+  },
+  {
+    "id": 8,
+    "question": "Which term, often debated in the context of the Preamble, was part of the controversy surrounding recent NCERT textbook changes?",
+    "options": ["Democratic", "Republic", "Secular", "Sovereign"],
+    "correctAnswer": "Secular"
+  },
+  {
+    "id": 9,
+    "question": "The NCERT curriculum redesign, which involves redistributing topics, is reportedly being done under which national framework?",
+    "options": ["New Education Policy", "National Curriculum Framework", "Sarva Shiksha Abhiyan", "Rashtriya Madhyamik Shiksha Abhiyan"],
+    "correctAnswer": "National Curriculum Framework"
+  },
+  {
+    "id": 10,
+    "question": "The postponement of an entrance test in Maharashtra due to a 'paper leak' highlights what recurring challenge in the Indian education system?",
+    "options": ["Lack of exam centers", "Ineffective invigilation", "Exam paper security breaches", "Student absenteeism"],
+    "correctAnswer": "Exam paper security breaches"
+  },
+  {
+    "id": 11,
+    "question": "Which prominent political leader criticized the BJP by stating 'Neither exams nor temples spared' following an exam paper leak in Maharashtra?",
+    "options": ["Rahul Gandhi", "Mamata Banerjee", "Arvind Kejriwal", "Akhilesh Yadav"],
+    "correctAnswer": "Arvind Kejriwal"
+  },
+  {
+    "id": 12,
+    "question": "The recent incident of an entrance test postponement due to a paper leak occurred in which Indian state?",
+    "options": ["Uttar Pradesh", "Rajasthan", "Maharashtra", "Bihar"],
+    "correctAnswer": "Maharashtra"
+  },
+  {
+    "id": 13,
+    "question": "Khalistani terror threat alerts were recently issued for which two Indian states/regions?",
+    "options": ["Punjab and Haryana", "Delhi and Uttarakhand", "Himachal Pradesh and Jammu & Kashmir", "Uttar Pradesh and Rajasthan"],
+    "correctAnswer": "Delhi and Uttarakhand"
+  },
+  {
+    "id": 14,
+    "question": "Temples, government buildings, and railway stations were identified as potential targets in recent terror threat alerts linked to which group?",
+    "options": ["Maoists", "Khalistani terrorists", "Lashkar-e-Taiba", "Jaish-e-Mohammed"],
+    "correctAnswer": "Khalistani terrorists"
+  },
+  {
+    "id": 15,
+    "question": "The recent Khalistani terror threat alert for Delhi and Uttarakhand was reportedly communicated via which method?",
+    "options": ["Public broadcast", "Official gazette", "Intelligence report leak", "Email"],
+    "correctAnswer": "Email"
+  },
+  {
+    "id": 16,
+    "question": "An Indian national and a firm from which Indian state were among those sanctioned by the US over alleged roles in the Sudan civil war?",
+    "options": ["Maharashtra", "Gujarat", "Chhattisgarh", "Karnataka"],
+    "correctAnswer": "Chhattisgarh"
+  },
+  {
+    "id": 17,
+    "question": "The US recently sanctioned Indian entities for their alleged involvement in the civil war of which African nation?",
+    "options": ["Ethiopia", "Somalia", "Sudan", "Libya"],
+    "correctAnswer": "Sudan"
+  },
+  {
+    "id": 18,
+    "question": "Which national political party is currently at the center of various controversies mentioned in recent news, including issues related to temple funds and exam integrity?",
+    "options": ["Aam Aadmi Party", "Bharatiya Janata Party", "Indian National Congress", "Bahujan Samaj Party"],
+    "correctAnswer": "Bharatiya Janata Party"
+  },
+  {
+    "id": 19,
+    "question": "Priyank Kharge, a prominent political figure, raised questions about the Ram Mandir funds row, referencing which program of the Prime Minister?",
+    "options": ["Mann Ki Baat", "Swachh Bharat Abhiyan", "Make in India", "Digital India"],
+    "correctAnswer": "Mann Ki Baat"
+  },
+  {
+    "id": 20,
+    "question": "Ashok Gehlot, a former Chief Minister, recently commented on the Kanhaiya Lal murder case, associating it with which Indian state's politics?",
+    "options": ["Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Gujarat"],
+    "correctAnswer": "Rajasthan"
+  },
+  {
+    "id": 21,
+    "question": "What kind of security alerts have been issued for certain regions in Northern India, prompted by intelligence indicating potential attacks?",
+    "options": ["Cyclone alerts", "Heatwave alerts", "Terror threat alerts", "Earthquake alerts"],
+    "correctAnswer": "Terror threat alerts"
+  },
+  {
     "id": 22,
-    "question": "What did a former Chief Minister accuse the current ruling party of doing concerning a sensitive murder case, four years after the incident?",
-    "options": ["Providing swift justice", "Ignoring the case entirely", "Deliberately stalling justice for electoral advantage", "Conducting a transparent investigation"],
-    "correctAnswer": "Deliberately stalling justice for electoral advantage"
+    "question": "What is a major concern often raised by opposition parties regarding alleged financial irregularities in public projects or donations, as seen in the Ram Temple fund controversy?",
+    "options": ["Slow pace of work", "Lack of foreign investment", "Transparency and accountability issues", "Environmental impact"],
+    "correctAnswer": "Transparency and accountability issues"
   },
   {
     "id": 23,
-    "question": "The debate between Congress and BJP regarding India's foreign policy on the Gaza conflict highlights differing views on India's role in which type of global events?",
-    "options": ["Economic summits", "Cultural festivals", "Humanitarian crises and international conflicts", "Space exploration initiatives"],
-    "correctAnswer": "Humanitarian crises and international conflicts"
+    "question": "The NCERT's denial of dropping the Preamble from textbooks indicates the importance of maintaining what in educational content?",
+    "options": ["Historical accuracy", "Constitutional integrity", "Regional diversity", "Technological advancements"],
+    "correctAnswer": "Constitutional integrity"
   },
   {
     "id": 24,
-    "question": "What does Seychelles Foreign Minister advocate for global institutions to reflect in their structure and representation?",
-    "options": ["Historical colonial alliances", "Current geopolitical realities", "Past military strengths", "Specific cultural values"],
-    "correctAnswer": "Current geopolitical realities"
+    "question": "The controversy surrounding exam paper leaks across India, including the recent one in Maharashtra, primarily undermines which aspect of the examination system?",
+    "options": ["Cost-effectiveness", "Accessibility", "Fairness and credibility", "Speed of results"],
+    "correctAnswer": "Fairness and credibility"
   },
   {
     "id": 25,
-    "question": "The successful implementation of satellite-based approaches using GAGAN demonstrates India's growing capabilities in which field?",
-    "options": ["Biotechnology", "Space technology and aviation infrastructure", "Automotive manufacturing", "Renewable energy production"],
-    "correctAnswer": "Space technology and aviation infrastructure"
+    "question": "The introduction of a chapter on \"The Emergency\" in NCERT textbooks signifies an effort to educate students about which critical period in India's democratic history?",
+    "options": ["India's independence struggle", "Post-liberalization era", "Challenges to democratic governance", "Economic planning in India"],
+    "correctAnswer": "Challenges to democratic governance"
   }
 ]

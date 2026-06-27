@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which city in India recently renamed a road after a former US President, leading to his public acknowledgment?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which satellite-based navigation system is being used by India for safer flight approaches, making it a reality for national aviation?",
+    "options": ["NavIC", "GPS", "GAGAN", "GLONASS"],
+    "correctAnswer": "GAGAN"
   },
   {
     "id": 2,
-    "question": "Which former US President recently thanked India after a road was reportedly renamed in his honor in Hyderabad?",
-    "options": ["Barack Obama", "George W. Bush", "Donald Trump", "Bill Clinton"],
-    "correctAnswer": "Donald Trump"
+    "question": "What is the primary benefit of India implementing satellite-based approaches using the GAGAN system for flights?",
+    "options": ["Reduced flight costs", "Faster travel times", "Enhanced flight safety and precision", "Increased passenger capacity"],
+    "correctAnswer": "Enhanced flight safety and precision"
   },
   {
     "id": 3,
-    "question": "The renaming of a road in Hyderabad after Donald Trump was highlighted as a 'first' for a US President in India. What was this specific 'first'?",
-    "options": ["First US President to visit Hyderabad", "First US President to have a statue erected", "First US President to be honored this way", "First US President to receive an Indian civilian award"],
-    "correctAnswer": "First US President to be honored this way"
+    "question": "GAGAN stands for which of the following?",
+    "options": ["Global Air-Ground Augmentation Network", "GPS Aided Geo Augmented Navigation", "Geo-Atmospheric Global Aviation Network", "Global Aviation Guidance and Navigation"],
+    "correctAnswer": "GPS Aided Geo Augmented Navigation"
   },
   {
     "id": 4,
-    "question": "In which Indian state is Hyderabad, the city where a road was recently renamed after Donald Trump, located?",
-    "options": ["Andhra Pradesh", "Karnataka", "Maharashtra", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "Which country recently reaffirmed its strong support for India's bid for a permanent seat on the UN Security Council?",
+    "options": ["Maldives", "Sri Lanka", "Seychelles", "Mauritius"],
+    "correctAnswer": "Seychelles"
   },
   {
     "id": 5,
-    "question": "Donald Trump expressed gratitude after a road was named after him. In which Indian city did this event reportedly occur?",
-    "options": ["Delhi", "Kolkata", "Hyderabad", "Jaipur"],
-    "correctAnswer": "Hyderabad"
+    "question": "According to Seychelles' Foreign Minister, what is one key reason India deserves a permanent UN Security Council seat?",
+    "options": ["Its historical colonial ties", "Its small geographic size", "Its significant global stature and population", "Its exclusive economic power"],
+    "correctAnswer": "Its significant global stature and population"
   },
   {
     "id": 6,
-    "question": "The honor bestowed upon Donald Trump in Hyderabad involved the renaming of what?",
-    "options": ["A stadium", "A road", "A university", "A public park"],
-    "correctAnswer": "A road"
+    "question": "The Seychelles Foreign Minister emphasized the need for reforms in global institutions to reflect current geopolitical realities, advocating for better representation for countries like India and which region?",
+    "options": ["South America", "East Asia", "Europe", "Africa"],
+    "correctAnswer": "Africa"
   },
   {
     "id": 7,
-    "question": "According to recent news, what new directive have hospitals received regarding kidney transplants?",
-    "options": ["Reduce transplant costs", "Increase transplant capacity", "Make public their kidney transplant success rate", "Prioritize specific patient groups"],
-    "correctAnswer": "Make public their kidney transplant success rate"
+    "question": "Which international body is India seeking a permanent seat in, receiving support from Seychelles?",
+    "options": ["World Trade Organization (WTO)", "International Monetary Fund (IMF)", "UN Security Council (UNSC)", "G7"],
+    "correctAnswer": "UN Security Council (UNSC)"
   },
   {
     "id": 8,
-    "question": "The recent mandate for hospitals across India, including those in Telangana and Andhra Pradesh, aims to improve transparency in which specific medical procedure?",
-    "options": ["Heart surgery", "Cancer treatment", "Kidney transplants", "Cataract operations"],
-    "correctAnswer": "Kidney transplants"
+    "question": "Which prominent Indian political figure recently criticized the central government's alleged silence and shift in foreign policy regarding the Gaza conflict?",
+    "options": ["Narendra Modi", "Sonia Gandhi", "Amit Shah", "Arvind Kejriwal"],
+    "correctAnswer": "Sonia Gandhi"
   },
   {
     "id": 9,
-    "question": "The directive for hospitals to publish kidney transplant success rates is primarily intended to benefit whom?",
-    "options": ["Hospital management", "Pharmaceutical companies", "Medical researchers", "The public seeking transplants"],
-    "correctAnswer": "The public seeking transplants"
+    "question": "Rahul Gandhi recently backed Sonia Gandhi's stance on the Gaza conflict, urging India to reclaim what aspect of its policy?",
+    "options": ["Economic liberalization policy", "Military non-intervention policy", "Independent foreign policy", "Climate change policy"],
+    "correctAnswer": "Independent foreign policy"
   },
   {
     "id": 10,
-    "question": "This new policy on transparency in kidney transplants applies to hospitals across India. What specific information must be made public?",
-    "options": ["Doctor's salaries", "Hospital profits", "Success rates of transplants", "Number of beds"],
-    "correctAnswer": "Success rates of transplants"
+    "question": "The BJP accused the Congress of engaging in 'vote bank politics' in response to whose criticism of the government's stance on the Gaza conflict?",
+    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Sonia Gandhi", "Priyanka Gandhi Vadra"],
+    "correctAnswer": "Sonia Gandhi"
   },
   {
     "id": 11,
-    "question": "The Supreme Court recently ruled that homebuyers can seek relief for what specific issue related to property, even after taking possession?",
-    "options": ["Increase in property tax", "Delay after possession", "Change in architectural design", "Noise pollution from neighbors"],
-    "correctAnswer": "Delay after possession"
+    "question": "What was the core accusation made by the BJP against the Congress regarding their criticism of the government's foreign policy on Gaza?",
+    "options": ["Ignoring national security", "Promoting regional conflicts", "Playing 'vote bank politics'", "Undermining economic stability"],
+    "correctAnswer": "Playing 'vote bank politics'"
   },
   {
     "id": 12,
-    "question": "According to a Supreme Court ruling, homebuyers in states like Telangana and Andhra Pradesh can seek relief for delays even after which stage of property acquisition?",
-    "options": ["Booking the property", "Signing the agreement", "Taking possession", "Final payment"],
-    "correctAnswer": "Taking possession"
+    "question": "A former Chief Minister recently criticized a major political party, alleging deliberate stalling of justice in a sensitive murder case for what purpose?",
+    "options": ["To protect state officials", "For electoral advantage", "To destabilize the judiciary", "To avoid international scrutiny"],
+    "correctAnswer": "For electoral advantage"
   },
   {
     "id": 13,
-    "question": "This Supreme Court ruling clarifies the rights of homebuyers across India, stating they can seek relief for delays related to what circumstance?",
-    "options": ["Builder bankruptcy", "Lack of amenities promised", "Delay after possession", "High interest rates on loans"],
-    "correctAnswer": "Delay after possession"
+    "question": "According to a recent political critique, despite a four-year lapse in a sensitive murder case, how many witnesses out of 180 had testified, suggesting a delay in justice?",
+    "options": ["5", "21", "50", "100"],
+    "correctAnswer": "21"
   },
   {
     "id": 14,
-    "question": "Recent news highlights an issue concerning doctor registration rules across India. What is the core problem identified?",
-    "options": ["Lack of doctors", "High registration fees", "Two states having two different rules", "Complex online application process"],
-    "correctAnswer": "Two states having two different rules"
+    "question": "The criticism regarding the delay in justice for electoral reasons was directed at which major political party in India?",
+    "options": ["Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)", "Bharatiya Janata Party (BJP)", "Communist Party of India (CPI)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 15,
-    "question": "The inconsistency in doctor registration rules across different Indian states, as highlighted in the news, primarily impacts which aspect of the medical profession?",
-    "options": ["Doctor-patient ratio", "Uniformity of medical practice and regulation", "Access to medical education", "International recognition of degrees"],
-    "correctAnswer": "Uniformity of medical practice and regulation"
+    "question": "The former Chief Minister who criticized the delay in justice for electoral reasons belongs to which political party?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Trinamool Congress (TMC)", "Biju Janata Dal (BJD)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 16,
-    "question": "Which regulatory aspect in the Indian medical field has been noted for having differing rules across states, potentially affecting doctors in regions like Andhra Pradesh and Telangana?",
-    "options": ["Working hours of doctors", "Prescribing medication", "Registration of doctors", "Hospital licensing"],
-    "correctAnswer": "Registration of doctors"
+    "question": "Regarding the Gaza conflict, the Congress party accused the central government of shifting India's foreign policy closer to which country?",
+    "options": ["Russia", "China", "United States", "Israel"],
+    "correctAnswer": "Israel"
   },
   {
     "id": 17,
-    "question": "What is the Indian government planning to simplify in order to significantly reduce medicine wastage?",
-    "options": ["Manufacturing processes", "Storage guidelines", "Import rules for medicines", "Prescription formats"],
-    "correctAnswer": "Import rules for medicines"
+    "question": "In response to criticism on its Gaza stance, the BJP countered by stating that India has consistently articulated its position and provided what to the region?",
+    "options": ["Military support", "Economic sanctions", "Humanitarian aid", "Political asylum"],
+    "correctAnswer": "Humanitarian aid"
   },
   {
     "id": 18,
-    "question": "The government's plan to simplify medicine import rules is primarily aimed at achieving which specific outcome?",
-    "options": ["Increasing medicine exports", "Reducing pharmaceutical prices", "Cutting medicine wastage", "Boosting domestic production"],
-    "correctAnswer": "Cutting medicine wastage"
+    "question": "What kind of partnership did the Seychelles Foreign Minister describe the relationship between India and Seychelles as?",
+    "options": ["Economic partnership", "Cultural exchange", "Excellent, long-standing strategic partnership", "Military alliance"],
+    "correctAnswer": "Excellent, long-standing strategic partnership"
   },
   {
     "id": 19,
-    "question": "This initiative by the government to simplify import rules for medicines will benefit healthcare systems in states like Telangana and Andhra Pradesh by addressing what critical issue?",
-    "options": ["Shortage of doctors", "High cost of treatment", "Medicine wastage", "Lack of medical infrastructure"],
-    "correctAnswer": "Medicine wastage"
+    "question": "Besides its significant global stature and population, what other contribution did Seychelles' Foreign Minister cite for India's deservingness of a permanent UNSC seat?",
+    "options": ["Its leading role in space exploration", "Its contributions to international peace", "Its rapidly growing IT sector", "Its status as a nuclear power"],
+    "correctAnswer": "Its contributions to international peace"
   },
   {
     "id": 20,
-    "question": "According to recent reports, by how much have drone drug trafficking cases increased in India over the past five years?",
-    "options": ["10-fold", "50-fold", "100-fold", "200-fold"],
-    "correctAnswer": "100-fold"
+    "question": "The implementation of GAGAN for satellite-based approaches for flights in India signifies a major advancement in which sector?",
+    "options": ["Maritime transport", "Railways", "Aviation", "Road transport"],
+    "correctAnswer": "Aviation"
   },
   {
     "id": 21,
-    "question": "What emerging method of drug trafficking has seen a massive surge in India recently, posing challenges for law enforcement in regions including Telangana and Andhra Pradesh?",
-    "options": ["Sea route trafficking", "Underground tunnel trafficking", "Drone drug trafficking", "Postal service trafficking"],
-    "correctAnswer": "Drone drug trafficking"
+    "question": "A former Chief Minister recently urged voters to recognize a specific political party's alleged political maneuvering over genuine justice. Which party was this criticism directed towards?",
+    "options": ["Indian National Congress", "Aam Aadmi Party", "Bharatiya Janata Party", "All India Trinamool Congress"],
+    "correctAnswer": "Bharatiya Janata Party"
   },
   {
     "id": 22,
-    "question": "The 100-fold increase in drone drug trafficking cases over five years is a significant concern for law enforcement agencies in which country?",
-    "options": ["China", "Pakistan", "India", "Bangladesh"],
-    "correctAnswer": "India"
+    "question": "What did a former Chief Minister accuse the current ruling party of doing concerning a sensitive murder case, four years after the incident?",
+    "options": ["Providing swift justice", "Ignoring the case entirely", "Deliberately stalling justice for electoral advantage", "Conducting a transparent investigation"],
+    "correctAnswer": "Deliberately stalling justice for electoral advantage"
   },
   {
     "id": 23,
-    "question": "The observed trend of a 100-fold increase in drone drug trafficking cases over five years highlights a growing challenge for border security and internal law enforcement in all Indian states. What is this trend?",
-    "options": ["Decline in cases", "Stagnation in cases", "Cases up 100-fold", "Cases down by half"],
-    "correctAnswer": "Cases up 100-fold"
+    "question": "The debate between Congress and BJP regarding India's foreign policy on the Gaza conflict highlights differing views on India's role in which type of global events?",
+    "options": ["Economic summits", "Cultural festivals", "Humanitarian crises and international conflicts", "Space exploration initiatives"],
+    "correctAnswer": "Humanitarian crises and international conflicts"
   },
   {
     "id": 24,
-    "question": "The news headline specifically highlighted Donald Trump thanking India after Hyderabad honored him. What was the nature of this honor?",
-    "options": ["He received a ceremonial key to the city", "A statue was unveiled in his likeness", "A road was renamed after him", "He was granted honorary citizenship"],
-    "correctAnswer": "A road was renamed after him"
+    "question": "What does Seychelles Foreign Minister advocate for global institutions to reflect in their structure and representation?",
+    "options": ["Historical colonial alliances", "Current geopolitical realities", "Past military strengths", "Specific cultural values"],
+    "correctAnswer": "Current geopolitical realities"
   },
   {
     "id": 25,
-    "question": "The city of Hyderabad was in the news for an international diplomatic gesture involving a former US President. What city made this gesture?",
-    "options": ["Amaravati", "Visakhapatnam", "Hyderabad", "Vijayawada"],
-    "correctAnswer": "Hyderabad"
+    "question": "The successful implementation of satellite-based approaches using GAGAN demonstrates India's growing capabilities in which field?",
+    "options": ["Biotechnology", "Space technology and aviation infrastructure", "Automotive manufacturing", "Renewable energy production"],
+    "correctAnswer": "Space technology and aviation infrastructure"
   }
 ]

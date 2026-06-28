@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to the MEA's advisory, what primary issue led to 52 Indian pilgrims being stranded in Nepal during the Kailash Mansarovar Yatra?",
-    "options": ["Lack of adequate fitness certificates", "Incomplete Chinese visas and entry permits", "Expired Indian passports", "Failure to register with local authorities"],
-    "correctAnswer": "Incomplete Chinese visas and entry permits"
-  },
-  {
-    "id": 2,
-    "question": "Which specific pilgrimage is the Ministry of External Affairs (MEA) advisory primarily focused on for Indian travelers?",
-    "options": ["Amarnath Yatra", "Char Dham Yatra", "Kailash Mansarovar Yatra", "Vaishno Devi Yatra"],
-    "correctAnswer": "Kailash Mansarovar Yatra"
-  },
-  {
-    "id": 3,
-    "question": "Besides travel documents, what else does the MEA strongly advise Kailash Mansarovar pilgrims to confirm prior to their departure?",
-    "options": ["The weather forecast at the destination", "The legitimacy of their tour operator", "The availability of medical facilities en route", "The local currency exchange rates"],
-    "correctAnswer": "The legitimacy of their tour operator"
-  },
-  {
-    "id": 4,
-    "question": "The Nathu La route, mentioned in the MEA advisory for Kailash Mansarovar Yatra, is an important mountain pass located in which Indian state?",
-    "options": ["Himachal Pradesh", "Uttarakhand", "Sikkim", "Arunachal Pradesh"],
-    "correctAnswer": "Sikkim"
-  },
-  {
-    "id": 5,
-    "question": "To which country did PM Modi hand over a 'Made-in-India' patrol vessel to enhance maritime security?",
-    "options": ["Mauritius", "Sri Lanka", "Maldives", "Seychelles"],
+    "question": "Prime Minister Modi attended the Golden Jubilee celebrations of which island nation, where an Indian Army contingent also participated?",
+    "options": ["Maldives", "Sri Lanka", "Mauritius", "Seychelles"],
     "correctAnswer": "Seychelles"
   },
   {
+    "id": 2,
+    "question": "What type of vessel did Prime Minister Modi hand over to Seychelles to enhance its maritime security during the Golden Jubilee event?",
+    "options": ["Submarine", "Aircraft Carrier", "Patrol Vessel", "Destroyer"],
+    "correctAnswer": "Patrol Vessel"
+  },
+  {
+    "id": 3,
+    "question": "The participation of an Indian Army contingent in Seychelles' 50th National Day underscores India's deepening strategic partnership in which ocean region?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Indian Ocean"
+  },
+  {
+    "id": 4,
+    "question": "What specific additional support, apart from the patrol vessel, did India provide to Seychelles during its Golden Jubilee celebrations?",
+    "options": ["Humanitarian aid for a natural disaster", "Educational scholarships for students", "Military training and crucial equipment for maritime security", "Financial grants for infrastructure development"],
+    "correctAnswer": "Military training and crucial equipment for maritime security"
+  },
+  {
+    "id": 5,
+    "question": "What is the name of the humanitarian mission launched by India to aid earthquake-hit Venezuela?",
+    "options": ["Operation Maitri", "Operation Samudra Setu", "Operation Amistad", "Operation Rahat"],
+    "correctAnswer": "Operation Amistad"
+  },
+  {
     "id": 6,
-    "question": "The patrol vessel handed over by PM Modi symbolizes India's commitment to what key national initiative?",
-    "options": ["Digital India", "Make in India", "Clean India", "Skill India"],
-    "correctAnswer": "Make in India"
+    "question": "Which country received significant humanitarian aid from India following devastating earthquakes under 'Operation Amistad'?",
+    "options": ["Haiti", "Turkey", "Venezuela", "Indonesia"],
+    "correctAnswer": "Venezuela"
   },
   {
     "id": 7,
-    "question": "What was the primary purpose of India gifting the patrol vessel to Seychelles?",
-    "options": ["To boost tourism", "For scientific research", "To enhance maritime security", "For disaster relief operations"],
-    "correctAnswer": "To enhance maritime security"
+    "question": "Which Indian Air Force aircraft were primarily used to deliver substantial relief supplies to Venezuela under 'Operation Amistad'?",
+    "options": ["IAF Tejas", "IAF Rafale", "IAF C-17s", "IAF Mirage 2000"],
+    "correctAnswer": "IAF C-17s"
   },
   {
     "id": 8,
-    "question": "Which Indian judicial body was reported to have taken 14 years to decide a criminal case, leading to tragic consequences?",
-    "options": ["High Court", "District Court", "Supreme Court", "Sessions Court"],
-    "correctAnswer": "Supreme Court"
+    "question": "What specialized medical facility, including a 41-member Army medical and rescue team, was sent by India to Venezuela?",
+    "options": ["Mobile Diagnostic Lab", "BHISHM Cube, an Army field hospital", "Critical Care Ambulance Fleet", "Portable X-ray Unit"],
+    "correctAnswer": "BHISHM Cube, an Army field hospital"
   },
   {
     "id": 9,
-    "question": "What was the unfortunate outcome for two convicts due to the prolonged delay in a criminal case by the Supreme Court?",
-    "options": ["They were granted bail indefinitely", "They died while awaiting judgment", "Their sentences were significantly reduced", "They escaped from prison"],
-    "correctAnswer": "They died while awaiting judgment"
+    "question": "The Indian humanitarian mission to Venezuela, 'Operation Amistad', demonstrates India's commitment to which global effort?",
+    "options": ["Climate Change Mitigation", "Economic Sanctions Enforcement", "International Disaster Relief", "Space Exploration Initiatives"],
+    "correctAnswer": "International Disaster Relief"
   },
   {
     "id": 10,
-    "question": "The incident of delayed justice in the Supreme Court highlights a critical concern regarding what aspect of the Indian legal system?",
-    "options": ["The high number of pending cases", "The lack of judicial infrastructure", "The efficiency and speed of judicial processes", "The limited number of judges"],
-    "correctAnswer": "The efficiency and speed of judicial processes"
+    "question": "What natural disaster prompted India to launch 'Operation Amistad' for Venezuela?",
+    "options": ["Tsunami", "Volcanic Eruption", "Earthquakes", "Flooding"],
+    "correctAnswer": "Earthquakes"
   },
   {
     "id": 11,
-    "question": "What was the initial reported rain deficit across India, as mentioned in the news?",
-    "options": ["10%", "25%", "43%", "50%"],
-    "correctAnswer": "43%"
+    "question": "In a recent 'Mann Ki Baat' episode, Prime Minister Modi applauded India's significant progress in achieving self-reliance in which two key domains?",
+    "options": ["Agriculture and Textiles", "Information Technology and Pharmaceuticals", "Defence and Aviation", "Education and Healthcare"],
+    "correctAnswer": "Defence and Aviation"
   },
   {
     "id": 12,
-    "question": "The rain deficit in India is now projected to likely end at what percentage?",
-    "options": ["Over 5%", "Over 10%", "Over 20%", "Over 30%"],
-    "correctAnswer": "Over 10%"
+    "question": "Which specific aircraft did PM Modi hail in 'Mann Ki Baat' as an example of India's self-reliance, signifying progress from 'seas to skies'?",
+    "options": ["HAL Dhruv", "Tejas LCA", "C-295 aircraft", "Sukhoi Su-30MKI"],
+    "correctAnswer": "C-295 aircraft"
   },
   {
     "id": 13,
-    "question": "A significant rain deficit, as reported for India, directly impacts which crucial sector, particularly in agricultural states like Telangana and Andhra Pradesh?",
-    "options": ["Manufacturing", "IT Services", "Tourism", "Agriculture"],
-    "correctAnswer": "Agriculture"
+    "question": "What number episode of 'Mann Ki Baat' featured PM Modi's discussion on India's self-reliance, according to the news?",
+    "options": ["100th episode", "125th episode", "135th episode", "150th episode"],
+    "correctAnswer": "135th episode"
   },
   {
     "id": 14,
-    "question": "What natural phenomenon, vital for India's economy and water resources, is experiencing a considerable deficit?",
-    "options": ["Monsoon rainfall", "Groundwater levels", "River flow", "Winter snows"],
-    "correctAnswer": "Monsoon rainfall"
+    "question": "Besides aircraft production, what other indigenous achievement was highlighted by PM Modi in 'Mann Ki Baat' regarding self-reliance in defense?",
+    "options": ["Development of nuclear submarines", "Manufacturing of battle tanks", "Indigenous missile tests", "Production of combat drones"],
+    "correctAnswer": "Indigenous missile tests"
   },
   {
     "id": 15,
-    "question": "Which Union Minister recently stated that he followed all rules while availing a government subsidy?",
-    "options": ["Nitin Gadkari", "Bhagirath Choudhary", "Amit Shah", "Rajnath Singh"],
-    "correctAnswer": "Bhagirath Choudhary"
+    "question": "In his 'Mann Ki Baat' address, PM Modi expressed gratitude for public cooperation during which specific international crisis?",
+    "options": ["East Asia trade dispute", "European energy crisis", "West Asia crisis", "African famine relief"],
+    "correctAnswer": "West Asia crisis"
   },
   {
     "id": 16,
-    "question": "Union Minister Bhagirath Choudhary's statement was made in response to concerns about what financial matter?",
-    "options": ["Foreign investments", "Government loans", "Availing government subsidies", "Tax reforms"],
-    "correctAnswer": "Availing government subsidies"
+    "question": "What consumer behavior trend did PM Modi note declining during the West Asia crisis, signifying public cooperation and responsible consumption?",
+    "options": ["Luxury car purchases", "Real estate investments", "Gold purchases", "Electronic gadget sales"],
+    "correctAnswer": "Gold purchases"
   },
   {
     "id": 17,
-    "question": "Government subsidies in India, which Union Minister Bhagirath Choudhary referred to, are typically aimed at supporting which areas, including in states like Telangana and Andhra Pradesh?",
-    "options": ["Export industries", "Luxury goods production", "Welfare programs and essential services", "Military spending"],
-    "correctAnswer": "Welfare programs and essential services"
+    "question": "What noteworthy conservation effort was mentioned by PM Modi in 'Mann Ki Baat' that demonstrated public cooperation during the West Asia crisis?",
+    "options": ["Water conservation", "Electricity conservation", "Fuel conservation", "Food conservation"],
+    "correctAnswer": "Fuel conservation"
   },
   {
     "id": 18,
-    "question": "The Indian government recently clarified that it never hid information concerning deaths related to which specific operation?",
-    "options": ["Operation Blue Star", "Operation Vijay", "Operation Sindoor", "Operation Meghdoot"],
-    "correctAnswer": "Operation Sindoor"
+    "question": "The C-295 aircraft, as highlighted by PM Modi, primarily symbolizes India's self-reliance in which sector?",
+    "options": ["Automobile manufacturing", "Space technology", "Aviation and Defence", "Renewable energy"],
+    "correctAnswer": "Aviation and Defence"
   },
   {
     "id": 19,
-    "question": "What was the core assertion made by the government regarding 'Operation Sindoor' in the news?",
-    "options": ["It was a highly successful operation", "It faced minimal casualties", "Information on deaths was never hidden", "It was concluded ahead of schedule"],
-    "correctAnswer": "Information on deaths was never hidden"
+    "question": "What phrase did PM Modi use in 'Mann Ki Baat' to encapsulate India's increasing self-reliance across various sectors?",
+    "options": ["'From farms to factories'", "'From land to sky'", "'From seas to skies'", "'From villages to cities'"],
+    "correctAnswer": "'From seas to skies'"
   },
   {
     "id": 20,
-    "question": "The government's clarification about 'Operation Sindoor' underscores the importance of what aspect in public administration in a democracy like India?",
-    "options": ["Secrecy and discretion", "Speed of execution", "Transparency and accountability", "Centralized decision-making"],
-    "correctAnswer": "Transparency and accountability"
+    "question": "The 'Mann Ki Baat' address emphasized India's commitment to which overarching national policy goal?",
+    "options": ["Global Dominance", "Economic Liberalization", "Self-reliance (Atmanirbhar Bharat)", "Cultural Revival"],
+    "correctAnswer": "Self-reliance (Atmanirbhar Bharat)"
   },
   {
     "id": 21,
-    "question": "Who recently refuted claims about India engaging in 'track-2 talks' with Pakistan?",
-    "options": ["S. Jaishankar", "Ajit Doval", "Ram Madhav", "Rajnath Singh"],
-    "correctAnswer": "Ram Madhav"
+    "question": "What kind of support did India provide to Seychelles, apart from the patrol vessel, to bolster its maritime security?",
+    "options": ["Financial aid for tourism", "Advanced radar systems", "Crucial equipment", "Training for coastal guards"],
+    "correctAnswer": "Crucial equipment"
   },
   {
     "id": 22,
-    "question": "Ram Madhav denied claims of 'track-2 talks' being conducted with which neighboring country of India?",
-    "options": ["China", "Bangladesh", "Nepal", "Pakistan"],
-    "correctAnswer": "Pakistan"
+    "question": "Which type of care was the Indian Army medical and rescue team primarily equipped to provide in earthquake-hit Venezuela?",
+    "options": ["Geriatric care", "Preventive medicine", "Critical medical care, trauma management, and life-saving surgical support", "Long-term rehabilitation services"],
+    "correctAnswer": "Critical medical care, trauma management, and life-saving surgical support"
   },
   {
     "id": 23,
-    "question": "The concept of 'track-2 talks' in diplomacy typically involves what type of participants?",
-    "options": ["Official government representatives only", "Military personnel only", "Non-governmental experts and influential individuals", "Heads of state directly"],
-    "correctAnswer": "Non-governmental experts and influential individuals"
+    "question": "What aspect of India's C-295 aircraft production did PM Modi highlight in 'Mann Ki Baat'?",
+    "options": ["Its export potential", "Its indigenous manufacturing showcasing self-reliance", "Its use in commercial aviation", "Its speed records"],
+    "correctAnswer": "Its indigenous manufacturing showcasing self-reliance"
   },
   {
     "id": 24,
-    "question": "What is the name of the indigenous (Desi) satellite-based augmentation system that enabled the first satellite-guided jet landing in India?",
-    "options": ["NAVIC", "IRNSS", "Gagan", "BHUVAN"],
-    "correctAnswer": "Gagan"
+    "question": "The C-17 aircraft used in 'Operation Amistad' are primarily known for their role as:",
+    "options": ["Fighter jets", "Reconnaissance planes", "Strategic airlift/transport aircraft", "Refueling tankers"],
+    "correctAnswer": "Strategic airlift/transport aircraft"
   },
   {
     "id": 25,
-    "question": "The successful first satellite-guided jet landing using Gagan technology represents a significant advancement for India's what sector?",
-    "options": ["Railways", "Road transport", "Maritime shipping", "Aviation"],
-    "correctAnswer": "Aviation"
+    "question": "The phrase 'From seas to skies' mentioned by PM Modi in 'Mann Ki Baat' highlights India's self-reliance in which broad category of defense and national capabilities?",
+    "options": ["Naval power and space exploration", "Maritime security and aerial defense", "Coastal infrastructure and air traffic control", "Deep-sea research and satellite launches"],
+    "correctAnswer": "Maritime security and aerial defense"
   }
 ]

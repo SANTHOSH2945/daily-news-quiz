@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary objective of the recent semi-cryogenic engine test by ISRO, a development crucial for India's space ambitions and relevant to facilities like Sriharikota in Andhra Pradesh?",
-    "options": [
-      "To develop engines for inter-planetary travel to Mars",
-      "To test atmospheric re-entry systems for astronauts",
-      "To enable more powerful LVM-3 rockets with increased payload capacity",
-      "To research alternative fuels for ground transportation"
-    ],
-    "correctAnswer": "To enable more powerful LVM-3 rockets with increased payload capacity"
+    "question": "The Indian government has expanded its fight against anaemia to include what additional health concern?",
+    "options": ["Diabetes", "Low birth weight babies", "Heart disease", "Malnutrition in adults"],
+    "correctAnswer": "Low birth weight babies"
   },
   {
     "id": 2,
-    "question": "Which ISRO launch vehicle is expected to become more powerful due to the successful semi-cryogenic engine test, impacting future missions from sites like Sriharikota in Andhra Pradesh?",
-    "options": [
-      "PSLV (Polar Satellite Launch Vehicle)",
-      "GSLV Mk II (Geosynchronous Satellite Launch Vehicle Mk II)",
-      "LVM-3 (Launch Vehicle Mark-3)",
-      "SSLV (Small Satellite Launch Vehicle)"
-    ],
-    "correctAnswer": "LVM-3 (Launch Vehicle Mark-3)"
+    "question": "What national health issue is being combated by the government alongside low birth weight babies in its expanded health initiatives across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Tuberculosis", "Anaemia", "Polio", "Malaria"],
+    "correctAnswer": "Anaemia"
   },
   {
     "id": 3,
-    "question": "What thrust level did ISRO's new semi-cryogenic engine achieve in its recent test, a significant step for India's space program with operations in Andhra Pradesh?",
-    "options": [
-      "50 tonnes",
-      "100 tonnes",
-      "175 tonnes",
-      "250 tonnes"
-    ],
-    "correctAnswer": "175 tonnes"
+    "question": "The widening of the government's health initiatives, such as the fight against anaemia, primarily aims to improve which aspect of public welfare across Indian states?",
+    "options": ["Economic growth", "Environmental conservation", "Public health outcomes", "Cultural preservation"],
+    "correctAnswer": "Public health outcomes"
   },
   {
     "id": 4,
-    "question": "The successful testing of ISRO's new semi-cryogenic engine, crucial for boosting payload capacity, directly benefits which major space launch facility located in Andhra Pradesh?",
-    "options": [
-      "Vikram Sarabhai Space Centre (VSSC)",
-      "Satish Dhawan Space Centre (SDSC) SHAR",
-      "ISRO Propulsion Complex (IPRC)",
-      "U R Rao Satellite Centre (URSC)"
-    ],
-    "correctAnswer": "Satish Dhawan Space Centre (SDSC) SHAR"
+    "question": "According to QS, what is India's ranking in 'economic capacity'?",
+    "options": ["5th", "10th", "1st", "74th"],
+    "correctAnswer": "1st"
   },
   {
     "id": 5,
-    "question": "What kind of advanced components, besides the main engine, also performed exceptionally during ISRO's recent semi-cryogenic engine test, enhancing India's space capabilities from locations such as Sriharikota?",
-    "options": [
-      "Solid rocket boosters",
-      "Navigation guidance systems",
-      "Advanced turbopumps",
-      "Payload fairings"
-    ],
-    "correctAnswer": "Advanced turbopumps"
+    "question": "What is India's ranking in 'workforce readiness', as reported by QS?",
+    "options": ["1st", "10th", "74th", "150th"],
+    "correctAnswer": "74th"
   },
   {
     "id": 6,
-    "question": "How does the new semi-cryogenic engine test by ISRO contribute to India's commercial launch capabilities, impacting future activities at its Andhra Pradesh spaceport?",
-    "options": [
-      "By reducing the cost of satellite manufacturing",
-      "By increasing the frequency of short-range missile tests",
-      "By significantly boosting the payload capacity for future launches",
-      "By enabling ground-based telescope observations"
-    ],
-    "correctAnswer": "By significantly boosting the payload capacity for future launches"
+    "question": "Which organization provided the recent rankings for India's economic capacity and workforce readiness?",
+    "options": ["World Bank", "IMF", "QS", "UNICEF"],
+    "correctAnswer": "QS"
   },
   {
     "id": 7,
-    "question": "The LVM-3 rocket, set for an upgrade with the new semi-cryogenic engine, is a key asset for India's space exploration, with launches primarily originating from which state?",
-    "options": [
-      "Kerala",
-      "Karnataka",
-      "Tamil Nadu",
-      "Andhra Pradesh"
-    ],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "A high ranking in 'economic capacity' for India, including its major states, suggests strength in which area?",
+    "options": ["Education infrastructure", "Research output", "Financial stability and market size", "Environmental sustainability"],
+    "correctAnswer": "Financial stability and market size"
   },
   {
     "id": 8,
-    "question": "Which ISRO center, located in Andhra Pradesh, is pivotal for the launches of vehicles like the LVM-3, which will benefit from the recently tested semi-cryogenic engine?",
-    "options": [
-      "ISRO Telemetry, Tracking and Command Network (ISTRAC)",
-      "Space Applications Centre (SAC)",
-      "Satish Dhawan Space Centre (SDSC) SHAR",
-      "National Remote Sensing Centre (NRSC)"
-    ],
-    "correctAnswer": "Satish Dhawan Space Centre (SDSC) SHAR"
+    "question": "What challenge does India's 74th ranking in 'workforce readiness' highlight for its states, including Telangana and Andhra Pradesh?",
+    "options": ["Lack of natural resources", "Deficiencies in skilled labor and education alignment", "Overpopulation", "Poor infrastructure"],
+    "correctAnswer": "Deficiencies in skilled labor and education alignment"
   },
   {
     "id": 9,
-    "question": "The successful test of a 175-tonne thrust semi-cryogenic engine is a step towards making which Indian launch vehicle more powerful, with implications for launch activities in Andhra Pradesh?",
-    "options": [
-      "Rohini sounding rockets",
-      "Agni missile series",
-      "LVM-3 rocket",
-      "BrahMos cruise missiles"
-    ],
-    "correctAnswer": "LVM-3 rocket"
+    "question": "The QS report indicates that despite being number 1 in economic capacity, India lags significantly in which other critical area?",
+    "options": ["Healthcare access", "Digital literacy", "Workforce readiness", "Agricultural productivity"],
+    "correctAnswer": "Workforce readiness"
   },
   {
     "id": 10,
-    "question": "India's growing ambitions in space exploration, bolstered by ISRO's recent engine test, rely significantly on the infrastructure present in which South Indian state for rocket launches?",
-    "options": [
-      "Telangana",
-      "Odisha",
-      "Andhra Pradesh",
-      "Maharashtra"
-    ],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Which Indian governmental body rejected Pakistan's claim regarding India's involvement in the Karachi attack?",
+    "options": ["Ministry of Defence (MoD)", "Ministry of External Affairs (MEA)", "Ministry of Home Affairs (MHA)", "National Security Advisor (NSA)"],
+    "correctAnswer": "Ministry of External Affairs (MEA)"
   },
   {
     "id": 11,
-    "question": "In response to the West Asian crisis, what measure did PM Modi laud citizens across India, including those in Telangana and Andhra Pradesh, for adopting to reduce fuel consumption?",
-    "options": [
-      "Switching to electric vehicles exclusively",
-      "Increasing public transport ridership",
-      "Carpooling and reduced vehicle use",
-      "Investing in domestic oil exploration"
-    ],
-    "correctAnswer": "Carpooling and reduced vehicle use"
+    "question": "India recently rejected claims from which neighboring country concerning its alleged involvement in an attack in Karachi?",
+    "options": ["Afghanistan", "Bangladesh", "Sri Lanka", "Pakistan"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 12,
-    "question": "Besides reducing fuel use, what other economic measure did PM Modi appreciate Indian citizens, including those in the Telugu states, for undertaking during the West Asian crisis?",
-    "options": [
-      "Increasing foreign direct investments",
-      "Curling gold purchases",
-      "Promoting digital currency transactions",
-      "Exporting agricultural products"
-    ],
-    "correctAnswer": "Curling gold purchases"
+    "question": "The rejection of foreign allegations by the MEA, representing the Indian government, is a function of which broader aspect of Indian governance?",
+    "options": ["Internal security management", "Economic policy formulation", "Foreign policy and diplomacy", "Environmental protection"],
+    "correctAnswer": "Foreign policy and diplomacy"
   },
   {
     "id": 13,
-    "question": "How did many Indian families, including those potentially in Telangana and Andhra Pradesh, adapt their wedding plans regarding gold purchases amid PM Modi's appeal and global uncertainties?",
-    "options": [
-      "They bought gold from international markets",
-      "They postponed weddings indefinitely",
-      "They opted to recycle old gold for weddings",
-      "They invested in silver instead of gold"
-    ],
-    "correctAnswer": "They opted to recycle old gold for weddings"
+    "question": "Who stated that 'Bharat must be heard' and emphasized India's voice as vital for global welfare?",
+    "options": ["Prime Minister Narendra Modi", "External Affairs Minister S. Jaishankar", "RSS chief Mohan Bhagwat", "Defense Minister Rajnath Singh"],
+    "correctAnswer": "RSS chief Mohan Bhagwat"
   },
   {
     "id": 14,
-    "question": "What global event led PM Modi to appeal to Indian citizens, including those in AP and Telangana, to cut fuel use and curb gold purchases?",
-    "options": [
-      "The COVID-19 pandemic",
-      "The West Asian crisis",
-      "Global financial recession",
-      "A major natural disaster in Europe"
-    ],
-    "correctAnswer": "The West Asian crisis"
+    "question": "Mohan Bhagwat, who spoke on India's global role, is the chief of which organization?",
+    "options": ["Bharatiya Janata Party (BJP)", "Vishwa Hindu Parishad (VHP)", "Rashtriya Swayamsevak Sangh (RSS)", "Shiv Sena"],
+    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
   },
   {
     "id": 15,
-    "question": "What is the anticipated market trend for gold prices, according to analysts, despite citizens' efforts to reduce purchases as lauded by PM Modi? This impacts gold buyers in AP/Telangana too.",
-    "options": [
-      "Steadily decreasing prices",
-      "Continued volatility due to global uncertainties",
-      "Stable prices due to domestic demand",
-      "A rapid surge in value"
-    ],
-    "correctAnswer": "Continued volatility due to global uncertainties"
+    "question": "The statement 'Bharat must be heard' by the RSS chief implies what about India's position on the global stage?",
+    "options": ["India needs more international aid", "India's opinions and contributions are crucial for global well-being", "India should remain neutral in all global conflicts", "India seeks to dominate global politics"],
+    "correctAnswer": "India's opinions and contributions are crucial for global well-being"
   },
   {
     "id": 16,
-    "question": "The appeal to reduce gold purchases by PM Modi, targeting citizens nationwide, aims to lessen India's reliance on what precious commodity that impacts the economy of states like AP/Telangana?",
-    "options": [
-      "Silver",
-      "Diamonds",
-      "Imported gold",
-      "Platinum"
-    ],
-    "correctAnswer": "Imported gold"
+    "question": "Which education board was mentioned in the news regarding the re-evaluation of Class XII results for students across India?",
+    "options": ["ICSE", "NIOS", "State Board of Education, Telangana", "CBSE"],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 17,
-    "question": "What alternative to buying new gold for weddings did PM Modi highlight as being adopted by Indian families, including those in Andhra Pradesh and Telangana, during economic appeals?",
-    "options": [
-      "Purchasing gold-plated jewelry",
-      "Using digital gold instead of physical gold",
-      "Recycling old gold for new ornaments",
-      "Donating gold to temples"
-    ],
-    "correctAnswer": "Recycling old gold for new ornaments"
+    "question": "According to CBSE, what percentage of Class XII re-evaluation cases were cleared?",
+    "options": ["Around 50%", "Over 75%", "Over 99.7%", "Exactly 95%"],
+    "correctAnswer": "Over 99.7%"
   },
   {
     "id": 18,
-    "question": "What is happening to many once-secret 'offbeat' travel destinations across India, including potential hidden gems in Telangana and Andhra Pradesh, according to recent trends?",
-    "options": [
-      "They are being closed down due to lack of interest",
-      "They are rapidly becoming mainstream and overcrowded",
-      "They are converting into exclusive luxury resorts",
-      "They are only accessible to international tourists"
-    ],
-    "correctAnswer": "They are rapidly becoming mainstream and overcrowded"
+    "question": "What significant mark increase was cited by CBSE for a student's re-evaluation in Physics?",
+    "options": ["Two marks", "Five marks", "Nine marks", "Eleven marks"],
+    "correctAnswer": "Nine marks"
   },
   {
     "id": 19,
-    "question": "What factors are contributing to the rapid mainstreaming of offbeat travel destinations in India, affecting both popular and lesser-known sites in states like AP and Telangana?",
-    "options": [
-      "Strict government regulations and permits",
-      "Lack of interest from local communities",
-      "Improved infrastructure and social media promotion",
-      "Increased international flight connectivity only"
-    ],
-    "correctAnswer": "Improved infrastructure and social media promotion"
+    "question": "The CBSE clarification on re-evaluation results addresses concerns surrounding which new examination system being used across its affiliated schools in India?",
+    "options": ["Online examinations", "Semester system", "On-screen marking system", "Open-book exams"],
+    "correctAnswer": "On-screen marking system"
   },
   {
     "id": 20,
-    "question": "What is a consequence for the 'charm' of once-offbeat destinations, including those that might exist in Andhra Pradesh and Telangana, as they become more mainstream?",
-    "options": [
-      "Their original appeal and authenticity are threatened",
-      "They become more exclusive and expensive",
-      "Their local culture becomes more vibrant and diverse",
-      "They develop better eco-tourism practices"
-    ],
-    "correctAnswer": "Their original appeal and authenticity are threatened"
+    "question": "The high clearance rate of CBSE re-evaluation cases (over 99.7%) suggests an effort towards what in the national education system?",
+    "options": ["Reducing examination fees", "Promoting regional languages", "Ensuring fairness and accuracy in evaluation", "Standardizing curriculum nationwide"],
+    "correctAnswer": "Ensuring fairness and accuracy in evaluation"
   },
   {
     "id": 21,
-    "question": "What ethical dilemma do travelers face regarding offbeat destinations, including those they might discover in the Telugu states, as these places gain popularity?",
-    "options": [
-      "Whether to travel during peak season or off-season",
-      "Choosing between domestic and international travel",
-      "Balancing the desire for authentic experiences with their role in accelerating discovery and its consequences",
-      "Deciding between group tours and solo travel"
-    ],
-    "correctAnswer": "Balancing the desire for authentic experiences with their role in accelerating discovery and its consequences"
+    "question": "Which two Indian contingents participated in Seychelles' Golden Jubilee Independence Day celebrations?",
+    "options": ["Indian Army and Air Force", "Assam Rifles and Indian Navy band", "Border Security Force and Indian Coast Guard", "National Cadet Corps and Indian Army band"],
+    "correctAnswer": "Assam Rifles and Indian Navy band"
   },
   {
     "id": 22,
-    "question": "How does improved infrastructure contribute to the mainstreaming of offbeat travel destinations in India, impacting accessibility to locations in states like AP and Telangana?",
-    "options": [
-      "By making them harder to reach, thus preserving their uniqueness",
-      "By making them more accessible to a wider range of tourists",
-      "By restricting access only to local residents",
-      "By encouraging only academic research visits"
-    ],
-    "correctAnswer": "By making them more accessible to a wider range of tourists"
+    "question": "India participated in the Golden Jubilee Independence Day celebrations of which island nation?",
+    "options": ["Maldives", "Mauritius", "Sri Lanka", "Seychelles"],
+    "correctAnswer": "Seychelles"
   },
   {
     "id": 23,
-    "question": "What role does social media play in accelerating the discovery and mainstreaming of offbeat travel destinations across India, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "It limits access to information about these places",
-      "It discourages travel to remote locations",
-      "It fuels aspiration and rapid sharing, leading to increased visitor numbers",
-      "It promotes only luxury travel to established destinations"
-    ],
-    "correctAnswer": "It fuels aspiration and rapid sharing, leading to increased visitor numbers"
+    "question": "What was one of the gifts provided by India to Seychelles during its independence day celebrations, reinforcing defence cooperation?",
+    "options": ["A medical facility", "A fast patrol vessel", "An air defense system", "Financial aid for tourism"],
+    "correctAnswer": "A fast patrol vessel"
   },
   {
     "id": 24,
-    "question": "Which specific type of engine, successfully tested by ISRO for enhanced LVM-3 capabilities, represents a significant leap for India's self-reliance in space technology, particularly benefiting launch operations in Andhra Pradesh?",
-    "options": [
-      "Liquid hydrogen-fueled engine",
-      "Solid propellant motor",
-      "Semi-cryogenic engine",
-      "Ion propulsion engine"
-    ],
-    "correctAnswer": "Semi-cryogenic engine"
+    "question": "The participation of Indian defence forces and the gifting of equipment to Seychelles underscores India's commitment to what in the region?",
+    "options": ["Economic dominance", "Cultural exchange", "Regional security and prosperity", "Military expansion"],
+    "correctAnswer": "Regional security and prosperity"
   },
   {
     "id": 25,
-    "question": "The successful test of the semi-cryogenic engine for LVM-3 signals ISRO's commitment to boosting which critical aspect of India's space missions, directly impacting the capabilities of the Sriharikota launch complex?",
-    "options": [
-      "Crewed missions to the moon",
-      "Orbital debris removal",
-      "Payload capacity and efficiency for future launches",
-      "Deep-space astronomical observations"
-    ],
-    "correctAnswer": "Payload capacity and efficiency for future launches"
+    "question": "Prime Minister Modi was the guest of honour at the Golden Jubilee Independence Day celebrations of Seychelles, highlighting India's commitment to which of the following aspects of foreign relations?",
+    "options": ["Promoting Bollywood cinema", "Developing exclusive trade routes", "Bilateral defence cooperation and regional stability", "Establishing new diplomatic missions"],
+    "correctAnswer": "Bilateral defence cooperation and regional stability"
   }
 ]

@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Prime Minister Modi attended the Golden Jubilee celebrations of which island nation, where an Indian Army contingent also participated?",
-    "options": ["Maldives", "Sri Lanka", "Mauritius", "Seychelles"],
-    "correctAnswer": "Seychelles"
+    "question": "What is the primary objective of the recent semi-cryogenic engine test by ISRO, a development crucial for India's space ambitions and relevant to facilities like Sriharikota in Andhra Pradesh?",
+    "options": [
+      "To develop engines for inter-planetary travel to Mars",
+      "To test atmospheric re-entry systems for astronauts",
+      "To enable more powerful LVM-3 rockets with increased payload capacity",
+      "To research alternative fuels for ground transportation"
+    ],
+    "correctAnswer": "To enable more powerful LVM-3 rockets with increased payload capacity"
   },
   {
     "id": 2,
-    "question": "What type of vessel did Prime Minister Modi hand over to Seychelles to enhance its maritime security during the Golden Jubilee event?",
-    "options": ["Submarine", "Aircraft Carrier", "Patrol Vessel", "Destroyer"],
-    "correctAnswer": "Patrol Vessel"
+    "question": "Which ISRO launch vehicle is expected to become more powerful due to the successful semi-cryogenic engine test, impacting future missions from sites like Sriharikota in Andhra Pradesh?",
+    "options": [
+      "PSLV (Polar Satellite Launch Vehicle)",
+      "GSLV Mk II (Geosynchronous Satellite Launch Vehicle Mk II)",
+      "LVM-3 (Launch Vehicle Mark-3)",
+      "SSLV (Small Satellite Launch Vehicle)"
+    ],
+    "correctAnswer": "LVM-3 (Launch Vehicle Mark-3)"
   },
   {
     "id": 3,
-    "question": "The participation of an Indian Army contingent in Seychelles' 50th National Day underscores India's deepening strategic partnership in which ocean region?",
-    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
-    "correctAnswer": "Indian Ocean"
+    "question": "What thrust level did ISRO's new semi-cryogenic engine achieve in its recent test, a significant step for India's space program with operations in Andhra Pradesh?",
+    "options": [
+      "50 tonnes",
+      "100 tonnes",
+      "175 tonnes",
+      "250 tonnes"
+    ],
+    "correctAnswer": "175 tonnes"
   },
   {
     "id": 4,
-    "question": "What specific additional support, apart from the patrol vessel, did India provide to Seychelles during its Golden Jubilee celebrations?",
-    "options": ["Humanitarian aid for a natural disaster", "Educational scholarships for students", "Military training and crucial equipment for maritime security", "Financial grants for infrastructure development"],
-    "correctAnswer": "Military training and crucial equipment for maritime security"
+    "question": "The successful testing of ISRO's new semi-cryogenic engine, crucial for boosting payload capacity, directly benefits which major space launch facility located in Andhra Pradesh?",
+    "options": [
+      "Vikram Sarabhai Space Centre (VSSC)",
+      "Satish Dhawan Space Centre (SDSC) SHAR",
+      "ISRO Propulsion Complex (IPRC)",
+      "U R Rao Satellite Centre (URSC)"
+    ],
+    "correctAnswer": "Satish Dhawan Space Centre (SDSC) SHAR"
   },
   {
     "id": 5,
-    "question": "What is the name of the humanitarian mission launched by India to aid earthquake-hit Venezuela?",
-    "options": ["Operation Maitri", "Operation Samudra Setu", "Operation Amistad", "Operation Rahat"],
-    "correctAnswer": "Operation Amistad"
+    "question": "What kind of advanced components, besides the main engine, also performed exceptionally during ISRO's recent semi-cryogenic engine test, enhancing India's space capabilities from locations such as Sriharikota?",
+    "options": [
+      "Solid rocket boosters",
+      "Navigation guidance systems",
+      "Advanced turbopumps",
+      "Payload fairings"
+    ],
+    "correctAnswer": "Advanced turbopumps"
   },
   {
     "id": 6,
-    "question": "Which country received significant humanitarian aid from India following devastating earthquakes under 'Operation Amistad'?",
-    "options": ["Haiti", "Turkey", "Venezuela", "Indonesia"],
-    "correctAnswer": "Venezuela"
+    "question": "How does the new semi-cryogenic engine test by ISRO contribute to India's commercial launch capabilities, impacting future activities at its Andhra Pradesh spaceport?",
+    "options": [
+      "By reducing the cost of satellite manufacturing",
+      "By increasing the frequency of short-range missile tests",
+      "By significantly boosting the payload capacity for future launches",
+      "By enabling ground-based telescope observations"
+    ],
+    "correctAnswer": "By significantly boosting the payload capacity for future launches"
   },
   {
     "id": 7,
-    "question": "Which Indian Air Force aircraft were primarily used to deliver substantial relief supplies to Venezuela under 'Operation Amistad'?",
-    "options": ["IAF Tejas", "IAF Rafale", "IAF C-17s", "IAF Mirage 2000"],
-    "correctAnswer": "IAF C-17s"
+    "question": "The LVM-3 rocket, set for an upgrade with the new semi-cryogenic engine, is a key asset for India's space exploration, with launches primarily originating from which state?",
+    "options": [
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 8,
-    "question": "What specialized medical facility, including a 41-member Army medical and rescue team, was sent by India to Venezuela?",
-    "options": ["Mobile Diagnostic Lab", "BHISHM Cube, an Army field hospital", "Critical Care Ambulance Fleet", "Portable X-ray Unit"],
-    "correctAnswer": "BHISHM Cube, an Army field hospital"
+    "question": "Which ISRO center, located in Andhra Pradesh, is pivotal for the launches of vehicles like the LVM-3, which will benefit from the recently tested semi-cryogenic engine?",
+    "options": [
+      "ISRO Telemetry, Tracking and Command Network (ISTRAC)",
+      "Space Applications Centre (SAC)",
+      "Satish Dhawan Space Centre (SDSC) SHAR",
+      "National Remote Sensing Centre (NRSC)"
+    ],
+    "correctAnswer": "Satish Dhawan Space Centre (SDSC) SHAR"
   },
   {
     "id": 9,
-    "question": "The Indian humanitarian mission to Venezuela, 'Operation Amistad', demonstrates India's commitment to which global effort?",
-    "options": ["Climate Change Mitigation", "Economic Sanctions Enforcement", "International Disaster Relief", "Space Exploration Initiatives"],
-    "correctAnswer": "International Disaster Relief"
+    "question": "The successful test of a 175-tonne thrust semi-cryogenic engine is a step towards making which Indian launch vehicle more powerful, with implications for launch activities in Andhra Pradesh?",
+    "options": [
+      "Rohini sounding rockets",
+      "Agni missile series",
+      "LVM-3 rocket",
+      "BrahMos cruise missiles"
+    ],
+    "correctAnswer": "LVM-3 rocket"
   },
   {
     "id": 10,
-    "question": "What natural disaster prompted India to launch 'Operation Amistad' for Venezuela?",
-    "options": ["Tsunami", "Volcanic Eruption", "Earthquakes", "Flooding"],
-    "correctAnswer": "Earthquakes"
+    "question": "India's growing ambitions in space exploration, bolstered by ISRO's recent engine test, rely significantly on the infrastructure present in which South Indian state for rocket launches?",
+    "options": [
+      "Telangana",
+      "Odisha",
+      "Andhra Pradesh",
+      "Maharashtra"
+    ],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 11,
-    "question": "In a recent 'Mann Ki Baat' episode, Prime Minister Modi applauded India's significant progress in achieving self-reliance in which two key domains?",
-    "options": ["Agriculture and Textiles", "Information Technology and Pharmaceuticals", "Defence and Aviation", "Education and Healthcare"],
-    "correctAnswer": "Defence and Aviation"
+    "question": "In response to the West Asian crisis, what measure did PM Modi laud citizens across India, including those in Telangana and Andhra Pradesh, for adopting to reduce fuel consumption?",
+    "options": [
+      "Switching to electric vehicles exclusively",
+      "Increasing public transport ridership",
+      "Carpooling and reduced vehicle use",
+      "Investing in domestic oil exploration"
+    ],
+    "correctAnswer": "Carpooling and reduced vehicle use"
   },
   {
     "id": 12,
-    "question": "Which specific aircraft did PM Modi hail in 'Mann Ki Baat' as an example of India's self-reliance, signifying progress from 'seas to skies'?",
-    "options": ["HAL Dhruv", "Tejas LCA", "C-295 aircraft", "Sukhoi Su-30MKI"],
-    "correctAnswer": "C-295 aircraft"
+    "question": "Besides reducing fuel use, what other economic measure did PM Modi appreciate Indian citizens, including those in the Telugu states, for undertaking during the West Asian crisis?",
+    "options": [
+      "Increasing foreign direct investments",
+      "Curling gold purchases",
+      "Promoting digital currency transactions",
+      "Exporting agricultural products"
+    ],
+    "correctAnswer": "Curling gold purchases"
   },
   {
     "id": 13,
-    "question": "What number episode of 'Mann Ki Baat' featured PM Modi's discussion on India's self-reliance, according to the news?",
-    "options": ["100th episode", "125th episode", "135th episode", "150th episode"],
-    "correctAnswer": "135th episode"
+    "question": "How did many Indian families, including those potentially in Telangana and Andhra Pradesh, adapt their wedding plans regarding gold purchases amid PM Modi's appeal and global uncertainties?",
+    "options": [
+      "They bought gold from international markets",
+      "They postponed weddings indefinitely",
+      "They opted to recycle old gold for weddings",
+      "They invested in silver instead of gold"
+    ],
+    "correctAnswer": "They opted to recycle old gold for weddings"
   },
   {
     "id": 14,
-    "question": "Besides aircraft production, what other indigenous achievement was highlighted by PM Modi in 'Mann Ki Baat' regarding self-reliance in defense?",
-    "options": ["Development of nuclear submarines", "Manufacturing of battle tanks", "Indigenous missile tests", "Production of combat drones"],
-    "correctAnswer": "Indigenous missile tests"
+    "question": "What global event led PM Modi to appeal to Indian citizens, including those in AP and Telangana, to cut fuel use and curb gold purchases?",
+    "options": [
+      "The COVID-19 pandemic",
+      "The West Asian crisis",
+      "Global financial recession",
+      "A major natural disaster in Europe"
+    ],
+    "correctAnswer": "The West Asian crisis"
   },
   {
     "id": 15,
-    "question": "In his 'Mann Ki Baat' address, PM Modi expressed gratitude for public cooperation during which specific international crisis?",
-    "options": ["East Asia trade dispute", "European energy crisis", "West Asia crisis", "African famine relief"],
-    "correctAnswer": "West Asia crisis"
+    "question": "What is the anticipated market trend for gold prices, according to analysts, despite citizens' efforts to reduce purchases as lauded by PM Modi? This impacts gold buyers in AP/Telangana too.",
+    "options": [
+      "Steadily decreasing prices",
+      "Continued volatility due to global uncertainties",
+      "Stable prices due to domestic demand",
+      "A rapid surge in value"
+    ],
+    "correctAnswer": "Continued volatility due to global uncertainties"
   },
   {
     "id": 16,
-    "question": "What consumer behavior trend did PM Modi note declining during the West Asia crisis, signifying public cooperation and responsible consumption?",
-    "options": ["Luxury car purchases", "Real estate investments", "Gold purchases", "Electronic gadget sales"],
-    "correctAnswer": "Gold purchases"
+    "question": "The appeal to reduce gold purchases by PM Modi, targeting citizens nationwide, aims to lessen India's reliance on what precious commodity that impacts the economy of states like AP/Telangana?",
+    "options": [
+      "Silver",
+      "Diamonds",
+      "Imported gold",
+      "Platinum"
+    ],
+    "correctAnswer": "Imported gold"
   },
   {
     "id": 17,
-    "question": "What noteworthy conservation effort was mentioned by PM Modi in 'Mann Ki Baat' that demonstrated public cooperation during the West Asia crisis?",
-    "options": ["Water conservation", "Electricity conservation", "Fuel conservation", "Food conservation"],
-    "correctAnswer": "Fuel conservation"
+    "question": "What alternative to buying new gold for weddings did PM Modi highlight as being adopted by Indian families, including those in Andhra Pradesh and Telangana, during economic appeals?",
+    "options": [
+      "Purchasing gold-plated jewelry",
+      "Using digital gold instead of physical gold",
+      "Recycling old gold for new ornaments",
+      "Donating gold to temples"
+    ],
+    "correctAnswer": "Recycling old gold for new ornaments"
   },
   {
     "id": 18,
-    "question": "The C-295 aircraft, as highlighted by PM Modi, primarily symbolizes India's self-reliance in which sector?",
-    "options": ["Automobile manufacturing", "Space technology", "Aviation and Defence", "Renewable energy"],
-    "correctAnswer": "Aviation and Defence"
+    "question": "What is happening to many once-secret 'offbeat' travel destinations across India, including potential hidden gems in Telangana and Andhra Pradesh, according to recent trends?",
+    "options": [
+      "They are being closed down due to lack of interest",
+      "They are rapidly becoming mainstream and overcrowded",
+      "They are converting into exclusive luxury resorts",
+      "They are only accessible to international tourists"
+    ],
+    "correctAnswer": "They are rapidly becoming mainstream and overcrowded"
   },
   {
     "id": 19,
-    "question": "What phrase did PM Modi use in 'Mann Ki Baat' to encapsulate India's increasing self-reliance across various sectors?",
-    "options": ["'From farms to factories'", "'From land to sky'", "'From seas to skies'", "'From villages to cities'"],
-    "correctAnswer": "'From seas to skies'"
+    "question": "What factors are contributing to the rapid mainstreaming of offbeat travel destinations in India, affecting both popular and lesser-known sites in states like AP and Telangana?",
+    "options": [
+      "Strict government regulations and permits",
+      "Lack of interest from local communities",
+      "Improved infrastructure and social media promotion",
+      "Increased international flight connectivity only"
+    ],
+    "correctAnswer": "Improved infrastructure and social media promotion"
   },
   {
     "id": 20,
-    "question": "The 'Mann Ki Baat' address emphasized India's commitment to which overarching national policy goal?",
-    "options": ["Global Dominance", "Economic Liberalization", "Self-reliance (Atmanirbhar Bharat)", "Cultural Revival"],
-    "correctAnswer": "Self-reliance (Atmanirbhar Bharat)"
+    "question": "What is a consequence for the 'charm' of once-offbeat destinations, including those that might exist in Andhra Pradesh and Telangana, as they become more mainstream?",
+    "options": [
+      "Their original appeal and authenticity are threatened",
+      "They become more exclusive and expensive",
+      "Their local culture becomes more vibrant and diverse",
+      "They develop better eco-tourism practices"
+    ],
+    "correctAnswer": "Their original appeal and authenticity are threatened"
   },
   {
     "id": 21,
-    "question": "What kind of support did India provide to Seychelles, apart from the patrol vessel, to bolster its maritime security?",
-    "options": ["Financial aid for tourism", "Advanced radar systems", "Crucial equipment", "Training for coastal guards"],
-    "correctAnswer": "Crucial equipment"
+    "question": "What ethical dilemma do travelers face regarding offbeat destinations, including those they might discover in the Telugu states, as these places gain popularity?",
+    "options": [
+      "Whether to travel during peak season or off-season",
+      "Choosing between domestic and international travel",
+      "Balancing the desire for authentic experiences with their role in accelerating discovery and its consequences",
+      "Deciding between group tours and solo travel"
+    ],
+    "correctAnswer": "Balancing the desire for authentic experiences with their role in accelerating discovery and its consequences"
   },
   {
     "id": 22,
-    "question": "Which type of care was the Indian Army medical and rescue team primarily equipped to provide in earthquake-hit Venezuela?",
-    "options": ["Geriatric care", "Preventive medicine", "Critical medical care, trauma management, and life-saving surgical support", "Long-term rehabilitation services"],
-    "correctAnswer": "Critical medical care, trauma management, and life-saving surgical support"
+    "question": "How does improved infrastructure contribute to the mainstreaming of offbeat travel destinations in India, impacting accessibility to locations in states like AP and Telangana?",
+    "options": [
+      "By making them harder to reach, thus preserving their uniqueness",
+      "By making them more accessible to a wider range of tourists",
+      "By restricting access only to local residents",
+      "By encouraging only academic research visits"
+    ],
+    "correctAnswer": "By making them more accessible to a wider range of tourists"
   },
   {
     "id": 23,
-    "question": "What aspect of India's C-295 aircraft production did PM Modi highlight in 'Mann Ki Baat'?",
-    "options": ["Its export potential", "Its indigenous manufacturing showcasing self-reliance", "Its use in commercial aviation", "Its speed records"],
-    "correctAnswer": "Its indigenous manufacturing showcasing self-reliance"
+    "question": "What role does social media play in accelerating the discovery and mainstreaming of offbeat travel destinations across India, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "It limits access to information about these places",
+      "It discourages travel to remote locations",
+      "It fuels aspiration and rapid sharing, leading to increased visitor numbers",
+      "It promotes only luxury travel to established destinations"
+    ],
+    "correctAnswer": "It fuels aspiration and rapid sharing, leading to increased visitor numbers"
   },
   {
     "id": 24,
-    "question": "The C-17 aircraft used in 'Operation Amistad' are primarily known for their role as:",
-    "options": ["Fighter jets", "Reconnaissance planes", "Strategic airlift/transport aircraft", "Refueling tankers"],
-    "correctAnswer": "Strategic airlift/transport aircraft"
+    "question": "Which specific type of engine, successfully tested by ISRO for enhanced LVM-3 capabilities, represents a significant leap for India's self-reliance in space technology, particularly benefiting launch operations in Andhra Pradesh?",
+    "options": [
+      "Liquid hydrogen-fueled engine",
+      "Solid propellant motor",
+      "Semi-cryogenic engine",
+      "Ion propulsion engine"
+    ],
+    "correctAnswer": "Semi-cryogenic engine"
   },
   {
     "id": 25,
-    "question": "The phrase 'From seas to skies' mentioned by PM Modi in 'Mann Ki Baat' highlights India's self-reliance in which broad category of defense and national capabilities?",
-    "options": ["Naval power and space exploration", "Maritime security and aerial defense", "Coastal infrastructure and air traffic control", "Deep-sea research and satellite launches"],
-    "correctAnswer": "Maritime security and aerial defense"
+    "question": "The successful test of the semi-cryogenic engine for LVM-3 signals ISRO's commitment to boosting which critical aspect of India's space missions, directly impacting the capabilities of the Sriharikota launch complex?",
+    "options": [
+      "Crewed missions to the moon",
+      "Orbital debris removal",
+      "Payload capacity and efficiency for future launches",
+      "Deep-space astronomical observations"
+    ],
+    "correctAnswer": "Payload capacity and efficiency for future launches"
   }
 ]

@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is a primary objective of the PM GatiShakti platform, as emphasized by the Prime Minister in recent meetings, particularly relevant for integrated development in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Promoting international tourism",
-      "Integrated planning and inter-departmental coordination for infrastructure projects",
-      "Centralizing financial allocations for state budgets",
-      "Developing space exploration technologies"
-    ],
-    "correctAnswer": "Integrated planning and inter-departmental coordination for infrastructure projects"
+    "question": "According to the IMD, what is the monsoon prediction for July in India?",
+    "options": ["Above-normal rainfall", "Normal rainfall", "Below-normal rainfall", "Heavy cyclonic activity"],
+    "correctAnswer": "Below-normal rainfall"
   },
   {
     "id": 2,
-    "question": "The Prime Minister recently urged government secretaries to enhance 'ease of doing business'. How would this national focus, implemented through reforms, likely benefit industries in Andhra Pradesh and Telangana?",
-    "options": [
-      "By increasing import duties on local products",
-      "By simplifying regulatory processes and reducing bureaucratic hurdles",
-      "By discouraging foreign investments in manufacturing",
-      "By promoting only public sector enterprises"
-    ],
-    "correctAnswer": "By simplifying regulatory processes and reducing bureaucratic hurdles"
+    "question": "What is the primary implication of a 'below-normal monsoon' prediction for agricultural states like Andhra Pradesh and Telangana?",
+    "options": ["Increased crop yield", "Potential for drought and water scarcity", "Excessive flooding", "No significant impact"],
+    "correctAnswer": "Potential for drought and water scarcity"
   },
   {
     "id": 3,
-    "question": "The concept of 'Aatmanirbharta' (self-reliance) was a key discussion point in recent high-level meetings. How does this national initiative impact states like Telangana, known for its IT and pharmaceutical sectors?",
-    "options": [
-      "Encourages reliance on imported technology and raw materials",
-      "Promotes local manufacturing, innovation, and self-sufficiency in key sectors",
-      "Focuses solely on agricultural independence",
-      "Limits economic growth to avoid external influences"
-    ],
-    "correctAnswer": "Promotes local manufacturing, innovation, and self-sufficiency in key sectors"
+    "question": "Which government body is responsible for making monsoon predictions in India, as mentioned in the news?",
+    "options": ["National Disaster Management Authority (NDMA)", "Indian Meteorological Department (IMD)", "Ministry of Agriculture & Farmers Welfare", "Central Water Commission (CWC)"],
+    "correctAnswer": "Indian Meteorological Department (IMD)"
   },
   {
     "id": 4,
-    "question": "PM Modi's emphasis on leveraging the PM GatiShakti platform for integrated planning aims to improve what aspect, beneficial for logistics and trade hubs in Andhra Pradesh?",
-    "options": [
-      "Only social welfare schemes",
-      "Efficient movement of goods and services, and multi-modal connectivity",
-      "Development of solely residential areas",
-      "Expansion of diplomatic missions abroad"
-    ],
-    "correctAnswer": "Efficient movement of goods and services, and multi-modal connectivity"
-  },
-  {
-    "id": 5,
-    "question": "What core principle, often discussed in relation to PM GatiShakti, aims to reduce delays and optimize resource utilization for major projects across states like Telangana?",
-    "options": [
-      "Compartmentalized planning",
-      "Inter-departmental coordination",
-      "Exclusive state-level execution",
-      "Reliance on external consultants only"
-    ],
-    "correctAnswer": "Inter-departmental coordination"
-  },
-  {
-    "id": 6,
-    "question": "The national push for 'ease of living' aligns with various citizen-centric initiatives discussed by the government. Which of the following best exemplifies how this could manifest in states like Andhra Pradesh?",
-    "options": [
-      "Increasing administrative complexities",
-      "Streamlining public services and enhancing accessibility for citizens",
-      "Reducing access to government information",
-      "Promoting exclusive urban development"
-    ],
-    "correctAnswer": "Streamlining public services and enhancing accessibility for citizens"
-  },
-  {
-    "id": 7,
-    "question": "Deregulation was a topic of discussion for promoting reforms. In the context of states like Telangana, what is the expected outcome of deregulation in specific sectors?",
-    "options": [
-      "Increased government control and licensing",
-      "Simplified business operations and increased private sector participation",
-      "Stagnation of economic growth",
-      "Monopoly formation by state-owned enterprises"
-    ],
-    "correctAnswer": "Simplified business operations and increased private sector participation"
-  },
-  {
-    "id": 8,
-    "question": "The national focus on PM GatiShakti aims to accelerate infrastructure development. Which type of infrastructure would be particularly beneficial for enhancing connectivity within and between Telangana and neighboring states?",
-    "options": [
-      "Only social infrastructure like schools and hospitals",
-      "Multi-modal transport infrastructure (roads, railways, ports, airports)",
-      "Exclusive development of defensive military installations",
-      "Specialized agricultural storage facilities only"
-    ],
-    "correctAnswer": "Multi-modal transport infrastructure (roads, railways, ports, airports)"
-  },
-  {
-    "id": 9,
-    "question": "The IMD has forecasted below-normal July rainfall across India. How could this forecast specifically impact agricultural activities in rain-fed regions of Telangana and Andhra Pradesh?",
-    "options": [
-      "Lead to increased crop yields due to less waterlogging",
-      "Potentially cause drought-like conditions and impact kharif crop sowing",
-      "Result in an abundance of groundwater reserves",
-      "Have no significant impact on agriculture"
-    ],
-    "correctAnswer": "Potentially cause drought-like conditions and impact kharif crop sowing"
-  },
-  {
-    "id": 10,
-    "question": "Along with below-normal rainfall, the IMD also predicted warmer temperatures across India. What is a direct consequence of this for water resources in Andhra Pradesh?",
-    "options": [
-      "Increased reservoir levels",
-      "Higher evaporation rates from water bodies",
-      "Reduced need for irrigation",
-      "Earlier onset of the monsoon season"
-    ],
-    "correctAnswer": "Higher evaporation rates from water bodies"
-  },
-  {
-    "id": 11,
-    "question": "What critical sector in Telangana is most vulnerable to the impact of below-normal monsoon rainfall and higher temperatures, as forecasted by the IMD?",
-    "options": [
-      "Information Technology",
-      "Pharmaceuticals",
-      "Agriculture",
-      "Mining"
-    ],
+    "question": "A below-normal monsoon in July would most directly affect which sector in agricultural states such as Telangana and Andhra Pradesh?",
+    "options": ["Manufacturing", "Information Technology", "Agriculture", "Tourism"],
     "correctAnswer": "Agriculture"
   },
   {
+    "id": 5,
+    "question": "What are the common concerns for farmers in Telangana and Andhra Pradesh during a period of below-normal monsoon?",
+    "options": ["Reduced input costs for fertilizers", "Optimal water levels for all crops", "Crop failure, reduced reservoir levels, and increased irrigation costs", "Earlier harvest times"],
+    "correctAnswer": "Crop failure, reduced reservoir levels, and increased irrigation costs"
+  },
+  {
+    "id": 6,
+    "question": "Which judicial body ordered a status quo on the allocation of ethanol supply in India?",
+    "options": ["High Court of Mumbai", "Supreme Court of India", "National Green Tribunal", "Delhi High Court"],
+    "correctAnswer": "Supreme Court of India"
+  },
+  {
+    "id": 7,
+    "question": "What commodity's supply allocation was the subject of the Supreme Court's status quo order?",
+    "options": ["Petroleum", "Ethanol", "Natural Gas", "Coal"],
+    "correctAnswer": "Ethanol"
+  },
+  {
+    "id": 8,
+    "question": "What is the primary use of ethanol that makes its supply allocation a matter of national importance in India, including states like Andhra Pradesh and Telangana?",
+    "options": ["As a primary cooking fuel", "For blending with petrol to reduce emissions and crude oil imports", "In pharmaceutical manufacturing only", "As a construction material"],
+    "correctAnswer": "For blending with petrol to reduce emissions and crude oil imports"
+  },
+  {
+    "id": 9,
+    "question": "The Supreme Court's order on ethanol supply would have implications for which industry, often present in agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["Textile industry", "Sugar industry (for ethanol production)", "Software development", "Tourism industry"],
+    "correctAnswer": "Sugar industry (for ethanol production)"
+  },
+  {
+    "id": 10,
+    "question": "The status quo order by the Supreme Court regarding ethanol supply suggests intervention in which aspect of national policy?",
+    "options": ["Foreign trade agreements", "Biofuel policy and energy security", "Digital currency regulations", "Space exploration initiatives"],
+    "correctAnswer": "Biofuel policy and energy security"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following topics dominated PM Modi’s recent meeting with secretaries, according to the news?",
+    "options": ["Space tourism and exploration", "Cybersecurity, AI, and Chinese imports", "Traditional medicine promotion", "Agricultural subsidies for specific crops only"],
+    "correctAnswer": "Cybersecurity, AI, and Chinese imports"
+  },
+  {
     "id": 12,
-    "question": "The IMD forecast of warmer temperatures could lead to increased heat stress. Which segment of the population in both Telangana and Andhra Pradesh is particularly vulnerable to such conditions?",
-    "options": [
-      "Office workers in air-conditioned environments",
-      "Outdoor laborers and farmers",
-      "Students attending online classes",
-      "Tourists visiting hill stations"
-    ],
-    "correctAnswer": "Outdoor laborers and farmers"
+    "question": "Given its status as an IT hub, which of the discussed topics in PM Modi's meeting is particularly pertinent to Telangana?",
+    "options": ["Chinese imports exclusively", "Cybersecurity and Artificial Intelligence", "Only agricultural reforms", "Space tourism policy"],
+    "correctAnswer": "Cybersecurity and Artificial Intelligence"
   },
   {
     "id": 13,
-    "question": "Given the IMD's forecast of below-normal July rainfall, which major agricultural crop typically grown in Telangana and Andhra Pradesh during the kharif season might face cultivation challenges?",
-    "options": [
-      "Wheat",
-      "Paddy (rice)",
-      "Apples",
-      "Saffron"
-    ],
-    "correctAnswer": "Paddy (rice)"
+    "question": "The discussion on Chinese imports during the PM's meeting suggests a national focus on what economic aspect, impacting states like Andhra Pradesh and Telangana?",
+    "options": ["Promoting free trade agreements without restrictions", "Enhancing domestic manufacturing and reducing import dependence", "Increasing reliance on single-country imports", "Ignoring trade deficits"],
+    "correctAnswer": "Enhancing domestic manufacturing and reducing import dependence"
   },
   {
     "id": 14,
-    "question": "What would be a likely immediate environmental concern for urban areas in Andhra Pradesh due to warmer temperatures and reduced rainfall, as per the IMD forecast?",
-    "options": [
-      "Increased snow accumulation",
-      "Higher demand for electricity for cooling and potential strain on power grids",
-      "Flooding",
-      "Enhanced air quality due to less pollution"
-    ],
-    "correctAnswer": "Higher demand for electricity for cooling and potential strain on power grids"
+    "question": "What is one key reason why discussions on Artificial Intelligence (AI) are important for states like Telangana and Andhra Pradesh?",
+    "options": ["To limit technological advancements", "To ensure regional monopolies in AI development", "To foster innovation, create jobs, and enhance governance through technology", "To discourage foreign investment in tech"],
+    "correctAnswer": "To foster innovation, create jobs, and enhance governance through technology"
   },
   {
     "id": 15,
-    "question": "How might below-normal rainfall in Telangana affect its dairy and livestock sectors?",
-    "options": [
-      "Improved fodder availability",
-      "Reduced availability of water and fodder, impacting animal health and productivity",
-      "No discernible impact",
-      "Increased pasture land"
-    ],
-    "correctAnswer": "Reduced availability of water and fodder, impacting animal health and productivity"
+    "question": "The PM's meeting with secretaries is indicative of discussions on what level of policy-making in India?",
+    "options": ["Local municipal bylaws", "State-specific legislative acts", "National policy and governance strategies", "International sports regulations"],
+    "correctAnswer": "National policy and governance strategies"
   },
   {
     "id": 16,
-    "question": "The IMD's forecast of warmer temperatures across India, including Telangana and Andhra Pradesh, necessitates a focus on which public health measure?",
-    "options": [
-      "Increased vaccination drives",
-      "Awareness campaigns for heatstroke prevention and adequate hydration",
-      "Promoting indoor sports activities",
-      "Distributing winter clothing"
-    ],
-    "correctAnswer": "Awareness campaigns for heatstroke prevention and adequate hydration"
+    "question": "What new national body has the government recently set up to improve road safety?",
+    "options": ["Indian Highways Authority", "National Transport Council", "National Road Safety Board", "Central Traffic Management Committee"],
+    "correctAnswer": "National Road Safety Board"
   },
   {
     "id": 17,
-    "question": "The Centre informed the Supreme Court that the 20% ethanol blending programme is still an experiment. Which agricultural product from states like Andhra Pradesh and Telangana is a significant source for ethanol production?",
-    "options": [
-      "Coffee",
-      "Maize",
-      "Cotton",
-      "Rubber"
-    ],
-    "correctAnswer": "Maize"
+    "question": "Who has been appointed to head the newly established National Road Safety Board?",
+    "options": ["Ajay Bhalla", "Nitin Gokarn", "Rajnath Singh", "Piyush Goyal"],
+    "correctAnswer": "Nitin Gokarn"
   },
   {
     "id": 18,
-    "question": "What is the primary objective of India's national ethanol blending policy, which impacts the agricultural and energy sectors in states like Telangana?",
-    "options": [
-      "To increase reliance on fossil fuel imports",
-      "To enhance energy security and reduce pollution by blending ethanol with petrol",
-      "To promote the export of crude oil",
-      "To discourage domestic agricultural production"
-    ],
-    "correctAnswer": "To enhance energy security and reduce pollution by blending ethanol with petrol"
+    "question": "What is the primary objective of the National Road Safety Board?",
+    "options": ["To promote private vehicle sales", "To oversee the construction of new flyovers only", "To enhance road safety across the country through policy and regulation", "To manage national highway tolls"],
+    "correctAnswer": "To enhance road safety across the country through policy and regulation"
   },
   {
     "id": 19,
-    "question": "The national 20% ethanol blending target, though experimental, holds potential benefits for which key industry in Andhra Pradesh that processes agricultural produce?",
-    "options": [
-      "Textile industry",
-      "Sugar industry",
-      "Steel manufacturing",
-      "Information Technology"
-    ],
-    "correctAnswer": "Sugar industry"
+    "question": "Policies formulated by the National Road Safety Board will directly influence road safety initiatives in which states?",
+    "options": ["Only metropolitan cities", "Only North Eastern states", "All states and Union Territories, including Andhra Pradesh and Telangana", "Only states with national parks"],
+    "correctAnswer": "All states and Union Territories, including Andhra Pradesh and Telangana"
   },
   {
     "id": 20,
-    "question": "What environmental benefit is primarily associated with the national ethanol blending program, a policy relevant to states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Increased greenhouse gas emissions",
-      "Reduction in air pollution from vehicular emissions",
-      "Depletion of ozone layer",
-      "Promotion of deforestation"
-    ],
-    "correctAnswer": "Reduction in air pollution from vehicular emissions"
+    "question": "The establishment of the National Road Safety Board is expected to address issues such as road accident fatalities and traffic management, which are pressing concerns in states like Andhra Pradesh and Telangana. What is its scope?",
+    "options": ["Limited to rural roads only", "Exclusively for national highways", "Pan-India, covering urban, rural, and highway safety", "Only for vehicle manufacturing standards"],
+    "correctAnswer": "Pan-India, covering urban, rural, and highway safety"
   },
   {
     "id": 21,
-    "question": "How does the national ethanol blending program aim to benefit farmers in states like Andhra Pradesh and Telangana who cultivate crops like maize or sugarcane?",
-    "options": [
-      "By reducing demand for their produce",
-      "By providing an alternative market and potentially better prices for their crops used in ethanol production",
-      "By encouraging them to switch to non-agricultural livelihoods",
-      "By subsidizing foreign crop imports"
-    ],
-    "correctAnswer": "By providing an alternative market and potentially better prices for their crops used in ethanol production"
+    "question": "Cybersecurity rules are proposed for what specific category of vehicles to prevent malware risks?",
+    "options": ["Vintage cars", "Public transport buses only", "Smart vehicles", "Two-wheelers"],
+    "correctAnswer": "Smart vehicles"
   },
   {
     "id": 22,
-    "question": "The Attorney General mentioned that judicial intervention could unsettle the government's national ethanol blending policy. This policy is primarily aimed at which sector?",
-    "options": [
-      "Healthcare",
-      "Education",
-      "Energy",
-      "Tourism"
-    ],
-    "correctAnswer": "Energy"
+    "question": "Why are new cybersecurity rules being proposed for smart vehicles?",
+    "options": ["To increase the cost of vehicles", "To prevent malware risks and data breaches", "To standardize vehicle color options", "To make vehicles slower"],
+    "correctAnswer": "To prevent malware risks and data breaches"
   },
   {
     "id": 23,
-    "question": "Which government department or ministry would be primarily responsible for the implementation and monitoring of the national ethanol blending program, impacting fuel distribution in Telangana and Andhra Pradesh?",
-    "options": [
-      "Ministry of Health",
-      "Ministry of Petroleum and Natural Gas",
-      "Ministry of Culture",
-      "Ministry of External Affairs"
-    ],
-    "correctAnswer": "Ministry of Petroleum and Natural Gas"
+    "question": "The development and implementation of cybersecurity rules for smart vehicles are particularly relevant for states with a growing automotive and technology sector. Which Indian state has a significant presence in both?",
+    "options": ["Bihar", "Madhya Pradesh", "Telangana", "Goa"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 24,
-    "question": "The 20% ethanol blending program is considered an 'ongoing experiment.' What does this imply about its current status?",
-    "options": [
-      "It has been permanently halted.",
-      "Its long-term impacts are still being evaluated before full-scale national implementation.",
-      "It is only applicable to specific regions outside Telangana and Andhra Pradesh.",
-      "The government has no interest in its expansion."
-    ],
-    "correctAnswer": "Its long-term impacts are still being evaluated before full-scale national implementation."
+    "question": "PM Modi emphasized the importance of 'free navigation' in which international waterway during his call with the Iranian President?",
+    "options": ["Suez Canal", "Strait of Hormuz", "Panama Canal", "Malacca Strait"],
+    "correctAnswer": "Strait of Hormuz"
   },
   {
     "id": 25,
-    "question": "Besides reducing pollution and enhancing energy security, another economic benefit of the national ethanol blending program for states like Andhra Pradesh could be:",
-    "options": [
-      "Increased dependence on imported crude oil.",
-      "Diversification of agricultural income streams for farmers.",
-      "Decline in rural employment opportunities.",
-      "Stagnation of the biofuels industry."
-    ],
-    "correctAnswer": "Diversification of agricultural income streams for farmers."
+    "question": "The national discussions on cybersecurity, AI, and road safety, led by the central government, aim to foster overall development and citizen welfare. What is the fundamental impact of such national policies on states like Andhra Pradesh and Telangana?",
+    "options": ["They have no bearing on state-level development", "They primarily introduce new taxes", "They set a framework and provide resources for state-level implementation and growth", "They exclusively benefit urban areas"],
+    "correctAnswer": "They set a framework and provide resources for state-level implementation and growth"
   }
 ]

@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary purpose of the Special Electoral Roll Revision (SIR) initiated by the Election Commission of India, a process relevant to states like Telangana and Andhra Pradesh?",
-    "options": [
-      "To update and verify voter details for upcoming elections",
-      "To conduct a national census of the population",
-      "To register new businesses for tax purposes",
-      "To revise property records across urban areas"
-    ],
-    "correctAnswer": "To update and verify voter details for upcoming elections"
+    "question": "What forensic technique is being employed by police to compare a suspect's walking pattern to CCTV footage, as mentioned in a recent Indian news report?",
+    "options": ["Fingerprint analysis", "DNA profiling", "Gait analysis", "Ballistics"],
+    "correctAnswer": "Gait analysis"
   },
   {
     "id": 2,
-    "question": "Which constitutional body is primarily responsible for conducting the Special Electoral Roll Revision (SIR) in India, including in Andhra Pradesh and Telangana?",
-    "options": [
-      "The Supreme Court of India",
-      "The Election Commission of India",
-      "The Union Ministry of Home Affairs",
-      "The National Human Rights Commission"
-    ],
-    "correctAnswer": "The Election Commission of India"
+    "question": "In the context of recent news from India, 'gait analysis' is primarily used to compare a suspect's walking pattern with what type of evidence?",
+    "options": ["Eyewitness accounts", "CCTV footage", "Audio recordings", "Written statements"],
+    "correctAnswer": "CCTV footage"
   },
   {
     "id": 3,
-    "question": "According to the news, what potential difficulty might citizens in states like Telangana and Andhra Pradesh face if they fail to register or update their details during the Special Electoral Roll Revision (SIR)?",
-    "options": [
-      "Imprisonment for non-compliance",
-      "Disqualification from holding public office",
-      "Difficulties in accessing government welfare schemes",
-      "Mandatory relocation to a different constituency"
-    ],
-    "correctAnswer": "Difficulties in accessing government welfare schemes"
+    "question": "India recently deployed a field hospital and relief supplies to which earthquake-hit country under 'Operation Amistad'?",
+    "options": ["Turkey", "Nepal", "Venezuela", "Japan"],
+    "correctAnswer": "Venezuela"
   },
   {
     "id": 4,
-    "question": "When did the Special Electoral Roll Revision (SIR) process, applicable nationwide, including in Andhra Pradesh and Telangana, reportedly begin?",
-    "options": [
-      "June 1, 2024",
-      "June 15, 2024",
-      "June 30, 2024",
-      "July 15, 2024"
-    ],
-    "correctAnswer": "June 30, 2024"
+    "question": "What was the name of the operation under which India provided medical aid and relief to earthquake victims in Venezuela?",
+    "options": ["Operation Maitri", "Operation Dost", "Operation Amistad", "Operation Sahyog"],
+    "correctAnswer": "Operation Amistad"
   },
   {
     "id": 5,
-    "question": "For how long is the Special Electoral Roll Revision (SIR) period expected to run, according to the news, which provides a timeframe relevant for all Indian states?",
-    "options": [
-      "One week",
-      "Two weeks",
-      "One month (until July 29)",
-      "Three months"
-    ],
-    "correctAnswer": "One month (until July 29)"
+    "question": "The humanitarian aid provided by India to Venezuela was in response to which natural disaster?",
+    "options": ["Flood", "Tsunami", "Earthquake", "Hurricane"],
+    "correctAnswer": "Earthquake"
   },
   {
     "id": 6,
-    "question": "The Special Electoral Roll Revision (SIR) aims to update which specific details of citizens, essential for democratic participation in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Financial income and tax records",
-      "Voter details and eligibility",
-      "Medical history and health insurance",
-      "Educational qualifications and employment status"
-    ],
-    "correctAnswer": "Voter details and eligibility"
+    "question": "Apart from a field hospital, what other significant resources did India deploy to Venezuela, as per recent news about its aid efforts?",
+    "options": ["Military personnel", "Advanced medical equipment", "Food grains", "Construction materials"],
+    "correctAnswer": "Advanced medical equipment"
   },
   {
     "id": 7,
-    "question": "The news highlights a warning regarding the Special Electoral Roll Revision (SIR) about potential difficulties with government schemes. This warning is relevant for citizens in all states, including Telangana and Andhra Pradesh, emphasizing the importance of what action?",
-    "options": [
-      "Obtaining a new driver's license",
-      "Registering for the electoral roll",
-      "Paying property taxes promptly",
-      "Updating bank account details"
-    ],
-    "correctAnswer": "Registering for the electoral roll"
+    "question": "According to recent reports on India's unique fertility story, what is the general trend observed for births in the country?",
+    "options": ["Rapidly rising", "Steadily increasing", "Gradually falling", "Stagnant"],
+    "correctAnswer": "Gradually falling"
   },
   {
     "id": 8,
-    "question": "The INDIA bloc parties have written to the Chief Justice of India regarding which specific national electoral process, also affecting voters in Telangana and Andhra Pradesh?",
-    "options": [
-      "Delimitation of constituencies",
-      "Counting of votes after elections",
-      "Special intensive revision of electoral rolls (SIR)",
-      "Appointment of new Election Commissioners"
-    ],
-    "correctAnswer": "Special intensive revision of electoral rolls (SIR)"
+    "question": "Despite a falling birth rate, what is the current trend for India's overall population, as highlighted in recent news?",
+    "options": ["Declining", "Stagnating", "Rising", "Unchanged"],
+    "correctAnswer": "Rising"
   },
   {
     "id": 9,
-    "question": "What is one of the key concerns raised by the INDIA bloc parties regarding the Election Commission's Special Electoral Roll Revision (SIR) process, a matter of national importance?",
-    "options": [
-      "The use of electronic voting machines",
-      "The duration of the revision period being too short",
-      "Perceived electoral irregularities and process issues",
-      "The involvement of international observers"
-    ],
-    "correctAnswer": "Perceived electoral irregularities and process issues"
+    "question": "The phenomenon of falling births yet a rising population in India is often explained by what demographic concept?",
+    "options": ["Demographic transition", "Population momentum", "Zero population growth", "Population implosion"],
+    "correctAnswer": "Population momentum"
   },
   {
     "id": 10,
-    "question": "Besides electoral rolls, what other national concern did the INDIA bloc's joint letter to the Chief Justice of India address, requesting the Education Minister's resignation?",
-    "options": [
-      "Issues related to national defense policy",
-      "Controversies surrounding examination conduct",
-      "Disputes over interstate river water sharing",
-      "Concerns about economic growth and inflation"
-    ],
-    "correctAnswer": "Controversies surrounding examination conduct"
+    "question": "The news highlighting India's unique fertility story, explaining how births are falling yet population is rising, was presented through what format?",
+    "options": ["A documentary", "A panel discussion", "10 charts", "An expert interview"],
+    "correctAnswer": "10 charts"
   },
   {
     "id": 11,
-    "question": "Which Indian state, known for its extensive coastline and fishing industry, is directly relevant to the Indian Coast Guard's maritime operations, similar to the rescue mentioned off Mangaluru?",
-    "options": [
-      "Telangana",
-      "Andhra Pradesh",
-      "Madhya Pradesh",
-      "Uttar Pradesh"
-    ],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Ro Khanna, a U.S. Congressman, recently stated that US-India ties are at their lowest in how many years?",
+    "options": ["10 years", "20 years", "30 years", "40 years"],
+    "correctAnswer": "30 years"
   },
   {
     "id": 12,
-    "question": "What is a primary role of the Indian Coast Guard, as exemplified by the news item reporting an overnight operation off the Mangaluru coast, and applicable along the Andhra Pradesh coast?",
-    "options": [
-      "Maintaining law and order in urban centers",
-      "Conducting search and rescue operations at sea",
-      "Managing railway networks",
-      "Regulating air traffic control"
-    ],
-    "correctAnswer": "Conducting search and rescue operations at sea"
+    "question": "Whose policies did Ro Khanna blame for the alleged low state of US-India ties, as reported in the news?",
+    "options": ["Joe Biden's", "Donald Trump's", "Barack Obama's", "George W. Bush's"],
+    "correctAnswer": "Donald Trump's"
   },
   {
     "id": 13,
-    "question": "The Indian Coast Guard's rescue of fishermen highlights its crucial presence in which type of geographic areas across India, including states with coastlines like Andhra Pradesh?",
-    "options": [
-      "Himalayan mountain ranges",
-      "Desert regions",
-      "Coastal waters",
-      "Dense forest reserves"
-    ],
-    "correctAnswer": "Coastal waters"
+    "question": "Who made the recent statement suggesting US-India ties are at a 30-year low due to \"destructive policies\"?",
+    "options": ["An Indian diplomat", "A U.S. Senator", "Ro Khanna", "The U.S. President"],
+    "correctAnswer": "Ro Khanna"
   },
   {
     "id": 14,
-    "question": "Which agency is responsible for maritime search and rescue missions along India's coastline, including the Bay of Bengal region bordering Andhra Pradesh?",
-    "options": [
-      "Indian Navy",
-      "National Disaster Response Force",
-      "Indian Coast Guard",
-      "Marine Police"
-    ],
-    "correctAnswer": "Indian Coast Guard"
+    "question": "Which Union Minister is facing privilege proceedings sought by Congress over an alleged misleading statement in the House?",
+    "options": ["Finance Minister", "Home Minister", "Defence Minister", "External Affairs Minister"],
+    "correctAnswer": "Defence Minister"
   },
   {
     "id": 15,
-    "question": "Kanchivaram silk, a traditional craft mentioned as a gift by PM Modi, originates from which South Indian state, a neighbor to Andhra Pradesh?",
-    "options": [
-      "Kerala",
-      "Karnataka",
-      "Tamil Nadu",
-      "Telangana"
-    ],
-    "correctAnswer": "Tamil Nadu"
+    "question": "The Congress sought privilege proceedings against the Defence Minister concerning a statement made about which specific operation?",
+    "options": ["Operation Vijay", "Operation Sindoor", "Operation Parakram", "Operation Meghdoot"],
+    "correctAnswer": "Operation Sindoor"
   },
   {
     "id": 16,
-    "question": "What type of product is Kanchivaram, known for its traditional craftsmanship and cultural significance in South India?",
-    "options": [
-      "Pottery",
-      "Wood carvings",
-      "Silk sarees",
-      "Metal sculptures"
-    ],
-    "correctAnswer": "Silk sarees"
+    "question": "What was the core allegation made by Congress against the Defence Minister regarding his statement on Op Sindoor?",
+    "options": ["Financial impropriety", "Misleading the House", "Dereliction of duty", "Breach of protocol"],
+    "correctAnswer": "Misleading the House"
   },
   {
     "id": 17,
-    "question": "Kanchivaram silk sarees are renowned for their intricate designs and often incorporate threads of which precious material in their weaving?",
-    "options": [
-      "Copper",
-      "Silver",
-      "Gold",
-      "Bronze"
-    ],
-    "correctAnswer": "Gold"
+    "question": "The Defence Minister's statement, which led to privilege proceedings, was allegedly misleading regarding what aspect of Op Sindoor?",
+    "options": ["Its cost", "Its duration", "Casualties", "Strategic objectives"],
+    "correctAnswer": "Casualties"
   },
   {
     "id": 18,
-    "question": "What does a 'GI tag' (Geographical Indication) signify for traditional Indian products like Kanchivaram silk, a concept important for crafts across the country, including in Andhra Pradesh and Telangana?",
-    "options": [
-      "Government import duty exemption",
-      "Certification of environmental friendliness",
-      "Proof of origin and quality linked to a specific region",
-      "Official government endorsement for international trade"
-    ],
-    "correctAnswer": "Proof of origin and quality linked to a specific region"
+    "question": "General Dwivedi recently handed over the command of the Indian Army to whom?",
+    "options": ["Gen Manoj Pande", "Gen Anil Chauhan", "Gen Dhiraj Seth", "Gen Bipin Rawat"],
+    "correctAnswer": "Gen Dhiraj Seth"
   },
   {
     "id": 19,
-    "question": "Which region of India is famously associated with the production of Kanchivaram silk, a craft that holds significant cultural value in the broader South Indian context?",
-    "options": [
-      "North India",
-      "East India",
-      "West India",
-      "South India"
-    ],
-    "correctAnswer": "South India"
+    "question": "As he handed over command, General Dwivedi stated that future wars in India would be more focused on what aspects?",
+    "options": ["Air-centric and long-range", "Naval and submarine operations", "Joint and theatre-oriented", "Guerrilla and covert"],
+    "correctAnswer": "Joint and theatre-oriented"
   },
   {
     "id": 20,
-    "question": "The news highlights robust bilateral ties between India and the US, strengthening cooperation in which key areas, areas that can also influence economic and strategic developments in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Space exploration, agriculture, and tourism",
-      "Education, healthcare, and sports",
-      "Trade, defense, and people-to-people connections",
-      "Art, literature, and cinema"
-    ],
-    "correctAnswer": "Trade, defense, and people-to-people connections"
+    "question": "The news about Gen Dwivedi handing over command to Gen Dhiraj Seth pertains to the leadership change in which branch of the Indian armed forces?",
+    "options": ["Indian Air Force", "Indian Navy", "Indian Army", "Indian Coast Guard"],
+    "correctAnswer": "Indian Army"
   },
   {
     "id": 21,
-    "question": "Who is the US Ambassador to India mentioned in the news, discussing Indo-Pacific Command and strong bilateral ties?",
-    "options": [
-      "John Smith",
-      "Sergio Gor",
-      "Michael Green",
-      "David Lee"
-    ],
-    "correctAnswer": "Sergio Gor"
+    "question": "What was the implied position held by General Dwivedi before handing over command to General Dhiraj Seth?",
+    "options": ["Vice Chief of Army Staff", "Chief of Army Staff", "Commander of a specific corps", "Chief of Defence Staff"],
+    "correctAnswer": "Chief of Army Staff"
   },
   {
     "id": 22,
-    "question": "As per the US Ambassador, India conducts more military exercises with which country than any other nation, indicating strong defense cooperation relevant to India's overall security, including its coastal regions like Andhra Pradesh?",
-    "options": [
-      "Russia",
-      "France",
-      "United States",
-      "Japan"
-    ],
-    "correctAnswer": "United States"
+    "question": "Gait analysis, as a forensic technique mentioned in recent Indian news, primarily focuses on analyzing what characteristic of an individual?",
+    "options": ["Facial expressions", "Vocal patterns", "Walking style", "Handwriting"],
+    "correctAnswer": "Walking style"
   },
   {
     "id": 23,
-    "question": "The Indo-Pacific Command, mentioned in the context of US-India ties, is significant for which strategic maritime region that includes the Bay of Bengal, relevant to Andhra Pradesh's coastal security?",
-    "options": [
-      "Atlantic Ocean",
-      "Arctic Circle",
-      "Indo-Pacific",
-      "Mediterranean Sea"
-    ],
-    "correctAnswer": "Indo-Pacific"
+    "question": "The primary purpose of conducting gait analysis on an accused person in an Indian case, as per recent news, is to establish what?",
+    "options": ["Their mental state", "Their identity through movement", "Their alibi", "Their motives"],
+    "correctAnswer": "Their identity through movement"
   },
   {
     "id": 24,
-    "question": "The Special Electoral Roll Revision (SIR) has been linked to potential impacts on access to government welfare schemes. Which category of schemes is most commonly associated with such concerns, applicable across various Indian states including Andhra Pradesh and Telangana?",
-    "options": [
-      "Schemes providing direct financial assistance or subsidies",
-      "Schemes for space research and development",
-      "Schemes promoting international tourism",
-      "Schemes for wildlife conservation"
-    ],
-    "correctAnswer": "Schemes providing direct financial assistance or subsidies"
+    "question": "The people of Venezuela expressed what sentiment towards India's medical team for their aid during the earthquake?",
+    "options": ["Indifference", "Suspicion", "Deep gratitude", "Mild appreciation"],
+    "correctAnswer": "Deep gratitude"
   },
   {
     "id": 25,
-    "question": "Apart from individual citizens, who else is mentioned in the news as assisting with voter registration during the Special Electoral Roll Revision (SIR) period, a common practice across states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Bank officials and postal workers",
-      "Help desks and political party representatives",
-      "School teachers and university professors",
-      "Healthcare workers and pharmacists"
-    ],
-    "correctAnswer": "Help desks and political party representatives"
+    "question": "The concept of population momentum, which explains India's rising population despite falling birth rates, implies what about future population trends?",
+    "options": ["An immediate decline in population", "Population will continue to rise for some time", "Population will stabilize instantly", "A rapid increase in birth rates"],
+    "correctAnswer": "Population will continue to rise for some time"
   }
 ]

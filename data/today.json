@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What significant weather trend for June is reported for India, which severely impacts agriculture in states like Telangana and Andhra Pradesh?",
-    "options": ["Excessive rainfall", "Significant rain deficit", "Normal monsoon patterns", "Early onset of winter"],
-    "correctAnswer": "Significant rain deficit"
+    "question": "What is the primary purpose of the Special Electoral Roll Revision (SIR) initiated by the Election Commission of India, a process relevant to states like Telangana and Andhra Pradesh?",
+    "options": [
+      "To update and verify voter details for upcoming elections",
+      "To conduct a national census of the population",
+      "To register new businesses for tax purposes",
+      "To revise property records across urban areas"
+    ],
+    "correctAnswer": "To update and verify voter details for upcoming elections"
   },
   {
     "id": 2,
-    "question": "According to recent reports, how severe is India's June rain deficit compared to the last 100 years, posing challenges for agricultural states like Andhra Pradesh?",
-    "options": ["The driest on record", "The 10th driest", "The 3rd driest", "Average for the period"],
-    "correctAnswer": "The 3rd driest"
+    "question": "Which constitutional body is primarily responsible for conducting the Special Electoral Roll Revision (SIR) in India, including in Andhra Pradesh and Telangana?",
+    "options": [
+      "The Supreme Court of India",
+      "The Election Commission of India",
+      "The Union Ministry of Home Affairs",
+      "The National Human Rights Commission"
+    ],
+    "correctAnswer": "The Election Commission of India"
   },
   {
     "id": 3,
-    "question": "What percentage of rain deficit has India experienced in June, as per the recent report, which impacts water resources in southern states like Telangana?",
-    "options": ["25%", "32%", "42%", "50%"],
-    "correctAnswer": "42%"
+    "question": "According to the news, what potential difficulty might citizens in states like Telangana and Andhra Pradesh face if they fail to register or update their details during the Special Electoral Roll Revision (SIR)?",
+    "options": [
+      "Imprisonment for non-compliance",
+      "Disqualification from holding public office",
+      "Difficulties in accessing government welfare schemes",
+      "Mandatory relocation to a different constituency"
+    ],
+    "correctAnswer": "Difficulties in accessing government welfare schemes"
   },
   {
     "id": 4,
-    "question": "The reported low rainfall in June is a major concern for which crucial sector in states like Telangana and Andhra Pradesh?",
-    "options": ["Manufacturing", "IT Services", "Tourism", "Agriculture"],
-    "correctAnswer": "Agriculture"
+    "question": "When did the Special Electoral Roll Revision (SIR) process, applicable nationwide, including in Andhra Pradesh and Telangana, reportedly begin?",
+    "options": [
+      "June 1, 2024",
+      "June 15, 2024",
+      "June 30, 2024",
+      "July 15, 2024"
+    ],
+    "correctAnswer": "June 30, 2024"
   },
   {
     "id": 5,
-    "question": "A 42% rain deficit in June primarily indicates potential challenges related to which natural phenomenon across India, including Telangana and Andhra Pradesh?",
-    "options": ["Flooding", "Cyclones", "Drought conditions", "Heatwaves"],
-    "correctAnswer": "Drought conditions"
+    "question": "For how long is the Special Electoral Roll Revision (SIR) period expected to run, according to the news, which provides a timeframe relevant for all Indian states?",
+    "options": [
+      "One week",
+      "Two weeks",
+      "One month (until July 29)",
+      "Three months"
+    ],
+    "correctAnswer": "One month (until July 29)"
   },
   {
     "id": 6,
-    "question": "What recent decision by the Indian government directly impacts commercial transportation and logistics across all states, including Telangana and Andhra Pradesh?",
-    "options": ["Imposing new tolls on highways", "Introducing electric vehicle mandate", "Lifting petrol and diesel retail sale curbs for commercial users", "Increasing fuel taxes significantly"],
-    "correctAnswer": "Lifting petrol and diesel retail sale curbs for commercial users"
+    "question": "The Special Electoral Roll Revision (SIR) aims to update which specific details of citizens, essential for democratic participation in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Financial income and tax records",
+      "Voter details and eligibility",
+      "Medical history and health insurance",
+      "Educational qualifications and employment status"
+    ],
+    "correctAnswer": "Voter details and eligibility"
   },
   {
     "id": 7,
-    "question": "For which specific group of users were petrol and diesel retail sale curbs recently lifted in India, impacting businesses in states like Andhra Pradesh?",
-    "options": ["Private car owners", "Public transport operators", "Commercial users", "Agricultural sector"],
-    "correctAnswer": "Commercial users"
+    "question": "The news highlights a warning regarding the Special Electoral Roll Revision (SIR) about potential difficulties with government schemes. This warning is relevant for citizens in all states, including Telangana and Andhra Pradesh, emphasizing the importance of what action?",
+    "options": [
+      "Obtaining a new driver's license",
+      "Registering for the electoral roll",
+      "Paying property taxes promptly",
+      "Updating bank account details"
+    ],
+    "correctAnswer": "Registering for the electoral roll"
   },
   {
     "id": 8,
-    "question": "The lifting of fuel sale curbs for commercial users is expected to primarily benefit which economic sector across India, including in Telangana and Andhra Pradesh?",
-    "options": ["Healthcare", "Commercial transport and logistics", "Education", "Real Estate"],
-    "correctAnswer": "Commercial transport and logistics"
+    "question": "The INDIA bloc parties have written to the Chief Justice of India regarding which specific national electoral process, also affecting voters in Telangana and Andhra Pradesh?",
+    "options": [
+      "Delimitation of constituencies",
+      "Counting of votes after elections",
+      "Special intensive revision of electoral rolls (SIR)",
+      "Appointment of new Election Commissioners"
+    ],
+    "correctAnswer": "Special intensive revision of electoral rolls (SIR)"
   },
   {
     "id": 9,
-    "question": "Which specific commodities had their retail sale restrictions lifted for commercial users in India, affecting operational costs for many businesses?",
-    "options": ["LPG and CNG", "Petrol and Diesel", "Kerosene and Aviation Fuel", "Ethanol and Bio-diesel"],
-    "correctAnswer": "Petrol and Diesel"
+    "question": "What is one of the key concerns raised by the INDIA bloc parties regarding the Election Commission's Special Electoral Roll Revision (SIR) process, a matter of national importance?",
+    "options": [
+      "The use of electronic voting machines",
+      "The duration of the revision period being too short",
+      "Perceived electoral irregularities and process issues",
+      "The involvement of international observers"
+    ],
+    "correctAnswer": "Perceived electoral irregularities and process issues"
   },
   {
     "id": 10,
-    "question": "This policy change on fuel sales would likely impact the operational costs of businesses in states like Telangana and Andhra Pradesh involved in which primary activity?",
-    "options": ["Software development", "Textile manufacturing", "Transportation and freight", "Fisheries and aquaculture"],
-    "correctAnswer": "Transportation and freight"
+    "question": "Besides electoral rolls, what other national concern did the INDIA bloc's joint letter to the Chief Justice of India address, requesting the Education Minister's resignation?",
+    "options": [
+      "Issues related to national defense policy",
+      "Controversies surrounding examination conduct",
+      "Disputes over interstate river water sharing",
+      "Concerns about economic growth and inflation"
+    ],
+    "correctAnswer": "Controversies surrounding examination conduct"
   },
   {
     "id": 11,
-    "question": "What is a key recommendation from a recent draft panel report regarding the Indian education system, relevant to students in states like Telangana and Andhra Pradesh?",
-    "options": ["Making all higher education free", "Regulating coaching centers", "Increasing school holiday duration", "Mandating a foreign language in primary school"],
-    "correctAnswer": "Regulating coaching centers"
+    "question": "Which Indian state, known for its extensive coastline and fishing industry, is directly relevant to the Indian Coast Guard's maritime operations, similar to the rescue mentioned off Mangaluru?",
+    "options": [
+      "Telangana",
+      "Andhra Pradesh",
+      "Madhya Pradesh",
+      "Uttar Pradesh"
+    ],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 12,
-    "question": "The draft panel report suggests making exams less 'coachable' to ensure what in the Indian education system, benefiting students across all states?",
-    "options": ["Increased difficulty", "Reduced exam duration", "Fairness and reduced reliance on external coaching", "More subjective questions"],
-    "correctAnswer": "Fairness and reduced reliance on external coaching"
+    "question": "What is a primary role of the Indian Coast Guard, as exemplified by the news item reporting an overnight operation off the Mangaluru coast, and applicable along the Andhra Pradesh coast?",
+    "options": [
+      "Maintaining law and order in urban centers",
+      "Conducting search and rescue operations at sea",
+      "Managing railway networks",
+      "Regulating air traffic control"
+    ],
+    "correctAnswer": "Conducting search and rescue operations at sea"
   },
   {
     "id": 13,
-    "question": "What specific aspect of the education industry is the draft panel report aiming to regulate across India, including states with a strong competitive exam culture like Telangana and Andhra Pradesh?",
-    "options": ["Private schools' curriculum", "University admission processes", "Online learning platforms", "Coaching centers"],
-    "correctAnswer": "Coaching centers"
+    "question": "The Indian Coast Guard's rescue of fishermen highlights its crucial presence in which type of geographic areas across India, including states with coastlines like Andhra Pradesh?",
+    "options": [
+      "Himalayan mountain ranges",
+      "Desert regions",
+      "Coastal waters",
+      "Dense forest reserves"
+    ],
+    "correctAnswer": "Coastal waters"
   },
   {
     "id": 14,
-    "question": "The recommendation to regulate coaching centers in India aims to reduce dependency on them for which primary purpose?",
-    "options": ["Sports training", "Competitive exam preparation", "Vocational skills development", "Art and cultural studies"],
-    "correctAnswer": "Competitive exam preparation"
+    "question": "Which agency is responsible for maritime search and rescue missions along India's coastline, including the Bay of Bengal region bordering Andhra Pradesh?",
+    "options": [
+      "Indian Navy",
+      "National Disaster Response Force",
+      "Indian Coast Guard",
+      "Marine Police"
+    ],
+    "correctAnswer": "Indian Coast Guard"
   },
   {
     "id": 15,
-    "question": "What is the primary goal of the draft panel report's suggestions regarding education and examinations, affecting aspiring students in states like Telangana and Andhra Pradesh?",
-    "options": ["To increase tuition fees", "To privatize all educational institutions", "To improve fairness and reduce the burden of coaching", "To promote foreign universities"],
-    "correctAnswer": "To improve fairness and reduce the burden of coaching"
+    "question": "Kanchivaram silk, a traditional craft mentioned as a gift by PM Modi, originates from which South Indian state, a neighbor to Andhra Pradesh?",
+    "options": [
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu",
+      "Telangana"
+    ],
+    "correctAnswer": "Tamil Nadu"
   },
   {
     "id": 16,
-    "question": "Which US official expressed enthusiasm for PM Modi's potential return visit to the United States and hinted at a possible Trump visit to India?",
-    "options": ["Antony Blinken", "Jake Sullivan", "Sergio Gor", "Kamala Harris"],
-    "correctAnswer": "Sergio Gor"
+    "question": "What type of product is Kanchivaram, known for its traditional craftsmanship and cultural significance in South India?",
+    "options": [
+      "Pottery",
+      "Wood carvings",
+      "Silk sarees",
+      "Metal sculptures"
+    ],
+    "correctAnswer": "Silk sarees"
   },
   {
     "id": 17,
-    "question": "Which former US President is hinted to likely visit India next year, signaling continued strong ties between the two nations?",
-    "options": ["Barack Obama", "George W. Bush", "Bill Clinton", "Donald Trump"],
-    "correctAnswer": "Donald Trump"
+    "question": "Kanchivaram silk sarees are renowned for their intricate designs and often incorporate threads of which precious material in their weaving?",
+    "options": [
+      "Copper",
+      "Silver",
+      "Gold",
+      "Bronze"
+    ],
+    "correctAnswer": "Gold"
   },
   {
     "id": 18,
-    "question": "What type of agreement is Sergio Gor optimistic about finalizing soon between India and the US, impacting trade across all Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["A military alliance treaty", "An interim trade agreement", "A climate change accord", "A cultural exchange program"],
-    "correctAnswer": "An interim trade agreement"
+    "question": "What does a 'GI tag' (Geographical Indication) signify for traditional Indian products like Kanchivaram silk, a concept important for crafts across the country, including in Andhra Pradesh and Telangana?",
+    "options": [
+      "Government import duty exemption",
+      "Certification of environmental friendliness",
+      "Proof of origin and quality linked to a specific region",
+      "Official government endorsement for international trade"
+    ],
+    "correctAnswer": "Proof of origin and quality linked to a specific region"
   },
   {
     "id": 19,
-    "question": "What role does Sergio Gor hold, as per the news, when discussing PM Modi's US invitation and strengthening US-India relations?",
-    "options": ["US Secretary of State", "US National Security Advisor", "US Ambassador to India", "White House Press Secretary"],
-    "correctAnswer": "US Ambassador to India"
+    "question": "Which region of India is famously associated with the production of Kanchivaram silk, a craft that holds significant cultural value in the broader South Indian context?",
+    "options": [
+      "North India",
+      "East India",
+      "West India",
+      "South India"
+    ],
+    "correctAnswer": "South India"
   },
   {
     "id": 20,
-    "question": "The discussions about PM Modi's potential US visit and a Trump visit highlight the ongoing strengthening of ties between India and which major country?",
-    "options": ["Russia", "China", "United Kingdom", "United States"],
-    "correctAnswer": "United States"
+    "question": "The news highlights robust bilateral ties between India and the US, strengthening cooperation in which key areas, areas that can also influence economic and strategic developments in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Space exploration, agriculture, and tourism",
+      "Education, healthcare, and sports",
+      "Trade, defense, and people-to-people connections",
+      "Art, literature, and cinema"
+    ],
+    "correctAnswer": "Trade, defense, and people-to-people connections"
   },
   {
     "id": 21,
-    "question": "Which legislative body in India recently saw new Members of Parliament taking an oath, shifting the numbers towards the NDA alliance?",
-    "options": ["Lok Sabha", "Vidhan Sabha", "Rajya Sabha", "Panchayat"],
-    "correctAnswer": "Rajya Sabha"
+    "question": "Who is the US Ambassador to India mentioned in the news, discussing Indo-Pacific Command and strong bilateral ties?",
+    "options": [
+      "John Smith",
+      "Sergio Gor",
+      "Michael Green",
+      "David Lee"
+    ],
+    "correctAnswer": "Sergio Gor"
   },
   {
     "id": 22,
-    "question": "The recent oath-taking ceremony for new MPs in India indicates a shift in political balance towards which major alliance?",
-    "options": ["UPA", "NDA", "Third Front", "Left Front"],
-    "correctAnswer": "NDA"
+    "question": "As per the US Ambassador, India conducts more military exercises with which country than any other nation, indicating strong defense cooperation relevant to India's overall security, including its coastal regions like Andhra Pradesh?",
+    "options": [
+      "Russia",
+      "France",
+      "United States",
+      "Japan"
+    ],
+    "correctAnswer": "United States"
   },
   {
     "id": 23,
-    "question": "What does the acronym 'NDA' stand for in the context of Indian politics, whose strength recently increased in the Rajya Sabha?",
-    "options": ["National Development Alliance", "New Democratic Association", "National Democratic Alliance", "Non-Aligned Democrats"],
-    "correctAnswer": "National Democratic Alliance"
+    "question": "The Indo-Pacific Command, mentioned in the context of US-India ties, is significant for which strategic maritime region that includes the Bay of Bengal, relevant to Andhra Pradesh's coastal security?",
+    "options": [
+      "Atlantic Ocean",
+      "Arctic Circle",
+      "Indo-Pacific",
+      "Mediterranean Sea"
+    ],
+    "correctAnswer": "Indo-Pacific"
   },
   {
     "id": 24,
-    "question": "The oath-taking of new Rajya Sabha MPs influences the composition and legislative power of which house of the Indian Parliament, affecting policy decisions relevant to all states?",
-    "options": ["The Lower House", "The Upper House", "The People's House", "The State Assembly"],
-    "correctAnswer": "The Upper House"
+    "question": "The Special Electoral Roll Revision (SIR) has been linked to potential impacts on access to government welfare schemes. Which category of schemes is most commonly associated with such concerns, applicable across various Indian states including Andhra Pradesh and Telangana?",
+    "options": [
+      "Schemes providing direct financial assistance or subsidies",
+      "Schemes for space research and development",
+      "Schemes promoting international tourism",
+      "Schemes for wildlife conservation"
+    ],
+    "correctAnswer": "Schemes providing direct financial assistance or subsidies"
   },
   {
     "id": 25,
-    "question": "The change in Rajya Sabha numbers impacts legislative processes and policy-making at the national level, affecting all states including Telangana and Andhra Pradesh. Which key political alliance is strengthening its position?",
-    "options": ["Congress Party", "Aam Aadmi Party", "National Democratic Alliance", "Bharatiya Janata Party (individually)"],
-    "correctAnswer": "National Democratic Alliance"
+    "question": "Apart from individual citizens, who else is mentioned in the news as assisting with voter registration during the Special Electoral Roll Revision (SIR) period, a common practice across states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Bank officials and postal workers",
+      "Help desks and political party representatives",
+      "School teachers and university professors",
+      "Healthcare workers and pharmacists"
+    ],
+    "correctAnswer": "Help desks and political party representatives"
   }
 ]

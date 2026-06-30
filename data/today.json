@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What forensic technique is being employed by police to compare a suspect's walking pattern to CCTV footage, as mentioned in a recent Indian news report?",
-    "options": ["Fingerprint analysis", "DNA profiling", "Gait analysis", "Ballistics"],
-    "correctAnswer": "Gait analysis"
+    "question": "What is a primary objective of the PM GatiShakti platform, as emphasized by the Prime Minister in recent meetings, particularly relevant for integrated development in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Promoting international tourism",
+      "Integrated planning and inter-departmental coordination for infrastructure projects",
+      "Centralizing financial allocations for state budgets",
+      "Developing space exploration technologies"
+    ],
+    "correctAnswer": "Integrated planning and inter-departmental coordination for infrastructure projects"
   },
   {
     "id": 2,
-    "question": "In the context of recent news from India, 'gait analysis' is primarily used to compare a suspect's walking pattern with what type of evidence?",
-    "options": ["Eyewitness accounts", "CCTV footage", "Audio recordings", "Written statements"],
-    "correctAnswer": "CCTV footage"
+    "question": "The Prime Minister recently urged government secretaries to enhance 'ease of doing business'. How would this national focus, implemented through reforms, likely benefit industries in Andhra Pradesh and Telangana?",
+    "options": [
+      "By increasing import duties on local products",
+      "By simplifying regulatory processes and reducing bureaucratic hurdles",
+      "By discouraging foreign investments in manufacturing",
+      "By promoting only public sector enterprises"
+    ],
+    "correctAnswer": "By simplifying regulatory processes and reducing bureaucratic hurdles"
   },
   {
     "id": 3,
-    "question": "India recently deployed a field hospital and relief supplies to which earthquake-hit country under 'Operation Amistad'?",
-    "options": ["Turkey", "Nepal", "Venezuela", "Japan"],
-    "correctAnswer": "Venezuela"
+    "question": "The concept of 'Aatmanirbharta' (self-reliance) was a key discussion point in recent high-level meetings. How does this national initiative impact states like Telangana, known for its IT and pharmaceutical sectors?",
+    "options": [
+      "Encourages reliance on imported technology and raw materials",
+      "Promotes local manufacturing, innovation, and self-sufficiency in key sectors",
+      "Focuses solely on agricultural independence",
+      "Limits economic growth to avoid external influences"
+    ],
+    "correctAnswer": "Promotes local manufacturing, innovation, and self-sufficiency in key sectors"
   },
   {
     "id": 4,
-    "question": "What was the name of the operation under which India provided medical aid and relief to earthquake victims in Venezuela?",
-    "options": ["Operation Maitri", "Operation Dost", "Operation Amistad", "Operation Sahyog"],
-    "correctAnswer": "Operation Amistad"
+    "question": "PM Modi's emphasis on leveraging the PM GatiShakti platform for integrated planning aims to improve what aspect, beneficial for logistics and trade hubs in Andhra Pradesh?",
+    "options": [
+      "Only social welfare schemes",
+      "Efficient movement of goods and services, and multi-modal connectivity",
+      "Development of solely residential areas",
+      "Expansion of diplomatic missions abroad"
+    ],
+    "correctAnswer": "Efficient movement of goods and services, and multi-modal connectivity"
   },
   {
     "id": 5,
-    "question": "The humanitarian aid provided by India to Venezuela was in response to which natural disaster?",
-    "options": ["Flood", "Tsunami", "Earthquake", "Hurricane"],
-    "correctAnswer": "Earthquake"
+    "question": "What core principle, often discussed in relation to PM GatiShakti, aims to reduce delays and optimize resource utilization for major projects across states like Telangana?",
+    "options": [
+      "Compartmentalized planning",
+      "Inter-departmental coordination",
+      "Exclusive state-level execution",
+      "Reliance on external consultants only"
+    ],
+    "correctAnswer": "Inter-departmental coordination"
   },
   {
     "id": 6,
-    "question": "Apart from a field hospital, what other significant resources did India deploy to Venezuela, as per recent news about its aid efforts?",
-    "options": ["Military personnel", "Advanced medical equipment", "Food grains", "Construction materials"],
-    "correctAnswer": "Advanced medical equipment"
+    "question": "The national push for 'ease of living' aligns with various citizen-centric initiatives discussed by the government. Which of the following best exemplifies how this could manifest in states like Andhra Pradesh?",
+    "options": [
+      "Increasing administrative complexities",
+      "Streamlining public services and enhancing accessibility for citizens",
+      "Reducing access to government information",
+      "Promoting exclusive urban development"
+    ],
+    "correctAnswer": "Streamlining public services and enhancing accessibility for citizens"
   },
   {
     "id": 7,
-    "question": "According to recent reports on India's unique fertility story, what is the general trend observed for births in the country?",
-    "options": ["Rapidly rising", "Steadily increasing", "Gradually falling", "Stagnant"],
-    "correctAnswer": "Gradually falling"
+    "question": "Deregulation was a topic of discussion for promoting reforms. In the context of states like Telangana, what is the expected outcome of deregulation in specific sectors?",
+    "options": [
+      "Increased government control and licensing",
+      "Simplified business operations and increased private sector participation",
+      "Stagnation of economic growth",
+      "Monopoly formation by state-owned enterprises"
+    ],
+    "correctAnswer": "Simplified business operations and increased private sector participation"
   },
   {
     "id": 8,
-    "question": "Despite a falling birth rate, what is the current trend for India's overall population, as highlighted in recent news?",
-    "options": ["Declining", "Stagnating", "Rising", "Unchanged"],
-    "correctAnswer": "Rising"
+    "question": "The national focus on PM GatiShakti aims to accelerate infrastructure development. Which type of infrastructure would be particularly beneficial for enhancing connectivity within and between Telangana and neighboring states?",
+    "options": [
+      "Only social infrastructure like schools and hospitals",
+      "Multi-modal transport infrastructure (roads, railways, ports, airports)",
+      "Exclusive development of defensive military installations",
+      "Specialized agricultural storage facilities only"
+    ],
+    "correctAnswer": "Multi-modal transport infrastructure (roads, railways, ports, airports)"
   },
   {
     "id": 9,
-    "question": "The phenomenon of falling births yet a rising population in India is often explained by what demographic concept?",
-    "options": ["Demographic transition", "Population momentum", "Zero population growth", "Population implosion"],
-    "correctAnswer": "Population momentum"
+    "question": "The IMD has forecasted below-normal July rainfall across India. How could this forecast specifically impact agricultural activities in rain-fed regions of Telangana and Andhra Pradesh?",
+    "options": [
+      "Lead to increased crop yields due to less waterlogging",
+      "Potentially cause drought-like conditions and impact kharif crop sowing",
+      "Result in an abundance of groundwater reserves",
+      "Have no significant impact on agriculture"
+    ],
+    "correctAnswer": "Potentially cause drought-like conditions and impact kharif crop sowing"
   },
   {
     "id": 10,
-    "question": "The news highlighting India's unique fertility story, explaining how births are falling yet population is rising, was presented through what format?",
-    "options": ["A documentary", "A panel discussion", "10 charts", "An expert interview"],
-    "correctAnswer": "10 charts"
+    "question": "Along with below-normal rainfall, the IMD also predicted warmer temperatures across India. What is a direct consequence of this for water resources in Andhra Pradesh?",
+    "options": [
+      "Increased reservoir levels",
+      "Higher evaporation rates from water bodies",
+      "Reduced need for irrigation",
+      "Earlier onset of the monsoon season"
+    ],
+    "correctAnswer": "Higher evaporation rates from water bodies"
   },
   {
     "id": 11,
-    "question": "Ro Khanna, a U.S. Congressman, recently stated that US-India ties are at their lowest in how many years?",
-    "options": ["10 years", "20 years", "30 years", "40 years"],
-    "correctAnswer": "30 years"
+    "question": "What critical sector in Telangana is most vulnerable to the impact of below-normal monsoon rainfall and higher temperatures, as forecasted by the IMD?",
+    "options": [
+      "Information Technology",
+      "Pharmaceuticals",
+      "Agriculture",
+      "Mining"
+    ],
+    "correctAnswer": "Agriculture"
   },
   {
     "id": 12,
-    "question": "Whose policies did Ro Khanna blame for the alleged low state of US-India ties, as reported in the news?",
-    "options": ["Joe Biden's", "Donald Trump's", "Barack Obama's", "George W. Bush's"],
-    "correctAnswer": "Donald Trump's"
+    "question": "The IMD forecast of warmer temperatures could lead to increased heat stress. Which segment of the population in both Telangana and Andhra Pradesh is particularly vulnerable to such conditions?",
+    "options": [
+      "Office workers in air-conditioned environments",
+      "Outdoor laborers and farmers",
+      "Students attending online classes",
+      "Tourists visiting hill stations"
+    ],
+    "correctAnswer": "Outdoor laborers and farmers"
   },
   {
     "id": 13,
-    "question": "Who made the recent statement suggesting US-India ties are at a 30-year low due to \"destructive policies\"?",
-    "options": ["An Indian diplomat", "A U.S. Senator", "Ro Khanna", "The U.S. President"],
-    "correctAnswer": "Ro Khanna"
+    "question": "Given the IMD's forecast of below-normal July rainfall, which major agricultural crop typically grown in Telangana and Andhra Pradesh during the kharif season might face cultivation challenges?",
+    "options": [
+      "Wheat",
+      "Paddy (rice)",
+      "Apples",
+      "Saffron"
+    ],
+    "correctAnswer": "Paddy (rice)"
   },
   {
     "id": 14,
-    "question": "Which Union Minister is facing privilege proceedings sought by Congress over an alleged misleading statement in the House?",
-    "options": ["Finance Minister", "Home Minister", "Defence Minister", "External Affairs Minister"],
-    "correctAnswer": "Defence Minister"
+    "question": "What would be a likely immediate environmental concern for urban areas in Andhra Pradesh due to warmer temperatures and reduced rainfall, as per the IMD forecast?",
+    "options": [
+      "Increased snow accumulation",
+      "Higher demand for electricity for cooling and potential strain on power grids",
+      "Flooding",
+      "Enhanced air quality due to less pollution"
+    ],
+    "correctAnswer": "Higher demand for electricity for cooling and potential strain on power grids"
   },
   {
     "id": 15,
-    "question": "The Congress sought privilege proceedings against the Defence Minister concerning a statement made about which specific operation?",
-    "options": ["Operation Vijay", "Operation Sindoor", "Operation Parakram", "Operation Meghdoot"],
-    "correctAnswer": "Operation Sindoor"
+    "question": "How might below-normal rainfall in Telangana affect its dairy and livestock sectors?",
+    "options": [
+      "Improved fodder availability",
+      "Reduced availability of water and fodder, impacting animal health and productivity",
+      "No discernible impact",
+      "Increased pasture land"
+    ],
+    "correctAnswer": "Reduced availability of water and fodder, impacting animal health and productivity"
   },
   {
     "id": 16,
-    "question": "What was the core allegation made by Congress against the Defence Minister regarding his statement on Op Sindoor?",
-    "options": ["Financial impropriety", "Misleading the House", "Dereliction of duty", "Breach of protocol"],
-    "correctAnswer": "Misleading the House"
+    "question": "The IMD's forecast of warmer temperatures across India, including Telangana and Andhra Pradesh, necessitates a focus on which public health measure?",
+    "options": [
+      "Increased vaccination drives",
+      "Awareness campaigns for heatstroke prevention and adequate hydration",
+      "Promoting indoor sports activities",
+      "Distributing winter clothing"
+    ],
+    "correctAnswer": "Awareness campaigns for heatstroke prevention and adequate hydration"
   },
   {
     "id": 17,
-    "question": "The Defence Minister's statement, which led to privilege proceedings, was allegedly misleading regarding what aspect of Op Sindoor?",
-    "options": ["Its cost", "Its duration", "Casualties", "Strategic objectives"],
-    "correctAnswer": "Casualties"
+    "question": "The Centre informed the Supreme Court that the 20% ethanol blending programme is still an experiment. Which agricultural product from states like Andhra Pradesh and Telangana is a significant source for ethanol production?",
+    "options": [
+      "Coffee",
+      "Maize",
+      "Cotton",
+      "Rubber"
+    ],
+    "correctAnswer": "Maize"
   },
   {
     "id": 18,
-    "question": "General Dwivedi recently handed over the command of the Indian Army to whom?",
-    "options": ["Gen Manoj Pande", "Gen Anil Chauhan", "Gen Dhiraj Seth", "Gen Bipin Rawat"],
-    "correctAnswer": "Gen Dhiraj Seth"
+    "question": "What is the primary objective of India's national ethanol blending policy, which impacts the agricultural and energy sectors in states like Telangana?",
+    "options": [
+      "To increase reliance on fossil fuel imports",
+      "To enhance energy security and reduce pollution by blending ethanol with petrol",
+      "To promote the export of crude oil",
+      "To discourage domestic agricultural production"
+    ],
+    "correctAnswer": "To enhance energy security and reduce pollution by blending ethanol with petrol"
   },
   {
     "id": 19,
-    "question": "As he handed over command, General Dwivedi stated that future wars in India would be more focused on what aspects?",
-    "options": ["Air-centric and long-range", "Naval and submarine operations", "Joint and theatre-oriented", "Guerrilla and covert"],
-    "correctAnswer": "Joint and theatre-oriented"
+    "question": "The national 20% ethanol blending target, though experimental, holds potential benefits for which key industry in Andhra Pradesh that processes agricultural produce?",
+    "options": [
+      "Textile industry",
+      "Sugar industry",
+      "Steel manufacturing",
+      "Information Technology"
+    ],
+    "correctAnswer": "Sugar industry"
   },
   {
     "id": 20,
-    "question": "The news about Gen Dwivedi handing over command to Gen Dhiraj Seth pertains to the leadership change in which branch of the Indian armed forces?",
-    "options": ["Indian Air Force", "Indian Navy", "Indian Army", "Indian Coast Guard"],
-    "correctAnswer": "Indian Army"
+    "question": "What environmental benefit is primarily associated with the national ethanol blending program, a policy relevant to states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Increased greenhouse gas emissions",
+      "Reduction in air pollution from vehicular emissions",
+      "Depletion of ozone layer",
+      "Promotion of deforestation"
+    ],
+    "correctAnswer": "Reduction in air pollution from vehicular emissions"
   },
   {
     "id": 21,
-    "question": "What was the implied position held by General Dwivedi before handing over command to General Dhiraj Seth?",
-    "options": ["Vice Chief of Army Staff", "Chief of Army Staff", "Commander of a specific corps", "Chief of Defence Staff"],
-    "correctAnswer": "Chief of Army Staff"
+    "question": "How does the national ethanol blending program aim to benefit farmers in states like Andhra Pradesh and Telangana who cultivate crops like maize or sugarcane?",
+    "options": [
+      "By reducing demand for their produce",
+      "By providing an alternative market and potentially better prices for their crops used in ethanol production",
+      "By encouraging them to switch to non-agricultural livelihoods",
+      "By subsidizing foreign crop imports"
+    ],
+    "correctAnswer": "By providing an alternative market and potentially better prices for their crops used in ethanol production"
   },
   {
     "id": 22,
-    "question": "Gait analysis, as a forensic technique mentioned in recent Indian news, primarily focuses on analyzing what characteristic of an individual?",
-    "options": ["Facial expressions", "Vocal patterns", "Walking style", "Handwriting"],
-    "correctAnswer": "Walking style"
+    "question": "The Attorney General mentioned that judicial intervention could unsettle the government's national ethanol blending policy. This policy is primarily aimed at which sector?",
+    "options": [
+      "Healthcare",
+      "Education",
+      "Energy",
+      "Tourism"
+    ],
+    "correctAnswer": "Energy"
   },
   {
     "id": 23,
-    "question": "The primary purpose of conducting gait analysis on an accused person in an Indian case, as per recent news, is to establish what?",
-    "options": ["Their mental state", "Their identity through movement", "Their alibi", "Their motives"],
-    "correctAnswer": "Their identity through movement"
+    "question": "Which government department or ministry would be primarily responsible for the implementation and monitoring of the national ethanol blending program, impacting fuel distribution in Telangana and Andhra Pradesh?",
+    "options": [
+      "Ministry of Health",
+      "Ministry of Petroleum and Natural Gas",
+      "Ministry of Culture",
+      "Ministry of External Affairs"
+    ],
+    "correctAnswer": "Ministry of Petroleum and Natural Gas"
   },
   {
     "id": 24,
-    "question": "The people of Venezuela expressed what sentiment towards India's medical team for their aid during the earthquake?",
-    "options": ["Indifference", "Suspicion", "Deep gratitude", "Mild appreciation"],
-    "correctAnswer": "Deep gratitude"
+    "question": "The 20% ethanol blending program is considered an 'ongoing experiment.' What does this imply about its current status?",
+    "options": [
+      "It has been permanently halted.",
+      "Its long-term impacts are still being evaluated before full-scale national implementation.",
+      "It is only applicable to specific regions outside Telangana and Andhra Pradesh.",
+      "The government has no interest in its expansion."
+    ],
+    "correctAnswer": "Its long-term impacts are still being evaluated before full-scale national implementation."
   },
   {
     "id": 25,
-    "question": "The concept of population momentum, which explains India's rising population despite falling birth rates, implies what about future population trends?",
-    "options": ["An immediate decline in population", "Population will continue to rise for some time", "Population will stabilize instantly", "A rapid increase in birth rates"],
-    "correctAnswer": "Population will continue to rise for some time"
+    "question": "Besides reducing pollution and enhancing energy security, another economic benefit of the national ethanol blending program for states like Andhra Pradesh could be:",
+    "options": [
+      "Increased dependence on imported crude oil.",
+      "Diversification of agricultural income streams for farmers.",
+      "Decline in rural employment opportunities.",
+      "Stagnation of the biofuels industry."
+    ],
+    "correctAnswer": "Diversification of agricultural income streams for farmers."
   }
 ]

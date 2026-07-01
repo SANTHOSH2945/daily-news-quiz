@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is the primary focus of the committee that finalized a questionnaire for states and UTs?",
-    "options": ["Economic reforms", "Demographic changes", "Healthcare infrastructure", "Educational policies"],
-    "correctAnswer": "Demographic changes"
+    "question": "According to the recent Supreme Court ruling, under what condition does an accused *not* have the right to claim default bail?",
+    "options": [
+      "If the chargesheet is filed but copies are not provided.",
+      "If the accused fails to appear in court.",
+      "If the crime is of a serious nature.",
+      "If the police investigation is ongoing."
+    ],
+    "correctAnswer": "If the chargesheet is filed but copies are not provided."
   },
   {
     "id": 2,
-    "question": "Which administrative divisions are targeted by the questionnaire prepared by the committee on demographic changes?",
-    "options": ["Only Union Territories", "Only metropolitan cities", "States and Union Territories", "Only special economic zones"],
-    "correctAnswer": "States and Union Territories"
+    "question": "The Supreme Court clarified that the right to default bail arises only if which specific condition is met?",
+    "options": [
+      "The accused cooperates with the investigation.",
+      "The chargesheet is not filed within the stipulated 60 or 90 days.",
+      "The court orders immediate release.",
+      "The public prosecutor consents to bail."
+    ],
+    "correctAnswer": "The chargesheet is not filed within the stipulated 60 or 90 days."
   },
   {
     "id": 3,
-    "question": "What is the next step planned by the Committee on demographic changes after finalizing the questionnaire?",
-    "options": ["Submitting a final report", "Launching a public awareness campaign", "Conducting field visits", "Announcing new policies"],
-    "correctAnswer": "Conducting field visits"
+    "question": "Which two Justices delivered the Supreme Court ruling on default bail concerning the provision of chargesheet copies?",
+    "options": [
+      "Justices Chandrachud and Gavai",
+      "Justices Karol and Singh",
+      "Justices Khanna and Misra",
+      "Justices Rao and Bhat"
+    ],
+    "correctAnswer": "Justices Karol and Singh"
   },
   {
     "id": 4,
-    "question": "How does the work of the Committee on demographic changes directly impact states like Telangana and Andhra Pradesh?",
-    "options": ["By mandating new industrial policies", "By providing financial aid for infrastructure", "By collecting data relevant for state-specific policy making", "By regulating inter-state trade"],
-    "correctAnswer": "By collecting data relevant for state-specific policy making"
+    "question": "What are the statutory timelines mentioned in the Supreme Court's ruling, after which default bail may be claimed if the chargesheet is not filed?",
+    "options": [
+      "30 or 45 days",
+      "60 or 90 days",
+      "90 or 120 days",
+      "15 or 30 days"
+    ],
+    "correctAnswer": "60 or 90 days"
   },
   {
     "id": 5,
-    "question": "What significant document did the Committee on demographic changes finalize recently?",
-    "options": ["A new five-year plan", "A budget proposal", "A comprehensive questionnaire", "An annual economic survey"],
-    "correctAnswer": "A comprehensive questionnaire"
+    "question": "The Supreme Court ruling clarified that the mere non-provision of chargesheet copies within the statutory timeline does not automatically lead to what?",
+    "options": [
+      "A retrial",
+      "A reduced sentence",
+      "The right to default bail",
+      "Dismissal of the case"
+    ],
+    "correctAnswer": "The right to default bail"
   },
   {
     "id": 6,
-    "question": "The questionnaire by the Committee on demographic changes is a precursor to what activity?",
-    "options": ["Legislative drafting sessions", "International conferences", "On-ground field visits", "Digital outreach campaigns"],
-    "correctAnswer": "On-ground field visits"
+    "question": "A parliamentary panel is finalizing its report on an anti-corruption bill. What significant power does this bill propose regarding top leaders?",
+    "options": [
+      "Automatic removal after 30 days in detention for serious criminal charges.",
+      "A mandatory life sentence for corruption.",
+      "Public impeachment without parliamentary vote.",
+      "Increased immunity from prosecution."
+    ],
+    "correctAnswer": "Automatic removal after 30 days in detention for serious criminal charges."
   },
   {
     "id": 7,
-    "question": "Which specific aspect of state populations is the Committee on demographic changes studying?",
-    "options": ["Migration patterns", "Political affiliations", "Employment rates", "Demographic shifts and trends"],
-    "correctAnswer": "Demographic shifts and trends"
+    "question": "On what date is the parliamentary panel expected to adopt its report on the bill that proposes the automatic removal of top leaders?",
+    "options": [
+      "July 10",
+      "July 12",
+      "July 17",
+      "July 24"
+    ],
+    "correctAnswer": "July 17"
   },
   {
     "id": 8,
-    "question": "What kind of information is the Committee on demographic changes likely seeking from states such as Andhra Pradesh and Telangana?",
-    "options": ["Details on agricultural subsidies", "Data on population growth, age structure, and distribution", "Information on local governance reforms", "Records of tourism promotion activities"],
-    "correctAnswer": "Data on population growth, age structure, and distribution"
+    "question": "What is the primary concern raised by opposition parties regarding the anti-corruption bill that targets PMs and CMs?",
+    "options": [
+      "Lack of public consultation.",
+      "Financial burden on the state.",
+      "Potential for political misuse.",
+      "Inadequate scope of the bill."
+    ],
+    "correctAnswer": "Potential for political misuse."
   },
   {
     "id": 9,
-    "question": "What is the purpose of conducting field visits by the Committee on demographic changes to states and UTs?",
-    "options": ["To audit state budgets", "To gather first-hand information and perspectives", "To negotiate trade agreements", "To review national security protocols"],
-    "correctAnswer": "To gather first-hand information and perspectives"
+    "question": "The proposed anti-corruption bill considers the automatic removal of top leaders after how many days in detention for serious criminal charges?",
+    "options": [
+      "15 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "correctAnswer": "30 days"
   },
   {
     "id": 10,
-    "question": "The formation of the Committee on demographic changes highlights the national concern regarding which area, also relevant for Andhra Pradesh and Telangana?",
-    "options": ["Environmental degradation", "Societal and population evolution", "Technological advancements", "Cultural preservation"],
-    "correctAnswer": "Societal and population evolution"
+    "question": "What kind of amendments is the parliamentary committee considering for the anti-corruption bill to address concerns?",
+    "options": [
+      "Amendments to increase punitive measures.",
+      "Amendments to broaden the definition of corruption.",
+      "Amendments to address arbitrary power and safeguard elected governments.",
+      "Amendments to fast-track court proceedings."
+    ],
+    "correctAnswer": "Amendments to address arbitrary power and safeguard elected governments."
   },
   {
     "id": 11,
-    "question": "Which company was directed by the Indian government to halt the rollout of a new WhatsApp feature?",
-    "options": ["Google", "Meta", "Microsoft", "Apple"],
-    "correctAnswer": "Meta"
+    "question": "As per the new Supreme Court ITR norms for accident compensation, what document will serve as the benchmark for salaried individuals?",
+    "options": [
+      "Their last three years' bank statements.",
+      "Their current employment contract.",
+      "The previous year's income tax return.",
+      "A certificate from their employer."
+    ],
+    "correctAnswer": "The previous year's income tax return."
   },
   {
     "id": 12,
-    "question": "What new WhatsApp feature did the Indian government direct Meta not to roll out?",
-    "options": ["Encrypted calls", "Group video calls", "Username feature", "Payment gateway"],
-    "correctAnswer": "Username feature"
+    "question": "For self-employed individuals, how will accident compensation be calculated according to the Supreme Court's new ITR norms?",
+    "options": [
+      "Based on their highest annual income.",
+      "Based on the average of their last three years' income tax returns.",
+      "Based on a fixed government rate.",
+      "Based on a projection of future earnings."
+    ],
+    "correctAnswer": "Based on the average of their last three years' income tax returns."
   },
   {
     "id": 13,
-    "question": "What was one of the primary concerns of the Indian government regarding the new WhatsApp username feature?",
-    "options": ["Increased data storage costs", "Potential for impersonation and fraud", "Reduced app performance", "Lack of new revenue streams"],
-    "correctAnswer": "Potential for impersonation and fraud"
+    "question": "What is the stated goal of the Supreme Court's new ruling on ITR norms for fixing accident damages?",
+    "options": [
+      "To reduce the number of road accidents.",
+      "To standardize compensation assessments across high courts.",
+      "To increase the tax revenue from accident claims.",
+      "To simplify insurance claim processes."
+    ],
+    "correctAnswer": "To standardize compensation assessments across high courts."
   },
   {
     "id": 14,
-    "question": "How many days did the Indian government give Meta to provide an explanation regarding the WhatsApp username feature?",
-    "options": ["Two days", "Three days", "Seven days", "Ten days"],
-    "correctAnswer": "Three days"
+    "question": "The Supreme Court's ruling considers how many years of Income Tax Returns for self-employed individuals to calculate accident damages?",
+    "options": [
+      "One year",
+      "Two years",
+      "Three years",
+      "Five years"
+    ],
+    "correctAnswer": "Three years"
   },
   {
     "id": 15,
-    "question": "What potential negative impact was highlighted by cybersecurity experts regarding the new WhatsApp username feature, affecting users in states like Telangana?",
-    "options": ["Slower internet speeds", "Increased battery consumption", "Rise in scams and decline in public trust", "Higher subscription fees"],
-    "correctAnswer": "Rise in scams and decline in public trust"
+    "question": "The Supreme Court ruling accounts for which specific characteristic of self-employed individuals' income when mandating the use of an average of three years' ITRs?",
+    "options": [
+      "Their higher tax burden.",
+      "Their potential for rapid income growth.",
+      "Their income fluctuations.",
+      "Their reliance on seasonal work."
+    ],
+    "correctAnswer": "Their income fluctuations."
   },
   {
     "id": 16,
-    "question": "The government's directive on the WhatsApp feature primarily aims to address concerns related to what in the digital space for Indian citizens, including those in Andhra Pradesh?",
-    "options": ["Digital literacy", "Online privacy and safety", "Internet connectivity", "Software updates"],
-    "correctAnswer": "Online privacy and safety"
+    "question": "Which Indian state's Chief Minister was addressed by the BJP with the statement, \"You may try to crush BJP, but people have crush on BJP\"?",
+    "options": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Telangana",
+      "Kerala"
+    ],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 17,
-    "question": "What immediate action did the Indian government take concerning WhatsApp's proposed username feature?",
-    "options": ["Approved its immediate launch", "Requested a pilot program", "Directed Meta not to roll it out", "Offered to co-develop the feature"],
-    "correctAnswer": "Directed Meta not to roll it out"
+    "question": "Who is the current Chief Minister of Telangana, mentioned in the context of recent remarks made by the BJP?",
+    "options": [
+      "K. Chandrashekar Rao",
+      "Y.S. Jagan Mohan Reddy",
+      "N. Chandrababu Naidu",
+      "Revanth Reddy"
+    ],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 18,
-    "question": "India is advancing cooperation with which international body on sustainable ship recycling?",
-    "options": ["United Nations (UN)", "World Trade Organization (WTO)", "European Union (EU)", "ASEAN"],
-    "correctAnswer": "European Union (EU)"
+    "question": "Which political party made the statement to Telangana CM Revanth Reddy, highlighting their popular appeal despite attempts to \"crush\" them?",
+    "options": [
+      "Bharat Rashtra Samithi (BRS)",
+      "Indian National Congress (INC)",
+      "Bharatiya Janata Party (BJP)",
+      "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
+    ],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 19,
-    "question": "How many Indian ship recycling yards are reportedly ready for EU recognition?",
-    "options": ["One", "Three", "Five", "Ten"],
-    "correctAnswer": "Three"
+    "question": "The BJP's statement to Telangana CM Revanth Reddy primarily indicates a political rivalry in which region?",
+    "options": [
+      "North India",
+      "South India",
+      "Eastern India",
+      "Western India"
+    ],
+    "correctAnswer": "South India"
   },
   {
     "id": 20,
-    "question": "What is the primary focus of cooperation between India and the EU in the maritime sector mentioned in the news?",
-    "options": ["Fishing quotas", "Cruise tourism", "Sustainable ship recycling", "Port development"],
-    "correctAnswer": "Sustainable ship recycling"
+    "question": "What was the core message conveyed by the BJP to Telangana CM Revanth Reddy in their recent exchange?",
+    "options": [
+      "An invitation for alliance.",
+      "A warning against political suppression and a claim of popular support.",
+      "A demand for infrastructure development.",
+      "A critique of economic policies."
+    ],
+    "correctAnswer": "A warning against political suppression and a claim of popular support."
   },
   {
     "id": 21,
-    "question": "Which Indian state, known for its coastline, could significantly benefit from advancements in sustainable ship recycling facilities receiving international recognition?",
-    "options": ["Madhya Pradesh", "Telangana", "Haryana", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The Supreme Court's ruling on default bail emphasizes that simply not providing copies of the chargesheet to the accused *within the statutory timeline* does not automatically grant default bail. What specific action, if missing, *does* lead to the right to default bail?",
+    "options": [
+      "The filing of a bail application by the accused.",
+      "The appearance of the public prosecutor in court.",
+      "The filing of the chargesheet itself within the stipulated period.",
+      "The submission of evidence by the investigating agency."
+    ],
+    "correctAnswer": "The filing of the chargesheet itself within the stipulated period."
   },
   {
     "id": 22,
-    "question": "What is the name of India's satellite navigation system mentioned as having new applications?",
-    "options": ["NavIC", "Bhuvan", "Gagan", "IRNSS"],
-    "correctAnswer": "Gagan"
+    "question": "The parliamentary panel's anti-corruption bill, which proposes automatic removal of PMs and CMs, is contentious due to concerns about its potential impact on what?",
+    "options": [
+      "Judicial independence.",
+      "Economic growth.",
+      "The stability of elected governments.",
+      "International relations."
+    ],
+    "correctAnswer": "The stability of elected governments."
   },
   {
     "id": 23,
-    "question": "Gagan, India's satellite navigation system, was the first to be certified for which specific region?",
-    "options": ["Arctic region", "Equatorial region", "Polar region", "Temperate region"],
-    "correctAnswer": "Equatorial region"
+    "question": "What specific issue led the Supreme Court to lay down distinct ITR norms for calculating road accident damages for different employment types?",
+    "options": [
+      "Varying tax compliance rates.",
+      "The need for expedited legal processes.",
+      "Income disparity between salaried and self-employed individuals.",
+      "Differences in insurance policy coverage."
+    ],
+    "correctAnswer": "Income disparity between salaried and self-employed individuals."
   },
   {
     "id": 24,
-    "question": "Besides aviation safety, Gagan's advanced system now finds crucial applications in which other field relevant to coastal states like Andhra Pradesh?",
-    "options": ["Agriculture forecasting", "Urban planning", "Marine navigation", "Mining operations"],
-    "correctAnswer": "Marine navigation"
+    "question": "Which specific date marks the parliamentary panel's scheduled adoption of its report on the bill concerning the automatic removal of PMs and CMs?",
+    "options": [
+      "July 1st",
+      "July 7th",
+      "July 17th",
+      "July 27th"
+    ],
+    "correctAnswer": "July 17th"
   },
   {
     "id": 25,
-    "question": "In which year did India's Gagan satellite navigation system become operational?",
-    "options": ["2010", "2015", "2020", "2023"],
-    "correctAnswer": "2015"
+    "question": "The BJP's statement to Telangana CM Revanth Reddy \"You may try to crush BJP, but people have crush on BJP\" is an example of political rhetoric exchanged between ruling and opposition parties in which state?",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Telangana",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": "Telangana"
   }
 ]

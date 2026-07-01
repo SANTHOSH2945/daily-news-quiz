@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to the IMD, what is the monsoon prediction for July in India?",
-    "options": ["Above-normal rainfall", "Normal rainfall", "Below-normal rainfall", "Heavy cyclonic activity"],
-    "correctAnswer": "Below-normal rainfall"
-  },
-  {
-    "id": 2,
-    "question": "What is the primary implication of a 'below-normal monsoon' prediction for agricultural states like Andhra Pradesh and Telangana?",
-    "options": ["Increased crop yield", "Potential for drought and water scarcity", "Excessive flooding", "No significant impact"],
-    "correctAnswer": "Potential for drought and water scarcity"
-  },
-  {
-    "id": 3,
-    "question": "Which government body is responsible for making monsoon predictions in India, as mentioned in the news?",
-    "options": ["National Disaster Management Authority (NDMA)", "Indian Meteorological Department (IMD)", "Ministry of Agriculture & Farmers Welfare", "Central Water Commission (CWC)"],
+    "question": "Which agency is responsible for forecasting monsoon patterns in India, a crucial function for agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["National Disaster Management Authority (NDMA)", "Indian Space Research Organisation (ISRO)", "Indian Meteorological Department (IMD)", "Central Water Commission (CWC)"],
     "correctAnswer": "Indian Meteorological Department (IMD)"
   },
   {
-    "id": 4,
-    "question": "A below-normal monsoon in July would most directly affect which sector in agricultural states such as Telangana and Andhra Pradesh?",
-    "options": ["Manufacturing", "Information Technology", "Agriculture", "Tourism"],
+    "id": 2,
+    "question": "According to the IMD's latest forecast, what is the likely monsoon condition for July, which could impact agriculture in Andhra Pradesh and Telangana?",
+    "options": ["Above-normal", "Normal", "Below-normal", "Excessive"],
+    "correctAnswer": "Below-normal"
+  },
+  {
+    "id": 3,
+    "question": "A below-normal monsoon forecast for July, as per IMD, would primarily affect which sector in agricultural states like Telangana?",
+    "options": ["Information Technology", "Manufacturing", "Tourism", "Agriculture"],
     "correctAnswer": "Agriculture"
   },
   {
+    "id": 4,
+    "question": "What potential consequence could a below-normal monsoon in July have for water reservoirs in states like Andhra Pradesh?",
+    "options": ["Increased water levels", "No significant impact", "Reduced water levels", "Improved hydropower generation"],
+    "correctAnswer": "Reduced water levels"
+  },
+  {
     "id": 5,
-    "question": "What are the common concerns for farmers in Telangana and Andhra Pradesh during a period of below-normal monsoon?",
-    "options": ["Reduced input costs for fertilizers", "Optimal water levels for all crops", "Crop failure, reduced reservoir levels, and increased irrigation costs", "Earlier harvest times"],
-    "correctAnswer": "Crop failure, reduced reservoir levels, and increased irrigation costs"
+    "question": "Farmers in Telangana, planning for the Kharif season, would be most concerned about which weather forecast in July?",
+    "options": ["Heatwave conditions", "Heavy snowfall", "Below-normal monsoon", "Dust storms"],
+    "correctAnswer": "Below-normal monsoon"
   },
   {
     "id": 6,
-    "question": "Which judicial body ordered a status quo on the allocation of ethanol supply in India?",
-    "options": ["High Court of Mumbai", "Supreme Court of India", "National Green Tribunal", "Delhi High Court"],
-    "correctAnswer": "Supreme Court of India"
-  },
-  {
-    "id": 7,
-    "question": "What commodity's supply allocation was the subject of the Supreme Court's status quo order?",
-    "options": ["Petroleum", "Ethanol", "Natural Gas", "Coal"],
+    "question": "The Supreme Court recently ordered a status quo on the allocation of which key biofuel component, impacting industries in states like Telangana and Andhra Pradesh?",
+    "options": ["Biodiesel", "Ethanol", "Methane", "Hydrogen"],
     "correctAnswer": "Ethanol"
   },
   {
+    "id": 7,
+    "question": "What is the primary industry in states like Andhra Pradesh that relies on the allocation of ethanol supply for blending programs?",
+    "options": ["Textile mills", "Sugar mills/distilleries", "Cement factories", "Pharmaceutical companies"],
+    "correctAnswer": "Sugar mills/distilleries"
+  },
+  {
     "id": 8,
-    "question": "What is the primary use of ethanol that makes its supply allocation a matter of national importance in India, including states like Andhra Pradesh and Telangana?",
-    "options": ["As a primary cooking fuel", "For blending with petrol to reduce emissions and crude oil imports", "In pharmaceutical manufacturing only", "As a construction material"],
-    "correctAnswer": "For blending with petrol to reduce emissions and crude oil imports"
+    "question": "The Supreme Court's decision on ethanol supply allocation would directly affect the operations of which type of plants in Telangana?",
+    "options": ["Solar power plants", "Ethanol-producing distilleries", "Steel manufacturing units", "IT service centers"],
+    "correctAnswer": "Ethanol-producing distilleries"
   },
   {
     "id": 9,
-    "question": "The Supreme Court's order on ethanol supply would have implications for which industry, often present in agricultural states like Telangana and Andhra Pradesh?",
-    "options": ["Textile industry", "Sugar industry (for ethanol production)", "Software development", "Tourism industry"],
-    "correctAnswer": "Sugar industry (for ethanol production)"
+    "question": "The term 'status quo' in the Supreme Court's order regarding ethanol allocation implies what for states like Andhra Pradesh?",
+    "options": ["A complete halt in supply", "An increase in allocation", "Maintain the existing situation", "A new allocation policy"],
+    "correctAnswer": "Maintain the existing situation"
   },
   {
     "id": 10,
-    "question": "The status quo order by the Supreme Court regarding ethanol supply suggests intervention in which aspect of national policy?",
-    "options": ["Foreign trade agreements", "Biofuel policy and energy security", "Digital currency regulations", "Space exploration initiatives"],
-    "correctAnswer": "Biofuel policy and energy security"
+    "question": "What is the broader energy initiative in India, which ethanol blending supports, and is relevant to states like Telangana?",
+    "options": ["Solar Mission", "Hydrogen Fuel Program", "Ethanol Blended Petrol (EBP) program", "Electric Vehicle Promotion"],
+    "correctAnswer": "Ethanol Blended Petrol (EBP) program"
   },
   {
     "id": 11,
-    "question": "Which of the following topics dominated PM Modi’s recent meeting with secretaries, according to the news?",
-    "options": ["Space tourism and exploration", "Cybersecurity, AI, and Chinese imports", "Traditional medicine promotion", "Agricultural subsidies for specific crops only"],
-    "correctAnswer": "Cybersecurity, AI, and Chinese imports"
+    "question": "The newly launched FCRA portal by Amit Shah will primarily impact which organizations operating in states like Telangana and Andhra Pradesh?",
+    "options": ["Public Sector Undertakings", "Government Departments", "NGOs/Associations receiving foreign funds", "Micro, Small and Medium Enterprises (MSMEs)"],
+    "correctAnswer": "NGOs/Associations receiving foreign funds"
   },
   {
     "id": 12,
-    "question": "Given its status as an IT hub, which of the discussed topics in PM Modi's meeting is particularly pertinent to Telangana?",
-    "options": ["Chinese imports exclusively", "Cybersecurity and Artificial Intelligence", "Only agricultural reforms", "Space tourism policy"],
-    "correctAnswer": "Cybersecurity and Artificial Intelligence"
+    "question": "What does FCRA stand for, a regulation recently updated with a new portal, affecting foreign funding for entities in India, including Andhra Pradesh?",
+    "options": ["Foreign Currency Regulatory Act", "Financial Crime Reporting Act", "Foreign Contribution (Regulation) Act", "Federal Customs Revenue Act"],
+    "correctAnswer": "Foreign Contribution (Regulation) Act"
   },
   {
     "id": 13,
-    "question": "The discussion on Chinese imports during the PM's meeting suggests a national focus on what economic aspect, impacting states like Andhra Pradesh and Telangana?",
-    "options": ["Promoting free trade agreements without restrictions", "Enhancing domestic manufacturing and reducing import dependence", "Increasing reliance on single-country imports", "Ignoring trade deficits"],
-    "correctAnswer": "Enhancing domestic manufacturing and reducing import dependence"
+    "question": "The e-OCI card, also launched, is beneficial for which group of people, many of whom trace their origins to Telangana and Andhra Pradesh?",
+    "options": ["Foreign tourists", "Indian expatriate workers", "Overseas Citizens of India", "Asylum seekers"],
+    "correctAnswer": "Overseas Citizens of India"
   },
   {
     "id": 14,
-    "question": "What is one key reason why discussions on Artificial Intelligence (AI) are important for states like Telangana and Andhra Pradesh?",
-    "options": ["To limit technological advancements", "To ensure regional monopolies in AI development", "To foster innovation, create jobs, and enhance governance through technology", "To discourage foreign investment in tech"],
-    "correctAnswer": "To foster innovation, create jobs, and enhance governance through technology"
+    "question": "What is the primary benefit of the e-OCI card for individuals from states like Andhra Pradesh living abroad?",
+    "options": ["Automatic Indian citizenship", "Voting rights in Indian elections", "Easier travel/stay in India without a visa", "Tax exemption on foreign income"],
+    "correctAnswer": "Easier travel/stay in India without a visa"
   },
   {
     "id": 15,
-    "question": "The PM's meeting with secretaries is indicative of discussions on what level of policy-making in India?",
-    "options": ["Local municipal bylaws", "State-specific legislative acts", "National policy and governance strategies", "International sports regulations"],
-    "correctAnswer": "National policy and governance strategies"
+    "question": "The Foreign Contribution (Regulation) Act (FCRA) aims to regulate what in India, including funds flowing to organizations in Telangana?",
+    "options": ["Domestic trade agreements", "Foreign donations/contributions", "Internal financial transactions", "Local government grants"],
+    "correctAnswer": "Foreign donations/contributions"
   },
   {
     "id": 16,
-    "question": "What new national body has the government recently set up to improve road safety?",
-    "options": ["Indian Highways Authority", "National Transport Council", "National Road Safety Board", "Central Traffic Management Committee"],
-    "correctAnswer": "National Road Safety Board"
+    "question": "A National Road Safety Board has been established. What is its main objective, relevant to reducing accidents in states like Telangana and Andhra Pradesh?",
+    "options": ["Promoting private car ownership", "Improving road safety", "Developing new highway designs", "Regulating vehicle manufacturing"],
+    "correctAnswer": "Improving road safety"
   },
   {
     "id": 17,
-    "question": "Who has been appointed to head the newly established National Road Safety Board?",
-    "options": ["Ajay Bhalla", "Nitin Gokarn", "Rajnath Singh", "Piyush Goyal"],
+    "question": "Who has been appointed to head the newly formed National Road Safety Board, whose work will benefit all states including Andhra Pradesh?",
+    "options": ["Ajay Bhalla", "Nitin Gokarn", "P.K. Mishra", "Girish Chandra Murmu"],
     "correctAnswer": "Nitin Gokarn"
   },
   {
     "id": 18,
-    "question": "What is the primary objective of the National Road Safety Board?",
-    "options": ["To promote private vehicle sales", "To oversee the construction of new flyovers only", "To enhance road safety across the country through policy and regulation", "To manage national highway tolls"],
-    "correctAnswer": "To enhance road safety across the country through policy and regulation"
+    "question": "The establishment of the National Road Safety Board indicates the government's focus on addressing which issue prevalent across India, including Telangana's highways?",
+    "options": ["Traffic congestion", "Road accidents/fatalities", "Parking problems", "Toll collection efficiency"],
+    "correctAnswer": "Road accidents/fatalities"
   },
   {
     "id": 19,
-    "question": "Policies formulated by the National Road Safety Board will directly influence road safety initiatives in which states?",
-    "options": ["Only metropolitan cities", "Only North Eastern states", "All states and Union Territories, including Andhra Pradesh and Telangana", "Only states with national parks"],
-    "correctAnswer": "All states and Union Territories, including Andhra Pradesh and Telangana"
+    "question": "What kind of guidelines or policies is the National Road Safety Board expected to formulate, impacting vehicle users in Andhra Pradesh?",
+    "options": ["Vehicle export policies", "Road safety regulations/standards", "Public transport fare structures", "Fuel pricing policies"],
+    "correctAnswer": "Road safety regulations/standards"
   },
   {
     "id": 20,
-    "question": "The establishment of the National Road Safety Board is expected to address issues such as road accident fatalities and traffic management, which are pressing concerns in states like Andhra Pradesh and Telangana. What is its scope?",
-    "options": ["Limited to rural roads only", "Exclusively for national highways", "Pan-India, covering urban, rural, and highway safety", "Only for vehicle manufacturing standards"],
-    "correctAnswer": "Pan-India, covering urban, rural, and highway safety"
+    "question": "The National Road Safety Board is an initiative at what level of government, aiming to standardize road safety measures across states like Telangana?",
+    "options": ["District", "State", "Municipal", "National/Central"],
+    "correctAnswer": "National/Central"
   },
   {
     "id": 21,
-    "question": "Cybersecurity rules are proposed for what specific category of vehicles to prevent malware risks?",
-    "options": ["Vintage cars", "Public transport buses only", "Smart vehicles", "Two-wheelers"],
-    "correctAnswer": "Smart vehicles"
+    "question": "Which major crop in Telangana and Andhra Pradesh is most susceptible to delays or deficiencies in the monsoon rainfall during the Kharif season?",
+    "options": ["Wheat", "Sugarcane", "Paddy (Rice)", "Cotton"],
+    "correctAnswer": "Paddy (Rice)"
   },
   {
     "id": 22,
-    "question": "Why are new cybersecurity rules being proposed for smart vehicles?",
-    "options": ["To increase the cost of vehicles", "To prevent malware risks and data breaches", "To standardize vehicle color options", "To make vehicles slower"],
-    "correctAnswer": "To prevent malware risks and data breaches"
+    "question": "The ethanol blending program, impacted by the SC's order, aims to reduce India's reliance on the import of what commodity, benefiting states like Andhra Pradesh by potentially boosting local agriculture?",
+    "options": ["Coal", "Natural Gas", "Crude oil", "Gold"],
+    "correctAnswer": "Crude oil"
   },
   {
     "id": 23,
-    "question": "The development and implementation of cybersecurity rules for smart vehicles are particularly relevant for states with a growing automotive and technology sector. Which Indian state has a significant presence in both?",
-    "options": ["Bihar", "Madhya Pradesh", "Telangana", "Goa"],
-    "correctAnswer": "Telangana"
+    "question": "Beyond regulatory oversight, the new FCRA portal aims to bring greater what to the process of managing foreign contributions, a concern for NGOs in Telangana?",
+    "options": ["Secrecy", "Complexity", "Transparency/Accountability", "Bureaucracy"],
+    "correctAnswer": "Transparency/Accountability"
   },
   {
     "id": 24,
-    "question": "PM Modi emphasized the importance of 'free navigation' in which international waterway during his call with the Iranian President?",
-    "options": ["Suez Canal", "Strait of Hormuz", "Panama Canal", "Malacca Strait"],
-    "correctAnswer": "Strait of Hormuz"
+    "question": "The Supreme Court, which issued orders concerning ethanol allocation, is the highest judicial body in India. What is its overarching role in ensuring legal compliance across states, including Telangana and Andhra Pradesh?",
+    "options": ["Issuing passports", "Regulating stock markets", "Upholding the Constitution/Interpreting laws", "Managing national defense"],
+    "correctAnswer": "Upholding the Constitution/Interpreting laws"
   },
   {
     "id": 25,
-    "question": "The national discussions on cybersecurity, AI, and road safety, led by the central government, aim to foster overall development and citizen welfare. What is the fundamental impact of such national policies on states like Andhra Pradesh and Telangana?",
-    "options": ["They have no bearing on state-level development", "They primarily introduce new taxes", "They set a framework and provide resources for state-level implementation and growth", "They exclusively benefit urban areas"],
-    "correctAnswer": "They set a framework and provide resources for state-level implementation and growth"
+    "question": "In the context of national policies, what is the key role of the Indian Meteorological Department (IMD) in providing data critical for disaster preparedness in coastal states like Andhra Pradesh?",
+    "options": ["Economic forecasting", "Earthquake prediction", "Weather forecasting/Early warning systems", "Volcanic activity monitoring"],
+    "correctAnswer": "Weather forecasting/Early warning systems"
   }
 ]

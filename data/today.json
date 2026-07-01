@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which agency is responsible for forecasting monsoon patterns in India, a crucial function for agricultural states like Telangana and Andhra Pradesh?",
-    "options": ["National Disaster Management Authority (NDMA)", "Indian Space Research Organisation (ISRO)", "Indian Meteorological Department (IMD)", "Central Water Commission (CWC)"],
-    "correctAnswer": "Indian Meteorological Department (IMD)"
+    "question": "What is the primary subject of the alleged scam being investigated by a Special Investigation Team (SIT) in India?",
+    "options": ["Defense contracts", "Ram Mandir donations", "Public land allocation", "Electoral bonds"],
+    "correctAnswer": "Ram Mandir donations"
   },
   {
     "id": 2,
-    "question": "According to the IMD's latest forecast, what is the likely monsoon condition for July, which could impact agriculture in Andhra Pradesh and Telangana?",
-    "options": ["Above-normal", "Normal", "Below-normal", "Excessive"],
-    "correctAnswer": "Below-normal"
+    "question": "Which body has been granted an extension to probe the alleged financial irregularities in the Ram Mandir donation case?",
+    "options": ["CBI", "ED", "SIT", "NIA"],
+    "correctAnswer": "SIT"
   },
   {
     "id": 3,
-    "question": "A below-normal monsoon forecast for July, as per IMD, would primarily affect which sector in agricultural states like Telangana?",
-    "options": ["Information Technology", "Manufacturing", "Tourism", "Agriculture"],
-    "correctAnswer": "Agriculture"
+    "question": "How long was the extension granted to the Special Investigation Team (SIT) for its inquiry into the Ram Mandir donation case?",
+    "options": ["7 days", "10 days", "15 days", "30 days"],
+    "correctAnswer": "15 days"
   },
   {
     "id": 4,
-    "question": "What potential consequence could a below-normal monsoon in July have for water reservoirs in states like Andhra Pradesh?",
-    "options": ["Increased water levels", "No significant impact", "Reduced water levels", "Improved hydropower generation"],
-    "correctAnswer": "Reduced water levels"
+    "question": "In the context of the Ram Mandir donation case, who among the following were reported to have resigned taking moral responsibility?",
+    "options": ["Champat Rai and Anil Mishra", "Arvind Kejriwal and Sagarika Ghose", "Rakesh Chauhan and Rekha Gupta", "Vijay and Stalin"],
+    "correctAnswer": "Champat Rai and Anil Mishra"
   },
   {
     "id": 5,
-    "question": "Farmers in Telangana, planning for the Kharif season, would be most concerned about which weather forecast in July?",
-    "options": ["Heatwave conditions", "Heavy snowfall", "Below-normal monsoon", "Dust storms"],
-    "correctAnswer": "Below-normal monsoon"
+    "question": "Where is the Ram Mandir, related to the ongoing donation scam investigation, located?",
+    "options": ["Varanasi", "Mathura", "Ayodhya", "Kashi"],
+    "correctAnswer": "Ayodhya"
   },
   {
     "id": 6,
-    "question": "The Supreme Court recently ordered a status quo on the allocation of which key biofuel component, impacting industries in states like Telangana and Andhra Pradesh?",
-    "options": ["Biodiesel", "Ethanol", "Methane", "Hydrogen"],
-    "correctAnswer": "Ethanol"
+    "question": "An Indian seafarer, Rakesh Chauhan, died in Venezuela. What grave allegations were made by his family regarding his body upon its return to India?",
+    "options": ["He was cremated without family consent", "He was misidentified", "Vital organs were missing", "He was illegally detained"],
+    "correctAnswer": "Vital organs were missing"
   },
   {
     "id": 7,
-    "question": "What is the primary industry in states like Andhra Pradesh that relies on the allocation of ethanol supply for blending programs?",
-    "options": ["Textile mills", "Sugar mills/distilleries", "Cement factories", "Pharmaceutical companies"],
-    "correctAnswer": "Sugar mills/distilleries"
+    "question": "Which organs were specifically alleged to be missing from the body of the Indian seafarer Rakesh Chauhan, who died in Venezuela?",
+    "options": ["Kidneys, pancreas, stomach, spleen", "Brain, heart, lungs, liver", "Eyes, ears, nose, tongue", "Hands, feet, arms, legs"],
+    "correctAnswer": "Brain, heart, lungs, liver"
   },
   {
     "id": 8,
-    "question": "The Supreme Court's decision on ethanol supply allocation would directly affect the operations of which type of plants in Telangana?",
-    "options": ["Solar power plants", "Ethanol-producing distilleries", "Steel manufacturing units", "IT service centers"],
-    "correctAnswer": "Ethanol-producing distilleries"
+    "question": "What action is the seafarers' union demanding following the suspicious death of Rakesh Chauhan in Venezuela?",
+    "options": ["A new passport", "An immediate promotion", "A thorough investigation and Indian Embassy intervention", "A state funeral"],
+    "correctAnswer": "A thorough investigation and Indian Embassy intervention"
   },
   {
     "id": 9,
-    "question": "The term 'status quo' in the Supreme Court's order regarding ethanol allocation implies what for states like Andhra Pradesh?",
-    "options": ["A complete halt in supply", "An increase in allocation", "Maintain the existing situation", "A new allocation policy"],
-    "correctAnswer": "Maintain the existing situation"
+    "question": "What country was the Indian seafarer Rakesh Chauhan reported to have died in?",
+    "options": ["Colombia", "Brazil", "Venezuela", "Argentina"],
+    "correctAnswer": "Venezuela"
   },
   {
     "id": 10,
-    "question": "What is the broader energy initiative in India, which ethanol blending supports, and is relevant to states like Telangana?",
-    "options": ["Solar Mission", "Hydrogen Fuel Program", "Ethanol Blended Petrol (EBP) program", "Electric Vehicle Promotion"],
-    "correctAnswer": "Ethanol Blended Petrol (EBP) program"
+    "question": "Which airline utilized aircraft downtime, caused by fewer Gulf flights, to speed up its fleet retrofit process?",
+    "options": ["IndiGo", "SpiceJet", "Vistara", "AI Express"],
+    "correctAnswer": "AI Express"
   },
   {
     "id": 11,
-    "question": "The newly launched FCRA portal by Amit Shah will primarily impact which organizations operating in states like Telangana and Andhra Pradesh?",
-    "options": ["Public Sector Undertakings", "Government Departments", "NGOs/Associations receiving foreign funds", "Micro, Small and Medium Enterprises (MSMEs)"],
-    "correctAnswer": "NGOs/Associations receiving foreign funds"
+    "question": "What was the primary reason cited for AI Express having aircraft downtime, which they then used for fleet retrofit?",
+    "options": ["Pilot strike", "Maintenance issues", "Fewer Gulf flights", "Government regulations"],
+    "correctAnswer": "Fewer Gulf flights"
   },
   {
     "id": 12,
-    "question": "What does FCRA stand for, a regulation recently updated with a new portal, affecting foreign funding for entities in India, including Andhra Pradesh?",
-    "options": ["Foreign Currency Regulatory Act", "Financial Crime Reporting Act", "Foreign Contribution (Regulation) Act", "Federal Customs Revenue Act"],
-    "correctAnswer": "Foreign Contribution (Regulation) Act"
+    "question": "What process did AI Express accelerate during a period of reduced flight operations?",
+    "options": ["Pilot training", "Route expansion", "Fleet retrofit", "Ticket sales"],
+    "correctAnswer": "Fleet retrofit"
   },
   {
     "id": 13,
-    "question": "The e-OCI card, also launched, is beneficial for which group of people, many of whom trace their origins to Telangana and Andhra Pradesh?",
-    "options": ["Foreign tourists", "Indian expatriate workers", "Overseas Citizens of India", "Asylum seekers"],
-    "correctAnswer": "Overseas Citizens of India"
+    "question": "What new policy stance has the Indian government adopted regarding messaging platforms and financial fraud?",
+    "options": ["Platforms will be banned if fraud occurs", "Platforms will be held responsible if new features create room for fraud", "Users will be held solely responsible for fraud", "Government will monitor all private messages"],
+    "correctAnswer": "Platforms will be held responsible if new features create room for fraud"
   },
   {
     "id": 14,
-    "question": "What is the primary benefit of the e-OCI card for individuals from states like Andhra Pradesh living abroad?",
-    "options": ["Automatic Indian citizenship", "Voting rights in Indian elections", "Easier travel/stay in India without a visa", "Tax exemption on foreign income"],
-    "correctAnswer": "Easier travel/stay in India without a visa"
+    "question": "As public services in India go digital, what has been identified by the Indian government as a top priority?",
+    "options": ["Network speed", "Data storage", "Cybersecurity", "Device affordability"],
+    "correctAnswer": "Cybersecurity"
   },
   {
     "id": 15,
-    "question": "The Foreign Contribution (Regulation) Act (FCRA) aims to regulate what in India, including funds flowing to organizations in Telangana?",
-    "options": ["Domestic trade agreements", "Foreign donations/contributions", "Internal financial transactions", "Local government grants"],
-    "correctAnswer": "Foreign donations/contributions"
+    "question": "What specific event was mentioned as a recent concern highlighting cybersecurity risks, leading to actions against Telegram?",
+    "options": ["UPSC examination leak", "JEE Main cheating scandal", "NEET-UG reexamination", "CLAT admissions fraud"],
+    "correctAnswer": "NEET-UG reexamination"
   },
   {
     "id": 16,
-    "question": "A National Road Safety Board has been established. What is its main objective, relevant to reducing accidents in states like Telangana and Andhra Pradesh?",
-    "options": ["Promoting private car ownership", "Improving road safety", "Developing new highway designs", "Regulating vehicle manufacturing"],
-    "correctAnswer": "Improving road safety"
+    "question": "What does the Indian government emphasize regarding cybersecurity for messaging platforms, beyond mere assurances?",
+    "options": ["User privacy", "Outcomes", "Encryption standards", "International collaboration"],
+    "correctAnswer": "Outcomes"
   },
   {
     "id": 17,
-    "question": "Who has been appointed to head the newly formed National Road Safety Board, whose work will benefit all states including Andhra Pradesh?",
-    "options": ["Ajay Bhalla", "Nitin Gokarn", "P.K. Mishra", "Girish Chandra Murmu"],
-    "correctAnswer": "Nitin Gokarn"
+    "question": "Which specific drug, manufactured by Themis, have doctors nationwide in India been urged to stop using for spinal anaesthesia?",
+    "options": ["Paracetamol", "Ibuprofen", "Bupivacaine", "Lidocaine"],
+    "correctAnswer": "Bupivacaine"
   },
   {
     "id": 18,
-    "question": "The establishment of the National Road Safety Board indicates the government's focus on addressing which issue prevalent across India, including Telangana's highways?",
-    "options": ["Traffic congestion", "Road accidents/fatalities", "Parking problems", "Toll collection efficiency"],
-    "correctAnswer": "Road accidents/fatalities"
+    "question": "Which organization issued an urgent advisory to anaesthesiologists in India to halt the use of a specific spinal anaesthesia drug?",
+    "options": ["Indian Medical Association (IMA)", "All India Institute of Medical Sciences (AIIMS)", "Indian Society of Anaesthesiologists (ISA)", "National Medical Commission (NMC)"],
+    "correctAnswer": "Indian Society of Anaesthesiologists (ISA)"
   },
   {
     "id": 19,
-    "question": "What kind of guidelines or policies is the National Road Safety Board expected to formulate, impacting vehicle users in Andhra Pradesh?",
-    "options": ["Vehicle export policies", "Road safety regulations/standards", "Public transport fare structures", "Fuel pricing policies"],
-    "correctAnswer": "Road safety regulations/standards"
+    "question": "What primary reason prompted the urgent advisory to stop using Themis-manufactured bupivacaine for spinal anaesthesia?",
+    "options": ["High cost", "Shortage of supply", "Reports of serious adverse events", "Lack of proper storage facilities"],
+    "correctAnswer": "Reports of serious adverse events"
   },
   {
     "id": 20,
-    "question": "The National Road Safety Board is an initiative at what level of government, aiming to standardize road safety measures across states like Telangana?",
-    "options": ["District", "State", "Municipal", "National/Central"],
-    "correctAnswer": "National/Central"
+    "question": "What action are hospitals across India instructed to take regarding existing stocks of Themis-manufactured bupivacaine?",
+    "options": ["Donate to other hospitals", "Sell at a discounted rate", "Segregate and withdraw", "Continue using until expiry"],
+    "correctAnswer": "Segregate and withdraw"
   },
   {
     "id": 21,
-    "question": "Which major crop in Telangana and Andhra Pradesh is most susceptible to delays or deficiencies in the monsoon rainfall during the Kharif season?",
-    "options": ["Wheat", "Sugarcane", "Paddy (Rice)", "Cotton"],
-    "correctAnswer": "Paddy (Rice)"
+    "question": "In light of the advisory on Themis bupivacaine, what alternative action are hospitals in India advised to take for spinal anaesthesia?",
+    "options": ["Stop performing spinal anaesthesia", "Switch to oral medication", "Switch to alternative brands of bupivacaine", "Use imported drugs only"],
+    "correctAnswer": "Switch to alternative brands of bupivacaine"
   },
   {
     "id": 22,
-    "question": "The ethanol blending program, impacted by the SC's order, aims to reduce India's reliance on the import of what commodity, benefiting states like Andhra Pradesh by potentially boosting local agriculture?",
-    "options": ["Coal", "Natural Gas", "Crude oil", "Gold"],
-    "correctAnswer": "Crude oil"
+    "question": "Who initially claimed that the Ram Mandir donation scam involved a 'sham SIT and bogus FIR'?",
+    "options": ["Congress party", "TMC", "Aam Aadmi Party (AAP) leader Arvind Kejriwal", "BJP"],
+    "correctAnswer": "Aam Aadmi Party (AAP) leader Arvind Kejriwal"
   },
   {
     "id": 23,
-    "question": "Beyond regulatory oversight, the new FCRA portal aims to bring greater what to the process of managing foreign contributions, a concern for NGOs in Telangana?",
-    "options": ["Secrecy", "Complexity", "Transparency/Accountability", "Bureaucracy"],
-    "correctAnswer": "Transparency/Accountability"
+    "question": "For the family of the Indian seafarer Rakesh Chauhan, besides a thorough investigation, what else is being sought from the Indian Embassy?",
+    "options": ["A new job", "Financial compensation", "A diplomatic passport", "Travel assistance"],
+    "correctAnswer": "Financial compensation"
   },
   {
     "id": 24,
-    "question": "The Supreme Court, which issued orders concerning ethanol allocation, is the highest judicial body in India. What is its overarching role in ensuring legal compliance across states, including Telangana and Andhra Pradesh?",
-    "options": ["Issuing passports", "Regulating stock markets", "Upholding the Constitution/Interpreting laws", "Managing national defense"],
-    "correctAnswer": "Upholding the Constitution/Interpreting laws"
+    "question": "The Indian government's emphasis on cybersecurity aims to protect public services, especially as they undergo what transformation?",
+    "options": ["Privatization", "Internationalization", "Digitalization", "Centralization"],
+    "correctAnswer": "Digitalization"
   },
   {
     "id": 25,
-    "question": "In the context of national policies, what is the key role of the Indian Meteorological Department (IMD) in providing data critical for disaster preparedness in coastal states like Andhra Pradesh?",
-    "options": ["Economic forecasting", "Earthquake prediction", "Weather forecasting/Early warning systems", "Volcanic activity monitoring"],
-    "correctAnswer": "Weather forecasting/Early warning systems"
+    "question": "The Uttar Pradesh police are conducting a high-intensity investigation into financial irregularities related to the Ram Mandir donations. What is the overall goal of this probe?",
+    "options": ["To find new donors", "To expand the temple premises", "To reach a fair conclusion", "To speed up construction"],
+    "correctAnswer": "To reach a fair conclusion"
   }
 ]

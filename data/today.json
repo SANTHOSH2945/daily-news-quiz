@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "When are the Re-NEET UG results expected to be declared by the National Testing Agency?",
-    "options": ["July 15", "July 20", "August 1", "August 10"],
-    "correctAnswer": "July 20"
+    "question": "Which national space agency's headquarters recently faced a bomb threat email, leading to evacuation?",
+    "options": ["DRDO", "ISRO", "BARC", "HAL"],
+    "correctAnswer": "ISRO"
   },
   {
     "id": 2,
-    "question": "What is the primary purpose of the NEET UG examination for students in states like Telangana and Andhra Pradesh?",
-    "options": ["Engineering admissions", "Law admissions", "Medical (MBBS) admissions", "Business administration admissions"],
-    "correctAnswer": "Medical (MBBS) admissions"
+    "question": "Where is ISRO's primary satellite launch center, Satish Dhawan Space Centre (SDSC) SHAR, located?",
+    "options": ["Bengaluru", "Thiruvananthapuram", "Hyderabad", "Sriharikota"],
+    "correctAnswer": "Sriharikota"
   },
   {
     "id": 3,
-    "question": "What was the primary reason cited for the recent re-examination of NEET UG?",
-    "options": ["Technical glitches", "Low pass rates", "Paper leak", "Administrative error"],
-    "correctAnswer": "Paper leak"
+    "question": "Sriharikota, home to ISRO's main launch facility, is situated in which Indian state?",
+    "options": ["Karnataka", "Kerala", "Andhra Pradesh", "Telangana"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 4,
-    "question": "Despite the re-examination, the National Testing Agency aims for the academic year for MBBS students to begin by which approximate timeframe?",
-    "options": ["October-November", "December-January", "August-September", "June-July"],
-    "correctAnswer": "August-September"
+    "question": "Which major ISRO facility, crucial for remote sensing applications, is located in Hyderabad, Telangana?",
+    "options": ["VSSC", "NRSC", "SAC", "IIRS"],
+    "correctAnswer": "NRSC"
   },
   {
     "id": 5,
-    "question": "Approximately how many challenges were received for the provisional answer key of NEET UG?",
-    "options": ["Over 1,000", "Over 5,000", "Over 10,000", "Over 20,000"],
-    "correctAnswer": "Over 10,000"
+    "question": "What was the nature of the recent security threat received by ISRO headquarters?",
+    "options": ["Physical sabotage", "Cyberattack", "Bomb threat email", "Protest demonstration"],
+    "correctAnswer": "Bomb threat email"
   },
   {
     "id": 6,
-    "question": "According to experts, what is India's primary need to improve access to new cancer therapies?",
-    "options": ["More private hospitals", "A national strategy", "Increased foreign aid", "Reduced patient population"],
-    "correctAnswer": "A national strategy"
+    "question": "Although ISRO HQ is in Bengaluru, why is its security concern relevant to Telangana and Andhra Pradesh?",
+    "options": ["Only for funding", "No relevance", "Major ISRO centers like NRSC (Telangana) and SHAR (AP) are critical operational hubs", "All ISRO staff are from these states"],
+    "correctAnswer": "Major ISRO centers like NRSC (Telangana) and SHAR (AP) are critical operational hubs"
   },
   {
     "id": 7,
-    "question": "Which organization was mentioned as having organized the media roundtable on 'Bridging Innovation and Affordability in Cancer Care'?",
-    "options": ["National Cancer Institute", "Indian Medical Association", "Indian Cancer Society (ICS)", "Apollo Hospitals"],
-    "correctAnswer": "Indian Cancer Society (ICS)"
+    "question": "Which major command of the Indian Navy has its headquarters in Visakhapatnam, Andhra Pradesh?",
+    "options": ["Western Naval Command", "Southern Naval Command", "Eastern Naval Command", "Andaman & Nicobar Command"],
+    "correctAnswer": "Eastern Naval Command"
   },
   {
     "id": 8,
-    "question": "Which of the following is NOT listed as a reason for limited access to advanced cancer treatment in India?",
-    "options": ["High costs", "Adequate insurance coverage", "Limited diagnostic facilities", "Unequal healthcare infrastructure"],
-    "correctAnswer": "Adequate insurance coverage"
+    "question": "The Indian Navy recently thwarted a piracy bid on MV Golden Arsenal in which international water body?",
+    "options": ["Bay of Bengal", "Arabian Sea", "Gulf of Aden", "South China Sea"],
+    "correctAnswer": "Gulf of Aden"
   },
   {
     "id": 9,
-    "question": "What significant advancement in cancer treatment was highlighted, despite which access remains an issue?",
-    "options": ["New surgical techniques", "Significant advancements in treatment", "Traditional medicine revival", "Telemedicine for diagnosis"],
-    "correctAnswer": "Significant advancements in treatment"
+    "question": "What specialized unit of the Indian Navy was involved in securing the cargo ship MV Golden Arsenal from pirates?",
+    "options": ["Garud Commandos", "Para SF", "MARCOS", "NSG"],
+    "correctAnswer": "MARCOS"
   },
   {
     "id": 10,
-    "question": "Besides high costs, what other infrastructural challenge was noted for limited access to cancer therapies?",
-    "options": ["Lack of research funding", "Limited diagnostic facilities", "Shortage of general practitioners", "Overpopulation"],
-    "correctAnswer": "Limited diagnostic facilities"
+    "question": "Which Indian Naval Ship (INS) successfully responded to the distress call and foiled the piracy attempt?",
+    "options": ["INS Vikrant", "INS Arihant", "INS Trikand", "INS Kolkata"],
+    "correctAnswer": "INS Trikand"
   },
   {
     "id": 11,
-    "question": "Which Indian court recently warned against the unchecked use of AI in legal proceedings?",
-    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court", "Madras High Court"],
-    "correctAnswer": "Supreme Court"
+    "question": "The protection of merchant vessels by the Indian Navy is crucial for India's maritime trade, impacting which sector that benefits states like Andhra Pradesh and Telangana?",
+    "options": ["Agriculture", "Tourism", "Exports and Imports of goods", "IT Services"],
+    "correctAnswer": "Exports and Imports of goods"
   },
   {
     "id": 12,
-    "question": "Which specific body was cited for using AI to refer to fake cases in court proceedings?",
-    "options": ["High Courts", "District Courts", "NCLT", "Consumer Forums"],
-    "correctAnswer": "NCLT"
+    "question": "Which crude oil tanker, carrying a critical consignment for India, recently docked safely at Paradip Port after facing hostilities?",
+    "options": ["MT Suezmax", "MT Sanmar Herald", "MT Mumbai Spirit", "MT Deccan Pride"],
+    "correctAnswer": "MT Sanmar Herald"
   },
   {
     "id": 13,
-    "question": "What was the Supreme Court's primary concern regarding AI use in courts?",
-    "options": ["Data storage", "Unchecked use", "Cost implications", "Speed of proceedings"],
-    "correctAnswer": "Unchecked use"
+    "question": "The MT Sanmar Herald endured shrapnel damage near which strategically important strait known for oil transit?",
+    "options": ["Strait of Malacca", "Strait of Gibraltar", "Strait of Hormuz", "Bab-el-Mandeb Strait"],
+    "correctAnswer": "Strait of Hormuz"
   },
   {
     "id": 14,
-    "question": "The incident regarding AI use in courts highlights a risk of citing what kind of cases?",
-    "options": ["Landmark cases", "International cases", "Fake cases", "Historical cases"],
-    "correctAnswer": "Fake cases"
+    "question": "Paradip Port, the destination of the MT Sanmar Herald, is located in which Indian state?",
+    "options": ["West Bengal", "Andhra Pradesh", "Odisha", "Tamil Nadu"],
+    "correctAnswer": "Odisha"
   },
   {
     "id": 15,
-    "question": "The Supreme Court's warning on AI has implications for the judicial system across all Indian states, including Telangana and Andhra Pradesh, regarding which aspect?",
-    "options": ["Case filing fees", "Technology adoption guidelines", "Judicial appointments", "Court vacations"],
-    "correctAnswer": "Technology adoption guidelines"
+    "question": "Why is the safe passage of oil tankers, like the MT Sanmar Herald, vital for the Indian economy, including states like Telangana and Andhra Pradesh?",
+    "options": ["Only for tourism", "Primarily for defense", "To ensure uninterrupted supply of crude oil for energy needs", "To export agricultural products"],
+    "correctAnswer": "To ensure uninterrupted supply of crude oil for energy needs"
   },
   {
     "id": 16,
-    "question": "What new feature is WhatsApp clarifying amidst safety concerns from the Indian government?",
-    "options": ["Group calling", "Status updates", "Username", "End-to-end encryption"],
-    "correctAnswer": "Username"
+    "question": "From which country did the MT Sanmar Herald begin its perilous journey with crude oil for India?",
+    "options": ["Iran", "Saudi Arabia", "UAE", "Iraq"],
+    "correctAnswer": "Iraq"
   },
   {
     "id": 17,
-    "question": "The Indian government has expressed concerns about the WhatsApp Username feature primarily due to potential risks of what?",
-    "options": ["Data overload", "Network congestion", "Scams and identity spoofing", "App crashes"],
-    "correctAnswer": "Scams and identity spoofing"
+    "question": "The Indian space program, spearheaded by ISRO, contributes significantly to various sectors. Which of the following is a key application that benefits states like Telangana and Andhra Pradesh?",
+    "options": ["Only military operations", "Space tourism", "Weather forecasting and disaster management", "International space station construction"],
+    "correctAnswer": "Weather forecasting and disaster management"
   },
   {
     "id": 18,
-    "question": "What has the Indian government asked Meta to do regarding the rollout of the new Username feature?",
-    "options": ["Accelerate rollout", "Halt rollout until consultations are complete", "Charge for usernames", "Make usernames mandatory"],
-    "correctAnswer": "Halt rollout until consultations are complete"
+    "question": "The Indian Navy's role in protecting critical consignments is essential for maintaining economic stability. How does this indirectly benefit states like Telangana and Andhra Pradesh, which are not entirely coastal?",
+    "options": ["By providing direct port jobs", "It doesn't benefit them", "By ensuring smooth supply chains for raw materials and finished goods nationwide", "By attracting foreign investment to naval bases"],
+    "correctAnswer": "By ensuring smooth supply chains for raw materials and finished goods nationwide"
   },
   {
     "id": 19,
-    "question": "WhatsApp clarified that its new Username feature will be what in terms of searchability?",
-    "options": ["Publicly searchable", "Searchable only by contacts", "Not publicly searchable", "Searchable through third-party apps"],
-    "correctAnswer": "Not publicly searchable"
+    "question": "Given the importance of crude oil imports for India's energy security, what kind of industries in Telangana and Andhra Pradesh are heavily reliant on stable fuel prices?",
+    "options": ["Only fishing industry", "Agriculture and manufacturing", "Software development", "Media and entertainment"],
+    "correctAnswer": "Agriculture and manufacturing"
   },
   {
     "id": 20,
-    "question": "According to WhatsApp's clarification, who are existing popular names for usernames reserved for?",
-    "options": ["First-come, first-served users", "Celebrities", "Legitimate owners", "Business accounts only"],
-    "correctAnswer": "Legitimate owners"
+    "question": "The incident of the bomb threat at ISRO highlights the importance of national security infrastructure for scientific organizations. Why is maintaining robust security for such institutions vital for India's progress, including its southern states?",
+    "options": ["To prevent international espionage only", "To protect critical national assets and ensure continuity of research and development", "To reduce travel time for scientists", "To control public access to space data"],
+    "correctAnswer": "To protect critical national assets and ensure continuity of research and development"
   },
   {
     "id": 21,
-    "question": "Which monsoon system recently arrived in India, bringing heavy rain?",
-    "options": ["Northeast monsoon", "Southwest monsoon", "Retreating monsoon", "Winter monsoon"],
-    "correctAnswer": "Southwest monsoon"
+    "question": "The news of the Indian Navy foiling a piracy bid reflects India's growing maritime power. This capability helps in securing sea lanes which are crucial for the economy of all Indian states, including landlocked ones like Telangana, by facilitating:",
+    "options": ["Only naval recruitment", "International tourism", "Trade and commerce", "Agricultural subsidies"],
+    "correctAnswer": "Trade and commerce"
   },
   {
     "id": 22,
-    "question": "Which two major Indian cities were specifically mentioned in the headline as experiencing heavy rain upon the monsoon's arrival?",
-    "options": ["Chennai and Bengaluru", "Kolkata and Hyderabad", "Delhi and Mumbai", "Jaipur and Lucknow"],
-    "correctAnswer": "Delhi and Mumbai"
+    "question": "Which of the following is a key function of ISRO, relevant to India's development goals and indirectly benefiting states like Telangana and Andhra Pradesh?",
+    "options": ["Manufacturing automobiles", "Space exploration for international colonies", "Launching communication and earth observation satellites", "Building high-speed rail networks"],
+    "correctAnswer": "Launching communication and earth observation satellites"
   },
   {
     "id": 23,
-    "question": "The monsoon is now widespread across which part of India, as per the news?",
-    "options": ["Southern India", "Northeastern India", "Northwest India", "Eastern India"],
-    "correctAnswer": "Northwest India"
+    "question": "The Gulf of Aden, where the recent piracy attempt occurred, is a vital shipping route connecting which two major regions for India's trade?",
+    "options": ["Europe and North America", "East Asia and Australia", "The Middle East/Africa and Europe/Asia", "South America and Africa"],
+    "correctAnswer": "The Middle East/Africa and Europe/Asia"
   },
   {
     "id": 24,
-    "question": "How many days past its usual arrival did the monsoon reach Delhi this year?",
-    "options": ["Two days", "Three days", "Five days", "Seven days"],
-    "correctAnswer": "Five days"
+    "question": "India's reliance on imported crude oil makes it vulnerable to geopolitical events in regions like the Middle East. What is a long-term strategy that states like Telangana and Andhra Pradesh also contribute to, to reduce this vulnerability?",
+    "options": ["Increasing reliance on imported coal", "Developing renewable energy sources", "Halting all industrial activity", "Focusing solely on oil exploration within the states"],
+    "correctAnswer": "Developing renewable energy sources"
   },
   {
     "id": 25,
-    "question": "Besides Maharashtra, which two other states were mentioned as expecting heavy rains due to the monsoon's advance?",
-    "options": ["Karnataka and Kerala", "Uttar Pradesh and Bihar", "Goa and Gujarat", "Punjab and Haryana"],
-    "correctAnswer": "Goa and Gujarat"
+    "question": "The successful docking of the MT Sanmar Herald underscores the professionalism of the Indian merchant marine and maritime authorities. This competence is critical for maintaining India's supply chain resilience, supporting economic activities in all states, including Telangana and Andhra Pradesh, which rely on:",
+    "options": ["Subsidized air travel", "Efficient port infrastructure and shipping services", "Local barter systems", "Exclusive state-level trade agreements"],
+    "correctAnswer": "Efficient port infrastructure and shipping services"
   }
 ]

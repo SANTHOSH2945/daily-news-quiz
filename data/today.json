@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to the recent Supreme Court ruling, under what condition does an accused *not* have the right to claim default bail?",
-    "options": [
-      "If the chargesheet is filed but copies are not provided.",
-      "If the accused fails to appear in court.",
-      "If the crime is of a serious nature.",
-      "If the police investigation is ongoing."
-    ],
-    "correctAnswer": "If the chargesheet is filed but copies are not provided."
+    "question": "As per recent discussions on India's economic trajectory, what is the aspirational target for achieving high-income status?",
+    "options": ["Late 2030s", "Mid 2040s", "Late 2040s", "Early 2050s"],
+    "correctAnswer": "Late 2040s"
   },
   {
     "id": 2,
-    "question": "The Supreme Court clarified that the right to default bail arises only if which specific condition is met?",
-    "options": [
-      "The accused cooperates with the investigation.",
-      "The chargesheet is not filed within the stipulated 60 or 90 days.",
-      "The court orders immediate release.",
-      "The public prosecutor consents to bail."
-    ],
-    "correctAnswer": "The chargesheet is not filed within the stipulated 60 or 90 days."
+    "question": "To achieve its high-income status goal, what sustained annual per capita GDP growth rate is India estimated to require?",
+    "options": ["At least 5%", "At least 7%", "At least 9%", "At least 11%"],
+    "correctAnswer": "At least 9%"
   },
   {
     "id": 3,
-    "question": "Which two Justices delivered the Supreme Court ruling on default bail concerning the provision of chargesheet copies?",
-    "options": [
-      "Justices Chandrachud and Gavai",
-      "Justices Karol and Singh",
-      "Justices Khanna and Misra",
-      "Justices Rao and Bhat"
-    ],
-    "correctAnswer": "Justices Karol and Singh"
+    "question": "Which of the following is identified as a crucial factor for accelerating India's per capita GDP growth towards high-income status?",
+    "options": ["Decreasing foreign trade", "Boosting female workforce participation", "Reducing indigenous technology investment", "Limiting access to credit"],
+    "correctAnswer": "Boosting female workforce participation"
   },
   {
     "id": 4,
-    "question": "What are the statutory timelines mentioned in the Supreme Court's ruling, after which default bail may be claimed if the chargesheet is not filed?",
-    "options": [
-      "30 or 45 days",
-      "60 or 90 days",
-      "90 or 120 days",
-      "15 or 30 days"
-    ],
-    "correctAnswer": "60 or 90 days"
+    "question": "What role does enhancing capital formation through improved credit access play in India's journey to becoming a developed nation, as per recent analysis?",
+    "options": ["It slows down economic growth", "It is a key factor in accelerating growth", "It has no impact on economic development", "It primarily benefits only urban areas"],
+    "correctAnswer": "It is a key factor in accelerating growth"
   },
   {
     "id": 5,
-    "question": "The Supreme Court ruling clarified that the mere non-provision of chargesheet copies within the statutory timeline does not automatically lead to what?",
-    "options": [
-      "A retrial",
-      "A reduced sentence",
-      "The right to default bail",
-      "Dismissal of the case"
-    ],
-    "correctAnswer": "The right to default bail"
+    "question": "According to the news, significant investment in indigenous technology is prioritized for what purpose in India's economic development?",
+    "options": ["To reduce global trade", "To restrict market competition", "To enhance productivity gains", "To decrease overall capital formation"],
+    "correctAnswer": "To enhance productivity gains"
   },
   {
     "id": 6,
-    "question": "A parliamentary panel is finalizing its report on an anti-corruption bill. What significant power does this bill propose regarding top leaders?",
-    "options": [
-      "Automatic removal after 30 days in detention for serious criminal charges.",
-      "A mandatory life sentence for corruption.",
-      "Public impeachment without parliamentary vote.",
-      "Increased immunity from prosecution."
-    ],
-    "correctAnswer": "Automatic removal after 30 days in detention for serious criminal charges."
+    "question": "Which recent controversy primarily triggered the discussions around significant entrance exam reforms in India, impacting students nationwide including those in Telangana and Andhra Pradesh?",
+    "options": ["JEE Main irregularities", "UPSC Civil Services exam delays", "NEET-UG controversy", "CAT exam technical glitches"],
+    "correctAnswer": "NEET-UG controversy"
   },
   {
     "id": 7,
-    "question": "On what date is the parliamentary panel expected to adopt its report on the bill that proposes the automatic removal of top leaders?",
-    "options": [
-      "July 10",
-      "July 12",
-      "July 17",
-      "July 24"
-    ],
-    "correctAnswer": "July 17"
+    "question": "Which government office is currently overseeing the significant exam reforms for board exams and national entrance tests like NEET and JEE?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Prime Minister's Office (PMO)", "Ministry of External Affairs"],
+    "correctAnswer": "Prime Minister's Office (PMO)"
   },
   {
     "id": 8,
-    "question": "What is the primary concern raised by opposition parties regarding the anti-corruption bill that targets PMs and CMs?",
-    "options": [
-      "Lack of public consultation.",
-      "Financial burden on the state.",
-      "Potential for political misuse.",
-      "Inadequate scope of the bill."
-    ],
-    "correctAnswer": "Potential for political misuse."
+    "question": "One of the proposed changes in the revamp of national entrance exams like NEET and JEE includes what new consideration?",
+    "options": ["Eliminating all entrance exams", "Incorporating board marks", "Reducing the number of exam centers", "Increasing exam fees significantly"],
+    "correctAnswer": "Incorporating board marks"
   },
   {
     "id": 9,
-    "question": "The proposed anti-corruption bill considers the automatic removal of top leaders after how many days in detention for serious criminal charges?",
-    "options": [
-      "15 days",
-      "30 days",
-      "60 days",
-      "90 days"
-    ],
-    "correctAnswer": "30 days"
+    "question": "The Education Ministry is fast-tracking changes for board exams and national entrance tests with an aim to reduce the pressure of what?",
+    "options": ["Multiple choice questions", "Single-attempt exams", "Online examinations", "Regional language papers"],
+    "correctAnswer": "Single-attempt exams"
   },
   {
     "id": 10,
-    "question": "What kind of amendments is the parliamentary committee considering for the anti-corruption bill to address concerns?",
-    "options": [
-      "Amendments to increase punitive measures.",
-      "Amendments to broaden the definition of corruption.",
-      "Amendments to address arbitrary power and safeguard elected governments.",
-      "Amendments to fast-track court proceedings."
-    ],
-    "correctAnswer": "Amendments to address arbitrary power and safeguard elected governments."
+    "question": "Besides incorporating board marks, what other change is being explored for national entrance tests to enhance integrity and minimize risks?",
+    "options": ["Conducting exams only in state capitals", "Exploring multiple attempts and computer-based testing", "Introducing viva-voce for all candidates", "Removing all age limits for candidates"],
+    "correctAnswer": "Exploring multiple attempts and computer-based testing"
   },
   {
     "id": 11,
-    "question": "As per the new Supreme Court ITR norms for accident compensation, what document will serve as the benchmark for salaried individuals?",
-    "options": [
-      "Their last three years' bank statements.",
-      "Their current employment contract.",
-      "The previous year's income tax return.",
-      "A certificate from their employer."
-    ],
-    "correctAnswer": "The previous year's income tax return."
+    "question": "The proposed national exam reforms aim to align entrance tests with what specific academic component?",
+    "options": ["International curriculum standards", "Coaching institute materials", "School syllabi", "Professional skill development courses"],
+    "correctAnswer": "School syllabi"
   },
   {
     "id": 12,
-    "question": "For self-employed individuals, how will accident compensation be calculated according to the Supreme Court's new ITR norms?",
-    "options": [
-      "Based on their highest annual income.",
-      "Based on the average of their last three years' income tax returns.",
-      "Based on a fixed government rate.",
-      "Based on a projection of future earnings."
-    ],
-    "correctAnswer": "Based on the average of their last three years' income tax returns."
+    "question": "What is a primary objective of the fast-tracked changes in national entrance exams like NEET and JEE, as per the news?",
+    "options": ["To increase the number of questions", "To reduce examination duration", "To enhance integrity and minimize risks", "To introduce new subjects"],
+    "correctAnswer": "To enhance integrity and minimize risks"
   },
   {
     "id": 13,
-    "question": "What is the stated goal of the Supreme Court's new ruling on ITR norms for fixing accident damages?",
-    "options": [
-      "To reduce the number of road accidents.",
-      "To standardize compensation assessments across high courts.",
-      "To increase the tax revenue from accident claims.",
-      "To simplify insurance claim processes."
-    ],
-    "correctAnswer": "To standardize compensation assessments across high courts."
+    "question": "What is the mandated percentage of PF contribution on wages up to Rs 15,000 monthly, as per EPFO guidelines applicable to employees across India?",
+    "options": ["8%", "10%", "12%", "15%"],
+    "correctAnswer": "12%"
   },
   {
     "id": 14,
-    "question": "The Supreme Court's ruling considers how many years of Income Tax Returns for self-employed individuals to calculate accident damages?",
-    "options": [
-      "One year",
-      "Two years",
-      "Three years",
-      "Five years"
-    ],
-    "correctAnswer": "Three years"
+    "question": "According to the recent EPFO mandate, contributions above which monthly amount are now considered voluntary for employees across India?",
+    "options": ["Rs 1,000", "Rs 1,500", "Rs 1,800", "Rs 2,000"],
+    "correctAnswer": "Rs 1,800"
   },
   {
     "id": 15,
-    "question": "The Supreme Court ruling accounts for which specific characteristic of self-employed individuals' income when mandating the use of an average of three years' ITRs?",
-    "options": [
-      "Their higher tax burden.",
-      "Their potential for rapid income growth.",
-      "Their income fluctuations.",
-      "Their reliance on seasonal work."
-    ],
-    "correctAnswer": "Their income fluctuations."
+    "question": "Which organization has mandated the new rules regarding voluntary EPF contributions for its 8 crore members across India?",
+    "options": ["Reserve Bank of India (RBI)", "Employees' Provident Fund Organisation (EPFO)", "Securities and Exchange Board of India (SEBI)", "Ministry of Finance"],
+    "correctAnswer": "Employees' Provident Fund Organisation (EPFO)"
   },
   {
     "id": 16,
-    "question": "Which Indian state's Chief Minister was addressed by the BJP with the statement, \"You may try to crush BJP, but people have crush on BJP\"?",
-    "options": [
-      "Andhra Pradesh",
-      "Karnataka",
-      "Telangana",
-      "Kerala"
-    ],
-    "correctAnswer": "Telangana"
+    "question": "For employees wishing to contribute more for retirement savings than the statutory EPF limit, what is the new provision regarding these additional amounts?",
+    "options": ["They are mandatory for employers to match.", "They are voluntary for employees, with employers having an option to match.", "They are prohibited entirely.", "They must be contributed directly to the government."],
+    "correctAnswer": "They are voluntary for employees, with employers having an option to match."
   },
   {
     "id": 17,
-    "question": "Who is the current Chief Minister of Telangana, mentioned in the context of recent remarks made by the BJP?",
-    "options": [
-      "K. Chandrashekar Rao",
-      "Y.S. Jagan Mohan Reddy",
-      "N. Chandrababu Naidu",
-      "Revanth Reddy"
-    ],
-    "correctAnswer": "Revanth Reddy"
+    "question": "How many crore members does EPFO cover, for whom these new contribution rules apply nationwide?",
+    "options": ["4 crore", "6 crore", "8 crore", "10 crore"],
+    "correctAnswer": "8 crore"
   },
   {
     "id": 18,
-    "question": "Which political party made the statement to Telangana CM Revanth Reddy, highlighting their popular appeal despite attempts to \"crush\" them?",
-    "options": [
-      "Bharat Rashtra Samithi (BRS)",
-      "Indian National Congress (INC)",
-      "Bharatiya Janata Party (BJP)",
-      "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
-    ],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "question": "A high-level committee has been formed to investigate what specific issue across India, including its potential impact on states like Telangana and Andhra Pradesh?",
+    "options": ["Agricultural productivity", "Demographic shifts, including illegal immigration", "Urban infrastructure development", "Digital literacy rates"],
+    "correctAnswer": "Demographic shifts, including illegal immigration"
   },
   {
     "id": 19,
-    "question": "The BJP's statement to Telangana CM Revanth Reddy primarily indicates a political rivalry in which region?",
-    "options": [
-      "North India",
-      "South India",
-      "Eastern India",
-      "Western India"
-    ],
-    "correctAnswer": "South India"
+    "question": "Who is leading the high-level committee investigating demographic shifts across India, which plans to visit various states?",
+    "options": ["Justice (Retd) R.F. Nariman", "Justice (Retd) Prakash Prabhakar Navlekar", "Justice (Retd) A.K. Sikri", "Justice (Retd) T.S. Thakur"],
+    "correctAnswer": "Justice (Retd) Prakash Prabhakar Navlekar"
   },
   {
     "id": 20,
-    "question": "What was the core message conveyed by the BJP to Telangana CM Revanth Reddy in their recent exchange?",
-    "options": [
-      "An invitation for alliance.",
-      "A warning against political suppression and a claim of popular support.",
-      "A demand for infrastructure development.",
-      "A critique of economic policies."
-    ],
-    "correctAnswer": "A warning against political suppression and a claim of popular support."
+    "question": "To which Union Minister did the demographic panel inform about its plans to visit states and UTs for on-the-ground insights?",
+    "options": ["Defence Minister", "Finance Minister", "Home Minister Amit Shah", "External Affairs Minister"],
+    "correctAnswer": "Home Minister Amit Shah"
   },
   {
     "id": 21,
-    "question": "The Supreme Court's ruling on default bail emphasizes that simply not providing copies of the chargesheet to the accused *within the statutory timeline* does not automatically grant default bail. What specific action, if missing, *does* lead to the right to default bail?",
-    "options": [
-      "The filing of a bail application by the accused.",
-      "The appearance of the public prosecutor in court.",
-      "The filing of the chargesheet itself within the stipulated period.",
-      "The submission of evidence by the investigating agency."
-    ],
-    "correctAnswer": "The filing of the chargesheet itself within the stipulated period."
+    "question": "What is one key method the demographic panel plans to use for gathering information for its study on demographic shifts across India?",
+    "options": ["Conducting online surveys only", "Relying solely on census data", "Visiting states and UTs for on-the-ground insights", "Consulting only international organizations"],
+    "correctAnswer": "Visiting states and UTs for on-the-ground insights"
   },
   {
     "id": 22,
-    "question": "The parliamentary panel's anti-corruption bill, which proposes automatic removal of PMs and CMs, is contentious due to concerns about its potential impact on what?",
-    "options": [
-      "Judicial independence.",
-      "Economic growth.",
-      "The stability of elected governments.",
-      "International relations."
-    ],
-    "correctAnswer": "The stability of elected governments."
+    "question": "Which popular messaging platform was recently asked by the Indian government to pause a specific feature rollout, affecting users across the country including Telangana and Andhra Pradesh?",
+    "options": ["Telegram", "Signal", "WhatsApp", "Facebook Messenger"],
+    "correctAnswer": "WhatsApp"
   },
   {
     "id": 23,
-    "question": "What specific issue led the Supreme Court to lay down distinct ITR norms for calculating road accident damages for different employment types?",
-    "options": [
-      "Varying tax compliance rates.",
-      "The need for expedited legal processes.",
-      "Income disparity between salaried and self-employed individuals.",
-      "Differences in insurance policy coverage."
-    ],
-    "correctAnswer": "Income disparity between salaried and self-employed individuals."
+    "question": "What specific feature rollout on WhatsApp did the Indian government request to be paused?",
+    "options": ["End-to-end encryption", "Group video calls", "Username rollout", "Payment integration"],
+    "correctAnswer": "Username rollout"
   },
   {
     "id": 24,
-    "question": "Which specific date marks the parliamentary panel's scheduled adoption of its report on the bill concerning the automatic removal of PMs and CMs?",
-    "options": [
-      "July 1st",
-      "July 7th",
-      "July 17th",
-      "July 27th"
-    ],
-    "correctAnswer": "July 17th"
+    "question": "Beyond economic indicators, what socio-economic factor is highlighted as crucial for India's ambitious goal of achieving high-income status by the late 2040s?",
+    "options": ["Reducing urbanisation rates", "Fostering a high-trust society", "Decreasing educational spending", "Limiting international collaborations"],
+    "correctAnswer": "Fostering a high-trust society"
   },
   {
     "id": 25,
-    "question": "The BJP's statement to Telangana CM Revanth Reddy \"You may try to crush BJP, but people have crush on BJP\" is an example of political rhetoric exchanged between ruling and opposition parties in which state?",
-    "options": [
-      "Karnataka",
-      "Tamil Nadu",
-      "Telangana",
-      "Andhra Pradesh"
-    ],
-    "correctAnswer": "Telangana"
+    "question": "Which two national level entrance examinations are explicitly mentioned as subjects of fast-tracked changes by the Education Ministry, following recent controversies?",
+    "options": ["UPSC and State PSC exams", "CAT and XAT", "NEET and JEE", "CLAT and AILET"],
+    "correctAnswer": "NEET and JEE"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "As per recent discussions on India's economic trajectory, what is the aspirational target for achieving high-income status?",
-    "options": ["Late 2030s", "Mid 2040s", "Late 2040s", "Early 2050s"],
-    "correctAnswer": "Late 2040s"
+    "question": "When are the Re-NEET UG results expected to be declared by the National Testing Agency?",
+    "options": ["July 15", "July 20", "August 1", "August 10"],
+    "correctAnswer": "July 20"
   },
   {
     "id": 2,
-    "question": "To achieve its high-income status goal, what sustained annual per capita GDP growth rate is India estimated to require?",
-    "options": ["At least 5%", "At least 7%", "At least 9%", "At least 11%"],
-    "correctAnswer": "At least 9%"
+    "question": "What is the primary purpose of the NEET UG examination for students in states like Telangana and Andhra Pradesh?",
+    "options": ["Engineering admissions", "Law admissions", "Medical (MBBS) admissions", "Business administration admissions"],
+    "correctAnswer": "Medical (MBBS) admissions"
   },
   {
     "id": 3,
-    "question": "Which of the following is identified as a crucial factor for accelerating India's per capita GDP growth towards high-income status?",
-    "options": ["Decreasing foreign trade", "Boosting female workforce participation", "Reducing indigenous technology investment", "Limiting access to credit"],
-    "correctAnswer": "Boosting female workforce participation"
+    "question": "What was the primary reason cited for the recent re-examination of NEET UG?",
+    "options": ["Technical glitches", "Low pass rates", "Paper leak", "Administrative error"],
+    "correctAnswer": "Paper leak"
   },
   {
     "id": 4,
-    "question": "What role does enhancing capital formation through improved credit access play in India's journey to becoming a developed nation, as per recent analysis?",
-    "options": ["It slows down economic growth", "It is a key factor in accelerating growth", "It has no impact on economic development", "It primarily benefits only urban areas"],
-    "correctAnswer": "It is a key factor in accelerating growth"
+    "question": "Despite the re-examination, the National Testing Agency aims for the academic year for MBBS students to begin by which approximate timeframe?",
+    "options": ["October-November", "December-January", "August-September", "June-July"],
+    "correctAnswer": "August-September"
   },
   {
     "id": 5,
-    "question": "According to the news, significant investment in indigenous technology is prioritized for what purpose in India's economic development?",
-    "options": ["To reduce global trade", "To restrict market competition", "To enhance productivity gains", "To decrease overall capital formation"],
-    "correctAnswer": "To enhance productivity gains"
+    "question": "Approximately how many challenges were received for the provisional answer key of NEET UG?",
+    "options": ["Over 1,000", "Over 5,000", "Over 10,000", "Over 20,000"],
+    "correctAnswer": "Over 10,000"
   },
   {
     "id": 6,
-    "question": "Which recent controversy primarily triggered the discussions around significant entrance exam reforms in India, impacting students nationwide including those in Telangana and Andhra Pradesh?",
-    "options": ["JEE Main irregularities", "UPSC Civil Services exam delays", "NEET-UG controversy", "CAT exam technical glitches"],
-    "correctAnswer": "NEET-UG controversy"
+    "question": "According to experts, what is India's primary need to improve access to new cancer therapies?",
+    "options": ["More private hospitals", "A national strategy", "Increased foreign aid", "Reduced patient population"],
+    "correctAnswer": "A national strategy"
   },
   {
     "id": 7,
-    "question": "Which government office is currently overseeing the significant exam reforms for board exams and national entrance tests like NEET and JEE?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Prime Minister's Office (PMO)", "Ministry of External Affairs"],
-    "correctAnswer": "Prime Minister's Office (PMO)"
+    "question": "Which organization was mentioned as having organized the media roundtable on 'Bridging Innovation and Affordability in Cancer Care'?",
+    "options": ["National Cancer Institute", "Indian Medical Association", "Indian Cancer Society (ICS)", "Apollo Hospitals"],
+    "correctAnswer": "Indian Cancer Society (ICS)"
   },
   {
     "id": 8,
-    "question": "One of the proposed changes in the revamp of national entrance exams like NEET and JEE includes what new consideration?",
-    "options": ["Eliminating all entrance exams", "Incorporating board marks", "Reducing the number of exam centers", "Increasing exam fees significantly"],
-    "correctAnswer": "Incorporating board marks"
+    "question": "Which of the following is NOT listed as a reason for limited access to advanced cancer treatment in India?",
+    "options": ["High costs", "Adequate insurance coverage", "Limited diagnostic facilities", "Unequal healthcare infrastructure"],
+    "correctAnswer": "Adequate insurance coverage"
   },
   {
     "id": 9,
-    "question": "The Education Ministry is fast-tracking changes for board exams and national entrance tests with an aim to reduce the pressure of what?",
-    "options": ["Multiple choice questions", "Single-attempt exams", "Online examinations", "Regional language papers"],
-    "correctAnswer": "Single-attempt exams"
+    "question": "What significant advancement in cancer treatment was highlighted, despite which access remains an issue?",
+    "options": ["New surgical techniques", "Significant advancements in treatment", "Traditional medicine revival", "Telemedicine for diagnosis"],
+    "correctAnswer": "Significant advancements in treatment"
   },
   {
     "id": 10,
-    "question": "Besides incorporating board marks, what other change is being explored for national entrance tests to enhance integrity and minimize risks?",
-    "options": ["Conducting exams only in state capitals", "Exploring multiple attempts and computer-based testing", "Introducing viva-voce for all candidates", "Removing all age limits for candidates"],
-    "correctAnswer": "Exploring multiple attempts and computer-based testing"
+    "question": "Besides high costs, what other infrastructural challenge was noted for limited access to cancer therapies?",
+    "options": ["Lack of research funding", "Limited diagnostic facilities", "Shortage of general practitioners", "Overpopulation"],
+    "correctAnswer": "Limited diagnostic facilities"
   },
   {
     "id": 11,
-    "question": "The proposed national exam reforms aim to align entrance tests with what specific academic component?",
-    "options": ["International curriculum standards", "Coaching institute materials", "School syllabi", "Professional skill development courses"],
-    "correctAnswer": "School syllabi"
+    "question": "Which Indian court recently warned against the unchecked use of AI in legal proceedings?",
+    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court", "Madras High Court"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 12,
-    "question": "What is a primary objective of the fast-tracked changes in national entrance exams like NEET and JEE, as per the news?",
-    "options": ["To increase the number of questions", "To reduce examination duration", "To enhance integrity and minimize risks", "To introduce new subjects"],
-    "correctAnswer": "To enhance integrity and minimize risks"
+    "question": "Which specific body was cited for using AI to refer to fake cases in court proceedings?",
+    "options": ["High Courts", "District Courts", "NCLT", "Consumer Forums"],
+    "correctAnswer": "NCLT"
   },
   {
     "id": 13,
-    "question": "What is the mandated percentage of PF contribution on wages up to Rs 15,000 monthly, as per EPFO guidelines applicable to employees across India?",
-    "options": ["8%", "10%", "12%", "15%"],
-    "correctAnswer": "12%"
+    "question": "What was the Supreme Court's primary concern regarding AI use in courts?",
+    "options": ["Data storage", "Unchecked use", "Cost implications", "Speed of proceedings"],
+    "correctAnswer": "Unchecked use"
   },
   {
     "id": 14,
-    "question": "According to the recent EPFO mandate, contributions above which monthly amount are now considered voluntary for employees across India?",
-    "options": ["Rs 1,000", "Rs 1,500", "Rs 1,800", "Rs 2,000"],
-    "correctAnswer": "Rs 1,800"
+    "question": "The incident regarding AI use in courts highlights a risk of citing what kind of cases?",
+    "options": ["Landmark cases", "International cases", "Fake cases", "Historical cases"],
+    "correctAnswer": "Fake cases"
   },
   {
     "id": 15,
-    "question": "Which organization has mandated the new rules regarding voluntary EPF contributions for its 8 crore members across India?",
-    "options": ["Reserve Bank of India (RBI)", "Employees' Provident Fund Organisation (EPFO)", "Securities and Exchange Board of India (SEBI)", "Ministry of Finance"],
-    "correctAnswer": "Employees' Provident Fund Organisation (EPFO)"
+    "question": "The Supreme Court's warning on AI has implications for the judicial system across all Indian states, including Telangana and Andhra Pradesh, regarding which aspect?",
+    "options": ["Case filing fees", "Technology adoption guidelines", "Judicial appointments", "Court vacations"],
+    "correctAnswer": "Technology adoption guidelines"
   },
   {
     "id": 16,
-    "question": "For employees wishing to contribute more for retirement savings than the statutory EPF limit, what is the new provision regarding these additional amounts?",
-    "options": ["They are mandatory for employers to match.", "They are voluntary for employees, with employers having an option to match.", "They are prohibited entirely.", "They must be contributed directly to the government."],
-    "correctAnswer": "They are voluntary for employees, with employers having an option to match."
+    "question": "What new feature is WhatsApp clarifying amidst safety concerns from the Indian government?",
+    "options": ["Group calling", "Status updates", "Username", "End-to-end encryption"],
+    "correctAnswer": "Username"
   },
   {
     "id": 17,
-    "question": "How many crore members does EPFO cover, for whom these new contribution rules apply nationwide?",
-    "options": ["4 crore", "6 crore", "8 crore", "10 crore"],
-    "correctAnswer": "8 crore"
+    "question": "The Indian government has expressed concerns about the WhatsApp Username feature primarily due to potential risks of what?",
+    "options": ["Data overload", "Network congestion", "Scams and identity spoofing", "App crashes"],
+    "correctAnswer": "Scams and identity spoofing"
   },
   {
     "id": 18,
-    "question": "A high-level committee has been formed to investigate what specific issue across India, including its potential impact on states like Telangana and Andhra Pradesh?",
-    "options": ["Agricultural productivity", "Demographic shifts, including illegal immigration", "Urban infrastructure development", "Digital literacy rates"],
-    "correctAnswer": "Demographic shifts, including illegal immigration"
+    "question": "What has the Indian government asked Meta to do regarding the rollout of the new Username feature?",
+    "options": ["Accelerate rollout", "Halt rollout until consultations are complete", "Charge for usernames", "Make usernames mandatory"],
+    "correctAnswer": "Halt rollout until consultations are complete"
   },
   {
     "id": 19,
-    "question": "Who is leading the high-level committee investigating demographic shifts across India, which plans to visit various states?",
-    "options": ["Justice (Retd) R.F. Nariman", "Justice (Retd) Prakash Prabhakar Navlekar", "Justice (Retd) A.K. Sikri", "Justice (Retd) T.S. Thakur"],
-    "correctAnswer": "Justice (Retd) Prakash Prabhakar Navlekar"
+    "question": "WhatsApp clarified that its new Username feature will be what in terms of searchability?",
+    "options": ["Publicly searchable", "Searchable only by contacts", "Not publicly searchable", "Searchable through third-party apps"],
+    "correctAnswer": "Not publicly searchable"
   },
   {
     "id": 20,
-    "question": "To which Union Minister did the demographic panel inform about its plans to visit states and UTs for on-the-ground insights?",
-    "options": ["Defence Minister", "Finance Minister", "Home Minister Amit Shah", "External Affairs Minister"],
-    "correctAnswer": "Home Minister Amit Shah"
+    "question": "According to WhatsApp's clarification, who are existing popular names for usernames reserved for?",
+    "options": ["First-come, first-served users", "Celebrities", "Legitimate owners", "Business accounts only"],
+    "correctAnswer": "Legitimate owners"
   },
   {
     "id": 21,
-    "question": "What is one key method the demographic panel plans to use for gathering information for its study on demographic shifts across India?",
-    "options": ["Conducting online surveys only", "Relying solely on census data", "Visiting states and UTs for on-the-ground insights", "Consulting only international organizations"],
-    "correctAnswer": "Visiting states and UTs for on-the-ground insights"
+    "question": "Which monsoon system recently arrived in India, bringing heavy rain?",
+    "options": ["Northeast monsoon", "Southwest monsoon", "Retreating monsoon", "Winter monsoon"],
+    "correctAnswer": "Southwest monsoon"
   },
   {
     "id": 22,
-    "question": "Which popular messaging platform was recently asked by the Indian government to pause a specific feature rollout, affecting users across the country including Telangana and Andhra Pradesh?",
-    "options": ["Telegram", "Signal", "WhatsApp", "Facebook Messenger"],
-    "correctAnswer": "WhatsApp"
+    "question": "Which two major Indian cities were specifically mentioned in the headline as experiencing heavy rain upon the monsoon's arrival?",
+    "options": ["Chennai and Bengaluru", "Kolkata and Hyderabad", "Delhi and Mumbai", "Jaipur and Lucknow"],
+    "correctAnswer": "Delhi and Mumbai"
   },
   {
     "id": 23,
-    "question": "What specific feature rollout on WhatsApp did the Indian government request to be paused?",
-    "options": ["End-to-end encryption", "Group video calls", "Username rollout", "Payment integration"],
-    "correctAnswer": "Username rollout"
+    "question": "The monsoon is now widespread across which part of India, as per the news?",
+    "options": ["Southern India", "Northeastern India", "Northwest India", "Eastern India"],
+    "correctAnswer": "Northwest India"
   },
   {
     "id": 24,
-    "question": "Beyond economic indicators, what socio-economic factor is highlighted as crucial for India's ambitious goal of achieving high-income status by the late 2040s?",
-    "options": ["Reducing urbanisation rates", "Fostering a high-trust society", "Decreasing educational spending", "Limiting international collaborations"],
-    "correctAnswer": "Fostering a high-trust society"
+    "question": "How many days past its usual arrival did the monsoon reach Delhi this year?",
+    "options": ["Two days", "Three days", "Five days", "Seven days"],
+    "correctAnswer": "Five days"
   },
   {
     "id": 25,
-    "question": "Which two national level entrance examinations are explicitly mentioned as subjects of fast-tracked changes by the Education Ministry, following recent controversies?",
-    "options": ["UPSC and State PSC exams", "CAT and XAT", "NEET and JEE", "CLAT and AILET"],
-    "correctAnswer": "NEET and JEE"
+    "question": "Besides Maharashtra, which two other states were mentioned as expecting heavy rains due to the monsoon's advance?",
+    "options": ["Karnataka and Kerala", "Uttar Pradesh and Bihar", "Goa and Gujarat", "Punjab and Haryana"],
+    "correctAnswer": "Goa and Gujarat"
   }
 ]

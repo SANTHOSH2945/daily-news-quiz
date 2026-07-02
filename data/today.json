@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national space agency's headquarters recently faced a bomb threat email, leading to evacuation?",
-    "options": ["DRDO", "ISRO", "BARC", "HAL"],
-    "correctAnswer": "ISRO"
+    "question": "Which two messaging applications are currently under the Centre's scanner regarding their unique username features?",
+    "options": ["WhatsApp and Telegram", "Signal and Hike", "Telegram and Signal", "Facebook Messenger and Telegram"],
+    "correctAnswer": "Telegram and Signal"
   },
   {
     "id": 2,
-    "question": "Where is ISRO's primary satellite launch center, Satish Dhawan Space Centre (SDSC) SHAR, located?",
-    "options": ["Bengaluru", "Thiruvananthapuram", "Hyderabad", "Sriharikota"],
-    "correctAnswer": "Sriharikota"
+    "question": "What is the primary concern of Indian authorities regarding the username features of messaging apps like Telegram and Signal?",
+    "options": ["Data privacy breaches", "Online fraud and impersonation", "Illegal content sharing", "Spam messaging"],
+    "correctAnswer": "Online fraud and impersonation"
   },
   {
     "id": 3,
-    "question": "Sriharikota, home to ISRO's main launch facility, is situated in which Indian state?",
-    "options": ["Karnataka", "Kerala", "Andhra Pradesh", "Telangana"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Before Telegram and Signal, which messaging app was previously in discussions with the government over similar concerns regarding user safety and traceability?",
+    "options": ["Viber", "Line", "WhatsApp", "WeChat"],
+    "correctAnswer": "WhatsApp"
   },
   {
     "id": 4,
-    "question": "Which major ISRO facility, crucial for remote sensing applications, is located in Hyderabad, Telangana?",
-    "options": ["VSSC", "NRSC", "SAC", "IIRS"],
-    "correctAnswer": "NRSC"
+    "question": "The government's scrutiny of messaging app username features primarily aims to ensure what for users?",
+    "options": ["Faster message delivery", "Enhanced media sharing", "User safety and traceability", "Reduced data consumption"],
+    "correctAnswer": "User safety and traceability"
   },
   {
     "id": 5,
-    "question": "What was the nature of the recent security threat received by ISRO headquarters?",
-    "options": ["Physical sabotage", "Cyberattack", "Bomb threat email", "Protest demonstration"],
-    "correctAnswer": "Bomb threat email"
+    "question": "According to a recent article, what factor is increasingly challenging the oldest rule of arranged marriages in India?",
+    "options": ["Financial status", "Horoscope matching", "Personal chemistry", "Family background"],
+    "correctAnswer": "Personal chemistry"
   },
   {
     "id": 6,
-    "question": "Although ISRO HQ is in Bengaluru, why is its security concern relevant to Telangana and Andhra Pradesh?",
-    "options": ["Only for funding", "No relevance", "Major ISRO centers like NRSC (Telangana) and SHAR (AP) are critical operational hubs", "All ISRO staff are from these states"],
-    "correctAnswer": "Major ISRO centers like NRSC (Telangana) and SHAR (AP) are critical operational hubs"
+    "question": "The trend described as 'chemistry beating caste' suggests a significant shift away from which traditional factor in Indian arranged marriages?",
+    "options": ["Geographical proximity", "Educational qualification", "Caste-based preferences", "Professional compatibility"],
+    "correctAnswer": "Caste-based preferences"
   },
   {
     "id": 7,
-    "question": "Which major command of the Indian Navy has its headquarters in Visakhapatnam, Andhra Pradesh?",
-    "options": ["Western Naval Command", "Southern Naval Command", "Eastern Naval Command", "Andaman & Nicobar Command"],
-    "correctAnswer": "Eastern Naval Command"
+    "question": "This societal shift in arranged marriages in India, emphasizing personal chemistry, indicates a growing focus on what aspect?",
+    "options": ["Family lineage", "Astrological compatibility", "Individual compatibility", "Community standing"],
+    "correctAnswer": "Individual compatibility"
   },
   {
     "id": 8,
-    "question": "The Indian Navy recently thwarted a piracy bid on MV Golden Arsenal in which international water body?",
-    "options": ["Bay of Bengal", "Arabian Sea", "Gulf of Aden", "South China Sea"],
-    "correctAnswer": "Gulf of Aden"
+    "question": "The BJP has accused Sonia Gandhi of 'double standards' for her silence on the alleged demolition of a gurdwara in which country?",
+    "options": ["Afghanistan", "Nepal", "Bangladesh", "Pakistan"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 9,
-    "question": "What specialized unit of the Indian Navy was involved in securing the cargo ship MV Golden Arsenal from pirates?",
-    "options": ["Garud Commandos", "Para SF", "MARCOS", "NSG"],
-    "correctAnswer": "MARCOS"
+    "question": "What specific international crisis did BJP spokesperson Shehzad Poonawalla contrast with Sonia Gandhi's alleged silence on the gurdwara demolition?",
+    "options": ["Ukraine conflict", "Syrian civil war", "Gaza crisis", "Yemen famine"],
+    "correctAnswer": "Gaza crisis"
   },
   {
     "id": 10,
-    "question": "Which Indian Naval Ship (INS) successfully responded to the distress call and foiled the piracy attempt?",
-    "options": ["INS Vikrant", "INS Arihant", "INS Trikand", "INS Kolkata"],
-    "correctAnswer": "INS Trikand"
+    "question": "Following the reported gurdwara demolition, India officially condemned the act and urged Pakistan to take what action?",
+    "options": ["Rebuild the gurdwara immediately", "Apologize to the Sikh community", "Investigate the matter", "Compensate the victims"],
+    "correctAnswer": "Investigate the matter"
   },
   {
     "id": 11,
-    "question": "The protection of merchant vessels by the Indian Navy is crucial for India's maritime trade, impacting which sector that benefits states like Andhra Pradesh and Telangana?",
-    "options": ["Agriculture", "Tourism", "Exports and Imports of goods", "IT Services"],
-    "correctAnswer": "Exports and Imports of goods"
+    "question": "India recently signed a Memorandum of Cooperation (MoC) with which country to boost Artificial Intelligence (AI) and trade ties?",
+    "options": ["South Korea", "Germany", "Japan", "France"],
+    "correctAnswer": "Japan"
   },
   {
     "id": 12,
-    "question": "Which crude oil tanker, carrying a critical consignment for India, recently docked safely at Paradip Port after facing hostilities?",
-    "options": ["MT Suezmax", "MT Sanmar Herald", "MT Mumbai Spirit", "MT Deccan Pride"],
-    "correctAnswer": "MT Sanmar Herald"
+    "question": "Salman Khurshid will represent India at the funeral of a religious leader in which Middle Eastern country?",
+    "options": ["Saudi Arabia", "Iraq", "Egypt", "Iran"],
+    "correctAnswer": "Iran"
   },
   {
     "id": 13,
-    "question": "The MT Sanmar Herald endured shrapnel damage near which strategically important strait known for oil transit?",
-    "options": ["Strait of Malacca", "Strait of Gibraltar", "Strait of Hormuz", "Bab-el-Mandeb Strait"],
-    "correctAnswer": "Strait of Hormuz"
+    "question": "What were two key areas of focus for the new pacts signed recently between India and Japan to solidify their strategic alliance?",
+    "options": ["Agriculture and tourism", "Finance and education", "Defence and technology", "Energy and healthcare"],
+    "correctAnswer": "Defence and technology"
   },
   {
     "id": 14,
-    "question": "Paradip Port, the destination of the MT Sanmar Herald, is located in which Indian state?",
-    "options": ["West Bengal", "Andhra Pradesh", "Odisha", "Tamil Nadu"],
-    "correctAnswer": "Odisha"
+    "question": "Who made history as the first Indian captain to hit a T20I fifty in England?",
+    "options": ["Rohit Sharma", "Virat Kohli", "Shreyas Iyer", "Hardik Pandya"],
+    "correctAnswer": "Shreyas Iyer"
   },
   {
     "id": 15,
-    "question": "Why is the safe passage of oil tankers, like the MT Sanmar Herald, vital for the Indian economy, including states like Telangana and Andhra Pradesh?",
-    "options": ["Only for tourism", "Primarily for defense", "To ensure uninterrupted supply of crude oil for energy needs", "To export agricultural products"],
-    "correctAnswer": "To ensure uninterrupted supply of crude oil for energy needs"
+    "question": "An open letter from prominent Indian and Pakistani citizens recently urged for renewed what between the two nations?",
+    "options": ["Trade agreements", "Cultural exchanges", "Military cooperation", "Dialogue for peace"],
+    "correctAnswer": "Dialogue for peace"
   },
   {
     "id": 16,
-    "question": "From which country did the MT Sanmar Herald begin its perilous journey with crude oil for India?",
-    "options": ["Iran", "Saudi Arabia", "UAE", "Iraq"],
-    "correctAnswer": "Iraq"
+    "question": "According to an article, what is cited as a primary obstacle to successful India-Pakistan talks, rather than a lack of meetings?",
+    "options": ["Economic sanctions", "Deep-seated ideological, political, and institutional divides", "International pressure", "Border disputes"],
+    "correctAnswer": "Deep-seated ideological, political, and institutional divides"
   },
   {
     "id": 17,
-    "question": "The Indian space program, spearheaded by ISRO, contributes significantly to various sectors. Which of the following is a key application that benefits states like Telangana and Andhra Pradesh?",
-    "options": ["Only military operations", "Space tourism", "Weather forecasting and disaster management", "International space station construction"],
-    "correctAnswer": "Weather forecasting and disaster management"
+    "question": "Which institution in Pakistan is often highlighted as holding significant power, potentially affecting the efficacy of civilian-led talks with India?",
+    "options": ["The Supreme Court", "The Parliament", "The military establishment", "The civilian government"],
+    "correctAnswer": "The military establishment"
   },
   {
     "id": 18,
-    "question": "The Indian Navy's role in protecting critical consignments is essential for maintaining economic stability. How does this indirectly benefit states like Telangana and Andhra Pradesh, which are not entirely coastal?",
-    "options": ["By providing direct port jobs", "It doesn't benefit them", "By ensuring smooth supply chains for raw materials and finished goods nationwide", "By attracting foreign investment to naval bases"],
-    "correctAnswer": "By ensuring smooth supply chains for raw materials and finished goods nationwide"
+    "question": "Which former Jammu and Kashmir Chief Minister recently endorsed calls for dialogue between India and Pakistan?",
+    "options": ["Farooq Abdullah", "Mehbooba Mufti", "Omar Abdullah", "Ghulam Nabi Azad"],
+    "correctAnswer": "Omar Abdullah"
   },
   {
     "id": 19,
-    "question": "Given the importance of crude oil imports for India's energy security, what kind of industries in Telangana and Andhra Pradesh are heavily reliant on stable fuel prices?",
-    "options": ["Only fishing industry", "Agriculture and manufacturing", "Software development", "Media and entertainment"],
-    "correctAnswer": "Agriculture and manufacturing"
+    "question": "Omar Abdullah questioned why appeals for India-Pakistan dialogue from regional leaders face criticism, while similar appeals from which organization's figures are accepted?",
+    "options": ["Amnesty International", "United Nations", "RSS figures", "Indian National Congress"],
+    "correctAnswer": "RSS figures"
   },
   {
     "id": 20,
-    "question": "The incident of the bomb threat at ISRO highlights the importance of national security infrastructure for scientific organizations. Why is maintaining robust security for such institutions vital for India's progress, including its southern states?",
-    "options": ["To prevent international espionage only", "To protect critical national assets and ensure continuity of research and development", "To reduce travel time for scientists", "To control public access to space data"],
-    "correctAnswer": "To protect critical national assets and ensure continuity of research and development"
+    "question": "Besides Omar Abdullah, which other former Chief Minister welcomed the RSS leadership's stance on India-Pakistan dialogue, emphasizing improved neighborly relations?",
+    "options": ["Mufti Mohammad Sayeed", "Ghulam Nabi Azad", "Mehbooba Mufti", "Shabir Shah"],
+    "correctAnswer": "Mehbooba Mufti"
   },
   {
     "id": 21,
-    "question": "The news of the Indian Navy foiling a piracy bid reflects India's growing maritime power. This capability helps in securing sea lanes which are crucial for the economy of all Indian states, including landlocked ones like Telangana, by facilitating:",
-    "options": ["Only naval recruitment", "International tourism", "Trade and commerce", "Agricultural subsidies"],
-    "correctAnswer": "Trade and commerce"
+    "question": "The recent appeals for India-Pakistan dialogue by eminent citizens and political figures primarily emphasize the need for improved relations between whom?",
+    "options": ["Political parties", "Religious communities", "Neighboring countries", "Business associations"],
+    "correctAnswer": "Neighboring countries"
   },
   {
     "id": 22,
-    "question": "Which of the following is a key function of ISRO, relevant to India's development goals and indirectly benefiting states like Telangana and Andhra Pradesh?",
-    "options": ["Manufacturing automobiles", "Space exploration for international colonies", "Launching communication and earth observation satellites", "Building high-speed rail networks"],
-    "correctAnswer": "Launching communication and earth observation satellites"
+    "question": "The Centre's current discussions with Telegram and Signal are described as mirroring previous concerns raised with which *other* popular messaging platform?",
+    "options": ["Skype", "Viber", "Line", "WhatsApp"],
+    "correctAnswer": "WhatsApp"
   },
   {
     "id": 23,
-    "question": "The Gulf of Aden, where the recent piracy attempt occurred, is a vital shipping route connecting which two major regions for India's trade?",
-    "options": ["Europe and North America", "East Asia and Australia", "The Middle East/Africa and Europe/Asia", "South America and Africa"],
-    "correctAnswer": "The Middle East/Africa and Europe/Asia"
+    "question": "What specific *functionality* of messaging apps is specifically under scrutiny by Indian authorities due to concerns about online fraud and impersonation?",
+    "options": ["End-to-end encryption", "Group chat features", "Unique username features", "Voice and video call quality"],
+    "correctAnswer": "Unique username features"
   },
   {
     "id": 24,
-    "question": "India's reliance on imported crude oil makes it vulnerable to geopolitical events in regions like the Middle East. What is a long-term strategy that states like Telangana and Andhra Pradesh also contribute to, to reduce this vulnerability?",
-    "options": ["Increasing reliance on imported coal", "Developing renewable energy sources", "Halting all industrial activity", "Focusing solely on oil exploration within the states"],
-    "correctAnswer": "Developing renewable energy sources"
+    "question": "Beyond boosting AI and trade, what other critical sectors saw new pacts signed between India and Japan to strengthen their strategic alliance?",
+    "options": ["Healthcare and tourism", "Space exploration and education", "Defence and technology", "Energy and infrastructure"],
+    "correctAnswer": "Defence and technology"
   },
   {
     "id": 25,
-    "question": "The successful docking of the MT Sanmar Herald underscores the professionalism of the Indian merchant marine and maritime authorities. This competence is critical for maintaining India's supply chain resilience, supporting economic activities in all states, including Telangana and Andhra Pradesh, which rely on:",
-    "options": ["Subsidized air travel", "Efficient port infrastructure and shipping services", "Local barter systems", "Exclusive state-level trade agreements"],
-    "correctAnswer": "Efficient port infrastructure and shipping services"
+    "question": "Which specific international event, involving a prominent religious leader, saw Salman Khurshid representing India?",
+    "options": ["The Hajj pilgrimage", "The Pope's address at the UN", "Ayatollah Khamenei's funeral in Iran", "A Buddhist conclave in Sri Lanka"],
+    "correctAnswer": "Ayatollah Khamenei's funeral in Iran"
   }
 ]

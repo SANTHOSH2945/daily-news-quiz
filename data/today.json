@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who recently completed one month as the Chief Minister of Karnataka?",
-    "options": [
-      "Siddaramaiah",
-      "DK Shivakumar",
-      "Basavaraj Bommai",
-      "H. D. Kumaraswamy"
-    ],
-    "correctAnswer": "DK Shivakumar"
+    "question": "What meteorological phenomenon, predicted to develop rapidly from July-September, threatens India with heatwaves and drought, directly impacting states like Telangana and Andhra Pradesh?",
+    "options": ["La Niña", "El Niño", "Arctic Oscillation", "Indian Ocean Dipole"],
+    "correctAnswer": "El Niño"
   },
   {
     "id": 2,
-    "question": "Which former Chief Minister of Karnataka did DK Shivakumar meet after completing one month in office?",
-    "options": [
-      "B. S. Yeddyurappa",
-      "H. D. Deve Gowda",
-      "Siddaramaiah",
-      "S. M. Krishna"
-    ],
-    "correctAnswer": "Siddaramaiah"
+    "question": "According to the news, what percentage of rainfall deficit did India experience in June, impacting agricultural prospects in regions including Telangana and Andhra Pradesh?",
+    "options": ["10%", "23%", "40%", "50%"],
+    "correctAnswer": "40%"
   },
   {
     "id": 3,
-    "question": "DK Shivakumar expressed gratitude for Siddaramaiah's contributions, specifically mentioning his visionary leadership and what other aspect?",
-    "options": [
-      "Financial acumen",
-      "Extensive administrative experience",
-      "Public speaking skills",
-      "Youth outreach programs"
-    ],
-    "correctAnswer": "Extensive administrative experience"
+    "question": "The rainfall deficit in June led to a significant reduction in the sowing of which type of crop, critical for states like Telangana and Andhra Pradesh?",
+    "options": ["Rabi crops", "Zaid crops", "Kharif crops", "Cash crops"],
+    "correctAnswer": "Kharif crops"
   },
   {
     "id": 4,
-    "question": "Which political party do DK Shivakumar and Siddaramaiah belong to, as implied by the news?",
-    "options": [
-      "Bharatiya Janata Party (BJP)",
-      "Janata Dal (Secular) (JD(S))",
-      "Indian National Congress (INC)",
-      "Aam Aadmi Party (AAP)"
-    ],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "By what approximate percentage was Kharif crop sowing slashed due to the rainfall deficit mentioned in the news?",
+    "options": ["15%", "23%", "30%", "40%"],
+    "correctAnswer": "23%"
   },
   {
     "id": 5,
-    "question": "Which Indian city was mentioned in the news regarding a 'day care horror' where police made an arrest?",
-    "options": [
-      "Chennai",
-      "Mumbai",
-      "Bengaluru",
-      "Hyderabad"
-    ],
-    "correctAnswer": "Bengaluru"
+    "question": "What primary advice is the Indian government providing to farmers in response to the anticipated El Niño conditions and rainfall deficit?",
+    "options": ["To plant water-intensive crops", "To export all produce", "To switch to water-efficient crops", "To stop farming for the season"],
+    "correctAnswer": "To switch to water-efficient crops"
   },
   {
     "id": 6,
-    "question": "Which two countries jointly condemned Pakistan-sponsored terrorism, specifically naming Lashkar-e-Taiba and Jaish-e-Mohammed?",
-    "options": [
-      "India and USA",
-      "India and Russia",
-      "India and Japan",
-      "India and France"
-    ],
-    "correctAnswer": "India and Japan"
+    "question": "Which international organization issued the warning regarding the rapid development of El Niño and its potential impact on India?",
+    "options": ["IMF", "WHO", "WMO", "FAO"],
+    "correctAnswer": "WMO"
   },
   {
     "id": 7,
-    "question": "Besides terrorism, India and Japan expressed concern over maritime security in which specific regions?",
-    "options": [
-      "Arctic Ocean and Atlantic Ocean",
-      "East and South China Seas",
-      "Mediterranean Sea and Black Sea",
-      "Persian Gulf and Red Sea"
-    ],
-    "correctAnswer": "East and South China Seas"
+    "question": "Beyond drought, what other severe weather condition is India threatened with due to El Niño's rapid development, potentially affecting states like Telangana and Andhra Pradesh?",
+    "options": ["Cyclones", "Floods", "Heatwaves", "Earthquakes"],
+    "correctAnswer": "Heatwaves"
   },
   {
     "id": 8,
-    "question": "India and Japan reaffirmed their commitment to reforms and permanent membership bids for which international body?",
-    "options": [
-      "World Health Organization (WHO)",
-      "United Nations Security Council (UNSC)",
-      "International Monetary Fund (IMF)",
-      "World Trade Organization (WTO)"
-    ],
-    "correctAnswer": "United Nations Security Council (UNSC)"
+    "question": "The government is actively monitoring the rainfall deficit situation to ensure the availability of which essential commodity across the country, including Telangana and Andhra Pradesh?",
+    "options": ["Oil", "Food grains", "Fertilisers", "Medicines"],
+    "correctAnswer": "Food grains"
   },
   {
     "id": 9,
-    "question": "Which two additional international issues, beyond terrorism and maritime security, were covered in discussions between India and Japan?",
-    "options": [
-      "Climate Change and Space Exploration",
-      "Global Trade and Cyber Security",
-      "Middle East and Ukraine",
-      "Poverty Alleviation and Education"
-    ],
-    "correctAnswer": "Middle East and Ukraine"
+    "question": "The rapid development of El Niño is specifically warned for which period?",
+    "options": ["January-March", "April-June", "July-September", "October-December"],
+    "correctAnswer": "July-September"
   },
   {
     "id": 10,
-    "question": "The Supreme Court declined to revoke bail for an accused in a 'honeymoon murder case' due to what reason?",
-    "options": [
-      "Lack of sufficient evidence",
-      "The accused fleeing the country",
-      "A significant clerical error by police",
-      "The victim's family withdrawing charges"
-    ],
-    "correctAnswer": "A significant clerical error by police"
+    "question": "Which agricultural season is primarily affected by the rainfall deficit in June, as highlighted in the news context?",
+    "options": ["Pre-monsoon", "Monsoon (Kharif)", "Post-monsoon (Rabi)", "Winter"],
+    "correctAnswer": "Monsoon (Kharif)"
   },
   {
     "id": 11,
-    "question": "What was the name of the accused woman whose bail the Supreme Court refused to revoke in the honeymoon murder case?",
-    "options": [
-      "Priya Sharma",
-      "Sonam Raghuvanshi",
-      "Anjali Singh",
-      "Meera Devi"
-    ],
-    "correctAnswer": "Sonam Raghuvanshi"
+    "question": "Which Indian airline recently announced a cut in fuel surcharges on international routes, benefiting travelers from states like Telangana and Andhra Pradesh?",
+    "options": ["Indigo", "SpiceJet", "Air India", "Vistara"],
+    "correctAnswer": "Air India"
   },
   {
     "id": 12,
-    "question": "Which High Court had initially granted bail in the honeymoon murder case, leading to the Supreme Court's review?",
-    "options": [
-      "Delhi High Court",
-      "Bombay High Court",
-      "Meghalaya High Court",
-      "Madras High Court"
-    ],
-    "correctAnswer": "Meghalaya High Court"
+    "question": "From when are the reduced fuel surcharges on international routes by Air India effective?",
+    "options": ["June 1", "July 1", "August 1", "September 1"],
+    "correctAnswer": "July 1"
   },
   {
     "id": 13,
-    "question": "What was the primary charge against Sonam Raghuvanshi in the honeymoon murder case?",
-    "options": [
-      "Attempted robbery",
-      "Assault and battery",
-      "Husband's murder",
-      "Kidnapping"
-    ],
-    "correctAnswer": "Husband's murder"
+    "question": "What is the primary reason cited for Air India's decision to slash fuel surcharges?",
+    "options": ["Increase in passenger demand", "Drop in global jet fuel costs", "Government subsidy", "Competition from foreign airlines"],
+    "correctAnswer": "Drop in global jet fuel costs"
   },
   {
     "id": 14,
-    "question": "The Indian Embassy in which country is demanding a full investigation into allegations that an Indian sailor's organs were removed?",
-    "options": [
-      "Brazil",
-      "Venezuela",
-      "Argentina",
-      "Colombia"
-    ],
-    "correctAnswer": "Venezuela"
+    "question": "Air India's fuel surcharge reduction applies to international routes connecting to which set of regions?",
+    "options": ["Asia, Africa, South America", "Europe, North America, Australia", "Middle East, Southeast Asia, Russia", "East Asia, Oceania, South America"],
+    "correctAnswer": "Europe, North America, Australia"
   },
   {
     "id": 15,
-    "question": "What was the name of the Indian sailor whose body was returned from Venezuela with alleged missing organs?",
-    "options": [
-      "Rajesh Kumar",
-      "Suresh Singh",
-      "Rakesh Chauhan",
-      "Anil Sharma"
-    ],
-    "correctAnswer": "Rakesh Chauhan"
+    "question": "What is Air India's strategic goal behind slashing fuel surcharges?",
+    "options": ["To reduce operational costs", "To encourage more travelers to fly", "To increase cargo revenue", "To solely focus on domestic routes"],
+    "correctAnswer": "To encourage more travelers to fly"
   },
   {
     "id": 16,
-    "question": "Which organization, apart from the Indian Embassy, is also pushing for answers regarding the seafarer's body with missing organs?",
-    "options": [
-      "Indian Maritime Association",
-      "National Seafarers Welfare Board",
-      "Forward Seamen's Union of India",
-      "Ministry of Shipping"
-    ],
-    "correctAnswer": "Forward Seamen's Union of India"
+    "question": "How are other Indian airlines responding to Air India's move to slash fuel surcharges on international routes?",
+    "options": ["They have all followed suit", "They are also considering cuts", "They are under scrutiny for not following suit", "They have increased their own surcharges"],
+    "correctAnswer": "They are under scrutiny for not following suit"
   },
   {
     "id": 17,
-    "question": "Which musical instrument did the Japanese Prime Minister try her hand at during her visit to India?",
-    "options": [
-      "Sitar",
-      "Tabla",
-      "Flute",
-      "Santoor"
-    ],
-    "correctAnswer": "Santoor"
+    "question": "What type of applications did the Indian Centre instruct Google and Apple to remove from their app stores, affecting users across India including Telangana and Andhra Pradesh?",
+    "options": ["Gaming apps", "Social media apps", "E-rickshaw shutdown prank apps", "Financial transaction apps"],
+    "correctAnswer": "E-rickshaw shutdown prank apps"
   },
   {
     "id": 18,
-    "question": "Prime Minister Narendra Modi extended best wishes for which annual pilgrimage, listing 'five sankalps'?",
-    "options": [
-      "Chardham Yatra",
-      "Amarnath Yatra",
-      "Vaishno Devi Yatra",
-      "Kumbh Mela"
-    ],
-    "correctAnswer": "Amarnath Yatra"
+    "question": "What was the central government's concern regarding the apps it asked Google and Apple to remove?",
+    "options": ["Data privacy violations", "Promoting hate speech", "Facilitating e-rickshaw shutdowns as a prank", "Excessive advertising"],
+    "correctAnswer": "Facilitating e-rickshaw shutdowns as a prank"
   },
   {
     "id": 19,
-    "question": "One of PM Modi's 'five sankalps' for Amarnath Yatra pilgrims specifically focuses on 'environmental care' and what other related aspect?",
-    "options": [
-      "Technological advancement",
-      "Cleanliness",
-      "Cultural preservation",
-      "Spiritual awakening"
-    ],
-    "correctAnswer": "Cleanliness"
+    "question": "Which two major tech companies were directed by the Indian Centre to remove certain problematic apps?",
+    "options": ["Microsoft and Amazon", "Google and Apple", "Facebook and Twitter", "Samsung and Huawei"],
+    "correctAnswer": "Google and Apple"
   },
   {
     "id": 20,
-    "question": "Another 'sankalp' by PM Modi for Amarnath Yatra pilgrims emphasized supporting what specific aspect in the region?",
-    "options": [
-      "National defense",
-      "Local economies",
-      "International tourism",
-      "Religious education"
-    ],
-    "correctAnswer": "Local economies"
+    "question": "Which social media giant was summoned by the Centre over concerns about advertisements promoting child abuse material on its platforms, affecting digital safety for all Indian citizens?",
+    "options": ["Twitter", "Google", "Meta", "TikTok"],
+    "correctAnswer": "Meta"
   },
   {
     "id": 21,
-    "question": "The Amarnath Yatra, a significant symbol of India's spiritual heritage, is mentioned to continue until which date?",
-    "options": [
-      "July 15",
-      "August 28",
-      "September 10",
-      "October 5"
-    ],
-    "correctAnswer": "August 28"
+    "question": "What specific issue led to the Centre summoning Meta, as reported in the news?",
+    "options": ["User data breaches", "Political misinformation", "Promoting child abuse material", "Antitrust violations"],
+    "correctAnswer": "Promoting child abuse material"
   },
   {
     "id": 22,
-    "question": "What technology was used to read a century of Sun sketches to uncover hidden patterns in solar activity?",
-    "options": [
-      "Robotics",
-      "Nanotechnology",
-      "Artificial Intelligence (AI)",
-      "Virtual Reality (VR)"
-    ],
-    "correctAnswer": "Artificial Intelligence (AI)"
+    "question": "The 40% rainfall deficit in June, as reported, directly impacts which major agricultural activity in India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Dairy farming", "Aquaculture", "Crop sowing", "Poultry farming"],
+    "correctAnswer": "Crop sowing"
   },
   {
     "id": 23,
-    "question": "The Election Commission of India recently sought a reply from which political party regarding a split in its factions?",
-    "options": [
-      "Bharatiya Janata Party (BJP)",
-      "Aam Aadmi Party (AAP)",
-      "Trinamool Congress (TMC)",
-      "Communist Party of India (Marxist) (CPI(M))"
-    ],
-    "correctAnswer": "Trinamool Congress (TMC)"
+    "question": "The government's review of the rainfall deficit situation is part of a broader effort to manage the potential impact of what phenomenon, critical for states like Telangana and Andhra Pradesh?",
+    "options": ["Global warming", "El Niño", "Ozone depletion", "Volcanic eruptions"],
+    "correctAnswer": "El Niño"
   },
   {
     "id": 24,
-    "question": "The news mentioned that bypolls resulting from a political party split might lead to what action by the Election Commission?",
-    "options": [
-      "Granting special status",
-      "Freezing the party symbol",
-      "Imposing a fine",
-      "Disqualifying members"
-    ],
-    "correctAnswer": "Freezing the party symbol"
+    "question": "What critical period for agricultural planning in states like Telangana and Andhra Pradesh is being closely monitored due to the rapid development of El Niño?",
+    "options": ["Pre-monsoon", "Monsoon season", "Post-harvest", "Winter planting"],
+    "correctAnswer": "Monsoon season"
   },
   {
     "id": 25,
-    "question": "Prime Minister Modi is scheduled to make his first official visit to which country next week, according to the news?",
-    "options": [
-      "Australia",
-      "Japan",
-      "New Zealand",
-      "Canada"
-    ],
-    "correctAnswer": "New Zealand"
+    "question": "The government is ensuring food grain availability in light of the El Niño warning and rainfall deficit to prevent what potential issue across India, including Telangana and Andhra Pradesh?",
+    "options": ["Oversupply of grains", "Price crashes", "Food scarcity and inflation", "Export restrictions"],
+    "correctAnswer": "Food scarcity and inflation"
   }
 ]

@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which major Indian city, a prominent pharmaceutical hub, is significantly impacted by the recent easing of pharma pricing norms?",
-    "options": ["Hyderabad", "Mumbai", "Bengaluru", "Chennai"],
-    "correctAnswer": "Hyderabad"
+    "question": "What is the core allegation made by Congress and AAP regarding the Ram Temple donations?",
+    "options": [
+      "Misuse of construction funds for infrastructure projects",
+      "Irregularities and a 'chanda chori mega scandal'",
+      "Lack of transparency in donor identification",
+      "Delay in temple completion due to funding issues"
+    ],
+    "correctAnswer": "Irregularities and a 'chanda chori mega scandal'"
   },
   {
     "id": 2,
-    "question": "What key change did the government introduce regarding overcharging liability for drugmakers under the reformed Drugs (Prices Control) Order, 2013?",
-    "options": ["Liability now applies to entire batches sold above ceiling prices.", "Overcharging liability is completely abolished for new drugs.", "Liability focuses only on stock sold above ceiling prices by retailers or distributors.", "Drugmakers are now exempt from any overcharging penalties."],
-    "correctAnswer": "Liability focuses only on stock sold above ceiling prices by retailers or distributors."
+    "question": "Which body has Congress urged PM Modi to order a probe into the Ram Temple donation case?",
+    "options": [
+      "CBI-monitored investigation",
+      "Lokpal inquiry",
+      "Supreme Court-monitored probe",
+      "Joint Parliamentary Committee"
+    ],
+    "correctAnswer": "Supreme Court-monitored probe"
   },
   {
     "id": 3,
-    "question": "One expected outcome of the simplified pricing approvals for new drug launches, as per the recent government reforms, is:",
-    "options": ["Increased government control over drug prices.", "Reduction in procedural delays and streamlining market entry.", "Mandatory price reductions for all new drugs.", "Elimination of all pricing regulations for pharmaceutical companies."],
-    "correctAnswer": "Reduction in procedural delays and streamlining market entry."
+    "question": "What term did the Congress party use to describe the alleged irregularities in Ram Temple donations?",
+    "options": [
+      "Financial mismanagement",
+      "Accounting oversight",
+      "Chanda chori mega scandal",
+      "Fund diversion scheme"
+    ],
+    "correctAnswer": "Chanda chori mega scandal"
   },
   {
     "id": 4,
-    "question": "The easing of pharma pricing norms primarily aims to benefit which sector within the Indian economy, a sector with a strong presence in states like Telangana?",
-    "options": ["Automobile industry", "Information Technology sector", "Pharmaceutical industry", "Agricultural sector"],
-    "correctAnswer": "Pharmaceutical industry"
+    "question": "Which state government's SIT probe into the Ram Temple donation case was termed an 'eyewash' by the Congress?",
+    "options": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Bihar",
+      "Rajasthan"
+    ],
+    "correctAnswer": "Uttar Pradesh"
   },
   {
     "id": 5,
-    "question": "Which specific government order was reformed to ease compliance for drugmakers, especially impacting regions with significant pharmaceutical manufacturing like Telangana?",
-    "options": ["Essential Commodities Act, 1955", "Drugs and Cosmetics Act, 1940", "Drugs (Prices Control) Order, 2013", "Patent Act, 1970"],
-    "correctAnswer": "Drugs (Prices Control) Order, 2013"
+    "question": "Who is an AAP leader mentioned as echoing sentiments about powerful individuals being shielded in the Ram Temple case?",
+    "options": [
+      "Manish Sisodia",
+      "Sanjay Singh",
+      "Arvind Kejriwal",
+      "Atishi Marlena"
+    ],
+    "correctAnswer": "Arvind Kejriwal"
   },
   {
     "id": 6,
-    "question": "What was a common challenge faced by pharmaceutical companies, particularly those operating in major manufacturing states like Telangana and Andhra Pradesh, before the recent pricing reforms?",
-    "options": ["Lack of skilled labor", "High import duties on raw materials", "Procedural delays in pricing approvals for new drugs", "Insufficient demand for new medications"],
-    "correctAnswer": "Procedural delays in pricing approvals for new drugs"
+    "question": "Which country's Prime Minister recently visited India to advance bilateral ties, focusing on tech, energy, and defence?",
+    "options": [
+      "South Korea",
+      "Australia",
+      "Japan",
+      "Germany"
+    ],
+    "correctAnswer": "Japan"
   },
   {
     "id": 7,
-    "question": "The government's decision to simplify pricing approvals for new drugs directly supports which aspect of the pharmaceutical industry?",
-    "options": ["Export subsidies", "Faster market entry for new products", "Price caps on essential medicines", "Increased government procurement"],
-    "correctAnswer": "Faster market entry for new products"
+    "question": "Beyond technology and energy, what other key area was a focus of the renewed India-Japan partnership?",
+    "options": [
+      "Education",
+      "Healthcare",
+      "Defence",
+      "Tourism"
+    ],
+    "correctAnswer": "Defence"
   },
   {
     "id": 8,
-    "question": "The reforms in pharma pricing norms in India are particularly significant for regions like Telangana due to their concentration of:",
-    "options": ["Heavy industries", "IT service companies", "Drug manufacturing units and research facilities", "Textile mills"],
-    "correctAnswer": "Drug manufacturing units and research facilities"
+    "question": "A roadmap for economic security was adopted between India and Japan to strengthen supply chains for what?",
+    "options": [
+      "Agricultural products and textiles",
+      "Pharmaceuticals and medical devices",
+      "Critical minerals and semiconductors",
+      "Automobile components and heavy machinery"
+    ],
+    "correctAnswer": "Critical minerals and semiconductors"
   },
   {
     "id": 9,
-    "question": "What is the overarching objective behind the government's reforms to the Drugs (Prices Control) Order, 2013?",
-    "options": ["To increase drug prices for consumers.", "To reduce the number of drugs available in the market.", "To ease compliance and streamline processes for drugmakers.", "To mandate government ownership of all pharmaceutical companies."],
-    "correctAnswer": "To ease compliance and streamline processes for drugmakers."
+    "question": "Both India and Japan reaffirmed their commitment to an early summit of which multilateral grouping?",
+    "options": [
+      "BRICS",
+      "ASEAN",
+      "SCO",
+      "Quad"
+    ],
+    "correctAnswer": "Quad"
   },
   {
     "id": 10,
-    "question": "The easing of pharma pricing norms is expected to boost which aspect of innovation and development in the Indian pharmaceutical sector, particularly in states like Telangana and Andhra Pradesh?",
-    "options": ["Reducing research and development budgets.", "Encouraging the launch of similar products and new drugs.", "Limiting foreign investment in the sector.", "Shifting focus solely to generic drug manufacturing."],
-    "correctAnswer": "Encouraging the launch of similar products and new drugs."
+    "question": "The joint statement between India and Japan unequivocally condemned cross-border terrorism from which nation, specifically mentioning groups like Jaish and Lashkar?",
+    "options": [
+      "China",
+      "Afghanistan",
+      "Pakistan",
+      "Myanmar"
+    ],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 11,
-    "question": "According to Petroleum Minister Hardeep Singh Puri, what is the extent of the mileage drop experienced by E20-fuelled vehicles across India, including in Telangana and Andhra Pradesh?",
-    "options": ["Significant drop", "Minor drop", "No drop at all", "Increased mileage"],
-    "correctAnswer": "Minor drop"
+    "question": "According to Petroleum Minister Hardeep Singh Puri, what is the primary condition for fuel prices to be cut?",
+    "options": [
+      "Increase in domestic crude oil production",
+      "Significant drop in global oil prices",
+      "Stability in global oil markets for next few weeks",
+      "Government subsidy for consumers"
+    ],
+    "correctAnswer": "Stability in global oil markets for next few weeks"
   },
   {
     "id": 12,
-    "question": "What potential positive effect of E20 fuel, besides addressing mileage concerns, was highlighted by the Petroleum Minister?",
-    "options": ["Reduced maintenance costs", "Improved acceleration", "Longer engine life", "Cleaner exhaust emissions"],
-    "correctAnswer": "Improved acceleration"
-  },
-  {
-    "id": 13,
-    "question": "The government released a detailed note to counter misinformation and reassure vehicle owners about the safety and practice of ethanol blending. Which fuel type was this in reference to?",
-    "options": ["CNG", "LPG", "E20", "Electric vehicle charging"],
+    "question": "What fuel blend did Minister Hardeep Singh Puri address concerns about regarding mileage reduction?",
+    "options": [
+      "E50",
+      "E100",
+      "E20",
+      "CNG"
+    ],
     "correctAnswer": "E20"
   },
   {
-    "id": 14,
-    "question": "What historical figure was cited as having supported ethanol blending, demonstrating its established practice, in the context of E20 fuel?",
-    "options": ["Thomas Edison", "Henry Ford", "Wright Brothers", "Nikola Tesla"],
+    "id": 13,
+    "question": "What historical figure was cited by the Petroleum Ministry as supporting ethanol blending in fuels?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Henry Ford",
+      "Rudolf Diesel"
+    ],
     "correctAnswer": "Henry Ford"
   },
   {
+    "id": 14,
+    "question": "What potential benefit, besides minor mileage reduction, was mentioned for E20-fuelled vehicles by Minister Hardeep Singh Puri?",
+    "options": [
+      "Improved acceleration",
+      "Reduced engine noise",
+      "Extended engine life",
+      "Lower maintenance costs"
+    ],
+    "correctAnswer": "Improved acceleration"
+  },
+  {
     "id": 15,
-    "question": "Petroleum Minister Hardeep Singh Puri recently dismissed public concerns regarding E20 fuel, labeling social media narratives as what?",
-    "options": ["Expert analysis", "Detailed reports", "Make-believe", "Government advisories"],
-    "correctAnswer": "Make-believe"
+    "question": "The easing of pharma pricing norms by the government is particularly significant for which Indian state, recognized as a major pharmaceutical hub and often referred to as 'Genome Valley'?",
+    "options": [
+      "Karnataka",
+      "Gujarat",
+      "Telangana",
+      "Maharashtra"
+    ],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 16,
-    "question": "Which judicial bodies had their rulings nullified by the Supreme Court due to their reliance on fabricated AI-generated case laws, a ruling that sets a precedent for all courts and tribunals including those in Telangana and Andhra Pradesh?",
-    "options": ["High Courts and District Courts", "NCLT and NCLAT", "Consumer Forums and Labour Courts", "Revenue Tribunals and Family Courts"],
-    "correctAnswer": "NCLT and NCLAT"
+    "question": "What 2013 order has the government reformed to ease compliance for drugmakers, specifically mentioned in the news?",
+    "options": [
+      "Essential Medicines List, 2013",
+      "Drugs and Cosmetics Act, 2013",
+      "Drugs (Prices Control) Order, 2013",
+      "Clinical Trials Regulations, 2013"
+    ],
+    "correctAnswer": "Drugs (Prices Control) Order, 2013"
   },
   {
     "id": 17,
-    "question": "What did the Supreme Court emphasize regarding the use of AI in justice delivery, especially relevant for legal professionals across India, including in Telangana and Andhra Pradesh?",
-    "options": ["Full delegation of decision-making to AI.", "Exclusive reliance on AI for case precedents.", "Unchecked AI use without human control.", "Human control in justice delivery, cautioning against unchecked AI use."],
-    "correctAnswer": "Human control in justice delivery, cautioning against unchecked AI use."
+    "question": "A key change in pharma pricing norms narrows overcharging liability to focus on stock sold above ceiling prices by whom?",
+    "options": [
+      "Manufacturers only",
+      "Retailers or distributors",
+      "Importers and exporters",
+      "Hospitals and clinics"
+    ],
+    "correctAnswer": "Retailers or distributors"
   },
   {
     "id": 18,
-    "question": "The Supreme Court declared any decision based on unverified AI precedents as what?",
-    "options": ["Admissible as supplementary evidence.", "Valid, if supported by other evidence.", "Invalid.", "Subject to review by an AI ethics committee."],
-    "correctAnswer": "Invalid."
+    "question": "What is a primary goal of simplifying pricing approvals for new drug launches, according to the recent reforms?",
+    "options": [
+      "Reducing R&D costs",
+      "Increasing drug exports",
+      "Streamlining market entry and reducing procedural delays",
+      "Enhancing drug quality control"
+    ],
+    "correctAnswer": "Streamlining market entry and reducing procedural delays"
   },
   {
     "id": 19,
-    "question": "The Supreme Court's decision to form a committee to explore the issue of AI in judicial processes highlights the risks of delegating what crucial aspect to AI?",
-    "options": ["Administrative tasks", "Critical thinking", "Document management", "Case scheduling"],
-    "correctAnswer": "Critical thinking"
+    "question": "What was the unusual reason for the Supreme Court nullifying orders from NCLT and NCLAT?",
+    "options": [
+      "Procedural irregularities",
+      "Lack of jurisdiction",
+      "Reliance on fabricated AI-generated case laws",
+      "Insufficient evidence presented"
+    ],
+    "correctAnswer": "Reliance on fabricated AI-generated case laws"
   },
   {
     "id": 20,
-    "question": "The Supreme Court's nullification of orders based on fake AI citations underscores a zero-tolerance approach for what kind of material in judicial processes across India?",
-    "options": ["Expert witness testimonies", "Unverified AI precedents", "Historical case records", "International law comparisons"],
-    "correctAnswer": "Unverified AI precedents"
+    "question": "The Supreme Court emphasized the need for human control in the justice delivery system when cautioning against unchecked use of what?",
+    "options": [
+      "Social media evidence",
+      "Witness testimonies",
+      "Artificial Intelligence",
+      "Forensic analysis"
+    ],
+    "correctAnswer": "Artificial Intelligence"
   },
   {
     "id": 21,
-    "question": "Which central government agency is actively settling a large number of Foreign Exchange Management Act (Fema) cases to avoid prolonged legal battles, impacting businesses nationwide including in Telangana and Andhra Pradesh?",
-    "options": ["Central Bureau of Investigation (CBI)", "Income Tax Department (ITD)", "Enforcement Directorate (ED)", "National Investigation Agency (NIA)"],
+    "question": "Which government agency is undertaking large-scale compounding of Foreign Exchange Management Act (Fema) cases to expedite resolutions?",
+    "options": [
+      "Central Bureau of Investigation (CBI)",
+      "Directorate of Revenue Intelligence (DRI)",
+      "Enforcement Directorate (ED)",
+      "Income Tax Department"
+    ],
     "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 22,
-    "question": "The Enforcement Directorate (ED) requires approval from which institution to settle Fema cases through the compounding process?",
-    "options": ["Ministry of Finance", "Securities and Exchange Board of India (SEBI)", "Reserve Bank of India (RBI)", "Supreme Court of India"],
-    "correctAnswer": "Reserve Bank of India (RBI)"
+    "question": "What is required from the Reserve Bank of India for the Enforcement Directorate to settle Fema cases through compounding?",
+    "options": [
+      "Financial sanction",
+      "Legal counsel",
+      "No-objection certificate",
+      "Policy directive"
+    ],
+    "correctAnswer": "No-objection certificate"
   },
   {
     "id": 23,
-    "question": "What is a key objective behind the Enforcement Directorate's strategy of large-scale compounding of Fema cases?",
-    "options": ["To increase the number of Fema prosecutions.", "To extend legal battles indefinitely.", "To expedite resolutions and foster a more facilitative business environment.", "To impose harsher penalties on all Fema violators."],
-    "correctAnswer": "To expedite resolutions and foster a more facilitative business environment."
+    "question": "Besides WhatsApp, which other popular messaging platforms recently received notices from the Indian government regarding their username systems?",
+    "options": [
+      "Facebook Messenger and WeChat",
+      "Telegram and Signal",
+      "Line and Viber",
+      "Skype and Zoom"
+    ],
+    "correctAnswer": "Telegram and Signal"
   },
   {
     "id": 24,
-    "question": "Over how many Fema cases were terminated in the past 15 months following 'no-objection certificates' from the ED, indicating a national effort to streamline such economic matters?",
-    "options": ["Less than 50", "Exactly 100", "Over 150", "Thousands"],
-    "correctAnswer": "Over 150"
+    "question": "The Indian government is seeking explanations from messaging platforms on how they prevent which issues related to username systems?",
+    "options": [
+      "Data encryption and privacy breaches",
+      "Fraud, impersonation, and scams",
+      "Cross-platform compatibility issues",
+      "Excessive data consumption"
+    ],
+    "correctAnswer": "Fraud, impersonation, and scams"
   },
   {
     "id": 25,
-    "question": "Following WhatsApp, which two other messaging platforms received notices from the Indian government demanding explanations on their username systems due to concerns over fraud and impersonation, impacting users across states like Telangana and Andhra Pradesh?",
-    "options": ["Instagram and X (formerly Twitter)", "Snapchat and TikTok", "Telegram and Signal", "Facebook Messenger and WeChat"],
-    "correctAnswer": "Telegram and Signal"
+    "question": "How many days were given to Telegram and Signal to respond to the Indian government's notices regarding their username features?",
+    "options": [
+      "7 days",
+      "15 days",
+      "3 days",
+      "30 days"
+    ],
+    "correctAnswer": "3 days"
   }
 ]

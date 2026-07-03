@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What meteorological phenomenon, predicted to develop rapidly from July-September, threatens India with heatwaves and drought, directly impacting states like Telangana and Andhra Pradesh?",
-    "options": ["La Niña", "El Niño", "Arctic Oscillation", "Indian Ocean Dipole"],
-    "correctAnswer": "El Niño"
+    "question": "The recent discussions regarding constitutional safeguards for Ladakh refer to 'Article 371-like provisions'. Which specific sub-article of the Indian Constitution provides special provisions for Andhra Pradesh and Telangana?",
+    "options": ["Article 370", "Article 371-A", "Article 371-D", "Article 371-J"],
+    "correctAnswer": "Article 371-D"
   },
   {
     "id": 2,
-    "question": "According to the news, what percentage of rainfall deficit did India experience in June, impacting agricultural prospects in regions including Telangana and Andhra Pradesh?",
-    "options": ["10%", "23%", "40%", "50%"],
-    "correctAnswer": "40%"
+    "question": "Article 371-D of the Indian Constitution, relevant to Andhra Pradesh and Telangana, primarily aims to ensure equitable opportunities in which two key areas?",
+    "options": ["Economic development and infrastructure", "Reservation in educational institutions and public employment", "Protection of tribal lands and culture", "Special financial grants and tax exemptions"],
+    "correctAnswer": "Reservation in educational institutions and public employment"
   },
   {
     "id": 3,
-    "question": "The rainfall deficit in June led to a significant reduction in the sowing of which type of crop, critical for states like Telangana and Andhra Pradesh?",
-    "options": ["Rabi crops", "Zaid crops", "Kharif crops", "Cash crops"],
-    "correctAnswer": "Kharif crops"
+    "question": "Before its bifurcation, Article 371-D of the Constitution applied to the combined state of Andhra Pradesh. After bifurcation, to which two present-day states does this Article continue to apply?",
+    "options": ["Telangana and Karnataka", "Andhra Pradesh and Telangana", "Andhra Pradesh and Odisha", "Telangana and Maharashtra"],
+    "correctAnswer": "Andhra Pradesh and Telangana"
   },
   {
     "id": 4,
-    "question": "By what approximate percentage was Kharif crop sowing slashed due to the rainfall deficit mentioned in the news?",
-    "options": ["15%", "23%", "30%", "40%"],
-    "correctAnswer": "23%"
+    "question": "The constitutional provision discussed for Ladakh, similar to Article 371-D for AP/TS, is part of which larger Article dealing with special provisions for various Indian states?",
+    "options": ["Article 368", "Article 371", "Article 372", "Article 375"],
+    "correctAnswer": "Article 371"
   },
   {
     "id": 5,
-    "question": "What primary advice is the Indian government providing to farmers in response to the anticipated El Niño conditions and rainfall deficit?",
-    "options": ["To plant water-intensive crops", "To export all produce", "To switch to water-efficient crops", "To stop farming for the season"],
-    "correctAnswer": "To switch to water-efficient crops"
+    "question": "Which constitutional amendment introduced Article 371-D for the state of Andhra Pradesh, establishing special provisions for the region?",
+    "options": ["42nd Amendment", "24th Amendment", "32nd Amendment", "73rd Amendment"],
+    "correctAnswer": "32nd Amendment"
   },
   {
     "id": 6,
-    "question": "Which international organization issued the warning regarding the rapid development of El Niño and its potential impact on India?",
-    "options": ["IMF", "WHO", "WMO", "FAO"],
-    "correctAnswer": "WMO"
+    "question": "The Presidential Order issued under Article 371-D for Andhra Pradesh, aiming to address regional disparities, is commonly known as what?",
+    "options": ["Gentlemen's Agreement", "Six-Point Formula", "Mulki Rules", "Andhra Pradesh Reorganisation Act"],
+    "correctAnswer": "Six-Point Formula"
   },
   {
     "id": 7,
-    "question": "Beyond drought, what other severe weather condition is India threatened with due to El Niño's rapid development, potentially affecting states like Telangana and Andhra Pradesh?",
-    "options": ["Cyclones", "Floods", "Heatwaves", "Earthquakes"],
-    "correctAnswer": "Heatwaves"
+    "question": "What is a primary purpose of special provisions under Article 371-D concerning public employment in Andhra Pradesh and Telangana?",
+    "options": ["To allow free movement of labor", "To ensure local candidates get preference", "To promote inter-state transfers", "To standardize recruitment procedures"],
+    "correctAnswer": "To ensure local candidates get preference"
   },
   {
     "id": 8,
-    "question": "The government is actively monitoring the rainfall deficit situation to ensure the availability of which essential commodity across the country, including Telangana and Andhra Pradesh?",
-    "options": ["Oil", "Food grains", "Fertilisers", "Medicines"],
-    "correctAnswer": "Food grains"
+    "question": "The special provisions of Article 371-D for Andhra Pradesh and Telangana are designed to address regional imbalances and ensure equitable opportunities across different parts of the state. Which regions were historically considered in the formulation of these special provisions?",
+    "options": ["Only Telangana region", "Only Coastal Andhra region", "Only Rayalaseema region", "Various regions within the state, including Telangana, Coastal Andhra, and Rayalaseema"],
+    "correctAnswer": "Various regions within the state, including Telangana, Coastal Andhra, and Rayalaseema"
   },
   {
     "id": 9,
-    "question": "The rapid development of El Niño is specifically warned for which period?",
-    "options": ["January-March", "April-June", "July-September", "October-December"],
-    "correctAnswer": "July-September"
+    "question": "The Indian government recently ordered the removal of seven Chinese apps from app stores. What type of apps were primarily targeted in this directive due to misuse allegations?",
+    "options": ["Social media apps", "Gaming apps", "Battery management apps", "E-commerce apps"],
+    "correctAnswer": "Battery management apps"
   },
   {
     "id": 10,
-    "question": "Which agricultural season is primarily affected by the rainfall deficit in June, as highlighted in the news context?",
-    "options": ["Pre-monsoon", "Monsoon (Kharif)", "Post-monsoon (Rabi)", "Winter"],
-    "correctAnswer": "Monsoon (Kharif)"
+    "question": "The government's decision to ban certain Chinese apps was driven by concerns over their alleged misuse to remotely disable which type of battery-operated vehicles?",
+    "options": ["Electric cars", "E-rickshaws", "Motorcycles", "Public buses"],
+    "correctAnswer": "E-rickshaws"
   },
   {
     "id": 11,
-    "question": "Which Indian airline recently announced a cut in fuel surcharges on international routes, benefiting travelers from states like Telangana and Andhra Pradesh?",
-    "options": ["Indigo", "SpiceJet", "Air India", "Vistara"],
-    "correctAnswer": "Air India"
+    "question": "Which two global tech giants were specifically directed by the Indian government to remove the identified Chinese apps from their platforms?",
+    "options": ["Microsoft and Amazon", "Facebook and X (formerly Twitter)", "Apple and Google", "Samsung and Xiaomi"],
+    "correctAnswer": "Apple and Google"
   },
   {
     "id": 12,
-    "question": "From when are the reduced fuel surcharges on international routes by Air India effective?",
-    "options": ["June 1", "July 1", "August 1", "September 1"],
-    "correctAnswer": "July 1"
+    "question": "The recent government action regarding Chinese apps is highlighted as the first time authorities are addressing data security and remote interference concerns linked to what specific category of devices?",
+    "options": ["Mobile phones", "Smart home devices", "Vehicle devices", "Wearable tech"],
+    "correctAnswer": "Vehicle devices"
   },
   {
     "id": 13,
-    "question": "What is the primary reason cited for Air India's decision to slash fuel surcharges?",
-    "options": ["Increase in passenger demand", "Drop in global jet fuel costs", "Government subsidy", "Competition from foreign airlines"],
-    "correctAnswer": "Drop in global jet fuel costs"
+    "question": "How many Chinese battery management apps were initially ordered to be removed by the Indian government due to security concerns?",
+    "options": ["Three", "Five", "Seven", "Ten"],
+    "correctAnswer": "Seven"
   },
   {
     "id": 14,
-    "question": "Air India's fuel surcharge reduction applies to international routes connecting to which set of regions?",
-    "options": ["Asia, Africa, South America", "Europe, North America, Australia", "Middle East, Southeast Asia, Russia", "East Asia, Oceania, South America"],
-    "correctAnswer": "Europe, North America, Australia"
+    "question": "The removal of Chinese battery management apps is a step towards enhancing the security of which growing sector in India, particularly impacting states like Telangana and Andhra Pradesh with increasing EV adoption?",
+    "options": ["Renewable energy", "Electric vehicle (EV) industry", "Telecommunications", "Fintech services"],
+    "correctAnswer": "Electric vehicle (EV) industry"
   },
   {
     "id": 15,
-    "question": "What is Air India's strategic goal behind slashing fuel surcharges?",
-    "options": ["To reduce operational costs", "To encourage more travelers to fly", "To increase cargo revenue", "To solely focus on domestic routes"],
-    "correctAnswer": "To encourage more travelers to fly"
+    "question": "The ban on specific Chinese apps highlights India's focus on national data security. Which government ministry is typically responsible for issuing such directives?",
+    "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Electronics and Information Technology (MeitY)", "Ministry of Home Affairs"],
+    "correctAnswer": "Ministry of Electronics and Information Technology (MeitY)"
   },
   {
     "id": 16,
-    "question": "How are other Indian airlines responding to Air India's move to slash fuel surcharges on international routes?",
-    "options": ["They have all followed suit", "They are also considering cuts", "They are under scrutiny for not following suit", "They have increased their own surcharges"],
-    "correctAnswer": "They are under scrutiny for not following suit"
+    "question": "What new feature has recently been made available on the official Aadhaar app, allowing users across India, including those in Telangana and Andhra Pradesh, to update their personal information?",
+    "options": ["Changing residential address", "Updating email ID", "Modifying date of birth", "Adding family members"],
+    "correctAnswer": "Updating email ID"
   },
   {
     "id": 17,
-    "question": "What type of applications did the Indian Centre instruct Google and Apple to remove from their app stores, affecting users across India including Telangana and Andhra Pradesh?",
-    "options": ["Gaming apps", "Social media apps", "E-rickshaw shutdown prank apps", "Financial transaction apps"],
-    "correctAnswer": "E-rickshaw shutdown prank apps"
+    "question": "The Aadhaar app allows Indian residents to manage their unique identity. Which government authority is responsible for issuing and managing Aadhaar?",
+    "options": ["Reserve Bank of India (RBI)", "Unique Identification Authority of India (UIDAI)", "Election Commission of India (ECI)", "National Payments Corporation of India (NPCI)"],
+    "correctAnswer": "Unique Identification Authority of India (UIDAI)"
   },
   {
     "id": 18,
-    "question": "What was the central government's concern regarding the apps it asked Google and Apple to remove?",
-    "options": ["Data privacy violations", "Promoting hate speech", "Facilitating e-rickshaw shutdowns as a prank", "Excessive advertising"],
-    "correctAnswer": "Facilitating e-rickshaw shutdowns as a prank"
+    "question": "What is the unique 12-digit identification number issued by UIDAI called, which can now have its associated email updated via its official app?",
+    "options": ["PAN Card", "Voter ID", "Passport", "Aadhaar"],
+    "correctAnswer": "Aadhaar"
   },
   {
     "id": 19,
-    "question": "Which two major tech companies were directed by the Indian Centre to remove certain problematic apps?",
-    "options": ["Microsoft and Amazon", "Google and Apple", "Facebook and Twitter", "Samsung and Huawei"],
-    "correctAnswer": "Google and Apple"
+    "question": "Which national political party recently called for the dissolution of the Ram Janmabhoomi Teerth Kshetra Trust amidst allegations of donation theft?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 20,
-    "question": "Which social media giant was summoned by the Centre over concerns about advertisements promoting child abuse material on its platforms, affecting digital safety for all Indian citizens?",
-    "options": ["Twitter", "Google", "Meta", "TikTok"],
-    "correctAnswer": "Meta"
+    "question": "The Ram Janmabhoomi Teerth Kshetra Trust is at the center of a national controversy involving alleged misappropriation of funds. This trust is responsible for the construction and management of which significant religious site?",
+    "options": ["Kashi Vishwanath Temple", "Kedarnath Temple", "Ram Temple in Ayodhya", "Vaishno Devi Temple"],
+    "correctAnswer": "Ram Temple in Ayodhya"
   },
   {
     "id": 21,
-    "question": "What specific issue led to the Centre summoning Meta, as reported in the news?",
-    "options": ["User data breaches", "Political misinformation", "Promoting child abuse material", "Antitrust violations"],
-    "correctAnswer": "Promoting child abuse material"
+    "question": "Which prominent national organization expressed deep concern over the alleged donation theft at the Ayodhya Ram temple and urged the trust to improve its management?",
+    "options": ["Vishwa Hindu Parishad (VHP)", "Bajrang Dal", "Rashtriya Swayamsevak Sangh (RSS)", "Arya Samaj"],
+    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
   },
   {
     "id": 22,
-    "question": "The 40% rainfall deficit in June, as reported, directly impacts which major agricultural activity in India, including states like Telangana and Andhra Pradesh?",
-    "options": ["Dairy farming", "Aquaculture", "Crop sowing", "Poultry farming"],
-    "correctAnswer": "Crop sowing"
+    "question": "The controversy surrounding the Ram Janmabhoomi Teerth Kshetra Trust prompted demands for an investigation monitored by which high judicial body in India?",
+    "options": ["High Court of Uttar Pradesh", "National Green Tribunal", "Supreme Court of India", "Central Bureau of Investigation (CBI)"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 23,
-    "question": "The government's review of the rainfall deficit situation is part of a broader effort to manage the potential impact of what phenomenon, critical for states like Telangana and Andhra Pradesh?",
-    "options": ["Global warming", "El Niño", "Ozone depletion", "Volcanic eruptions"],
-    "correctAnswer": "El Niño"
+    "question": "The special provisions of Article 371-D for Andhra Pradesh and Telangana are designed to promote which fundamental constitutional principle within the states?",
+    "options": ["Unity in diversity", "Secularism", "Equality of opportunity", "Freedom of speech"],
+    "correctAnswer": "Equality of opportunity"
   },
   {
     "id": 24,
-    "question": "What critical period for agricultural planning in states like Telangana and Andhra Pradesh is being closely monitored due to the rapid development of El Niño?",
-    "options": ["Pre-monsoon", "Monsoon season", "Post-harvest", "Winter planting"],
-    "correctAnswer": "Monsoon season"
+    "question": "Users updating their email on the Aadhaar app are typically advised to keep their contact information current for which primary purpose related to security and service delivery?",
+    "options": ["Receiving promotional offers", "Enhancing transaction security and receiving notifications", "Participating in surveys", "Linking to social media accounts"],
+    "correctAnswer": "Enhancing transaction security and receiving notifications"
   },
   {
     "id": 25,
-    "question": "The government is ensuring food grain availability in light of the El Niño warning and rainfall deficit to prevent what potential issue across India, including Telangana and Andhra Pradesh?",
-    "options": ["Oversupply of grains", "Price crashes", "Food scarcity and inflation", "Export restrictions"],
-    "correctAnswer": "Food scarcity and inflation"
+    "question": "The recent ban on Chinese battery management apps by the Indian government due to data security and remote interference issues suggests a proactive stance in which broader category of national security?",
+    "options": ["Financial security", "Environmental security", "Cyber security", "Food security"],
+    "correctAnswer": "Cyber security"
   }
 ]

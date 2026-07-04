@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The recent discussions regarding constitutional safeguards for Ladakh refer to 'Article 371-like provisions'. Which specific sub-article of the Indian Constitution provides special provisions for Andhra Pradesh and Telangana?",
-    "options": ["Article 370", "Article 371-A", "Article 371-D", "Article 371-J"],
-    "correctAnswer": "Article 371-D"
+    "question": "What meteorological phenomenon, predicted to rapidly develop, is a significant concern for the agriculture sector in the Indian subcontinent, including Telangana and Andhra Pradesh?",
+    "options": ["La Nina", "El Nino", "Indian Ocean Dipole", "Arctic Oscillation"],
+    "correctAnswer": "El Nino"
   },
   {
     "id": 2,
-    "question": "Article 371-D of the Indian Constitution, relevant to Andhra Pradesh and Telangana, primarily aims to ensure equitable opportunities in which two key areas?",
-    "options": ["Economic development and infrastructure", "Reservation in educational institutions and public employment", "Protection of tribal lands and culture", "Special financial grants and tax exemptions"],
-    "correctAnswer": "Reservation in educational institutions and public employment"
+    "question": "What was the reported rainfall deficit for June in India, a figure that critically impacts rain-fed agricultural regions in states like Telangana and Andhra Pradesh?",
+    "options": ["10%", "25%", "40%", "55%"],
+    "correctAnswer": "40%"
   },
   {
     "id": 3,
-    "question": "Before its bifurcation, Article 371-D of the Constitution applied to the combined state of Andhra Pradesh. After bifurcation, to which two present-day states does this Article continue to apply?",
-    "options": ["Telangana and Karnataka", "Andhra Pradesh and Telangana", "Andhra Pradesh and Odisha", "Telangana and Maharashtra"],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "How has the early rainfall deficit, linked to El Nino, primarily affected kharif crop sowing across India, with direct implications for farmers in Andhra Pradesh and Telangana?",
+    "options": ["Increased acreage", "No change", "Reduced sowing and acreage", "Delayed harvest"],
+    "correctAnswer": "Reduced sowing and acreage"
   },
   {
     "id": 4,
-    "question": "The constitutional provision discussed for Ladakh, similar to Article 371-D for AP/TS, is part of which larger Article dealing with special provisions for various Indian states?",
-    "options": ["Article 368", "Article 371", "Article 372", "Article 375"],
-    "correctAnswer": "Article 371"
+    "question": "Which sector in Telangana and Andhra Pradesh is particularly vulnerable to the predicted El Nino effects, potentially impacting livelihoods and state economies?",
+    "options": ["Information Technology", "Manufacturing", "Agriculture", "Services"],
+    "correctAnswer": "Agriculture"
   },
   {
     "id": 5,
-    "question": "Which constitutional amendment introduced Article 371-D for the state of Andhra Pradesh, establishing special provisions for the region?",
-    "options": ["42nd Amendment", "24th Amendment", "32nd Amendment", "73rd Amendment"],
-    "correctAnswer": "32nd Amendment"
+    "question": "What economic consequence is most likely to arise in Telangana and Andhra Pradesh if kharif crop production is severely affected by El Nino-induced drought?",
+    "options": ["Boost in exports", "Stable food prices", "Food inflation and farmer distress", "Increased industrial output"],
+    "correctAnswer": "Food inflation and farmer distress"
   },
   {
     "id": 6,
-    "question": "The Presidential Order issued under Article 371-D for Andhra Pradesh, aiming to address regional disparities, is commonly known as what?",
-    "options": ["Gentlemen's Agreement", "Six-Point Formula", "Mulki Rules", "Andhra Pradesh Reorganisation Act"],
-    "correctAnswer": "Six-Point Formula"
+    "question": "Beyond rainfall deficit, what other extreme weather events are associated with El Nino, which could pose challenges to the climate-dependent sectors of Andhra Pradesh and Telangana?",
+    "options": ["Cyclones", "Heatwaves and droughts", "Blizzards", "Volcanic eruptions"],
+    "correctAnswer": "Heatwaves and droughts"
   },
   {
     "id": 7,
-    "question": "What is a primary purpose of special provisions under Article 371-D concerning public employment in Andhra Pradesh and Telangana?",
-    "options": ["To allow free movement of labor", "To ensure local candidates get preference", "To promote inter-state transfers", "To standardize recruitment procedures"],
-    "correctAnswer": "To ensure local candidates get preference"
+    "question": "The World Meteorological Organization (WMO) issues warnings about global weather phenomena. What is its primary role in providing climate information vital for states like Andhra Pradesh and Telangana?",
+    "options": ["Regulating international trade", "Promoting space exploration", "Coordinating global meteorological services", "Managing global health crises"],
+    "correctAnswer": "Coordinating global meteorological services"
   },
   {
     "id": 8,
-    "question": "The special provisions of Article 371-D for Andhra Pradesh and Telangana are designed to address regional imbalances and ensure equitable opportunities across different parts of the state. Which regions were historically considered in the formulation of these special provisions?",
-    "options": ["Only Telangana region", "Only Coastal Andhra region", "Only Rayalaseema region", "Various regions within the state, including Telangana, Coastal Andhra, and Rayalaseema"],
-    "correctAnswer": "Various regions within the state, including Telangana, Coastal Andhra, and Rayalaseema"
+    "question": "What type of agricultural regions in Andhra Pradesh and Telangana are most susceptible to adverse impacts from phenomena like El Nino, especially with a significant rainfall deficit?",
+    "options": ["Irrigated regions", "Urban farms", "Rain-fed regions", "Coastal aquaculture farms"],
+    "correctAnswer": "Rain-fed regions"
   },
   {
     "id": 9,
-    "question": "The Indian government recently ordered the removal of seven Chinese apps from app stores. What type of apps were primarily targeted in this directive due to misuse allegations?",
-    "options": ["Social media apps", "Gaming apps", "Battery management apps", "E-commerce apps"],
-    "correctAnswer": "Battery management apps"
+    "question": "What is the projected period for the rapid development of El Nino, as warned by the WMO, which could significantly affect the monsoon season in states like Telangana and Andhra Pradesh?",
+    "options": ["January-March", "April-June", "July-September", "October-December"],
+    "correctAnswer": "July-September"
   },
   {
     "id": 10,
-    "question": "The government's decision to ban certain Chinese apps was driven by concerns over their alleged misuse to remotely disable which type of battery-operated vehicles?",
-    "options": ["Electric cars", "E-rickshaws", "Motorcycles", "Public buses"],
-    "correctAnswer": "E-rickshaws"
+    "question": "A significant reduction in kharif crop acreage due to El Nino-induced drought could directly threaten what in agricultural states such as Telangana and Andhra Pradesh?",
+    "options": ["Industrial growth", "Urban migration", "Food security and farmer livelihoods", "Software exports"],
+    "correctAnswer": "Food security and farmer livelihoods"
   },
   {
     "id": 11,
-    "question": "Which two global tech giants were specifically directed by the Indian government to remove the identified Chinese apps from their platforms?",
-    "options": ["Microsoft and Amazon", "Facebook and X (formerly Twitter)", "Apple and Google", "Samsung and Xiaomi"],
-    "correctAnswer": "Apple and Google"
+    "question": "The Enforcement Directorate (ED) recently auctioned an aircraft seized in a ponzi scam. Which central agency is responsible for investigating financial crimes like ponzi schemes that have affected many investors, including those in states like Andhra Pradesh and Telangana?",
+    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Income Tax Department (ITD)"],
+    "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 12,
-    "question": "The recent government action regarding Chinese apps is highlighted as the first time authorities are addressing data security and remote interference concerns linked to what specific category of devices?",
-    "options": ["Mobile phones", "Smart home devices", "Vehicle devices", "Wearable tech"],
-    "correctAnswer": "Vehicle devices"
+    "question": "What type of financial fraud, often promising high returns to early investors from the funds of later investors, was involved in the case where the ED seized and auctioned a Hawker aircraft, a scheme that has also impacted individuals in Andhra Pradesh and Telangana?",
+    "options": ["Insider trading", "Money laundering", "Ponzi scheme", "Tax evasion"],
+    "correctAnswer": "Ponzi scheme"
   },
   {
     "id": 13,
-    "question": "How many Chinese battery management apps were initially ordered to be removed by the Indian government due to security concerns?",
-    "options": ["Three", "Five", "Seven", "Ten"],
-    "correctAnswer": "Seven"
+    "question": "The Supreme Court recently ruled that the right to privacy under Article 21 cannot shield an individual from disclosing certain details to prove adultery. This ruling applies to marital disputes across India, including cases filed in Andhra Pradesh and Telangana, under which specific law?",
+    "options": ["Special Marriage Act", "Indian Penal Code", "Hindu Marriage Act", "Domestic Violence Act"],
+    "correctAnswer": "Hindu Marriage Act"
   },
   {
     "id": 14,
-    "question": "The removal of Chinese battery management apps is a step towards enhancing the security of which growing sector in India, particularly impacting states like Telangana and Andhra Pradesh with increasing EV adoption?",
-    "options": ["Renewable energy", "Electric vehicle (EV) industry", "Telecommunications", "Fintech services"],
-    "correctAnswer": "Electric vehicle (EV) industry"
+    "question": "In the context of the Supreme Court's ruling on privacy in adultery cases, what type of personal data, if relevant to proving adultery, can potentially be compelled for disclosure, impacting legal proceedings in states like Telangana and Andhra Pradesh?",
+    "options": ["Medical history", "Mobile call records and hotel stay details", "Political affiliations", "Financial tax returns"],
+    "correctAnswer": "Mobile call records and hotel stay details"
   },
   {
     "id": 15,
-    "question": "The ban on specific Chinese apps highlights India's focus on national data security. Which government ministry is typically responsible for issuing such directives?",
-    "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Electronics and Information Technology (MeitY)", "Ministry of Home Affairs"],
-    "correctAnswer": "Ministry of Electronics and Information Technology (MeitY)"
+    "question": "What fundamental right, guaranteed by Article 21 of the Indian Constitution, was discussed by the Supreme Court in relation to its limits when adultery is a ground for divorce in cases across India, including Andhra Pradesh and Telangana?",
+    "options": ["Right to Equality", "Right to Freedom of Speech", "Right to Privacy", "Right to Education"],
+    "correctAnswer": "Right to Privacy"
   },
   {
     "id": 16,
-    "question": "What new feature has recently been made available on the official Aadhaar app, allowing users across India, including those in Telangana and Andhra Pradesh, to update their personal information?",
-    "options": ["Changing residential address", "Updating email ID", "Modifying date of birth", "Adding family members"],
-    "correctAnswer": "Updating email ID"
+    "question": "The Indian government recently summoned Meta over child abuse advertisements on Instagram. Which Union Ministry is primarily responsible for regulating digital platforms and ensuring online safety for citizens, including those in Andhra Pradesh and Telangana?",
+    "options": ["Ministry of Home Affairs", "Ministry of Women and Child Development", "Ministry of Electronics and Information Technology", "Ministry of Communications"],
+    "correctAnswer": "Ministry of Electronics and Information Technology"
   },
   {
     "id": 17,
-    "question": "The Aadhaar app allows Indian residents to manage their unique identity. Which government authority is responsible for issuing and managing Aadhaar?",
-    "options": ["Reserve Bank of India (RBI)", "Unique Identification Authority of India (UIDAI)", "Election Commission of India (ECI)", "National Payments Corporation of India (NPCI)"],
-    "correctAnswer": "Unique Identification Authority of India (UIDAI)"
+    "question": "Following reports of child sexual abuse material being advertised, what action did the Indian government instruct officials to take regarding Meta (Instagram), emphasizing the need for robust content moderation for users in all states, including AP and Telangana?",
+    "options": ["Ban Instagram immediately", "Impose a heavy fine without discussion", "Secure a formal explanation from Meta", "Launch a new social media platform"],
+    "correctAnswer": "Secure a formal explanation from Meta"
   },
   {
     "id": 18,
-    "question": "What is the unique 12-digit identification number issued by UIDAI called, which can now have its associated email updated via its official app?",
-    "options": ["PAN Card", "Voter ID", "Passport", "Aadhaar"],
-    "correctAnswer": "Aadhaar"
+    "question": "The BJP recently condemned opposition parties for a 'dangerous conspiracy' to undermine Indian democracy by writing to the Chief Justice of India. This accusation is part of a national political debate relevant to the democratic health of all states, including Telangana and Andhra Pradesh. Who did the BJP spokesperson accuse of echoing Emergency-era tactics?",
+    "options": ["A regional party alliance", "The Congress party", "Foreign entities", "Independent journalists"],
+    "correctAnswer": "The Congress party"
   },
   {
     "id": 19,
-    "question": "Which national political party recently called for the dissolution of the Ram Janmabhoomi Teerth Kshetra Trust amidst allegations of donation theft?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "What specific concern did a united opposition (INDIA bloc) raise with the Chief Justice of India, alleging manipulation by the government with a 'biased' Election Commission, an issue critical for electoral integrity in states like Telangana and Andhra Pradesh?",
+    "options": ["Lack of parliamentary sessions", "Misuse of central funds", "Fixing polls and electoral roll issues", "Judicial appointments"],
+    "correctAnswer": "Fixing polls and electoral roll issues"
   },
   {
     "id": 20,
-    "question": "The Ram Janmabhoomi Teerth Kshetra Trust is at the center of a national controversy involving alleged misappropriation of funds. This trust is responsible for the construction and management of which significant religious site?",
-    "options": ["Kashi Vishwanath Temple", "Kedarnath Temple", "Ram Temple in Ayodhya", "Vaishno Devi Temple"],
-    "correctAnswer": "Ram Temple in Ayodhya"
+    "question": "Amidst allegations of donation theft regarding the Ram Janmabhoomi Teerth Kshetra Trust, which national political party, with a significant presence in Andhra Pradesh and Telangana, recently demanded the dissolution of the Trust?",
+    "options": ["Bharatiya Janata Party (BJP)", "Bahujan Samaj Party (BSP)", "Indian National Congress (INC)", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 21,
-    "question": "Which prominent national organization expressed deep concern over the alleged donation theft at the Ayodhya Ram temple and urged the trust to improve its management?",
-    "options": ["Vishwa Hindu Parishad (VHP)", "Bajrang Dal", "Rashtriya Swayamsevak Sangh (RSS)", "Arya Samaj"],
-    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
+    "question": "The opposition INDIA bloc has urged the suspension of electoral roll updates and reinstatement of ballot papers, citing concerns over EVMs. These demands reflect broader concerns about fair electoral processes, which are vital for democratic governance in states like Telangana and Andhra Pradesh. To whom did they make these requests?",
+    "options": ["The President of India", "The Prime Minister", "The Chief Justice of India", "The Election Commission"],
+    "correctAnswer": "The Chief Justice of India"
   },
   {
     "id": 22,
-    "question": "The controversy surrounding the Ram Janmabhoomi Teerth Kshetra Trust prompted demands for an investigation monitored by which high judicial body in India?",
-    "options": ["High Court of Uttar Pradesh", "National Green Tribunal", "Supreme Court of India", "Central Bureau of Investigation (CBI)"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "A recent report highlighted cities like Bengaluru, Chandigarh, and Delhi as leaders in average income. While not specifically mentioned in the headline, what major city in Telangana is a prominent economic hub in Southern India, known for its IT and pharmaceutical industries, and is crucial for the state's average income?",
+    "options": ["Warangal", "Visakhapatnam", "Vijayawada", "Hyderabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 23,
-    "question": "The special provisions of Article 371-D for Andhra Pradesh and Telangana are designed to promote which fundamental constitutional principle within the states?",
-    "options": ["Unity in diversity", "Secularism", "Equality of opportunity", "Freedom of speech"],
-    "correctAnswer": "Equality of opportunity"
+    "question": "Based on reports about urban consumption, what segment of households is projected to decline in major urban centers by 2030, a trend that could also influence the economic landscape of urban areas in Andhra Pradesh and Telangana?",
+    "options": ["High-income households", "Middle-income households", "Low-income households", "Upper-middle income households"],
+    "correctAnswer": "Low-income households"
   },
   {
     "id": 24,
-    "question": "Users updating their email on the Aadhaar app are typically advised to keep their contact information current for which primary purpose related to security and service delivery?",
-    "options": ["Receiving promotional offers", "Enhancing transaction security and receiving notifications", "Participating in surveys", "Linking to social media accounts"],
-    "correctAnswer": "Enhancing transaction security and receiving notifications"
+    "question": "What specific agricultural activity across India, including Telangana and Andhra Pradesh, is immediately and severely impacted by a 40% shortfall in June rainfall, a consequence highlighted by the WMO's El Nino warning?",
+    "options": ["Horticulture", "Kharif crop sowing", "Livestock farming", "Fisheries"],
+    "correctAnswer": "Kharif crop sowing"
   },
   {
     "id": 25,
-    "question": "The recent ban on Chinese battery management apps by the Indian government due to data security and remote interference issues suggests a proactive stance in which broader category of national security?",
-    "options": ["Financial security", "Environmental security", "Cyber security", "Food security"],
-    "correctAnswer": "Cyber security"
+    "question": "Amidst a controversy surrounding alleged embezzlement of donations for the Ram Janmabhoomi Teerth Kshetra Trust, the VHP president asserted that no one is being shielded. The Vishwa Hindu Parishad (VHP) is an organization with a presence in states like Andhra Pradesh and Telangana. What was the VHP's stance on its role concerning the trust's donations post-Supreme Court verdict?",
+    "options": ["They assumed full control of donations", "Their role concluded with the SC verdict", "They started a new audit committee", "They denied any involvement in the temple construction."],
+    "correctAnswer": "Their role concluded with the SC verdict"
   }
 ]

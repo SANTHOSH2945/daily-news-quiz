@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which body issued a notice to K Kavitha regarding her new political party's name?",
-    "options": ["Supreme Court of India", "Election Commission of India", "Ministry of Home Affairs", "Parliamentary Affairs Committee"],
-    "correctAnswer": "Election Commission of India"
+    "question": "Who announced the tabling of the probe committee's report on Justice Yashwant Varma in the Monsoon Session?",
+    "options": ["Prime Minister Narendra Modi", "Lok Sabha Speaker Om Birla", "Chief Justice of India", "Union Law Minister"],
+    "correctAnswer": "Lok Sabha Speaker Om Birla"
   },
   {
     "id": 2,
-    "question": "What is the name of K Kavitha's new party that received a notice from the Election Commission of India?",
-    "options": ["Telangana Rashtra Samithi", "Telangana Rakshana Sena", "Bharat Rashtra Samithi", "Telangana Praja Samithi"],
-    "correctAnswer": "Telangana Rakshana Sena"
+    "question": "In which parliamentary session will the report on Justice Yashwant Varma be presented, as announced by the Lok Sabha Speaker?",
+    "options": ["Budget Session", "Winter Session", "Monsoon Session", "Special Session"],
+    "correctAnswer": "Monsoon Session"
   },
   {
     "id": 3,
-    "question": "What specific initials did K Kavitha retain in her new party's name, leading to concerns about similarity with an older party?",
-    "options": ["BRS", "TDP", "TRS", "YSRCP"],
-    "correctAnswer": "TRS"
+    "question": "What was the primary reason mentioned for Justice Yashwant Varma's resignation?",
+    "options": ["Health issues", "Recovery of burnt currency notes from his residence", "Transfer to another court", "Personal reasons"],
+    "correctAnswer": "Recovery of burnt currency notes from his residence"
   },
   {
     "id": 4,
-    "question": "From which former party did K Kavitha's new party receive a complaint regarding its name similarity?",
-    "options": ["Indian National Congress", "Bharatiya Janata Party", "Bharat Rashtra Samithi (BRS)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Bharat Rashtra Samithi (BRS)"
+    "question": "Abhijeet Dipke, founder of the Cockroach Janta Party, wrote to PM Modi regarding whose ongoing hunger strike?",
+    "options": ["Medha Patkar", "Anna Hazare", "Sonam Wangchuk", "Baba Ramdev"],
+    "correctAnswer": "Sonam Wangchuk"
   },
   {
     "id": 5,
-    "question": "Approximately how many complaints did the Election Commission of India receive regarding K Kavitha's new party name?",
-    "options": ["Less than 100", "Around 500", "Over 1,100", "Exactly 200"],
-    "correctAnswer": "Over 1,100"
+    "question": "What is one of the key demands made by Abhijeet Dipke in his letter to PM Modi concerning alleged exam irregularities?",
+    "options": ["Increase in exam centers", "Resignation of Union Education Minister Dharmendra Pradhan", "New education policy", "Restructuring of examination boards"],
+    "correctAnswer": "Resignation of Union Education Minister Dharmendra Pradhan"
   },
   {
     "id": 6,
-    "question": "K Kavitha cited 'twenty years of efforts' invested in that identity and the formation of which state as a reason for retaining certain initials?",
-    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Kerala"],
-    "correctAnswer": "Telangana"
+    "question": "Which cantonment recently became the first in India to achieve carbon-negative status?",
+    "options": ["Bareilly Cantonment", "Pune Cantonment", "Ahmednagar Cantonment", "Secunderabad Cantonment"],
+    "correctAnswer": "Bareilly Cantonment"
   },
   {
     "id": 7,
-    "question": "K Kavitha is a prominent political figure primarily associated with which Indian state?",
-    "options": ["Andhra Pradesh", "Telangana", "Tamil Nadu", "Kerala"],
-    "correctAnswer": "Telangana"
+    "question": "The Delhi Gymkhana Club is challenging eviction proceedings initiated by which entity in the Delhi High Court?",
+    "options": ["Delhi Development Authority", "Municipal Corporation of Delhi", "The Centre", "Delhi Police"],
+    "correctAnswer": "The Centre"
   },
   {
     "id": 8,
-    "question": "The Election Commission's notice to K Kavitha's new party is primarily related to which aspect?",
-    "options": ["Party funding", "Candidate selection", "Party name similarity", "Election manifesto"],
-    "correctAnswer": "Party name similarity"
+    "question": "For what primary reason did the Centre terminate the Delhi Gymkhana Club's perpetual lease, deeming its occupation 'unauthorised'?",
+    "options": ["Non-payment of rent", "Violation of club rules", "Land needed for defence and public-interest projects", "Change in land use policy"],
+    "correctAnswer": "Land needed for defence and public-interest projects"
   },
   {
     "id": 9,
-    "question": "What does the 'TRS' in K Kavitha's new party, Telangana Rakshana Sena, stand for?",
-    "options": ["Telangana Rashtra Samithi", "Telangana Reform Society", "Telangana Rakshana Sena", "Telangana Republican State"],
-    "correctAnswer": "Telangana Rakshana Sena"
+    "question": "In which specific area of Delhi is the Delhi Gymkhana Club located, as mentioned in the context of its property?",
+    "options": ["Old Delhi", "New Delhi", "Lutyens' Delhi", "East Delhi"],
+    "correctAnswer": "Lutyens' Delhi"
   },
   {
     "id": 10,
-    "question": "The erstwhile party whose name was similar to K Kavitha's new party was named what?",
-    "options": ["Telangana Praja Samithi", "Telangana Rashtra Samithi", "Telangana Samithi Rakshana", "Telangana Rajya Sena"],
-    "correctAnswer": "Telangana Rashtra Samithi"
+    "question": "In which Union Territory did a controversy arise regarding school library books containing 'inappropriate content' and allegedly glorifying terrorists?",
+    "options": ["Ladakh", "Puducherry", "Jammu and Kashmir", "Chandigarh"],
+    "correctAnswer": "Jammu and Kashmir"
   },
   {
     "id": 11,
-    "question": "What action did K Kavitha take despite retaining the 'TRS' initials, according to the report?",
-    "options": ["Refused to make any changes", "Accepted a name change", "Filed a counter-complaint", "Dissolved the party"],
-    "correctAnswer": "Accepted a name change"
+    "question": "What action did the Lieutenant Governor of Jammu and Kashmir take in response to the controversy over controversial school textbooks?",
+    "options": ["Ordered a rewrite of the books", "Suspended officials and initiated an inquiry", "Issued a warning to publishers", "Banned all library books"],
+    "correctAnswer": "Suspended officials and initiated an inquiry"
   },
   {
     "id": 12,
-    "question": "Which constitutional body in India is responsible for registering political parties and ensuring fair elections?",
-    "options": ["NITI Aayog", "Comptroller and Auditor General", "Election Commission of India", "Union Public Service Commission"],
-    "correctAnswer": "Election Commission of India"
+    "question": "What kind of content was allegedly found in the controversial J&K school library books, as described by the BJP?",
+    "options": ["Glorifying historical figures", "Promoting scientific literacy", "Glorifying terrorists and separatists", "Highlighting regional folk tales"],
+    "correctAnswer": "Glorifying terrorists and separatists"
   },
   {
     "id": 13,
-    "question": "In the context of changing career dreams in India, which two professions have historically been considered cornerstones of middle-class aspirations?",
-    "options": ["Journalism and Law", "Art and Design", "Engineering and Medicine", "Teaching and Research"],
-    "correctAnswer": "Engineering and Medicine"
+    "question": "Who recently took over as the Bengal unit chief for the Trinamool Congress (TMC), as mentioned in the news, amidst challenges?",
+    "options": ["Mamata Banerjee", "Abhishek Banerjee", "Subrata Bakshi", "Chandrima Bhattacharya"],
+    "correctAnswer": "Mamata Banerjee"
   },
   {
     "id": 14,
-    "question": "What are the primary factors mentioned in the news that are transforming career aspirations in India?",
-    "options": ["Government policies and subsidies", "Rise of AI and digital sectors", "Increased foreign investment", "Shift towards agriculture"],
-    "correctAnswer": "Rise of AI and digital sectors"
+    "question": "Mamata Banerjee challenged rebel leaders of TMC to join which political party, accusing it of instigating dissent?",
+    "options": ["Indian National Congress", "Communist Party of India (Marxist)", "Bharatiya Janata Party (BJP)", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 15,
-    "question": "Which of the following is mentioned as an emerging profession in India, offering an attractive alternative to traditional career paths?",
-    "options": ["Traditional banking", "Civil services", "Cybersecurity", "Classical music teaching"],
-    "correctAnswer": "Cybersecurity"
+    "question": "What is the name given to the new cities India is planning to build around high-speed transit to accommodate population surge?",
+    "options": ["Smart Cities", "Green Cities", "Namo Cities", "Mega Cities"],
+    "correctAnswer": "Namo Cities"
   },
   {
     "id": 16,
-    "question": "According to the news, what qualities are now increasingly valued in the Indian job market over old-fashioned degrees?",
-    "options": ["Rigid specialization and seniority", "Physical labor and manual dexterity", "Flexibility and contemporary skills", "Loyalty to a single employer"],
-    "correctAnswer": "Flexibility and contemporary skills"
+    "question": "The 'Namo Cities' are part of which long-term urban development plan for India, specifically in the context of the National Capital Region?",
+    "options": ["Smart City Mission", "Housing for All Plan", "Regional Plan-2041", "Swachh Bharat Abhiyan"],
+    "correctAnswer": "Regional Plan-2041"
   },
   {
     "id": 17,
-    "question": "The evolving career landscape in India signifies a transformation in the definition of what?",
-    "options": ["National GDP", "Technological advancement", "Social status", "Success"],
-    "correctAnswer": "Success"
+    "question": "Which region is primarily the focus for the development of 'Namo Cities' according to the news?",
+    "options": ["Mumbai Metropolitan Region", "Delhi-NCR", "Bengaluru Innovation Corridor", "Chennai-Bengaluru Industrial Corridor"],
+    "correctAnswer": "Delhi-NCR"
   },
   {
     "id": 18,
-    "question": "A Rajya Sabha MP recently introduced a bill in Parliament to establish a national commission for which group?",
-    "options": ["Women", "Children", "Elderly", "Men"],
-    "correctAnswer": "Men"
+    "question": "What type of development model will the 'Namo Cities' follow, integrating housing, jobs, and services around transit stations?",
+    "options": ["Gated Community Development", "Industrial Zone Development", "Transit-Oriented Developments", "Rural-Urban Integration"],
+    "correctAnswer": "Transit-Oriented Developments"
   },
   {
     "id": 19,
-    "question": "The National Commission for Men Bill was introduced in which house of the Indian Parliament?",
-    "options": ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Both Lok Sabha and Rajya Sabha simultaneously"],
-    "correctAnswer": "Rajya Sabha"
+    "question": "Prime Minister Modi recently inaugurated development projects worth Rs 1.06 lakh crore in which Indian state?",
+    "options": ["Gujarat", "Uttar Pradesh", "Maharashtra", "Rajasthan"],
+    "correctAnswer": "Rajasthan"
   },
   {
     "id": 20,
-    "question": "The introduction of the National Commission for Men Bill was reportedly prompted by which specific case?",
-    "options": ["Nirbhaya Case", "Siya-Ketan Case", "Jessica Lal Case", "Arushi Talwar Case"],
-    "correctAnswer": "Siya-Ketan Case"
+    "question": "Which new airport terminal was among the major infra projects inaugurated by PM Modi in Rajasthan?",
+    "options": ["Jaipur Airport terminal", "Udaipur Airport terminal", "Jodhpur Airport terminal", "Ajmer Airport terminal"],
+    "correctAnswer": "Jodhpur Airport terminal"
   },
   {
     "id": 21,
-    "question": "According to PM Modi, what two key aspects were crucial for India in tackling the 21st century's energy crisis?",
-    "options": ["Military power and trade sanctions", "Diplomacy and Dosti (friendships)", "Internal resource extraction and subsidies", "Technological innovation and solar energy"],
-    "correctAnswer": "Diplomacy and Dosti (friendships)"
+    "question": "Who resigned from all party posts in the Trinamool Congress, marking a setback for the party as mentioned in the evening news wrap?",
+    "options": ["Partha Chatterjee", "Chandrima Bhattacharya", "Mukul Roy", "Suvendu Adhikari"],
+    "correctAnswer": "Chandrima Bhattacharya"
   },
   {
     "id": 22,
-    "question": "PM Modi highlighted that India expanded fuel imports to how many nations from an earlier count of 25-26?",
-    "options": ["Over 30 nations", "Over 40 nations", "Over 50 nations", "Over 60 nations"],
-    "correctAnswer": "Over 40 nations"
+    "question": "The Centre recently designated 23 Pakistan-based operatives as terrorists under which Indian law?",
+    "options": ["POTA", "TADA", "UAPA", "MISA"],
+    "correctAnswer": "UAPA"
   },
   {
     "id": 23,
-    "question": "The Monsoon Session 2026 of the Indian Parliament is scheduled to commence on which date?",
-    "options": ["June 15", "July 20", "August 5", "September 10"],
-    "correctAnswer": "July 20"
+    "question": "How many Pakistan-based operatives were recently designated as terrorists by the Centre under UAPA?",
+    "options": ["10", "15", "23", "30"],
+    "correctAnswer": "23"
   },
   {
     "id": 24,
-    "question": "How long is the Monsoon Session 2026 of the Indian Parliament expected to sit?",
-    "options": ["Until July 30", "Until August 13", "Until September 1", "Until August 25"],
-    "correctAnswer": "Until August 13"
+    "question": "Which political leader criticized the BJP's 'arrogance with power,' specifically targeting CM Fadnavis?",
+    "options": ["Sharad Pawar", "Uddhav Thackeray", "Raj Thackeray", "Akhilesh Yadav"],
+    "correctAnswer": "Raj Thackeray"
   },
   {
     "id": 25,
-    "question": "Which state's political landscape is most directly impacted by the Election Commission's notice to K Kavitha's new party?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "Who is the young individual mentioned for a potential India debut ahead of the 2nd T20I?",
+    "options": ["Riyan Parag", "Vaibhav Sooryavanshi", "Samir Rizvi", "Shivam Dube"],
+    "correctAnswer": "Vaibhav Sooryavanshi"
   }
 ]

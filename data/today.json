@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who announced the tabling of the probe committee's report on Justice Yashwant Varma in the Monsoon Session?",
-    "options": ["Prime Minister Narendra Modi", "Lok Sabha Speaker Om Birla", "Chief Justice of India", "Union Law Minister"],
-    "correctAnswer": "Lok Sabha Speaker Om Birla"
+    "question": "Who is the current Chief Minister of Telangana?",
+    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Revanth Reddy", "Y.S. Jagan Mohan Reddy"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 2,
-    "question": "In which parliamentary session will the report on Justice Yashwant Varma be presented, as announced by the Lok Sabha Speaker?",
+    "question": "Which national political leader did Telangana CM Revanth Reddy recently advocate for as the next Prime Minister?",
+    "options": ["Narendra Modi", "Amit Shah", "Rahul Gandhi", "Mallikarjun Kharge"],
+    "correctAnswer": "Rahul Gandhi"
+  },
+  {
+    "id": 3,
+    "question": "What did Telangana CM Revanth Reddy describe as a \"historical necessity\" in his recent statement?",
+    "options": ["Building the Ram Temple", "Making Rahul Gandhi Prime Minister", "Implementing Uniform Civil Code", "Achieving a $5 trillion economy"],
+    "correctAnswer": "Making Rahul Gandhi Prime Minister"
+  },
+  {
+    "id": 4,
+    "question": "Revanth Reddy, who recently made a statement about the Prime Ministerial candidate, is the Chief Minister of which Indian state?",
+    "options": ["Andhra Pradesh", "Kerala", "Tamil Nadu", "Telangana"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 5,
+    "question": "Based on the news, Revanth Reddy's statement implies his affiliation with which major political party in India?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Bharat Rashtra Samithi (BRS)", "All India Trinamool Congress (AITC)"],
+    "correctAnswer": "Indian National Congress (INC)"
+  },
+  {
+    "id": 6,
+    "question": "The statement regarding the \"historical necessity\" for a certain leader to become PM was made by which state's Chief Minister?",
+    "options": ["Karnataka", "Telangana", "West Bengal", "Uttar Pradesh"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 7,
+    "question": "What was the core subject of Telangana CM Revanth Reddy's recent high-profile political statement?",
+    "options": ["State budget allocations", "National election strategies", "Interstate water disputes", "Agricultural policies"],
+    "correctAnswer": "National election strategies"
+  },
+  {
+    "id": 8,
+    "question": "Who is India's External Affairs Minister, embarking on a six-nation tour?",
+    "options": ["Nirmala Sitharaman", "S. Jaishankar", "Rajnath Singh", "Piyush Goyal"],
+    "correctAnswer": "S. Jaishankar"
+  },
+  {
+    "id": 9,
+    "question": "Which international body is India campaigning for a UN Security Council seat, as part of EAM Jaishankar's tour?",
+    "options": ["World Bank", "International Monetary Fund (IMF)", "UN Security Council", "World Trade Organization (WTO)"],
+    "correctAnswer": "UN Security Council"
+  },
+  {
+    "id": 10,
+    "question": "EAM S. Jaishankar's recent multi-nation tour aims to strengthen ties with countries primarily in which region before heading to New York?",
+    "options": ["Southeast Asia", "East Africa", "Gulf countries", "European Union"],
+    "correctAnswer": "Gulf countries"
+  },
+  {
+    "id": 11,
+    "question": "What is the name of the council where India-EU discussions are planned to conclude EAM Jaishankar's tour?",
+    "options": ["India-EU Strategic Partnership Council", "India-EU Trade and Technology Council", "India-EU Economic Cooperation Forum", "India-EU Digital Dialogue"],
+    "correctAnswer": "India-EU Trade and Technology Council"
+  },
+  {
+    "id": 12,
+    "question": "How many countries is External Affairs Minister S. Jaishankar visiting on his current tour from July 5-15?",
+    "options": ["Four", "Five", "Six", "Seven"],
+    "correctAnswer": "Six"
+  },
+  {
+    "id": 13,
+    "question": "EAM S. Jaishankar's visit to New York is focused on what specific objective?",
+    "options": ["Attending a climate summit", "Addressing the UN General Assembly", "Spearheading India's campaign for a UN Security Council seat", "Meeting with the US Secretary of State"],
+    "correctAnswer": "Spearheading India's campaign for a UN Security Council seat"
+  },
+  {
+    "id": 14,
+    "question": "The India-EU Trade and Technology Council discussions will take place in which city, concluding EAM Jaishankar's tour?",
+    "options": ["Paris", "Berlin", "Brussels", "Rome"],
+    "correctAnswer": "Brussels"
+  },
+  {
+    "id": 15,
+    "question": "What is the primary purpose of EAM S. Jaishankar's visit to the Gulf countries during his six-nation tour?",
+    "options": ["To sign new trade agreements", "To discuss regional security matters", "To bolster bilateral ties and discuss regional matters", "To promote cultural exchange programs"],
+    "correctAnswer": "To bolster bilateral ties and discuss regional matters"
+  },
+  {
+    "id": 16,
+    "question": "Between what dates is EAM S. Jaishankar's current six-nation diplomatic tour scheduled?",
+    "options": ["June 25 - July 5", "July 1 - July 10", "July 5 - July 15", "July 10 - July 20"],
+    "correctAnswer": "July 5 - July 15"
+  },
+  {
+    "id": 17,
+    "question": "Which Indian minister is undertaking a diplomatic tour to strengthen ties and launch an UNSC campaign?",
+    "options": ["Union Finance Minister", "Union Defence Minister", "External Affairs Minister", "Union Home Minister"],
+    "correctAnswer": "External Affairs Minister"
+  },
+  {
+    "id": 18,
+    "question": "Strengthening bilateral ties and discussing regional matters are key objectives for EAM Jaishankar's visit to which group of countries?",
+    "options": ["SAARC nations", "ASEAN nations", "Gulf countries", "G7 nations"],
+    "correctAnswer": "Gulf countries"
+  },
+  {
+    "id": 19,
+    "question": "Who is the Lok Sabha Speaker who announced the tabling of the probe committee's report on Justice Yashwant Varma?",
+    "options": ["Sumitra Mahajan", "Meira Kumar", "Om Birla", "G. M. C. Balayogi"],
+    "correctAnswer": "Om Birla"
+  },
+  {
+    "id": 20,
+    "question": "In which session of Parliament is the report on Justice Yashwant Varma expected to be tabled?",
     "options": ["Budget Session", "Winter Session", "Monsoon Session", "Special Session"],
     "correctAnswer": "Monsoon Session"
   },
   {
-    "id": 3,
-    "question": "What was the primary reason mentioned for Justice Yashwant Varma's resignation?",
-    "options": ["Health issues", "Recovery of burnt currency notes from his residence", "Transfer to another court", "Personal reasons"],
+    "id": 21,
+    "question": "Why did Justice Yashwant Varma resign in April, leading to impeachment proceedings?",
+    "options": ["Health reasons", "Recovery of burnt currency notes from his residence", "Allegations of land encroachment", "Disagreement with judicial reforms"],
     "correctAnswer": "Recovery of burnt currency notes from his residence"
   },
   {
-    "id": 4,
-    "question": "Abhijeet Dipke, founder of the Cockroach Janta Party, wrote to PM Modi regarding whose ongoing hunger strike?",
-    "options": ["Medha Patkar", "Anna Hazare", "Sonam Wangchuk", "Baba Ramdev"],
-    "correctAnswer": "Sonam Wangchuk"
-  },
-  {
-    "id": 5,
-    "question": "What is one of the key demands made by Abhijeet Dipke in his letter to PM Modi concerning alleged exam irregularities?",
-    "options": ["Increase in exam centers", "Resignation of Union Education Minister Dharmendra Pradhan", "New education policy", "Restructuring of examination boards"],
-    "correctAnswer": "Resignation of Union Education Minister Dharmendra Pradhan"
-  },
-  {
-    "id": 6,
-    "question": "Which cantonment recently became the first in India to achieve carbon-negative status?",
-    "options": ["Bareilly Cantonment", "Pune Cantonment", "Ahmednagar Cantonment", "Secunderabad Cantonment"],
-    "correctAnswer": "Bareilly Cantonment"
-  },
-  {
-    "id": 7,
-    "question": "The Delhi Gymkhana Club is challenging eviction proceedings initiated by which entity in the Delhi High Court?",
-    "options": ["Delhi Development Authority", "Municipal Corporation of Delhi", "The Centre", "Delhi Police"],
-    "correctAnswer": "The Centre"
-  },
-  {
-    "id": 8,
-    "question": "For what primary reason did the Centre terminate the Delhi Gymkhana Club's perpetual lease, deeming its occupation 'unauthorised'?",
-    "options": ["Non-payment of rent", "Violation of club rules", "Land needed for defence and public-interest projects", "Change in land use policy"],
-    "correctAnswer": "Land needed for defence and public-interest projects"
-  },
-  {
-    "id": 9,
-    "question": "In which specific area of Delhi is the Delhi Gymkhana Club located, as mentioned in the context of its property?",
-    "options": ["Old Delhi", "New Delhi", "Lutyens' Delhi", "East Delhi"],
-    "correctAnswer": "Lutyens' Delhi"
-  },
-  {
-    "id": 10,
-    "question": "In which Union Territory did a controversy arise regarding school library books containing 'inappropriate content' and allegedly glorifying terrorists?",
-    "options": ["Ladakh", "Puducherry", "Jammu and Kashmir", "Chandigarh"],
-    "correctAnswer": "Jammu and Kashmir"
-  },
-  {
-    "id": 11,
-    "question": "What action did the Lieutenant Governor of Jammu and Kashmir take in response to the controversy over controversial school textbooks?",
-    "options": ["Ordered a rewrite of the books", "Suspended officials and initiated an inquiry", "Issued a warning to publishers", "Banned all library books"],
-    "correctAnswer": "Suspended officials and initiated an inquiry"
-  },
-  {
-    "id": 12,
-    "question": "What kind of content was allegedly found in the controversial J&K school library books, as described by the BJP?",
-    "options": ["Glorifying historical figures", "Promoting scientific literacy", "Glorifying terrorists and separatists", "Highlighting regional folk tales"],
-    "correctAnswer": "Glorifying terrorists and separatists"
-  },
-  {
-    "id": 13,
-    "question": "Who recently took over as the Bengal unit chief for the Trinamool Congress (TMC), as mentioned in the news, amidst challenges?",
-    "options": ["Mamata Banerjee", "Abhishek Banerjee", "Subrata Bakshi", "Chandrima Bhattacharya"],
-    "correctAnswer": "Mamata Banerjee"
-  },
-  {
-    "id": 14,
-    "question": "Mamata Banerjee challenged rebel leaders of TMC to join which political party, accusing it of instigating dissent?",
-    "options": ["Indian National Congress", "Communist Party of India (Marxist)", "Bharatiya Janata Party (BJP)", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
-  },
-  {
-    "id": 15,
-    "question": "What is the name given to the new cities India is planning to build around high-speed transit to accommodate population surge?",
-    "options": ["Smart Cities", "Green Cities", "Namo Cities", "Mega Cities"],
-    "correctAnswer": "Namo Cities"
-  },
-  {
-    "id": 16,
-    "question": "The 'Namo Cities' are part of which long-term urban development plan for India, specifically in the context of the National Capital Region?",
-    "options": ["Smart City Mission", "Housing for All Plan", "Regional Plan-2041", "Swachh Bharat Abhiyan"],
-    "correctAnswer": "Regional Plan-2041"
-  },
-  {
-    "id": 17,
-    "question": "Which region is primarily the focus for the development of 'Namo Cities' according to the news?",
-    "options": ["Mumbai Metropolitan Region", "Delhi-NCR", "Bengaluru Innovation Corridor", "Chennai-Bengaluru Industrial Corridor"],
-    "correctAnswer": "Delhi-NCR"
-  },
-  {
-    "id": 18,
-    "question": "What type of development model will the 'Namo Cities' follow, integrating housing, jobs, and services around transit stations?",
-    "options": ["Gated Community Development", "Industrial Zone Development", "Transit-Oriented Developments", "Rural-Urban Integration"],
-    "correctAnswer": "Transit-Oriented Developments"
-  },
-  {
-    "id": 19,
-    "question": "Prime Minister Modi recently inaugurated development projects worth Rs 1.06 lakh crore in which Indian state?",
-    "options": ["Gujarat", "Uttar Pradesh", "Maharashtra", "Rajasthan"],
-    "correctAnswer": "Rajasthan"
-  },
-  {
-    "id": 20,
-    "question": "Which new airport terminal was among the major infra projects inaugurated by PM Modi in Rajasthan?",
-    "options": ["Jaipur Airport terminal", "Udaipur Airport terminal", "Jodhpur Airport terminal", "Ajmer Airport terminal"],
-    "correctAnswer": "Jodhpur Airport terminal"
-  },
-  {
-    "id": 21,
-    "question": "Who resigned from all party posts in the Trinamool Congress, marking a setback for the party as mentioned in the evening news wrap?",
-    "options": ["Partha Chatterjee", "Chandrima Bhattacharya", "Mukul Roy", "Suvendu Adhikari"],
-    "correctAnswer": "Chandrima Bhattacharya"
-  },
-  {
     "id": 22,
-    "question": "The Centre recently designated 23 Pakistan-based operatives as terrorists under which Indian law?",
-    "options": ["POTA", "TADA", "UAPA", "MISA"],
-    "correctAnswer": "UAPA"
+    "question": "The report on Justice Yashwant Varma was sought by which group within the Indian Parliament?",
+    "options": ["Ruling party MPs only", "Opposition party MPs only", "MPs across party lines", "Select committee members"],
+    "correctAnswer": "MPs across party lines"
   },
   {
     "id": 23,
-    "question": "How many Pakistan-based operatives were recently designated as terrorists by the Centre under UAPA?",
-    "options": ["10", "15", "23", "30"],
-    "correctAnswer": "23"
+    "question": "What specific parliamentary official announced that the report on Justice Yashwant Varma would be presented?",
+    "options": ["Leader of the Opposition", "Union Law Minister", "Lok Sabha Speaker", "Rajya Sabha Chairman"],
+    "correctAnswer": "Lok Sabha Speaker"
   },
   {
     "id": 24,
-    "question": "Which political leader criticized the BJP's 'arrogance with power,' specifically targeting CM Fadnavis?",
-    "options": ["Sharad Pawar", "Uddhav Thackeray", "Raj Thackeray", "Akhilesh Yadav"],
-    "correctAnswer": "Raj Thackeray"
+    "question": "What was the legal process that Justice Yashwant Varma faced prior to his resignation?",
+    "options": ["Criminal prosecution", "Impeachment proceedings", "Civil defamation suit", "Departmental inquiry"],
+    "correctAnswer": "Impeachment proceedings"
   },
   {
     "id": 25,
-    "question": "Who is the young individual mentioned for a potential India debut ahead of the 2nd T20I?",
-    "options": ["Riyan Parag", "Vaibhav Sooryavanshi", "Samir Rizvi", "Shivam Dube"],
-    "correctAnswer": "Vaibhav Sooryavanshi"
+    "question": "The recovery of burnt currency notes from his residence was associated with which Indian justice?",
+    "options": ["Justice D.Y. Chandrachud", "Justice N.V. Ramana", "Justice U.U. Lalit", "Justice Yashwant Varma"],
+    "correctAnswer": "Justice Yashwant Varma"
   }
 ]

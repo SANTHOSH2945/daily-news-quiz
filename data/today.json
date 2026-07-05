@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which specific bill, expected in the upcoming Monsoon session, is anticipated to include discussions on potential changes to address concerns from 'southern states'?",
-    "options": ["Farmers' Produce Trade and Commerce Bill", "Women's Reservation Bill", "National Education Policy Bill", "Digital Personal Data Protection Bill"],
-    "correctAnswer": "Women's Reservation Bill"
+    "question": "From which specific fishing harbour in Andhra Pradesh did a boat with seven crew members go missing recently in the Bay of Bengal?",
+    "options": ["Kakinada", "Vizag", "Machilipatnam", "Nellore"],
+    "correctAnswer": "Vizag"
   },
   {
     "id": 2,
-    "question": "Besides the Women's Reservation Bill, what other legislative proposals, which could significantly impact states like Telangana and Andhra Pradesh, might be introduced during the Monsoon session?",
-    "options": ["Judicial Appointments Commission Bill and Electoral Reforms Bill", "Labor Codes Amendment Bill and Competition Amendment Bill", "Delimitation and 'One Nation, One Election' proposals", "Goods and Services Tax (GST) Amendment Bill and Banking Reforms Bill"],
-    "correctAnswer": "Delimitation and 'One Nation, One Election' proposals"
+    "question": "How many fishermen were reported missing from the boat MM-V5-83 that departed from Vizag fishing harbour on July 1?",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "correctAnswer": "Seven"
   },
   {
     "id": 3,
-    "question": "The Monsoon session of the Parliament, where key bills affecting all Indian states including Telangana and Andhra Pradesh are discussed, is scheduled to begin on which date?",
-    "options": ["June 20", "July 10", "July 20", "August 1"],
-    "correctAnswer": "July 20"
-  },
-  {
-    "id": 4,
-    "question": "Who is the Lok Sabha Speaker whose decision on defecting MPs could influence the ruling alliance's numbers in the Monsoon session, potentially impacting legislative outcomes for all states?",
-    "options": ["Rajnath Singh", "Amit Shah", "Om Birla", "Nirmala Sitharaman"],
-    "correctAnswer": "Om Birla"
-  },
-  {
-    "id": 5,
-    "question": "A low-pressure system over which body of water is set to boost rainfall across central and western regions of India, significantly impacting monsoon patterns that affect states like Telangana and Andhra Pradesh?",
-    "options": ["Arabian Sea", "Indian Ocean", "Bay of Bengal", "Andaman Sea"],
+    "question": "The missing fishing boat MM-V5-83 from Vizag was operating in which major water body?",
+    "options": ["Arabian Sea", "Indian Ocean", "Bay of Bengal", "Laccadive Sea"],
     "correctAnswer": "Bay of Bengal"
   },
   {
+    "id": 4,
+    "question": "What was the reported primary reason for the fishing boat from Vizag losing contact while returning to harbour?",
+    "options": ["Engine failure", "Collision with another vessel", "Rough seas and strong winds", "Fuel shortage"],
+    "correctAnswer": "Rough seas and strong winds"
+  },
+  {
+    "id": 5,
+    "question": "The missing fishermen's boat, MM-V5-83, departed from a harbour in which Indian state?",
+    "options": ["Odisha", "Tamil Nadu", "West Bengal", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
     "id": 6,
-    "question": "What is the India Meteorological Department (IMD) predicting for monsoon activity over central and western regions of India, which could bring relief to agricultural states like Telangana and Andhra Pradesh?",
-    "options": ["Withdrawal phase", "Drought conditions", "Active phase", "Below-normal rainfall"],
-    "correctAnswer": "Active phase"
+    "question": "ISRO recently conducted a successful ground test for a parachute system crucial for which upcoming human spaceflight mission?",
+    "options": ["Chandrayaan-4", "Mangalyaan-2", "Gaganyaan", "Aditya-L1"],
+    "correctAnswer": "Gaganyaan"
   },
   {
     "id": 7,
-    "question": "Due to potential extreme weather events during the active monsoon phase, what alert level has been issued for several Indian states?",
-    "options": ["Yellow alerts", "Orange alerts", "Green alerts", "Red alerts"],
-    "correctAnswer": "Red alerts"
+    "question": "What is the name of the new launch vehicle platform developed by ISRO for testing the Gaganyaan crew module's parachute system?",
+    "options": ["GLSV", "SOLVE", "RLV-TD", "LVM3"],
+    "correctAnswer": "SOLVE"
   },
   {
     "id": 8,
-    "question": "The active monsoon phase across India, as predicted by the IMD, is expected to significantly reduce what national deficit?",
-    "options": ["Food grain deficit", "Power generation deficit", "Rainfall deficit", "Fiscal deficit"],
-    "correctAnswer": "Rainfall deficit"
+    "question": "The SOLVE launch vehicle, used for Gaganyaan parachute testing, is adapted from which existing ISRO launch vehicle technology?",
+    "options": ["GSLV", "ASLV", "PSLV", "SLV"],
+    "correctAnswer": "PSLV"
   },
   {
     "id": 9,
-    "question": "The inquiry report against Justice Yashwant Varma, concerning corruption charges, is expected to be tabled in which parliamentary session relevant to national judicial oversight?",
-    "options": ["Winter Session", "Budget Session", "Monsoon Session", "Special Session"],
-    "correctAnswer": "Monsoon Session"
+    "question": "Which national space agency is responsible for the Gaganyaan human spaceflight program?",
+    "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
+    "correctAnswer": "ISRO"
   },
   {
     "id": 10,
-    "question": "Who confirmed that the inquiry report against Justice Varma would be presented in the monsoon session, despite his resignation?",
-    "options": ["The President of India", "The Chief Justice of India", "The Prime Minister", "Lok Sabha Speaker Om Birla"],
-    "correctAnswer": "Lok Sabha Speaker Om Birla"
+    "question": "The successful test of the SOLVE solid motor is a crucial step for validating which component of the Gaganyaan mission?",
+    "options": ["Cryogenic engine", "Crew module's parachute system", "Solar panels", "Docking mechanism"],
+    "correctAnswer": "Crew module's parachute system"
   },
   {
     "id": 11,
-    "question": "What specific type of allegations does Justice Varma face, leading to the inquiry report being tabled in Parliament?",
-    "options": ["Misuse of power", "Contempt of court", "Financial irregularities", "Political bias"],
-    "correctAnswer": "Financial irregularities"
+    "question": "ISRO's Gaganyaan mission activities, including launch preparations, often involve facilities located in which Andhra Pradesh region?",
+    "options": ["Anantapur", "Kurnool", "Sriharikota", "Tirupati"],
+    "correctAnswer": "Sriharikota"
   },
   {
     "id": 12,
-    "question": "The Indian government has issued a notice to which messaging application over the rampant circulation of pirated films and shows, a national issue impacting content creators across India?",
-    "options": ["WhatsApp", "Signal", "Telegram", "Viber"],
-    "correctAnswer": "Telegram"
+    "question": "What is the primary objective of the Gaganyaan mission for which parachute tests are being conducted?",
+    "options": ["Lunar exploration", "Sending humans to space", "Studying the Sun", "Developing satellite communication"],
+    "correctAnswer": "Sending humans to space"
   },
   {
     "id": 13,
-    "question": "What specific action has the Indian government demanded from Telegram beyond individual channel takedowns to combat piracy?",
-    "options": ["Share user data with authorities", "Implement robust systems to detect and remove infringing content", "Introduce a paywall for all content", "Cease operations in India"],
-    "correctAnswer": "Implement robust systems to detect and remove infringing content"
+    "question": "The Indian government recently issued a stern warning to Meta regarding objectionable content found on which of its platforms?",
+    "options": ["WhatsApp", "Facebook", "Instagram", "Threads"],
+    "correctAnswer": "Instagram"
   },
   {
     "id": 14,
-    "question": "Besides piracy, what other illegal activities has Telegram previously been associated with in India, prompting government concern?",
-    "options": ["Tax evasion and money laundering", "Online gambling and sports betting", "Fraud and the distribution of harmful material", "Smuggling and illegal trade"],
-    "correctAnswer": "Fraud and the distribution of harmful material"
+    "question": "What specific type of content prompted the Indian government's warning to Meta?",
+    "options": ["Hate speech", "Misinformation", "Child sexual abuse content", "Copyright infringement"],
+    "correctAnswer": "Child sexual abuse content"
   },
   {
     "id": 15,
-    "question": "Prime Minister Modi highlighted India's achievement in which sector, stating it is 'bucking the trend' by adding capacity and ensuring energy security for all states, including Telangana and Andhra Pradesh?",
-    "options": ["Software exports", "Agricultural production", "Refining capacity", "Textile manufacturing"],
-    "correctAnswer": "Refining capacity"
+    "question": "How many days did the Indian Centre give Meta to respond to its warning regarding harmful content?",
+    "options": ["3 days", "5 days", "7 days", "10 days"],
+    "correctAnswer": "7 days"
   },
   {
     "id": 16,
-    "question": "Which newly inaugurated refinery was mentioned as a significant step in India's expanding refining prowess, contributing to national energy independence?",
-    "options": ["Bongaigaon Refinery", "Mathura Refinery", "Panipat Refinery", "HPCL Rajasthan Refinery"],
-    "correctAnswer": "HPCL Rajasthan Refinery"
+    "question": "India recently lifted emergency natural gas supply restrictions that were imposed in March due to concerns related to what conflict?",
+    "options": ["Ukraine-Russia conflict", "Taiwan Strait tensions", "West Asia conflict", "South China Sea dispute"],
+    "correctAnswer": "West Asia conflict"
   },
   {
     "id": 17,
-    "question": "With its recent expansions in refining capacity, India is now positioned as the world's what-largest refining nation?",
-    "options": ["Second-largest", "Third-largest", "Fourth-largest", "Fifth-largest"],
-    "correctAnswer": "Fourth-largest"
+    "question": "The lifting of LNG curbs in India is expected to restore normal gas allocation to which vital industrial sectors?",
+    "options": ["Automobile manufacturing and IT services", "Textile and pharmaceutical industries", "Fertilizer plants and refineries", "Construction and real estate"],
+    "correctAnswer": "Fertilizer plants and refineries"
   },
   {
     "id": 18,
-    "question": "What percentage of ethanol blending in petrol (E20) has been mandated by the Indian government as a national fuel policy?",
-    "options": ["5%", "10%", "15%", "20%"],
-    "correctAnswer": "20%"
+    "question": "What development in the West Asia region contributed to the easing of gas supply concerns for India?",
+    "options": ["A new trade agreement", "Increased oil production", "A ceasefire", "A change in government"],
+    "correctAnswer": "A ceasefire"
   },
   {
     "id": 19,
-    "question": "According to vehicle manufacturers, what is a common effect observed in older vehicles using E20 fuel, despite assurances of no engine damage, relevant to vehicle owners in states like Telangana and Andhra Pradesh?",
-    "options": ["Increased engine noise", "Slight drop in fuel efficiency/mileage", "Faster acceleration", "Reduced maintenance needs"],
-    "correctAnswer": "Slight drop in fuel efficiency/mileage"
+    "question": "Through which crucial Strait were India's LNG shipments potentially impacted before the lifting of supply restrictions?",
+    "options": ["Strait of Malacca", "Strait of Gibraltar", "Strait of Hormuz", "Bab-el-Mandeb Strait"],
+    "correctAnswer": "Strait of Hormuz"
   },
   {
     "id": 20,
-    "question": "Why might E20 fuel lead to a slight drop in fuel efficiency compared to unblended petrol, as explained by industry leaders?",
-    "options": ["Higher octane number", "Lower calorific value of ethanol", "Increased engine friction", "Higher density of the fuel mix"],
-    "correctAnswer": "Lower calorific value of ethanol"
+    "question": "What does the recent lifting of LNG curbs signify for India's energy sector?",
+    "options": ["Increased reliance on coal", "A shift to renewable energy", "A return to energy supply stability", "New oil discoveries"],
+    "correctAnswer": "A return to energy supply stability"
   },
   {
     "id": 21,
-    "question": "India's road transport ministry is introducing mandatory rules for advanced vehicles regarding cybersecurity and software updates, effective from when for new models with Level-3 automation and above?",
-    "options": ["August 2024", "September 2024", "October 2024", "January 2025"],
-    "correctAnswer": "October 2024"
+    "question": "Which renowned Pandavani singer, known for her powerful performances rooted in the Mahabharata, recently passed away?",
+    "options": ["Shubha Mudgal", "Teejan Bai", "Girija Devi", "Lata Mangeshkar"],
+    "correctAnswer": "Teejan Bai"
   },
   {
     "id": 22,
-    "question": "The new cybersecurity and software update norms for advanced vehicles will initially apply to new models with what specific level of automation and above?",
-    "options": ["Level-1 automation", "Level-2 automation", "Level-3 automation", "Level-4 automation"],
-    "correctAnswer": "Level-3 automation"
+    "question": "From which Indian state does the traditional folk art form of Pandavani primarily originate?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Chhattisgarh", "Uttar Pradesh"],
+    "correctAnswer": "Chhattisgarh"
   },
   {
     "id": 23,
-    "question": "Beyond new models, the cybersecurity and software update norms will subsequently extend to which other category of vehicles?",
-    "options": ["Vehicles older than 10 years", "Electric vehicles only", "Existing models and vehicles with over-the-air update capabilities", "All commercial vehicles"],
-    "correctAnswer": "Existing models and vehicles with over-the-air update capabilities"
+    "question": "Which prominent Indian leader mourned the demise of Teejan Bai, highlighting her 'irreplaceable loss to art and culture'?",
+    "options": ["The President of India", "The Chief Justice of India", "Prime Minister Narendra Modi", "The Vice President of India"],
+    "correctAnswer": "Prime Minister Narendra Modi"
   },
   {
     "id": 24,
-    "question": "What is the Congress leader Jairam Ramesh's accusation against the BJP regarding its activities before the monsoon session, relevant to national political stability and federal structure?",
-    "options": ["Failing to address inflation", "Delaying crucial bills", "Attempting to split opposition parties", "Ignoring environmental concerns"],
-    "correctAnswer": "Attempting to split opposition parties"
+    "question": "The folk art form of Pandavani, popularized by Teejan Bai, draws its themes and stories primarily from which ancient Indian epic?",
+    "options": ["Ramayana", "Bhagavata Purana", "Mahabharata", "Upanishads"],
+    "correctAnswer": "Mahabharata"
   },
   {
     "id": 25,
-    "question": "According to the Congress, what specific objective of the ruling party, requiring a two-thirds majority, is unlikely to be achieved despite its efforts to split opposition parties?",
-    "options": ["Winning all state elections", "Altering India's Constitution", "Achieving complete economic self-reliance", "Eliminating poverty entirely"],
-    "correctAnswer": "Altering India's Constitution"
+    "question": "Teejan Bai received several national honours for her contribution to popularizing which traditional Indian folk art form globally?",
+    "options": ["Kathak", "Bharatanatyam", "Pandavani", "Odissi"],
+    "correctAnswer": "Pandavani"
   }
 ]

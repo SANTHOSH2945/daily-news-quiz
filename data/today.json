@@ -1,152 +1,247 @@
 [
   {
     "id": 1,
-    "question": "From which specific fishing harbour in Andhra Pradesh did a boat with seven crew members go missing recently in the Bay of Bengal?",
-    "options": ["Kakinada", "Vizag", "Machilipatnam", "Nellore"],
-    "correctAnswer": "Vizag"
+    "question": "What is the primary proposal of the Constitution (130th Amendment) Bill mentioned by the Congress party?",
+    "options": [
+      "Automatic removal of ministers after 30 days in judicial custody",
+      "Increasing the tenure of Prime Ministers and Chief Ministers",
+      "Granting special powers to state governments",
+      "Amending election commission rules"
+    ],
+    "correctAnswer": "Automatic removal of ministers after 30 days in judicial custody"
   },
   {
     "id": 2,
-    "question": "How many fishermen were reported missing from the boat MM-V5-83 that departed from Vizag fishing harbour on July 1?",
-    "options": ["Five", "Six", "Seven", "Eight"],
-    "correctAnswer": "Seven"
+    "question": "For how many days in judicial custody would a minister be subject to automatic expulsion under the proposed Constitution (130th Amendment) Bill?",
+    "options": ["15 days", "30 days", "60 days", "90 days"],
+    "correctAnswer": "30 days"
   },
   {
     "id": 3,
-    "question": "The missing fishing boat MM-V5-83 from Vizag was operating in which major water body?",
-    "options": ["Arabian Sea", "Indian Ocean", "Bay of Bengal", "Laccadive Sea"],
-    "correctAnswer": "Bay of Bengal"
+    "question": "Which political party has voiced vigorous objections to the upcoming Constitution (130th Amendment) Bill?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "All India Trinamool Congress (TMC)", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 4,
-    "question": "What was the reported primary reason for the fishing boat from Vizag losing contact while returning to harbour?",
-    "options": ["Engine failure", "Collision with another vessel", "Rough seas and strong winds", "Fuel shortage"],
-    "correctAnswer": "Rough seas and strong winds"
+    "question": "The Congress party believes the proposed Constitution (130th Amendment) Bill is a tactic for what purpose?",
+    "options": [
+      "Economic reform",
+      "Political intimidation",
+      "Improving judicial efficiency",
+      "Strengthening federalism"
+    ],
+    "correctAnswer": "Political intimidation"
   },
   {
     "id": 5,
-    "question": "The missing fishermen's boat, MM-V5-83, departed from a harbour in which Indian state?",
-    "options": ["Odisha", "Tamil Nadu", "West Bengal", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What kind of majority does the BJP-led government need to pass a constitutional amendment like the Constitution (130th Amendment) Bill?",
+    "options": [
+      "Simple majority",
+      "Two-thirds majority",
+      "Absolute majority",
+      "One-half majority"
+    ],
+    "correctAnswer": "Two-thirds majority"
   },
   {
     "id": 6,
-    "question": "ISRO recently conducted a successful ground test for a parachute system crucial for which upcoming human spaceflight mission?",
-    "options": ["Chandrayaan-4", "Mangalyaan-2", "Gaganyaan", "Aditya-L1"],
-    "correctAnswer": "Gaganyaan"
+    "question": "The proposed Constitution (130th Amendment) Bill seeks the automatic removal of which positions, among others?",
+    "options": [
+      "Members of Parliament and State Assembly",
+      "Prime Minister and Chief Ministers",
+      "Judges of High Courts and Supreme Court",
+      "District Collectors and Police Chiefs"
+    ],
+    "correctAnswer": "Prime Minister and Chief Ministers"
   },
   {
     "id": 7,
-    "question": "What is the name of the new launch vehicle platform developed by ISRO for testing the Gaganyaan crew module's parachute system?",
-    "options": ["GLSV", "SOLVE", "RLV-TD", "LVM3"],
-    "correctAnswer": "SOLVE"
+    "question": "If passed, how would the Constitution (130th Amendment) Bill directly affect Chief Ministers in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It would increase their discretionary powers.",
+      "It would make them immune to criminal charges.",
+      "It could lead to their automatic expulsion from office under certain conditions.",
+      "It would extend their term limits."
+    ],
+    "correctAnswer": "It could lead to their automatic expulsion from office under certain conditions."
   },
   {
     "id": 8,
-    "question": "The SOLVE launch vehicle, used for Gaganyaan parachute testing, is adapted from which existing ISRO launch vehicle technology?",
-    "options": ["GSLV", "ASLV", "PSLV", "SLV"],
-    "correctAnswer": "PSLV"
+    "question": "What is the nature of the charges that would trigger the automatic expulsion under the proposed Constitution (130th Amendment) Bill?",
+    "options": [
+      "Minor traffic violations",
+      "Serious criminal charges",
+      "Civil disputes",
+      "Administrative errors"
+    ],
+    "correctAnswer": "Serious criminal charges"
   },
   {
     "id": 9,
-    "question": "Which national space agency is responsible for the Gaganyaan human spaceflight program?",
-    "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
-    "correctAnswer": "ISRO"
+    "question": "Which major political party is currently leading the central government that is proposing the Constitution (130th Amendment) Bill?",
+    "options": ["Indian National Congress", "Aam Aadmi Party", "Bharatiya Janata Party", "Samajwadi Party"],
+    "correctAnswer": "Bharatiya Janata Party"
   },
   {
     "id": 10,
-    "question": "The successful test of the SOLVE solid motor is a crucial step for validating which component of the Gaganyaan mission?",
-    "options": ["Cryogenic engine", "Crew module's parachute system", "Solar panels", "Docking mechanism"],
-    "correctAnswer": "Crew module's parachute system"
+    "question": "The Congress anticipates the BJP-led government will lack what to push through the Constitution (130th Amendment) Bill?",
+    "options": [
+      "Public support",
+      "Necessary two-thirds majority",
+      "Judicial approval",
+      "State government consent"
+    ],
+    "correctAnswer": "Necessary two-thirds majority"
   },
   {
     "id": 11,
-    "question": "ISRO's Gaganyaan mission activities, including launch preparations, often involve facilities located in which Andhra Pradesh region?",
-    "options": ["Anantapur", "Kurnool", "Sriharikota", "Tirupati"],
-    "correctAnswer": "Sriharikota"
+    "question": "What major controversy surrounding the Ayodhya Ram Temple has led to demands for an impartial investigation?",
+    "options": [
+      "Land acquisition disputes",
+      "Alleged donation embezzlement",
+      "Construction delays",
+      "Disagreement over architectural design"
+    ],
+    "correctAnswer": "Alleged donation embezzlement"
   },
   {
     "id": 12,
-    "question": "What is the primary objective of the Gaganyaan mission for which parachute tests are being conducted?",
-    "options": ["Lunar exploration", "Sending humans to space", "Studying the Sun", "Developing satellite communication"],
-    "correctAnswer": "Sending humans to space"
+    "question": "Uddhav Thackeray criticized the Centre regarding alleged donation embezzlement at which prominent temple?",
+    "options": [
+      "Badrinath Temple",
+      "Kedarnath Temple",
+      "Ayodhya Ram Temple",
+      "Vaishno Devi Temple"
+    ],
+    "correctAnswer": "Ayodhya Ram Temple"
   },
   {
     "id": 13,
-    "question": "The Indian government recently issued a stern warning to Meta regarding objectionable content found on which of its platforms?",
-    "options": ["WhatsApp", "Facebook", "Instagram", "Threads"],
-    "correctAnswer": "Instagram"
+    "question": "Who demanded an impartial investigation into alleged donation embezzlement at the Ayodhya Ram Temple?",
+    "options": [
+      "Nayab Singh Saini",
+      "Mamata Banerjee",
+      "Uddhav Thackeray",
+      "Rahul Sinha"
+    ],
+    "correctAnswer": "Uddhav Thackeray"
   },
   {
     "id": 14,
-    "question": "What specific type of content prompted the Indian government's warning to Meta?",
-    "options": ["Hate speech", "Misinformation", "Child sexual abuse content", "Copyright infringement"],
-    "correctAnswer": "Child sexual abuse content"
+    "question": "According to Uddhav Thackeray, what would Hindus not tolerate in the name of religion?",
+    "options": ["New rituals", "Political interference", "Corruption", "Sectarian differences"],
+    "correctAnswer": "Corruption"
   },
   {
     "id": 15,
-    "question": "How many days did the Indian Centre give Meta to respond to its warning regarding harmful content?",
-    "options": ["3 days", "5 days", "7 days", "10 days"],
-    "correctAnswer": "7 days"
+    "question": "The alleged donation embezzlement at the Ram Temple reportedly reached a climax during which major event?",
+    "options": [
+      "Diwali celebrations",
+      "Maha Kumbh",
+      "Foundation stone laying ceremony",
+      "Rath Yatra"
+    ],
+    "correctAnswer": "Maha Kumbh"
   },
   {
     "id": 16,
-    "question": "India recently lifted emergency natural gas supply restrictions that were imposed in March due to concerns related to what conflict?",
-    "options": ["Ukraine-Russia conflict", "Taiwan Strait tensions", "West Asia conflict", "South China Sea dispute"],
-    "correctAnswer": "West Asia conflict"
+    "question": "How many individuals were mentioned as arrested in connection with the Ayodhya Ram Mandir donation embezzlement case?",
+    "options": ["Four", "Six", "Eight", "Ten"],
+    "correctAnswer": "Eight"
   },
   {
     "id": 17,
-    "question": "The lifting of LNG curbs in India is expected to restore normal gas allocation to which vital industrial sectors?",
-    "options": ["Automobile manufacturing and IT services", "Textile and pharmaceutical industries", "Fertilizer plants and refineries", "Construction and real estate"],
-    "correctAnswer": "Fertilizer plants and refineries"
+    "question": "What kinds of professions were mentioned among those arrested in the Ayodhya Ram Mandir donation embezzlement case?",
+    "options": [
+      "Engineers and Architects",
+      "Doctors and Lawyers",
+      "Teacher and ex-mechanic",
+      "Farmers and Laborers"
+    ],
+    "correctAnswer": "Teacher and ex-mechanic"
   },
   {
     "id": 18,
-    "question": "What development in the West Asia region contributed to the easing of gas supply concerns for India?",
-    "options": ["A new trade agreement", "Increased oil production", "A ceasefire", "A change in government"],
-    "correctAnswer": "A ceasefire"
+    "question": "Beyond arrests, what other consequence has been observed due to the Ayodhya Ram Temple donation controversy?",
+    "options": [
+      "Increased pilgrimages",
+      "International funding",
+      "Resignations",
+      "New construction projects"
+    ],
+    "correctAnswer": "Resignations"
   },
   {
     "id": 19,
-    "question": "Through which crucial Strait were India's LNG shipments potentially impacted before the lifting of supply restrictions?",
-    "options": ["Strait of Malacca", "Strait of Gibraltar", "Strait of Hormuz", "Bab-el-Mandeb Strait"],
-    "correctAnswer": "Strait of Hormuz"
+    "question": "The donation embezzlement controversy at the Ram Temple has led to wider scrutiny now on what aspect of temples?",
+    "options": [
+      "Their architectural styles",
+      "Their security arrangements",
+      "Temple donation management",
+      "Their role in local governance"
+    ],
+    "correctAnswer": "Temple donation management"
   },
   {
     "id": 20,
-    "question": "What does the recent lifting of LNG curbs signify for India's energy sector?",
-    "options": ["Increased reliance on coal", "A shift to renewable energy", "A return to energy supply stability", "New oil discoveries"],
-    "correctAnswer": "A return to energy supply stability"
+    "question": "The news mentions that concerns regarding the Ram Temple scam arose despite earlier what?",
+    "options": [
+      "Government funding",
+      "Judicial interventions",
+      "Warnings",
+      "Public celebrations"
+    ],
+    "correctAnswer": "Warnings"
   },
   {
     "id": 21,
-    "question": "Which renowned Pandavani singer, known for her powerful performances rooted in the Mahabharata, recently passed away?",
-    "options": ["Shubha Mudgal", "Teejan Bai", "Girija Devi", "Lata Mangeshkar"],
-    "correctAnswer": "Teejan Bai"
+    "question": "The news article discusses the 'long journey to your tap' focusing on what critical infrastructure in India's biggest cities?",
+    "options": [
+      "Electricity supply",
+      "Internet connectivity",
+      "Water supply",
+      "Road networks"
+    ],
+    "correctAnswer": "Water supply"
   },
   {
     "id": 22,
-    "question": "From which Indian state does the traditional folk art form of Pandavani primarily originate?",
-    "options": ["Rajasthan", "Madhya Pradesh", "Chhattisgarh", "Uttar Pradesh"],
-    "correctAnswer": "Chhattisgarh"
+    "question": "What is a common challenge addressed by the news regarding water supply in India's major urban centers?",
+    "options": [
+      "Excessive rainfall",
+      "Ensuring consistent delivery to taps",
+      "Lack of tourist interest",
+      "Over-reliance on private wells"
+    ],
+    "correctAnswer": "Ensuring consistent delivery to taps"
   },
   {
     "id": 23,
-    "question": "Which prominent Indian leader mourned the demise of Teejan Bai, highlighting her 'irreplaceable loss to art and culture'?",
-    "options": ["The President of India", "The Chief Justice of India", "Prime Minister Narendra Modi", "The Vice President of India"],
-    "correctAnswer": "Prime Minister Narendra Modi"
+    "question": "The article implies that ensuring adequate water supply to India's biggest cities involves what kind of process?",
+    "options": [
+      "A simple local distribution system",
+      "A complex and extensive journey",
+      "Only rainwater harvesting",
+      "Solely groundwater extraction"
+    ],
+    "correctAnswer": "A complex and extensive journey"
   },
   {
     "id": 24,
-    "question": "The folk art form of Pandavani, popularized by Teejan Bai, draws its themes and stories primarily from which ancient Indian epic?",
-    "options": ["Ramayana", "Bhagavata Purana", "Mahabharata", "Upanishads"],
-    "correctAnswer": "Mahabharata"
+    "question": "Which of the following is a vital resource for urban populations, discussed in the context of India's biggest cities?",
+    "options": ["Natural gas", "Petroleum", "Drinking water", "Coal"],
+    "correctAnswer": "Drinking water"
   },
   {
     "id": 25,
-    "question": "Teejan Bai received several national honours for her contribution to popularizing which traditional Indian folk art form globally?",
-    "options": ["Kathak", "Bharatanatyam", "Pandavani", "Odissi"],
-    "correctAnswer": "Pandavani"
+    "question": "What aspect of urban living is highlighted by the 'long journey to your tap' in India's biggest cities?",
+    "options": [
+      "The need for luxury amenities",
+      "The intricate process of utility provision",
+      "The reliance on imported goods",
+      "The importance of personal vehicles"
+    ],
+    "correctAnswer": "The intricate process of utility provision"
   }
 ]

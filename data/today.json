@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the current Chief Minister of Telangana?",
-    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Revanth Reddy", "Y.S. Jagan Mohan Reddy"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "Which specific bill, expected in the upcoming Monsoon session, is anticipated to include discussions on potential changes to address concerns from 'southern states'?",
+    "options": ["Farmers' Produce Trade and Commerce Bill", "Women's Reservation Bill", "National Education Policy Bill", "Digital Personal Data Protection Bill"],
+    "correctAnswer": "Women's Reservation Bill"
   },
   {
     "id": 2,
-    "question": "Which national political leader did Telangana CM Revanth Reddy recently advocate for as the next Prime Minister?",
-    "options": ["Narendra Modi", "Amit Shah", "Rahul Gandhi", "Mallikarjun Kharge"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Besides the Women's Reservation Bill, what other legislative proposals, which could significantly impact states like Telangana and Andhra Pradesh, might be introduced during the Monsoon session?",
+    "options": ["Judicial Appointments Commission Bill and Electoral Reforms Bill", "Labor Codes Amendment Bill and Competition Amendment Bill", "Delimitation and 'One Nation, One Election' proposals", "Goods and Services Tax (GST) Amendment Bill and Banking Reforms Bill"],
+    "correctAnswer": "Delimitation and 'One Nation, One Election' proposals"
   },
   {
     "id": 3,
-    "question": "What did Telangana CM Revanth Reddy describe as a \"historical necessity\" in his recent statement?",
-    "options": ["Building the Ram Temple", "Making Rahul Gandhi Prime Minister", "Implementing Uniform Civil Code", "Achieving a $5 trillion economy"],
-    "correctAnswer": "Making Rahul Gandhi Prime Minister"
+    "question": "The Monsoon session of the Parliament, where key bills affecting all Indian states including Telangana and Andhra Pradesh are discussed, is scheduled to begin on which date?",
+    "options": ["June 20", "July 10", "July 20", "August 1"],
+    "correctAnswer": "July 20"
   },
   {
     "id": 4,
-    "question": "Revanth Reddy, who recently made a statement about the Prime Ministerial candidate, is the Chief Minister of which Indian state?",
-    "options": ["Andhra Pradesh", "Kerala", "Tamil Nadu", "Telangana"],
-    "correctAnswer": "Telangana"
-  },
-  {
-    "id": 5,
-    "question": "Based on the news, Revanth Reddy's statement implies his affiliation with which major political party in India?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Bharat Rashtra Samithi (BRS)", "All India Trinamool Congress (AITC)"],
-    "correctAnswer": "Indian National Congress (INC)"
-  },
-  {
-    "id": 6,
-    "question": "The statement regarding the \"historical necessity\" for a certain leader to become PM was made by which state's Chief Minister?",
-    "options": ["Karnataka", "Telangana", "West Bengal", "Uttar Pradesh"],
-    "correctAnswer": "Telangana"
-  },
-  {
-    "id": 7,
-    "question": "What was the core subject of Telangana CM Revanth Reddy's recent high-profile political statement?",
-    "options": ["State budget allocations", "National election strategies", "Interstate water disputes", "Agricultural policies"],
-    "correctAnswer": "National election strategies"
-  },
-  {
-    "id": 8,
-    "question": "Who is India's External Affairs Minister, embarking on a six-nation tour?",
-    "options": ["Nirmala Sitharaman", "S. Jaishankar", "Rajnath Singh", "Piyush Goyal"],
-    "correctAnswer": "S. Jaishankar"
-  },
-  {
-    "id": 9,
-    "question": "Which international body is India campaigning for a UN Security Council seat, as part of EAM Jaishankar's tour?",
-    "options": ["World Bank", "International Monetary Fund (IMF)", "UN Security Council", "World Trade Organization (WTO)"],
-    "correctAnswer": "UN Security Council"
-  },
-  {
-    "id": 10,
-    "question": "EAM S. Jaishankar's recent multi-nation tour aims to strengthen ties with countries primarily in which region before heading to New York?",
-    "options": ["Southeast Asia", "East Africa", "Gulf countries", "European Union"],
-    "correctAnswer": "Gulf countries"
-  },
-  {
-    "id": 11,
-    "question": "What is the name of the council where India-EU discussions are planned to conclude EAM Jaishankar's tour?",
-    "options": ["India-EU Strategic Partnership Council", "India-EU Trade and Technology Council", "India-EU Economic Cooperation Forum", "India-EU Digital Dialogue"],
-    "correctAnswer": "India-EU Trade and Technology Council"
-  },
-  {
-    "id": 12,
-    "question": "How many countries is External Affairs Minister S. Jaishankar visiting on his current tour from July 5-15?",
-    "options": ["Four", "Five", "Six", "Seven"],
-    "correctAnswer": "Six"
-  },
-  {
-    "id": 13,
-    "question": "EAM S. Jaishankar's visit to New York is focused on what specific objective?",
-    "options": ["Attending a climate summit", "Addressing the UN General Assembly", "Spearheading India's campaign for a UN Security Council seat", "Meeting with the US Secretary of State"],
-    "correctAnswer": "Spearheading India's campaign for a UN Security Council seat"
-  },
-  {
-    "id": 14,
-    "question": "The India-EU Trade and Technology Council discussions will take place in which city, concluding EAM Jaishankar's tour?",
-    "options": ["Paris", "Berlin", "Brussels", "Rome"],
-    "correctAnswer": "Brussels"
-  },
-  {
-    "id": 15,
-    "question": "What is the primary purpose of EAM S. Jaishankar's visit to the Gulf countries during his six-nation tour?",
-    "options": ["To sign new trade agreements", "To discuss regional security matters", "To bolster bilateral ties and discuss regional matters", "To promote cultural exchange programs"],
-    "correctAnswer": "To bolster bilateral ties and discuss regional matters"
-  },
-  {
-    "id": 16,
-    "question": "Between what dates is EAM S. Jaishankar's current six-nation diplomatic tour scheduled?",
-    "options": ["June 25 - July 5", "July 1 - July 10", "July 5 - July 15", "July 10 - July 20"],
-    "correctAnswer": "July 5 - July 15"
-  },
-  {
-    "id": 17,
-    "question": "Which Indian minister is undertaking a diplomatic tour to strengthen ties and launch an UNSC campaign?",
-    "options": ["Union Finance Minister", "Union Defence Minister", "External Affairs Minister", "Union Home Minister"],
-    "correctAnswer": "External Affairs Minister"
-  },
-  {
-    "id": 18,
-    "question": "Strengthening bilateral ties and discussing regional matters are key objectives for EAM Jaishankar's visit to which group of countries?",
-    "options": ["SAARC nations", "ASEAN nations", "Gulf countries", "G7 nations"],
-    "correctAnswer": "Gulf countries"
-  },
-  {
-    "id": 19,
-    "question": "Who is the Lok Sabha Speaker who announced the tabling of the probe committee's report on Justice Yashwant Varma?",
-    "options": ["Sumitra Mahajan", "Meira Kumar", "Om Birla", "G. M. C. Balayogi"],
+    "question": "Who is the Lok Sabha Speaker whose decision on defecting MPs could influence the ruling alliance's numbers in the Monsoon session, potentially impacting legislative outcomes for all states?",
+    "options": ["Rajnath Singh", "Amit Shah", "Om Birla", "Nirmala Sitharaman"],
     "correctAnswer": "Om Birla"
   },
   {
-    "id": 20,
-    "question": "In which session of Parliament is the report on Justice Yashwant Varma expected to be tabled?",
-    "options": ["Budget Session", "Winter Session", "Monsoon Session", "Special Session"],
+    "id": 5,
+    "question": "A low-pressure system over which body of water is set to boost rainfall across central and western regions of India, significantly impacting monsoon patterns that affect states like Telangana and Andhra Pradesh?",
+    "options": ["Arabian Sea", "Indian Ocean", "Bay of Bengal", "Andaman Sea"],
+    "correctAnswer": "Bay of Bengal"
+  },
+  {
+    "id": 6,
+    "question": "What is the India Meteorological Department (IMD) predicting for monsoon activity over central and western regions of India, which could bring relief to agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["Withdrawal phase", "Drought conditions", "Active phase", "Below-normal rainfall"],
+    "correctAnswer": "Active phase"
+  },
+  {
+    "id": 7,
+    "question": "Due to potential extreme weather events during the active monsoon phase, what alert level has been issued for several Indian states?",
+    "options": ["Yellow alerts", "Orange alerts", "Green alerts", "Red alerts"],
+    "correctAnswer": "Red alerts"
+  },
+  {
+    "id": 8,
+    "question": "The active monsoon phase across India, as predicted by the IMD, is expected to significantly reduce what national deficit?",
+    "options": ["Food grain deficit", "Power generation deficit", "Rainfall deficit", "Fiscal deficit"],
+    "correctAnswer": "Rainfall deficit"
+  },
+  {
+    "id": 9,
+    "question": "The inquiry report against Justice Yashwant Varma, concerning corruption charges, is expected to be tabled in which parliamentary session relevant to national judicial oversight?",
+    "options": ["Winter Session", "Budget Session", "Monsoon Session", "Special Session"],
     "correctAnswer": "Monsoon Session"
   },
   {
+    "id": 10,
+    "question": "Who confirmed that the inquiry report against Justice Varma would be presented in the monsoon session, despite his resignation?",
+    "options": ["The President of India", "The Chief Justice of India", "The Prime Minister", "Lok Sabha Speaker Om Birla"],
+    "correctAnswer": "Lok Sabha Speaker Om Birla"
+  },
+  {
+    "id": 11,
+    "question": "What specific type of allegations does Justice Varma face, leading to the inquiry report being tabled in Parliament?",
+    "options": ["Misuse of power", "Contempt of court", "Financial irregularities", "Political bias"],
+    "correctAnswer": "Financial irregularities"
+  },
+  {
+    "id": 12,
+    "question": "The Indian government has issued a notice to which messaging application over the rampant circulation of pirated films and shows, a national issue impacting content creators across India?",
+    "options": ["WhatsApp", "Signal", "Telegram", "Viber"],
+    "correctAnswer": "Telegram"
+  },
+  {
+    "id": 13,
+    "question": "What specific action has the Indian government demanded from Telegram beyond individual channel takedowns to combat piracy?",
+    "options": ["Share user data with authorities", "Implement robust systems to detect and remove infringing content", "Introduce a paywall for all content", "Cease operations in India"],
+    "correctAnswer": "Implement robust systems to detect and remove infringing content"
+  },
+  {
+    "id": 14,
+    "question": "Besides piracy, what other illegal activities has Telegram previously been associated with in India, prompting government concern?",
+    "options": ["Tax evasion and money laundering", "Online gambling and sports betting", "Fraud and the distribution of harmful material", "Smuggling and illegal trade"],
+    "correctAnswer": "Fraud and the distribution of harmful material"
+  },
+  {
+    "id": 15,
+    "question": "Prime Minister Modi highlighted India's achievement in which sector, stating it is 'bucking the trend' by adding capacity and ensuring energy security for all states, including Telangana and Andhra Pradesh?",
+    "options": ["Software exports", "Agricultural production", "Refining capacity", "Textile manufacturing"],
+    "correctAnswer": "Refining capacity"
+  },
+  {
+    "id": 16,
+    "question": "Which newly inaugurated refinery was mentioned as a significant step in India's expanding refining prowess, contributing to national energy independence?",
+    "options": ["Bongaigaon Refinery", "Mathura Refinery", "Panipat Refinery", "HPCL Rajasthan Refinery"],
+    "correctAnswer": "HPCL Rajasthan Refinery"
+  },
+  {
+    "id": 17,
+    "question": "With its recent expansions in refining capacity, India is now positioned as the world's what-largest refining nation?",
+    "options": ["Second-largest", "Third-largest", "Fourth-largest", "Fifth-largest"],
+    "correctAnswer": "Fourth-largest"
+  },
+  {
+    "id": 18,
+    "question": "What percentage of ethanol blending in petrol (E20) has been mandated by the Indian government as a national fuel policy?",
+    "options": ["5%", "10%", "15%", "20%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "id": 19,
+    "question": "According to vehicle manufacturers, what is a common effect observed in older vehicles using E20 fuel, despite assurances of no engine damage, relevant to vehicle owners in states like Telangana and Andhra Pradesh?",
+    "options": ["Increased engine noise", "Slight drop in fuel efficiency/mileage", "Faster acceleration", "Reduced maintenance needs"],
+    "correctAnswer": "Slight drop in fuel efficiency/mileage"
+  },
+  {
+    "id": 20,
+    "question": "Why might E20 fuel lead to a slight drop in fuel efficiency compared to unblended petrol, as explained by industry leaders?",
+    "options": ["Higher octane number", "Lower calorific value of ethanol", "Increased engine friction", "Higher density of the fuel mix"],
+    "correctAnswer": "Lower calorific value of ethanol"
+  },
+  {
     "id": 21,
-    "question": "Why did Justice Yashwant Varma resign in April, leading to impeachment proceedings?",
-    "options": ["Health reasons", "Recovery of burnt currency notes from his residence", "Allegations of land encroachment", "Disagreement with judicial reforms"],
-    "correctAnswer": "Recovery of burnt currency notes from his residence"
+    "question": "India's road transport ministry is introducing mandatory rules for advanced vehicles regarding cybersecurity and software updates, effective from when for new models with Level-3 automation and above?",
+    "options": ["August 2024", "September 2024", "October 2024", "January 2025"],
+    "correctAnswer": "October 2024"
   },
   {
     "id": 22,
-    "question": "The report on Justice Yashwant Varma was sought by which group within the Indian Parliament?",
-    "options": ["Ruling party MPs only", "Opposition party MPs only", "MPs across party lines", "Select committee members"],
-    "correctAnswer": "MPs across party lines"
+    "question": "The new cybersecurity and software update norms for advanced vehicles will initially apply to new models with what specific level of automation and above?",
+    "options": ["Level-1 automation", "Level-2 automation", "Level-3 automation", "Level-4 automation"],
+    "correctAnswer": "Level-3 automation"
   },
   {
     "id": 23,
-    "question": "What specific parliamentary official announced that the report on Justice Yashwant Varma would be presented?",
-    "options": ["Leader of the Opposition", "Union Law Minister", "Lok Sabha Speaker", "Rajya Sabha Chairman"],
-    "correctAnswer": "Lok Sabha Speaker"
+    "question": "Beyond new models, the cybersecurity and software update norms will subsequently extend to which other category of vehicles?",
+    "options": ["Vehicles older than 10 years", "Electric vehicles only", "Existing models and vehicles with over-the-air update capabilities", "All commercial vehicles"],
+    "correctAnswer": "Existing models and vehicles with over-the-air update capabilities"
   },
   {
     "id": 24,
-    "question": "What was the legal process that Justice Yashwant Varma faced prior to his resignation?",
-    "options": ["Criminal prosecution", "Impeachment proceedings", "Civil defamation suit", "Departmental inquiry"],
-    "correctAnswer": "Impeachment proceedings"
+    "question": "What is the Congress leader Jairam Ramesh's accusation against the BJP regarding its activities before the monsoon session, relevant to national political stability and federal structure?",
+    "options": ["Failing to address inflation", "Delaying crucial bills", "Attempting to split opposition parties", "Ignoring environmental concerns"],
+    "correctAnswer": "Attempting to split opposition parties"
   },
   {
     "id": 25,
-    "question": "The recovery of burnt currency notes from his residence was associated with which Indian justice?",
-    "options": ["Justice D.Y. Chandrachud", "Justice N.V. Ramana", "Justice U.U. Lalit", "Justice Yashwant Varma"],
-    "correctAnswer": "Justice Yashwant Varma"
+    "question": "According to the Congress, what specific objective of the ruling party, requiring a two-thirds majority, is unlikely to be achieved despite its efforts to split opposition parties?",
+    "options": ["Winning all state elections", "Altering India's Constitution", "Achieving complete economic self-reliance", "Eliminating poverty entirely"],
+    "correctAnswer": "Altering India's Constitution"
   }
 ]

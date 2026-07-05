@@ -1,247 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is the primary proposal of the Constitution (130th Amendment) Bill mentioned by the Congress party?",
+    "question": "Dr. Syama Prasad Mookerjee is remembered by PM Modi for his unwavering commitment to which core principle?",
     "options": [
-      "Automatic removal of ministers after 30 days in judicial custody",
-      "Increasing the tenure of Prime Ministers and Chief Ministers",
-      "Granting special powers to state governments",
-      "Amending election commission rules"
+      "Economic liberalization",
+      "India's unity and progress",
+      "Regional autonomy",
+      "Industrial development"
     ],
-    "correctAnswer": "Automatic removal of ministers after 30 days in judicial custody"
+    "correctAnswer": "India's unity and progress"
   },
   {
     "id": 2,
-    "question": "For how many days in judicial custody would a minister be subject to automatic expulsion under the proposed Constitution (130th Amendment) Bill?",
-    "options": ["15 days", "30 days", "60 days", "90 days"],
-    "correctAnswer": "30 days"
+    "question": "On what specific anniversary was Dr. Syama Prasad Mookerjee's contribution to India's unity and progress commemorated?",
+    "options": [
+      "100th birth anniversary",
+      "75th death anniversary",
+      "125th birth anniversary",
+      "50th year of Jana Sangh foundation"
+    ],
+    "correctAnswer": "125th birth anniversary"
   },
   {
     "id": 3,
-    "question": "Which political party has voiced vigorous objections to the upcoming Constitution (130th Amendment) Bill?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "All India Trinamool Congress (TMC)", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "Dr. Syama Prasad Mookerjee's sacrifice is highlighted as a pivotal moment for the integration of which Indian region?",
+    "options": [
+      "Punjab",
+      "Jammu & Kashmir",
+      "North-Eastern States",
+      "Goa"
+    ],
+    "correctAnswer": "Jammu & Kashmir"
   },
   {
     "id": 4,
-    "question": "The Congress party believes the proposed Constitution (130th Amendment) Bill is a tactic for what purpose?",
+    "question": "What significant political party did Dr. Syama Prasad Mookerjee found, as mentioned in the news context?",
     "options": [
-      "Economic reform",
-      "Political intimidation",
-      "Improving judicial efficiency",
-      "Strengthening federalism"
+      "Indian National Congress",
+      "Bharatiya Janata Party",
+      "Jana Sangh",
+      "Swatantra Party"
     ],
-    "correctAnswer": "Political intimidation"
+    "correctAnswer": "Jana Sangh"
   },
   {
     "id": 5,
-    "question": "What kind of majority does the BJP-led government need to pass a constitutional amendment like the Constitution (130th Amendment) Bill?",
+    "question": "Beyond his political career, what other influential professional role did Syama Prasad Mookerjee hold?",
     "options": [
-      "Simple majority",
-      "Two-thirds majority",
-      "Absolute majority",
-      "One-half majority"
+      "Journalist",
+      "Scientist",
+      "Educationist",
+      "Businessman"
     ],
-    "correctAnswer": "Two-thirds majority"
+    "correctAnswer": "Educationist"
   },
   {
     "id": 6,
-    "question": "The proposed Constitution (130th Amendment) Bill seeks the automatic removal of which positions, among others?",
+    "question": "What does 'E20' refer to in the context of the fuel debate across India, including states like Telangana and Andhra Pradesh?",
     "options": [
-      "Members of Parliament and State Assembly",
-      "Prime Minister and Chief Ministers",
-      "Judges of High Courts and Supreme Court",
-      "District Collectors and Police Chiefs"
+      "20% electricity blend",
+      "20% ethanol blending in petrol",
+      "Engine oil grade 20",
+      "Euro 20 emission standards"
     ],
-    "correctAnswer": "Prime Minister and Chief Ministers"
+    "correctAnswer": "20% ethanol blending in petrol"
   },
   {
     "id": 7,
-    "question": "If passed, how would the Constitution (130th Amendment) Bill directly affect Chief Ministers in states like Telangana and Andhra Pradesh?",
+    "question": "What is the primary concern voiced by consumers regarding the mandatory E20 fuel, affecting vehicle owners nationwide?",
     "options": [
-      "It would increase their discretionary powers.",
-      "It would make them immune to criminal charges.",
-      "It could lead to their automatic expulsion from office under certain conditions.",
-      "It would extend their term limits."
+      "Increased engine noise",
+      "Higher fuel prices",
+      "Mileage drops and potential material degradation",
+      "Reduced vehicle performance at high altitudes"
     ],
-    "correctAnswer": "It could lead to their automatic expulsion from office under certain conditions."
+    "correctAnswer": "Mileage drops and potential material degradation"
   },
   {
     "id": 8,
-    "question": "What is the nature of the charges that would trigger the automatic expulsion under the proposed Constitution (130th Amendment) Bill?",
+    "question": "India achieved its E20 ethanol blending target earlier than anticipated. What is now being speculated regarding future blending levels?",
     "options": [
-      "Minor traffic violations",
+      "A reduction to E10",
+      "A complete halt to blending",
+      "Even higher blending levels",
+      "Diversion to bio-diesel production"
+    ],
+    "correctAnswer": "Even higher blending levels"
+  },
+  {
+    "id": 9,
+    "question": "Which specific category of vehicles is mentioned with concerns about material degradation due to the use of E20 fuel?",
+    "options": [
+      "Electric vehicles",
+      "New luxury cars",
+      "Older vehicles",
+      "Commercial heavy-duty trucks"
+    ],
+    "correctAnswer": "Older vehicles"
+  },
+  {
+    "id": 10,
+    "question": "Despite consumer concerns, which industry group is reportedly backing the government's mandatory E20 blending policy?",
+    "options": [
+      "Oil refinery associations",
+      "Automobile majors",
+      "Public transport operators",
+      "Environmental activist groups"
+    ],
+    "correctAnswer": "Automobile majors"
+  },
+  {
+    "id": 11,
+    "question": "What do official studies suggest about the impact of E20 fuel on vehicle mileage, as presented in the debate?",
+    "options": [
+      "Significant improvement",
+      "No impact whatsoever",
+      "Minimal impact",
+      "Impact only on new vehicles"
+    ],
+    "correctAnswer": "Minimal impact"
+  },
+  {
+    "id": 12,
+    "question": "Amidst the E20 debate, what specific consumer choice is being called for regarding fuel options?",
+    "options": [
+      "Subsidized E20 fuel",
+      "A choice between E20 and non-E20 fuel",
+      "Mandatory E20 for all vehicles",
+      "Alternative fuel vehicle subsidies"
+    ],
+    "correctAnswer": "A choice between E20 and non-E20 fuel"
+  },
+  {
+    "id": 13,
+    "question": "What is the central allegation surrounding the Ayodhya Ram Temple donations, drawing criticism from various political parties?",
+    "options": [
+      "Misappropriation of land",
+      "Delay in construction",
+      "Theft and embezzlement of donations",
+      "Illegal labor practices"
+    ],
+    "correctAnswer": "Theft and embezzlement of donations"
+  },
+  {
+    "id": 14,
+    "question": "Which political leader from the Congress party questioned the VHP's demand for opposition leaders to provide evidence in the Ayodhya donation probe?",
+    "options": [
+      "Rahul Gandhi",
+      "Pawan Khera",
+      "Mallikarjun Kharge",
+      "Sonia Gandhi"
+    ],
+    "correctAnswer": "Pawan Khera"
+  },
+  {
+    "id": 15,
+    "question": "Uddhav Thackeray strongly criticized the Centre over the Ayodhya Ram Temple donation row, asserting what about those in power?",
+    "options": [
+      "They are diligently investigating",
+      "They are prioritizing development",
+      "Those looting Hindus are in power",
+      "They are promoting national unity"
+    ],
+    "correctAnswer": "Those looting Hindus are in power"
+  },
+  {
+    "id": 16,
+    "question": "What did the VHP president Alok Kumar request from opposition leaders concerning the Ayodhya temple donation probe?",
+    "options": [
+      "To retract their statements",
+      "To provide evidence for their claims",
+      "To join the temple committee",
+      "To contribute more donations"
+    ],
+    "correctAnswer": "To provide evidence for their claims"
+  },
+  {
+    "id": 17,
+    "question": "What immediate consequences have reportedly arisen from the Ayodhya Ram Temple donation controversy?",
+    "options": [
+      "Formation of a new political party",
+      "Postponement of temple inauguration",
+      "Arrests and resignations",
+      "International sanctions"
+    ],
+    "correctAnswer": "Arrests and resignations"
+  },
+  {
+    "id": 18,
+    "question": "According to Congress leader Pawan Khera, what was the alleged real motive behind the VHP's actions concerning the Ayodhya donation probe?",
+    "options": [
+      "To ensure transparency",
+      "To emotionally exploit Hindus",
+      "To accelerate construction",
+      "To unite political parties"
+    ],
+    "correctAnswer": "To emotionally exploit Hindus"
+  },
+  {
+    "id": 19,
+    "question": "The proposed Constitution (130th Amendment) Bill aims for the automatic removal of which high-ranking officials?",
+    "options": [
+      "Judges and bureaucrats",
+      "Ministers, including PM and CMs",
+      "Governors and Ambassadors",
+      "Members of Parliament only"
+    ],
+    "correctAnswer": "Ministers, including PM and CMs"
+  },
+  {
+    "id": 20,
+    "question": "What is the specific duration of judicial custody proposed in the Constitution (130th Amendment) Bill that would trigger automatic removal of officials?",
+    "options": [
+      "7 days",
+      "15 days",
+      "30 days",
+      "60 days"
+    ],
+    "correctAnswer": "30 days"
+  },
+  {
+    "id": 21,
+    "question": "Under the proposed Constitution (130th Amendment) Bill, automatic removal of officials would be triggered due to their detention for what kind of charges?",
+    "options": [
+      "Traffic violations",
       "Serious criminal charges",
       "Civil disputes",
-      "Administrative errors"
+      "Minor administrative infractions"
     ],
     "correctAnswer": "Serious criminal charges"
   },
   {
-    "id": 9,
-    "question": "Which major political party is currently leading the central government that is proposing the Constitution (130th Amendment) Bill?",
-    "options": ["Indian National Congress", "Aam Aadmi Party", "Bharatiya Janata Party", "Samajwadi Party"],
-    "correctAnswer": "Bharatiya Janata Party"
+    "id": 22,
+    "question": "Which major political party has vowed to block the Constitution (130th Amendment) Bill, calling it a tactic for 'political intimidation'?",
+    "options": [
+      "Aam Aadmi Party (AAP)",
+      "Bharatiya Janata Party (BJP)",
+      "Indian National Congress",
+      "Trinamool Congress (TMC)"
+    ],
+    "correctAnswer": "Indian National Congress"
   },
   {
-    "id": 10,
-    "question": "The Congress anticipates the BJP-led government will lack what to push through the Constitution (130th Amendment) Bill?",
+    "id": 23,
+    "question": "The Congress party anticipates that the BJP-led government will lack what to successfully pass the Constitution (130th Amendment) Bill?",
     "options": [
       "Public support",
-      "Necessary two-thirds majority",
       "Judicial approval",
-      "State government consent"
+      "Necessary two-thirds majority",
+      "Presidential assent"
     ],
     "correctAnswer": "Necessary two-thirds majority"
   },
   {
-    "id": 11,
-    "question": "What major controversy surrounding the Ayodhya Ram Temple has led to demands for an impartial investigation?",
-    "options": [
-      "Land acquisition disputes",
-      "Alleged donation embezzlement",
-      "Construction delays",
-      "Disagreement over architectural design"
-    ],
-    "correctAnswer": "Alleged donation embezzlement"
-  },
-  {
-    "id": 12,
-    "question": "Uddhav Thackeray criticized the Centre regarding alleged donation embezzlement at which prominent temple?",
-    "options": [
-      "Badrinath Temple",
-      "Kedarnath Temple",
-      "Ayodhya Ram Temple",
-      "Vaishno Devi Temple"
-    ],
-    "correctAnswer": "Ayodhya Ram Temple"
-  },
-  {
-    "id": 13,
-    "question": "Who demanded an impartial investigation into alleged donation embezzlement at the Ayodhya Ram Temple?",
-    "options": [
-      "Nayab Singh Saini",
-      "Mamata Banerjee",
-      "Uddhav Thackeray",
-      "Rahul Sinha"
-    ],
-    "correctAnswer": "Uddhav Thackeray"
-  },
-  {
-    "id": 14,
-    "question": "According to Uddhav Thackeray, what would Hindus not tolerate in the name of religion?",
-    "options": ["New rituals", "Political interference", "Corruption", "Sectarian differences"],
-    "correctAnswer": "Corruption"
-  },
-  {
-    "id": 15,
-    "question": "The alleged donation embezzlement at the Ram Temple reportedly reached a climax during which major event?",
-    "options": [
-      "Diwali celebrations",
-      "Maha Kumbh",
-      "Foundation stone laying ceremony",
-      "Rath Yatra"
-    ],
-    "correctAnswer": "Maha Kumbh"
-  },
-  {
-    "id": 16,
-    "question": "How many individuals were mentioned as arrested in connection with the Ayodhya Ram Mandir donation embezzlement case?",
-    "options": ["Four", "Six", "Eight", "Ten"],
-    "correctAnswer": "Eight"
-  },
-  {
-    "id": 17,
-    "question": "What kinds of professions were mentioned among those arrested in the Ayodhya Ram Mandir donation embezzlement case?",
-    "options": [
-      "Engineers and Architects",
-      "Doctors and Lawyers",
-      "Teacher and ex-mechanic",
-      "Farmers and Laborers"
-    ],
-    "correctAnswer": "Teacher and ex-mechanic"
-  },
-  {
-    "id": 18,
-    "question": "Beyond arrests, what other consequence has been observed due to the Ayodhya Ram Temple donation controversy?",
-    "options": [
-      "Increased pilgrimages",
-      "International funding",
-      "Resignations",
-      "New construction projects"
-    ],
-    "correctAnswer": "Resignations"
-  },
-  {
-    "id": 19,
-    "question": "The donation embezzlement controversy at the Ram Temple has led to wider scrutiny now on what aspect of temples?",
-    "options": [
-      "Their architectural styles",
-      "Their security arrangements",
-      "Temple donation management",
-      "Their role in local governance"
-    ],
-    "correctAnswer": "Temple donation management"
-  },
-  {
-    "id": 20,
-    "question": "The news mentions that concerns regarding the Ram Temple scam arose despite earlier what?",
-    "options": [
-      "Government funding",
-      "Judicial interventions",
-      "Warnings",
-      "Public celebrations"
-    ],
-    "correctAnswer": "Warnings"
-  },
-  {
-    "id": 21,
-    "question": "The news article discusses the 'long journey to your tap' focusing on what critical infrastructure in India's biggest cities?",
-    "options": [
-      "Electricity supply",
-      "Internet connectivity",
-      "Water supply",
-      "Road networks"
-    ],
-    "correctAnswer": "Water supply"
-  },
-  {
-    "id": 22,
-    "question": "What is a common challenge addressed by the news regarding water supply in India's major urban centers?",
-    "options": [
-      "Excessive rainfall",
-      "Ensuring consistent delivery to taps",
-      "Lack of tourist interest",
-      "Over-reliance on private wells"
-    ],
-    "correctAnswer": "Ensuring consistent delivery to taps"
-  },
-  {
-    "id": 23,
-    "question": "The article implies that ensuring adequate water supply to India's biggest cities involves what kind of process?",
-    "options": [
-      "A simple local distribution system",
-      "A complex and extensive journey",
-      "Only rainwater harvesting",
-      "Solely groundwater extraction"
-    ],
-    "correctAnswer": "A complex and extensive journey"
-  },
-  {
     "id": 24,
-    "question": "Which of the following is a vital resource for urban populations, discussed in the context of India's biggest cities?",
-    "options": ["Natural gas", "Petroleum", "Drinking water", "Coal"],
-    "correctAnswer": "Drinking water"
+    "question": "What term did the Congress party use to describe the proposed Constitution (130th Amendment) Bill?",
+    "options": [
+      "A progressive reform",
+      "A necessary evil",
+      "Political vendetta",
+      "A populist measure"
+    ],
+    "correctAnswer": "Political vendetta"
   },
   {
     "id": 25,
-    "question": "What aspect of urban living is highlighted by the 'long journey to your tap' in India's biggest cities?",
+    "question": "If enacted, how would the Constitution (130th Amendment) Bill potentially impact the position of Chief Ministers in states like Telangana and Andhra Pradesh?",
     "options": [
-      "The need for luxury amenities",
-      "The intricate process of utility provision",
-      "The reliance on imported goods",
-      "The importance of personal vehicles"
+      "It would grant them more powers",
+      "It would make them immune to judicial custody",
+      "It could lead to their automatic removal if jailed for 30 days on serious charges",
+      "It would extend their term in office"
     ],
-    "correctAnswer": "The intricate process of utility provision"
+    "correctAnswer": "It could lead to their automatic removal if jailed for 30 days on serious charges"
   }
 ]

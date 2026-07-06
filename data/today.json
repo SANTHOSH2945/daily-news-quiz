@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is the potential impact of India's new rural jobs scheme, VB-G-RAM-G, on state finances?",
-    "options": ["Increased revenue for states", "Fiscal pressure on states", "Reduced national debt", "No significant financial impact"],
-    "correctAnswer": "Fiscal pressure on states"
+    "question": "What is the primary issue surrounding the Ram temple trust mentioned in the recent news?",
+    "options": [
+      "Land dispute allegations",
+      "Donation 'theft' row",
+      "Construction delays",
+      "Leadership succession debate"
+    ],
+    "correctAnswer": "Donation 'theft' row"
   },
   {
     "id": 2,
-    "question": "The news article mentions a new rural jobs scheme in India. What is its acronym?",
-    "options": ["MGNREGA", "PM-KISAN", "VB-G-RAM-G", "SGRY"],
-    "correctAnswer": "VB-G-RAM-G"
+    "question": "Who among the following resigned from the Ram temple trust amidst the donation row?",
+    "options": [
+      "Mohan Bhagwat",
+      "Champat Rai",
+      "Praveen Togadia",
+      "Nripendra Misra"
+    ],
+    "correctAnswer": "Champat Rai"
   },
   {
     "id": 3,
-    "question": "What is a primary concern associated with the implementation of the VB-G-RAM-G rural jobs scheme?",
-    "options": ["Shortage of skilled labor", "Lack of enthusiasm from beneficiaries", "Potential to mount fiscal pressure on states", "Over-reliance on private funding"],
-    "correctAnswer": "Potential to mount fiscal pressure on states"
+    "question": "The Ram Mandir trust chief urged against what action in the context of the donation controversy?",
+    "options": [
+      "Halting construction",
+      "Seeking international aid",
+      "Politicizing the matter",
+      "Conducting a public audit"
+    ],
+    "correctAnswer": "Politicizing the matter"
   },
   {
     "id": 4,
-    "question": "How do new rural jobs schemes generally aim to benefit the Indian economy?",
-    "options": ["By boosting urban migration", "By reducing agricultural output", "By increasing rural employment and income", "By focusing solely on industrial development"],
-    "correctAnswer": "By increasing rural employment and income"
+    "question": "Which political leader questioned the SIT probe into the alleged Ram temple donation 'theft'?",
+    "options": [
+      "Rahul Gandhi",
+      "Akhilesh Yadav",
+      "Mamata Banerjee",
+      "Arvind Kejriwal"
+    ],
+    "correctAnswer": "Akhilesh Yadav"
   },
   {
     "id": 5,
-    "question": "Which sector is the VB-G-RAM-G scheme primarily focused on in India?",
-    "options": ["Urban infrastructure", "Rural employment", "Industrial development", "IT services"],
-    "correctAnswer": "Rural employment"
+    "question": "The alleged 'power struggle between Delhi & Lucknow faction' was mentioned by which party's chief regarding the Ram temple row?",
+    "options": [
+      "Samajwadi Party",
+      "Bahujan Samaj Party",
+      "Congress",
+      "Bharatiya Janata Party"
+    ],
+    "correctAnswer": "Samajwadi Party"
   },
   {
     "id": 6,
-    "question": "Which of the following countries was NOT part of Prime Minister Modi's recent three-nation tour mentioned in the news?",
-    "options": ["Indonesia", "Australia", "New Zealand", "Japan"],
-    "correctAnswer": "Japan"
+    "question": "Besides Champat Rai, who else's resignation was accepted by the Ram temple trust amidst the donation controversy?",
+    "options": [
+      "Shatrughan Singh",
+      "Gopal Sharma",
+      "Anil Mishra",
+      "Rameshwar Prasad"
+    ],
+    "correctAnswer": "Anil Mishra"
   },
   {
     "id": 7,
-    "question": "The Prime Minister's recent three-nation tour aimed to bolster which key Indian foreign policy?",
-    "options": ["Look West Policy", "Act East Policy", "Connect Africa Policy", "Neighbors First Policy"],
-    "correctAnswer": "Act East Policy"
+    "question": "The alleged 'theft' and donation controversy pertain to which prominent temple being constructed in India?",
+    "options": [
+      "Kashi Vishwanath Temple",
+      "Mahakal Temple",
+      "Ram Temple in Ayodhya",
+      "Somnath Temple"
+    ],
+    "correctAnswer": "Ram Temple in Ayodhya"
   },
   {
     "id": 8,
-    "question": "Besides the Act East Policy, what other vision did PM Modi's tour support in the regional context?",
-    "options": ["Euro-Atlantic Vision", "Indo-Pacific Vision", "South American Trade Vision", "Arctic Exploration Vision"],
-    "correctAnswer": "Indo-Pacific Vision"
+    "question": "What type of investigation was questioned by Akhilesh Yadav concerning the Ram temple donation issue?",
+    "options": [
+      "Judicial inquiry",
+      "CBI probe",
+      "SIT probe",
+      "Parliamentary committee review"
+    ],
+    "correctAnswer": "SIT probe"
   },
   {
     "id": 9,
-    "question": "Which of these was a key discussion area during PM Modi's three-nation tour?",
-    "options": ["Space exploration", "Defense and critical minerals", "Agricultural subsidies", "Tourism promotion alone"],
-    "correctAnswer": "Defense and critical minerals"
+    "question": "The controversy related to the Ram temple primarily involves allegations surrounding what aspect?",
+    "options": [
+      "Architectural design",
+      "Land acquisition process",
+      "Financial management of donations",
+      "Labor conditions"
+    ],
+    "correctAnswer": "Financial management of donations"
   },
   {
     "id": 10,
-    "question": "What was a special emphasis during PM Modi's three-nation tour, alongside strategic partnerships?",
-    "options": ["Environmental regulations", "Cultural ties and diaspora engagement", "Sporting events", "Renewable energy production"],
-    "correctAnswer": "Cultural ties and diaspora engagement"
+    "question": "The resignations of trust members in the Ram temple donation row suggest internal issues within which body?",
+    "options": [
+      "Government of India",
+      "Vishva Hindu Parishad",
+      "Shri Ram Janmabhoomi Teerth Kshetra",
+      "Archaeological Survey of India"
+    ],
+    "correctAnswer": "Shri Ram Janmabhoomi Teerth Kshetra"
   },
   {
     "id": 11,
-    "question": "How many days was PM Modi's significant tour to Indonesia, Australia, and New Zealand?",
-    "options": ["Three days", "Four days", "Six days", "Ten days"],
-    "correctAnswer": "Six days"
+    "question": "Which national agency apprehended the NHAI Project Director for an alleged bribe demand?",
+    "options": [
+      "Enforcement Directorate",
+      "National Investigation Agency",
+      "Central Bureau of Investigation",
+      "Vigilance Commission"
+    ],
+    "correctAnswer": "Central Bureau of Investigation"
   },
   {
     "id": 12,
-    "question": "What is the estimated number of new cancer cases in India for the year 2024, as per the news?",
-    "options": ["10.5 lakh", "15.33 lakh", "20.1 lakh", "5.8 lakh"],
-    "correctAnswer": "15.33 lakh"
+    "question": "What was the alleged total bribe amount demanded by the NHAI Project Director?",
+    "options": [
+      "Rs 4 lakh",
+      "Rs 8 lakh",
+      "Rs 12 lakh",
+      "Rs 13.38 crore"
+    ],
+    "correctAnswer": "Rs 12 lakh"
   },
   {
     "id": 13,
-    "question": "According to the news, what is the lifetime risk of an individual in India facing cancer?",
-    "options": ["One in three", "One in five", "One in nine", "One in fifteen"],
-    "correctAnswer": "One in nine"
+    "question": "The NHAI Project Director was arrested in which city?",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Shillong",
+      "Kolkata"
+    ],
+    "correctAnswer": "Shillong"
   },
   {
     "id": 14,
-    "question": "Which parliamentary body is seeking public and expert opinions on affordable cancer screening, diagnosis, and treatment in India?",
-    "options": ["Lok Sabha Committee", "NITI Aayog", "Rajya Sabha panel", "Ministry of Health"],
-    "correctAnswer": "Rajya Sabha panel"
+    "question": "For what purpose was the alleged bribe demanded by the NHAI Project Director?",
+    "options": [
+      "To approve a new project",
+      "To expedite land acquisition",
+      "To clear a contractor's pending payment",
+      "To award a new contract"
+    ],
+    "correctAnswer": "To clear a contractor's pending payment"
   },
   {
     "id": 15,
-    "question": "What are the key areas the Rajya Sabha panel aims to gather suggestions for regarding cancer care?",
-    "options": ["Only treatment protocols", "Screening, diagnosis, and treatment", "Only research funding", "Public awareness campaigns exclusively"],
-    "correctAnswer": "Screening, diagnosis, and treatment"
+    "question": "An initial advance of how much was allegedly caught red-handed during the NHAI bribery sting operation?",
+    "options": [
+      "Rs 1 lakh",
+      "Rs 2 lakh",
+      "Rs 4 lakh",
+      "Rs 6 lakh"
+    ],
+    "correctAnswer": "Rs 4 lakh"
   },
   {
     "id": 16,
-    "question": "What are the two main challenges in cancer care that the Rajya Sabha panel seeks to address?",
-    "options": ["Lack of medical professionals and over-treatment", "Late diagnoses and rising costs", "Insufficient hospital beds and poor sanitation", "Urban-rural divide and genetic predispositions"],
-    "correctAnswer": "Late diagnoses and rising costs"
+    "question": "The alleged bribe in the NHAI case was to clear a contractor's bill of approximately what amount?",
+    "options": [
+      "Rs 1.2 crore",
+      "Rs 4 crore",
+      "Rs 13.38 crore",
+      "Rs 12 lakh"
+    ],
+    "correctAnswer": "Rs 13.38 crore"
   },
   {
     "id": 17,
-    "question": "The Rajya Sabha panel's primary goal in seeking suggestions for cancer care is to:",
-    "options": ["Increase the number of cancer research institutes.", "Improve early detection and reduce financial strain on patients.", "Export cancer treatment technologies to other countries.", "Promote traditional medicine as the sole cure for cancer."],
-    "correctAnswer": "Improve early detection and reduce financial strain on patients."
+    "question": "In the NHAI bribery case, apart from the Project Director, who else was apprehended by the CBI?",
+    "options": [
+      "The contractor himself",
+      "Two private individuals",
+      "A government official from another department",
+      "A junior engineer"
+    ],
+    "correctAnswer": "Two private individuals"
   },
   {
     "id": 18,
-    "question": "What fraction of individuals in India is estimated to be at a lifetime risk of cancer?",
-    "options": ["1/5", "1/7", "1/9", "1/11"],
-    "correctAnswer": "1/9"
+    "question": "Which national agency recently charged Hafiz Saeed in a terror attack case?",
+    "options": [
+      "RAW",
+      "IB",
+      "NIA",
+      "CBI"
+    ],
+    "correctAnswer": "NIA"
   },
   {
     "id": 19,
-    "question": "What term describes the alarming trend where cybercrime tools are accessible via a subscription model?",
-    "options": ["Cybercrime-on-Demand", "Fraud-as-a-Service", "Hacking-for-Hire", "Digital Malpractice Hub"],
-    "correctAnswer": "Fraud-as-a-Service"
+    "question": "Hafiz Saeed was charged in connection with a terror attack that occurred in which area?",
+    "options": [
+      "Mumbai",
+      "Pahalgam",
+      "Uri",
+      "Pulwama"
+    ],
+    "correctAnswer": "Pahalgam"
   },
   {
     "id": 20,
-    "question": "What technological advancement has made it easier for criminals to engage in digital fraud?",
-    "options": ["Blockchain", "Quantum Computing", "Artificial Intelligence (AI)", "Virtual Reality"],
-    "correctAnswer": "Artificial Intelligence (AI)"
+    "question": "What type of case has the NIA filed against Hafiz Saeed?",
+    "options": [
+      "Money laundering",
+      "Drug trafficking",
+      "Terror attack",
+      "Espionage"
+    ],
+    "correctAnswer": "Terror attack"
   },
   {
     "id": 21,
-    "question": "Which of the following is an example of a complex scheme that criminals can execute using Fraud-as-a-Service tools?",
-    "options": ["Traditional petty theft", "AI-driven phishing and deepfakes", "Physical document forgery", "Manual data entry errors"],
-    "correctAnswer": "AI-driven phishing and deepfakes"
+    "question": "The charges against Hafiz Saeed by NIA are related to an incident in which Indian state/union territory?",
+    "options": [
+      "Punjab",
+      "Jammu and Kashmir",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "correctAnswer": "Jammu and Kashmir"
   },
   {
     "id": 22,
-    "question": "Why has the trend of Fraud-as-a-Service escalated swiftly in India, according to the article?",
-    "options": ["High unemployment rates", "Rapid digitization coupled with limited digital awareness", "Decline in traditional crime rates", "Abundance of cyber security experts"],
-    "correctAnswer": "Rapid digitization coupled with limited digital awareness"
+    "question": "According to recent news, India's passport ranking has slipped to which position?",
+    "options": [
+      "100th",
+      "115th",
+      "125th",
+      "130th"
+    ],
+    "correctAnswer": "125th"
   },
   {
     "id": 23,
-    "question": "What are the consequences of the rise of Fraud-as-a-Service in India?",
-    "options": ["Increased digital literacy", "Massive financial losses across various sectors", "Enhanced national security", "Growth in legitimate tech startups"],
-    "correctAnswer": "Massive financial losses across various sectors"
+    "question": "Which political party's chief criticized the Modi government over India's declining passport ranking?",
+    "options": [
+      "Bharatiya Janata Party",
+      "Congress",
+      "Aam Aadmi Party",
+      "Trinamool Congress"
+    ],
+    "correctAnswer": "Congress"
   },
   {
     "id": 24,
-    "question": "What does 'Fraud-as-a-Service' primarily imply about the nature of cybercrime operations today?",
-    "options": ["They require advanced coding skills from every criminal.", "They have become democratized and accessible with minimal effort.", "They are exclusively state-sponsored attacks.", "They only target large corporations."],
-    "correctAnswer": "They have become democratized and accessible with minimal effort."
+    "question": "What other issue was raised by the Congress chief, apart from declining passport rankings, to criticize the government?",
+    "options": [
+      "Increased visa processing times",
+      "Stagnant foreign tourist arrivals",
+      "Lack of new international flights",
+      "Reduced number of visa-free countries"
+    ],
+    "correctAnswer": "Stagnant foreign tourist arrivals"
   },
   {
     "id": 25,
-    "question": "Besides AI-driven phishing and deepfakes, what other scheme can criminals execute through Fraud-as-a-Service?",
-    "options": ["Identity theft", "Physical bank robberies", "Ransomware attacks on personal devices", "Counterfeit currency production"],
-    "correctAnswer": "Identity theft"
+    "question": "The criticism regarding India's passport ranking was aimed at which aspect of the government's performance?",
+    "options": [
+      "Economic growth",
+      "Foreign policy and global standing",
+      "Internal security",
+      "Social welfare schemes"
+    ],
+    "correctAnswer": "Foreign policy and global standing"
   }
 ]

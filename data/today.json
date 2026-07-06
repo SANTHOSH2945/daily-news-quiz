@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What percentage of India's fertilizer ships stuck at the Strait of Hormuz have successfully set sail, providing relief for farmers during the kharif season in states like Telangana and Andhra Pradesh?",
-    "options": ["50%", "75%", "60%", "80%"],
-    "correctAnswer": "75%"
+    "question": "What is the potential impact of India's new rural jobs scheme, VB-G-RAM-G, on state finances?",
+    "options": ["Increased revenue for states", "Fiscal pressure on states", "Reduced national debt", "No significant financial impact"],
+    "correctAnswer": "Fiscal pressure on states"
   },
   {
     "id": 2,
-    "question": "The recent improvement in India's fertilizer supply, crucial for states such as Andhra Pradesh and Telangana, is attributed to a significant number of ships clearing which strategic waterway?",
-    "options": ["Suez Canal", "Strait of Malacca", "Strait of Hormuz", "Panama Canal"],
-    "correctAnswer": "Strait of Hormuz"
+    "question": "The news article mentions a new rural jobs scheme in India. What is its acronym?",
+    "options": ["MGNREGA", "PM-KISAN", "VB-G-RAM-G", "SGRY"],
+    "correctAnswer": "VB-G-RAM-G"
   },
   {
     "id": 3,
-    "question": "Beyond the arrival of delayed shipments, what domestic factor has also contributed to ample urea supply for farmers, including those in Telangana and Andhra Pradesh, for the kharif season?",
-    "options": ["Reduction in fertilizer demand", "Three months of exceeding domestic urea production targets", "New fertilizer plants commissioned", "Increased imports from Russia"],
-    "correctAnswer": "Three months of exceeding domestic urea production targets"
+    "question": "What is a primary concern associated with the implementation of the VB-G-RAM-G rural jobs scheme?",
+    "options": ["Shortage of skilled labor", "Lack of enthusiasm from beneficiaries", "Potential to mount fiscal pressure on states", "Over-reliance on private funding"],
+    "correctAnswer": "Potential to mount fiscal pressure on states"
   },
   {
     "id": 4,
-    "question": "For which agricultural season is the current boost in India's fertilizer stocks, vital for the agricultural sectors in Telangana and Andhra Pradesh, particularly beneficial?",
-    "options": ["Rabi season", "Zaid season", "Kharif season", "Perennial season"],
-    "correctAnswer": "Kharif season"
+    "question": "How do new rural jobs schemes generally aim to benefit the Indian economy?",
+    "options": ["By boosting urban migration", "By reducing agricultural output", "By increasing rural employment and income", "By focusing solely on industrial development"],
+    "correctAnswer": "By increasing rural employment and income"
   },
   {
     "id": 5,
-    "question": "According to a recent National Statistics Office (NSO) survey, what percentage of women in India's largest cities, including Hyderabad, are kept out of the workforce primarily due to childcare and household duties?",
-    "options": ["Approximately 50%", "Nearly 69%", "About 45%", "Around 75%"],
-    "correctAnswer": "Nearly 69%"
+    "question": "Which sector is the VB-G-RAM-G scheme primarily focused on in India?",
+    "options": ["Urban infrastructure", "Rural employment", "Industrial development", "IT services"],
+    "correctAnswer": "Rural employment"
   },
   {
     "id": 6,
-    "question": "The NSO survey on women's workforce participation highlights a persistent gender bias in which specific responsibility?",
-    "options": ["Financial management", "Caregiving responsibilities", "Professional skill development", "Public transportation usage"],
-    "correctAnswer": "Caregiving responsibilities"
+    "question": "Which of the following countries was NOT part of Prime Minister Modi's recent three-nation tour mentioned in the news?",
+    "options": ["Indonesia", "Australia", "New Zealand", "Japan"],
+    "correctAnswer": "Japan"
   },
   {
     "id": 7,
-    "question": "What distinction did the NSO survey note regarding the quality of employment for women in India's largest cities, such as Visakhapatnam, compared to smaller towns?",
-    "options": ["It showed a decline in quality.", "It remained stagnant.", "It showed improvement.", "It was not comparable."],
-    "correctAnswer": "It showed improvement."
+    "question": "The Prime Minister's recent three-nation tour aimed to bolster which key Indian foreign policy?",
+    "options": ["Look West Policy", "Act East Policy", "Connect Africa Policy", "Neighbors First Policy"],
+    "correctAnswer": "Act East Policy"
   },
   {
     "id": 8,
-    "question": "While childcare and housework keep many urban women out of work, what wage disparity was reported between women and men in these urban centers?",
-    "options": ["Women earn 10% less.", "Women earn 23% less.", "Women earn 30% less.", "Women earn 5% more."],
-    "correctAnswer": "Women earn 23% less."
+    "question": "Besides the Act East Policy, what other vision did PM Modi's tour support in the regional context?",
+    "options": ["Euro-Atlantic Vision", "Indo-Pacific Vision", "South American Trade Vision", "Arctic Exploration Vision"],
+    "correctAnswer": "Indo-Pacific Vision"
   },
   {
     "id": 9,
-    "question": "OPEC+ recently approved an additional production increase for August to boost global crude availability and ease price pressures. By how many barrels per day was this increase?",
-    "options": ["100,000 bpd", "188,000 bpd", "250,000 bpd", "500,000 bpd"],
-    "correctAnswer": "188,000 bpd"
+    "question": "Which of these was a key discussion area during PM Modi's three-nation tour?",
+    "options": ["Space exploration", "Defense and critical minerals", "Agricultural subsidies", "Tourism promotion alone"],
+    "correctAnswer": "Defense and critical minerals"
   },
   {
     "id": 10,
-    "question": "The OPEC+ decision to increase crude production is expected to primarily benefit which category of nations, including India, by easing price pressures?",
-    "options": ["Exporting nations", "Importing nations", "Oil-producing nations within OPEC", "Nations with no oil reserves"],
-    "correctAnswer": "Importing nations"
+    "question": "What was a special emphasis during PM Modi's three-nation tour, alongside strategic partnerships?",
+    "options": ["Environmental regulations", "Cultural ties and diaspora engagement", "Sporting events", "Renewable energy production"],
+    "correctAnswer": "Cultural ties and diaspora engagement"
   },
   {
     "id": 11,
-    "question": "India is strategically boosting its LPG imports to reduce reliance on Gulf nations. From which country is India planning to significantly increase these purchases?",
-    "options": ["Russia", "Venezuela", "United States", "Canada"],
-    "correctAnswer": "United States"
+    "question": "How many days was PM Modi's significant tour to Indonesia, Australia, and New Zealand?",
+    "options": ["Three days", "Four days", "Six days", "Ten days"],
+    "correctAnswer": "Six days"
   },
   {
     "id": 12,
-    "question": "A key aim of India's decision to diversify its LPG import sources is to build a strategic reserve. What is the target duration for this reserve?",
-    "options": ["7 days", "15 days", "30 days", "60 days"],
-    "correctAnswer": "30 days"
+    "question": "What is the estimated number of new cancer cases in India for the year 2024, as per the news?",
+    "options": ["10.5 lakh", "15.33 lakh", "20.1 lakh", "5.8 lakh"],
+    "correctAnswer": "15.33 lakh"
   },
   {
     "id": 13,
-    "question": "While oil firms anticipate breaking even on petrol and diesel soon due to global crude price changes, which fuel commodity continues to incur losses on sales for them?",
-    "options": ["Aviation turbine fuel", "Kerosene", "Cooking gas (LPG)", "Industrial fuel oil"],
-    "correctAnswer": "Cooking gas (LPG)"
+    "question": "According to the news, what is the lifetime risk of an individual in India facing cancer?",
+    "options": ["One in three", "One in five", "One in nine", "One in fifteen"],
+    "correctAnswer": "One in nine"
   },
   {
     "id": 14,
-    "question": "The Indian government has issued a stern directive to which tech giant, demanding the immediate removal of child sexual abuse material from its platform, Instagram?",
-    "options": ["Google", "Microsoft", "Meta", "Apple"],
-    "correctAnswer": "Meta"
+    "question": "Which parliamentary body is seeking public and expert opinions on affordable cancer screening, diagnosis, and treatment in India?",
+    "options": ["Lok Sabha Committee", "NITI Aayog", "Rajya Sabha panel", "Ministry of Health"],
+    "correctAnswer": "Rajya Sabha panel"
   },
   {
     "id": 15,
-    "question": "The government's directive to Meta regarding child sexual abuse material on Instagram demanded a detailed explanation within what timeframe?",
-    "options": ["24 hours", "3 days", "7 days", "30 days"],
-    "correctAnswer": "7 days"
+    "question": "What are the key areas the Rajya Sabha panel aims to gather suggestions for regarding cancer care?",
+    "options": ["Only treatment protocols", "Screening, diagnosis, and treatment", "Only research funding", "Public awareness campaigns exclusively"],
+    "correctAnswer": "Screening, diagnosis, and treatment"
   },
   {
     "id": 16,
-    "question": "Which specific type of content on Instagram was the government primarily concerned about, leading to a directive for immediate removal from Meta?",
-    "options": ["Hate speech", "Political misinformation", "Paid advertisements promoting child sexual abuse material", "Copyright infringing content"],
-    "correctAnswer": "Paid advertisements promoting child sexual abuse material"
+    "question": "What are the two main challenges in cancer care that the Rajya Sabha panel seeks to address?",
+    "options": ["Lack of medical professionals and over-treatment", "Late diagnoses and rising costs", "Insufficient hospital beds and poor sanitation", "Urban-rural divide and genetic predispositions"],
+    "correctAnswer": "Late diagnoses and rising costs"
   },
   {
     "id": 17,
-    "question": "According to recent data, what percentage of NGOs and associations ever registered under the Foreign Contribution (Regulation) Act, 2010 (FCRA) currently hold active status in India, including those operating in Telangana and Andhra Pradesh?",
-    "options": ["15%", "28%", "40%", "55%"],
-    "correctAnswer": "28%"
+    "question": "The Rajya Sabha panel's primary goal in seeking suggestions for cancer care is to:",
+    "options": ["Increase the number of cancer research institutes.", "Improve early detection and reduce financial strain on patients.", "Export cancer treatment technologies to other countries.", "Promote traditional medicine as the sole cure for cancer."],
+    "correctAnswer": "Improve early detection and reduce financial strain on patients."
   },
   {
     "id": 18,
-    "question": "Since 2012, out of over 52,000 FCRA licenses granted, approximately how many currently hold active status, enabling them to receive foreign funding across India?",
-    "options": ["Around 10,000", "Over 14,000", "Nearly 20,000", "About 25,000"],
-    "correctAnswer": "Over 14,000"
+    "question": "What fraction of individuals in India is estimated to be at a lifetime risk of cancer?",
+    "options": ["1/5", "1/7", "1/9", "1/11"],
+    "correctAnswer": "1/9"
   },
   {
     "id": 19,
-    "question": "What is the primary objective behind the tightening of regulations under the Foreign Contribution (Regulation) Act (FCRA) concerning NGOs in India?",
-    "options": ["To reduce the number of NGOs", "To increase foreign funding", "To enhance accountability and transparency", "To promote specific types of social work"],
-    "correctAnswer": "To enhance accountability and transparency"
+    "question": "What term describes the alarming trend where cybercrime tools are accessible via a subscription model?",
+    "options": ["Cybercrime-on-Demand", "Fraud-as-a-Service", "Hacking-for-Hire", "Digital Malpractice Hub"],
+    "correctAnswer": "Fraud-as-a-Service"
   },
   {
     "id": 20,
-    "question": "What new measure is the government planning for motorists with traffic violations, requiring them for license renewal under proposed amendments to the Motor Vehicles Act?",
-    "options": ["Community service hours", "Mandatory re-examination of traffic rules", "Mandatory driving tests", "Higher penalty fees only"],
-    "correctAnswer": "Mandatory driving tests"
+    "question": "What technological advancement has made it easier for criminals to engage in digital fraud?",
+    "options": ["Blockchain", "Quantum Computing", "Artificial Intelligence (AI)", "Virtual Reality"],
+    "correctAnswer": "Artificial Intelligence (AI)"
   },
   {
     "id": 21,
-    "question": "Besides mandatory driving tests, what other significant amendment is proposed for the Motor Vehicles Act to benefit accident victims across India, including Telangana and Andhra Pradesh?",
-    "options": ["Reduced jail terms for offenders", "Empowering tribunals to grant interim compensation", "Mandatory vehicle insurance for all", "Establishment of new traffic courts"],
-    "correctAnswer": "Empowering tribunals to grant interim compensation"
+    "question": "Which of the following is an example of a complex scheme that criminals can execute using Fraud-as-a-Service tools?",
+    "options": ["Traditional petty theft", "AI-driven phishing and deepfakes", "Physical document forgery", "Manual data entry errors"],
+    "correctAnswer": "AI-driven phishing and deepfakes"
   },
   {
     "id": 22,
-    "question": "Which body approved the proposed amendments to the Motor Vehicles Act, aiming to curb errant drivers and enhance road safety across Indian states?",
-    "options": ["Supreme Court of India", "Group of Ministers", "National Highways Authority of India", "Ministry of Finance"],
-    "correctAnswer": "Group of Ministers"
+    "question": "Why has the trend of Fraud-as-a-Service escalated swiftly in India, according to the article?",
+    "options": ["High unemployment rates", "Rapid digitization coupled with limited digital awareness", "Decline in traditional crime rates", "Abundance of cyber security experts"],
+    "correctAnswer": "Rapid digitization coupled with limited digital awareness"
   },
   {
     "id": 23,
-    "question": "Indonesia is looking to integrate with India's UPI and build its own digital ecosystem inspired by India's public infrastructure. What does UPI stand for in this context?",
-    "options": ["Unified Payment Interface", "Universal Payment Integration", "Unique Public Infrastructure", "Unitary Policy Initiative"],
-    "correctAnswer": "Unified Payment Interface"
+    "question": "What are the consequences of the rise of Fraud-as-a-Service in India?",
+    "options": ["Increased digital literacy", "Massive financial losses across various sectors", "Enhanced national security", "Growth in legitimate tech startups"],
+    "correctAnswer": "Massive financial losses across various sectors"
   },
   {
     "id": 24,
-    "question": "Beyond cross-border payments, Indonesia is eyeing India's digital models for which of the following areas as part of its digital blueprint?",
-    "options": ["Only digital identity", "Commerce, digital identity, and public services", "Only e-governance platforms", "Cryptocurrency regulation"],
-    "correctAnswer": "Commerce, digital identity, and public services"
+    "question": "What does 'Fraud-as-a-Service' primarily imply about the nature of cybercrime operations today?",
+    "options": ["They require advanced coding skills from every criminal.", "They have become democratized and accessible with minimal effort.", "They are exclusively state-sponsored attacks.", "They only target large corporations."],
+    "correctAnswer": "They have become democratized and accessible with minimal effort."
   },
   {
     "id": 25,
-    "question": "The partnership between India and Indonesia, highlighting India's digital blueprint and other collaborations, was emphasized during the visit of which Indian dignitary?",
-    "options": ["Vice President", "External Affairs Minister", "Finance Minister", "Prime Minister Modi"],
-    "correctAnswer": "Prime Minister Modi"
+    "question": "Besides AI-driven phishing and deepfakes, what other scheme can criminals execute through Fraud-as-a-Service?",
+    "options": ["Identity theft", "Physical bank robberies", "Ransomware attacks on personal devices", "Counterfeit currency production"],
+    "correctAnswer": "Identity theft"
   }
 ]

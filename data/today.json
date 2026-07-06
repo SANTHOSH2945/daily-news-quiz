@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary issue surrounding the Ram temple trust mentioned in the recent news?",
-    "options": [
-      "Land dispute allegations",
-      "Donation 'theft' row",
-      "Construction delays",
-      "Leadership succession debate"
-    ],
-    "correctAnswer": "Donation 'theft' row"
+    "question": "What is the proposed duration for a vehicle to be kept in another state without requiring re-registration, according to a recent government proposal applicable to states like Telangana and Andhra Pradesh?",
+    "options": ["1 year", "2 years", "3 years", "5 years"],
+    "correctAnswer": "3 years"
   },
   {
     "id": 2,
-    "question": "Who among the following resigned from the Ram temple trust amidst the donation row?",
-    "options": [
-      "Mohan Bhagwat",
-      "Champat Rai",
-      "Praveen Togadia",
-      "Nripendra Misra"
-    ],
-    "correctAnswer": "Champat Rai"
+    "question": "The recent government proposal regarding inter-state vehicle transfer primarily aims to simplify mobility for citizens moving between which regions within India?",
+    "options": ["Within a state", "Between states like Telangana and Andhra Pradesh", "Between cities in the same district", "For international travel"],
+    "correctAnswer": "Between states like Telangana and Andhra Pradesh"
   },
   {
     "id": 3,
-    "question": "The Ram Mandir trust chief urged against what action in the context of the donation controversy?",
-    "options": [
-      "Halting construction",
-      "Seeking international aid",
-      "Politicizing the matter",
-      "Conducting a public audit"
-    ],
-    "correctAnswer": "Politicizing the matter"
+    "question": "Which central ministry is primarily responsible for proposals concerning vehicle registration and inter-state transfer rules in India?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of Road Transport and Highways", "Ministry of Commerce and Industry"],
+    "correctAnswer": "Ministry of Road Transport and Highways"
   },
   {
     "id": 4,
-    "question": "Which political leader questioned the SIT probe into the alleged Ram temple donation 'theft'?",
-    "options": [
-      "Rahul Gandhi",
-      "Akhilesh Yadav",
-      "Mamata Banerjee",
-      "Arvind Kejriwal"
-    ],
-    "correctAnswer": "Akhilesh Yadav"
+    "question": "What problem does the proposed 3-year window for inter-state vehicle use intend to alleviate for vehicle owners in India, including those in Andhra Pradesh and Telangana?",
+    "options": ["High fuel costs", "Complex re-registration processes for inter-state moves", "Lack of parking facilities", "Road tax disparities"],
+    "correctAnswer": "Complex re-registration processes for inter-state moves"
   },
   {
     "id": 5,
-    "question": "The alleged 'power struggle between Delhi & Lucknow faction' was mentioned by which party's chief regarding the Ram temple row?",
-    "options": [
-      "Samajwadi Party",
-      "Bahujan Samaj Party",
-      "Congress",
-      "Bharatiya Janata Party"
-    ],
-    "correctAnswer": "Samajwadi Party"
+    "question": "If the proposal for a 3-year window for vehicle transfer is implemented, how would it affect a person moving their vehicle from Hyderabad (Telangana) to Visakhapatnam (Andhra Pradesh) for a temporary work assignment?",
+    "options": ["They would need immediate re-registration.", "They could use their vehicle for up to 3 years without re-registration.", "They would have to sell their vehicle.", "They would be exempt from all road taxes."],
+    "correctAnswer": "They could use their vehicle for up to 3 years without re-registration."
   },
   {
     "id": 6,
-    "question": "Besides Champat Rai, who else's resignation was accepted by the Ram temple trust amidst the donation controversy?",
-    "options": [
-      "Shatrughan Singh",
-      "Gopal Sharma",
-      "Anil Mishra",
-      "Rameshwar Prasad"
-    ],
-    "correctAnswer": "Anil Mishra"
+    "question": "What is the primary focus of the new VB-G RAM G rural employment scheme, relevant for states like Andhra Pradesh and Telangana?",
+    "options": ["Urban infrastructure development", "Industrial growth", "Water security and disaster mitigation", "Promoting digital literacy"],
+    "correctAnswer": "Water security and disaster mitigation"
   },
   {
     "id": 7,
-    "question": "The alleged 'theft' and donation controversy pertain to which prominent temple being constructed in India?",
-    "options": [
-      "Kashi Vishwanath Temple",
-      "Mahakal Temple",
-      "Ram Temple in Ayodhya",
-      "Somnath Temple"
-    ],
-    "correctAnswer": "Ram Temple in Ayodhya"
+    "question": "The VB-G RAM G rural employment scheme is designed to address potential rain deficiency situations triggered by which climate phenomenon?",
+    "options": ["La Nina", "El Nino", "Monsoon depressions", "Cyclones"],
+    "correctAnswer": "El Nino"
   },
   {
     "id": 8,
-    "question": "What type of investigation was questioned by Akhilesh Yadav concerning the Ram temple donation issue?",
-    "options": [
-      "Judicial inquiry",
-      "CBI probe",
-      "SIT probe",
-      "Parliamentary committee review"
-    ],
-    "correctAnswer": "SIT probe"
+    "question": "Which local governance bodies are empowered to undertake projects for disaster preparedness and climate change challenges under the VB-G RAM G scheme?",
+    "options": ["State Legislatures", "District Collectors", "Gram Panchayats", "Municipal Corporations"],
+    "correctAnswer": "Gram Panchayats"
   },
   {
     "id": 9,
-    "question": "The controversy related to the Ram temple primarily involves allegations surrounding what aspect?",
-    "options": [
-      "Architectural design",
-      "Land acquisition process",
-      "Financial management of donations",
-      "Labor conditions"
-    ],
-    "correctAnswer": "Financial management of donations"
+    "question": "States like Andhra Pradesh and Telangana, which may face rainfall deficits, are encouraged by the VB-G RAM G scheme to strengthen what?",
+    "options": ["Industrial output", "Tourism infrastructure", "Water conservation and employment generation", "Public transport networks"],
+    "correctAnswer": "Water conservation and employment generation"
   },
   {
     "id": 10,
-    "question": "The resignations of trust members in the Ram temple donation row suggest internal issues within which body?",
-    "options": [
-      "Government of India",
-      "Vishva Hindu Parishad",
-      "Shri Ram Janmabhoomi Teerth Kshetra",
-      "Archaeological Survey of India"
-    ],
-    "correctAnswer": "Shri Ram Janmabhoomi Teerth Kshetra"
+    "question": "Besides water security and disaster mitigation, what other key areas does the VB-G RAM G scheme focus on in rural India?",
+    "options": ["International trade agreements", "Space exploration", "Core rural infrastructure and rural livelihoods", "High-tech manufacturing"],
+    "correctAnswer": "Core rural infrastructure and rural livelihoods"
   },
   {
     "id": 11,
-    "question": "Which national agency apprehended the NHAI Project Director for an alleged bribe demand?",
-    "options": [
-      "Enforcement Directorate",
-      "National Investigation Agency",
-      "Central Bureau of Investigation",
-      "Vigilance Commission"
-    ],
-    "correctAnswer": "Central Bureau of Investigation"
+    "question": "What is the full scope of 'disaster preparedness' projects that Gram panchayats can undertake under the VB-G RAM G scheme?",
+    "options": ["Only building cyclone shelters", "Projects for disaster preparedness and climate change challenges", "Only medical emergency response", "Urban planning initiatives"],
+    "correctAnswer": "Projects for disaster preparedness and climate change challenges"
   },
   {
     "id": 12,
-    "question": "What was the alleged total bribe amount demanded by the NHAI Project Director?",
-    "options": [
-      "Rs 4 lakh",
-      "Rs 8 lakh",
-      "Rs 12 lakh",
-      "Rs 13.38 crore"
-    ],
-    "correctAnswer": "Rs 12 lakh"
+    "question": "How does the VB-G RAM G scheme aim to contribute to employment generation in rural areas of states like Telangana and Andhra Pradesh?",
+    "options": ["By subsidizing private companies", "Through undertaking water conservation and rural infrastructure projects", "By promoting emigration to urban centers", "Through tax incentives for large corporations"],
+    "correctAnswer": "Through undertaking water conservation and rural infrastructure projects"
   },
   {
     "id": 13,
-    "question": "The NHAI Project Director was arrested in which city?",
-    "options": [
-      "Delhi",
-      "Mumbai",
-      "Shillong",
-      "Kolkata"
-    ],
-    "correctAnswer": "Shillong"
+    "question": "The focus on water security in the VB-G RAM G scheme is particularly crucial for regions like Telangana and Andhra Pradesh due to their vulnerability to what?",
+    "options": ["Frequent volcanic eruptions", "El Nino-triggered drought and water scarcity", "Glacial melting", "Tsunami threats"],
+    "correctAnswer": "El Nino-triggered drought and water scarcity"
   },
   {
     "id": 14,
-    "question": "For what purpose was the alleged bribe demanded by the NHAI Project Director?",
-    "options": [
-      "To approve a new project",
-      "To expedite land acquisition",
-      "To clear a contractor's pending payment",
-      "To award a new contract"
-    ],
-    "correctAnswer": "To clear a contractor's pending payment"
+    "question": "What does the 'VB-G RAM G' scheme imply by 'strengthening water conservation' in states facing rainfall deficits?",
+    "options": ["Exporting water to other countries", "Building new large dams", "Implementing local-level water harvesting and management", "Reducing water consumption in urban areas only"],
+    "correctAnswer": "Implementing local-level water harvesting and management"
   },
   {
     "id": 15,
-    "question": "An initial advance of how much was allegedly caught red-handed during the NHAI bribery sting operation?",
-    "options": [
-      "Rs 1 lakh",
-      "Rs 2 lakh",
-      "Rs 4 lakh",
-      "Rs 6 lakh"
-    ],
-    "correctAnswer": "Rs 4 lakh"
+    "question": "What is the stated objective of Gram panchayats undertaking projects under VB-G RAM G for 'climate change challenges'?",
+    "options": ["To fund international climate summits", "To develop local resilience against climate impacts", "To regulate global carbon emissions", "To switch to entirely renewable energy sources"],
+    "correctAnswer": "To develop local resilience against climate impacts"
   },
   {
     "id": 16,
-    "question": "The alleged bribe in the NHAI case was to clear a contractor's bill of approximately what amount?",
-    "options": [
-      "Rs 1.2 crore",
-      "Rs 4 crore",
-      "Rs 13.38 crore",
-      "Rs 12 lakh"
-    ],
-    "correctAnswer": "Rs 13.38 crore"
+    "question": "What growing concern for Gram Sabhas across India, including in Andhra Pradesh and Telangana, was highlighted in a recent study?",
+    "options": ["Insufficient funding", "Lack of technical expertise", "Participation fatigue", "Excessive political interference"],
+    "correctAnswer": "Participation fatigue"
   },
   {
     "id": 17,
-    "question": "In the NHAI bribery case, apart from the Project Director, who else was apprehended by the CBI?",
-    "options": [
-      "The contractor himself",
-      "Two private individuals",
-      "A government official from another department",
-      "A junior engineer"
-    ],
-    "correctAnswer": "Two private individuals"
+    "question": "According to the study, what are the primary reasons cited for 'participation fatigue' in Gram Sabhas, which affects local governance in states like Andhra Pradesh?",
+    "options": ["Too many holidays", "Unresolved grievances and lack of visible outcomes", "Lack of internet access", "Over-reliance on technology"],
+    "correctAnswer": "Unresolved grievances and lack of visible outcomes"
   },
   {
     "id": 18,
-    "question": "Which national agency recently charged Hafiz Saeed in a terror attack case?",
-    "options": [
-      "RAW",
-      "IB",
-      "NIA",
-      "CBI"
-    ],
-    "correctAnswer": "NIA"
+    "question": "What practical constraints significantly hinder public engagement in Gram Sabha meetings in rural areas of Telangana and other states?",
+    "options": ["Language barriers", "Livelihood and time constraints", "Lack of formal education", "Poor transport infrastructure"],
+    "correctAnswer": "Livelihood and time constraints"
   },
   {
     "id": 19,
-    "question": "Hafiz Saeed was charged in connection with a terror attack that occurred in which area?",
-    "options": [
-      "Mumbai",
-      "Pahalgam",
-      "Uri",
-      "Pulwama"
-    ],
-    "correctAnswer": "Pahalgam"
+    "question": "To improve Gram Sabha participation, the report suggests launching awareness missions and implementing what type of scheduling?",
+    "options": ["Weekend-only scheduling", "Evening-only scheduling", "Livelihood-sensitive scheduling", "Online-only scheduling"],
+    "correctAnswer": "Livelihood-sensitive scheduling"
   },
   {
     "id": 20,
-    "question": "What type of case has the NIA filed against Hafiz Saeed?",
-    "options": [
-      "Money laundering",
-      "Drug trafficking",
-      "Terror attack",
-      "Espionage"
-    ],
-    "correctAnswer": "Terror attack"
+    "question": "Strengthening inclusive platforms in Gram Sabhas is recommended to improve the representation of which groups?",
+    "options": ["Only elected representatives", "Women and vulnerable groups", "Industrialists and entrepreneurs", "Urban residents"],
+    "correctAnswer": "Women and vulnerable groups"
   },
   {
     "id": 21,
-    "question": "The charges against Hafiz Saeed by NIA are related to an incident in which Indian state/union territory?",
-    "options": [
-      "Punjab",
-      "Jammu and Kashmir",
-      "Himachal Pradesh",
-      "Uttarakhand"
-    ],
-    "correctAnswer": "Jammu and Kashmir"
+    "question": "The recommendations to make Gram Sabhas more effective are expected to be implemented by which level of government or body in India?",
+    "options": ["United Nations", "International NGOs", "The relevant Indian ministry (e.g., Panchayati Raj Ministry)", "Private sector organizations"],
+    "correctAnswer": "The relevant Indian ministry (e.g., Panchayati Raj Ministry)"
   },
   {
     "id": 22,
-    "question": "According to recent news, India's passport ranking has slipped to which position?",
-    "options": [
-      "100th",
-      "115th",
-      "125th",
-      "130th"
-    ],
-    "correctAnswer": "125th"
+    "question": "What is the fundamental role of Gram Sabhas in the context of local self-governance in states like Andhra Pradesh and Telangana?",
+    "options": ["To manage state-level finances", "To provide advisory services to the central government", "To serve as a platform for direct democracy and village-level decision-making", "To conduct national elections"],
+    "correctAnswer": "To serve as a platform for direct democracy and village-level decision-making"
   },
   {
     "id": 23,
-    "question": "Which political party's chief criticized the Modi government over India's declining passport ranking?",
-    "options": [
-      "Bharatiya Janata Party",
-      "Congress",
-      "Aam Aadmi Party",
-      "Trinamool Congress"
-    ],
-    "correctAnswer": "Congress"
+    "question": "What does 'lack of visible outcomes' mean for a participant in a Gram Sabha, contributing to their fatigue?",
+    "options": ["Meetings are not held in person.", "Discussions and decisions do not lead to tangible changes or problem resolution.", "The meeting hall has poor lighting.", "No minutes are recorded for the meetings."],
+    "correctAnswer": "Discussions and decisions do not lead to tangible changes or problem resolution."
   },
   {
     "id": 24,
-    "question": "What other issue was raised by the Congress chief, apart from declining passport rankings, to criticize the government?",
-    "options": [
-      "Increased visa processing times",
-      "Stagnant foreign tourist arrivals",
-      "Lack of new international flights",
-      "Reduced number of visa-free countries"
-    ],
-    "correctAnswer": "Stagnant foreign tourist arrivals"
+    "question": "The study on Gram Sabha participation highlights that for individuals in states like Telangana, balancing attendance with 'livelihood constraints' means:",
+    "options": ["They cannot afford travel to meetings.", "They must prioritize earning a living over attending meetings, especially if timings conflict.", "They prefer to send representatives instead.", "They find the topics discussed irrelevant to their daily earnings."],
+    "correctAnswer": "They must prioritize earning a living over attending meetings, especially if timings conflict."
   },
   {
     "id": 25,
-    "question": "The criticism regarding India's passport ranking was aimed at which aspect of the government's performance?",
-    "options": [
-      "Economic growth",
-      "Foreign policy and global standing",
-      "Internal security",
-      "Social welfare schemes"
-    ],
-    "correctAnswer": "Foreign policy and global standing"
+    "question": "The call for 'strengthening inclusive platforms' in Gram Sabhas directly addresses which challenge?",
+    "options": ["Lack of technological infrastructure", "Ensuring all segments of the village community have a voice and participate equally", "Reducing administrative paperwork", "Increasing the number of Gram Sabha meetings"],
+    "correctAnswer": "Ensuring all segments of the village community have a voice and participate equally"
   }
 ]

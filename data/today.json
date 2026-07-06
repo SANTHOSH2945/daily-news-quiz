@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Dr. Syama Prasad Mookerjee is remembered by PM Modi for his unwavering commitment to which core principle?",
-    "options": [
-      "Economic liberalization",
-      "India's unity and progress",
-      "Regional autonomy",
-      "Industrial development"
-    ],
-    "correctAnswer": "India's unity and progress"
+    "question": "What percentage of India's fertilizer ships stuck at the Strait of Hormuz have successfully set sail, providing relief for farmers during the kharif season in states like Telangana and Andhra Pradesh?",
+    "options": ["50%", "75%", "60%", "80%"],
+    "correctAnswer": "75%"
   },
   {
     "id": 2,
-    "question": "On what specific anniversary was Dr. Syama Prasad Mookerjee's contribution to India's unity and progress commemorated?",
-    "options": [
-      "100th birth anniversary",
-      "75th death anniversary",
-      "125th birth anniversary",
-      "50th year of Jana Sangh foundation"
-    ],
-    "correctAnswer": "125th birth anniversary"
+    "question": "The recent improvement in India's fertilizer supply, crucial for states such as Andhra Pradesh and Telangana, is attributed to a significant number of ships clearing which strategic waterway?",
+    "options": ["Suez Canal", "Strait of Malacca", "Strait of Hormuz", "Panama Canal"],
+    "correctAnswer": "Strait of Hormuz"
   },
   {
     "id": 3,
-    "question": "Dr. Syama Prasad Mookerjee's sacrifice is highlighted as a pivotal moment for the integration of which Indian region?",
-    "options": [
-      "Punjab",
-      "Jammu & Kashmir",
-      "North-Eastern States",
-      "Goa"
-    ],
-    "correctAnswer": "Jammu & Kashmir"
+    "question": "Beyond the arrival of delayed shipments, what domestic factor has also contributed to ample urea supply for farmers, including those in Telangana and Andhra Pradesh, for the kharif season?",
+    "options": ["Reduction in fertilizer demand", "Three months of exceeding domestic urea production targets", "New fertilizer plants commissioned", "Increased imports from Russia"],
+    "correctAnswer": "Three months of exceeding domestic urea production targets"
   },
   {
     "id": 4,
-    "question": "What significant political party did Dr. Syama Prasad Mookerjee found, as mentioned in the news context?",
-    "options": [
-      "Indian National Congress",
-      "Bharatiya Janata Party",
-      "Jana Sangh",
-      "Swatantra Party"
-    ],
-    "correctAnswer": "Jana Sangh"
+    "question": "For which agricultural season is the current boost in India's fertilizer stocks, vital for the agricultural sectors in Telangana and Andhra Pradesh, particularly beneficial?",
+    "options": ["Rabi season", "Zaid season", "Kharif season", "Perennial season"],
+    "correctAnswer": "Kharif season"
   },
   {
     "id": 5,
-    "question": "Beyond his political career, what other influential professional role did Syama Prasad Mookerjee hold?",
-    "options": [
-      "Journalist",
-      "Scientist",
-      "Educationist",
-      "Businessman"
-    ],
-    "correctAnswer": "Educationist"
+    "question": "According to a recent National Statistics Office (NSO) survey, what percentage of women in India's largest cities, including Hyderabad, are kept out of the workforce primarily due to childcare and household duties?",
+    "options": ["Approximately 50%", "Nearly 69%", "About 45%", "Around 75%"],
+    "correctAnswer": "Nearly 69%"
   },
   {
     "id": 6,
-    "question": "What does 'E20' refer to in the context of the fuel debate across India, including states like Telangana and Andhra Pradesh?",
-    "options": [
-      "20% electricity blend",
-      "20% ethanol blending in petrol",
-      "Engine oil grade 20",
-      "Euro 20 emission standards"
-    ],
-    "correctAnswer": "20% ethanol blending in petrol"
+    "question": "The NSO survey on women's workforce participation highlights a persistent gender bias in which specific responsibility?",
+    "options": ["Financial management", "Caregiving responsibilities", "Professional skill development", "Public transportation usage"],
+    "correctAnswer": "Caregiving responsibilities"
   },
   {
     "id": 7,
-    "question": "What is the primary concern voiced by consumers regarding the mandatory E20 fuel, affecting vehicle owners nationwide?",
-    "options": [
-      "Increased engine noise",
-      "Higher fuel prices",
-      "Mileage drops and potential material degradation",
-      "Reduced vehicle performance at high altitudes"
-    ],
-    "correctAnswer": "Mileage drops and potential material degradation"
+    "question": "What distinction did the NSO survey note regarding the quality of employment for women in India's largest cities, such as Visakhapatnam, compared to smaller towns?",
+    "options": ["It showed a decline in quality.", "It remained stagnant.", "It showed improvement.", "It was not comparable."],
+    "correctAnswer": "It showed improvement."
   },
   {
     "id": 8,
-    "question": "India achieved its E20 ethanol blending target earlier than anticipated. What is now being speculated regarding future blending levels?",
-    "options": [
-      "A reduction to E10",
-      "A complete halt to blending",
-      "Even higher blending levels",
-      "Diversion to bio-diesel production"
-    ],
-    "correctAnswer": "Even higher blending levels"
+    "question": "While childcare and housework keep many urban women out of work, what wage disparity was reported between women and men in these urban centers?",
+    "options": ["Women earn 10% less.", "Women earn 23% less.", "Women earn 30% less.", "Women earn 5% more."],
+    "correctAnswer": "Women earn 23% less."
   },
   {
     "id": 9,
-    "question": "Which specific category of vehicles is mentioned with concerns about material degradation due to the use of E20 fuel?",
-    "options": [
-      "Electric vehicles",
-      "New luxury cars",
-      "Older vehicles",
-      "Commercial heavy-duty trucks"
-    ],
-    "correctAnswer": "Older vehicles"
+    "question": "OPEC+ recently approved an additional production increase for August to boost global crude availability and ease price pressures. By how many barrels per day was this increase?",
+    "options": ["100,000 bpd", "188,000 bpd", "250,000 bpd", "500,000 bpd"],
+    "correctAnswer": "188,000 bpd"
   },
   {
     "id": 10,
-    "question": "Despite consumer concerns, which industry group is reportedly backing the government's mandatory E20 blending policy?",
-    "options": [
-      "Oil refinery associations",
-      "Automobile majors",
-      "Public transport operators",
-      "Environmental activist groups"
-    ],
-    "correctAnswer": "Automobile majors"
+    "question": "The OPEC+ decision to increase crude production is expected to primarily benefit which category of nations, including India, by easing price pressures?",
+    "options": ["Exporting nations", "Importing nations", "Oil-producing nations within OPEC", "Nations with no oil reserves"],
+    "correctAnswer": "Importing nations"
   },
   {
     "id": 11,
-    "question": "What do official studies suggest about the impact of E20 fuel on vehicle mileage, as presented in the debate?",
-    "options": [
-      "Significant improvement",
-      "No impact whatsoever",
-      "Minimal impact",
-      "Impact only on new vehicles"
-    ],
-    "correctAnswer": "Minimal impact"
+    "question": "India is strategically boosting its LPG imports to reduce reliance on Gulf nations. From which country is India planning to significantly increase these purchases?",
+    "options": ["Russia", "Venezuela", "United States", "Canada"],
+    "correctAnswer": "United States"
   },
   {
     "id": 12,
-    "question": "Amidst the E20 debate, what specific consumer choice is being called for regarding fuel options?",
-    "options": [
-      "Subsidized E20 fuel",
-      "A choice between E20 and non-E20 fuel",
-      "Mandatory E20 for all vehicles",
-      "Alternative fuel vehicle subsidies"
-    ],
-    "correctAnswer": "A choice between E20 and non-E20 fuel"
-  },
-  {
-    "id": 13,
-    "question": "What is the central allegation surrounding the Ayodhya Ram Temple donations, drawing criticism from various political parties?",
-    "options": [
-      "Misappropriation of land",
-      "Delay in construction",
-      "Theft and embezzlement of donations",
-      "Illegal labor practices"
-    ],
-    "correctAnswer": "Theft and embezzlement of donations"
-  },
-  {
-    "id": 14,
-    "question": "Which political leader from the Congress party questioned the VHP's demand for opposition leaders to provide evidence in the Ayodhya donation probe?",
-    "options": [
-      "Rahul Gandhi",
-      "Pawan Khera",
-      "Mallikarjun Kharge",
-      "Sonia Gandhi"
-    ],
-    "correctAnswer": "Pawan Khera"
-  },
-  {
-    "id": 15,
-    "question": "Uddhav Thackeray strongly criticized the Centre over the Ayodhya Ram Temple donation row, asserting what about those in power?",
-    "options": [
-      "They are diligently investigating",
-      "They are prioritizing development",
-      "Those looting Hindus are in power",
-      "They are promoting national unity"
-    ],
-    "correctAnswer": "Those looting Hindus are in power"
-  },
-  {
-    "id": 16,
-    "question": "What did the VHP president Alok Kumar request from opposition leaders concerning the Ayodhya temple donation probe?",
-    "options": [
-      "To retract their statements",
-      "To provide evidence for their claims",
-      "To join the temple committee",
-      "To contribute more donations"
-    ],
-    "correctAnswer": "To provide evidence for their claims"
-  },
-  {
-    "id": 17,
-    "question": "What immediate consequences have reportedly arisen from the Ayodhya Ram Temple donation controversy?",
-    "options": [
-      "Formation of a new political party",
-      "Postponement of temple inauguration",
-      "Arrests and resignations",
-      "International sanctions"
-    ],
-    "correctAnswer": "Arrests and resignations"
-  },
-  {
-    "id": 18,
-    "question": "According to Congress leader Pawan Khera, what was the alleged real motive behind the VHP's actions concerning the Ayodhya donation probe?",
-    "options": [
-      "To ensure transparency",
-      "To emotionally exploit Hindus",
-      "To accelerate construction",
-      "To unite political parties"
-    ],
-    "correctAnswer": "To emotionally exploit Hindus"
-  },
-  {
-    "id": 19,
-    "question": "The proposed Constitution (130th Amendment) Bill aims for the automatic removal of which high-ranking officials?",
-    "options": [
-      "Judges and bureaucrats",
-      "Ministers, including PM and CMs",
-      "Governors and Ambassadors",
-      "Members of Parliament only"
-    ],
-    "correctAnswer": "Ministers, including PM and CMs"
-  },
-  {
-    "id": 20,
-    "question": "What is the specific duration of judicial custody proposed in the Constitution (130th Amendment) Bill that would trigger automatic removal of officials?",
-    "options": [
-      "7 days",
-      "15 days",
-      "30 days",
-      "60 days"
-    ],
+    "question": "A key aim of India's decision to diversify its LPG import sources is to build a strategic reserve. What is the target duration for this reserve?",
+    "options": ["7 days", "15 days", "30 days", "60 days"],
     "correctAnswer": "30 days"
   },
   {
+    "id": 13,
+    "question": "While oil firms anticipate breaking even on petrol and diesel soon due to global crude price changes, which fuel commodity continues to incur losses on sales for them?",
+    "options": ["Aviation turbine fuel", "Kerosene", "Cooking gas (LPG)", "Industrial fuel oil"],
+    "correctAnswer": "Cooking gas (LPG)"
+  },
+  {
+    "id": 14,
+    "question": "The Indian government has issued a stern directive to which tech giant, demanding the immediate removal of child sexual abuse material from its platform, Instagram?",
+    "options": ["Google", "Microsoft", "Meta", "Apple"],
+    "correctAnswer": "Meta"
+  },
+  {
+    "id": 15,
+    "question": "The government's directive to Meta regarding child sexual abuse material on Instagram demanded a detailed explanation within what timeframe?",
+    "options": ["24 hours", "3 days", "7 days", "30 days"],
+    "correctAnswer": "7 days"
+  },
+  {
+    "id": 16,
+    "question": "Which specific type of content on Instagram was the government primarily concerned about, leading to a directive for immediate removal from Meta?",
+    "options": ["Hate speech", "Political misinformation", "Paid advertisements promoting child sexual abuse material", "Copyright infringing content"],
+    "correctAnswer": "Paid advertisements promoting child sexual abuse material"
+  },
+  {
+    "id": 17,
+    "question": "According to recent data, what percentage of NGOs and associations ever registered under the Foreign Contribution (Regulation) Act, 2010 (FCRA) currently hold active status in India, including those operating in Telangana and Andhra Pradesh?",
+    "options": ["15%", "28%", "40%", "55%"],
+    "correctAnswer": "28%"
+  },
+  {
+    "id": 18,
+    "question": "Since 2012, out of over 52,000 FCRA licenses granted, approximately how many currently hold active status, enabling them to receive foreign funding across India?",
+    "options": ["Around 10,000", "Over 14,000", "Nearly 20,000", "About 25,000"],
+    "correctAnswer": "Over 14,000"
+  },
+  {
+    "id": 19,
+    "question": "What is the primary objective behind the tightening of regulations under the Foreign Contribution (Regulation) Act (FCRA) concerning NGOs in India?",
+    "options": ["To reduce the number of NGOs", "To increase foreign funding", "To enhance accountability and transparency", "To promote specific types of social work"],
+    "correctAnswer": "To enhance accountability and transparency"
+  },
+  {
+    "id": 20,
+    "question": "What new measure is the government planning for motorists with traffic violations, requiring them for license renewal under proposed amendments to the Motor Vehicles Act?",
+    "options": ["Community service hours", "Mandatory re-examination of traffic rules", "Mandatory driving tests", "Higher penalty fees only"],
+    "correctAnswer": "Mandatory driving tests"
+  },
+  {
     "id": 21,
-    "question": "Under the proposed Constitution (130th Amendment) Bill, automatic removal of officials would be triggered due to their detention for what kind of charges?",
-    "options": [
-      "Traffic violations",
-      "Serious criminal charges",
-      "Civil disputes",
-      "Minor administrative infractions"
-    ],
-    "correctAnswer": "Serious criminal charges"
+    "question": "Besides mandatory driving tests, what other significant amendment is proposed for the Motor Vehicles Act to benefit accident victims across India, including Telangana and Andhra Pradesh?",
+    "options": ["Reduced jail terms for offenders", "Empowering tribunals to grant interim compensation", "Mandatory vehicle insurance for all", "Establishment of new traffic courts"],
+    "correctAnswer": "Empowering tribunals to grant interim compensation"
   },
   {
     "id": 22,
-    "question": "Which major political party has vowed to block the Constitution (130th Amendment) Bill, calling it a tactic for 'political intimidation'?",
-    "options": [
-      "Aam Aadmi Party (AAP)",
-      "Bharatiya Janata Party (BJP)",
-      "Indian National Congress",
-      "Trinamool Congress (TMC)"
-    ],
-    "correctAnswer": "Indian National Congress"
+    "question": "Which body approved the proposed amendments to the Motor Vehicles Act, aiming to curb errant drivers and enhance road safety across Indian states?",
+    "options": ["Supreme Court of India", "Group of Ministers", "National Highways Authority of India", "Ministry of Finance"],
+    "correctAnswer": "Group of Ministers"
   },
   {
     "id": 23,
-    "question": "The Congress party anticipates that the BJP-led government will lack what to successfully pass the Constitution (130th Amendment) Bill?",
-    "options": [
-      "Public support",
-      "Judicial approval",
-      "Necessary two-thirds majority",
-      "Presidential assent"
-    ],
-    "correctAnswer": "Necessary two-thirds majority"
+    "question": "Indonesia is looking to integrate with India's UPI and build its own digital ecosystem inspired by India's public infrastructure. What does UPI stand for in this context?",
+    "options": ["Unified Payment Interface", "Universal Payment Integration", "Unique Public Infrastructure", "Unitary Policy Initiative"],
+    "correctAnswer": "Unified Payment Interface"
   },
   {
     "id": 24,
-    "question": "What term did the Congress party use to describe the proposed Constitution (130th Amendment) Bill?",
-    "options": [
-      "A progressive reform",
-      "A necessary evil",
-      "Political vendetta",
-      "A populist measure"
-    ],
-    "correctAnswer": "Political vendetta"
+    "question": "Beyond cross-border payments, Indonesia is eyeing India's digital models for which of the following areas as part of its digital blueprint?",
+    "options": ["Only digital identity", "Commerce, digital identity, and public services", "Only e-governance platforms", "Cryptocurrency regulation"],
+    "correctAnswer": "Commerce, digital identity, and public services"
   },
   {
     "id": 25,
-    "question": "If enacted, how would the Constitution (130th Amendment) Bill potentially impact the position of Chief Ministers in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "It would grant them more powers",
-      "It would make them immune to judicial custody",
-      "It could lead to their automatic removal if jailed for 30 days on serious charges",
-      "It would extend their term in office"
-    ],
-    "correctAnswer": "It could lead to their automatic removal if jailed for 30 days on serious charges"
+    "question": "The partnership between India and Indonesia, highlighting India's digital blueprint and other collaborations, was emphasized during the visit of which Indian dignitary?",
+    "options": ["Vice President", "External Affairs Minister", "Finance Minister", "Prime Minister Modi"],
+    "correctAnswer": "Prime Minister Modi"
   }
 ]

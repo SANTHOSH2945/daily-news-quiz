@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Where was the Qatar-bound LNG vessel, carrying four Indian crew members, reportedly struck in a suspected drone attack?",
-    "options": ["Arabian Sea", "Strait of Hormuz", "Gulf of Aden", "Red Sea"],
-    "correctAnswer": "Strait of Hormuz"
+    "question": "Which major technology company recently detailed new child safety measures after receiving a notice from the Indian government?",
+    "options": ["Google", "Meta", "Amazon", "Microsoft"],
+    "correctAnswer": "Meta"
   },
   {
     "id": 2,
-    "question": "How many Indian crew members were on board the Qatar-bound LNG carrier that was recently attacked near the Strait of Hormuz?",
-    "options": ["2", "4", "6", "8"],
-    "correctAnswer": "4"
+    "question": "The Indian government's notice to Meta regarding child safety primarily concerned which social media platform?",
+    "options": ["Facebook", "WhatsApp", "Instagram", "Threads"],
+    "correctAnswer": "Instagram"
   },
   {
     "id": 3,
-    "question": "The attacked LNG vessel, carrying Indian crew, was reportedly bound for which Indian state?",
-    "options": ["Maharashtra", "Kerala", "Gujarat", "West Bengal"],
-    "correctAnswer": "Gujarat"
+    "question": "What advanced technology did Meta utilize to detect and disable offending accounts and advertisements related to child exploitation?",
+    "options": ["Blockchain", "Quantum Computing", "Artificial Intelligence", "Virtual Reality"],
+    "correctAnswer": "Artificial Intelligence"
   },
   {
     "id": 4,
-    "question": "What type of vessel was reportedly hit in a suspected drone attack near the Strait of Hormuz, carrying Indian crew?",
-    "options": ["Crude oil tanker", "Container ship", "LNG carrier", "Passenger cruise ship"],
-    "correctAnswer": "LNG carrier"
+    "question": "Approximately how many accounts globally did Meta remove last year for suspicious child-related activity?",
+    "options": ["Under one million", "Over two million", "Over four million", "Over eight million"],
+    "correctAnswer": "Over four million"
   },
   {
     "id": 5,
-    "question": "The recent drone attack near the Strait of Hormuz involved a vessel carrying LNG. Which country was the vessel destined for?",
-    "options": ["Saudi Arabia", "India", "UAE", "Qatar"],
-    "correctAnswer": "India"
+    "question": "What was the primary focus of the Indian government's notice to Meta mentioned in the news?",
+    "options": ["Data privacy concerns", "Child safety measures", "Content moderation policies", "Market competition"],
+    "correctAnswer": "Child safety measures"
   },
   {
     "id": 6,
-    "question": "What percentage of ethanol in petrol does 'E20 fuel' signify, a topic recently addressed by Union Minister Hardeep Singh Puri?",
-    "options": ["10%", "15%", "20%", "25%"],
-    "correctAnswer": "20%"
+    "question": "In which country's Parliament did the Indian Prime Minister recently deliver an address advocating for UNSC reforms and inclusive development?",
+    "options": ["Vietnam", "Thailand", "Singapore", "Indonesia"],
+    "correctAnswer": "Indonesia"
   },
   {
     "id": 7,
-    "question": "According to Hardeep Singh Puri, for how long has India been using E15 fuel?",
-    "options": ["Less than a year", "Over one year", "Over three years", "Over five years"],
-    "correctAnswer": "Over three years"
+    "question": "What significant international body's reforms did the Indian Prime Minister advocate for during his recent address in Indonesia?",
+    "options": ["World Bank", "International Monetary Fund", "United Nations Security Council", "World Trade Organization"],
+    "correctAnswer": "United Nations Security Council"
   },
   {
     "id": 8,
-    "question": "When did India start using E20 fuel, as mentioned in the context of recent discussions about engine damage claims?",
-    "options": ["Last January", "Last April", "Last July", "Last October"],
-    "correctAnswer": "Last April"
+    "question": "Besides UNSC reforms, what other key development theme did the Indian PM emphasize in his Indonesia Parliament address?",
+    "options": ["Economic liberalization", "Climate change mitigation", "Inclusive development", "Digital transformation"],
+    "correctAnswer": "Inclusive development"
   },
   {
     "id": 9,
-    "question": "What is the primary reason the government defends the ethanol blending program, as per Minister Hardeep Singh Puri's statement?",
-    "options": ["To increase vehicle performance", "For economic and environmental benefits", "To reduce import duties", "To promote domestic tourism"],
-    "correctAnswer": "For economic and environmental benefits"
+    "question": "Indonesia expressed support for India's zero-tolerance policy regarding what global issue, as mentioned in the news?",
+    "options": ["Piracy", "Cybercrime", "Terrorism", "Illegal immigration"],
+    "correctAnswer": "Terrorism"
   },
   {
     "id": 10,
-    "question": "Which Union Minister recently dismissed social media claims about E20 petrol causing engine damage?",
-    "options": ["Nitin Gadkari", "Hardeep Singh Puri", "Nirmala Sitharaman", "Rajnath Singh"],
-    "correctAnswer": "Hardeep Singh Puri"
+    "question": "The Indian Prime Minister's address in Indonesia emphasized India's approach to combating which significant global threat?",
+    "options": ["Pandemics", "Poverty", "Terrorism", "Economic Recession"],
+    "correctAnswer": "Terrorism"
   },
   {
     "id": 11,
-    "question": "The use of E20 fuel is a national policy. Which of the following Indian states, known for its automotive market, would also be implementing the use of E20 fuel?",
-    "options": ["Uttar Pradesh", "West Bengal", "Telangana", "Rajasthan"],
-    "correctAnswer": "Telangana"
+    "question": "Which country's leader, Prabowo, recently met with PM Modi to strengthen ties in defence, port, and AI sectors?",
+    "options": ["Malaysia", "Philippines", "Indonesia", "Vietnam"],
+    "correctAnswer": "Indonesia"
   },
   {
     "id": 12,
-    "question": "The discussion around E20 fuel compatibility affects vehicle owners across India. In which of the following cities, located in Andhra Pradesh, would vehicles be utilizing E20 fuel?",
-    "options": ["Mumbai", "Chennai", "Visakhapatnam", "Bengaluru"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What three key sectors were highlighted for strengthening ties between India and Indonesia during the recent meeting between PM Modi and Prabowo?",
+    "options": ["Agriculture, Education, Tourism", "Defence, Port, AI", "Healthcare, Finance, Space", "Textile, Energy, Mining"],
+    "correctAnswer": "Defence, Port, AI"
   },
   {
     "id": 13,
-    "question": "Which country's President recently praised PM Modi's governance and India's democratic system, expressing admiration for India's policies?",
-    "options": ["Malaysia", "Singapore", "Thailand", "Indonesia"],
+    "question": "The meeting between PM Modi and Prabowo aimed to script a 'golden chapter' in ties between India and which nation?",
+    "options": ["Australia", "Japan", "Indonesia", "South Korea"],
     "correctAnswer": "Indonesia"
   },
   {
     "id": 14,
-    "question": "During his recent visit, Prime Minister Modi addressed the Indian diaspora in which Indonesian city?",
-    "options": ["Bali", "Jakarta", "Surabaya", "Bandung"],
-    "correctAnswer": "Jakarta"
+    "question": "Which specific emerging technology was mentioned as a focus for collaboration between India and Indonesia during the recent high-level meeting?",
+    "options": ["Biotechnology", "Renewable Energy", "Artificial Intelligence", "Nanotechnology"],
+    "correctAnswer": "Artificial Intelligence"
   },
   {
     "id": 15,
-    "question": "What number did PM Modi emphasize in his Indonesia speech, noting numerical connections and its symbolism for prosperity in Indonesian culture?",
-    "options": ["5", "7", "8", "10"],
-    "correctAnswer": "8"
+    "question": "What infrastructure sector was highlighted for potential cooperation between India and Indonesia in their recent discussions?",
+    "options": ["Railways", "Roadways", "Ports", "Airports"],
+    "correctAnswer": "Ports"
   },
   {
     "id": 16,
-    "question": "Which ancient temple will India assist in conserving, strengthening a shared heritage site with Indonesia?",
-    "options": ["Angkor Wat", "Prambanan Temple", "Borobudur Temple", "Wat Arun"],
-    "correctAnswer": "Prambanan Temple"
+    "question": "According to DGCA data for May, which South Indian city's airport recorded the highest on-time performance for domestic flights?",
+    "options": ["Hyderabad", "Bengaluru", "Chennai", "Kochi"],
+    "correctAnswer": "Chennai"
   },
   {
     "id": 17,
-    "question": "The Indonesian President mentioned studying and adapting policies for Indonesia's development based on which country's model?",
-    "options": ["China", "Japan", "India", "South Korea"],
-    "correctAnswer": "India"
+    "question": "Which three airlines were noted for leading in domestic flight punctuality among major airports in India during May, as per DGCA data?",
+    "options": ["SpiceJet, Vistara, Go First", "IndiGo, Akasa, Air India Group", "AirAsia India, Alliance Air, Star Air", "Jet Airways, TruJet, Zoom Air"],
+    "correctAnswer": "IndiGo, Akasa, Air India Group"
   },
   {
     "id": 18,
-    "question": "How many agreements were signed between India and Indonesia during PM Modi's recent visit to strengthen bilateral cooperation?",
-    "options": ["Ten", "Fifteen", "Twenty", "Twenty-Five"],
-    "correctAnswer": "Twenty"
+    "question": "What was the approximate number of domestic air passengers in India last month (May), as per DGCA data?",
+    "options": ["Over 50 lakh", "Over 1 crore", "Over 1.5 crore", "Over 2 crore"],
+    "correctAnswer": "Over 1.5 crore"
   },
   {
     "id": 19,
-    "question": "The Indonesian President, Prabowo Subianto, admired Prime Minister Narendra Modi's governance. This high-level interaction impacts India's global standing, including its states like Telangana. What was the core message conveyed by PM Modi for future ties?",
-    "options": ["Limited cooperation", "'Kuch Kuch Hota Hai' moment", "'Bahut Kuch' message", "Focus on cultural exchange only"],
-    "correctAnswer": "'Bahut Kuch' message"
+    "question": "Which regulatory body released the data regarding domestic flight punctuality in India for May?",
+    "options": ["Airport Authority of India (AAI)", "Ministry of Civil Aviation", "Directorate General of Civil Aviation (DGCA)", "Bureau of Civil Aviation Security (BCAS)"],
+    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
   },
   {
     "id": 20,
-    "question": "PM Modi's visit to Indonesia involved discussions on India's role in the Indo-Pacific region. States like Andhra Pradesh, with its long coastline, play a strategic role in India's Indo-Pacific policy. Which President made remarks drawing praise from PM Modi during this visit?",
-    "options": ["Joko Widodo", "Prabowo Subianto", "Megawati Sukarnoputri", "Susilo Bambang Yudhoyono"],
-    "correctAnswer": "Prabowo Subianto"
+    "question": "Among the 10 busiest airports in India, which two metropolitan airports were listed at the bottom of the punctuality ranking for domestic flights in May?",
+    "options": ["Bengaluru & Hyderabad", "Kolkata & Ahmedabad", "Delhi & Mumbai", "Chennai & Kochi"],
+    "correctAnswer": "Delhi & Mumbai"
   },
   {
     "id": 21,
-    "question": "What does PGI stand for in the context of the recent report on the performance of Indian schools?",
-    "options": ["Performance Grading Index", "Primary Growth Indicator", "Public Government Initiative", "Pedagogical Global Index"],
-    "correctAnswer": "Performance Grading Index"
+    "question": "In which major South Indian city did a recent daycare abuse case lead to the arrest of a whistleblower?",
+    "options": ["Hyderabad", "Chennai", "Bengaluru", "Visakhapatnam"],
+    "correctAnswer": "Bengaluru"
   },
   {
     "id": 22,
-    "question": "According to the recent report on Indian schools, while the School PGI climbed, what aspect was noted to have remained 'frozen'?",
-    "options": ["Infrastructure development", "Teacher recruitment", "Learning score", "Budget allocation"],
-    "correctAnswer": "Learning score"
+    "question": "What was the name of the whistleblower who was arrested in connection with the Bengaluru daycare abuse case?",
+    "options": ["Priya", "Sujatha", "Meena", "Shalini"],
+    "correctAnswer": "Sujatha"
   },
   {
     "id": 23,
-    "question": "The Performance Grading Index (PGI) is a national assessment for school education. If Telangana were to participate in such an assessment, which parameter would ideally reflect the quality of education in the state's schools, according to the report's focus?",
-    "options": ["School attendance rate", "Learning score", "Teacher-student ratio", "Infrastructure spending"],
-    "correctAnswer": "Learning score"
+    "question": "What justification did the Bengaluru Police provide for arresting the whistleblower in the daycare abuse case?",
+    "options": ["Obstruction of justice", "Tampering with evidence", "Being an 'equal party' to abuse", "False reporting"],
+    "correctAnswer": "Being an 'equal party' to abuse"
   },
   {
     "id": 24,
-    "question": "A national report indicated that while School PGI improved, the learning score remained stagnant. For states like Andhra Pradesh striving for educational excellence, which of the following is crucial for improving the learning score?",
-    "options": ["Increasing school fees", "Reducing syllabus", "Enhancing teaching methodologies and student engagement", "Decreasing parent involvement"],
-    "correctAnswer": "Enhancing teaching methodologies and student engagement"
+    "question": "The alleged toddler abuse incident in Bengaluru occurred at a daycare facility located on the campus of which company?",
+    "options": ["Infosys", "Wipro", "TCS", "Capgemini"],
+    "correctAnswer": "Capgemini"
   },
   {
     "id": 25,
-    "question": "The PGI report highlights national trends in school education. Which central ministry is primarily responsible for initiatives related to the Performance Grading Index?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of Education", "Ministry of Health and Family Welfare"],
-    "correctAnswer": "Ministry of Education"
+    "question": "What did the Bengaluru police commissioner state was not followed after the daycare incidents surfaced, leading to further police action?",
+    "options": ["Company policies", "Standard operating procedures", "Legal advice", "Reporting protocols"],
+    "correctAnswer": "Reporting protocols"
   }
 ]

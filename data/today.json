@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which state's Chief Minister recently made mocking remarks about BJP president Nitin Nabin, leading to Prime Minister Modi's defense?",
-    "options": ["Uttar Pradesh", "Telangana", "West Bengal", "Maharashtra"],
-    "correctAnswer": "Telangana"
-  },
-  {
-    "id": 2,
-    "question": "Who among the following political leaders, currently serving as a Chief Minister, was mentioned in the news for criticizing BJP president Nitin Nabin?",
-    "options": ["Yogi Adityanath", "Revanth Reddy", "Mamata Banerjee", "Eknath Shinde"],
-    "correctAnswer": "Revanth Reddy"
-  },
-  {
-    "id": 3,
-    "question": "Prime Minister Narendra Modi recently defended BJP president Nitin Nabin after criticism from Telangana CM Revanth Reddy and which other prominent political figure?",
-    "options": ["Rahul Gandhi", "Arvind Kejriwal", "Mallikarjun Kharge", "Akhilesh Yadav"],
-    "correctAnswer": "Arvind Kejriwal"
-  },
-  {
-    "id": 4,
-    "question": "The news report regarding the criticism of BJP president Nitin Nabin explicitly mentioned the Chief Minister of which southern Indian state?",
-    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Telangana"],
-    "correctAnswer": "Telangana"
-  },
-  {
-    "id": 5,
-    "question": "In the context of recent political discussions, Telangana CM Revanth Reddy's remarks were aimed at which BJP leader?",
-    "options": ["Amit Shah", "J.P. Nadda", "Nitin Nabin", "Rajnath Singh"],
-    "correctAnswer": "Nitin Nabin"
-  },
-  {
-    "id": 6,
-    "question": "PM Modi defended BJP president Nitin Nabin, highlighting that Nabin was previously an MLA for which state?",
-    "options": ["Uttar Pradesh", "Bihar", "Jharkhand", "Madhya Pradesh"],
-    "correctAnswer": "Bihar"
-  },
-  {
-    "id": 7,
-    "question": "The criticism against BJP president Nitin Nabin, which prompted PM Modi's defense, primarily focused on what aspect of his public persona?",
-    "options": ["His policy statements", "His relative lack of national recognition", "His administrative skills", "His parliamentary attendance"],
-    "correctAnswer": "His relative lack of national recognition"
-  },
-  {
-    "id": 8,
-    "question": "Which major political party's president was recently defended by PM Modi following mocking remarks from Telangana CM Revanth Reddy?",
-    "options": ["Congress", "BJP", "AAP", "BRS"],
-    "correctAnswer": "BJP"
-  },
-  {
-    "id": 9,
-    "question": "What quality of BJP president Nitin Nabin did Prime Minister Modi highlight as a source of pride for party members, in response to criticism including from Telangana CM?",
-    "options": ["His political experience", "His strategic acumen", "His simplicity", "His oratorical skills"],
-    "correctAnswer": "His simplicity"
-  },
-  {
-    "id": 10,
-    "question": "An unpublished report noted potential damage to which specific vehicle components when E10 cars use E20 fuel across India, including states like Telangana and Andhra Pradesh?",
-    "options": ["Metallic parts", "Rubber parts", "Glass components", "Engine block"],
-    "correctAnswer": "Rubber parts"
-  },
-  {
-    "id": 11,
-    "question": "What was observed regarding fuel consumption for vehicles using E20 fuel, as per the report relevant to all Indian states?",
-    "options": ["Decreased by 2-6%", "Remained unchanged", "Increased by 2-6%", "Increased by 10%"],
-    "correctAnswer": "Increased by 2-6%"
-  },
-  {
-    "id": 12,
-    "question": "The report on E20 fuel mentioned that emissions from vehicles remained within what limits for general compliance in India?",
-    "options": ["International standards", "Legislative limits", "Manufacturer guidelines", "Environmental agency recommendations"],
-    "correctAnswer": "Legislative limits"
-  },
-  {
-    "id": 13,
-    "question": "Which type of engine, according to the report, experienced issues after durability testing with E20 fuel, unlike a BS-IV engine, a concern for vehicle owners nationwide?",
-    "options": ["BS-III naturally aspirated", "BS-V hybrid", "BS-VI turbocharged", "BS-II diesel"],
-    "correctAnswer": "BS-VI turbocharged"
-  },
-  {
-    "id": 14,
-    "question": "The term 'E20 fuel' indicates a blend of petrol with what percentage of ethanol, a policy impacting fuel stations across India?",
+    "question": "What percentage of ethanol is currently blended in E20 petrol, which India has fully embraced?",
     "options": ["10%", "15%", "20%", "25%"],
     "correctAnswer": "20%"
   },
   {
-    "id": 15,
-    "question": "The Indian government recently gave an extension to which messaging platform to respond to a notice regarding usernames, a policy affecting users in Telangana and Andhra Pradesh?",
-    "options": ["Telegram", "Signal", "WhatsApp", "Hike"],
-    "correctAnswer": "WhatsApp"
+    "id": 2,
+    "question": "Beyond E20, which higher ethanol concentration fuel blend is the Indian government aiming to facilitate next by waiving excise duties?",
+    "options": ["E50", "E85", "E22 to E30", "E100"],
+    "correctAnswer": "E22 to E30"
   },
   {
-    "id": 16,
-    "question": "The notice given by the government to WhatsApp was related to which specific feature, impacting user interaction nationwide?",
-    "options": ["End-to-end encryption", "Group video calls", "Usernames", "Status updates"],
-    "correctAnswer": "Usernames"
+    "id": 3,
+    "question": "What is one common concern raised by consumers regarding the impact of E20 fuel on their vehicles, despite automotive manufacturers' assurances?",
+    "options": ["Increased engine noise", "Decreased fuel economy", "Faster tire wear", "Malfunctioning airbags"],
+    "correctAnswer": "Decreased fuel economy"
   },
   {
-    "id": 17,
-    "question": "How many additional days did the government grant WhatsApp to reply to its notice, a decision that has implications for digital governance across India?",
-    "options": ["1 day", "3 days", "5 days", "7 days"],
-    "correctAnswer": "3 days"
+    "id": 4,
+    "question": "Which prominent Indian political leader recently sought written assurance from automakers regarding E20 fuel's potential damage to vehicle components?",
+    "options": ["Narendra Modi", "Arvind Kejriwal", "Rahul Gandhi", "Amit Shah"],
+    "correctAnswer": "Arvind Kejriwal"
   },
   {
-    "id": 18,
-    "question": "Prime Minister Modi's recent visit to Indonesia included discussions on bilateral cooperation in which key area, relevant to industrial development and resource security across India?",
-    "options": ["Tourism", "Critical minerals", "Agriculture subsidies", "Space exploration"],
+    "id": 5,
+    "question": "What incentive has the Indian government offered to promote the use of higher ethanol concentration fuel blends like E22 to E30?",
+    "options": ["Vehicle purchase subsidies", "Lower road tax", "Waiving excise duties", "Free fuel coupons"],
+    "correctAnswer": "Waiving excise duties"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following automotive companies was explicitly mentioned in the news as being asked for assurance regarding E20 fuel by a political leader?",
+    "options": ["Hyundai", "Tata Motors", "Mahindra", "Maruti Suzuki"],
+    "correctAnswer": "Maruti Suzuki"
+  },
+  {
+    "id": 7,
+    "question": "What is the primary objective behind India's policy shift towards higher ethanol-blended fuels like E20?",
+    "options": ["To increase crude oil imports", "To promote foreign vehicle manufacturing", "To reduce reliance on fossil fuels and cut emissions", "To encourage public transport"],
+    "correctAnswer": "To reduce reliance on fossil fuels and cut emissions"
+  },
+  {
+    "id": 8,
+    "question": "The Delhi High Court recently restored the X handle of which organization, in a matter initially linked to concerns over NEET chaos?",
+    "options": ["Medical Council of India", "National Testing Agency", "Citizens for Justice and Peace (CJP)", "All India Students' Federation"],
+    "correctAnswer": "Citizens for Justice and Peace (CJP)"
+  },
+  {
+    "id": 9,
+    "question": "Which national entrance examination was associated with the 'chaos' mentioned in the context of a recent Delhi High Court ruling?",
+    "options": ["JEE Main", "UPSC Civil Services Exam", "NEET", "CAT"],
+    "correctAnswer": "NEET"
+  },
+  {
+    "id": 10,
+    "question": "What was the Supreme Court's general observation when dismissing a plea to regulate a Chief Minister's statements, in a case related to the Karur stampede?",
+    "options": ["CMs statements are always regulated by the courts", "CMs statements are not subject to any regulation", "A court cannot regulate what a CM can say", "Only the Parliament can regulate CMs' statements"],
+    "correctAnswer": "A court cannot regulate what a CM can say"
+  },
+  {
+    "id": 11,
+    "question": "The Supreme Court's recent observation regarding the regulation of a Chief Minister's statements originated from a case related to which Indian state?",
+    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+    "correctAnswer": "Tamil Nadu"
+  },
+  {
+    "id": 12,
+    "question": "What is the highest state honor of Indonesia that was conferred upon Indian Prime Minister Narendra Modi during his recent visit?",
+    "options": ["Garuda Award", "Mahaputera Star", "Bintang Republik Indonesia Adipurna", "Satyalancana Wira Karya"],
+    "correctAnswer": "Bintang Republik Indonesia Adipurna"
+  },
+  {
+    "id": 13,
+    "question": "India is providing support to Indonesia for building what specific election-related technology?",
+    "options": ["Ballot printing machines", "Voter registration software", "Country-specific EVMs", "Biometric verification systems"],
+    "correctAnswer": "Country-specific EVMs"
+  },
+  {
+    "id": 14,
+    "question": "In which sector will India invest in Indonesia to strengthen resilient supply chains, specifically focusing on manufacturing steel, nickel, and rare earth permanent magnets?",
+    "options": ["Textile industry", "Automotive manufacturing", "Critical minerals", "Pharmaceuticals"],
     "correctAnswer": "Critical minerals"
   },
   {
+    "id": 15,
+    "question": "What is the name of the Presidential Palace in Jakarta where PM Modi met Indonesian President Prabowo Subianto?",
+    "options": ["Merdeka Palace", "Istana Bogor", "Istana Negara", "Istana Merdeka"],
+    "correctAnswer": "Istana Merdeka"
+  },
+  {
+    "id": 16,
+    "question": "The cooperation between India and Indonesia in critical minerals aims to strengthen supply chains for which type of industries?",
+    "options": ["Tourism and Hospitality", "Strategic industries", "Agriculture and Food Processing", "Fashion and Apparel"],
+    "correctAnswer": "Strategic industries"
+  },
+  {
+    "id": 17,
+    "question": "Who is the current President of Indonesia that PM Modi recently met during his state visit?",
+    "options": ["Joko Widodo", "Susilo Bambang Yudhoyono", "Megawati Sukarnoputri", "Prabowo Subianto"],
+    "correctAnswer": "Prabowo Subianto"
+  },
+  {
+    "id": 18,
+    "question": "An Indian diplomat protested at a seminar in Dhaka regarding the wrong depiction of which Indian territory on a map?",
+    "options": ["Arunachal Pradesh", "Jammu and Kashmir", "Gujarat", "Sikkim"],
+    "correctAnswer": "Jammu and Kashmir"
+  },
+  {
     "id": 19,
-    "question": "Which specific critical mineral was mentioned in the context of Prime Minister Modi's discussions in Indonesia, highlighting its strategic importance for Indian industries?",
-    "options": ["Lithium", "Cobalt", "Nickel", "Copper"],
-    "correctAnswer": "Nickel"
+    "question": "Which organization hosted the seminar in Dhaka where India lodged a protest against the incorrect depiction of J&K?",
+    "options": ["Dhaka Policy Institute", "Bangladesh Institute of International and Strategic Studies", "South Asian Forum", "Bengal Global Forum"],
+    "correctAnswer": "Bangladesh Institute of International and Strategic Studies"
   },
   {
     "id": 20,
-    "question": "Prime Minister Modi began his recent three-nation tour in which country, marking a diplomatic engagement for India?",
-    "options": ["Australia", "New Zealand", "Indonesia", "Malaysia"],
-    "correctAnswer": "Indonesia"
+    "question": "Apart from petrol, what is the main component blended into E20 fuel?",
+    "options": ["Methanol", "Butanol", "Ethanol", "Propanol"],
+    "correctAnswer": "Ethanol"
   },
   {
     "id": 21,
-    "question": "Which Union Minister announced the government's plan to form a cooperative life insurance company, a policy initiative for financial inclusion across India?",
-    "options": ["Nirmala Sitharaman", "Amit Shah", "Piyush Goyal", "Rajnath Singh"],
-    "correctAnswer": "Amit Shah"
+    "question": "India has stated that it has 'fully embraced' which specific fuel policy regarding ethanol blending?",
+    "options": ["E5 rollout", "E10 rollout", "E20 rollout", "E25 rollout"],
+    "correctAnswer": "E20 rollout"
   },
   {
     "id": 22,
-    "question": "The government plans to establish a new insurance company based on what model, aiming to benefit various communities nationwide?",
-    "options": ["Public-private partnership", "Foreign direct investment", "Cooperative", "Private equity"],
-    "correctAnswer": "Cooperative"
+    "question": "The meeting between PM Modi and Indonesian President Prabowo Subianto occurred during what type of official visit by the Indian Prime Minister?",
+    "options": ["Working visit", "State visit", "Trade delegation visit", "Cultural exchange visit"],
+    "correctAnswer": "State visit"
   },
   {
     "id": 23,
-    "question": "What type of insurance company is the government planning to form, as announced by Amit Shah, extending coverage to citizens across all states?",
-    "options": ["General insurance", "Health insurance", "Life insurance", "Motor insurance"],
-    "correctAnswer": "Life insurance"
+    "question": "What was a broader context of cooperation discussed between India and Indonesia, beyond specific technology or mineral deals, related to supply chains?",
+    "options": ["Establishing new trade routes", "Strengthening resilient supply chains for strategic industries", "Developing shared agricultural policies", "Coordinating tourism promotion"],
+    "correctAnswer": "Strengthening resilient supply chains for strategic industries"
   },
   {
     "id": 24,
-    "question": "India's emphasis on critical minerals, such as nickel discussed during PM Modi's visit to Indonesia, is crucial for supporting which sector's growth in states like Telangana and Andhra Pradesh?",
-    "options": ["Agricultural sector", "Manufacturing and high-tech industries", "Tourism and hospitality", "Traditional handicrafts"],
-    "correctAnswer": "Manufacturing and high-tech industries"
+    "question": "What reason did the Supreme Court primarily give for declining to regulate a Chief Minister's statements, as observed in the Karur stampede case?",
+    "options": ["It is outside judicial purview", "It infringes on freedom of speech", "Such regulation is impractical", "It questioned how a court could regulate what a CM can say"],
+    "correctAnswer": "It questioned how a court could regulate what a CM can say"
   },
   {
     "id": 25,
-    "question": "The planned cooperative life insurance company, as announced by Amit Shah, aims to extend financial inclusion to which segment of the population, including those in Telangana and Andhra Pradesh?",
-    "options": ["High-net-worth individuals", "Rural and underserved populations", "Multinational corporations", "Government employees only"],
-    "correctAnswer": "Rural and underserved populations"
+    "question": "What explanation did the former ambassador provide for the incorrect map depiction of Kashmir at the Dhaka seminar?",
+    "options": ["It was a historical map", "It was a draft map awaiting correction", "It was for representational purposes only", "It was a deliberate political statement"],
+    "correctAnswer": "It was for representational purposes only"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What percentage of ethanol is currently blended in E20 petrol, which India has fully embraced?",
-    "options": ["10%", "15%", "20%", "25%"],
-    "correctAnswer": "20%"
+    "question": "What significant policy change by the Trump administration is expected to most affect Indians seeking opportunities abroad, impacting professionals from states like Telangana and Andhra Pradesh?",
+    "options": ["Tighter H-1B, Green Card, and student visa rules", "Increased trade tariffs on Indian goods", "New restrictions on foreign direct investment in India", "Changes to diplomatic travel protocols"],
+    "correctAnswer": "Tighter H-1B, Green Card, and student visa rules"
   },
   {
     "id": 2,
-    "question": "Beyond E20, which higher ethanol concentration fuel blend is the Indian government aiming to facilitate next by waiving excise duties?",
-    "options": ["E50", "E85", "E22 to E30", "E100"],
-    "correctAnswer": "E22 to E30"
+    "question": "Hyderabad, a major IT hub in Telangana, is likely to be significantly impacted by potential changes in which US visa category, as reported in the news?",
+    "options": ["Tourist visas", "Business visas", "H-1B visas", "Cultural exchange visas"],
+    "correctAnswer": "H-1B visas"
   },
   {
     "id": 3,
-    "question": "What is one common concern raised by consumers regarding the impact of E20 fuel on their vehicles, despite automotive manufacturers' assurances?",
-    "options": ["Increased engine noise", "Decreased fuel economy", "Faster tire wear", "Malfunctioning airbags"],
-    "correctAnswer": "Decreased fuel economy"
+    "question": "The news about tighter US visa rules specifically mentioned potential impacts on which demographic group from India, including those from Andhra Pradesh and Telangana, seeking to move abroad?",
+    "options": ["Agricultural workers", "Government officials", "Professionals and students", "Tourists"],
+    "correctAnswer": "Professionals and students"
   },
   {
     "id": 4,
-    "question": "Which prominent Indian political leader recently sought written assurance from automakers regarding E20 fuel's potential damage to vehicle components?",
-    "options": ["Narendra Modi", "Arvind Kejriwal", "Rahul Gandhi", "Amit Shah"],
-    "correctAnswer": "Arvind Kejriwal"
+    "question": "What type of US visa, popular among Indian tech professionals, particularly from states with strong IT sectors like Telangana, is reportedly facing tighter regulations?",
+    "options": ["B2 Visitor Visa", "H-1B Visa", "O-1 Extraordinary Ability Visa", "L-1 Intracompany Transferee Visa"],
+    "correctAnswer": "H-1B Visa"
   },
   {
     "id": 5,
-    "question": "What incentive has the Indian government offered to promote the use of higher ethanol concentration fuel blends like E22 to E30?",
-    "options": ["Vehicle purchase subsidies", "Lower road tax", "Waiving excise duties", "Free fuel coupons"],
-    "correctAnswer": "Waiving excise duties"
+    "question": "India is being recognized as a global hub for innovation in which specific technological application within the healthcare sector, a field where states like Telangana can play a significant role?",
+    "options": ["Blockchain in supply chain", "Artificial Intelligence (AI) healthcare", "Quantum computing for diagnostics", "Virtual reality for surgical training"],
+    "correctAnswer": "Artificial Intelligence (AI) healthcare"
   },
   {
     "id": 6,
-    "question": "Which of the following automotive companies was explicitly mentioned in the news as being asked for assurance regarding E20 fuel by a political leader?",
-    "options": ["Hyundai", "Tata Motors", "Mahindra", "Maruti Suzuki"],
-    "correctAnswer": "Maruti Suzuki"
+    "question": "What percentage of a major company's AI innovations, contributing to India's status as an AI healthcare hub, are developed in India as mentioned in the news?",
+    "options": ["Over 50%", "Over 65%", "Over 75%", "Over 85%"],
+    "correctAnswer": "Over 85%"
   },
   {
     "id": 7,
-    "question": "What is the primary objective behind India's policy shift towards higher ethanol-blended fuels like E20?",
-    "options": ["To increase crude oil imports", "To promote foreign vehicle manufacturing", "To reduce reliance on fossil fuels and cut emissions", "To encourage public transport"],
-    "correctAnswer": "To reduce reliance on fossil fuels and cut emissions"
+    "question": "AI innovations in Indian healthcare are primarily aimed at achieving which two key objectives mentioned in the news, benefiting regions like Andhra Pradesh and Telangana?",
+    "options": ["Reducing drug manufacturing costs and increasing exports", "Expanding access to advanced diagnostics and easing pressure on the healthcare system", "Promoting medical tourism and attracting foreign investment", "Developing new surgical techniques and medical devices"],
+    "correctAnswer": "Expanding access to advanced diagnostics and easing pressure on the healthcare system"
   },
   {
     "id": 8,
-    "question": "The Delhi High Court recently restored the X handle of which organization, in a matter initially linked to concerns over NEET chaos?",
-    "options": ["Medical Council of India", "National Testing Agency", "Citizens for Justice and Peace (CJP)", "All India Students' Federation"],
-    "correctAnswer": "Citizens for Justice and Peace (CJP)"
+    "question": "Which Indian city, a prominent technology and pharmaceutical hub in Telangana, is well-positioned to contribute significantly to India's emergence as an AI healthcare innovation hub?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 9,
-    "question": "Which national entrance examination was associated with the 'chaos' mentioned in the context of a recent Delhi High Court ruling?",
-    "options": ["JEE Main", "UPSC Civil Services Exam", "NEET", "CAT"],
-    "correctAnswer": "NEET"
+    "question": "A recent cybersecurity risk in India involved the remote disabling of which type of vehicle using Bluetooth apps, a concern for connected transport systems in states like Telangana?",
+    "options": ["Private cars", "E-rickshaws", "Public buses", "Heavy trucks"],
+    "correctAnswer": "E-rickshaws"
   },
   {
     "id": 10,
-    "question": "What was the Supreme Court's general observation when dismissing a plea to regulate a Chief Minister's statements, in a case related to the Karur stampede?",
-    "options": ["CMs statements are always regulated by the courts", "CMs statements are not subject to any regulation", "A court cannot regulate what a CM can say", "Only the Parliament can regulate CMs' statements"],
-    "correctAnswer": "A court cannot regulate what a CM can say"
+    "question": "What is identified as the underlying issue causing the cybersecurity vulnerability in e-rickshaw battery systems in India, relevant to digital security infrastructure in states like Telangana and Andhra Pradesh?",
+    "options": ["Lack of driver training", "Insecure battery system designs", "Overreliance on GPS technology", "Outdated traffic regulations"],
+    "correctAnswer": "Insecure battery system designs"
   },
   {
     "id": 11,
-    "question": "The Supreme Court's recent observation regarding the regulation of a Chief Minister's statements originated from a case related to which Indian state?",
-    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "The incidents involving e-rickshaw cybersecurity vulnerabilities highlight broader risks for which interconnected systems in India, impacting public safety nationwide, including in urban areas of Telangana and Andhra Pradesh?",
+    "options": ["Public Wi-Fi networks", "Financial transaction systems", "Connected transport systems", "Smart home devices"],
+    "correctAnswer": "Connected transport systems"
   },
   {
     "id": 12,
-    "question": "What is the highest state honor of Indonesia that was conferred upon Indian Prime Minister Narendra Modi during his recent visit?",
-    "options": ["Garuda Award", "Mahaputera Star", "Bintang Republik Indonesia Adipurna", "Satyalancana Wira Karya"],
-    "correctAnswer": "Bintang Republik Indonesia Adipurna"
+    "question": "Government agencies in India have taken what immediate action in response to the cybersecurity risks involving e-rickshaw apps?",
+    "options": ["Issued advisories for e-rickshaw users", "Ordered app removals and initiated cybersecurity investigations", "Banned the sale of new e-rickshaws", "Recalled all existing e-rickshaw batteries"],
+    "correctAnswer": "Ordered app removals and initiated cybersecurity investigations"
   },
   {
     "id": 13,
-    "question": "India is providing support to Indonesia for building what specific election-related technology?",
-    "options": ["Ballot printing machines", "Voter registration software", "Country-specific EVMs", "Biometric verification systems"],
-    "correctAnswer": "Country-specific EVMs"
+    "question": "Which national educational body in India is reportedly rewriting its lesson on the judiciary due to recent controversies, affecting curriculum in states like Telangana and Andhra Pradesh?",
+    "options": ["UGC", "CBSE", "NCERT", "AICTE"],
+    "correctAnswer": "NCERT"
   },
   {
     "id": 14,
-    "question": "In which sector will India invest in Indonesia to strengthen resilient supply chains, specifically focusing on manufacturing steel, nickel, and rare earth permanent magnets?",
-    "options": ["Textile industry", "Automotive manufacturing", "Critical minerals", "Pharmaceuticals"],
-    "correctAnswer": "Critical minerals"
+    "question": "The NCERT's revised lesson on the judiciary is addressing topics such as 'corruption' and which other legal mechanism often used by citizens in India, including those in AP and Telangana?",
+    "options": ["Habeas Corpus petitions", "Public Interest Litigations (PILs)", "Writ of Mandamus", "Special Leave Petitions"],
+    "correctAnswer": "Public Interest Litigations (PILs)"
   },
   {
     "id": 15,
-    "question": "What is the name of the Presidential Palace in Jakarta where PM Modi met Indonesian President Prabowo Subianto?",
-    "options": ["Merdeka Palace", "Istana Bogor", "Istana Negara", "Istana Merdeka"],
-    "correctAnswer": "Istana Merdeka"
+    "question": "Girish Bharadwaj, known as the 'Bridge Man of India', was renowned for his contribution to rural infrastructure by building what?",
+    "options": ["National Highways", "Low-cost bridges for remote villages", "Metro rail networks", "International airports"],
+    "correctAnswer": "Low-cost bridges for remote villages"
   },
   {
     "id": 16,
-    "question": "The cooperation between India and Indonesia in critical minerals aims to strengthen supply chains for which type of industries?",
-    "options": ["Tourism and Hospitality", "Strategic industries", "Agriculture and Food Processing", "Fashion and Apparel"],
-    "correctAnswer": "Strategic industries"
+    "question": "The work of Girish Bharadwaj in connecting remote villages is relevant to infrastructure development in which context, including regions within Andhra Pradesh and Telangana that have remote habitations?",
+    "options": ["Urban development projects", "Industrial corridors", "Rural India's connectivity", "Coastal shipping routes"],
+    "correctAnswer": "Rural India's connectivity"
   },
   {
     "id": 17,
-    "question": "Who is the current President of Indonesia that PM Modi recently met during his state visit?",
-    "options": ["Joko Widodo", "Susilo Bambang Yudhoyono", "Megawati Sukarnoputri", "Prabowo Subianto"],
-    "correctAnswer": "Prabowo Subianto"
+    "question": "Recent news reported a devastating landslide in Wayanad, Kerala. Such natural disasters often highlight the need for improved disaster management strategies across India. What type of event occurred in Wayanad?",
+    "options": ["Earthquake", "Tsunami", "Landslide", "Cyclone"],
+    "correctAnswer": "Landslide"
   },
   {
     "id": 18,
-    "question": "An Indian diplomat protested at a seminar in Dhaka regarding the wrong depiction of which Indian territory on a map?",
-    "options": ["Arunachal Pradesh", "Jammu and Kashmir", "Gujarat", "Sikkim"],
-    "correctAnswer": "Jammu and Kashmir"
+    "question": "What natural factors are currently under scrutiny as contributing to the recent landslide incident near Wayanad's tunnel project site in India?",
+    "options": ["Volcanic activity and seismic tremors", "Heavy rainfall and construction debris", "Drought conditions and forest fires", "Coastal erosion and sea-level rise"],
+    "correctAnswer": "Heavy rainfall and construction debris"
   },
   {
     "id": 19,
-    "question": "Which organization hosted the seminar in Dhaka where India lodged a protest against the incorrect depiction of J&K?",
-    "options": ["Dhaka Policy Institute", "Bangladesh Institute of International and Strategic Studies", "South Asian Forum", "Bengal Global Forum"],
-    "correctAnswer": "Bangladesh Institute of International and Strategic Studies"
+    "question": "India's significant investment in AI healthcare innovation, as mentioned in the news, is expected to ease pressure on which national system?",
+    "options": ["The country's education system", "The country's financial system", "The country's healthcare system", "The country's agricultural system"],
+    "correctAnswer": "The country's healthcare system"
   },
   {
     "id": 20,
-    "question": "Apart from petrol, what is the main component blended into E20 fuel?",
-    "options": ["Methanol", "Butanol", "Ethanol", "Propanol"],
-    "correctAnswer": "Ethanol"
+    "question": "What is a key reason for India emerging as a global hub for AI healthcare innovation, according to the news?",
+    "options": ["India has the largest number of AI patents globally.", "Over 85% of a major company's AI innovations are developed in India.", "India has mandated AI usage in all public hospitals.", "India is the largest consumer of AI healthcare products."],
+    "correctAnswer": "Over 85% of a major company's AI innovations are developed in India."
   },
   {
     "id": 21,
-    "question": "India has stated that it has 'fully embraced' which specific fuel policy regarding ethanol blending?",
-    "options": ["E5 rollout", "E10 rollout", "E20 rollout", "E25 rollout"],
-    "correctAnswer": "E20 rollout"
+    "question": "The vulnerability in e-rickshaw battery systems, leading to remote disabling, exposes a significant cybersecurity risk for which sector in India, potentially impacting urban mobility in states like Telangana?",
+    "options": ["Agricultural supply chains", "Telecommunications networks", "Connected transport systems", "Energy grids"],
+    "correctAnswer": "Connected transport systems"
   },
   {
     "id": 22,
-    "question": "The meeting between PM Modi and Indonesian President Prabowo Subianto occurred during what type of official visit by the Indian Prime Minister?",
-    "options": ["Working visit", "State visit", "Trade delegation visit", "Cultural exchange visit"],
-    "correctAnswer": "State visit"
+    "question": "Which aspect of low-cost vehicles, such as e-rickshaws, is often prioritized over digital security, leading to vulnerabilities like those recently exposed in India?",
+    "options": ["Aesthetic design", "Performance speed", "Affordability", "Luxury features"],
+    "correctAnswer": "Affordability"
   },
   {
     "id": 23,
-    "question": "What was a broader context of cooperation discussed between India and Indonesia, beyond specific technology or mineral deals, related to supply chains?",
-    "options": ["Establishing new trade routes", "Strengthening resilient supply chains for strategic industries", "Developing shared agricultural policies", "Coordinating tourism promotion"],
-    "correctAnswer": "Strengthening resilient supply chains for strategic industries"
+    "question": "The potential tightening of H-1B and student visa rules by the US administration could specifically affect India's large pool of professionals in which sector, often originating from states like Telangana, as they seek international opportunities?",
+    "options": ["Agricultural sector", "Healthcare sector", "Information Technology (IT) sector", "Manufacturing sector"],
+    "correctAnswer": "Information Technology (IT) sector"
   },
   {
     "id": 24,
-    "question": "What reason did the Supreme Court primarily give for declining to regulate a Chief Minister's statements, as observed in the Karur stampede case?",
-    "options": ["It is outside judicial purview", "It infringes on freedom of speech", "Such regulation is impractical", "It questioned how a court could regulate what a CM can say"],
-    "correctAnswer": "It questioned how a court could regulate what a CM can say"
+    "question": "The legacy of Girish Bharadwaj, the 'Bridge Man of India', emphasizes the importance of providing accessible infrastructure to which segment of India's population?",
+    "options": ["Urban commuters", "People in remote villages", "Industrial workers", "International tourists"],
+    "correctAnswer": "People in remote villages"
   },
   {
     "id": 25,
-    "question": "What explanation did the former ambassador provide for the incorrect map depiction of Kashmir at the Dhaka seminar?",
-    "options": ["It was a historical map", "It was a draft map awaiting correction", "It was for representational purposes only", "It was a deliberate political statement"],
-    "correctAnswer": "It was for representational purposes only"
+    "question": "In the context of the recent Wayanad landslide, what ongoing efforts are crucial for locating missing individuals and clearing affected areas in disaster-stricken regions of India, applicable to any state facing such calamities?",
+    "options": ["Electoral campaigns", "Rescue operations", "Cultural festivals", "Economic reforms"],
+    "correctAnswer": "Rescue operations"
   }
 ]

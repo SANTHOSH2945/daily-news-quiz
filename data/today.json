@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the proposed duration for a vehicle to be kept in another state without requiring re-registration, according to a recent government proposal applicable to states like Telangana and Andhra Pradesh?",
-    "options": ["1 year", "2 years", "3 years", "5 years"],
-    "correctAnswer": "3 years"
+    "question": "Which state's Chief Minister recently made mocking remarks about BJP president Nitin Nabin, leading to Prime Minister Modi's defense?",
+    "options": ["Uttar Pradesh", "Telangana", "West Bengal", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 2,
-    "question": "The recent government proposal regarding inter-state vehicle transfer primarily aims to simplify mobility for citizens moving between which regions within India?",
-    "options": ["Within a state", "Between states like Telangana and Andhra Pradesh", "Between cities in the same district", "For international travel"],
-    "correctAnswer": "Between states like Telangana and Andhra Pradesh"
+    "question": "Who among the following political leaders, currently serving as a Chief Minister, was mentioned in the news for criticizing BJP president Nitin Nabin?",
+    "options": ["Yogi Adityanath", "Revanth Reddy", "Mamata Banerjee", "Eknath Shinde"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 3,
-    "question": "Which central ministry is primarily responsible for proposals concerning vehicle registration and inter-state transfer rules in India?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of Road Transport and Highways", "Ministry of Commerce and Industry"],
-    "correctAnswer": "Ministry of Road Transport and Highways"
+    "question": "Prime Minister Narendra Modi recently defended BJP president Nitin Nabin after criticism from Telangana CM Revanth Reddy and which other prominent political figure?",
+    "options": ["Rahul Gandhi", "Arvind Kejriwal", "Mallikarjun Kharge", "Akhilesh Yadav"],
+    "correctAnswer": "Arvind Kejriwal"
   },
   {
     "id": 4,
-    "question": "What problem does the proposed 3-year window for inter-state vehicle use intend to alleviate for vehicle owners in India, including those in Andhra Pradesh and Telangana?",
-    "options": ["High fuel costs", "Complex re-registration processes for inter-state moves", "Lack of parking facilities", "Road tax disparities"],
-    "correctAnswer": "Complex re-registration processes for inter-state moves"
+    "question": "The news report regarding the criticism of BJP president Nitin Nabin explicitly mentioned the Chief Minister of which southern Indian state?",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Telangana"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 5,
-    "question": "If the proposal for a 3-year window for vehicle transfer is implemented, how would it affect a person moving their vehicle from Hyderabad (Telangana) to Visakhapatnam (Andhra Pradesh) for a temporary work assignment?",
-    "options": ["They would need immediate re-registration.", "They could use their vehicle for up to 3 years without re-registration.", "They would have to sell their vehicle.", "They would be exempt from all road taxes."],
-    "correctAnswer": "They could use their vehicle for up to 3 years without re-registration."
+    "question": "In the context of recent political discussions, Telangana CM Revanth Reddy's remarks were aimed at which BJP leader?",
+    "options": ["Amit Shah", "J.P. Nadda", "Nitin Nabin", "Rajnath Singh"],
+    "correctAnswer": "Nitin Nabin"
   },
   {
     "id": 6,
-    "question": "What is the primary focus of the new VB-G RAM G rural employment scheme, relevant for states like Andhra Pradesh and Telangana?",
-    "options": ["Urban infrastructure development", "Industrial growth", "Water security and disaster mitigation", "Promoting digital literacy"],
-    "correctAnswer": "Water security and disaster mitigation"
+    "question": "PM Modi defended BJP president Nitin Nabin, highlighting that Nabin was previously an MLA for which state?",
+    "options": ["Uttar Pradesh", "Bihar", "Jharkhand", "Madhya Pradesh"],
+    "correctAnswer": "Bihar"
   },
   {
     "id": 7,
-    "question": "The VB-G RAM G rural employment scheme is designed to address potential rain deficiency situations triggered by which climate phenomenon?",
-    "options": ["La Nina", "El Nino", "Monsoon depressions", "Cyclones"],
-    "correctAnswer": "El Nino"
+    "question": "The criticism against BJP president Nitin Nabin, which prompted PM Modi's defense, primarily focused on what aspect of his public persona?",
+    "options": ["His policy statements", "His relative lack of national recognition", "His administrative skills", "His parliamentary attendance"],
+    "correctAnswer": "His relative lack of national recognition"
   },
   {
     "id": 8,
-    "question": "Which local governance bodies are empowered to undertake projects for disaster preparedness and climate change challenges under the VB-G RAM G scheme?",
-    "options": ["State Legislatures", "District Collectors", "Gram Panchayats", "Municipal Corporations"],
-    "correctAnswer": "Gram Panchayats"
+    "question": "Which major political party's president was recently defended by PM Modi following mocking remarks from Telangana CM Revanth Reddy?",
+    "options": ["Congress", "BJP", "AAP", "BRS"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 9,
-    "question": "States like Andhra Pradesh and Telangana, which may face rainfall deficits, are encouraged by the VB-G RAM G scheme to strengthen what?",
-    "options": ["Industrial output", "Tourism infrastructure", "Water conservation and employment generation", "Public transport networks"],
-    "correctAnswer": "Water conservation and employment generation"
+    "question": "What quality of BJP president Nitin Nabin did Prime Minister Modi highlight as a source of pride for party members, in response to criticism including from Telangana CM?",
+    "options": ["His political experience", "His strategic acumen", "His simplicity", "His oratorical skills"],
+    "correctAnswer": "His simplicity"
   },
   {
     "id": 10,
-    "question": "Besides water security and disaster mitigation, what other key areas does the VB-G RAM G scheme focus on in rural India?",
-    "options": ["International trade agreements", "Space exploration", "Core rural infrastructure and rural livelihoods", "High-tech manufacturing"],
-    "correctAnswer": "Core rural infrastructure and rural livelihoods"
+    "question": "An unpublished report noted potential damage to which specific vehicle components when E10 cars use E20 fuel across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Metallic parts", "Rubber parts", "Glass components", "Engine block"],
+    "correctAnswer": "Rubber parts"
   },
   {
     "id": 11,
-    "question": "What is the full scope of 'disaster preparedness' projects that Gram panchayats can undertake under the VB-G RAM G scheme?",
-    "options": ["Only building cyclone shelters", "Projects for disaster preparedness and climate change challenges", "Only medical emergency response", "Urban planning initiatives"],
-    "correctAnswer": "Projects for disaster preparedness and climate change challenges"
+    "question": "What was observed regarding fuel consumption for vehicles using E20 fuel, as per the report relevant to all Indian states?",
+    "options": ["Decreased by 2-6%", "Remained unchanged", "Increased by 2-6%", "Increased by 10%"],
+    "correctAnswer": "Increased by 2-6%"
   },
   {
     "id": 12,
-    "question": "How does the VB-G RAM G scheme aim to contribute to employment generation in rural areas of states like Telangana and Andhra Pradesh?",
-    "options": ["By subsidizing private companies", "Through undertaking water conservation and rural infrastructure projects", "By promoting emigration to urban centers", "Through tax incentives for large corporations"],
-    "correctAnswer": "Through undertaking water conservation and rural infrastructure projects"
+    "question": "The report on E20 fuel mentioned that emissions from vehicles remained within what limits for general compliance in India?",
+    "options": ["International standards", "Legislative limits", "Manufacturer guidelines", "Environmental agency recommendations"],
+    "correctAnswer": "Legislative limits"
   },
   {
     "id": 13,
-    "question": "The focus on water security in the VB-G RAM G scheme is particularly crucial for regions like Telangana and Andhra Pradesh due to their vulnerability to what?",
-    "options": ["Frequent volcanic eruptions", "El Nino-triggered drought and water scarcity", "Glacial melting", "Tsunami threats"],
-    "correctAnswer": "El Nino-triggered drought and water scarcity"
+    "question": "Which type of engine, according to the report, experienced issues after durability testing with E20 fuel, unlike a BS-IV engine, a concern for vehicle owners nationwide?",
+    "options": ["BS-III naturally aspirated", "BS-V hybrid", "BS-VI turbocharged", "BS-II diesel"],
+    "correctAnswer": "BS-VI turbocharged"
   },
   {
     "id": 14,
-    "question": "What does the 'VB-G RAM G' scheme imply by 'strengthening water conservation' in states facing rainfall deficits?",
-    "options": ["Exporting water to other countries", "Building new large dams", "Implementing local-level water harvesting and management", "Reducing water consumption in urban areas only"],
-    "correctAnswer": "Implementing local-level water harvesting and management"
+    "question": "The term 'E20 fuel' indicates a blend of petrol with what percentage of ethanol, a policy impacting fuel stations across India?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "correctAnswer": "20%"
   },
   {
     "id": 15,
-    "question": "What is the stated objective of Gram panchayats undertaking projects under VB-G RAM G for 'climate change challenges'?",
-    "options": ["To fund international climate summits", "To develop local resilience against climate impacts", "To regulate global carbon emissions", "To switch to entirely renewable energy sources"],
-    "correctAnswer": "To develop local resilience against climate impacts"
+    "question": "The Indian government recently gave an extension to which messaging platform to respond to a notice regarding usernames, a policy affecting users in Telangana and Andhra Pradesh?",
+    "options": ["Telegram", "Signal", "WhatsApp", "Hike"],
+    "correctAnswer": "WhatsApp"
   },
   {
     "id": 16,
-    "question": "What growing concern for Gram Sabhas across India, including in Andhra Pradesh and Telangana, was highlighted in a recent study?",
-    "options": ["Insufficient funding", "Lack of technical expertise", "Participation fatigue", "Excessive political interference"],
-    "correctAnswer": "Participation fatigue"
+    "question": "The notice given by the government to WhatsApp was related to which specific feature, impacting user interaction nationwide?",
+    "options": ["End-to-end encryption", "Group video calls", "Usernames", "Status updates"],
+    "correctAnswer": "Usernames"
   },
   {
     "id": 17,
-    "question": "According to the study, what are the primary reasons cited for 'participation fatigue' in Gram Sabhas, which affects local governance in states like Andhra Pradesh?",
-    "options": ["Too many holidays", "Unresolved grievances and lack of visible outcomes", "Lack of internet access", "Over-reliance on technology"],
-    "correctAnswer": "Unresolved grievances and lack of visible outcomes"
+    "question": "How many additional days did the government grant WhatsApp to reply to its notice, a decision that has implications for digital governance across India?",
+    "options": ["1 day", "3 days", "5 days", "7 days"],
+    "correctAnswer": "3 days"
   },
   {
     "id": 18,
-    "question": "What practical constraints significantly hinder public engagement in Gram Sabha meetings in rural areas of Telangana and other states?",
-    "options": ["Language barriers", "Livelihood and time constraints", "Lack of formal education", "Poor transport infrastructure"],
-    "correctAnswer": "Livelihood and time constraints"
+    "question": "Prime Minister Modi's recent visit to Indonesia included discussions on bilateral cooperation in which key area, relevant to industrial development and resource security across India?",
+    "options": ["Tourism", "Critical minerals", "Agriculture subsidies", "Space exploration"],
+    "correctAnswer": "Critical minerals"
   },
   {
     "id": 19,
-    "question": "To improve Gram Sabha participation, the report suggests launching awareness missions and implementing what type of scheduling?",
-    "options": ["Weekend-only scheduling", "Evening-only scheduling", "Livelihood-sensitive scheduling", "Online-only scheduling"],
-    "correctAnswer": "Livelihood-sensitive scheduling"
+    "question": "Which specific critical mineral was mentioned in the context of Prime Minister Modi's discussions in Indonesia, highlighting its strategic importance for Indian industries?",
+    "options": ["Lithium", "Cobalt", "Nickel", "Copper"],
+    "correctAnswer": "Nickel"
   },
   {
     "id": 20,
-    "question": "Strengthening inclusive platforms in Gram Sabhas is recommended to improve the representation of which groups?",
-    "options": ["Only elected representatives", "Women and vulnerable groups", "Industrialists and entrepreneurs", "Urban residents"],
-    "correctAnswer": "Women and vulnerable groups"
+    "question": "Prime Minister Modi began his recent three-nation tour in which country, marking a diplomatic engagement for India?",
+    "options": ["Australia", "New Zealand", "Indonesia", "Malaysia"],
+    "correctAnswer": "Indonesia"
   },
   {
     "id": 21,
-    "question": "The recommendations to make Gram Sabhas more effective are expected to be implemented by which level of government or body in India?",
-    "options": ["United Nations", "International NGOs", "The relevant Indian ministry (e.g., Panchayati Raj Ministry)", "Private sector organizations"],
-    "correctAnswer": "The relevant Indian ministry (e.g., Panchayati Raj Ministry)"
+    "question": "Which Union Minister announced the government's plan to form a cooperative life insurance company, a policy initiative for financial inclusion across India?",
+    "options": ["Nirmala Sitharaman", "Amit Shah", "Piyush Goyal", "Rajnath Singh"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 22,
-    "question": "What is the fundamental role of Gram Sabhas in the context of local self-governance in states like Andhra Pradesh and Telangana?",
-    "options": ["To manage state-level finances", "To provide advisory services to the central government", "To serve as a platform for direct democracy and village-level decision-making", "To conduct national elections"],
-    "correctAnswer": "To serve as a platform for direct democracy and village-level decision-making"
+    "question": "The government plans to establish a new insurance company based on what model, aiming to benefit various communities nationwide?",
+    "options": ["Public-private partnership", "Foreign direct investment", "Cooperative", "Private equity"],
+    "correctAnswer": "Cooperative"
   },
   {
     "id": 23,
-    "question": "What does 'lack of visible outcomes' mean for a participant in a Gram Sabha, contributing to their fatigue?",
-    "options": ["Meetings are not held in person.", "Discussions and decisions do not lead to tangible changes or problem resolution.", "The meeting hall has poor lighting.", "No minutes are recorded for the meetings."],
-    "correctAnswer": "Discussions and decisions do not lead to tangible changes or problem resolution."
+    "question": "What type of insurance company is the government planning to form, as announced by Amit Shah, extending coverage to citizens across all states?",
+    "options": ["General insurance", "Health insurance", "Life insurance", "Motor insurance"],
+    "correctAnswer": "Life insurance"
   },
   {
     "id": 24,
-    "question": "The study on Gram Sabha participation highlights that for individuals in states like Telangana, balancing attendance with 'livelihood constraints' means:",
-    "options": ["They cannot afford travel to meetings.", "They must prioritize earning a living over attending meetings, especially if timings conflict.", "They prefer to send representatives instead.", "They find the topics discussed irrelevant to their daily earnings."],
-    "correctAnswer": "They must prioritize earning a living over attending meetings, especially if timings conflict."
+    "question": "India's emphasis on critical minerals, such as nickel discussed during PM Modi's visit to Indonesia, is crucial for supporting which sector's growth in states like Telangana and Andhra Pradesh?",
+    "options": ["Agricultural sector", "Manufacturing and high-tech industries", "Tourism and hospitality", "Traditional handicrafts"],
+    "correctAnswer": "Manufacturing and high-tech industries"
   },
   {
     "id": 25,
-    "question": "The call for 'strengthening inclusive platforms' in Gram Sabhas directly addresses which challenge?",
-    "options": ["Lack of technological infrastructure", "Ensuring all segments of the village community have a voice and participate equally", "Reducing administrative paperwork", "Increasing the number of Gram Sabha meetings"],
-    "correctAnswer": "Ensuring all segments of the village community have a voice and participate equally"
+    "question": "The planned cooperative life insurance company, as announced by Amit Shah, aims to extend financial inclusion to which segment of the population, including those in Telangana and Andhra Pradesh?",
+    "options": ["High-net-worth individuals", "Rural and underserved populations", "Multinational corporations", "Government employees only"],
+    "correctAnswer": "Rural and underserved populations"
   }
 ]

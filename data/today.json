@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Who was recently granted regular bail by the Telangana High Court in a POCSO case, having previously received interim bail for exams?",
-    "options": ["Bandi Sanjay Kumar", "Bandi Bhagirath", "K. Chandrashekar Rao", "T. Harish Rao"],
-    "correctAnswer": "Bandi Bhagirath"
+    "question": "According to recent reports, what is the geographical extent of the monsoon's presence across India?",
+    "options": [
+      "Southern states only",
+      "Northern states only",
+      "Entire India",
+      "Only coastal regions"
+    ],
+    "correctAnswer": "Entire India"
   },
   {
     "id": 2,
-    "question": "Bandi Bhagirath, who recently secured bail from the Telangana High Court, is the son of which prominent Union Minister?",
-    "options": ["G. Kishan Reddy", "Amit Shah", "Bandi Sanjay Kumar", "Nirmala Sitharaman"],
-    "correctAnswer": "Bandi Sanjay Kumar"
+    "question": "What percentage represents the current overall rain deficit across India, as recently reported after the monsoon's advancements?",
+    "options": [
+      "7%",
+      "14%",
+      "21%",
+      "30%"
+    ],
+    "correctAnswer": "14%"
   },
   {
     "id": 3,
-    "question": "The Telangana High Court set a bail bond of what amount for Bandi Bhagirath in connection with the POCSO case?",
-    "options": ["Rs 50,000", "Rs 1 lakh", "Rs 2 lakh", "Rs 5 lakh"],
-    "correctAnswer": "Rs 1 lakh"
+    "question": "The recent monsoon activity has resulted in what change to the overall rain deficit across India?",
+    "options": [
+      "It has increased significantly",
+      "It has remained unchanged",
+      "It has been reduced",
+      "It has been entirely eliminated"
+    ],
+    "correctAnswer": "It has been reduced"
   },
   {
     "id": 4,
-    "question": "Under which specific act was Bandi Bhagirath initially arrested in May, leading to the ongoing legal proceedings in Telangana?",
-    "options": ["IPC Section 302", "POCSO Act", "NDPS Act", "IT Act"],
-    "correctAnswer": "POCSO Act"
+    "question": "How many Indian states are currently facing considerable rain shortages despite the widespread monsoon?",
+    "options": [
+      "Five",
+      "Ten",
+      "Fifteen",
+      "Twenty"
+    ],
+    "correctAnswer": "Ten"
   },
   {
     "id": 5,
-    "question": "What was the primary reason cited for Bandi Bhagirath being granted interim bail prior to his regular bail from the Telangana High Court?",
-    "options": ["Health issues", "Family emergency", "To attend exams", "To participate in political campaigns"],
-    "correctAnswer": "To attend exams"
+    "question": "What critical agricultural activity, important for states like Telangana and Andhra Pradesh, is being hampered in states experiencing rain shortages?",
+    "options": [
+      "Harvesting operations",
+      "Post-harvest processing",
+      "Kharif crop sowing operations",
+      "Rabi crop irrigation"
+    ],
+    "correctAnswer": "Kharif crop sowing operations"
   },
   {
     "id": 6,
-    "question": "In addition to the allegations he faces, what counter-allegation did Bandi Bhagirath file in the POCSO case in Telangana?",
-    "options": ["Defamation", "Extortion", "Impersonation", "Assault"],
-    "correctAnswer": "Extortion"
+    "question": "Which specific category of crops is mentioned as being significantly affected by the current monsoon situation and rain shortages in India?",
+    "options": [
+      "Rabi crops",
+      "Cash crops only",
+      "Kharif crops",
+      "Horticultural crops"
+    ],
+    "correctAnswer": "Kharif crops"
   },
   {
     "id": 7,
-    "question": "Which specific court recently granted regular bail to the son of a Union Minister in a POCSO case in Telangana?",
-    "options": ["Supreme Court of India", "Hyderabad City Civil Court", "Telangana High Court", "Nampally Criminal Court"],
-    "correctAnswer": "Telangana High Court"
+    "question": "By what percentage has the kharif crop acreage declined this year compared to the previous year, a concern for agricultural states?",
+    "options": [
+      "10 percent",
+      "15 percent",
+      "21 percent",
+      "25 percent"
+    ],
+    "correctAnswer": "21 percent"
   },
   {
     "id": 8,
-    "question": "The allegations against Bandi Bhagirath, as heard by the Telangana High Court, involve sexual harassment against whom?",
-    "options": ["A colleague", "A minor girl", "A public official", "A family member"],
-    "correctAnswer": "A minor girl"
+    "question": "The reported 21% reduction in kharif crop acreage across India is in comparison to which specific period?",
+    "options": [
+      "The five-year average",
+      "Last year",
+      "The past decade",
+      "Pre-monsoon season"
+    ],
+    "correctAnswer": "Last year"
   },
   {
     "id": 9,
-    "question": "Which Indian space organization recently cleared a cryogenic engine for its next LVM-3 mission?",
-    "options": ["DRDO", "HAL", "ISRO", "BEL"],
-    "correctAnswer": "ISRO"
+    "question": "What future weather trend is predicted for some areas in India regarding rainfall activity, potentially impacting states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Increased heavy rainfall",
+      "Prolonged monsoon season",
+      "Another reduction in rainfall",
+      "Consistent moderate rainfall"
+    ],
+    "correctAnswer": "Another reduction in rainfall"
   },
   {
     "id": 10,
-    "question": "ISRO's LVM-3 missions, including those for which a cryogenic engine was recently cleared, are primarily launched from which Indian state, home to Sriharikota?",
-    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What kind of respite is indicated by future rainfall predictions for affected areas in India, according to recent reports?",
+    "options": [
+      "Abundant respite",
+      "Extended respite",
+      "Limited respite",
+      "No respite at all"
+    ],
+    "correctAnswer": "Limited respite"
   },
   {
     "id": 11,
-    "question": "Gaganyaan, India's ambitious human spaceflight mission, recently achieved a significant milestone related to which crucial component of its systems?",
-    "options": ["Navigation systems", "Cryogenic engines", "Parachute systems", "Solar panels"],
-    "correctAnswer": "Parachute systems"
+    "question": "A 21% reduction in kharif crop acreage primarily signals challenges for which sector in India, including states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Industrial manufacturing",
+      "Information technology",
+      "Agriculture",
+      "Service sector"
+    ],
+    "correctAnswer": "Agriculture"
   },
   {
     "id": 12,
-    "question": "Sriharikota, the primary launch site for ISRO's LVM-3 and Gaganyaan-related missions, is located in which state of India?",
-    "options": ["Telangana", "Kerala", "Andhra Pradesh", "Odisha"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What positive development regarding the monsoon has recently been observed across India, benefiting all states including Telangana and Andhra Pradesh?",
+    "options": [
+      "It has ended prematurely",
+      "It has now covered the entire country",
+      "It only affected the northern regions",
+      "It brought continuous drought"
+    ],
+    "correctAnswer": "It has now covered the entire country"
   },
   {
     "id": 13,
-    "question": "What type of engine was recently given clearance by ISRO for the upcoming LVM-3 mission, a key component for heavy payloads?",
-    "options": ["Solid rocket booster", "Liquid propulsion engine", "Cryogenic engine", "Ion thruster"],
-    "correctAnswer": "Cryogenic engine"
+    "question": "What specific problem continues to plague ten Indian states despite the widespread monsoon coverage?",
+    "options": [
+      "Excessive flooding",
+      "Pest infestations",
+      "Considerable rain shortages",
+      "High humidity levels"
+    ],
+    "correctAnswer": "Considerable rain shortages"
   },
   {
     "id": 14,
-    "question": "The 'IMAT-5 Done' announcement, related to Gaganyaan's recent progress, refers to a milestone in the development of its:",
-    "options": ["Crew module design", "Service module integration", "Integrated Main Aerodynamic Test of parachute system", "Launch vehicle assembly"],
-    "correctAnswer": "Integrated Main Aerodynamic Test of parachute system"
+    "question": "What is the general positive effect of the recent monsoon activity on India's water resources, as indicated by the rain deficit reduction?",
+    "options": [
+      "Increased overall rain deficit",
+      "No change in water levels",
+      "Reduction in overall rain deficit",
+      "Exclusive benefit to one region"
+    ],
+    "correctAnswer": "Reduction in overall rain deficit"
   },
   {
     "id": 15,
-    "question": "Which of ISRO's major rockets, used for heavy payloads and critical for missions like Gaganyaan, recently had its cryogenic engine cleared for use?",
-    "options": ["PSLV", "GSLV Mk II", "LVM-3", "SSLV"],
-    "correctAnswer": "LVM-3"
+    "question": "What specific part of the agricultural cycle for kharif crops has been negatively impacted by current conditions, affecting yields in many states?",
+    "options": [
+      "Storage facilities",
+      "Marketing and sales",
+      "Sowing operations",
+      "Fertilizer application"
+    ],
+    "correctAnswer": "Sowing operations"
   },
   {
     "id": 16,
-    "question": "Which political leader recently criticized the Centre for allowing oil companies to make 'illegitimate profit' amidst high fuel prices across India?",
-    "options": ["Rahul Gandhi", "Arvind Kejriwal", "Mamata Banerjee", "M. K. Stalin"],
-    "correctAnswer": "Arvind Kejriwal"
+    "question": "Which country's Prime Minister recently praised a significant trade pact with India, benefiting businesses in both nations?",
+    "options": [
+      "Australia",
+      "New Zealand",
+      "Canada",
+      "United Kingdom"
+    ],
+    "correctAnswer": "New Zealand"
   },
   {
     "id": 17,
-    "question": "According to Arvind Kejriwal's recent statement, what was the approximate suggested price for petrol, which he believed it should drop to from Rs 102?",
-    "options": ["Rs 72", "Rs 82", "Rs 92", "Rs 98"],
-    "correctAnswer": "Rs 82"
+    "question": "What percentage of New Zealand's exports to India will be tariff-free starting immediately under the new trade agreement?",
+    "options": [
+      "35%",
+      "42%",
+      "57%",
+      "70%"
+    ],
+    "correctAnswer": "57%"
   },
   {
     "id": 18,
-    "question": "A recent discussion on fuel prices in India, involving statements by Arvind Kejriwal, highlighted a significant decline in the global prices of what commodity?",
-    "options": ["Natural gas", "Crude oil", "Coal", "Gold"],
-    "correctAnswer": "Crude oil"
+    "question": "When will the 57% tariff-free status for New Zealand's exports to India come into effect under the new trade pact?",
+    "options": [
+      "After one year",
+      "From day one",
+      "Upon review in six months",
+      "Only for specific products"
+    ],
+    "correctAnswer": "From day one"
   },
   {
     "id": 19,
-    "question": "What specific blend of ethanol-petrol fuel did Arvind Kejriwal recently question regarding its impact, in the context of discussions on fuel prices in India?",
-    "options": ["E5", "E10", "E20", "E50"],
-    "correctAnswer": "E20"
+    "question": "What type of agreement was recently hailed by New Zealand's Prime Minister with India, aiming to boost economic ties?",
+    "options": [
+      "A military alliance",
+      "A cultural exchange program",
+      "A trade pact",
+      "An environmental treaty"
+    ],
+    "correctAnswer": "A trade pact"
   },
   {
     "id": 20,
-    "question": "Arvind Kejriwal recently sought clarifications from which industry regarding concerns over fuel prices and ethanol-blended petrol in India?",
-    "options": ["Oil marketing companies", "Automobile manufacturers", "Ethanol producers", "Agricultural sector"],
-    "correctAnswer": "Automobile manufacturers"
+    "question": "The new trade agreement is expected to enhance the presence of which country's businesses in the Indian marketplace?",
+    "options": [
+      "Indian",
+      "New Zealand",
+      "Australian",
+      "Japanese"
+    ],
+    "correctAnswer": "New Zealand"
   },
   {
     "id": 21,
-    "question": "The Supreme Court recently issued an order for the formation of a special team to conduct a survey across India. What is the primary focus of this nationwide survey?",
-    "options": ["Public health facilities", "Educational institutions", "Illegal and unsafe buildings", "Agricultural land use"],
-    "correctAnswer": "Illegal and unsafe buildings"
+    "question": "What is a significant benefit for New Zealand's exports to India under the newly announced trade pact?",
+    "options": [
+      "Strict quota limitations",
+      "A large percentage will be tariff-free",
+      "Increased import duties",
+      "Delayed market access"
+    ],
+    "correctAnswer": "A large percentage will be tariff-free"
   },
   {
     "id": 22,
-    "question": "What was the Supreme Court's strong directive to authorities regarding the survey of illegal and unsafe buildings across India?",
-    "options": ["'Proceed with caution'", "'Ensure swift action'", "'There should be no slackness'", "'Prioritize demolitions'"],
-    "correctAnswer": "'There should be no slackness'"
+    "question": "Who is the Prime Minister of New Zealand who recently announced the landmark trade pact with India?",
+    "options": [
+      "Jacinda Ardern",
+      "Chris Hipkins",
+      "Christopher Luxon",
+      "John Key"
+    ],
+    "correctAnswer": "Christopher Luxon"
   },
   {
     "id": 23,
-    "question": "The Supreme Court's order for surveying illegal and unsafe buildings aims to address which critical concern in urban and rural areas across India, including Telangana and Andhra Pradesh?",
-    "options": ["Aesthetic appeal", "Environmental impact", "Public safety and infrastructure integrity", "Property taxation"],
-    "correctAnswer": "Public safety and infrastructure integrity"
+    "question": "How is the new trade pact expected to impact the Indian marketplace regarding New Zealand businesses?",
+    "options": [
+      "It will reduce their presence",
+      "It will have no impact",
+      "It will significantly enhance their presence",
+      "It will limit their product range"
+    ],
+    "correctAnswer": "It will significantly enhance their presence"
   },
   {
     "id": 24,
-    "question": "Which judicial body recently ordered a special team to survey illegal and unsafe buildings, a directive applicable to all Indian states?",
-    "options": ["High Courts of respective states", "National Green Tribunal", "Supreme Court of India", "Central Administrative Tribunal"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "What specific trade barrier is being significantly reduced for New Zealand's exports to India under the new agreement?",
+    "options": [
+      "Quotas",
+      "Non-tariff barriers",
+      "Embargoes",
+      "Tariffs"
+    ],
+    "correctAnswer": "Tariffs"
   },
   {
     "id": 25,
-    "question": "The mandate given by the Supreme Court to survey illegal and unsafe buildings is intended to ensure what key outcome in construction and urban planning across India?",
-    "options": ["Increased housing supply", "Reduced construction costs", "Adherence to safety standards and legal norms", "Faster project approvals"],
-    "correctAnswer": "Adherence to safety standards and legal norms"
+    "question": "What is the overarching objective of New Zealand's trade initiative with India, as described in the news?",
+    "options": [
+      "To limit trade to essential goods",
+      "To create a closed economic bloc",
+      "To boost New Zealand's business presence in India",
+      "To impose stricter regulations on Indian imports"
+    ],
+    "correctAnswer": "To boost New Zealand's business presence in India"
   }
 ]

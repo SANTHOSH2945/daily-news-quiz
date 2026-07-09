@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to recent reports, what is the geographical extent of the monsoon's presence across India?",
-    "options": [
-      "Southern states only",
-      "Northern states only",
-      "Entire India",
-      "Only coastal regions"
-    ],
-    "correctAnswer": "Entire India"
+    "question": "What is the primary Indian human spaceflight program for which Australia is providing a temporary space tracking terminal?",
+    "options": ["Chandrayaan-3", "Mangalyaan", "Gaganyaan", "Aditya-L1"],
+    "correctAnswer": "Gaganyaan"
   },
   {
     "id": 2,
-    "question": "What percentage represents the current overall rain deficit across India, as recently reported after the monsoon's advancements?",
-    "options": [
-      "7%",
-      "14%",
-      "21%",
-      "30%"
-    ],
-    "correctAnswer": "14%"
+    "question": "The temporary space tracking terminal from Australia will be located on which islands to support India's space mission?",
+    "options": ["Andaman & Nicobar", "Lakshadweep", "Cocos (Keeling) Islands", "Maldives"],
+    "correctAnswer": "Cocos (Keeling) Islands"
   },
   {
     "id": 3,
-    "question": "The recent monsoon activity has resulted in what change to the overall rain deficit across India?",
-    "options": [
-      "It has increased significantly",
-      "It has remained unchanged",
-      "It has been reduced",
-      "It has been entirely eliminated"
-    ],
-    "correctAnswer": "It has been reduced"
+    "question": "Which Indian state hosts the Satish Dhawan Space Centre (SDSC), the primary launch site for ISRO's major missions like Gaganyaan?",
+    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 4,
-    "question": "How many Indian states are currently facing considerable rain shortages despite the widespread monsoon?",
-    "options": [
-      "Five",
-      "Ten",
-      "Fifteen",
-      "Twenty"
-    ],
-    "correctAnswer": "Ten"
+    "question": "Australia's support for Gaganyaan aims to ensure continuous communication with which specific component of the mission?",
+    "options": ["Launch vehicle", "Orbital module", "Crew module", "Ground control"],
+    "correctAnswer": "Crew module"
   },
   {
     "id": 5,
-    "question": "What critical agricultural activity, important for states like Telangana and Andhra Pradesh, is being hampered in states experiencing rain shortages?",
-    "options": [
-      "Harvesting operations",
-      "Post-harvest processing",
-      "Kharif crop sowing operations",
-      "Rabi crop irrigation"
-    ],
-    "correctAnswer": "Kharif crop sowing operations"
+    "question": "What recent Indian space achievement was highlighted by PM Modi in the context of discussions with Australia?",
+    "options": ["First private rocket launch", "Successful lunar south pole landing", "Mission to Venus", "Discovery of new exoplanet"],
+    "correctAnswer": "Successful lunar south pole landing"
   },
   {
     "id": 6,
-    "question": "Which specific category of crops is mentioned as being significantly affected by the current monsoon situation and rain shortages in India?",
-    "options": [
-      "Rabi crops",
-      "Cash crops only",
-      "Kharif crops",
-      "Horticultural crops"
-    ],
-    "correctAnswer": "Kharif crops"
+    "question": "The support from Australia for Gaganyaan is specifically for which phase of the mission?",
+    "options": ["Design and development", "Manufacturing of components", "Upcoming test flights", "Post-mission analysis"],
+    "correctAnswer": "Upcoming test flights"
   },
   {
     "id": 7,
-    "question": "By what percentage has the kharif crop acreage declined this year compared to the previous year, a concern for agricultural states?",
-    "options": [
-      "10 percent",
-      "15 percent",
-      "21 percent",
-      "25 percent"
-    ],
-    "correctAnswer": "21 percent"
+    "question": "Which Indian space agency is primarily responsible for the Gaganyaan human spaceflight programme?",
+    "options": ["DRDO", "HAL", "ISRO", "BEL"],
+    "correctAnswer": "ISRO"
   },
   {
     "id": 8,
-    "question": "The reported 21% reduction in kharif crop acreage across India is in comparison to which specific period?",
-    "options": [
-      "The five-year average",
-      "Last year",
-      "The past decade",
-      "Pre-monsoon season"
-    ],
-    "correctAnswer": "Last year"
+    "question": "Beyond the Gaganyaan mission, India also aims to achieve what ambitious goal in space, as mentioned by PM Modi?",
+    "options": ["Send a probe to the Sun's surface", "Establish a permanent lunar base", "Build its own space station", "Develop a space tourism industry"],
+    "correctAnswer": "Build its own space station"
   },
   {
     "id": 9,
-    "question": "What future weather trend is predicted for some areas in India regarding rainfall activity, potentially impacting states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Increased heavy rainfall",
-      "Prolonged monsoon season",
-      "Another reduction in rainfall",
-      "Consistent moderate rainfall"
-    ],
-    "correctAnswer": "Another reduction in rainfall"
+    "question": "The joint announcement regarding space cooperation was made by the Prime Minister of India and which other country?",
+    "options": ["USA", "Japan", "Russia", "Australia"],
+    "correctAnswer": "Australia"
   },
   {
     "id": 10,
-    "question": "What kind of respite is indicated by future rainfall predictions for affected areas in India, according to recent reports?",
-    "options": [
-      "Abundant respite",
-      "Extended respite",
-      "Limited respite",
-      "No respite at all"
-    ],
-    "correctAnswer": "Limited respite"
+    "question": "The Indian lunar south pole landing, highlighted by PM Modi, was accomplished by which specific mission?",
+    "options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Lunar Reconnaissance Orbiter"],
+    "correctAnswer": "Chandrayaan-3"
   },
   {
     "id": 11,
-    "question": "A 21% reduction in kharif crop acreage primarily signals challenges for which sector in India, including states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Industrial manufacturing",
-      "Information technology",
-      "Agriculture",
-      "Service sector"
-    ],
-    "correctAnswer": "Agriculture"
+    "question": "The temporary space tracking terminal will facilitate communication during Gaganyaan's journey, which originates from a launchpad in which Indian state?",
+    "options": ["Odisha", "Gujarat", "Andhra Pradesh", "Maharashtra"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 12,
-    "question": "What positive development regarding the monsoon has recently been observed across India, benefiting all states including Telangana and Andhra Pradesh?",
-    "options": [
-      "It has ended prematurely",
-      "It has now covered the entire country",
-      "It only affected the northern regions",
-      "It brought continuous drought"
-    ],
-    "correctAnswer": "It has now covered the entire country"
+    "question": "The Indian space program's advancements, including Gaganyaan, significantly rely on infrastructure located in states such as Andhra Pradesh for its operations. What is this primary infrastructure?",
+    "options": ["Satellite fabrication units", "Rocket propulsion labs", "Launch vehicle integration facilities", "Launchpads and mission control centers"],
+    "correctAnswer": "Launchpads and mission control centers"
   },
   {
     "id": 13,
-    "question": "What specific problem continues to plague ten Indian states despite the widespread monsoon coverage?",
-    "options": [
-      "Excessive flooding",
-      "Pest infestations",
-      "Considerable rain shortages",
-      "High humidity levels"
-    ],
-    "correctAnswer": "Considerable rain shortages"
+    "question": "The Supreme Court's recent ruling reinforces the mandatory reporting of child sex abuse under the POCSO Act. This legal framework is enforceable across all states and union territories, including which South Indian state known for its child welfare initiatives?",
+    "options": ["Goa", "Kerala", "Andhra Pradesh", "Punjab"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 14,
-    "question": "What is the general positive effect of the recent monsoon activity on India's water resources, as indicated by the rain deficit reduction?",
-    "options": [
-      "Increased overall rain deficit",
-      "No change in water levels",
-      "Reduction in overall rain deficit",
-      "Exclusive benefit to one region"
-    ],
-    "correctAnswer": "Reduction in overall rain deficit"
+    "question": "The SC ruling on POCSO prosecution emphasizes responsibility for not reporting. At the state level, which entity in Telangana would primarily be responsible for implementing such directives regarding child protection?",
+    "options": ["State Election Commission", "Department of Women, Children, Disabled and Senior Citizens", "State Tourism Board", "Department of Industries and Commerce"],
+    "correctAnswer": "Department of Women, Children, Disabled and Senior Citizens"
   },
   {
     "id": 15,
-    "question": "What specific part of the agricultural cycle for kharif crops has been negatively impacted by current conditions, affecting yields in many states?",
-    "options": [
-      "Storage facilities",
-      "Marketing and sales",
-      "Sowing operations",
-      "Fertilizer application"
-    ],
-    "correctAnswer": "Sowing operations"
+    "question": "The Protection of Children from Sexual Offences (POCSO) Act is a central legislation. Its effective implementation relies heavily on the state police forces. In states like Andhra Pradesh, who is ultimately responsible for ensuring adherence to these legal mandates?",
+    "options": ["Local municipal corporations", "State Director General of Police (DGP)", "Public Works Department", "State Forest Department"],
+    "correctAnswer": "State Director General of Police (DGP)"
   },
   {
     "id": 16,
-    "question": "Which country's Prime Minister recently praised a significant trade pact with India, benefiting businesses in both nations?",
-    "options": [
-      "Australia",
-      "New Zealand",
-      "Canada",
-      "United Kingdom"
-    ],
-    "correctAnswer": "New Zealand"
+    "question": "The recent Supreme Court judgment regarding failure to report child sex abuse primarily affects which professional groups, including those in schools in states like Telangana?",
+    "options": ["Real estate agents", "Headmasters and school authorities", "Farmers", "Software engineers"],
+    "correctAnswer": "Headmasters and school authorities"
   },
   {
     "id": 17,
-    "question": "What percentage of New Zealand's exports to India will be tariff-free starting immediately under the new trade agreement?",
-    "options": [
-      "35%",
-      "42%",
-      "57%",
-      "70%"
-    ],
-    "correctAnswer": "57%"
+    "question": "The SC's directive strengthens the legal framework for child protection in India. Which part of the Indian Constitution broadly empowers states like Andhra Pradesh to legislate on public order and police, including the enforcement of such central laws?",
+    "options": ["Article 370", "Article 246", "Seventh Schedule (State List)", "Article 14"],
+    "correctAnswer": "Seventh Schedule (State List)"
   },
   {
     "id": 18,
-    "question": "When will the 57% tariff-free status for New Zealand's exports to India come into effect under the new trade pact?",
-    "options": [
-      "After one year",
-      "From day one",
-      "Upon review in six months",
-      "Only for specific products"
-    ],
-    "correctAnswer": "From day one"
+    "question": "India and Australia have unlocked 'PACTS' to boost defence and tech ties. Hyderabad, in Telangana, is a prominent hub for defence manufacturing and research. How might these national level pacts potentially benefit states with significant defence industries like Telangana?",
+    "options": ["By decreasing agricultural exports", "By attracting foreign investment and technological transfer in defence sector", "By reducing tourism", "By increasing reliance on imported goods"],
+    "correctAnswer": "By attracting foreign investment and technological transfer in defence sector"
   },
   {
     "id": 19,
-    "question": "What type of agreement was recently hailed by New Zealand's Prime Minister with India, aiming to boost economic ties?",
-    "options": [
-      "A military alliance",
-      "A cultural exchange program",
-      "A trade pact",
-      "An environmental treaty"
-    ],
-    "correctAnswer": "A trade pact"
+    "question": "The agreement between India and Australia includes a deal for uranium supply. Which Indian state is known to have significant uranium reserves, potentially contributing to India's energy security efforts?",
+    "options": ["West Bengal", "Assam", "Uttar Pradesh", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 20,
-    "question": "The new trade agreement is expected to enhance the presence of which country's businesses in the Indian marketplace?",
-    "options": [
-      "Indian",
-      "New Zealand",
-      "Australian",
-      "Japanese"
-    ],
-    "correctAnswer": "New Zealand"
+    "question": "India's efforts to deepen Indo-Australian defence cooperation are part of a broader strategy to enhance national security. States like Telangana, with their strategic industrial presence, play a supporting role in which aspect of this national objective?",
+    "options": ["Agricultural production", "Healthcare infrastructure", "Defence innovation and manufacturing", "Tourism development"],
+    "correctAnswer": "Defence innovation and manufacturing"
   },
   {
     "id": 21,
-    "question": "What is a significant benefit for New Zealand's exports to India under the newly announced trade pact?",
-    "options": [
-      "Strict quota limitations",
-      "A large percentage will be tariff-free",
-      "Increased import duties",
-      "Delayed market access"
-    ],
-    "correctAnswer": "A large percentage will be tariff-free"
+    "question": "The joint declaration to deepen Indo-Australian defence cooperation could lead to advancements in technology transfer. For states like Telangana that host numerous research and development institutions, this could signify an opportunity for:",
+    "options": ["Increased migration of skilled workers", "Development of new IT parks", "Enhanced collaborations in defence and aerospace R&D", "Expansion of traditional crafts industries"],
+    "correctAnswer": "Enhanced collaborations in defence and aerospace R&D"
   },
   {
     "id": 22,
-    "question": "Who is the Prime Minister of New Zealand who recently announced the landmark trade pact with India?",
-    "options": [
-      "Jacinda Ardern",
-      "Chris Hipkins",
-      "Christopher Luxon",
-      "John Key"
-    ],
-    "correctAnswer": "Christopher Luxon"
+    "question": "PM Modi and PM Albanese rallied for peace amid global flare-ups, underscoring India's role in global stability. This includes maintaining strong domestic defence capabilities. How do states like Telangana contribute to India's domestic defence manufacturing?",
+    "options": ["Primarily through textile production", "As a major hub for defence public sector undertakings and private defence industries", "By offering religious tourism sites", "Through large-scale fishery operations"],
+    "correctAnswer": "As a major hub for defence public sector undertakings and private defence industries"
   },
   {
     "id": 23,
-    "question": "How is the new trade pact expected to impact the Indian marketplace regarding New Zealand businesses?",
-    "options": [
-      "It will reduce their presence",
-      "It will have no impact",
-      "It will significantly enhance their presence",
-      "It will limit their product range"
-    ],
-    "correctAnswer": "It will significantly enhance their presence"
+    "question": "The 'PACTS' between India and Australia aim to boost defence and technology ties. This directly impacts India's capacity building in advanced sectors. What general impact would such national initiatives have on states with robust technology sectors, such as Telangana and Andhra Pradesh?",
+    "options": ["A decline in educational institutions", "Stagnation of economic growth", "Stimulation of innovation and job creation", "Increased reliance on manual labor"],
+    "correctAnswer": "Stimulation of innovation and job creation"
   },
   {
     "id": 24,
-    "question": "What specific trade barrier is being significantly reduced for New Zealand's exports to India under the new agreement?",
-    "options": [
-      "Quotas",
-      "Non-tariff barriers",
-      "Embargoes",
-      "Tariffs"
-    ],
-    "correctAnswer": "Tariffs"
+    "question": "India's secure deal for uranium supply is crucial for its nuclear energy program. While not explicitly mentioned in the news, which of the following states, including Andhra Pradesh, has planned or operational nuclear power projects or facilities related to nuclear fuel cycle?",
+    "options": ["Punjab", "Goa", "Bihar", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 25,
-    "question": "What is the overarching objective of New Zealand's trade initiative with India, as described in the news?",
-    "options": [
-      "To limit trade to essential goods",
-      "To create a closed economic bloc",
-      "To boost New Zealand's business presence in India",
-      "To impose stricter regulations on Indian imports"
-    ],
-    "correctAnswer": "To boost New Zealand's business presence in India"
+    "question": "The deepening of Indo-Australian defence cooperation is expected to strengthen India's strategic autonomy. This national goal benefits from the industrial and technological base distributed across various states. In Telangana, this includes the presence of which major defence sector entities?",
+    "options": ["Large-scale dairy farms", "Central research institutes for agriculture", "Bharat Dynamics Limited (BDL) and Mishra Dhatu Nigam Limited (MIDHANI)", "Extensive coal mines"],
+    "correctAnswer": "Bharat Dynamics Limited (BDL) and Mishra Dhatu Nigam Limited (MIDHANI)"
   }
 ]

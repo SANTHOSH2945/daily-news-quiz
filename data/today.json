@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which major IT hub in Telangana is a key player in India's \"chips\" manufacturing ecosystem, as highlighted by the Prime Minister's vision for new manufacturing ecosystems?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which Indian food safety regulator recently issued notices to alcohol manufacturers regarding misleading 'aged' claims and flavour violations?",
+    "options": ["BIS", "FSSAI", "CDSCO", "NMC"],
+    "correctAnswer": "FSSAI"
   },
   {
     "id": 2,
-    "question": "Which state, with a significant coastline and multiple ports like Visakhapatnam, is poised to benefit from India's \"ships\" manufacturing ecosystem vision, as mentioned by the Prime Minister?",
-    "options": ["Kerala", "Odisha", "Gujarat", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What is one of the primary concerns for which the FSSAI issued notices to alcohol makers?",
+    "options": ["Excessive sugar content", "Misleading 'aged' claims", "High alcohol percentage", "Unregistered distilleries"],
+    "correctAnswer": "Misleading 'aged' claims"
   },
   {
     "id": 3,
-    "question": "What type of advanced industrial development, crucial for the \"chips\" ecosystem, is Telangana actively pursuing with its existing IT and electronics infrastructure?",
-    "options": ["Textile manufacturing", "Semiconductor fabrication", "Agricultural processing", "Heavy machinery"],
-    "correctAnswer": "Semiconductor fabrication"
+    "question": "What action are alcohol companies required to take in response to the FSSAI notices?",
+    "options": ["Cease production immediately", "Increase advertising budgets", "Justify why regulatory action shouldn't be enforced", "Submit new product labels for approval"],
+    "correctAnswer": "Justify why regulatory action shouldn't be enforced"
   },
   {
     "id": 4,
-    "question": "Andhra Pradesh's long coastline and existing port infrastructure make it a strategic location for which aspect of India's new manufacturing ecosystems, specifically the \"ships\" segment?",
-    "options": ["Automobile assembly", "Pharmaceutical production", "Shipbuilding and maritime industries", "Food processing"],
-    "correctAnswer": "Shipbuilding and maritime industries"
+    "question": "What type of violations, besides misleading age claims, are alcohol manufacturers being investigated for by the FSSAI?",
+    "options": ["Price fixing", "Labour law infringements", "Unauthorised flavours", "Plastic packaging use"],
+    "correctAnswer": "Unauthorised flavours"
   },
   {
     "id": 5,
-    "question": "With E25 fuel being tested in India, what agricultural product, widely grown in states like Telangana and Andhra Pradesh, is a primary source for ethanol production?",
-    "options": ["Cotton", "Groundnut", "Sugarcane", "Chilli"],
-    "correctAnswer": "Sugarcane"
+    "question": "The FSSAI is scheduled to meet with which groups next week to discuss the issues with alcohol makers?",
+    "options": ["Consumer protection agencies", "International liquor brands", "Industry associations and FSSAI", "Government tax departments"],
+    "correctAnswer": "Industry associations and FSSAI"
   },
   {
     "id": 6,
-    "question": "The testing of E25 (ethanol-blended petrol) fuel in India has significant implications for which sector, particularly in states with substantial agricultural output like Andhra Pradesh and Telangana?",
-    "options": ["Mining industry", "Healthcare sector", "Biofuel and agricultural sector", "Tourism industry"],
-    "correctAnswer": "Biofuel and agricultural sector"
+    "question": "Which Indian regulatory body proposed limiting identical brand names for various medications to improve patient safety?",
+    "options": ["Ministry of Health and Family Welfare", "Indian Medical Association", "Central Drugs Standard Control Organisation (CDSCO)", "National Pharmaceutical Pricing Authority"],
+    "correctAnswer": "Central Drugs Standard Control Organisation (CDSCO)"
   },
   {
     "id": 7,
-    "question": "Petroleum Minister Hardeep Singh Puri confirmed E25 fuel is undergoing testing. What does 'E25' primarily signify in the context of fuel?",
-    "options": ["Electric vehicle battery type", "25% ethanol-blended petrol", "Euro 25 emission standard", "25% CNG blend"],
-    "correctAnswer": "25% ethanol-blended petrol"
+    "question": "What is the primary aim of the CDSCO's proposal to limit brand name extensions across unrelated drugs?",
+    "options": ["Increase drug prices", "Reduce manufacturing costs", "Improve patient safety and reduce consumer confusion", "Promote new drug development"],
+    "correctAnswer": "Improve patient safety and reduce consumer confusion"
   },
   {
     "id": 8,
-    "question": "The recent introduction of once-a-week insulin shots in India offers a new treatment option for patients suffering from which chronic condition prevalent across states like Telangana and Andhra Pradesh?",
-    "options": ["Hypertension", "Asthma", "Diabetes", "Arthritis"],
-    "correctAnswer": "Diabetes"
+    "question": "What action is the Central Drugs Standard Control Organisation (CDSCO) currently seeking from the public regarding its initiative on drug branding?",
+    "options": ["Donations", "Public feedback", "Volunteer support", "Market research reports"],
+    "correctAnswer": "Public feedback"
   },
   {
     "id": 9,
-    "question": "How frequently does the new insulin alternative, recently introduced in India for suitable patients, require administration?",
-    "options": ["Daily", "Bi-weekly", "Once a month", "Once a week"],
-    "correctAnswer": "Once a week"
+    "question": "According to the CDSCO, pharmaceutical companies may need to rethink which aspect of their different products?",
+    "options": ["Their pricing strategies", "Their distribution networks", "Their branding approaches", "Their research and development focus"],
+    "correctAnswer": "Their branding approaches"
   },
   {
     "id": 10,
-    "question": "The new once-a-week insulin aims to significantly reduce the frequency of injections from daily to approximately how many times annually for eligible patients?",
-    "options": ["365", "100", "52", "12"],
-    "correctAnswer": "52"
+    "question": "The CDSCO's new initiative primarily focuses on ensuring brand names appropriately reflect the unique characteristics of what?",
+    "options": ["Pharmaceutical companies", "Drug packaging", "Each medication", "Marketing campaigns"],
+    "correctAnswer": "Each medication"
   },
   {
     "id": 11,
-    "question": "The Supreme Court's ruling regarding the failure to report child sex abuse strengthens the enforcement of which crucial act across all Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Juvenile Justice Act", "Protection of Children from Sexual Offences (POCSO) Act", "Domestic Violence Act", "Right to Education Act"],
-    "correctAnswer": "Protection of Children from Sexual Offences (POCSO) Act"
+    "question": "Which national body issues conditional renewal letters for MBBS seats to medical colleges in India?",
+    "options": ["Medical Council of India (MCI)", "All India Council for Technical Education (AICTE)", "National Medical Commission (NMC)", "University Grants Commission (UGC)"],
+    "correctAnswer": "National Medical Commission (NMC)"
   },
   {
     "id": 12,
-    "question": "In light of the Supreme Court's ruling, what action can be taken against individuals, such as a headmistress, who fail to inform authorities about child sex abuse?",
-    "options": ["Community service", "Fine", "Prosecution under POCSO Act", "Counseling"],
-    "correctAnswer": "Prosecution under POCSO Act"
+    "question": "Approximately how many medical colleges in India recently received conditional renewal letters for MBBS seats?",
+    "options": ["Under 100", "Between 100 and 500", "Over 800", "Exactly 70"],
+    "correctAnswer": "Over 800"
   },
   {
     "id": 13,
-    "question": "While Delhi was ranked 120th in the Global Liveability Index, which major city in Telangana often features prominently in surveys for top Indian cities based on quality of life and urban infrastructure?",
-    "options": ["Warangal", "Vijayawada", "Hyderabad", "Guntur"],
-    "correctAnswer": "Hyderabad"
+    "question": "What is the deadline for medical institutions to rectify deficiencies as per the National Medical Commission's conditional renewal letters?",
+    "options": ["One week", "Fifteen days", "Forty-five days", "Three months"],
+    "correctAnswer": "Forty-five days"
   },
   {
     "id": 14,
-    "question": "For states like Andhra Pradesh and Telangana, what is a key factor assessed in global liveability indices that urban planners aim to continuously improve in their major cities like Visakhapatnam and Hyderabad?",
-    "options": ["Agricultural yield", "Rural electrification", "Infrastructure and public services", "Forest cover"],
-    "correctAnswer": "Infrastructure and public services"
+    "question": "What new mechanism has the National Medical Commission introduced to replace routine annual inspections for continuous oversight?",
+    "options": ["Online surveys", "Peer reviews", "Surprise assessments", "Student feedback reports"],
+    "correctAnswer": "Surprise assessments"
   },
   {
     "id": 15,
-    "question": "The Global Liveability Index measures various factors including healthcare and education. What is one crucial aspect that cities in Andhra Pradesh and Telangana strive to excel in to improve their liveability scores and attract investment?",
-    "options": ["Low agricultural subsidies", "High unemployment rates", "Robust healthcare and educational facilities", "Decentralized governance"],
-    "correctAnswer": "Robust healthcare and educational facilities"
+    "question": "What could be a consequence for medical colleges failing to comply with the National Medical Commission's standards after receiving conditional renewal letters?",
+    "options": ["Increased funding", "Reduced student intake or suspended admissions", "Extended deadlines", "Awards and recognition"],
+    "correctAnswer": "Reduced student intake or suspended admissions"
   },
   {
     "id": 16,
-    "question": "While referring to demographic shifts, the Union Home Minister's statement highlights concerns relevant to states with porous borders or extensive coastlines. Which state among the following, with a long coastline, would be particularly sensitive to potential issues of illegal immigration through its maritime borders?",
-    "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "How many medical colleges and hospitals in India have reportedly failed to link their CCTV systems with the National Medical Commission's control center?",
+    "options": ["10", "30", "70", "120"],
+    "correctAnswer": "70"
   },
   {
     "id": 17,
-    "question": "The issue of demographic shifts due to illegal immigration, highlighted by the Home Minister, can impact various aspects of a state. Which of these is a direct consequence that might be observed in regions, including potentially coastal areas of Andhra Pradesh?",
-    "options": ["Increased tourism", "Improved public services", "Strain on local resources and infrastructure", "Boost in agricultural output"],
-    "correctAnswer": "Strain on local resources and infrastructure"
+    "question": "Since which year has the National Medical Commission been issuing directives for compliance with mandatory CCTV norms for medical colleges?",
+    "options": ["2018", "2020", "2022", "2023"],
+    "correctAnswer": "2022"
   },
   {
     "id": 18,
-    "question": "A recent study highlighted that prolonged desk jobs increase cancer risk. This health concern is particularly relevant for the rapidly growing workforce in which major IT and corporate hub in Telangana?",
-    "options": ["Karimnagar", "Warangal", "Hyderabad", "Khammam"],
-    "correctAnswer": "Hyderabad"
+    "question": "What specific technological compliance is mandated by the National Medical Commission for medical colleges and hospitals for remote monitoring?",
+    "options": ["Biometric attendance systems", "High-speed internet access", "CCTV systems linkage", "Digital record keeping"],
+    "correctAnswer": "CCTV systems linkage"
   },
   {
     "id": 19,
-    "question": "What lifestyle factor, increasingly common in modern professional environments in cities like Hyderabad and Vijayawada, has been identified by studies as a potential silent cancer risk?",
-    "options": ["Regular outdoor sports", "Balanced diet", "Prolonged sedentary behavior", "Frequent short breaks"],
-    "correctAnswer": "Prolonged sedentary behavior"
+    "question": "What could be the appropriate regulatory action by the National Medical Commission against institutions failing to comply with mandatory CCTV norms?",
+    "options": ["Issuing commendations", "Granting extensions automatically", "Imposing fines or other regulatory measures", "Providing additional grants"],
+    "correctAnswer": "Imposing fines or other regulatory measures"
   },
   {
     "id": 20,
-    "question": "The Prime Minister emphasized new manufacturing ecosystems, specifically \"chips.\" Which specific high-tech sector, critical for advanced technology and having a strong presence in Telangana, aligns with the \"chips\" aspect?",
-    "options": ["Textile manufacturing", "Aerospace component production", "Semiconductor and electronics manufacturing", "Biotechnology research"],
-    "correctAnswer": "Semiconductor and electronics manufacturing"
+    "question": "The National Medical Commission's mandatory CCTV norms primarily aim to ensure what in medical colleges?",
+    "options": ["Student privacy", "Marketing efforts", "Continuous oversight and maintenance of standards", "Reducing electricity consumption"],
+    "correctAnswer": "Continuous oversight and maintenance of standards"
   },
   {
     "id": 21,
-    "question": "With a focus on \"ships\" in India's manufacturing vision, which major port city in Andhra Pradesh is a key maritime hub and a potential center for shipbuilding and related industries?",
-    "options": ["Nellore", "Tirupati", "Visakhapatnam", "Kakinada"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What does FSSAI stand for, the Indian food safety regulator mentioned in the news?",
+    "options": ["Food Standards and Safety Authority of India", "Federal System for Safe Agro-Industries", "Food Safety and Standards Authority of India", "Forum for Sustainable Supply of Agricultural Imports"],
+    "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
     "id": 22,
-    "question": "What broad economic initiative, encompassing self-reliance and boosting domestic production, is the Indian Prime Minister promoting, which is highly relevant to industrial growth in states like Telangana and Andhra Pradesh?",
-    "options": ["Skill India Mission", "Digital India Campaign", "Atmanirbhar Bharat Abhiyan", "Swachh Bharat Abhiyan"],
-    "correctAnswer": "Atmanirbhar Bharat Abhiyan"
+    "question": "What does CDSCO stand for, the Indian drug regulator mentioned in the news?",
+    "options": ["Central Directorate of Scientific and Clinical Operations", "Central Drugs Standard Control Organisation", "Clinical Drug Safety and Compliance Office", "Council for Drug Surveillance and Quality Oversight"],
+    "correctAnswer": "Central Drugs Standard Control Organisation"
   },
   {
     "id": 23,
-    "question": "Beyond traditional manufacturing, the \"chips to ships\" vision includes promoting high-tech industries. Which specific type of industry, prominent in Hyderabad, is a core component of the \"chips\" ecosystem?",
-    "options": ["Pharmaceutical production", "IT hardware and electronics design", "Chemical processing", "Automobile manufacturing"],
-    "correctAnswer": "IT hardware and electronics design"
+    "question": "What does NMC stand for, the Indian medical education regulator mentioned in the news?",
+    "options": ["National Medical Council", "New Medical Commission", "National Medical Commission", "National Maternity Care"],
+    "correctAnswer": "National Medical Commission"
   },
   {
     "id": 24,
-    "question": "What specific strategic advantage does Andhra Pradesh offer for the \"ships\" component of India's new manufacturing ecosystems, facilitating maritime industry growth?",
-    "options": ["Abundant mineral resources", "High agricultural productivity", "Extensive coastline with natural deep-water ports", "Large forest cover"],
-    "correctAnswer": "Extensive coastline with natural deep-water ports"
+    "question": "The conditional renewal letters issued by the National Medical Commission to medical colleges are specifically for seats related to which course?",
+    "options": ["MD/MS", "BDS", "MBBS", "BAMS"],
+    "correctAnswer": "MBBS"
   },
   {
     "id": 25,
-    "question": "The development of new manufacturing ecosystems in India, as discussed by the Prime Minister, aims to generate what primary economic benefit, particularly important for states like Telangana and Andhra Pradesh?",
-    "options": ["Increased reliance on imports", "Decline in service sector", "Creation of employment opportunities and economic growth", "Reduction in foreign investment"],
-    "correctAnswer": "Creation of employment opportunities and economic growth"
+    "question": "The National Medical Commission's new mechanism of surprise assessments aims to ensure colleges maintain standards throughout which period?",
+    "options": ["The admission period only", "The examination period only", "The entire academic year", "During accreditation cycles only"],
+    "correctAnswer": "The entire academic year"
   }
 ]

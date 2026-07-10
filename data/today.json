@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary objective of the UDAN scheme, which aims to boost regional aviation connectivity across India, including states like Telangana and Andhra Pradesh?",
-    "options": [
-      "To privatize all regional airports.",
-      "To make flying affordable for all citizens.",
-      "To exclusively develop international flight routes.",
-      "To provide free air travel to government officials."
-    ],
-    "correctAnswer": "To make flying affordable for all citizens."
+    "question": "Which Union Ministry recently issued fresh directions to all state governments, including Telangana and Andhra Pradesh, regarding the National Anthem and National Song?",
+    "options": ["Ministry of Culture", "Ministry of Education", "Ministry of Home Affairs", "Ministry of External Affairs"],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 2,
-    "question": "According to the news, what was a significant challenge faced by the initial phase of the UDAN scheme?",
-    "options": [
-      "Lack of interest from passengers.",
-      "Excessive government funding.",
-      "Sustainability challenges for airlines.",
-      "Absence of regional airports."
-    ],
-    "correctAnswer": "Sustainability challenges for airlines."
+    "question": "The Ministry of Home Affairs (MHA) recently reiterated rules for the performance of which two national symbols?",
+    "options": ["National Flag and National Emblem", "National Anthem and National Song", "National Animal and National Bird", "National River and National Flower"],
+    "correctAnswer": "National Anthem and National Song"
   },
   {
     "id": 3,
-    "question": "What is a key new focus area for the modified UDAN scheme, now referred to as UDAN 2.0?",
-    "options": [
-      "Focus solely on metro cities.",
-      "International route expansion.",
-      "Airport development and broader ecosystem support.",
-      "Disinvestment in aviation infrastructure."
-    ],
-    "correctAnswer": "Airport development and broader ecosystem support."
+    "question": "What specific aspect of the National Anthem and National Song's performance did the MHA recently emphasize for strict compliance?",
+    "options": ["Duration and speed", "Crowd participation", "Correct script and pronunciation", "Public address system quality"],
+    "correctAnswer": "Correct script and pronunciation"
   },
   {
     "id": 4,
-    "question": "UDAN 2.0 plans to integrate which type of aircraft to strengthen India's regional aviation network?",
-    "options": [
-      "Large-bodied international jets.",
-      "Only imported private jets.",
-      "Indigenous aircraft.",
-      "Cargo-specific planes."
-    ],
-    "correctAnswer": "Indigenous aircraft."
+    "question": "According to the MHA's recent directions, when both are performed, which national symbol should be sung first?",
+    "options": ["The National Anthem", "The National Song", "Either can be first", "A regional patriotic song"],
+    "correctAnswer": "The National Song"
   },
   {
     "id": 5,
-    "question": "What kind of financial support is being increased under UDAN 2.0 to foster a self-sustaining regional aviation network in India, benefiting states like Telangana?",
-    "options": [
-      "International loans.",
-      "Private investments only.",
-      "Increased financial aid.",
-      "Reduction in fuel subsidies."
-    ],
-    "correctAnswer": "Increased financial aid."
+    "question": "The MHA's recent directives on national symbols were issued to which level of government for implementation?",
+    "options": ["Union Territories only", "Central Government departments", "All state governments", "Municipal corporations only"],
+    "correctAnswer": "All state governments"
   },
   {
     "id": 6,
-    "question": "The successful implementation of UDAN 2.0 is expected to overcome what past issue in India's regional aviation dreams?",
-    "options": [
-      "Lack of pilot training.",
-      "Turbulence in scheme execution.",
-      "Over-reliance on foreign airlines.",
-      "High cost of international travel."
-    ],
-    "correctAnswer": "Turbulence in scheme execution."
+    "question": "The directions issued by the MHA regarding the National Anthem and National Song are described as a 'reiteration' of what?",
+    "options": ["Newly drafted guidelines", "International conventions", "Existing rules", "State-specific legislations"],
+    "correctAnswer": "Existing rules"
   },
   {
     "id": 7,
-    "question": "How could the UDAN 2.0 scheme's emphasis on connecting smaller cities significantly impact states like Andhra Pradesh and Telangana?",
-    "options": [
-      "By closing down existing major airports.",
-      "By reducing road and rail transport.",
-      "By improving accessibility and economic opportunities in tier-2 and tier-3 cities.",
-      "By focusing exclusively on cargo movement."
-    ],
-    "correctAnswer": "By improving accessibility and economic opportunities in tier-2 and tier-3 cities."
+    "question": "What is the primary aim of the MHA's recent directions regarding the National Anthem and National Song?",
+    "options": ["To introduce new national symbols", "To simplify performance guidelines", "To ensure adherence to established protocols", "To encourage public participation"],
+    "correctAnswer": "To ensure adherence to established protocols"
   },
   {
     "id": 8,
-    "question": "What is the overarching goal of UDAN 2.0 regarding India's regional aviation network?",
-    "options": [
-      "To make it dependent on foreign aid.",
-      "To create a monopolistic aviation market.",
-      "To create a self-sustaining regional aviation network.",
-      "To limit air travel to essential services only."
-    ],
-    "correctAnswer": "To create a self-sustaining regional aviation network."
+    "question": "The 'correct script' stressed by the MHA for national symbols implies accuracy in what aspect?",
+    "options": ["The musical notation", "The lyrical text", "The language of performance", "The accompanying visual display"],
+    "correctAnswer": "The lyrical text"
   },
   {
     "id": 9,
-    "question": "In the context of UDAN 2.0, what does 'broader ecosystem support' refer to for India's regional aviation sector?",
-    "options": [
-      "Support for international airlines only.",
-      "Developing related infrastructure, services, and policies.",
-      "Restricting the number of new airports.",
-      "Focusing only on passenger amenities."
-    ],
-    "correctAnswer": "Developing related infrastructure, services, and policies."
+    "question": "Which of the following is NOT a point of emphasis in the MHA's recent directives concerning the National Anthem and National Song?",
+    "options": ["Correct pronunciation", "Strict compliance", "Correct script", "Mandatory daily performance"],
+    "correctAnswer": "Mandatory daily performance"
   },
   {
     "id": 10,
-    "question": "Which specific types of cities are primarily targeted by the UDAN scheme for enhanced air connectivity?",
-    "options": [
-      "Only state capitals.",
-      "Only international tourist destinations.",
-      "Smaller cities.",
-      "Only cities with existing international airports."
-    ],
-    "correctAnswer": "Smaller cities."
+    "question": "The MHA's recent advisory on national symbols underscores the importance of adhering to protocols established for what broader category?",
+    "options": ["Public ceremonies", "Government functions", "Cultural events", "National symbols"],
+    "correctAnswer": "National symbols"
   },
   {
     "id": 11,
-    "question": "What does TRAI stand for, the regulatory body that issued guidelines on call series?",
-    "options": [
-      "Telecom Regulatory Authority of India",
-      "Telecommunication Rights Association of India",
-      "Transport Research and Aviation Institute",
-      "Trade Regulation Authority of India"
-    ],
-    "correctAnswer": "Telecom Regulatory Authority of India"
+    "question": "For states like Telangana and Andhra Pradesh, the MHA's directive on the National Anthem and National Song mandates ensuring strict compliance with what?",
+    "options": ["Regional linguistic variations", "Official translated versions", "Correct script and pronunciation", "Local cultural adaptations"],
+    "correctAnswer": "Correct script and pronunciation"
   },
   {
     "id": 12,
-    "question": "According to TRAI, which specific series of phone calls is strictly prohibited from being tagged or filtered by service providers across India, including in Telangana and Andhra Pradesh?",
-    "options": [
-      "1400 series",
-      "1600 series",
-      "1800 series",
-      "1900 series"
-    ],
-    "correctAnswer": "1600 series"
+    "question": "The MHA's recent communication regarding national symbols is aimed at reinforcing the importance of what?",
+    "options": ["National unity and integration", "Adherence to established protocols", "Linguistic heritage", "Political discourse"],
+    "correctAnswer": "Adherence to established protocols"
   },
   {
     "id": 13,
-    "question": "For what primary purpose does TRAI reserve the 1600 series of telephone numbers?",
-    "options": [
-      "Promotional offers and discounts.",
-      "Banking and government communications.",
-      "International calls and services.",
-      "Customer feedback and surveys."
-    ],
-    "correctAnswer": "Banking and government communications."
+    "question": "When both the National Song and National Anthem are performed, the MHA's order clarifies their sequence to be what?",
+    "options": ["Anthem then Song", "Song then Anthem", "Simultaneous", "Alternating"],
+    "correctAnswer": "Song then Anthem"
   },
   {
     "id": 14,
-    "question": "Which series of promotional calls can typically be blocked by customers via the Do Not Disturb (DND) registry?",
-    "options": [
-      "1600 series",
-      "1400 series",
-      "1200 series",
-      "1000 series"
-    ],
-    "correctAnswer": "1400 series"
+    "question": "The Ministry of Home Affairs (MHA) directions concerning the National Anthem and National Song are a reminder to prevent what issue?",
+    "options": ["Over-performance", "Unauthorized adaptations", "Lack of public awareness", "Non-compliance with established rules"],
+    "correctAnswer": "Non-compliance with established rules"
   },
   {
     "id": 15,
-    "question": "How can a customer in states like Andhra Pradesh register their preferences to block unwanted promotional calls, as per TRAI guidelines?",
-    "options": [
-      "By contacting their local police station.",
-      "By sending a physical letter to TRAI.",
-      "By registering on the DND registry.",
-      "By changing their phone number annually."
-    ],
-    "correctAnswer": "By registering on the DND registry."
+    "question": "The fresh directions from MHA regarding national symbols reinforce the responsibility of whom in ensuring proper rendition across states like Telangana?",
+    "options": ["Educational institutions", "Law enforcement agencies", "State governments and authorities", "Cultural organizations"],
+    "correctAnswer": "State governments and authorities"
   },
   {
     "id": 16,
-    "question": "Can calls from government communications using a 1600 series number be blocked by users according to the latest TRAI guidelines?",
-    "options": [
-      "Yes, always.",
-      "Only if they are from another state.",
-      "No, tagging or blocking 1600 series calls is not permitted.",
-      "Only if the user opts for full call blocking."
-    ],
-    "correctAnswer": "No, tagging or blocking 1600 series calls is not permitted."
+    "question": "What does the MHA explicitly state as needing 'strict compliance' when the National Anthem and National Song are performed?",
+    "options": ["Musical instruments used", "Attire of performers", "Correct script and pronunciation", "Venue's seating arrangement"],
+    "correctAnswer": "Correct script and pronunciation"
   },
   {
     "id": 17,
-    "question": "What specific action regarding 1400 series calls is generally disallowed by TRAI, except for DND blocking?",
-    "options": [
-      "Initiating them at night.",
-      "Tagging them.",
-      "Making them international.",
-      "Charging for them."
-    ],
-    "correctAnswer": "Tagging them."
+    "question": "The MHA's recent move to reiterate rules for national symbols aims to maintain what standard?",
+    "options": ["Flexibility in interpretation", "Regional variations", "Adherence to established protocols", "Modernization of protocols"],
+    "correctAnswer": "Adherence to established protocols"
   },
   {
     "id": 18,
-    "question": "The new TRAI directive aims to address what kind of issues related to legitimate and promotional calls for Indian citizens, including those in Telangana?",
-    "options": [
-      "Increasing the volume of calls.",
-      "Confusion and inconvenience from untagged/mismanaged calls.",
-      "Limiting calls to specific times.",
-      "Allowing all calls to be tagged indiscriminately."
-    ],
-    "correctAnswer": "Confusion and inconvenience from untagged/mismanaged calls."
+    "question": "The MHA's directions are significant for states like Andhra Pradesh and Telangana as they apply to which aspects of public life?",
+    "options": ["Economic policies", "Healthcare initiatives", "Adherence to national symbols' protocols", "Agricultural reforms"],
+    "correctAnswer": "Adherence to national symbols' protocols"
   },
   {
     "id": 19,
-    "question": "Why is TRAI's directive on 1600 series calls particularly important for essential services in India?",
-    "options": [
-      "To ensure they can be easily blocked by users.",
-      "To guarantee their identity and prevent misinterpretation.",
-      "To limit their usage to specific regions.",
-      "To encourage private sector communication."
-    ],
-    "correctAnswer": "To guarantee their identity and prevent misinterpretation."
+    "question": "What is the nature of the rules that the MHA recently 'reiterated' regarding the National Anthem and National Song?",
+    "options": ["Advisory guidelines", "Binding regulations", "Optional suggestions", "Experimental protocols"],
+    "correctAnswer": "Binding regulations"
   },
   {
     "id": 20,
-    "question": "Besides blocking via DND, is there any other circumstance where tagging of 1400 series calls is permitted by TRAI?",
-    "options": [
-      "Yes, for marketing purposes.",
-      "Yes, if the customer agrees in writing.",
-      "No, any tagging of 1400 series calls is disallowed except for DND blocking.",
-      "Only if the calls originate from specific states like Telangana."
-    ],
-    "correctAnswer": "No, any tagging of 1400 series calls is disallowed except for DND blocking."
+    "question": "The MHA's emphasis on 'correct pronunciation' for the National Anthem and National Song is crucial for which aspect?",
+    "options": ["Artistic expression", "Linguistic diversity", "Preserving original meaning", "Encouraging new interpretations"],
+    "correctAnswer": "Preserving original meaning"
   },
   {
     "id": 21,
-    "question": "What is the general implication of TRAI's statement that 'tagging or filtering calls from 1600 series not allowed'?",
-    "options": [
-      "These calls are considered spam.",
-      "These calls must be allowed to reach the recipient without interference.",
-      "These calls are restricted to certain hours.",
-      "These calls require special permissions to originate."
-    ],
-    "correctAnswer": "These calls must be allowed to reach the recipient without interference."
+    "question": "Which of the following bodies is directly responsible for ensuring strict compliance with the MHA's directions on national symbols within their respective jurisdictions, like Telangana?",
+    "options": ["District collectors", "Local police", "State governments", "Educational boards"],
+    "correctAnswer": "State governments"
   },
   {
     "id": 22,
-    "question": "The UDAN 2.0 scheme focuses on 'course correcting' to address what aspect of India's regional aviation dreams?",
-    "options": [
-      "The initial enthusiasm of passengers.",
-      "The profitability of international routes.",
-      "The past turbulence and sustainability challenges.",
-      "The lack of foreign investment."
-    ],
-    "correctAnswer": "The past turbulence and sustainability challenges."
+    "question": "The MHA's directive mandates that authorities ensure strict compliance with correct script and pronunciation for what specific purpose?",
+    "options": ["To promote regional languages", "To standardize musical compositions", "To uphold the sanctity of national symbols", "To facilitate translation efforts"],
+    "correctAnswer": "To uphold the sanctity of national symbols"
   },
   {
     "id": 23,
-    "question": "What kind of indigenous integration is being planned for aircraft under the new phase of the UDAN scheme?",
-    "options": [
-      "Integration with foreign carriers.",
-      "Integration of local manufacturing and technology.",
-      "Integration with road transport networks.",
-      "Integration of advanced drone technology."
-    ],
-    "correctAnswer": "Integration of local manufacturing and technology."
+    "question": "The MHA's 'fresh directions' related to national symbols are distinct from creating entirely new rules by being what?",
+    "options": ["Temporary measures", "Supplementary instructions", "A restatement of existing norms", "Revolutionary changes"],
+    "correctAnswer": "A restatement of existing norms"
   },
   {
     "id": 24,
-    "question": "For residents in states like Telangana and Andhra Pradesh, the TRAI directives regarding call blocking provide enhanced control over what type of communication?",
-    "options": [
-      "Official government alerts.",
-      "Banking transaction notifications.",
-      "Unsolicited promotional calls.",
-      "Emergency service messages."
-    ],
-    "correctAnswer": "Unsolicited promotional calls."
+    "question": "For citizens in states like Telangana, what is the expected outcome of the MHA's directives on the National Anthem and National Song?",
+    "options": ["Increased awareness of musical history", "Greater emphasis on regional anthems", "More respectful and accurate performance of national symbols", "Reduced frequency of performances"],
+    "correctAnswer": "More respectful and accurate performance of national symbols"
   },
   {
     "id": 25,
-    "question": "The UDAN scheme broadly aims to enhance what specific aspect of Indian transportation?",
-    "options": [
-      "Sea freight logistics.",
-      "Inter-state bus services.",
-      "Regional aviation connectivity.",
-      "High-speed rail networks."
-    ],
-    "correctAnswer": "Regional aviation connectivity."
+    "question": "The MHA's recent order about the National Song being sung before the National Anthem when both are performed, is part of ensuring adherence to what?",
+    "options": ["Traditional customs", "Established protocols", "Religious sentiments", "Artistic freedom"],
+    "correctAnswer": "Established protocols"
   }
 ]

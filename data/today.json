@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which Indian food safety regulator recently issued notices to alcohol manufacturers regarding misleading 'aged' claims and flavour violations?",
-    "options": ["BIS", "FSSAI", "CDSCO", "NMC"],
-    "correctAnswer": "FSSAI"
+    "question": "What is the primary objective of the UDAN scheme, which aims to boost regional aviation connectivity across India, including states like Telangana and Andhra Pradesh?",
+    "options": [
+      "To privatize all regional airports.",
+      "To make flying affordable for all citizens.",
+      "To exclusively develop international flight routes.",
+      "To provide free air travel to government officials."
+    ],
+    "correctAnswer": "To make flying affordable for all citizens."
   },
   {
     "id": 2,
-    "question": "What is one of the primary concerns for which the FSSAI issued notices to alcohol makers?",
-    "options": ["Excessive sugar content", "Misleading 'aged' claims", "High alcohol percentage", "Unregistered distilleries"],
-    "correctAnswer": "Misleading 'aged' claims"
+    "question": "According to the news, what was a significant challenge faced by the initial phase of the UDAN scheme?",
+    "options": [
+      "Lack of interest from passengers.",
+      "Excessive government funding.",
+      "Sustainability challenges for airlines.",
+      "Absence of regional airports."
+    ],
+    "correctAnswer": "Sustainability challenges for airlines."
   },
   {
     "id": 3,
-    "question": "What action are alcohol companies required to take in response to the FSSAI notices?",
-    "options": ["Cease production immediately", "Increase advertising budgets", "Justify why regulatory action shouldn't be enforced", "Submit new product labels for approval"],
-    "correctAnswer": "Justify why regulatory action shouldn't be enforced"
+    "question": "What is a key new focus area for the modified UDAN scheme, now referred to as UDAN 2.0?",
+    "options": [
+      "Focus solely on metro cities.",
+      "International route expansion.",
+      "Airport development and broader ecosystem support.",
+      "Disinvestment in aviation infrastructure."
+    ],
+    "correctAnswer": "Airport development and broader ecosystem support."
   },
   {
     "id": 4,
-    "question": "What type of violations, besides misleading age claims, are alcohol manufacturers being investigated for by the FSSAI?",
-    "options": ["Price fixing", "Labour law infringements", "Unauthorised flavours", "Plastic packaging use"],
-    "correctAnswer": "Unauthorised flavours"
+    "question": "UDAN 2.0 plans to integrate which type of aircraft to strengthen India's regional aviation network?",
+    "options": [
+      "Large-bodied international jets.",
+      "Only imported private jets.",
+      "Indigenous aircraft.",
+      "Cargo-specific planes."
+    ],
+    "correctAnswer": "Indigenous aircraft."
   },
   {
     "id": 5,
-    "question": "The FSSAI is scheduled to meet with which groups next week to discuss the issues with alcohol makers?",
-    "options": ["Consumer protection agencies", "International liquor brands", "Industry associations and FSSAI", "Government tax departments"],
-    "correctAnswer": "Industry associations and FSSAI"
+    "question": "What kind of financial support is being increased under UDAN 2.0 to foster a self-sustaining regional aviation network in India, benefiting states like Telangana?",
+    "options": [
+      "International loans.",
+      "Private investments only.",
+      "Increased financial aid.",
+      "Reduction in fuel subsidies."
+    ],
+    "correctAnswer": "Increased financial aid."
   },
   {
     "id": 6,
-    "question": "Which Indian regulatory body proposed limiting identical brand names for various medications to improve patient safety?",
-    "options": ["Ministry of Health and Family Welfare", "Indian Medical Association", "Central Drugs Standard Control Organisation (CDSCO)", "National Pharmaceutical Pricing Authority"],
-    "correctAnswer": "Central Drugs Standard Control Organisation (CDSCO)"
+    "question": "The successful implementation of UDAN 2.0 is expected to overcome what past issue in India's regional aviation dreams?",
+    "options": [
+      "Lack of pilot training.",
+      "Turbulence in scheme execution.",
+      "Over-reliance on foreign airlines.",
+      "High cost of international travel."
+    ],
+    "correctAnswer": "Turbulence in scheme execution."
   },
   {
     "id": 7,
-    "question": "What is the primary aim of the CDSCO's proposal to limit brand name extensions across unrelated drugs?",
-    "options": ["Increase drug prices", "Reduce manufacturing costs", "Improve patient safety and reduce consumer confusion", "Promote new drug development"],
-    "correctAnswer": "Improve patient safety and reduce consumer confusion"
+    "question": "How could the UDAN 2.0 scheme's emphasis on connecting smaller cities significantly impact states like Andhra Pradesh and Telangana?",
+    "options": [
+      "By closing down existing major airports.",
+      "By reducing road and rail transport.",
+      "By improving accessibility and economic opportunities in tier-2 and tier-3 cities.",
+      "By focusing exclusively on cargo movement."
+    ],
+    "correctAnswer": "By improving accessibility and economic opportunities in tier-2 and tier-3 cities."
   },
   {
     "id": 8,
-    "question": "What action is the Central Drugs Standard Control Organisation (CDSCO) currently seeking from the public regarding its initiative on drug branding?",
-    "options": ["Donations", "Public feedback", "Volunteer support", "Market research reports"],
-    "correctAnswer": "Public feedback"
+    "question": "What is the overarching goal of UDAN 2.0 regarding India's regional aviation network?",
+    "options": [
+      "To make it dependent on foreign aid.",
+      "To create a monopolistic aviation market.",
+      "To create a self-sustaining regional aviation network.",
+      "To limit air travel to essential services only."
+    ],
+    "correctAnswer": "To create a self-sustaining regional aviation network."
   },
   {
     "id": 9,
-    "question": "According to the CDSCO, pharmaceutical companies may need to rethink which aspect of their different products?",
-    "options": ["Their pricing strategies", "Their distribution networks", "Their branding approaches", "Their research and development focus"],
-    "correctAnswer": "Their branding approaches"
+    "question": "In the context of UDAN 2.0, what does 'broader ecosystem support' refer to for India's regional aviation sector?",
+    "options": [
+      "Support for international airlines only.",
+      "Developing related infrastructure, services, and policies.",
+      "Restricting the number of new airports.",
+      "Focusing only on passenger amenities."
+    ],
+    "correctAnswer": "Developing related infrastructure, services, and policies."
   },
   {
     "id": 10,
-    "question": "The CDSCO's new initiative primarily focuses on ensuring brand names appropriately reflect the unique characteristics of what?",
-    "options": ["Pharmaceutical companies", "Drug packaging", "Each medication", "Marketing campaigns"],
-    "correctAnswer": "Each medication"
+    "question": "Which specific types of cities are primarily targeted by the UDAN scheme for enhanced air connectivity?",
+    "options": [
+      "Only state capitals.",
+      "Only international tourist destinations.",
+      "Smaller cities.",
+      "Only cities with existing international airports."
+    ],
+    "correctAnswer": "Smaller cities."
   },
   {
     "id": 11,
-    "question": "Which national body issues conditional renewal letters for MBBS seats to medical colleges in India?",
-    "options": ["Medical Council of India (MCI)", "All India Council for Technical Education (AICTE)", "National Medical Commission (NMC)", "University Grants Commission (UGC)"],
-    "correctAnswer": "National Medical Commission (NMC)"
+    "question": "What does TRAI stand for, the regulatory body that issued guidelines on call series?",
+    "options": [
+      "Telecom Regulatory Authority of India",
+      "Telecommunication Rights Association of India",
+      "Transport Research and Aviation Institute",
+      "Trade Regulation Authority of India"
+    ],
+    "correctAnswer": "Telecom Regulatory Authority of India"
   },
   {
     "id": 12,
-    "question": "Approximately how many medical colleges in India recently received conditional renewal letters for MBBS seats?",
-    "options": ["Under 100", "Between 100 and 500", "Over 800", "Exactly 70"],
-    "correctAnswer": "Over 800"
+    "question": "According to TRAI, which specific series of phone calls is strictly prohibited from being tagged or filtered by service providers across India, including in Telangana and Andhra Pradesh?",
+    "options": [
+      "1400 series",
+      "1600 series",
+      "1800 series",
+      "1900 series"
+    ],
+    "correctAnswer": "1600 series"
   },
   {
     "id": 13,
-    "question": "What is the deadline for medical institutions to rectify deficiencies as per the National Medical Commission's conditional renewal letters?",
-    "options": ["One week", "Fifteen days", "Forty-five days", "Three months"],
-    "correctAnswer": "Forty-five days"
+    "question": "For what primary purpose does TRAI reserve the 1600 series of telephone numbers?",
+    "options": [
+      "Promotional offers and discounts.",
+      "Banking and government communications.",
+      "International calls and services.",
+      "Customer feedback and surveys."
+    ],
+    "correctAnswer": "Banking and government communications."
   },
   {
     "id": 14,
-    "question": "What new mechanism has the National Medical Commission introduced to replace routine annual inspections for continuous oversight?",
-    "options": ["Online surveys", "Peer reviews", "Surprise assessments", "Student feedback reports"],
-    "correctAnswer": "Surprise assessments"
+    "question": "Which series of promotional calls can typically be blocked by customers via the Do Not Disturb (DND) registry?",
+    "options": [
+      "1600 series",
+      "1400 series",
+      "1200 series",
+      "1000 series"
+    ],
+    "correctAnswer": "1400 series"
   },
   {
     "id": 15,
-    "question": "What could be a consequence for medical colleges failing to comply with the National Medical Commission's standards after receiving conditional renewal letters?",
-    "options": ["Increased funding", "Reduced student intake or suspended admissions", "Extended deadlines", "Awards and recognition"],
-    "correctAnswer": "Reduced student intake or suspended admissions"
+    "question": "How can a customer in states like Andhra Pradesh register their preferences to block unwanted promotional calls, as per TRAI guidelines?",
+    "options": [
+      "By contacting their local police station.",
+      "By sending a physical letter to TRAI.",
+      "By registering on the DND registry.",
+      "By changing their phone number annually."
+    ],
+    "correctAnswer": "By registering on the DND registry."
   },
   {
     "id": 16,
-    "question": "How many medical colleges and hospitals in India have reportedly failed to link their CCTV systems with the National Medical Commission's control center?",
-    "options": ["10", "30", "70", "120"],
-    "correctAnswer": "70"
+    "question": "Can calls from government communications using a 1600 series number be blocked by users according to the latest TRAI guidelines?",
+    "options": [
+      "Yes, always.",
+      "Only if they are from another state.",
+      "No, tagging or blocking 1600 series calls is not permitted.",
+      "Only if the user opts for full call blocking."
+    ],
+    "correctAnswer": "No, tagging or blocking 1600 series calls is not permitted."
   },
   {
     "id": 17,
-    "question": "Since which year has the National Medical Commission been issuing directives for compliance with mandatory CCTV norms for medical colleges?",
-    "options": ["2018", "2020", "2022", "2023"],
-    "correctAnswer": "2022"
+    "question": "What specific action regarding 1400 series calls is generally disallowed by TRAI, except for DND blocking?",
+    "options": [
+      "Initiating them at night.",
+      "Tagging them.",
+      "Making them international.",
+      "Charging for them."
+    ],
+    "correctAnswer": "Tagging them."
   },
   {
     "id": 18,
-    "question": "What specific technological compliance is mandated by the National Medical Commission for medical colleges and hospitals for remote monitoring?",
-    "options": ["Biometric attendance systems", "High-speed internet access", "CCTV systems linkage", "Digital record keeping"],
-    "correctAnswer": "CCTV systems linkage"
+    "question": "The new TRAI directive aims to address what kind of issues related to legitimate and promotional calls for Indian citizens, including those in Telangana?",
+    "options": [
+      "Increasing the volume of calls.",
+      "Confusion and inconvenience from untagged/mismanaged calls.",
+      "Limiting calls to specific times.",
+      "Allowing all calls to be tagged indiscriminately."
+    ],
+    "correctAnswer": "Confusion and inconvenience from untagged/mismanaged calls."
   },
   {
     "id": 19,
-    "question": "What could be the appropriate regulatory action by the National Medical Commission against institutions failing to comply with mandatory CCTV norms?",
-    "options": ["Issuing commendations", "Granting extensions automatically", "Imposing fines or other regulatory measures", "Providing additional grants"],
-    "correctAnswer": "Imposing fines or other regulatory measures"
+    "question": "Why is TRAI's directive on 1600 series calls particularly important for essential services in India?",
+    "options": [
+      "To ensure they can be easily blocked by users.",
+      "To guarantee their identity and prevent misinterpretation.",
+      "To limit their usage to specific regions.",
+      "To encourage private sector communication."
+    ],
+    "correctAnswer": "To guarantee their identity and prevent misinterpretation."
   },
   {
     "id": 20,
-    "question": "The National Medical Commission's mandatory CCTV norms primarily aim to ensure what in medical colleges?",
-    "options": ["Student privacy", "Marketing efforts", "Continuous oversight and maintenance of standards", "Reducing electricity consumption"],
-    "correctAnswer": "Continuous oversight and maintenance of standards"
+    "question": "Besides blocking via DND, is there any other circumstance where tagging of 1400 series calls is permitted by TRAI?",
+    "options": [
+      "Yes, for marketing purposes.",
+      "Yes, if the customer agrees in writing.",
+      "No, any tagging of 1400 series calls is disallowed except for DND blocking.",
+      "Only if the calls originate from specific states like Telangana."
+    ],
+    "correctAnswer": "No, any tagging of 1400 series calls is disallowed except for DND blocking."
   },
   {
     "id": 21,
-    "question": "What does FSSAI stand for, the Indian food safety regulator mentioned in the news?",
-    "options": ["Food Standards and Safety Authority of India", "Federal System for Safe Agro-Industries", "Food Safety and Standards Authority of India", "Forum for Sustainable Supply of Agricultural Imports"],
-    "correctAnswer": "Food Safety and Standards Authority of India"
+    "question": "What is the general implication of TRAI's statement that 'tagging or filtering calls from 1600 series not allowed'?",
+    "options": [
+      "These calls are considered spam.",
+      "These calls must be allowed to reach the recipient without interference.",
+      "These calls are restricted to certain hours.",
+      "These calls require special permissions to originate."
+    ],
+    "correctAnswer": "These calls must be allowed to reach the recipient without interference."
   },
   {
     "id": 22,
-    "question": "What does CDSCO stand for, the Indian drug regulator mentioned in the news?",
-    "options": ["Central Directorate of Scientific and Clinical Operations", "Central Drugs Standard Control Organisation", "Clinical Drug Safety and Compliance Office", "Council for Drug Surveillance and Quality Oversight"],
-    "correctAnswer": "Central Drugs Standard Control Organisation"
+    "question": "The UDAN 2.0 scheme focuses on 'course correcting' to address what aspect of India's regional aviation dreams?",
+    "options": [
+      "The initial enthusiasm of passengers.",
+      "The profitability of international routes.",
+      "The past turbulence and sustainability challenges.",
+      "The lack of foreign investment."
+    ],
+    "correctAnswer": "The past turbulence and sustainability challenges."
   },
   {
     "id": 23,
-    "question": "What does NMC stand for, the Indian medical education regulator mentioned in the news?",
-    "options": ["National Medical Council", "New Medical Commission", "National Medical Commission", "National Maternity Care"],
-    "correctAnswer": "National Medical Commission"
+    "question": "What kind of indigenous integration is being planned for aircraft under the new phase of the UDAN scheme?",
+    "options": [
+      "Integration with foreign carriers.",
+      "Integration of local manufacturing and technology.",
+      "Integration with road transport networks.",
+      "Integration of advanced drone technology."
+    ],
+    "correctAnswer": "Integration of local manufacturing and technology."
   },
   {
     "id": 24,
-    "question": "The conditional renewal letters issued by the National Medical Commission to medical colleges are specifically for seats related to which course?",
-    "options": ["MD/MS", "BDS", "MBBS", "BAMS"],
-    "correctAnswer": "MBBS"
+    "question": "For residents in states like Telangana and Andhra Pradesh, the TRAI directives regarding call blocking provide enhanced control over what type of communication?",
+    "options": [
+      "Official government alerts.",
+      "Banking transaction notifications.",
+      "Unsolicited promotional calls.",
+      "Emergency service messages."
+    ],
+    "correctAnswer": "Unsolicited promotional calls."
   },
   {
     "id": 25,
-    "question": "The National Medical Commission's new mechanism of surprise assessments aims to ensure colleges maintain standards throughout which period?",
-    "options": ["The admission period only", "The examination period only", "The entire academic year", "During accreditation cycles only"],
-    "correctAnswer": "The entire academic year"
+    "question": "The UDAN scheme broadly aims to enhance what specific aspect of Indian transportation?",
+    "options": [
+      "Sea freight logistics.",
+      "Inter-state bus services.",
+      "Regional aviation connectivity.",
+      "High-speed rail networks."
+    ],
+    "correctAnswer": "Regional aviation connectivity."
   }
 ]

@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What significant issue was highlighted by the case of a cancer patient whose plea for a life-saving drug was listed multiple times for hearing in India?",
-    "options": ["Lack of medical facilities", "High cost of drugs", "Judicial delays", "Ineffective legal representation"],
-    "correctAnswer": "Judicial delays"
+    "question": "According to recent news, what serious issue has been alleged regarding the UGC-NET examination in India?",
+    "options": [
+      "Delay in result declaration",
+      "Changes in exam pattern",
+      "Paper leak racket",
+      "Technical glitches during the exam"
+    ],
+    "correctAnswer": "Paper leak racket"
   },
   {
     "id": 2,
-    "question": "How many times was the cancer patient's plea for a drug listed for hearing before her death, as reported by the news, highlighting issues in the Indian judicial system?",
-    "options": ["25 times", "30 times", "57 times", "75 times"],
-    "correctAnswer": "57 times"
+    "question": "A whistleblower has reportedly detailed a sting operation concerning which specific subject's paper being leaked for the UGC-NET exam?",
+    "options": [
+      "History",
+      "Commerce",
+      "Sociology",
+      "Political Science"
+    ],
+    "correctAnswer": "Sociology"
   },
   {
     "id": 3,
-    "question": "The Prime Minister of India visited which country, marking the first such visit in 40 years by an Indian PM, to boost bilateral ties including an FTA?",
-    "options": ["Australia", "New Zealand", "Fiji", "Japan"],
-    "correctAnswer": "New Zealand"
+    "question": "The alleged UGC-NET paper leak primarily raises concerns about the integrity of which system in India?",
+    "options": [
+      "Economic planning",
+      "Higher education and recruitment",
+      "Public administration",
+      "Legal system"
+    ],
+    "correctAnswer": "Higher education and recruitment"
   },
   {
     "id": 4,
-    "question": "What are the key areas India aims to strengthen with New Zealand during the Prime Minister's visit, as mentioned in the news?",
-    "options": ["Cultural exchange, tourism, sports", "FTA, Defence & Security, Talent Mobility", "Space cooperation, IT services, education", "Agricultural trade, renewable energy, infrastructure"],
-    "correctAnswer": "FTA, Defence & Security, Talent Mobility"
+    "question": "What does UGC stand for in the context of the UGC-NET examination, which is crucial for higher education aspirants across India?",
+    "options": [
+      "Union Government Council",
+      "University Grants Commission",
+      "United Global Campus",
+      "Undergraduate Governance Committee"
+    ],
+    "correctAnswer": "University Grants Commission"
   },
   {
     "id": 5,
-    "question": "Who, as India's Defence Minister, stated that future conflicts may take new forms, emphasizing evolving threats to national security?",
-    "options": ["Nirmala Sitharaman", "S. Jaishankar", "Rajnath Singh", "Ajit Doval"],
-    "correctAnswer": "Rajnath Singh"
+    "question": "What is the potential impact of a national exam paper leak, such as the alleged UGC-NET incident, on aspiring students across India, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "Increased job opportunities",
+      "Erosion of trust in the examination system",
+      "Easier qualification for research",
+      "Simplification of admission processes"
+    ],
+    "correctAnswer": "Erosion of trust in the examination system"
   },
   {
     "id": 6,
-    "question": "What is the minimum ethanol blend in petrol that the Indian government intends to make standard across the country, including states like Telangana and Andhra Pradesh, ruling out pure petrol or lower blends as options?",
-    "options": ["E5", "E10", "E15", "E20"],
-    "correctAnswer": "E20"
+    "question": "The whistleblower in the UGC-NET case described the alleged paper leak as part of what kind of operation?",
+    "options": [
+      "A small-scale scam",
+      "A widespread 'network' or racket",
+      "An isolated incident",
+      "A technical error"
+    ],
+    "correctAnswer": "A widespread 'network' or racket"
   },
   {
     "id": 7,
-    "question": "The Indian government has stated it is not feasible to offer a parallel fuel supply system for which type of fuel in the context of its E20 policy, impacting all states including Telangana and Andhra Pradesh?",
-    "options": ["CNG", "Electric vehicle charging", "Pure petrol or lower blends than E20", "Hydrogen fuel"],
-    "correctAnswer": "Pure petrol or lower blends than E20"
+    "question": "Which national examination's conduct is a parliamentary panel set to review on July 16, following a re-test, an issue that impacts medical aspirants nationwide?",
+    "options": [
+      "JEE Advanced",
+      "NEET",
+      "UPSC Civil Services",
+      "CAT"
+    ],
+    "correctAnswer": "NEET"
   },
   {
     "id": 8,
-    "question": "The E20 fuel policy, impacting states like Telangana and Andhra Pradesh, refers to petrol blended with what percentage of ethanol?",
-    "options": ["5%", "10%", "15%", "20%"],
-    "correctAnswer": "20%"
+    "question": "What does NEET stand for, an examination crucial for medical admissions across India, including in Telangana and Andhra Pradesh?",
+    "options": [
+      "National Engineering Entrance Test",
+      "National Eligibility cum Entrance Test",
+      "New Education Assessment Test",
+      "National Examination for Engineering and Technology"
+    ],
+    "correctAnswer": "National Eligibility cum Entrance Test"
   },
   {
     "id": 9,
-    "question": "The Indian Centre is currently evaluating Meta's reply regarding the rollout of which new feature for WhatsApp, with its implementation remaining on hold across the country?",
-    "options": ["Video calling enhancements", "Group chat limits", "Usernames", "Payment integration"],
-    "correctAnswer": "Usernames"
+    "question": "The parliamentary panel's review of NEET is scheduled to occur after what specific event related to the exam?",
+    "options": [
+      "The announcement of results",
+      "A re-test",
+      "The application deadline",
+      "The counselling process"
+    ],
+    "correctAnswer": "A re-test"
   },
   {
     "id": 10,
-    "question": "The implementation of WhatsApp usernames in India is currently in what state, as the Centre weighs Meta's reply?",
-    "options": ["Fully rolled out", "Pilot testing in select cities", "On hold", "Approved for immediate release"],
-    "correctAnswer": "On hold"
+    "question": "What is the primary purpose of the NEET examination for students across India, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "Admission to engineering courses",
+      "Admission to medical and dental courses",
+      "Entry into civil services",
+      "Scholarship eligibility"
+    ],
+    "correctAnswer": "Admission to medical and dental courses"
   },
   {
     "id": 11,
-    "question": "According to TRAI, which specific number series cannot be blocked by any application in India due to their nature as trustworthy service and transaction calls to existing customers?",
-    "options": ["100 series", "140 series", "1600 series", "1900 series"],
-    "correctAnswer": "1600 series"
+    "question": "The parliamentary review of NEET conduct signifies concerns about which aspect of the examination?",
+    "options": [
+      "Syllabus design",
+      "Question paper difficulty",
+      "Fairness and administrative processes",
+      "Number of examination centers"
+    ],
+    "correctAnswer": "Fairness and administrative processes"
   },
   {
     "id": 12,
-    "question": "Which telecom regulatory body issued guidelines on blocking calls from specific number series in India, applicable to all states including Telangana and Andhra Pradesh?",
-    "options": ["RBI", "SEBI", "TRAI", "IRDAI"],
-    "correctAnswer": "TRAI"
+    "question": "For aspirants from Telangana and Andhra Pradesh aiming for medical education, the review of NEET conduct is significant because it addresses:",
+    "options": [
+      "Curriculum changes in medical colleges",
+      "Infrastructure development in hospitals",
+      "Issues related to the examination's integrity and fairness",
+      "Scholarship opportunities for rural students"
+    ],
+    "correctAnswer": "Issues related to the examination's integrity and fairness"
   },
   {
     "id": 13,
-    "question": "Promotional calls originating from which number series can be blocked by customers across India, including Telangana and Andhra Pradesh, using the DND registry?",
-    "options": ["140 series", "1600 series", "1800 series", "190 series"],
-    "correctAnswer": "140 series"
+    "question": "A recent regulation in India states that drugs containing what minimum percentage of alcohol will require a prescription, affecting consumers nationwide?",
+    "options": [
+      "Over 5%",
+      "Over 8%",
+      "Over 10%",
+      "Over 12%"
+    ],
+    "correctAnswer": "Over 12%"
   },
   {
     "id": 14,
-    "question": "What mechanism allows customers in India to block promotional calls from registered telemarketers using the 140 number series?",
-    "options": ["Direct blocking app", "Police complaint", "DND registry", "Social media report"],
-    "correctAnswer": "DND registry"
+    "question": "The new policy requiring a prescription for certain alcohol-containing drugs is likely aimed at addressing which public health concern in India?",
+    "options": [
+      "Over-prescription of antibiotics",
+      "Misuse and potential abuse of drugs",
+      "Shortage of essential medicines",
+      "High cost of pharmaceuticals"
+    ],
+    "correctAnswer": "Misuse and potential abuse of drugs"
   },
   {
     "id": 15,
-    "question": "What type of calls are typically associated with the 1600 number series, which are exempt from blocking by applications as per TRAI guidelines?",
-    "options": ["Promotional advertisements", "Political campaign calls", "Trustworthy service and transaction calls to existing customers", "Market research surveys"],
-    "correctAnswer": "Trustworthy service and transaction calls to existing customers"
+    "question": "Who among the following would be directly impacted by the new regulation requiring prescriptions for drugs with over 12% alcohol content across Indian states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Only pharmaceutical manufacturers",
+      "Only doctors",
+      "Consumers and pharmacies",
+      "Only drug importers"
+    ],
+    "correctAnswer": "Consumers and pharmacies"
   },
   {
     "id": 16,
-    "question": "Which entity in India primarily uses the 140 number series for promotional communications?",
-    "options": ["Government agencies", "Emergency services", "Registered telemarketers", "Banking institutions"],
-    "correctAnswer": "Registered telemarketers"
+    "question": "What type of sale would be restricted for drugs with over 12% alcohol content under the new Indian regulation?",
+    "options": [
+      "Online sales",
+      "Over-the-counter (OTC) sales",
+      "Wholesale purchases",
+      "Export sales"
+    ],
+    "correctAnswer": "Over-the-counter (OTC) sales"
   },
   {
     "id": 17,
-    "question": "What new directive has the Centre issued to all states, including Telangana and Andhra Pradesh, regarding the playing of state songs in official functions?",
-    "options": ["State songs are banned in official functions", "State songs must be played after the national song and anthem", "State songs must be played before the national song and anthem", "State songs can only be played in the respective state"],
-    "correctAnswer": "State songs must be played before the national song and anthem"
+    "question": "The mandate for a prescription for certain drugs falls under the purview of which regulatory body or governmental function in India?",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of External Affairs",
+      "Drug regulatory authorities / Ministry of Health",
+      "Ministry of Education"
+    ],
+    "correctAnswer": "Drug regulatory authorities / Ministry of Health"
   },
   {
     "id": 18,
-    "question": "What aspects of playing the national song and anthem has the Indian government emphasized for strict adherence by all states, including Telangana and Andhra Pradesh?",
-    "options": ["Musical composition and length", "Correct script and diction", "Audience participation", "Venue acoustics"],
-    "correctAnswer": "Correct script and diction"
+    "question": "This new drug regulation reflects a broader effort in India to enhance what aspect of public health management?",
+    "options": [
+      "Access to generic medicines",
+      "Pharmaceutical research and development",
+      "Controlled distribution and responsible consumption of medication",
+      "International drug trade agreements"
+    ],
+    "correctAnswer": "Controlled distribution and responsible consumption of medication"
   },
   {
     "id": 19,
-    "question": "Which Indian ministry provided the correct script and pronunciation details for the national song and anthem on its portal for states to follow?",
-    "options": ["Ministry of Culture", "Ministry of Education", "Ministry of Home Affairs", "Ministry of Information and Broadcasting"],
-    "correctAnswer": "Ministry of Home Affairs"
+    "question": "What is the primary objective of the Uniform Civil Code (UCC) in India, as discussed in recent news, aiming for a unified legal framework for personal matters?",
+    "options": [
+      "To standardize state borders",
+      "To create a uniform legal framework for personal civil matters",
+      "To unify tax laws across states",
+      "To standardize education policies"
+    ],
+    "correctAnswer": "To create a uniform legal framework for personal civil matters"
   },
   {
     "id": 20,
-    "question": "The Centre's directive concerning the national song and anthem aims to ensure proper adherence to what during official functions across all Indian states?",
-    "options": ["Protocol for foreign dignitaries", "Cultural diversity", "National symbols", "Religious sentiments"],
-    "correctAnswer": "National symbols"
+    "question": "While the Uniform Civil Code (UCC) is a national concept, which Indian state government was recently reported to have formed a 9-member panel to examine its draft bill?",
+    "options": [
+      "Uttar Pradesh",
+      "West Bengal",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 21,
-    "question": "The case of the deceased cancer patient seeking a drug, listed 57 times for hearing, highlights challenges within which system in India that affects citizens across states like Telangana and Andhra Pradesh?",
-    "options": ["Healthcare system", "Judicial system", "Drug manufacturing system", "Social welfare system"],
-    "correctAnswer": "Judicial system"
+    "question": "Who is reported to be heading the expert panel formed to review the Uniform Civil Code draft in West Bengal?",
+    "options": [
+      "A retired Chief Justice of India",
+      "A prominent legal scholar",
+      "Retired Supreme Court judge Justice Ranjana Prakash Desai",
+      "A former Attorney General"
+    ],
+    "correctAnswer": "Retired Supreme Court judge Justice Ranjana Prakash Desai"
   },
   {
     "id": 22,
-    "question": "What is the primary environmental benefit often cited for increasing ethanol blending in petrol like E20, a policy applicable to states like Andhra Pradesh and Telangana?",
-    "options": ["Increased engine efficiency", "Reduction in carbon emissions/pollution", "Lower fuel prices", "Extended engine life"],
-    "correctAnswer": "Reduction in carbon emissions/pollution"
+    "question": "The proposed Uniform Civil Code primarily seeks to unify laws pertaining to which category of matters for citizens across India?",
+    "options": [
+      "Criminal justice",
+      "Property disputes",
+      "Personal matters like marriage, divorce, inheritance",
+      "Commercial contracts"
+    ],
+    "correctAnswer": "Personal matters like marriage, divorce, inheritance"
   },
   {
     "id": 23,
-    "question": "The TRAI directive on telecom calls aims to differentiate between which two types of calls for customer convenience and regulation across India?",
-    "options": ["International calls and local calls", "Landline calls and mobile calls", "Trustworthy service calls and promotional calls", "Incoming calls and outgoing calls"],
-    "correctAnswer": "Trustworthy service calls and promotional calls"
+    "question": "When is the draft UCC bill expected to be introduced during the Assembly session in West Bengal, according to the news?",
+    "options": [
+      "July session",
+      "August session",
+      "September session",
+      "Winter session"
+    ],
+    "correctAnswer": "August session"
   },
   {
     "id": 24,
-    "question": "What does DND stand for in the context of TRAI's telecom regulations, a facility available to mobile users in states like Telangana and Andhra Pradesh?",
-    "options": ["Do Not Disclose", "Digital Network Directory", "Do Not Disturb", "Data Nodal Department"],
-    "correctAnswer": "Do Not Disturb"
+    "question": "The ongoing debate and examination of the Uniform Civil Code (UCC) by various states and the center is a significant discussion for all Indian citizens, including those in Telangana and Andhra Pradesh, due to its potential impact on:",
+    "options": [
+      "Economic development policies",
+      "Individual personal laws and rights",
+      "Agricultural reforms",
+      "Foreign relations"
+    ],
+    "correctAnswer": "Individual personal laws and rights"
   },
   {
     "id": 25,
-    "question": "The Centre's recent directive on national symbols underscores the importance of proper rendition and respect for which two significant national compositions that are central to Indian identity?",
-    "options": ["National Pledge and National Emblem", "National Flag and National Animal", "National Song and National Anthem", "National Bird and National Flower"],
-    "correctAnswer": "National Song and National Anthem"
+    "question": "The formation of an expert panel to examine the draft UCC bill signifies what stage in the legislative process for this complex issue in India?",
+    "options": [
+      "Final approval and implementation",
+      "Initial review and drafting",
+      "Public referendum",
+      "International consultation"
+    ],
+    "correctAnswer": "Initial review and drafting"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "How many Indian nationals from Andhra Pradesh were among the victims of the tragic boat accident off Vietnam's coast?",
-    "options": ["3", "5", "7", "10"],
-    "correctAnswer": "3"
+    "question": "What city in India does the student, Manideep Reddy, who was found dead in Finland, hail from?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "What was the total number of Indian nationals who perished in the boat accident off Vietnam's coast?",
-    "options": ["10", "12", "15", "20"],
-    "correctAnswer": "15"
+    "question": "In which European country was the 18-year-old Hyderabad student, Manideep Reddy, found dead after going missing?",
+    "options": ["Sweden", "Norway", "Finland", "Denmark"],
+    "correctAnswer": "Finland"
   },
   {
     "id": 3,
-    "question": "From which Indian state were the majority of the victims of the Vietnam boat accident, with 10 individuals?",
-    "options": ["Andhra Pradesh", "Telangana", "Tamil Nadu", "Kerala"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "The family of Manideep Reddy, the Hyderabad student found dead in Finland, has raised serious questions about which aspect of the case?",
+    "options": ["Lack of financial support", "Improper investigation", "Delayed visa process", "Language barrier"],
+    "correctAnswer": "Improper investigation"
   },
   {
     "id": 4,
-    "question": "The tragic boat accident involving Indian tourists occurred off the coast of which country?",
-    "options": ["Thailand", "Malaysia", "Vietnam", "Indonesia"],
-    "correctAnswer": "Vietnam"
+    "question": "Manideep Reddy, the student from Hyderabad, was reported missing for approximately how long before his body was recovered in Finland?",
+    "options": ["One month", "Two months", "Three months", "Six months"],
+    "correctAnswer": "Two months"
   },
   {
     "id": 5,
-    "question": "Near which specific islet did the speedboat carrying Indian tourists capsize in Vietnam?",
-    "options": ["Hon Tam Islet", "Phu Quoc Island", "May Rut Ngoai Islet", "Con Dao Island"],
-    "correctAnswer": "May Rut Ngoai Islet"
+    "question": "The body of the Hyderabad student, Manideep Reddy, was recovered from which type of location in Helsinki, Finland?",
+    "options": ["A forest", "A lake", "The sea", "A river"],
+    "correctAnswer": "The sea"
   },
   {
     "id": 6,
-    "question": "What type of vessel was involved in the accident off Vietnam's coast that led to the death of 15 Indian nationals?",
-    "options": ["Fishing trawler", "Cargo ship", "Speedboat", "Cruise liner"],
-    "correctAnswer": "Speedboat"
+    "question": "Which body in India is responsible for conducting the 'special intensive revision' (SIR) process for voter lists, recently flagged by UN rapporteurs?",
+    "options": ["Ministry of Law and Justice", "Election Commission of India", "Ministry of Home Affairs", "Unique Identification Authority of India (UIDAI)"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 7,
-    "question": "What was the approximate total number of people on board the speedboat that capsized near Vietnam's coast?",
-    "options": ["15", "20", "36", "50"],
-    "correctAnswer": "36"
+    "question": "What specific process related to elections did 3 UN special rapporteurs raise concerns about in India?",
+    "options": ["Campaign finance regulations", "Electronic voting machine security", "Voter list revision", "Delimitation of constituencies"],
+    "correctAnswer": "Voter list revision"
   },
   {
     "id": 8,
-    "question": "Which Indian government body released the list of victims after the boat accident in Vietnam?",
-    "options": ["Ministry of External Affairs", "Prime Minister's Office", "Indian embassy", "Disaster Management Authority"],
-    "correctAnswer": "Indian embassy"
+    "question": "The Election Commission of India (ECI) dismissed concerns about the 'opaque' voter list revision process, stating it was transparent and upheld by which judicial body?",
+    "options": ["High Courts", "District Courts", "Supreme Court", "Lok Adalat"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 9,
-    "question": "How did Prime Minister Narendra Modi react to the news of the Vietnam boat accident?",
-    "options": ["Expressed deep sorrow and offered condolences", "Demanded an immediate investigation", "Announced a special relief package", "Dispatched a rescue team"],
-    "correctAnswer": "Expressed deep sorrow and offered condolences"
+    "question": "What type of allegations regarding voter list revision did UN rapporteurs raise concerns about, which were refuted by the Election Commission?",
+    "options": ["Exclusion of minorities", "Inclusion of underage voters", "Lack of biometric verification", "Political party interference"],
+    "correctAnswer": "Exclusion of minorities"
   },
   {
     "id": 10,
-    "question": "What kind of assistance did the Indian government promise to provide following the Vietnam boat accident?",
-    "options": ["Financial compensation only", "Medical aid to injured", "All possible assistance and coordination with authorities", "Repatriation of bodies only"],
-    "correctAnswer": "All possible assistance and coordination with authorities"
+    "question": "The Election Commission of India asserted that ample opportunities were given to electors during the special intensive revision process for what purpose?",
+    "options": ["To register new parties", "To challenge any exclusions", "To propose election reforms", "To vote early"],
+    "correctAnswer": "To challenge any exclusions"
   },
   {
     "id": 11,
-    "question": "The victims of the Vietnam boat accident included tourists from which two Indian states prominently mentioned in the news?",
-    "options": ["Kerala and Karnataka", "Maharashtra and Gujarat", "Tamil Nadu and Andhra Pradesh", "Uttar Pradesh and Bihar"],
-    "correctAnswer": "Tamil Nadu and Andhra Pradesh"
+    "question": "Which specific type of trials, according to CJI Suryakant, presents a challenge for speedy completion in India's judicial system?",
+    "options": ["Civil disputes", "Petty crimes", "UAPA trials", "Environmental cases"],
+    "correctAnswer": "UAPA trials"
   },
   {
     "id": 12,
-    "question": "What is the name of the latest Project 17A stealth frigate recently commissioned into the Indian Navy?",
-    "options": ["INS Vikramaditya", "INS Vikrant", "INS Mahendragiri", "INS Arihant"],
-    "correctAnswer": "INS Mahendragiri"
+    "question": "What does UAPA stand for in the context of Indian law, where trials are posing a challenge for speedy completion?",
+    "options": ["Universal Anti-Poverty Act", "Unlawful Activities (Prevention) Act", "Urban Planning and Development Act", "Unified Agricultural Produce Act"],
+    "correctAnswer": "Unlawful Activities (Prevention) Act"
   },
   {
     "id": 13,
-    "question": "INS Mahendragiri is the latest addition to which series of stealth frigates in the Indian Navy?",
-    "options": ["Project 15B", "Project 75I", "Project 17A", "Project 11356"],
-    "correctAnswer": "Project 17A"
+    "question": "What measure was mentioned as partially solving the problem of speedy completion of UAPA trials?",
+    "options": ["Increasing judge salaries", "Setting up special courts", "Reducing investigative powers", "Granting blanket bail"],
+    "correctAnswer": "Setting up special courts"
   },
   {
     "id": 14,
-    "question": "How many Project 17A stealth frigates, including INS Mahendragiri, have now been commissioned into the Indian Navy?",
-    "options": ["Fourth", "Fifth", "Sixth", "Seventh"],
-    "correctAnswer": "Sixth"
+    "question": "The challenge of speedy completion of UAPA trials was highlighted by whom?",
+    "options": ["Union Law Minister", "Prime Minister", "Chief Justice of India Suryakant", "Solicitor General"],
+    "correctAnswer": "Chief Justice of India Suryakant"
   },
   {
     "id": 15,
-    "question": "What strategic region is highlighted in the news as a global focus where India aims to bolster its foothold with enhanced maritime capabilities?",
-    "options": ["Arctic Ocean", "South Atlantic", "Mediterranean Sea", "Indo-Pacific"],
-    "correctAnswer": "Indo-Pacific"
+    "question": "The Unlawful Activities (Prevention) Act (UAPA) primarily deals with matters related to:",
+    "options": ["Economic offenses", "Terrorist activities and unlawful associations", "Environmental protection", "Intellectual property rights"],
+    "correctAnswer": "Terrorist activities and unlawful associations"
   },
   {
     "id": 16,
-    "question": "Defence Minister Rajnath Singh hailed the Indian Navy for its crucial role beyond just a fighting force, describing it also as a guardian of what?",
-    "options": ["India's cultural heritage", "India's economy", "India's space program", "India's democratic institutions"],
-    "correctAnswer": "India's economy"
+    "question": "Which central department cancelled the suspension of an FCI Executive Director, stating the food ministry's order was legally non-existent?",
+    "options": ["Ministry of Finance", "Department of Personnel and Training (DoPT)", "Ministry of Agriculture", "NITI Aayog"],
+    "correctAnswer": "Department of Personnel and Training (DoPT)"
   },
   {
     "id": 17,
-    "question": "The commissioning of INS Mahendragiri aligns with India's commitment to what key aspect in defence technology?",
-    "options": ["International collaboration", "Outsourcing", "Self-reliance", "Foreign acquisitions"],
-    "correctAnswer": "Self-reliance"
+    "question": "FCI stands for which organization, involved in the recent administrative dispute over an ED's suspension?",
+    "options": ["Financial Corporation of India", "Food Corporation of India", "Farmers' Cooperative Initiatives", "Federal Council of Industry"],
+    "correctAnswer": "Food Corporation of India"
   },
   {
     "id": 18,
-    "question": "What is one of the multifaceted roles mentioned for INS Mahendragiri in enhancing India's maritime combat capabilities?",
-    "options": ["Disaster relief only", "Anti-air and anti-submarine warfare", "Coastal patrolling only", "Merchant shipping escort"],
-    "correctAnswer": "Anti-air and anti-submarine warfare"
+    "question": "The food ministry had initiated proceedings against the FCI Executive Director following alleged irregularities in what specific area?",
+    "options": ["Land acquisition", "Rice sales", "Staff recruitment", "Equipment procurement"],
+    "correctAnswer": "Rice sales"
   },
   {
     "id": 19,
-    "question": "India aims to become a 'net security provider and trusted partner' across which geographical area, as per the Defence Minister's statement?",
-    "options": ["Indian Ocean Rim", "Persian Gulf", "Entire Indo-Pacific", "East African Coast"],
-    "correctAnswer": "Entire Indo-Pacific"
+    "question": "What was the immediate action ordered by the DoPT regarding the FCI Executive Director after cancelling the suspension?",
+    "options": ["Immediate termination", "Immediate repatriation to parent cadre", "Promotion", "Transfer to another ministry"],
+    "correctAnswer": "Immediate repatriation to parent cadre"
   },
   {
     "id": 20,
-    "question": "The Indian Navy's recent operations demonstrated its commitment to protecting vital economic interests in which region, as mentioned by the Defence Minister?",
-    "options": ["East Asia", "West Asia", "North Africa", "South America"],
-    "correctAnswer": "West Asia"
+    "question": "A review committee was also set up to improve administrative efficiency within which organization, as mentioned in the news?",
+    "options": ["Department of Personnel and Training", "Food Corporation of India", "Union Public Service Commission", "Comptroller and Auditor General"],
+    "correctAnswer": "Food Corporation of India"
   },
   {
     "id": 21,
-    "question": "The development of India's shipbuilding capacity aims to transform the nation into what, according to the news?",
-    "options": ["A major ship repair hub", "A global maritime defence hub", "A leading cruise line operator", "An exporter of raw materials for shipbuilding"],
-    "correctAnswer": "A global maritime defence hub"
+    "question": "What is the specific blend of ethanol with petrol, known as E20 fuel, which has been a subject of consumer concerns in India?",
+    "options": ["10% ethanol", "20% ethanol", "50% ethanol", "100% ethanol"],
+    "correctAnswer": "20% ethanol"
   },
   {
     "id": 22,
-    "question": "Which of the following is a key characteristic of the INS Mahendragiri mentioned in the headline?",
-    "options": ["Nuclear-powered", "Stealth capabilities", "Aircraft carrier", "Mine sweeper"],
-    "correctAnswer": "Stealth capabilities"
+    "question": "What are some of the common concerns reported by consumers regarding E20 fuel?",
+    "options": ["Increased mileage and smoother engine", "Reduced mileage and mechanical issues", "Higher power output", "Lower fuel price"],
+    "correctAnswer": "Reduced mileage and mechanical issues"
   },
   {
     "id": 23,
-    "question": "The Indian Navy's modernization agenda primarily aims to strengthen India's strategic foothold in which region?",
-    "options": ["Arctic", "Atlantic", "Indo-Pacific", "Mediterranean"],
-    "correctAnswer": "Indo-Pacific"
+    "question": "The news highlighted consumer concerns about E20 fuel. What is a primary objective of introducing ethanol-blended petrol in India?",
+    "options": ["To increase crude oil imports", "To reduce air pollution and reliance on fossil fuels", "To boost luxury car sales", "To promote diesel vehicles"],
+    "correctAnswer": "To reduce air pollution and reliance on fossil fuels"
   },
   {
     "id": 24,
-    "question": "What specific type of warfare capabilities does the INS Mahendragiri enhance for the Indian Navy?",
-    "options": ["Land-based artillery support", "Air-to-air combat", "Maritime combat", "Cyber warfare"],
-    "correctAnswer": "Maritime combat"
+    "question": "Which political leader recently interacted with vehicle owners to hear their E20 fuel concerns?",
+    "options": ["Narendra Modi", "Arvind Kejriwal", "Rahul Gandhi", "Amit Shah"],
+    "correctAnswer": "Arvind Kejriwal"
   },
   {
     "id": 25,
-    "question": "The phrase 'Mighty majestic matchless' was used in the headline to describe what aspect of India's defence?",
-    "options": ["Army's strength", "Air Force's precision", "Stealth frigates redefining maritime power", "Missile technology"],
-    "correctAnswer": "Stealth frigates redefining maritime power"
+    "question": "The E20 fuel policy is part of India's broader strategy to promote which type of fuels?",
+    "options": ["Fossil fuels", "Biofuels", "Nuclear fuels", "Hydrogen fuels"],
+    "correctAnswer": "Biofuels"
   }
 ]

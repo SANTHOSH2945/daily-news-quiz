@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to recent news, what serious issue has been alleged regarding the UGC-NET examination in India?",
-    "options": [
-      "Delay in result declaration",
-      "Changes in exam pattern",
-      "Paper leak racket",
-      "Technical glitches during the exam"
-    ],
-    "correctAnswer": "Paper leak racket"
+    "question": "Which major Indian city, home to the Eastern Naval Command, plays a significant role in India's maritime defense, as highlighted by Defence Minister Rajnath Singh's recent statements?",
+    "options": ["Kochi", "Mumbai", "Visakhapatnam", "Chennai"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 2,
-    "question": "A whistleblower has reportedly detailed a sting operation concerning which specific subject's paper being leaked for the UGC-NET exam?",
-    "options": [
-      "History",
-      "Commerce",
-      "Sociology",
-      "Political Science"
-    ],
-    "correctAnswer": "Sociology"
+    "question": "Defence Minister Rajnath Singh recently emphasized the Indian Navy's role in safeguarding national interests, particularly in operations in which region, crucial for India's economic security?",
+    "options": ["South China Sea", "West Asia", "Arctic Ocean", "Mediterranean Sea"],
+    "correctAnswer": "West Asia"
   },
   {
     "id": 3,
-    "question": "The alleged UGC-NET paper leak primarily raises concerns about the integrity of which system in India?",
-    "options": [
-      "Economic planning",
-      "Higher education and recruitment",
-      "Public administration",
-      "Legal system"
-    ],
-    "correctAnswer": "Higher education and recruitment"
+    "question": "India aims to become a net security provider and trusted partner across which strategically important region, a focus area for the Indian Navy?",
+    "options": ["Atlantic Ocean", "East Africa", "Indo-Pacific", "Central Asia"],
+    "correctAnswer": "Indo-Pacific"
   },
   {
     "id": 4,
-    "question": "What does UGC stand for in the context of the UGC-NET examination, which is crucial for higher education aspirants across India?",
-    "options": [
-      "Union Government Council",
-      "University Grants Commission",
-      "United Global Campus",
-      "Undergraduate Governance Committee"
-    ],
-    "correctAnswer": "University Grants Commission"
+    "question": "According to Defence Minister Rajnath Singh, India is developing its shipbuilding capacity with the ambition to become a global hub for what specific industry?",
+    "options": ["Commercial shipping", "Cruise tourism", "Maritime defence", "Fishing vessels"],
+    "correctAnswer": "Maritime defence"
   },
   {
     "id": 5,
-    "question": "What is the potential impact of a national exam paper leak, such as the alleged UGC-NET incident, on aspiring students across India, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "Increased job opportunities",
-      "Erosion of trust in the examination system",
-      "Easier qualification for research",
-      "Simplification of admission processes"
-    ],
-    "correctAnswer": "Erosion of trust in the examination system"
+    "question": "What major command of the Indian Navy has its headquarters in Visakhapatnam, Andhra Pradesh?",
+    "options": ["Western Naval Command", "Southern Naval Command", "Eastern Naval Command", "Andaman and Nicobar Command"],
+    "correctAnswer": "Eastern Naval Command"
   },
   {
     "id": 6,
-    "question": "The whistleblower in the UGC-NET case described the alleged paper leak as part of what kind of operation?",
-    "options": [
-      "A small-scale scam",
-      "A widespread 'network' or racket",
-      "An isolated incident",
-      "A technical error"
-    ],
-    "correctAnswer": "A widespread 'network' or racket"
+    "question": "Rajnath Singh recently stated that the Indian Navy is not just a fighting force but also a guardian of what aspect of India?",
+    "options": ["Agricultural production", "Digital infrastructure", "India's economy", "Internal security"],
+    "correctAnswer": "India's economy"
   },
   {
     "id": 7,
-    "question": "Which national examination's conduct is a parliamentary panel set to review on July 16, following a re-test, an issue that impacts medical aspirants nationwide?",
-    "options": [
-      "JEE Advanced",
-      "NEET",
-      "UPSC Civil Services",
-      "CAT"
-    ],
-    "correctAnswer": "NEET"
+    "question": "India is projected to significantly outpace which country in adding new dollar millionaires by 2025?",
+    "options": ["United States", "Japan", "China", "Germany"],
+    "correctAnswer": "China"
   },
   {
     "id": 8,
-    "question": "What does NEET stand for, an examination crucial for medical admissions across India, including in Telangana and Andhra Pradesh?",
-    "options": [
-      "National Engineering Entrance Test",
-      "National Eligibility cum Entrance Test",
-      "New Education Assessment Test",
-      "National Examination for Engineering and Technology"
-    ],
-    "correctAnswer": "National Eligibility cum Entrance Test"
+    "question": "What types of assets do wealthy Indians primarily hold, contrasting with more financialized portfolios in Western economies?",
+    "options": ["Stocks and bonds", "Cryptocurrencies and NFTs", "Real estate and gold", "Mutual funds and derivatives"],
+    "correctAnswer": "Real estate and gold"
   },
   {
     "id": 9,
-    "question": "The parliamentary panel's review of NEET is scheduled to occur after what specific event related to the exam?",
-    "options": [
-      "The announcement of results",
-      "A re-test",
-      "The application deadline",
-      "The counselling process"
-    ],
-    "correctAnswer": "A re-test"
+    "question": "The growth of wealth in India, leading to more millionaires, is noted to be concentrated in which specific areas?",
+    "options": ["Rural agricultural regions", "Coastal fishing villages", "A few major cities", "Border towns"],
+    "correctAnswer": "A few major cities"
   },
   {
     "id": 10,
-    "question": "What is the primary purpose of the NEET examination for students across India, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "Admission to engineering courses",
-      "Admission to medical and dental courses",
-      "Entry into civil services",
-      "Scholarship eligibility"
-    ],
-    "correctAnswer": "Admission to medical and dental courses"
+    "question": "By what year is India expected to have added over 31,000 new dollar millionaires, according to recent reports?",
+    "options": ["2023", "2024", "2025", "2030"],
+    "correctAnswer": "2025"
   },
   {
     "id": 11,
-    "question": "The parliamentary review of NEET conduct signifies concerns about which aspect of the examination?",
-    "options": [
-      "Syllabus design",
-      "Question paper difficulty",
-      "Fairness and administrative processes",
-      "Number of examination centers"
-    ],
-    "correctAnswer": "Fairness and administrative processes"
+    "question": "Hyderabad, a prominent city in Telangana, exemplifies the trend of wealth concentration in major Indian cities due to its significant growth in which sector?",
+    "options": ["Traditional handicrafts", "Information Technology and pharmaceuticals", "Heavy industries", "Coal mining"],
+    "correctAnswer": "Information Technology and pharmaceuticals"
   },
   {
     "id": 12,
-    "question": "For aspirants from Telangana and Andhra Pradesh aiming for medical education, the review of NEET conduct is significant because it addresses:",
-    "options": [
-      "Curriculum changes in medical colleges",
-      "Infrastructure development in hospitals",
-      "Issues related to the examination's integrity and fairness",
-      "Scholarship opportunities for rural students"
-    ],
-    "correctAnswer": "Issues related to the examination's integrity and fairness"
+    "question": "Which national authority recently issued 9 notices to an e-commerce app for alleged food safety violations across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Bureau of Indian Standards (BIS)", "Food Safety and Standards Authority of India (FSSAI)", "Ministry of Consumer Affairs", "National Green Tribunal (NGT)"],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 13,
-    "question": "A recent regulation in India states that drugs containing what minimum percentage of alcohol will require a prescription, affecting consumers nationwide?",
-    "options": [
-      "Over 5%",
-      "Over 8%",
-      "Over 10%",
-      "Over 12%"
-    ],
-    "correctAnswer": "Over 12%"
+    "question": "The FSSAI notices were issued against an e-commerce application primarily concerning alleged violations related to what aspect?",
+    "options": ["Data privacy", "Financial transactions", "Food safety", "Delivery logistics"],
+    "correctAnswer": "Food safety"
   },
   {
     "id": 14,
-    "question": "The new policy requiring a prescription for certain alcohol-containing drugs is likely aimed at addressing which public health concern in India?",
-    "options": [
-      "Over-prescription of antibiotics",
-      "Misuse and potential abuse of drugs",
-      "Shortage of essential medicines",
-      "High cost of pharmaceuticals"
-    ],
-    "correctAnswer": "Misuse and potential abuse of drugs"
+    "question": "What is the primary purpose of the Food Safety and Standards Authority of India (FSSAI)?",
+    "options": ["Regulating financial markets", "Ensuring food safety and quality", "Promoting agricultural exports", "Managing railway infrastructure"],
+    "correctAnswer": "Ensuring food safety and quality"
   },
   {
     "id": 15,
-    "question": "Who among the following would be directly impacted by the new regulation requiring prescriptions for drugs with over 12% alcohol content across Indian states, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Only pharmaceutical manufacturers",
-      "Only doctors",
-      "Consumers and pharmacies",
-      "Only drug importers"
-    ],
-    "correctAnswer": "Consumers and pharmacies"
+    "question": "The recent FSSAI notices highlight the importance of consumer protection in which rapidly growing sector that serves customers in states like Telangana and Andhra Pradesh?",
+    "options": ["Traditional retail markets", "E-commerce food delivery", "Public distribution system", "Street food vendors"],
+    "correctAnswer": "E-commerce food delivery"
   },
   {
     "id": 16,
-    "question": "What type of sale would be restricted for drugs with over 12% alcohol content under the new Indian regulation?",
-    "options": [
-      "Online sales",
-      "Over-the-counter (OTC) sales",
-      "Wholesale purchases",
-      "Export sales"
-    ],
-    "correctAnswer": "Over-the-counter (OTC) sales"
+    "question": "The Defence Minister's statement on the Indian Navy being a guardian of the economy is especially pertinent for coastal states like Andhra Pradesh, which relies on which type of economic activity?",
+    "options": ["Landlocked agricultural exports", "Inland waterway transport", "Maritime trade and port operations", "Mountain tourism"],
+    "correctAnswer": "Maritime trade and port operations"
   },
   {
     "id": 17,
-    "question": "The mandate for a prescription for certain drugs falls under the purview of which regulatory body or governmental function in India?",
-    "options": [
-      "Ministry of Finance",
-      "Ministry of External Affairs",
-      "Drug regulatory authorities / Ministry of Health",
-      "Ministry of Education"
-    ],
-    "correctAnswer": "Drug regulatory authorities / Ministry of Health"
+    "question": "What type of 'order' did the Prime Minister's recent diplomatic efforts aim to strengthen in the Indo-Pacific region, a strategic area for the Indian Navy?",
+    "options": ["Economic bloc order", "Rule-based order", "Military alliance order", "Cultural exchange order"],
+    "correctAnswer": "Rule-based order"
   },
   {
     "id": 18,
-    "question": "This new drug regulation reflects a broader effort in India to enhance what aspect of public health management?",
-    "options": [
-      "Access to generic medicines",
-      "Pharmaceutical research and development",
-      "Controlled distribution and responsible consumption of medication",
-      "International drug trade agreements"
-    ],
-    "correctAnswer": "Controlled distribution and responsible consumption of medication"
+    "question": "The Indian Navy's recent commitment to protecting vital economic interests was demonstrated through operations in which specific international region?",
+    "options": ["East African coast", "West Asia", "South Pacific", "Baltic Sea"],
+    "correctAnswer": "West Asia"
   },
   {
     "id": 19,
-    "question": "What is the primary objective of the Uniform Civil Code (UCC) in India, as discussed in recent news, aiming for a unified legal framework for personal matters?",
-    "options": [
-      "To standardize state borders",
-      "To create a uniform legal framework for personal civil matters",
-      "To unify tax laws across states",
-      "To standardize education policies"
-    ],
-    "correctAnswer": "To create a uniform legal framework for personal civil matters"
+    "question": "India's ambition to become a global maritime defence hub through shipbuilding capacity development would benefit shipyards located in which region of India, including those in Andhra Pradesh?",
+    "options": ["North Indian plains", "Northeastern states", "Coastal regions", "Central plateau"],
+    "correctAnswer": "Coastal regions"
   },
   {
     "id": 20,
-    "question": "While the Uniform Civil Code (UCC) is a national concept, which Indian state government was recently reported to have formed a 9-member panel to examine its draft bill?",
-    "options": [
-      "Uttar Pradesh",
-      "West Bengal",
-      "Maharashtra",
-      "Tamil Nadu"
-    ],
-    "correctAnswer": "West Bengal"
+    "question": "The trend of Indian wealthy individuals preferring real estate as an asset class is highly visible in fast-growing urban centers like which capital city in Telangana?",
+    "options": ["Amaravati", "Bengaluru", "Hyderabad", "Chennai"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 21,
-    "question": "Who is reported to be heading the expert panel formed to review the Uniform Civil Code draft in West Bengal?",
-    "options": [
-      "A retired Chief Justice of India",
-      "A prominent legal scholar",
-      "Retired Supreme Court judge Justice Ranjana Prakash Desai",
-      "A former Attorney General"
-    ],
-    "correctAnswer": "Retired Supreme Court judge Justice Ranjana Prakash Desai"
+    "question": "Beyond real estate, what other tangible asset is a primary choice for wealthy Indians, as mentioned in the report on new millionaires, a trend also observed in Telangana and Andhra Pradesh?",
+    "options": ["Diamonds", "Silver", "Gold", "Platinum"],
+    "correctAnswer": "Gold"
   },
   {
     "id": 22,
-    "question": "The proposed Uniform Civil Code primarily seeks to unify laws pertaining to which category of matters for citizens across India?",
-    "options": [
-      "Criminal justice",
-      "Property disputes",
-      "Personal matters like marriage, divorce, inheritance",
-      "Commercial contracts"
-    ],
-    "correctAnswer": "Personal matters like marriage, divorce, inheritance"
+    "question": "The increase in dollar millionaires signifies India's growing economic prosperity. What is the traditional method for holding wealth described in the report, which contrasts with Western financialization?",
+    "options": ["Investment in startups", "Direct equity market participation", "Preference for tangible assets", "Offshore banking"],
+    "correctAnswer": "Preference for tangible assets"
   },
   {
     "id": 23,
-    "question": "When is the draft UCC bill expected to be introduced during the Assembly session in West Bengal, according to the news?",
-    "options": [
-      "July session",
-      "August session",
-      "September session",
-      "Winter session"
-    ],
-    "correctAnswer": "August session"
+    "question": "When an e-commerce food app receives notices from FSSAI, it implies potential violations of standards related to what?",
+    "options": ["Delivery time", "Product quality and hygiene", "Customer service", "Pricing"],
+    "correctAnswer": "Product quality and hygiene"
   },
   {
     "id": 24,
-    "question": "The ongoing debate and examination of the Uniform Civil Code (UCC) by various states and the center is a significant discussion for all Indian citizens, including those in Telangana and Andhra Pradesh, due to its potential impact on:",
-    "options": [
-      "Economic development policies",
-      "Individual personal laws and rights",
-      "Agricultural reforms",
-      "Foreign relations"
-    ],
-    "correctAnswer": "Individual personal laws and rights"
+    "question": "The FSSAI's actions against e-commerce apps are part of a broader mandate to ensure safe food access for all Indian citizens, including those residing in which two prominent South Indian states recently created from a single state?",
+    "options": ["Karnataka and Kerala", "Tamil Nadu and Puducherry", "Telangana and Andhra Pradesh", "Goa and Maharashtra"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 25,
-    "question": "The formation of an expert panel to examine the draft UCC bill signifies what stage in the legislative process for this complex issue in India?",
-    "options": [
-      "Final approval and implementation",
-      "Initial review and drafting",
-      "Public referendum",
-      "International consultation"
-    ],
-    "correctAnswer": "Initial review and drafting"
+    "question": "Ensuring food safety across digital platforms, like the e-commerce app mentioned, is crucial for public health, and its effective implementation is monitored by which governmental body?",
+    "options": ["Ministry of Health and Family Welfare", "Department of Consumer Affairs", "FSSAI", "NITI Aayog"],
+    "correctAnswer": "FSSAI"
   }
 ]

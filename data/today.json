@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "The recent national discussions around the NEET-UG examination paper leak have raised concerns among students in Telangana and Andhra Pradesh. Which of the following is a prominent demand made by student organizations in these states regarding the issue?",
-    "options": ["Immediate cancellation of all state-level entrance exams", "Re-evaluation of marks for engineering admissions", "Call for separate state-conducted medical entrance tests", "Increased reservation quotas for local students"],
-    "correctAnswer": "Call for separate state-conducted medical entrance tests"
+    "question": "What is the central theme often adopted for large-scale plantation drives across various Indian states, such as the 'Maha Vriksharopan 2026' mentioned in the news context?",
+    "options": [
+      "Option A) Har Ghar Ped (Tree in Every Home)",
+      "Option B) Jal Jeevan Hariyali (Water, Life, Greenery)",
+      "Option C) Ek Ped Maa Ke Naam (One Tree in the Name of Mother)",
+      "Option D) Vriksh Mitra Abhiyan (Tree Friend Campaign)"
+    ],
+    "correctAnswer": "Option C) Ek Ped Maa Ke Naam (One Tree in the Name of Mother)"
   },
   {
     "id": 2,
-    "question": "Ahead of the Monsoon Session, Members of Parliament (MPs) from Telangana are expected to raise which of the following long-pending demands concerning the state's development?",
-    "options": ["Special Category Status for Telangana", "Increased allocations for the Kaleshwaram Lift Irrigation Project", "Establishment of a national railway coach factory in Warangal", "Funding for the Polavaram Project"],
-    "correctAnswer": "Establishment of a national railway coach factory in Warangal"
+    "question": "What is a primary objective behind ambitious state-led environmental initiatives like the 'Maha Vriksharopan' campaign in India?",
+    "options": [
+      "Option A) To boost agricultural exports",
+      "Option B) To promote urban development",
+      "Option C) To express gratitude to Mother Earth and enhance green cover",
+      "Option D) To attract international tourism"
+    ],
+    "correctAnswer": "Option C) To express gratitude to Mother Earth and enhance green cover"
   },
   {
     "id": 3,
-    "question": "What is a key issue that Members of Parliament (MPs) from Andhra Pradesh are likely to advocate for during the upcoming Monsoon Session of Parliament?",
-    "options": ["Increased central grants for the Amaravati capital region", "Expedited completion of the Polavaram Project", "Special financial package for establishing new IT parks", "Waiver of agricultural loans for drought-affected districts"],
-    "correctAnswer": "Expedited completion of the Polavaram Project"
+    "question": "Which of the following is highlighted as a core focus for new political movements in India, as exemplified by 'We The Leaders'?",
+    "options": [
+      "Option A) Exclusive religious advocacy",
+      "Option B) Governance and public responsibility",
+      "Option C) Expanding international relations",
+      "Option D) Promoting regional culinary traditions"
+    ],
+    "correctAnswer": "Option B) Governance and public responsibility"
   },
   {
     "id": 4,
-    "question": "Which of the following is typically a primary focus of the budget session in the Andhra Pradesh Legislative Assembly?",
-    "options": ["Discussion on international trade agreements", "Presentation and approval of the state's annual financial statement", "Debates on national defense policies", "Amendments to the Indian Constitution"],
-    "correctAnswer": "Presentation and approval of the state's annual financial statement"
+    "question": "In the context of new political entities emerging in India, what principle did 'We The Leaders' explicitly state as being outside its scope?",
+    "options": [
+      "Option A) Economic policy",
+      "Option B) Public education",
+      "Option C) Religion",
+      "Option D) Healthcare"
+    ],
+    "correctAnswer": "Option C) Religion"
   },
   {
     "id": 5,
-    "question": "In a recent legislative assembly session in Telangana, what was a key focus of discussion regarding public welfare schemes?",
-    "options": ["The implementation challenges of the Rythu Bandhu scheme", "The impact of national highways on urban infrastructure", "The regulation of cryptocurrency within the state", "The proposed changes to the national education policy"],
-    "correctAnswer": "The implementation challenges of the Rythu Bandhu scheme"
+    "question": "Which demographic groups are often emphasized as significant components in the composition of new political movements in India, as seen with 'We The Leaders'?",
+    "options": [
+      "Option A) Senior citizens and retired professionals",
+      "Option B) Farmers and agricultural laborers",
+      "Option C) Women and young people",
+      "Option D) Business owners and entrepreneurs"
+    ],
+    "correctAnswer": "Option C) Women and young people"
   },
   {
     "id": 6,
-    "question": "Following the NEET-UG controversy, the Education Minister of which Telugu state recently reiterated the state's commitment to protecting students' interests and hinted at exploring legal options?",
-    "options": ["Andhra Pradesh", "Telangana", "Both states", "Neither state"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What common natural disasters frequently affect various regions of India during the monsoon season, leading to widespread damage and displacement?",
+    "options": [
+      "Option A) Earthquakes and tsunamis",
+      "Option B) Cyclones and droughts",
+      "Option C) Floods and landslides",
+      "Option D) Volcanic eruptions and dust storms"
+    ],
+    "correctAnswer": "Option C) Floods and landslides"
   },
   {
     "id": 7,
-    "question": "The Telangana government recently initiated a major project focused on green cover enhancement across urban areas. What is this initiative commonly known as?",
-    "options": ["Haritha Haram", "Palle Pragathi", "Pattana Pragathi", "Kanti Velugu"],
-    "correctAnswer": "Haritha Haram"
+    "question": "How do severe natural disasters like monsoon floods primarily impact livelihoods in affected regions across India?",
+    "options": [
+      "Option A) By boosting local tourism",
+      "Option B) By improving public transport",
+      "Option C) By damaging agricultural land and infrastructure",
+      "Option D) By increasing trade opportunities"
+    ],
+    "correctAnswer": "Option C) By damaging agricultural land and infrastructure"
   },
   {
     "id": 8,
-    "question": "Which flagship scheme of the Andhra Pradesh government provides financial assistance to mothers for sending their children to private schools or junior colleges?",
-    "options": ["Amma Vodi", "YSR Rythu Bharosa", "Jagananna Vidya Deevena", "Pedalandariki Illu"],
-    "correctAnswer": "Amma Vodi"
+    "question": "In the aftermath of widespread natural calamities in India, what is a crucial immediate measure undertaken for displaced populations?",
+    "options": [
+      "Option A) Organizing cultural festivals",
+      "Option B) Establishing new universities",
+      "Option C) Providing refuge in relief camps",
+      "Option D) Launching space missions"
+    ],
+    "correctAnswer": "Option C) Providing refuge in relief camps"
   },
   {
     "id": 9,
-    "question": "The issue of inter-state water sharing, particularly concerning the Krishna River, remains a contentious topic between Telangana and Andhra Pradesh. Which national body is primarily responsible for resolving such disputes?",
-    "options": ["NITI Aayog", "Ministry of Jal Shakti", "Supreme Court of India", "Krishna River Management Board (KRMB)"],
-    "correctAnswer": "Krishna River Management Board (KRMB)"
+    "question": "Beyond specific events, national organizations like the RSS often engage in reviewing initiatives related to what broader social issues across India?",
+    "options": [
+      "Option A) Cryptocurrency regulations",
+      "Option B) Space exploration programs",
+      "Option C) Drug abuse and population imbalance",
+      "Option D) Professional sports leagues"
+    ],
+    "correctAnswer": "Option C) Drug abuse and population imbalance"
   },
   {
     "id": 10,
-    "question": "In the context of national legislative discussions, which political party, apart from the ruling party in Telangana, holds a notable number of Lok Sabha seats from the state, potentially influencing national debates?",
-    "options": ["Bharatiya Janata Party", "All India Majlis-e-Ittehadul Muslimeen", "Indian National Congress", "Telugu Desam Party"],
-    "correctAnswer": "Indian National Congress"
+    "question": "What demographic issue is often a subject of discussion among social and political organizations in India, as highlighted by the RSS's review?",
+    "options": [
+      "Option A) Population density in coastal areas",
+      "Option B) Population imbalance",
+      "Option C) Population growth in urban slums",
+      "Option D) Population distribution by profession"
+    ],
+    "correctAnswer": "Option B) Population imbalance"
   },
   {
     "id": 11,
-    "question": "Following the recent general elections, which political alliance secured a significant majority of Lok Sabha seats from Andhra Pradesh, influencing the state's representation in national parliamentary sessions?",
-    "options": ["YSR Congress Party (YSRCP)", "NDA Alliance (TDP, BJP, JSP)", "Congress and Left Alliance", "Independent candidates"],
-    "correctAnswer": "NDA Alliance (TDP, BJP, JSP)"
+    "question": "What major national exercise is often discussed by various Indian organizations for its significance in policy planning and resource allocation?",
+    "options": [
+      "Option A) Annual budget presentation",
+      "Option B) Upcoming census",
+      "Option C) State assembly elections",
+      "Option D) National sports events"
+    ],
+    "correctAnswer": "Option B) Upcoming census"
   },
   {
     "id": 12,
-    "question": "What recent initiative has the Telangana government undertaken to improve the quality of government schools and provide better infrastructure for students?",
-    "options": ["Mana Ooru - Mana Badi / Mana Basti - Mana Badi", "Kanti Velugu", "Mission Kakatiya", "Double Bedroom Housing Scheme"],
-    "correctAnswer": "Mana Ooru - Mana Badi / Mana Basti - Mana Badi"
+    "question": "What type of allegations often prompt calls for investigations, such as an SIT probe, in the context of large-scale public donations or trusts in India?",
+    "options": [
+      "Option A) Efficient fund management",
+      "Option B) Timely project completion",
+      "Option C) Donation irregularities or theft",
+      "Option D) Innovative fundraising methods"
+    ],
+    "correctAnswer": "Option C) Donation irregularities or theft"
   },
   {
     "id": 13,
-    "question": "The Andhra Pradesh government launched a program to provide financial assistance for students' hostel and mess charges, primarily benefiting those pursuing higher education. What is this scheme called?",
-    "options": ["Jagananna Vidya Deevena", "Jagananna Vasathi Deevena", "Amma Vodi", "YSR Vidyonnathi"],
-    "correctAnswer": "Jagananna Vasathi Deevena"
+    "question": "Besides specific events, what general activity do national organizations often plan to strengthen and engage volunteers in across India?",
+    "options": [
+      "Option A) Expanding commercial enterprises",
+      "Option B) Social work and community engagement",
+      "Option C) Conducting international diplomacy",
+      "Option D) Developing new technologies"
+    ],
+    "correctAnswer": "Option B) Social work and community engagement"
   },
   {
     "id": 14,
-    "question": "Which political party formed the government in Telangana after the State Assembly elections held in late 2023?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "How does India typically respond to attacks on commercial vessels involving its crew members in international waters, such as the incident off Oman?",
+    "options": [
+      "Option A) By remaining neutral and silent",
+      "Option B) By condemning the attack and seeking accountability",
+      "Option C) By sending humanitarian aid to the attackers",
+      "Option D) By immediately launching a counter-attack"
+    ],
+    "correctAnswer": "Option B) By condemning the attack and seeking accountability"
   },
   {
     "id": 15,
-    "question": "Which political alliance came to power in Andhra Pradesh following the State Assembly elections in 2024?",
-    "options": ["YSR Congress Party (YSRCP)", "TDP-JSP-BJP Alliance", "Congress-Left Alliance", "None of the above"],
-    "correctAnswer": "TDP-JSP-BJP Alliance"
+    "question": "What form of protest is often undertaken by climate and environmental activists in India to draw attention to their causes, as exemplified by Sonam Wangchuk's action?",
+    "options": [
+      "Option A) Flash mobs",
+      "Option B) Hunger strike",
+      "Option C) Digital marketing campaigns",
+      "Option D) Fashion shows"
+    ],
+    "correctAnswer": "Option B) Hunger strike"
   },
   {
     "id": 16,
-    "question": "Hyderabad, the capital of Telangana, is often referred to as a major hub for which of the following industries, contributing significantly to the state's economy?",
-    "options": ["Textile manufacturing", "Information Technology and Pharmaceuticals", "Heavy machinery production", "Diamond polishing"],
-    "correctAnswer": "Information Technology and Pharmaceuticals"
+    "question": "How do security forces in major Indian cities typically respond to credible threats or alerts, such as a bomb threat to a prominent hotel?",
+    "options": [
+      "Option A) By ignoring the threat until confirmed",
+      "Option B) By issuing travel advisories only",
+      "Option C) By conducting a security search and investigation",
+      "Option D) By closing all public spaces immediately"
+    ],
+    "correctAnswer": "Option C) By conducting a security search and investigation"
   },
   {
     "id": 17,
-    "question": "Andhra Pradesh is a leading state in the production of which cash crop, contributing significantly to its agricultural economy?",
-    "options": ["Coffee", "Tobacco", "Tea", "Jute"],
-    "correctAnswer": "Tobacco"
+    "question": "What issue regarding financial management in religious institutions sometimes leads to official action against involved personnel in various Indian states?",
+    "options": [
+      "Option A) Efficient budget allocation",
+      "Option B) Growth in devotee numbers",
+      "Option C) Financial irregularities",
+      "Option D) Successful renovation projects"
+    ],
+    "correctAnswer": "Option C) Financial irregularities"
   },
   {
     "id": 18,
-    "question": "The construction of regional ring road (RRR) around Hyderabad is a major infrastructure project aimed at improving connectivity in Telangana. What is its primary objective?",
-    "options": ["To connect Hyderabad to neighboring state capitals", "To reduce traffic congestion within Hyderabad city", "To provide irrigation facilities to surrounding districts", "To establish new industrial corridors"],
-    "correctAnswer": "To reduce traffic congestion within Hyderabad city"
+    "question": "What cultural phenomenon in India is characterized by a deep and enduring emotional connection to its legendary players and iconic matches?",
+    "options": [
+      "Option A) Traditional dance forms",
+      "Option B) Classical music concerts",
+      "Option C) Cricket",
+      "Option D) Regional cinema"
+    ],
+    "correctAnswer": "Option C) Cricket"
   },
   {
     "id": 19,
-    "question": "The proposed Bhavanapadu Port is an ambitious project in Andhra Pradesh, aimed at boosting the state's maritime trade. In which district is this port being developed?",
-    "options": ["Visakhapatnam", "Nellore", "Srikakulam", "Krishna"],
-    "correctAnswer": "Srikakulam"
+    "question": "In Indian political discourse, what strategy do leaders sometimes employ to counter accusations or appeal to specific voter bases, often involving religious practices or symbolism?",
+    "options": [
+      "Option A) Hosting international summits",
+      "Option B) Performing religious rituals like Sundarkand Path",
+      "Option C) Announcing economic stimulus packages",
+      "Option D) Launching public health campaigns"
+    ],
+    "correctAnswer": "Option B) Performing religious rituals like Sundarkand Path"
   },
   {
     "id": 20,
-    "question": "The 'Mahalakshmi' scheme, a promise by the new Telangana government, offers which key benefit to women in the state?",
-    "options": ["Free education up to postgraduate level", "Free travel in state-run buses", "Direct cash transfer for household expenses", "Interest-free loans for entrepreneurship"],
-    "correctAnswer": "Free travel in state-run buses"
+    "question": "What is a common characteristic of political exchanges between rival parties in India, especially during controversies?",
+    "options": [
+      "Option A) Unanimous agreement on policy",
+      "Option B) Mutual praise and collaboration",
+      "Option C) Escalated attacks and accusations of political opportunism",
+      "Option D) Joint press conferences"
+    ],
+    "correctAnswer": "Option C) Escalated attacks and accusations of political opportunism"
   },
   {
     "id": 21,
-    "question": "The 'YSR Cheyutha' scheme of the Andhra Pradesh government aims to empower women from SC, ST, BC, and Minority communities by providing what?",
-    "options": ["Free housing", "Financial assistance for self-employment and skill development", "Health insurance coverage", "Free electricity connection"],
-    "correctAnswer": "Financial assistance for self-employment and skill development"
+    "question": "Which cultural sector in India has seen individuals successfully balance professional careers with artistic pursuits, such as fronting popular bands?",
+    "options": [
+      "Option A) Agricultural research",
+      "Option B) Medical and music industry",
+      "Option C) Space technology",
+      "Option D) Nuclear science"
+    ],
+    "correctAnswer": "Option B) Medical and music industry"
   },
   {
     "id": 22,
-    "question": "The Medaram Sammakka Saralamma Jatara, one of the largest tribal festivals in Asia, is celebrated in which Indian state?",
-    "options": ["Andhra Pradesh", "Odisha", "Telangana", "Chhattisgarh"],
-    "correctAnswer": "Telangana"
+    "question": "What internal challenge do major political parties in India frequently face, especially in the lead-up to state elections?",
+    "options": [
+      "Option A) Over-reliance on external consultants",
+      "Option B) Infighting and factionalism among members",
+      "Option C) Lack of public interest in their policies",
+      "Option D) Abundance of unanimous decisions"
+    ],
+    "correctAnswer": "Option B) Infighting and factionalism among members"
   },
   {
     "id": 23,
-    "question": "Which famous pilgrimage site in Andhra Pradesh is home to the Venkateswara Temple, attracting millions of devotees annually?",
-    "options": ["Srisailam", "Annavaram", "Simhachalam", "Tirumala"],
-    "correctAnswer": "Tirumala"
+    "question": "In the context of state-level political competition in India, what can internal disunity within a party be perceived as by rival parties?",
+    "options": [
+      "Option A) A sign of democratic health",
+      "Option B) A boost to their electoral prospects",
+      "Option C) A reason for increased alliances",
+      "Option D) A challenge to national stability"
+    ],
+    "correctAnswer": "Option B) A boost to their electoral prospects"
   },
   {
     "id": 24,
-    "question": "The Mission Kakatiya initiative in Telangana focuses on which of the following objectives?",
-    "options": ["Reforestation of urban areas", "Restoration of minor irrigation tanks and lakes", "Promotion of organic farming", "Development of solar power projects"],
-    "correctAnswer": "Restoration of minor irrigation tanks and lakes"
+    "question": "Despite increasing public awareness efforts in India, what still significantly hinders a scientific understanding of mental health conditions?",
+    "options": [
+      "Option A) Lack of medical professionals",
+      "Option B) Widespread public comprehension matching scientific advancements",
+      "Option C) Persistent misunderstandings and stigma",
+      "Option D) Absence of government initiatives"
+    ],
+    "correctAnswer": "Option C) Persistent misunderstandings and stigma"
   },
   {
     "id": 25,
-    "question": "The Rythu Bharosa Kendras (RBKs) in Andhra Pradesh serve as a one-stop-shop for farmers, offering services ranging from seed and fertilizer supply to agricultural advice. What is a key benefit these centers aim to provide?",
-    "options": ["Facilitating international export of agricultural products", "Ensuring fair prices for farmers' produce and reducing input costs", "Promoting large-scale corporate farming", "Providing direct subsidies for farm machinery purchases"],
-    "correctAnswer": "Ensuring fair prices for farmers' produce and reducing input costs"
+    "question": "According to experts, what role does media portrayal sometimes play in perpetuating stigma around mental health issues in India?",
+    "options": [
+      "Option A) Accurately reflecting diverse experiences",
+      "Option B) Dramatizing issues and portraying affected individuals as violent or erratic",
+      "Option C) Promoting empathetic understanding",
+      "Option D) Encouraging professional help-seeking"
+    ],
+    "correctAnswer": "Option B) Dramatizing issues and portraying affected individuals as violent or erratic"
   }
 ]

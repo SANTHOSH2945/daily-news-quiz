@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What city in India does the student, Manideep Reddy, who was found dead in Finland, hail from?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which two Indian states were primarily mentioned in the news regarding the tourists who died in the Vietnam boat capsize tragedy?",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "correctAnswer": "Andhra Pradesh and Telangana"
   },
   {
     "id": 2,
-    "question": "In which European country was the 18-year-old Hyderabad student, Manideep Reddy, found dead after going missing?",
-    "options": ["Sweden", "Norway", "Finland", "Denmark"],
-    "correctAnswer": "Finland"
+    "question": "The Indian tourists from Andhra Pradesh and Telangana involved in the Vietnam boat capsize were traveling for a trip related to which profession?",
+    "options": ["Medical professionals", "Software engineers", "Mobile phone dealers", "Textile manufacturers"],
+    "correctAnswer": "Mobile phone dealers"
   },
   {
     "id": 3,
-    "question": "The family of Manideep Reddy, the Hyderabad student found dead in Finland, has raised serious questions about which aspect of the case?",
-    "options": ["Lack of financial support", "Improper investigation", "Delayed visa process", "Language barrier"],
-    "correctAnswer": "Improper investigation"
+    "question": "The boat capsize incident involving Indian tourists occurred near which island in Vietnam?",
+    "options": ["Ha Long Bay", "Con Dao Island", "Phu Quoc Island", "Cat Ba Island"],
+    "correctAnswer": "Phu Quoc Island"
   },
   {
     "id": 4,
-    "question": "Manideep Reddy, the student from Hyderabad, was reported missing for approximately how long before his body was recovered in Finland?",
-    "options": ["One month", "Two months", "Three months", "Six months"],
-    "correctAnswer": "Two months"
+    "question": "How many Indian tourists were reported to have died in the boat capsize incident near Phu Quoc, Vietnam, according to one of the headlines?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": "15"
   },
   {
     "id": 5,
-    "question": "The body of the Hyderabad student, Manideep Reddy, was recovered from which type of location in Helsinki, Finland?",
-    "options": ["A forest", "A lake", "The sea", "A river"],
-    "correctAnswer": "The sea"
+    "question": "Besides Andhra Pradesh and Telangana, which other Indian states were mentioned as having individuals affected by the Vietnam boat capsize, according to one of the news reports?",
+    "options": ["Karnataka and Goa", "Tamil Nadu and Kerala", "Maharashtra and Gujarat", "Odisha and West Bengal"],
+    "correctAnswer": "Tamil Nadu and Kerala"
   },
   {
     "id": 6,
-    "question": "Which body in India is responsible for conducting the 'special intensive revision' (SIR) process for voter lists, recently flagged by UN rapporteurs?",
-    "options": ["Ministry of Law and Justice", "Election Commission of India", "Ministry of Home Affairs", "Unique Identification Authority of India (UIDAI)"],
-    "correctAnswer": "Election Commission of India"
+    "question": "What immediate action did Vietnamese authorities take following the boat capsize incident involving Indian tourists near Phu Quoc?",
+    "options": ["Repatriated all bodies immediately", "Launched an investigation into the cause", "Imposed a travel ban", "Issued an apology to India"],
+    "correctAnswer": "Launched an investigation into the cause"
   },
   {
     "id": 7,
-    "question": "What specific process related to elections did 3 UN special rapporteurs raise concerns about in India?",
-    "options": ["Campaign finance regulations", "Electronic voting machine security", "Voter list revision", "Delimitation of constituencies"],
-    "correctAnswer": "Voter list revision"
+    "question": "What was the total number of Indian tourists on board the speedboat that capsized near Vietnam's Phu Quoc island, as per the news?",
+    "options": ["20", "25", "32", "40"],
+    "correctAnswer": "32"
   },
   {
     "id": 8,
-    "question": "The Election Commission of India (ECI) dismissed concerns about the 'opaque' voter list revision process, stating it was transparent and upheld by which judicial body?",
-    "options": ["High Courts", "District Courts", "Supreme Court", "Lok Adalat"],
-    "correctAnswer": "Supreme Court"
+    "question": "Which central agency is investigating Dharmesh Sangani in a case related to alleged global gold smuggling and money laundering?",
+    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Directorate of Revenue Intelligence (DRI)"],
+    "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 9,
-    "question": "What type of allegations regarding voter list revision did UN rapporteurs raise concerns about, which were refuted by the Election Commission?",
-    "options": ["Exclusion of minorities", "Inclusion of underage voters", "Lack of biometric verification", "Political party interference"],
-    "correctAnswer": "Exclusion of minorities"
+    "question": "What specific act is Dharmesh Sangani's company being investigated for violating by the Enforcement Directorate in the gold smuggling case?",
+    "options": ["Prevention of Money Laundering Act (PMLA)", "Foreign Exchange Management Act (FEMA)", "Customs Act", "Prevention of Corruption Act"],
+    "correctAnswer": "Foreign Exchange Management Act (FEMA)"
   },
   {
     "id": 10,
-    "question": "The Election Commission of India asserted that ample opportunities were given to electors during the special intensive revision process for what purpose?",
-    "options": ["To register new parties", "To challenge any exclusions", "To propose election reforms", "To vote early"],
-    "correctAnswer": "To challenge any exclusions"
+    "question": "What unique detail was reported about the recovery of Dharmesh Sangani's mobile phone during the ED raid?",
+    "options": ["It was found hidden in a secret compartment", "It was flung from his apartment by Sangani", "It was encrypted and difficult to access", "It was already wiped clean of data"],
+    "correctAnswer": "It was flung from his apartment by Sangani"
   },
   {
     "id": 11,
-    "question": "Which specific type of trials, according to CJI Suryakant, presents a challenge for speedy completion in India's judicial system?",
-    "options": ["Civil disputes", "Petty crimes", "UAPA trials", "Environmental cases"],
-    "correctAnswer": "UAPA trials"
+    "question": "A parliamentary panel recently noted concerns about a clause in which type of bill, suggesting it might be 'unconstitutional' regarding officials like PMs and CMs?",
+    "options": ["Electoral Reforms Bill", "Anti-Corruption Bill", "Data Protection Bill", "Education Policy Bill"],
+    "correctAnswer": "Anti-Corruption Bill"
   },
   {
     "id": 12,
-    "question": "What does UAPA stand for in the context of Indian law, where trials are posing a challenge for speedy completion?",
-    "options": ["Universal Anti-Poverty Act", "Unlawful Activities (Prevention) Act", "Urban Planning and Development Act", "Unified Agricultural Produce Act"],
-    "correctAnswer": "Unlawful Activities (Prevention) Act"
+    "question": "What specific aspect of the anti-corruption bill's arrest clause did stakeholders find constitutionally problematic regarding the handling of officials?",
+    "options": ["Allowing arrest without warrant", "Removal after thirty days", "Extended judicial custody", "Lack of appeal process"],
+    "correctAnswer": "Removal after thirty days"
   },
   {
     "id": 13,
-    "question": "What measure was mentioned as partially solving the problem of speedy completion of UAPA trials?",
-    "options": ["Increasing judge salaries", "Setting up special courts", "Reducing investigative powers", "Granting blanket bail"],
-    "correctAnswer": "Setting up special courts"
+    "question": "To avoid stigma, the parliamentary committee's draft report proposed using which term instead of 'removal' for officials under the anti-corruption bill?",
+    "options": ["Suspension", "Demotion", "Dismissal", "Reassignment"],
+    "correctAnswer": "Suspension"
   },
   {
     "id": 14,
-    "question": "The challenge of speedy completion of UAPA trials was highlighted by whom?",
-    "options": ["Union Law Minister", "Prime Minister", "Chief Justice of India Suryakant", "Solicitor General"],
-    "correctAnswer": "Chief Justice of India Suryakant"
+    "question": "Which food delivery platform recently received nine notices from FSSAI for delivering unsafe and expired food products?",
+    "options": ["Zomato", "Swiggy Instamart", "Blinkit", "Zepto"],
+    "correctAnswer": "Swiggy Instamart"
   },
   {
     "id": 15,
-    "question": "The Unlawful Activities (Prevention) Act (UAPA) primarily deals with matters related to:",
-    "options": ["Economic offenses", "Terrorist activities and unlawful associations", "Environmental protection", "Intellectual property rights"],
-    "correctAnswer": "Terrorist activities and unlawful associations"
+    "question": "What were some of the specific unsafe food items for which Swiggy Instamart received notices from FSSAI, as mentioned in the news?",
+    "options": ["Contaminated water and juices", "Rotten eggs and spoiled parathas", "Adulterated spices and oils", "Unlabeled organic vegetables"],
+    "correctAnswer": "Rotten eggs and spoiled parathas"
   },
   {
     "id": 16,
-    "question": "Which central department cancelled the suspension of an FCI Executive Director, stating the food ministry's order was legally non-existent?",
-    "options": ["Ministry of Finance", "Department of Personnel and Training (DoPT)", "Ministry of Agriculture", "NITI Aayog"],
-    "correctAnswer": "Department of Personnel and Training (DoPT)"
+    "question": "Which regulatory body issued notices to Swiggy Instamart regarding unsafe and expired food products?",
+    "options": ["Bureau of Indian Standards (BIS)", "Food Safety and Standards Authority of India (FSSAI)", "Department of Consumer Affairs", "Ministry of Health and Family Welfare"],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 17,
-    "question": "FCI stands for which organization, involved in the recent administrative dispute over an ED's suspension?",
-    "options": ["Financial Corporation of India", "Food Corporation of India", "Farmers' Cooperative Initiatives", "Federal Council of Industry"],
-    "correctAnswer": "Food Corporation of India"
+    "question": "According to Solicitor General Tushar Mehta, which ancient text is the primary basis for the Mitakshara school of Hindu law, prevalent in most of India?",
+    "options": ["Manusmriti", "Arthashastra", "Yajnavalkya Smriti", "Rig Veda"],
+    "correctAnswer": "Yajnavalkya Smriti"
   },
   {
     "id": 18,
-    "question": "The food ministry had initiated proceedings against the FCI Executive Director following alleged irregularities in what specific area?",
-    "options": ["Land acquisition", "Rice sales", "Staff recruitment", "Equipment procurement"],
-    "correctAnswer": "Rice sales"
+    "question": "Which school of Hindu law, prevalent in most of India since before 700 AD, grants inheritance rights by birth?",
+    "options": ["Dayabhaga school", "Mitakshara school", "Smriti Chandrika school", "Mayukha school"],
+    "correctAnswer": "Mitakshara school"
   },
   {
     "id": 19,
-    "question": "What was the immediate action ordered by the DoPT regarding the FCI Executive Director after cancelling the suspension?",
-    "options": ["Immediate termination", "Immediate repatriation to parent cadre", "Promotion", "Transfer to another ministry"],
-    "correctAnswer": "Immediate repatriation to parent cadre"
+    "question": "In which regions of India was the Dayabhaga school of Hindu law, known for being more restrictive in inheritance rights, primarily prevalent?",
+    "options": ["Southern India", "Western India", "Bengal and Assam", "Northern India"],
+    "correctAnswer": "Bengal and Assam"
   },
   {
     "id": 20,
-    "question": "A review committee was also set up to improve administrative efficiency within which organization, as mentioned in the news?",
-    "options": ["Department of Personnel and Training", "Food Corporation of India", "Union Public Service Commission", "Comptroller and Auditor General"],
-    "correctAnswer": "Food Corporation of India"
+    "question": "Prime Minister Modi and his New Zealand counterpart, Luxon, recently vowed to double trade between their countries to what approximate amount within 5 years?",
+    "options": ["Rs 15,000 crore", "Rs 25,000 crore", "Rs 35,000 crore", "Rs 45,000 crore"],
+    "correctAnswer": "Rs 35,000 crore"
   },
   {
     "id": 21,
-    "question": "What is the specific blend of ethanol with petrol, known as E20 fuel, which has been a subject of consumer concerns in India?",
-    "options": ["10% ethanol", "20% ethanol", "50% ethanol", "100% ethanol"],
-    "correctAnswer": "20% ethanol"
+    "question": "Which country recently upgraded its 'made for each other' ties with India, with leaders aiming to double trade in the coming years?",
+    "options": ["Australia", "Canada", "New Zealand", "United Kingdom"],
+    "correctAnswer": "New Zealand"
   },
   {
     "id": 22,
-    "question": "What are some of the common concerns reported by consumers regarding E20 fuel?",
-    "options": ["Increased mileage and smoother engine", "Reduced mileage and mechanical issues", "Higher power output", "Lower fuel price"],
-    "correctAnswer": "Reduced mileage and mechanical issues"
+    "question": "What significant approval did Prime Minister Modi highlight regarding the Golden Temple, aimed at engaging the Sikh diaspora?",
+    "options": ["UNESCO World Heritage Status", "FCRA clearance", "Special Economic Zone status", "Direct international flight access"],
+    "correctAnswer": "FCRA clearance"
   },
   {
     "id": 23,
-    "question": "The news highlighted consumer concerns about E20 fuel. What is a primary objective of introducing ethanol-blended petrol in India?",
-    "options": ["To increase crude oil imports", "To reduce air pollution and reliance on fossil fuels", "To boost luxury car sales", "To promote diesel vehicles"],
-    "correctAnswer": "To reduce air pollution and reliance on fossil fuels"
+    "question": "Which Sikh pilgrimage site is currently undergoing work to connect it with a ropeway for better pilgrim access, as mentioned by PM Modi?",
+    "options": ["Bangla Sahib", "Hemkund Sahib", "Hazur Sahib", "Patna Sahib"],
+    "correctAnswer": "Hemkund Sahib"
   },
   {
     "id": 24,
-    "question": "Which political leader recently interacted with vehicle owners to hear their E20 fuel concerns?",
-    "options": ["Narendra Modi", "Arvind Kejriwal", "Rahul Gandhi", "Amit Shah"],
-    "correctAnswer": "Arvind Kejriwal"
+    "question": "Which international body's special rapporteurs recently flagged concerns about India's voter list revision process, though dismissed by the Election Commission?",
+    "options": ["World Bank", "International Monetary Fund", "United Nations", "European Union"],
+    "correctAnswer": "United Nations"
   },
   {
     "id": 25,
-    "question": "The E20 fuel policy is part of India's broader strategy to promote which type of fuels?",
-    "options": ["Fossil fuels", "Biofuels", "Nuclear fuels", "Hydrogen fuels"],
-    "correctAnswer": "Biofuels"
+    "question": "How did the Election Commission of India respond to concerns raised by UN special rapporteurs regarding the transparency of the voter list revision process?",
+    "options": ["They acknowledged the concerns and promised review", "They sought international mediation", "They dismissed the concerns as baseless and unwarranted", "They provided a detailed report to the UN"],
+    "correctAnswer": "They dismissed the concerns as baseless and unwarranted"
   }
 ]

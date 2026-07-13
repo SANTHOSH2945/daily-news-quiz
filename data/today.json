@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the name of the central government scheme promoting rooftop solar installations for households across India, an initiative relevant to all states including Telangana and Andhra Pradesh?",
-    "options": [
-      "Pradhan Mantri Awas Yojana",
-      "Pradhan Mantri Kisan Samman Nidhi",
-      "Pradhan Mantri Surya Ghar Muft Bijli Yojana",
-      "Pradhan Mantri Jan Dhan Yojana"
-    ],
-    "correctAnswer": "Pradhan Mantri Surya Ghar Muft Bijli Yojana"
+    "question": "According to recent reports applicable to states like Telangana and Andhra Pradesh, what significant improvement has been observed in government schools regarding digital access?",
+    "options": ["Increased internet connectivity", "More digital libraries", "Universal tablet distribution", "Higher teacher-student ratios"],
+    "correctAnswer": "Increased internet connectivity"
   },
   {
     "id": 2,
-    "question": "The Pradhan Mantri Surya Ghar Muft Bijli Yojana, a national initiative with participation from states like Telangana and Andhra Pradesh, primarily aims to benefit which segment of the population?",
-    "options": [
-      "Large industries",
-      "Agricultural sector",
-      "Households",
-      "Government offices"
-    ],
-    "correctAnswer": "Households"
+    "question": "What specific digital infrastructure saw notable gains in government schools across India, including states like Telangana and Andhra Pradesh, narrowing the gap with private institutions?",
+    "options": ["Dedicated coding labs", "Smart classroom coverage", "Advanced robotics clubs", "Virtual reality setups"],
+    "correctAnswer": "Smart classroom coverage"
   },
   {
     "id": 3,
-    "question": "According to recent reports on India's rooftop solar adoption under the Pradhan Mantri Surya Ghar Muft Bijli Yojana, which type of urban centers are currently leading in installations?",
-    "options": [
-      "Major metropolitan areas",
-      "Small towns",
-      "Capital cities",
-      "Coastal cities"
-    ],
-    "correctAnswer": "Small towns"
+    "question": "Beyond internet and smart classrooms, what other digital resource saw improvements across all school management types, including those in Andhra Pradesh and Telangana?",
+    "options": ["E-textbook subscriptions", "Computer availability", "Broadband fiber installation", "AI learning platforms"],
+    "correctAnswer": "Computer availability"
   },
   {
     "id": 4,
-    "question": "Approximately how many rooftop solar systems have been installed across India under the Pradhan Mantri Surya Ghar Muft Bijli Yojana, as per recent reports relevant to national energy goals?",
-    "options": [
-      "Over 10 lakh",
-      "Over 20 lakh",
-      "Over 36 lakh",
-      "Over 50 lakh"
-    ],
-    "correctAnswer": "Over 36 lakh"
+    "question": "Despite overall gains in digital connectivity and infrastructure, which digital resource remains notably scarce across most educational institutions in India, affecting states like Telangana and Andhra Pradesh?",
+    "options": ["Projectors", "Interactive whiteboards", "Digital libraries", "Wi-Fi routers"],
+    "correctAnswer": "Digital libraries"
   },
   {
     "id": 5,
-    "question": "What is a key objective of the Pradhan Mantri Surya Ghar Muft Bijli Yojana, a significant energy initiative across India, including Telangana and Andhra Pradesh?",
-    "options": [
-      "To provide free electricity to all industries",
-      "To encourage large-scale solar farms",
-      "To promote rooftop solar installations for households",
-      "To subsidize electric vehicles"
-    ],
-    "correctAnswer": "To promote rooftop solar installations for households"
+    "question": "Recent trends indicate that government schools in India, including Telangana and Andhra Pradesh, have made progress in what specific aspect relative to private institutions?",
+    "options": ["Reducing tuition fees", "Narrowing the digital divide", "Increasing sports facilities", "Expanding hostel capacity"],
+    "correctAnswer": "Narrowing the digital divide"
   },
   {
     "id": 6,
-    "question": "The Pradhan Mantri Surya Ghar Muft Bijli Yojana, implemented nationwide, focuses on which type of energy source for household consumption?",
-    "options": [
-      "Wind energy",
-      "Hydroelectric power",
-      "Thermal energy",
-      "Solar energy"
-    ],
-    "correctAnswer": "Solar energy"
+    "question": "The FSSAI has initiated a new program encouraging citizens, including those in Telangana and Andhra Pradesh, to take on what role to improve food safety standards?",
+    "options": ["Food quality inspectors", "Regulator's eyes on the ground", "Public health advocates", "Consumer awareness ambassadors"],
+    "correctAnswer": "Regulator's eyes on the ground"
   },
   {
     "id": 7,
-    "question": "For expanding the reach of the Pradhan Mantri Surya Ghar Muft Bijli Yojana across India, including states like Telangana and Andhra Pradesh, what is a current area of focus?",
-    "options": [
-      "Developing offshore wind parks",
-      "Expanding urban reach and assisting low-income households",
-      "Investing in nuclear power plants",
-      "Promoting biogas plants in rural areas"
-    ],
-    "correctAnswer": "Expanding urban reach and assisting low-income households"
+    "question": "How can citizens in states like Telangana and Andhra Pradesh report food safety violations to the FSSAI as part of its new initiative?",
+    "options": ["Through a dedicated platform", "Via postal mail", "By calling a toll-free number only", "Through social media petitions"],
+    "correctAnswer": "Through a dedicated platform"
   },
   {
     "id": 8,
-    "question": "Considering India's rich biodiversity, including significant forest cover in states like Telangana and Andhra Pradesh, a recent study estimated the value of India's forests at a national scale to be approximately how much?",
-    "options": [
-      "$500 billion",
-      "$1 trillion",
-      "$2.5 trillion",
-      "$5 trillion"
-    ],
-    "correctAnswer": "$2.5 trillion"
+    "question": "What simple form of evidence is highlighted by the FSSAI as sufficient to help authorities identify food safety violations, applicable to reports from states like Andhra Pradesh and Telangana?",
+    "options": ["A detailed written affidavit", "A single photograph", "Multiple video testimonials", "Laboratory test results"],
+    "correctAnswer": "A single photograph"
   },
   {
     "id": 9,
-    "question": "Despite their staggering dollar valuation, how are India's forest ecosystems often treated in official accounts, leading to decisions that impact states like Telangana and Andhra Pradesh?",
-    "options": [
-      "As primary economic drivers",
-      "As invisible assets",
-      "As protected national monuments",
-      "As a major export commodity"
-    ],
-    "correctAnswer": "As invisible assets"
+    "question": "Under the FSSAI's new citizen reporting initiative, what type of conditions can be reported, among others, to enhance food safety across Indian states like Telangana and Andhra Pradesh?",
+    "options": ["Price gouging by vendors", "Unhygienic kitchens", "Late food deliveries", "Lack of menu variety"],
+    "correctAnswer": "Unhygienic kitchens"
   },
   {
     "id": 10,
-    "question": "What is a direct consequence of India's forest assets remaining largely invisible in official accounts, affecting natural wealth across the country, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Increased international funding for conservation",
-      "Decisions that quietly destroy billions in natural wealth",
-      "Accelerated growth of the timber industry",
-      "Enhanced focus on ecotourism"
-    ],
-    "correctAnswer": "Decisions that quietly destroy billions in natural wealth"
+    "question": "What is the primary objective of the FSSAI's initiative to involve citizens in reporting food safety violations across India, including Telangana and Andhra Pradesh?",
+    "options": ["To reduce staff workload", "To increase revenue from fines", "To enhance food safety standards", "To promote healthy eating habits"],
+    "correctAnswer": "To enhance food safety standards"
   },
   {
     "id": 11,
-    "question": "Which Indian regulatory body is stepping up its 'Be the Eyes of Food Safety' campaign to ensure safer food standards nationwide, applicable to all states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Reserve Bank of India (RBI)",
-      "Food Safety and Standards Authority of India (FSSAI)",
-      "Bureau of Indian Standards (BIS)",
-      "Securities and Exchange Board of India (SEBI)"
-    ],
-    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
+    "question": "Integrated science lab coverage in secondary schools across India, impacting states like Telangana and Andhra Pradesh, is projected to fall to what percentage in 2025-26?",
+    "options": ["65.4%", "54.6%", "70.0%", "48.2%"],
+    "correctAnswer": "54.6%"
   },
   {
     "id": 12,
-    "question": "What is the name of the digital platform launched by FSSAI for consumers to report unsafe food and unhygienic kitchens, a service available across India including Telangana and Andhra Pradesh?",
-    "options": [
-      "Food Watch India",
-      "Clean Plate Connect",
-      "Food Safety Connect",
-      "Healthy Habits Hub"
-    ],
-    "correctAnswer": "Food Safety Connect"
+    "question": "Despite an increase in the absolute number of schools with integrated science labs, why did the overall coverage percentage decline across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Lack of qualified lab teachers", "Total number of secondary schools expanded faster", "Funding cuts for science education", "Decrease in student enrollment in science streams"],
+    "correctAnswer": "Total number of secondary schools expanded faster"
   },
   {
     "id": 13,
-    "question": "What is the primary objective of FSSAI's 'Be the Eyes of Food Safety' campaign, encouraging citizen participation across India, including states like Telangana and Andhra Pradesh?",
-    "options": [
-      "To promote new food products",
-      "To urge consumers to flag unhygienic kitchens and unsafe food",
-      "To conduct food safety training for businesses only",
-      "To distribute free food samples"
-    ],
-    "correctAnswer": "To urge consumers to flag unhygienic kitchens and unsafe food"
+    "question": "In the context of integrated science lab availability in secondary schools across India, what trend was observed specifically in government schools, affecting states like Telangana and Andhra Pradesh?",
+    "options": ["A significant decrease", "A slight increase", "No change", "Complete discontinuation"],
+    "correctAnswer": "A slight increase"
   },
   {
     "id": 14,
-    "question": "Through its 'Be the Eyes of Food Safety' campaign, FSSAI is urging consumers across India, including those in Telangana and Andhra Pradesh, to take what specific action regarding food safety?",
-    "options": [
-      "Boycott all restaurants",
-      "Start their own food safety audits",
-      "Report instances of unsafe food and unhygienic practices",
-      "Develop new food safety regulations"
-    ],
-    "correctAnswer": "Report instances of unsafe food and unhygienic practices"
+    "question": "Conversely, what trend was reported for integrated science lab availability in aided and private secondary schools across India, contrasting with government schools?",
+    "options": ["Significant increase", "Steady growth", "Experienced declines", "Remained stagnant"],
+    "correctAnswer": "Experienced declines"
   },
   {
     "id": 15,
-    "question": "India recently declared a one-day national mourning, an event observed across the country including Telangana and Andhra Pradesh, for which foreign dignitary?",
-    "options": [
-      "Former President of the USA",
-      "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al-Thani",
-      "Former Prime Minister of the UK",
-      "Former President of France"
-    ],
-    "correctAnswer": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al-Thani"
+    "question": "What does state-level data reveal regarding science lab availability across India, indicating potential challenges for states like Telangana and Andhra Pradesh?",
+    "options": ["Uniform distribution", "Significant disparities", "Equal funding for all states", "Consistent improvement everywhere"],
+    "correctAnswer": "Significant disparities"
   },
   {
     "id": 16,
-    "question": "Sheikh Hamad bin Khalifa Al-Thani, for whom India declared national mourning, was the former ruler of which country?",
-    "options": [
-      "Saudi Arabia",
-      "United Arab Emirates",
-      "Qatar",
-      "Oman"
-    ],
-    "correctAnswer": "Qatar"
+    "question": "The recent report on Indian education highlights a positive trend of government schools successfully narrowing which significant gap?",
+    "options": ["Urban-rural student enrollment gap", "Digital divide", "Teacher salary disparity", "Infrastructure maintenance gap"],
+    "correctAnswer": "Digital divide"
   },
   {
     "id": 17,
-    "question": "In which year did Sheikh Hamad bin Khalifa Al Thani voluntarily abdicate power to his son, an event recognized in the context of India's diplomatic relations?",
-    "options": [
-      "2005",
-      "2010",
-      "2013",
-      "2015"
-    ],
-    "correctAnswer": "2013"
+    "question": "What specific issue related to food quality can citizens in Telangana and Andhra Pradesh report to FSSAI using the new platform?",
+    "options": ["High food prices", "Unsafe food", "Slow restaurant service", "Limited menu options"],
+    "correctAnswer": "Unsafe food"
   },
   {
     "id": 18,
-    "question": "What is the protocol for the National Flag throughout India, including states like Telangana and Andhra Pradesh, during a declared one-day national mourning?",
-    "options": [
-      "It is hoisted only at government buildings",
-      "It is flown at half-mast",
-      "It is adorned with black ribbons",
-      "It is not flown at all"
-    ],
-    "correctAnswer": "It is flown at half-mast"
+    "question": "Over what period did government schools in India, including those in Telangana and Andhra Pradesh, show a substantial increase in internet coverage?",
+    "options": ["Past decade", "Recent reporting period", "Since 2000", "In the next five years"],
+    "correctAnswer": "Recent reporting period"
   },
   {
     "id": 19,
-    "question": "The Pradhan Mantri Surya Ghar Muft Bijli Yojana, promoting rooftop solar, signifies India's commitment to which broad policy area, impacting states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Agricultural modernization",
-      "Renewable energy and sustainable development",
-      "Digital infrastructure expansion",
-      "Public health reforms"
-    ],
-    "correctAnswer": "Renewable energy and sustainable development"
+    "question": "While integrated science lab *coverage* fell, how many additional secondary schools across India gained these labs over a three-year period, a trend relevant to states like Telangana and Andhra Pradesh?",
+    "options": ["5,000", "10,000", "15,000", "20,000"],
+    "correctAnswer": "10,000"
   },
   {
     "id": 20,
-    "question": "What kind of households are a key focus for assistance in expanding the reach of the Pradhan Mantri Surya Ghar Muft Bijli Yojana across India?",
-    "options": [
-      "High-income households",
-      "Low-income households",
-      "Households in hilly regions",
-      "Households with large landholdings"
-    ],
-    "correctAnswer": "Low-income households"
+    "question": "Which national authority responsible for food safety in India is encouraging citizens to report violations as 'eyes on the ground'?",
+    "options": ["Ministry of Health", "Bureau of Indian Standards (BIS)", "Food Safety and Standards Authority of India (FSSAI)", "Consumer Affairs Ministry"],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 21,
-    "question": "A recent study revealed that India's vast forest resources, present in states like Telangana and Andhra Pradesh, remain invisible in which specific types of national accounts?",
-    "options": [
-      "Social welfare accounts",
-      "Official economic accounts",
-      "Tourism promotion accounts",
-      "Demographic survey accounts"
-    ],
-    "correctAnswer": "Official economic accounts"
+    "question": "Government schools in India, including those in Andhra Pradesh and Telangana, are making strides in narrowing the digital divide with what other category of educational institutions?",
+    "options": ["Vocational training centers", "Private institutions", "Higher education universities", "International schools"],
+    "correctAnswer": "Private institutions"
   },
   {
     "id": 22,
-    "question": "The study on India's forests, with implications for green cover in states like Telangana and Andhra Pradesh, emphasizes that overlooking their value can lead to what outcome?",
-    "options": [
-      "Increased awareness among policymakers",
-      "Quiet destruction of billions in natural wealth",
-      "Better management practices for conservation",
-      "Development of new forest-based industries"
-    ],
-    "correctAnswer": "Quiet destruction of billions in natural wealth"
+    "question": "What general improvement in government schools nationwide, impacting states like Telangana and Andhra Pradesh, indicates progress in digital access?",
+    "options": ["Increased connectivity and smart classroom access", "Exclusive access to advanced robotics", "Full scholarship for online courses", "Free distribution of high-end laptops"],
+    "correctAnswer": "Increased connectivity and smart classroom access"
   },
   {
     "id": 23,
-    "question": "The FSSAI's 'Be the Eyes of Food Safety' campaign specifically encourages consumers to report what two key aspects of food safety?",
-    "options": [
-      "Food prices and availability",
-      "Restaurant ambiance and service speed",
-      "Unhygienic kitchens and unsafe food",
-      "Packaging design and brand loyalty"
-    ],
-    "correctAnswer": "Unhygienic kitchens and unsafe food"
+    "question": "What specific types of food safety issues, beyond just unsafe food, can be reported by citizens to the FSSAI to enhance standards across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Overpriced restaurant bills", "Unhygienic kitchens", "Slow delivery services", "Insufficient parking at eateries"],
+    "correctAnswer": "Unhygienic kitchens"
   },
   {
     "id": 24,
-    "question": "The FSSAI's Food Safety Connect platform, empowering citizens across India including Telangana and Andhra Pradesh, primarily aims to empower which group to aid in food safety enforcement?",
-    "options": [
-      "Government officials",
-      "Food manufacturers",
-      "Consumers",
-      "Restaurant owners"
-    ],
-    "correctAnswer": "Consumers"
+    "question": "The national report highlighted a challenge in school infrastructure, specifically concerning the availability of what type of facility, which impacts secondary schools in states like Telangana and Andhra Pradesh?",
+    "options": ["Sports stadiums", "Art studios", "Integrated science labs", "Language learning centers"],
+    "correctAnswer": "Integrated science labs"
   },
   {
     "id": 25,
-    "question": "India's declaration of national mourning for Sheikh Hamad bin Khalifa Al-Thani reflects which aspect of its relationship with Qatar?",
-    "options": [
-      "A contentious political rivalry",
-      "A strong diplomatic and friendly relationship",
-      "Economic competition",
-      "Cultural exchange limitations"
-    ],
-    "correctAnswer": "A strong diplomatic and friendly relationship"
+    "question": "The improvements in internet connectivity and smart classroom access in government schools are part of a national trend that directly benefits educational institutions in which types of Indian administrative divisions?",
+    "options": ["Only Union Territories", "All states, including Telangana and Andhra Pradesh", "Primarily metropolitan areas", "Only rural districts"],
+    "correctAnswer": "All states, including Telangana and Andhra Pradesh"
   }
 ]

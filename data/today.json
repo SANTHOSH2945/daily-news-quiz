@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "A recent boat tragedy involving Indian tourists occurred in which country?",
-    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
-    "correctAnswer": "Vietnam"
+    "question": "How many Indian nationals from Andhra Pradesh were among the victims of the recent boat tragedy in Vietnam?",
+    "options": ["2", "3", "5", "10"],
+    "correctAnswer": "3"
   },
   {
     "id": 2,
-    "question": "The mortal remains of Indian tourists who died in the Vietnam boat tragedy were initially received in which Indian city?",
-    "options": ["Chennai", "Kolkata", "Mumbai", "Delhi"],
-    "correctAnswer": "Mumbai"
+    "question": "What was the total number of Indian nationals killed in the boat tragedy near Phu Quoc Island, Vietnam?",
+    "options": ["10", "15", "20", "32"],
+    "correctAnswer": "15"
   },
   {
     "id": 3,
-    "question": "According to the news, which entities are responsible for coordinating the transportation of the bodies of Vietnam boat tragedy victims to their final destinations within India?",
-    "options": ["Central Government", "Local Municipalities", "State Governments", "Indian Embassy"],
-    "correctAnswer": "State Governments"
+    "question": "Which Indian state accounted for the highest number of victims (10) in the Vietnam boat tragedy?",
+    "options": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Karnataka"],
+    "correctAnswer": "Tamil Nadu"
   },
   {
     "id": 4,
-    "question": "What type of food item has the Indian Army requested to add to its troops' diet as part of a new pilot program?",
-    "options": ["Organic Pulses", "Fortified Rice", "Millet-based Snacks", "Fresh Fruits"],
-    "correctAnswer": "Organic Pulses"
+    "question": "Apart from Andhra Pradesh, which two other southern Indian states had victims in the recent Vietnam boat tragedy?",
+    "options": ["Karnataka and Goa", "Tamil Nadu and Kerala", "Odisha and West Bengal", "Maharashtra and Gujarat"],
+    "correctAnswer": "Tamil Nadu and Kerala"
   },
   {
     "id": 5,
-    "question": "Which government cooperatives are tasked with identifying sources and managing the supply chain for the Indian Army's organic pulses initiative?",
-    "options": ["FCI and KVIC", "Nafed and NCCF", "APEDA and NHB", "TRIFED and NDDB"],
-    "correctAnswer": "Nafed and NCCF"
+    "question": "To which Indian city were the bodies of the 15 Indian nationals from the Vietnam boat tragedy repatriated?",
+    "options": ["Chennai", "Kolkata", "Mumbai", "New Delhi"],
+    "correctAnswer": "Mumbai"
   },
   {
     "id": 6,
-    "question": "What incentive is offered to farmers to encourage the production of organic pulses for the Indian Army?",
-    "options": ["Subsidized seeds", "Assured demand", "Free fertilizers", "Exclusive land grants"],
-    "correctAnswer": "Assured demand"
+    "question": "The boat tragedy involving Indian tourists occurred in which Southeast Asian country?",
+    "options": ["Thailand", "Malaysia", "Indonesia", "Vietnam"],
+    "correctAnswer": "Vietnam"
   },
   {
     "id": 7,
-    "question": "According to a recent BFSI report, how many of the seven cyber threats flagged last year are now operational?",
-    "options": ["Four", "Five", "Six", "Seven"],
-    "correctAnswer": "Six"
+    "question": "The incident of the boat capsizing near Phu Quoc Island involved tourists from which country?",
+    "options": ["China", "India", "Russia", "United States"],
+    "correctAnswer": "India"
   },
   {
     "id": 8,
-    "question": "Which specific sector in India is highlighted in a recent report regarding the operational status of previously flagged cyber threats?",
-    "options": ["IT Services", "Manufacturing", "BFSI", "Healthcare"],
-    "correctAnswer": "BFSI"
+    "question": "How many Indian tourists were on board the speedboat that capsized near Phu Quoc Island?",
+    "options": ["15", "20", "25", "32"],
+    "correctAnswer": "32"
   },
   {
     "id": 9,
-    "question": "What kind of threats are predominantly discussed in the BFSI report mentioned in the news?",
-    "options": ["Financial fraud", "Physical security breaches", "Cyber threats", "Regulatory non-compliance"],
-    "correctAnswer": "Cyber threats"
+    "question": "How many Indian nationals remained hospitalized in Phu Quoc after the boat tragedy?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
   },
   {
     "id": 10,
-    "question": "India is reportedly seeking what in its ongoing trade talks with the US?",
-    "options": ["Increased tariffs", "Exclusive trade agreements", "Better terms", "Suspension of talks"],
-    "correctAnswer": "Better terms"
+    "question": "What action did Vietnamese authorities take following the boat tragedy?",
+    "options": ["Issued a travel advisory", "Provided financial aid", "Ordered an investigation and detained the operator", "Declared a national mourning"],
+    "correctAnswer": "Ordered an investigation and detained the operator"
   },
   {
     "id": 11,
-    "question": "What has the Indian government denied regarding the status of its trade negotiations with the US?",
-    "options": ["Lack of progress", "Stalled negotiations", "Unfair demands", "Withdrawal from talks"],
-    "correctAnswer": "Stalled negotiations"
+    "question": "The victims from Andhra Pradesh were part of a group of Indian nationals affected by a tragedy in which country?",
+    "options": ["Sri Lanka", "Myanmar", "Vietnam", "Maldives"],
+    "correctAnswer": "Vietnam"
   },
   {
     "id": 12,
-    "question": "Which prominent personality has been on a fast for over 16 days in Ladakh, leading to concerns about his health?",
-    "options": ["Medha Patkar", "Anna Hazare", "Sonam Wangchuk", "Arvind Kejriwal"],
-    "correctAnswer": "Sonam Wangchuk"
+    "question": "Which type of vessel was involved in the tragedy near Phu Quoc Island?",
+    "options": ["Fishing boat", "Cruise ship", "Ferry", "Speedboat"],
+    "correctAnswer": "Speedboat"
   },
   {
     "id": 13,
-    "question": "In which Union Territory is Sonam Wangchuk undertaking his fast for constitutional safeguards?",
-    "options": ["Puducherry", "Andaman & Nicobar", "Ladakh", "Chandigarh"],
-    "correctAnswer": "Ladakh"
+    "question": "The boat tragedy near Phu Quoc Island, which claimed lives including those from Andhra Pradesh, occurred on which day of the week as per the news context?",
+    "options": ["Monday", "Wednesday", "Friday", "Sunday"],
+    "correctAnswer": "Friday"
   },
   {
     "id": 14,
-    "question": "Which Lok Sabha constituency is mentioned as a significant political stronghold for Rahul Gandhi in the recent news?",
-    "options": ["Amethi", "Raebareli", "Wayanad", "Gwalior"],
-    "correctAnswer": "Wayanad"
+    "question": "The news mentions victims from Tamil Nadu, Andhra Pradesh, and Kerala. These states are geographically located in which part of India?",
+    "options": ["Northern India", "Eastern India", "Western India", "Southern India"],
+    "correctAnswer": "Southern India"
   },
   {
     "id": 15,
-    "question": "The Wayanad constituency, relevant to Rahul Gandhi's political career, is located in which Indian state?",
-    "options": ["Karnataka", "Tamil Nadu", "Kerala", "Telangana"],
-    "correctAnswer": "Kerala"
+    "question": "What type of incident led to the death of 15 Indian nationals, including 3 from Andhra Pradesh?",
+    "options": ["Air crash", "Train derailment", "Boat capsizing", "Road accident"],
+    "correctAnswer": "Boat capsizing"
   },
   {
     "id": 16,
-    "question": "Which Indian Union Territory is considering Autonomous Hill Councils for all its seven districts?",
-    "options": ["Jammu & Kashmir", "Ladakh", "Delhi", "Puducherry"],
-    "correctAnswer": "Ladakh"
+    "question": "ISRO recently accomplished three key qualification tests for the crew module systems of which upcoming mission?",
+    "options": ["Chandrayaan-4", "Mangalyaan-2", "Gaganyaan mission", "Aditya-L2"],
+    "correctAnswer": "Gaganyaan mission"
   },
   {
     "id": 17,
-    "question": "What administrative bodies are being proposed for all seven districts in Ladakh?",
-    "options": ["Panchayat Raj Institutions", "District Development Councils", "Autonomous Hill Councils", "Metropolitan Planning Committees"],
-    "correctAnswer": "Autonomous Hill Councils"
+    "question": "What specific component of the Gaganyaan mission did ISRO conduct qualification tests for?",
+    "options": ["Propulsion system", "Launch vehicle", "Crew module systems", "Ground control software"],
+    "correctAnswer": "Crew module systems"
   },
   {
     "id": 18,
-    "question": "Former AAP councillor Tahir Hussain was recently convicted in the murder case of which IB officer during the 2020 Delhi riots?",
-    "options": ["Ankit Sharma", "Rakesh Singh", "Sanjay Kumar", "Vikram Rathore"],
-    "correctAnswer": "Ankit Sharma"
+    "question": "How many key qualification tests were accomplished by ISRO for the Gaganyaan mission's crew module systems?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Three"
   },
   {
     "id": 19,
-    "question": "In which Indian city did the riots occur for which former AAP councillor Tahir Hussain was convicted for murder?",
-    "options": ["Mumbai", "Bengaluru", "Delhi", "Kolkata"],
-    "correctAnswer": "Delhi"
+    "question": "Which national space agency is responsible for India's human spaceflight program, Gaganyaan?",
+    "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
+    "correctAnswer": "ISRO"
   },
   {
     "id": 20,
-    "question": "Which prominent political leader from Jammu and Kashmir made a 'love letter' jibe at the BJP regarding a Rs 100 crore legal notice?",
-    "options": ["Mehbooba Mufti", "Farooq Abdullah", "Omar Abdullah", "Ghulam Nabi Azad"],
-    "correctAnswer": "Omar Abdullah"
+    "question": "India's Gaganyaan mission, for which ISRO conducts tests, is associated with primary launch facilities located in which state, specifically Sriharikota?",
+    "options": ["Karnataka", "Odisha", "Tamil Nadu", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 21,
-    "question": "An IED blast recently occurred in which Northeastern Indian state, causing casualties among Assam Rifles personnel?",
-    "options": ["Manipur", "Assam", "Mizoram", "Nagaland"],
-    "correctAnswer": "Nagaland"
+    "question": "What is the primary objective of the Gaganyaan mission?",
+    "options": ["Sending a probe to Mars", "Deploying a new communication satellite", "India's first human spaceflight mission", "Exploring lunar south pole"],
+    "correctAnswer": "India's first human spaceflight mission"
   },
   {
     "id": 22,
-    "question": "Which Indian paramilitary force suffered casualties in a recent IED blast in Nagaland?",
-    "options": ["CRPF", "BSF", "ITBP", "Assam Rifles"],
-    "correctAnswer": "Assam Rifles"
+    "question": "The qualification tests for Gaganyaan's crew module systems aim to ensure what?",
+    "options": ["Cost-effectiveness", "Public relations success", "Safety and reliability of the module", "Aesthetic design"],
+    "correctAnswer": "Safety and reliability of the module"
   },
   {
     "id": 23,
-    "question": "Which political leader recently accused the Election Commission of favoring a rival faction of her party?",
-    "options": ["Sonia Gandhi", "Mamata Banerjee", "Mayawati", "Priyanka Gandhi"],
-    "correctAnswer": "Mamata Banerjee"
+    "question": "The phrase 'crew module systems' refers to the technology designed to house whom in space?",
+    "options": ["Cargo containers", "Scientific instruments", "Robotic probes", "Astronauts"],
+    "correctAnswer": "Astronauts"
   },
   {
     "id": 24,
-    "question": "Mamata Banerjee, mentioned in the news for her allegations against the Election Commission, is the Chief Minister of which Indian state?",
-    "options": ["Odisha", "Jharkhand", "West Bengal", "Bihar"],
-    "correctAnswer": "West Bengal"
+    "question": "Which major national project involves the development and testing of crew module systems, as per the news?",
+    "options": ["Project Agni", "Gaganyaan mission", "Mission Sagar", "Project Dhanush"],
+    "correctAnswer": "Gaganyaan mission"
   },
   {
     "id": 25,
-    "question": "What kind of incident involving Indian tourists prompted the Indian Embassy to thank Vietnam for its support?",
-    "options": ["Bus accident", "Building collapse", "Boat tragedy", "Train derailment"],
-    "correctAnswer": "Boat tragedy"
+    "question": "Given ISRO's operations related to national missions like Gaganyaan, what is a prominent ISRO center in Andhra Pradesh that supports its activities?",
+    "options": ["Vikram Sarabhai Space Centre (VSSC)", "U R Rao Satellite Centre (URSC)", "Satish Dhawan Space Centre (SHAR)", "Liquid Propulsion Systems Centre (LPSC)"],
+    "correctAnswer": "Satish Dhawan Space Centre (SHAR)"
   }
 ]

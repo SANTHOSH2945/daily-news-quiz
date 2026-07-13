@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What key leadership position is the Ayodhya Ram Temple Trust actively seeking to fill?",
-    "options": [
-      "Chief Operating Officer (COO)",
-      "Chief Financial Officer (CFO)",
-      "Chief Executive Officer (CEO)",
-      "General Manager (GM)"
-    ],
-    "correctAnswer": "Chief Executive Officer (CEO)"
+    "question": "A recent boat tragedy involving Indian tourists occurred in which country?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Vietnam"
   },
   {
     "id": 2,
-    "question": "What is the deadline for interested candidates to submit applications for the CEO post at the Ram Temple Trust?",
-    "options": [
-      "June 30",
-      "July 18",
-      "August 1",
-      "September 15"
-    ],
-    "correctAnswer": "July 18"
+    "question": "The mortal remains of Indian tourists who died in the Vietnam boat tragedy were initially received in which Indian city?",
+    "options": ["Chennai", "Kolkata", "Mumbai", "Delhi"],
+    "correctAnswer": "Mumbai"
   },
   {
     "id": 3,
-    "question": "In which city will the appointed Chief Executive Officer for the Ayodhya Ram Temple Trust be primarily based?",
-    "options": [
-      "New Delhi",
-      "Lucknow",
-      "Varanasi",
-      "Ayodhya"
-    ],
-    "correctAnswer": "Ayodhya"
+    "question": "According to the news, which entities are responsible for coordinating the transportation of the bodies of Vietnam boat tragedy victims to their final destinations within India?",
+    "options": ["Central Government", "Local Municipalities", "State Governments", "Indian Embassy"],
+    "correctAnswer": "State Governments"
   },
   {
     "id": 4,
-    "question": "What is the primary responsibility of the new CEO for the Ram Temple Trust?",
-    "options": [
-      "Fundraising campaigns",
-      "Daily operations and temple management",
-      "Overseeing construction projects",
-      "Public relations and media"
-    ],
-    "correctAnswer": "Daily operations and temple management"
+    "question": "What type of food item has the Indian Army requested to add to its troops' diet as part of a new pilot program?",
+    "options": ["Organic Pulses", "Fortified Rice", "Millet-based Snacks", "Fresh Fruits"],
+    "correctAnswer": "Organic Pulses"
   },
   {
     "id": 5,
-    "question": "The recruitment for the Ram Temple CEO unfolds amidst an investigation by which judicial body?",
-    "options": [
-      "High Court of Uttar Pradesh",
-      "District Court of Ayodhya",
-      "Supreme Court",
-      "National Green Tribunal"
-    ],
-    "correctAnswer": "Supreme Court"
+    "question": "Which government cooperatives are tasked with identifying sources and managing the supply chain for the Indian Army's organic pulses initiative?",
+    "options": ["FCI and KVIC", "Nafed and NCCF", "APEDA and NHB", "TRIFED and NDDB"],
+    "correctAnswer": "Nafed and NCCF"
   },
   {
     "id": 6,
-    "question": "What specific issue is currently under investigation by the Supreme Court concerning the Ram Temple?",
-    "options": [
-      "Land acquisition disputes",
-      "Construction delays",
-      "Alleged misappropriation of donations",
-      "Labor law violations"
-    ],
-    "correctAnswer": "Alleged misappropriation of donations"
+    "question": "What incentive is offered to farmers to encourage the production of organic pulses for the Indian Army?",
+    "options": ["Subsidized seeds", "Assured demand", "Free fertilizers", "Exclusive land grants"],
+    "correctAnswer": "Assured demand"
   },
   {
     "id": 7,
-    "question": "By when is the selection process for the Ram Temple CEO anticipated to conclude?",
-    "options": [
-      "In the coming month",
-      "By end of the year",
-      "Within six months",
-      "No specific timeline given"
-    ],
-    "correctAnswer": "In the coming month"
+    "question": "According to a recent BFSI report, how many of the seven cyber threats flagged last year are now operational?",
+    "options": ["Four", "Five", "Six", "Seven"],
+    "correctAnswer": "Six"
   },
   {
     "id": 8,
-    "question": "Which entities has the Supreme Court sought a report from regarding the Ram Mandir donation theft case?",
-    "options": [
-      "Archaeological Survey of India and UP Police",
-      "UP government SIT and temple Trust",
-      "Central Bureau of Investigation and Finance Ministry",
-      "Income Tax Department and Local Police"
-    ],
-    "correctAnswer": "UP government SIT and temple Trust"
+    "question": "Which specific sector in India is highlighted in a recent report regarding the operational status of previously flagged cyber threats?",
+    "options": ["IT Services", "Manufacturing", "BFSI", "Healthcare"],
+    "correctAnswer": "BFSI"
   },
   {
     "id": 9,
-    "question": "What kind of allegations led the Supreme Court to seek a report on the Ram Mandir's financial dealings?",
-    "options": [
-      "Tax evasion",
-      "Donation theft",
-      "Money laundering",
-      "Illegal land dealings"
-    ],
-    "correctAnswer": "Donation theft"
+    "question": "What kind of threats are predominantly discussed in the BFSI report mentioned in the news?",
+    "options": ["Financial fraud", "Physical security breaches", "Cyber threats", "Regulatory non-compliance"],
+    "correctAnswer": "Cyber threats"
   },
   {
     "id": 10,
-    "question": "What entity is actively seeking a Chief Executive Officer for the management of the Ayodhya Ram Temple?",
-    "options": [
-      "Uttar Pradesh State Government",
-      "Ministry of Culture, Government of India",
-      "Ram Temple Trust",
-      "Ayodhya Development Authority"
-    ],
-    "correctAnswer": "Ram Temple Trust"
+    "question": "India is reportedly seeking what in its ongoing trade talks with the US?",
+    "options": ["Increased tariffs", "Exclusive trade agreements", "Better terms", "Suspension of talks"],
+    "correctAnswer": "Better terms"
   },
   {
     "id": 11,
-    "question": "Which judicial body stayed the Madras High Court's order regarding a total ban on cow slaughter during Bakrid?",
-    "options": [
-      "Allahabad High Court",
-      "Bombay High Court",
-      "Supreme Court",
-      "Kerala High Court"
-    ],
-    "correctAnswer": "Supreme Court"
+    "question": "What has the Indian government denied regarding the status of its trade negotiations with the US?",
+    "options": ["Lack of progress", "Stalled negotiations", "Unfair demands", "Withdrawal from talks"],
+    "correctAnswer": "Stalled negotiations"
   },
   {
     "id": 12,
-    "question": "The Madras High Court's order, which was stayed by the SC, was specifically related to cow slaughter during which religious occasion?",
-    "options": [
-      "Diwali",
-      "Eid al-Adha (Bakrid)",
-      "Holi",
-      "Christmas"
-    ],
-    "correctAnswer": "Eid al-Adha (Bakrid)"
+    "question": "Which prominent personality has been on a fast for over 16 days in Ladakh, leading to concerns about his health?",
+    "options": ["Medha Patkar", "Anna Hazare", "Sonam Wangchuk", "Arvind Kejriwal"],
+    "correctAnswer": "Sonam Wangchuk"
   },
   {
     "id": 13,
-    "question": "What was the main subject of the Public Interest Litigation (PIL) that led to the Supreme Court's intervention on cow slaughter?",
-    "options": [
-      "Animal welfare in general",
-      "Preventing slaughter of cows in non-designated slaughterhouses",
-      "Banning all meat consumption during festivals",
-      "Regulating meat prices"
-    ],
-    "correctAnswer": "Preventing slaughter of cows in non-designated slaughterhouses"
+    "question": "In which Union Territory is Sonam Wangchuk undertaking his fast for constitutional safeguards?",
+    "options": ["Puducherry", "Andaman & Nicobar", "Ladakh", "Chandigarh"],
+    "correctAnswer": "Ladakh"
   },
   {
     "id": 14,
-    "question": "What was the key question considered by the Supreme Court bench regarding cow slaughter during Bakrid?",
-    "options": [
-      "Whether cow slaughter is permissible at all",
-      "Whether cows and calves can be sacrificed in places not designated as slaughterhouses",
-      "The age limit for cows to be slaughtered",
-      "The compensation for illegal cow slaughter"
-    ],
-    "correctAnswer": "Whether cows and calves can be sacrificed in places not designated as slaughterhouses"
+    "question": "Which Lok Sabha constituency is mentioned as a significant political stronghold for Rahul Gandhi in the recent news?",
+    "options": ["Amethi", "Raebareli", "Wayanad", "Gwalior"],
+    "correctAnswer": "Wayanad"
   },
   {
     "id": 15,
-    "question": "Which High Court had initially passed an order directing a total ban on cow slaughter during Bakrid before the SC stay?",
-    "options": [
-      "Kerala High Court",
-      "Karnataka High Court",
-      "Madras High Court",
-      "Telangana High Court"
-    ],
-    "correctAnswer": "Madras High Court"
+    "question": "The Wayanad constituency, relevant to Rahul Gandhi's political career, is located in which Indian state?",
+    "options": ["Karnataka", "Tamil Nadu", "Kerala", "Telangana"],
+    "correctAnswer": "Kerala"
   },
   {
     "id": 16,
-    "question": "Who were the judges on the Supreme Court's vacation bench that stayed the Madras High Court order on cow slaughter?",
-    "options": [
-      "Justice Chandrachud and Justice Gavai",
-      "Justice Ramana and Justice Lalit",
-      "Justice GR Swaminathan and Justice V Lakshminarayanan",
-      "Justice Bobde and Justice Khanwilkar"
-    ],
-    "correctAnswer": "Justice GR Swaminathan and Justice V Lakshminarayanan"
+    "question": "Which Indian Union Territory is considering Autonomous Hill Councils for all its seven districts?",
+    "options": ["Jammu & Kashmir", "Ladakh", "Delhi", "Puducherry"],
+    "correctAnswer": "Ladakh"
   },
   {
     "id": 17,
-    "question": "The Supreme Court has overturned rulings on foreigner status from which High Court?",
-    "options": [
-      "Bombay High Court",
-      "Gauhati High Court",
-      "Calcutta High Court",
-      "Madras High Court"
-    ],
-    "correctAnswer": "Gauhati High Court"
+    "question": "What administrative bodies are being proposed for all seven districts in Ladakh?",
+    "options": ["Panchayat Raj Institutions", "District Development Councils", "Autonomous Hill Councils", "Metropolitan Planning Committees"],
+    "correctAnswer": "Autonomous Hill Councils"
   },
   {
     "id": 18,
-    "question": "What did Justices Vikram Nath and Sandeep Mehta call for regarding citizenship cases previously decided by the Gauhati High Court?",
-    "options": [
-      "Immediate closure",
-      "Permanent suspension",
-      "A re-examination by tribunals",
-      "Referral to international courts"
-    ],
-    "correctAnswer": "A re-examination by tribunals"
+    "question": "Former AAP councillor Tahir Hussain was recently convicted in the murder case of which IB officer during the 2020 Delhi riots?",
+    "options": ["Ankit Sharma", "Rakesh Singh", "Sanjay Kumar", "Vikram Rathore"],
+    "correctAnswer": "Ankit Sharma"
   },
   {
     "id": 19,
-    "question": "The Supreme Court highlighted that matters of citizenship hold what kind of significant weight?",
-    "options": [
-      "Economic",
-      "Political",
-      "Constitutional",
-      "Social"
-    ],
-    "correctAnswer": "Constitutional"
+    "question": "In which Indian city did the riots occur for which former AAP councillor Tahir Hussain was convicted for murder?",
+    "options": ["Mumbai", "Bengaluru", "Delhi", "Kolkata"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 20,
-    "question": "What did the Supreme Court stress must be approached with procedural fairness when deciding citizenship matters?",
-    "options": [
-      "Financial background checks",
-      "Citizenship matters",
-      "Educational qualifications",
-      "Language proficiency"
-    ],
-    "correctAnswer": "Citizenship matters"
+    "question": "Which prominent political leader from Jammu and Kashmir made a 'love letter' jibe at the BJP regarding a Rs 100 crore legal notice?",
+    "options": ["Mehbooba Mufti", "Farooq Abdullah", "Omar Abdullah", "Ghulam Nabi Azad"],
+    "correctAnswer": "Omar Abdullah"
   },
   {
     "id": 21,
-    "question": "According to the Supreme Court, what is the state's duty concerning citizenship assertions?",
-    "options": [
-      "To encourage all assertions",
-      "To ignore all assertions",
-      "To safeguard against misuse of citizenship assertions",
-      "To fast-track all applications"
-    ],
-    "correctAnswer": "To safeguard against misuse of citizenship assertions"
+    "question": "An IED blast recently occurred in which Northeastern Indian state, causing casualties among Assam Rifles personnel?",
+    "options": ["Manipur", "Assam", "Mizoram", "Nagaland"],
+    "correctAnswer": "Nagaland"
   },
   {
     "id": 22,
-    "question": "Which judicial body set aside the Gauhati High Court's judgments on foreigner status?",
-    "options": [
-      "President of India",
-      "Parliament of India",
-      "Supreme Court",
-      "Ministry of Home Affairs"
-    ],
-    "correctAnswer": "Supreme Court"
+    "question": "Which Indian paramilitary force suffered casualties in a recent IED blast in Nagaland?",
+    "options": ["CRPF", "BSF", "ITBP", "Assam Rifles"],
+    "correctAnswer": "Assam Rifles"
   },
   {
     "id": 23,
-    "question": "What kind of rulings from the Gauhati High Court did the Supreme Court overturn?",
-    "options": [
-      "Property disputes",
-      "Election petitions",
-      "Rulings on foreigner status",
-      "Environmental regulations"
-    ],
-    "correctAnswer": "Rulings on foreigner status"
+    "question": "Which political leader recently accused the Election Commission of favoring a rival faction of her party?",
+    "options": ["Sonia Gandhi", "Mamata Banerjee", "Mayawati", "Priyanka Gandhi"],
+    "correctAnswer": "Mamata Banerjee"
   },
   {
     "id": 24,
-    "question": "The Supreme Court stated that citizenship must be decided through what kind of process?",
-    "options": [
-      "Expedited",
-      "Arbitrary",
-      "Fair",
-      "Discretionary"
-    ],
-    "correctAnswer": "Fair"
+    "question": "Mamata Banerjee, mentioned in the news for her allegations against the Election Commission, is the Chief Minister of which Indian state?",
+    "options": ["Odisha", "Jharkhand", "West Bengal", "Bihar"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 25,
-    "question": "To which specific bodies did the Supreme Court direct the re-examination of citizenship cases?",
-    "options": [
-      "High Courts",
-      "District Courts",
-      "Police Departments",
-      "Tribunals"
-    ],
-    "correctAnswer": "Tribunals"
+    "question": "What kind of incident involving Indian tourists prompted the Indian Embassy to thank Vietnam for its support?",
+    "options": ["Bus accident", "Building collapse", "Boat tragedy", "Train derailment"],
+    "correctAnswer": "Boat tragedy"
   }
 ]

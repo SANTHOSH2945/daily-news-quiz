@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "According to recent reports on agricultural trends in India, what was the overall percentage decline in Kharif crop acreage as of last Friday, a trend affecting states like Telangana and Andhra Pradesh?",
-    "options": ["10%", "12%", "16%", "20%"],
-    "correctAnswer": "16%"
+    "question": "The Supreme Court recently declined to stay which national education policy impacting CBSE schools in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "National Education Policy (NEP)",
+      "Three-language policy",
+      "Right to Education Act",
+      "Digital India Learning Program"
+    ],
+    "correctAnswer": "Three-language policy"
   },
   {
     "id": 2,
-    "question": "Despite an overall fall in Kharif acreage and water resource pressures, which cash crop saw an increase in sown area across India, including regions beneficial for states like Andhra Pradesh and Telangana?",
-    "options": ["Pulses", "Cereals", "Sugarcane", "Cotton"],
-    "correctAnswer": "Sugarcane"
+    "question": "Which board's three-language policy was the subject of a recent Supreme Court decision affecting its affiliated schools nationwide, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "ICSE",
+      "SSC",
+      "CBSE",
+      "State Boards"
+    ],
+    "correctAnswer": "CBSE"
   },
   {
     "id": 3,
-    "question": "The recent agricultural data highlights that which two crop categories experienced the highest decline in sown area this season across India, impacting production in agrarian states such as Telangana and Andhra Pradesh?",
-    "options": ["Sugarcane and Cotton", "Pulses and Cereals", "Oilseeds and Vegetables", "Spices and Fruits"],
-    "correctAnswer": "Pulses and Cereals"
+    "question": "What was the primary observation made by the Supreme Court while declining to stay the CBSE's three-language policy, stating its general benefit?",
+    "options": [
+      "\"Education is a state subject\"",
+      "\"Learning a language never goes waste\"",
+      "\"Policy needs more deliberation\"",
+      "\"Resources are paramount\""
+    ],
+    "correctAnswer": "\"Learning a language never goes waste\""
   },
   {
     "id": 4,
-    "question": "What is a key reason cited for farmers' continued preference for cash crops, even in states like Telangana and Andhra Pradesh, according to recent agricultural trend analyses?",
-    "options": ["Lower cultivation costs", "Better market prices", "Government subsidies", "Shorter growth cycles"],
-    "correctAnswer": "Better market prices"
+    "question": "For which upcoming academic year did the Supreme Court specifically decline to halt the CBSE's three-language policy, a decision affecting students in Andhra Pradesh and Telangana?",
+    "options": [
+      "2024-25",
+      "2025-26",
+      "2026-27",
+      "2027-28"
+    ],
+    "correctAnswer": "2026-27"
   },
   {
     "id": 5,
-    "question": "The trend of increased sugarcane acreage in India is noted to support which government initiative, a factor relevant to agricultural planning in states like Telangana and Andhra Pradesh?",
-    "options": ["Food Security Program", "Ethanol initiatives", "Crop Diversification Mission", "Organic Farming Promotion"],
-    "correctAnswer": "Ethanol initiatives"
+    "question": "What was one of the key arguments raised by petitioners challenging the CBSE's three-language policy in the Supreme Court?",
+    "options": [
+      "Policy's financial burden",
+      "Lack of teacher training",
+      "Implementation issues and lack of resources",
+      "Bias against specific languages"
+    ],
+    "correctAnswer": "Implementation issues and lack of resources"
   },
   {
     "id": 6,
-    "question": "A fall in overall Kharif acreage, as reported in recent agricultural news, typically indicates what potential challenge for agricultural states like Telangana and Andhra Pradesh?",
-    "options": ["Surplus production of grains", "Increased demand for fertilizers", "Potential food inflation or reduced output", "Greater water availability for irrigation"],
-    "correctAnswer": "Potential food inflation or reduced output"
+    "question": "The Supreme Court directed which entity to file its response within ten days regarding the CBSE three-language policy, which impacts states like Telangana?",
+    "options": [
+      "CBSE Board",
+      "Ministry of Education",
+      "Union Government",
+      "State Education Departments"
+    ],
+    "correctAnswer": "Union Government"
   },
   {
     "id": 7,
-    "question": "The government's ethanol initiatives, supported by increased sugarcane acreage, primarily aim to achieve what economic benefit for India, indirectly helping states like Telangana and Andhra Pradesh?",
-    "options": ["Increase agricultural exports", "Reduce import bills for crude oil", "Boost rural employment", "Stabilize sugar prices"],
-    "correctAnswer": "Reduce import bills for crude oil"
+    "question": "The CBSE's three-language policy, recently upheld by the Supreme Court, generally requires students to study English, Hindi, and a modern Indian language. Which of these typically falls under the 'modern Indian language' category for students in Telangana or Andhra Pradesh?",
+    "options": [
+      "Sanskrit",
+      "Telugu",
+      "French",
+      "German"
+    ],
+    "correctAnswer": "Telugu"
   },
   {
     "id": 8,
-    "question": "What is the primary condition stipulated by the National Medical Commission (NMC) for medical colleges nationwide, including those in Telangana and Andhra Pradesh, to seek an increase in seat capacity?",
-    "options": ["Obtaining state government approval", "Having full infrastructure in place", "Demonstrating high student demand", "Securing a private donation"],
-    "correctAnswer": "Having full infrastructure in place"
+    "question": "The three-language formula in India, of which the CBSE policy is a part, traditionally aims to promote:",
+    "options": [
+      "Only English",
+      "Regional languages and Hindi",
+      "Only Hindi",
+      "Computer languages"
+    ],
+    "correctAnswer": "Regional languages and Hindi"
   },
   {
     "id": 9,
-    "question": "According to the NMC's draft amendments, what will be the consequence for medical colleges across India, including in Telangana and Andhra Pradesh, if their applications for seat increases are incomplete?",
-    "options": ["They will be given a 3-month grace period.", "Applications will be rejected without correction chances.", "A penalty fee will be imposed.", "Provisional approval will be granted."],
-    "correctAnswer": "Applications will be rejected without correction chances."
+    "question": "What specific action did the Supreme Court take regarding the CBSE three-language policy for the 2026-27 academic year?",
+    "options": [
+      "Fully approved it",
+      "Stayed its implementation",
+      "Declined to stay it",
+      "Sent it back for review"
+    ],
+    "correctAnswer": "Declined to stay it"
   },
   {
     "id": 10,
-    "question": "Which body will fix a mandatory corpus fund for medical institutions seeking seat increases, a regulation impacting colleges in states like Telangana and Andhra Pradesh?",
-    "options": ["Ministry of Health and Family Welfare", "Medical Assessment and Rating Board (MARB)", "Supreme Court of India", "State Medical Councils"],
-    "correctAnswer": "Medical Assessment and Rating Board (MARB)"
+    "question": "Despite declining to stay the policy, what did the Supreme Court agree to do next week concerning the CBSE three-language policy?",
+    "options": [
+      "Deliver final judgment",
+      "Hear detailed challenges",
+      "Review the Union Government's response",
+      "Dismiss the petition"
+    ],
+    "correctAnswer": "Hear detailed challenges"
   },
   {
     "id": 11,
-    "question": "What additional measure is being proposed by the NMC to prevent undue influence on its decisions regarding medical seat increases, impacting colleges in all states, including Telangana and Andhra Pradesh?",
-    "options": ["Random audits of infrastructure", "Requiring public disclosure of funds", "Rejecting/suspending applications from influencing institutions", "Mandatory interviews for all applicants"],
-    "correctAnswer": "Rejecting/suspending applications from influencing institutions"
+    "question": "If a CBSE school in Hyderabad, Telangana, implements the three-language policy as per the Supreme Court's context, students would primarily learn English, Hindi, and which other regional language?",
+    "options": [
+      "Kannada",
+      "Malayalam",
+      "Marathi",
+      "Telugu"
+    ],
+    "correctAnswer": "Telugu"
   },
   {
     "id": 12,
-    "question": "The recent draft amendments by the NMC regarding medical seat hikes are currently open for what process, allowing stakeholders from states like Telangana and Andhra Pradesh to provide input?",
-    "options": ["Internal review by NMC officials", "Parliamentary debate", "Public consultation", "Expert committee validation"],
-    "correctAnswer": "Public consultation"
+    "question": "The petitioners against the CBSE three-language policy cited 'lack of resources'. In the context of Andhra Pradesh and Telangana, this concern could specifically relate to a shortage of teachers for which category of languages in CBSE schools?",
+    "options": [
+      "English",
+      "Regional languages",
+      "Computer science",
+      "Mathematics"
+    ],
+    "correctAnswer": "Regional languages"
   },
   {
     "id": 13,
-    "question": "The Indian government mandates that social media platforms must adhere to Standard Operating Procedures (SOPs) primarily concerning what type of content, applicable to users across states like Telangana and Andhra Pradesh?",
-    "options": ["Hate speech", "Child abuse material", "Disinformation campaigns", "Copyright infringement"],
-    "correctAnswer": "Child abuse material"
+    "question": "The Supreme Court directed the Union Government to file a response regarding a national education policy, indicating that the policy falls under the purview of which level of government in India?",
+    "options": [
+      "State",
+      "Local",
+      "Central",
+      "Regional"
+    ],
+    "correctAnswer": "Central"
   },
   {
     "id": 14,
-    "question": "A key duty of social media platforms under the new government directives, relevant for safeguarding children in all Indian states including Telangana and Andhra Pradesh, involves timely reporting and coordination with which entities?",
-    "options": ["Media agencies", "Educational institutions", "Law enforcement", "Child welfare NGOs"],
-    "correctAnswer": "Law enforcement"
+    "question": "The CBSE's three-language policy, as addressed by the Supreme Court, essentially mandates students to learn how many languages up to a certain level in their schooling?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": "Three"
   },
   {
     "id": 15,
-    "question": "The government has indicated that what action will be taken against social media platforms found to have lapses in following procedures for detecting and reporting child abuse material, affecting their operations across India, including Telangana and Andhra Pradesh?",
-    "options": ["Warning letters", "Action under applicable legal frameworks", "Temporary suspension of services", "Public apologies"],
-    "correctAnswer": "Action under applicable legal frameworks"
+    "question": "The discussion around language policies in education, like the CBSE's three-language policy, often highlights issues of linguistic diversity and national integration in India. Which part of the Indian Constitution broadly encourages the promotion of diverse languages and cultures?",
+    "options": [
+      "Fundamental Duties",
+      "Directive Principles of State Policy",
+      "Fundamental Rights",
+      "Preamble"
+    ],
+    "correctAnswer": "Directive Principles of State Policy"
   },
   {
     "id": 16,
-    "question": "Which body is seeking applications for its first Chief Executive Officer to enhance management of its operations in Ayodhya, an event of national interest to devotees in states like Telangana and Andhra Pradesh?",
-    "options": ["Shri Krishna Janmabhoomi Trust", "Kashi Vishwanath Temple Trust", "Ram Janmbhoomi Teerth Kshetra trust", "Badrinath-Kedarnath Temple Committee"],
-    "correctAnswer": "Ram Janmbhoomi Teerth Kshetra trust"
+    "question": "CBSE schools in Telangana and Andhra Pradesh are bound by the directives issued by which apex judicial body regarding national policies such as the three-language formula?",
+    "options": [
+      "High Court of Telangana",
+      "District Courts",
+      "Supreme Court of India",
+      "Central Administrative Tribunal"
+    ],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 17,
-    "question": "The decision to appoint a CEO for the Ram Mandir Trust comes after recent allegations of what, raising concerns among devotees across India, including in Telangana and Andhra Pradesh?",
-    "options": ["Delays in construction", "Donation theft by cash-counting agents", "Mismanagement of daily rituals", "Disputes over land acquisition"],
-    "correctAnswer": "Donation theft by cash-counting agents"
+    "question": "While state boards in Telangana and Andhra Pradesh have their own language policies, CBSE schools within these states must adhere to the CBSE's three-language policy. This highlights the presence of what type of school system alongside state board schools?",
+    "options": [
+      "International schools",
+      "Central board schools",
+      "Private tutorial schools",
+      "Vocational schools"
+    ],
+    "correctAnswer": "Central board schools"
   },
   {
     "id": 18,
-    "question": "The Supreme Court of India recently sought a status report from which state government's Special Investigation Team regarding the probe into alleged donation embezzlement at the Ayodhya Ram Mandir, an issue of national importance?",
-    "options": ["Madhya Pradesh", "Uttar Pradesh", "Bihar", "Uttarakhand"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "The Supreme Court's decision to hear 'detailed challenges' next week implies the legal process concerning the CBSE three-language policy is currently in what stage?",
+    "options": [
+      "Concluded",
+      "In its final judgment phase",
+      "Ongoing with further hearings scheduled",
+      "Delayed indefinitely"
+    ],
+    "correctAnswer": "Ongoing with further hearings scheduled"
   },
   {
     "id": 19,
-    "question": "What is the primary qualification specified for the CEO position by the Ram Janmbhoomi Teerth Kshetra trust, an aspect of governance for a religious institution of national significance, including for believers in Telangana and Andhra Pradesh?",
-    "options": ["Extensive financial management experience", "Proficiency in multiple Indian languages", "Must be a 'practising Hindu, Ram bhakt'", "Background in heritage conservation"],
-    "correctAnswer": "Must be a 'practising Hindu, Ram bhakt'"
+    "question": "Who would be directly impacted by the implementation of the CBSE's three-language policy in a CBSE affiliated school in Vijayawada, Andhra Pradesh, as per the recent SC ruling?",
+    "options": [
+      "State government employees",
+      "College students",
+      "School students",
+      "Retired teachers"
+    ],
+    "correctAnswer": "School students"
   },
   {
     "id": 20,
-    "question": "The Enforcement Directorate (ED) probe recently led to the cancellation of registration for which type of professional by the IBBI, following alleged misuse of IBC norms in cases like RCFL, a legal issue relevant to corporate governance across India including in Telangana and Andhra Pradesh?",
-    "options": ["Chartered Accountant", "Company Secretary", "Resolution Professional", "Legal Counsel"],
-    "correctAnswer": "Resolution Professional"
+    "question": "The phrase 'learning a language never goes waste' from the Supreme Court's observation on the three-language policy underscores the perceived value of which educational approach?",
+    "options": [
+      "Monolingual education",
+      "Bilingual education",
+      "Multilingual education",
+      "Technical education"
+    ],
+    "correctAnswer": "Multilingual education"
   },
   {
     "id": 21,
-    "question": "The investigation into the RCFL cases revealed that the resolution professional allegedly ignored significant financial red flags and due diligence requirements, leading to the misuse of which framework?",
-    "options": ["Companies Act, 2013", "Insolvency and Bankruptcy Code (IBC)", "Prevention of Money Laundering Act (PMLA)", "Foreign Exchange Management Act (FEMA)"],
-    "correctAnswer": "Insolvency and Bankruptcy Code (IBC)"
+    "question": "Beyond implementation challenges, petitioners in states like Andhra Pradesh and Telangana might raise concerns about the CBSE three-language policy potentially overemphasizing a particular language, thus affecting which aspect of linguistic policy?",
+    "options": [
+      "Federal structure",
+      "Linguistic diversity and equity",
+      "Curriculum flexibility",
+      "Financial allocations"
+    ],
+    "correctAnswer": "Linguistic diversity and equity"
   },
   {
     "id": 22,
-    "question": "Which political party recently cited former PM Manmohan Singh's remarks to accuse Congress of habitually discrediting the Election Commission of India, an institution vital for democracy in all states, including Telangana and Andhra Pradesh?",
-    "options": ["Aam Aadmi Party (AAP)", "Bharatiya Janata Party (BJP)", "Samajwadi Party (SP)", "Bahujan Samaj Party (BSP)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "question": "The Supreme Court's refusal to grant an immediate 'stay' on the CBSE three-language policy, while agreeing to hear detailed challenges, primarily indicates:",
+    "options": [
+      "Full approval of the policy",
+      "Reluctance to halt the policy without a complete legal review",
+      "A temporary injunction",
+      "Dismissal of the entire case"
+    ],
+    "correctAnswer": "Reluctance to halt the policy without a complete legal review"
   },
   {
     "id": 23,
-    "question": "Former PM Manmohan Singh viewed the Election Commission as the 'soul of democracy', while recent political discourse, a common trend across India including states like Telangana and Andhra Pradesh, suggests another view contrasting it with a 'political tool'. Which party's current leader is associated with this latter perspective according to the news?",
-    "options": ["Congress", "BJP", "AAP", "TMC"],
-    "correctAnswer": "BJP"
+    "question": "Students studying in CBSE schools in regions such as Rayalaseema or Coastal Andhra would be subject to the three-language policy. Which language would most commonly be their 'first language' in such schools?",
+    "options": [
+      "Hindi",
+      "English",
+      "Kannada",
+      "Telugu"
+    ],
+    "correctAnswer": "Telugu"
   },
   {
     "id": 24,
-    "question": "The Ministry of Home Affairs recently rejected opposition claims regarding proposed anti-corruption bills, stating they are not aimed at undercutting non-BJP governments. What is a key provision of these proposed laws concerning arrested officials, applicable across states including Telangana and Andhra Pradesh?",
-    "options": ["Immediate dismissal from service upon arrest", "Removal after thirty days in custody", "Suspension for duration of trial", "Mandatory resignation upon chargesheet filing"],
-    "correctAnswer": "Removal after thirty days in custody"
+    "question": "The 'three-language formula', which the CBSE policy embodies and was recently reviewed by the SC, generally mandates the study of English, a regional language, and which other widely spoken Indian language?",
+    "options": [
+      "Sanskrit",
+      "Tamil",
+      "Bengali",
+      "Hindi"
+    ],
+    "correctAnswer": "Hindi"
   },
   {
     "id": 25,
-    "question": "The Home Ministry asserts that the proposed anti-corruption measures aim to protect the mandate by ensuring what type of governance across India, relevant to administration in states like Telangana and Andhra Pradesh?",
-    "options": ["Centralized and uniform", "Effective and trustworthy", "Decentralized and localized", "Technocratic and efficient"],
-    "correctAnswer": "Effective and trustworthy"
+    "question": "The Supreme Court's direction to the Union government to file its response and its agreement to hear 'detailed challenges' implies that the legal scrutiny of the CBSE three-language policy is currently in which phase?",
+    "options": [
+      "Pre-litigation",
+      "Adjudication and hearing phase",
+      "Appeal phase",
+      "Enforcement phase"
+    ],
+    "correctAnswer": "Adjudication and hearing phase"
   }
 ]

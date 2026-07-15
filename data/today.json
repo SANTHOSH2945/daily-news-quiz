@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What was the Supreme Court's decision in a 26-year-old dowry death case, as recently reported?",
-    "options": [
-      "Convicted 17 individuals",
-      "Ordered a retrial for all accused",
-      "Acquitted 17 individuals",
-      "Referred the case back to lower courts"
-    ],
-    "correctAnswer": "Acquitted 17 individuals"
+    "question": "Which political party's reunification is being discussed based on recent talks mentioned in the news?",
+    "options": ["BJP", "Congress", "NCP", "Shiv Sena"],
+    "correctAnswer": "NCP"
   },
   {
     "id": 2,
-    "question": "What criticism did the Supreme Court make against lower courts in the recent dowry death case?",
-    "options": [
-      "Delays in judgment delivery",
-      "Disregarding defense evidence without valid reasons",
-      "Improper application of dowry laws",
-      "Lack of judicial experience"
-    ],
-    "correctAnswer": "Disregarding defense evidence without valid reasons"
+    "question": "Who is the Chief Minister mentioned in relation to discussions about political reunification?",
+    "options": ["Eknath Shinde", "Devendra Fadnavis", "Ajit Pawar", "Sharad Pawar"],
+    "correctAnswer": "Devendra Fadnavis"
   },
   {
     "id": 3,
-    "question": "How long did the legal battle for the family in the recent Supreme Court dowry death case last?",
-    "options": [
-      "10 years",
-      "15 years",
-      "20 years",
-      "26 years"
-    ],
-    "correctAnswer": "26 years"
+    "question": "The political discussions regarding the NCP reunification primarily pertain to which Indian state?",
+    "options": ["Karnataka", "Maharashtra", "Gujarat", "Uttar Pradesh"],
+    "correctAnswer": "Maharashtra"
   },
   {
     "id": 4,
-    "question": "Who is responsible for deciding on party merger applications before the Lok Sabha monsoon session begins?",
-    "options": [
-      "The Prime Minister",
-      "The President of India",
-      "The Lok Sabha Speaker",
-      "The Chief Election Commissioner"
-    ],
-    "correctAnswer": "The Lok Sabha Speaker"
+    "question": "What is the primary subject of the recent talks involving CM Fadnavis and leaders of both NCP factions?",
+    "options": ["Alliance formation", "Cabinet expansion", "Party reunification", "Election strategy"],
+    "correctAnswer": "Party reunification"
   },
   {
     "id": 5,
-    "question": "Which political party's rebel MPs are seeking recognition of their merger with NCPI?",
-    "options": [
-      "Biju Janata Dal (BJD)",
-      "Trinamool Congress (TMC)",
-      "Shiv Sena (SS)",
-      "Dravida Munnetra Kazhagam (DMK)"
-    ],
-    "correctAnswer": "Trinamool Congress (TMC)"
+    "question": "Who is the activist on a hunger strike whose health deterioration has led to a plea for 'force-feeding'?",
+    "options": ["Medha Patkar", "Anna Hazare", "Kailash Satyarthi", "Sonam Wangchuk"],
+    "correctAnswer": "Sonam Wangchuk"
   },
   {
     "id": 6,
-    "question": "What potential outcome could the recognition of NCPI lead to in the Lok Sabha, as per recent news?",
-    "options": [
-      "It could become the main opposition party",
-      "It could lead to a no-confidence motion",
-      "It could become BJP's largest ally",
-      "It could dissolve several smaller parties"
-    ],
-    "correctAnswer": "It could become BJP's largest ally"
+    "question": "What specific action was sought in the Delhi High Court regarding Sonam Wangchuk's hunger strike?",
+    "options": ["Medical examination", "Judicial inquiry", "Force-feeding", "Release from custody"],
+    "correctAnswer": "Force-feeding"
   },
   {
     "id": 7,
-    "question": "For what reason did the Supreme Court impose a fine on comedian Samay Raina and four others?",
-    "options": [
-      "For tax evasion",
-      "For defamation",
-      "For failing to hold a promised show for disabled individuals",
-      "For contempt of court in a separate matter"
-    ],
-    "correctAnswer": "For failing to hold a promised show for disabled individuals"
+    "question": "On which day of his fast did CJP's Dipke criticize the Centre regarding Sonam Wangchuk's protest?",
+    "options": ["Day 10", "Day 18", "Day 25", "Day 7"],
+    "correctAnswer": "Day 18"
   },
   {
     "id": 8,
-    "question": "What was the amount of fine imposed by the Supreme Court on each individual in the case involving Samay Raina and others?",
-    "options": [
-      "Rs 1 lakh",
-      "Rs 2 lakh",
-      "Rs 3 lakh",
-      "Rs 5 lakh"
-    ],
-    "correctAnswer": "Rs 3 lakh"
+    "question": "Sonam Wangchuk has been fasting to protest against which issues?",
+    "options": ["Land acquisition and displacement", "Farmer suicides and agrarian crisis", "Examination irregularities and paper leaks", "Environmental pollution and deforestation"],
+    "correctAnswer": "Examination irregularities and paper leaks"
   },
   {
     "id": 9,
-    "question": "What warning did the Supreme Court bench issue to artists regarding people with disabilities?",
-    "options": [
-      "To encourage their participation in arts",
-      "To provide them with financial support",
-      "Against disrespecting people with disabilities and their talents",
-      "To organize more events for them"
-    ],
-    "correctAnswer": "Against disrespecting people with disabilities and their talents"
+    "question": "How much weight did Sonam Wangchuk reportedly lose since the beginning of his hunger strike?",
+    "options": ["5.5 kg", "8.5 kg", "10.0 kg", "7.0 kg"],
+    "correctAnswer": "8.5 kg"
   },
   {
     "id": 10,
-    "question": "What new procedure is the Supreme Court set to create for urgent petitions?",
-    "options": [
-      "A new online submission portal",
-      "A special weekend hearing bench",
-      "A Standard Operating Procedure (SOP) to hear petitions after working hours",
-      "A fast-track process for all civil cases"
-    ],
-    "correctAnswer": "A Standard Operating Procedure (SOP) to hear petitions after working hours"
+    "question": "Which organization's representative, Abhijeet Dipke, criticized the government's silence on Sonam Wangchuk's fast?",
+    "options": ["Amnesty International", "Human Rights Watch", "CJP (Citizens for Justice and Peace)", "Greenpeace India"],
+    "correctAnswer": "CJP (Citizens for Justice and Peace)"
   },
   {
     "id": 11,
-    "question": "What specific types of petitions will be considered under the Supreme Court's new SOP for after-hours hearings?",
-    "options": [
-      "Only property disputes",
-      "Only cases involving life and liberty infringements",
-      "Only corporate law matters",
-      "Only public interest litigations"
-    ],
-    "correctAnswer": "Only cases involving life and liberty infringements"
+    "question": "To which political leader did the Congress extend a Martyrs' Day invite with a specific condition?",
+    "options": ["Naveen Patnaik", "Arvind Kejriwal", "Mamata Banerjee", "M.K. Stalin"],
+    "correctAnswer": "Mamata Banerjee"
   },
   {
     "id": 12,
-    "question": "What is the primary aim of the Supreme Court's new SOP for hearing urgent petitions after working hours?",
-    "options": [
-      "To reduce the overall case backlog",
-      "To provide prompt constitutional protection to citizens",
-      "To streamline administrative processes",
-      "To expand the court's jurisdiction"
-    ],
-    "correctAnswer": "To provide prompt constitutional protection to citizens"
+    "question": "What was the primary condition set by the Congress for Mamata Banerjee to accept the Martyrs' Day invite?",
+    "options": ["Forming a pre-poll alliance", "Acknowledging leaving Congress was a mistake", "Supporting their national agenda", "Attending a joint rally"],
+    "correctAnswer": "Acknowledging leaving Congress was a mistake"
   },
   {
     "id": 13,
-    "question": "Which state's draft Uniform Civil Code (UCC) proposes mandatory registration of live-in relationships?",
-    "options": [
-      "Uttar Pradesh",
-      "Madhya Pradesh",
-      "Gujarat",
-      "Himachal Pradesh"
-    ],
-    "correctAnswer": "Madhya Pradesh"
+    "question": "In which city is the Congress Martyrs' Day event mentioned in the news scheduled to take place?",
+    "options": ["New Delhi", "Kolkata", "Mumbai", "Chennai"],
+    "correctAnswer": "Kolkata"
   },
   {
     "id": 14,
-    "question": "What specific requirement does Madhya Pradesh's UCC draft propose regarding the termination of live-in relationships?",
-    "options": [
-      "Mandatory counseling sessions",
-      "Formal cancellation of registrations",
-      "Notification to the local police station",
-      "A minimum waiting period before termination"
-    ],
-    "correctAnswer": "Formal cancellation of registrations"
+    "question": "The 1993 movement, whose historical significance was mentioned by the West Bengal Congress president, is associated with which annual event?",
+    "options": ["Independence Day", "Republic Day", "Martyrs' Day", "Gandhi Jayanti"],
+    "correctAnswer": "Martyrs' Day"
   },
   {
     "id": 15,
-    "question": "Which population group is initially excluded from the proposed Uniform Civil Code in Madhya Pradesh?",
-    "options": [
-      "Religious minorities",
-      "Non-resident Indians",
-      "The state's tribal population",
-      "Individuals below 18 years of age"
-    ],
-    "correctAnswer": "The state's tribal population"
+    "question": "What was the primary reason for the arrest of two law students mentioned in the news item?",
+    "options": ["Protesting outside the court", "Filming courtroom proceedings illegally", "Cuss remarks against CJI and courtroom disruption", "Bribery attempts"],
+    "correctAnswer": "Cuss remarks against CJI and courtroom disruption"
   },
   {
     "id": 16,
-    "question": "What change does MP's UCC draft propose regarding inheritance laws for fathers of deceased sons?",
-    "options": [
-      "Fathers will no longer be considered heirs",
-      "Fathers will be included as heirs to deceased sons' property",
-      "Inheritance will solely go to the spouse",
-      "The state will inherit the property"
-    ],
-    "correctAnswer": "Fathers will be included as heirs to deceased sons' property"
+    "question": "Which high-ranking judicial official was targeted by the disruption caused by the law students?",
+    "options": ["Attorney General", "Chief Justice of India (CJI)", "Solicitor General", "High Court Judge"],
+    "correctAnswer": "Chief Justice of India (CJI)"
   },
   {
     "id": 17,
-    "question": "What did India recently welcome from Canada regarding the Nijjar killing?",
-    "options": [
-      "A joint investigation proposal",
-      "Canada's remark delinking its government from the killing",
-      "An apology for previous statements",
-      "Increased intelligence sharing"
-    ],
-    "correctAnswer": "Canada's remark delinking its government from the killing"
+    "question": "How many law students were reportedly arrested over the courtroom disruption involving remarks against the CJI?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Two"
   },
   {
     "id": 18,
-    "question": "With which country did India lodge a protest following recent attacks on commercial ships in the Middle East, resulting in an Indian sailor's death?",
-    "options": [
-      "Saudi Arabia",
-      "Yemen",
-      "Iran",
-      "Israel"
-    ],
-    "correctAnswer": "Iran"
+    "question": "Which country recently reversed its plan to end visa-free entry for Indian visitors, now allowing thirty-day visa-exempt entries?",
+    "options": ["Vietnam", "Indonesia", "Malaysia", "Thailand"],
+    "correctAnswer": "Thailand"
   },
   {
     "id": 19,
-    "question": "What tragic incident prompted India to protest with Iran regarding the Middle East crisis?",
-    "options": [
-      "Hijacking of a cargo ship",
-      "An Indian seafarer losing his life in attacks",
-      "Blocking of Indian oil tankers",
-      "Increased tariffs on Indian goods"
-    ],
-    "correctAnswer": "An Indian seafarer losing his life in attacks"
+    "question": "What was the previous duration of visa-free entry for Indian tourists in Thailand before the recent policy changes?",
+    "options": ["Fifteen days", "Thirty days", "Sixty days", "Ninety days"],
+    "correctAnswer": "Sixty days"
   },
   {
     "id": 20,
-    "question": "What is India urging concerning navigation through international waterways amidst the Middle East crisis?",
-    "options": [
-      "Imposing new tolls",
-      "Restoration of free and safe navigation",
-      "Limiting access to certain vessels",
-      "Establishing a naval blockade"
-    ],
-    "correctAnswer": "Restoration of free and safe navigation"
+    "question": "What was the primary reason cited by Thailand for reversing its decision on visa-free entry for Indians?",
+    "options": ["Diplomatic pressure from India", "Increase in Indian investments", "Drop in arrivals from India impacting tourism", "Concerns over illegal immigration"],
+    "correctAnswer": "Drop in arrivals from India impacting tourism"
   },
   {
     "id": 21,
-    "question": "What 2016 tribunal ruling did India recently back concerning the South China Sea?",
-    "options": [
-      "A ruling favoring Malaysia",
-      "A ruling favoring China",
-      "A ruling favoring Vietnam",
-      "A ruling favoring the Philippines"
-    ],
-    "correctAnswer": "A ruling favoring the Philippines"
+    "question": "Which agency informed the Supreme Court about Reliance ADAG entities allegedly siphoning funds via shell firms?",
+    "options": ["CBI", "RBI", "ED", "SEBI"],
+    "correctAnswer": "ED"
   },
   {
     "id": 22,
-    "question": "Which international law principles does India emphasize for peaceful dispute resolution in the South China Sea?",
-    "options": [
-      "NATO charter",
-      "UNCLOS principles",
-      "Geneva Conventions",
-      "Kyoto Protocol"
-    ],
-    "correctAnswer": "UNCLOS principles"
+    "question": "How many shell entities were allegedly used by ADAG companies to divert bank loans, according to the ED?",
+    "options": ["Approximately 10", "Approximately 25", "53", "Over 100"],
+    "correctAnswer": "53"
   },
   {
     "id": 23,
-    "question": "What stance does India uphold regarding maritime activities in the South China Sea?",
-    "options": [
-      "Support for exclusive economic zones",
-      "Support for freedom of navigation and lawful sea uses",
-      "Support for military expansion",
-      "Support for restricting international trade routes"
-    ],
-    "correctAnswer": "Support for freedom of navigation and lawful sea uses"
+    "question": "What is the approximate value of assets attached by the ED in connection with the ADAG funds siphoning case?",
+    "options": ["Over Rs 1,000 crore", "Over Rs 2,500 crore", "Over Rs 5,500 crore", "Over Rs 10,000 crore"],
+    "correctAnswer": "Over Rs 5,500 crore"
   },
   {
     "id": 24,
-    "question": "What directive did the Supreme Court give to the Dhar administration regarding the Bhojshala complex, concerning Friday prayers?",
-    "options": [
-      "To close the complex for renovations",
-      "To allow prayers only on Tuesdays",
-      "To find an alternative space for Muslim Friday prayers",
-      "To restrict access to only researchers"
-    ],
-    "correctAnswer": "To find an alternative space for Muslim Friday prayers"
+    "question": "Apart from siphoning loan money, what other type of acquisitions were mentioned as being funded by diverted funds from other Reliance group companies?",
+    "options": ["Infrastructure projects", "Charitable donations", "Luxury acquisitions", "Technology startups"],
+    "correctAnswer": "Luxury acquisitions"
   },
   {
     "id": 25,
-    "question": "In which state is the Bhojshala complex located, a site recently in news regarding religious prayers and a Supreme Court directive?",
-    "options": [
-      "Uttar Pradesh",
-      "Rajasthan",
-      "Madhya Pradesh",
-      "Bihar"
-    ],
-    "correctAnswer": "Madhya Pradesh"
+    "question": "How many individuals, including a man, were acquitted by the Supreme Court in a 26-year-old dowry case?",
+    "options": ["Ten", "Fifteen", "Seventeen", "Twenty"],
+    "correctAnswer": "Seventeen"
   }
 ]

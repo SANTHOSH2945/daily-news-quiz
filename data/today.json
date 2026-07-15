@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which political party's reunification is being discussed based on recent talks mentioned in the news?",
-    "options": ["BJP", "Congress", "NCP", "Shiv Sena"],
-    "correctAnswer": "NCP"
+    "question": "What is the proposed site for a major nuclear power project in Andhra Pradesh, a region of focus for energy security discussions?",
+    "options": ["Jaduguda", "Kovvada", "Tarapur", "Kudankulam"],
+    "correctAnswer": "Kovvada"
   },
   {
     "id": 2,
-    "question": "Who is the Chief Minister mentioned in relation to discussions about political reunification?",
-    "options": ["Eknath Shinde", "Devendra Fadnavis", "Ajit Pawar", "Sharad Pawar"],
-    "correctAnswer": "Devendra Fadnavis"
+    "question": "Which Indian state, known for its focus on industrial growth, does NOT currently have an operational or proposed nuclear power plant within its territory?",
+    "options": ["Andhra Pradesh", "Telangana", "Tamil Nadu", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 3,
-    "question": "The political discussions regarding the NCP reunification primarily pertain to which Indian state?",
-    "options": ["Karnataka", "Maharashtra", "Gujarat", "Uttar Pradesh"],
-    "correctAnswer": "Maharashtra"
+    "question": "The Department of Atomic Energy (DAE) governs nuclear power in India. Which of the following is a primary objective of DAE's activities, relevant to states like Andhra Pradesh?",
+    "options": ["Promoting organic farming", "Developing renewable energy sources other than nuclear", "Ensuring nuclear power safety and technological advancement", "Regulating public transport"],
+    "correctAnswer": "Ensuring nuclear power safety and technological advancement"
   },
   {
     "id": 4,
-    "question": "What is the primary subject of the recent talks involving CM Fadnavis and leaders of both NCP factions?",
-    "options": ["Alliance formation", "Cabinet expansion", "Party reunification", "Election strategy"],
-    "correctAnswer": "Party reunification"
+    "question": "Beyond nuclear power, what other significant energy source is Andhra Pradesh actively developing to meet its growing demand?",
+    "options": ["Geothermal power", "Tidal energy", "Solar and wind energy", "Wave power"],
+    "correctAnswer": "Solar and wind energy"
   },
   {
     "id": 5,
-    "question": "Who is the activist on a hunger strike whose health deterioration has led to a plea for 'force-feeding'?",
-    "options": ["Medha Patkar", "Anna Hazare", "Kailash Satyarthi", "Sonam Wangchuk"],
-    "correctAnswer": "Sonam Wangchuk"
+    "question": "What organization is primarily responsible for the construction and operation of nuclear power plants in India, including those proposed in states like Andhra Pradesh?",
+    "options": ["National Thermal Power Corporation (NTPC)", "Nuclear Power Corporation of India Limited (NPCIL)", "Bharat Heavy Electricals Limited (BHEL)", "Power Grid Corporation of India Limited"],
+    "correctAnswer": "Nuclear Power Corporation of India Limited (NPCIL)"
   },
   {
     "id": 6,
-    "question": "What specific action was sought in the Delhi High Court regarding Sonam Wangchuk's hunger strike?",
-    "options": ["Medical examination", "Judicial inquiry", "Force-feeding", "Release from custody"],
-    "correctAnswer": "Force-feeding"
+    "question": "The Delimitation Bill, currently under discussion, aims to redraw constituency boundaries. Which constitutional amendment last froze the delimitation exercise in India until 2026?",
+    "options": ["42nd Amendment", "84th Amendment", "91st Amendment", "101st Amendment"],
+    "correctAnswer": "84th Amendment"
   },
   {
     "id": 7,
-    "question": "On which day of his fast did CJP's Dipke criticize the Centre regarding Sonam Wangchuk's protest?",
-    "options": ["Day 10", "Day 18", "Day 25", "Day 7"],
-    "correctAnswer": "Day 18"
+    "question": "How would a new delimitation exercise, post-2026, significantly impact states like Andhra Pradesh and Telangana, given their differing population growth rates?",
+    "options": ["It would primarily affect agricultural policies.", "It could lead to a change in the number of Lok Sabha and Assembly seats.", "It would only impact Rajya Sabha seat allocation.", "It would standardize state boundaries."],
+    "correctAnswer": "It could lead to a change in the number of Lok Sabha and Assembly seats."
   },
   {
     "id": 8,
-    "question": "Sonam Wangchuk has been fasting to protest against which issues?",
-    "options": ["Land acquisition and displacement", "Farmer suicides and agrarian crisis", "Examination irregularities and paper leaks", "Environmental pollution and deforestation"],
-    "correctAnswer": "Examination irregularities and paper leaks"
+    "question": "Which body is constitutionally mandated to carry out the process of delimitation of constituencies in India?",
+    "options": ["The Election Commission of India", "The Parliament of India", "The Delimitation Commission", "The President of India"],
+    "correctAnswer": "The Delimitation Commission"
   },
   {
     "id": 9,
-    "question": "How much weight did Sonam Wangchuk reportedly lose since the beginning of his hunger strike?",
-    "options": ["5.5 kg", "8.5 kg", "10.0 kg", "7.0 kg"],
-    "correctAnswer": "8.5 kg"
+    "question": "Post-bifurcation, how many Lok Sabha constituencies are allocated to Andhra Pradesh?",
+    "options": ["17", "25", "32", "42"],
+    "correctAnswer": "25"
   },
   {
     "id": 10,
-    "question": "Which organization's representative, Abhijeet Dipke, criticized the government's silence on Sonam Wangchuk's fast?",
-    "options": ["Amnesty International", "Human Rights Watch", "CJP (Citizens for Justice and Peace)", "Greenpeace India"],
-    "correctAnswer": "CJP (Citizens for Justice and Peace)"
+    "question": "Post-bifurcation, how many Lok Sabha constituencies are allocated to Telangana?",
+    "options": ["10", "17", "25", "32"],
+    "correctAnswer": "17"
   },
   {
     "id": 11,
-    "question": "To which political leader did the Congress extend a Martyrs' Day invite with a specific condition?",
-    "options": ["Naveen Patnaik", "Arvind Kejriwal", "Mamata Banerjee", "M.K. Stalin"],
-    "correctAnswer": "Mamata Banerjee"
+    "question": "What is the current number of Assembly constituencies in Andhra Pradesh?",
+    "options": ["119", "175", "230", "294"],
+    "correctAnswer": "175"
   },
   {
     "id": 12,
-    "question": "What was the primary condition set by the Congress for Mamata Banerjee to accept the Martyrs' Day invite?",
-    "options": ["Forming a pre-poll alliance", "Acknowledging leaving Congress was a mistake", "Supporting their national agenda", "Attending a joint rally"],
-    "correctAnswer": "Acknowledging leaving Congress was a mistake"
+    "question": "What is the current number of Assembly constituencies in Telangana?",
+    "options": ["105", "119", "150", "175"],
+    "correctAnswer": "119"
   },
   {
     "id": 13,
-    "question": "In which city is the Congress Martyrs' Day event mentioned in the news scheduled to take place?",
-    "options": ["New Delhi", "Kolkata", "Mumbai", "Chennai"],
-    "correctAnswer": "Kolkata"
+    "question": "The purpose of delimitation is to ensure what principle in democratic representation?",
+    "options": ["Economic equality", "One person, one vote, equal value", "Religious diversity", "Linguistic homogeneity"],
+    "correctAnswer": "One person, one vote, equal value"
   },
   {
     "id": 14,
-    "question": "The 1993 movement, whose historical significance was mentioned by the West Bengal Congress president, is associated with which annual event?",
-    "options": ["Independence Day", "Republic Day", "Martyrs' Day", "Gandhi Jayanti"],
-    "correctAnswer": "Martyrs' Day"
+    "question": "Which specific article of the Indian Constitution empowers the Parliament to enact a law for delimitation after every census?",
+    "options": ["Article 370", "Article 32", "Article 82", "Article 14"],
+    "correctAnswer": "Article 82"
   },
   {
     "id": 15,
-    "question": "What was the primary reason for the arrest of two law students mentioned in the news item?",
-    "options": ["Protesting outside the court", "Filming courtroom proceedings illegally", "Cuss remarks against CJI and courtroom disruption", "Bribery attempts"],
-    "correctAnswer": "Cuss remarks against CJI and courtroom disruption"
+    "question": "If a new delimitation exercise increases the number of Lok Sabha seats, how might this generally benefit states with higher population growth, potentially including parts of Telangana?",
+    "options": ["Decreased central government funding", "Greater political representation in the Parliament", "Reduced state autonomy", "Increased tax burden"],
+    "correctAnswer": "Greater political representation in the Parliament"
   },
   {
     "id": 16,
-    "question": "Which high-ranking judicial official was targeted by the disruption caused by the law students?",
-    "options": ["Attorney General", "Chief Justice of India (CJI)", "Solicitor General", "High Court Judge"],
-    "correctAnswer": "Chief Justice of India (CJI)"
+    "question": "Which major port city in Andhra Pradesh serves as a key gateway for international trade and could significantly benefit from enhanced trade deals like the India-UK FTA?",
+    "options": ["Kurnool", "Tirupati", "Visakhapatnam", "Vijayawada"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 17,
-    "question": "How many law students were reportedly arrested over the courtroom disruption involving remarks against the CJI?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "Hyderabad, a major city in Telangana, is a hub for which sector that is a significant part of India's exports and often benefits from international trade agreements?",
+    "options": ["Heavy machinery manufacturing", "Information Technology and Pharmaceuticals", "Coal mining", "Textile production"],
+    "correctAnswer": "Information Technology and Pharmaceuticals"
   },
   {
     "id": 18,
-    "question": "Which country recently reversed its plan to end visa-free entry for Indian visitors, now allowing thirty-day visa-exempt entries?",
-    "options": ["Vietnam", "Indonesia", "Malaysia", "Thailand"],
-    "correctAnswer": "Thailand"
+    "question": "What product category is a significant agricultural export from Andhra Pradesh that could see increased demand through international trade agreements?",
+    "options": ["Wheat", "Rice and marine products", "Tea", "Potatoes"],
+    "correctAnswer": "Rice and marine products"
   },
   {
     "id": 19,
-    "question": "What was the previous duration of visa-free entry for Indian tourists in Thailand before the recent policy changes?",
-    "options": ["Fifteen days", "Thirty days", "Sixty days", "Ninety days"],
-    "correctAnswer": "Sixty days"
+    "question": "What is a key objective for Telangana in leveraging international trade agreements, such as the India-UK deal?",
+    "options": ["To increase import duties on all foreign goods.", "To attract foreign direct investment and boost exports in IT and pharma.", "To solely focus on domestic market consumption.", "To discourage international tourism."],
+    "correctAnswer": "To attract foreign direct investment and boost exports in IT and pharma."
   },
   {
     "id": 20,
-    "question": "What was the primary reason cited by Thailand for reversing its decision on visa-free entry for Indians?",
-    "options": ["Diplomatic pressure from India", "Increase in Indian investments", "Drop in arrivals from India impacting tourism", "Concerns over illegal immigration"],
-    "correctAnswer": "Drop in arrivals from India impacting tourism"
+    "question": "Beyond goods, trade deals often cover services. Which service sector is a significant contributor to both Andhra Pradesh and Telangana's economies and could expand through international agreements?",
+    "options": ["Mining operations", "Financial and IT services", "Fisheries (as a service)", "Livestock rearing"],
+    "correctAnswer": "Financial and IT services"
   },
   {
     "id": 21,
-    "question": "Which agency informed the Supreme Court about Reliance ADAG entities allegedly siphoning funds via shell firms?",
-    "options": ["CBI", "RBI", "ED", "SEBI"],
-    "correctAnswer": "ED"
+    "question": "What institution typically facilitates trade and investment between India and other countries, playing a role in the implementation of deals like the India-UK FTA at the state level?",
+    "options": ["State Bank of India", "Invest India", "Reserve Bank of India", "National Highways Authority of India"],
+    "correctAnswer": "Invest India"
   },
   {
     "id": 22,
-    "question": "How many shell entities were allegedly used by ADAG companies to divert bank loans, according to the ED?",
-    "options": ["Approximately 10", "Approximately 25", "53", "Over 100"],
-    "correctAnswer": "53"
+    "question": "What significant infrastructure project in Andhra Pradesh is aimed at improving logistics and trade connectivity, crucial for capitalizing on international trade agreements?",
+    "options": ["Charminar Restoration Project", "Kadapa Steel Plant", "Bhavanapadu Port Development", "Amaravati Capital City Construction"],
+    "correctAnswer": "Bhavanapadu Port Development"
   },
   {
     "id": 23,
-    "question": "What is the approximate value of assets attached by the ED in connection with the ADAG funds siphoning case?",
-    "options": ["Over Rs 1,000 crore", "Over Rs 2,500 crore", "Over Rs 5,500 crore", "Over Rs 10,000 crore"],
-    "correctAnswer": "Over Rs 5,500 crore"
+    "question": "The textile sector in Telangana, particularly in areas like Sircilla, could potentially benefit from better access to international markets via trade deals. Which type of textile is a specialty of this region?",
+    "options": ["Silk sarees", "Handloom products", "Jute fabrics", "Synthetic carpets"],
+    "correctAnswer": "Handloom products"
   },
   {
     "id": 24,
-    "question": "Apart from siphoning loan money, what other type of acquisitions were mentioned as being funded by diverted funds from other Reliance group companies?",
-    "options": ["Infrastructure projects", "Charitable donations", "Luxury acquisitions", "Technology startups"],
-    "correctAnswer": "Luxury acquisitions"
+    "question": "What are Special Economic Zones (SEZs) in states like Andhra Pradesh and Telangana primarily designed to achieve in the context of international trade?",
+    "options": ["Restrict all foreign investment", "Promote exports and economic activity through favorable policies", "Create agricultural storage facilities", "Develop purely domestic industries"],
+    "correctAnswer": "Promote exports and economic activity through favorable policies"
   },
   {
     "id": 25,
-    "question": "How many individuals, including a man, were acquitted by the Supreme Court in a 26-year-old dowry case?",
-    "options": ["Ten", "Fifteen", "Seventeen", "Twenty"],
-    "correctAnswer": "Seventeen"
+    "question": "What governmental body in India is responsible for negotiating and finalizing international trade agreements, impacting export-oriented states like AP and Telangana?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of Commerce and Industry", "Ministry of External Affairs"],
+    "correctAnswer": "Ministry of Commerce and Industry"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the proposed site for a major nuclear power project in Andhra Pradesh, a region of focus for energy security discussions?",
-    "options": ["Jaduguda", "Kovvada", "Tarapur", "Kudankulam"],
-    "correctAnswer": "Kovvada"
+    "question": "Which city in Telangana is scheduled to host a Vishwa Mangalya Sabha meeting addressed by RSS chief Mohan Bhagwat?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "Which Indian state, known for its focus on industrial growth, does NOT currently have an operational or proposed nuclear power plant within its territory?",
-    "options": ["Andhra Pradesh", "Telangana", "Tamil Nadu", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "Who is scheduled to address women at the Vishwa Mangalya Sabha meetings, including one held in Hyderabad?",
+    "options": ["Amit Shah", "Mohan Bhagwat", "J.P. Nadda", "Narendra Modi"],
+    "correctAnswer": "Mohan Bhagwat"
   },
   {
     "id": 3,
-    "question": "The Department of Atomic Energy (DAE) governs nuclear power in India. Which of the following is a primary objective of DAE's activities, relevant to states like Andhra Pradesh?",
-    "options": ["Promoting organic farming", "Developing renewable energy sources other than nuclear", "Ensuring nuclear power safety and technological advancement", "Regulating public transport"],
-    "correctAnswer": "Ensuring nuclear power safety and technological advancement"
+    "question": "What is the name of the meeting series where RSS chief Mohan Bhagwat will address women in Hyderabad?",
+    "options": ["Hindu Ekta Sammelan", "Seva Sangam", "Vishwa Mangalya Sabha", "Shakti Milan"],
+    "correctAnswer": "Vishwa Mangalya Sabha"
   },
   {
     "id": 4,
-    "question": "Beyond nuclear power, what other significant energy source is Andhra Pradesh actively developing to meet its growing demand?",
-    "options": ["Geothermal power", "Tidal energy", "Solar and wind energy", "Wave power"],
-    "correctAnswer": "Solar and wind energy"
+    "question": "Besides Delhi, which other major Indian city is listed as a venue for the Vishwa Mangalya Sabha meetings addressed by RSS chief Mohan Bhagwat?",
+    "options": ["Mumbai", "Kolkata", "Hyderabad", "Chennai"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 5,
-    "question": "What organization is primarily responsible for the construction and operation of nuclear power plants in India, including those proposed in states like Andhra Pradesh?",
-    "options": ["National Thermal Power Corporation (NTPC)", "Nuclear Power Corporation of India Limited (NPCIL)", "Bharat Heavy Electricals Limited (BHEL)", "Power Grid Corporation of India Limited"],
-    "correctAnswer": "Nuclear Power Corporation of India Limited (NPCIL)"
+    "question": "The Vishwa Mangalya Sabha meetings, scheduled in Hyderabad, are primarily aimed at addressing which demographic?",
+    "options": ["Youth", "Farmers", "Women", "Business leaders"],
+    "correctAnswer": "Women"
   },
   {
     "id": 6,
-    "question": "The Delimitation Bill, currently under discussion, aims to redraw constituency boundaries. Which constitutional amendment last froze the delimitation exercise in India until 2026?",
-    "options": ["42nd Amendment", "84th Amendment", "91st Amendment", "101st Amendment"],
-    "correctAnswer": "84th Amendment"
+    "question": "According to the Election Commission's revised Special Summary Revision (SIR) schedule, what is the draft publication date for electoral rolls in Telangana?",
+    "options": ["July 31", "August 10", "September 5", "October 12"],
+    "correctAnswer": "August 10"
   },
   {
     "id": 7,
-    "question": "How would a new delimitation exercise, post-2026, significantly impact states like Andhra Pradesh and Telangana, given their differing population growth rates?",
-    "options": ["It would primarily affect agricultural policies.", "It could lead to a change in the number of Lok Sabha and Assembly seats.", "It would only impact Rajya Sabha seat allocation.", "It would standardize state boundaries."],
-    "correctAnswer": "It could lead to a change in the number of Lok Sabha and Assembly seats."
+    "question": "What is the finalization date for electoral rolls in Telangana as per the revised EC schedule?",
+    "options": ["September 1", "October 12", "November 15", "December 31"],
+    "correctAnswer": "October 12"
   },
   {
     "id": 8,
-    "question": "Which body is constitutionally mandated to carry out the process of delimitation of constituencies in India?",
-    "options": ["The Election Commission of India", "The Parliament of India", "The Delimitation Commission", "The President of India"],
-    "correctAnswer": "The Delimitation Commission"
+    "question": "For which state among the following is the Election Commission's revised schedule for electoral roll draft publication set for July 31?",
+    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Kerala"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 9,
-    "question": "Post-bifurcation, how many Lok Sabha constituencies are allocated to Andhra Pradesh?",
-    "options": ["17", "25", "32", "42"],
-    "correctAnswer": "25"
+    "question": "The Election Commission's Special Summary Revision (SIR) exercise, impacting states like Telangana and Andhra Pradesh, primarily aims to update what?",
+    "options": ["Census data", "Voter lists", "Aadhaar database", "PDS beneficiary lists"],
+    "correctAnswer": "Voter lists"
   },
   {
     "id": 10,
-    "question": "Post-bifurcation, how many Lok Sabha constituencies are allocated to Telangana?",
-    "options": ["10", "17", "25", "32"],
-    "correctAnswer": "17"
+    "question": "The Election Commission recently released a revised schedule for electoral rolls. Which date is set for the draft publication of electoral rolls in Andhra Pradesh?",
+    "options": ["July 31", "August 10", "September 1", "October 12"],
+    "correctAnswer": "July 31"
   },
   {
     "id": 11,
-    "question": "What is the current number of Assembly constituencies in Andhra Pradesh?",
-    "options": ["119", "175", "230", "294"],
-    "correctAnswer": "175"
+    "question": "The Election Commission's revised schedule for electoral rolls mentions August 10 for draft publication and October 12 for finalization in which Indian state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Haryana", "Telangana"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 12,
-    "question": "What is the current number of Assembly constituencies in Telangana?",
-    "options": ["105", "119", "150", "175"],
-    "correctAnswer": "119"
+    "question": "What is one of the primary purposes of the Special Summary Revision (SIR) of electoral rolls conducted by the Election Commission?",
+    "options": ["To register new political parties", "To add new and remove ineligible electors", "To schedule election dates", "To allocate symbols to candidates"],
+    "correctAnswer": "To add new and remove ineligible electors"
   },
   {
     "id": 13,
-    "question": "The purpose of delimitation is to ensure what principle in democratic representation?",
-    "options": ["Economic equality", "One person, one vote, equal value", "Religious diversity", "Linguistic homogeneity"],
-    "correctAnswer": "One person, one vote, equal value"
+    "question": "In the context of the EC's revised SIR schedule mentioned in the news regarding Telangana and Andhra Pradesh, what does the acronym SIR stand for?",
+    "options": ["State Information Register", "Special Inquiry Report", "Special Summary Revision", "Senior Indian Register"],
+    "correctAnswer": "Special Summary Revision"
   },
   {
     "id": 14,
-    "question": "Which specific article of the Indian Constitution empowers the Parliament to enact a law for delimitation after every census?",
-    "options": ["Article 370", "Article 32", "Article 82", "Article 14"],
-    "correctAnswer": "Article 82"
+    "question": "How many states' revised Special Summary Revision (SIR) schedules for electoral rolls were released by the Election Commission in the recent announcement?",
+    "options": ["Four", "Six", "Eight", "Ten"],
+    "correctAnswer": "Six"
   },
   {
     "id": 15,
-    "question": "If a new delimitation exercise increases the number of Lok Sabha seats, how might this generally benefit states with higher population growth, potentially including parts of Telangana?",
-    "options": ["Decreased central government funding", "Greater political representation in the Parliament", "Reduced state autonomy", "Increased tax burden"],
-    "correctAnswer": "Greater political representation in the Parliament"
+    "question": "When are the final electoral rolls expected to be published for most states as per the EC's revised schedule, including Telangana?",
+    "options": ["August", "September", "October", "November"],
+    "correctAnswer": "October"
   },
   {
     "id": 16,
-    "question": "Which major port city in Andhra Pradesh serves as a key gateway for international trade and could significantly benefit from enhanced trade deals like the India-UK FTA?",
-    "options": ["Kurnool", "Tirupati", "Visakhapatnam", "Vijayawada"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "Which state, besides Andhra Pradesh, has its draft electoral rolls scheduled for publication on August 10 as per the Election Commission's revised SIR schedule?",
+    "options": ["Andhra Pradesh", "Karnataka", "Haryana", "Telangana"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 17,
-    "question": "Hyderabad, a major city in Telangana, is a hub for which sector that is a significant part of India's exports and often benefits from international trade agreements?",
-    "options": ["Heavy machinery manufacturing", "Information Technology and Pharmaceuticals", "Coal mining", "Textile production"],
-    "correctAnswer": "Information Technology and Pharmaceuticals"
+    "question": "The process of updating voter lists by adding new and removing ineligible electors is part of what exercise by the Election Commission?",
+    "options": ["General Elections", "Bye-Elections", "Delimitation Exercise", "Special Summary Revision of Electoral Rolls"],
+    "correctAnswer": "Special Summary Revision of Electoral Rolls"
   },
   {
     "id": 18,
-    "question": "What product category is a significant agricultural export from Andhra Pradesh that could see increased demand through international trade agreements?",
-    "options": ["Wheat", "Rice and marine products", "Tea", "Potatoes"],
-    "correctAnswer": "Rice and marine products"
+    "question": "What is the primary focus of the Vishwa Mangalya Sabha meetings being addressed by RSS chief Mohan Bhagwat in cities like Hyderabad?",
+    "options": ["Economic development", "Spiritual enlightenment", "Women's empowerment", "Political strategy"],
+    "correctAnswer": "Women's empowerment"
   },
   {
     "id": 19,
-    "question": "What is a key objective for Telangana in leveraging international trade agreements, such as the India-UK deal?",
-    "options": ["To increase import duties on all foreign goods.", "To attract foreign direct investment and boost exports in IT and pharma.", "To solely focus on domestic market consumption.", "To discourage international tourism."],
-    "correctAnswer": "To attract foreign direct investment and boost exports in IT and pharma."
+    "question": "In which Indian capital city, apart from Delhi, will the RSS chief Mohan Bhagwat hold a Vishwa Mangalya Sabha meeting?",
+    "options": ["Bengaluru", "Hyderabad", "Jaipur", "Lucknow"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 20,
-    "question": "Beyond goods, trade deals often cover services. Which service sector is a significant contributor to both Andhra Pradesh and Telangana's economies and could expand through international agreements?",
-    "options": ["Mining operations", "Financial and IT services", "Fisheries (as a service)", "Livestock rearing"],
-    "correctAnswer": "Financial and IT services"
+    "question": "What is the final date for the completion of the electoral roll revision process in Telangana, according to the Election Commission?",
+    "options": ["September 1", "October 12", "November 1", "December 31"],
+    "correctAnswer": "October 12"
   },
   {
     "id": 21,
-    "question": "What institution typically facilitates trade and investment between India and other countries, playing a role in the implementation of deals like the India-UK FTA at the state level?",
-    "options": ["State Bank of India", "Invest India", "Reserve Bank of India", "National Highways Authority of India"],
-    "correctAnswer": "Invest India"
+    "question": "The revised SIR schedule by the Election Commission aims to facilitate the updating of voter lists. What is one key action involved in this process?",
+    "options": ["Holding public debates", "Adding new electors", "Organizing political rallies", "Collecting demographic statistics"],
+    "correctAnswer": "Adding new electors"
   },
   {
     "id": 22,
-    "question": "What significant infrastructure project in Andhra Pradesh is aimed at improving logistics and trade connectivity, crucial for capitalizing on international trade agreements?",
-    "options": ["Charminar Restoration Project", "Kadapa Steel Plant", "Bhavanapadu Port Development", "Amaravati Capital City Construction"],
-    "correctAnswer": "Bhavanapadu Port Development"
+    "question": "Another key action in the Special Summary Revision of electoral rolls, besides adding new electors, is?",
+    "options": ["Issuing new voter ID cards", "Removing ineligible electors", "Conducting mock elections", "Revising constituency boundaries"],
+    "correctAnswer": "Removing ineligible electors"
   },
   {
     "id": 23,
-    "question": "The textile sector in Telangana, particularly in areas like Sircilla, could potentially benefit from better access to international markets via trade deals. Which type of textile is a specialty of this region?",
-    "options": ["Silk sarees", "Handloom products", "Jute fabrics", "Synthetic carpets"],
-    "correctAnswer": "Handloom products"
+    "question": "Besides Andhra Pradesh, which other state mentioned in the news will publish its draft electoral rolls on July 31 as per the Election Commission's revised schedule?",
+    "options": ["Telangana", "Karnataka", "Haryana", "Delhi"],
+    "correctAnswer": "Haryana"
   },
   {
     "id": 24,
-    "question": "What are Special Economic Zones (SEZs) in states like Andhra Pradesh and Telangana primarily designed to achieve in the context of international trade?",
-    "options": ["Restrict all foreign investment", "Promote exports and economic activity through favorable policies", "Create agricultural storage facilities", "Develop purely domestic industries"],
-    "correctAnswer": "Promote exports and economic activity through favorable policies"
+    "question": "The Indian government is considering mandatory Central Board of Film Certification (CBFC) for which type of media releases, a policy change affecting audiences in states like Telangana and Andhra Pradesh?",
+    "options": ["Broadcast television shows", "Live theatre performances", "OTT platform films", "Radio programs"],
+    "correctAnswer": "OTT platform films"
   },
   {
     "id": 25,
-    "question": "What governmental body in India is responsible for negotiating and finalizing international trade agreements, impacting export-oriented states like AP and Telangana?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of Commerce and Industry", "Ministry of External Affairs"],
-    "correctAnswer": "Ministry of Commerce and Industry"
+    "question": "The proposed amendment to IT Rules 2021 regarding OTT content certification, relevant for viewers across India including Telangana and Andhra Pradesh, was prompted by a controversy surrounding which film?",
+    "options": ["'Pathaan'", "'Animal'", "'Satluj'", "'Jawan'"],
+    "correctAnswer": "'Satluj'"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national examination's paper leak issue led to widespread protests and calls for the Union Education Minister's removal, significantly impacting students across states including Telangana and Andhra Pradesh?",
-    "options": ["UPSC Civil Services Exam", "JEE Advanced", "NEET-UG", "CLAT"],
-    "correctAnswer": "NEET-UG"
+    "question": "What is the primary purpose of the NEET-UG examination mentioned in the news?",
+    "options": ["Admission to engineering courses", "Admission to medical courses", "Admission to law courses", "Admission to management courses"],
+    "correctAnswer": "Admission to medical courses"
   },
   {
     "id": 2,
-    "question": "What is one of the primary demands made by protestors, including Arvind Kejriwal, regarding the recurring paper leaks in national examinations like NEET, a concern for students from Andhra Pradesh and Telangana?",
-    "options": ["Implementation of online-only exams", "Replacement of the Union Education Minister", "Increase in exam fees", "Reduction in syllabus"],
-    "correctAnswer": "Replacement of the Union Education Minister"
+    "question": "Which agency is responsible for declaring the NEET-UG results?",
+    "options": ["Union Public Service Commission (UPSC)", "National Testing Agency (NTA)", "Central Board of Secondary Education (CBSE)", "All India Council for Technical Education (AICTE)"],
+    "correctAnswer": "National Testing Agency (NTA)"
   },
   {
     "id": 3,
-    "question": "The ongoing national debate on the NEET paper leak highlights concerns about which aspect of the Indian education system, particularly relevant to students from Andhra Pradesh and Telangana aspiring for medical careers?",
-    "options": ["Teacher training quality", "Examination integrity and transparency", "Availability of coaching centers", "Curriculum design"],
-    "correctAnswer": "Examination integrity and transparency"
+    "question": "According to the recent NEET-UG 2026 results, what was the highest score achieved by candidates?",
+    "options": ["700/720", "710/720", "715/720", "720/720"],
+    "correctAnswer": "715/720"
   },
   {
     "id": 4,
-    "question": "Sonam Wangchuk, known for his activism, joined a hunger strike at Jantar Mantar to protest against national exam paper leaks. Which prominent political leader joined him in expressing solidarity for students from all states, including AP and Telangana?",
-    "options": ["Rahul Gandhi", "Arvind Kejriwal", "Mamata Banerjee", "M. K. Stalin"],
-    "correctAnswer": "Arvind Kejriwal"
+    "question": "What percentage of qualified candidates in the recent NEET-UG results were women?",
+    "options": ["Over 45%", "Over 50%", "Over 58%", "Over 65%"],
+    "correctAnswer": "Over 58%"
   },
   {
     "id": 5,
-    "question": "Beyond the NEET paper leak, what other significant legislative matter is the Congress reportedly discussing with opposition parties like DMK and AAP, which could impact political representation across states, including Telangana and Andhra Pradesh?",
-    "options": ["A Bill on Agricultural Reforms", "The Delimitation Bill", "A Bill on National Education Policy", "The Electoral Bond Bill"],
-    "correctAnswer": "The Delimitation Bill"
+    "question": "The news states that over 93% of candidates scoring above 690 in NEET-UG were what type of test-takers?",
+    "options": ["Repeat test-takers", "First-time test-takers", "Candidates from rural areas", "Candidates from urban areas"],
+    "correctAnswer": "First-time test-takers"
   },
   {
     "id": 6,
-    "question": "What is the primary objective of the Delimitation Bill, currently under discussion, that could potentially redefine parliamentary and assembly constituencies in states like Andhra Pradesh and Telangana?",
-    "options": ["To increase the number of Rajya Sabha seats", "To redraw electoral boundaries based on population changes", "To introduce direct elections for Chief Ministers", "To limit the number of political parties"],
-    "correctAnswer": "To redraw electoral boundaries based on population changes"
+    "question": "How many candidates crossed the 700-mark in the recent NEET-UG results?",
+    "options": ["2", "10", "19", "25"],
+    "correctAnswer": "19"
   },
   {
     "id": 7,
-    "question": "Concerns surrounding the Delimitation Bill often relate to its potential impact on which of the following, particularly for southern states like Andhra Pradesh and Telangana that have controlled population growth?",
-    "options": ["Industrial growth rates", "Representation in the Lok Sabha", "Allocation of central funds", "Inter-state water disputes"],
-    "correctAnswer": "Representation in the Lok Sabha"
+    "question": "What was a key reason mentioned for the timely declaration of NEET-UG results?",
+    "options": ["To reduce student anxiety", "To keep medical admissions on track", "To allow for re-evaluation requests", "To prepare for the next examination cycle"],
+    "correctAnswer": "To keep medical admissions on track"
   },
   {
     "id": 8,
-    "question": "What significant bill, aimed at enhancing female participation in legislative bodies, is the central government considering reintroducing, which would affect state assemblies in Telangana and Andhra Pradesh?",
-    "options": ["The Uniform Civil Code Bill", "The Women's Reservation Bill", "The Anti-Defection Law Amendment Bill", "The Right to Education Amendment Bill"],
-    "correctAnswer": "The Women's Reservation Bill"
+    "question": "What specific directive did the Supreme Court issue to all states and Union Territories recently?",
+    "options": ["To increase the number of prisons", "To formulate a policy for releasing elderly and terminally ill prisoners", "To enhance security measures in prisons", "To provide vocational training to all inmates"],
+    "correctAnswer": "To formulate a policy for releasing elderly and terminally ill prisoners"
   },
   {
     "id": 9,
-    "question": "The Women's Reservation Bill, if passed, aims to reserve what percentage of seats for women in the Lok Sabha and state assemblies across India, including those of Telangana and Andhra Pradesh?",
-    "options": ["10%", "25%", "33%", "50%"],
-    "correctAnswer": "33%"
+    "question": "The Supreme Court emphasized the upholding of which values, even within prison walls, in its directive regarding prisoners?",
+    "options": ["Economic prosperity", "Political freedom", "Constitutional values like dignity and humane treatment", "Religious practices"],
+    "correctAnswer": "Constitutional values like dignity and humane treatment"
   },
   {
     "id": 10,
-    "question": "What urban planning issue, highlighted as a national problem, exacerbates monsoon flooding in cities like Hyderabad and Visakhapatnam by preventing rainwater absorption?",
-    "options": ["Lack of public transport", "Excessive concretisation", "Insufficient street lighting", "Growth of slums"],
-    "correctAnswer": "Excessive concretisation"
+    "question": "What deadline has the Supreme Court set for states and UTs to formulate the policy for vulnerable prisoners?",
+    "options": ["One month", "Three months", "Six months", "One year"],
+    "correctAnswer": "Three months"
   },
   {
     "id": 11,
-    "question": "The decline of natural water reservoirs and wetlands in urban areas, a national trend, contributes to monsoon flooding in cities of Telangana and Andhra Pradesh by reducing what?",
-    "options": ["Groundwater recharge capacity", "Availability of drinking water", "Fish populations", "Recreational spaces"],
-    "correctAnswer": "Groundwater recharge capacity"
+    "question": "Approximately how many prisoners fall into the vulnerable categories (elderly and terminally ill) according to the data mentioned by the Supreme Court?",
+    "options": ["Over 1,000", "Over 2,500", "Over 5,000", "Over 10,000"],
+    "correctAnswer": "Over 5,000"
   },
   {
     "id": 12,
-    "question": "What type of materials are authorities encouraging for urban construction as a solution to mitigate monsoon flooding, allowing better water infiltration into the ground in cities like those in AP and Telangana?",
-    "options": ["Heavy-duty steel", "Non-biodegradable plastics", "Permeable materials", "Solid concrete blocks"],
-    "correctAnswer": "Permeable materials"
+    "question": "The Supreme Court's directive for releasing elderly and terminally ill prisoners aims to ensure what for all inmates?",
+    "options": ["Access to higher education", "Dignity and humane treatment", "Opportunities for early parole", "Reduced sentence duration"],
+    "correctAnswer": "Dignity and humane treatment"
   },
   {
     "id": 13,
-    "question": "Apart from using permeable materials, what other strategy is being promoted nationally to combat urban flooding, relevant to cities in Andhra Pradesh and Telangana?",
-    "options": ["Increased usage of air conditioning", "Creation of more green spaces and de-concretisation", "Development of underground cities", "Expansion of public swimming pools"],
-    "correctAnswer": "Creation of more green spaces and de-concretisation"
+    "question": "According to the Enforcement Directorate (ED), what type of law is the Foreign Exchange Management Act (FEMA) considered?",
+    "options": ["Criminal law", "Civil law", "International law", "Constitutional law"],
+    "correctAnswer": "Civil law"
   },
   {
     "id": 14,
-    "question": "The Monsoon session of Parliament, where national issues like the NEET paper leak and Delimitation Bill are expected to be discussed, is scheduled to begin in which month?",
-    "options": ["June", "July", "August", "September"],
-    "correctAnswer": "July"
+    "question": "Which institution is the competent authority for compounding eligible contraventions under FEMA, as stated by the ED?",
+    "options": ["Enforcement Directorate (ED)", "Ministry of Finance", "Reserve Bank of India (RBI)", "Supreme Court of India"],
+    "correctAnswer": "Reserve Bank of India (RBI)"
   },
   {
     "id": 15,
-    "question": "Which political party is currently engaged in discussions with various opposition parties, including the DMK and Aam Aadmi Party, over legislative matters like the Delimitation Bill, impacting national politics and implicitly states like Telangana and Andhra Pradesh?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Trinamool Congress (AITC)", "Bahujan Samaj Party (BSP)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "What does the Enforcement Directorate issue to the Reserve Bank of India when compounding FEMA offenses?",
+    "options": ["A penalty order", "A 'No-Objection Certificate' (NOC)", "An arrest warrant", "A compliance report"],
+    "correctAnswer": "A 'No-Objection Certificate' (NOC)"
   },
   {
     "id": 16,
-    "question": "The Supreme Court's observation that 'sloganeering is common in a democracy' underscores the importance of which fundamental right for citizens across India, including those in Andhra Pradesh and Telangana?",
-    "options": ["Right to education", "Right to property", "Right to freedom of speech and expression", "Right to privacy"],
-    "correctAnswer": "Right to freedom of speech and expression"
+    "question": "Which pharmaceutical company was recently mentioned in the news for having a FEMA case closed by RBI after a penalty?",
+    "options": ["Pfizer", "Sun Pharma", "Apothecon Pharmaceuticals", "Cipla"],
+    "correctAnswer": "Apothecon Pharmaceuticals"
   },
   {
     "id": 17,
-    "question": "The recurring issue of exam paper leaks, particularly highlighted by the NEET controversy, severely impacts the career prospects of which demographic group in India, including those from AP and Telangana?",
-    "options": ["Senior citizens", "Government employees", "Youth and students", "Farmers"],
-    "correctAnswer": "Youth and students"
+    "question": "The RBI recently closed a FEMA case based on new 'master directions' prescribing what?",
+    "options": ["A foreign exchange trading limit", "A compounding matrix for determining amounts", "Revised interest rates", "New audit procedures"],
+    "correctAnswer": "A compounding matrix for determining amounts"
   },
   {
     "id": 18,
-    "question": "What is the name of the Union Minister whose removal was demanded by protestors at Jantar Mantar following the NEET paper leak, a national issue?",
-    "options": ["Nitin Gadkari", "S. Jaishankar", "Dharmendra Pradhan", "Amit Shah"],
-    "correctAnswer": "Dharmendra Pradhan"
+    "question": "What does the acronym FEMA stand for in the context of Indian law?",
+    "options": ["Foreign Exchange Management Act", "Financial Empowerment and Modernization Act", "Fiscal Expenditure Monitoring Authority", "Federal Economic Market Agreement"],
+    "correctAnswer": "Foreign Exchange Management Act"
   },
   {
     "id": 19,
-    "question": "The problem of urban flooding due to concretisation is a pressing environmental challenge in rapidly growing cities of India, including those in Telangana and Andhra Pradesh. Which of the following is NOT a direct consequence of concretisation mentioned in the news?",
-    "options": ["Reduced rainwater absorption", "Increased surface runoff", "Decline of natural water reservoirs", "Decrease in air pollution levels"],
-    "correctAnswer": "Decrease in air pollution levels"
+    "question": "Which court will begin final hearings on pleas concerning the marital rape law exemption from September ninth?",
+    "options": ["High Court of Delhi", "Supreme Court of India", "Bombay High Court", "Madras High Court"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 20,
-    "question": "The proposed reintroduction of the Women's Reservation Bill is aimed at addressing gender disparity in which specific sector of governance in India, affecting representation from all states, including AP and Telangana?",
-    "options": ["Judicial appointments", "Bureaucratic services", "Legislative bodies", "Public sector undertakings"],
-    "correctAnswer": "Legislative bodies"
+    "question": "What is the central issue the Supreme Court will examine regarding the marital rape law?",
+    "options": ["If only women can be victims of marital rape", "If husbands can face charges for sexual acts causing harm despite existing exemptions", "The definition of marriage in India", "The financial implications of marital disputes"],
+    "correctAnswer": "If husbands can face charges for sexual acts causing harm despite existing exemptions"
   },
   {
     "id": 21,
-    "question": "The Delimitation Bill and the Women's Reservation Bill are examples of legislative measures that would require significant debate and consensus in which body?",
-    "options": ["The Election Commission of India", "The NITI Aayog", "The Indian Parliament", "The Supreme Court"],
-    "correctAnswer": "The Indian Parliament"
+    "question": "What is the Centre's stance on criminalizing marital rape, as mentioned in the news?",
+    "options": ["It supports criminalization to protect women.", "It opposes criminalizing marital rape, citing marriage as a unique relationship.", "It has no official stance on the matter.", "It believes the matter should be decided by state legislatures."],
+    "correctAnswer": "It opposes criminalizing marital rape, citing marriage as a unique relationship."
   },
   {
     "id": 22,
-    "question": "When does the Monsoon session of Parliament, which will feature discussions on significant national issues relevant to all states, usually conclude?",
-    "options": ["End of July", "Mid-August", "End of September", "Mid-October"],
-    "correctAnswer": "Mid-August"
+    "question": "The Supreme Court is examining whether it can create a new offense by striking down which aspect related to marital rape?",
+    "options": ["The definition of consent", "The age of majority", "Exemptions for marital rape under penal laws", "The period of limitation for filing cases"],
+    "correctAnswer": "Exemptions for marital rape under penal laws"
   },
   {
     "id": 23,
-    "question": "The Congress party's engagement with opposition parties, including the DMK, on issues like the Delimitation Bill, reflects broader efforts to build what kind of front in national politics, with implications for states like AP and Telangana?",
-    "options": ["A business lobby front", "An international trade front", "A united opposition front", "A cultural exchange front"],
-    "correctAnswer": "A united opposition front"
+    "question": "The news reports on the NEET-UG results which are crucial for entry into which professional field in India?",
+    "options": ["Engineering", "Law", "Medical", "Business Management"],
+    "correctAnswer": "Medical"
   },
   {
     "id": 24,
-    "question": "What is the term for the process of redrawing boundaries of electoral constituencies to reflect population changes, a process that is critical for fair representation and is currently a national discussion impacting states like Telangana and Andhra Pradesh?",
-    "options": ["Gerrymandering", "Apportionment", "Redistricting", "Delimitation"],
-    "correctAnswer": "Delimitation"
+    "question": "The Supreme Court's order regarding elderly and terminally ill prisoners primarily aims to uphold what principle?",
+    "options": ["Economic justice", "Rehabilitation programs", "Humane treatment and dignity for inmates", "Reduction of prison overcrowding"],
+    "correctAnswer": "Humane treatment and dignity for inmates"
   },
   {
     "id": 25,
-    "question": "Which issue, commonly raised by opposition parties during parliamentary sessions, directly affects the academic future and aspirations of lakhs of students in states like Telangana and Andhra Pradesh?",
-    "options": ["Foreign policy decisions", "Defence procurements", "National exam paper leaks", "Railway budget allocations"],
-    "correctAnswer": "National exam paper leaks"
+    "question": "The ED's clarification on FEMA emphasizes its role in ensuring what aspect of compliance?",
+    "options": ["Mandatory legal prosecution", "Voluntary compliance for foreign exchange management", "Criminal investigation procedures", "International trade agreements"],
+    "correctAnswer": "Voluntary compliance for foreign exchange management"
   }
 ]

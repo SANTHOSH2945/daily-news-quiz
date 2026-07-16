@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which city in Telangana is scheduled to host a Vishwa Mangalya Sabha meeting addressed by RSS chief Mohan Bhagwat?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which of the following states had revised schedules released for the SIR exercise enumeration forms submission, alongside Punjab and Karnataka, as mentioned in the news?",
+    "options": ["Haryana", "Andhra Pradesh", "Telangana", "Delhi"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 2,
-    "question": "Who is scheduled to address women at the Vishwa Mangalya Sabha meetings, including one held in Hyderabad?",
-    "options": ["Amit Shah", "Mohan Bhagwat", "J.P. Nadda", "Narendra Modi"],
-    "correctAnswer": "Mohan Bhagwat"
-  },
-  {
-    "id": 3,
-    "question": "What is the name of the meeting series where RSS chief Mohan Bhagwat will address women in Hyderabad?",
-    "options": ["Hindu Ekta Sammelan", "Seva Sangam", "Vishwa Mangalya Sabha", "Shakti Milan"],
-    "correctAnswer": "Vishwa Mangalya Sabha"
-  },
-  {
-    "id": 4,
-    "question": "Besides Delhi, which other major Indian city is listed as a venue for the Vishwa Mangalya Sabha meetings addressed by RSS chief Mohan Bhagwat?",
-    "options": ["Mumbai", "Kolkata", "Hyderabad", "Chennai"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 5,
-    "question": "The Vishwa Mangalya Sabha meetings, scheduled in Hyderabad, are primarily aimed at addressing which demographic?",
-    "options": ["Youth", "Farmers", "Women", "Business leaders"],
-    "correctAnswer": "Women"
-  },
-  {
-    "id": 6,
-    "question": "According to the Election Commission's revised Special Summary Revision (SIR) schedule, what is the draft publication date for electoral rolls in Telangana?",
-    "options": ["July 31", "August 10", "September 5", "October 12"],
-    "correctAnswer": "August 10"
-  },
-  {
-    "id": 7,
-    "question": "What is the finalization date for electoral rolls in Telangana as per the revised EC schedule?",
-    "options": ["September 1", "October 12", "November 15", "December 31"],
-    "correctAnswer": "October 12"
-  },
-  {
-    "id": 8,
-    "question": "For which state among the following is the Election Commission's revised schedule for electoral roll draft publication set for July 31?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Kerala"],
+    "question": "For which of these states were extensions previously announced for the SIR exercise, as stated in the news context?",
+    "options": ["Punjab", "Karnataka", "Telangana", "Andhra Pradesh"],
     "correctAnswer": "Andhra Pradesh"
   },
   {
+    "id": 3,
+    "question": "What type of exercise is being conducted in states like Telangana and Andhra Pradesh where BLOs are involved in house-to-house visits for enumeration forms?",
+    "options": ["Census enumeration", "Voter registration", "SIR exercise", "Ration card verification"],
+    "correctAnswer": "SIR exercise"
+  },
+  {
+    "id": 4,
+    "question": "The final electoral roll for which specific city/region, mentioned in the context of the SIR exercise, will now be published on October 19?",
+    "options": ["Hyderabad", "Amaravati", "Delhi", "Bengaluru"],
+    "correctAnswer": "Delhi"
+  },
+  {
+    "id": 5,
+    "question": "What is the primary role of BLOs as described in the context of the SIR exercise involving states like Telangana and Andhra Pradesh?",
+    "options": ["Registering new businesses", "Distributing ration cards", "Conducting house-to-house visits for enumeration forms", "Providing civic services"],
+    "correctAnswer": "Conducting house-to-house visits for enumeration forms"
+  },
+  {
+    "id": 6,
+    "question": "How many additional days did electors in Delhi receive to submit their enumeration forms for the SIR exercise?",
+    "options": ["5 days", "7 days", "10 days", "15 days"],
+    "correctAnswer": "10 days"
+  },
+  {
+    "id": 7,
+    "question": "What documents are electors submitting as part of the SIR exercise in states like Telangana and Andhra Pradesh?",
+    "options": ["Identity proofs", "Income certificates", "Enumeration forms", "Property deeds"],
+    "correctAnswer": "Enumeration forms"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following sets of states correctly lists those for which revised schedules were released for the SIR exercise, as per the news?",
+    "options": ["Punjab, Haryana, Delhi", "Telangana, Karnataka, Andhra Pradesh", "Punjab, Telangana, Karnataka", "Delhi, Haryana, Karnataka"],
+    "correctAnswer": "Punjab, Telangana, Karnataka"
+  },
+  {
     "id": 9,
-    "question": "The Election Commission's Special Summary Revision (SIR) exercise, impacting states like Telangana and Andhra Pradesh, primarily aims to update what?",
-    "options": ["Census data", "Voter lists", "Aadhaar database", "PDS beneficiary lists"],
-    "correctAnswer": "Voter lists"
+    "question": "Besides Delhi and Haryana, which other state was mentioned as having received previous extensions for the SIR enumeration forms?",
+    "options": ["Punjab", "Karnataka", "Telangana", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 10,
-    "question": "The Election Commission recently released a revised schedule for electoral rolls. Which date is set for the draft publication of electoral rolls in Andhra Pradesh?",
-    "options": ["July 31", "August 10", "September 1", "October 12"],
-    "correctAnswer": "July 31"
+    "question": "The extensions related to the SIR exercise in Andhra Pradesh and Telangana primarily concern what process?",
+    "options": ["Voter list updating", "Birth and death registration", "Ration card issuance", "Property tax collection"],
+    "correctAnswer": "Voter list updating"
   },
   {
     "id": 11,
-    "question": "The Election Commission's revised schedule for electoral rolls mentions August 10 for draft publication and October 12 for finalization in which Indian state?",
-    "options": ["Andhra Pradesh", "Karnataka", "Haryana", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "The Supreme Court recently criticized a High Court order that stated removing a woman's salwar did not constitute what crime?",
+    "options": ["Assault", "Molestation", "Attempted rape", "Outraging modesty"],
+    "correctAnswer": "Attempted rape"
   },
   {
     "id": 12,
-    "question": "What is one of the primary purposes of the Special Summary Revision (SIR) of electoral rolls conducted by the Election Commission?",
-    "options": ["To register new political parties", "To add new and remove ineligible electors", "To schedule election dates", "To allocate symbols to candidates"],
-    "correctAnswer": "To add new and remove ineligible electors"
+    "question": "What specific guidelines did the Supreme Court direct all courts in India to adhere to following its criticism of a High Court ruling?",
+    "options": ["Speedy trial guidelines", "Judicial sensitivity guidelines", "Sentencing guidelines", "Bail guidelines"],
+    "correctAnswer": "Judicial sensitivity guidelines"
   },
   {
     "id": 13,
-    "question": "In the context of the EC's revised SIR schedule mentioned in the news regarding Telangana and Andhra Pradesh, what does the acronym SIR stand for?",
-    "options": ["State Information Register", "Special Inquiry Report", "Special Summary Revision", "Senior Indian Register"],
-    "correctAnswer": "Special Summary Revision"
+    "question": "What type of instructions will states issue to police stations as per the Supreme Court's directive following a criticized High Court ruling?",
+    "options": ["Regarding traffic rules", "Regarding FIR registration and chargesheets", "Regarding crime scene investigation", "Regarding witness protection"],
+    "correctAnswer": "Regarding FIR registration and chargesheets"
   },
   {
     "id": 14,
-    "question": "How many states' revised Special Summary Revision (SIR) schedules for electoral rolls were released by the Election Commission in the recent announcement?",
-    "options": ["Four", "Six", "Eight", "Ten"],
-    "correctAnswer": "Six"
+    "question": "Which High Court's ruling drew 'serious concern' from the Supreme Court regarding the definition of attempted rape?",
+    "options": ["Bombay High Court", "Patna High Court", "Madras High Court", "Karnataka High Court"],
+    "correctAnswer": "Patna High Court"
   },
   {
     "id": 15,
-    "question": "When are the final electoral rolls expected to be published for most states as per the EC's revised schedule, including Telangana?",
-    "options": ["August", "September", "October", "November"],
-    "correctAnswer": "October"
+    "question": "Approximately how many additional MBBS undergraduate seats were approved across the nation for the 2026-27 academic session?",
+    "options": ["5,000", "9,911", "15,000", "20,000"],
+    "correctAnswer": "9,911"
   },
   {
     "id": 16,
-    "question": "Which state, besides Andhra Pradesh, has its draft electoral rolls scheduled for publication on August 10 as per the Election Commission's revised SIR schedule?",
-    "options": ["Andhra Pradesh", "Karnataka", "Haryana", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "What is the approximate record total MBBS capacity reached in India for the 2026-27 academic session, including the new additions?",
+    "options": ["1,00,000", "1,15,000", "1,36,939", "1,50,000"],
+    "correctAnswer": "1,36,939"
   },
   {
     "id": 17,
-    "question": "The process of updating voter lists by adding new and removing ineligible electors is part of what exercise by the Election Commission?",
-    "options": ["General Elections", "Bye-Elections", "Delimitation Exercise", "Special Summary Revision of Electoral Rolls"],
-    "correctAnswer": "Special Summary Revision of Electoral Rolls"
+    "question": "Which national body was responsible for approving the 9,911 additional MBBS undergraduate seats?",
+    "options": ["All India Council for Technical Education (AICTE)", "University Grants Commission (UGC)", "National Medical Commission (NMC)", "Medical Council of India (MCI)"],
+    "correctAnswer": "National Medical Commission (NMC)"
   },
   {
     "id": 18,
-    "question": "What is the primary focus of the Vishwa Mangalya Sabha meetings being addressed by RSS chief Mohan Bhagwat in cities like Hyderabad?",
-    "options": ["Economic development", "Spiritual enlightenment", "Women's empowerment", "Political strategy"],
-    "correctAnswer": "Women's empowerment"
+    "question": "Which type of institutions played a significant role in contributing to the substantial increase in medical seats across India?",
+    "options": ["Government-funded universities", "Private institutions", "Central universities", "Autonomous research institutes"],
+    "correctAnswer": "Private institutions"
   },
   {
     "id": 19,
-    "question": "In which Indian capital city, apart from Delhi, will the RSS chief Mohan Bhagwat hold a Vishwa Mangalya Sabha meeting?",
-    "options": ["Bengaluru", "Hyderabad", "Jaipur", "Lucknow"],
-    "correctAnswer": "Hyderabad"
+    "question": "According to a proposed government amendment, what action will be necessary for reporting births and deaths after a delay of two years?",
+    "options": ["Payment of a large fine", "Obtaining an affidavit from a gazetted officer", "Judicial magistrate orders", "Approval from the local municipality"],
+    "correctAnswer": "Judicial magistrate orders"
   },
   {
     "id": 20,
-    "question": "What is the final date for the completion of the electoral roll revision process in Telangana, according to the Election Commission?",
-    "options": ["September 1", "October 12", "November 1", "December 31"],
-    "correctAnswer": "October 12"
+    "question": "What is the primary objective behind the proposed amendment to tighten the birth and death registration process?",
+    "options": ["To increase government revenue", "To create more jobs for magistrates", "To ensure near real-time recording and prevent misuse", "To reduce the number of registrations"],
+    "correctAnswer": "To ensure near real-time recording and prevent misuse"
   },
   {
     "id": 21,
-    "question": "The revised SIR schedule by the Election Commission aims to facilitate the updating of voter lists. What is one key action involved in this process?",
-    "options": ["Holding public debates", "Adding new electors", "Organizing political rallies", "Collecting demographic statistics"],
-    "correctAnswer": "Adding new electors"
+    "question": "What duration of delay in birth and death registrations will trigger the requirement for judicial magistrate orders under the proposed amendment?",
+    "options": ["Six months", "One year", "Two years", "Five years"],
+    "correctAnswer": "Two years"
   },
   {
     "id": 22,
-    "question": "Another key action in the Special Summary Revision of electoral rolls, besides adding new electors, is?",
-    "options": ["Issuing new voter ID cards", "Removing ineligible electors", "Conducting mock elections", "Revising constituency boundaries"],
-    "correctAnswer": "Removing ineligible electors"
+    "question": "The Supreme Court recently asked CBSE to provide details regarding steps taken to curb issues related to what process?",
+    "options": ["Admissions", "Syllabus revision", "Digital evaluation", "Exam conduct"],
+    "correctAnswer": "Digital evaluation"
   },
   {
     "id": 23,
-    "question": "Besides Andhra Pradesh, which other state mentioned in the news will publish its draft electoral rolls on July 31 as per the Election Commission's revised schedule?",
-    "options": ["Telangana", "Karnataka", "Haryana", "Delhi"],
-    "correctAnswer": "Haryana"
+    "question": "Which body has been appointed to inquire into the alleged irregularities in CBSE's digital evaluation process?",
+    "options": ["A parliamentary committee", "A retired judge's commission", "A one-member commission", "A panel of education experts"],
+    "correctAnswer": "A one-member commission"
   },
   {
     "id": 24,
-    "question": "The Indian government is considering mandatory Central Board of Film Certification (CBFC) for which type of media releases, a policy change affecting audiences in states like Telangana and Andhra Pradesh?",
-    "options": ["Broadcast television shows", "Live theatre performances", "OTT platform films", "Radio programs"],
-    "correctAnswer": "OTT platform films"
+    "question": "What immediate action did the Centre previously take regarding CBSE officials amidst concerns over digital evaluation issues?",
+    "options": ["Issued warnings", "Removed officials and ordered an inquiry", "Increased their salaries", "Transferred them to other departments"],
+    "correctAnswer": "Removed officials and ordered an inquiry"
   },
   {
     "id": 25,
-    "question": "The proposed amendment to IT Rules 2021 regarding OTT content certification, relevant for viewers across India including Telangana and Andhra Pradesh, was prompted by a controversy surrounding which film?",
-    "options": ["'Pathaan'", "'Animal'", "'Satluj'", "'Jawan'"],
-    "correctAnswer": "'Satluj'"
+    "question": "What was the Supreme Court's observation regarding the impact of CBSE's digital evaluation problems on students?",
+    "options": ["They were indifferent", "They were confused", "They felt frustrated", "They were optimistic"],
+    "correctAnswer": "They felt frustrated"
   }
 ]

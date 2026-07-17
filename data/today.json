@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary purpose of the NEET-UG examination mentioned in the news?",
-    "options": ["Admission to engineering courses", "Admission to medical courses", "Admission to law courses", "Admission to management courses"],
-    "correctAnswer": "Admission to medical courses"
+    "question": "Which Indian company is set to launch India's first private orbital rocket?",
+    "options": ["ISRO", "Bellatrix Aerospace", "Skyroot Aerospace", "Agnikul Cosmos"],
+    "correctAnswer": "Skyroot Aerospace"
   },
   {
     "id": 2,
-    "question": "Which agency is responsible for declaring the NEET-UG results?",
-    "options": ["Union Public Service Commission (UPSC)", "National Testing Agency (NTA)", "Central Board of Secondary Education (CBSE)", "All India Council for Technical Education (AICTE)"],
-    "correctAnswer": "National Testing Agency (NTA)"
+    "question": "What is the name of the first orbital-class rocket being launched by Skyroot Aerospace?",
+    "options": ["Vikram-S", "Sarabhai-1", "Vikram-1", "KalamSat"],
+    "correctAnswer": "Vikram-1"
   },
   {
     "id": 3,
-    "question": "According to the recent NEET-UG 2026 results, what was the highest score achieved by candidates?",
-    "options": ["700/720", "710/720", "715/720", "720/720"],
-    "correctAnswer": "715/720"
+    "question": "From which location in Andhra Pradesh will Skyroot Aerospace launch its Vikram-1 rocket?",
+    "options": ["Thumba", "Chandipur", "Sriharikota", "Kourou"],
+    "correctAnswer": "Sriharikota"
   },
   {
     "id": 4,
-    "question": "What percentage of qualified candidates in the recent NEET-UG results were women?",
-    "options": ["Over 45%", "Over 50%", "Over 58%", "Over 65%"],
-    "correctAnswer": "Over 58%"
+    "question": "What is the specific name of Skyroot Aerospace's inaugural orbital mission?",
+    "options": ["Mission Prarambh", "Mission Aagaman", "Mission Shakti", "Mission Chandrayaan"],
+    "correctAnswer": "Mission Aagaman"
   },
   {
     "id": 5,
-    "question": "The news states that over 93% of candidates scoring above 690 in NEET-UG were what type of test-takers?",
-    "options": ["Repeat test-takers", "First-time test-takers", "Candidates from rural areas", "Candidates from urban areas"],
-    "correctAnswer": "First-time test-takers"
+    "question": "What makes Skyroot Aerospace's upcoming launch historically significant for India's space sector?",
+    "options": ["It's India's first crewed mission", "It's India's first private orbital rocket launch", "It's the first rocket launched from a private spaceport", "It's India's first lunar lander from a private company"],
+    "correctAnswer": "It's India's first private orbital rocket launch"
   },
   {
     "id": 6,
-    "question": "How many candidates crossed the 700-mark in the recent NEET-UG results?",
-    "options": ["2", "10", "19", "25"],
-    "correctAnswer": "19"
+    "question": "Skyroot Aerospace, the company launching India's first private orbital rocket, is based in which Indian city, relevant to Telangana?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 7,
-    "question": "What was a key reason mentioned for the timely declaration of NEET-UG results?",
-    "options": ["To reduce student anxiety", "To keep medical admissions on track", "To allow for re-evaluation requests", "To prepare for the next examination cycle"],
-    "correctAnswer": "To keep medical admissions on track"
+    "question": "What type of payloads will the Vikram-1 rocket primarily carry during its launch?",
+    "options": ["Communication satellites", "Earth observation instruments", "Technology demonstration payloads and unique artwork", "Scientific research equipment"],
+    "correctAnswer": "Technology demonstration payloads and unique artwork"
   },
   {
     "id": 8,
-    "question": "What specific directive did the Supreme Court issue to all states and Union Territories recently?",
-    "options": ["To increase the number of prisons", "To formulate a policy for releasing elderly and terminally ill prisoners", "To enhance security measures in prisons", "To provide vocational training to all inmates"],
-    "correctAnswer": "To formulate a policy for releasing elderly and terminally ill prisoners"
+    "question": "The launch of Skyroot Aerospace's Vikram-1 marks a major milestone for which aspect of India's economy?",
+    "options": ["Automotive manufacturing", "Private space industry", "Renewable energy sector", "Pharmaceutical exports"],
+    "correctAnswer": "Private space industry"
   },
   {
     "id": 9,
-    "question": "The Supreme Court emphasized the upholding of which values, even within prison walls, in its directive regarding prisoners?",
-    "options": ["Economic prosperity", "Political freedom", "Constitutional values like dignity and humane treatment", "Religious practices"],
-    "correctAnswer": "Constitutional values like dignity and humane treatment"
+    "question": "Which Congress leader requested an all-party meeting with PM Modi to discuss the Delimitation Bill?",
+    "options": ["Rahul Gandhi", "Shashi Tharoor", "Mallikarjun Kharge", "P. Chidambaram"],
+    "correctAnswer": "Mallikarjun Kharge"
   },
   {
     "id": 10,
-    "question": "What deadline has the Supreme Court set for states and UTs to formulate the policy for vulnerable prisoners?",
-    "options": ["One month", "Three months", "Six months", "One year"],
-    "correctAnswer": "Three months"
+    "question": "What is the specific name of the bill related to delimitation that the government reportedly plans to reintroduce?",
+    "options": ["The Constitution (127th Amendment) Bill", "The Constitution (131st Amendment) Bill", "The States Reorganization Bill", "The Electoral Reforms Bill"],
+    "correctAnswer": "The Constitution (131st Amendment) Bill"
   },
   {
     "id": 11,
-    "question": "Approximately how many prisoners fall into the vulnerable categories (elderly and terminally ill) according to the data mentioned by the Supreme Court?",
-    "options": ["Over 1,000", "Over 2,500", "Over 5,000", "Over 10,000"],
-    "correctAnswer": "Over 5,000"
+    "question": "What is a primary concern of the Congress party regarding the reintroduction of the Delimitation Bill?",
+    "options": ["It will increase central government power", "The government lacks the required majority for constitutional amendments", "It will lead to regional imbalances", "It bypasses parliamentary procedures"],
+    "correctAnswer": "The government lacks the required majority for constitutional amendments"
   },
   {
     "id": 12,
-    "question": "The Supreme Court's directive for releasing elderly and terminally ill prisoners aims to ensure what for all inmates?",
-    "options": ["Access to higher education", "Dignity and humane treatment", "Opportunities for early parole", "Reduced sentence duration"],
-    "correctAnswer": "Dignity and humane treatment"
+    "question": "Which organization is developing a universal provident fund scheme for the unorganised sector and self-employed individuals in India?",
+    "options": ["NITI Aayog", "Ministry of Finance", "Employees Provident Fund Organisation (EPFO)", "Reserve Bank of India (RBI)"],
+    "correctAnswer": "Employees Provident Fund Organisation (EPFO)"
   },
   {
     "id": 13,
-    "question": "According to the Enforcement Directorate (ED), what type of law is the Foreign Exchange Management Act (FEMA) considered?",
-    "options": ["Criminal law", "Civil law", "International law", "Constitutional law"],
-    "correctAnswer": "Civil law"
+    "question": "Who among the following groups are targeted to be covered by the new universal provident fund scheme in India?",
+    "options": ["Government employees only", "Organized sector workers only", "Self-employed individuals and workers in the unorganised sector", "Pensioners exclusively"],
+    "correctAnswer": "Self-employed individuals and workers in the unorganised sector"
   },
   {
     "id": 14,
-    "question": "Which institution is the competent authority for compounding eligible contraventions under FEMA, as stated by the ED?",
-    "options": ["Enforcement Directorate (ED)", "Ministry of Finance", "Reserve Bank of India (RBI)", "Supreme Court of India"],
-    "correctAnswer": "Reserve Bank of India (RBI)"
+    "question": "What flexibility will subscribers of the new universal PF scheme have regarding contributions?",
+    "options": ["Monthly only", "Quarterly only", "Daily or annually", "Bi-annually only"],
+    "correctAnswer": "Daily or annually"
   },
   {
     "id": 15,
-    "question": "What does the Enforcement Directorate issue to the Reserve Bank of India when compounding FEMA offenses?",
-    "options": ["A penalty order", "A 'No-Objection Certificate' (NOC)", "An arrest warrant", "A compliance report"],
-    "correctAnswer": "A 'No-Objection Certificate' (NOC)"
+    "question": "According to the WHO, what percentage of dementia cases are estimated to be preventable?",
+    "options": ["Up to 15%", "Up to 25%", "Up to 45%", "Up to 60%"],
+    "correctAnswer": "Up to 45%"
   },
   {
     "id": 16,
-    "question": "Which pharmaceutical company was recently mentioned in the news for having a FEMA case closed by RBI after a penalty?",
-    "options": ["Pfizer", "Sun Pharma", "Apothecon Pharmaceuticals", "Cipla"],
-    "correctAnswer": "Apothecon Pharmaceuticals"
+    "question": "Which organization warned about the link between long-term exposure to air pollution and dementia?",
+    "options": ["UNICEF", "World Health Organization (WHO)", "UNESCO", "Amnesty International"],
+    "correctAnswer": "World Health Organization (WHO)"
   },
   {
     "id": 17,
-    "question": "The RBI recently closed a FEMA case based on new 'master directions' prescribing what?",
-    "options": ["A foreign exchange trading limit", "A compounding matrix for determining amounts", "Revised interest rates", "New audit procedures"],
-    "correctAnswer": "A compounding matrix for determining amounts"
+    "question": "Besides air pollution, what other risk factor is advised to be tackled to prevent dementia?",
+    "options": ["Low blood pressure", "High blood pressure", "Dehydration", "Excessive sleep"],
+    "correctAnswer": "High blood pressure"
   },
   {
     "id": 18,
-    "question": "What does the acronym FEMA stand for in the context of Indian law?",
-    "options": ["Foreign Exchange Management Act", "Financial Empowerment and Modernization Act", "Fiscal Expenditure Monitoring Authority", "Federal Economic Market Agreement"],
-    "correctAnswer": "Foreign Exchange Management Act"
+    "question": "Which lifestyle recommendation is given by WHO for brain health to prevent dementia?",
+    "options": ["Routine vitamin supplements", "Regular physical activity", "Increased screen time", "Reduced social interaction"],
+    "correctAnswer": "Regular physical activity"
   },
   {
     "id": 19,
-    "question": "Which court will begin final hearings on pleas concerning the marital rape law exemption from September ninth?",
-    "options": ["High Court of Delhi", "Supreme Court of India", "Bombay High Court", "Madras High Court"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "Are routine vitamin and omega-3 supplements advised by WHO for dementia prevention without a diagnosed deficiency?",
+    "options": ["Yes, always", "Yes, for everyone over 50", "No, they are not advised without diagnosed deficiency", "Only if prescribed by a nutritionist"],
+    "correctAnswer": "No, they are not advised without diagnosed deficiency"
   },
   {
     "id": 20,
-    "question": "What is the central issue the Supreme Court will examine regarding the marital rape law?",
-    "options": ["If only women can be victims of marital rape", "If husbands can face charges for sexual acts causing harm despite existing exemptions", "The definition of marriage in India", "The financial implications of marital disputes"],
-    "correctAnswer": "If husbands can face charges for sexual acts causing harm despite existing exemptions"
+    "question": "What did the Supreme Court clarify regarding the use of bulldozers for demolitions in India?",
+    "options": ["Bulldozers are completely banned for all demolitions", "They can only remove illegal constructions on private land", "They can remove illegal constructions and encroachments on public land", "Bulldozers require a special permit from the Union government for any use"],
+    "correctAnswer": "They can remove illegal constructions and encroachments on public land"
   },
   {
     "id": 21,
-    "question": "What is the Centre's stance on criminalizing marital rape, as mentioned in the news?",
-    "options": ["It supports criminalization to protect women.", "It opposes criminalizing marital rape, citing marriage as a unique relationship.", "It has no official stance on the matter.", "It believes the matter should be decided by state legislatures."],
-    "correctAnswer": "It opposes criminalizing marital rape, citing marriage as a unique relationship."
+    "question": "What condition must authorities adhere to when using bulldozers for demolitions, as per the Supreme Court's clarification?",
+    "options": ["Prior approval from the Chief Minister's Office", "Strict adherence to municipal laws and procedures", "Obtaining consent from all affected parties", "A 30-day public notice period for all demolitions"],
+    "correctAnswer": "Strict adherence to municipal laws and procedures"
   },
   {
     "id": 22,
-    "question": "The Supreme Court is examining whether it can create a new offense by striking down which aspect related to marital rape?",
-    "options": ["The definition of consent", "The age of majority", "Exemptions for marital rape under penal laws", "The period of limitation for filing cases"],
-    "correctAnswer": "Exemptions for marital rape under penal laws"
+    "question": "Who will handle individual contempt petitions concerning demolition actions, according to the Supreme Court's clarification?",
+    "options": ["The Supreme Court itself", "The National Human Rights Commission", "Jurisdictional High Courts", "District Magistrates"],
+    "correctAnswer": "Jurisdictional High Courts"
   },
   {
     "id": 23,
-    "question": "The news reports on the NEET-UG results which are crucial for entry into which professional field in India?",
-    "options": ["Engineering", "Law", "Medical", "Business Management"],
-    "correctAnswer": "Medical"
+    "question": "When is Skyroot Aerospace's Vikram-1 launch, India's first private orbital rocket, scheduled?",
+    "options": ["Next month", "Next year", "This Saturday", "Undetermined"],
+    "correctAnswer": "This Saturday"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's order regarding elderly and terminally ill prisoners primarily aims to uphold what principle?",
-    "options": ["Economic justice", "Rehabilitation programs", "Humane treatment and dignity for inmates", "Reduction of prison overcrowding"],
-    "correctAnswer": "Humane treatment and dignity for inmates"
+    "question": "Which specific sector's advancement is highlighted as a major milestone by the Skyroot Aerospace launch?",
+    "options": ["Public sector space research", "India's private space industry", "International space collaborations", "Military satellite technology"],
+    "correctAnswer": "India's private space industry"
   },
   {
     "id": 25,
-    "question": "The ED's clarification on FEMA emphasizes its role in ensuring what aspect of compliance?",
-    "options": ["Mandatory legal prosecution", "Voluntary compliance for foreign exchange management", "Criminal investigation procedures", "International trade agreements"],
-    "correctAnswer": "Voluntary compliance for foreign exchange management"
+    "question": "According to WHO guidelines, what key aspect of health is significantly influenced by healthy lifestyles and managing chronic diseases?",
+    "options": ["Visual acuity", "Auditory processing", "Overall brain health and dementia prevention", "Motor coordination"],
+    "correctAnswer": "Overall brain health and dementia prevention"
   }
 ]

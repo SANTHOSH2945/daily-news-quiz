@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian city is the primary base for Skyroot Aerospace, the company behind India's first privately developed orbital rocket Vikram-1?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which private Indian aerospace company, based in Hyderabad, was recently congratulated by PM Modi for a historic rocket launch?",
+    "options": ["Agnikul Cosmos", "Bellatrix Aerospace", "Skyroot Aerospace", "Dhruva Space"],
+    "correctAnswer": "Skyroot Aerospace"
   },
   {
     "id": 2,
-    "question": "What is the name of India's first privately developed orbital rocket successfully launched by Skyroot Aerospace?",
-    "options": ["Prithvi-1", "Agni-V", "Vikram-1", "GSLV MkIII"],
+    "question": "What is the name of the rocket recently launched by Skyroot Aerospace, earning congratulations from the Prime Minister?",
+    "options": ["Prithvi-1", "Vikram-1", "Arjun-1", "Garuda-1"],
     "correctAnswer": "Vikram-1"
   },
   {
     "id": 3,
-    "question": "What was the specific mission name given to the successful launch of Skyroot Aerospace's Vikram-1 rocket?",
-    "options": ["Mission Shakti", "Mission Aagaman", "Mission Gagan", "Mission Prarambh"],
-    "correctAnswer": "Mission Aagaman"
-  },
-  {
-    "id": 4,
-    "question": "Skyroot Aerospace is recognized for being a pioneering company in which specific sector of India's space industry?",
-    "options": ["Public sector launch provider", "Government research agency", "Private sector launch vehicle developer", "International space collaboration agency"],
-    "correctAnswer": "Private sector launch vehicle developer"
-  },
-  {
-    "id": 5,
-    "question": "Into which specific type of orbit did Skyroot Aerospace's Vikram-1 rocket successfully place its payloads?",
-    "options": ["Geostationary orbit", "Medium Earth orbit", "Low-Earth orbit", "Polar orbit"],
-    "correctAnswer": "Low-Earth orbit"
-  },
-  {
-    "id": 6,
-    "question": "According to the news, how many payloads did Skyroot Aerospace's Vikram-1 successfully put into low-Earth orbit?",
-    "options": ["Two", "Four", "Six", "Eight"],
-    "correctAnswer": "Six"
-  },
-  {
-    "id": 7,
-    "question": "Vikram-1 notably utilized which advanced structural material in its construction, as highlighted in the news?",
-    "options": ["Aluminium alloys", "Titanium structures", "Carbon-composite structures", "Steel alloys"],
-    "correctAnswer": "Carbon-composite structures"
-  },
-  {
-    "id": 8,
-    "question": "Which innovative engine feature did Vikram-1 incorporate, as mentioned in the news, for its propulsion module?",
-    "options": ["Solid-fuelled booster", "Restartable liquid-fuelled module", "Cryogenic engine", "Ion thruster"],
-    "correctAnswer": "Restartable liquid-fuelled module"
-  },
-  {
-    "id": 9,
-    "question": "The launch of Vikram-1 is considered a significant milestone for opening which broad sector in India to increased private company participation?",
-    "options": ["Defense manufacturing", "Automotive industry", "Healthcare technology", "India's space sector"],
-    "correctAnswer": "India's space sector"
-  },
-  {
-    "id": 10,
-    "question": "Which prominent Indian leader called the Skyroot team to congratulate them on the Vikram-1 mission's success and inspire youth?",
-    "options": ["President Droupadi Murmu", "Prime Minister Narendra Modi", "ISRO Chairman S. Somanath", "Chief Minister Revanth Reddy"],
-    "correctAnswer": "Prime Minister Narendra Modi"
-  },
-  {
-    "id": 11,
-    "question": "The success of Hyderabad-based Skyroot Aerospace's Vikram-1 mission primarily highlights the growing role of which Indian state in the advanced space industry?",
-    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Kerala"],
-    "correctAnswer": "Telangana"
-  },
-  {
-    "id": 12,
-    "question": "What major 'first' did Skyroot Aerospace achieve with the launch of Vikram-1 in the context of India's space program?",
-    "options": ["First Indian moon landing", "First Indian private orbital rocket", "First Indian Mars orbiter", "First Indian human spaceflight"],
-    "correctAnswer": "First Indian private orbital rocket"
-  },
-  {
-    "id": 13,
-    "question": "According to PM Modi, the success of the Skyroot mission, by a Hyderabad-based company, has inspired which demographic?",
-    "options": ["Scientists", "Politicians", "Farmers", "Youth"],
-    "correctAnswer": "Youth"
-  },
-  {
-    "id": 14,
-    "question": "Which specific city in Telangana is recognized as the home of Skyroot Aerospace, the company that launched Vikram-1?",
-    "options": ["Warangal", "Visakhapatnam", "Hyderabad", "Vijayawada"],
+    "question": "In which Indian city is Skyroot Aerospace, known for its Vikram-1 launch, primarily headquartered?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
     "correctAnswer": "Hyderabad"
   },
   {
+    "id": 4,
+    "question": "Skyroot Aerospace, an Indian space startup, is located in which Southern Indian state?",
+    "options": ["Karnataka", "Tamil Nadu", "Telangana", "Andhra Pradesh"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 5,
+    "question": "What type of historic achievement did Skyroot Aerospace recently accomplish with its Vikram-1 launch?",
+    "options": ["First private Indian satellite launch", "First private Indian rocket launch", "First Indian moon mission by a private entity", "First private Indian deep-space probe"],
+    "correctAnswer": "First private Indian rocket launch"
+  },
+  {
+    "id": 6,
+    "question": "The Prime Minister's congratulations to Skyroot Aerospace highlight India's advancements in which specific sector?",
+    "options": ["Renewable energy", "Automotive manufacturing", "Private space exploration", "Biotechnology"],
+    "correctAnswer": "Private space exploration"
+  },
+  {
+    "id": 7,
+    "question": "Which vehicle's successful launch was attributed to Skyroot Aerospace, receiving accolades from PM Modi?",
+    "options": ["Akash-S satellite", "Vikram-1 rocket", "Pawan-V launcher", "Surya-M probe"],
+    "correctAnswer": "Vikram-1 rocket"
+  },
+  {
+    "id": 8,
+    "question": "The base city of Skyroot Aerospace, a key player in India's private space sector, is a prominent technological hub in India. Which city is it?",
+    "options": ["Pune", "Hyderabad", "Gurugram", "Kochi"],
+    "correctAnswer": "Hyderabad"
+  },
+  {
+    "id": 9,
+    "question": "According to recent news, which national honours are noted for capturing diverse ideas of India, ranging from Article 370 to Ram-Nami?",
+    "options": ["Padma Awards", "National Film Awards", "National Sports Awards", "National Awards (General)"],
+    "correctAnswer": "National Awards (General)"
+  },
+  {
+    "id": 10,
+    "question": "The recent 'National Awards' are described as capturing many ideas of India, ranging from Article 370 to which specific cultural reference?",
+    "options": ["Diwali celebrations", "Ram-Nami tradition", "Holi festivities", "Eid al-Fitr"],
+    "correctAnswer": "Ram-Nami tradition"
+  },
+  {
+    "id": 11,
+    "question": "Which theme, alongside political history, is highlighted as dominating the 'marquee honours' in the recent National Awards?",
+    "options": ["Scientific innovation", "Military valour", "Economic growth", "Educational reforms"],
+    "correctAnswer": "Military valour"
+  },
+  {
+    "id": 12,
+    "question": "Besides military valour, what other major theme is said to dominate the marquee honours of the recent National Awards?",
+    "options": ["Art and Culture", "Political history", "Public Service", "Social Activism"],
+    "correctAnswer": "Political history"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is identified as giving the recent National Awards verdict its 'human core,' alongside women's agency and ecological renewal?",
+    "options": ["Technological advancements", "Caste resistance", "Urban development", "Economic liberalization"],
+    "correctAnswer": "Caste resistance"
+  },
+  {
+    "id": 14,
+    "question": "The stories giving the 'human core' to the National Awards include women's agency, ecological renewal, ageing, and which other social aspect?",
+    "options": ["Youth empowerment", "Rural development", "Caste resistance", "Digital literacy"],
+    "correctAnswer": "Caste resistance"
+  },
+  {
     "id": 15,
-    "question": "According to the body of headline [8], what type of satellites did Vikram-1 initially place into orbit?",
-    "options": ["Weather monitoring satellites", "Communication satellites", "Technology demonstration satellites", "Earth observation satellites"],
-    "correctAnswer": "Technology demonstration satellites"
+    "question": "According to the news, which aspect of societal well-being is recognized as part of the 'human core' of the National Awards, alongside ageing and caste resistance?",
+    "options": ["Financial inclusion", "Ecological renewal", "Infrastructure projects", "Industrial expansion"],
+    "correctAnswer": "Ecological renewal"
   },
   {
     "id": 16,
-    "question": "The Vikram-1 mission successfully validates India's capabilities in the development of what specific kind of launch vehicle?",
-    "options": ["Intercontinental ballistic missile", "Sub-orbital sounding rocket", "Heavy-lift launch vehicle", "Private orbital launch vehicle"],
-    "correctAnswer": "Private orbital launch vehicle"
+    "question": "The National Awards are noted for including stories of ageing, caste resistance, and what other factor related to women?",
+    "options": ["Women's entrepreneurship", "Women's political representation", "Women's agency", "Women's education"],
+    "correctAnswer": "Women's agency"
   },
   {
     "id": 17,
-    "question": "The success of companies like Skyroot Aerospace in Telangana contributes significantly to the growth of which high-tech industry within the state?",
-    "options": ["Automobile manufacturing", "Textile industry", "Aerospace and Space Technology", "Pharmaceuticals"],
-    "correctAnswer": "Aerospace and Space Technology"
+    "question": "Beyond political history and military valour, the National Awards also highlight themes like ageing and women's agency, reflecting the verdict's what?",
+    "options": ["Historical accuracy", "Strategic importance", "Human core", "Economic impact"],
+    "correctAnswer": "Human core"
   },
   {
     "id": 18,
-    "question": "The launch of Vikram-1 aligns with the Indian government's broader vision of promoting which sector's active participation in space activities?",
-    "options": ["Defence Research Organizations", "Public Sector Undertakings", "International Agencies", "Private Sector"],
-    "correctAnswer": "Private Sector"
+    "question": "Which cultural-religious tradition is mentioned in the context of the diverse ideas captured by the National Awards?",
+    "options": ["Ganga Aarti", "Ram-Nami", "Yoga Day", "Kumbh Mela"],
+    "correctAnswer": "Ram-Nami"
   },
   {
     "id": 19,
-    "question": "Apart from advanced structures, Vikram-1 is noted for using what kind of advanced module for its primary propulsion?",
-    "options": ["Solid rocket booster", "Cryogenic fuel module", "Liquid-fuelled module", "Hybrid propulsion system"],
-    "correctAnswer": "Liquid-fuelled module"
+    "question": "The article mentions 'Article 370' as one of the ideas captured by the National Awards. What broad category would this fall under in the context of the awards?",
+    "options": ["Environmental issues", "Political history", "Scientific achievement", "Cultural revival"],
+    "correctAnswer": "Political history"
   },
   {
     "id": 20,
-    "question": "The successful launch of Vikram-1 by Hyderabad-based Skyroot Aerospace is considered a significant event in which aspect of India's history?",
-    "options": ["Indian economic history", "Indian sports history", "Indian political history", "Indian space history"],
-    "correctAnswer": "Indian space history"
+    "question": "The National Awards, as reported, are said to capture many ideas of India, demonstrating a broad spectrum of what?",
+    "options": ["Industrial development", "Societal narratives and achievements", "International relations", "Technological innovations"],
+    "correctAnswer": "Societal narratives and achievements"
   },
   {
     "id": 21,
-    "question": "What was the ultimate outcome of the Vikram-1 mission, despite any reported delays, as described in the headlines?",
-    "options": ["Partial failure", "Postponement", "Cancellation", "Success"],
-    "correctAnswer": "Success"
+    "question": "The news states that National Awards capture 'many ideas of India.' This implies recognition across which range of aspects?",
+    "options": ["Primarily economic and trade only", "Only military and defense achievements", "A diverse range of political, social, and cultural themes", "Strictly scientific research and development"],
+    "correctAnswer": "A diverse range of political, social, and cultural themes"
   },
   {
     "id": 22,
-    "question": "Despite a reported 35-minute delay, what was the final status of the Vikram-1 launch mission?",
-    "options": ["Aborted", "Delayed indefinitely", "Successfully completed", "Failed to ignite"],
-    "correctAnswer": "Successfully completed"
+    "question": "What specific concept related to social justice is highlighted as part of the 'human core' stories in the National Awards?",
+    "options": ["Economic equality", "Caste resistance", "Religious harmony", "Regional autonomy"],
+    "correctAnswer": "Caste resistance"
   },
   {
     "id": 23,
-    "question": "Beyond carbon-composite structures, what key type of propulsion module was a core component of the Vikram-1 rocket?",
-    "options": ["Gas-powered", "Restartable liquid-fuelled", "Solid propellant", "Electric thruster"],
-    "correctAnswer": "Restartable liquid-fuelled"
+    "question": "In the context of the National Awards, which societal group's empowerment is specifically mentioned as a theme under 'women's agency'?",
+    "options": ["Rural women", "Women in leadership", "Women in the armed forces", "Women in general, through their agency"],
+    "correctAnswer": "Women in general, through their agency"
   },
   {
     "id": 24,
-    "question": "The success of Vikram-1, developed by a Telangana-based company, is widely seen as a crucial stepping stone for India's private sector in what specific domain?",
-    "options": ["Deep space exploration", "Lunar landers", "Interplanetary probes", "Orbital launch capabilities"],
-    "correctAnswer": "Orbital launch capabilities"
+    "question": "The mention of 'ecological renewal' in the National Awards' 'human core' points to recognition for efforts in which area?",
+    "options": ["Urban planning", "Environmental conservation", "Agricultural innovation", "Industrial growth"],
+    "correctAnswer": "Environmental conservation"
   },
   {
     "id": 25,
-    "question": "The achievement of Skyroot Aerospace, a Hyderabad-based company, is a significant source of pride for which Indian state, showcasing its technological prowess in the space sector?",
-    "options": ["Karnataka", "Tamil Nadu", "Maharashtra", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "By including 'political history' and 'military valour,' the National Awards specifically acknowledge contributions in which two broad domains of Indian life?",
+    "options": ["Arts and Literature", "Governance and Defense", "Science and Technology", "Business and Commerce"],
+    "correctAnswer": "Governance and Defense"
   }
 ]

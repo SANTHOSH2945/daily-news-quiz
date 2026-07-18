@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which private Indian company, based in Hyderabad, is preparing for the maiden orbital launch of its Vikram-1 rocket?",
-    "options": ["Bellatrix Aerospace", "Skyroot Aerospace", "Dhruva Space", "AgniKul Cosmos"],
-    "correctAnswer": "Skyroot Aerospace"
-  },
-  {
-    "id": 2,
-    "question": "Skyroot Aerospace, a prominent private space company mentioned in recent news, is headquartered in which Indian city known for its technology sector?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
+    "question": "Which Indian city is the primary base for Skyroot Aerospace, the company behind India's first privately developed orbital rocket Vikram-1?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
     "correctAnswer": "Hyderabad"
   },
   {
-    "id": 3,
-    "question": "What is the name of the rocket developed by Skyroot Aerospace for its maiden orbital launch attempt?",
-    "options": ["Prithvi-1", "Vikram-1", "Agni-V", "Sarla-X"],
+    "id": 2,
+    "question": "What is the name of India's first privately developed orbital rocket successfully launched by Skyroot Aerospace?",
+    "options": ["Prithvi-1", "Agni-V", "Vikram-1", "GSLV MkIII"],
     "correctAnswer": "Vikram-1"
   },
   {
+    "id": 3,
+    "question": "What was the specific mission name given to the successful launch of Skyroot Aerospace's Vikram-1 rocket?",
+    "options": ["Mission Shakti", "Mission Aagaman", "Mission Gagan", "Mission Prarambh"],
+    "correctAnswer": "Mission Aagaman"
+  },
+  {
     "id": 4,
-    "question": "The maiden orbital launch by Skyroot Aerospace marks a significant milestone as it is the first such attempt by a:",
-    "options": ["Government-backed entity", "Foreign collaboration", "Private Indian company", "Public sector undertaking"],
-    "correctAnswer": "Private Indian company"
+    "question": "Skyroot Aerospace is recognized for being a pioneering company in which specific sector of India's space industry?",
+    "options": ["Public sector launch provider", "Government research agency", "Private sector launch vehicle developer", "International space collaboration agency"],
+    "correctAnswer": "Private sector launch vehicle developer"
   },
   {
     "id": 5,
-    "question": "Prime Minister Modi hailed Skyroot Aerospace's Vikram-1 launch as a 'historic new frontier' for which specific sector in India?",
-    "options": ["Telecommunications", "Automotive manufacturing", "Private space sector", "Biotechnology"],
-    "correctAnswer": "Private space sector"
+    "question": "Into which specific type of orbit did Skyroot Aerospace's Vikram-1 rocket successfully place its payloads?",
+    "options": ["Geostationary orbit", "Medium Earth orbit", "Low-Earth orbit", "Polar orbit"],
+    "correctAnswer": "Low-Earth orbit"
   },
   {
     "id": 6,
-    "question": "The Vikram-1 rocket, developed by Hyderabad-based Skyroot Aerospace, is designed for what primary purpose?",
-    "options": ["Deep-sea exploration", "Rapid launch services", "Intercontinental ballistic missile testing", "Atmospheric research"],
-    "correctAnswer": "Rapid launch services"
+    "question": "According to the news, how many payloads did Skyroot Aerospace's Vikram-1 successfully put into low-Earth orbit?",
+    "options": ["Two", "Four", "Six", "Eight"],
+    "correctAnswer": "Six"
   },
   {
     "id": 7,
-    "question": "Skyroot Aerospace's maiden orbital mission with Vikram-1 showcases the growing capabilities of India's:",
-    "options": ["Agricultural research sector", "Healthcare technology", "Private space industry", "Renewable energy sector"],
-    "correctAnswer": "Private space industry"
+    "question": "Vikram-1 notably utilized which advanced structural material in its construction, as highlighted in the news?",
+    "options": ["Aluminium alloys", "Titanium structures", "Carbon-composite structures", "Steel alloys"],
+    "correctAnswer": "Carbon-composite structures"
   },
   {
     "id": 8,
-    "question": "The recent widespread protests and concerns across India, including states like Telangana and Andhra Pradesh, regarding the NEET-UG examination primarily revolve around which issue?",
-    "options": ["Changes in exam pattern", "Paper leak allegations", "Increase in examination fees", "Delay in result declaration"],
-    "correctAnswer": "Paper leak allegations"
+    "question": "Which innovative engine feature did Vikram-1 incorporate, as mentioned in the news, for its propulsion module?",
+    "options": ["Solid-fuelled booster", "Restartable liquid-fuelled module", "Cryogenic engine", "Ion thruster"],
+    "correctAnswer": "Restartable liquid-fuelled module"
   },
   {
     "id": 9,
-    "question": "NEET-UG is the primary entrance examination for admission to undergraduate medical courses in India. What does NEET stand for?",
-    "options": ["National Eligibility cum Entrance Test", "National Engineering and Education Test", "Nationwide Examination for Emerging Talent", "New Educational Evaluation Technology"],
-    "correctAnswer": "National Eligibility cum Entrance Test"
+    "question": "The launch of Vikram-1 is considered a significant milestone for opening which broad sector in India to increased private company participation?",
+    "options": ["Defense manufacturing", "Automotive industry", "Healthcare technology", "India's space sector"],
+    "correctAnswer": "India's space sector"
   },
   {
     "id": 10,
-    "question": "The concerns over the NEET-UG paper leak have led to significant public outcry among students, including those from Telangana and Andhra Pradesh. What is a core demand of the protests?",
-    "options": ["Postponement of all future exams", "Immediate re-examination", "Government inquiry and accountability", "Increased seats in medical colleges"],
-    "correctAnswer": "Government inquiry and accountability"
+    "question": "Which prominent Indian leader called the Skyroot team to congratulate them on the Vikram-1 mission's success and inspire youth?",
+    "options": ["President Droupadi Murmu", "Prime Minister Narendra Modi", "ISRO Chairman S. Somanath", "Chief Minister Revanth Reddy"],
+    "correctAnswer": "Prime Minister Narendra Modi"
   },
   {
     "id": 11,
-    "question": "The NEET-UG examination system, which affects a large number of students from Telangana and Andhra Pradesh, falls under the purview of which regulatory body in India?",
-    "options": ["UGC (University Grants Commission)", "NTA (National Testing Agency)", "CBSE (Central Board of Secondary Education)", "AICTE (All India Council for Technical Education)"],
-    "correctAnswer": "NTA (National Testing Agency)"
+    "question": "The success of Hyderabad-based Skyroot Aerospace's Vikram-1 mission primarily highlights the growing role of which Indian state in the advanced space industry?",
+    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Kerala"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 12,
-    "question": "Beyond direct re-examination, what broader impact do paper leaks in national examinations like NEET-UG have on students from states like Telangana and Andhra Pradesh?",
-    "options": ["Increased confidence in the system", "Demotivation and loss of trust in fair assessment", "Greater motivation to pursue other careers", "Reduced need for coaching classes"],
-    "correctAnswer": "Demotivation and loss of trust in fair assessment"
+    "question": "What major 'first' did Skyroot Aerospace achieve with the launch of Vikram-1 in the context of India's space program?",
+    "options": ["First Indian moon landing", "First Indian private orbital rocket", "First Indian Mars orbiter", "First Indian human spaceflight"],
+    "correctAnswer": "First Indian private orbital rocket"
   },
   {
     "id": 13,
-    "question": "What is the fundamental principle undermined by allegations of paper leaks in competitive examinations like NEET-UG, which are vital for aspiring professionals from across India?",
-    "options": ["Affirmative action policies", "Meritocracy and fairness", "Regional language preferences", "Economic backwardness reservations"],
-    "correctAnswer": "Meritocracy and fairness"
+    "question": "According to PM Modi, the success of the Skyroot mission, by a Hyderabad-based company, has inspired which demographic?",
+    "options": ["Scientists", "Politicians", "Farmers", "Youth"],
+    "correctAnswer": "Youth"
   },
   {
     "id": 14,
-    "question": "The controversy surrounding NEET-UG has raised questions about the integrity of national competitive exams, which are crucial for students from all states, including Telangana and Andhra Pradesh, to access:",
-    "options": ["Government job opportunities only", "Higher education opportunities in specialized fields", "Basic literacy programs", "Vocational training courses"],
-    "correctAnswer": "Higher education opportunities in specialized fields"
+    "question": "Which specific city in Telangana is recognized as the home of Skyroot Aerospace, the company that launched Vikram-1?",
+    "options": ["Warangal", "Visakhapatnam", "Hyderabad", "Vijayawada"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 15,
-    "question": "The calls for investigation into the NEET-UG paper leak are fundamentally aimed at restoring public trust in the:",
-    "options": ["Electoral process", "Judicial system", "Education and examination system", "Agricultural policies"],
-    "correctAnswer": "Education and examination system"
+    "question": "According to the body of headline [8], what type of satellites did Vikram-1 initially place into orbit?",
+    "options": ["Weather monitoring satellites", "Communication satellites", "Technology demonstration satellites", "Earth observation satellites"],
+    "correctAnswer": "Technology demonstration satellites"
   },
   {
     "id": 16,
-    "question": "Hydrogen trains are being explored in India as an innovative solution for clean transit. How do they primarily generate electricity?",
-    "options": ["By burning hydrogen directly in an engine", "Through nuclear fission", "Using fuel cells that convert hydrogen", "Via solar panels on the roof"],
-    "correctAnswer": "Using fuel cells that convert hydrogen"
+    "question": "The Vikram-1 mission successfully validates India's capabilities in the development of what specific kind of launch vehicle?",
+    "options": ["Intercontinental ballistic missile", "Sub-orbital sounding rocket", "Heavy-lift launch vehicle", "Private orbital launch vehicle"],
+    "correctAnswer": "Private orbital launch vehicle"
   },
   {
     "id": 17,
-    "question": "What is a key advantage of hydrogen trains concerning existing railway lines in India, implying potential benefits for states like Telangana and Andhra Pradesh?",
-    "options": ["They require entirely new track infrastructure.", "They can seamlessly run on existing railway lines without overhead power lines.", "They are only compatible with high-speed rail networks.", "They need constant refueling stations along the tracks."],
-    "correctAnswer": "They can seamlessly run on existing railway lines without overhead power lines."
+    "question": "The success of companies like Skyroot Aerospace in Telangana contributes significantly to the growth of which high-tech industry within the state?",
+    "options": ["Automobile manufacturing", "Textile industry", "Aerospace and Space Technology", "Pharmaceuticals"],
+    "correctAnswer": "Aerospace and Space Technology"
   },
   {
     "id": 18,
-    "question": "The successful implementation of hydrogen trains in India is heavily reliant on the availability of affordable:",
-    "options": ["Diesel fuel", "Compressed natural gas", "Green hydrogen", "Biofuels"],
-    "correctAnswer": "Green hydrogen"
+    "question": "The launch of Vikram-1 aligns with the Indian government's broader vision of promoting which sector's active participation in space activities?",
+    "options": ["Defence Research Organizations", "Public Sector Undertakings", "International Agencies", "Private Sector"],
+    "correctAnswer": "Private Sector"
   },
   {
     "id": 19,
-    "question": "What is one of the main hurdles mentioned for the widespread adoption of hydrogen trains in India, impacting future infrastructure development in all states?",
-    "options": ["Lack of passenger demand", "Prohibitive costs and infrastructure development", "Insufficient railway network", "Unavailability of train manufacturers"],
-    "correctAnswer": "Prohibitive costs and infrastructure development"
+    "question": "Apart from advanced structures, Vikram-1 is noted for using what kind of advanced module for its primary propulsion?",
+    "options": ["Solid rocket booster", "Cryogenic fuel module", "Liquid-fuelled module", "Hybrid propulsion system"],
+    "correctAnswer": "Liquid-fuelled module"
   },
   {
     "id": 20,
-    "question": "How does India's version of the hydrogen train generally operate to ensure efficient and clean transportation?",
-    "options": ["With liquid nitrogen as fuel.", "Using compressed hydrogen held at high pressure.", "Powered by solid-state hydrogen batteries.", "Through direct combustion of hydrogen gas."],
-    "correctAnswer": "Using compressed hydrogen held at high pressure."
+    "question": "The successful launch of Vikram-1 by Hyderabad-based Skyroot Aerospace is considered a significant event in which aspect of India's history?",
+    "options": ["Indian economic history", "Indian sports history", "Indian political history", "Indian space history"],
+    "correctAnswer": "Indian space history"
   },
   {
     "id": 21,
-    "question": "Beyond zero direct emissions, what other environmental benefit is associated with the operation of hydrogen trains?",
-    "options": ["Increased noise pollution", "Reduced air quality", "Minimal environmental impact due to water being the main byproduct", "Higher consumption of fossil fuels"],
-    "correctAnswer": "Minimal environmental impact due to water being the main byproduct"
+    "question": "What was the ultimate outcome of the Vikram-1 mission, despite any reported delays, as described in the headlines?",
+    "options": ["Partial failure", "Postponement", "Cancellation", "Success"],
+    "correctAnswer": "Success"
   },
   {
     "id": 22,
-    "question": "The PM's remarks on Skyroot's launch signify the government's support for what aspect of India's economy, benefiting innovation nationwide?",
-    "options": ["Public sector monopolies", "Import-dependent industries", "Private sector innovation and entrepreneurship", "Traditional manufacturing"],
-    "correctAnswer": "Private sector innovation and entrepreneurship"
+    "question": "Despite a reported 35-minute delay, what was the final status of the Vikram-1 launch mission?",
+    "options": ["Aborted", "Delayed indefinitely", "Successfully completed", "Failed to ignite"],
+    "correctAnswer": "Successfully completed"
   },
   {
     "id": 23,
-    "question": "Vikram-1, Skyroot Aerospace's rocket, is described as a 'four-stage rocket'. What is the primary benefit of a multi-stage rocket in space launches?",
-    "options": ["Reduced payload capacity", "Increased drag and air resistance", "Greater efficiency in reaching orbit", "Simplified manufacturing process"],
-    "correctAnswer": "Greater efficiency in reaching orbit"
+    "question": "Beyond carbon-composite structures, what key type of propulsion module was a core component of the Vikram-1 rocket?",
+    "options": ["Gas-powered", "Restartable liquid-fuelled", "Solid propellant", "Electric thruster"],
+    "correctAnswer": "Restartable liquid-fuelled"
   },
   {
     "id": 24,
-    "question": "The development of hydrogen trains in India aligns with the broader national goal of promoting which type of energy transition, impacting future policies in states like Telangana and Andhra Pradesh?",
-    "options": ["From renewable to fossil fuels", "From nuclear to thermal power", "Towards greener and sustainable transportation", "Towards increased reliance on imported energy"],
-    "correctAnswer": "Towards greener and sustainable transportation"
+    "question": "The success of Vikram-1, developed by a Telangana-based company, is widely seen as a crucial stepping stone for India's private sector in what specific domain?",
+    "options": ["Deep space exploration", "Lunar landers", "Interplanetary probes", "Orbital launch capabilities"],
+    "correctAnswer": "Orbital launch capabilities"
   },
   {
     "id": 25,
-    "question": "What type of emissions do hydrogen trains produce, making them an environmentally friendly option for India's railway network?",
-    "options": ["Carbon dioxide", "Methane", "Zero direct emissions", "Sulphur dioxide"],
-    "correctAnswer": "Zero direct emissions"
+    "question": "The achievement of Skyroot Aerospace, a Hyderabad-based company, is a significant source of pride for which Indian state, showcasing its technological prowess in the space sector?",
+    "options": ["Karnataka", "Tamil Nadu", "Maharashtra", "Telangana"],
+    "correctAnswer": "Telangana"
   }
 ]

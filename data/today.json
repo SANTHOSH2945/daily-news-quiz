@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Hyderabad-based startup recently launched India's first private orbital rocket?",
-    "options": ["ISRO", "Bellatrix Aerospace", "Agnikul Cosmos", "Skyroot Aerospace"],
-    "correctAnswer": "Skyroot Aerospace"
+    "question": "Who urged political parties to ensure the smooth functioning of the House ahead of the Monsoon Session, as per recent news?",
+    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Kiren Rijiju", "Om Birla"],
+    "correctAnswer": "Kiren Rijiju"
   },
   {
     "id": 2,
-    "question": "What is the name of the rocket launched by the Hyderabad-based Skyroot Aerospace, marking India's entry into the private orbital launch club?",
-    "options": ["Prithvi-1", "Agni-V", "Vikram-1", "Dhruva-II"],
-    "correctAnswer": "Vikram-1"
+    "question": "Ahead of the Monsoon Session, an all-party meeting saw opposition walkouts. What was the primary reason cited for the opposition's walkout?",
+    "options": ["Invitation to rebel UBT MPs", "Invitation to rebel TMC MPs", "Dispute over Ken-Betwa project", "Concerns over Ram Mandir Trust"],
+    "correctAnswer": "Invitation to rebel TMC MPs"
   },
   {
     "id": 3,
-    "question": "With the successful launch by Skyroot Aerospace, India has become the ______ nation globally to achieve private orbital launch capability.",
-    "options": ["First", "Second", "Third", "Fourth"],
-    "correctAnswer": "Third"
+    "question": "Kiren Rijiju is mentioned in the news context as being involved in parliamentary proceedings. What is his likely portfolio based on this information?",
+    "options": ["Finance Minister", "Defence Minister", "Minister of Parliamentary Affairs", "Home Minister"],
+    "correctAnswer": "Minister of Parliamentary Affairs"
   },
   {
     "id": 4,
-    "question": "How many payloads did Skyroot Aerospace's Vikram-1 rocket successfully deliver into low Earth orbit?",
-    "options": ["Three", "Four", "Six", "Eight"],
-    "correctAnswer": "Six"
+    "question": "The Monsoon Session of the Indian Parliament is an important annual event. What is its general purpose in the legislative calendar?",
+    "options": ["Budget finalization", "Winter session planning", "Legislative business and debates", "Election campaigning"],
+    "correctAnswer": "Legislative business and debates"
   },
   {
     "id": 5,
-    "question": "The historic mission by Skyroot Aerospace, based in Hyderabad, placed its rocket into which specific type of orbit?",
-    "options": ["Geosynchronous Orbit", "Polar Orbit", "Low Earth Orbit", "Heliocentric Orbit"],
-    "correctAnswer": "Low Earth Orbit"
+    "question": "What kind of Members of Parliament (MPs) caused a controversy, leading to an opposition walkout in an all-party meeting mentioned in the news?",
+    "options": ["Newly elected MPs", "Rebel MPs", "Independent MPs", "Nominated MPs"],
+    "correctAnswer": "Rebel MPs"
   },
   {
     "id": 6,
-    "question": "The launch of Vikram-1 by Hyderabad-based Skyroot Aerospace signifies a new era for which specific sector in India?",
-    "options": ["Public Sector Space Industry", "Defence Manufacturing", "Private Indian Space Industry", "Civil Aviation"],
-    "correctAnswer": "Private Indian Space Industry"
+    "question": "The Ken-Betwa river interlinking project was recently in the news due to protests. This project aims to link which two rivers?",
+    "options": ["Ganga and Yamuna", "Krishna and Godavari", "Ken and Betwa", "Narmada and Tapi"],
+    "correctAnswer": "Ken and Betwa"
   },
   {
     "id": 7,
-    "question": "Skyroot Aerospace is headquartered in which Indian city, a key detail highlighted in its recent successful rocket launch?",
-    "options": ["Bengaluru", "Chennai", "Thiruvananthapuram", "Hyderabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "In which Indian states is the Ken-Betwa river interlinking project primarily located?",
+    "options": ["Madhya Pradesh and Uttar Pradesh", "Maharashtra and Gujarat", "Rajasthan and Punjab", "Bihar and Jharkhand"],
+    "correctAnswer": "Madhya Pradesh and Uttar Pradesh"
   },
   {
     "id": 8,
-    "question": "According to a recent Supreme Court ruling, what is the stance on using abusive language and swearing under the Indian Penal Code (IPC)?",
-    "options": ["Always constitutes obscenity", "May constitute obscenity depending on context", "Does not count as obscenity", "Is a minor civil offense"],
-    "correctAnswer": "Does not count as obscenity"
+    "question": "What was the nature of the public action against the Ken-Betwa project mentioned in the news, which ended abruptly?",
+    "options": ["A 15-day protest", "A hunger strike", "A legal petition", "A public debate"],
+    "correctAnswer": "A 15-day protest"
   },
   {
     "id": 9,
-    "question": "What did the Supreme Court clarify regarding mere swear words and profanities?",
-    "options": ["They always constitute an offense", "They do not constitute an offense", "They are punishable only if recorded", "They require a public apology"],
-    "correctAnswer": "They do not constitute an offense"
+    "question": "Which region of India recently experienced heavy rainfall leading to flash floods, resulting in casualties and evacuations?",
+    "options": ["Ladakh", "Himachal Pradesh", "Jammu & Kashmir", "Uttarakhand"],
+    "correctAnswer": "Jammu & Kashmir"
   },
   {
     "id": 10,
-    "question": "What specific element did the Supreme Court state is necessary for words to constitute obscenity under the law?",
-    "options": ["A malicious intent", "A lascivious element appealing to prurient interests", "An element of public disturbance", "A direct threat to an individual"],
-    "correctAnswer": "A lascivious element appealing to prurient interests"
+    "question": "Which specific districts in Jammu & Kashmir were mentioned as being severely affected by recent flash floods, prompting alerts and rescue operations?",
+    "options": ["Srinagar and Baramulla", "Poonch and Rajouri", "Leh and Kargil", "Jammu and Kathua"],
+    "correctAnswer": "Poonch and Rajouri"
   },
   {
     "id": 11,
-    "question": "In its recent ruling, the Supreme Court set aside a conviction for using what during an altercation?",
-    "options": ["Physical assault", "Abusive slurs", "Defamatory remarks", "Hate speech"],
-    "correctAnswer": "Abusive slurs"
+    "question": "What natural phenomenon caused widespread disruption and forced evacuations in parts of Jammu & Kashmir as reported in the news?",
+    "options": ["Landslides", "Earthquakes", "Flash floods", "Heatwaves"],
+    "correctAnswer": "Flash floods"
   },
   {
     "id": 12,
-    "question": "Besides a lascivious element, what other condition must words meet to constitute obscenity and cause an offense in public places, as per the Supreme Court?",
-    "options": ["Must be directed at a minor", "Must be broadcast widely", "Must cause annoyance to others", "Must be politically motivated"],
-    "correctAnswer": "Must cause annoyance to others"
+    "question": "Who among the following leaders recently wrote to PM Modi demanding an investigation into the financial affairs of the Shri Ram Janmabhoomi Teerth Kshetra Trust?",
+    "options": ["Amit Shah and J.P. Nadda", "Arvind Kejriwal and Mamata Banerjee", "Rahul Gandhi and Mallikarjun Kharge", "Akhilesh Yadav and Mayawati"],
+    "correctAnswer": "Rahul Gandhi and Mallikarjun Kharge"
   },
   {
     "id": 13,
-    "question": "Which Indian law was primarily referenced by the Supreme Court in its clarification on what constitutes obscenity?",
-    "options": ["Code of Criminal Procedure (CrPC)", "Indian Penal Code (IPC)", "Evidence Act", "Information Technology Act"],
-    "correctAnswer": "Indian Penal Code (IPC)"
+    "question": "The letter to PM Modi by Rahul Gandhi and Mallikarjun Kharge concerned financial irregularities related to which prominent Indian temple trust?",
+    "options": ["Kashi Vishwanath Temple Trust", "Kedarnath Temple Trust", "Shri Ram Janmabhoomi Teerth Kshetra Trust", "Vaishno Devi Shrine Board"],
+    "correctAnswer": "Shri Ram Janmabhoomi Teerth Kshetra Trust"
   },
   {
     "id": 14,
-    "question": "The Supreme Court's ruling indicated that abusive slurs used during an altercation could lead to what legal outcome for the convicted?",
-    "options": ["A harsher penalty", "Imposition of community service", "Their conviction being upheld", "Their conviction being set aside"],
-    "correctAnswer": "Their conviction being set aside"
+    "question": "What was the core demand made by Rahul Gandhi and Mallikarjun Kharge regarding the Ram Mandir Trust's finances, as per their letter to the PM?",
+    "options": ["More donations", "Public audit and comprehensive investigation", "Construction delay", "Renaming the trust"],
+    "correctAnswer": "Public audit and comprehensive investigation"
   },
   {
     "id": 15,
-    "question": "Which regulatory body recently granted medical colleges the autonomy to decide their own faculty appointments and promotions?",
-    "options": ["Medical Council of India (MCI)", "University Grants Commission (UGC)", "National Medical Commission (NMC)", "All India Council for Technical Education (AICTE)"],
-    "correctAnswer": "National Medical Commission (NMC)"
+    "question": "In which city is the Ram Mandir, managed by the Shri Ram Janmabhoomi Teerth Kshetra Trust, located?",
+    "options": ["Varanasi", "Mathura", "Ayodhya", "Prayagraj"],
+    "correctAnswer": "Ayodhya"
   },
   {
     "id": 16,
-    "question": "What type of routine clearances has the National Medical Commission (NMC) ended for faculty positions in medical colleges?",
-    "options": ["Financial audit clearances", "Eligibility clearances", "Ethical conduct clearances", "Infrastructure clearances"],
-    "correctAnswer": "Eligibility clearances"
+    "question": "The leaders urged for the Trust's accounts to be made public so that every devotee knows how their offerings have been utilised, highlighting concerns about:",
+    "options": ["Trust's operational efficiency", "Transparency and accountability", "Donation methods", "Construction speed"],
+    "correctAnswer": "Transparency and accountability"
   },
   {
     "id": 17,
-    "question": "One of the stated aims of the NMC's recent change regarding faculty appointments in medical colleges is to improve what?",
-    "options": ["Government oversight", "Student enrollment", "Institutional accountability", "Private funding"],
-    "correctAnswer": "Institutional accountability"
+    "question": "Prominent activist Sonam Wangchuk's health was recently in the news. Which hospital in Delhi issued an initial health update regarding him?",
+    "options": ["AIIMS Delhi", "Safdarjung Hospital", "Max Healthcare", "Apollo Hospital"],
+    "correctAnswer": "Safdarjung Hospital"
   },
   {
     "id": 18,
-    "question": "How many days do applicants dissatisfied with faculty appointment decisions in medical colleges have to seek a review?",
-    "options": ["Seven days", "Fifteen days", "Thirty days", "Sixty days"],
-    "correctAnswer": "Thirty days"
+    "question": "AIIMS experts recently backed urgent care for Sonam Wangchuk, while the activist himself denied the need. In which region of India is Sonam Wangchuk primarily known for his activism?",
+    "options": ["Sikkim", "Arunachal Pradesh", "Ladakh", "Himachal Pradesh"],
+    "correctAnswer": "Ladakh"
   },
   {
     "id": 19,
-    "question": "What is another key aim of the NMC's new policy on faculty appointments and promotions, apart from improving institutional accountability?",
-    "options": ["Increase faculty salaries", "Reduce unnecessary referrals", "Standardize admission criteria", "Promote international collaborations"],
-    "correctAnswer": "Reduce unnecessary referrals"
+    "question": "What was the core issue surrounding Sonam Wangchuk's health as reported in the news, involving medical opinion and his own assessment?",
+    "options": ["His critical condition requiring immediate surgery", "A discrepancy between medical opinion and his own assessment", "His demand for specific medication", "His refusal to be discharged"],
+    "correctAnswer": "A discrepancy between medical opinion and his own assessment"
   },
   {
     "id": 20,
-    "question": "Following the delegation of faculty appointment powers, the National Medical Commission (NMC) will now primarily focus on what kind of cases?",
-    "options": ["Routine administrative tasks", "Exceptional cases involving regulatory ambiguity", "Student grievance redressal", "Infrastructure development"],
-    "correctAnswer": "Exceptional cases involving regulatory ambiguity"
+    "question": "The Supreme Court of India recently clarified what constitutes 'obscenity' under the Indian Penal Code (IPC). What did the court rule regarding mere abusive language and swearing?",
+    "options": ["They always count as obscenity", "They are grounds for immediate arrest", "They do not count as obscenity", "They require public apology"],
+    "correctAnswer": "They do not count as obscenity"
   },
   {
     "id": 21,
-    "question": "The NMC's new policy has shifted the regulator's role, allowing medical colleges to decide faculty appointments while the NMC focuses on:",
-    "options": ["Curriculum development", "International faculty recruitment", "Exceptional cases involving regulatory ambiguity", "Establishing new medical colleges"],
-    "correctAnswer": "Exceptional cases involving regulatory ambiguity"
+    "question": "According to the Supreme Court's clarification on obscenity, what is an essential element for an act or word to be considered 'obscenity' under the law?",
+    "options": ["Financial gain", "Political motive", "A lascivious element appealing to prurient interests", "Causing minor inconvenience"],
+    "correctAnswer": "A lascivious element appealing to prurient interests"
   },
   {
     "id": 22,
-    "question": "Two parliamentary committees recently postponed approving their reports on which two significant types of legislation?",
-    "options": ["Banking reforms and electoral bonds", "Education reforms and anti-defection", "Anti-graft and higher education regulator bills", "Labour codes and agricultural reforms"],
-    "correctAnswer": "Anti-graft and higher education regulator bills"
+    "question": "Besides a lascivious element, what other condition did the Supreme Court mention for words to constitute obscenity if causing annoyance?",
+    "options": ["Must be spoken in private", "Must target a public official", "Must be in public places", "Must be recorded as evidence"],
+    "correctAnswer": "Must be in public places"
   },
   {
     "id": 23,
-    "question": "The deferral of reports by parliamentary panels is seen as a government outreach strategy to gain opposition support for which specific bill?",
-    "options": ["Economic reforms bill", "Delimitation bill", "National Security bill", "Environmental Protection bill"],
-    "correctAnswer": "Delimitation bill"
+    "question": "The Supreme Court's ruling on obscenity clarifies interpretations of which specific Indian legal code?",
+    "options": ["Criminal Procedure Code (CrPC)", "Indian Penal Code (IPC)", "Code of Civil Procedure (CPC)", "Information Technology Act"],
+    "correctAnswer": "Indian Penal Code (IPC)"
   },
   {
     "id": 24,
-    "question": "Which major political party is mentioned in the news as criticizing the government's handling of controversial legislative matters, including education reforms?",
-    "options": ["BJP", "Aam Aadmi Party (AAP)", "Congress", "Trinamool Congress (TMC)"],
-    "correctAnswer": "Congress"
+    "question": "Which Lok Sabha official recently approved the joining of 6 rebel UBT MPs to Shiv Sena, thereby boosting the NDA ranks?",
+    "options": ["The Prime Minister", "The Minister of Parliamentary Affairs", "The Speaker of Lok Sabha", "The Chief Justice of India"],
+    "correctAnswer": "The Speaker of Lok Sabha"
   },
   {
     "id": 25,
-    "question": "What is the anticipated outcome for the anti-graft bill and higher education regulator bills during the current parliamentary session, according to the news?",
-    "options": ["They are expected to be passed swiftly", "They will be referred to a joint committee", "They may not be presented", "They will undergo major revisions"],
-    "correctAnswer": "They may not be presented"
+    "question": "Which political alliance saw its ranks boosted by the defection of UBT MPs to Shiv Sena, as reported in the news?",
+    "options": ["INDIA Alliance", "United Progressive Alliance (UPA)", "National Democratic Alliance (NDA)", "Third Front"],
+    "correctAnswer": "National Democratic Alliance (NDA)"
   }
 ]

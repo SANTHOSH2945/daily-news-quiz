@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who urged political parties to ensure the smooth functioning of the House ahead of the Monsoon Session, as per recent news?",
-    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Kiren Rijiju", "Om Birla"],
-    "correctAnswer": "Kiren Rijiju"
+    "question": "What was the reported total expenditure on sitting Rajya Sabha members' salaries and perks over a two-year period, as per a recent RTI response?",
+    "options": ["Rs 98 crore", "Rs 163 crore", "Rs 262 crore", "Rs 65 crore"],
+    "correctAnswer": "Rs 262 crore"
   },
   {
     "id": 2,
-    "question": "Ahead of the Monsoon Session, an all-party meeting saw opposition walkouts. What was the primary reason cited for the opposition's walkout?",
-    "options": ["Invitation to rebel UBT MPs", "Invitation to rebel TMC MPs", "Dispute over Ken-Betwa project", "Concerns over Ram Mandir Trust"],
-    "correctAnswer": "Invitation to rebel TMC MPs"
+    "question": "By approximately how much did the expenditure on Rajya Sabha members increase from 2024-25 to 2025-26?",
+    "options": ["Rs 98 crore", "Rs 163 crore", "Rs 65 crore", "Rs 262 crore"],
+    "correctAnswer": "Rs 65 crore"
   },
   {
     "id": 3,
-    "question": "Kiren Rijiju is mentioned in the news context as being involved in parliamentary proceedings. What is his likely portfolio based on this information?",
-    "options": ["Finance Minister", "Defence Minister", "Minister of Parliamentary Affairs", "Home Minister"],
-    "correctAnswer": "Minister of Parliamentary Affairs"
+    "question": "Which of the following is explicitly mentioned as a component of the overall expenditure on Rajya Sabha MPs?",
+    "options": ["Infrastructure development", "Salaries and domestic travel", "Educational grants", "Foreign aid contributions"],
+    "correctAnswer": "Salaries and domestic travel"
   },
   {
     "id": 4,
-    "question": "The Monsoon Session of the Indian Parliament is an important annual event. What is its general purpose in the legislative calendar?",
-    "options": ["Budget finalization", "Winter session planning", "Legislative business and debates", "Election campaigning"],
-    "correctAnswer": "Legislative business and debates"
+    "question": "What was the reported expenditure on sitting Rajya Sabha members in 2025-26?",
+    "options": ["More than Rs 98 crore", "More than Rs 163 crore", "More than Rs 262 crore", "More than Rs 300 crore"],
+    "correctAnswer": "More than Rs 163 crore"
   },
   {
     "id": 5,
-    "question": "What kind of Members of Parliament (MPs) caused a controversy, leading to an opposition walkout in an all-party meeting mentioned in the news?",
-    "options": ["Newly elected MPs", "Rebel MPs", "Independent MPs", "Nominated MPs"],
-    "correctAnswer": "Rebel MPs"
+    "question": "The news regarding MPs' expenditure pertains to which house of the Indian Parliament?",
+    "options": ["Lok Sabha", "Vidhan Sabha", "Rajya Sabha", "Gram Sabha"],
+    "correctAnswer": "Rajya Sabha"
   },
   {
     "id": 6,
-    "question": "The Ken-Betwa river interlinking project was recently in the news due to protests. This project aims to link which two rivers?",
-    "options": ["Ganga and Yamuna", "Krishna and Godavari", "Ken and Betwa", "Narmada and Tapi"],
-    "correctAnswer": "Ken and Betwa"
+    "question": "Which political party, mentioned in the news, has expressed support for the Women's Reservation Bill but raised concerns about delimitation?",
+    "options": ["BJP", "Congress", "DMK", "TMC"],
+    "correctAnswer": "DMK"
   },
   {
     "id": 7,
-    "question": "In which Indian states is the Ken-Betwa river interlinking project primarily located?",
-    "options": ["Madhya Pradesh and Uttar Pradesh", "Maharashtra and Gujarat", "Rajasthan and Punjab", "Bihar and Jharkhand"],
-    "correctAnswer": "Madhya Pradesh and Uttar Pradesh"
+    "question": "What is the primary objective of the Women's Reservation Bill, as implied by its name?",
+    "options": ["To increase women's participation in sports", "To reserve seats for women in legislative bodies", "To provide financial aid to women entrepreneurs", "To promote women's education"],
+    "correctAnswer": "To reserve seats for women in legislative bodies"
   },
   {
     "id": 8,
-    "question": "What was the nature of the public action against the Ken-Betwa project mentioned in the news, which ended abruptly?",
-    "options": ["A 15-day protest", "A hunger strike", "A legal petition", "A public debate"],
-    "correctAnswer": "A 15-day protest"
+    "question": "The DMK is pressing the Centre on the issue of 'delimitation'. What does delimitation primarily involve?",
+    "options": ["Establishing new states", "Redrawing electoral constituency boundaries", "Setting up new administrative districts", "Revising economic policies"],
+    "correctAnswer": "Redrawing electoral constituency boundaries"
   },
   {
     "id": 9,
-    "question": "Which region of India recently experienced heavy rainfall leading to flash floods, resulting in casualties and evacuations?",
-    "options": ["Ladakh", "Himachal Pradesh", "Jammu & Kashmir", "Uttarakhand"],
-    "correctAnswer": "Jammu & Kashmir"
+    "question": "Why is the process of delimitation considered significant in the context of the Women's Reservation Bill?",
+    "options": ["It determines the bill's financial allocation", "It decides the states where the bill will apply", "It impacts the allocation of reserved seats", "It defines the eligibility criteria for women candidates"],
+    "correctAnswer": "It impacts the allocation of reserved seats"
   },
   {
     "id": 10,
-    "question": "Which specific districts in Jammu & Kashmir were mentioned as being severely affected by recent flash floods, prompting alerts and rescue operations?",
-    "options": ["Srinagar and Baramulla", "Poonch and Rajouri", "Leh and Kargil", "Jammu and Kathua"],
-    "correctAnswer": "Poonch and Rajouri"
+    "question": "The Women's Reservation Bill aims to reserve seats for women in which legislative bodies?",
+    "options": ["Panchayats only", "State Assemblies and Parliament", "Municipal Corporations only", "Rajya Sabha only"],
+    "correctAnswer": "State Assemblies and Parliament"
   },
   {
     "id": 11,
-    "question": "What natural phenomenon caused widespread disruption and forced evacuations in parts of Jammu & Kashmir as reported in the news?",
-    "options": ["Landslides", "Earthquakes", "Flash floods", "Heatwaves"],
-    "correctAnswer": "Flash floods"
+    "question": "Which central government body is typically responsible for conducting delimitation exercises in India?",
+    "options": ["The Election Commission of India", "The Finance Commission", "The NITI Aayog", "The Union Cabinet"],
+    "correctAnswer": "The Election Commission of India"
   },
   {
     "id": 12,
-    "question": "Who among the following leaders recently wrote to PM Modi demanding an investigation into the financial affairs of the Shri Ram Janmabhoomi Teerth Kshetra Trust?",
-    "options": ["Amit Shah and J.P. Nadda", "Arvind Kejriwal and Mamata Banerjee", "Rahul Gandhi and Mallikarjun Kharge", "Akhilesh Yadav and Mayawati"],
-    "correctAnswer": "Rahul Gandhi and Mallikarjun Kharge"
+    "question": "The news highlights a debate around the Women's Reservation Bill in conjunction with which other crucial electoral process?",
+    "options": ["Voter registration drive", "Electronic Voting Machine procurement", "Delimitation of constituencies", "Election expenditure limits"],
+    "correctAnswer": "Delimitation of constituencies"
   },
   {
     "id": 13,
-    "question": "The letter to PM Modi by Rahul Gandhi and Mallikarjun Kharge concerned financial irregularities related to which prominent Indian temple trust?",
-    "options": ["Kashi Vishwanath Temple Trust", "Kedarnath Temple Trust", "Shri Ram Janmabhoomi Teerth Kshetra Trust", "Vaishno Devi Shrine Board"],
-    "correctAnswer": "Shri Ram Janmabhoomi Teerth Kshetra Trust"
+    "question": "Which Union Minister recently defended the invitation of the Nationalist Citizens Party of India (NCPI) to an all-party meeting?",
+    "options": ["Narendra Modi", "Amit Shah", "Kiren Rijiju", "Nirmala Sitharaman"],
+    "correctAnswer": "Kiren Rijiju"
   },
   {
     "id": 14,
-    "question": "What was the core demand made by Rahul Gandhi and Mallikarjun Kharge regarding the Ram Mandir Trust's finances, as per their letter to the PM?",
-    "options": ["More donations", "Public audit and comprehensive investigation", "Construction delay", "Renaming the trust"],
-    "correctAnswer": "Public audit and comprehensive investigation"
+    "question": "How many bills are reportedly listed for consideration during the upcoming Monsoon Session of Parliament?",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "correctAnswer": "Eight"
   },
   {
     "id": 15,
-    "question": "In which city is the Ram Mandir, managed by the Shri Ram Janmabhoomi Teerth Kshetra Trust, located?",
-    "options": ["Varanasi", "Mathura", "Ayodhya", "Prayagraj"],
-    "correctAnswer": "Ayodhya"
+    "question": "Which specific parliamentary session is mentioned as starting soon in the news?",
+    "options": ["Budget Session", "Winter Session", "Monsoon Session", "Autumn Session"],
+    "correctAnswer": "Monsoon Session"
   },
   {
     "id": 16,
-    "question": "The leaders urged for the Trust's accounts to be made public so that every devotee knows how their offerings have been utilised, highlighting concerns about:",
-    "options": ["Trust's operational efficiency", "Transparency and accountability", "Donation methods", "Construction speed"],
-    "correctAnswer": "Transparency and accountability"
+    "question": "The opposition staged a walkout during an all-party meeting, protesting the invitation given to which political entity?",
+    "options": ["Rebel BJP MPs", "Rebel Congress MPs", "Rebel Trinamool Congress MPs", "Rebel DMK MPs"],
+    "correctAnswer": "Rebel Trinamool Congress MPs"
   },
   {
     "id": 17,
-    "question": "Prominent activist Sonam Wangchuk's health was recently in the news. Which hospital in Delhi issued an initial health update regarding him?",
-    "options": ["AIIMS Delhi", "Safdarjung Hospital", "Max Healthcare", "Apollo Hospital"],
-    "correctAnswer": "Safdarjung Hospital"
+    "question": "What reason did Union Minister Kiren Rijiju give for inviting the Nationalist Citizens Party of India (NCPI) to the all-party meeting?",
+    "options": ["They are a long-standing ally", "They requested recognition following parliamentary norms", "They represent a large voter base", "They had special permission from the Prime Minister"],
+    "correctAnswer": "They requested recognition following parliamentary norms"
   },
   {
     "id": 18,
-    "question": "AIIMS experts recently backed urgent care for Sonam Wangchuk, while the activist himself denied the need. In which region of India is Sonam Wangchuk primarily known for his activism?",
-    "options": ["Sikkim", "Arunachal Pradesh", "Ladakh", "Himachal Pradesh"],
-    "correctAnswer": "Ladakh"
+    "question": "The news mentions that all parties have the right to express views and cooperate for what national objective?",
+    "options": ["Party expansion", "International relations", "Nation's development", "Regional dominance"],
+    "correctAnswer": "Nation's development"
   },
   {
     "id": 19,
-    "question": "What was the core issue surrounding Sonam Wangchuk's health as reported in the news, involving medical opinion and his own assessment?",
-    "options": ["His critical condition requiring immediate surgery", "A discrepancy between medical opinion and his own assessment", "His demand for specific medication", "His refusal to be discharged"],
-    "correctAnswer": "A discrepancy between medical opinion and his own assessment"
+    "question": "What is the primary role of an 'all-party meeting' ahead of a parliamentary session?",
+    "options": ["To elect new party leaders", "To discuss the session's agenda and seek cooperation", "To finalize alliance agreements", "To review past legislative performances"],
+    "correctAnswer": "To discuss the session's agenda and seek cooperation"
   },
   {
     "id": 20,
-    "question": "The Supreme Court of India recently clarified what constitutes 'obscenity' under the Indian Penal Code (IPC). What did the court rule regarding mere abusive language and swearing?",
-    "options": ["They always count as obscenity", "They are grounds for immediate arrest", "They do not count as obscenity", "They require public apology"],
-    "correctAnswer": "They do not count as obscenity"
+    "question": "Which state cabinet recently approved the Uniform Civil Code (UCC) Bill, 2026?",
+    "options": ["Uttar Pradesh", "Gujarat", "Madhya Pradesh", "Rajasthan"],
+    "correctAnswer": "Madhya Pradesh"
   },
   {
     "id": 21,
-    "question": "According to the Supreme Court's clarification on obscenity, what is an essential element for an act or word to be considered 'obscenity' under the law?",
-    "options": ["Financial gain", "Political motive", "A lascivious element appealing to prurient interests", "Causing minor inconvenience"],
-    "correctAnswer": "A lascivious element appealing to prurient interests"
+    "question": "Who is the Chief Minister that announced the Madhya Pradesh cabinet's approval of the Uniform Civil Code Bill?",
+    "options": ["Yogi Adityanath", "Bhupendra Patel", "Mohan Yadav", "Ashok Gehlot"],
+    "correctAnswer": "Mohan Yadav"
   },
   {
     "id": 22,
-    "question": "Besides a lascivious element, what other condition did the Supreme Court mention for words to constitute obscenity if causing annoyance?",
-    "options": ["Must be spoken in private", "Must target a public official", "Must be in public places", "Must be recorded as evidence"],
-    "correctAnswer": "Must be in public places"
+    "question": "What is the stated primary aim of the proposed Uniform Civil Code legislation, according to the Chief Minister?",
+    "options": ["To promote a specific religion", "To guarantee equal rights for every citizen, irrespective of religion", "To centralize all state laws", "To introduce new taxation policies"],
+    "correctAnswer": "To guarantee equal rights for every citizen, irrespective of religion"
   },
   {
     "id": 23,
-    "question": "The Supreme Court's ruling on obscenity clarifies interpretations of which specific Indian legal code?",
-    "options": ["Criminal Procedure Code (CrPC)", "Indian Penal Code (IPC)", "Code of Civil Procedure (CPC)", "Information Technology Act"],
-    "correctAnswer": "Indian Penal Code (IPC)"
+    "question": "The Madhya Pradesh Cabinet's approval of the UCC Bill was described as what kind of decision?",
+    "options": ["A majority decision", "A divisive decision", "A unanimous decision", "A temporary decision"],
+    "correctAnswer": "A unanimous decision"
   },
   {
     "id": 24,
-    "question": "Which Lok Sabha official recently approved the joining of 6 rebel UBT MPs to Shiv Sena, thereby boosting the NDA ranks?",
-    "options": ["The Prime Minister", "The Minister of Parliamentary Affairs", "The Speaker of Lok Sabha", "The Chief Justice of India"],
-    "correctAnswer": "The Speaker of Lok Sabha"
+    "question": "The proposed Uniform Civil Code Bill in Madhya Pradesh is specifically referred to by which year in the news?",
+    "options": ["2024", "2025", "2026", "2023"],
+    "correctAnswer": "2026"
   },
   {
     "id": 25,
-    "question": "Which political alliance saw its ranks boosted by the defection of UBT MPs to Shiv Sena, as reported in the news?",
-    "options": ["INDIA Alliance", "United Progressive Alliance (UPA)", "National Democratic Alliance (NDA)", "Third Front"],
-    "correctAnswer": "National Democratic Alliance (NDA)"
+    "question": "The Chief Minister congratulated his Cabinet colleagues for backing the Uniform Civil Code Bill. What did he mention it would guarantee?",
+    "options": ["More jobs for youth", "Equal opportunities for women", "Equal rights for every citizen, irrespective of religion", "Improved infrastructure"],
+    "correctAnswer": "Equal rights for every citizen, irrespective of religion"
   }
 ]

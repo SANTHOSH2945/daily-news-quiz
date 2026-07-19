@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian company, based in Hyderabad, successfully launched India's first privately developed orbital-class rocket?",
-    "options": ["Agnikul Cosmos", "Bellatrix Aerospace", "Skyroot Aerospace", "Dhruva Space"],
+    "question": "Which Hyderabad-based startup recently launched India's first private orbital rocket?",
+    "options": ["ISRO", "Bellatrix Aerospace", "Agnikul Cosmos", "Skyroot Aerospace"],
     "correctAnswer": "Skyroot Aerospace"
   },
   {
     "id": 2,
-    "question": "What is the name of India's first privately developed orbital-class rocket launched by Skyroot Aerospace?",
-    "options": ["Prithvi-1", "Agni-V", "Vikram-1", "Sarabhai-S1"],
+    "question": "What is the name of the rocket launched by the Hyderabad-based Skyroot Aerospace, marking India's entry into the private orbital launch club?",
+    "options": ["Prithvi-1", "Agni-V", "Vikram-1", "Dhruva-II"],
     "correctAnswer": "Vikram-1"
   },
   {
     "id": 3,
-    "question": "Skyroot Aerospace, the company behind India's first private orbital rocket launch, is primarily based in which city of Telangana?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Secunderabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "With the successful launch by Skyroot Aerospace, India has become the ______ nation globally to achieve private orbital launch capability.",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "correctAnswer": "Third"
   },
   {
     "id": 4,
-    "question": "What type of rocket was Vikram-1, which Skyroot Aerospace successfully launched?",
-    "options": ["Sub-orbital sounding rocket", "Ballistic missile", "Orbital-class rocket", "Intercontinental ballistic missile"],
-    "correctAnswer": "Orbital-class rocket"
+    "question": "How many payloads did Skyroot Aerospace's Vikram-1 rocket successfully deliver into low Earth orbit?",
+    "options": ["Three", "Four", "Six", "Eight"],
+    "correctAnswer": "Six"
   },
   {
     "id": 5,
-    "question": "What significant milestone did Skyroot Aerospace achieve with the Vikram-1 launch?",
-    "options": ["First Indian company to launch a satellite", "First privately developed orbital-class rocket launch in India", "First Indian moon mission by a private entity", "First successful Mars probe by a startup"],
-    "correctAnswer": "First privately developed orbital-class rocket launch in India"
+    "question": "The historic mission by Skyroot Aerospace, based in Hyderabad, placed its rocket into which specific type of orbit?",
+    "options": ["Geosynchronous Orbit", "Polar Orbit", "Low Earth Orbit", "Heliocentric Orbit"],
+    "correctAnswer": "Low Earth Orbit"
   },
   {
     "id": 6,
-    "question": "How many payloads did Vikram-1 deploy during its historic flight to Low Earth Orbit?",
-    "options": ["Two payloads", "Four payloads", "Six payloads", "Eight payloads"],
-    "correctAnswer": "Six payloads"
+    "question": "The launch of Vikram-1 by Hyderabad-based Skyroot Aerospace signifies a new era for which specific sector in India?",
+    "options": ["Public Sector Space Industry", "Defence Manufacturing", "Private Indian Space Industry", "Civil Aviation"],
+    "correctAnswer": "Private Indian Space Industry"
   },
   {
     "id": 7,
-    "question": "What kind of orbit did Vikram-1 reach during its successful mission?",
-    "options": ["Geostationary orbit", "Polar orbit", "Low Earth orbit", "Lunar transfer orbit"],
-    "correctAnswer": "Low Earth orbit"
-  },
-  {
-    "id": 8,
-    "question": "Which Prime Minister lauded the successful launch of Vikram-1, emphasizing faith in the nation's youth and private sector?",
-    "options": ["Narendra Modi", "Manmohan Singh", "Atal Bihari Vajpayee", "Indira Gandhi"],
-    "correctAnswer": "Narendra Modi"
-  },
-  {
-    "id": 9,
-    "question": "The successful launch of Vikram-1 positions India as the third country with what specific capability?",
-    "options": ["Ability to launch heaviest satellites", "Indigenous private orbital launch capabilities", "Manned spaceflight capability", "Developing reusable rocket technology"],
-    "correctAnswer": "Indigenous private orbital launch capabilities"
-  },
-  {
-    "id": 10,
-    "question": "What sector does Skyroot Aerospace's success signify a major step for in India?",
-    "options": ["Public sector defense", "Biotechnology research", "Renewable energy", "Private space sector"],
-    "correctAnswer": "Private space sector"
-  },
-  {
-    "id": 11,
-    "question": "What vision of the Prime Minister regarding the space sector was validated by Skyroot's launch?",
-    "options": ["Increasing international collaboration in space", "Prioritizing government-led space missions", "Privatization of the space sector", "Focusing solely on defense space applications"],
-    "correctAnswer": "Privatization of the space sector"
-  },
-  {
-    "id": 12,
-    "question": "What specific item did Skyroot Aerospace's Vikram-1 rocket carry in addition to its payloads, according to the news?",
-    "options": ["A national flag", "A time capsule", "A special message for the universe", "A commemorative coin"],
-    "correctAnswer": "A special message for the universe"
-  },
-  {
-    "id": 13,
-    "question": "What is Skyroot Aerospace often referred to as, in context of its pioneering role in India's private space industry?",
-    "options": ["India's own NASA", "India's own Blue Origin", "India's own Roscosmos", "India's own SpaceX"],
-    "correctAnswer": "India's own SpaceX"
-  },
-  {
-    "id": 14,
-    "question": "What alternative does Skyroot Aerospace's success primarily offer India for satellite launches?",
-    "options": ["An alternative to global launch providers like NASA", "An alternative to ISRO for certain launches", "An alternative to defense research organizations", "An alternative to commercial airlines for cargo"],
-    "correctAnswer": "An alternative to ISRO for certain launches"
-  },
-  {
-    "id": 15,
-    "question": "What impact is Skyroot's success expected to have on other Indian space startups, according to the news?",
-    "options": ["Discourage further private investment", "Accelerate their orbital rocket programs", "Shift focus to lunar missions", "Consolidate into a single large entity"],
-    "correctAnswer": "Accelerate their orbital rocket programs"
-  },
-  {
-    "id": 16,
-    "question": "The launch of Vikram-1 represents a major step for India's private space sector and its aspirations in which market?",
-    "options": ["Domestic consumer electronics market", "Agricultural technology market", "Global market", "Military hardware market"],
-    "correctAnswer": "Global market"
-  },
-  {
-    "id": 17,
-    "question": "Which city, home to Skyroot Aerospace, is now recognized as a significant hub for private space technology companies in India?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
+    "question": "Skyroot Aerospace is headquartered in which Indian city, a key detail highlighted in its recent successful rocket launch?",
+    "options": ["Bengaluru", "Chennai", "Thiruvananthapuram", "Hyderabad"],
     "correctAnswer": "Hyderabad"
   },
   {
+    "id": 8,
+    "question": "According to a recent Supreme Court ruling, what is the stance on using abusive language and swearing under the Indian Penal Code (IPC)?",
+    "options": ["Always constitutes obscenity", "May constitute obscenity depending on context", "Does not count as obscenity", "Is a minor civil offense"],
+    "correctAnswer": "Does not count as obscenity"
+  },
+  {
+    "id": 9,
+    "question": "What did the Supreme Court clarify regarding mere swear words and profanities?",
+    "options": ["They always constitute an offense", "They do not constitute an offense", "They are punishable only if recorded", "They require a public apology"],
+    "correctAnswer": "They do not constitute an offense"
+  },
+  {
+    "id": 10,
+    "question": "What specific element did the Supreme Court state is necessary for words to constitute obscenity under the law?",
+    "options": ["A malicious intent", "A lascivious element appealing to prurient interests", "An element of public disturbance", "A direct threat to an individual"],
+    "correctAnswer": "A lascivious element appealing to prurient interests"
+  },
+  {
+    "id": 11,
+    "question": "In its recent ruling, the Supreme Court set aside a conviction for using what during an altercation?",
+    "options": ["Physical assault", "Abusive slurs", "Defamatory remarks", "Hate speech"],
+    "correctAnswer": "Abusive slurs"
+  },
+  {
+    "id": 12,
+    "question": "Besides a lascivious element, what other condition must words meet to constitute obscenity and cause an offense in public places, as per the Supreme Court?",
+    "options": ["Must be directed at a minor", "Must be broadcast widely", "Must cause annoyance to others", "Must be politically motivated"],
+    "correctAnswer": "Must cause annoyance to others"
+  },
+  {
+    "id": 13,
+    "question": "Which Indian law was primarily referenced by the Supreme Court in its clarification on what constitutes obscenity?",
+    "options": ["Code of Criminal Procedure (CrPC)", "Indian Penal Code (IPC)", "Evidence Act", "Information Technology Act"],
+    "correctAnswer": "Indian Penal Code (IPC)"
+  },
+  {
+    "id": 14,
+    "question": "The Supreme Court's ruling indicated that abusive slurs used during an altercation could lead to what legal outcome for the convicted?",
+    "options": ["A harsher penalty", "Imposition of community service", "Their conviction being upheld", "Their conviction being set aside"],
+    "correctAnswer": "Their conviction being set aside"
+  },
+  {
+    "id": 15,
+    "question": "Which regulatory body recently granted medical colleges the autonomy to decide their own faculty appointments and promotions?",
+    "options": ["Medical Council of India (MCI)", "University Grants Commission (UGC)", "National Medical Commission (NMC)", "All India Council for Technical Education (AICTE)"],
+    "correctAnswer": "National Medical Commission (NMC)"
+  },
+  {
+    "id": 16,
+    "question": "What type of routine clearances has the National Medical Commission (NMC) ended for faculty positions in medical colleges?",
+    "options": ["Financial audit clearances", "Eligibility clearances", "Ethical conduct clearances", "Infrastructure clearances"],
+    "correctAnswer": "Eligibility clearances"
+  },
+  {
+    "id": 17,
+    "question": "One of the stated aims of the NMC's recent change regarding faculty appointments in medical colleges is to improve what?",
+    "options": ["Government oversight", "Student enrollment", "Institutional accountability", "Private funding"],
+    "correctAnswer": "Institutional accountability"
+  },
+  {
     "id": 18,
-    "question": "By enabling private entities like Skyroot Aerospace, India aims to reduce reliance on which primary space agency for certain launch capabilities?",
-    "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
-    "correctAnswer": "ISRO"
+    "question": "How many days do applicants dissatisfied with faculty appointment decisions in medical colleges have to seek a review?",
+    "options": ["Seven days", "Fifteen days", "Thirty days", "Sixty days"],
+    "correctAnswer": "Thirty days"
   },
   {
     "id": 19,
-    "question": "What type of launch system did Skyroot Aerospace successfully demonstrate with Vikram-1?",
-    "options": ["Sub-orbital launch", "Atmospheric test flight", "Orbital launch", "Interplanetary probe launch"],
-    "correctAnswer": "Orbital launch"
+    "question": "What is another key aim of the NMC's new policy on faculty appointments and promotions, apart from improving institutional accountability?",
+    "options": ["Increase faculty salaries", "Reduce unnecessary referrals", "Standardize admission criteria", "Promote international collaborations"],
+    "correctAnswer": "Reduce unnecessary referrals"
   },
   {
     "id": 20,
-    "question": "The event involving Skyroot Aerospace's Vikram-1 launch has been described as signifying what for India's private space sector?",
-    "options": ["A temporary setback", "A new era", "A shift to military focus", "A period of stagnation"],
-    "correctAnswer": "A new era"
+    "question": "Following the delegation of faculty appointment powers, the National Medical Commission (NMC) will now primarily focus on what kind of cases?",
+    "options": ["Routine administrative tasks", "Exceptional cases involving regulatory ambiguity", "Student grievance redressal", "Infrastructure development"],
+    "correctAnswer": "Exceptional cases involving regulatory ambiguity"
   },
   {
     "id": 21,
-    "question": "Approximately how many students across India improved their scores in the CBSE 2nd Board results mentioned in the news?",
-    "options": ["1 lakh students", "3 lakh students", "5 lakh students", "7 lakh students"],
-    "correctAnswer": "3 lakh students"
+    "question": "The NMC's new policy has shifted the regulator's role, allowing medical colleges to decide faculty appointments while the NMC focuses on:",
+    "options": ["Curriculum development", "International faculty recruitment", "Exceptional cases involving regulatory ambiguity", "Establishing new medical colleges"],
+    "correctAnswer": "Exceptional cases involving regulatory ambiguity"
   },
   {
     "id": 22,
-    "question": "What was the general trend observed for a significant number of students in the recent CBSE 2nd Board results across India?",
-    "options": ["Decline in overall pass percentage", "Scores remained stagnant", "Improved scores", "Higher failure rates"],
-    "correctAnswer": "Improved scores"
+    "question": "Two parliamentary committees recently postponed approving their reports on which two significant types of legislation?",
+    "options": ["Banking reforms and electoral bonds", "Education reforms and anti-defection", "Anti-graft and higher education regulator bills", "Labour codes and agricultural reforms"],
+    "correctAnswer": "Anti-graft and higher education regulator bills"
   },
   {
     "id": 23,
-    "question": "What new technology has India rolled out to secure its Indian Standard Time network, reducing reliance on foreign timing sources for critical infrastructure across states like Telangana and Andhra Pradesh?",
-    "options": ["Quantum Encryption Protocol", "White Rabbit technology", "Atomic Clock Synchronization", "GPS-based Time Correction"],
-    "correctAnswer": "White Rabbit technology"
+    "question": "The deferral of reports by parliamentary panels is seen as a government outreach strategy to gain opposition support for which specific bill?",
+    "options": ["Economic reforms bill", "Delimitation bill", "National Security bill", "Environmental Protection bill"],
+    "correctAnswer": "Delimitation bill"
   },
   {
     "id": 24,
-    "question": "The 'White Rabbit' technology, deployed for India's secure time signal network, aims to enhance reliability in which key sectors nationwide?",
-    "options": ["Agriculture, fisheries, and tourism", "Defense, aerospace, and manufacturing", "Banking, telecom, and power grid operations", "Education, healthcare, and public transport"],
-    "correctAnswer": "Banking, telecom, and power grid operations"
+    "question": "Which major political party is mentioned in the news as criticizing the government's handling of controversial legislative matters, including education reforms?",
+    "options": ["BJP", "Aam Aadmi Party (AAP)", "Congress", "Trinamool Congress (TMC)"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 25,
-    "question": "What is the primary objective of India's new secure, indigenous time signal network using 'White Rabbit' technology?",
-    "options": ["To establish India's own GPS system", "To facilitate faster internet speeds", "To reduce reliance on foreign timing sources for essential services", "To monitor global weather patterns"],
-    "correctAnswer": "To reduce reliance on foreign timing sources for essential services"
+    "question": "What is the anticipated outcome for the anti-graft bill and higher education regulator bills during the current parliamentary session, according to the news?",
+    "options": ["They are expected to be passed swiftly", "They will be referred to a joint committee", "They may not be presented", "They will undergo major revisions"],
+    "correctAnswer": "They may not be presented"
   }
 ]

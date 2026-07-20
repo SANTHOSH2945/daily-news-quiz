@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian private aerospace company, based in Hyderabad, was recently lauded by PM Modi for its young innovators?",
-    "options": ["Skyroot Aerospace", "Bellatrix Aerospace", "Agnikul Cosmos", "Dhruva Space"],
-    "correctAnswer": "Skyroot Aerospace"
+    "question": "What is the name of the new Personal Protective Equipment (PPE) launched by DS Group specifically for women farmers in India, relevant to agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["Kisan Kavach PPE", "Pallu Protection PPE", "Harvest Guard PPE", "Crop Shield PPE"],
+    "correctAnswer": "Pallu Protection PPE"
   },
   {
     "id": 2,
-    "question": "Skyroot Aerospace, a startup highlighted by PM Modi, is primarily located in which Indian city?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
-    "correctAnswer": "Hyderabad"
+    "question": "The primary purpose of the Pallu Protection PPE, launched by DS Group, is to shield women farmers from what specific hazard during agricultural activities in regions like Telangana and Andhra Pradesh?",
+    "options": ["Harsh sunlight", "Heavy rain", "Pesticide exposure", "Dust particles"],
+    "correctAnswer": "Pesticide exposure"
   },
   {
     "id": 3,
-    "question": "What is the average age of the team members at Skyroot Aerospace, as mentioned by PM Modi?",
-    "options": ["25 years", "28 years", "30 years", "32 years"],
-    "correctAnswer": "28 years"
+    "question": "Which specific demographic group in the Indian agricultural sector is the Pallu Protection PPE designed to protect?",
+    "options": ["Male farm laborers", "Young farmers", "Women farmers", "Agricultural researchers"],
+    "correctAnswer": "Women farmers"
   },
   {
     "id": 4,
-    "question": "Which orbital launch vehicle from Skyroot Aerospace was specifically mentioned by PM Modi in his address to Parliament?",
-    "options": ["Vikram-S", "Dhawan-1", "Agnibaan", "Vikram-1"],
-    "correctAnswer": "Vikram-1"
+    "question": "Which company is responsible for launching the innovative Pallu Protection PPE for women farmers in India?",
+    "options": ["Reliance Industries", "Tata Group", "DS Group", "Mahindra & Mahindra"],
+    "correctAnswer": "DS Group"
   },
   {
     "id": 5,
-    "question": "Skyroot Aerospace's achievement is seen as a significant milestone for which sector in India?",
-    "options": ["Public healthcare", "Private space sector", "Renewable energy", "Digital education"],
-    "correctAnswer": "Private space sector"
+    "question": "The introduction of Pallu Protection PPE addresses a critical concern related to occupational health and safety for women engaged in what type of work across India, including Telangana and Andhra Pradesh?",
+    "options": ["Factory work", "Construction", "Agricultural work", "Mining"],
+    "correctAnswer": "Agricultural work"
   },
   {
     "id": 6,
-    "question": "The Prime Minister lauded Skyroot Aerospace's success while discussing India's young innovators. This company is a key player in the space sector of which state?",
-    "options": ["Karnataka", "Tamil Nadu", "Telangana", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "In the context of the Pallu Protection PPE, what does 'PPE' stand for?",
+    "options": ["Personal Productive Equipment", "Public Protection Efforts", "Personal Protective Equipment", "Primary Prevention Education"],
+    "correctAnswer": "Personal Protective Equipment"
   },
   {
     "id": 7,
-    "question": "Beyond its technological advancements, Skyroot Aerospace represents the potential of India's youth in which high-tech industry?",
-    "options": ["Biotechnology", "Robotics", "Artificial Intelligence", "Aerospace engineering"],
-    "correctAnswer": "Aerospace engineering"
+    "question": "The design of the Pallu Protection PPE is inspired by a traditional Indian garment feature. What is this feature?",
+    "options": ["Dhoti", "Turban", "Dupatta", "Pallu (part of a saree)"],
+    "correctAnswer": "Pallu (part of a saree)"
   },
   {
     "id": 8,
-    "question": "Which major city in Telangana serves as a hub for private space startups like Skyroot Aerospace?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "Protecting farmers, especially women, from pesticide exposure contributes to improving which aspect of their lives in agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["Financial literacy", "Digital inclusion", "Health and well-being", "Access to markets"],
+    "correctAnswer": "Health and well-being"
   },
   {
     "id": 9,
-    "question": "India recently approved its first dengue vaccine. What is its name?",
-    "options": ["Dengvaxia", "QDENGA", "DenGuard", "VaxDengue"],
-    "correctAnswer": "QDENGA"
+    "question": "This initiative by DS Group reflects a growing awareness in India about the need for specialized safety gear for which segment of the workforce?",
+    "options": ["IT professionals", "Healthcare workers", "Manual laborers", "Agricultural workers"],
+    "correctAnswer": "Agricultural workers"
   },
   {
     "id": 10,
-    "question": "Which authority granted clearance for India's first dengue vaccine, QDENGA?",
-    "options": ["ICMR", "NITI Aayog", "DCGI", "AIIMS"],
-    "correctAnswer": "DCGI"
+    "question": "The Pallu Protection PPE aims to mitigate risks associated with the application of what common agricultural input?",
+    "options": ["Fertilizers", "Seeds", "Pesticides", "Water"],
+    "correctAnswer": "Pesticides"
   },
   {
     "id": 11,
-    "question": "India accounts for approximately what share of the global dengue burden?",
-    "options": ["One-tenth", "One-fifth", "One-third", "One-half"],
-    "correctAnswer": "One-third"
+    "question": "For states like Andhra Pradesh and Telangana, where agriculture is a major occupation, the Pallu Protection PPE could significantly reduce the incidence of which type of health issues?",
+    "options": ["Cardiac diseases", "Respiratory and skin ailments from chemical exposure", "Diabetes", "Mental health disorders"],
+    "correctAnswer": "Respiratory and skin ailments from chemical exposure"
   },
   {
     "id": 12,
-    "question": "The approval of QDENGA is significant for states like Telangana and Andhra Pradesh due to the prevalence of which disease?",
-    "options": ["Malaria", "Chikungunya", "Dengue", "Typhoid"],
-    "correctAnswer": "Dengue"
+    "question": "The DS Group's focus on women farmers with this PPE indicates a strategic move towards promoting what in the agricultural sector?",
+    "options": ["Gender equality and safety", "Mechanized farming", "Organic farming", "Crop diversification"],
+    "correctAnswer": "Gender equality and safety"
   },
   {
     "id": 13,
-    "question": "How is the QDENGA vaccine administered, as per the company's description?",
-    "options": ["Orally", "Intravenously", "Under the skin (subcutaneously)", "Intramuscularly"],
-    "correctAnswer": "Under the skin (subcutaneously)"
+    "question": "What is the broader impact expected from the widespread adoption of Pallu Protection PPE in Indian agriculture?",
+    "options": ["Increased crop yields", "Reduced labor costs", "Improved farmer health and reduced medical expenses", "Enhanced soil fertility"],
+    "correctAnswer": "Improved farmer health and reduced medical expenses"
   },
   {
     "id": 14,
-    "question": "What factors are cited for the increasing risk of dengue infection across India, including Telangana and Andhra Pradesh?",
-    "options": ["Deforestation and desertification", "Rapid urbanisation and climate change", "Industrial pollution and water scarcity", "Overpopulation and lack of sanitation"],
-    "correctAnswer": "Rapid urbanisation and climate change"
+    "question": "Which social challenge is identified as rapidly increasing in India, significantly impacting urban centers including those in Telangana and Andhra Pradesh?",
+    "options": ["Poverty", "Illiteracy", "Loneliness", "Unemployment"],
+    "correctAnswer": "Loneliness"
   },
   {
     "id": 15,
-    "question": "The new dengue vaccine requires how many injections?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "According to the news, which two key factors contribute to the growing isolation and loneliness in India's urban areas?",
+    "options": ["Climate change and deforestation", "Urbanization and changing social structures", "Economic recession and inflation", "Political instability and corruption"],
+    "correctAnswer": "Urbanization and changing social structures"
   },
   {
     "id": 16,
-    "question": "The recent protests at Jantar Mantar, joined by leaders like Dimple Yadav, were primarily against alleged irregularities in which national examination?",
-    "options": ["UPSC Civil Services Exam", "JEE Main", "NEET", "GATE"],
-    "correctAnswer": "NEET"
+    "question": "Which demographic groups are specifically mentioned as experiencing profound feelings of not belonging due to this growing crisis in India?",
+    "options": ["Rural youth and urban professionals", "Young migrants and older adults", "Students and teachers", "Business owners and entrepreneurs"],
+    "correctAnswer": "Young migrants and older adults"
   },
   {
     "id": 17,
-    "question": "The 'Sansad Chalo' protest at Jantar Mantar was organized by which organization, along with student groups?",
-    "options": ["NSUI", "ABVP", "CJP", "AISA"],
-    "correctAnswer": "CJP"
+    "question": "An emerging market-based solution for connection and care, addressing urban loneliness in India, is referred to as what?",
+    "options": ["Green economy", "Gig economy", "Silver economy", "Digital economy"],
+    "correctAnswer": "Silver economy"
   },
   {
     "id": 18,
-    "question": "What was the main concern raised by protesters regarding the NEET examination?",
-    "options": ["High examination fees", "Difficult syllabus", "Alleged paper leaks and corruption", "Lack of exam centers"],
-    "correctAnswer": "Alleged paper leaks and corruption"
+    "question": "The news highlights that addressing loneliness in India should be considered a response to what kind of fundamental human need?",
+    "options": ["Economic prosperity", "Social recognition", "Human connection", "Political participation"],
+    "correctAnswer": "Human connection"
   },
   {
     "id": 19,
-    "question": "Students from states across India, including Telangana and Andhra Pradesh, are affected by the issues surrounding which medical entrance examination?",
-    "options": ["AIIMS Entrance Exam", "JIPMER Entrance Exam", "NEET", "PGIMER Entrance Exam"],
-    "correctAnswer": "NEET"
+    "question": "What trend in India's population is linked to the growing loneliness crisis?",
+    "options": ["Rapidly decreasing", "Stagnant", "Aging rapidly", "Experiencing a baby boom"],
+    "correctAnswer": "Aging rapidly"
   },
   {
     "id": 20,
-    "question": "The protests highlighted the mental stress faced by which demographic due to alleged irregularities in examinations?",
-    "options": ["Farmers", "Senior citizens", "Country's youth and students", "Business owners"],
-    "correctAnswer": "Country's youth and students"
+    "question": "The 'silver economy' in India is primarily focused on providing services and products for which segment of the population?",
+    "options": ["Children", "Adolescents", "Working professionals", "Older adults"],
+    "correctAnswer": "Older adults"
   },
   {
     "id": 21,
-    "question": "During which session of Parliament did PM Modi appeal for productive discussions and highlight India's economic resilience?",
-    "options": ["Budget Session", "Winter Session", "Monsoon Session", "Special Session"],
-    "correctAnswer": "Monsoon Session"
+    "question": "How does rapid urbanization in states like Telangana, with cities like Hyderabad, contribute to the loneliness crisis?",
+    "options": ["By creating more community centers", "By fostering stronger family ties", "By increasing isolation and breaking traditional social networks", "By promoting joint family systems"],
+    "correctAnswer": "By increasing isolation and breaking traditional social networks"
   },
   {
     "id": 22,
-    "question": "PM Modi highlighted India's achievements in the space sector, emphasizing the role of which demographic?",
-    "options": ["Experienced scientists", "Government employees", "Young innovators", "International collaborators"],
-    "correctAnswer": "Young innovators"
-  },
-  {
-    "id": 23,
-    "question": "What global challenge did PM Modi mention India's economy is resilient against, during his address to Parliament?",
-    "options": ["Climate change impacts", "Geopolitical tensions", "Global economic challenges", "Pandemic after-effects"],
-    "correctAnswer": "Global economic challenges"
-  },
-  {
-    "id": 24,
-    "question": "The concern over 'paper leaks' and 'corruption' in national examinations like NEET has been a recurring issue, causing distress among students across states, including where?",
-    "options": ["Only Uttar Pradesh", "Only Delhi", "Telangana and Andhra Pradesh", "Primarily North-Eastern states"],
+    "question": "The feelings of 'not belonging' are particularly acute for young migrants moving to cities in search of opportunities. This phenomenon is highly relevant to metropolitan areas in which Indian states, among others?",
+    "options": ["Sikkim and Nagaland", "Himachal Pradesh and Uttarakhand", "Telangana and Andhra Pradesh", "Punjab and Haryana"],
     "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
+    "id": 23,
+    "question": "The 'silver economy' offers market-based solutions to urban loneliness, implying that these services are primarily driven by which sector?",
+    "options": ["Government", "Non-profit organizations", "Private enterprises", "Community volunteers"],
+    "correctAnswer": "Private enterprises"
+  },
+  {
+    "id": 24,
+    "question": "Changing social structures contribute to loneliness in India by:",
+    "options": ["Strengthening traditional community ties", "Encouraging larger family units", "Weakening traditional family and community bonds", "Increasing rural populations"],
+    "correctAnswer": "Weakening traditional family and community bonds"
+  },
+  {
     "id": 25,
-    "question": "The CJP president, Abhijeet Dipke, claimed that attempts have been made to destroy what in the country over the past 10-12 years?",
-    "options": ["Economy", "Education system", "Democracy", "Healthcare"],
-    "correctAnswer": "Democracy"
+    "question": "The loneliness crisis in India emphasizes the need for solutions that address not just physical well-being but also what other critical aspect of human health?",
+    "options": ["Economic stability", "Political engagement", "Mental and emotional well-being", "Environmental sustainability"],
+    "correctAnswer": "Mental and emotional well-being"
   }
 ]

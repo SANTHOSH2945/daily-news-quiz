@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary concern of southern states, including Andhra Pradesh and Telangana, regarding the proposed delimitation bill as indicated by the DMK's stance?",
-    "options": [
-      "Loss of financial grants",
-      "Reduced representation in Lok Sabha",
-      "Impact on state assembly elections",
-      "Increased administrative burden"
-    ],
-    "correctAnswer": "Reduced representation in Lok Sabha"
+    "question": "Which Indian private aerospace company, based in Hyderabad, was recently lauded by PM Modi for its young innovators?",
+    "options": ["Skyroot Aerospace", "Bellatrix Aerospace", "Agnikul Cosmos", "Dhruva Space"],
+    "correctAnswer": "Skyroot Aerospace"
   },
   {
     "id": 2,
-    "question": "Which political party recently stated it is open to rethinking its stance on the delimitation bill if southern states are not harmed?",
-    "options": [
-      "Bharatiya Janata Party (BJP)",
-      "Indian National Congress (INC)",
-      "Dravida Munnetra Kazhagam (DMK)",
-      "Trinamool Congress (TMC)"
-    ],
-    "correctAnswer": "Dravida Munnetra Kazhagam (DMK)"
+    "question": "Skyroot Aerospace, a startup highlighted by PM Modi, is primarily located in which Indian city?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 3,
-    "question": "The potential delimitation of Lok Sabha constituencies could significantly impact which aspect for states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Their share in central taxes",
-      "Their representation in the Rajya Sabha",
-      "Their number of seats in the Lok Sabha",
-      "Their ability to form state governments"
-    ],
-    "correctAnswer": "Their number of seats in the Lok Sabha"
+    "question": "What is the average age of the team members at Skyroot Aerospace, as mentioned by PM Modi?",
+    "options": ["25 years", "28 years", "30 years", "32 years"],
+    "correctAnswer": "28 years"
   },
   {
     "id": 4,
-    "question": "Why have some southern states, including Andhra Pradesh and Telangana, expressed apprehension about the impending delimitation of Lok Sabha constituencies?",
-    "options": [
-      "Fear of losing cultural identity",
-      "Concerns over economic discrimination",
-      "Potential reduction in parliamentary representation due to population control efforts",
-      "Disagreement over administrative boundaries"
-    ],
-    "correctAnswer": "Potential reduction in parliamentary representation due to population control efforts"
+    "question": "Which orbital launch vehicle from Skyroot Aerospace was specifically mentioned by PM Modi in his address to Parliament?",
+    "options": ["Vikram-S", "Dhawan-1", "Agnibaan", "Vikram-1"],
+    "correctAnswer": "Vikram-1"
   },
   {
     "id": 5,
-    "question": "What is the core issue that the delimitation of Lok Sabha seats aims to address nationally, and which causes concern for southern states like AP and Telangana?",
-    "options": [
-      "Fair distribution of central funds",
-      "Equitable representation based on population",
-      "Decentralization of power",
-      "Streamlining election processes"
-    ],
-    "correctAnswer": "Equitable representation based on population"
+    "question": "Skyroot Aerospace's achievement is seen as a significant milestone for which sector in India?",
+    "options": ["Public healthcare", "Private space sector", "Renewable energy", "Digital education"],
+    "correctAnswer": "Private space sector"
   },
   {
     "id": 6,
-    "question": "How might an increase in population in northern states, compared to slower growth in southern states like Telangana and Andhra Pradesh, affect parliamentary representation after delimitation?",
-    "options": [
-      "Southern states would gain more seats",
-      "Northern states would lose seats",
-      "Southern states might see a reduction in seat share",
-      "No change in seat distribution"
-    ],
-    "correctAnswer": "Southern states might see a reduction in seat share"
+    "question": "The Prime Minister lauded Skyroot Aerospace's success while discussing India's young innovators. This company is a key player in the space sector of which state?",
+    "options": ["Karnataka", "Tamil Nadu", "Telangana", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 7,
-    "question": "What was the DMK's previous stance on a similar delimitation bill, which was defeated by the opposition?",
-    "options": [
-      "Strongly supported it",
-      "Remained neutral",
-      "Protested and opposed it",
-      "Proposed amendments to it"
-    ],
-    "correctAnswer": "Protested and opposed it"
+    "question": "Beyond its technological advancements, Skyroot Aerospace represents the potential of India's youth in which high-tech industry?",
+    "options": ["Biotechnology", "Robotics", "Artificial Intelligence", "Aerospace engineering"],
+    "correctAnswer": "Aerospace engineering"
   },
   {
     "id": 8,
-    "question": "The delimitation exercise is generally conducted to redistribute the number of seats and redraw boundaries based on which primary factor?",
-    "options": [
-      "Geographical area",
-      "Economic development",
-      "Population",
-      "Linguistic diversity"
-    ],
-    "correctAnswer": "Population"
+    "question": "Which major city in Telangana serves as a hub for private space startups like Skyroot Aerospace?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 9,
-    "question": "If the delimitation bill proceeds without concessions for southern states, what is a likely consequence for their representation in the Lok Sabha?",
-    "options": [
-      "Increased number of constituencies",
-      "More reserved seats for SC/ST",
-      "A proportional decrease in their Lok Sabha seats",
-      "Greater influence in national politics"
-    ],
-    "correctAnswer": "A proportional decrease in their Lok Sabha seats"
+    "question": "India recently approved its first dengue vaccine. What is its name?",
+    "options": ["Dengvaxia", "QDENGA", "DenGuard", "VaxDengue"],
+    "correctAnswer": "QDENGA"
   },
   {
     "id": 10,
-    "question": "Which constitutional amendment initially froze the delimitation exercise until the first census after 2000, and later extended it to 2026?",
-    "options": [
-      "42nd Amendment",
-      "84th Amendment",
-      "91st Amendment",
-      "101st Amendment"
-    ],
-    "correctAnswer": "84th Amendment"
+    "question": "Which authority granted clearance for India's first dengue vaccine, QDENGA?",
+    "options": ["ICMR", "NITI Aayog", "DCGI", "AIIMS"],
+    "correctAnswer": "DCGI"
   },
   {
     "id": 11,
-    "question": "The government is expected to introduce proposed legislation related to delimitation in the upcoming Parliament session, which the DMK is monitoring to clarify its future actions regarding southern states. What is this legislation commonly referred to in the news?",
-    "options": [
-      "The Census Act Amendment Bill",
-      "The Financial Inclusion Bill",
-      "The Lok Sabha Strength Bill",
-      "The State Reorganization Bill"
-    ],
-    "correctAnswer": "The Lok Sabha Strength Bill"
+    "question": "India accounts for approximately what share of the global dengue burden?",
+    "options": ["One-tenth", "One-fifth", "One-third", "One-half"],
+    "correctAnswer": "One-third"
   },
   {
     "id": 12,
-    "question": "The DMK, representing a significant bloc of MPs from a southern state, is watching the proposed delimitation bill to ensure no harm to states like Telangana and Andhra Pradesh in terms of what?",
-    "options": [
-      "Industrial development",
-      "Cultural preservation",
-      "Parliamentary representation",
-      "Tourist arrivals"
-    ],
-    "correctAnswer": "Parliamentary representation"
+    "question": "The approval of QDENGA is significant for states like Telangana and Andhra Pradesh due to the prevalence of which disease?",
+    "options": ["Malaria", "Chikungunya", "Dengue", "Typhoid"],
+    "correctAnswer": "Dengue"
   },
   {
     "id": 13,
-    "question": "Which agency recently warned of strict action against individuals submitting fake or AI-generated OMR sheets for NEET-UG result grievances?",
-    "options": [
-      "Central Bureau of Investigation (CBI)",
-      "National Testing Agency (NTA)",
-      "University Grants Commission (UGC)",
-      "Medical Council of India (MCI)"
-    ],
-    "correctAnswer": "National Testing Agency (NTA)"
+    "question": "How is the QDENGA vaccine administered, as per the company's description?",
+    "options": ["Orally", "Intravenously", "Under the skin (subcutaneously)", "Intramuscularly"],
+    "correctAnswer": "Under the skin (subcutaneously)"
   },
   {
     "id": 14,
-    "question": "What specific type of fraudulent document was identified by the National Testing Agency (NTA) in challenges against NEET-UG results, some of which were AI-generated?",
-    "options": [
-      "Admission forms",
-      "Migration certificates",
-      "OMR sheets",
-      "Identity proofs"
-    ],
-    "correctAnswer": "OMR sheets"
+    "question": "What factors are cited for the increasing risk of dengue infection across India, including Telangana and Andhra Pradesh?",
+    "options": ["Deforestation and desertification", "Rapid urbanisation and climate change", "Industrial pollution and water scarcity", "Overpopulation and lack of sanitation"],
+    "correctAnswer": "Rapid urbanisation and climate change"
   },
   {
     "id": 15,
-    "question": "What is the primary consequence for NEET-UG candidates found submitting digitally altered or fabricated documents, as warned by the NTA?",
-    "options": [
-      "A monetary fine",
-      "Temporary suspension from exams",
-      "Cancellation of results and debarment",
-      "Mandatory community service"
-    ],
-    "correctAnswer": "Cancellation of results and debarment"
+    "question": "The new dengue vaccine requires how many injections?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Two"
   },
   {
     "id": 16,
-    "question": "The recent controversy surrounding fake OMR sheets primarily pertains to the results of which national entrance examination?",
-    "options": [
-      "JEE Main",
-      "UPSC Civil Services Exam",
-      "NEET-UG",
-      "CLAT"
-    ],
-    "correctAnswer": "NEET-UG"
+    "question": "The recent protests at Jantar Mantar, joined by leaders like Dimple Yadav, were primarily against alleged irregularities in which national examination?",
+    "options": ["UPSC Civil Services Exam", "JEE Main", "NEET", "GATE"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 17,
-    "question": "The National Testing Agency (NTA) stated that fabrications, including AI-generated content, were aimed at making what, in the context of NEET-UG results?",
-    "options": [
-      "Creating confusion",
-      "Generating bad performance claims",
-      "Influencing policy changes",
-      "Testing AI capabilities"
-    ],
-    "correctAnswer": "Generating bad performance claims"
+    "question": "The 'Sansad Chalo' protest at Jantar Mantar was organized by which organization, along with student groups?",
+    "options": ["NSUI", "ABVP", "CJP", "AISA"],
+    "correctAnswer": "CJP"
   },
   {
     "id": 18,
-    "question": "Why is the issue of fake OMR sheets in NEET-UG particularly relevant to students from Andhra Pradesh and Telangana?",
-    "options": [
-      "NEET-UG is exclusively for these states",
-      "The NTA headquarters is located there",
-      "Students from these states also appear for this national examination",
-      "Only medical colleges in these states accept NEET scores"
-    ],
-    "correctAnswer": "Students from these states also appear for this national examination"
+    "question": "What was the main concern raised by protesters regarding the NEET examination?",
+    "options": ["High examination fees", "Difficult syllabus", "Alleged paper leaks and corruption", "Lack of exam centers"],
+    "correctAnswer": "Alleged paper leaks and corruption"
   },
   {
     "id": 19,
-    "question": "What corrective measures has the NTA pledged to take if genuine discrepancies are found during the scrutiny of NEET-UG complaints?",
-    "options": [
-      "Issue a public apology",
-      "Retake the entire exam",
-      "Take corrective measures",
-      "Ignore the complaints"
-    ],
-    "correctAnswer": "Take corrective measures"
+    "question": "Students from states across India, including Telangana and Andhra Pradesh, are affected by the issues surrounding which medical entrance examination?",
+    "options": ["AIIMS Entrance Exam", "JIPMER Entrance Exam", "NEET", "PGIMER Entrance Exam"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 20,
-    "question": "Which national body is responsible for conducting the NEET-UG examination, which has been in the news for result grievances?",
-    "options": [
-      "Central Board of Secondary Education (CBSE)",
-      "National Medical Commission (NMC)",
-      "National Testing Agency (NTA)",
-      "All India Council for Technical Education (AICTE)"
-    ],
-    "correctAnswer": "National Testing Agency (NTA)"
+    "question": "The protests highlighted the mental stress faced by which demographic due to alleged irregularities in examinations?",
+    "options": ["Farmers", "Senior citizens", "Country's youth and students", "Business owners"],
+    "correctAnswer": "Country's youth and students"
   },
   {
     "id": 21,
-    "question": "The use of AI-generated OMR sheets represents what kind of challenge to the integrity of national examinations like NEET-UG?",
-    "options": [
-      "A technological advancement",
-      "A new form of administrative efficiency",
-      "A severe breach of examination security and fairness",
-      "A minor procedural error"
-    ],
-    "correctAnswer": "A severe breach of examination security and fairness"
+    "question": "During which session of Parliament did PM Modi appeal for productive discussions and highlight India's economic resilience?",
+    "options": ["Budget Session", "Winter Session", "Monsoon Session", "Special Session"],
+    "correctAnswer": "Monsoon Session"
   },
   {
     "id": 22,
-    "question": "A proposed bill in the Indian Parliament plans to introduce a jail term for disturbing the rendition of which national song?",
-    "options": [
-      "Jana Gana Mana",
-      "Sare Jahan Se Achha",
-      "Vande Mataram",
-      "Ae Mere Watan Ke Logo"
-    ],
-    "correctAnswer": "Vande Mataram"
+    "question": "PM Modi highlighted India's achievements in the space sector, emphasizing the role of which demographic?",
+    "options": ["Experienced scientists", "Government employees", "Young innovators", "International collaborators"],
+    "correctAnswer": "Young innovators"
   },
   {
     "id": 23,
-    "question": "What is the proposed maximum imprisonment for individuals found guilty of disturbing the rendition of 'Vande Mataram' under a new bill?",
-    "options": [
-      "One year",
-      "Two years",
-      "Three years",
-      "Five years"
-    ],
-    "correctAnswer": "Three years"
+    "question": "What global challenge did PM Modi mention India's economy is resilient against, during his address to Parliament?",
+    "options": ["Climate change impacts", "Geopolitical tensions", "Global economic challenges", "Pandemic after-effects"],
+    "correctAnswer": "Global economic challenges"
   },
   {
     "id": 24,
-    "question": "The new bill regarding 'Vande Mataram' aims to amend existing laws concerning what national concept?",
-    "options": [
-      "Public order and safety",
-      "National honor",
-      "Freedom of speech",
-      "Cultural heritage protection"
-    ],
-    "correctAnswer": "National honor"
+    "question": "The concern over 'paper leaks' and 'corruption' in national examinations like NEET has been a recurring issue, causing distress among students across states, including where?",
+    "options": ["Only Uttar Pradesh", "Only Delhi", "Telangana and Andhra Pradesh", "Primarily North-Eastern states"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 25,
-    "question": "The Indian government cites what reason for proposing the amendment related to the rendition of 'Vande Mataram'?",
-    "options": [
-      "To promote patriotism among youth",
-      "To ensure public decorum",
-      "Its historical significance",
-      "To align with international practices"
-    ],
-    "correctAnswer": "Its historical significance"
+    "question": "The CJP president, Abhijeet Dipke, claimed that attempts have been made to destroy what in the country over the past 10-12 years?",
+    "options": ["Economy", "Education system", "Democracy", "Healthcare"],
+    "correctAnswer": "Democracy"
   }
 ]

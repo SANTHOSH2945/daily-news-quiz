@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is the name of the new Personal Protective Equipment (PPE) launched by DS Group specifically for women farmers in India, relevant to agricultural states like Telangana and Andhra Pradesh?",
-    "options": ["Kisan Kavach PPE", "Pallu Protection PPE", "Harvest Guard PPE", "Crop Shield PPE"],
-    "correctAnswer": "Pallu Protection PPE"
+    "question": "What was a primary reason for the opposition protests that led to the washout of Day 1 of Parliament's monsoon session?",
+    "options": [
+      "Disagreement over foreign policy decisions",
+      "Concerns over temple donations and exam leaks",
+      "Demands for immediate state elections",
+      "Protests against new agricultural laws"
+    ],
+    "correctAnswer": "Concerns over temple donations and exam leaks"
   },
   {
     "id": 2,
-    "question": "The primary purpose of the Pallu Protection PPE, launched by DS Group, is to shield women farmers from what specific hazard during agricultural activities in regions like Telangana and Andhra Pradesh?",
-    "options": ["Harsh sunlight", "Heavy rain", "Pesticide exposure", "Dust particles"],
-    "correctAnswer": "Pesticide exposure"
+    "question": "Which national entrance examination was a significant point of concern during the Parliament's monsoon session protests, affecting students across India including Telangana and Andhra Pradesh?",
+    "options": [
+      "JEE Advanced",
+      "UPSC Civil Services Exam",
+      "NEET",
+      "GATE"
+    ],
+    "correctAnswer": "NEET"
   },
   {
     "id": 3,
-    "question": "Which specific demographic group in the Indian agricultural sector is the Pallu Protection PPE designed to protect?",
-    "options": ["Male farm laborers", "Young farmers", "Women farmers", "Agricultural researchers"],
-    "correctAnswer": "Women farmers"
+    "question": "Besides exam leaks, what other general issue was mentioned as a cause for protest by opposition parties during the Parliament's monsoon session, relevant to religious institutions in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Industrial policy changes",
+      "Temple donations ('donation chori')",
+      "Forest conservation policies",
+      "Changes in banking regulations"
+    ],
+    "correctAnswer": "Temple donations ('donation chori')"
   },
   {
     "id": 4,
-    "question": "Which company is responsible for launching the innovative Pallu Protection PPE for women farmers in India?",
-    "options": ["Reliance Industries", "Tata Group", "DS Group", "Mahindra & Mahindra"],
-    "correctAnswer": "DS Group"
+    "question": "The first day of Parliament's monsoon session was marked by frequent adjournments due to what primary reason?",
+    "options": [
+      "Lack of quorum among members",
+      "Technical glitches in the sound system",
+      "Opposition protests over various issues",
+      "Scheduled maintenance work"
+    ],
+    "correctAnswer": "Opposition protests over various issues"
   },
   {
     "id": 5,
-    "question": "The introduction of Pallu Protection PPE addresses a critical concern related to occupational health and safety for women engaged in what type of work across India, including Telangana and Andhra Pradesh?",
-    "options": ["Factory work", "Construction", "Agricultural work", "Mining"],
-    "correctAnswer": "Agricultural work"
+    "question": "The opposition parties during the monsoon session raised concerns over which two main categories of issues that resonate with citizens across India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Defense spending and foreign trade agreements",
+      "Environmental regulations and infrastructure projects",
+      "Temple donations and exam leaks",
+      "Space exploration and digital currency"
+    ],
+    "correctAnswer": "Temple donations and exam leaks"
   },
   {
     "id": 6,
-    "question": "In the context of the Pallu Protection PPE, what does 'PPE' stand for?",
-    "options": ["Personal Productive Equipment", "Public Protection Efforts", "Personal Protective Equipment", "Primary Prevention Education"],
-    "correctAnswer": "Personal Protective Equipment"
+    "question": "Regarding the Apaar IDs for students, what stance did the Supreme Court take that applies to all Indian states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "It mandated universal creation of Apaar IDs",
+      "It allowed states to decide on Apaar ID creation",
+      "It stated parents cannot be forced to create Apaar IDs",
+      "It recommended incentives for creating Apaar IDs"
+    ],
+    "correctAnswer": "It stated parents cannot be forced to create Apaar IDs"
   },
   {
     "id": 7,
-    "question": "The design of the Pallu Protection PPE is inspired by a traditional Indian garment feature. What is this feature?",
-    "options": ["Dhoti", "Turban", "Dupatta", "Pallu (part of a saree)"],
-    "correctAnswer": "Pallu (part of a saree)"
+    "question": "What specific provision did the Supreme Court instruct to be included in consent forms for Apaar IDs, ensuring parental choice in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "A mandatory declaration of income",
+      "An 'opt out' option",
+      "A requirement for biometric data",
+      "A section for educational preferences"
+    ],
+    "correctAnswer": "An 'opt out' option"
   },
   {
     "id": 8,
-    "question": "Protecting farmers, especially women, from pesticide exposure contributes to improving which aspect of their lives in agricultural states like Telangana and Andhra Pradesh?",
-    "options": ["Financial literacy", "Digital inclusion", "Health and well-being", "Access to markets"],
-    "correctAnswer": "Health and well-being"
+    "question": "The Supreme Court's decision on Apaar IDs, making it optional, impacts students and parents across which region?",
+    "options": [
+      "Only Union Territories",
+      "Only Northern Indian states",
+      "All of India, including Telangana and Andhra Pradesh",
+      "Only private school students"
+    ],
+    "correctAnswer": "All of India, including Telangana and Andhra Pradesh"
   },
   {
     "id": 9,
-    "question": "This initiative by DS Group reflects a growing awareness in India about the need for specialized safety gear for which segment of the workforce?",
-    "options": ["IT professionals", "Healthcare workers", "Manual laborers", "Agricultural workers"],
-    "correctAnswer": "Agricultural workers"
+    "question": "To speed up trials for specific cases, what did the Supreme Court seek regarding UAPA and NDPS cases, impacting the judicial system in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "To abolish these laws entirely",
+      "To reduce the number of judges",
+      "To establish more exclusive UAPA and NDPS courts",
+      "To transfer all such cases to High Courts"
+    ],
+    "correctAnswer": "To establish more exclusive UAPA and NDPS courts"
   },
   {
     "id": 10,
-    "question": "The Pallu Protection PPE aims to mitigate risks associated with the application of what common agricultural input?",
-    "options": ["Fertilizers", "Seeds", "Pesticides", "Water"],
-    "correctAnswer": "Pesticides"
+    "question": "The Supreme Court's call for more exclusive courts for UAPA and NDPS trials is aimed at improving which aspect of the justice system across India, including for citizens in Telangana and Andhra Pradesh?",
+    "options": [
+      "Accessibility to legal aid",
+      "Speed and efficiency of trials",
+      "Transparency of court proceedings",
+      "Reducing the number of appeals"
+    ],
+    "correctAnswer": "Speed and efficiency of trials"
   },
   {
     "id": 11,
-    "question": "For states like Andhra Pradesh and Telangana, where agriculture is a major occupation, the Pallu Protection PPE could significantly reduce the incidence of which type of health issues?",
-    "options": ["Cardiac diseases", "Respiratory and skin ailments from chemical exposure", "Diabetes", "Mental health disorders"],
-    "correctAnswer": "Respiratory and skin ailments from chemical exposure"
+    "question": "A bill to increase the number of Supreme Court judges was introduced in which house of Parliament during the monsoon session, a decision that affects the national judiciary's capacity?",
+    "options": [
+      "Rajya Sabha",
+      "Lok Sabha",
+      "State Assemblies",
+      "President's Secretariat"
+    ],
+    "correctAnswer": "Lok Sabha"
   },
   {
     "id": 12,
-    "question": "The DS Group's focus on women farmers with this PPE indicates a strategic move towards promoting what in the agricultural sector?",
-    "options": ["Gender equality and safety", "Mechanized farming", "Organic farming", "Crop diversification"],
-    "correctAnswer": "Gender equality and safety"
+    "question": "What was one of the significant legislative actions taken on Day 1 of Parliament's monsoon session, despite disruptions, impacting the Indian judicial system as a whole?",
+    "options": [
+      "Passing a new budget allocation",
+      "Introducing a bill to increase Supreme Court judges",
+      "Ratifying an international treaty",
+      "Approving a new electoral reform"
+    ],
+    "correctAnswer": "Introducing a bill to increase Supreme Court judges"
   },
   {
     "id": 13,
-    "question": "What is the broader impact expected from the widespread adoption of Pallu Protection PPE in Indian agriculture?",
-    "options": ["Increased crop yields", "Reduced labor costs", "Improved farmer health and reduced medical expenses", "Enhanced soil fertility"],
-    "correctAnswer": "Improved farmer health and reduced medical expenses"
+    "question": "The Parliament's monsoon session proceedings were cancelled on Day 1 due to what general reason, reflecting challenges in national governance that impact all states?",
+    "options": [
+      "Scheduled national holiday",
+      "Insufficient attendance by MPs",
+      "Disruption caused by opposition protests",
+      "Unexpected technical system failure"
+    ],
+    "correctAnswer": "Disruption caused by opposition protests"
   },
   {
     "id": 14,
-    "question": "Which social challenge is identified as rapidly increasing in India, significantly impacting urban centers including those in Telangana and Andhra Pradesh?",
-    "options": ["Poverty", "Illiteracy", "Loneliness", "Unemployment"],
-    "correctAnswer": "Loneliness"
+    "question": "Which political leader criticized the Centre, stating the Modi government had become 'extremely arrogant' over police action against protesters, a sentiment often echoed in democratic discussions in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Rahul Gandhi",
+      "Mamata Banerjee",
+      "Arvind Kejriwal",
+      "Sharad Pawar"
+    ],
+    "correctAnswer": "Arvind Kejriwal"
   },
   {
     "id": 15,
-    "question": "According to the news, which two key factors contribute to the growing isolation and loneliness in India's urban areas?",
-    "options": ["Climate change and deforestation", "Urbanization and changing social structures", "Economic recession and inflation", "Political instability and corruption"],
-    "correctAnswer": "Urbanization and changing social structures"
+    "question": "Which political leader warned police, stating 'power does not last forever' after tear gas and lathicharge on student protesters, a message about accountability relevant across India?",
+    "options": [
+      "Arvind Kejriwal",
+      "Rahul Gandhi",
+      "Priyanka Gandhi Vadra",
+      "Akhilesh Yadav"
+    ],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 16,
-    "question": "Which demographic groups are specifically mentioned as experiencing profound feelings of not belonging due to this growing crisis in India?",
-    "options": ["Rural youth and urban professionals", "Young migrants and older adults", "Students and teachers", "Business owners and entrepreneurs"],
-    "correctAnswer": "Young migrants and older adults"
+    "question": "What was the police's claim regarding the identity of some detained protesters during the 'CJP march,' a detail that can spark debate about protest legitimacy in any state?",
+    "options": [
+      "They were foreign nationals",
+      "They were not students",
+      "They were government employees",
+      "They were minor children"
+    ],
+    "correctAnswer": "They were not students"
   },
   {
     "id": 17,
-    "question": "An emerging market-based solution for connection and care, addressing urban loneliness in India, is referred to as what?",
-    "options": ["Green economy", "Gig economy", "Silver economy", "Digital economy"],
-    "correctAnswer": "Silver economy"
+    "question": "The lathi-charge against protesters, mentioned by Arvind Kejriwal and Rahul Gandhi, was primarily associated with demonstrations concerning what national issue that directly affects students in Telangana and Andhra Pradesh?",
+    "options": [
+      "Rising fuel prices",
+      "NEET exam leaks",
+      "Privatization of public sector units",
+      "Changes in defense policy"
+    ],
+    "correctAnswer": "NEET exam leaks"
   },
   {
     "id": 18,
-    "question": "The news highlights that addressing loneliness in India should be considered a response to what kind of fundamental human need?",
-    "options": ["Economic prosperity", "Social recognition", "Human connection", "Political participation"],
-    "correctAnswer": "Human connection"
+    "question": "For students in Telangana and Andhra Pradesh, the Supreme Court's ruling on Apaar IDs means what in practical terms?",
+    "options": [
+      "Mandatory ID creation for all school admissions",
+      "Parents have an 'opt-out' choice for their children's Apaar IDs",
+      "Apaar IDs are required for all government scholarships",
+      "Schools can independently enforce Apaar ID creation"
+    ],
+    "correctAnswer": "Parents have an 'opt-out' choice for their children's Apaar IDs"
   },
   {
     "id": 19,
-    "question": "What trend in India's population is linked to the growing loneliness crisis?",
-    "options": ["Rapidly decreasing", "Stagnant", "Aging rapidly", "Experiencing a baby boom"],
-    "correctAnswer": "Aging rapidly"
+    "question": "The ongoing national protests regarding NEET exam leaks are particularly concerning for aspiring medical students in which parts of India?",
+    "options": [
+      "Only metropolitan cities",
+      "Only rural areas",
+      "All states of India, including Telangana and Andhra Pradesh",
+      "Only states with a high population density"
+    ],
+    "correctAnswer": "All states of India, including Telangana and Andhra Pradesh"
   },
   {
     "id": 20,
-    "question": "The 'silver economy' in India is primarily focused on providing services and products for which segment of the population?",
-    "options": ["Children", "Adolescents", "Working professionals", "Older adults"],
-    "correctAnswer": "Older adults"
+    "question": "The impact of the Supreme Court's call for more exclusive UAPA and NDPS courts on the justice system in states like Telangana and Andhra Pradesh would primarily be related to what?",
+    "options": [
+      "Increased judicial vacancies",
+      "Slower trial processes",
+      "Improved efficiency and quicker resolution of specific cases",
+      "Reduced access to legal representation"
+    ],
+    "correctAnswer": "Improved efficiency and quicker resolution of specific cases"
   },
   {
     "id": 21,
-    "question": "How does rapid urbanization in states like Telangana, with cities like Hyderabad, contribute to the loneliness crisis?",
-    "options": ["By creating more community centers", "By fostering stronger family ties", "By increasing isolation and breaking traditional social networks", "By promoting joint family systems"],
-    "correctAnswer": "By increasing isolation and breaking traditional social networks"
+    "question": "The disruption of Parliament's monsoon session means that issues impacting citizens, including those in Telangana and Andhra Pradesh, faced what consequence?",
+    "options": [
+      "Immediate resolution of all problems",
+      "Prolonged debate and discussion",
+      "Delays in legislative action and addressing national concerns",
+      "New policies were swiftly implemented"
+    ],
+    "correctAnswer": "Delays in legislative action and addressing national concerns"
   },
   {
     "id": 22,
-    "question": "The feelings of 'not belonging' are particularly acute for young migrants moving to cities in search of opportunities. This phenomenon is highly relevant to metropolitan areas in which Indian states, among others?",
-    "options": ["Sikkim and Nagaland", "Himachal Pradesh and Uttarakhand", "Telangana and Andhra Pradesh", "Punjab and Haryana"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "The introduction of a bill to increase Supreme Court judges is a development that could affect the judiciary's capacity and workload across which region?",
+    "options": [
+      "Only the capital city of Delhi",
+      "Only High Courts of major states",
+      "The entire national judicial system, impacting all states including Telangana and Andhra Pradesh",
+      "Only specific District Courts"
+    ],
+    "correctAnswer": "The entire national judicial system, impacting all states including Telangana and Andhra Pradesh"
   },
   {
     "id": 23,
-    "question": "The 'silver economy' offers market-based solutions to urban loneliness, implying that these services are primarily driven by which sector?",
-    "options": ["Government", "Non-profit organizations", "Private enterprises", "Community volunteers"],
-    "correctAnswer": "Private enterprises"
+    "question": "The 'donation chori' protests mentioned in Parliament signify concerns about accountability in which types of institutions, relevant to states like Telangana and Andhra Pradesh with significant religious endowments?",
+    "options": [
+      "Public sector banks",
+      "Educational institutions",
+      "Religious/temple institutions",
+      "Healthcare facilities"
+    ],
+    "correctAnswer": "Religious/temple institutions"
   },
   {
     "id": 24,
-    "question": "Changing social structures contribute to loneliness in India by:",
-    "options": ["Strengthening traditional community ties", "Encouraging larger family units", "Weakening traditional family and community bonds", "Increasing rural populations"],
-    "correctAnswer": "Weakening traditional family and community bonds"
+    "question": "What was the broader sentiment expressed by opposition leaders like Arvind Kejriwal and Rahul Gandhi regarding the government's handling of protests, relevant to democratic participation and rights in states like AP/Telangana?",
+    "options": [
+      "Appreciation for quick resolution",
+      "Endorsement of police action",
+      "Criticism of using force and perceived government arrogance",
+      "Call for more stringent protest regulations"
+    ],
+    "correctAnswer": "Criticism of using force and perceived government arrogance"
   },
   {
     "id": 25,
-    "question": "The loneliness crisis in India emphasizes the need for solutions that address not just physical well-being but also what other critical aspect of human health?",
-    "options": ["Economic stability", "Political engagement", "Mental and emotional well-being", "Environmental sustainability"],
-    "correctAnswer": "Mental and emotional well-being"
+    "question": "The monsoon session of Parliament, though disrupted, is crucial for legislative business impacting governance and policy across which regions of India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Only specific border regions",
+      "Only Union Territories",
+      "All states and Union Territories of India",
+      "Only states with ruling opposition parties"
+    ],
+    "correctAnswer": "All states and Union Territories of India"
   }
 ]

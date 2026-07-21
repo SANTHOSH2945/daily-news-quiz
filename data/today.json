@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national examination, widely affecting students including those from Telangana and Andhra Pradesh, has been at the center of recent controversies and protests across India?",
-    "options": ["JEE Advanced", "NEET", "UPSC Civil Services Exam", "CAT"],
-    "correctAnswer": "NEET"
+    "question": "Which political leader recently addressed students and the Prime Minister concerning the NEET paper leak, demanding a discussion in Lok Sabha?",
+    "options": ["Sonia Gandhi", "Rahul Gandhi", "Priyanka Gandhi Vadra", "Mallikarjun Kharge"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 2,
-    "question": "What primary issue led to protests by Congress leaders, including Rahul Gandhi, in New Delhi, an issue also resonating with students in states like Telangana?",
-    "options": ["Rising Fuel Prices", "Unemployment Rates", "NEET Exam Irregularities", "Farm Laws"],
-    "correctAnswer": "NEET Exam Irregularities"
+    "question": "Which political party staged a protest outside the Prime Minister's residence over the NEET paper leak issue?",
+    "options": ["Bharatiya Janata Party", "Aam Aadmi Party", "Indian National Congress", "Samajwadi Party"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 3,
-    "question": "The Supreme Court recently addressed pleas related to the NEET examination concerning which critical aspect?",
-    "options": ["Examination fees structure", "Cancellation and re-examination demands", "Change in syllabus", "Establishment of new test centers"],
-    "correctAnswer": "Cancellation and re-examination demands"
+    "question": "According to Rahul Gandhi, what was a key demand regarding the Indian education system in the context of the NEET controversy?",
+    "options": ["Implementation of new education policy", "Proper discussion in Lok Sabha", "Immediate closure of coaching centers", "Increase in exam fees"],
+    "correctAnswer": "Proper discussion in Lok Sabha"
   },
   {
     "id": 4,
-    "question": "How have the alleged irregularities in the NEET examination broadly impacted students and parents in various Indian states, including Andhra Pradesh?",
-    "options": ["Increased optimism about future exams", "Widespread confusion and distress", "Demand for more private coaching centers", "No significant impact observed"],
-    "correctAnswer": "Widespread confusion and distress"
+    "question": "What did Rahul Gandhi question about the Indian education system concerning the NEET issue, as mentioned in the news?",
+    "options": ["Lack of digital infrastructure", "Collapsing education system and rising exam costs", "Insufficient teaching staff", "Overemphasis on vocational training"],
+    "correctAnswer": "Collapsing education system and rising exam costs"
   },
   {
     "id": 5,
-    "question": "Which body is primarily responsible for conducting the National Eligibility cum Entrance Test (NEET) in India?",
-    "options": ["UPSC", "SSC", "NTA", "CBSE"],
-    "correctAnswer": "NTA"
+    "question": "Who is the Union Education Minister mentioned in the news, who slammed the Congress protest over NEET?",
+    "options": ["Raj Nath Singh", "Nitin Gadkari", "Dharmendra Pradhan", "Amit Shah"],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 6,
-    "question": "Under what specific condition did the Supreme Court recently rule that a minor can be tried as an adult in India, a ruling applicable in Telangana and Andhra Pradesh?",
-    "options": ["If they commit any felony", "If the crime qualifies as a heinous offense", "If they are above 16 years of age", "If the victim is an adult"],
-    "correctAnswer": "If the crime qualifies as a heinous offense"
+    "question": "Where did the Congress party stage their protest regarding the NEET paper leak, as per the headlines?",
+    "options": ["Jantar Mantar", "Parliament House", "India Gate", "Outside the Prime Minister's residence"],
+    "correctAnswer": "Outside the Prime Minister's residence"
   },
   {
     "id": 7,
-    "question": "The Supreme Court's decision regarding minors being tried as adults is primarily based on which key Indian legislation?",
-    "options": ["Indian Penal Code", "Code of Criminal Procedure", "Juvenile Justice (Care and Protection of Children) Act", "Protection of Children from Sexual Offences (POCSO) Act"],
-    "correctAnswer": "Juvenile Justice (Care and Protection of Children) Act"
+    "question": "What did Union Education Minister Dharmendra Pradhan accuse Rahul Gandhi and Congress of doing with the student's issues?",
+    "options": ["Ignoring their concerns", "Politically exploiting students", "Resolving their problems", "Supporting their demands"],
+    "correctAnswer": "Politically exploiting students"
   },
   {
     "id": 8,
-    "question": "What type of offense is classified as 'heinous' under the Juvenile Justice Act, allowing for a minor to potentially be tried as an adult?",
-    "options": ["Offenses punishable with less than 7 years imprisonment", "Offenses punishable with 3-7 years imprisonment", "Offenses punishable with 7 years or more imprisonment", "Offenses punishable with fine only"],
-    "correctAnswer": "Offenses punishable with 7 years or more imprisonment"
+    "question": "Which prominent Congress leaders were reportedly forcibly removed during the protest outside the PM's residence?",
+    "options": ["Mallikarjun Kharge and K.C. Venugopal", "Sonia Gandhi and P. Chidambaram", "Rahul Gandhi and Priyanka Gandhi", "Shashi Tharoor and Manish Tewari"],
+    "correctAnswer": "Rahul Gandhi and Priyanka Gandhi"
   },
   {
     "id": 9,
-    "question": "This Supreme Court ruling on juvenile justice has implications for legal proceedings across all Indian states. What is a key consideration for juvenile justice boards in states like Andhra Pradesh and Telangana when assessing such cases?",
-    "options": ["The minor's academic performance", "The minor's social media activity", "The mental and physical capacity of the minor to commit the offense", "The minor's family income"],
-    "correctAnswer": "The mental and physical capacity of the minor to commit the offense"
+    "question": "What was one of the demands made by Congress leaders during their protest regarding the NEET issue?",
+    "options": ["Investigation by CBI", "Resignation of the Prime Minister and Education Minister", "Re-conduct of all exams", "Increase in medical seats"],
+    "correctAnswer": "Resignation of the Prime Minister and Education Minister"
   },
   {
     "id": 10,
-    "question": "What is the primary objective of trying a minor as an adult for heinous offenses, according to the spirit of the Juvenile Justice Act and the Supreme Court's interpretation?",
-    "options": ["To deter all minors from committing crimes", "To provide justice for severe crimes while considering the minor's maturity", "To increase conviction rates for all juvenile crimes", "To reduce the workload of juvenile courts"],
-    "correctAnswer": "To provide justice for severe crimes while considering the minor's maturity"
+    "question": "What did Congress warn the Centre about if discussions on the NEET-UG paper leak are refused?",
+    "options": ["Nationwide bandh", "Monsoon Session will be washed out", "Mass student protests", "Legal action against NTA"],
+    "correctAnswer": "Monsoon Session will be washed out"
   },
   {
     "id": 11,
-    "question": "During the April-June quarter, what percentage of India's total electricity consumed came from thermal energy sources?",
-    "options": ["Approximately 40%", "Approximately 55%", "Approximately 70%", "Approximately 85%"],
-    "correctAnswer": "Approximately 70%"
+    "question": "Besides the NEET paper leak, what other issue did Congress demand a statement from the Home Minister on?",
+    "options": ["Economic slowdown", "Border security", "Police actions against youth protesters", "Rising unemployment"],
+    "correctAnswer": "Police actions against youth protesters"
   },
   {
     "id": 12,
-    "question": "Which type of energy source predominantly contributed to India's electricity consumption in the recent quarter, including power supply to states like Telangana and Andhra Pradesh?",
-    "options": ["Hydroelectric power", "Solar power", "Thermal power", "Nuclear power"],
-    "correctAnswer": "Thermal power"
+    "question": "Which activist, currently on a hunger strike, was visited by Union ministers JP Nadda and Jitendra Singh at Medanta Hospital?",
+    "options": ["Anna Hazare", "Medha Patkar", "Sonam Wangchuk", "Kailash Satyarthi"],
+    "correctAnswer": "Sonam Wangchuk"
   },
   {
     "id": 13,
-    "question": "The high reliance on thermal energy for electricity in India raises concerns about what environmental impact, particularly for states with growing energy demands like Andhra Pradesh?",
-    "options": ["Increased groundwater levels", "Reduced air pollution", "Higher carbon emissions and air pollution", "Decreased industrial output"],
-    "correctAnswer": "Higher carbon emissions and air pollution"
+    "question": "Which hospital was activist Sonam Wangchuk transferred to following a Delhi High Court ruling, as mentioned in the news?",
+    "options": ["AIIMS Delhi", "Safdarjung Hospital", "Medanta Hospital in Gurugram", "Apollo Hospital Chennai"],
+    "correctAnswer": "Medanta Hospital in Gurugram"
   },
   {
     "id": 14,
-    "question": "What is the primary fossil fuel typically used in thermal power plants across India that contributes to this significant share of electricity generation?",
-    "options": ["Natural Gas", "Crude Oil", "Coal", "Uranium"],
-    "correctAnswer": "Coal"
+    "question": "What was the primary reason for activist Sonam Wangchuk's hospitalization, as per the news?",
+    "options": ["Accident", "Sudden illness", "Hunger strike", "Routine check-up"],
+    "correctAnswer": "Hunger strike"
   },
   {
     "id": 15,
-    "question": "To reduce India's reliance on thermal energy, which of the following alternative energy sources are states like Telangana actively promoting and investing in?",
-    "options": ["Tidal energy and Geothermal energy", "Biomass energy and Wind energy", "Solar energy and Wind energy", "Ocean thermal energy conversion"],
-    "correctAnswer": "Solar energy and Wind energy"
+    "question": "What was the initial hospital Sonam Wangchuk was in before being transferred to Medanta?",
+    "options": ["Fortis Hospital", "Max Hospital", "Safdarjung Hospital", "Ram Manohar Lohia Hospital"],
+    "correctAnswer": "Safdarjung Hospital"
   },
   {
     "id": 16,
-    "question": "A recent test of Artificial Intelligence (AI) systems focused on evaluating their potential to perpetuate what kind of societal issues?",
-    "options": ["Economic disparities", "Technological unemployment", "Stereotypes and biases", "Privacy infringements"],
-    "correctAnswer": "Stereotypes and biases"
+    "question": "Where did protests continue to erupt over the alleged NEET paper leak, besides the PM's residence, as mentioned in the news?",
+    "options": ["Red Fort", "India Gate", "Jantar Mantar", "Parliament Street"],
+    "correctAnswer": "Jantar Mantar"
   },
   {
     "id": 17,
-    "question": "In the context of AI development in India, which capital city of a Telugu state is prominently recognized as a major technology hub with substantial AI research and development activities?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
-    "correctAnswer": "Hyderabad"
+    "question": "How long had Sonam Wangchuk been on a hunger strike when he was hospitalized, according to the report?",
+    "options": ["10th day", "15th day", "20th day", "24th day"],
+    "correctAnswer": "24th day"
   },
   {
     "id": 18,
-    "question": "The ethical development of AI in India, especially in advanced tech centers, aims to prevent the replication of societal biases, particularly those related to what factors?",
-    "options": ["Software compatibility and hardware requirements", "Demographic factors like gender, caste, and religion", "Network speed and data storage capacity", "Algorithm efficiency and processing power"],
-    "correctAnswer": "Demographic factors like gender, caste, and religion"
+    "question": "What was the context of Rahul Gandhi's statement 'Government had no interest in debate'?",
+    "options": ["Budget session discussions", "Discussion on agricultural laws", "NEET paper leak debate in Lok Sabha", "Discussions on foreign policy"],
+    "correctAnswer": "NEET paper leak debate in Lok Sabha"
   },
   {
     "id": 19,
-    "question": "What negative consequence of unchecked AI systems was highlighted by the recent test, suggesting a need for more responsible AI development in countries like India?",
-    "options": ["Decreased internet speeds", "Increased energy consumption", "Reinforcement of existing prejudices and discrimination", "Reduction in human creativity"],
-    "correctAnswer": "Reinforcement of existing prejudices and discrimination"
+    "question": "What specific action did the Congress choose over democratic debate and solutions for students, according to Education Minister Dharmendra Pradhan?",
+    "options": ["Organizing seminars", "Issuing press statements", "Staging a protest spectacle", "Forming a committee"],
+    "correctAnswer": "Staging a protest spectacle"
   },
   {
     "id": 20,
-    "question": "As India strives for technological advancements, understanding and mitigating AI bias is crucial for its fair application in diverse regions, including the twin Telugu states of Telangana and which other state?",
-    "options": ["Karnataka", "Tamil Nadu", "Odisha", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What factor did the government restore for linking toll rates on national highways?",
+    "options": ["Consumer Price Index (CPI)", "Wholesale Price Index (WPI)", "Gross Domestic Product (GDP)", "Industrial Production Index (IIP)"],
+    "correctAnswer": "Wholesale Price Index (WPI)"
   },
   {
     "id": 21,
-    "question": "The Union government has established cybercrime cells across India to combat online fraud. What is a key function of these cells relevant to protecting citizens in states like Telangana and Andhra Pradesh?",
-    "options": ["Promoting online gaming", "Facilitating e-commerce transactions", "Investigating and preventing cyber financial frauds", "Developing new social media platforms"],
-    "correctAnswer": "Investigating and preventing cyber financial frauds"
+    "question": "What was the immediate effect on toll rates on national highways after the WPI linking factor was restored?",
+    "options": ["Rose significantly", "Remained unchanged", "Rose marginally", "Decreased slightly"],
+    "correctAnswer": "Rose marginally"
   },
   {
     "id": 22,
-    "question": "A significant amount of money was reported to have been saved from cyber fraud due to central government efforts. Approximately how much was saved?",
-    "options": ["Over ₹1,000 crore", "Over ₹5,000 crore", "Over ₹11,000 crore", "Over ₹20,000 crore"],
-    "correctAnswer": "Over ₹11,000 crore"
+    "question": "What was the nature of the protest staged by Congress outside the PM's residence, which reportedly surprised even its own MPs and the government?",
+    "options": ["A pre-planned rally", "A sudden dharna", "A peaceful march", "A signature campaign"],
+    "correctAnswer": "A sudden dharna"
   },
   {
     "id": 23,
-    "question": "Which common type of cybercrime involves deceptive practices like phishing or vishing to trick individuals into revealing personal information or transferring money, a challenge faced by police in states like Andhra Pradesh?",
-    "options": ["Website defacement", "Distributed Denial of Service (DDoS)", "Ransomware attacks", "Online financial fraud (e.g., lottery scams, KYC fraud)"],
-    "correctAnswer": "Online financial fraud (e.g., lottery scams, KYC fraud)"
+    "question": "What did the government do in response to the Congress protest outside the PM's residence?",
+    "options": ["Ignored the protest", "Sent officials to persuade opposition leaders to leave", "Arrested all protesters immediately", "Called for immediate negotiations"],
+    "correctAnswer": "Sent officials to persuade opposition leaders to leave"
   },
   {
     "id": 24,
-    "question": "What central government ministry is typically responsible for spearheading national initiatives for establishing cybercrime cells and coordinating efforts to combat online fraud across India?",
-    "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Commerce and Industry"],
-    "correctAnswer": "Ministry of Home Affairs"
+    "question": "What did Rahul Gandhi assert regarding the opposition's stance on the issues faced by students?",
+    "options": ["The opposition is neutral", "The opposition advises caution", "The opposition stands with students for reforms and justice", "The opposition blames students"],
+    "correctAnswer": "The opposition stands with students for reforms and justice"
   },
   {
     "id": 25,
-    "question": "The increasing digital literacy and online services in states like Telangana necessitate robust cyber security measures. What is a primary recommendation for individuals to protect themselves from cyber fraud?",
-    "options": ["Sharing OTPs with unknown callers", "Clicking on suspicious links in emails", "Using strong, unique passwords and two-factor authentication", "Conducting all transactions through public Wi-Fi"],
-    "correctAnswer": "Using strong, unique passwords and two-factor authentication"
+    "question": "Which Union ministers met Sonam Wangchuk at Medanta Hospital, as per the news report?",
+    "options": ["Amit Shah and Nirmala Sitharaman", "S. Jaishankar and Piyush Goyal", "JP Nadda and Jitendra Singh", "Nitin Gadkari and Smriti Irani"],
+    "correctAnswer": "JP Nadda and Jitendra Singh"
   }
 ]

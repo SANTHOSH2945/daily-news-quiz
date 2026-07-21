@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which organization recently removed its spokesperson, Vijeta Dahiya, condemning 'deeply insensitive actions'?",
-    "options": ["Option A", "Option B", "Cockroach Janta Party", "Trinamool Congress"],
-    "correctAnswer": "Cockroach Janta Party"
+    "question": "Which national examination, widely affecting students including those from Telangana and Andhra Pradesh, has been at the center of recent controversies and protests across India?",
+    "options": ["JEE Advanced", "NEET", "UPSC Civil Services Exam", "CAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 2,
-    "question": "According to the news, which Indian city is set to host the premium mixed football tournament partnered by Times Prime's Aeonic and Sisters in Sweat?",
-    "options": ["New Delhi", "Mumbai", "Bengaluru", "Kolkata"],
-    "correctAnswer": "Mumbai"
+    "question": "What primary issue led to protests by Congress leaders, including Rahul Gandhi, in New Delhi, an issue also resonating with students in states like Telangana?",
+    "options": ["Rising Fuel Prices", "Unemployment Rates", "NEET Exam Irregularities", "Farm Laws"],
+    "correctAnswer": "NEET Exam Irregularities"
   },
   {
     "id": 3,
-    "question": "What is the name of Times Prime's new wellness membership that is curating the mixed-gender football tournament?",
-    "options": ["Vitality", "Zenith", "Aeonic", "Momentum"],
-    "correctAnswer": "Aeonic"
+    "question": "The Supreme Court recently addressed pleas related to the NEET examination concerning which critical aspect?",
+    "options": ["Examination fees structure", "Cancellation and re-examination demands", "Change in syllabus", "Establishment of new test centers"],
+    "correctAnswer": "Cancellation and re-examination demands"
   },
   {
     "id": 4,
-    "question": "Which police force is probing alleged chat messages related to the Cockroach Janta Party's 'Sansad Chalo' march?",
-    "options": ["Mumbai Police", "Kolkata Police", "Delhi Police", "Punjab Police"],
-    "correctAnswer": "Delhi Police"
+    "question": "How have the alleged irregularities in the NEET examination broadly impacted students and parents in various Indian states, including Andhra Pradesh?",
+    "options": ["Increased optimism about future exams", "Widespread confusion and distress", "Demand for more private coaching centers", "No significant impact observed"],
+    "correctAnswer": "Widespread confusion and distress"
   },
   {
     "id": 5,
-    "question": "What was the name of the protest march by the Cockroach Janta Party, for which Delhi Police is investigating alleged chat messages?",
-    "options": ["Kisan Kranti Yatra", "Sansad Chalo", "Awaaz Uthao", "Nyay Yatra"],
-    "correctAnswer": "Sansad Chalo"
+    "question": "Which body is primarily responsible for conducting the National Eligibility cum Entrance Test (NEET) in India?",
+    "options": ["UPSC", "SSC", "NTA", "CBSE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 6,
-    "question": "Farmers from Punjab were stopped at which border while proceeding towards Delhi for a protest?",
-    "options": ["Singhu border", "Tikri border", "Ghazipur border", "Shambhu border"],
-    "correctAnswer": "Shambhu border"
+    "question": "Under what specific condition did the Supreme Court recently rule that a minor can be tried as an adult in India, a ruling applicable in Telangana and Andhra Pradesh?",
+    "options": ["If they commit any felony", "If the crime qualifies as a heinous offense", "If they are above 16 years of age", "If the victim is an adult"],
+    "correctAnswer": "If the crime qualifies as a heinous offense"
   },
   {
     "id": 7,
-    "question": "What is a primary concern of the protesting farmers regarding the proposed India-United States trade deal?",
-    "options": ["Impact on the IT sector", "Lower domestic crop prices due to US imports", "Increase in fuel prices", "Restrictions on international travel"],
-    "correctAnswer": "Lower domestic crop prices due to US imports"
+    "question": "The Supreme Court's decision regarding minors being tried as adults is primarily based on which key Indian legislation?",
+    "options": ["Indian Penal Code", "Code of Criminal Procedure", "Juvenile Justice (Care and Protection of Children) Act", "Protection of Children from Sexual Offences (POCSO) Act"],
+    "correctAnswer": "Juvenile Justice (Care and Protection of Children) Act"
   },
   {
     "id": 8,
-    "question": "What specific demand are the protesting farmers making concerning their agricultural produce?",
-    "options": ["Waiver of all agricultural loans", "Legal guarantee on Minimum Support Price (MSP)", "Free electricity for irrigation", "Increase in export subsidies"],
-    "correctAnswer": "Legal guarantee on Minimum Support Price (MSP)"
+    "question": "What type of offense is classified as 'heinous' under the Juvenile Justice Act, allowing for a minor to potentially be tried as an adult?",
+    "options": ["Offenses punishable with less than 7 years imprisonment", "Offenses punishable with 3-7 years imprisonment", "Offenses punishable with 7 years or more imprisonment", "Offenses punishable with fine only"],
+    "correctAnswer": "Offenses punishable with 7 years or more imprisonment"
   },
   {
     "id": 9,
-    "question": "Which prominent Congress leader, along with Priyanka Gandhi, led a protest outside the Prime Minister's residence demanding resignations?",
-    "options": ["Mallikarjun Kharge", "P. Chidambaram", "Rahul Gandhi", "Adhir Ranjan Chowdhury"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "This Supreme Court ruling on juvenile justice has implications for legal proceedings across all Indian states. What is a key consideration for juvenile justice boards in states like Andhra Pradesh and Telangana when assessing such cases?",
+    "options": ["The minor's academic performance", "The minor's social media activity", "The mental and physical capacity of the minor to commit the offense", "The minor's family income"],
+    "correctAnswer": "The mental and physical capacity of the minor to commit the offense"
   },
   {
     "id": 10,
-    "question": "What was one of the key reasons for the Congress protest outside the Prime Minister's residence?",
-    "options": ["Fuel price hike", "Alleged brutalities against students and examination irregularities", "Demand for new economic policy", "Criticism of foreign policy decisions"],
-    "correctAnswer": "Alleged brutalities against students and examination irregularities"
+    "question": "What is the primary objective of trying a minor as an adult for heinous offenses, according to the spirit of the Juvenile Justice Act and the Supreme Court's interpretation?",
+    "options": ["To deter all minors from committing crimes", "To provide justice for severe crimes while considering the minor's maturity", "To increase conviction rates for all juvenile crimes", "To reduce the workload of juvenile courts"],
+    "correctAnswer": "To provide justice for severe crimes while considering the minor's maturity"
   },
   {
     "id": 11,
-    "question": "How many Indians were reported killed in a Ukraine ship strike, leading to communication between Kremlin and New Delhi?",
-    "options": ["2", "3", "4", "5"],
-    "correctAnswer": "4"
+    "question": "During the April-June quarter, what percentage of India's total electricity consumed came from thermal energy sources?",
+    "options": ["Approximately 40%", "Approximately 55%", "Approximately 70%", "Approximately 85%"],
+    "correctAnswer": "Approximately 70%"
   },
   {
     "id": 12,
-    "question": "Following the death of Indian nationals in a Ukraine ship strike, which country's government stated it was 'in touch' with New Delhi?",
-    "options": ["United States", "Ukraine", "Russia", "Germany"],
-    "correctAnswer": "Russia"
+    "question": "Which type of energy source predominantly contributed to India's electricity consumption in the recent quarter, including power supply to states like Telangana and Andhra Pradesh?",
+    "options": ["Hydroelectric power", "Solar power", "Thermal power", "Nuclear power"],
+    "correctAnswer": "Thermal power"
   },
   {
     "id": 13,
-    "question": "Who criticized Prime Minister Narendra Modi for allegedly leaving Parliament during a protest by the CJP?",
-    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Mamata Banerjee", "Arvind Kejriwal"],
-    "correctAnswer": "Mamata Banerjee"
+    "question": "The high reliance on thermal energy for electricity in India raises concerns about what environmental impact, particularly for states with growing energy demands like Andhra Pradesh?",
+    "options": ["Increased groundwater levels", "Reduced air pollution", "Higher carbon emissions and air pollution", "Decreased industrial output"],
+    "correctAnswer": "Higher carbon emissions and air pollution"
   },
   {
     "id": 14,
-    "question": "One of the key demands of the Cockroach Janta Party during their Parliament march was the resignation of which Union Minister?",
-    "options": ["Finance Minister", "Home Minister", "External Affairs Minister", "Education Minister"],
-    "correctAnswer": "Education Minister"
+    "question": "What is the primary fossil fuel typically used in thermal power plants across India that contributes to this significant share of electricity generation?",
+    "options": ["Natural Gas", "Crude Oil", "Coal", "Uranium"],
+    "correctAnswer": "Coal"
   },
   {
     "id": 15,
-    "question": "In which city was the Trinamool Congress's Martyrs' Day rally held, where Mamata Banerjee declared no readmission for defectors?",
-    "options": ["Mumbai", "Chennai", "Kolkata", "Patna"],
-    "correctAnswer": "Kolkata"
+    "question": "To reduce India's reliance on thermal energy, which of the following alternative energy sources are states like Telangana actively promoting and investing in?",
+    "options": ["Tidal energy and Geothermal energy", "Biomass energy and Wind energy", "Solar energy and Wind energy", "Ocean thermal energy conversion"],
+    "correctAnswer": "Solar energy and Wind energy"
   },
   {
     "id": 16,
-    "question": "What was Mamata Banerjee's stance on Trinamool Congress (TMC) defectors during the Martyrs' Day rally?",
-    "options": ["They are welcome to return", "They will be readmitted after a review", "They will not be readmitted", "They need to apologize first"],
-    "correctAnswer": "They will not be readmitted"
+    "question": "A recent test of Artificial Intelligence (AI) systems focused on evaluating their potential to perpetuate what kind of societal issues?",
+    "options": ["Economic disparities", "Technological unemployment", "Stereotypes and biases", "Privacy infringements"],
+    "correctAnswer": "Stereotypes and biases"
   },
   {
     "id": 17,
-    "question": "To whom did resident doctors from Safdarjung and AIIMS hospitals write regarding patient rights and Sonam Wangchuk's hospital stay?",
-    "options": ["Prime Minister", "Chief Justice of India", "President of India", "Health Minister"],
-    "correctAnswer": "President of India"
+    "question": "In the context of AI development in India, which capital city of a Telugu state is prominently recognized as a major technology hub with substantial AI research and development activities?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 18,
-    "question": "What specific concern did doctors raise regarding Sonam Wangchuk's hospital stay and security arrangements?",
-    "options": ["Lack of proper medical treatment", "Denial of Leave Against Medical Advice", "Unavailability of specialized doctors", "High cost of treatment"],
-    "correctAnswer": "Denial of Leave Against Medical Advice"
+    "question": "The ethical development of AI in India, especially in advanced tech centers, aims to prevent the replication of societal biases, particularly those related to what factors?",
+    "options": ["Software compatibility and hardware requirements", "Demographic factors like gender, caste, and religion", "Network speed and data storage capacity", "Algorithm efficiency and processing power"],
+    "correctAnswer": "Demographic factors like gender, caste, and religion"
   },
   {
     "id": 19,
-    "question": "Delhi Police is investigating alleged chat messages in connection with which specific event?",
-    "options": ["Farmers' protest at Shambhu border", "Congress protest outside PM residence", "CJP's 'Sansad Chalo' march", "Doctors' protest at Jantar Mantar"],
-    "correctAnswer": "CJP's 'Sansad Chalo' march"
+    "question": "What negative consequence of unchecked AI systems was highlighted by the recent test, suggesting a need for more responsible AI development in countries like India?",
+    "options": ["Decreased internet speeds", "Increased energy consumption", "Reinforcement of existing prejudices and discrimination", "Reduction in human creativity"],
+    "correctAnswer": "Reinforcement of existing prejudices and discrimination"
   },
   {
     "id": 20,
-    "question": "Farmers from Punjab are protesting against a proposed trade deal between India and which other country?",
-    "options": ["China", "Russia", "United States", "United Kingdom"],
-    "correctAnswer": "United States"
+    "question": "As India strives for technological advancements, understanding and mitigating AI bias is crucial for its fair application in diverse regions, including the twin Telugu states of Telangana and which other state?",
+    "options": ["Karnataka", "Tamil Nadu", "Odisha", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 21,
-    "question": "The 'Sansad Chalo' march, which led to police investigations, was organized by which group?",
-    "options": ["All India Kisan Sabha", "National Students' Union of India", "Cockroach Janta Party", "Indian Medical Association"],
-    "correctAnswer": "Cockroach Janta Party"
+    "question": "The Union government has established cybercrime cells across India to combat online fraud. What is a key function of these cells relevant to protecting citizens in states like Telangana and Andhra Pradesh?",
+    "options": ["Promoting online gaming", "Facilitating e-commerce transactions", "Investigating and preventing cyber financial frauds", "Developing new social media platforms"],
+    "correctAnswer": "Investigating and preventing cyber financial frauds"
   },
   {
     "id": 22,
-    "question": "Besides the Education Minister, whose resignation was demanded by Congress leaders during their protest outside the Prime Minister's residence?",
-    "options": ["Union Finance Minister", "Union Home Minister", "Prime Minister", "Union Health Minister"],
-    "correctAnswer": "Prime Minister"
+    "question": "A significant amount of money was reported to have been saved from cyber fraud due to central government efforts. Approximately how much was saved?",
+    "options": ["Over ₹1,000 crore", "Over ₹5,000 crore", "Over ₹11,000 crore", "Over ₹20,000 crore"],
+    "correctAnswer": "Over ₹11,000 crore"
   },
   {
     "id": 23,
-    "question": "Apart from patient rights, doctors also sought an inquiry into events related to a protest at which location?",
-    "options": ["India Gate", "Red Fort", "Jantar Mantar", "Rajghat"],
-    "correctAnswer": "Jantar Mantar"
+    "question": "Which common type of cybercrime involves deceptive practices like phishing or vishing to trick individuals into revealing personal information or transferring money, a challenge faced by police in states like Andhra Pradesh?",
+    "options": ["Website defacement", "Distributed Denial of Service (DDoS)", "Ransomware attacks", "Online financial fraud (e.g., lottery scams, KYC fraud)"],
+    "correctAnswer": "Online financial fraud (e.g., lottery scams, KYC fraud)"
   },
   {
     "id": 24,
-    "question": "Mamata Banerjee urged for unity within which political alliance against the BJP?",
-    "options": ["NDA", "UPA", "INDIA bloc", "Left Front"],
-    "correctAnswer": "INDIA bloc"
+    "question": "What central government ministry is typically responsible for spearheading national initiatives for establishing cybercrime cells and coordinating efforts to combat online fraud across India?",
+    "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Commerce and Industry"],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 25,
-    "question": "The mixed-gender football tournament hosted by Aeonic and Sisters in Sweat aims to integrate what into daily life?",
-    "options": ["Professional sports training", "Holistic well-being and active sport", "Corporate team building", "Youth skill development"],
-    "correctAnswer": "Holistic well-being and active sport"
+    "question": "The increasing digital literacy and online services in states like Telangana necessitate robust cyber security measures. What is a primary recommendation for individuals to protect themselves from cyber fraud?",
+    "options": ["Sharing OTPs with unknown callers", "Clicking on suspicious links in emails", "Using strong, unique passwords and two-factor authentication", "Conducting all transactions through public Wi-Fi"],
+    "correctAnswer": "Using strong, unique passwords and two-factor authentication"
   }
 ]

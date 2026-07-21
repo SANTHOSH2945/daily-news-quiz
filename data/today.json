@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What was a primary reason for the opposition protests that led to the washout of Day 1 of Parliament's monsoon session?",
-    "options": [
-      "Disagreement over foreign policy decisions",
-      "Concerns over temple donations and exam leaks",
-      "Demands for immediate state elections",
-      "Protests against new agricultural laws"
-    ],
-    "correctAnswer": "Concerns over temple donations and exam leaks"
+    "question": "The Supreme Court recently highlighted the need for uniform guidelines regarding compensation for retired judges of which courts, impacting judicial systems across states like Telangana and Andhra Pradesh?",
+    "options": ["District Courts", "High Courts", "Magistrate Courts", "Consumer Courts"],
+    "correctAnswer": "High Courts"
   },
   {
     "id": 2,
-    "question": "Which national entrance examination was a significant point of concern during the Parliament's monsoon session protests, affecting students across India including Telangana and Andhra Pradesh?",
-    "options": [
-      "JEE Advanced",
-      "UPSC Civil Services Exam",
-      "NEET",
-      "GATE"
-    ],
-    "correctAnswer": "NEET"
+    "question": "Which High Court specifically serves the state of Telangana after its formation in 2014?",
+    "options": ["Andhra Pradesh High Court", "Hyderabad High Court", "Telangana High Court", "Amaravati High Court"],
+    "correctAnswer": "Telangana High Court"
   },
   {
     "id": 3,
-    "question": "Besides exam leaks, what other general issue was mentioned as a cause for protest by opposition parties during the Parliament's monsoon session, relevant to religious institutions in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Industrial policy changes",
-      "Temple donations ('donation chori')",
-      "Forest conservation policies",
-      "Changes in banking regulations"
-    ],
-    "correctAnswer": "Temple donations ('donation chori')"
+    "question": "The state of Andhra Pradesh currently has its own High Court located in which city, established after the state's bifurcation?",
+    "options": ["Hyderabad", "Visakhapatnam", "Amaravati", "Vijayawada"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 4,
-    "question": "The first day of Parliament's monsoon session was marked by frequent adjournments due to what primary reason?",
-    "options": [
-      "Lack of quorum among members",
-      "Technical glitches in the sound system",
-      "Opposition protests over various issues",
-      "Scheduled maintenance work"
-    ],
-    "correctAnswer": "Opposition protests over various issues"
+    "question": "Before the bifurcation of 2014, the common High Court for both Andhra Pradesh and Telangana was officially known by which name?",
+    "options": ["High Court of Hyderabad", "High Court of United Andhra Pradesh", "Andhra Pradesh High Court", "Telangana & Andhra High Court"],
+    "correctAnswer": "High Court of Hyderabad"
   },
   {
     "id": 5,
-    "question": "The opposition parties during the monsoon session raised concerns over which two main categories of issues that resonate with citizens across India, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Defense spending and foreign trade agreements",
-      "Environmental regulations and infrastructure projects",
-      "Temple donations and exam leaks",
-      "Space exploration and digital currency"
-    ],
-    "correctAnswer": "Temple donations and exam leaks"
+    "question": "The Supreme Court's push for better compensation for retired High Court judges aims to ensure what aspect of their post-retirement life, applicable to judges from states like Telangana and Andhra Pradesh?",
+    "options": ["Political influence", "Business opportunities", "A dignified life", "Consultancy roles"],
+    "correctAnswer": "A dignified life"
   },
   {
     "id": 6,
-    "question": "Regarding the Apaar IDs for students, what stance did the Supreme Court take that applies to all Indian states, including Telangana and Andhra Pradesh?",
-    "options": [
-      "It mandated universal creation of Apaar IDs",
-      "It allowed states to decide on Apaar ID creation",
-      "It stated parents cannot be forced to create Apaar IDs",
-      "It recommended incentives for creating Apaar IDs"
-    ],
-    "correctAnswer": "It stated parents cannot be forced to create Apaar IDs"
+    "question": "What is the current maximum percentage of ethanol blending in petrol that the Indian government has stated it has no decision to raise beyond, impacting fuel availability in states like Telangana and Andhra Pradesh?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "correctAnswer": "20%"
   },
   {
     "id": 7,
-    "question": "What specific provision did the Supreme Court instruct to be included in consent forms for Apaar IDs, ensuring parental choice in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "A mandatory declaration of income",
-      "An 'opt out' option",
-      "A requirement for biometric data",
-      "A section for educational preferences"
-    ],
-    "correctAnswer": "An 'opt out' option"
+    "question": "The government's policy to introduce 'E20 fuel' is part of a larger national strategy to reduce India's reliance on which type of imports, a benefit for all states including Telangana and Andhra Pradesh?",
+    "options": ["Agricultural products", "Defense equipment", "Crude oil", "Electronic goods"],
+    "correctAnswer": "Crude oil"
   },
   {
     "id": 8,
-    "question": "The Supreme Court's decision on Apaar IDs, making it optional, impacts students and parents across which region?",
-    "options": [
-      "Only Union Territories",
-      "Only Northern Indian states",
-      "All of India, including Telangana and Andhra Pradesh",
-      "Only private school students"
-    ],
-    "correctAnswer": "All of India, including Telangana and Andhra Pradesh"
+    "question": "What does 'E20 fuel' specifically signify in the context of India's ethanol blending program, affecting vehicle owners across the country?",
+    "options": ["20% electric vehicles", "20% ethanol and 80% petrol", "Fuel for vehicles with 2.0-liter engines", "20% more efficient fuel"],
+    "correctAnswer": "20% ethanol and 80% petrol"
   },
   {
     "id": 9,
-    "question": "To speed up trials for specific cases, what did the Supreme Court seek regarding UAPA and NDPS cases, impacting the judicial system in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "To abolish these laws entirely",
-      "To reduce the number of judges",
-      "To establish more exclusive UAPA and NDPS courts",
-      "To transfer all such cases to High Courts"
-    ],
-    "correctAnswer": "To establish more exclusive UAPA and NDPS courts"
+    "question": "Ethanol in India is primarily produced from which major agricultural commodity, cultivated in states like Telangana and Andhra Pradesh, among others?",
+    "options": ["Wheat", "Rice", "Sugarcane", "Cotton"],
+    "correctAnswer": "Sugarcane"
   },
   {
     "id": 10,
-    "question": "The Supreme Court's call for more exclusive courts for UAPA and NDPS trials is aimed at improving which aspect of the justice system across India, including for citizens in Telangana and Andhra Pradesh?",
-    "options": [
-      "Accessibility to legal aid",
-      "Speed and efficiency of trials",
-      "Transparency of court proceedings",
-      "Reducing the number of appeals"
-    ],
-    "correctAnswer": "Speed and efficiency of trials"
+    "question": "Claims of vehicle damage from E20 fuel, as mentioned by the government, are largely considered to be what?",
+    "options": ["Scientifically proven", "Supported by technical evidence", "Misleading or unsupported", "Mandatory for new vehicles"],
+    "correctAnswer": "Misleading or unsupported"
   },
   {
     "id": 11,
-    "question": "A bill to increase the number of Supreme Court judges was introduced in which house of Parliament during the monsoon session, a decision that affects the national judiciary's capacity?",
-    "options": [
-      "Rajya Sabha",
-      "Lok Sabha",
-      "State Assemblies",
-      "President's Secretariat"
-    ],
-    "correctAnswer": "Lok Sabha"
+    "question": "Which national agency is responsible for conducting the NEET-UG examination, affecting medical aspirants from Telangana and Andhra Pradesh?",
+    "options": ["UPSC", "CBSE", "NTA", "ICMR"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 12,
-    "question": "What was one of the significant legislative actions taken on Day 1 of Parliament's monsoon session, despite disruptions, impacting the Indian judicial system as a whole?",
-    "options": [
-      "Passing a new budget allocation",
-      "Introducing a bill to increase Supreme Court judges",
-      "Ratifying an international treaty",
-      "Approving a new electoral reform"
-    ],
-    "correctAnswer": "Introducing a bill to increase Supreme Court judges"
+    "question": "NEET-UG is the primary entrance examination for admissions into which professional courses across India, including medical colleges in Telangana and Andhra Pradesh?",
+    "options": ["Engineering and Technology", "Law and Management", "Medical and Dental", "Arts and Sciences"],
+    "correctAnswer": "Medical and Dental"
   },
   {
     "id": 13,
-    "question": "The Parliament's monsoon session proceedings were cancelled on Day 1 due to what general reason, reflecting challenges in national governance that impact all states?",
-    "options": [
-      "Scheduled national holiday",
-      "Insufficient attendance by MPs",
-      "Disruption caused by opposition protests",
-      "Unexpected technical system failure"
-    ],
-    "correctAnswer": "Disruption caused by opposition protests"
+    "question": "Recent allegations regarding the NEET-UG examination involved discrepancies in which specific type of answer sheet, managed by the NTA?",
+    "options": ["Digital answer sheets", "OMR sheets", "Handwritten essays", "Practical examination records"],
+    "correctAnswer": "OMR sheets"
   },
   {
     "id": 14,
-    "question": "Which political leader criticized the Centre, stating the Modi government had become 'extremely arrogant' over police action against protesters, a sentiment often echoed in democratic discussions in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Rahul Gandhi",
-      "Mamata Banerjee",
-      "Arvind Kejriwal",
-      "Sharad Pawar"
-    ],
-    "correctAnswer": "Arvind Kejriwal"
+    "question": "According to the National Testing Agency (NTA), the images circulated by some NEET-UG candidates alleging discrepancies were found to be what?",
+    "options": ["Authentic copies", "Official duplicates", "Digitally altered or AI-regenerated", "Photocopies with errors"],
+    "correctAnswer": "Digitally altered or AI-regenerated"
   },
   {
     "id": 15,
-    "question": "Which political leader warned police, stating 'power does not last forever' after tear gas and lathicharge on student protesters, a message about accountability relevant across India?",
-    "options": [
-      "Arvind Kejriwal",
-      "Rahul Gandhi",
-      "Priyanka Gandhi Vadra",
-      "Akhilesh Yadav"
-    ],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "What may candidates submitting fabricated records for exams like NEET-UG face, according to the NTA, a policy applicable to students from states like Telangana and Andhra Pradesh?",
+    "options": ["A re-examination opportunity", "A warning letter", "Severe penalties under relevant acts", "Mandatory counseling sessions"],
+    "correctAnswer": "Severe penalties under relevant acts"
   },
   {
     "id": 16,
-    "question": "What was the police's claim regarding the identity of some detained protesters during the 'CJP march,' a detail that can spark debate about protest legitimacy in any state?",
-    "options": [
-      "They were foreign nationals",
-      "They were not students",
-      "They were government employees",
-      "They were minor children"
-    ],
-    "correctAnswer": "They were not students"
+    "question": "The news highlighted a significant fall in the global prices of which key agricultural fertilizer in June, providing relief to the government and potentially benefiting farmers in states like Telangana and Andhra Pradesh?",
+    "options": ["DAP", "Urea", "Potash", "Sulphur"],
+    "correctAnswer": "Urea"
   },
   {
     "id": 17,
-    "question": "The lathi-charge against protesters, mentioned by Arvind Kejriwal and Rahul Gandhi, was primarily associated with demonstrations concerning what national issue that directly affects students in Telangana and Andhra Pradesh?",
-    "options": [
-      "Rising fuel prices",
-      "NEET exam leaks",
-      "Privatization of public sector units",
-      "Changes in defense policy"
-    ],
-    "correctAnswer": "NEET exam leaks"
+    "question": "What is the primary role of urea when used as a fertilizer in agriculture, a practice common among farmers in Telangana and Andhra Pradesh?",
+    "options": ["Pest control", "Improving soil aeration", "Providing nitrogen for plant growth", "Enhancing fruit ripening"],
+    "correctAnswer": "Providing nitrogen for plant growth"
   },
   {
     "id": 18,
-    "question": "For students in Telangana and Andhra Pradesh, the Supreme Court's ruling on Apaar IDs means what in practical terms?",
-    "options": [
-      "Mandatory ID creation for all school admissions",
-      "Parents have an 'opt-out' choice for their children's Apaar IDs",
-      "Apaar IDs are required for all government scholarships",
-      "Schools can independently enforce Apaar ID creation"
-    ],
-    "correctAnswer": "Parents have an 'opt-out' choice for their children's Apaar IDs"
+    "question": "A decrease in the global prices of fertilizers like urea would most directly benefit which sector in Indian states such as Telangana and Andhra Pradesh?",
+    "options": ["IT sector", "Manufacturing sector", "Agricultural sector", "Service sector"],
+    "correctAnswer": "Agricultural sector"
   },
   {
     "id": 19,
-    "question": "The ongoing national protests regarding NEET exam leaks are particularly concerning for aspiring medical students in which parts of India?",
-    "options": [
-      "Only metropolitan cities",
-      "Only rural areas",
-      "All states of India, including Telangana and Andhra Pradesh",
-      "Only states with a high population density"
-    ],
-    "correctAnswer": "All states of India, including Telangana and Andhra Pradesh"
+    "question": "Despite the fall in urea prices, which other fertilizer prices were mentioned as remaining higher than the previous year?",
+    "options": ["Urea and Sulphur", "DAP and Potash", "Nitrates and Phosphates", "Ammonia and Calcium"],
+    "correctAnswer": "DAP and Potash"
   },
   {
     "id": 20,
-    "question": "The impact of the Supreme Court's call for more exclusive UAPA and NDPS courts on the justice system in states like Telangana and Andhra Pradesh would primarily be related to what?",
-    "options": [
-      "Increased judicial vacancies",
-      "Slower trial processes",
-      "Improved efficiency and quicker resolution of specific cases",
-      "Reduced access to legal representation"
-    ],
-    "correctAnswer": "Improved efficiency and quicker resolution of specific cases"
+    "question": "Domestic production of urea exceeding targets offers what benefit for the current agricultural season in India, contributing to stability for farmers in states like Telangana and Andhra Pradesh?",
+    "options": ["Increased exports", "Lower quality fertilizer", "Comfort and stability", "Higher import dependency"],
+    "correctAnswer": "Comfort and stability"
   },
   {
     "id": 21,
-    "question": "The disruption of Parliament's monsoon session means that issues impacting citizens, including those in Telangana and Andhra Pradesh, faced what consequence?",
-    "options": [
-      "Immediate resolution of all problems",
-      "Prolonged debate and discussion",
-      "Delays in legislative action and addressing national concerns",
-      "New policies were swiftly implemented"
-    ],
-    "correctAnswer": "Delays in legislative action and addressing national concerns"
+    "question": "Which major national achievement, showcasing young Indian capabilities, was recently highlighted by PM Modi in Parliament?",
+    "options": ["Launch of a new defense satellite", "Successful launch of a private space rocket", "Completion of a bullet train project", "Discovery of new mineral deposits"],
+    "correctAnswer": "Successful launch of a private space rocket"
   },
   {
     "id": 22,
-    "question": "The introduction of a bill to increase Supreme Court judges is a development that could affect the judiciary's capacity and workload across which region?",
-    "options": [
-      "Only the capital city of Delhi",
-      "Only High Courts of major states",
-      "The entire national judicial system, impacting all states including Telangana and Andhra Pradesh",
-      "Only specific District Courts"
-    ],
-    "correctAnswer": "The entire national judicial system, impacting all states including Telangana and Andhra Pradesh"
+    "question": "Sriharikota, a crucial spaceport for India's satellite launches, including those for private ventures, is located in which Indian state, directly linking to space technology advancements?",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 23,
-    "question": "The 'donation chori' protests mentioned in Parliament signify concerns about accountability in which types of institutions, relevant to states like Telangana and Andhra Pradesh with significant religious endowments?",
-    "options": [
-      "Public sector banks",
-      "Educational institutions",
-      "Religious/temple institutions",
-      "Healthcare facilities"
-    ],
-    "correctAnswer": "Religious/temple institutions"
+    "question": "Besides space technology, PM Modi also mentioned the inauguration of an initiative related to which clean energy source for trains, part of India's push for sustainable transport?",
+    "options": ["Solar-powered trains", "Electric trains", "Hydrogen trains", "Biofuel trains"],
+    "correctAnswer": "Hydrogen trains"
   },
   {
     "id": 24,
-    "question": "What was the broader sentiment expressed by opposition leaders like Arvind Kejriwal and Rahul Gandhi regarding the government's handling of protests, relevant to democratic participation and rights in states like AP/Telangana?",
-    "options": [
-      "Appreciation for quick resolution",
-      "Endorsement of police action",
-      "Criticism of using force and perceived government arrogance",
-      "Call for more stringent protest regulations"
-    ],
-    "correctAnswer": "Criticism of using force and perceived government arrogance"
+    "question": "The successful launch of a private space rocket signals a growing role for which sector in India's overall space program, potentially creating opportunities for skilled professionals in states like Telangana and Andhra Pradesh?",
+    "options": ["Public sector", "Private sector", "International collaboration", "Military sector"],
+    "correctAnswer": "Private sector"
   },
   {
     "id": 25,
-    "question": "The monsoon session of Parliament, though disrupted, is crucial for legislative business impacting governance and policy across which regions of India, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Only specific border regions",
-      "Only Union Territories",
-      "All states and Union Territories of India",
-      "Only states with ruling opposition parties"
-    ],
-    "correctAnswer": "All states and Union Territories of India"
+    "question": "Prime Minister Modi recently urged opposition parties in Parliament to focus on what, especially when discussing national progress and youth aspirations?",
+    "options": ["Emotional appeals", "Social media trends", "Logic and facts", "Historical anecdotes"],
+    "correctAnswer": "Logic and facts"
   }
 ]

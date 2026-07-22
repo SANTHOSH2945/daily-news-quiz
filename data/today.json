@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What national entrance examination has recently seen widespread protests across India due to alleged irregularities, impacting students in all states including Telangana and Andhra Pradesh?",
-    "options": ["JEE Advanced", "NEET (UG)", "CLAT", "UPSC Civil Services"],
-    "correctAnswer": "NEET (UG)"
+    "question": "The national NEET controversy, impacting medical aspirants across India, highlights the importance of medical education infrastructure. Which University of Health Sciences is the primary medical university in Telangana?",
+    "options": [
+      "Dr. Y.S.R. University of Health Sciences",
+      "Kaloji Narayana Rao University of Health Sciences",
+      "Nizam's Institute of Medical Sciences",
+      "Osmania Medical College"
+    ],
+    "correctAnswer": "Kaloji Narayana Rao University of Health Sciences"
   },
   {
     "id": 2,
-    "question": "Which political figure led a protest march towards the Prime Minister's residence in connection with the NEET irregularities, an issue with national implications?",
-    "options": ["Priyanka Gandhi Vadra", "Rahul Gandhi", "Mallikarjun Kharge", "Arvind Kejriwal"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Following widespread discussions on national entrance exams like NEET, which university serves as the main medical university for Andhra Pradesh?",
+    "options": [
+      "Acharya Nagarjuna University",
+      "Andhra University",
+      "Dr. Y.S.R. University of Health Sciences",
+      "Sri Venkateswara University"
+    ],
+    "correctAnswer": "Dr. Y.S.R. University of Health Sciences"
   },
   {
     "id": 3,
-    "question": "What symbolic action did opposition leaders take in Parliament to protest against the NEET issue, reflecting national political discourse?",
-    "options": ["Held a hunger strike", "Wore black attire", "Boycotted the session", "Staged a walkout"],
-    "correctAnswer": "Wore black attire"
+    "question": "The debates surrounding national education policies resonate across states. Which city, historically significant, currently serves as the common capital for both Telangana and Andhra Pradesh's administrative functions, including aspects of education?",
+    "options": [
+      "Amaravati",
+      "Visakhapatnam",
+      "Hyderabad",
+      "Vijayawada"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 4,
-    "question": "BJP leaders criticized Rahul Gandhi's protest march, characterizing his actions as what, in the context of national politics?",
-    "options": ["Visionary", "Irresponsible and condemnable", "Highly strategic", "Unprecedented"],
-    "correctAnswer": "Irresponsible and condemnable"
+    "question": "As national political figures discuss educational reforms, who is the current Chief Minister of Telangana, a key decision-maker for state education policy?",
+    "options": [
+      "K. Chandrashekar Rao",
+      "Revanth Reddy",
+      "G. Kishan Reddy",
+      "Bandi Sanjay Kumar"
+    ],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 5,
-    "question": "Protests against NEET irregularities extended internationally to which cities, demonstrating the global reach of a national Indian concern?",
-    "options": ["Dubai and Singapore", "Sydney and Toronto", "New York and London", "Berlin and Paris"],
-    "correctAnswer": "New York and London"
+    "question": "In the context of national political discourse on governance, who currently holds the position of Chief Minister of Andhra Pradesh?",
+    "options": [
+      "N. Chandrababu Naidu",
+      "Pawan Kalyan",
+      "Y.S. Jagan Mohan Reddy",
+      "N. Kiran Kumar Reddy"
+    ],
+    "correctAnswer": "Y.S. Jagan Mohan Reddy"
   },
   {
     "id": 6,
-    "question": "What was the primary demand of the student protesters regarding the NEET examination, a concern for students across India, including Telangana and Andhra Pradesh?",
-    "options": ["To lower qualifying marks", "For the resignation of the education minister", "To increase exam centers", "To make it an online exam"],
-    "correctAnswer": "For the resignation of the education minister"
+    "question": "The national focus on student issues and government accountability is pertinent. Which political party is presently in power in Telangana?",
+    "options": [
+      "Bharat Rashtra Samithi (BRS)",
+      "Bharatiya Janata Party (BJP)",
+      "Indian National Congress (INC)",
+      "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
+    ],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 7,
-    "question": "What assurance did a senior BJP leader provide regarding those involved in exam irregularities, a statement relevant to maintaining integrity in national examinations?",
-    "options": ["They would be given another chance", "They would face trial and punishment", "They would be banned from future exams", "They would be offered counseling"],
-    "correctAnswer": "They would face trial and punishment"
+    "question": "Mirroring national political dynamics, which political party forms the government in Andhra Pradesh?",
+    "options": [
+      "Telugu Desam Party (TDP)",
+      "YSR Congress Party (YSRCP)",
+      "Jana Sena Party (JSP)",
+      "Bharatiya Janata Party (BJP)"
+    ],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 8,
-    "question": "The BJP announced nationwide protests outside which political party's offices in response to the NEET demonstration, indicating a national political response?",
-    "options": ["AAP", "Congress", "TMC", "DMK"],
-    "correctAnswer": "Congress"
+    "question": "National discussions about educational institutions often highlight regional strengths. Which city in Andhra Pradesh is recognized as a major educational and industrial hub, particularly known for its port?",
+    "options": [
+      "Vijayawada",
+      "Guntur",
+      "Nellore",
+      "Visakhapatnam"
+    ],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 9,
-    "question": "The CJP's sit-in protest, mentioned in the context of national student activism, was ongoing at which prominent Delhi location?",
-    "options": ["India Gate", "Jantar Mantar", "Parliament Street", "Red Fort"],
-    "correctAnswer": "Jantar Mantar"
+    "question": "With national attention on judicial processes, what is the official name of the highest court for the state of Telangana?",
+    "options": [
+      "High Court of Andhra Pradesh at Hyderabad",
+      "Telangana High Court",
+      "Hyderabad High Court",
+      "High Court for the State of Hyderabad"
+    ],
+    "correctAnswer": "Telangana High Court"
   },
   {
     "id": 10,
-    "question": "What was a key aspect of the ongoing protest at Jantar Mantar, besides the general student activism, highlighting a national form of protest?",
-    "options": ["A dance performance", "An indefinite hunger strike by Sonam Wangchuk", "A cycling rally", "A flash mob"],
-    "correctAnswer": "An indefinite hunger strike by Sonam Wangchuk"
+    "question": "Following national debates on legal and administrative matters, what is the official name of the High Court for the state of Andhra Pradesh, situated in Amaravati?",
+    "options": [
+      "Andhra Pradesh High Court",
+      "High Court of Guntur",
+      "Visakhapatnam High Court",
+      "Vijayawada High Court"
+    ],
+    "correctAnswer": "Andhra Pradesh High Court"
   },
   {
     "id": 11,
-    "question": "What term was used by students in international protests against NEET, reflecting solidarity with those affected across India?",
-    "options": ["'Justice for All'", "'Main bhi Cockroach'", "'Save Our Future'", "'No More Exams'"],
-    "correctAnswer": "'Main bhi Cockroach'"
+    "question": "The ongoing national emphasis on infrastructure development includes major projects in various states. Which multi-stage lift irrigation project is a prominent engineering marvel in Telangana?",
+    "options": [
+      "Pattiseema Lift Irrigation Project",
+      "Polavaram Project",
+      "Kaleshwaram Lift Irrigation Project",
+      "Nagarjuna Sagar Project"
+    ],
+    "correctAnswer": "Kaleshwaram Lift Irrigation Project"
   },
   {
     "id": 12,
-    "question": "The opposition was accused by the BJP of using the NEET protest for what purpose, in the context of national political maneuvering?",
-    "options": ["To promote national unity", "To find political relevance", "To educate the public", "To demand administrative reforms"],
-    "correctAnswer": "To find political relevance"
+    "question": "National policy discussions often involve connectivity. Which major National Highway traverses through both Telangana and Andhra Pradesh, connecting crucial economic centers like Hyderabad and Vijayawada?",
+    "options": [
+      "NH 44",
+      "NH 16",
+      "NH 65",
+      "NH 765"
+    ],
+    "correctAnswer": "NH 65"
   },
   {
     "id": 13,
-    "question": "The Supreme Court was approached regarding an alternative namaz site in connection with which ongoing religious site dispute, a matter of national legal importance?",
-    "options": ["Ayodhya dispute", "Gyanvapi Mosque case", "Bhojshala row", "Mathura dispute"],
-    "correctAnswer": "Bhojshala row"
+    "question": "Amidst national discussions on parliamentary procedures, the legislative capital of Telangana is a key administrative center. What is this city?",
+    "options": [
+      "Warangal",
+      "Karimnagar",
+      "Hyderabad",
+      "Secunderabad"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 14,
-    "question": "Regarding the Jantar Mantar protest, the Chief Justice of India (CJI) declined to intervene, stating what reason for the Supreme Court's stance?",
-    "options": ["Lack of jurisdiction", "No time to watch videos", "Matter not urgent", "Police handling it competently"],
-    "correctAnswer": "No time to watch videos"
+    "question": "In the context of India's federal structure and state capitals, what is the officially designated legislative capital of Andhra Pradesh, even as administrative functions may be spread across other cities?",
+    "options": [
+      "Visakhapatnam",
+      "Kurnool",
+      "Vijayawada",
+      "Amaravati"
+    ],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 15,
-    "question": "Who is seeking the return of Netaji Subhas Chandra Bose's ashes from Japan, through a plea in the Supreme Court, concerning a revered national figure?",
-    "options": ["His grandson", "His daughter", "A historical society", "The Indian government"],
-    "correctAnswer": "His daughter"
+    "question": "Inspired by national debates on education ministers, who is the current Minister for Education in Telangana?",
+    "options": [
+      "Sabitha Indra Reddy",
+      "Konda Surekha",
+      "D. Sridhar Babu",
+      "Mallu Bhatti Vikramarka"
+    ],
+    "correctAnswer": "Konda Surekha"
   },
   {
     "id": 16,
-    "question": "The Supreme Court sought a reply from the government concerning the non-utilization of what specific fund, which has national environmental implications?",
-    "options": ["Disaster Relief Fund", "Rural Development Fund", "Green Fund (environment)", "Education Fund"],
-    "correctAnswer": "Green Fund (environment)"
+    "question": "Drawing from the national focus on educational governance, who is the current Minister for Education in Andhra Pradesh?",
+    "options": [
+      "Botcha Satyanarayana",
+      "Adimulapu Suresh",
+      "Perni Venkataramaiah",
+      "Peddireddy Ramachandra Reddy"
+    ],
+    "correctAnswer": "Botcha Satyanarayana"
   },
   {
     "id": 17,
-    "question": "The amount of the 'green fund' whose non-utilization was questioned by the Supreme Court is approximately how much, a matter impacting national environmental policies?",
-    "options": ["Rs 100 crore", "Rs 500 crore", "Rs 1,000 crore", "Rs 5,000 crore"],
-    "correctAnswer": "Rs 1,000 crore"
+    "question": "With national attention on judicial appointments, who is the current Chief Justice of the Telangana High Court?",
+    "options": [
+      "Ujjal Bhuyan",
+      "Satish Chandra Sharma",
+      "Alok Aradhe",
+      "Raghvendra Singh Chauhan"
+    ],
+    "correctAnswer": "Alok Aradhe"
   },
   {
     "id": 18,
-    "question": "In the context of the Jantar Mantar protest, what actions were security forces reported to have used against demonstrators, raising questions about police conduct in national protests?",
-    "options": ["Water cannons and rubber bullets", "Lathis and tear gas", "Drones and sonic weapons", "Arrests and fines only"],
-    "correctAnswer": "Lathis and tear gas"
+    "question": "In line with national discussions on the judiciary, who is the current Chief Justice of the Andhra Pradesh High Court?",
+    "options": [
+      "Prashant Kumar Mishra",
+      "Jitendra Kumar Maheshwari",
+      "Arup Kumar Goswami",
+      "Dhiraj Singh Thakur"
+    ],
+    "correctAnswer": "Dhiraj Singh Thakur"
   },
   {
     "id": 19,
-    "question": "The Allahabad High Court judge's comments about Ram Mandir theft highlighted a concern regarding what, a statement on national integrity?",
-    "options": ["The architectural design", "The security measures", "The integrity of Indians", "The construction timeline"],
-    "correctAnswer": "The integrity of Indians"
+    "question": "The national dialogue on student welfare extends to state-level entrance examinations. What is the common name for the engineering, agriculture, and medical common entrance test conducted in Telangana for state-level admissions?",
+    "options": [
+      "TS ECET",
+      "TS PGECET",
+      "TS EAMCET",
+      "TS LAWCET"
+    ],
+    "correctAnswer": "TS EAMCET"
   },
   {
     "id": 20,
-    "question": "What penalty did an Allahabad HC judge back in connection with the Ram Mandir theft incident, reflecting judicial perspectives on severe crimes in India?",
-    "options": ["Life imprisonment", "Rigorous imprisonment", "Death penalty", "Fines and community service"],
-    "correctAnswer": "Death penalty"
+    "question": "Similarly, considering state-level entrance exams in the context of national education concerns, what is the common name for the equivalent entrance test conducted in Andhra Pradesh for engineering, agriculture, and pharmacy courses?",
+    "options": [
+      "AP EAMCET",
+      "AP POLYCET",
+      "AP ECET",
+      "AP PGCET"
+    ],
+    "correctAnswer": "AP EAMCET"
   },
   {
     "id": 21,
-    "question": "What issue prompted students to march towards the Parliament, leading to security force intervention, a national level protest?",
-    "options": ["Farmers' protest", "Educational reforms", "Exam irregularities", "Demand for new universities"],
-    "correctAnswer": "Exam irregularities"
+    "question": "The national focus on healthcare infrastructure development has seen various states expanding their medical facilities. In which year was Kaloji Narayana Rao University of Health Sciences, Telangana, established?",
+    "options": [
+      "2010",
+      "2014",
+      "2016",
+      "2008"
+    ],
+    "correctAnswer": "2014"
   },
   {
     "id": 22,
-    "question": "Which political party launched a sharp counteroffensive against Rahul Gandhi's protest march, indicating the dynamics of national political rivalry?",
-    "options": ["Samajwadi Party", "Bahujan Samaj Party", "Bharatiya Janata Party (BJP)", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "question": "Building on the theme of robust educational institutions, when was Dr. Y.S.R. University of Health Sciences, Andhra Pradesh, originally established?",
+    "options": [
+      "1990",
+      "1986",
+      "1995",
+      "2000"
+    ],
+    "correctAnswer": "1986"
   },
   {
     "id": 23,
-    "question": "Rahul Gandhi and Priyanka Gandhi were released after detention during protests related to what national issue, reflecting the scale of the public agitation?",
-    "options": ["Inflation", "Unemployment", "NEET irregularities", "Fuel prices"],
-    "correctAnswer": "NEET irregularities"
+    "question": "Reflecting the national trend of increasing access to medical education, approximately how many government medical colleges does Telangana currently have, following recent establishments?",
+    "options": [
+      "Around 10-12",
+      "Around 15-17",
+      "Around 20-22",
+      "Around 25-27"
+    ],
+    "correctAnswer": "Around 20-22"
   },
   {
     "id": 24,
-    "question": "Which union minister's resignation was demanded by protesters at Jantar Mantar, indicating a specific target for national accountability?",
-    "options": ["Finance Minister", "Home Minister", "Education Minister", "Defense Minister"],
-    "correctAnswer": "Education Minister"
+    "question": "Continuing the theme of healthcare infrastructure, approximately how many government medical colleges are currently operational in Andhra Pradesh?",
+    "options": [
+      "Around 5-7",
+      "Around 10-12",
+      "Around 15-17",
+      "Around 20-22"
+    ],
+    "correctAnswer": "Around 15-17"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's decline of urgent hearing on alleged police brutality was in the context of protests at which specific location in Delhi, a site of frequent national demonstrations?",
-    "options": ["India Gate", "Red Fort", "Jantar Mantar", "Vijay Chowk"],
-    "correctAnswer": "Jantar Mantar"
+    "question": "Given the national attention to urban development and state-level planning, which city is often referred to as the 'Cultural Capital' of Telangana?",
+    "options": [
+      "Hyderabad",
+      "Warangal",
+      "Nalgonda",
+      "Mahabubnagar"
+    ],
+    "correctAnswer": "Warangal"
   }
 ]

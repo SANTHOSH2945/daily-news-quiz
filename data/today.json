@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary reason for the ongoing protests by students across India, as highlighted in the news context, which significantly impacts students from states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Increases in tuition fees",
-      "Delay in academic session",
-      "Alleged NEET paper leak",
-      "Lack of job opportunities post-graduation"
-    ],
-    "correctAnswer": "Alleged NEET paper leak"
+    "question": "What is the primary focus of the new Bill push announced by PM Modi?",
+    "options": ["Regulating social media content", "Strengthening cyber security", "Stricter actions against examination paper leaks", "Promoting digital education"],
+    "correctAnswer": "Stricter actions against examination paper leaks"
   },
   {
     "id": 2,
-    "question": "Which examination is at the center of the recent nationwide protests by students in India, a matter of concern for aspiring professionals including those from Andhra Pradesh and Telangana?",
-    "options": [
-      "UPSC Civil Services Exam",
-      "JEE Advanced",
-      "NEET-UG",
-      "GATE Exam"
-    ],
-    "correctAnswer": "NEET-UG"
+    "question": "Which body is expected to consider tougher measures, including stricter punishments, for examination paper leak offenders?",
+    "options": ["Supreme Court", "Election Commission", "Union Cabinet", "Parliament's Standing Committee"],
+    "correctAnswer": "Union Cabinet"
   },
   {
     "id": 3,
-    "question": "Who is the veteran BJP leader mentioned in the news who broke ranks with his party to express support for the NEET protesters?",
-    "options": [
-      "L.K. Advani",
-      "Murli Manohar Joshi",
-      "Yashwant Sinha",
-      "Sushma Swaraj"
-    ],
-    "correctAnswer": "Murli Manohar Joshi"
+    "question": "During which parliamentary session is the new legislation against examination paper leaks expected to be introduced?",
+    "options": ["Budget Session", "Monsoon Session", "Winter Session", "Special Session"],
+    "correctAnswer": "Monsoon Session"
   },
   {
     "id": 4,
-    "question": "What action did BJP veteran Murli Manohar Joshi criticize regarding the police handling of NEET demonstrators, urging for empathy?",
-    "options": [
-      "Lack of police presence",
-      "Merciless police action",
-      "Delayed response by police",
-      "Use of water cannons only"
-    ],
-    "correctAnswer": "Merciless police action"
+    "question": "What kind of judicial process is being considered to ensure swift action against individuals involved in paper leaks?",
+    "options": ["Mediation councils", "Arbitration tribunals", "Fast-track courts", "Lok Adalats"],
+    "correctAnswer": "Fast-track courts"
   },
   {
     "id": 5,
-    "question": "What did Prime Minister Modi announce regarding offenders involved in paper leaks, as mentioned in the context of the NEET controversy?",
-    "options": [
-      "Establishment of special investigative teams",
-      "Formation of a new education committee",
-      "Implementation of fast-track courts",
-      "Revision of exam syllabi"
-    ],
-    "correctAnswer": "Implementation of fast-track courts"
+    "question": "Who announced the government's intention to bring more strict actions against paper leaks through new legislation?",
+    "options": ["President of India", "Chief Justice of India", "Prime Minister Modi", "Speaker of Lok Sabha"],
+    "correctAnswer": "Prime Minister Modi"
   },
   {
     "id": 6,
-    "question": "Which political alliance stated its firm support for the students protesting the NEET-UG paper leak, including those from states like Telangana?",
-    "options": [
-      "NDA",
-      "INDIA bloc",
-      "Third Front",
-      "UPA"
-    ],
-    "correctAnswer": "INDIA bloc"
+    "question": "What is the government's overarching goal in introducing new legislation concerning examination paper leaks?",
+    "options": ["To increase examination fees", "To ensure fair and transparent examination processes", "To reduce the number of examinations", "To promote private coaching centers"],
+    "correctAnswer": "To ensure fair and transparent examination processes"
   },
   {
     "id": 7,
-    "question": "Where were opposition leaders reportedly stopped from reaching during their march in support of NEET protesting students, according to the news?",
-    "options": [
-      "Parliament House",
-      "The Education Ministry",
-      "India Gate and Gandhi Smriti",
-      "The Prime Minister's residence"
-    ],
-    "correctAnswer": "India Gate and Gandhi Smriti"
+    "question": "What specific type of offenses will be targeted with stricter punishments under the proposed new Bill?",
+    "options": ["Misinformation campaigns", "Bureaucratic corruption", "Examination paper leaks", "Political protests"],
+    "correctAnswer": "Examination paper leaks"
   },
   {
     "id": 8,
-    "question": "What is the current status of parliamentary discussions regarding the NEET issue, as per the evening news wrap?",
-    "options": [
-      "Resolved with a new bill",
-      "Debate postponed indefinitely",
-      "Deadlock continues",
-      "A joint committee formed for resolution"
-    ],
-    "correctAnswer": "Deadlock continues"
+    "question": "PM Modi conveyed a message to students regarding which critical issue affecting their academic future?",
+    "options": ["Changes in curriculum", "Availability of scholarships", "Examination paper leak controversy", "Online learning platforms"],
+    "correctAnswer": "Examination paper leak controversy"
   },
   {
     "id": 9,
-    "question": "What has the government invited opposition parties for, regarding the ongoing NEET discussions?",
-    "options": [
-      "A televised debate",
-      "Discussions without preconditions",
-      "A joint press conference",
-      "A closed-door meeting with select leaders"
-    ],
-    "correctAnswer": "Discussions without preconditions"
+    "question": "What does the phrase 'more strict actions to come' primarily refer to in the context of PM Modi's announcement?",
+    "options": ["Tougher immigration laws", "Stricter traffic regulations", "Enhanced penalties for examination paper leaks", "New industrial policies"],
+    "correctAnswer": "Enhanced penalties for examination paper leaks"
   },
   {
     "id": 10,
-    "question": "What did opposition parties demand in response to the alleged NEET paper leak, affecting students nationwide including in Andhra Pradesh and Telangana?",
-    "options": [
-      "A full re-conduct of the exam",
-      "Education Minister's resignation and parliamentary discussion",
-      "International inquiry into the leak",
-      "A shift to online-only examinations"
-    ],
-    "correctAnswer": "Education Minister's resignation and parliamentary discussion"
+    "question": "The proposed legislation for paper leaks aims to introduce what for offenders?",
+    "options": ["Rehabilitation programs", "Counselling sessions", "Stricter punishments and fast-track courts", "Community service"],
+    "correctAnswer": "Stricter punishments and fast-track courts"
   },
   {
     "id": 11,
-    "question": "Which specific visa program, highly relevant to Indian IT professionals from major hubs like Hyderabad in Telangana, is discussed in Tanul Thakur's debut book 'Wild Wild East'?",
-    "options": [
-      "L-1 Visa",
-      "H-1B Visa",
-      "O-1 Visa",
-      "J-1 Visa"
-    ],
-    "correctAnswer": "H-1B Visa"
+    "question": "In his video message, what did PM Modi emphasize as being taken seriously by the government?",
+    "options": ["International relations", "Economic growth", "The issue of paper leaks", "Environmental conservation"],
+    "correctAnswer": "The issue of paper leaks"
   },
   {
     "id": 12,
-    "question": "Who is the award-winning journalist and film critic known for his views on the H-1B program, and author of 'Wild Wild East', as per the news?",
-    "options": [
-      "Anupama Chopra",
-      "Baradwaj Rangan",
-      "Tanul Thakur",
-      "Raja Sen"
-    ],
-    "correctAnswer": "Tanul Thakur"
+    "question": "What is one of the key outcomes the government hopes to achieve by introducing a new Bill against paper leaks?",
+    "options": ["Faster declaration of results", "Increased participation in exams", "Greater integrity in examinations", "Reduced workload for invigilators"],
+    "correctAnswer": "Greater integrity in examinations"
   },
   {
     "id": 13,
-    "question": "What is the title of Tanul Thakur's debut book that discusses the corporate cruelty driving the H-1B visa economy, a topic of interest to many from India's tech states?",
-    "options": [
-      "'Silicon Valley Dreams'",
-      "'The Outsourcing Paradox'",
-      "'Wild Wild East'",
-      "'The Visa Game'"
-    ],
-    "correctAnswer": "'Wild Wild East'"
+    "question": "What specific national examination's protests were allegedly targeted by social media handles spreading misinformation?",
+    "options": ["JEE Advanced", "UPSC Civil Services", "NEET", "CLAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 14,
-    "question": "In which year did Tanul Thakur win the National Film Award for Best Film Critic, becoming the youngest recipient of the honor?",
-    "options": [
-      "2010",
-      "2012",
-      "2015",
-      "2018"
-    ],
-    "correctAnswer": "2015"
+    "question": "Which law enforcement agency identified and blocked hundreds of social media handles spreading misinformation during recent protests?",
+    "options": ["CBI", "NIA", "Delhi Police", "IB"],
+    "correctAnswer": "Delhi Police"
   },
   {
     "id": 15,
-    "question": "The H-1B visa economy primarily impacts which major sector for Indian professionals, particularly those migrating from technology hubs in states like Telangana and Andhra Pradesh, seeking opportunities abroad?",
-    "options": [
-      "Healthcare",
-      "Manufacturing",
-      "Information Technology (IT)",
-      "Education"
-    ],
-    "correctAnswer": "Information Technology (IT)"
+    "question": "The social media handles blocked by Delhi Police for targeting protests were reportedly revived from which previous operation?",
+    "options": ["Operation Clean Slate", "Operation Blue Star", "Operation Sindoor", "Operation Phoenix"],
+    "correctAnswer": "Operation Sindoor"
   },
   {
     "id": 16,
-    "question": "Tanul Thakur's book 'Wild Wild East' is described as exploring the 'corporate cruelty' associated with what specific economic phenomenon?",
-    "options": [
-      "Global trade wars",
-      "The H-1B visa economy",
-      "Startup culture in India",
-      "Digital currency regulations"
-    ],
-    "correctAnswer": "The H-1B visa economy"
+    "question": "What was the primary purpose of the over 400 social media handles blocked by Delhi Police during ongoing protests?",
+    "options": ["Promoting cultural events", "Spreading educational content", "Provoking people and spreading misinformation", "Conducting online surveys"],
+    "correctAnswer": "Provoking people and spreading misinformation"
   },
   {
     "id": 17,
-    "question": "States like Telangana and Andhra Pradesh, with their robust IT sectors and skilled workforce, are particularly affected by policies related to which international visa program for skilled workers?",
-    "options": [
-      "EB-5 Visa",
-      "H-2B Visa",
-      "H-1B Visa",
-      "E-2 Visa"
-    ],
-    "correctAnswer": "H-1B Visa"
+    "question": "What did Delhi Police specifically urge citizens, especially students, to avoid falling for amidst the protests?",
+    "options": ["Political debates", "Fake content and rumors", "Online games", "Social media challenges"],
+    "correctAnswer": "Fake content and rumors"
   },
   {
     "id": 18,
-    "question": "What significant milestone did India's first hydrogen-powered train achieve recently, showcasing advancements in sustainable transportation?",
-    "options": [
-      "Reached a speed of 200 km/h",
-      "Completed its first international journey",
-      "Completed 900 kilometers in five days",
-      "Successfully integrated with the metro system"
-    ],
-    "correctAnswer": "Completed 900 kilometers in five days"
+    "question": "While addressing the issue of misinformation, what fundamental right of citizens did Delhi Police reiterate its respect for?",
+    "options": ["Right to education", "Right to privacy", "Right to peaceful protest", "Right to information"],
+    "correctAnswer": "Right to peaceful protest"
   },
   {
     "id": 19,
-    "question": "How many kilometers did India's first hydrogen-powered train complete in five days during its recent test run, as per the news?",
-    "options": [
-      "500 kilometers",
-      "750 kilometers",
-      "900 kilometers",
-      "1200 kilometers"
-    ],
-    "correctAnswer": "900 kilometers"
+    "question": "Social media handles from which country were identified as being involved in spreading misinformation during NEET protests?",
+    "options": ["China", "Russia", "Pakistan", "Afghanistan"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 20,
-    "question": "What type of innovative and environmentally friendly fuel powers India's recently tested train, as mentioned in the news wrap?",
-    "options": [
-      "Solar energy",
-      "Bio-diesel",
-      "Hydrogen",
-      "Electric (battery-powered)"
-    ],
-    "correctAnswer": "Hydrogen"
+    "question": "The blocked social media handles were described as aiming to do what among the populace?",
+    "options": ["Encourage participation", "Resolve conflicts", "Provoke people", "Promote unity"],
+    "correctAnswer": "Provoke people"
   },
   {
     "id": 21,
-    "question": "Which water-sharing treaty, relevant to India's foreign policy, is stated to be in abeyance according to India's recent statement at ASEAN?",
-    "options": [
-      "Ganga Water Treaty",
-      "Indus Waters Treaty",
-      "Mahakali Treaty",
-      "Teesta River Treaty"
-    ],
-    "correctAnswer": "Indus Waters Treaty"
+    "question": "Approximately how many social media handles, reportedly from Pakistan, were blocked for targeting NEET protests?",
+    "options": ["100", "250", "400", "600"],
+    "correctAnswer": "400"
   },
   {
     "id": 22,
-    "question": "Who is India's External Affairs Minister who recently stressed the importance of maritime law adherence and called for regional cooperation amid the Middle East crisis?",
-    "options": [
-      "Amit Shah",
-      "Rajnath Singh",
-      "S. Jaishankar",
-      "Nirmala Sitharaman"
-    ],
-    "correctAnswer": "S. Jaishankar"
+    "question": "In the context of the news, 'Op Sindoor' is mentioned as a previous instance where the same social media handles were active. What does this suggest about these handles?",
+    "options": ["They are used for social welfare", "They are associated with recurring attempts to spread misinformation", "They promote cultural exchange", "They are involved in national security operations"],
+    "correctAnswer": "They are associated with recurring attempts to spread misinformation"
   },
   {
     "id": 23,
-    "question": "India supports a substantive Code of Conduct for which specific sea, as mentioned by EAM Jaishankar in the context of global maritime security?",
-    "options": [
-      "Arabian Sea",
-      "Bay of Bengal",
-      "South China Sea",
-      "Mediterranean Sea"
-    ],
-    "correctAnswer": "South China Sea"
+    "question": "PM Modi extended his prayers for Sonam Wangchuk's health after he ended his hunger strike. This action highlights the PM's general concern for which aspect?",
+    "options": ["Regional politics", "Environmental issues", "Public health and well-being", "Economic development"],
+    "correctAnswer": "Public health and well-being"
   },
   {
     "id": 24,
-    "question": "What potential legal consequence awaits individuals involved in violence during protests, as suggested by reports from Delhi Police?",
-    "options": [
-      "Community service",
-      "Temporary driving license suspension",
-      "Passport cancellation",
-      "Mandatory re-education programs"
-    ],
-    "correctAnswer": "Passport cancellation"
+    "question": "The news indicates a broader governmental effort to bring new legislation to tackle which widespread national issue affecting various sectors?",
+    "options": ["Agricultural subsidies", "Examination malpractices", "Industrial regulations", "Foreign trade agreements"],
+    "correctAnswer": "Examination malpractices"
   },
   {
     "id": 25,
-    "question": "The news mentions 'UP ke ladke' referring to a renewed political alliance between which two prominent Indian leaders?",
-    "options": [
-      "Narendra Modi and Amit Shah",
-      "Arvind Kejriwal and Bhagwant Mann",
-      "Rahul Gandhi and Akhilesh Yadav",
-      "Mamata Banerjee and Uddhav Thackeray"
-    ],
-    "correctAnswer": "Rahul Gandhi and Akhilesh Yadav"
+    "question": "A recent government reshuffle of top bureaucrats in ministries signifies what aspect of central administration?",
+    "options": ["Increase in ministry budgets", "Routine administrative adjustments and efficiency drives", "Shift towards state-level governance", "Decentralization of power"],
+    "correctAnswer": "Routine administrative adjustments and efficiency drives"
   }
 ]

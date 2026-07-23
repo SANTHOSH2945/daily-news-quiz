@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which Indian city was the origin of the British Airways flight where pilots experienced food poisoning?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
-    "correctAnswer": "Hyderabad"
+    "question": "What is the primary reason for the ongoing protests by students across India, as highlighted in the news context, which significantly impacts students from states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Increases in tuition fees",
+      "Delay in academic session",
+      "Alleged NEET paper leak",
+      "Lack of job opportunities post-graduation"
+    ],
+    "correctAnswer": "Alleged NEET paper leak"
   },
   {
     "id": 2,
-    "question": "What specific health issue affected British Airways pilots on a flight originating from Hyderabad?",
-    "options": ["Hypoxia", "Food poisoning", "Dehydration", "Air sickness"],
-    "correctAnswer": "Food poisoning"
+    "question": "Which examination is at the center of the recent nationwide protests by students in India, a matter of concern for aspiring professionals including those from Andhra Pradesh and Telangana?",
+    "options": [
+      "UPSC Civil Services Exam",
+      "JEE Advanced",
+      "NEET-UG",
+      "GATE Exam"
+    ],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 3,
-    "question": "Which international airline faced a probe after its pilots suffered food poisoning on a flight from Hyderabad?",
-    "options": ["Air India", "Emirates", "British Airways", "Lufthansa"],
-    "correctAnswer": "British Airways"
+    "question": "Who is the veteran BJP leader mentioned in the news who broke ranks with his party to express support for the NEET protesters?",
+    "options": [
+      "L.K. Advani",
+      "Murli Manohar Joshi",
+      "Yashwant Sinha",
+      "Sushma Swaraj"
+    ],
+    "correctAnswer": "Murli Manohar Joshi"
   },
   {
     "id": 4,
-    "question": "What national issue led to a Parliament standoff and widespread student protests across India, including concerns for states like Telangana and Andhra Pradesh?",
-    "options": ["Farmer protests", "Economic recession", "NEET paper leak", "Electoral reforms"],
-    "correctAnswer": "NEET paper leak"
+    "question": "What action did BJP veteran Murli Manohar Joshi criticize regarding the police handling of NEET demonstrators, urging for empathy?",
+    "options": [
+      "Lack of police presence",
+      "Merciless police action",
+      "Delayed response by police",
+      "Use of water cannons only"
+    ],
+    "correctAnswer": "Merciless police action"
   },
   {
     "id": 5,
-    "question": "What stringent measure has been suggested by a BJP MP for offenders involved in examination paper leaks, specifically mentioned in the context of the NEET controversy?",
-    "options": ["Community service", "Heavy fines", "Death penalty", "Life imprisonment"],
-    "correctAnswer": "Death penalty"
+    "question": "What did Prime Minister Modi announce regarding offenders involved in paper leaks, as mentioned in the context of the NEET controversy?",
+    "options": [
+      "Establishment of special investigative teams",
+      "Formation of a new education committee",
+      "Implementation of fast-track courts",
+      "Revision of exam syllabi"
+    ],
+    "correctAnswer": "Implementation of fast-track courts"
   },
   {
     "id": 6,
-    "question": "The government has offered a debate in Parliament to resolve the deadlock over which examination's alleged paper leak?",
-    "options": ["JEE", "UPSC", "NEET", "CLAT"],
-    "correctAnswer": "NEET"
+    "question": "Which political alliance stated its firm support for the students protesting the NEET-UG paper leak, including those from states like Telangana?",
+    "options": [
+      "NDA",
+      "INDIA bloc",
+      "Third Front",
+      "UPA"
+    ],
+    "correctAnswer": "INDIA bloc"
   },
   {
     "id": 7,
-    "question": "What type of courts did Prime Minister Modi announce would be fast-tracked to address cases related to examination paper leaks?",
-    "options": ["Family courts", "Environmental courts", "Fast-track courts", "Military courts"],
-    "correctAnswer": "Fast-track courts"
+    "question": "Where were opposition leaders reportedly stopped from reaching during their march in support of NEET protesting students, according to the news?",
+    "options": [
+      "Parliament House",
+      "The Education Ministry",
+      "India Gate and Gandhi Smriti",
+      "The Prime Minister's residence"
+    ],
+    "correctAnswer": "India Gate and Gandhi Smriti"
   },
   {
     "id": 8,
-    "question": "What was a key demand made by opposition MPs during the Parliament protests concerning the NEET paper leak?",
-    "options": ["Prime Minister's resignation", "Education Minister's resignation", "Supreme Court intervention", "Retake of all exams"],
-    "correctAnswer": "Education Minister's resignation"
+    "question": "What is the current status of parliamentary discussions regarding the NEET issue, as per the evening news wrap?",
+    "options": [
+      "Resolved with a new bill",
+      "Debate postponed indefinitely",
+      "Deadlock continues",
+      "A joint committee formed for resolution"
+    ],
+    "correctAnswer": "Deadlock continues"
   },
   {
     "id": 9,
-    "question": "Which political figure criticized PM Modi over student protests and police action related to examination irregularities, urging the government to take responsibility?",
-    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi Vadra", "Akhilesh Yadav"],
-    "correctAnswer": "Priyanka Gandhi Vadra"
+    "question": "What has the government invited opposition parties for, regarding the ongoing NEET discussions?",
+    "options": [
+      "A televised debate",
+      "Discussions without preconditions",
+      "A joint press conference",
+      "A closed-door meeting with select leaders"
+    ],
+    "correctAnswer": "Discussions without preconditions"
   },
   {
     "id": 10,
-    "question": "BJP MP Nishikant Dubey advised protesting students to focus on studies rather than agitation, specifically mentioning career aspirations in which fields?",
-    "options": ["Engineering and Business", "Arts and Humanities", "Medicine and Civil Services", "Sports and Entertainment"],
-    "correctAnswer": "Medicine and Civil Services"
+    "question": "What did opposition parties demand in response to the alleged NEET paper leak, affecting students nationwide including in Andhra Pradesh and Telangana?",
+    "options": [
+      "A full re-conduct of the exam",
+      "Education Minister's resignation and parliamentary discussion",
+      "International inquiry into the leak",
+      "A shift to online-only examinations"
+    ],
+    "correctAnswer": "Education Minister's resignation and parliamentary discussion"
   },
   {
     "id": 11,
-    "question": "What is the main cause cited for the ongoing Parliament disruptions in India during the Monsoon session?",
-    "options": ["Inflation", "Border disputes", "Examination irregularities", "State elections"],
-    "correctAnswer": "Examination irregularities"
+    "question": "Which specific visa program, highly relevant to Indian IT professionals from major hubs like Hyderabad in Telangana, is discussed in Tanul Thakur's debut book 'Wild Wild East'?",
+    "options": [
+      "L-1 Visa",
+      "H-1B Visa",
+      "O-1 Visa",
+      "J-1 Visa"
+    ],
+    "correctAnswer": "H-1B Visa"
   },
   {
     "id": 12,
-    "question": "Which Union Minister invited protesting students for talks at JP Nadda's place amidst the examination controversy?",
-    "options": ["Amit Shah", "Rajnath Singh", "Jitendra Singh", "Nirmala Sitharaman"],
-    "correctAnswer": "Jitendra Singh"
+    "question": "Who is the award-winning journalist and film critic known for his views on the H-1B program, and author of 'Wild Wild East', as per the news?",
+    "options": [
+      "Anupama Chopra",
+      "Baradwaj Rangan",
+      "Tanul Thakur",
+      "Raja Sen"
+    ],
+    "correctAnswer": "Tanul Thakur"
   },
   {
     "id": 13,
-    "question": "A proposed stringent law against examination paper leaks, mentioned in parliamentary discussions, aims to ensure what for offenders?",
-    "options": ["Rehabilitation programs", "Harshest punishment", "Educational counseling", "Community service"],
-    "correctAnswer": "Harshest punishment"
+    "question": "What is the title of Tanul Thakur's debut book that discusses the corporate cruelty driving the H-1B visa economy, a topic of interest to many from India's tech states?",
+    "options": [
+      "'Silicon Valley Dreams'",
+      "'The Outsourcing Paradox'",
+      "'Wild Wild East'",
+      "'The Visa Game'"
+    ],
+    "correctAnswer": "'Wild Wild East'"
   },
   {
     "id": 14,
-    "question": "What is identified as a primary reason for the reduction in width and flow of India's rivers, affecting states like Telangana and Andhra Pradesh?",
-    "options": ["Climate change", "Industrial farming", "Expanding cities", "Excessive dam construction"],
-    "correctAnswer": "Expanding cities"
+    "question": "In which year did Tanul Thakur win the National Film Award for Best Film Critic, becoming the youngest recipient of the honor?",
+    "options": [
+      "2010",
+      "2012",
+      "2015",
+      "2018"
+    ],
+    "correctAnswer": "2015"
   },
   {
     "id": 15,
-    "question": "What substance are many Indian rivers reported to carry more of now than freshwater, posing a significant environmental challenge?",
-    "options": ["Silt", "Industrial waste", "Sewage", "Agricultural runoff"],
-    "correctAnswer": "Sewage"
+    "question": "The H-1B visa economy primarily impacts which major sector for Indian professionals, particularly those migrating from technology hubs in states like Telangana and Andhra Pradesh, seeking opportunities abroad?",
+    "options": [
+      "Healthcare",
+      "Manufacturing",
+      "Information Technology (IT)",
+      "Education"
+    ],
+    "correctAnswer": "Information Technology (IT)"
   },
   {
     "id": 16,
-    "question": "What two crucial measures are highlighted as essential for the survival of India's rivers?",
-    "options": ["Building more dams and diverting water", "Protecting floodplains and managing sewage", "Dredging riverbeds and promoting tourism", "Rerouting rivers and increasing navigation"],
-    "correctAnswer": "Protecting floodplains and managing sewage"
+    "question": "Tanul Thakur's book 'Wild Wild East' is described as exploring the 'corporate cruelty' associated with what specific economic phenomenon?",
+    "options": [
+      "Global trade wars",
+      "The H-1B visa economy",
+      "Startup culture in India",
+      "Digital currency regulations"
+    ],
+    "correctAnswer": "The H-1B visa economy"
   },
   {
     "id": 17,
-    "question": "What ongoing challenge makes efforts to clean India's waterways difficult, impacting states with major river systems like the Godavari and Krishna?",
-    "options": ["Lack of technology", "Insufficient funding", "Ongoing pollution and development pressures", "Political disagreements"],
-    "correctAnswer": "Ongoing pollution and development pressures"
+    "question": "States like Telangana and Andhra Pradesh, with their robust IT sectors and skilled workforce, are particularly affected by policies related to which international visa program for skilled workers?",
+    "options": [
+      "EB-5 Visa",
+      "H-2B Visa",
+      "H-1B Visa",
+      "E-2 Visa"
+    ],
+    "correctAnswer": "H-1B Visa"
   },
   {
     "id": 18,
-    "question": "Besides specific rivers like Ganga and Brahmaputra, what general issue is causing Indian rivers to be described as 'dying lifelines'?",
-    "options": ["Drought conditions", "Overfishing", "Urban encroachment and pollution", "Increased navigation"],
-    "correctAnswer": "Urban encroachment and pollution"
+    "question": "What significant milestone did India's first hydrogen-powered train achieve recently, showcasing advancements in sustainable transportation?",
+    "options": [
+      "Reached a speed of 200 km/h",
+      "Completed its first international journey",
+      "Completed 900 kilometers in five days",
+      "Successfully integrated with the metro system"
+    ],
+    "correctAnswer": "Completed 900 kilometers in five days"
   },
   {
     "id": 19,
-    "question": "Which government body's security vetting approvals are causing significant delays for private airport operators in India, impacting operations at major airports like Hyderabad?",
-    "options": ["AAI (Airports Authority of India)", "DGCA (Directorate General of Civil Aviation)", "BCAS (Bureau of Civil Aviation Security)", "CISF (Central Industrial Security Force)"],
-    "correctAnswer": "BCAS (Bureau of Civil Aviation Security)"
+    "question": "How many kilometers did India's first hydrogen-powered train complete in five days during its recent test run, as per the news?",
+    "options": [
+      "500 kilometers",
+      "750 kilometers",
+      "900 kilometers",
+      "1200 kilometers"
+    ],
+    "correctAnswer": "900 kilometers"
   },
   {
     "id": 20,
-    "question": "What is a key consequence of the BCAS clearance delays flagged by private airport operators?",
-    "options": ["Increased airfare", "Reduced flight routes", "Impact on operational efficiencies and passenger convenience", "Pilots' license renewal issues"],
-    "correctAnswer": "Impact on operational efficiencies and passenger convenience"
+    "question": "What type of innovative and environmentally friendly fuel powers India's recently tested train, as mentioned in the news wrap?",
+    "options": [
+      "Solar energy",
+      "Bio-diesel",
+      "Hydrogen",
+      "Electric (battery-powered)"
+    ],
+    "correctAnswer": "Hydrogen"
   },
   {
     "id": 21,
-    "question": "Which organization has requested faster processing timelines from the government due to delays in security vetting approvals for airport projects?",
-    "options": ["Federation of Indian Chambers of Commerce & Industry (FICCI)", "Confederation of Indian Industry (CII)", "Association of Private Airport Operators (APAO)", "International Air Transport Association (IATA)"],
-    "correctAnswer": "Association of Private Airport Operators (APAO)"
+    "question": "Which water-sharing treaty, relevant to India's foreign policy, is stated to be in abeyance according to India's recent statement at ASEAN?",
+    "options": [
+      "Ganga Water Treaty",
+      "Indus Waters Treaty",
+      "Mahakali Treaty",
+      "Teesta River Treaty"
+    ],
+    "correctAnswer": "Indus Waters Treaty"
   },
   {
     "id": 22,
-    "question": "What aspect of airport projects is being delayed due to slow security vetting approvals?",
-    "options": ["Aircraft maintenance", "Project implementation", "Air traffic control upgrades", "Fuel supply management"],
-    "correctAnswer": "Project implementation"
+    "question": "Who is India's External Affairs Minister who recently stressed the importance of maritime law adherence and called for regional cooperation amid the Middle East crisis?",
+    "options": [
+      "Amit Shah",
+      "Rajnath Singh",
+      "S. Jaishankar",
+      "Nirmala Sitharaman"
+    ],
+    "correctAnswer": "S. Jaishankar"
   },
   {
     "id": 23,
-    "question": "Which neighboring country's navy recently apprehended 9 Indian fishermen for alleged illegal fishing, an issue that can affect coastal states like Andhra Pradesh?",
-    "options": ["Pakistan", "Bangladesh", "Maldives", "Sri Lanka"],
-    "correctAnswer": "Sri Lanka"
+    "question": "India supports a substantive Code of Conduct for which specific sea, as mentioned by EAM Jaishankar in the context of global maritime security?",
+    "options": [
+      "Arabian Sea",
+      "Bay of Bengal",
+      "South China Sea",
+      "Mediterranean Sea"
+    ],
+    "correctAnswer": "South China Sea"
   },
   {
     "id": 24,
-    "question": "From which city did the British Airways flight, affected by pilot food poisoning, depart for London?",
-    "options": ["Delhi", "Hyderabad", "Kolkata", "Pune"],
-    "correctAnswer": "Hyderabad"
+    "question": "What potential legal consequence awaits individuals involved in violence during protests, as suggested by reports from Delhi Police?",
+    "options": [
+      "Community service",
+      "Temporary driving license suspension",
+      "Passport cancellation",
+      "Mandatory re-education programs"
+    ],
+    "correctAnswer": "Passport cancellation"
   },
   {
     "id": 25,
-    "question": "What was the profession of the individuals who suffered food poisoning on the British Airways flight from Hyderabad?",
-    "options": ["Cabin Crew", "Pilots", "Passengers", "Ground Staff"],
-    "correctAnswer": "Pilots"
+    "question": "The news mentions 'UP ke ladke' referring to a renewed political alliance between which two prominent Indian leaders?",
+    "options": [
+      "Narendra Modi and Amit Shah",
+      "Arvind Kejriwal and Bhagwant Mann",
+      "Rahul Gandhi and Akhilesh Yadav",
+      "Mamata Banerjee and Uddhav Thackeray"
+    ],
+    "correctAnswer": "Rahul Gandhi and Akhilesh Yadav"
   }
 ]

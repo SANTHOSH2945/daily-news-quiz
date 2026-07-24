@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What national examination has recently been at the center of controversy involving alleged paper leaks and widespread student protests across India, including states like Telangana and Andhra Pradesh?",
-    "options": ["JEE Main", "UPSC Civil Services", "NEET-UG", "SSC CGL"],
-    "correctAnswer": "NEET-UG"
+    "question": "The recently cleared Anti-Paper Leak Bill, 2024, by the Union Cabinet primarily aims to address what pressing issue affecting competitive examinations across India, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "Increase educational funding",
+      "Curb examination malpractices",
+      "Introduce new curriculum",
+      "Promote online education"
+    ],
+    "correctAnswer": "Curb examination malpractices"
   },
   {
     "id": 2,
-    "question": "What was the primary concern addressed by Prime Minister Modi in his recent video message to the nation?",
-    "options": ["Economic reforms", "Healthcare improvements", "Paper leaks in public examinations", "Agricultural policies"],
-    "correctAnswer": "Paper leaks in public examinations"
+    "question": "What is the maximum jail term proposed for individuals involved in paper leak offences under the new Anti-Paper Leak Bill, 2024?",
+    "options": [
+      "Up to 3 years",
+      "Up to 5 years",
+      "Up to 7 years",
+      "Up to 10 years"
+    ],
+    "correctAnswer": "Up to 10 years"
   },
   {
     "id": 3,
-    "question": "What is the name of the new legislation enacted to curb paper leaks, cheating, and organized malpractices in public examinations in India?",
-    "options": ["Public Examination Integrity Act, 2024", "Anti-Cheating and Fair Conduct Act, 2024", "Public Examinations (Prevention of Unfair Means) Act, 2024", "National Test Security Act, 2024"],
-    "correctAnswer": "Public Examinations (Prevention of Unfair Means) Act, 2024"
+    "question": "The Anti-Paper Leak Bill, 2024, proposes a substantial fine for those found guilty of paper leaks. What is the maximum fine amount mentioned?",
+    "options": [
+      "Rs 1 crore",
+      "Rs 5 crore",
+      "Rs 10 crore",
+      "Rs 20 crore"
+    ],
+    "correctAnswer": "Rs 10 crore"
   },
   {
     "id": 4,
-    "question": "What is the current maximum jail term specified in the enacted Public Examinations (Prevention of Unfair Means) Act, 2024, for offenders involved in paper leaks?",
-    "options": ["5 years", "7 years", "10 years", "14 years"],
-    "correctAnswer": "10 years"
+    "question": "According to the news, the new Anti-Paper Leak Bill aims to increase the minimum jail term from a previous duration. What was this earlier minimum jail term?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "4 years"
+    ],
+    "correctAnswer": "3 years"
   },
   {
     "id": 5,
-    "question": "Besides imprisonment, what is the maximum fine amount stipulated in the Public Examinations (Prevention of Unfair Means) Act, 2024?",
-    "options": ["Rs 50 lakh", "Rs 1 crore", "Rs 2 crore", "Rs 5 crore"],
-    "correctAnswer": "Rs 1 crore"
+    "question": "With the new Anti-Paper Leak Bill, 2024, what is the proposed increase in the minimum jail term for paper leak offences?",
+    "options": [
+      "From 2 years to 4 years",
+      "From 3 years to 5 years",
+      "From 4 years to 6 years",
+      "From 5 years to 7 years"
+    ],
+    "correctAnswer": "From 3 years to 5 years"
   },
   {
     "id": 6,
-    "question": "The Public Examinations (Prevention of Unfair Means) Act, 2024 aims to curb malpractices in public examinations conducted by bodies like UPSC, SSC, and which other major testing agency?",
-    "options": ["CBSE", "ICSE", "NTA", "AICTE"],
-    "correctAnswer": "NTA"
+    "question": "How are state public service commissions, such as the Telangana State Public Service Commission (TSPSC) and Andhra Pradesh Public Service Commission (APPSC), expected to be primarily affected by the new national Anti-Paper Leak Bill?",
+    "options": [
+      "They will lose autonomy",
+      "Their examination processes will become more secure",
+      "They will only conduct online exams",
+      "Their recruitment quotas will change"
+    ],
+    "correctAnswer": "Their examination processes will become more secure"
   },
   {
     "id": 7,
-    "question": "Which political leader criticized the Modi government for its handling of the NEET-UG protests, describing it as 'trademark arrogance'?",
-    "options": ["Rahul Gandhi", "Sonia Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi Vadra"],
-    "correctAnswer": "Sonia Gandhi"
+    "question": "The Anti-Paper Leak Bill seeks to address malpractices by doubling which aspect of punishment for offenders?",
+    "options": [
+      "Financial aid to victims",
+      "Public awareness campaigns",
+      "Punishment for paper leak offences",
+      "Training for exam invigilators"
+    ],
+    "correctAnswer": "Punishment for paper leak offences"
   },
   {
     "id": 8,
-    "question": "Rahul Gandhi slammed Prime Minister Modi over a midnight video message regarding paper leaks, stating it was an insult to students' intelligence. What was the central topic of PM Modi's video?",
-    "options": ["Digital India initiatives", "Clean India campaign", "Paper leaks in public examinations", "Vocal for Local"],
-    "correctAnswer": "Paper leaks in public examinations"
+    "question": "The Anti-Paper Leak Bill, 2024, is specifically designed to deter malpractices in which phase of public recruitment and entrance examinations?",
+    "options": [
+      "Application submission",
+      "Examination conduct and evaluation",
+      "Interview process",
+      "Post-recruitment training"
+    ],
+    "correctAnswer": "Examination conduct and evaluation"
   },
   {
     "id": 9,
-    "question": "Among the key demands put forth during the talks between CJP and the Centre regarding the NEET controversy, whose resignation was prominently sought?",
-    "options": ["Home Minister", "Finance Minister", "Education Minister Pradhan", "Health Minister"],
-    "correctAnswer": "Education Minister Pradhan"
+    "question": "The Union Cabinet cleared a 'tougher' Anti-Paper Leak Bill primarily due to what overarching concern regarding examination integrity across the nation, often echoed in states like Telangana?",
+    "options": [
+      "Lack of qualified candidates",
+      "Increasing instances of paper leaks and unfair means",
+      "High cost of conducting exams",
+      "Need for more exam centers"
+    ],
+    "correctAnswer": "Increasing instances of paper leaks and unfair means"
   },
   {
     "id": 10,
-    "question": "According to Sonia Gandhi, how did the Modi government treat the NEET protestors?",
-    "options": ["As valuable stakeholders", "As inheritors of the future", "As 'enemies of the nation'", "As constructive critics"],
-    "correctAnswer": "As 'enemies of the nation'"
+    "question": "Who are the ultimate beneficiaries of the stringent provisions of the new Anti-Paper Leak Bill, particularly in states like Andhra Pradesh and Telangana where competitive exams are highly sought after?",
+    "options": [
+      "Exam conducting agencies",
+      "Coaching institutes",
+      "Honest and deserving candidates",
+      "Government officials"
+    ],
+    "correctAnswer": "Honest and deserving candidates"
   },
   {
     "id": 11,
-    "question": "What did Rahul Gandhi demand in response to the NEET-UG paper leak controversy, beyond criticizing the government?",
-    "options": ["A judicial inquiry", "Education minister's resignation and punishment for culprits", "Re-examination for all students", "Formation of a new regulatory body"],
-    "correctAnswer": "Education minister's resignation and punishment for culprits"
+    "question": "In the context of the national Anti-Paper Leak Bill, what is a key role expected from state governments, including Telangana and Andhra Pradesh, in its effective implementation?",
+    "options": [
+      "To develop independent state-specific bills",
+      "To cooperate with central agencies for enforcement",
+      "To conduct all examinations online",
+      "To abolish all competitive exams"
+    ],
+    "correctAnswer": "To cooperate with central agencies for enforcement"
   },
   {
     "id": 12,
-    "question": "What term did PM Modi use to emphasize the gravity of paper leaks in his video message?",
-    "options": ["A minor inconvenience", "A temporary setback", "'No ordinary matter'", "A manageable challenge"],
-    "correctAnswer": "'No ordinary matter'"
+    "question": "A major objective of the Anti-Paper Leak Bill, 2024, is to restore what among the public, especially students and parents in regions like South India, concerning the fairness of examinations?",
+    "options": [
+      "Economic growth",
+      "Faith in the examination system",
+      "Political stability",
+      "Cultural heritage"
+    ],
+    "correctAnswer": "Faith in the examination system"
   },
   {
     "id": 13,
-    "question": "The government is reportedly planning to tweak the anti-cheating law further. What specific change is likely to be made?",
-    "options": ["Reduce the fine amount", "Expand the types of exams covered", "Increase the jail term for offenders", "Simplify the investigation process"],
-    "correctAnswer": "Increase the jail term for offenders"
+    "question": "The legislation cleared by the Cabinet to combat paper leaks is best described as an:",
+    "options": [
+      "Economic reform bill",
+      "Educational administration bill",
+      "Anti-malpractice criminal law",
+      "Social welfare bill"
+    ],
+    "correctAnswer": "Anti-malpractice criminal law"
   },
   {
     "id": 14,
-    "question": "Which organization is primarily responsible for conducting the NEET-UG examination, which has been under scrutiny for alleged irregularities?",
-    "options": ["UPSC", "SSC", "NTA", "CBSE"],
-    "correctAnswer": "NTA"
+    "question": "The new Anti-Paper Leak Bill aims to significantly increase what aspect of the punishment for paper leak offences from previous provisions?",
+    "options": [
+      "Number of examinations",
+      "Minimum jail term",
+      "Number of exam centers",
+      "Government scholarships"
+    ],
+    "correctAnswer": "Minimum jail term"
   },
   {
     "id": 15,
-    "question": "The recent widespread protests across various states, including Telangana and Andhra Pradesh, demanding accountability and education reform, were primarily against alleged irregularities in which examination?",
-    "options": ["TSPSC Group 1", "EAMCET", "NEET-UG", "APPSC Group 2"],
-    "correctAnswer": "NEET-UG"
+    "question": "The bill specifically targets malpractices like paper leaks and fraudulent conduct, aiming to protect the sanctity of which system crucial for youth employment in states like Telangana?",
+    "options": [
+      "Agricultural subsidy system",
+      "Public recruitment and competitive examination system",
+      "Industrial licensing system",
+      "Healthcare insurance system"
+    ],
+    "correctAnswer": "Public recruitment and competitive examination system"
   },
   {
     "id": 16,
-    "question": "Beyond paper leaks, what other issues does the Public Examinations (Prevention of Unfair Means) Act, 2024, specifically aim to curb?",
-    "options": ["Student truancy and absenteeism", "High examination fees", "Cheating and organized malpractices", "Delay in result declarations"],
-    "correctAnswer": "Cheating and organized malpractices"
+    "question": "The tougher provisions in the Anti-Paper Leak Bill are a response to the need for greater deterrence against sophisticated methods of paper leaks, requiring enhanced security in examination processes across states, including Andhra Pradesh. What primary outcome is this bill expected to achieve regarding security?",
+    "options": [
+      "Reduce paper consumption",
+      "Enhance exam security and integrity",
+      "Promote foreign language learning",
+      "Decrease public holidays"
+    ],
+    "correctAnswer": "Enhance exam security and integrity"
   },
   {
     "id": 17,
-    "question": "According to Sonia Gandhi, what were the straightforward demands of the NEET protestors?",
-    "options": ["More coaching centers", "Reduced syllabus and easier papers", "Accountability from the Government of India and education reform", "Delay in examination dates"],
-    "correctAnswer": "Accountability from the Government of India and education reform"
+    "question": "Effective implementation of the national Anti-Paper Leak Bill will likely require collaboration between central agencies and which other entities, particularly active in states like Telangana?",
+    "options": [
+      "Private schools",
+      "State education departments and law enforcement",
+      "International NGOs",
+      "Religious organizations"
+    ],
+    "correctAnswer": "State education departments and law enforcement"
   },
   {
     "id": 18,
-    "question": "Prime Minister Modi announced a new bill with stringent punishments for exam paper leaks. In which body is this proposed legislation expected to be discussed soon?",
-    "options": ["Parliamentary Standing Committee", "Supreme Court", "Union Cabinet", "NITI Aayog"],
-    "correctAnswer": "Union Cabinet"
+    "question": "The substantial increase in penalties, including jail terms and fines, under the new bill is primarily intended to have what effect on potential offenders?",
+    "options": [
+      "Encourage participation",
+      "Serve as a strong deterrent",
+      "Promote rehabilitation",
+      "Fund public services"
+    ],
+    "correctAnswer": "Serve as a strong deterrent"
   },
   {
     "id": 19,
-    "question": "The government is considering increasing the jail term for offenders in paper leaks. What was the 'current' maximum jail term ceiling mentioned in the proposed bill before this potential increase?",
-    "options": ["7 years", "10 years", "12 years", "15 years"],
-    "correctAnswer": "10 years"
+    "question": "The push for a tougher anti-paper leak law reflects a recurring problem that has undermined the credibility of which sector across various states in India, including Andhra Pradesh and Telangana?",
+    "options": [
+      "Agricultural sector",
+      "Public employment and education sector",
+      "Healthcare sector",
+      "Tourism sector"
+    ],
+    "correctAnswer": "Public employment and education sector"
   },
   {
     "id": 20,
-    "question": "What specific mode of communication did PM Modi use to address the nation on the issue of paper leaks?",
-    "options": ["A televised speech during the day", "A live press conference", "A midnight video message", "A radio address"],
-    "correctAnswer": "A midnight video message"
+    "question": "What specific action did the Union Cabinet take regarding the Anti-Paper Leak Bill?",
+    "options": [
+      "Introduced it in Parliament",
+      "Sent it for review",
+      "Cleared it for further process",
+      "Rejected it"
+    ],
+    "correctAnswer": "Cleared it for further process"
   },
   {
     "id": 21,
-    "question": "Sonia Gandhi criticized the police action during the recent protests. Over which specific issue were these protests taking place?",
-    "options": ["Farm laws", "Fuel price hike", "Alleged NEET paper leak and the state of the education system", "Privatization of public sector undertakings"],
-    "correctAnswer": "Alleged NEET paper leak and the state of the education system"
+    "question": "By curbing paper leaks, the bill aims to prevent negative impacts on students, such as:",
+    "options": [
+      "Increased travel costs",
+      "Loss of trust, wasted effort, and delayed career prospects",
+      "Difficulty in choosing subjects",
+      "Reduced access to study materials"
+    ],
+    "correctAnswer": "Loss of trust, wasted effort, and delayed career prospects"
   },
   {
     "id": 22,
-    "question": "Rahul Gandhi slammed PM Modi's midnight video on paper leaks, stating it insulted whose intelligence?",
-    "options": ["Economists", "Policymakers", "Journalists", "Students' intelligence"],
-    "correctAnswer": "Students' intelligence"
+    "question": "The phrase 'paper leak offences' as addressed by the bill primarily refers to:",
+    "options": [
+      "Misplacing answer sheets",
+      "Unauthorized disclosure or access to examination material",
+      "Students copying from textbooks",
+      "Errors in question papers"
+    ],
+    "correctAnswer": "Unauthorized disclosure or access to examination material"
   },
   {
     "id": 23,
-    "question": "The Public Examinations (Prevention of Unfair Means) Act, 2024, provides for penalties for those involved in organized malpractices specifically within which sector?",
-    "options": ["Private sector recruitments", "Judicial appointments", "Public examinations", "International competitive exams"],
-    "correctAnswer": "Public examinations"
+    "question": "The enforcement of stricter penalties under the Anti-Paper Leak Bill will require robust investigative mechanisms. This is particularly relevant for states like Andhra Pradesh and Telangana, given their high number of competitive examinations. What is a direct implication of increased penalties?",
+    "options": [
+      "Fewer examinations",
+      "More diligent investigation and prosecution",
+      "Simplified exam patterns",
+      "Reduced student population"
+    ],
+    "correctAnswer": "More diligent investigation and prosecution"
   },
   {
     "id": 24,
-    "question": "What was Prime Minister Modi's general stance on the seriousness of paper leaks, as conveyed in his video message?",
-    "options": ["They are a minor issue", "They are a serious matter requiring strict action", "They are inevitable in a large country", "They are exaggerated by media"],
-    "correctAnswer": "They are a serious matter requiring strict action"
+    "question": "What is the long-term vision behind strengthening the law against paper leaks, especially pertinent for career aspirants in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "To privatize all examinations",
+      "To ensure fair and equitable opportunities for all candidates",
+      "To reduce the number of government jobs",
+      "To promote foreign universities"
+    ],
+    "correctAnswer": "To ensure fair and equitable opportunities for all candidates"
   },
   {
     "id": 25,
-    "question": "What was the main point of contention raised by political leaders like Sonia Gandhi and Rahul Gandhi regarding the government's response to the NEET controversy?",
-    "options": ["Lack of funds for education", "Insufficient number of medical colleges", "Government's alleged mishandling and insensitivity towards students", "Delay in forming a new education policy"],
-    "correctAnswer": "Government's alleged mishandling and insensitivity towards students"
+    "question": "The term 'tougher' in the headline describing the Anti-Paper Leak Bill primarily refers to which aspect of the legislation?",
+    "options": [
+      "Difficulty of the exams",
+      "Severity of penalties and legal consequences",
+      "Length of the bill document",
+      "Strictness of eligibility criteria"
+    ],
+    "correctAnswer": "Severity of penalties and legal consequences"
   }
 ]

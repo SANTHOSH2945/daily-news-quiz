@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What recent medical breakthrough involving cervical pre-cancer treatment and vaccine technology was handed over by ICMR to pharma firms?",
-    "options": ["Homegrown diagnostic kits", "AI-powered surgical tools", "Genetic therapy for lung cancer", "Homegrown treatment and vaccine technologies"],
-    "correctAnswer": "Homegrown treatment and vaccine technologies"
+    "question": "Which Union Minister's resignation, amidst a major controversy affecting students across India including Telangana and Andhra Pradesh, was recently reported?",
+    "options": ["Piyush Goyal", "Dharmendra Pradhan", "Nitin Gadkari", "Amit Shah"],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 2,
-    "question": "How might the availability of ICMR's homegrown cervical pre-cancer treatment impact public health initiatives in states like Telangana and Andhra Pradesh?",
-    "options": ["Increase demand for private hospitals", "Reduce focus on other cancers", "Enhance accessibility and affordability of women's health screening", "Lead to a shortage of general physicians"],
-    "correctAnswer": "Enhance accessibility and affordability of women's health screening"
+    "question": "Dharmendra Pradhan resigned from which Union Cabinet portfolio, a topic of national concern relevant to all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["Finance Minister", "Home Minister", "Education Minister", "Defence Minister"],
+    "correctAnswer": "Education Minister"
   },
   {
     "id": 3,
-    "question": "The ICMR's transfer of cervical pre-cancer technology to pharma firms aims to primarily address which health concern in India?",
-    "options": ["Diabetes management", "Cardiovascular diseases", "Women's reproductive health", "Childhood malnutrition"],
-    "correctAnswer": "Women's reproductive health"
+    "question": "The resignation of the Union Education Minister was primarily linked to widespread protests concerning which major examination irregularity that impacts students nationwide, including those from Telangana and Andhra Pradesh?",
+    "options": ["UPSC Civil Services Exam leak", "JEE Advanced paper leak", "NEET paper leak", "SSC CGL exam fraud"],
+    "correctAnswer": "NEET paper leak"
   },
   {
     "id": 4,
-    "question": "What is a potential benefit for healthcare infrastructure in Telangana and Andhra Pradesh from ICMR's indigenous vaccine technology against cervical cancer?",
-    "options": ["Decreased need for skilled medical personnel", "Reduced reliance on imported vaccines", "Increased rates of other infectious diseases", "Higher costs for basic health check-ups"],
-    "correctAnswer": "Reduced reliance on imported vaccines"
+    "question": "Following the irregularities, what immediate action was taken regarding the NEET exam, as reported in the news impacting students across India, including Telangana and Andhra Pradesh?",
+    "options": ["It was postponed indefinitely", "It was cancelled", "Only specific centers were re-examined", "Results were released as scheduled"],
+    "correctAnswer": "It was cancelled"
   },
   {
     "id": 5,
-    "question": "By developing and transferring cervical pre-cancer technologies, ICMR contributes to which broader national goal impacting states like Telangana and Andhra Pradesh?",
-    "options": ["Promoting space tourism", "Achieving self-reliance in critical healthcare areas", "Developing new agricultural pesticides", "Expanding digital payment systems"],
-    "correctAnswer": "Achieving self-reliance in critical healthcare areas"
+    "question": "Which central investigative agency was handed over the investigation into the NEET paper leak, a matter of national importance that affects students in states like Telangana and Andhra Pradesh?",
+    "options": ["National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
+    "correctAnswer": "Central Bureau of Investigation (CBI)"
   },
   {
     "id": 6,
-    "question": "Rahul Gandhi recently criticized the Central government for its handling of protests related to which major national entrance examination?",
-    "options": ["JEE Advanced", "UPSC Civil Services Exam", "NEET", "CAT"],
-    "correctAnswer": "NEET"
+    "question": "To whom did Union Education Minister Dharmendra Pradhan submit his resignation letter, a significant political event with national implications?",
+    "options": ["The President of India", "The Chief Justice of India", "The Speaker of Lok Sabha", "Prime Minister Narendra Modi"],
+    "correctAnswer": "Prime Minister Narendra Modi"
   },
   {
     "id": 7,
-    "question": "What alleged government action during the NEET protests was criticized for impacting fundamental rights, potentially affecting students from Telangana and Andhra Pradesh?",
-    "options": ["Providing free coaching", "Shutting down metro and internet services", "Increasing exam centers", "Offering scholarships for top performers"],
-    "correctAnswer": "Shutting down metro and internet services"
+    "question": "The government is proposing a stricter law with what primary focus, a legislative move aimed at national issues like those affecting education in states such as Telangana and Andhra Pradesh?",
+    "options": ["Anti-corruption in public offices", "Anti-cybercrime enforcement", "Anti-paper leak measures", "Anti-terrorism activities"],
+    "correctAnswer": "Anti-paper leak measures"
   },
   {
     "id": 8,
-    "question": "The concerns over 'paper leaks' in national examinations like NEET directly affect the academic aspirations of students in which regions, including Telangana and Andhra Pradesh?",
-    "options": ["Only urban centers", "Specific union territories", "All states across India", "Just metropolitan cities"],
-    "correctAnswer": "All states across India"
+    "question": "One of the stated objectives of the proposed stricter anti-paper leak law, a national initiative with relevance to states like Telangana and Andhra Pradesh, is to ensure:",
+    "options": ["Faster syllabus completion", "Faster investigation and trials", "Faster exam result declaration", "Faster job placements"],
+    "correctAnswer": "Faster investigation and trials"
   },
   {
     "id": 9,
-    "question": "Rahul Gandhi's comparison of the government's treatment of NEET protesters to 'British tyranny' highlights concerns about what, affecting citizens nationwide?",
-    "options": ["Colonial economic policies", "Suppression of dissent and civil liberties", "Promotion of English language", "Historical architectural preservation"],
-    "correctAnswer": "Suppression of dissent and civil liberties"
+    "question": "Which organization's founder, Abhijeet Dipke, was mentioned in the news for continuing protests despite Pradhan's resignation, highlighting a movement with national resonance?",
+    "options": ["Youth for Justice Party", "Cockroach Janata Party", "Student Rights Alliance", "National Education Movement"],
+    "correctAnswer": "Cockroach Janata Party"
   },
   {
     "id": 10,
-    "question": "How does the integrity of national exams like NEET, a topic of recent protest, directly influence the future professional landscape and talent pool in states such as Telangana and Andhra Pradesh?",
-    "options": ["It has no bearing on state-level professions", "Ensures fair entry into medical colleges, impacting the healthcare workforce", "Only affects students pursuing arts degrees", "Leads to an increase in engineering admissions"],
-    "correctAnswer": "Ensures fair entry into medical colleges, impacting the healthcare workforce"
+    "question": "What is one of the two remaining demands made by the Cockroach Janata Party (CJP) after Pradhan's resignation, as reported in the news outlining national protest efforts?",
+    "options": ["Reinstatement of Pradhan", "Apology from the Prime Minister", "Compensation of one crore rupees for families of suicide victims", "Abolition of the NEET exam"],
+    "correctAnswer": "Compensation of one crore rupees for families of suicide victims"
   },
   {
     "id": 11,
-    "question": "According to Union Minister Pralhad Joshi, what technology is the government investing heavily in to cut power costs nationwide?",
-    "options": ["Nuclear fusion reactors", "Coal gasification plants", "Battery storage systems", "Hydroelectric dams"],
-    "correctAnswer": "Battery storage systems"
+    "question": "Besides compensation, what other demand is the Cockroach Janata Party (CJP) making regarding the recent protests, a matter of public accountability relevant nationwide?",
+    "options": ["Immediate re-examination for all students", "Action against police for alleged brutality", "A national holiday for students", "More government jobs"],
+    "correctAnswer": "Action against police for alleged brutality"
   },
   {
     "id": 12,
-    "question": "How will significant investment in battery storage systems likely benefit electricity consumers in Telangana and Andhra Pradesh?",
-    "options": ["Increase dependency on fossil fuels", "Lead to more frequent power outages", "Reduce their electricity bills and enhance grid stability", "Decrease the availability of renewable energy"],
-    "correctAnswer": "Reduce their electricity bills and enhance grid stability"
+    "question": "The news highlighted a growing health concern among young professionals in India, including those in Telangana and Andhra Pradesh, specifically mentioning a rise in:",
+    "options": ["Cardiac issues", "Diabetes", "Cervical pain", "Respiratory illnesses"],
+    "correctAnswer": "Cervical pain"
   },
   {
     "id": 13,
-    "question": "What is the primary objective of the government's heavy investment in battery storage systems, as stated in the news?",
-    "options": ["To promote electric vehicle manufacturing", "To reduce power transmission losses", "To cut power cost", "To replace all conventional power plants"],
-    "correctAnswer": "To cut power cost"
+    "question": "What is identified as a primary cause for the rise in cervical pain among young Indian professionals, a lifestyle factor prevalent in urban centers like Hyderabad and Vijayawada?",
+    "options": ["Intensive physical labor", "Excessive sports activities", "Extended exposure to screens coupled with poor posture", "Lack of nutritional food"],
+    "correctAnswer": "Extended exposure to screens coupled with poor posture"
   },
   {
     "id": 14,
-    "question": "The adoption of advanced battery storage technologies can help states like Telangana and Andhra Pradesh integrate more of which type of energy into their grids?",
-    "options": ["Thermal energy", "Nuclear energy", "Renewable energy (solar, wind)", "Biomass energy only"],
-    "correctAnswer": "Renewable energy (solar, wind)"
+    "question": "Medical experts are reportedly observing a concerning increase in younger patients suffering from which condition, a trend affecting the workforce across India, including Telangana and Andhra Pradesh?",
+    "options": ["Hypertension", "Cervical pain", "Arthritis", "Asthma"],
+    "correctAnswer": "Cervical pain"
   },
   {
     "id": 15,
-    "question": "What long-term impact on industrial and economic development can be expected in states like Telangana and Andhra Pradesh due to reduced power costs from battery storage investments?",
-    "options": ["Increased operational costs for businesses", "Limited industrial expansion", "Enhanced competitiveness and growth for industries", "Greater reliance on manual labor"],
-    "correctAnswer": "Enhanced competitiveness and growth for industries"
+    "question": "To combat the rising issue of cervical pain among desk job professionals in India, including those in Telangana and Andhra Pradesh, what two key solutions are suggested?",
+    "options": ["Increased medication and rest", "More strenuous exercise and reduced screen time", "Implementing ergonomic solutions and promoting movement breaks", "Surgery and physical therapy"],
+    "correctAnswer": "Implementing ergonomic solutions and promoting movement breaks"
   },
   {
     "id": 16,
-    "question": "Farmer organizations recently announced a march to Jantar Mantar, signaling continued protests over what type of issues affecting agricultural communities across India, including TS/AP?",
-    "options": ["Demands for urban development", "Concerns over agricultural policies and prices", "Protest against industrial pollution", "Advocacy for space research funding"],
-    "correctAnswer": "Concerns over agricultural policies and prices"
+    "question": "Dharmendra Pradhan stated in his resignation letter his commitment to students and education reform for how long, indicating a long-standing public service relevant to the education sector across India?",
+    "options": ["A few years", "Over a decade", "Decades", "His entire life"],
+    "correctAnswer": "Decades"
   },
   {
     "id": 17,
-    "question": "The phrase \"'Ab aayega aur maza!'\" from CJP suggests a continued build-up of what, which often involves farmers from various states including Telangana and Andhra Pradesh?",
-    "options": ["Cultural festivals", "Political rallies and movements", "Scientific conferences", "Sports tournaments"],
-    "correctAnswer": "Political rallies and movements"
+    "question": "In his resignation letter, Pradhan expressed gratitude for the opportunity to serve what, a sentiment often shared by public servants nationwide?",
+    "options": ["His political party", "His constituency", "The nation", "His family"],
+    "correctAnswer": "The nation"
   },
   {
     "id": 18,
-    "question": "What is a common underlying cause of farmer protests witnessed in different parts of India, which can also resonate with agricultural regions of Telangana and Andhra Pradesh?",
-    "options": ["Lack of internet access", "Issues related to crop prices, loan waivers, and MSP", "Demand for international travel subsidies", "Concerns about wildlife conservation"],
-    "correctAnswer": "Issues related to crop prices, loan waivers, and MSP"
+    "question": "The opposition reacted to Pradhan's resignation by saluting demonstrators and predicting a similar fate for whom, reflecting broader political commentary in India?",
+    "options": ["Chief Ministers", "Modi-Shah", "Bureaucrats", "Media houses"],
+    "correctAnswer": "Modi-Shah"
   },
   {
     "id": 19,
-    "question": "How do national farmer protests, even if centered in Delhi, influence policy discussions that affect agricultural practices and farmer welfare in states like Telangana and Andhra Pradesh?",
-    "options": ["They have no impact on state-level policies", "They prompt central government to review and revise agricultural policies", "They only concern farmers growing specific cash crops", "They divert funds from agricultural research"],
-    "correctAnswer": "They prompt central government to review and revise agricultural policies"
+    "question": "What did Dharmendra Pradhan accept responsibility for from the start, related to the education controversy that impacted students across India?",
+    "options": ["The delay in results", "The NEET paper leak controversy", "The syllabus changes", "The funding issues for education"],
+    "correctAnswer": "The NEET paper leak controversy"
   },
   {
     "id": 20,
-    "question": "What is the significance of farmers marching to Jantar Mantar in Delhi, a common protest site, for communities in states such as Telangana and Andhra Pradesh?",
-    "options": ["It's a tourist destination for farmers", "It signifies their attempt to bring their grievances to the national capital's attention", "It is where agricultural fairs are held", "It's a designated area for crop sales"],
-    "correctAnswer": "It signifies their attempt to bring their grievances to the national capital's attention"
+    "question": "Police dismissed rumors about a ban on which service, indicating concerns about public order during protests, a situation that could arise anywhere in India, including TS/AP?",
+    "options": ["Public transport services", "Internet services", "Food delivery services", "Essential goods delivery"],
+    "correctAnswer": "Food delivery services"
   },
   {
     "id": 21,
-    "question": "The Indian government recently fact-checked viral AI deepfakes targeting the Prime Minister and other ministers, highlighting concerns about what national issue?",
-    "options": ["Lack of artistic creativity", "Spread of misinformation and cyber security threats", "Overuse of social media", "International trade disputes"],
-    "correctAnswer": "Spread of misinformation and cyber security threats"
+    "question": "What did Pradhan state was his aim by resigning, emphasizing national security and stability concerns?",
+    "options": ["To avoid public scrutiny", "To ensure anti-national elements don't benefit from the situation", "To take a break from politics", "To join the private sector"],
+    "correctAnswer": "To ensure anti-national elements don't benefit from the situation"
   },
   {
     "id": 22,
-    "question": "The identification of 'Pakistani handles' in the spread of AI deepfakes points to a broader challenge of what, which can impact public perception and governance in states like Telangana and Andhra Pradesh?",
-    "options": ["Regional culinary exchange", "Cross-border digital propaganda and destabilization efforts", "Shared cultural heritage", "Joint technological development"],
-    "correctAnswer": "Cross-border digital propaganda and destabilization efforts"
+    "question": "The student protests, leading to the minister's resignation, were described as 'massive' and indicative of a 'victory of democracy' coming 'straight from the streets.' Where were these protests mentioned to be continuing, a significant national protest site?",
+    "options": ["India Gate", "Jantar Mantar", "Red Fort", "Parliament House"],
+    "correctAnswer": "Jantar Mantar"
   },
   {
     "id": 23,
-    "question": "How can the proliferation of AI deepfakes and misinformation, as highlighted by the government's fact-checking, pose a risk to the democratic processes in states like Telangana and Andhra Pradesh?",
-    "options": ["By making elections more transparent", "By influencing voter behavior and eroding trust in institutions", "By encouraging political debates", "By simplifying complex policy issues"],
-    "correctAnswer": "By influencing voter behavior and eroding trust in institutions"
+    "question": "The proposed anti-paper leak law, a national measure, aims to provide what kind of investigation and trials?",
+    "options": ["Lenient", "Delayed", "Faster", "More bureaucratic"],
+    "correctAnswer": "Faster"
   },
   {
     "id": 24,
-    "question": "What measure is implicitly supported by the government's action of fact-checking AI deepfakes, essential for informed public opinion in states like Telangana and Andhra Pradesh?",
-    "options": ["Censorship of all digital content", "Promotion of unregulated online platforms", "Digital literacy and critical thinking among citizens", "Complete ban on social media"],
-    "correctAnswer": "Digital literacy and critical thinking among citizens"
+    "question": "The news highlighted that many individuals with desk jobs in India, including those in Telangana and Andhra Pradesh, face daily discomfort that detracts from their:",
+    "options": ["Financial stability and social life", "Career growth and family time", "Quality of life and productivity", "Hobbies and leisure activities"],
+    "correctAnswer": "Quality of life and productivity"
   },
   {
     "id": 25,
-    "question": "The issue of viral AI deepfakes of public figures, a concern for the Central government, underscores the need for robust digital security and awareness campaigns in which context, relevant to all Indian states including Telangana and Andhra Pradesh?",
-    "options": ["Only during international summits", "Pertaining only to private individuals", "Throughout the digital ecosystem and public life", "Exclusively for military personnel"],
-    "correctAnswer": "Throughout the digital ecosystem and public life"
+    "question": "The phrase 'Victory of democracy... straight from the streets' was used by Sonam Wangchuk in reaction to Pradhan's resignation, implying what about the nature of the student protests that compelled the action?",
+    "options": ["They were professionally organized by political parties", "They were government-sponsored initiatives", "They were organic, grassroots movements", "They were solely social media campaigns"],
+    "correctAnswer": "They were organic, grassroots movements"
   }
 ]

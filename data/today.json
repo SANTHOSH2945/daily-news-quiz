@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What national body is concerned about the rising number of obese children in India, including states like Telangana and Andhra Pradesh?",
-    "options": ["WHO", "UNICEF", "ICMR", "NITI Aayog"],
-    "correctAnswer": "ICMR"
+    "question": "What recent medical breakthrough involving cervical pre-cancer treatment and vaccine technology was handed over by ICMR to pharma firms?",
+    "options": ["Homegrown diagnostic kits", "AI-powered surgical tools", "Genetic therapy for lung cancer", "Homegrown treatment and vaccine technologies"],
+    "correctAnswer": "Homegrown treatment and vaccine technologies"
   },
   {
     "id": 2,
-    "question": "Approximately how many children in India are reported to be obese, prompting the ICMR's call for tighter curbs?",
-    "options": ["2.5 crore", "4.1 crore", "6.2 crore", "1.8 crore"],
-    "correctAnswer": "4.1 crore"
+    "question": "How might the availability of ICMR's homegrown cervical pre-cancer treatment impact public health initiatives in states like Telangana and Andhra Pradesh?",
+    "options": ["Increase demand for private hospitals", "Reduce focus on other cancers", "Enhance accessibility and affordability of women's health screening", "Lead to a shortage of general physicians"],
+    "correctAnswer": "Enhance accessibility and affordability of women's health screening"
   },
   {
     "id": 3,
-    "question": "What is the current backlog of cases in fast-track courts across India, affecting justice delivery in states like Andhra Pradesh and Telangana?",
-    "options": ["1.5 lakh cases", "2.0 lakh cases", "2.5 lakh cases", "3.0 lakh cases"],
-    "correctAnswer": "2.5 lakh cases"
+    "question": "The ICMR's transfer of cervical pre-cancer technology to pharma firms aims to primarily address which health concern in India?",
+    "options": ["Diabetes management", "Cardiovascular diseases", "Women's reproductive health", "Childhood malnutrition"],
+    "correctAnswer": "Women's reproductive health"
   },
   {
     "id": 4,
-    "question": "In the last year, how many rape and POCSO cases were filed across India, including in Andhra Pradesh and Telangana, as per the recent news?",
-    "options": ["80,000", "1.1 lakh", "1.4 lakh", "1.7 lakh"],
-    "correctAnswer": "1.4 lakh"
+    "question": "What is a potential benefit for healthcare infrastructure in Telangana and Andhra Pradesh from ICMR's indigenous vaccine technology against cervical cancer?",
+    "options": ["Decreased need for skilled medical personnel", "Reduced reliance on imported vaccines", "Increased rates of other infectious diseases", "Higher costs for basic health check-ups"],
+    "correctAnswer": "Reduced reliance on imported vaccines"
   },
   {
     "id": 5,
-    "question": "Out of the 1.4 lakh rape and POCSO cases filed last year, approximately how many were disposed of by courts across India, including in Telangana and Andhra Pradesh?",
-    "options": ["33,000", "50,000", "66,500", "80,000"],
-    "correctAnswer": "66,500"
+    "question": "By developing and transferring cervical pre-cancer technologies, ICMR contributes to which broader national goal impacting states like Telangana and Andhra Pradesh?",
+    "options": ["Promoting space tourism", "Achieving self-reliance in critical healthcare areas", "Developing new agricultural pesticides", "Expanding digital payment systems"],
+    "correctAnswer": "Achieving self-reliance in critical healthcare areas"
   },
   {
     "id": 6,
-    "question": "The news highlights a significant backlog in which type of specialized courts across India, including those functioning in Telangana and Andhra Pradesh?",
-    "options": ["Commercial Courts", "Family Courts", "Fast-track Courts", "Consumer Courts"],
-    "correctAnswer": "Fast-track Courts"
-  },
-  {
-    "id": 7,
-    "question": "Which national entrance examination is the Supreme Court committed to making foolproof, a decision impacting students in Andhra Pradesh and Telangana?",
-    "options": ["JEE", "NET", "NEET", "CLAT"],
+    "question": "Rahul Gandhi recently criticized the Central government for its handling of protests related to which major national entrance examination?",
+    "options": ["JEE Advanced", "UPSC Civil Services Exam", "NEET", "CAT"],
     "correctAnswer": "NEET"
   },
   {
+    "id": 7,
+    "question": "What alleged government action during the NEET protests was criticized for impacting fundamental rights, potentially affecting students from Telangana and Andhra Pradesh?",
+    "options": ["Providing free coaching", "Shutting down metro and internet services", "Increasing exam centers", "Offering scholarships for top performers"],
+    "correctAnswer": "Shutting down metro and internet services"
+  },
+  {
     "id": 8,
-    "question": "What institution has assured that it will strive to fix issues related to the NEET examination, impacting aspiring medical students nationwide, including in Telangana and Andhra Pradesh?",
-    "options": ["NTA", "Ministry of Education", "Supreme Court", "Medical Council of India"],
-    "correctAnswer": "Supreme Court"
+    "question": "The concerns over 'paper leaks' in national examinations like NEET directly affect the academic aspirations of students in which regions, including Telangana and Andhra Pradesh?",
+    "options": ["Only urban centers", "Specific union territories", "All states across India", "Just metropolitan cities"],
+    "correctAnswer": "All states across India"
   },
   {
     "id": 9,
-    "question": "Which court has recently banned the posting of court clips on social media across India, a directive applicable to High Courts in states like Telangana and Andhra Pradesh?",
-    "options": ["High Court", "Supreme Court", "District Court", "Lok Adalat"],
-    "correctAnswer": "Supreme Court"
+    "question": "Rahul Gandhi's comparison of the government's treatment of NEET protesters to 'British tyranny' highlights concerns about what, affecting citizens nationwide?",
+    "options": ["Colonial economic policies", "Suppression of dissent and civil liberties", "Promotion of English language", "Historical architectural preservation"],
+    "correctAnswer": "Suppression of dissent and civil liberties"
   },
   {
     "id": 10,
-    "question": "According to the recent SC ban, whose approval is now required to share content from court proceedings on social media in India, including in Andhra Pradesh and Telangana?",
-    "options": ["Respective Court Judge", "Apex Court or High Court", "Ministry of Law", "Bar Council of India"],
-    "correctAnswer": "Apex Court or High Court"
+    "question": "How does the integrity of national exams like NEET, a topic of recent protest, directly influence the future professional landscape and talent pool in states such as Telangana and Andhra Pradesh?",
+    "options": ["It has no bearing on state-level professions", "Ensures fair entry into medical colleges, impacting the healthcare workforce", "Only affects students pursuing arts degrees", "Leads to an increase in engineering admissions"],
+    "correctAnswer": "Ensures fair entry into medical colleges, impacting the healthcare workforce"
   },
   {
     "id": 11,
-    "question": "The recent ban on sharing court clips on social media by the Supreme Court aims to regulate content from which legal bodies in India, including those in Telangana?",
-    "options": ["Only the Supreme Court", "Only High Courts", "All courts, including High Courts", "Only subordinate courts"],
-    "correctAnswer": "All courts, including High Courts"
+    "question": "According to Union Minister Pralhad Joshi, what technology is the government investing heavily in to cut power costs nationwide?",
+    "options": ["Nuclear fusion reactors", "Coal gasification plants", "Battery storage systems", "Hydroelectric dams"],
+    "correctAnswer": "Battery storage systems"
   },
   {
     "id": 12,
-    "question": "Which national agency responsible for conducting entrance examinations has recently sacked 47 officials in a major rejig, a development impacting exams taken by students from states like Telangana and Andhra Pradesh?",
-    "options": ["UPSC", "SSC", "NTA", "CBSE"],
-    "correctAnswer": "NTA"
+    "question": "How will significant investment in battery storage systems likely benefit electricity consumers in Telangana and Andhra Pradesh?",
+    "options": ["Increase dependency on fossil fuels", "Lead to more frequent power outages", "Reduce their electricity bills and enhance grid stability", "Decrease the availability of renewable energy"],
+    "correctAnswer": "Reduce their electricity bills and enhance grid stability"
   },
   {
     "id": 13,
-    "question": "How many General Managers (GMs) is the NTA planning to hire as part of its recent organizational rejig, a decision that could affect the efficiency of exams for students in Andhra Pradesh and Telangana?",
-    "options": ["2", "4", "6", "8"],
-    "correctAnswer": "4"
+    "question": "What is the primary objective of the government's heavy investment in battery storage systems, as stated in the news?",
+    "options": ["To promote electric vehicle manufacturing", "To reduce power transmission losses", "To cut power cost", "To replace all conventional power plants"],
+    "correctAnswer": "To cut power cost"
   },
   {
     "id": 14,
-    "question": "Besides General Managers, how many young professionals is the National Testing Agency (NTA) planning to recruit in its recent restructuring effort, impacting exam administration across India, including in Telangana and Andhra Pradesh?",
-    "options": ["10", "12", "14", "16"],
-    "correctAnswer": "16"
+    "question": "The adoption of advanced battery storage technologies can help states like Telangana and Andhra Pradesh integrate more of which type of energy into their grids?",
+    "options": ["Thermal energy", "Nuclear energy", "Renewable energy (solar, wind)", "Biomass energy only"],
+    "correctAnswer": "Renewable energy (solar, wind)"
   },
   {
     "id": 15,
-    "question": "The National Testing Agency (NTA) has undertaken a rejig involving sacking officials and hiring new ones. What is the primary function of the NTA that impacts students from states like Andhra Pradesh and Telangana?",
-    "options": ["Regulating university admissions", "Conducting national entrance examinations", "Developing school curriculum", "Providing student scholarships"],
-    "correctAnswer": "Conducting national entrance examinations"
+    "question": "What long-term impact on industrial and economic development can be expected in states like Telangana and Andhra Pradesh due to reduced power costs from battery storage investments?",
+    "options": ["Increased operational costs for businesses", "Limited industrial expansion", "Enhanced competitiveness and growth for industries", "Greater reliance on manual labor"],
+    "correctAnswer": "Enhanced competitiveness and growth for industries"
   },
   {
     "id": 16,
-    "question": "Which social media platform has Prime Minister Modi urged ministers to enhance their presence on for Gen Z outreach, a directive applicable to political leaders in Andhra Pradesh and Telangana?",
-    "options": ["X (formerly Twitter)", "Facebook", "Instagram", "LinkedIn"],
-    "correctAnswer": "Instagram"
+    "question": "Farmer organizations recently announced a march to Jantar Mantar, signaling continued protests over what type of issues affecting agricultural communities across India, including TS/AP?",
+    "options": ["Demands for urban development", "Concerns over agricultural policies and prices", "Protest against industrial pollution", "Advocacy for space research funding"],
+    "correctAnswer": "Concerns over agricultural policies and prices"
   },
   {
     "id": 17,
-    "question": "The Prime Minister's call for ministers to increase their social media presence targets which demographic group for outreach?",
-    "options": ["Millennials", "Gen X", "Baby Boomers", "Gen Z"],
-    "correctAnswer": "Gen Z"
+    "question": "The phrase \"'Ab aayega aur maza!'\" from CJP suggests a continued build-up of what, which often involves farmers from various states including Telangana and Andhra Pradesh?",
+    "options": ["Cultural festivals", "Political rallies and movements", "Scientific conferences", "Sports tournaments"],
+    "correctAnswer": "Political rallies and movements"
   },
   {
     "id": 18,
-    "question": "Since which year has PM Modi himself been active on Instagram, as mentioned in the context of his call for ministers to enhance their presence?",
-    "options": ["2010", "2012", "2014", "2016"],
-    "correctAnswer": "2014"
+    "question": "What is a common underlying cause of farmer protests witnessed in different parts of India, which can also resonate with agricultural regions of Telangana and Andhra Pradesh?",
+    "options": ["Lack of internet access", "Issues related to crop prices, loan waivers, and MSP", "Demand for international travel subsidies", "Concerns about wildlife conservation"],
+    "correctAnswer": "Issues related to crop prices, loan waivers, and MSP"
   },
   {
     "id": 19,
-    "question": "A proposed bill in India aims to impose how many years of imprisonment for individuals involved in paper leaks, a measure impacting exam integrity in states like Telangana and Andhra Pradesh?",
-    "options": ["5 years", "7 years", "10 years", "15 years"],
-    "correctAnswer": "10 years"
+    "question": "How do national farmer protests, even if centered in Delhi, influence policy discussions that affect agricultural practices and farmer welfare in states like Telangana and Andhra Pradesh?",
+    "options": ["They have no impact on state-level policies", "They prompt central government to review and revise agricultural policies", "They only concern farmers growing specific cash crops", "They divert funds from agricultural research"],
+    "correctAnswer": "They prompt central government to review and revise agricultural policies"
   },
   {
     "id": 20,
-    "question": "What is the maximum fine proposed in the new bill for those found guilty of paper leaks in India, a deterrent for malpractices affecting students in Andhra Pradesh and Telangana?",
-    "options": ["Rs 1 crore", "Rs 5 crore", "Rs 10 crore", "Rs 20 crore"],
-    "correctAnswer": "Rs 10 crore"
+    "question": "What is the significance of farmers marching to Jantar Mantar in Delhi, a common protest site, for communities in states such as Telangana and Andhra Pradesh?",
+    "options": ["It's a tourist destination for farmers", "It signifies their attempt to bring their grievances to the national capital's attention", "It is where agricultural fairs are held", "It's a designated area for crop sales"],
+    "correctAnswer": "It signifies their attempt to bring their grievances to the national capital's attention"
   },
   {
     "id": 21,
-    "question": "The proposed bill on paper leaks aims for cases to be disposed of by fast-track courts within what timeframe, impacting the legal process for such offenses in states like Telangana and Andhra Pradesh?",
-    "options": ["1 month", "2 months", "3 months", "6 months"],
-    "correctAnswer": "3 months"
+    "question": "The Indian government recently fact-checked viral AI deepfakes targeting the Prime Minister and other ministers, highlighting concerns about what national issue?",
+    "options": ["Lack of artistic creativity", "Spread of misinformation and cyber security threats", "Overuse of social media", "International trade disputes"],
+    "correctAnswer": "Spread of misinformation and cyber security threats"
   },
   {
     "id": 22,
-    "question": "Which serious academic offense, impacting numerous students including those from Andhra Pradesh and Telangana, is the subject of a new bill proposing strict penalties?",
-    "options": ["Plagiarism", "Exam misconduct", "Paper leaks", "Certificate forgery"],
-    "correctAnswer": "Paper leaks"
+    "question": "The identification of 'Pakistani handles' in the spread of AI deepfakes points to a broader challenge of what, which can impact public perception and governance in states like Telangana and Andhra Pradesh?",
+    "options": ["Regional culinary exchange", "Cross-border digital propaganda and destabilization efforts", "Shared cultural heritage", "Joint technological development"],
+    "correctAnswer": "Cross-border digital propaganda and destabilization efforts"
   },
   {
     "id": 23,
-    "question": "What type of petition has the Supreme Court agreed to hear regarding police actions, a matter of public concern that could arise in any state, including Telangana and Andhra Pradesh?",
-    "options": ["Writ Petition", "Special Leave Petition", "Public Interest Litigation (PIL)", "Review Petition"],
-    "correctAnswer": "Public Interest Litigation (PIL)"
+    "question": "How can the proliferation of AI deepfakes and misinformation, as highlighted by the government's fact-checking, pose a risk to the democratic processes in states like Telangana and Andhra Pradesh?",
+    "options": ["By making elections more transparent", "By influencing voter behavior and eroding trust in institutions", "By encouraging political debates", "By simplifying complex policy issues"],
+    "correctAnswer": "By influencing voter behavior and eroding trust in institutions"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's agreement to hear a Public Interest Litigation (PIL) is against what specific issue related to law enforcement, which is relevant to citizens in states like Andhra Pradesh and Telangana?",
-    "options": ["Police recruitment", "Police training", "Police excesses", "Police budget"],
-    "correctAnswer": "Police excesses"
+    "question": "What measure is implicitly supported by the government's action of fact-checking AI deepfakes, essential for informed public opinion in states like Telangana and Andhra Pradesh?",
+    "options": ["Censorship of all digital content", "Promotion of unregulated online platforms", "Digital literacy and critical thinking among citizens", "Complete ban on social media"],
+    "correctAnswer": "Digital literacy and critical thinking among citizens"
   },
   {
     "id": 25,
-    "question": "The ICMR is seeking 'tighter curbs' to address the issue of childhood obesity in India. What is the general nature of these curbs likely to be?",
-    "options": ["Restrictions on screen time", "Regulations on food and lifestyle", "Mandatory sports in schools", "Increased taxation on unhealthy foods"],
-    "correctAnswer": "Regulations on food and lifestyle"
+    "question": "The issue of viral AI deepfakes of public figures, a concern for the Central government, underscores the need for robust digital security and awareness campaigns in which context, relevant to all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["Only during international summits", "Pertaining only to private individuals", "Throughout the digital ecosystem and public life", "Exclusively for military personnel"],
+    "correctAnswer": "Throughout the digital ecosystem and public life"
   }
 ]

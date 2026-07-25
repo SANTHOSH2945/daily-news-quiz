@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "On which social media platform did PM Modi recently share a video thanking the youth for their 'love, support'?",
-    "options": ["X (formerly Twitter)", "Facebook", "Instagram", "YouTube"],
-    "correctAnswer": "Instagram"
+    "question": "What national body is concerned about the rising number of obese children in India, including states like Telangana and Andhra Pradesh?",
+    "options": ["WHO", "UNICEF", "ICMR", "NITI Aayog"],
+    "correctAnswer": "ICMR"
   },
   {
     "id": 2,
-    "question": "What was the central theme of Prime Minister Modi's recent message to the youth via social media?",
-    "options": ["Economic policies", "Love and support", "Educational reforms", "Environmental initiatives"],
-    "correctAnswer": "Love and support"
+    "question": "Approximately how many children in India are reported to be obese, prompting the ICMR's call for tighter curbs?",
+    "options": ["2.5 crore", "4.1 crore", "6.2 crore", "1.8 crore"],
+    "correctAnswer": "4.1 crore"
   },
   {
     "id": 3,
-    "question": "India's Ministry of External Affairs recently rejected which country's claim regarding the cargo of the MV Golden Leo?",
-    "options": ["Ukraine", "United States", "Russia", "Iran"],
-    "correctAnswer": "Russia"
+    "question": "What is the current backlog of cases in fast-track courts across India, affecting justice delivery in states like Andhra Pradesh and Telangana?",
+    "options": ["1.5 lakh cases", "2.0 lakh cases", "2.5 lakh cases", "3.0 lakh cases"],
+    "correctAnswer": "2.5 lakh cases"
   },
   {
     "id": 4,
-    "question": "What cargo did India's MEA state the MV Golden Leo was carrying, contradicting another nation's claim?",
-    "options": ["Weapons", "Oil", "Grain", "Medical supplies"],
-    "correctAnswer": "Grain"
+    "question": "In the last year, how many rape and POCSO cases were filed across India, including in Andhra Pradesh and Telangana, as per the recent news?",
+    "options": ["80,000", "1.1 lakh", "1.4 lakh", "1.7 lakh"],
+    "correctAnswer": "1.4 lakh"
   },
   {
     "id": 5,
-    "question": "How many Indian seafarers were reported killed in the recent attack on the MV Golden Leo?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Four"
+    "question": "Out of the 1.4 lakh rape and POCSO cases filed last year, approximately how many were disposed of by courts across India, including in Telangana and Andhra Pradesh?",
+    "options": ["33,000", "50,000", "66,500", "80,000"],
+    "correctAnswer": "66,500"
   },
   {
     "id": 6,
-    "question": "The recent ship attack resulting in Indian casualties occurred in which sea?",
-    "options": ["Arabian Sea", "Black Sea", "Red Sea", "Mediterranean Sea"],
-    "correctAnswer": "Black Sea"
+    "question": "The news highlights a significant backlog in which type of specialized courts across India, including those functioning in Telangana and Andhra Pradesh?",
+    "options": ["Commercial Courts", "Family Courts", "Fast-track Courts", "Consumer Courts"],
+    "correctAnswer": "Fast-track Courts"
   },
   {
     "id": 7,
-    "question": "India's MEA condemned the recent attack on commercial shipping, emphasizing that such attacks are unacceptable under what circumstances?",
-    "options": ["Only during wartime", "Under any circumstances", "If they involve specific cargo", "If they occur in international waters"],
-    "correctAnswer": "Under any circumstances"
+    "question": "Which national entrance examination is the Supreme Court committed to making foolproof, a decision impacting students in Andhra Pradesh and Telangana?",
+    "options": ["JEE", "NET", "NEET", "CLAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 8,
-    "question": "Which Indian official did India reiterate its concerns to regarding the ship attack?",
-    "options": ["Defence Minister", "Foreign Minister of Russia", "UN Secretary-General", "Prime Minister"],
-    "correctAnswer": "Foreign Minister of Russia"
+    "question": "What institution has assured that it will strive to fix issues related to the NEET examination, impacting aspiring medical students nationwide, including in Telangana and Andhra Pradesh?",
+    "options": ["NTA", "Ministry of Education", "Supreme Court", "Medical Council of India"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 9,
-    "question": "The incident involving the MV Golden Leo highlights India's concern for the safety of which profession?",
-    "options": ["Airline pilots", "Truck drivers", "Seafarers", "Farmers"],
-    "correctAnswer": "Seafarers"
+    "question": "Which court has recently banned the posting of court clips on social media across India, a directive applicable to High Courts in states like Telangana and Andhra Pradesh?",
+    "options": ["High Court", "Supreme Court", "District Court", "Lok Adalat"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 10,
-    "question": "The MEA's statement about the MV Golden Leo's cargo was in response to a claim of it carrying what?",
-    "options": ["Humanitarian aid", "Guns", "Industrial machinery", "Luxury goods"],
-    "correctAnswer": "Guns"
+    "question": "According to the recent SC ban, whose approval is now required to share content from court proceedings on social media in India, including in Andhra Pradesh and Telangana?",
+    "options": ["Respective Court Judge", "Apex Court or High Court", "Ministry of Law", "Bar Council of India"],
+    "correctAnswer": "Apex Court or High Court"
   },
   {
     "id": 11,
-    "question": "What is the reported primary issue faced by Fast-Track Special Courts (FTSCs) in India?",
-    "options": ["Lack of qualified judges", "Insufficient infrastructure", "Mounting backlog of cases", "Limited jurisdiction"],
-    "correctAnswer": "Mounting backlog of cases"
+    "question": "The recent ban on sharing court clips on social media by the Supreme Court aims to regulate content from which legal bodies in India, including those in Telangana?",
+    "options": ["Only the Supreme Court", "Only High Courts", "All courts, including High Courts", "Only subordinate courts"],
+    "correctAnswer": "All courts, including High Courts"
   },
   {
     "id": 12,
-    "question": "Approximately how many cases are currently pending in Fast-Track Special Courts across India?",
-    "options": ["1.5 lakh", "2.0 lakh", "2.5 lakh", "3.0 lakh"],
-    "correctAnswer": "2.5 lakh"
+    "question": "Which national agency responsible for conducting entrance examinations has recently sacked 47 officials in a major rejig, a development impacting exams taken by students from states like Telangana and Andhra Pradesh?",
+    "options": ["UPSC", "SSC", "NTA", "CBSE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 13,
-    "question": "Fast-Track Special Courts were established with the aim of ensuring what?",
-    "options": ["Increased revenue collection", "Speedy disposal of cases", "Decentralization of judicial power", "Specialization in economic crimes"],
-    "correctAnswer": "Speedy disposal of cases"
+    "question": "How many General Managers (GMs) is the NTA planning to hire as part of its recent organizational rejig, a decision that could affect the efficiency of exams for students in Andhra Pradesh and Telangana?",
+    "options": ["2", "4", "6", "8"],
+    "correctAnswer": "4"
   },
   {
     "id": 14,
-    "question": "The term 'backlog' in the context of Fast-Track Special Courts refers to:",
-    "options": ["Lack of new cases being filed", "Cases awaiting transfer to higher courts", "Undecided cases that have accumulated", "Cases that have been dismissed"],
-    "correctAnswer": "Undecided cases that have accumulated"
+    "question": "Besides General Managers, how many young professionals is the National Testing Agency (NTA) planning to recruit in its recent restructuring effort, impacting exam administration across India, including in Telangana and Andhra Pradesh?",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": "16"
   },
   {
     "id": 15,
-    "question": "What potential impact does the slow progress of Fast-Track Special Courts have on the justice system?",
-    "options": ["Improved judicial efficiency", "Increased public trust", "Delayed justice for victims", "Reduced caseload for other courts"],
-    "correctAnswer": "Delayed justice for victims"
+    "question": "The National Testing Agency (NTA) has undertaken a rejig involving sacking officials and hiring new ones. What is the primary function of the NTA that impacts students from states like Andhra Pradesh and Telangana?",
+    "options": ["Regulating university admissions", "Conducting national entrance examinations", "Developing school curriculum", "Providing student scholarships"],
+    "correctAnswer": "Conducting national entrance examinations"
   },
   {
     "id": 16,
-    "question": "What is the full name of the scheme approved by the Union Cabinet for setting up chemical parks?",
-    "options": ["BHAVYA-Udyog", "BHAVYA-Rasayan", "BHAVYA-Vikas", "BHAVYA-Nirman"],
-    "correctAnswer": "BHAVYA-Rasayan"
+    "question": "Which social media platform has Prime Minister Modi urged ministers to enhance their presence on for Gen Z outreach, a directive applicable to political leaders in Andhra Pradesh and Telangana?",
+    "options": ["X (formerly Twitter)", "Facebook", "Instagram", "LinkedIn"],
+    "correctAnswer": "Instagram"
   },
   {
     "id": 17,
-    "question": "How many dedicated chemical parks are slated to be established under the BHAVYA-Rasayan scheme?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Three"
+    "question": "The Prime Minister's call for ministers to increase their social media presence targets which demographic group for outreach?",
+    "options": ["Millennials", "Gen X", "Baby Boomers", "Gen Z"],
+    "correctAnswer": "Gen Z"
   },
   {
     "id": 18,
-    "question": "What is the total financial outlay approved by the Union Cabinet for the BHAVYA-Rasayan scheme?",
-    "options": ["Rs 2,030 crore", "Rs 3,030 crore", "Rs 4,030 crore", "Rs 5,030 crore"],
-    "correctAnswer": "Rs 3,030 crore"
+    "question": "Since which year has PM Modi himself been active on Instagram, as mentioned in the context of his call for ministers to enhance their presence?",
+    "options": ["2010", "2012", "2014", "2016"],
+    "correctAnswer": "2014"
   },
   {
     "id": 19,
-    "question": "For how many years is the BHAVYA-Rasayan scheme planned to run?",
-    "options": ["Three years", "Four years", "Five years", "Six years"],
-    "correctAnswer": "Five years"
+    "question": "A proposed bill in India aims to impose how many years of imprisonment for individuals involved in paper leaks, a measure impacting exam integrity in states like Telangana and Andhra Pradesh?",
+    "options": ["5 years", "7 years", "10 years", "15 years"],
+    "correctAnswer": "10 years"
   },
   {
     "id": 20,
-    "question": "What is one of the primary goals of the BHAVYA-Rasayan scheme related to the chemical industry?",
-    "options": ["To reduce import duties", "To promote growth and competitiveness", "To nationalize private chemical companies", "To shift production overseas"],
-    "correctAnswer": "To promote growth and competitiveness"
+    "question": "What is the maximum fine proposed in the new bill for those found guilty of paper leaks in India, a deterrent for malpractices affecting students in Andhra Pradesh and Telangana?",
+    "options": ["Rs 1 crore", "Rs 5 crore", "Rs 10 crore", "Rs 20 crore"],
+    "correctAnswer": "Rs 10 crore"
   },
   {
     "id": 21,
-    "question": "The BHAVYA-Rasayan scheme aims to create an environment-friendly ecosystem with which type of facilities?",
-    "options": ["Centralized research labs", "Decentralized power grids", "Centralized waste management", "Automated production lines"],
-    "correctAnswer": "Centralized waste management"
+    "question": "The proposed bill on paper leaks aims for cases to be disposed of by fast-track courts within what timeframe, impacting the legal process for such offenses in states like Telangana and Andhra Pradesh?",
+    "options": ["1 month", "2 months", "3 months", "6 months"],
+    "correctAnswer": "3 months"
   },
   {
     "id": 22,
-    "question": "What is an expected positive outcome of the BHAVYA-Rasayan scheme for the economy?",
-    "options": ["Decrease in foreign investment", "Generation of employment", "Reduction in industrial output", "Increase in raw material prices"],
-    "correctAnswer": "Generation of employment"
+    "question": "Which serious academic offense, impacting numerous students including those from Andhra Pradesh and Telangana, is the subject of a new bill proposing strict penalties?",
+    "options": ["Plagiarism", "Exam misconduct", "Paper leaks", "Certificate forgery"],
+    "correctAnswer": "Paper leaks"
   },
   {
     "id": 23,
-    "question": "What type of industry does the BHAVYA-Rasayan scheme primarily target for development?",
-    "options": ["Textile industry", "Chemical industry", "Automobile industry", "Food processing industry"],
-    "correctAnswer": "Chemical industry"
+    "question": "What type of petition has the Supreme Court agreed to hear regarding police actions, a matter of public concern that could arise in any state, including Telangana and Andhra Pradesh?",
+    "options": ["Writ Petition", "Special Leave Petition", "Public Interest Litigation (PIL)", "Review Petition"],
+    "correctAnswer": "Public Interest Litigation (PIL)"
   },
   {
     "id": 24,
-    "question": "The approval of the BHAVYA-Rasayan scheme falls under the purview of which body?",
-    "options": ["NITI Aayog", "Reserve Bank of India", "Union Cabinet", "State Legislatures"],
-    "correctAnswer": "Union Cabinet"
+    "question": "The Supreme Court's agreement to hear a Public Interest Litigation (PIL) is against what specific issue related to law enforcement, which is relevant to citizens in states like Andhra Pradesh and Telangana?",
+    "options": ["Police recruitment", "Police training", "Police excesses", "Police budget"],
+    "correctAnswer": "Police excesses"
   },
   {
     "id": 25,
-    "question": "By promoting chemical industry growth, the BHAVYA-Rasayan scheme aims to enhance India's:",
-    "options": ["Agricultural exports", "Global competitiveness", "Tourism sector", "Defense capabilities"],
-    "correctAnswer": "Global competitiveness"
+    "question": "The ICMR is seeking 'tighter curbs' to address the issue of childhood obesity in India. What is the general nature of these curbs likely to be?",
+    "options": ["Restrictions on screen time", "Regulations on food and lifestyle", "Mandatory sports in schools", "Increased taxation on unhealthy foods"],
+    "correctAnswer": "Regulations on food and lifestyle"
   }
 ]

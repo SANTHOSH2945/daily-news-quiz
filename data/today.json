@@ -2,151 +2,151 @@
   {
     "id": 1,
     "question": "Who recently resigned from the position of Union Education Minister of India?",
-    "options": ["Pralhad Joshi", "Dharmendra Pradhan", "Sharad Pawar", "Rahul Gandhi"],
+    "options": ["Amit Shah", "Pralhad Joshi", "Dharmendra Pradhan", "Arvind Kejriwal"],
     "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 2,
-    "question": "Who has been appointed as the new Union Education Minister of India following a recent cabinet reshuffle?",
-    "options": ["Dharmendra Pradhan", "Pralhad Joshi", "Yogi Adityanath", "Suvendu Adhikari"],
-    "correctAnswer": "Pralhad Joshi"
+    "question": "What was the primary reason cited for the nationwide protests that led to the Union Education Minister's resignation?",
+    "options": ["Changes in National Education Policy", "NEET-UG paper leak", "Delay in university admissions", "Issues with school curriculum"],
+    "correctAnswer": "NEET-UG paper leak"
   },
   {
     "id": 3,
-    "question": "Which political figure praised Dharmendra Pradhan for his 'unwavering commitment to ethical values' following his resignation?",
-    "options": ["Rekha Gupta", "Sharad Pawar", "Nirmala Sitharaman", "Smriti Irani"],
-    "correctAnswer": "Rekha Gupta"
+    "question": "Which major entrance examination was at the center of the recent controversy and protests across India, directly impacting students in states like Telangana and Andhra Pradesh?",
+    "options": ["JEE Advanced", "UPSC Civil Services Exam", "NEET-UG", "CLAT"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 4,
-    "question": "Which constitutional authority formally accepted the resignation of Union Minister Dharmendra Pradhan?",
-    "options": ["The Prime Minister", "The Chief Justice of India", "The President", "The Speaker of Lok Sabha"],
-    "correctAnswer": "The President"
+    "question": "Who was given additional charge of the Union Education Ministry after Dharmendra Pradhan's resignation?",
+    "options": ["Nirmala Sitharaman", "Pralhad Joshi", "S. Jaishankar", "Piyush Goyal"],
+    "correctAnswer": "Pralhad Joshi"
   },
   {
     "id": 5,
-    "question": "The news mentioned former Union Education Minister Dharmendra Pradhan's role in promoting what specific aspect within India's educational landscape?",
-    "options": ["Digital literacy for adults", "Vocational training programs", "Indian languages in academia", "International student exchange"],
-    "correctAnswer": "Indian languages in academia"
+    "question": "Union Home Minister Amit Shah reiterated the government's commitment to reforms against what specific issue following the Education Minister's resignation, important for students across India?",
+    "options": ["Student fee hikes", "Teacher recruitment policies", "Paper leaks", "Online education challenges"],
+    "correctAnswer": "Paper leaks"
   },
   {
     "id": 6,
-    "question": "The Cockroach Janata Party (CJP) played a pivotal role in recent student protests related to which national examination?",
-    "options": ["UPSC Civil Services Exam", "JEE Advanced", "NEET", "CAT"],
-    "correctAnswer": "NEET"
+    "question": "The Modi government's commitment to ensure justice was specifically mentioned for which group of students nationwide?",
+    "options": ["JEE aspirants", "UPSC candidates", "NEET aspirants", "Board exam students"],
+    "correctAnswer": "NEET aspirants"
   },
   {
     "id": 7,
-    "question": "Which climate activist's hunger strike was mentioned as having fueled the protest movement that led to the Education Minister's resignation?",
-    "options": ["Greta Thunberg", "Medha Patkar", "Sonam Wangchuk", "Vandana Shiva"],
-    "correctAnswer": "Sonam Wangchuk"
+    "question": "Dharmendra Pradhan's five-year term as Education Minister was largely associated with building the operating system for which major policy framework?",
+    "options": ["Right to Education Act", "Sarva Shiksha Abhiyan", "National Education Policy (NEP)", "Skill India Mission"],
+    "correctAnswer": "National Education Policy (NEP)"
   },
   {
     "id": 8,
-    "question": "Which political leader commented on personally meeting PM Modi regarding the resignation of Dharmendra Pradhan?",
-    "options": ["Sharad Pawar", "Rahul Gandhi", "Mamata Banerjee", "Arvind Kejriwal"],
-    "correctAnswer": "Sharad Pawar"
+    "question": "Which political leader congratulated the youth on Dharmendra Pradhan's resignation, calling it a 'big win for democracy'?",
+    "options": ["Rahul Gandhi", "Mamata Banerjee", "Arvind Kejriwal", "Sharad Pawar"],
+    "correctAnswer": "Arvind Kejriwal"
   },
   {
     "id": 9,
-    "question": "According to news reports, what was the primary action that led to the CJP ending its protest after assurances from the Centre?",
-    "options": ["Formation of a new committee", "Action and reforms", "Apology from the minister", "Increased funding for education"],
-    "correctAnswer": "Action and reforms"
+    "question": "According to Delhi CM Rekha Gupta, Dharmendra Pradhan was commended for his role in promoting which academic aspect during his tenure?",
+    "options": ["Digital learning initiatives", "Vocational training programs", "Indian languages in academia", "International student exchange"],
+    "correctAnswer": "Indian languages in academia"
   },
   {
     "id": 10,
-    "question": "Which political leader attacked the Centre and PM Modi, stating that the CJP-led stir was 'a warning from students & oppn'?",
-    "options": ["Sharad Pawar", "Rahul Gandhi", "Yogi Adityanath", "Suvendu Adhikari"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "The protests leading to the Union Education Minister's resignation were described as having what geographical scope?",
+    "options": ["Delhi-NCR specific", "Uttar Pradesh centric", "Southern India widespread", "Nationwide"],
+    "correctAnswer": "Nationwide"
   },
   {
     "id": 11,
-    "question": "Which Chief Minister, amidst protests over the NEET row, pledged a crackdown on the 'cheating mafia'?",
-    "options": ["Rekha Gupta", "Suvendu Adhikari", "Yogi Adityanath", "Sharad Pawar"],
-    "correctAnswer": "Yogi Adityanath"
+    "question": "What was the core sentiment expressed by Amit Shah regarding the importance of 'country, youth & students' versus 'any post'?",
+    "options": ["Any post is equally important", "Individual posts are paramount", "Country, youth & students are far more important", "Political posts define national progress"],
+    "correctAnswer": "Country, youth & students are far more important"
   },
   {
     "id": 12,
-    "question": "In which Indian state did Chief Minister Yogi Adityanath promise to seize properties of those involved in exam malpractice?",
-    "options": ["Madhya Pradesh", "West Bengal", "Uttar Pradesh", "Delhi"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "The examination crisis that cast a shadow on Dharmendra Pradhan's term primarily involved concerns about what, affecting students across India?",
+    "options": ["Lack of examination centers", "Difficulty of question papers", "Integrity and fairness of exams", "Insufficient marking schemes"],
+    "correctAnswer": "Integrity and fairness of exams"
   },
   {
     "id": 13,
-    "question": "What specific legislation did West Bengal invoke against individuals accused of violence during recent NEET protests?",
-    "options": ["The Anti-Terrorism Act", "The Public Order Act", "The Goonda Act", "The Riot Control Act"],
-    "correctAnswer": "The Goonda Act"
+    "question": "The government respects what specific sentiments of the youth, as stated by Amit Shah, concerning the education system?",
+    "options": ["Political affiliations", "Career aspirations", "Exam transparency demands", "Demands for fee reduction"],
+    "correctAnswer": "Exam transparency demands"
   },
   {
     "id": 14,
-    "question": "Who is the Chief Minister of West Bengal who announced the invocation of the new 'Goonda Act' over NEET protest violence?",
-    "options": ["Mamata Banerjee", "Suvendu Adhikari", "Pralhad Joshi", "Rekha Gupta"],
-    "correctAnswer": "Suvendu Adhikari"
+    "question": "The government's decision for the Union Education Minister's exit was primarily influenced by widespread protests over which examination?",
+    "options": ["UGC-NET", "NEET-UG", "SSC CGL", "CAT"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 15,
-    "question": "The protests leading to the resignation of the Union Education Minister highlighted the power of what form of activism?",
-    "options": ["Online petitions", "International diplomacy", "Grassroots activism", "Judicial interventions"],
-    "correctAnswer": "Grassroots activism"
+    "question": "The National Education Policy (NEP), extensively worked upon during Pradhan's tenure, aims to transform which sector in India?",
+    "options": ["Agricultural sector", "Healthcare sector", "Education sector", "Industrial sector"],
+    "correctAnswer": "Education sector"
   },
   {
     "id": 16,
-    "question": "Which organization, born from online memes, played a pivotal role in the student uprising mentioned in the news?",
-    "options": ["NSUI", "ABVP", "CJP", "AISF"],
-    "correctAnswer": "CJP"
+    "question": "What was one of the key contributions highlighted by Delhi CM Rekha Gupta regarding Dharmendra Pradhan's role in education?",
+    "options": ["Introducing new sports programs", "Rolling out key policy frameworks", "Focusing solely on primary education", "Reducing school dropout rates"],
+    "correctAnswer": "Rolling out key policy frameworks"
   },
   {
     "id": 17,
-    "question": "What was the primary focus of Dharmendra Pradhan's contributions to India's educational landscape, as highlighted by Delhi CM Rekha Gupta?",
-    "options": ["Promoting digital literacy", "Introducing new sports policies", "Rolling out key policy frameworks and promoting Indian languages", "Establishing new universities"],
-    "correctAnswer": "Rolling out key policy frameworks and promoting Indian languages"
+    "question": "The government's resolve to ensure justice for NEET aspirants directly addresses concerns about what fundamental principle in competitive exams across India?",
+    "options": ["Affordability", "Accessibility", "Meritocracy and fairness", "Curriculum relevance"],
+    "correctAnswer": "Meritocracy and fairness"
   },
   {
     "id": 18,
-    "question": "Which ancient Buddhist site in India was recently declared a UNESCO World Heritage Site?",
-    "options": ["Bodh Gaya", "Sarnath", "Kushinagar", "Sanchi"],
-    "correctAnswer": "Sarnath"
+    "question": "The resignation of the Union Education Minister underscores the sensitivity of the government towards issues affecting which segment of the Indian population?",
+    "options": ["Senior citizens", "Farmers", "Students and youth", "Small business owners"],
+    "correctAnswer": "Students and youth"
   },
   {
     "id": 19,
-    "question": "Sarnath, the newly declared UNESCO World Heritage Site, is located in which Indian state?",
-    "options": ["Bihar", "Madhya Pradesh", "Uttar Pradesh", "Odisha"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "Following Dharmendra Pradhan's resignation, Pralhad Joshi was given which additional responsibility?",
+    "options": ["Minister of Finance", "Minister of Home Affairs", "Union Education Minister", "Minister of External Affairs"],
+    "correctAnswer": "Union Education Minister"
   },
   {
     "id": 20,
-    "question": "A Bhopal court recently rejected the bail plea of which retired judge, accused in a dowry death case?",
-    "options": ["Twisha Sharma", "Rekha Gupta", "Giribala Singh", "Nirmala Devi"],
-    "correctAnswer": "Giribala Singh"
+    "question": "The term 'paper leaks' in the context of Indian examinations generally refers to what unlawful activity?",
+    "options": ["Unauthorized distribution of answer sheets", "Premature public disclosure of exam questions", "Manipulation of exam results", "Selling old question papers"],
+    "correctAnswer": "Premature public disclosure of exam questions"
   },
   {
     "id": 21,
-    "question": "What were the 'serious charges' for which retired judge Giribala Singh's bail plea was rejected?",
-    "options": ["Corruption", "Embezzlement", "Dowry death", "Assault"],
-    "correctAnswer": "Dowry death"
+    "question": "The government's commitment to reforms against paper leaks is a direct response to concerns about the credibility of which system in India?",
+    "options": ["Public distribution system", "Judicial system", "Examination and recruitment system", "Healthcare delivery system"],
+    "correctAnswer": "Examination and recruitment system"
   },
   {
     "id": 22,
-    "question": "Which central investigation agency opposed the bail plea of retired judge Giribala Singh, citing alleged attempts to influence the probe?",
-    "options": ["NIA", "ED", "CBI", "RAW"],
-    "correctAnswer": "CBI"
+    "question": "What kind of 'operating system' for the National Education Policy did Dharmendra Pradhan's five-year term reportedly build?",
+    "options": ["A digital learning platform", "A new administrative structure for schools", "A framework for implementation and execution", "A system for international collaboration"],
+    "correctAnswer": "A framework for implementation and execution"
   },
   {
     "id": 23,
-    "question": "The West Bengal police stated they exercised 'maximum restraint' despite repeated provocations during what specific event?",
-    "options": ["A political rally", "A cultural festival", "A NEET protest demonstration", "A sports event"],
-    "correctAnswer": "A NEET protest demonstration"
+    "question": "The protests demanding accountability in the NEET-UG paper leak case highlighted the importance of what for students nationwide, including in Telangana and Andhra Pradesh?",
+    "options": ["Scholarship opportunities", "Counseling services", "Transparent and fair examination processes", "Relaxed admission criteria"],
+    "correctAnswer": "Transparent and fair examination processes"
   },
   {
     "id": 24,
-    "question": "What observation was made about around seventy individuals identified from the NEET rally in West Bengal?",
-    "options": ["They were all students", "They were journalists", "They were not students and had no protest connection", "They were local politicians"],
-    "correctAnswer": "They were not students and had no protest connection"
+    "question": "The resignation of Dharmendra Pradhan came after what specific type of event failed to resolve public discontent?",
+    "options": ["A parliamentary debate", "A judicial review", "A breakthrough in ending protests", "An expert committee report"],
+    "correctAnswer": "A breakthrough in ending protests"
   },
   {
     "id": 25,
-    "question": "In a post on X, Delhi CM Rekha Gupta particularly highlighted Dharmendra Pradhan's role in rolling out what in academia?",
-    "options": ["New scholarship programs", "Key policy frameworks", "Digital learning platforms", "International research collaborations"],
-    "correctAnswer": "Key policy frameworks"
+    "question": "The commitment to ethical values in the education sector, praised by some leaders, is crucial for maintaining what in India's academic environment?",
+    "options": ["Financial stability", "International rankings", "Public trust and credibility", "Research output"],
+    "correctAnswer": "Public trust and credibility"
   }
 ]

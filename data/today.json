@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who recently took charge as the Union Education Minister of India?",
-    "options": ["Dharmendra Pradhan", "Pralhad Joshi", "Amit Shah", "Rajnath Singh"],
-    "correctAnswer": "Pralhad Joshi"
+    "question": "Asaduddin Owaisi, a prominent Lok Sabha MP who made an alliance offer for UP polls, represents which constituency?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "Which Union Minister resigned from the education portfolio prior to Pralhad Joshi taking charge?",
-    "options": ["Rajnath Singh", "Amit Shah", "Dharmendra Pradhan", "Nirmala Sitharaman"],
-    "correctAnswer": "Dharmendra Pradhan"
+    "question": "Which political party does Asaduddin Owaisi, a key political figure from Telangana, lead?",
+    "options": ["Samajwadi Party", "All India Majlis-e-Ittehadul Muslimeen", "Indian National Congress", "Bharatiya Janata Party"],
+    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen"
   },
   {
     "id": 3,
-    "question": "Which modern warship was recently inducted into the Indian Navy, symbolizing 'Atmanirbhar Bharat'?",
-    "options": ["INS Vikrant", "INS Kolkata", "INS Mahendragiri", "INS Arihant"],
-    "correctAnswer": "INS Mahendragiri"
+    "question": "Asaduddin Owaisi recently offered an alliance to Akhilesh Yadav's party to contest state elections in which Indian state?",
+    "options": ["Bihar", "West Bengal", "Uttar Pradesh", "Maharashtra"],
+    "correctAnswer": "Uttar Pradesh"
   },
   {
     "id": 4,
-    "question": "What percentage of indigenous content has been used in the design and construction of INS Mahendragiri?",
-    "options": ["Less than 50%", "Around 60%", "More than 75%", "Exactly 90%"],
-    "correctAnswer": "More than 75%"
+    "question": "The Lok Sabha constituency of Hyderabad, represented by Asaduddin Owaisi, is located in which Indian state?",
+    "options": ["Karnataka", "Andhra Pradesh", "Kerala", "Telangana"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 5,
-    "question": "In which episode of his monthly radio programme, Mann Ki Baat, did PM Modi discuss the induction of INS Mahendragiri?",
-    "options": ["130th", "136th", "140th", "125th"],
-    "correctAnswer": "136th"
+    "question": "What was the primary goal of Asaduddin Owaisi's proposed alliance with the Samajwadi Party for the upcoming state elections, as per his statement?",
+    "options": ["To strengthen regional parties", "To oust the BJP from power", "To form a national front", "To gain more Lok Sabha seats"],
+    "correctAnswer": "To oust the BJP from power"
   },
   {
     "id": 6,
-    "question": "Rahul Gandhi recently wrote to which Union Minister regarding the use of pellet guns against students during protests?",
-    "options": ["Pralhad Joshi", "Rajnath Singh", "Amit Shah", "Nirmala Sitharaman"],
-    "correctAnswer": "Amit Shah"
+    "question": "Amidst student protests over examination irregularities, which Union Minister recently took additional charge of the Education Ministry, a role impacting students in Telangana and Andhra Pradesh?",
+    "options": ["Amit Shah", "Nirmala Sitharaman", "Pralhad Joshi", "S. Jaishankar"],
+    "correctAnswer": "Pralhad Joshi"
   },
   {
     "id": 7,
-    "question": "Rahul Gandhi's letter emphasized the importance of which democratic principle in relation to student protests?",
-    "options": ["Freedom of expression", "Peaceful protest", "Right to information", "Right to education"],
-    "correctAnswer": "Peaceful protest"
-  },
-  {
-    "id": 8,
-    "question": "India recently observed the 27th anniversary of which significant historical event?",
-    "options": ["Independence Day", "Republic Day", "Kargil Vijay Diwas", "Gandhi Jayanti"],
-    "correctAnswer": "Kargil Vijay Diwas"
-  },
-  {
-    "id": 9,
-    "question": "The Kargil conflict, commemorated on Vijay Diwas, was fought in which year?",
-    "options": ["1971", "1965", "1999", "1984"],
-    "correctAnswer": "1999"
-  },
-  {
-    "id": 10,
-    "question": "Kargil Vijay Diwas marks the successful culmination of which military operation?",
-    "options": ["Operation Cactus", "Operation Blue Star", "Operation Vijay", "Operation Parakram"],
-    "correctAnswer": "Operation Vijay"
-  },
-  {
-    "id": 11,
-    "question": "Which Union Minister stated that 'every misadventure by Pakistan will draw a response beyond their imagination' on Vijay Diwas?",
-    "options": ["Amit Shah", "Rajnath Singh", "S. Jaishankar", "Narendra Modi"],
-    "correctAnswer": "Rajnath Singh"
-  },
-  {
-    "id": 12,
-    "question": "Approximately how many Indian soldiers made the supreme sacrifice during the 1999 Kargil War?",
-    "options": ["350", "527", "700", "1000"],
-    "correctAnswer": "527"
-  },
-  {
-    "id": 13,
-    "question": "The Kargil conflict remains the only conventional war between which two nuclear-armed neighbors?",
-    "options": ["India and China", "India and Bangladesh", "India and Pakistan", "India and Sri Lanka"],
-    "correctAnswer": "India and Pakistan"
-  },
-  {
-    "id": 14,
-    "question": "Which central armed police force announced it would conduct a post-analysis of its Rapid Action Force (RAF) action in recent NEET protests?",
-    "options": ["BSF", "ITBP", "CRPF", "CISF"],
-    "correctAnswer": "CRPF"
-  },
-  {
-    "id": 15,
-    "question": "How many RAF personnel were reported injured during the recent NEET protests?",
-    "options": ["15", "30", "47", "60"],
-    "correctAnswer": "47"
-  },
-  {
-    "id": 16,
-    "question": "According to former army chief General VP Malik, lessons from which conflict shaped 'Operation Sindoor'?",
-    "options": ["1971 Indo-Pak War", "Kargil War", "Sino-Indian War", "Sri Lankan Civil War"],
-    "correctAnswer": "Kargil War"
-  },
-  {
-    "id": 17,
-    "question": "Nepal recently eased rules on Indian currency, allowing which denominations up to a certain limit?",
-    "options": ["Rs 50 and Rs 100", "Rs 100 and Rs 200", "Rs 200 and Rs 500", "Rs 500 and Rs 2000"],
-    "correctAnswer": "Rs 200 and Rs 500"
-  },
-  {
-    "id": 18,
-    "question": "What is the maximum amount of Rs 200 and Rs 500 Indian notes allowed into Nepal as per the new rules?",
-    "options": ["Rs 10,000", "Rs 15,000", "Rs 25,000", "Rs 50,000"],
-    "correctAnswer": "Rs 25,000"
-  },
-  {
-    "id": 19,
-    "question": "Nepal is seeking India's approval for which type of national identity card to be used as a travel document?",
-    "options": ["Aadhar Card", "Voter ID Card", "Biometric National Identity Card", "PAN Card"],
-    "correctAnswer": "Biometric National Identity Card"
-  },
-  {
-    "id": 20,
-    "question": "On the 27th Vijay Diwas, to whom did PM Modi pay tribute, expressing 'gratitude to brave soldiers'?",
-    "options": ["Freedom fighters", "Kargil heroes", "Police forces", "Healthcare workers"],
-    "correctAnswer": "Kargil heroes"
-  },
-  {
-    "id": 21,
-    "question": "According to PM Modi, what does the induction of INS Mahendragiri primarily symbolize?",
-    "options": ["India's naval expansion in the Indian Ocean", "India's growing strength in 'Atmanirbhar Bharat'", "A new era of global defense partnerships", "Advanced maritime research capabilities"],
-    "correctAnswer": "India's growing strength in 'Atmanirbhar Bharat'"
-  },
-  {
-    "id": 22,
-    "question": "According to BJP leader Vijayvargiya, when did former Education Minister Dharmendra Pradhan offer to resign?",
-    "options": ["After a week of protests", "On the first day of student agitation", "During a cabinet meeting", "After the official inquiry report"],
-    "correctAnswer": "On the first day of student agitation"
-  },
-  {
-    "id": 23,
-    "question": "The recent student protests that led to discussions about pellet guns and ministerial resignations were primarily related to which examination?",
+    "question": "The recent nationwide student protests, which also involved students from Telangana and Andhra Pradesh, were primarily related to alleged irregularities in which examination?",
     "options": ["JEE", "UPSC", "NEET", "CLAT"],
     "correctAnswer": "NEET"
   },
   {
+    "id": 8,
+    "question": "Who was the Union Education Minister before Pralhad Joshi took charge amidst the controversies, affecting educational policies across all states including AP and Telangana?",
+    "options": ["Smriti Irani", "Ramesh Pokhriyal Nishank", "Dharmendra Pradhan", "Prakash Javadekar"],
+    "correctAnswer": "Dharmendra Pradhan"
+  },
+  {
+    "id": 9,
+    "question": "The proposed anti-paper leak bill, relevant for students across India including those in Andhra Pradesh and Telangana, aims to increase penalties for what kind of offenses?",
+    "options": ["Student misconduct", "Examination-related unfair means", "Protest violence", "Political donations"],
+    "correctAnswer": "Examination-related unfair means"
+  },
+  {
+    "id": 10,
+    "question": "What is the current status of the Union Education Ministry, which significantly influences educational policies and institutions in states like Telangana and Andhra Pradesh?",
+    "options": ["It has been dissolved", "It is undergoing a leadership change", "It has merged with another ministry", "It has been fully privatized"],
+    "correctAnswer": "It is undergoing a leadership change"
+  },
+  {
+    "id": 11,
+    "question": "The Foreign Contribution (Regulation) Amendment Bill, 2026, which impacts NGOs and organizations in states like Andhra Pradesh and Telangana, was introduced in which house of the Indian Parliament?",
+    "options": ["Rajya Sabha", "Lok Sabha", "State Assemblies", "Both Lok Sabha and Rajya Sabha simultaneously"],
+    "correctAnswer": "Lok Sabha"
+  },
+  {
+    "id": 12,
+    "question": "What does the acronym FCRA stand for in the context of regulating foreign contributions in India, a law affecting various entities including those in Telangana and Andhra Pradesh?",
+    "options": ["Foreign Currency Regulatory Agency", "Financial Contribution Reforms Act", "Foreign Contribution (Regulation) Act", "Federal Compliance Review Authority"],
+    "correctAnswer": "Foreign Contribution (Regulation) Act"
+  },
+  {
+    "id": 13,
+    "question": "The FCRA Bill, 2026, proposes a new framework for managing foreign contributions and assets under which specific circumstances for an organization?",
+    "options": ["When it expands its operations", "When its registration is cancelled, surrendered, or ceases", "When it changes its leadership", "When it receives a new government grant"],
+    "correctAnswer": "When its registration is cancelled, surrendered, or ceases"
+  },
+  {
+    "id": 14,
+    "question": "What is one of the main concerns raised by critics regarding the proposed FCRA Bill, 2026, due to its potential impact on non-profits in states like Telangana and Andhra Pradesh?",
+    "options": ["Its focus on domestic funding", "The breadth of the proposed governmental powers", "Its encouragement of foreign investments", "Its lenient penalties for violations"],
+    "correctAnswer": "The breadth of the proposed governmental powers"
+  },
+  {
+    "id": 15,
+    "question": "Union Minister Pralhad Joshi, after taking charge as the Education Minister (a portfolio that affects states like Telangana and Andhra Pradesh), expressed gratitude to which Indian leader for his new responsibility?",
+    "options": ["President Droupadi Murmu", "Vice President Jagdeep Dhankhar", "Prime Minister Narendra Modi", "Speaker Om Birla"],
+    "correctAnswer": "Prime Minister Narendra Modi"
+  },
+  {
+    "id": 16,
+    "question": "Dharmendra Pradhan's resignation from the Union Council of Ministers created a vacancy in which crucial ministry, impacting educational governance across all Indian states including AP and Telangana?",
+    "options": ["Home Affairs", "Finance", "Defence", "Education"],
+    "correctAnswer": "Education"
+  },
+  {
+    "id": 17,
+    "question": "Which specific accusation has Asaduddin Owaisi's party, AIMIM, often faced from its political opponents, implying its alignment with the ruling party at the national level?",
+    "options": ["Anti-national", "Pro-regional", "BJP's 'B-team'", "Secular front"],
+    "correctAnswer": "BJP's 'B-team'"
+  },
+  {
+    "id": 18,
+    "question": "What is the full name of Asaduddin Owaisi's political party, which has a significant presence in Hyderabad, Telangana?",
+    "options": ["All India Muslim League", "All India Majlis-e-Ittehadul Muslimeen", "Telangana Rashtra Samithi", "YSR Congress Party"],
+    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen"
+  },
+  {
+    "id": 19,
+    "question": "As a prominent Member of Parliament from Telangana, Asaduddin Owaisi's political statements often gain national attention, particularly his recent alliance offer for elections in which northern state?",
+    "options": ["Rajasthan", "Punjab", "Uttar Pradesh", "Madhya Pradesh"],
+    "correctAnswer": "Uttar Pradesh"
+  },
+  {
+    "id": 20,
+    "question": "The opposition parties, including those with representation from Telangana and Andhra Pradesh, are demanding accountability from which Union Minister regarding alleged police brutality against student protestors?",
+    "options": ["Rajnath Singh", "Amit Shah", "Nitin Gadkari", "Piyush Goyal"],
+    "correctAnswer": "Amit Shah"
+  },
+  {
+    "id": 21,
+    "question": "What is the stated primary reason for the introduction of the Foreign Contribution (Regulation) Amendment Bill, 2026, by the government?",
+    "options": ["To increase foreign direct investment", "To promote international collaborations", "To address administrative and legal gaps in managing foreign contributions", "To liberalize foreign funding for NGOs"],
+    "correctAnswer": "To address administrative and legal gaps in managing foreign contributions"
+  },
+  {
+    "id": 22,
+    "question": "Rahul Gandhi, a prominent opposition leader, has demanded an apology from Prime Minister Narendra Modi for what specific reason related to recent national protests, which affect the sentiments of students including those in AP and Telangana?",
+    "options": ["For economic policies", "For alleged atrocities against protestors", "For foreign policy decisions", "For environmental regulations"],
+    "correctAnswer": "For alleged atrocities against protestors"
+  },
+  {
+    "id": 23,
+    "question": "The INDIA bloc, a coalition of opposition parties, is set to finalize its strategy soon regarding which proposed legislation, relevant for students across India including AP and Telangana?",
+    "options": ["Farmers' Bill", "Anti-corruption Bill", "Anti-paper leak bill", "Women's Reservation Bill"],
+    "correctAnswer": "Anti-paper leak bill"
+  },
+  {
     "id": 24,
-    "question": "What action did the CRPF announce it would take regarding its Rapid Action Force (RAF) involvement in recent NEET protests?",
-    "options": ["Immediately withdraw RAF personnel", "Launch a full judicial inquiry", "Conduct a post-analysis of RAF action", "Provide financial compensation to injured protestors"],
-    "correctAnswer": "Conduct a post-analysis of RAF action"
+    "question": "What aspect of the Union Education Minister's new role, as stated by Pralhad Joshi himself, indicates the challenge he faces in leading a ministry that impacts all states like Telangana and Andhra Pradesh?",
+    "options": ["He finds it an easy subject", "He considers it a familiar portfolio", "He described it as a 'new subject for me'", "He mentioned it has limited scope"],
+    "correctAnswer": "He described it as a 'new subject for me'"
   },
   {
     "id": 25,
-    "question": "The Kargil conflict, between May and July 1999, was fought for approximately how many months?",
-    "options": ["One month", "Two months", "Three months", "Four months"],
-    "correctAnswer": "Three months"
+    "question": "The principle of public mobilization forcing accountability from those in power, as observed in recent national events, is a significant political dynamic for democratic governance in all Indian states, including which two Southern states highlighted in the prompt?",
+    "options": ["Karnataka and Kerala", "Telangana and Andhra Pradesh", "Tamil Nadu and Goa", "Odisha and Chhattisgarh"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   }
 ]

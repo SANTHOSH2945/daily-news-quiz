@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What significant issue, which has also been a cause for widespread concern and protests in states like Telangana and Andhra Pradesh, was recently highlighted as leading to a 'DP Change' by Gen Z?",
-    "options": [
-      "Rising petrol prices",
-      "Paper leak scandals",
-      "Farmers' protests",
-      "Privatization of PSUs"
-    ],
-    "correctAnswer": "Paper leak scandals"
+    "question": "Who recently took charge as the Union Education Minister of India?",
+    "options": ["Dharmendra Pradhan", "Pralhad Joshi", "Amit Shah", "Rajnath Singh"],
+    "correctAnswer": "Pralhad Joshi"
   },
   {
     "id": 2,
-    "question": "The recent news indicates the government 'had to bow' to the collective struggle of youth. This situation mirrors past instances in states like Andhra Pradesh where student movements have successfully demanded action on what type of administrative failures?",
-    "options": [
-      "Infrastructure development delays",
-      "Examination conduct irregularities",
-      "Industrial pollution",
-      "Tax policy changes"
-    ],
-    "correctAnswer": "Examination conduct irregularities"
+    "question": "Which Union Minister resigned from the education portfolio prior to Pralhad Joshi taking charge?",
+    "options": ["Rajnath Singh", "Amit Shah", "Dharmendra Pradhan", "Nirmala Sitharaman"],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 3,
-    "question": "Union Minister Dharmendra Pradhan, whose portfolio directly impacts education and skill development across India including Telangana and Andhra Pradesh, recently found himself in a 'full circle' of protests related to what issue?",
-    "options": [
-      "University funding",
-      "Syllabus revision",
-      "Paper leaks",
-      "Teacher recruitment"
-    ],
-    "correctAnswer": "Paper leaks"
+    "question": "Which modern warship was recently inducted into the Indian Navy, symbolizing 'Atmanirbhar Bharat'?",
+    "options": ["INS Vikrant", "INS Kolkata", "INS Mahendragiri", "INS Arihant"],
+    "correctAnswer": "INS Mahendragiri"
   },
   {
     "id": 4,
-    "question": "Which of the following student organizations, noted for supporting recent youth protests and having a presence in universities across states like Telangana, was specifically mentioned in the news?",
-    "options": [
-      "ABVP",
-      "NSUI",
-      "AISA",
-      "Yuva Sena"
-    ],
-    "correctAnswer": "AISA"
+    "question": "What percentage of indigenous content has been used in the design and construction of INS Mahendragiri?",
+    "options": ["Less than 50%", "Around 60%", "More than 75%", "Exactly 90%"],
+    "correctAnswer": "More than 75%"
   },
   {
     "id": 5,
-    "question": "Rahul Gandhi's statement, 'PM Modi is India's past, protesting youth the country's future,' reflects a political narrative that resonates with young voters in states like Andhra Pradesh who are concerned about what overarching issue?",
-    "options": [
-      "Agricultural policies",
-      "Economic growth and job opportunities",
-      "Foreign relations",
-      "Cultural preservation"
-    ],
-    "correctAnswer": "Economic growth and job opportunities"
+    "question": "In which episode of his monthly radio programme, Mann Ki Baat, did PM Modi discuss the induction of INS Mahendragiri?",
+    "options": ["130th", "136th", "140th", "125th"],
+    "correctAnswer": "136th"
   },
   {
     "id": 6,
-    "question": "Which demographic group, identified as active in social and political movements across India including Telangana, was credited for forcing a recent 'DP Change' through protests?",
-    "options": [
-      "Baby Boomers",
-      "Generation X",
-      "Millennials",
-      "Gen Z"
-    ],
-    "correctAnswer": "Gen Z"
+    "question": "Rahul Gandhi recently wrote to which Union Minister regarding the use of pellet guns against students during protests?",
+    "options": ["Pralhad Joshi", "Rajnath Singh", "Amit Shah", "Nirmala Sitharaman"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 7,
-    "question": "The 'collective struggle of youth' leading to government concessions, as reported in news, highlights the significance of public mobilization, a tactic frequently observed in states like Andhra Pradesh for addressing grievances related to which sector?",
-    "options": [
-      "Healthcare",
-      "Public administration and examinations",
-      "Tourism",
-      "Infrastructure"
-    ],
-    "correctAnswer": "Public administration and examinations"
+    "question": "Rahul Gandhi's letter emphasized the importance of which democratic principle in relation to student protests?",
+    "options": ["Freedom of expression", "Peaceful protest", "Right to information", "Right to education"],
+    "correctAnswer": "Peaceful protest"
   },
   {
     "id": 8,
-    "question": "The 'paper leak protest' cycle, described as a 'full circle' for a Union Minister, primarily affects which group of individuals in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Farmers",
-      "Industrialists",
-      "Job aspirants",
-      "Pensioners"
-    ],
-    "correctAnswer": "Job aspirants"
+    "question": "India recently observed the 27th anniversary of which significant historical event?",
+    "options": ["Independence Day", "Republic Day", "Kargil Vijay Diwas", "Gandhi Jayanti"],
+    "correctAnswer": "Kargil Vijay Diwas"
   },
   {
     "id": 9,
-    "question": "Despite a 'shrunken presence' nationally, the news notes the Left scored a win through its student organs. Which type of campus environment in states like Andhra Pradesh often sees strong activity from such student groups (AISA, SFI, AISF)?",
-    "options": [
-      "Private engineering colleges",
-      "Government universities and affiliated colleges",
-      "Management institutes",
-      "Primary schools"
-    ],
-    "correctAnswer": "Government universities and affiliated colleges"
+    "question": "The Kargil conflict, commemorated on Vijay Diwas, was fought in which year?",
+    "options": ["1971", "1965", "1999", "1984"],
+    "correctAnswer": "1999"
   },
   {
     "id": 10,
-    "question": "Rahul Gandhi positioned the 'protesting youth' as India's future. In states like Telangana, what is a key aspect of their future that these youth are often seen protesting to protect or improve?",
-    "options": [
-      "Access to traditional arts",
-      "Employment opportunities and fair selection processes",
-      "Digital entertainment options",
-      "Rural-urban migration"
-    ],
-    "correctAnswer": "Employment opportunities and fair selection processes"
+    "question": "Kargil Vijay Diwas marks the successful culmination of which military operation?",
+    "options": ["Operation Cactus", "Operation Blue Star", "Operation Vijay", "Operation Parakram"],
+    "correctAnswer": "Operation Vijay"
   },
   {
     "id": 11,
-    "question": "The 'DP Change' forced by Gen Z through protests, as reported, metaphorically refers to a change in the government's stance or policy concerning what major issue that also impacts public services in Andhra Pradesh?",
-    "options": [
-      "Digital privacy",
-      "Defense spending",
-      "Public examination integrity",
-      "Disaster preparedness"
-    ],
-    "correctAnswer": "Public examination integrity"
+    "question": "Which Union Minister stated that 'every misadventure by Pakistan will draw a response beyond their imagination' on Vijay Diwas?",
+    "options": ["Amit Shah", "Rajnath Singh", "S. Jaishankar", "Narendra Modi"],
+    "correctAnswer": "Rajnath Singh"
   },
   {
     "id": 12,
-    "question": "The phrase 'from one paper leak protest to another' for Dharmendra Pradhan signifies what about the issue of paper leaks in India, a recurring problem in states like Telangana?",
-    "options": [
-      "Its recent emergence",
-      "Its limited regional scope",
-      "Its persistent and systemic nature",
-      "Its decreasing frequency"
-    ],
-    "correctAnswer": "Its persistent and systemic nature"
+    "question": "Approximately how many Indian soldiers made the supreme sacrifice during the 1999 Kargil War?",
+    "options": ["350", "527", "700", "1000"],
+    "correctAnswer": "527"
   },
   {
     "id": 13,
-    "question": "AISA, SFI, and AISF, prominent student organizations active in states like Andhra Pradesh, were noted for supporting which specific aspect of the recent youth protests?",
-    "options": [
-      "Environmental protection",
-      "Demands for fair exams and job transparency",
-      "Interfaith harmony",
-      "Sports development"
-    ],
-    "correctAnswer": "Demands for fair exams and job transparency"
+    "question": "The Kargil conflict remains the only conventional war between which two nuclear-armed neighbors?",
+    "options": ["India and China", "India and Bangladesh", "India and Pakistan", "India and Sri Lanka"],
+    "correctAnswer": "India and Pakistan"
   },
   {
     "id": 14,
-    "question": "Rahul Gandhi's statement highlighting 'protesting youth' as the country's future suggests their role as what, a role often seen in states like Telangana where youth voice concerns on governance?",
-    "options": [
-      "Cultural ambassadors",
-      "Passive spectators",
-      "Agents of change and accountability",
-      "Economic consumers"
-    ],
-    "correctAnswer": "Agents of change and accountability"
+    "question": "Which central armed police force announced it would conduct a post-analysis of its Rapid Action Force (RAF) action in recent NEET protests?",
+    "options": ["BSF", "ITBP", "CRPF", "CISF"],
+    "correctAnswer": "CRPF"
   },
   {
     "id": 15,
-    "question": "The recent protests by Gen Z, which led to the government reportedly 'bowing' to youth demands, are best characterized as a movement for what, an area of frequent public discourse in Andhra Pradesh?",
-    "options": [
-      "Increased social media regulation",
-      "Greater transparency and fairness in public systems",
-      "Lowering the voting age",
-      "Expanding digital infrastructure"
-    ],
-    "correctAnswer": "Greater transparency and fairness in public systems"
+    "question": "How many RAF personnel were reported injured during the recent NEET protests?",
+    "options": ["15", "30", "47", "60"],
+    "correctAnswer": "47"
   },
   {
     "id": 16,
-    "question": "Beyond protests, what is a direct negative consequence of the 'paper leak' problem, frequently experienced by thousands of aspirants in states like Telangana?",
-    "options": [
-      "Increase in tuition fees",
-      "Cancellation or postponement of examinations",
-      "Shortage of textbooks",
-      "Decline in college admissions"
-    ],
-    "correctAnswer": "Cancellation or postponement of examinations"
+    "question": "According to former army chief General VP Malik, lessons from which conflict shaped 'Operation Sindoor'?",
+    "options": ["1971 Indo-Pak War", "Kargil War", "Sino-Indian War", "Sri Lankan Civil War"],
+    "correctAnswer": "Kargil War"
   },
   {
     "id": 17,
-    "question": "The news mentions that 'Mother Outfits' goaded the opposition to back the student protests. In the context of Left-affiliated student bodies like SFI and AISF (active in states like Andhra Pradesh), what do these 'Mother Outfits' typically represent?",
-    "options": [
-      "Parent-Teacher Associations",
-      "Core political parties",
-      "Religious organizations",
-      "Corporate sponsors"
-    ],
-    "correctAnswer": "Core political parties"
+    "question": "Nepal recently eased rules on Indian currency, allowing which denominations up to a certain limit?",
+    "options": ["Rs 50 and Rs 100", "Rs 100 and Rs 200", "Rs 200 and Rs 500", "Rs 500 and Rs 2000"],
+    "correctAnswer": "Rs 200 and Rs 500"
   },
   {
     "id": 18,
-    "question": "By contrasting 'PM Modi is India's past' with 'protesting youth the country's future,' Rahul Gandhi aims to appeal to voters, particularly young ones in states like Telangana, by highlighting what perceived generational divide in governance?",
-    "options": [
-      "Rural vs. Urban",
-      "Experience vs. Innovation",
-      "Stagnation vs. Progress",
-      "Tradition vs. Modernity"
-    ],
-    "correctAnswer": "Stagnation vs. Progress"
+    "question": "What is the maximum amount of Rs 200 and Rs 500 Indian notes allowed into Nepal as per the new rules?",
+    "options": ["Rs 10,000", "Rs 15,000", "Rs 25,000", "Rs 50,000"],
+    "correctAnswer": "Rs 25,000"
   },
   {
     "id": 19,
-    "question": "While the 'DP Change' implies a physical shift, what modern tool, widely used by Gen Z in states like Andhra Pradesh, played a crucial role in mobilizing and amplifying the recent protests?",
-    "options": [
-      "Public rallies only",
-      "Traditional print media",
-      "Social media and online platforms",
-      "Direct mail campaigns"
-    ],
-    "correctAnswer": "Social media and online platforms"
+    "question": "Nepal is seeking India's approval for which type of national identity card to be used as a travel document?",
+    "options": ["Aadhar Card", "Voter ID Card", "Biometric National Identity Card", "PAN Card"],
+    "correctAnswer": "Biometric National Identity Card"
   },
   {
     "id": 20,
-    "question": "When the news states the government 'had to bow' before youth, it implies what kind of response from the authorities, a response often sought by movements in states like Telangana?",
-    "options": [
-      "Ignoring demands",
-      "Compromising or accepting demands",
-      "Suppressing dissent",
-      "Initiating legal action"
-    ],
-    "correctAnswer": "Compromising or accepting demands"
+    "question": "On the 27th Vijay Diwas, to whom did PM Modi pay tribute, expressing 'gratitude to brave soldiers'?",
+    "options": ["Freedom fighters", "Kargil heroes", "Police forces", "Healthcare workers"],
+    "correctAnswer": "Kargil heroes"
   },
   {
     "id": 21,
-    "question": "The repeated 'paper leak protest' scenario, mentioned in connection with Dharmendra Pradhan, underscores a fundamental challenge to what aspect of governance and public trust in states like Andhra Pradesh?",
-    "options": [
-      "Foreign investment policies",
-      "Integrity of recruitment processes and meritocracy",
-      "Environmental regulations",
-      "Cultural heritage protection"
-    ],
-    "correctAnswer": "Integrity of recruitment processes and meritocracy"
+    "question": "According to PM Modi, what does the induction of INS Mahendragiri primarily symbolize?",
+    "options": ["India's naval expansion in the Indian Ocean", "India's growing strength in 'Atmanirbhar Bharat'", "A new era of global defense partnerships", "Advanced maritime research capabilities"],
+    "correctAnswer": "India's growing strength in 'Atmanirbhar Bharat'"
   },
   {
     "id": 22,
-    "question": "The effectiveness of student organs like AISA, SFI, and AISF in recent protests, despite their 'shrunken presence', suggests their continued ability to do what on campuses in states like Telangana?",
-    "options": [
-      "Organize cultural festivals",
-      "Advocate for administrative reforms and student welfare",
-      "Promote sports events",
-      "Manage university infrastructure"
-    ],
-    "correctAnswer": "Advocate for administrative reforms and student welfare"
+    "question": "According to BJP leader Vijayvargiya, when did former Education Minister Dharmendra Pradhan offer to resign?",
+    "options": ["After a week of protests", "On the first day of student agitation", "During a cabinet meeting", "After the official inquiry report"],
+    "correctAnswer": "On the first day of student agitation"
   },
   {
     "id": 23,
-    "question": "Rahul Gandhi's focus on 'protesting youth' as the country's future highlights their perceived importance in shaping what fundamental aspect of India's democratic fabric, which is also evident in states like Andhra Pradesh?",
-    "options": [
-      "Economic monopolies",
-      "Political discourse and accountability",
-      "Religious practices",
-      "Artistic trends"
-    ],
-    "correctAnswer": "Political discourse and accountability"
+    "question": "The recent student protests that led to discussions about pellet guns and ministerial resignations were primarily related to which examination?",
+    "options": ["JEE", "UPSC", "NEET", "CLAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 24,
-    "question": "The youth-led 'DP Change' protests are indicative of a nationwide concern that transcends state boundaries. Which of the following is a primary shared concern of youth in states like Telangana and Andhra Pradesh contributing to such protests?",
-    "options": [
-      "Lack of digital entertainment options",
-      "Unfairness and corruption in public examinations",
-      "Insufficient public transportation",
-      "High cost of living in metros"
-    ],
-    "correctAnswer": "Unfairness and corruption in public examinations"
+    "question": "What action did the CRPF announce it would take regarding its Rapid Action Force (RAF) involvement in recent NEET protests?",
+    "options": ["Immediately withdraw RAF personnel", "Launch a full judicial inquiry", "Conduct a post-analysis of RAF action", "Provide financial compensation to injured protestors"],
+    "correctAnswer": "Conduct a post-analysis of RAF action"
   },
   {
     "id": 25,
-    "question": "The news reports that 'Mother Outfits goaded Oppn to back Protest.' This indicates a common strategy where student-led movements, often seen in states like Andhra Pradesh, aim to gain support from whom to amplify their demands?",
-    "options": [
-      "International organizations",
-      "Corporate entities",
-      "Political opposition parties",
-      "Religious leaders"
-    ],
-    "correctAnswer": "Political opposition parties"
+    "question": "The Kargil conflict, between May and July 1999, was fought for approximately how many months?",
+    "options": ["One month", "Two months", "Three months", "Four months"],
+    "correctAnswer": "Three months"
   }
 ]

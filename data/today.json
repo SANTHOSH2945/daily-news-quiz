@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national entrance examination was primarily mentioned in the news for recent irregularities, leading to widespread protests?",
-    "options": ["JEE Main", "UPSC Civil Services", "NEET-UG", "GATE"],
+    "question": "What national examination has seen recent irregularities, prompting the formation of a high-powered task force for reforms?",
+    "options": ["JEE Main", "UPSC Civil Services Exam", "NEET-UG", "GATE"],
     "correctAnswer": "NEET-UG"
   },
   {
     "id": 2,
-    "question": "Who was appointed by PM Modi to lead the high-powered task force for examination reforms?",
-    "options": ["Anil Ambani", "Nandan Nilekani", "Ratan Tata", "Azim Premji"],
-    "correctAnswer": "Nandan Nilekani"
-  },
-  {
-    "id": 3,
-    "question": "Nandan Nilekani is widely known as the co-founder of which prominent Indian IT company?",
-    "options": ["Wipro", "TCS", "HCL Technologies", "Infosys"],
-    "correctAnswer": "Infosys"
-  },
-  {
-    "id": 4,
-    "question": "Besides his role at Infosys, Nandan Nilekani is also recognized as the architect of which major Indian identity project?",
-    "options": ["GST", "Digital India", "Aadhaar (UIDAI)", "Make in India"],
-    "correctAnswer": "Aadhaar (UIDAI)"
-  },
-  {
-    "id": 5,
-    "question": "What is the primary objective of the high-powered task force for examination reforms announced by Prime Minister Narendra Modi?",
-    "options": ["To privatize examination bodies", "To reduce the number of examinations", "To establish a foolproof examination system", "To increase examination fees"],
-    "correctAnswer": "To establish a foolproof examination system"
-  },
-  {
-    "id": 6,
-    "question": "Which political party criticized the PM's exam reforms initiative as an attempt to repair his tarnished image?",
-    "options": ["Bharatiya Janata Party (BJP)", "Aam Aadmi Party (AAP)", "Indian National Congress (INC)", "Trinamool Congress (TMC)"],
-    "correctAnswer": "Indian National Congress (INC)"
-  },
-  {
-    "id": 7,
-    "question": "The opposition is demanding the resignation of which Union Minister over police action against students protesting the NEET paper leak issue?",
-    "options": ["Nitin Gadkari", "S. Jaishankar", "Amit Shah", "Nirmala Sitharaman"],
-    "correctAnswer": "Amit Shah"
-  },
-  {
-    "id": 8,
-    "question": "The government plans to introduce a bill designed to eradicate what specific problem in examinations?",
-    "options": ["Low passing rates", "Lack of student participation", "Malpractice and paper leaks", "Limited examination centers"],
-    "correctAnswer": "Malpractice and paper leaks"
-  },
-  {
-    "id": 9,
-    "question": "Which body, responsible for conducting national exams, is expected to see tech-driven reforms recommended by the task force?",
-    "options": ["UGC", "AICTE", "NTA", "CBSE"],
-    "correctAnswer": "NTA"
-  },
-  {
-    "id": 10,
-    "question": "Besides Nandan Nilekani, who else is mentioned as part of the Nandan Nilekani-led NTA exam reforms panel?",
-    "options": ["RBI Governor and Finance Secretary", "Ex-ISRO chief and IIT Madras director", "Chief Justice of India and Attorney General", "NITI Aayog CEO and Cabinet Secretary"],
-    "correctAnswer": "Ex-ISRO chief and IIT Madras director"
-  },
-  {
-    "id": 11,
-    "question": "What type of reforms are anticipated from the Nandan Nilekani-led task force to prevent future paper leaks and irregularities?",
-    "options": ["Policy-driven only", "Administrative-focused", "Budgetary-only", "Tech-driven and leak-proof"],
-    "correctAnswer": "Tech-driven and leak-proof"
-  },
-  {
-    "id": 12,
-    "question": "The government's new task force for exam reforms aims to address broader reforms within which major sector?",
-    "options": ["Healthcare sector", "Defence sector", "Education sector", "Agriculture sector"],
-    "correctAnswer": "Education sector"
-  },
-  {
-    "id": 13,
-    "question": "Which Indian drug regulator recently cancelled seven clinical trial ethics panel registrations nationwide?",
-    "options": ["ICMR", "NITI Aayog", "CDSCO", "AYUSH"],
+    "question": "Which Indian drug regulator recently cancelled the registrations of seven clinical trial ethics committees?",
+    "options": ["AIIMS", "ICMR", "CDSCO", "NITI Aayog"],
     "correctAnswer": "CDSCO"
   },
   {
-    "id": 14,
-    "question": "How many clinical trial ethics panel registrations were cancelled by the CDSCO recently due to serious violations?",
-    "options": ["Three", "Five", "Seven", "Ten"],
-    "correctAnswer": "Seven"
-  },
-  {
-    "id": 15,
-    "question": "What was the primary reason cited by CDSCO for cancelling these ethics panel registrations?",
-    "options": ["Lack of qualified staff", "Insufficient funding", "Serious violations of clinical trial rules and guidelines", "Expired licenses"],
+    "id": 3,
+    "question": "What is the primary reason cited by CDSCO for cancelling the registrations of the ethics committees?",
+    "options": ["Lack of funding", "Serious violations of clinical trial rules and guidelines", "Insufficient staff", "Outdated infrastructure"],
     "correctAnswer": "Serious violations of clinical trial rules and guidelines"
   },
   {
+    "id": 4,
+    "question": "According to the news, what is the main purpose of clinical trial ethics committees?",
+    "options": ["To manage clinical trial budgets", "To approve new drug formulas", "To oversee participant rights and safety during medical studies", "To recruit participants for trials"],
+    "correctAnswer": "To oversee participant rights and safety during medical studies"
+  },
+  {
+    "id": 5,
+    "question": "Who has been named to lead the high-powered task force for overhauling India's examination system?",
+    "options": ["Raghuram Rajan", "Nandan Nilekani", "Arvind Panagariya", "Subramanian Swamy"],
+    "correctAnswer": "Nandan Nilekani"
+  },
+  {
+    "id": 6,
+    "question": "Nandan Nilekani, leading the exam overhaul task force, is also known as the architect of which major Indian project?",
+    "options": ["GST Network", "Indian Railways modernization", "UIDAI (Aadhaar)", "National Optical Fibre Network"],
+    "correctAnswer": "UIDAI (Aadhaar)"
+  },
+  {
+    "id": 7,
+    "question": "The task force for examination reforms aims to recommend what kind of solutions for NTA and public exams?",
+    "options": ["More pen-and-paper exams", "Decentralized examination centers", "Tech-driven, leak-proof reforms", "Shorter exam durations"],
+    "correctAnswer": "Tech-driven, leak-proof reforms"
+  },
+  {
+    "id": 8,
+    "question": "Which national body red-flagged new 'green' crackers for containing a banned chemical?",
+    "options": ["MoEFCC", "BIS", "CPCB", "NTPC"],
+    "correctAnswer": "CPCB"
+  },
+  {
+    "id": 9,
+    "question": "What is the primary concern raised by CPCB regarding new 'green' crackers?",
+    "options": ["Their high cost", "Their noisy emissions", "The presence of a banned chemical", "Their long shelf life"],
+    "correctAnswer": "The presence of a banned chemical"
+  },
+  {
+    "id": 10,
+    "question": "Which organization has the Centre tasked to cut pollution levels by 50%?",
+    "options": ["ISRO", "DRDO", "CSIR-NEERI", "BHEL"],
+    "correctAnswer": "CSIR-NEERI"
+  },
+  {
+    "id": 11,
+    "question": "What is the specific target for pollution reduction assigned to CSIR-NEERI by the Centre?",
+    "options": ["10%", "25%", "50%", "75%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "id": 12,
+    "question": "The government aims to introduce a bill in Parliament designed to eradicate what in examinations?",
+    "options": ["High cut-off marks", "Subjective questions", "Malpractice", "Multiple-choice questions"],
+    "correctAnswer": "Malpractice"
+  },
+  {
+    "id": 13,
+    "question": "According to MEA data, approximately how many Indians die in workplace accidents in the Gulf region every week?",
+    "options": ["1", "3", "5", "10"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 14,
+    "question": "Mohan Bhagwat, the RSS chief, discussed live-in relationships as a modern alternative. What did he say marriage instills?",
+    "options": ["Freedom", "Prosperity", "Dharma", "Individualism"],
+    "correctAnswer": "Dharma"
+  },
+  {
+    "id": 15,
+    "question": "What was the context for the Prime Minister's announcement of a high-powered task force for examination reforms?",
+    "options": ["A national education policy review", "Recent irregularities in national entrance examinations", "Demand from private coaching centers", "International pressure for reform"],
+    "correctAnswer": "Recent irregularities in national entrance examinations"
+  },
+  {
     "id": 16,
-    "question": "What is the crucial role of ethics committees in clinical trials, as mentioned in the news?",
-    "options": ["Managing trial budgets", "Overseeing participant rights and safety", "Marketing new drugs", "Recruiting trial participants"],
-    "correctAnswer": "Overseeing participant rights and safety"
+    "question": "How many clinical trial ethics panels had their registrations cancelled by India's drug regulator?",
+    "options": ["3", "5", "7", "10"],
+    "correctAnswer": "7"
   },
   {
     "id": 17,
-    "question": "The CDSCO's action ensures better adherence to what standards for drug trials?",
-    "options": ["Manufacturing standards", "Marketing standards", "Regulatory standards", "Distribution standards"],
-    "correctAnswer": "Regulatory standards"
+    "question": "The Congress party criticized the high-powered exam reforms task force as an attempt to do what?",
+    "options": ["Improve education standards", "Increase examination fees", "Repair the Prime Minister's tarnished image", "Introduce foreign examination models"],
+    "correctAnswer": "Repair the Prime Minister's tarnished image"
   },
   {
     "id": 18,
-    "question": "The monsoon session of Parliament is expected to see renewed tensions over which primary issue, besides other matters?",
-    "options": ["Economic slowdown", "Border disputes", "NEET-UG paper leak scandal", "Agricultural reforms"],
-    "correctAnswer": "NEET-UG paper leak scandal"
+    "question": "Which national institution is expected to be a key beneficiary of the tech-driven reforms recommended by the task force led by Nandan Nilekani?",
+    "options": ["UPSC", "SSC", "NTA", "CBSE"],
+    "correctAnswer": "NTA"
   },
   {
     "id": 19,
-    "question": "What kind of irregularities in national entrance examinations prompted the Prime Minister to announce a high-powered task force?",
-    "options": ["Low attendance rates", "Delayed results", "Paper leaks and other malpractices", "Difficulty level of exams"],
-    "correctAnswer": "Paper leaks and other malpractices"
+    "question": "Mohan Bhagwat, while discussing live-in relationships, also stressed that which group of people are part of society and should be accepted?",
+    "options": ["Elderly citizens", "Rural migrants", "LGBTQ people", "Foreign nationals"],
+    "correctAnswer": "LGBTQ people"
   },
   {
     "id": 20,
-    "question": "The Congress party specifically referred to the government's exam reform initiative as what?",
-    "options": ["Thorough and impartial", "A groundbreaking initiative", "An attempt to repair PM's tarnished image", "Highly effective"],
-    "correctAnswer": "An attempt to repair PM's tarnished image"
+    "question": "The monsoon session of Parliament is expected to see a renewed focus on which major issue related to examinations?",
+    "options": ["Changes in syllabus", "NEET-UG paper leak scandal", "Increase in exam centers", "Digitalization of answer sheets"],
+    "correctAnswer": "NEET-UG paper leak scandal"
   },
   {
     "id": 21,
-    "question": "Who is explicitly mentioned as targeting the government over police conduct in relation to the student protests?",
-    "options": ["Priyanka Gandhi Vadra", "Mallikarjun Kharge", "Rahul Gandhi", "Sonia Gandhi"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "What is the ultimate goal of the government in establishing a foolproof examination system?",
+    "options": ["To make exams tougher", "To reduce the number of test-takers", "To ensure fairness and prevent malpractices", "To align with international exam patterns"],
+    "correctAnswer": "To ensure fairness and prevent malpractices"
   },
   {
     "id": 22,
-    "question": "The new task force for examination reforms includes prominent figures from which premier Indian space research organization?",
-    "options": ["DRDO", "BARC", "ISRO", "CSIR"],
-    "correctAnswer": "ISRO"
+    "question": "The opposition plans to strongly raise concerns in Parliament regarding which specific action by police?",
+    "options": ["Traffic management", "Action against protesting students", "Investigation of cybercrimes", "Border security operations"],
+    "correctAnswer": "Action against protesting students"
   },
   {
     "id": 23,
-    "question": "Which government initiative, similar to the recent task force, had previous committee recommendations yet to be fully implemented?",
-    "options": ["Digital India mission", "Clean India campaign", "Previous committee on examination reforms", "Smart Cities Mission"],
-    "correctAnswer": "Previous committee on examination reforms"
+    "question": "What specific type of force was questioned by Rahul Gandhi regarding the police action against protesting students?",
+    "options": ["Verbal warnings", "Non-lethal force", "Lethal force", "Crowd control barriers"],
+    "correctAnswer": "Lethal force"
   },
   {
     "id": 24,
-    "question": "The government is also set to introduce amendments to which specific law in response to examination malpractices?",
-    "options": ["Indian Penal Code", "Right to Education Act", "Anti-paper leak law", "Information Technology Act"],
-    "correctAnswer": "Anti-paper leak law"
+    "question": "The CPCB's action against 'green' crackers is part of broader efforts by the Centre to address what national concern?",
+    "options": ["Economic recession", "Air pollution levels", "Food security", "Water scarcity"],
+    "correctAnswer": "Air pollution levels"
   },
   {
     "id": 25,
-    "question": "The action by CDSCO to cancel ethics panels ensures better adherence to what for drug trials?",
-    "options": ["Clinical trial costs", "Regulatory standards", "Drug manufacturing capacity", "Research publication ethics"],
-    "correctAnswer": "Regulatory standards"
+    "question": "What kind of assessment and review process led to CDSCO's decision to cancel ethics panel registrations?",
+    "options": ["Financial audit", "Legal challenge", "Thorough compliance assessment", "Public opinion survey"],
+    "correctAnswer": "Thorough compliance assessment"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Asaduddin Owaisi, a prominent Lok Sabha MP who made an alliance offer for UP polls, represents which constituency?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which national entrance examination was primarily mentioned in the news for recent irregularities, leading to widespread protests?",
+    "options": ["JEE Main", "UPSC Civil Services", "NEET-UG", "GATE"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 2,
-    "question": "Which political party does Asaduddin Owaisi, a key political figure from Telangana, lead?",
-    "options": ["Samajwadi Party", "All India Majlis-e-Ittehadul Muslimeen", "Indian National Congress", "Bharatiya Janata Party"],
-    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen"
+    "question": "Who was appointed by PM Modi to lead the high-powered task force for examination reforms?",
+    "options": ["Anil Ambani", "Nandan Nilekani", "Ratan Tata", "Azim Premji"],
+    "correctAnswer": "Nandan Nilekani"
   },
   {
     "id": 3,
-    "question": "Asaduddin Owaisi recently offered an alliance to Akhilesh Yadav's party to contest state elections in which Indian state?",
-    "options": ["Bihar", "West Bengal", "Uttar Pradesh", "Maharashtra"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "Nandan Nilekani is widely known as the co-founder of which prominent Indian IT company?",
+    "options": ["Wipro", "TCS", "HCL Technologies", "Infosys"],
+    "correctAnswer": "Infosys"
   },
   {
     "id": 4,
-    "question": "The Lok Sabha constituency of Hyderabad, represented by Asaduddin Owaisi, is located in which Indian state?",
-    "options": ["Karnataka", "Andhra Pradesh", "Kerala", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "Besides his role at Infosys, Nandan Nilekani is also recognized as the architect of which major Indian identity project?",
+    "options": ["GST", "Digital India", "Aadhaar (UIDAI)", "Make in India"],
+    "correctAnswer": "Aadhaar (UIDAI)"
   },
   {
     "id": 5,
-    "question": "What was the primary goal of Asaduddin Owaisi's proposed alliance with the Samajwadi Party for the upcoming state elections, as per his statement?",
-    "options": ["To strengthen regional parties", "To oust the BJP from power", "To form a national front", "To gain more Lok Sabha seats"],
-    "correctAnswer": "To oust the BJP from power"
+    "question": "What is the primary objective of the high-powered task force for examination reforms announced by Prime Minister Narendra Modi?",
+    "options": ["To privatize examination bodies", "To reduce the number of examinations", "To establish a foolproof examination system", "To increase examination fees"],
+    "correctAnswer": "To establish a foolproof examination system"
   },
   {
     "id": 6,
-    "question": "Amidst student protests over examination irregularities, which Union Minister recently took additional charge of the Education Ministry, a role impacting students in Telangana and Andhra Pradesh?",
-    "options": ["Amit Shah", "Nirmala Sitharaman", "Pralhad Joshi", "S. Jaishankar"],
-    "correctAnswer": "Pralhad Joshi"
+    "question": "Which political party criticized the PM's exam reforms initiative as an attempt to repair his tarnished image?",
+    "options": ["Bharatiya Janata Party (BJP)", "Aam Aadmi Party (AAP)", "Indian National Congress (INC)", "Trinamool Congress (TMC)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 7,
-    "question": "The recent nationwide student protests, which also involved students from Telangana and Andhra Pradesh, were primarily related to alleged irregularities in which examination?",
-    "options": ["JEE", "UPSC", "NEET", "CLAT"],
-    "correctAnswer": "NEET"
-  },
-  {
-    "id": 8,
-    "question": "Who was the Union Education Minister before Pralhad Joshi took charge amidst the controversies, affecting educational policies across all states including AP and Telangana?",
-    "options": ["Smriti Irani", "Ramesh Pokhriyal Nishank", "Dharmendra Pradhan", "Prakash Javadekar"],
-    "correctAnswer": "Dharmendra Pradhan"
-  },
-  {
-    "id": 9,
-    "question": "The proposed anti-paper leak bill, relevant for students across India including those in Andhra Pradesh and Telangana, aims to increase penalties for what kind of offenses?",
-    "options": ["Student misconduct", "Examination-related unfair means", "Protest violence", "Political donations"],
-    "correctAnswer": "Examination-related unfair means"
-  },
-  {
-    "id": 10,
-    "question": "What is the current status of the Union Education Ministry, which significantly influences educational policies and institutions in states like Telangana and Andhra Pradesh?",
-    "options": ["It has been dissolved", "It is undergoing a leadership change", "It has merged with another ministry", "It has been fully privatized"],
-    "correctAnswer": "It is undergoing a leadership change"
-  },
-  {
-    "id": 11,
-    "question": "The Foreign Contribution (Regulation) Amendment Bill, 2026, which impacts NGOs and organizations in states like Andhra Pradesh and Telangana, was introduced in which house of the Indian Parliament?",
-    "options": ["Rajya Sabha", "Lok Sabha", "State Assemblies", "Both Lok Sabha and Rajya Sabha simultaneously"],
-    "correctAnswer": "Lok Sabha"
-  },
-  {
-    "id": 12,
-    "question": "What does the acronym FCRA stand for in the context of regulating foreign contributions in India, a law affecting various entities including those in Telangana and Andhra Pradesh?",
-    "options": ["Foreign Currency Regulatory Agency", "Financial Contribution Reforms Act", "Foreign Contribution (Regulation) Act", "Federal Compliance Review Authority"],
-    "correctAnswer": "Foreign Contribution (Regulation) Act"
-  },
-  {
-    "id": 13,
-    "question": "The FCRA Bill, 2026, proposes a new framework for managing foreign contributions and assets under which specific circumstances for an organization?",
-    "options": ["When it expands its operations", "When its registration is cancelled, surrendered, or ceases", "When it changes its leadership", "When it receives a new government grant"],
-    "correctAnswer": "When its registration is cancelled, surrendered, or ceases"
-  },
-  {
-    "id": 14,
-    "question": "What is one of the main concerns raised by critics regarding the proposed FCRA Bill, 2026, due to its potential impact on non-profits in states like Telangana and Andhra Pradesh?",
-    "options": ["Its focus on domestic funding", "The breadth of the proposed governmental powers", "Its encouragement of foreign investments", "Its lenient penalties for violations"],
-    "correctAnswer": "The breadth of the proposed governmental powers"
-  },
-  {
-    "id": 15,
-    "question": "Union Minister Pralhad Joshi, after taking charge as the Education Minister (a portfolio that affects states like Telangana and Andhra Pradesh), expressed gratitude to which Indian leader for his new responsibility?",
-    "options": ["President Droupadi Murmu", "Vice President Jagdeep Dhankhar", "Prime Minister Narendra Modi", "Speaker Om Birla"],
-    "correctAnswer": "Prime Minister Narendra Modi"
-  },
-  {
-    "id": 16,
-    "question": "Dharmendra Pradhan's resignation from the Union Council of Ministers created a vacancy in which crucial ministry, impacting educational governance across all Indian states including AP and Telangana?",
-    "options": ["Home Affairs", "Finance", "Defence", "Education"],
-    "correctAnswer": "Education"
-  },
-  {
-    "id": 17,
-    "question": "Which specific accusation has Asaduddin Owaisi's party, AIMIM, often faced from its political opponents, implying its alignment with the ruling party at the national level?",
-    "options": ["Anti-national", "Pro-regional", "BJP's 'B-team'", "Secular front"],
-    "correctAnswer": "BJP's 'B-team'"
-  },
-  {
-    "id": 18,
-    "question": "What is the full name of Asaduddin Owaisi's political party, which has a significant presence in Hyderabad, Telangana?",
-    "options": ["All India Muslim League", "All India Majlis-e-Ittehadul Muslimeen", "Telangana Rashtra Samithi", "YSR Congress Party"],
-    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen"
-  },
-  {
-    "id": 19,
-    "question": "As a prominent Member of Parliament from Telangana, Asaduddin Owaisi's political statements often gain national attention, particularly his recent alliance offer for elections in which northern state?",
-    "options": ["Rajasthan", "Punjab", "Uttar Pradesh", "Madhya Pradesh"],
-    "correctAnswer": "Uttar Pradesh"
-  },
-  {
-    "id": 20,
-    "question": "The opposition parties, including those with representation from Telangana and Andhra Pradesh, are demanding accountability from which Union Minister regarding alleged police brutality against student protestors?",
-    "options": ["Rajnath Singh", "Amit Shah", "Nitin Gadkari", "Piyush Goyal"],
+    "question": "The opposition is demanding the resignation of which Union Minister over police action against students protesting the NEET paper leak issue?",
+    "options": ["Nitin Gadkari", "S. Jaishankar", "Amit Shah", "Nirmala Sitharaman"],
     "correctAnswer": "Amit Shah"
   },
   {
+    "id": 8,
+    "question": "The government plans to introduce a bill designed to eradicate what specific problem in examinations?",
+    "options": ["Low passing rates", "Lack of student participation", "Malpractice and paper leaks", "Limited examination centers"],
+    "correctAnswer": "Malpractice and paper leaks"
+  },
+  {
+    "id": 9,
+    "question": "Which body, responsible for conducting national exams, is expected to see tech-driven reforms recommended by the task force?",
+    "options": ["UGC", "AICTE", "NTA", "CBSE"],
+    "correctAnswer": "NTA"
+  },
+  {
+    "id": 10,
+    "question": "Besides Nandan Nilekani, who else is mentioned as part of the Nandan Nilekani-led NTA exam reforms panel?",
+    "options": ["RBI Governor and Finance Secretary", "Ex-ISRO chief and IIT Madras director", "Chief Justice of India and Attorney General", "NITI Aayog CEO and Cabinet Secretary"],
+    "correctAnswer": "Ex-ISRO chief and IIT Madras director"
+  },
+  {
+    "id": 11,
+    "question": "What type of reforms are anticipated from the Nandan Nilekani-led task force to prevent future paper leaks and irregularities?",
+    "options": ["Policy-driven only", "Administrative-focused", "Budgetary-only", "Tech-driven and leak-proof"],
+    "correctAnswer": "Tech-driven and leak-proof"
+  },
+  {
+    "id": 12,
+    "question": "The government's new task force for exam reforms aims to address broader reforms within which major sector?",
+    "options": ["Healthcare sector", "Defence sector", "Education sector", "Agriculture sector"],
+    "correctAnswer": "Education sector"
+  },
+  {
+    "id": 13,
+    "question": "Which Indian drug regulator recently cancelled seven clinical trial ethics panel registrations nationwide?",
+    "options": ["ICMR", "NITI Aayog", "CDSCO", "AYUSH"],
+    "correctAnswer": "CDSCO"
+  },
+  {
+    "id": 14,
+    "question": "How many clinical trial ethics panel registrations were cancelled by the CDSCO recently due to serious violations?",
+    "options": ["Three", "Five", "Seven", "Ten"],
+    "correctAnswer": "Seven"
+  },
+  {
+    "id": 15,
+    "question": "What was the primary reason cited by CDSCO for cancelling these ethics panel registrations?",
+    "options": ["Lack of qualified staff", "Insufficient funding", "Serious violations of clinical trial rules and guidelines", "Expired licenses"],
+    "correctAnswer": "Serious violations of clinical trial rules and guidelines"
+  },
+  {
+    "id": 16,
+    "question": "What is the crucial role of ethics committees in clinical trials, as mentioned in the news?",
+    "options": ["Managing trial budgets", "Overseeing participant rights and safety", "Marketing new drugs", "Recruiting trial participants"],
+    "correctAnswer": "Overseeing participant rights and safety"
+  },
+  {
+    "id": 17,
+    "question": "The CDSCO's action ensures better adherence to what standards for drug trials?",
+    "options": ["Manufacturing standards", "Marketing standards", "Regulatory standards", "Distribution standards"],
+    "correctAnswer": "Regulatory standards"
+  },
+  {
+    "id": 18,
+    "question": "The monsoon session of Parliament is expected to see renewed tensions over which primary issue, besides other matters?",
+    "options": ["Economic slowdown", "Border disputes", "NEET-UG paper leak scandal", "Agricultural reforms"],
+    "correctAnswer": "NEET-UG paper leak scandal"
+  },
+  {
+    "id": 19,
+    "question": "What kind of irregularities in national entrance examinations prompted the Prime Minister to announce a high-powered task force?",
+    "options": ["Low attendance rates", "Delayed results", "Paper leaks and other malpractices", "Difficulty level of exams"],
+    "correctAnswer": "Paper leaks and other malpractices"
+  },
+  {
+    "id": 20,
+    "question": "The Congress party specifically referred to the government's exam reform initiative as what?",
+    "options": ["Thorough and impartial", "A groundbreaking initiative", "An attempt to repair PM's tarnished image", "Highly effective"],
+    "correctAnswer": "An attempt to repair PM's tarnished image"
+  },
+  {
     "id": 21,
-    "question": "What is the stated primary reason for the introduction of the Foreign Contribution (Regulation) Amendment Bill, 2026, by the government?",
-    "options": ["To increase foreign direct investment", "To promote international collaborations", "To address administrative and legal gaps in managing foreign contributions", "To liberalize foreign funding for NGOs"],
-    "correctAnswer": "To address administrative and legal gaps in managing foreign contributions"
+    "question": "Who is explicitly mentioned as targeting the government over police conduct in relation to the student protests?",
+    "options": ["Priyanka Gandhi Vadra", "Mallikarjun Kharge", "Rahul Gandhi", "Sonia Gandhi"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 22,
-    "question": "Rahul Gandhi, a prominent opposition leader, has demanded an apology from Prime Minister Narendra Modi for what specific reason related to recent national protests, which affect the sentiments of students including those in AP and Telangana?",
-    "options": ["For economic policies", "For alleged atrocities against protestors", "For foreign policy decisions", "For environmental regulations"],
-    "correctAnswer": "For alleged atrocities against protestors"
+    "question": "The new task force for examination reforms includes prominent figures from which premier Indian space research organization?",
+    "options": ["DRDO", "BARC", "ISRO", "CSIR"],
+    "correctAnswer": "ISRO"
   },
   {
     "id": 23,
-    "question": "The INDIA bloc, a coalition of opposition parties, is set to finalize its strategy soon regarding which proposed legislation, relevant for students across India including AP and Telangana?",
-    "options": ["Farmers' Bill", "Anti-corruption Bill", "Anti-paper leak bill", "Women's Reservation Bill"],
-    "correctAnswer": "Anti-paper leak bill"
+    "question": "Which government initiative, similar to the recent task force, had previous committee recommendations yet to be fully implemented?",
+    "options": ["Digital India mission", "Clean India campaign", "Previous committee on examination reforms", "Smart Cities Mission"],
+    "correctAnswer": "Previous committee on examination reforms"
   },
   {
     "id": 24,
-    "question": "What aspect of the Union Education Minister's new role, as stated by Pralhad Joshi himself, indicates the challenge he faces in leading a ministry that impacts all states like Telangana and Andhra Pradesh?",
-    "options": ["He finds it an easy subject", "He considers it a familiar portfolio", "He described it as a 'new subject for me'", "He mentioned it has limited scope"],
-    "correctAnswer": "He described it as a 'new subject for me'"
+    "question": "The government is also set to introduce amendments to which specific law in response to examination malpractices?",
+    "options": ["Indian Penal Code", "Right to Education Act", "Anti-paper leak law", "Information Technology Act"],
+    "correctAnswer": "Anti-paper leak law"
   },
   {
     "id": 25,
-    "question": "The principle of public mobilization forcing accountability from those in power, as observed in recent national events, is a significant political dynamic for democratic governance in all Indian states, including which two Southern states highlighted in the prompt?",
-    "options": ["Karnataka and Kerala", "Telangana and Andhra Pradesh", "Tamil Nadu and Goa", "Odisha and Chhattisgarh"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "The action by CDSCO to cancel ethics panels ensures better adherence to what for drug trials?",
+    "options": ["Clinical trial costs", "Regulatory standards", "Drug manufacturing capacity", "Research publication ethics"],
+    "correctAnswer": "Regulatory standards"
   }
 ]

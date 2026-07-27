@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the full form of NHAI, an organization recently in news for winning a major arbitration case, whose operations are crucial for states like Telangana and Andhra Pradesh?",
-    "options": ["National Highway Authority of India", "New Highways Association of India", "National Heritage Authority of India", "Northern Highways Agency of India"],
-    "correctAnswer": "National Highway Authority of India"
+    "question": "The Indian Coast Guard recently airlifted an ailing seafarer. What is a key role of the Coast Guard along India's coastline, including states like Andhra Pradesh?",
+    "options": ["Managing commercial ports", "Providing search and rescue (SAR) operations", "Regulating fishing licenses", "Operating naval warships"],
+    "correctAnswer": "Providing search and rescue (SAR) operations"
   },
   {
     "id": 2,
-    "question": "In a recent major arbitration case, what was the significant reduction in the claim amount against the National Highway Authority of India (NHAI)?",
-    "options": ["From Rs 3,177 crore to Rs 46 crore", "From Rs 2,500 crore to Rs 50 crore", "From Rs 1,000 crore to Rs 100 crore", "From Rs 5,000 crore to Rs 200 crore"],
-    "correctAnswer": "From Rs 3,177 crore to Rs 46 crore"
+    "question": "In the context of maritime security and the safety of seafarers, which Indian central agency primarily safeguards the coastal interests of states like Andhra Pradesh and Telangana?",
+    "options": ["Indian Navy", "Directorate General of Shipping", "Indian Coast Guard", "Border Security Force (BSF)"],
+    "correctAnswer": "Indian Coast Guard"
   },
   {
     "id": 3,
-    "question": "What is the primary role of the National Highway Authority of India (NHAI) in the country, including the development and maintenance of key routes in Telangana and Andhra Pradesh?",
-    "options": ["Managing railway infrastructure", "Developing and maintaining national highways", "Regulating air traffic control", "Overseeing port operations"],
-    "correctAnswer": "Developing and maintaining national highways"
+    "question": "The Indian Coast Guard's ability to operate in rough seas and adverse weather is crucial for maritime safety. What aspect of India's geography makes such capabilities vital for East Coast states like Andhra Pradesh?",
+    "options": ["High frequency of earthquakes", "Vulnerability to cyclones and monsoons", "Extensive desert borders", "Presence of glacial lakes"],
+    "correctAnswer": "Vulnerability to cyclones and monsoons"
   },
   {
     "id": 4,
-    "question": "Arbitration, as highlighted by the recent NHAI case, is a method of resolving disputes. What is its main characteristic?",
-    "options": ["A court trial with a jury", "A legislative debate in Parliament", "An out-of-court dispute resolution conducted by an impartial third party", "A public protest leading to negotiation"],
-    "correctAnswer": "An out-of-court dispute resolution conducted by an impartial third party"
+    "question": "While an incident occurred off Gujarat, the Indian Coast Guard's jurisdiction covers India's entire coastline. Which major water body borders Andhra Pradesh, making it a critical zone for Coast Guard operations?",
+    "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean", "Gulf of Mannar"],
+    "correctAnswer": "Bay of Bengal"
   },
   {
     "id": 5,
-    "question": "The successful arbitration for NHAI demonstrates its focus on which aspect of project management, vital for infrastructure development across India including TS/AP?",
-    "options": ["Increasing project costs", "Efficient dispute resolution and financial prudence", "Avoiding new projects", "Outsourcing all legal matters"],
-    "correctAnswer": "Efficient dispute resolution and financial prudence"
+    "question": "Andhra Pradesh is home to significant ports like Visakhapatnam. How does the Indian Coast Guard contribute to the overall maritime ecosystem around such commercial hubs?",
+    "options": ["Managing port cargo logistics", "Ensuring security and environmental protection", "Operating passenger ferries", "Issuing import/export permits"],
+    "correctAnswer": "Ensuring security and environmental protection"
   },
   {
     "id": 6,
-    "question": "What type of infrastructure development does NHAI primarily oversee that facilitates inter-state connectivity and economic growth in regions like Telangana and Andhra Pradesh?",
-    "options": ["Local roads within cities", "State highways", "National highways", "Rural roads"],
-    "correctAnswer": "National highways"
+    "question": "A recent meeting with the Lok Sabha Speaker involved requests for early decisions on disqualification petitions. Under which constitutional provision does the Speaker typically exercise powers related to the disqualification of Members of Parliament from states like Telangana or Andhra Pradesh?",
+    "options": ["Article 356", "Tenth Schedule", "Article 105", "Seventh Schedule"],
+    "correctAnswer": "Tenth Schedule"
   },
   {
     "id": 7,
-    "question": "Which national examination's related fast-track court recently saw its first hearing stall due to the absence of the CBI, an issue impacting students in Telangana and Andhra Pradesh?",
-    "options": ["JEE", "UPSC Civil Services", "NEET", "CLAT"],
-    "correctAnswer": "NEET"
+    "question": "The Lok Sabha Speaker's role is crucial for the functioning of Parliament. Beyond presiding over sessions, what other significant responsibility does the Speaker hold that could impact representatives from states like Telangana?",
+    "options": ["Appointing the Chief Election Commissioner", "Certifying Money Bills", "Issuing writs of habeas corpus", "Declaring national emergencies"],
+    "correctAnswer": "Certifying Money Bills"
   },
   {
     "id": 8,
-    "question": "What is the main issue that the Anti-Paper Leak Bill, recently delayed in Parliament, seeks to address, a problem that severely affects students in states like Telangana and Andhra Pradesh?",
-    "options": ["Online gaming regulations", "Exam malpractice and paper leaks", "School curriculum reform", "University admission criteria"],
-    "correctAnswer": "Exam malpractice and paper leaks"
+    "question": "When a political party's delegation, including potentially those from Southern states, meets the Lok Sabha Speaker, what is a common objective of such interactions?",
+    "options": ["Demanding dissolution of Parliament", "Seeking clarity or action on procedural matters", "Requesting statehood for new regions", "Proposing international treaties"],
+    "correctAnswer": "Seeking clarity or action on procedural matters"
   },
   {
     "id": 9,
-    "question": "The stalling of the NEET fast-track court hearing highlights challenges in the role of which investigative agency?",
-    "options": ["Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Income Tax Department (ITD)"],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
+    "question": "The issue of 'rebel MPs' seeking disqualification petitions touches upon party discipline. How might such internal party dynamics affect the representation and stability of political parties in states like Andhra Pradesh?",
+    "options": ["It guarantees an increase in state funding.", "It can lead to internal party instability and leadership changes.", "It automatically triggers a presidential election.", "It requires all party members to switch allegiance."],
+    "correctAnswer": "It can lead to internal party instability and leadership changes."
   },
   {
     "id": 10,
-    "question": "What was the reason for the delay in the parliamentary debate on the Anti-Paper Leak Bill, a legislative measure relevant to fair examinations across India?",
-    "options": ["Lack of quorum", "Opposition uproar", "Speaker's illness", "Technical issues"],
-    "correctAnswer": "Opposition uproar"
+    "question": "The Lok Sabha Speaker also deals with seating arrangements for parties. While seemingly minor, how can such arrangements influence the visibility and participation of elected members from states like Telangana in parliamentary debates?",
+    "options": ["It determines their salary and allowances.", "It impacts their ability to catch the Speaker's eye and participate.", "It grants them diplomatic immunity.", "It assigns them to specific parliamentary committees automatically."],
+    "correctAnswer": "It impacts their ability to catch the Speaker's eye and participate."
   },
   {
     "id": 11,
-    "question": "How would the implementation of the Anti-Paper Leak Bill, if passed, primarily benefit students in states like Telangana and Andhra Pradesh?",
-    "options": ["By reducing tuition fees", "By ensuring fair and transparent competitive examinations", "By increasing the number of government jobs", "By providing free study materials"],
-    "correctAnswer": "By ensuring fair and transparent competitive examinations"
+    "question": "India has significant plans for energy storage, including a pipeline of 47 GW battery storage projects. What is the primary purpose of such large-scale battery storage, especially for states like Telangana focusing on industrial growth?",
+    "options": ["To reduce fossil fuel imports for transportation", "To provide grid stability and integrate intermittent renewable energy", "To solely power electric vehicles", "To enhance rural cooking gas supply"],
+    "correctAnswer": "To provide grid stability and integrate intermittent renewable energy"
   },
   {
     "id": 12,
-    "question": "Which body is primarily responsible for conducting the NEET exam, which has been in news regarding alleged irregularities impacting aspiring medical students nationwide?",
-    "options": ["Union Public Service Commission (UPSC)", "National Testing Agency (NTA)", "All India Council for Technical Education (AICTE)", "Central Board of Secondary Education (CBSE)"],
-    "correctAnswer": "National Testing Agency (NTA)"
+    "question": "A pipeline of 23 GW pumped storage projects is also planned for India. What geographical feature is typically essential for the development of pumped storage hydropower projects, which could be found in parts of Andhra Pradesh?",
+    "options": ["Extensive flat plains", "High desert temperatures", "Significant elevation differences or hilly terrain", "Coastal mangrove forests"],
+    "correctAnswer": "Significant elevation differences or hilly terrain"
   },
   {
     "id": 13,
-    "question": "The issues surrounding NEET and the Anti-Paper Leak Bill are significant for students aspiring for admissions in which professional fields across India, including TS/AP?",
-    "options": ["Engineering", "Law", "Medical and Dental", "Arts and Humanities"],
-    "correctAnswer": "Medical and Dental"
+    "question": "The combined 70 GW of battery and pumped storage projects signifies India's commitment to energy security. How will these projects particularly benefit states like Andhra Pradesh and Telangana, which are expanding their renewable energy portfolios?",
+    "options": ["By eliminating the need for any new power generation.", "By ensuring continuous power supply despite variable renewable output.", "By exclusively powering agricultural pump sets.", "By making coal power plants obsolete immediately."],
+    "correctAnswer": "By ensuring continuous power supply despite variable renewable output."
   },
   {
     "id": 14,
-    "question": "India is planning for significant additions in battery storage capacity in the pipeline to support its energy goals. What is the approximate planned capacity mentioned?",
-    "options": ["10 GW", "20 GW", "47 GW", "100 GW"],
-    "correctAnswer": "47 GW"
+    "question": "What is a key distinction between battery storage and pumped storage projects in terms of their typical application or scale within India's energy grid, affecting states like Telangana?",
+    "options": ["Battery storage is exclusively for residential use, pumped storage for industrial.", "Pumped storage is typically for shorter duration, battery for longer.", "Battery storage is suitable for quicker response and smaller to medium scale, while pumped storage is for large-scale, long-duration storage.", "Battery storage is always cheaper than pumped storage."],
+    "correctAnswer": "Battery storage is suitable for quicker response and smaller to medium scale, while pumped storage is for large-scale, long-duration storage."
   },
   {
     "id": 15,
-    "question": "Alongside battery storage, what other major energy storage technology is India developing with about 23 GW in the pipeline, crucial for grid stability across states like Telangana and Andhra Pradesh?",
-    "options": ["Thermal storage", "Flywheel storage", "Compressed air energy storage", "Pumped storage projects"],
-    "correctAnswer": "Pumped storage projects"
+    "question": "India's focus on 70 GW of storage capacity highlights a national trend towards modernizing the power grid. What is a primary future challenge these storage projects aim to address for states like Andhra Pradesh?",
+    "options": ["Managing excessive coal production", "Ensuring grid stability with increasing renewable penetration", "Decreasing demand for electricity", "Increasing reliance on imported natural gas"],
+    "correctAnswer": "Ensuring grid stability with increasing renewable penetration"
   },
   {
     "id": 16,
-    "question": "Why are pumped storage projects considered crucial for India's energy grid, impacting power supply to all states including Telangana and Andhra Pradesh?",
-    "options": ["They burn fossil fuels efficiently", "They provide large-scale energy storage and grid stability", "They are used for long-distance power transmission", "They generate power solely from solar panels"],
-    "correctAnswer": "They provide large-scale energy storage and grid stability"
+    "question": "NHAI recently won a significant arbitration, reducing a large claim. What is the general purpose of arbitration in large infrastructure projects undertaken by NHAI, including those in Telangana and Andhra Pradesh?",
+    "options": ["To bypass all legal processes", "To resolve disputes outside of traditional court litigation", "To increase project costs", "To delay project completion"],
+    "correctAnswer": "To resolve disputes outside of traditional court litigation"
   },
   {
     "id": 17,
-    "question": "Battery energy storage systems in India aim to support the integration of which type of energy sources into the national grid?",
-    "options": ["Nuclear power", "Fossil fuels", "Renewable energy (solar, wind)", "Geothermal energy"],
-    "correctAnswer": "Renewable energy (solar, wind)"
+    "question": "The National Highways Authority of India (NHAI) is responsible for developing, maintaining, and managing national highways. How do NHAI projects significantly benefit the economic development of states like Andhra Pradesh?",
+    "options": ["By focusing solely on rail transport", "By improving connectivity for trade, tourism, and industry", "By establishing new airlines", "By subsidizing public education"],
+    "correctAnswer": "By improving connectivity for trade, tourism, and industry"
   },
   {
     "id": 18,
-    "question": "The development of large-scale energy storage projects contributes to which broader national goal for India, affecting energy policy in all states?",
-    "options": ["Reducing agricultural output", "Enhancing energy security and transition to clean energy", "Decreasing industrial production", "Promoting coal mining"],
-    "correctAnswer": "Enhancing energy security and transition to clean energy"
+    "question": "While the news mentions an arbitration win, NHAI projects require substantial funding. From where does NHAI primarily secure funds for its major highway development initiatives across India, impacting states like Telangana?",
+    "options": ["Only through international aid", "Toll collection, government budgetary support, and market borrowings", "Through state government contributions only", "By selling off existing railway lines"],
+    "correctAnswer": "Toll collection, government budgetary support, and market borrowings"
   },
   {
     "id": 19,
-    "question": "Which of the following is an advantage of pumped hydro storage technology, highly relevant for states with suitable topography like parts of Andhra Pradesh, in terms of energy management?",
-    "options": ["Low initial setup cost", "High energy density per volume", "Long lifespan and large storage capacity", "Requires no water"],
-    "correctAnswer": "Long lifespan and large storage capacity"
+    "question": "NHAI maintains and develops major highway networks. Which of these iconic NHAI projects provides critical connectivity through or to the Southern states like Andhra Pradesh and Telangana?",
+    "options": ["Eastern Peripheral Expressway", "Golden Quadrilateral", "Delhi-Mumbai Expressway", "Purvanchal Expressway"],
+    "correctAnswer": "Golden Quadrilateral"
   },
   {
     "id": 20,
-    "question": "The Bihar government recently assured protesters of withdrawing FIRs and no legal action. This action is related to what fundamental aspect of citizen rights across India, including Telangana and Andhra Pradesh?",
-    "options": ["Right to vote", "Right to peaceful protest", "Right to property", "Right to education"],
-    "correctAnswer": "Right to peaceful protest"
+    "question": "Improved national highways by NHAI contribute to better logistics and supply chains. How does this specifically aid agricultural states like Andhra Pradesh and Telangana?",
+    "options": ["By making local markets entirely self-sufficient.", "By enabling faster and cheaper transport of produce to markets.", "By eliminating the need for cold storage.", "By increasing fuel prices."],
+    "correctAnswer": "By enabling faster and cheaper transport of produce to markets."
   },
   {
     "id": 21,
-    "question": "CJP (Citizens for Justice and Peace) recently announced plans to fight cases across India by offering aid and linking lawyers to protesters. What is their primary mission?",
-    "options": ["Promoting sports events", "Providing legal aid and defending human rights", "Developing new technologies", "Organizing cultural festivals"],
-    "correctAnswer": "Providing legal aid and defending human rights"
+    "question": "The CRPF leadership assured personnel of support for duty decisions. What is the primary role of the Central Reserve Police Force (CRPF) in India, including its deployment in various states like Telangana for law and order?",
+    "options": ["Border guarding for international frontiers", "Counter-insurgency and internal security duties", "Disaster management and relief only", "Intelligence gathering for foreign policy"],
+    "correctAnswer": "Counter-insurgency and internal security duties"
   },
   {
     "id": 22,
-    "question": "What significant resource did CJP announce to support protesters and ensure legal representation 'across India,' including potential activists in Telangana and Andhra Pradesh?",
-    "options": ["A new political party", "A website linking lawyers to protesters and Rs 1 crore in aid", "A national protest march", "A new media channel"],
-    "correctAnswer": "A website linking lawyers to protesters and Rs 1 crore in aid"
+    "question": "While the news discusses internal CRPF policy, the force is known for its deployments in challenging areas. In which specific type of internal security situation might CRPF be deployed in states like Telangana or bordering regions?",
+    "options": ["Managing international airports", "Countering Naxalite insurgency", "Protecting marine fishing zones", "Overseeing space launches"],
+    "correctAnswer": "Countering Naxalite insurgency"
   },
   {
     "id": 23,
-    "question": "The government's decision to withdraw FIRs for peaceful protesters, as seen in Bihar, can be seen as upholding which democratic principle applicable throughout India, including Telangana and Andhra Pradesh?",
-    "options": ["Freedom of enterprise", "Freedom of speech and expression", "Right to privacy", "Right to information"],
-    "correctAnswer": "Freedom of speech and expression"
+    "question": "The CRPF's assurance to personnel comes with a caveat for 'reckless or unjustified action.' This highlights the importance of accountability. Why is maintaining high standards of conduct critical for forces like the CRPF operating in sensitive regions, including states like Andhra Pradesh?",
+    "options": ["To reduce their operational budget", "To ensure public trust and effective law enforcement", "To encourage desertion among ranks", "To limit their operational freedom"],
+    "correctAnswer": "To ensure public trust and effective law enforcement"
   },
   {
     "id": 24,
-    "question": "Civil society organizations like CJP play a crucial role in Indian democracy by advocating for what principles that benefit citizens in all states?",
-    "options": ["Corporate interests", "Governmental policies without question", "Human rights and social justice", "Religious conversions"],
-    "correctAnswer": "Human rights and social justice"
+    "question": "CJP plans to provide legal aid and link lawyers to protesters across India. How do such initiatives from civil society organizations help citizens, including those in states like Telangana and Andhra Pradesh, in accessing justice?",
+    "options": ["By replacing the judicial system entirely", "By offering free or subsidized legal representation", "By directly influencing court verdicts", "By restricting access to legal information"],
+    "correctAnswer": "By offering free or subsidized legal representation"
   },
   {
     "id": 25,
-    "question": "What specific challenge for protesters across India, including states like Telangana and Andhra Pradesh, does CJP's initiative to link lawyers aim to address?",
-    "options": ["Finding job opportunities", "Accessing legal representation for cases arising from protests", "Securing travel visas", "Obtaining financial loans"],
-    "correctAnswer": "Accessing legal representation for cases arising from protests"
+    "question": "CJP's plan to fight cases 'across India' implies a broad reach. What is a key characteristic of such national civil rights organizations regarding their operations in diverse states like Andhra Pradesh?",
+    "options": ["They operate only in specific urban centers.", "Their work is localized to a single district.", "They aim to address issues and provide support in multiple regions and communities.", "They only serve non-Indian citizens."],
+    "correctAnswer": "They aim to address issues and provide support in multiple regions and communities."
   }
 ]

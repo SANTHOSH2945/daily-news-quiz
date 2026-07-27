@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is the primary examination under investigation for alleged paper leaks, as mentioned in recent news, which impacts students nationwide, including those in Telangana and Andhra Pradesh?",
-    "options": ["JEE Advanced", "NEET UG", "UPSC Civil Services", "CAT"],
-    "correctAnswer": "NEET UG"
+    "question": "The Supreme Court recently criticized police action against students during protests related to which national entrance examination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "NEET"
   },
   {
     "id": 2,
-    "question": "Which central investigating agency has been asked by a Delhi court to appoint a public prosecutor for the NEET UG leak case?",
-    "options": ["NIA", "ED", "CBI", "IB"],
-    "correctAnswer": "CBI"
+    "question": "What kind of police action did the Supreme Court slam against student protestors, as highlighted by CJP in Bihar and Bengal?",
+    "options": [
+      "Failure to provide security",
+      "Illegal detentions and use of force",
+      "Delay in filing FIRs",
+      "Ignoring student grievances"
+    ],
+    "correctAnswer": "Illegal detentions and use of force"
   },
   {
     "id": 3,
-    "question": "The Supreme Court recently made observations regarding police action against students protesting what specific issue, a concern for students across India including TS/AP?",
-    "options": ["Increase in tuition fees", "Paper leak in competitive exams", "Hostel facility shortage", "Internet shutdown"],
-    "correctAnswer": "Paper leak in competitive exams"
+    "question": "Delhi transport bodies are planning a Parliament march to protest against the mandatory use of which specific blend of fuel?",
+    "options": [
+      "E5 fuel",
+      "E10 fuel",
+      "E20 fuel",
+      "Biodiesel"
+    ],
+    "correctAnswer": "E20 fuel"
   },
   {
     "id": 4,
-    "question": "Following widespread concerns over exam irregularities like the NEET leak, what major revamp has the National Testing Agency (NTA) begun?",
-    "options": ["Outsourcing all exam management", "Implementing a new grading system", "Seeking experts for senior roles and building a 'new NTA'", "Discontinuing online exams"],
-    "correctAnswer": "Seeking experts for senior roles and building a 'new NTA'"
+    "question": "One of the main concerns raised by Delhi transport groups regarding E20 fuel, which could also impact vehicle owners in Telangana and Andhra Pradesh, is:",
+    "options": [
+      "Increased fuel prices",
+      "Vehicle problems and reduced mileage",
+      "Limited availability in rural areas",
+      "Higher carbon emissions"
+    ],
+    "correctAnswer": "Vehicle problems and reduced mileage"
   },
   {
     "id": 5,
-    "question": "What was one of the key issues that led to significant student protests across India, including concerns from students in Telangana and Andhra Pradesh, as per recent news?",
-    "options": ["Delay in result declarations", "Alleged paper leak in NEET UG", "Lack of career counseling", "Demand for more government jobs"],
-    "correctAnswer": "Alleged paper leak in NEET UG"
+    "question": "The 'Cockroach Janta Party' (CJP) recently called off its agitation after which principal demand was met?",
+    "options": [
+      "Withdrawal of E20 fuel",
+      "Education minister's resignation",
+      "Increase in student scholarships",
+      "Formation of a new judicial committee"
+    ],
+    "correctAnswer": "Education minister's resignation"
   },
   {
     "id": 6,
-    "question": "The Supreme Court, addressing police action against students, stated that 'agitation does not mean ______'. What word completes this statement, relevant to protests in any state, including TS/AP?",
-    "options": ["Dialogue", "Compromise", "Lathicharge", "Concession"],
-    "correctAnswer": "Lathicharge"
+    "question": "The Supreme Court recently directed an SIT to submit a status report concerning alleged theft of offerings at which prominent Indian temple?",
+    "options": [
+      "Kashi Vishwanath Temple, Varanasi",
+      "Ram Temple, Ayodhya",
+      "Somnath Temple, Gujarat",
+      "Tirupati Balaji Temple, Andhra Pradesh"
+    ],
+    "correctAnswer": "Ram Temple, Ayodhya"
   },
   {
     "id": 7,
-    "question": "Which political leader recently attacked the Modi government over a 'jaanleva' system against students, citing alleged use of pellet guns and AK-47s in different regions, a concern for student welfare nationally?",
-    "options": ["Arvind Kejriwal", "Mamata Banerjee", "Rahul Gandhi", "Akhilesh Yadav"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Which state government will add a forensic auditor to the SIT investigating the Ram Temple donation theft case?",
+    "options": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Bihar",
+      "Rajasthan"
+    ],
+    "correctAnswer": "Uttar Pradesh"
   },
   {
     "id": 8,
-    "question": "According to recent news, what specific concern did Rahul Gandhi raise regarding police action against students protesting paper leaks in Bihar?",
-    "options": ["Lack of medical aid", "Alleged use of AK-47 bullets", "Disruption of internet services", "Arrests without warrants"],
-    "correctAnswer": "Alleged use of AK-47 bullets"
+    "question": "The Indian government is considering a new phase of the PM Surya Ghar scheme focused on renewable energy. What is this phase referred to as?",
+    "options": [
+      "PM Surya Shakti 2.0",
+      "PM Ujala 2.0",
+      "PM Surya Ghar 2.0",
+      "PM Solar Nivesh 2.0"
+    ],
+    "correctAnswer": "PM Surya Ghar 2.0"
   },
   {
     "id": 9,
-    "question": "Which national institution is conducting a 'professional post-event assessment' of its Rapid Action Force (RAF) actions at student protests, a review applicable across India?",
-    "options": ["BSF", "ITBP", "CRPF", "CISF"],
-    "correctAnswer": "CRPF"
+    "question": "What new features are being considered for PM Surya Ghar 2.0 that could benefit states like Telangana and Andhra Pradesh in renewable energy adoption?",
+    "options": [
+      "Exclusive focus on large-scale solar farms",
+      "Only industrial solar power integration",
+      "Battery storage and shared rooftop solar",
+      "Mandatory solar panels for all government buildings"
+    ],
+    "correctAnswer": "Battery storage and shared rooftop solar"
   },
   {
     "id": 10,
-    "question": "The Union Education Minister resigned amid sustained student demonstrations. What was the primary cause of these demonstrations, impacting students in TS/AP and other states?",
-    "options": ["Demand for higher scholarships", "Alleged paper leak in NEET UG", "Opposition to new education policy", "Calls for reduced exam fees"],
-    "correctAnswer": "Alleged paper leak in NEET UG"
+    "question": "Karnataka Minister Yathindra Siddaramaiah confirmed his father, CM Siddaramaiah's decision to retire from which aspect of politics in 2028?",
+    "options": [
+      "Party leadership",
+      "Cabinet positions",
+      "Electoral politics",
+      "Public speaking"
+    ],
+    "correctAnswer": "Electoral politics"
   },
   {
     "id": 11,
-    "question": "The recent controversy involving Nitin Gadkari is related to which specific type of fuel, a national policy initiative impacting all states including Telangana and Andhra Pradesh?",
-    "options": ["Hydrogen fuel", "E20 petrol", "CNG", "Electric vehicle charging infrastructure"],
-    "correctAnswer": "E20 petrol"
+    "question": "What is a primary reason cited for Karnataka CM Siddaramaiah's decision to retire from electoral politics after the 2023 elections?",
+    "options": [
+      "A shift to national parliamentary politics",
+      "Prioritizing his health as he approaches eighty",
+      "Taking up an international diplomatic role",
+      "Mentoring new party leaders exclusively"
+    ],
+    "correctAnswer": "Prioritizing his health as he approaches eighty"
   },
   {
     "id": 12,
-    "question": "What percentage of ethanol is blended with petrol in the E20 fuel initiative, which is being rolled out nationally?",
-    "options": ["10%", "15%", "20%", "25%"],
-    "correctAnswer": "20%"
+    "question": "Which prominent legal personality recently challenged the anti-defection law, leading the Supreme Court to examine the Tenth Schedule's merger rule?",
+    "options": [
+      "Harish Salve",
+      "Mukul Rohatgi",
+      "Kapil Sibal",
+      "Abhishek Manu Singhvi"
+    ],
+    "correctAnswer": "Kapil Sibal"
   },
   {
     "id": 13,
-    "question": "The NTA is undertaking a major revamp by seeking experts for how many senior roles, as part of its efforts to restore credibility for national exams affecting students from TS/AP?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Four"
+    "question": "The Supreme Court is set to examine the 'merger rule' under which Schedule of the Indian Constitution, directly impacting the anti-defection law for MLAs/MPs, including those from Telangana and Andhra Pradesh?",
+    "options": [
+      "Seventh Schedule",
+      "Eighth Schedule",
+      "Ninth Schedule",
+      "Tenth Schedule"
+    ],
+    "correctAnswer": "Tenth Schedule"
   },
   {
     "id": 14,
-    "question": "Who was recently appointed as the new Union Education Minister after the resignation of Dharmendra Pradhan?",
-    "options": ["Piyush Goyal", "Pralhad Joshi", "Bhupender Yadav", "Ashwini Vaishnaw"],
-    "correctAnswer": "Pralhad Joshi"
+    "question": "India's MEA recently summoned the ambassador of which country after an attack on a ship carrying four Indian nationals?",
+    "options": [
+      "Russia",
+      "Ukraine",
+      "Iran",
+      "Israel"
+    ],
+    "correctAnswer": "Ukraine"
   },
   {
     "id": 15,
-    "question": "What is one of the stated commitments of the new government in Tamil Nadu, which is also a recurring demand from student groups and political parties in other states like Telangana and Andhra Pradesh, concerning the NEET exam?",
-    "options": ["Expanding NEET exam centers", "Making NEET optional", "Abolishing the NEET exam", "Reducing NEET syllabus"],
-    "correctAnswer": "Abolishing the NEET exam"
+    "question": "Sonam Wangchuk recently visited Rajghat to congratulate youth on a protest. Rajghat is a memorial dedicated to which iconic Indian leader?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose"
+    ],
+    "correctAnswer": "Mahatma Gandhi"
   },
   {
     "id": 16,
-    "question": "The recent student protests across India, including potential participation from students in Telangana and Andhra Pradesh, primarily demanded action against alleged irregularities in which major entrance examination?",
-    "options": ["JEE Main", "CLAT", "NEET UG", "NDA Exam"],
-    "correctAnswer": "NEET UG"
+    "question": "Actor-politician Kangana Ranaut criticized Gen Z protest reels and the 'Cockroach Janta Party' on which social media platform?",
+    "options": [
+      "Twitter (now X)",
+      "Facebook",
+      "Instagram",
+      "LinkedIn"
+    ],
+    "correctAnswer": "Instagram"
   },
   {
     "id": 17,
-    "question": "Following the NEET UG leak case, who asked the CBI to appoint a public prosecutor for the investigation?",
-    "options": ["The Supreme Court", "The Union Education Ministry", "A Delhi court", "The National Testing Agency"],
-    "correctAnswer": "A Delhi court"
+    "question": "The CJP (Cockroach Janta Party) recently launched a website to report police brutality in which two Indian states, as per a news headline?",
+    "options": [
+      "Gujarat and Maharashtra",
+      "Uttar Pradesh and Rajasthan",
+      "Bihar and Bengal",
+      "Punjab and Haryana"
+    ],
+    "correctAnswer": "Bihar and Bengal"
   },
   {
     "id": 18,
-    "question": "Reports mentioned in the news indicated alleged use of pellet guns against students protesting paper leaks in which major Indian city?",
-    "options": ["Mumbai", "Kolkata", "Chennai", "Delhi"],
-    "correctAnswer": "Delhi"
+    "question": "What was the primary subject of the student protests for which the Supreme Court criticized police action, a matter relevant to students nationwide including in Telangana and Andhra Pradesh?",
+    "options": [
+      "Fee hikes in private universities",
+      "Alleged examination malpractices in NEET",
+      "Changes in school curriculum",
+      "Lack of government jobs after graduation"
+    ],
+    "correctAnswer": "Alleged examination malpractices in NEET"
   },
   {
     "id": 19,
-    "question": "The NTA's decision to revamp and seek experts aims to restore confidence in its ability to conduct what type of examinations, crucial for students from Telangana and Andhra Pradesh?",
-    "options": ["State board exams", "National competitive exams", "International language tests", "Internal university assessments"],
-    "correctAnswer": "National competitive exams"
+    "question": "How might the proposed 'shared rooftop solar' feature of PM Surya Ghar 2.0 specifically benefit residents in apartment complexes in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It allows only large industries to install solar panels",
+      "It enables multiple households in an apartment complex to share solar power infrastructure",
+      "It restricts solar energy usage to government buildings only",
+      "It makes individual solar panel installation significantly more expensive"
+    ],
+    "correctAnswer": "It enables multiple households in an apartment complex to share solar power infrastructure"
   },
   {
     "id": 20,
-    "question": "The Supreme Court's strong remarks on police action against student protests highlighted the need to uphold the right to peaceful agitation. These remarks are significant for students in which region of India, including TS/AP?",
-    "options": ["Only northern states", "Only metropolitan cities", "Across India", "Only coastal regions"],
-    "correctAnswer": "Across India"
+    "question": "Why is the Supreme Court's examination of the anti-defection law's 'merger rule' significant for Indian politics, including state assemblies in Telangana and Andhra Pradesh?",
+    "options": [
+      "It will simplify the process of forming new political parties",
+      "It could redefine how party defections and splits are handled by elected representatives",
+      "It focuses solely on electoral funding reforms",
+      "It primarily impacts India's international relations"
+    ],
+    "correctAnswer": "It could redefine how party defections and splits are handled by elected representatives"
   },
   {
     "id": 21,
-    "question": "The NTA revamp includes a plan to 'build a new NTA'. What is the primary objective behind this initiative, impacting future aspirants from Telangana and Andhra Pradesh?",
-    "options": ["To increase exam fees", "To reduce the number of exam centers", "To ensure integrity and fairness in national exams", "To diversify exam subjects"],
-    "correctAnswer": "To ensure integrity and fairness in national exams"
+    "question": "How does the Indian government typically defend the E20 fuel program against protests, emphasizing its national benefits?",
+    "options": [
+      "By claiming E20 fuel is significantly cheaper for consumers",
+      "By stating the program is safe, environmentally beneficial, and promotes energy security",
+      "By promoting E20 as a major export commodity for India",
+      "By asserting E20 fuel reduces urban traffic congestion significantly"
+    ],
+    "correctAnswer": "By stating the program is safe, environmentally beneficial, and promotes energy security"
   },
   {
     "id": 22,
-    "question": "What was a key concern raised by opposition MPs regarding the Rapid Action Force (RAF) actions at student protests, prompting a CRPF assessment?",
-    "options": ["Lack of crowd management training", "Alleged police brutality against students", "Insufficient deployment of personnel", "Use of outdated equipment"],
-    "correctAnswer": "Alleged police brutality against students"
+    "question": "The SIT investigating the alleged theft case at the Ayodhya Ram Temple currently comprises how many IPS officers?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": "Three"
   },
   {
     "id": 23,
-    "question": "The controversy surrounding E20 petrol involves which prominent Union Minister moving the Bombay High Court?",
-    "options": ["Amit Shah", "Nirmala Sitharaman", "Nitin Gadkari", "Rajnath Singh"],
-    "correctAnswer": "Nitin Gadkari"
+    "question": "The MEA summoned the Ukraine ambassador following an attack on a ship. What was a key detail about the ship's crew mentioned in the news?",
+    "options": [
+      "They were all women",
+      "Four of them were Indian nationals",
+      "They were carrying critical humanitarian aid",
+      "They were primarily Ukrainian citizens"
+    ],
+    "correctAnswer": "Four of them were Indian nationals"
   },
   {
     "id": 24,
-    "question": "Which High Court did Nitin Gadkari approach regarding 'defamatory' posts and deepfake videos concerning the E20 petrol issue?",
-    "options": ["Delhi High Court", "Madras High Court", "Bombay High Court", "Allahabad High Court"],
-    "correctAnswer": "Bombay High Court"
+    "question": "What term did actor-politician Kangana Ranaut use to describe Gen Z protest reels, calling them 'crass' on Instagram?",
+    "options": [
+      "Inspirational",
+      "Puke inducing",
+      "Thought-provoking",
+      "Well-organized"
+    ],
+    "correctAnswer": "Puke inducing"
   },
   {
     "id": 25,
-    "question": "The general sentiment of student demonstrations and political reactions across India, as highlighted by the news, reflects a demand for greater transparency and accountability in the conduct of what?",
-    "options": ["Political elections", "National competitive examinations", "Public sector recruitments", "Legislative assembly sessions"],
-    "correctAnswer": "National competitive examinations"
+    "question": "Which of the following national issues has NOT been explicitly mentioned as a subject of recent protests in the provided news headlines?",
+    "options": [
+      "NEET examination issues",
+      "E20 fuel policy concerns",
+      "Ram Temple construction delays",
+      "Police action against student protestors"
+    ],
+    "correctAnswer": "Ram Temple construction delays"
   }
 ]

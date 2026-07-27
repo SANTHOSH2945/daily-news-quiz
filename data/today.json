@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Supreme Court recently criticized police action against students during protests related to which national entrance examination?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "correctAnswer": "NEET"
+    "question": "What is the full form of NHAI, an organization recently in news for winning a major arbitration case, whose operations are crucial for states like Telangana and Andhra Pradesh?",
+    "options": ["National Highway Authority of India", "New Highways Association of India", "National Heritage Authority of India", "Northern Highways Agency of India"],
+    "correctAnswer": "National Highway Authority of India"
   },
   {
     "id": 2,
-    "question": "What kind of police action did the Supreme Court slam against student protestors, as highlighted by CJP in Bihar and Bengal?",
-    "options": [
-      "Failure to provide security",
-      "Illegal detentions and use of force",
-      "Delay in filing FIRs",
-      "Ignoring student grievances"
-    ],
-    "correctAnswer": "Illegal detentions and use of force"
+    "question": "In a recent major arbitration case, what was the significant reduction in the claim amount against the National Highway Authority of India (NHAI)?",
+    "options": ["From Rs 3,177 crore to Rs 46 crore", "From Rs 2,500 crore to Rs 50 crore", "From Rs 1,000 crore to Rs 100 crore", "From Rs 5,000 crore to Rs 200 crore"],
+    "correctAnswer": "From Rs 3,177 crore to Rs 46 crore"
   },
   {
     "id": 3,
-    "question": "Delhi transport bodies are planning a Parliament march to protest against the mandatory use of which specific blend of fuel?",
-    "options": [
-      "E5 fuel",
-      "E10 fuel",
-      "E20 fuel",
-      "Biodiesel"
-    ],
-    "correctAnswer": "E20 fuel"
+    "question": "What is the primary role of the National Highway Authority of India (NHAI) in the country, including the development and maintenance of key routes in Telangana and Andhra Pradesh?",
+    "options": ["Managing railway infrastructure", "Developing and maintaining national highways", "Regulating air traffic control", "Overseeing port operations"],
+    "correctAnswer": "Developing and maintaining national highways"
   },
   {
     "id": 4,
-    "question": "One of the main concerns raised by Delhi transport groups regarding E20 fuel, which could also impact vehicle owners in Telangana and Andhra Pradesh, is:",
-    "options": [
-      "Increased fuel prices",
-      "Vehicle problems and reduced mileage",
-      "Limited availability in rural areas",
-      "Higher carbon emissions"
-    ],
-    "correctAnswer": "Vehicle problems and reduced mileage"
+    "question": "Arbitration, as highlighted by the recent NHAI case, is a method of resolving disputes. What is its main characteristic?",
+    "options": ["A court trial with a jury", "A legislative debate in Parliament", "An out-of-court dispute resolution conducted by an impartial third party", "A public protest leading to negotiation"],
+    "correctAnswer": "An out-of-court dispute resolution conducted by an impartial third party"
   },
   {
     "id": 5,
-    "question": "The 'Cockroach Janta Party' (CJP) recently called off its agitation after which principal demand was met?",
-    "options": [
-      "Withdrawal of E20 fuel",
-      "Education minister's resignation",
-      "Increase in student scholarships",
-      "Formation of a new judicial committee"
-    ],
-    "correctAnswer": "Education minister's resignation"
+    "question": "The successful arbitration for NHAI demonstrates its focus on which aspect of project management, vital for infrastructure development across India including TS/AP?",
+    "options": ["Increasing project costs", "Efficient dispute resolution and financial prudence", "Avoiding new projects", "Outsourcing all legal matters"],
+    "correctAnswer": "Efficient dispute resolution and financial prudence"
   },
   {
     "id": 6,
-    "question": "The Supreme Court recently directed an SIT to submit a status report concerning alleged theft of offerings at which prominent Indian temple?",
-    "options": [
-      "Kashi Vishwanath Temple, Varanasi",
-      "Ram Temple, Ayodhya",
-      "Somnath Temple, Gujarat",
-      "Tirupati Balaji Temple, Andhra Pradesh"
-    ],
-    "correctAnswer": "Ram Temple, Ayodhya"
+    "question": "What type of infrastructure development does NHAI primarily oversee that facilitates inter-state connectivity and economic growth in regions like Telangana and Andhra Pradesh?",
+    "options": ["Local roads within cities", "State highways", "National highways", "Rural roads"],
+    "correctAnswer": "National highways"
   },
   {
     "id": 7,
-    "question": "Which state government will add a forensic auditor to the SIT investigating the Ram Temple donation theft case?",
-    "options": [
-      "Madhya Pradesh",
-      "Uttar Pradesh",
-      "Bihar",
-      "Rajasthan"
-    ],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "Which national examination's related fast-track court recently saw its first hearing stall due to the absence of the CBI, an issue impacting students in Telangana and Andhra Pradesh?",
+    "options": ["JEE", "UPSC Civil Services", "NEET", "CLAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 8,
-    "question": "The Indian government is considering a new phase of the PM Surya Ghar scheme focused on renewable energy. What is this phase referred to as?",
-    "options": [
-      "PM Surya Shakti 2.0",
-      "PM Ujala 2.0",
-      "PM Surya Ghar 2.0",
-      "PM Solar Nivesh 2.0"
-    ],
-    "correctAnswer": "PM Surya Ghar 2.0"
+    "question": "What is the main issue that the Anti-Paper Leak Bill, recently delayed in Parliament, seeks to address, a problem that severely affects students in states like Telangana and Andhra Pradesh?",
+    "options": ["Online gaming regulations", "Exam malpractice and paper leaks", "School curriculum reform", "University admission criteria"],
+    "correctAnswer": "Exam malpractice and paper leaks"
   },
   {
     "id": 9,
-    "question": "What new features are being considered for PM Surya Ghar 2.0 that could benefit states like Telangana and Andhra Pradesh in renewable energy adoption?",
-    "options": [
-      "Exclusive focus on large-scale solar farms",
-      "Only industrial solar power integration",
-      "Battery storage and shared rooftop solar",
-      "Mandatory solar panels for all government buildings"
-    ],
-    "correctAnswer": "Battery storage and shared rooftop solar"
+    "question": "The stalling of the NEET fast-track court hearing highlights challenges in the role of which investigative agency?",
+    "options": ["Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Income Tax Department (ITD)"],
+    "correctAnswer": "Central Bureau of Investigation (CBI)"
   },
   {
     "id": 10,
-    "question": "Karnataka Minister Yathindra Siddaramaiah confirmed his father, CM Siddaramaiah's decision to retire from which aspect of politics in 2028?",
-    "options": [
-      "Party leadership",
-      "Cabinet positions",
-      "Electoral politics",
-      "Public speaking"
-    ],
-    "correctAnswer": "Electoral politics"
+    "question": "What was the reason for the delay in the parliamentary debate on the Anti-Paper Leak Bill, a legislative measure relevant to fair examinations across India?",
+    "options": ["Lack of quorum", "Opposition uproar", "Speaker's illness", "Technical issues"],
+    "correctAnswer": "Opposition uproar"
   },
   {
     "id": 11,
-    "question": "What is a primary reason cited for Karnataka CM Siddaramaiah's decision to retire from electoral politics after the 2023 elections?",
-    "options": [
-      "A shift to national parliamentary politics",
-      "Prioritizing his health as he approaches eighty",
-      "Taking up an international diplomatic role",
-      "Mentoring new party leaders exclusively"
-    ],
-    "correctAnswer": "Prioritizing his health as he approaches eighty"
+    "question": "How would the implementation of the Anti-Paper Leak Bill, if passed, primarily benefit students in states like Telangana and Andhra Pradesh?",
+    "options": ["By reducing tuition fees", "By ensuring fair and transparent competitive examinations", "By increasing the number of government jobs", "By providing free study materials"],
+    "correctAnswer": "By ensuring fair and transparent competitive examinations"
   },
   {
     "id": 12,
-    "question": "Which prominent legal personality recently challenged the anti-defection law, leading the Supreme Court to examine the Tenth Schedule's merger rule?",
-    "options": [
-      "Harish Salve",
-      "Mukul Rohatgi",
-      "Kapil Sibal",
-      "Abhishek Manu Singhvi"
-    ],
-    "correctAnswer": "Kapil Sibal"
+    "question": "Which body is primarily responsible for conducting the NEET exam, which has been in news regarding alleged irregularities impacting aspiring medical students nationwide?",
+    "options": ["Union Public Service Commission (UPSC)", "National Testing Agency (NTA)", "All India Council for Technical Education (AICTE)", "Central Board of Secondary Education (CBSE)"],
+    "correctAnswer": "National Testing Agency (NTA)"
   },
   {
     "id": 13,
-    "question": "The Supreme Court is set to examine the 'merger rule' under which Schedule of the Indian Constitution, directly impacting the anti-defection law for MLAs/MPs, including those from Telangana and Andhra Pradesh?",
-    "options": [
-      "Seventh Schedule",
-      "Eighth Schedule",
-      "Ninth Schedule",
-      "Tenth Schedule"
-    ],
-    "correctAnswer": "Tenth Schedule"
+    "question": "The issues surrounding NEET and the Anti-Paper Leak Bill are significant for students aspiring for admissions in which professional fields across India, including TS/AP?",
+    "options": ["Engineering", "Law", "Medical and Dental", "Arts and Humanities"],
+    "correctAnswer": "Medical and Dental"
   },
   {
     "id": 14,
-    "question": "India's MEA recently summoned the ambassador of which country after an attack on a ship carrying four Indian nationals?",
-    "options": [
-      "Russia",
-      "Ukraine",
-      "Iran",
-      "Israel"
-    ],
-    "correctAnswer": "Ukraine"
+    "question": "India is planning for significant additions in battery storage capacity in the pipeline to support its energy goals. What is the approximate planned capacity mentioned?",
+    "options": ["10 GW", "20 GW", "47 GW", "100 GW"],
+    "correctAnswer": "47 GW"
   },
   {
     "id": 15,
-    "question": "Sonam Wangchuk recently visited Rajghat to congratulate youth on a protest. Rajghat is a memorial dedicated to which iconic Indian leader?",
-    "options": [
-      "Sardar Vallabhbhai Patel",
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose"
-    ],
-    "correctAnswer": "Mahatma Gandhi"
+    "question": "Alongside battery storage, what other major energy storage technology is India developing with about 23 GW in the pipeline, crucial for grid stability across states like Telangana and Andhra Pradesh?",
+    "options": ["Thermal storage", "Flywheel storage", "Compressed air energy storage", "Pumped storage projects"],
+    "correctAnswer": "Pumped storage projects"
   },
   {
     "id": 16,
-    "question": "Actor-politician Kangana Ranaut criticized Gen Z protest reels and the 'Cockroach Janta Party' on which social media platform?",
-    "options": [
-      "Twitter (now X)",
-      "Facebook",
-      "Instagram",
-      "LinkedIn"
-    ],
-    "correctAnswer": "Instagram"
+    "question": "Why are pumped storage projects considered crucial for India's energy grid, impacting power supply to all states including Telangana and Andhra Pradesh?",
+    "options": ["They burn fossil fuels efficiently", "They provide large-scale energy storage and grid stability", "They are used for long-distance power transmission", "They generate power solely from solar panels"],
+    "correctAnswer": "They provide large-scale energy storage and grid stability"
   },
   {
     "id": 17,
-    "question": "The CJP (Cockroach Janta Party) recently launched a website to report police brutality in which two Indian states, as per a news headline?",
-    "options": [
-      "Gujarat and Maharashtra",
-      "Uttar Pradesh and Rajasthan",
-      "Bihar and Bengal",
-      "Punjab and Haryana"
-    ],
-    "correctAnswer": "Bihar and Bengal"
+    "question": "Battery energy storage systems in India aim to support the integration of which type of energy sources into the national grid?",
+    "options": ["Nuclear power", "Fossil fuels", "Renewable energy (solar, wind)", "Geothermal energy"],
+    "correctAnswer": "Renewable energy (solar, wind)"
   },
   {
     "id": 18,
-    "question": "What was the primary subject of the student protests for which the Supreme Court criticized police action, a matter relevant to students nationwide including in Telangana and Andhra Pradesh?",
-    "options": [
-      "Fee hikes in private universities",
-      "Alleged examination malpractices in NEET",
-      "Changes in school curriculum",
-      "Lack of government jobs after graduation"
-    ],
-    "correctAnswer": "Alleged examination malpractices in NEET"
+    "question": "The development of large-scale energy storage projects contributes to which broader national goal for India, affecting energy policy in all states?",
+    "options": ["Reducing agricultural output", "Enhancing energy security and transition to clean energy", "Decreasing industrial production", "Promoting coal mining"],
+    "correctAnswer": "Enhancing energy security and transition to clean energy"
   },
   {
     "id": 19,
-    "question": "How might the proposed 'shared rooftop solar' feature of PM Surya Ghar 2.0 specifically benefit residents in apartment complexes in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "It allows only large industries to install solar panels",
-      "It enables multiple households in an apartment complex to share solar power infrastructure",
-      "It restricts solar energy usage to government buildings only",
-      "It makes individual solar panel installation significantly more expensive"
-    ],
-    "correctAnswer": "It enables multiple households in an apartment complex to share solar power infrastructure"
+    "question": "Which of the following is an advantage of pumped hydro storage technology, highly relevant for states with suitable topography like parts of Andhra Pradesh, in terms of energy management?",
+    "options": ["Low initial setup cost", "High energy density per volume", "Long lifespan and large storage capacity", "Requires no water"],
+    "correctAnswer": "Long lifespan and large storage capacity"
   },
   {
     "id": 20,
-    "question": "Why is the Supreme Court's examination of the anti-defection law's 'merger rule' significant for Indian politics, including state assemblies in Telangana and Andhra Pradesh?",
-    "options": [
-      "It will simplify the process of forming new political parties",
-      "It could redefine how party defections and splits are handled by elected representatives",
-      "It focuses solely on electoral funding reforms",
-      "It primarily impacts India's international relations"
-    ],
-    "correctAnswer": "It could redefine how party defections and splits are handled by elected representatives"
+    "question": "The Bihar government recently assured protesters of withdrawing FIRs and no legal action. This action is related to what fundamental aspect of citizen rights across India, including Telangana and Andhra Pradesh?",
+    "options": ["Right to vote", "Right to peaceful protest", "Right to property", "Right to education"],
+    "correctAnswer": "Right to peaceful protest"
   },
   {
     "id": 21,
-    "question": "How does the Indian government typically defend the E20 fuel program against protests, emphasizing its national benefits?",
-    "options": [
-      "By claiming E20 fuel is significantly cheaper for consumers",
-      "By stating the program is safe, environmentally beneficial, and promotes energy security",
-      "By promoting E20 as a major export commodity for India",
-      "By asserting E20 fuel reduces urban traffic congestion significantly"
-    ],
-    "correctAnswer": "By stating the program is safe, environmentally beneficial, and promotes energy security"
+    "question": "CJP (Citizens for Justice and Peace) recently announced plans to fight cases across India by offering aid and linking lawyers to protesters. What is their primary mission?",
+    "options": ["Promoting sports events", "Providing legal aid and defending human rights", "Developing new technologies", "Organizing cultural festivals"],
+    "correctAnswer": "Providing legal aid and defending human rights"
   },
   {
     "id": 22,
-    "question": "The SIT investigating the alleged theft case at the Ayodhya Ram Temple currently comprises how many IPS officers?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "correctAnswer": "Three"
+    "question": "What significant resource did CJP announce to support protesters and ensure legal representation 'across India,' including potential activists in Telangana and Andhra Pradesh?",
+    "options": ["A new political party", "A website linking lawyers to protesters and Rs 1 crore in aid", "A national protest march", "A new media channel"],
+    "correctAnswer": "A website linking lawyers to protesters and Rs 1 crore in aid"
   },
   {
     "id": 23,
-    "question": "The MEA summoned the Ukraine ambassador following an attack on a ship. What was a key detail about the ship's crew mentioned in the news?",
-    "options": [
-      "They were all women",
-      "Four of them were Indian nationals",
-      "They were carrying critical humanitarian aid",
-      "They were primarily Ukrainian citizens"
-    ],
-    "correctAnswer": "Four of them were Indian nationals"
+    "question": "The government's decision to withdraw FIRs for peaceful protesters, as seen in Bihar, can be seen as upholding which democratic principle applicable throughout India, including Telangana and Andhra Pradesh?",
+    "options": ["Freedom of enterprise", "Freedom of speech and expression", "Right to privacy", "Right to information"],
+    "correctAnswer": "Freedom of speech and expression"
   },
   {
     "id": 24,
-    "question": "What term did actor-politician Kangana Ranaut use to describe Gen Z protest reels, calling them 'crass' on Instagram?",
-    "options": [
-      "Inspirational",
-      "Puke inducing",
-      "Thought-provoking",
-      "Well-organized"
-    ],
-    "correctAnswer": "Puke inducing"
+    "question": "Civil society organizations like CJP play a crucial role in Indian democracy by advocating for what principles that benefit citizens in all states?",
+    "options": ["Corporate interests", "Governmental policies without question", "Human rights and social justice", "Religious conversions"],
+    "correctAnswer": "Human rights and social justice"
   },
   {
     "id": 25,
-    "question": "Which of the following national issues has NOT been explicitly mentioned as a subject of recent protests in the provided news headlines?",
-    "options": [
-      "NEET examination issues",
-      "E20 fuel policy concerns",
-      "Ram Temple construction delays",
-      "Police action against student protestors"
-    ],
-    "correctAnswer": "Ram Temple construction delays"
+    "question": "What specific challenge for protesters across India, including states like Telangana and Andhra Pradesh, does CJP's initiative to link lawyers aim to address?",
+    "options": ["Finding job opportunities", "Accessing legal representation for cases arising from protests", "Securing travel visas", "Obtaining financial loans"],
+    "correctAnswer": "Accessing legal representation for cases arising from protests"
   }
 ]

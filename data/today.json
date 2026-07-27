@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What national examination has seen recent irregularities, prompting the formation of a high-powered task force for reforms?",
-    "options": ["JEE Main", "UPSC Civil Services Exam", "NEET-UG", "GATE"],
-    "correctAnswer": "NEET-UG"
+    "question": "Which prominent Indian athlete, praised by PM Modi for national achievements, is associated with Hyderabad, Telangana?",
+    "options": ["Saina Nehwal", "PV Sindhu", "Mary Kom", "Mirabai Chanu"],
+    "correctAnswer": "PV Sindhu"
   },
   {
     "id": 2,
-    "question": "Which Indian drug regulator recently cancelled the registrations of seven clinical trial ethics committees?",
-    "options": ["AIIMS", "ICMR", "CDSCO", "NITI Aayog"],
-    "correctAnswer": "CDSCO"
+    "question": "Which privately developed orbital rocket, hailed by PM Modi, was developed by a company based in Hyderabad?",
+    "options": ["Prithvi-1", "Agni-V", "Vikram-1", "BrahMos"],
+    "correctAnswer": "Vikram-1"
   },
   {
     "id": 3,
-    "question": "What is the primary reason cited by CDSCO for cancelling the registrations of the ethics committees?",
-    "options": ["Lack of funding", "Serious violations of clinical trial rules and guidelines", "Insufficient staff", "Outdated infrastructure"],
-    "correctAnswer": "Serious violations of clinical trial rules and guidelines"
+    "question": "The company responsible for India's first privately developed orbital rocket, Vikram-1, is headquartered in which Indian city?",
+    "options": ["Bengaluru", "Chennai", "Mumbai", "Hyderabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 4,
-    "question": "According to the news, what is the main purpose of clinical trial ethics committees?",
-    "options": ["To manage clinical trial budgets", "To approve new drug formulas", "To oversee participant rights and safety during medical studies", "To recruit participants for trials"],
-    "correctAnswer": "To oversee participant rights and safety during medical studies"
+    "question": "PV Sindhu recently made the nation proud by winning which international badminton title?",
+    "options": ["All England Open", "Japan Open", "World Championships", "Korea Open"],
+    "correctAnswer": "Japan Open"
   },
   {
     "id": 5,
-    "question": "Who has been named to lead the high-powered task force for overhauling India's examination system?",
-    "options": ["Raghuram Rajan", "Nandan Nilekani", "Arvind Panagariya", "Subramanian Swamy"],
-    "correctAnswer": "Nandan Nilekani"
+    "question": "What was the government's stance, as articulated by Nirmala Sitharaman, regarding student protests related to the NEET examination?",
+    "options": ["Protests were banned outright", "Allowed protests and focused on re-examination", "Ignored protests completely", "Dispersed protests with force"],
+    "correctAnswer": "Allowed protests and focused on re-examination"
   },
   {
     "id": 6,
-    "question": "Nandan Nilekani, leading the exam overhaul task force, is also known as the architect of which major Indian project?",
-    "options": ["GST Network", "Indian Railways modernization", "UIDAI (Aadhaar)", "National Optical Fibre Network"],
-    "correctAnswer": "UIDAI (Aadhaar)"
+    "question": "Which significant step did the government take to prevent academic disruption for students affected by the NEET paper leak?",
+    "options": ["Cancelled the exam indefinitely", "Provided alternative career options", "Conducted a timely re-examination", "Offered monetary compensation"],
+    "correctAnswer": "Conducted a timely re-examination"
   },
   {
     "id": 7,
-    "question": "The task force for examination reforms aims to recommend what kind of solutions for NTA and public exams?",
-    "options": ["More pen-and-paper exams", "Decentralized examination centers", "Tech-driven, leak-proof reforms", "Shorter exam durations"],
-    "correctAnswer": "Tech-driven, leak-proof reforms"
+    "question": "According to recent news, what economic risk does India face from external and internal factors this year?",
+    "options": ["Deflation risks", "Inflation risks", "Recession risks", "Stagnation risks"],
+    "correctAnswer": "Inflation risks"
   },
   {
     "id": 8,
-    "question": "Which national body red-flagged new 'green' crackers for containing a banned chemical?",
-    "options": ["MoEFCC", "BIS", "CPCB", "NTPC"],
-    "correctAnswer": "CPCB"
+    "question": "Which rocket marked India's first privately developed orbital rocket to achieve a successful launch?",
+    "options": ["Dhruva-II", "Shakti-V", "Vikram-1", "Indra-III"],
+    "correctAnswer": "Vikram-1"
   },
   {
     "id": 9,
-    "question": "What is the primary concern raised by CPCB regarding new 'green' crackers?",
-    "options": ["Their high cost", "Their noisy emissions", "The presence of a banned chemical", "Their long shelf life"],
-    "correctAnswer": "The presence of a banned chemical"
+    "question": "How many children were adopted in India between April 2025 and March 2026, marking the highest in a decade?",
+    "options": ["Approximately 3,500", "Approximately 4,000", "Approximately 4,500", "Approximately 5,022"],
+    "correctAnswer": "Approximately 5,022"
   },
   {
     "id": 10,
-    "question": "Which organization has the Centre tasked to cut pollution levels by 50%?",
-    "options": ["ISRO", "DRDO", "CSIR-NEERI", "BHEL"],
-    "correctAnswer": "CSIR-NEERI"
+    "question": "What was the percentage increase in adoptions of special needs children in India last year?",
+    "options": ["Ten percent", "Fifteen percent", "Twenty-five percent", "Fifty percent"],
+    "correctAnswer": "Twenty-five percent"
   },
   {
     "id": 11,
-    "question": "What is the specific target for pollution reduction assigned to CSIR-NEERI by the Centre?",
-    "options": ["10%", "25%", "50%", "75%"],
-    "correctAnswer": "50%"
+    "question": "Which category of adoptions saw a significant fifty percent increase in India last year?",
+    "options": ["Inter-country adoptions", "Newborn adoptions", "Relative and step-parent adoptions", "Single-parent adoptions"],
+    "correctAnswer": "Relative and step-parent adoptions"
   },
   {
     "id": 12,
-    "question": "The government aims to introduce a bill in Parliament designed to eradicate what in examinations?",
-    "options": ["High cut-off marks", "Subjective questions", "Malpractice", "Multiple-choice questions"],
-    "correctAnswer": "Malpractice"
+    "question": "What specific consumer choice is the 'E20 Janta Party' advocating for regarding fuel?",
+    "options": ["Subsidized petrol", "Mandatory E20 petrol", "100% petrol option", "Electric vehicle only option"],
+    "correctAnswer": "100% petrol option"
   },
   {
     "id": 13,
-    "question": "According to MEA data, approximately how many Indians die in workplace accidents in the Gulf region every week?",
-    "options": ["1", "3", "5", "10"],
-    "correctAnswer": "3"
+    "question": "Which Union Minister's resignation is being demanded by the 'E20 Janta Party' in connection with E20 petrol?",
+    "options": ["Rajnath Singh", "Amit Shah", "Nitin Gadkari", "S. Jaishankar"],
+    "correctAnswer": "Nitin Gadkari"
   },
   {
     "id": 14,
-    "question": "Mohan Bhagwat, the RSS chief, discussed live-in relationships as a modern alternative. What did he say marriage instills?",
-    "options": ["Freedom", "Prosperity", "Dharma", "Individualism"],
-    "correctAnswer": "Dharma"
+    "question": "What is the primary concern raised by transporters supporting the 'E20 Janta Party's' campaign against E20 petrol?",
+    "options": ["Lack of fuel availability", "High cost of E20 petrol", "Damage to vehicles and lack of consumer choice", "Insufficient government subsidies"],
+    "correctAnswer": "Damage to vehicles and lack of consumer choice"
   },
   {
     "id": 15,
-    "question": "What was the context for the Prime Minister's announcement of a high-powered task force for examination reforms?",
-    "options": ["A national education policy review", "Recent irregularities in national entrance examinations", "Demand from private coaching centers", "International pressure for reform"],
-    "correctAnswer": "Recent irregularities in national entrance examinations"
+    "question": "What claim did the Maharashtra Congress chief make regarding ethanol-blended fuel?",
+    "options": ["Improved vehicle performance", "Significantly reduced fuel costs", "Damaged vehicles of people", "Extended engine life"],
+    "correctAnswer": "Damaged vehicles of people"
   },
   {
     "id": 16,
-    "question": "How many clinical trial ethics panels had their registrations cancelled by India's drug regulator?",
-    "options": ["3", "5", "7", "10"],
-    "correctAnswer": "7"
+    "question": "Which central body recently red-flagged new 'green' crackers for containing a banned chemical?",
+    "options": ["Ministry of Environment, Forest and Climate Change", "Bureau of Indian Standards (BIS)", "Central Pollution Control Board (CPCB)", "National Green Tribunal (NGT)"],
+    "correctAnswer": "Central Pollution Control Board (CPCB)"
   },
   {
     "id": 17,
-    "question": "The Congress party criticized the high-powered exam reforms task force as an attempt to do what?",
-    "options": ["Improve education standards", "Increase examination fees", "Repair the Prime Minister's tarnished image", "Introduce foreign examination models"],
-    "correctAnswer": "Repair the Prime Minister's tarnished image"
+    "question": "What target was set for CSIR-NEERI by the Centre regarding pollution levels, specifically concerning firecrackers?",
+    "options": ["To eliminate pollution entirely", "To cut pollution levels by 10%", "To cut pollution levels by 25%", "To cut pollution levels by 50%"],
+    "correctAnswer": "To cut pollution levels by 50%"
   },
   {
     "id": 18,
-    "question": "Which national institution is expected to be a key beneficiary of the tech-driven reforms recommended by the task force led by Nandan Nilekani?",
-    "options": ["UPSC", "SSC", "NTA", "CBSE"],
-    "correctAnswer": "NTA"
+    "question": "Who stated that the government at no point stopped students from protesting and focused on conducting the NEET re-examination promptly?",
+    "options": ["Dharmendra Pradhan", "Narendra Modi", "Nirmala Sitharaman", "Rahul Gandhi"],
+    "correctAnswer": "Nirmala Sitharaman"
   },
   {
     "id": 19,
-    "question": "Mohan Bhagwat, while discussing live-in relationships, also stressed that which group of people are part of society and should be accepted?",
-    "options": ["Elderly citizens", "Rural migrants", "LGBTQ people", "Foreign nationals"],
-    "correctAnswer": "LGBTQ people"
+    "question": "According to the news, what action was taken against the culprits involved in the NEET paper leak?",
+    "options": ["They were issued a warning", "They were let off with a fine", "They were arrested and brought before the judicial process", "They were barred from future exams"],
+    "correctAnswer": "They were arrested and brought before the judicial process"
   },
   {
     "id": 20,
-    "question": "The monsoon session of Parliament is expected to see a renewed focus on which major issue related to examinations?",
-    "options": ["Changes in syllabus", "NEET-UG paper leak scandal", "Increase in exam centers", "Digitalization of answer sheets"],
-    "correctAnswer": "NEET-UG paper leak scandal"
+    "question": "Beyond PV Sindhu's victory and Vikram-1's launch, what other achievement did PM Modi highlight as a testament to India's youth?",
+    "options": ["Winning international sports championships in football", "Excelling in international science Olympiads", "Breaking world records in mountaineering", "Setting up new tech startups"],
+    "correctAnswer": "Excelling in international science Olympiads"
   },
   {
     "id": 21,
-    "question": "What is the ultimate goal of the government in establishing a foolproof examination system?",
-    "options": ["To make exams tougher", "To reduce the number of test-takers", "To ensure fairness and prevent malpractices", "To align with international exam patterns"],
-    "correctAnswer": "To ensure fairness and prevent malpractices"
+    "question": "Prime Minister Narendra Modi recently praised young Indians for what overarching achievement?",
+    "options": ["Adopting traditional lifestyles", "Focusing solely on government jobs", "Taking India to arenas once beyond reach", "Migrating for foreign opportunities"],
+    "correctAnswer": "Taking India to arenas once beyond reach"
   },
   {
     "id": 22,
-    "question": "The opposition plans to strongly raise concerns in Parliament regarding which specific action by police?",
-    "options": ["Traffic management", "Action against protesting students", "Investigation of cybercrimes", "Border security operations"],
-    "correctAnswer": "Action against protesting students"
+    "question": "What was the total number of domestic adoptions in India between April 2025 and March 2026?",
+    "options": ["3,900", "4,250", "4,603", "5,022"],
+    "correctAnswer": "4,603"
   },
   {
     "id": 23,
-    "question": "What specific type of force was questioned by Rahul Gandhi regarding the police action against protesting students?",
-    "options": ["Verbal warnings", "Non-lethal force", "Lethal force", "Crowd control barriers"],
-    "correctAnswer": "Lethal force"
+    "question": "How many inter-country adoptions were recorded in India between April 2025 and March 2026?",
+    "options": ["200", "350", "419", "500"],
+    "correctAnswer": "419"
   },
   {
     "id": 24,
-    "question": "The CPCB's action against 'green' crackers is part of broader efforts by the Centre to address what national concern?",
-    "options": ["Economic recession", "Air pollution levels", "Food security", "Water scarcity"],
-    "correctAnswer": "Air pollution levels"
+    "question": "By what percentage did adoptions of girls increase last year in India?",
+    "options": ["Two percent", "Eight percent", "Twelve percent", "Eighteen percent"],
+    "correctAnswer": "Eight percent"
   },
   {
     "id": 25,
-    "question": "What kind of assessment and review process led to CDSCO's decision to cancel ethics panel registrations?",
-    "options": ["Financial audit", "Legal challenge", "Thorough compliance assessment", "Public opinion survey"],
-    "correctAnswer": "Thorough compliance assessment"
+    "question": "In addition to consumer choice for 100% petrol, what else did the 'E20 Janta Party' advocate for?",
+    "options": ["Lower fuel taxes", "Subsidies for electric vehicles", "Transparent fuel labelling and data publication", "Increased production of ethanol"],
+    "correctAnswer": "Transparent fuel labelling and data publication"
   }
 ]

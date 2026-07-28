@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national issue is the Union Cabinet planning to discuss in Parliament soon, involving stringent measures?",
-    "options": [
-      "Cybersecurity protocols",
-      "Agricultural subsidies",
-      "Stricter actions against paper leaks",
-      "Foreign investment policies"
-    ],
-    "correctAnswer": "Stricter actions against paper leaks"
+    "question": "What is the primary objective of the new anti-paper leak bill debated in the Lok Sabha, which directly impacts examination integrity for students in Telangana and Andhra Pradesh?",
+    "options": ["To regulate social media usage", "To strengthen safeguards against examination fraud", "To promote digital education platforms", "To increase funding for universities"],
+    "correctAnswer": "To strengthen safeguards against examination fraud"
   },
   {
     "id": 2,
-    "question": "What kind of measures is the Indian government aiming to get passed in Parliament to address the problem of paper leaks?",
-    "options": [
-      "Economic reform measures",
-      "Environmental protection acts",
-      "Stringent measures and a new bill",
-      "Public health regulations"
-    ],
-    "correctAnswer": "Stringent measures and a new bill"
+    "question": "Which national examination's alleged paper leak, significantly affecting students from Telangana and Andhra Pradesh, led to the introduction of the anti-paper leak bill?",
+    "options": ["JEE Main", "UPSC Civil Services Exam", "NEET", "GATE"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 3,
-    "question": "The Prime Minister recently assured stricter government actions against what specific issue, as seen in a video that was temporarily removed?",
-    "options": [
-      "Online defamation",
-      "Paper leaks across the nation",
-      "Illegal immigration",
-      "Cross-border trade"
-    ],
-    "correctAnswer": "Paper leaks across the nation"
+    "question": "Who was the Union education minister mentioned in the news as having resigned amidst widespread protests over the NEET paper leak, a development watched closely by the education sector in Telangana and Andhra Pradesh?",
+    "options": ["Amit Shah", "Nirmala Sitharaman", "Dharmendra Pradhan", "Piyush Goyal"],
+    "correctAnswer": "Dharmendra Pradhan"
   },
   {
     "id": 4,
-    "question": "What did the Supreme Court state was a prima facie case regarding violence during student protests?",
-    "options": [
-      "Need for stricter internet laws",
-      "Prima facie case for transparent inquiry by a commission",
-      "Justification for police force",
-      "Case for educational reforms"
-    ],
-    "correctAnswer": "Prima facie case for transparent inquiry by a commission"
+    "question": "What commitment did the Union government reaffirm by introducing the anti-paper leak bill, a move aimed at reassuring students and parents across India, including Telangana and Andhra Pradesh?",
+    "options": ["Commitment to economic growth", "Commitment to national security", "Commitment to student welfare", "Commitment to infrastructure development"],
+    "correctAnswer": "Commitment to student welfare"
   },
   {
     "id": 5,
-    "question": "The Supreme Court emphasized the need to frame what for handling situations involving violence during student protests in the future?",
-    "options": [
-      "A new curriculum",
-      "A national policy on student loans",
-      "A protocol",
-      "Economic stimulus packages"
-    ],
-    "correctAnswer": "A protocol"
+    "question": "What was one of the primary criticisms raised by the Opposition regarding the government's handling of student protests related to the NEET paper leak, a concern shared by many in states like Telangana and Andhra Pradesh?",
+    "options": ["Ignoring agricultural reforms", "Prioritizing social media over education reforms", "Lack of budget allocation for defense", "Delay in infrastructure projects"],
+    "correctAnswer": "Prioritizing social media over education reforms"
   },
   {
     "id": 6,
-    "question": "The Supreme Court's hearing on student protests brought forward allegations of excesses from which entity?",
-    "options": [
-      "Student organizations",
-      "Political parties",
-      "Police",
-      "University administrations"
-    ],
-    "correctAnswer": "Police"
+    "question": "The new anti-paper leak legislation aims to strengthen safeguards against which specific issue, directly benefiting the academic future of students in Telangana and Andhra Pradesh?",
+    "options": ["Teacher absenteeism", "Examination fraud", "Curriculum outdatedness", "Lack of digital infrastructure"],
+    "correctAnswer": "Examination fraud"
   },
   {
     "id": 7,
-    "question": "Which social media platform admitted to mistakenly deleting a video of the Indian Prime Minister?",
-    "options": [
-      "Twitter",
-      "Instagram",
-      "Meta (Facebook)",
-      "YouTube"
-    ],
-    "correctAnswer": "Meta (Facebook)"
+    "question": "What legislative body was debating the new anti-paper leak bill, which seeks to improve the fairness of examinations taken by students nationwide, including those in Telangana and Andhra Pradesh?",
+    "options": ["Rajya Sabha", "Supreme Court", "Lok Sabha", "NITI Aayog"],
+    "correctAnswer": "Lok Sabha"
   },
   {
     "id": 8,
-    "question": "What action did the Indian government take after a Prime Minister's video was briefly removed from a social media platform?",
-    "options": [
-      "Issued a public apology",
-      "Summoned a company official",
-      "Launched a new platform",
-      "Imposed a temporary ban"
-    ],
-    "correctAnswer": "Summoned a company official"
+    "question": "The widespread protests mentioned in connection with the NEET paper leak highlighted a significant issue for the student community across India, including Telangana and Andhra Pradesh. What was the central demand of these protests?",
+    "options": ["Increase in government scholarships", "Better hostel facilities", "Fairness and transparency in examinations", "More job opportunities after graduation"],
+    "correctAnswer": "Fairness and transparency in examinations"
   },
   {
     "id": 9,
-    "question": "What was Meta's explanation for the temporary removal of the Prime Minister's video?",
-    "options": [
-      "Violation of community guidelines",
-      "Technical glitch",
-      "Removed in error",
-      "Content moderation policy update"
-    ],
-    "correctAnswer": "Removed in error"
+    "question": "Which Union Minister introduced the anti-paper leak bill in the Lok Sabha, a significant step for maintaining examination integrity for states like Telangana and Andhra Pradesh?",
+    "options": ["Rajnath Singh", "Jitendra Singh", "S. Jaishankar", "Smriti Irani"],
+    "correctAnswer": "Jitendra Singh"
   },
   {
     "id": 10,
-    "question": "Which body recently shifted its focus to 'ability, not disability' for MBBS admissions across India?",
-    "options": [
-      "University Grants Commission (UGC)",
-      "All India Council for Technical Education (AICTE)",
-      "National Medical Commission (NMC)",
-      "Indian Council of Medical Research (ICMR)"
-    ],
-    "correctAnswer": "National Medical Commission (NMC)"
+    "question": "How is the new anti-paper leak legislation specifically expected to impact students and educational institutions in states like Telangana and Andhra Pradesh?",
+    "options": ["By increasing tuition fees", "By introducing new vocational courses", "By ensuring fairer and more secure examinations", "By reducing the number of entrance exams"],
+    "correctAnswer": "By ensuring fairer and more secure examinations"
   },
   {
     "id": 11,
-    "question": "What is the new emphasis for MBBS admissions set by the National Medical Commission (NMC)?",
-    "options": [
-      "Geographical quotas",
-      "Ability, not disability",
-      "Socio-economic background",
-      "Sports achievements"
-    ],
-    "correctAnswer": "Ability, not disability"
+    "question": "What is the primary significance of the NEET examination for students from Telangana and Andhra Pradesh who aspire to pursue higher education?",
+    "options": ["It is mandatory for engineering admissions.", "It is the sole entrance for medical and dental admissions.", "It is a requirement for civil services.", "It determines eligibility for foreign universities."],
+    "correctAnswer": "It is the sole entrance for medical and dental admissions."
   },
   {
     "id": 12,
-    "question": "The NMC's revised approach for MBBS admissions primarily focuses on what criterion for candidates?",
-    "options": [
-      "Financial capacity",
-      "Physical appearance",
-      "Inherent capabilities and aptitude",
-      "Extracurricular activities"
-    ],
-    "correctAnswer": "Inherent capabilities and aptitude"
+    "question": "The anti-paper leak bill implies a need for strengthening existing measures. What does this suggest about the effectiveness of previous safeguards against exam fraud across India, including in AP/Telangana?",
+    "options": ["They were largely successful.", "They were deemed insufficient or prone to loopholes.", "They focused only on state-level exams.", "They were too expensive to implement."],
+    "correctAnswer": "They were deemed insufficient or prone to loopholes."
   },
   {
     "id": 13,
-    "question": "What aspect is being de-emphasized by the NMC in its revised MBBS admissions criteria?",
-    "options": [
-      "Academic performance",
-      "Entrance exam scores",
-      "Certain types of disabilities",
-      "Interview performance"
-    ],
-    "correctAnswer": "Certain types of disabilities"
+    "question": "How does the government's stated commitment to student welfare, as emphasized during the anti-paper leak bill discussions, particularly resonate with the academic aspirations of youth in Telangana and Andhra Pradesh?",
+    "options": ["By promoting international student exchange programs.", "By ensuring a level playing field and trust in competitive exams.", "By increasing the number of government jobs.", "By subsidizing private education."],
+    "correctAnswer": "By ensuring a level playing field and trust in competitive exams."
   },
   {
     "id": 14,
-    "question": "The Centre reportedly met with a group and shared draft notifications concerning the withdrawal of FIRs and release of arrested individuals from what specific national context?",
-    "options": [
-      "Business disputes",
-      "Environmental activism",
-      "Student protests",
-      "Industrial strikes"
-    ],
-    "correctAnswer": "Student protests"
+    "question": "What type of activities would the anti-paper leak bill primarily target to prevent examination fraud, directly impacting the integrity of competitive exams taken by students in AP/Telangana?",
+    "options": ["Unauthorized access to question papers, malpractices in evaluation, and tampering with results.", "Late submission of answer sheets and incomplete applications.", "Absence from examination and use of unauthorized study materials.", "Misconduct during internal assessments and project submissions."],
+    "correctAnswer": "Unauthorized access to question papers, malpractices in evaluation, and tampering with results."
   },
   {
     "id": 15,
-    "question": "What was one of the claimed assurances from the Centre after midnight talks regarding student protests in NDA states?",
-    "options": [
-      "Increased funding for education",
-      "No new FIRs will be filed against protesters",
-      "Scholarships for all students",
-      "Construction of new universities"
-    ],
-    "correctAnswer": "No new FIRs will be filed against protesters"
+    "question": "Under which broader category of reforms does the anti-paper leak bill fall within the Indian education system, including for educational governance in AP/Telangana?",
+    "options": ["Administrative reforms", "Financial reforms", "Examination and governance reforms", "Curriculum reforms"],
+    "correctAnswer": "Examination and governance reforms"
   },
   {
     "id": 16,
-    "question": "What type of inquiry did the Supreme Court suggest to establish transparency regarding violence during student protests?",
-    "options": [
-      "Internal departmental inquiry",
-      "Judicial review",
-      "Inquiry by a commission",
-      "Media investigation"
-    ],
-    "correctAnswer": "Inquiry by a commission"
+    "question": "Besides students, which other key stakeholders in states like AP and Telangana are directly impacted by the provisions of the anti-paper leak bill?",
+    "options": ["Agricultural farmers and landowners.", "Small business owners and entrepreneurs.", "Educational institutions, examination bodies, and coaching centers.", "Tourism operators and hospitality businesses."],
+    "correctAnswer": "Educational institutions, examination bodies, and coaching centers."
   },
   {
     "id": 17,
-    "question": "Which government body is set to discuss stringent measures to address paper leaks across the nation, impacting states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Ministry of Finance",
-      "Union Cabinet",
-      "NITI Aayog",
-      "Election Commission"
-    ],
-    "correctAnswer": "Union Cabinet"
+    "question": "After being debated and passed by the Lok Sabha, what is the next typical legislative step for the anti-paper leak bill to become law, affecting educational policies in states like AP/Telangana?",
+    "options": ["It goes directly to the President for assent.", "It is sent to the State Assemblies for approval.", "It needs to be passed by the Rajya Sabha.", "It is reviewed by the Supreme Court."],
+    "correctAnswer": "It needs to be passed by the Rajya Sabha."
   },
   {
     "id": 18,
-    "question": "The proposed bill against paper leaks, which will have implications for examination bodies in states such as Telangana and Andhra Pradesh, aims to tackle which issue?",
-    "options": [
-      "Cybersecurity breaches",
-      "Examination irregularities and malpractices",
-      "Student enrollment issues",
-      "Teacher training standards"
-    ],
-    "correctAnswer": "Examination irregularities and malpractices"
+    "question": "What are the potential consequences for individuals involved in examination fraud under the new anti-paper leak legislation, relevant for any national or state-level exam conducted in AP/Telangana?",
+    "options": ["Community service and light fines.", "Suspension from public office for a short period.", "Severe penalties including imprisonment and hefty fines.", "Mandatory re-education programs."],
+    "correctAnswer": "Severe penalties including imprisonment and hefty fines."
   },
   {
     "id": 19,
-    "question": "The Supreme Court's call for a transparent inquiry into protest violence and framing a protocol would establish precedents applicable to law enforcement across all Indian states, including which two focus states?",
-    "options": [
-      "Gujarat and Maharashtra",
-      "Telangana and Andhra Pradesh",
-      "West Bengal and Odisha",
-      "Punjab and Haryana"
-    ],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "How does legislation like the anti-paper leak bill aim to restore public trust in the examination system for students nationwide, including those in AP/Telangana?",
+    "options": ["By increasing the number of examinations.", "By making examinations optional.", "By ensuring fairness, transparency, and accountability in the examination process.", "By lowering the passing criteria."],
+    "correctAnswer": "By ensuring fairness, transparency, and accountability in the examination process."
   },
   {
     "id": 20,
-    "question": "What aspect of student protest handling is the Supreme Court suggesting needs national-level standardization, impacting states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Dress codes",
-      "Funding mechanisms",
-      "Protocols for engagement and de-escalation",
-      "Curriculum design"
-    ],
-    "correctAnswer": "Protocols for engagement and de-escalation"
+    "question": "How might national and state-level exam boards in Telangana and Andhra Pradesh need to adapt their procedures following the enactment of the anti-paper leak bill?",
+    "options": ["By increasing examination fees.", "By implementing stricter security protocols and oversight for examinations.", "By switching to entirely online exams.", "By reducing the syllabus for all exams."],
+    "correctAnswer": "By implementing stricter security protocols and oversight for examinations."
   },
   {
     "id": 21,
-    "question": "Medical colleges in states like Telangana and Andhra Pradesh will adhere to the new MBBS admission guidelines emphasizing ability over disability, set by which national body?",
-    "options": [
-      "State Medical Councils",
-      "Ministry of Health and Family Welfare",
-      "National Medical Commission (NMC)",
-      "Admission Committees of individual colleges"
-    ],
-    "correctAnswer": "National Medical Commission (NMC)"
+    "question": "What signal did the resignation of Union Education Minister Dharmendra Pradhan send regarding accountability in the Indian education system concerning major exam controversies like NEET, a matter of concern for AP/Telangana?",
+    "options": ["That ministerial positions are temporary.", "That political leadership bears responsibility for systemic failures.", "That education is not a priority.", "That only minor officials are held accountable."],
+    "correctAnswer": "That political leadership bears responsibility for systemic failures."
   },
   {
     "id": 22,
-    "question": "What was the government's response to Meta's 'error' in removing the Prime Minister's video, which discussed national policies that would affect all states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Issued a warning",
-      "Requested a formal apology",
-      "Summoned a company official",
-      "Initiated legal proceedings"
-    ],
-    "correctAnswer": "Summoned a company official"
+    "question": "How might students in Telangana and Andhra Pradesh generally view the introduction of a stricter anti-paper leak law, particularly after the NEET controversy?",
+    "options": ["As an unnecessary hindrance to their studies.", "As a welcome move to ensure fair competition and merit.", "As a political tactic with no real impact.", "As a sign of declining educational standards."],
+    "correctAnswer": "As a welcome move to ensure fair competition and merit."
   },
   {
     "id": 23,
-    "question": "The Supreme Court's concern about allegations of police excesses during student protests, and the need for a protocol, applies to law enforcement operations potentially in any Indian state, including:",
-    "options": [
-      "Madhya Pradesh only",
-      "All states and Union Territories",
-      "Northern states exclusively",
-      "Coastal regions only"
-    ],
-    "correctAnswer": "All states and Union Territories"
+    "question": "The opposition's criticism that the government prioritized social media over education reforms suggests a concern about what specific aspect of governance impacting states like AP/Telangana?",
+    "options": ["Economic policy formulation.", "Effective and responsive governance in the education sector.", "Foreign relations strategies.", "Defense procurement policies."],
+    "correctAnswer": "Effective and responsive governance in the education sector."
   },
   {
     "id": 24,
-    "question": "The National Medical Commission's new focus on ability over disability for MBBS admissions is a national policy that directly influences the selection process in medical institutions located in:",
-    "options": [
-      "Only central government institutions",
-      "Specific private colleges",
-      "All government and private medical colleges across India, including Telangana and Andhra Pradesh",
-      "Only in states without existing reservation policies"
-    ],
-    "correctAnswer": "All government and private medical colleges across India, including Telangana and Andhra Pradesh"
+    "question": "The anti-paper leak bill was introduced following the NEET exam leak. What is NEET's full form, an exam of critical importance for aspiring medical students in Telangana and Andhra Pradesh?",
+    "options": ["National Entrance Eligibility Test", "National Education and Eligibility Test", "National Eligibility cum Entrance Test", "National Examination for Engineering and Technology"],
+    "correctAnswer": "National Eligibility cum Entrance Test"
   },
   {
     "id": 25,
-    "question": "The government's push for stringent measures and a bill to address paper leaks aims to restore integrity to the examination system nationally. This initiative is vital for ensuring fair opportunities for students in which particular regions of India mentioned in the quiz scope?",
-    "options": [
-      "North-eastern states",
-      "Western coastal states",
-      "Telangana and Andhra Pradesh",
-      "Northern plains states"
-    ],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "What was the BJP MP's 'Gen Z-style' praise for the PM during the anti-paper leak Bill debate, even though the bill's impact on AP/Telangana students is more significant?",
+    "options": ["'Modiji crushed it'", "'Modiji aced it'", "'Modiji clocked it'", "'Modiji nailed it'"],
+    "correctAnswer": "'Modiji clocked it'"
   }
 ]

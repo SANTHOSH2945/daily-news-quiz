@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "The Indian Coast Guard recently airlifted an ailing seafarer. What is a key role of the Coast Guard along India's coastline, including states like Andhra Pradesh?",
-    "options": ["Managing commercial ports", "Providing search and rescue (SAR) operations", "Regulating fishing licenses", "Operating naval warships"],
-    "correctAnswer": "Providing search and rescue (SAR) operations"
+    "question": "The Supreme Court recently called for 'out-of-box thinking' to address which pressing issue in India, a concern also faced by states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Economic recession and inflation",
+      "Plug paper leaks in examinations",
+      "Cross-border terrorism",
+      "Environmental degradation"
+    ],
+    "correctAnswer": "Plug paper leaks in examinations"
   },
   {
     "id": 2,
-    "question": "In the context of maritime security and the safety of seafarers, which Indian central agency primarily safeguards the coastal interests of states like Andhra Pradesh and Telangana?",
-    "options": ["Indian Navy", "Directorate General of Shipping", "Indian Coast Guard", "Border Security Force (BSF)"],
-    "correctAnswer": "Indian Coast Guard"
+    "question": "Regarding education reform, what kind of committee has the Supreme Court noted has been formed to tackle sector-wide problems, impacting states including Telangana and Andhra Pradesh?",
+    "options": [
+      "An ad-hoc committee for financial audit",
+      "A high-powered committee for education reform",
+      "A parliamentary standing committee on curriculum development",
+      "A judicial commission for school infrastructure"
+    ],
+    "correctAnswer": "A high-powered committee for education reform"
   },
   {
     "id": 3,
-    "question": "The Indian Coast Guard's ability to operate in rough seas and adverse weather is crucial for maritime safety. What aspect of India's geography makes such capabilities vital for East Coast states like Andhra Pradesh?",
-    "options": ["High frequency of earthquakes", "Vulnerability to cyclones and monsoons", "Extensive desert borders", "Presence of glacial lakes"],
-    "correctAnswer": "Vulnerability to cyclones and monsoons"
+    "question": "The Supreme Court mentioned it would hear a petition concerning the paper leak of which specific national entrance examination on August 3, an issue of significant concern for students from Telangana and Andhra Pradesh?",
+    "options": [
+      "JEE Mains",
+      "UPSC Civil Services Exam",
+      "NEET",
+      "CAT"
+    ],
+    "correctAnswer": "NEET"
   },
   {
     "id": 4,
-    "question": "While an incident occurred off Gujarat, the Indian Coast Guard's jurisdiction covers India's entire coastline. Which major water body borders Andhra Pradesh, making it a critical zone for Coast Guard operations?",
-    "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean", "Gulf of Mannar"],
-    "correctAnswer": "Bay of Bengal"
+    "question": "In the context of plugging paper leaks, the Supreme Court emphasized the need for examining additional safeguards for which type of examinations, relevant for public service commissions in Telangana and Andhra Pradesh?",
+    "options": [
+      "Offline, pen-and-paper exams",
+      "Practical skill-based assessments",
+      "Interview-based selections",
+      "Online exams"
+    ],
+    "correctAnswer": "Online exams"
   },
   {
     "id": 5,
-    "question": "Andhra Pradesh is home to significant ports like Visakhapatnam. How does the Indian Coast Guard contribute to the overall maritime ecosystem around such commercial hubs?",
-    "options": ["Managing port cargo logistics", "Ensuring security and environmental protection", "Operating passenger ferries", "Issuing import/export permits"],
-    "correctAnswer": "Ensuring security and environmental protection"
+    "question": "What systemic issue did the Supreme Court highlight as troubling in the existing examination system, demanding institutionalization to prevent future paper leaks across India, including in Telangana and Andhra Pradesh?",
+    "options": [
+      "Lack of qualified examiners",
+      "Excessive number of applicants",
+      "Ad hocism",
+      "Insufficient examination centers"
+    ],
+    "correctAnswer": "Ad hocism"
   },
   {
     "id": 6,
-    "question": "A recent meeting with the Lok Sabha Speaker involved requests for early decisions on disqualification petitions. Under which constitutional provision does the Speaker typically exercise powers related to the disqualification of Members of Parliament from states like Telangana or Andhra Pradesh?",
-    "options": ["Article 356", "Tenth Schedule", "Article 105", "Seventh Schedule"],
-    "correctAnswer": "Tenth Schedule"
+    "question": "The Supreme Court's observations on paper leaks are particularly significant for state public service commissions like TSPSC (Telangana State Public Service Commission) and APPSC (Andhra Pradesh Public Service Commission) because they underscore the need for:",
+    "options": [
+      "Increasing the number of exams",
+      "Faster result declaration without verification",
+      "Robust mechanisms to ensure exam integrity",
+      "Reducing the syllabus for state-level exams"
+    ],
+    "correctAnswer": "Robust mechanisms to ensure exam integrity"
   },
   {
     "id": 7,
-    "question": "The Lok Sabha Speaker's role is crucial for the functioning of Parliament. Beyond presiding over sessions, what other significant responsibility does the Speaker hold that could impact representatives from states like Telangana?",
-    "options": ["Appointing the Chief Election Commissioner", "Certifying Money Bills", "Issuing writs of habeas corpus", "Declaring national emergencies"],
-    "correctAnswer": "Certifying Money Bills"
+    "question": "To address paper leaks, the call for 'out-of-box thinking' by the Supreme Court implicitly encourages the use of what in examination processes, which could benefit states like Telangana and Andhra Pradesh?",
+    "options": [
+      "More manual invigilation",
+      "Advanced technological solutions",
+      "Less frequent examinations",
+      "Centralized question banks only"
+    ],
+    "correctAnswer": "Advanced technological solutions"
   },
   {
     "id": 8,
-    "question": "When a political party's delegation, including potentially those from Southern states, meets the Lok Sabha Speaker, what is a common objective of such interactions?",
-    "options": ["Demanding dissolution of Parliament", "Seeking clarity or action on procedural matters", "Requesting statehood for new regions", "Proposing international treaties"],
-    "correctAnswer": "Seeking clarity or action on procedural matters"
+    "question": "What is the potential impact of recurring paper leaks, as discussed by the Supreme Court, on aspiring candidates in competitive states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Increases their confidence in the system",
+      "Motivates them to study less",
+      "Demoralizes them and erodes trust in the system",
+      "Encourages them to pursue only private sector jobs"
+    ],
+    "correctAnswer": "Demoralizes them and erodes trust in the system"
   },
   {
     "id": 9,
-    "question": "The issue of 'rebel MPs' seeking disqualification petitions touches upon party discipline. How might such internal party dynamics affect the representation and stability of political parties in states like Andhra Pradesh?",
-    "options": ["It guarantees an increase in state funding.", "It can lead to internal party instability and leadership changes.", "It automatically triggers a presidential election.", "It requires all party members to switch allegiance."],
-    "correctAnswer": "It can lead to internal party instability and leadership changes."
+    "question": "The formation of a high-powered committee for education reform, as noted by the Supreme Court, is expected to bring about what kind of changes that would also apply to the education sector in Telangana and Andhra Pradesh?",
+    "options": [
+      "Only administrative changes",
+      "Comprehensive structural and procedural reforms",
+      "Merely budgetary allocations",
+      "Focus solely on higher education"
+    ],
+    "correctAnswer": "Comprehensive structural and procedural reforms"
   },
   {
     "id": 10,
-    "question": "The Lok Sabha Speaker also deals with seating arrangements for parties. While seemingly minor, how can such arrangements influence the visibility and participation of elected members from states like Telangana in parliamentary debates?",
-    "options": ["It determines their salary and allowances.", "It impacts their ability to catch the Speaker's eye and participate.", "It grants them diplomatic immunity.", "It assigns them to specific parliamentary committees automatically."],
-    "correctAnswer": "It impacts their ability to catch the Speaker's eye and participate."
+    "question": "The Supreme Court emphasized that the existing system's 'ad hocism' in conducting examinations is troubling. What does 'ad hocism' primarily refer to in this context, relevant to examination bodies in states like Telangana?",
+    "options": [
+      "Strict adherence to long-term policies",
+      "Reliance on permanent, well-defined procedures",
+      "Making decisions and arrangements as and when needed, without a clear plan",
+      "Excessive bureaucratic layers"
+    ],
+    "correctAnswer": "Making decisions and arrangements as and when needed, without a clear plan"
   },
   {
     "id": 11,
-    "question": "India has significant plans for energy storage, including a pipeline of 47 GW battery storage projects. What is the primary purpose of such large-scale battery storage, especially for states like Telangana focusing on industrial growth?",
-    "options": ["To reduce fossil fuel imports for transportation", "To provide grid stability and integrate intermittent renewable energy", "To solely power electric vehicles", "To enhance rural cooking gas supply"],
-    "correctAnswer": "To provide grid stability and integrate intermittent renewable energy"
+    "question": "The Supreme Court is ready to hear a plea for the interpretation of which Indian law, which has significant implications for political stability and party mergers in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Right to Information Act",
+      "Anti-Defection Law (Tenth Schedule)",
+      "Prevention of Corruption Act",
+      "Electoral Bonds Act"
+    ],
+    "correctAnswer": "Anti-Defection Law (Tenth Schedule)"
   },
   {
     "id": 12,
-    "question": "A pipeline of 23 GW pumped storage projects is also planned for India. What geographical feature is typically essential for the development of pumped storage hydropower projects, which could be found in parts of Andhra Pradesh?",
-    "options": ["Extensive flat plains", "High desert temperatures", "Significant elevation differences or hilly terrain", "Coastal mangrove forests"],
-    "correctAnswer": "Significant elevation differences or hilly terrain"
+    "question": "What specific aspect of the anti-defection law is under scrutiny by the Supreme Court, concerning its interpretation related to political party actions in states across India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Funding of political parties",
+      "Regulation of election campaigns",
+      "Provisions related to political party mergers",
+      "Appointment of Election Commissioners"
+    ],
+    "correctAnswer": "Provisions related to political party mergers"
   },
   {
     "id": 13,
-    "question": "The combined 70 GW of battery and pumped storage projects signifies India's commitment to energy security. How will these projects particularly benefit states like Andhra Pradesh and Telangana, which are expanding their renewable energy portfolios?",
-    "options": ["By eliminating the need for any new power generation.", "By ensuring continuous power supply despite variable renewable output.", "By exclusively powering agricultural pump sets.", "By making coal power plants obsolete immediately."],
-    "correctAnswer": "By ensuring continuous power supply despite variable renewable output."
+    "question": "According to the news, who argued that electoral verdicts can be altered through current merger provisions of the anti-defection law, prompting the Supreme Court's attention?",
+    "options": [
+      "Arun Jaitley",
+      "Kapil Sibal",
+      "Ram Jethmalani",
+      "Harish Salve"
+    ],
+    "correctAnswer": "Kapil Sibal"
   },
   {
     "id": 14,
-    "question": "What is a key distinction between battery storage and pumped storage projects in terms of their typical application or scale within India's energy grid, affecting states like Telangana?",
-    "options": ["Battery storage is exclusively for residential use, pumped storage for industrial.", "Pumped storage is typically for shorter duration, battery for longer.", "Battery storage is suitable for quicker response and smaller to medium scale, while pumped storage is for large-scale, long-duration storage.", "Battery storage is always cheaper than pumped storage."],
-    "correctAnswer": "Battery storage is suitable for quicker response and smaller to medium scale, while pumped storage is for large-scale, long-duration storage."
+    "question": "The Supreme Court acknowledged significant issues with the current working of which schedule of the Indian Constitution, central to the anti-defection law and its application in state assemblies like those in Telangana and Andhra Pradesh?",
+    "options": [
+      "Ninth Schedule",
+      "Tenth Schedule",
+      "Eleventh Schedule",
+      "Twelfth Schedule"
+    ],
+    "correctAnswer": "Tenth Schedule"
   },
   {
     "id": 15,
-    "question": "India's focus on 70 GW of storage capacity highlights a national trend towards modernizing the power grid. What is a primary future challenge these storage projects aim to address for states like Andhra Pradesh?",
-    "options": ["Managing excessive coal production", "Ensuring grid stability with increasing renewable penetration", "Decreasing demand for electricity", "Increasing reliance on imported natural gas"],
-    "correctAnswer": "Ensuring grid stability with increasing renewable penetration"
+    "question": "What potential major repercussions could the Supreme Court's legal challenge to the anti-defection law's interpretation have for the political landscape, particularly for the stability of governments in states such as Telangana and Andhra Pradesh?",
+    "options": [
+      "Strengthening of multi-party alliances",
+      "Increased ease of party splits and mergers without consequence",
+      "Guaranteed long-term stability for all governments",
+      "Reduced voter turnout in state elections"
+    ],
+    "correctAnswer": "Increased ease of party splits and mergers without consequence"
   },
   {
     "id": 16,
-    "question": "NHAI recently won a significant arbitration, reducing a large claim. What is the general purpose of arbitration in large infrastructure projects undertaken by NHAI, including those in Telangana and Andhra Pradesh?",
-    "options": ["To bypass all legal processes", "To resolve disputes outside of traditional court litigation", "To increase project costs", "To delay project completion"],
-    "correctAnswer": "To resolve disputes outside of traditional court litigation"
+    "question": "The anti-defection law, whose interpretation is being sought by the Supreme Court, aims to prevent what undesirable political practice in legislative bodies, including state assemblies of Telangana and Andhra Pradesh?",
+    "options": [
+      "Debates on policy matters",
+      "Frequent elections",
+      "Political horse-trading and defection for personal gain",
+      "Formation of coalition governments"
+    ],
+    "correctAnswer": "Political horse-trading and defection for personal gain"
   },
   {
     "id": 17,
-    "question": "The National Highways Authority of India (NHAI) is responsible for developing, maintaining, and managing national highways. How do NHAI projects significantly benefit the economic development of states like Andhra Pradesh?",
-    "options": ["By focusing solely on rail transport", "By improving connectivity for trade, tourism, and industry", "By establishing new airlines", "By subsidizing public education"],
-    "correctAnswer": "By improving connectivity for trade, tourism, and industry"
+    "question": "In the context of the anti-defection law, what action by a legislator from a state like Telangana or Andhra Pradesh would typically lead to disqualification under the Tenth Schedule?",
+    "options": [
+      "Voting according to party whip",
+      "Attending all legislative sessions",
+      "Voluntarily giving up membership of their political party",
+      "Raising questions in parliament"
+    ],
+    "correctAnswer": "Voluntarily giving up membership of their political party"
   },
   {
     "id": 18,
-    "question": "While the news mentions an arbitration win, NHAI projects require substantial funding. From where does NHAI primarily secure funds for its major highway development initiatives across India, impacting states like Telangana?",
-    "options": ["Only through international aid", "Toll collection, government budgetary support, and market borrowings", "Through state government contributions only", "By selling off existing railway lines"],
-    "correctAnswer": "Toll collection, government budgetary support, and market borrowings"
+    "question": "The plea before the Supreme Court regarding the anti-defection law suggests that existing merger provisions might be used to undermine the mandate given by the electorate. This directly impacts the principle of:",
+    "options": [
+      "Executive supremacy",
+      "Judicial activism",
+      "Representative democracy",
+      "Bureaucratic efficiency"
+    ],
+    "correctAnswer": "Representative democracy"
   },
   {
     "id": 19,
-    "question": "NHAI maintains and develops major highway networks. Which of these iconic NHAI projects provides critical connectivity through or to the Southern states like Andhra Pradesh and Telangana?",
-    "options": ["Eastern Peripheral Expressway", "Golden Quadrilateral", "Delhi-Mumbai Expressway", "Purvanchal Expressway"],
-    "correctAnswer": "Golden Quadrilateral"
+    "question": "Who is the primary authority to decide on disqualification petitions under the anti-defection law in a state legislative assembly, such as in Telangana or Andhra Pradesh?",
+    "options": [
+      "The Chief Minister",
+      "The Governor",
+      "The Speaker of the Assembly",
+      "The President of the political party"
+    ],
+    "correctAnswer": "The Speaker of the Assembly"
   },
   {
     "id": 20,
-    "question": "Improved national highways by NHAI contribute to better logistics and supply chains. How does this specifically aid agricultural states like Andhra Pradesh and Telangana?",
-    "options": ["By making local markets entirely self-sufficient.", "By enabling faster and cheaper transport of produce to markets.", "By eliminating the need for cold storage.", "By increasing fuel prices."],
-    "correctAnswer": "By enabling faster and cheaper transport of produce to markets."
+    "question": "The Supreme Court has issued notice to the Centre seeking its response on the interpretation of the anti-defection law. This indicates that the ruling could have an impact on:",
+    "options": [
+      "Only local municipal elections",
+      "Central government policies",
+      "The entire country's political framework and governance",
+      "Only diplomatic relations"
+    ],
+    "correctAnswer": "The entire country's political framework and governance"
   },
   {
     "id": 21,
-    "question": "The CRPF leadership assured personnel of support for duty decisions. What is the primary role of the Central Reserve Police Force (CRPF) in India, including its deployment in various states like Telangana for law and order?",
-    "options": ["Border guarding for international frontiers", "Counter-insurgency and internal security duties", "Disaster management and relief only", "Intelligence gathering for foreign policy"],
-    "correctAnswer": "Counter-insurgency and internal security duties"
+    "question": "What crucial clarification did the Supreme Court issue regarding the insolvency shield, specifying for whom it applies and for whom it does not?",
+    "options": [
+      "The shield applies to promoters, not the firm",
+      "The shield applies only to public sector undertakings",
+      "The shield is for the firm, not its promoters",
+      "The shield applies only to foreign companies"
+    ],
+    "correctAnswer": "The shield is for the firm, not its promoters"
   },
   {
     "id": 22,
-    "question": "While the news discusses internal CRPF policy, the force is known for its deployments in challenging areas. In which specific type of internal security situation might CRPF be deployed in states like Telangana or bordering regions?",
-    "options": ["Managing international airports", "Countering Naxalite insurgency", "Protecting marine fishing zones", "Overseeing space launches"],
-    "correctAnswer": "Countering Naxalite insurgency"
+    "question": "This Supreme Court ruling on the 'insolvency shield' primarily relates to which significant legal framework in India, affecting businesses and creditors in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Companies Act, 2013",
+      "Insolvency and Bankruptcy Code (IBC), 2016",
+      "Competition Act, 2002",
+      "Foreign Exchange Management Act (FEMA), 1999"
+    ],
+    "correctAnswer": "Insolvency and Bankruptcy Code (IBC), 2016"
   },
   {
     "id": 23,
-    "question": "The CRPF's assurance to personnel comes with a caveat for 'reckless or unjustified action.' This highlights the importance of accountability. Why is maintaining high standards of conduct critical for forces like the CRPF operating in sensitive regions, including states like Andhra Pradesh?",
-    "options": ["To reduce their operational budget", "To ensure public trust and effective law enforcement", "To encourage desertion among ranks", "To limit their operational freedom"],
-    "correctAnswer": "To ensure public trust and effective law enforcement"
+    "question": "According to the Supreme Court's clarification, if a company in Telangana or Andhra Pradesh undergoes insolvency proceedings, its promoters can still be held liable for what, despite the corporate entity being shielded?",
+    "options": [
+      "Future business ventures",
+      "Personal guarantees or other individual obligations",
+      "Market fluctuations",
+      "Competitor's losses"
+    ],
+    "correctAnswer": "Personal guarantees or other individual obligations"
   },
   {
     "id": 24,
-    "question": "CJP plans to provide legal aid and link lawyers to protesters across India. How do such initiatives from civil society organizations help citizens, including those in states like Telangana and Andhra Pradesh, in accessing justice?",
-    "options": ["By replacing the judicial system entirely", "By offering free or subsidized legal representation", "By directly influencing court verdicts", "By restricting access to legal information"],
-    "correctAnswer": "By offering free or subsidized legal representation"
+    "question": "The Supreme Court's ruling that the insolvency shield is for the firm, not promoters, is expected to enhance what aspect of corporate governance and accountability in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Promoter immunity from all liabilities",
+      "Transparency and responsible decision-making by promoters",
+      "Reduced legal compliance for businesses",
+      "Slower insolvency resolution processes"
+    ],
+    "correctAnswer": "Transparency and responsible decision-making by promoters"
   },
   {
     "id": 25,
-    "question": "CJP's plan to fight cases 'across India' implies a broad reach. What is a key characteristic of such national civil rights organizations regarding their operations in diverse states like Andhra Pradesh?",
-    "options": ["They operate only in specific urban centers.", "Their work is localized to a single district.", "They aim to address issues and provide support in multiple regions and communities.", "They only serve non-Indian citizens."],
-    "correctAnswer": "They aim to address issues and provide support in multiple regions and communities."
+    "question": "What is the primary objective of separating the liability of a 'firm' from its 'promoters' in insolvency proceedings, as affirmed by the Supreme Court, for the broader business environment in India, including T/AP?",
+    "options": [
+      "To encourage risk-taking without accountability",
+      "To protect the personal assets of promoters unconditionally",
+      "To ensure that individual accountability for financial mismanagement is not evaded",
+      "To simplify the process of liquidating companies"
+    ],
+    "correctAnswer": "To ensure that individual accountability for financial mismanagement is not evaded"
   }
 ]

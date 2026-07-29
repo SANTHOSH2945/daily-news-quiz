@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary investigative agency probing the NEET-UG paper leak case in India?",
-    "options": ["Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
+    "question": "According to recent reports, which Indian state records the highest number of schools operating with only one teacher?",
+    "options": ["Uttar Pradesh", "Bihar", "Rajasthan", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "How many accused were initially charged by the CBI in connection with the NEET-UG 2026 paper leak case?",
-    "options": ["Ten", "Thirteen", "Fifteen", "Twenty"],
-    "correctAnswer": "Thirteen"
+    "question": "How many single-teacher schools were reported in Andhra Pradesh, making it the state with the highest number nationally?",
+    "options": ["10,123", "12,876", "14,500", "16,357"],
+    "correctAnswer": "16,357"
   },
   {
     "id": 3,
-    "question": "Which political party's MP recently demanded the scrapping of the NEET exam in Lok Sabha, citing flaws in its design, a concern shared by students in states like Andhra Pradesh and Telangana?",
-    "options": ["DMK", "YSRCP", "BRS", "TDP"],
-    "correctAnswer": "DMK"
+    "question": "What is the approximate total number of schools across India reported to be functioning with just one teacher?",
+    "options": ["Around 50,000", "Over 75,000", "Over 1 lakh", "Less than 25,000"],
+    "correctAnswer": "Over 1 lakh"
   },
   {
     "id": 4,
-    "question": "The CBI investigation into the NEET-UG paper leak included tracing which aspect related to the alleged conspiracy?",
-    "options": ["Foreign funding sources", "The money trail", "Political affiliations of accused", "International hacking rings"],
-    "correctAnswer": "The money trail"
+    "question": "The prevalence of single-teacher schools in states like Andhra Pradesh primarily indicates a challenge in which aspect of the education system?",
+    "options": ["Curriculum design", "Teacher-student ratio", "Digital literacy programs", "Mid-day meal schemes"],
+    "correctAnswer": "Teacher-student ratio"
   },
   {
     "id": 5,
-    "question": "What was one of the key arguments raised against NEET in Lok Sabha by a Member of Parliament, suggesting its design is flawed and unnecessary?",
-    "options": ["Lack of regional language options", "High examination fees", "Flaw in design and necessity", "Limited number of examination centers"],
-    "correctAnswer": "Flaw in design and necessity"
+    "question": "The report highlighting single-teacher schools in Andhra Pradesh is indicative of issues mainly within which level of the Indian education system?",
+    "options": ["Higher Education", "Vocational Training", "School Education", "Adult Literacy"],
+    "correctAnswer": "School Education"
   },
   {
     "id": 6,
-    "question": "According to recent government statements, which economic sector in India, highly relevant to coastal states like Andhra Pradesh, has seen its exports double under new Free Trade Agreements (FTAs)?",
-    "options": ["IT Services", "Textile Industry", "Fisheries Sector", "Pharmaceutical Exports"],
-    "correctAnswer": "Fisheries Sector"
+    "question": "What is the significance of Andhra Pradesh topping the list of states with single-teacher schools?",
+    "options": ["It reflects a model of efficient resource allocation", "It indicates successful digital learning integration", "It points to a critical shortage of teaching staff", "It is a sign of declining student enrollment"],
+    "correctAnswer": "It points to a critical shortage of teaching staff"
   },
   {
     "id": 7,
-    "question": "The Indian government recently stated its FTAs aim to protect which key domestic sectors, important for states like Telangana and Andhra Pradesh?",
-    "options": ["Farmers, MSMEs, and Labour Sector", "Heavy Industries and Defence", "Space Research and IT", "Tourism and Hospitality"],
-    "correctAnswer": "Farmers, MSMEs, and Labour Sector"
+    "question": "The news regarding single-teacher schools suggests a need for immediate intervention in which area for primary education in affected states?",
+    "options": ["Infrastructure development", "Teacher recruitment and training", "Student attendance mandates", "Curriculum modernization"],
+    "correctAnswer": "Teacher recruitment and training"
   },
   {
     "id": 8,
-    "question": "What is the maximum sugar stock limit per dealer recently imposed by the Indian government to prevent hoarding, affecting businesses in sugar-producing states like Andhra Pradesh?",
-    "options": ["100 tonnes", "200 tonnes", "400 tonnes", "500 tonnes"],
-    "correctAnswer": "400 tonnes"
+    "question": "Which educational problem is highlighted by the statistic of over 1 lakh schools in India operating with only one teacher?",
+    "options": ["Lack of vocational courses", "Teacher absenteeism", "Inadequate teaching staff", "Low student enrollment in rural areas"],
+    "correctAnswer": "Inadequate teaching staff"
   },
   {
     "id": 9,
-    "question": "By which date must sugar dealers liquidate any excess stock beyond the newly imposed limit?",
-    "options": ["July 15", "August 1", "September 1", "October 15"],
-    "correctAnswer": "August 1"
+    "question": "The report regarding over 1 lakh single-teacher schools across India points to a significant staffing issue in which sector?",
+    "options": ["Manufacturing sector", "Healthcare sector", "Education sector", "Agriculture sector"],
+    "correctAnswer": "Education sector"
   },
   {
     "id": 10,
-    "question": "The government invoked which act to impose restrictions on sugar stock limits and stabilize prices, a measure applicable nationwide?",
-    "options": ["Consumer Protection Act", "Essential Commodities Act", "Companies Act", "Food Safety and Standards Act"],
-    "correctAnswer": "Essential Commodities Act"
+    "question": "What could be a long-term consequence of a high number of single-teacher schools, especially in states like Andhra Pradesh?",
+    "options": ["Improved teacher-student interaction", "Higher quality of education", "Reduced dropout rates", "Compromised educational quality for students"],
+    "correctAnswer": "Compromised educational quality for students"
   },
   {
     "id": 11,
-    "question": "Which national board provides subsidies for horticulture development across various states, including Andhra Pradesh and Telangana, supporting local farmers?",
-    "options": ["National Dairy Development Board", "National Horticulture Board", "National Agriculture Bank", "National Fisheries Development Board"],
-    "correctAnswer": "National Horticulture Board"
+    "question": "E20 petrol, currently a topic of discussion in India, refers to petrol blended with what percentage of ethanol?",
+    "options": ["5%", "10%", "15%", "20%"],
+    "correctAnswer": "20%"
   },
   {
     "id": 12,
-    "question": "What action did Union Minister Bhagirath Choudhary take after receiving a subsidy from the National Horticulture Board, as reported by the government?",
-    "options": ["Invested it in a new farm project", "Donated it to a charity", "Refunded the subsidy", "Used it for personal expenses"],
-    "correctAnswer": "Refunded the subsidy"
+    "question": "Union Minister Nitin Gadkari addressed concerns about E20 petrol primarily regarding which aspect of vehicle performance?",
+    "options": ["Top speed", "Braking efficiency", "Vehicle mileage", "Engine noise"],
+    "correctAnswer": "Vehicle mileage"
   },
   {
     "id": 13,
-    "question": "The government's defense of new FTAs highlighted the securing of substantial committed investments from which trade partners?",
-    "options": ["African and South American nations", "European and New Zealand partners", "East Asian and Middle Eastern countries", "North American and Canadian partners"],
-    "correctAnswer": "European and New Zealand partners"
+    "question": "What specific concern did Arvind Kejriwal raise regarding E20 petrol for vehicles manufactured before 2023?",
+    "options": ["Increased maintenance costs", "Compatibility issues leading to damage and performance problems", "Higher fuel prices", "Reduced availability of spare parts"],
+    "correctAnswer": "Compatibility issues leading to damage and performance problems"
   },
   {
     "id": 14,
-    "question": "Besides protecting specific sectors, what is a stated aim of the government's new FTAs regarding economic growth for all regions, including AP and Telangana?",
-    "options": ["Focusing solely on export growth", "Prioritizing large corporations", "Aiming for balanced growth", "Reducing foreign competition"],
-    "correctAnswer": "Aiming for balanced growth"
+    "question": "How did the BJP respond to allegations of E20 petrol compatibility issues, as mentioned in recent news?",
+    "options": ["They denied E20 petrol's existence", "They referenced statements from industry figures confirming E20 safety", "They promised a complete recall of older vehicles", "They suggested switching to electric vehicles"],
+    "correctAnswer": "They referenced statements from industry figures confirming E20 safety"
   },
   {
     "id": 15,
-    "question": "How do the existing scheme guidelines for National Horticulture Board (NHB) subsidies treat eligible applicants, according to the government, ensuring fairness for farmers in all states?",
-    "options": ["Based on political affiliation", "Based on state-specific quotas", "Treated equally", "Prioritizing large-scale farmers"],
-    "correctAnswer": "Treated equally"
+    "question": "The introduction of E20 petrol is a step towards achieving what broader goal for India's energy sector?",
+    "options": ["Increasing petrol exports", "Reducing crude oil imports and carbon emissions", "Promoting diesel vehicles", "Stabilizing international oil prices"],
+    "correctAnswer": "Reducing crude oil imports and carbon emissions"
   },
   {
     "id": 16,
-    "question": "Delhi Police recently served a notice to which social media platform regarding 'derogatory' posts targeting constitutional heads, a matter of national digital governance?",
-    "options": ["Facebook", "Instagram", "X", "WhatsApp"],
-    "correctAnswer": "X"
+    "question": "Beyond mileage, what is another significant environmental benefit of widespread E20 petrol adoption in India?",
+    "options": ["Improved air quality due to reduced pollution", "Increased fuel efficiency in all vehicles", "Reduced reliance on renewable energy sources", "Promotion of hydrogen fuel cell technology"],
+    "correctAnswer": "Improved air quality due to reduced pollution"
   },
   {
     "id": 17,
-    "question": "What specific information did Delhi Police request from the social media platform concerning the objectionable content?",
-    "options": ["User's current location", "User details and data preservation", "The platform's proprietary algorithm", "Content monetization reports"],
-    "correctAnswer": "User details and data preservation"
+    "question": "According to industry figures mentioned by the BJP, what was the conclusion about E20 petrol's safety after testing and validation?",
+    "options": ["It causes severe engine damage", "It is unsafe for all vehicles", "It is safe and causes no issues", "It is only suitable for two-wheelers"],
+    "correctAnswer": "It is safe and causes no issues"
   },
   {
     "id": 18,
-    "question": "The Prime Minister recently urged government ministries to incorporate which qualities in their functioning, a message applicable to state administrations like Andhra Pradesh and Telangana?",
-    "options": ["Highly bureaucratic and rigid", "Youthful, dynamic and adaptable", "Traditional and conservative", "Focused on historical precedents"],
-    "correctAnswer": "Youthful, dynamic and adaptable"
+    "question": "What year was cited by Arvind Kejriwal as a potential cutoff for vehicles that might face compatibility issues with E20 petrol?",
+    "options": ["2020", "2021", "2022", "2023"],
+    "correctAnswer": "2023"
   },
   {
     "id": 19,
-    "question": "What did PM Modi emphasize as vital for countering misinformation on major national initiatives, a strategy relevant for public communication in all states?",
-    "options": ["Restricting internet access", "Proactive communication", "Increasing censorship", "Ignoring criticism"],
-    "correctAnswer": "Proactive communication"
+    "question": "The debate surrounding E20 petrol primarily centers on its impact on which aspect of the automotive industry and consumers?",
+    "options": ["Vehicle design aesthetics", "Fuel availability and cost", "Engine compatibility and vehicle performance", "Road safety regulations"],
+    "correctAnswer": "Engine compatibility and vehicle performance"
   },
   {
     "id": 20,
-    "question": "According to the Prime Minister's message, who must remain at the center of all policy decisions and governance reforms across the country?",
-    "options": ["Bureaucrats", "Political leaders", "Citizens", "Industrialists"],
-    "correctAnswer": "Citizens"
+    "question": "The E20 initiative is part of India's commitment to which global effort?",
+    "options": ["Space exploration", "Climate change mitigation", "Digital transformation", "Poverty eradication"],
+    "correctAnswer": "Climate change mitigation"
   },
   {
     "id": 21,
-    "question": "The NEET-UG 2026 paper leak probe highlighted the alleged involvement of which specific groups in the conspiracy?",
-    "options": ["Political leaders and journalists", "NTA experts and coaching associates", "University professors and students", "IT professionals and hackers"],
-    "correctAnswer": "NTA experts and coaching associates"
+    "question": "In the investigation following an Air India Boeing 787 incident, what component was specifically examined, and no abnormality was found?",
+    "options": ["Landing gear", "Fuel control switch", "Navigation system", "Turbine blades"],
+    "correctAnswer": "Fuel control switch"
   },
   {
     "id": 22,
-    "question": "What kind of online material does the Delhi Police social media monitoring team continuously scan for, indicating a broader national effort against digital misconduct?",
-    "options": ["Educational content", "Promotional advertisements", "Objectionable online material", "Sports highlights"],
-    "correctAnswer": "Objectionable online material"
+    "question": "Which government entity would typically be responsible for investigating an Air India Boeing 787 incident in India, as per the news context?",
+    "options": ["Ministry of Road Transport and Highways", "Ministry of Railways", "Aircraft Accident Investigation Bureau (AAIB)", "Indian Space Research Organisation (ISRO)"],
+    "correctAnswer": "Aircraft Accident Investigation Bureau (AAIB)"
   },
   {
     "id": 23,
-    "question": "The central government informed Parliament that existing National Horticulture Board (NHB) scheme guidelines lack specific provisions regarding what aspect of eligibility?",
-    "options": ["Geographic distribution", "Crop type restrictions", "Conflict of interest", "Minimum farm size requirements"],
-    "correctAnswer": "Conflict of interest"
+    "question": "What was the primary finding by the government regarding the fuel control switch in the Air India Boeing 787 incident?",
+    "options": ["It was malfunctioning", "It was tampered with", "No abnormality was found", "It needed an immediate replacement"],
+    "correctAnswer": "No abnormality was found"
   },
   {
     "id": 24,
-    "question": "What is the duration within which sugar dealers must sell their excess stock after the August 1 deadline, as per government directives?",
-    "options": ["Seven days", "Fifteen days", "Thirty days", "Sixty days"],
-    "correctAnswer": "Thirty days"
+    "question": "The Ministry of External Affairs (MEA) recently adopted which unconventional communication method to reinforce India’s position on J&K and Ladakh?",
+    "options": ["Traditional press conferences", "Formal diplomatic communiques", "Social media memes", "Documentary films"],
+    "correctAnswer": "Social media memes"
   },
   {
     "id": 25,
-    "question": "Which significant development regarding sugar has occurred alongside the imposition of stock limits, according to the government, impacting the sugar industry nationwide including in AP and Telangana?",
-    "options": ["Increased sugar imports", "Ban on sugar exports", "Reduction in sugar duties", "Promotion of sugar consumption"],
-    "correctAnswer": "Ban on sugar exports"
+    "question": "Who, two years after his death, received a clean chit from the Supreme Court in a coal block scam case, as reported recently?",
+    "options": ["Atal Bihari Vajpayee", "Indira Gandhi", "P.V. Narasimha Rao", "Manmohan Singh"],
+    "correctAnswer": "Manmohan Singh"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian state has recently been highlighted for leading in the number of schools functioning with a single teacher?",
-    "options": ["Uttar Pradesh", "Maharashtra", "Andhra Pradesh", "Bihar"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What controversy recently arose regarding the jersey of the Indian national hockey team?",
+    "options": ["Color change to saffron", "New sponsor logo", "Design incorporating regional motifs", "Material quality issues"],
+    "correctAnswer": "Color change to saffron"
   },
   {
     "id": 2,
-    "question": "According to recent reports, approximately how many single-teacher schools are present in Andhra Pradesh?",
-    "options": ["Over 10,000", "Over 12,000", "Over 14,000", "Over 16,000"],
-    "correctAnswer": "Over 16,000"
+    "question": "The opposition criticized the BJP over the change in jersey color for which Indian national sports team?",
+    "options": ["Cricket", "Football", "Hockey", "Kabaddi"],
+    "correctAnswer": "Hockey"
   },
   {
     "id": 3,
-    "question": "What is cited as a significant factor contributing to teacher vacancies and the prevalence of single-teacher schools across Indian states, including Andhra Pradesh and Telangana?",
-    "options": ["Lack of student enrollment", "Political interference", "Retirements, resignations, and changing student enrollments", "Absence of modern teaching facilities"],
-    "correctAnswer": "Retirements, resignations, and changing student enrollments"
+    "question": "The debate over the Indian Hockey team's new jersey color was linked by the opposition to what broader political concern?",
+    "options": ["Funding for sports", "Cultural appropriation", "Saffronization", "Lack of player representation"],
+    "correctAnswer": "Saffronization"
   },
   {
     "id": 4,
-    "question": "What is a key recommendation for states like Andhra Pradesh and Telangana to address the issue of single-teacher schools, according to the recent report?",
-    "options": ["Reducing school hours", "Filling vacant posts and using technology for needs", "Introducing new subjects", "Merging all single-teacher schools"],
-    "correctAnswer": "Filling vacant posts and using technology for needs"
+    "question": "Which political party faced criticism from the opposition regarding the color change of the Indian hockey team's jersey?",
+    "options": ["Congress", "BJP", "Aam Aadmi Party", "Trinamool Congress"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 5,
-    "question": "The issue of over one lakh single-teacher schools nationwide, as reported, indicates a significant gap in which area for states like Andhra Pradesh?",
-    "options": ["Curriculum development", "Teacher deployment", "Sports infrastructure", "Mid-day meal schemes"],
-    "correctAnswer": "Teacher deployment"
+    "question": "What was the primary color of the controversial new jersey for the Indian national hockey team?",
+    "options": ["Blue", "Green", "Saffron", "White"],
+    "correctAnswer": "Saffron"
   },
   {
     "id": 6,
-    "question": "The Supreme Court has permanently prohibited the government from granting what type of clearance for projects in India, impacting states like Andhra Pradesh and Telangana?",
-    "options": ["Land acquisition clearance", "Financial clearance", "Post-facto environmental clearance", "Building permit clearance"],
-    "correctAnswer": "Post-facto environmental clearance"
+    "question": "What national legislation did Congress President Mallikarjun Kharge recently criticize as a 'hogwash'?",
+    "options": ["Agricultural Reform Bill", "Anti-Terrorism Act", "Anti-Paper Leak Bill", "Digital Personal Data Protection Bill"],
+    "correctAnswer": "Anti-Paper Leak Bill"
   },
   {
     "id": 7,
-    "question": "Approximately what value of projects was protected from demolition by the Supreme Court's recent ruling on environmental clearances?",
-    "options": ["Rs 10,000 crore", "Rs 15,000 crore", "Rs 20,000 crore", "Rs 25,000 crore"],
-    "correctAnswer": "Rs 20,000 crore"
+    "question": "Who among the following criticized the Union government's Anti-Paper Leak Bill?",
+    "options": ["Rahul Gandhi", "Amit Shah", "Mallikarjun Kharge", "Narendra Modi"],
+    "correctAnswer": "Mallikarjun Kharge"
   },
   {
     "id": 8,
-    "question": "Which specific government directive, dating back to 2021, that allowed indefinite post-facto environmental clearances, was quashed by the Supreme Court?",
-    "options": ["A Parliamentary Act", "An Executive Order", "An Office Memorandum", "A Policy Circular"],
-    "correctAnswer": "An Office Memorandum"
+    "question": "The Anti-Paper Leak Bill in India is intended to address issues in which sector?",
+    "options": ["Healthcare", "Education and Recruitment", "Finance", "Infrastructure"],
+    "correctAnswer": "Education and Recruitment"
   },
   {
     "id": 9,
-    "question": "Following the Supreme Court's judgment, under which notification is prior environmental clearance now mandatory for all new projects in India, including those proposed in Andhra Pradesh and Telangana?",
-    "options": ["1994 notification", "2006 notification", "2010 notification", "2021 notification"],
-    "correctAnswer": "2006 notification"
+    "question": "What specific phrase did Mallikarjun Kharge use to describe the tweaking of the anti-paper leak law?",
+    "options": ["Revolutionary change", "Necessary reform", "A hogwash", "Timely intervention"],
+    "correctAnswer": "A hogwash"
   },
   {
     "id": 10,
-    "question": "How will the Supreme Court's recent judgment on post-facto green clearances operate regarding environmental clearances granted under earlier rules?",
-    "options": ["Retrospectively, nullifying all past clearances", "Prospectively, validating past clearances", "On a case-by-case basis", "Only for new government projects"],
-    "correctAnswer": "Prospectively, validating past clearances"
-  },
-  {
-    "id": 11,
-    "question": "What does 'E20 petrol' refer to in the context of India's fuel blending program, which affects vehicle owners in states like Andhra Pradesh and Telangana?",
-    "options": ["Petrol blended with 20% methane", "Petrol blended with 20% ethanol", "Petrol with 20% increased octane", "Petrol for Euro 20 compliant vehicles"],
-    "correctAnswer": "Petrol blended with 20% ethanol"
-  },
-  {
-    "id": 12,
-    "question": "Union Minister Nitin Gadkari stated that ethanol blending is being rolled out through what kind of process?",
-    "options": ["Rapid, experimental process", "Phased, scientific process", "Voluntary, market-driven process", "Emergency, temporary process"],
-    "correctAnswer": "Phased, scientific process"
-  },
-  {
-    "id": 13,
-    "question": "What potential concern was highlighted by Arvind Kejriwal regarding the use of E20 petrol, especially for older vehicles in India?",
-    "options": ["Increased fuel efficiency", "Reduced emissions", "Potential engine damage", "Higher fuel prices"],
-    "correctAnswer": "Potential engine damage"
-  },
-  {
-    "id": 14,
-    "question": "What is a primary objective behind the government's push for ethanol blending in petrol across India, including in Andhra Pradesh and Telangana?",
-    "options": ["To increase imports of crude oil", "To reduce reliance on fossil fuels and lower emissions", "To promote private automobile manufacturing", "To diversify the public transport sector"],
-    "correctAnswer": "To reduce reliance on fossil fuels and lower emissions"
-  },
-  {
-    "id": 15,
-    "question": "Automakers in India are reportedly silent on the risks of E20 petrol due to alleged pressure from which entity?",
-    "options": ["State governments", "Environmental activists", "The Central government", "International organizations"],
-    "correctAnswer": "The Central government"
-  },
-  {
-    "id": 16,
-    "question": "The Supreme Court recently observed that pellet guns can be used in India under what specific circumstances during protests?",
-    "options": ["Whenever police deem it necessary", "Only against armed protesters", "In exceptional violent situations where other means fail", "For crowd control in all protests"],
-    "correctAnswer": "In exceptional violent situations where other means fail"
-  },
-  {
-    "id": 17,
-    "question": "According to the Supreme Court's observations, if violence during a protest is not controlled by lathicharge and tear gas, what further action might police be permitted to use, similar to bullets?",
-    "options": ["Water cannons", "Rubber bullets", "Pellet guns", "Chemical agents"],
-    "correctAnswer": "Pellet guns"
-  },
-  {
-    "id": 18,
-    "question": "What national entrance examination was recently associated with student protests across India, where allegations of police brutality were made?",
-    "options": ["JEE Advanced", "CAT", "NEET", "UPSC Civil Services"],
+    "question": "Kharge's criticism of the anti-paper leak law also involved backing protests related to which specific examination?",
+    "options": ["UPSC CSE", "JEE Main", "NEET", "CLAT"],
     "correctAnswer": "NEET"
   },
   {
+    "id": 11,
+    "question": "Which global tech company recently agreed to meet the Indian government to clarify its policy after a video glitch involving the Prime Minister?",
+    "options": ["Google", "Apple", "Meta", "Microsoft"],
+    "correctAnswer": "Meta"
+  },
+  {
+    "id": 12,
+    "question": "The meeting between Meta and the Indian government was prompted by a glitch related to a video of which Indian leader?",
+    "options": ["President", "Vice-President", "Prime Minister", "Home Minister"],
+    "correctAnswer": "Prime Minister"
+  },
+  {
+    "id": 13,
+    "question": "Meta 'expressed regret' over what incident that led to its agreement to meet the Indian government?",
+    "options": ["Data breach", "Policy violation", "PM Modi video glitch", "Service outage"],
+    "correctAnswer": "PM Modi video glitch"
+  },
+  {
+    "id": 14,
+    "question": "What was the purpose of Meta's upcoming meeting with the Indian government?",
+    "options": ["To discuss new product launches", "To clarify policy", "To announce investments", "To address advertising concerns"],
+    "correctAnswer": "To clarify policy"
+  },
+  {
+    "id": 15,
+    "question": "The incident involving a PM Modi video glitch and subsequent Meta response highlights a growing focus on what aspect of governance in India?",
+    "options": ["Economic policy", "Foreign relations", "Digital governance and social media regulation", "Agricultural policy"],
+    "correctAnswer": "Digital governance and social media regulation"
+  },
+  {
+    "id": 16,
+    "question": "Rahul Gandhi recently demanded a Supreme Court-monitored probe into alleged police brutalities against which group?",
+    "options": ["Farmers", "Industrial workers", "Student protesters", "Healthcare professionals"],
+    "correctAnswer": "Student protesters"
+  },
+  {
+    "id": 17,
+    "question": "Rahul Gandhi intensified his attack on which Union Minister regarding the alleged police brutalities?",
+    "options": ["Finance Minister", "Defence Minister", "Home Minister", "External Affairs Minister"],
+    "correctAnswer": "Home Minister"
+  },
+  {
+    "id": 18,
+    "question": "What did Rahul Gandhi accuse Union Home Minister Amit Shah of, regarding his absence from Parliament during discussions on police action?",
+    "options": ["Incompetence", "Guilt", "Indifference", "Overwork"],
+    "correctAnswer": "Guilt"
+  },
+  {
     "id": 19,
-    "question": "Which political leader shared a video claiming police brutality during the recent NEET protest, emphasizing that 'students deserve justice'?",
-    "options": ["Arvind Kejriwal", "Rahul Gandhi", "Uddhav Thackeray", "Mamata Banerjee"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "What did opposition MPs protest alongside alleged police action, as mentioned in the context of Rahul Gandhi's statements?",
+    "options": ["Fuel price hike", "Unemployment", "Temple donation embezzlement", "Tax reforms"],
+    "correctAnswer": "Temple donation embezzlement"
   },
   {
     "id": 20,
-    "question": "The Supreme Court's guidelines on the use of force during public protests, while a national ruling, would inherently apply to law enforcement in which specific Indian states for any such incidents?",
-    "options": ["Only Delhi and Punjab", "Jammu & Kashmir exclusively", "All states and Union Territories, including Andhra Pradesh and Telangana", "Northeastern states only"],
-    "correctAnswer": "All states and Union Territories, including Andhra Pradesh and Telangana"
+    "question": "Rahul Gandhi shared videos purportedly showing what action against student protesters?",
+    "options": ["Peaceful negotiations", "Brutal police action", "Academic counseling", "Public debates"],
+    "correctAnswer": "Brutal police action"
   },
   {
     "id": 21,
-    "question": "The Supreme Court recently relaxed its order regarding the appellate forum for cases related to which major Indian scam?",
-    "options": ["2G Spectrum Scam", "Coalgate Scam", "Commonwealth Games Scam", "Fodder Scam"],
-    "correctAnswer": "Coalgate Scam"
+    "question": "CJP's Dipke alleged receiving threats with what specific demand?",
+    "options": ["To support a specific candidate", "To join the BJP", "To disclose private information", "To leave the country"],
+    "correctAnswer": "To join the BJP"
   },
   {
     "id": 22,
-    "question": "What change did the Supreme Court make regarding where appeals against trial court acquittals or convictions in Coalgate cases can now be heard?",
-    "options": ["Only by the Supreme Court still", "By various High Courts across India", "By the Delhi High Court", "By special tribunals"],
-    "correctAnswer": "By the Delhi High Court"
+    "question": "According to CJP's Dipke, the alleged threats were intended to avoid trouble for whom?",
+    "options": ["The organization", "Family", "Colleagues", "Supporters"],
+    "correctAnswer": "Family"
   },
   {
     "id": 23,
-    "question": "Which senior advocate argued that the Supreme Court should not be the first appeal forum for Coalgate cases, leading to the relaxation of the previous order?",
-    "options": ["Harish Salve", "Kapil Sibal", "Mukul Rohatgi", "P. Chidambaram"],
-    "correctAnswer": "Kapil Sibal"
+    "question": "What serious allegation did CJP's Dipke make against the Centre in the context of political pressure?",
+    "options": ["Supporting corruption", "Supporting rapists", "Mismanaging economy", "Suppressing free speech"],
+    "correctAnswer": "Supporting rapists"
   },
   {
     "id": 24,
-    "question": "Which Indian state, home to significant coal mining operations like Singareni Collieries Company Limited, could be indirectly impacted by changes in national legal proceedings related to coal block allocations?",
-    "options": ["Odisha", "Jharkhand", "Chhattisgarh", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "The allegations made by CJP's Dipke highlight concerns about what aspect of Indian politics?",
+    "options": ["International relations", "Political intimidation and misuse of power", "Environmental policy", "Rural development"],
+    "correctAnswer": "Political intimidation and misuse of power"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's decision to modify the appellate forum for Coalgate cases revises a directive that had been in place for approximately how many years?",
-    "options": ["Five years", "Eight years", "Twelve years", "Fifteen years"],
-    "correctAnswer": "Twelve years"
+    "question": "The individual making the allegations in the news headline is identified as CJP's who?",
+    "options": ["Sharma", "Kumar", "Singh", "Dipke"],
+    "correctAnswer": "Dipke"
   }
 ]

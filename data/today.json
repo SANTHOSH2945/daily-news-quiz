@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian state was explicitly mentioned alongside Karnataka, Maharashtra, and Delhi for receiving significant investments from the Centre's Electronics Development Fund?",
-    "options": ["Andhra Pradesh", "Telangana", "Kerala", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "Which Indian state has recently been highlighted for leading in the number of schools functioning with a single teacher?",
+    "options": ["Uttar Pradesh", "Maharashtra", "Andhra Pradesh", "Bihar"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "What is the current phase of the Centre's Electronics Development Fund, which has seen states like Telangana benefit from significant investments?",
-    "options": ["Incubation phase", "Growth phase", "Divestment phase", "Expansion phase"],
-    "correctAnswer": "Divestment phase"
+    "question": "According to recent reports, approximately how many single-teacher schools are present in Andhra Pradesh?",
+    "options": ["Over 10,000", "Over 12,000", "Over 14,000", "Over 16,000"],
+    "correctAnswer": "Over 16,000"
   },
   {
     "id": 3,
-    "question": "Which entity is responsible for managing the Centre's Electronics Development Fund, a significant source of investment for technology startups in states like Telangana?",
-    "options": ["SBI Capital Markets", "SIDBI Venture Capital", "Canbank Venture Capital Fund", "ICICI Venture"],
-    "correctAnswer": "Canbank Venture Capital Fund"
+    "question": "What is cited as a significant factor contributing to teacher vacancies and the prevalence of single-teacher schools across Indian states, including Andhra Pradesh and Telangana?",
+    "options": ["Lack of student enrollment", "Political interference", "Retirements, resignations, and changing student enrollments", "Absence of modern teaching facilities"],
+    "correctAnswer": "Retirements, resignations, and changing student enrollments"
   },
   {
     "id": 4,
-    "question": "The Electronics Development Fund primarily aims to support investments in what sector within India?",
-    "options": ["Agriculture startups", "Healthcare innovations", "Technology startups", "Tourism development"],
-    "correctAnswer": "Technology startups"
+    "question": "What is a key recommendation for states like Andhra Pradesh and Telangana to address the issue of single-teacher schools, according to the recent report?",
+    "options": ["Reducing school hours", "Filling vacant posts and using technology for needs", "Introducing new subjects", "Merging all single-teacher schools"],
+    "correctAnswer": "Filling vacant posts and using technology for needs"
   },
   {
     "id": 5,
-    "question": "What was the total investment made by the Electronics Development Fund's associated venture funds in 128 companies across India?",
-    "options": ["Under Rs 500 crore", "Between Rs 500-1000 crore", "Over Rs 1,335 crore", "Exactly Rs 1,200 crore"],
-    "correctAnswer": "Over Rs 1,335 crore"
+    "question": "The issue of over one lakh single-teacher schools nationwide, as reported, indicates a significant gap in which area for states like Andhra Pradesh?",
+    "options": ["Curriculum development", "Teacher deployment", "Sports infrastructure", "Mid-day meal schemes"],
+    "correctAnswer": "Teacher deployment"
   },
   {
     "id": 6,
-    "question": "Karnataka received what approximate percentage of the total investments from the Centre's Electronics Development Fund?",
-    "options": ["40%", "50%", "64%", "75%"],
-    "correctAnswer": "64%"
+    "question": "The Supreme Court has permanently prohibited the government from granting what type of clearance for projects in India, impacting states like Andhra Pradesh and Telangana?",
+    "options": ["Land acquisition clearance", "Financial clearance", "Post-facto environmental clearance", "Building permit clearance"],
+    "correctAnswer": "Post-facto environmental clearance"
   },
   {
     "id": 7,
-    "question": "How many companies across India received investments through the Centre's Electronics Development Fund?",
-    "options": ["90 companies", "128 companies", "150 companies", "200 companies"],
-    "correctAnswer": "128 companies"
+    "question": "Approximately what value of projects was protected from demolition by the Supreme Court's recent ruling on environmental clearances?",
+    "options": ["Rs 10,000 crore", "Rs 15,000 crore", "Rs 20,000 crore", "Rs 25,000 crore"],
+    "correctAnswer": "Rs 20,000 crore"
   },
   {
     "id": 8,
-    "question": "Which major South Indian state, apart from Karnataka, was highlighted for receiving significant investments from the Centre's Electronics Development Fund?",
-    "options": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "Which specific government directive, dating back to 2021, that allowed indefinite post-facto environmental clearances, was quashed by the Supreme Court?",
+    "options": ["A Parliamentary Act", "An Executive Order", "An Office Memorandum", "A Policy Circular"],
+    "correctAnswer": "An Office Memorandum"
   },
   {
     "id": 9,
-    "question": "The Centre's Electronics Development Fund saw significant investments flowing into technology startups, benefiting states like Telangana. What is a key purpose of such a fund?",
-    "options": ["To provide direct subsidies to farmers", "To promote the growth of the electronics manufacturing ecosystem", "To fund infrastructure projects in rural areas", "To offer grants for cultural festivals"],
-    "correctAnswer": "To promote the growth of the electronics manufacturing ecosystem"
+    "question": "Following the Supreme Court's judgment, under which notification is prior environmental clearance now mandatory for all new projects in India, including those proposed in Andhra Pradesh and Telangana?",
+    "options": ["1994 notification", "2006 notification", "2010 notification", "2021 notification"],
+    "correctAnswer": "2006 notification"
   },
   {
     "id": 10,
-    "question": "Alongside Karnataka, Maharashtra, and Delhi, which other major Indian state was noted for receiving significant investments from the Centre's Electronics Development Fund?",
-    "options": ["Uttar Pradesh", "Gujarat", "West Bengal", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "How will the Supreme Court's recent judgment on post-facto green clearances operate regarding environmental clearances granted under earlier rules?",
+    "options": ["Retrospectively, nullifying all past clearances", "Prospectively, validating past clearances", "On a case-by-case basis", "Only for new government projects"],
+    "correctAnswer": "Prospectively, validating past clearances"
   },
   {
     "id": 11,
-    "question": "What is the significant change introduced for NEET-UG counselling regarding physical reporting for candidates?",
-    "options": ["Multiple visits required", "Only one visit required", "No physical visits at all", "Two visits required"],
-    "correctAnswer": "Only one visit required"
+    "question": "What does 'E20 petrol' refer to in the context of India's fuel blending program, which affects vehicle owners in states like Andhra Pradesh and Telangana?",
+    "options": ["Petrol blended with 20% methane", "Petrol blended with 20% ethanol", "Petrol with 20% increased octane", "Petrol for Euro 20 compliant vehicles"],
+    "correctAnswer": "Petrol blended with 20% ethanol"
   },
   {
     "id": 12,
-    "question": "After the initial physical reporting, how can NEET-UG candidates now complete subsequent document verification?",
-    "options": ["Only in-person", "Through postal mail", "Online", "Via designated agents"],
-    "correctAnswer": "Online"
+    "question": "Union Minister Nitin Gadkari stated that ethanol blending is being rolled out through what kind of process?",
+    "options": ["Rapid, experimental process", "Phased, scientific process", "Voluntary, market-driven process", "Emergency, temporary process"],
+    "correctAnswer": "Phased, scientific process"
   },
   {
     "id": 13,
-    "question": "What new online option has the Medical Counselling Committee (MCC) introduced for NEET-UG candidates who wish to surrender their allotted seats?",
-    "options": ["Online seat transfer", "Online resignation", "Online swap option", "Online deferment"],
-    "correctAnswer": "Online resignation"
+    "question": "What potential concern was highlighted by Arvind Kejriwal regarding the use of E20 petrol, especially for older vehicles in India?",
+    "options": ["Increased fuel efficiency", "Reduced emissions", "Potential engine damage", "Higher fuel prices"],
+    "correctAnswer": "Potential engine damage"
   },
   {
     "id": 14,
-    "question": "Which specific category of admissions in NEET-UG counselling has been fully digitized, improving verification processes?",
-    "options": ["SC/ST category", "OBC category", "Economically Weaker Section (EWS) category", "NRI category"],
-    "correctAnswer": "NRI category"
+    "question": "What is a primary objective behind the government's push for ethanol blending in petrol across India, including in Andhra Pradesh and Telangana?",
+    "options": ["To increase imports of crude oil", "To reduce reliance on fossil fuels and lower emissions", "To promote private automobile manufacturing", "To diversify the public transport sector"],
+    "correctAnswer": "To reduce reliance on fossil fuels and lower emissions"
   },
   {
     "id": 15,
-    "question": "What is the stated aim of the government for the updated NEET-UG counselling system, affecting students in states like Telangana and Andhra Pradesh?",
-    "options": ["To reduce competition", "To increase seat availability", "To make it transparent and merit-based", "To prioritize local students"],
-    "correctAnswer": "To make it transparent and merit-based"
+    "question": "Automakers in India are reportedly silent on the risks of E20 petrol due to alleged pressure from which entity?",
+    "options": ["State governments", "Environmental activists", "The Central government", "International organizations"],
+    "correctAnswer": "The Central government"
   },
   {
     "id": 16,
-    "question": "Which committee is responsible for implementing the recent changes in NEET-UG counselling across India?",
-    "options": ["University Grants Commission (UGC)", "All India Council for Technical Education (AICTE)", "Medical Counselling Committee (MCC)", "National Testing Agency (NTA)"],
-    "correctAnswer": "Medical Counselling Committee (MCC)"
+    "question": "The Supreme Court recently observed that pellet guns can be used in India under what specific circumstances during protests?",
+    "options": ["Whenever police deem it necessary", "Only against armed protesters", "In exceptional violent situations where other means fail", "For crowd control in all protests"],
+    "correctAnswer": "In exceptional violent situations where other means fail"
   },
   {
     "id": 17,
-    "question": "The new NEET-UG counselling changes, which apply to medical aspirants in Telangana and Andhra Pradesh, aim to reduce the need for multiple what?",
-    "options": ["Application forms", "Exam attempts", "Physical visits", "Fee payments"],
-    "correctAnswer": "Physical visits"
+    "question": "According to the Supreme Court's observations, if violence during a protest is not controlled by lathicharge and tear gas, what further action might police be permitted to use, similar to bullets?",
+    "options": ["Water cannons", "Rubber bullets", "Pellet guns", "Chemical agents"],
+    "correctAnswer": "Pellet guns"
   },
   {
     "id": 18,
-    "question": "According to the Ministry of Home Affairs, by which year is India projected to have zero Left-wing extremism-affected districts?",
-    "options": ["December 2024", "March 2025", "March 2026", "December 2026"],
-    "correctAnswer": "March 2026"
+    "question": "What national entrance examination was recently associated with student protests across India, where allegations of police brutality were made?",
+    "options": ["JEE Advanced", "CAT", "NEET", "UPSC Civil Services"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 19,
-    "question": "The MHA report stated that the number of LWE-affected districts has significantly reduced from 126 districts. What was the reference period for this previous count?",
-    "options": ["Prior to April 2010", "Prior to April 2014", "Prior to April 2018", "Prior to April 2022"],
-    "correctAnswer": "Prior to April 2018"
+    "question": "Which political leader shared a video claiming police brutality during the recent NEET protest, emphasizing that 'students deserve justice'?",
+    "options": ["Arvind Kejriwal", "Rahul Gandhi", "Uddhav Thackeray", "Mamata Banerjee"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 20,
-    "question": "Despite a national decline, which two Indian states were still mentioned as having reported Maoist incidents this year?",
-    "options": ["Odisha and West Bengal", "Madhya Pradesh and Uttar Pradesh", "Chhattisgarh and Jharkhand", "Maharashtra and Bihar"],
-    "correctAnswer": "Chhattisgarh and Jharkhand"
+    "question": "The Supreme Court's guidelines on the use of force during public protests, while a national ruling, would inherently apply to law enforcement in which specific Indian states for any such incidents?",
+    "options": ["Only Delhi and Punjab", "Jammu & Kashmir exclusively", "All states and Union Territories, including Andhra Pradesh and Telangana", "Northeastern states only"],
+    "correctAnswer": "All states and Union Territories, including Andhra Pradesh and Telangana"
   },
   {
     "id": 21,
-    "question": "The Ministry of Home Affairs recently claimed that there are 'no district affected by Naxalism anymore.' This significant improvement reflects successful counter-insurgency efforts in various parts of India, including historically affected areas in which two South Indian states?",
-    "options": ["Kerala and Karnataka", "Tamil Nadu and Kerala", "Andhra Pradesh and Telangana", "Goa and Karnataka"],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "The Supreme Court recently relaxed its order regarding the appellate forum for cases related to which major Indian scam?",
+    "options": ["2G Spectrum Scam", "Coalgate Scam", "Commonwealth Games Scam", "Fodder Scam"],
+    "correctAnswer": "Coalgate Scam"
   },
   {
     "id": 22,
-    "question": "How many districts are still categorized as 'legacy and thrust areas' by the MHA, despite the overall reduction in LWE-affected districts?",
-    "options": ["10 districts", "25 districts", "37 districts", "50 districts"],
-    "correctAnswer": "37 districts"
+    "question": "What change did the Supreme Court make regarding where appeals against trial court acquittals or convictions in Coalgate cases can now be heard?",
+    "options": ["Only by the Supreme Court still", "By various High Courts across India", "By the Delhi High Court", "By special tribunals"],
+    "correctAnswer": "By the Delhi High Court"
   },
   {
     "id": 23,
-    "question": "What trend in Maoist violence was highlighted in the latest Ministry of Home Affairs report?",
-    "options": ["A significant surge", "A moderate increase", "A steep decline", "No change observed"],
-    "correctAnswer": "A steep decline"
+    "question": "Which senior advocate argued that the Supreme Court should not be the first appeal forum for Coalgate cases, leading to the relaxation of the previous order?",
+    "options": ["Harish Salve", "Kapil Sibal", "Mukul Rohatgi", "P. Chidambaram"],
+    "correctAnswer": "Kapil Sibal"
   },
   {
     "id": 24,
-    "question": "The MHA's claim of 'no district affected by Naxalism anymore' by March 2026 implies a complete control over this threat. This would mark a successful resolution in areas that previously posed challenges, particularly in parts of which states?",
-    "options": ["Punjab and Haryana", "Rajasthan and Gujarat", "Andhra Pradesh and Telangana", "Himachal Pradesh and Uttarakhand"],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "Which Indian state, home to significant coal mining operations like Singareni Collieries Company Limited, could be indirectly impacted by changes in national legal proceedings related to coal block allocations?",
+    "options": ["Odisha", "Jharkhand", "Chhattisgarh", "Telangana"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 25,
-    "question": "The Ministry of Home Affairs made a core claim about the state of Left-wing extremism in India. What was this claim regarding LWE-affected districts?",
-    "options": ["Increase in new affected districts", "No district affected by Naxalism anymore", "Moderate presence in all states", "Shift of Naxalism to urban areas"],
-    "correctAnswer": "No district affected by Naxalism anymore"
+    "question": "The Supreme Court's decision to modify the appellate forum for Coalgate cases revises a directive that had been in place for approximately how many years?",
+    "options": ["Five years", "Eight years", "Twelve years", "Fifteen years"],
+    "correctAnswer": "Twelve years"
   }
 ]

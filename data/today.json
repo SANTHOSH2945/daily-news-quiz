@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who recently alleged that parts of Manusmriti are now part of the curriculum during a Rajya Sabha debate?",
-    "options": ["JP Nadda", "Mallikarjun Kharge", "Sudhanshu Trivedi", "Sonia Gandhi"],
-    "correctAnswer": "Mallikarjun Kharge"
+    "question": "The Public Examination (Prevention of Unfair Means) Bill, 2024, recently passed by Parliament, is particularly relevant to students in Telangana and Andhra Pradesh aiming for higher education. What is the primary aim of this bill?",
+    "options": ["To increase examination fees", "To establish more coaching centers", "To curb malpractices and paper leaks in public examinations", "To privatize examination bodies"],
+    "correctAnswer": "To curb malpractices and paper leaks in public examinations"
   },
   {
     "id": 2,
-    "question": "The heated debate in Rajya Sabha regarding curriculum changes centered on allegations related to which ancient Indian text?",
-    "options": ["Arthashastra", "Rig Veda", "Manusmriti", "Ramayana"],
-    "correctAnswer": "Manusmriti"
-  },
-  {
-    "id": 3,
-    "question": "During the debate, what challenge did JP Nadda pose to Mallikarjun Kharge concerning his allegations about Manusmriti?",
-    "options": ["To prove the BJP's affiliation with Manusmriti", "To produce the original manuscript for authentication", "To debate the verses of the text in public", "To present evidence of curriculum changes"],
-    "correctAnswer": "To produce the original manuscript for authentication"
-  },
-  {
-    "id": 4,
-    "question": "Which BJP MP countered arguments about Manusmriti by referencing Dr. B.R. Ambedkar's writings on the era?",
-    "options": ["Amit Shah", "Nirmala Sitharaman", "Sudhanshu Trivedi", "Rajnath Singh"],
-    "correctAnswer": "Sudhanshu Trivedi"
-  },
-  {
-    "id": 5,
-    "question": "What major examination was at the center of the recent paper leak controversy that led to widespread protests across India?",
-    "options": ["UPSC Civil Services Exam", "JEE Advanced", "NEET-UG", "GATE"],
+    "question": "The recent controversy surrounding paper leaks, which prompted the new stringent law, prominently involved which national entrance examination affecting medical aspirants from states like Andhra Pradesh and Telangana?",
+    "options": ["JEE Advanced", "UPSC Civil Services Exam", "NEET-UG", "GATE"],
     "correctAnswer": "NEET-UG"
   },
   {
-    "id": 6,
-    "question": "Parliament recently passed a bill introducing stricter punishments for individuals involved in exam malpractices. What is this legislation commonly known as?",
-    "options": ["Education Reform Bill", "Public Examinations (Prevention of Unfair Means) Bill", "Student Protection Act", "Anti-Fraud Exam Law"],
-    "correctAnswer": "Public Examinations (Prevention of Unfair Means) Bill"
+    "id": 3,
+    "question": "The Public Examination (Prevention of Unfair Means) Bill introduces stricter penalties for individuals involved in paper leaks. What kind of punishment can an individual face under this new law?",
+    "options": ["Community service", "Public apologies", "Jail terms and significant fines", "Suspension from future exams"],
+    "correctAnswer": "Jail terms and significant fines"
   },
   {
-    "id": 7,
-    "question": "Prime Minister Modi stated that the recently passed anti-paper leak bill is a crucial step towards building what?",
-    "options": ["A stronger education ministry", "A transparent admission process", "A credible exam system", "A competitive student environment"],
-    "correctAnswer": "A credible exam system"
-  },
-  {
-    "id": 8,
-    "question": "What kind of specialized judicial bodies are governments empowered to establish under the new anti-paper leak law?",
-    "options": ["District Courts", "High Courts", "Special Fast-Track Courts", "Appellate Tribunals"],
-    "correctAnswer": "Special Fast-Track Courts"
-  },
-  {
-    "id": 9,
-    "question": "Besides students, with whom did senior ministers hold talks regarding the NEET leak issue?",
-    "options": ["Education Ministry officials", "Parent associations", "Activist Sonam Wangchuk", "Opposition party leaders"],
-    "correctAnswer": "Activist Sonam Wangchuk"
-  },
-  {
-    "id": 10,
-    "question": "What was a key demand made by several opposition parties regarding the NEET exam during the parliamentary debate?",
-    "options": ["To increase the number of attempts", "To make it an online exam", "To scrap the exam", "To reduce the syllabus"],
-    "correctAnswer": "To scrap the exam"
-  },
-  {
-    "id": 11,
-    "question": "The new anti-paper leak bill proposes significant jail terms and what other major penalty for offenders?",
-    "options": ["Community service", "Lifetime ban from government jobs", "Substantial fines", "Suspension of educational degrees"],
-    "correctAnswer": "Substantial fines"
-  },
-  {
-    "id": 12,
-    "question": "What unexpected trend was observed in India's July monsoon rainfall, defying earlier forecasts?",
-    "options": ["Significantly below normal rainfall", "Record high rainfall", "Exceeded expectations and was normal", "No rainfall in July"],
-    "correctAnswer": "Exceeded expectations and was normal"
-  },
-  {
-    "id": 13,
-    "question": "Which global climatic phenomenon was initially predicted to cause a significant monsoon shortfall in India?",
-    "options": ["La Niña", "Indian Ocean Dipole", "Arctic Oscillation", "El Niño"],
+    "id": 4,
+    "question": "India's July monsoon rainfall defied earlier forecasts of below-normal precipitation, an important development for agricultural states like Andhra Pradesh and Telangana. What climate phenomenon was initially expected to cause the shortfall?",
+    "options": ["La Niña", "Arctic Oscillation", "El Niño", "Indian Ocean Dipole"],
     "correctAnswer": "El Niño"
   },
   {
-    "id": 14,
-    "question": "What factor are experts now increasingly emphasizing as altering India's monsoon patterns, making predictions more complex, besides El Nino?",
-    "options": ["Urbanization", "Deforestation", "Climate change", "Industrial pollution"],
+    "id": 5,
+    "question": "Despite the overall 'normal' July monsoon rainfall, what aspect was noted about its distribution across different regions of India, which can significantly impact localized agriculture in states like Telangana and Andhra Pradesh?",
+    "options": ["It was uniformly distributed", "It was concentrated only in the North", "It remained uneven", "It only rained in coastal areas"],
+    "correctAnswer": "It remained uneven"
+  },
+  {
+    "id": 6,
+    "question": "Experts now suggest that beyond El Niño, what global phenomenon is increasingly altering India's monsoon patterns, making predictions more complex for states heavily reliant on rainfall such as Andhra Pradesh and Telangana?",
+    "options": ["Solar flares", "Volcanic eruptions", "Climate change", "Tectonic plate movements"],
     "correctAnswer": "Climate change"
   },
   {
+    "id": 7,
+    "question": "Which political leader, while speaking in Rajya Sabha, supported the anti-paper leak Bill, emphasizing the need for institutional solutions to resolve the crisis affecting students nationwide, including those in Telangana and Andhra Pradesh?",
+    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "Raghav Chadha", "Amit Shah"],
+    "correctAnswer": "Raghav Chadha"
+  },
+  {
+    "id": 8,
+    "question": "Prime Minister Modi, in a recent video, highlighted that the new anti-paper leak Bill aims to create a more reliable examination system for which group, a group that includes millions of aspirants from states like Andhra Pradesh and Telangana?",
+    "options": ["Government employees", "Students", "Business owners", "Farmers"],
+    "correctAnswer": "Students"
+  },
+  {
+    "id": 9,
+    "question": "In response to the NEET-UG paper leak issue, which has caused distress among students in all states including AP and Telangana, what specific measures did the government establish to address concerns?",
+    "options": ["A new syllabus committee", "A fast-track court and task force", "A national scholarship program", "An international investigation agency"],
+    "correctAnswer": "A fast-track court and task force"
+  },
+  {
+    "id": 10,
+    "question": "Opposition leaders criticized the government for taking action against students protesting alleged irregularities in public examinations, a situation that resonates with student communities across India, including AP and Telangana. What did they allege the government was doing?",
+    "options": ["Offering new scholarships", "Silencing Generation Z through FIRs and account takedowns", "Introducing new study methods", "Organizing awareness campaigns"],
+    "correctAnswer": "Silencing Generation Z through FIRs and account takedowns"
+  },
+  {
+    "id": 11,
+    "question": "For states like Andhra Pradesh and Telangana, how does a 'normal' July monsoon rainfall benefit the regional economy, particularly given their agricultural base?",
+    "options": ["It boosts industrial output", "It supports agricultural activities and water reservoirs", "It leads to increased tourism", "It reduces reliance on renewable energy"],
+    "correctAnswer": "It supports agricultural activities and water reservoirs"
+  },
+  {
+    "id": 12,
+    "question": "The Public Examinations (Prevention of Unfair Means) Bill was approved by which parliamentary bodies before becoming law, impacting public examinations across India, including for candidates from AP and Telangana?",
+    "options": ["Only Lok Sabha", "Only Rajya Sabha", "Lok Sabha and Rajya Sabha", "State Assemblies"],
+    "correctAnswer": "Lok Sabha and Rajya Sabha"
+  },
+  {
+    "id": 13,
+    "question": "Mallikarjun Kharge, during a debate in Rajya Sabha concerning education and societal norms (issues relevant to curriculum discussions in all states), cited which ancient text, alleging its influence on the BJP's curriculum?",
+    "options": ["Arthashastra", "Bhagavad Gita", "Manusmriti", "Rig Veda"],
+    "correctAnswer": "Manusmriti"
+  },
+  {
+    "id": 14,
+    "question": "What specific type of verses from the ancient text did Mallikarjun Kharge quote during the debate, alleging their discriminatory nature?",
+    "options": ["Verses on economic policy", "Verses against Shudras", "Verses on military strategy", "Verses on environmental protection"],
+    "correctAnswer": "Verses against Shudras"
+  },
+  {
     "id": 15,
-    "question": "What was noted regarding the distribution of monsoon rainfall across different regions of India despite the overall 'normal' July figures?",
-    "options": ["Perfectly even distribution", "Highly concentrated in northern states", "Remained uneven", "Only fell in coastal areas"],
-    "correctAnswer": "Remained uneven"
+    "question": "The government, while addressing the NEET-UG paper leak issue (crucial for medical aspirants from AP and Telangana), stated that the proposed bill aims for what specific outcome regarding investigations?",
+    "options": ["Public trials", "Time-bound investigations", "International oversight", "Online dispute resolution"],
+    "correctAnswer": "Time-bound investigations"
   },
   {
     "id": 16,
-    "question": "The Supreme Court recently questioned Parliament's decision to exclude which key figure from the selection panel for the Chief Election Commissioner (CEC)?",
-    "options": ["The Prime Minister", "The Leader of the Opposition", "The Chief Justice of India", "The Union Law Minister"],
-    "correctAnswer": "The Chief Justice of India"
+    "question": "What is a potential negative consequence of uneven rainfall distribution across India, as noted in the monsoon report, for states such as Andhra Pradesh and Telangana, despite an overall normal July?",
+    "options": ["Increased hydropower generation", "Localized droughts or floods in specific regions", "Boost in winter crop yields", "Reduction in urban population density"],
+    "correctAnswer": "Localized droughts or floods in specific regions"
   },
   {
     "id": 17,
-    "question": "The Supreme Court heard arguments challenging the appointment process for the Chief Election Commissioner based on an Act passed in which year?",
-    "options": ["2021", "2022", "2023", "2024"],
-    "correctAnswer": "2023"
+    "question": "According to the Prime Minister's message, what has been a long-standing issue affecting governments nationwide for decades, which the new anti-paper leak Bill seeks to resolve for a better examination system for students in states like AP and Telangana?",
+    "options": ["High exam fees", "Lack of examination centers", "Paper leak issues", "Insufficient study materials"],
+    "correctAnswer": "Paper leak issues"
   },
   {
     "id": 18,
-    "question": "What was the government's argument to the Supreme Court regarding the legislative wisdom in creating the CEC selection panel?",
-    "options": ["To support judicial review", "Not to question legislative wisdom", "To seek Supreme Court's guidance", "To amend the Act immediately"],
-    "correctAnswer": "Not to question legislative wisdom"
+    "question": "Who did Congress leader Rahul Gandhi warn against threatening 'Gen Z into silence,' referencing police actions and FIRs against students, which concern youth and students across India including AP and Telangana?",
+    "options": ["Chief Ministers of states", "PM Modi and Amit Shah", "The judiciary", "Examination boards"],
+    "correctAnswer": "PM Modi and Amit Shah"
   },
   {
     "id": 19,
-    "question": "The Supreme Court noted the CJI's inclusion in other key appointment committees, implying a precedent for their involvement in which type of appointments?",
-    "options": ["Judicial appointments only", "Cabinet ministerial appointments", "Key constitutional body appointments", "State-level administrative appointments"],
-    "correctAnswer": "Key constitutional body appointments"
+    "question": "Which founder of CJP mocked Prime Minister Narendra Modi's late-night video message regarding the anti-paper leak Bill?",
+    "options": ["Sonam Wangchuk", "Mallikarjun Kharge", "Abhijeet Dipke", "Raghav Chadha"],
+    "correctAnswer": "Abhijeet Dipke"
   },
   {
     "id": 20,
-    "question": "Which national symbol received legal protection on par with the national anthem through a recent bill passed by Parliament?",
-    "options": ["National Emblem", "National Flag", "National Song Vande Mataram", "Pledge of Allegiance"],
-    "correctAnswer": "National Song Vande Mataram"
+    "question": "Government MPs criticized the opposition for their stance on the NEET-UG paper leak issue, alleging they were doing what, instead of supporting the government's efforts to bring in a strict law?",
+    "options": ["Helping students directly", "Politicizing the issue", "Organizing educational workshops", "Funding new research"],
+    "correctAnswer": "Politicizing the issue"
   },
   {
     "id": 21,
-    "question": "Which political party specifically opposed the Prevention of Insults to National Honour (Amendment) Bill during its passage in Parliament?",
-    "options": ["BJP", "Congress", "DMK", "Aam Aadmi Party"],
-    "correctAnswer": "DMK"
+    "question": "The unexpected recovery of India's July monsoon rainfall eased fears of a significant monsoon shortfall for the nation. For states like Andhra Pradesh and Telangana, what specific benefit does a robust monsoon generally bring related to water resources?",
+    "options": ["Increased groundwater depletion", "Replenishment of reservoirs and improved agricultural irrigation", "Diversion of rivers to other countries", "Reduced need for water conservation"],
+    "correctAnswer": "Replenishment of reservoirs and improved agricultural irrigation"
   },
   {
     "id": 22,
-    "question": "What concern did the DMK raise regarding the Vande Mataram bill during the parliamentary debate?",
-    "options": ["Financial implications", "Lack of public consultation", "National division and imposition", "Insufficient legal protection"],
-    "correctAnswer": "National division and imposition"
+    "question": "Raghav Chadha stressed that which type of solutions are needed to resolve the paper leak crisis, a sentiment applicable to improving examination integrity for students in AP and Telangana?",
+    "options": ["Political solutions", "Financial solutions", "Institutional solutions", "Technological solutions only"],
+    "correctAnswer": "Institutional solutions"
   },
   {
     "id": 23,
-    "question": "The Prevention of Insults to National Honour Bill, now amended, aims to extend legal protection to what?",
-    "options": ["All national symbols", "The complete Vande Mataram song", "Only parts of Vande Mataram", "Historical monuments"],
-    "correctAnswer": "The complete Vande Mataram song"
+    "question": "What was one of the specific allegations made by Rahul Gandhi regarding police brutality at Jantar Mantar, for which he demanded a Supreme Court-monitored probe, an issue relevant to student rights across India?",
+    "options": ["Providing inadequate facilities", "Alleged police brutality", "Lack of security", "Mismanagement of funds"],
+    "correctAnswer": "Alleged police brutality"
   },
   {
     "id": 24,
-    "question": "Which political party submitted a breach of privilege notice against Rahul Gandhi in Lok Sabha?",
-    "options": ["Congress", "DMK", "BJP", "Trinamool Congress"],
-    "correctAnswer": "BJP"
+    "question": "Who among the BJP MPs countered Mallikarjun Kharge's claims about Manusmriti by referencing Ambedkar's writings on the era, during the heated debate in Rajya Sabha?",
+    "options": ["JP Nadda", "Sudhanshu Trivedi", "Amit Shah", "Nirmala Sitharaman"],
+    "correctAnswer": "Sudhanshu Trivedi"
   },
   {
     "id": 25,
-    "question": "For what primary reason was the privilege notice submitted against Rahul Gandhi in Lok Sabha?",
-    "options": ["For misusing parliamentary funds", "For demeaning Parliament and insulting citizens", "For unauthorized absence from proceedings", "For disclosing confidential information"],
-    "correctAnswer": "For demeaning Parliament and insulting citizens"
+    "question": "Senior ministers held talks with students and which activist in response to the NEET-UG concerns, reflecting the government's engagement with stakeholders across India, including those from AP and Telangana?",
+    "options": ["Anna Hazare", "Medha Patkar", "Sonam Wangchuk", "Aruna Roy"],
+    "correctAnswer": "Sonam Wangchuk"
   }
 ]

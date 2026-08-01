@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What national issue concerning students, recently highlighted by political leaders, affects educational aspirations in states like Telangana and Andhra Pradesh?",
-    "options": ["Cauvery water dispute", "CAA implementation", "NEET examination irregularities", "EPFO fraud case"],
-    "correctAnswer": "NEET examination irregularities"
+    "question": "What new authentication methods will NEET-PG aspirants face to enhance security?",
+    "options": [
+      "Fingerprint and retina scan",
+      "Aadhaar and iris authentication",
+      "Voice recognition and facial scan",
+      "Biometric and signature verification"
+    ],
+    "correctAnswer": "Aadhaar and iris authentication"
   },
   {
     "id": 2,
-    "question": "Which national law, now enforced across India including Telangana and Andhra Pradesh, aims to curb malpractices in examinations?",
-    "options": ["Anti-Extortion Law", "Anti-Defamation Law", "Anti-Paper Leak Law", "Anti-Corruption Law"],
-    "correctAnswer": "Anti-Paper Leak Law"
+    "question": "For which specific year's NEET-PG examination have major overhauls, including changes to exam centers and question patterns, been announced?",
+    "options": [
+      "NEET-PG 2024",
+      "NEET-PG 2025",
+      "NEET-PG 2026",
+      "NEET-PG 2027"
+    ],
+    "correctAnswer": "NEET-PG 2026"
   },
   {
     "id": 3,
-    "question": "Who recently demanded an apology from the Prime Minister regarding the NEET students' concerns, a matter affecting youth in states like Telangana and Andhra Pradesh?",
-    "options": ["Anil Ambani", "Samik Bhattacharya", "Rahul Gandhi", "Suvendu Adhikari"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Under the new NEET-PG 2026 changes, how many preferred states can candidates select for their examination centre locations?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": "Three"
   },
   {
     "id": 4,
-    "question": "The newly implemented anti-paper leak law primarily targets which type of malpractices, impacting students from states like Telangana and Andhra Pradesh?",
-    "options": ["Online scams", "Exam irregularities", "Political protests", "Water theft"],
-    "correctAnswer": "Exam irregularities"
+    "question": "Will the test duration for NEET-PG 2026 change compared to previous years?",
+    "options": [
+      "Yes, it will be extended",
+      "Yes, it will be reduced",
+      "No, it will remain the same",
+      "It depends on the number of questions"
+    ],
+    "correctAnswer": "No, it will remain the same"
   },
   {
     "id": 5,
-    "question": "Concerns regarding the NEET examination's integrity have sparked nationwide debate, including among student communities in which two South Indian states frequently mentioned together?",
-    "options": ["Karnataka and Kerala", "Maharashtra and Goa", "Telangana and Andhra Pradesh", "Odisha and Chhattisgarh"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "How many questions will be included in the NEET-PG 2026 examination, following the announced changes?",
+    "options": [
+      "200",
+      "180",
+      "150",
+      "240"
+    ],
+    "correctAnswer": "180"
   },
   {
     "id": 6,
-    "question": "The CBI recently booked Reliance Capital in connection with a fraud case involving which national provident fund organization, affecting employees across India, including Telangana and Andhra Pradesh?",
-    "options": ["RBI", "SEBI", "EPFO", "IRDAI"],
-    "correctAnswer": "EPFO"
+    "question": "To ensure uniform assessment, in how many shifts will the NEET-PG 2026 examination be conducted?",
+    "options": [
+      "Single shift",
+      "Two shifts",
+      "Multiple shifts",
+      "Flexible shifts based on candidate numbers"
+    ],
+    "correctAnswer": "Single shift"
   },
   {
     "id": 7,
-    "question": "Anil Ambani was recently booked by the CBI in a multi-crore fraud case. Such national-level financial investigations impact economic sentiment across all Indian states, including which two neighboring Telugu states?",
-    "options": ["Madhya Pradesh and Uttar Pradesh", "Telangana and Andhra Pradesh", "West Bengal and Assam", "Gujarat and Rajasthan"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "Which of the following is a primary reason cited for the introduction of Aadhaar and iris biometrics in NEET-PG?",
+    "options": [
+      "To reduce exam fees",
+      "To enhance security",
+      "To simplify application process",
+      "To increase exam centers"
+    ],
+    "correctAnswer": "To enhance security"
   },
   {
     "id": 8,
-    "question": "The alleged Rs 1,816 crore EPFO fraud case, investigated by the CBI, has national implications for financial security, relevant to citizens in all Indian states including ______?",
-    "options": ["Mysuru", "Ladakh", "Telangana and Andhra Pradesh", "West Bengal"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "The provision allowing NEET-PG candidates to select three preferred states for exam centres aims to improve what aspect for aspirants?",
+    "options": [
+      "Exam difficulty",
+      "Candidate convenience",
+      "Question paper quality",
+      "Scoring transparency"
+    ],
+    "correctAnswer": "Candidate convenience"
   },
   {
     "id": 9,
-    "question": "What is the primary investigative agency mentioned in the Rs 1,816 crore fraud case involving Reliance Capital, a matter of national financial governance affecting all regions like Andhra Pradesh?",
-    "options": ["ED", "NIA", "CBI", "RBI"],
-    "correctAnswer": "CBI"
+    "question": "One of the new biometric authentication methods for NEET-PG aspirants involves using which unique national identifier?",
+    "options": [
+      "Fingerprint scan",
+      "Aadhaar",
+      "Voiceprint recognition",
+      "Facial geometry scan"
+    ],
+    "correctAnswer": "Aadhaar"
   },
   {
     "id": 10,
-    "question": "The DMK recently petitioned the Supreme Court regarding the release of water from which river, a perennial point of dispute between Karnataka and Tamil Nadu, highlighting inter-state water management challenges across India?",
-    "options": ["Krishna", "Godavari", "Cauvery", "Ganga"],
-    "correctAnswer": "Cauvery"
+    "question": "Apart from Aadhaar, what other specific biometric authentication will NEET-PG aspirants undergo?",
+    "options": [
+      "Retina scan",
+      "Palm print verification",
+      "Iris authentication",
+      "DNA profiling"
+    ],
+    "correctAnswer": "Iris authentication"
   },
   {
     "id": 11,
-    "question": "The ongoing Cauvery water dispute between Karnataka and Tamil Nadu highlights the complexities of inter-state river water sharing in India. Which two states in the Telugu region also have significant inter-state river water sharing discussions for other rivers?",
-    "options": ["Karnataka and Kerala", "Maharashtra and Goa", "Telangana and Andhra Pradesh", "Odisha and Chhattisgarh"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "What combination of biometric authentication measures will strengthen both registration and exam day security for NEET-PG 2026?",
+    "options": [
+      "Fingerprint and retina scans",
+      "Voice and face recognition",
+      "Aadhaar and iris biometrics",
+      "Palm and signature verification"
+    ],
+    "correctAnswer": "Aadhaar and iris biometrics"
   },
   {
     "id": 12,
-    "question": "The Supreme Court has been approached concerning the release of water for irrigation and drinking purposes in an inter-state river dispute. Such disputes are crucial for agricultural states like Andhra Pradesh and Telangana, which depend on river waters, though this specific case involves which river?",
-    "options": ["Narmada", "Yamuna", "Brahmaputra", "Cauvery"],
-    "correctAnswer": "Cauvery"
+    "question": "What specific change has been made to the NEET-PG 2026 exam pattern concerning the total number of questions?",
+    "options": [
+      "Number of questions increased",
+      "Number of questions reduced",
+      "Number of questions remains the same",
+      "Number of questions decided on exam day"
+    ],
+    "correctAnswer": "Number of questions reduced"
   },
   {
     "id": 13,
-    "question": "PM Narendra Modi recently inaugurated the Viveka Smaraka youth centre in which city, a facility aiming to inspire youth across India, including those from Telangana and Andhra Pradesh?",
-    "options": ["Bengaluru", "Chennai", "Mysuru", "Hyderabad"],
-    "correctAnswer": "Mysuru"
+    "question": "While the number of questions for NEET-PG 2026 will be fewer, what aspect of the test will remain unchanged?",
+    "options": [
+      "Test duration",
+      "Passing marks",
+      "Syllabus coverage",
+      "Exam language options"
+    ],
+    "correctAnswer": "Test duration"
   },
   {
     "id": 14,
-    "question": "The Swami Vivekananda Cultural Youth Centre, inaugurated by PM Modi in Mysuru, aims to inspire youth towards national ideals. Which of these pairs of states represents regions whose youth are expected to benefit from such national initiatives?",
-    "options": ["West Bengal & Odisha", "Rajasthan & Gujarat", "Telangana & Andhra Pradesh", "Punjab & Haryana"],
-    "correctAnswer": "Telangana & Andhra Pradesh"
+    "question": "The decision to conduct NEET-PG 2026 in a single shift primarily aims to achieve which objective?",
+    "options": [
+      "Reduce administrative costs",
+      "Accommodate more candidates",
+      "Ensure uniform assessment",
+      "Shorten the result processing time"
+    ],
+    "correctAnswer": "Ensure uniform assessment"
   },
   {
     "id": 15,
-    "question": "What theme did Prime Minister Modi emphasize for youth at the inauguration of the Viveka Smaraka in Mysuru, a message relevant to young people throughout India, including Telangana and Andhra Pradesh?",
-    "options": ["Technological innovation", "Global business expansion", "Nation-building and service ideals", "Regional cultural promotion"],
-    "correctAnswer": "Nation-building and service ideals"
+    "question": "What options do NEET-PG 2026 candidates have regarding their examination centre locations?",
+    "options": [
+      "They are assigned randomly",
+      "They can select three preferred states",
+      "They can choose any city in India",
+      "They must take the exam in their home state"
+    ],
+    "correctAnswer": "They can select three preferred states"
   },
   {
     "id": 16,
-    "question": "India's athletes continue to secure medals at the Commonwealth Games 2026. This national achievement motivates sports enthusiasts across all states, including which two prominent states in South India?",
-    "options": ["Uttar Pradesh and Bihar", "Kerala and Tamil Nadu", "Telangana and Andhra Pradesh", "Gujarat and Maharashtra"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "According to a recent Supreme Court ruling, what allegation, if prima facie true, can disqualify a wife from receiving interim maintenance?",
+    "options": [
+      "Desertion",
+      "Cruelty",
+      "Adultery",
+      "Financial independence"
+    ],
+    "correctAnswer": "Adultery"
   },
   {
     "id": 17,
-    "question": "The Commonwealth Games 2026 is an international multi-sport event where India is participating. The performance of Indian athletes, including those from states like Telangana and Andhra Pradesh, contributes to the national medal tally. What is the year for this ongoing event?",
-    "options": ["2024", "2025", "2026", "2027"],
-    "correctAnswer": "2026"
+    "question": "Which judicial body recently ruled on the conditions under which a wife may not be entitled to interim maintenance if adultery allegations are prima facie true?",
+    "options": [
+      "High Court",
+      "District Court",
+      "Supreme Court",
+      "Family Court"
+    ],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 18,
-    "question": "The Citizenship Amendment Act (CAA) is a national law. While West Bengal's Suvendu Adhikari mentioned clearing applications, the law's provisions apply nationwide. Which group is the CAA primarily intended to grant citizenship to?",
-    "options": ["Illegal immigrants from all countries", "Persecuted minorities from neighboring countries", "Indian citizens living abroad", "Refugees from European nations"],
-    "correctAnswer": "Persecuted minorities from neighboring countries"
+    "question": "The Supreme Court's ruling explicitly concerns which specific type of financial support for a wife?",
+    "options": [
+      "Permanent alimony",
+      "Child support",
+      "Interim maintenance",
+      "Property division"
+    ],
+    "correctAnswer": "Interim maintenance"
   },
   {
     "id": 19,
-    "question": "A senior political leader recently stated that the CAA grants citizenship and is not meant to revoke it. This national legal clarity benefits citizens across India, including those in Telangana and Andhra Pradesh. In which state was this statement primarily made?",
-    "options": ["Karnataka", "Tamil Nadu", "West Bengal", "Ladakh"],
-    "correctAnswer": "West Bengal"
+    "question": "Who is the subject of the Supreme Court's ruling regarding entitlement to interim maintenance under certain conditions?",
+    "options": [
+      "Husband",
+      "Wife",
+      "Child",
+      "Parents"
+    ],
+    "correctAnswer": "Wife"
   },
   {
     "id": 20,
-    "question": "Political statements about governance and accountability, such as those made by the BJP chief in West Bengal regarding 'extortion culture,' reflect national concerns about clean politics. Such issues are relevant for good governance in all states, including which two Telugu states?",
-    "options": ["Bihar and Jharkhand", "Telangana and Andhra Pradesh", "Punjab and Haryana", "Assam and Nagaland"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "For the adultery allegation to impact interim maintenance, what status must it hold, according to the Supreme Court?",
+    "options": [
+      "Fully proven",
+      "Prima facie true",
+      "Under investigation",
+      "Merely suspected"
+    ],
+    "correctAnswer": "Prima facie true"
   },
   {
     "id": 21,
-    "question": "Shehzad Poonawalla's sarcastic jibe at PM Modi regarding 'dictatorship' reflects broader national political discourse. Such debates are common across all democratic states of India. Which political party did he recently quit?",
-    "options": ["Congress", "Aam Aadmi Party", "BJP", "Trinamool Congress"],
-    "correctAnswer": "BJP"
+    "question": "In the context of the Supreme Court's ruling on interim maintenance, what does 'prima facie true' signify regarding an adultery allegation?",
+    "options": [
+      "It has been conclusively proven beyond doubt",
+      "It appears to be true based on initial evidence",
+      "It is a baseless accusation with no evidence",
+      "It is a formal charge filed in court"
+    ],
+    "correctAnswer": "It appears to be true based on initial evidence"
   },
   {
     "id": 22,
-    "question": "Rahul Gandhi's call for an apology to students highlights concerns about educational reforms and policies at a national level, impacting academic futures in all states, including Telangana and Andhra Pradesh. Which Indian political figure was he addressing?",
-    "options": ["Home Minister", "Education Minister", "Prime Minister", "Chief Justice"],
-    "correctAnswer": "Prime Minister"
+    "question": "If an adultery allegation against a wife is established as prima facie true by the court, what is the consequence regarding her entitlement to interim maintenance?",
+    "options": [
+      "She is automatically entitled",
+      "She is not entitled",
+      "The amount is reduced",
+      "It is left to the discretion of the husband"
+    ],
+    "correctAnswer": "She is not entitled"
   },
   {
     "id": 23,
-    "question": "The filing of a Zero FIR in Ladakh against an influencer over an alleged anti-Amit Shah video pertains to freedom of speech laws applicable across all Indian states, including Telangana and Andhra Pradesh. Which police force initiated this action?",
-    "options": ["Delhi Police", "Ladakh Police", "Mumbai Police", "Kolkata Police"],
-    "correctAnswer": "Ladakh Police"
+    "question": "This Supreme Court ruling, concerning interim maintenance and adultery, falls primarily under which area of law?",
+    "options": [
+      "Criminal Law",
+      "Constitutional Law",
+      "Matrimonial Law",
+      "Property Law"
+    ],
+    "correctAnswer": "Matrimonial Law"
   },
   {
     "id": 24,
-    "question": "The concept of 'days of threat culture over,' as assured by the Bengal CM to an author, relates to general law and order and freedom of expression, fundamental rights for citizens in all Indian states including Andhra Pradesh. Who was the Bangladeshi author assured security?",
-    "options": ["Taslima Nasreen", "Jhumpa Lahiri", "Arundhati Roy", "Kiran Desai"],
-    "correctAnswer": "Taslima Nasreen"
+    "question": "The Supreme Court's recent decision specifies that an allegation of which specific act, if proven prima facie, impacts a wife's right to interim maintenance?",
+    "options": [
+      "Domestic violence",
+      "Adultery",
+      "Financial misconduct",
+      "Child neglect"
+    ],
+    "correctAnswer": "Adultery"
   },
   {
     "id": 25,
-    "question": "National political party leaders often caution their workers against arrogance and complacency, a message relevant for disciplined political functioning across all states. For instance, the Bengal BJP chief recently used what term to warn party workers, a sentiment applicable to regional politics in Telangana and Andhra Pradesh?",
-    "options": ["'Rocket Science'", "'Egg-therapy'", "'Brainstorming'", "'Ground reality'"],
-    "correctAnswer": "'Egg-therapy'"
+    "question": "The Supreme Court's ruling on a wife's entitlement to interim maintenance under certain conditions is applicable across which geographical scope?",
+    "options": [
+      "Only in metropolitan cities",
+      "Only in the state where the case originated",
+      "Across all Union Territories",
+      "Nationwide across India"
+    ],
+    "correctAnswer": "Nationwide across India"
   }
 ]

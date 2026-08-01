@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What specific type of infrastructure development did the Union Cabinet recently ease norms for to attract private investment?",
-    "options": ["Railway networks", "Captive waterfronts", "Highway construction", "Airport expansions"],
-    "correctAnswer": "Captive waterfronts"
+    "question": "What percentage of voters were deleted from the draft electoral rolls in Andhra Pradesh, as per recent reports?",
+    "options": ["16.4%", "10.8%", "8.2%", "5.5%"],
+    "correctAnswer": "10.8%"
   },
   {
     "id": 2,
-    "question": "Which central government body approved the revised shipping ministry policy for captive waterfronts?",
-    "options": ["Ministry of Finance", "Ministry of External Affairs", "Union Cabinet", "NITI Aayog"],
-    "correctAnswer": "Union Cabinet"
-  },
-  {
-    "id": 3,
-    "question": "What is a key objective of easing captive waterfront norms, as per the recent Cabinet approval?",
-    "options": ["Increase government revenue", "Reduce cargo traffic", "Spur private investment", "Centralize port operations"],
-    "correctAnswer": "Spur private investment"
-  },
-  {
-    "id": 4,
-    "question": "Under the new policy for captive waterfronts, what benefit is now extended to existing captive users at major ports?",
-    "options": ["Exemption from environmental clearances", "Right to develop additional facilities", "Exclusive rights to cargo handling", "Reduced customs duties"],
-    "correctAnswer": "Right to develop additional facilities"
-  },
-  {
-    "id": 5,
-    "question": "How can government entities obtain waterfronts under the revised policy, as opposed to private players?",
-    "options": ["Through competitive bidding only", "On a nomination basis without competitive bidding", "Via international tenders", "By state government approval only"],
-    "correctAnswer": "On a nomination basis without competitive bidding"
-  },
-  {
-    "id": 6,
-    "question": "The revised shipping ministry policy aims to strengthen infrastructure development at which specific type of ports?",
-    "options": ["Minor ports", "Fishing ports", "Major ports", "Inland waterways ports"],
-    "correctAnswer": "Major ports"
-  },
-  {
-    "id": 7,
-    "question": "Which aspect of port infrastructure concession periods was addressed by the new captive waterfront policy?",
-    "options": ["Shortening", "Cancellation", "Extension", "Review only"],
-    "correctAnswer": "Extension"
-  },
-  {
-    "id": 8,
-    "question": "The easing of captive waterfront norms is intended to provide greater certainty for private investments in port infrastructure. What kind of certainty is specifically mentioned?",
-    "options": ["Financial certainty", "Operational certainty", "Legal certainty", "Political certainty"],
-    "correctAnswer": "Operational certainty"
-  },
-  {
-    "id": 9,
-    "question": "Which Indian state, with its significant coastline and ports like Visakhapatnam, stands to directly benefit from the Union Cabinet's decision to ease captive waterfront norms?",
-    "options": ["Madhya Pradesh", "Telangana", "Andhra Pradesh", "Punjab"],
+    "question": "Which Indian state, along with Haryana, recently saw significant deletions (10.8%) in its draft voter rolls?",
+    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
     "correctAnswer": "Andhra Pradesh"
   },
   {
+    "id": 3,
+    "question": "The 10.8% deletion rate in draft voter rolls, as reported recently, was specifically observed in which state?",
+    "options": ["Haryana", "Uttar Pradesh", "Andhra Pradesh", "Maharashtra"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": 4,
+    "question": "Beyond deaths and permanent shifts, what is another common reason cited for deletions in electoral rolls, as implied by the news context?",
+    "options": ["Age limit expiration", "Multiple registrations", "Lack of voter ID card", "Failure to update address"],
+    "correctAnswer": "Multiple registrations"
+  },
+  {
+    "id": 5,
+    "question": "What mechanism allows genuine voters to be added to electoral rolls even after initial deletions in the draft list?",
+    "options": ["Re-election campaign", "Public referendum", "Claims period", "Judicial review"],
+    "correctAnswer": "Claims period"
+  },
+  {
+    "id": 6,
+    "question": "Which central government scheme, providing financial support to farmers, was recently extended?",
+    "options": ["PM-Fasal Bima Yojana", "PM-Kisan Yojana", "MGNREGA", "Pradhan Mantri Jan Dhan Yojana"],
+    "correctAnswer": "PM-Kisan Yojana"
+  },
+  {
+    "id": 7,
+    "question": "The PM-Kisan Yojana primarily provides financial support to which group of beneficiaries?",
+    "options": ["Urban poor", "Small and marginal farmers", "Industrial workers", "Government employees"],
+    "correctAnswer": "Small and marginal farmers"
+  },
+  {
+    "id": 8,
+    "question": "The recent extension of PM-Kisan Yojana will directly benefit farmers in states like Andhra Pradesh and Telangana by providing what?",
+    "options": ["Crop insurance subsidies", "Direct income support", "Free irrigation facilities", "Subsidized farm machinery"],
+    "correctAnswer": "Direct income support"
+  },
+  {
+    "id": 9,
+    "question": "PM-Kisan Yojana is aimed at supporting which sector of the economy across India, including Andhra Pradesh and Telangana?",
+    "options": ["Manufacturing", "Services", "Agriculture", "Information Technology"],
+    "correctAnswer": "Agriculture"
+  },
+  {
     "id": 10,
-    "question": "The revised policy for captive waterfronts seeks to accelerate which specific type of investment in port infrastructure?",
-    "options": ["Public sector investment", "Foreign direct investment", "Private investment", "Government grants"],
-    "correctAnswer": "Private investment"
+    "question": "What is a key characteristic of the PM-Kisan Yojana, relevant to its recent extension and its impact on states like Andhra Pradesh?",
+    "options": ["Loan waiver program", "Direct Benefit Transfer (DBT)", "Crop procurement scheme", "Skill development initiative"],
+    "correctAnswer": "Direct Benefit Transfer (DBT)"
   },
   {
     "id": 11,
-    "question": "The Supreme Court recently sought the Centre's viewpoint on the legality of which practice among Muslims?",
-    "options": ["Triple Talaq", "Polygamy", "Halala", "Nikah Muta"],
-    "correctAnswer": "Polygamy"
+    "question": "According to the IMD, what is the forecast for monsoon rainfall during August and September for India?",
+    "options": ["Above normal", "Normal", "Below normal", "Significantly above normal"],
+    "correctAnswer": "Below normal"
   },
   {
     "id": 12,
-    "question": "Which legal body in India initiated the discussion by seeking the Centre's viewpoint on the potential ban of polygamy among Muslims?",
-    "options": ["High Courts", "Parliament", "Supreme Court", "Law Commission of India"],
-    "correctAnswer": "Supreme Court"
+    "question": "What climatic phenomenon is cited as a risk influencing the 'below normal' monsoon forecast for India in August-September?",
+    "options": ["La Niña", "El Niño", "Indian Ocean Dipole (IOD)", "Arctic Oscillation"],
+    "correctAnswer": "El Niño"
   },
   {
     "id": 13,
-    "question": "The Supreme Court's query on polygamy among Muslims primarily concerns which broad area of law?",
-    "options": ["Criminal Law", "Personal Laws", "Corporate Law", "Environmental Law"],
-    "correctAnswer": "Personal Laws"
+    "question": "How did India's monsoon rainfall fare during July, according to the IMD's recent assessment?",
+    "options": ["Significantly below normal", "Below normal", "Normal", "Above normal"],
+    "correctAnswer": "Normal"
   },
   {
     "id": 14,
-    "question": "The Supreme Court's action of seeking the Centre's viewpoint on polygamy among Muslims signifies a deliberation that could potentially impact what aspect of religious practices in states like Telangana and Andhra Pradesh?",
-    "options": ["Temple administration", "Mosque construction", "Marriage customs", "Festive celebrations"],
-    "correctAnswer": "Marriage customs"
+    "question": "Which part of India experienced plentiful showers in July, contributing to a reduced overall monsoon deficit?",
+    "options": ["Northeast India", "Southern Peninsular India", "Central India", "Northwest India"],
+    "correctAnswer": "Central India"
   },
   {
     "id": 15,
-    "question": "What specific entity was asked by the Supreme Court to provide its perspective on the ban of polygamy among Muslims?",
-    "options": ["All India Muslim Personal Law Board", "State Governments", "The Centre (Union Government)", "Religious Scholars"],
-    "correctAnswer": "The Centre (Union Government)"
+    "question": "A 'below normal' monsoon forecast is significant for states like Andhra Pradesh and Telangana primarily due to its impact on what?",
+    "options": ["Industrial output", "Tourism revenue", "Agriculture and water resources", "Urban development projects"],
+    "correctAnswer": "Agriculture and water resources"
   },
   {
     "id": 16,
-    "question": "The Supreme Court recently questioned whether torching a police station automatically constitutes an offense under which specific act?",
-    "options": ["IPC (Indian Penal Code)", "UAPA (Unlawful Activities Prevention Act)", "CrPC (Code of Criminal Procedure)", "NDPS Act (Narcotic Drugs and Psychotropic Substances Act)"],
-    "correctAnswer": "UAPA (Unlawful Activities Prevention Act)"
+    "question": "The Indian government has announced a significant financial push of Rs 5,000 crore for which type of renewable energy infrastructure?",
+    "options": ["Wind power farms", "Hydroelectric projects", "Floating solar plants", "Geothermal energy stations"],
+    "correctAnswer": "Floating solar plants"
   },
   {
     "id": 17,
-    "question": "The Supreme Court's recent query regarding the UAPA pertains to the appropriate definition and classification of what type of activity?",
-    "options": ["Financial fraud", "Traffic violations", "Unlawful activity/terrorism", "Environmental pollution"],
-    "correctAnswer": "Unlawful activity/terrorism"
+    "question": "What is the approximate financial push announced for floating solar plants in India?",
+    "options": ["Rs 1,000 crore", "Rs 2,500 crore", "Rs 5,000 crore", "Rs 10,000 crore"],
+    "correctAnswer": "Rs 5,000 crore"
   },
   {
     "id": 18,
-    "question": "What does UAPA stand for, the act mentioned in the Supreme Court's discussion regarding certain offenses?",
-    "options": ["Universal Anti-Poverty Act", "Unlawful Activities Protection Agency", "Unlawful Activities Prevention Act", "United Anti-Terrorism Policy Act"],
-    "correctAnswer": "Unlawful Activities Prevention Act"
+    "question": "Floating solar plants are recognized as an innovative solution in which sector for Indian states, including Andhra Pradesh and Telangana?",
+    "options": ["Water management", "Logistics", "Renewable energy", "Digital infrastructure"],
+    "correctAnswer": "Renewable energy"
   },
   {
     "id": 19,
-    "question": "A Supreme Court deliberation questioning the classification of an act as a UAPA offence highlights the importance of what in legal proceedings across India, including Telangana and Andhra Pradesh?",
-    "options": ["Speed of trial", "Media coverage", "Proper legal classification of offenses", "Witness protection"],
-    "correctAnswer": "Proper legal classification of offenses"
+    "question": "Which type of water body is typically utilized for setting up floating solar plants?",
+    "options": ["Rivers", "Oceans", "Reservoirs and lakes", "Groundwater aquifers"],
+    "correctAnswer": "Reservoirs and lakes"
   },
   {
     "id": 20,
-    "question": "The Supreme Court's observations on UAPA can potentially influence legal interpretations in which types of cases across various states?",
-    "options": ["Civil disputes", "Taxation matters", "Terrorism-related cases", "Property disputes"],
-    "correctAnswer": "Terrorism-related cases"
+    "question": "The Rs 5,000 crore push for floating solar plants reflects India's commitment to what broader goal?",
+    "options": ["Space exploration", "Military modernization", "Green energy transition", "Smart city development"],
+    "correctAnswer": "Green energy transition"
   },
   {
     "id": 21,
-    "question": "The Supreme Court recently awarded compensation to the kin of a man killed by what animal?",
-    "options": ["Wild elephant", "Leopard", "Stray bull", "Rabid dog"],
-    "correctAnswer": "Stray bull"
+    "question": "Which important amendment bill was recently passed by the Lok Sabha without debate amidst opposition protests?",
+    "options": ["Land Acquisition Bill", "Citizenship Amendment Bill", "Registration of Births and Deaths (Amendment) Bill", "Forest Rights Bill"],
+    "correctAnswer": "Registration of Births and Deaths (Amendment) Bill"
   },
   {
     "id": 22,
-    "question": "What amount of compensation was awarded by the Supreme Court to the family of the man killed by a stray bull?",
-    "options": ["Rs 5 Lakh", "Rs 10 Lakh", "Rs 15 Lakh", "Rs 20 Lakh"],
-    "correctAnswer": "Rs 15 Lakh"
+    "question": "What is a primary objective of the Registration of Births and Deaths (Amendment) Bill, 2026?",
+    "options": ["To simplify marriage registration", "To make delayed registrations of births and deaths more stringent", "To introduce online voter registration", "To mandate biometric identity for newborns"],
+    "correctAnswer": "To make delayed registrations of births and deaths more stringent"
   },
   {
     "id": 23,
-    "question": "The Supreme Court's decision to award compensation for a death caused by a stray bull emphasizes the responsibility of which entities in managing public safety issues across India?",
-    "options": ["Religious organizations", "Animal welfare NGOs", "Municipal/local authorities", "Private landowners"],
-    "correctAnswer": "Municipal/local authorities"
+    "question": "In which house of Parliament did opposition members disrupt proceedings, preventing debate on the Births and Deaths Bill?",
+    "options": ["Lok Sabha", "Rajya Sabha", "Both Lok Sabha and Rajya Sabha", "State Legislative Assemblies"],
+    "correctAnswer": "Rajya Sabha"
   },
   {
     "id": 24,
-    "question": "Such a ruling by the Supreme Court regarding compensation for death by stray animals can set a significant legal precedent for similar cases in which Indian regions, including those grappling with this issue?",
-    "options": ["Only the Union Territories", "All Indian states", "Only metropolitan cities", "Only rural areas"],
-    "correctAnswer": "All Indian states"
+    "question": "The Registration of Births and Deaths (Amendment) Bill, 2026, primarily aims to make which process more stringent?",
+    "options": ["Issuance of passports", "Registration of property", "Delayed registration of births and deaths", "Obtaining ration cards"],
+    "correctAnswer": "Delayed registration of births and deaths"
   },
   {
     "id": 25,
-    "question": "What legal body made the decision to provide Rs 15 lakh compensation for a fatality caused by a stray bull?",
-    "options": ["District Court", "High Court", "Supreme Court", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "The passage of the Births and Deaths Bill will impact administrative procedures related to demographic data across all Indian states, including Andhra Pradesh and Telangana. What is a key aspect of this impact?",
+    "options": ["Reducing the number of districts", "Improving the accuracy and timeliness of vital statistics", "Centralizing all state government records", "Automating parliamentary debates"],
+    "correctAnswer": "Improving the accuracy and timeliness of vital statistics"
   }
 ]

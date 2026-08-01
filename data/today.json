@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who recently received the Lokmanya Tilak National Award for national security contributions?",
-    "options": ["Amit Shah", "Ajit Doval", "Narendra Modi", "Rajnath Singh"],
-    "correctAnswer": "Ajit Doval"
+    "question": "What national issue concerning students, recently highlighted by political leaders, affects educational aspirations in states like Telangana and Andhra Pradesh?",
+    "options": ["Cauvery water dispute", "CAA implementation", "NEET examination irregularities", "EPFO fraud case"],
+    "correctAnswer": "NEET examination irregularities"
   },
   {
     "id": 2,
-    "question": "Which Union Minister praised NSA Ajit Doval's role in India's national security decisions?",
-    "options": ["Rajnath Singh", "S. Jaishankar", "Amit Shah", "Nirmala Sitharaman"],
-    "correctAnswer": "Amit Shah"
+    "question": "Which national law, now enforced across India including Telangana and Andhra Pradesh, aims to curb malpractices in examinations?",
+    "options": ["Anti-Extortion Law", "Anti-Defamation Law", "Anti-Paper Leak Law", "Anti-Corruption Law"],
+    "correctAnswer": "Anti-Paper Leak Law"
   },
   {
     "id": 3,
-    "question": "The Lokmanya Tilak National Award is conferred annually in memory of which freedom fighter?",
-    "options": ["Mahatma Gandhi", "Sardar Vallabhbhai Patel", "Bhagat Singh", "Lokmanya Bal Gangadhar Tilak"],
-    "correctAnswer": "Lokmanya Bal Gangadhar Tilak"
-  },
-  {
-    "id": 4,
-    "question": "What key area of policy did Amit Shah emphasize as a major contribution of NSA Ajit Doval since 2014?",
-    "options": ["Economic reforms", "Social welfare programs", "National security and foreign policy", "Space exploration"],
-    "correctAnswer": "National security and foreign policy"
-  },
-  {
-    "id": 5,
-    "question": "NSA Ajit Doval's decades-long career prior to becoming NSA was primarily in which field?",
-    "options": ["Education", "Diplomacy", "Intelligence", "Banking"],
-    "correctAnswer": "Intelligence"
-  },
-  {
-    "id": 6,
-    "question": "The Lokmanya Tilak National Award ceremony mentioned in the news celebrates whose death anniversary?",
-    "options": ["Subhas Chandra Bose", "Lokmanya Bal Gangadhar Tilak", "Jawaharlal Nehru", "Dr. B.R. Ambedkar"],
-    "correctAnswer": "Lokmanya Bal Gangadhar Tilak"
-  },
-  {
-    "id": 7,
-    "question": "Which dignitary recently granted assent to the anti-paper leak amendment Bill?",
-    "options": ["Vice President Jagdeep Dhankhar", "Prime Minister Narendra Modi", "Chief Justice D.Y. Chandrachud", "President Droupadi Murmu"],
-    "correctAnswer": "President Droupadi Murmu"
-  },
-  {
-    "id": 8,
-    "question": "What is the main purpose of the recently assented anti-paper leak amendment Bill?",
-    "options": ["To promote digital literacy", "To curb malpractices in public examinations", "To regulate social media", "To improve infrastructure projects"],
-    "correctAnswer": "To curb malpractices in public examinations"
-  },
-  {
-    "id": 9,
-    "question": "Upon receiving presidential assent, a Bill officially becomes what in India?",
-    "options": ["A resolution", "A directive", "An ordinance", "An Act"],
-    "correctAnswer": "An Act"
-  },
-  {
-    "id": 10,
-    "question": "The anti-paper leak Bill aims to prevent unfair means in which specific sector?",
-    "options": ["Sports competitions", "Public examinations/recruitments", "Business tenders", "Agricultural auctions"],
-    "correctAnswer": "Public examinations/recruitments"
-  },
-  {
-    "id": 11,
-    "question": "What does the term 'E20' refer to in the context of recent protests in India?",
-    "options": ["An electric vehicle model", "Fuel containing 20% ethanol blend", "A new highway project", "A vaccination program"],
-    "correctAnswer": "Fuel containing 20% ethanol blend"
-  },
-  {
-    "id": 12,
-    "question": "Which political leader announced a protest march to the Prime Minister's residence regarding the E20 policy?",
-    "options": ["Mallikarjun Kharge", "Arvind Kejriwal", "Mamata Banerjee", "M.K. Stalin"],
-    "correctAnswer": "Arvind Kejriwal"
-  },
-  {
-    "id": 13,
-    "question": "What is the primary environmental concern often associated with the production and use of ethanol blends like E20?",
-    "options": ["Increased air pollution from vehicles", "Impact on agriculture/food security due to diversion of crops", "Depletion of water resources", "Damage to road infrastructure"],
-    "correctAnswer": "Impact on agriculture/food security due to diversion of crops"
-  },
-  {
-    "id": 14,
-    "question": "Which activist claimed house arrest over plans to protest the E20 policy?",
-    "options": ["Yogendra Yadav", "Medha Patkar", "Tehseen Poonawalla", "Anna Hazare"],
-    "correctAnswer": "Tehseen Poonawalla"
-  },
-  {
-    "id": 15,
-    "question": "In relation to the Ram Temple, what type of allegations led to a protest skit in Parliament and subsequent police complaints?",
-    "options": ["Construction delays", "Design flaws", "Financial irregularities/donation embezzlement", "Land disputes"],
-    "correctAnswer": "Financial irregularities/donation embezzlement"
-  },
-  {
-    "id": 16,
-    "question": "Which prominent opposition leader was named alongside Pappu Yadav in police complaints regarding the Ram Temple skit?",
-    "options": ["Priyanka Gandhi Vadra", "Akhilesh Yadav", "Rahul Gandhi", "Tejashwi Yadav"],
+    "question": "Who recently demanded an apology from the Prime Minister regarding the NEET students' concerns, a matter affecting youth in states like Telangana and Andhra Pradesh?",
+    "options": ["Anil Ambani", "Samik Bhattacharya", "Rahul Gandhi", "Suvendu Adhikari"],
     "correctAnswer": "Rahul Gandhi"
   },
   {
+    "id": 4,
+    "question": "The newly implemented anti-paper leak law primarily targets which type of malpractices, impacting students from states like Telangana and Andhra Pradesh?",
+    "options": ["Online scams", "Exam irregularities", "Political protests", "Water theft"],
+    "correctAnswer": "Exam irregularities"
+  },
+  {
+    "id": 5,
+    "question": "Concerns regarding the NEET examination's integrity have sparked nationwide debate, including among student communities in which two South Indian states frequently mentioned together?",
+    "options": ["Karnataka and Kerala", "Maharashtra and Goa", "Telangana and Andhra Pradesh", "Odisha and Chhattisgarh"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
+  },
+  {
+    "id": 6,
+    "question": "The CBI recently booked Reliance Capital in connection with a fraud case involving which national provident fund organization, affecting employees across India, including Telangana and Andhra Pradesh?",
+    "options": ["RBI", "SEBI", "EPFO", "IRDAI"],
+    "correctAnswer": "EPFO"
+  },
+  {
+    "id": 7,
+    "question": "Anil Ambani was recently booked by the CBI in a multi-crore fraud case. Such national-level financial investigations impact economic sentiment across all Indian states, including which two neighboring Telugu states?",
+    "options": ["Madhya Pradesh and Uttar Pradesh", "Telangana and Andhra Pradesh", "West Bengal and Assam", "Gujarat and Rajasthan"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
+  },
+  {
+    "id": 8,
+    "question": "The alleged Rs 1,816 crore EPFO fraud case, investigated by the CBI, has national implications for financial security, relevant to citizens in all Indian states including ______?",
+    "options": ["Mysuru", "Ladakh", "Telangana and Andhra Pradesh", "West Bengal"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
+  },
+  {
+    "id": 9,
+    "question": "What is the primary investigative agency mentioned in the Rs 1,816 crore fraud case involving Reliance Capital, a matter of national financial governance affecting all regions like Andhra Pradesh?",
+    "options": ["ED", "NIA", "CBI", "RBI"],
+    "correctAnswer": "CBI"
+  },
+  {
+    "id": 10,
+    "question": "The DMK recently petitioned the Supreme Court regarding the release of water from which river, a perennial point of dispute between Karnataka and Tamil Nadu, highlighting inter-state water management challenges across India?",
+    "options": ["Krishna", "Godavari", "Cauvery", "Ganga"],
+    "correctAnswer": "Cauvery"
+  },
+  {
+    "id": 11,
+    "question": "The ongoing Cauvery water dispute between Karnataka and Tamil Nadu highlights the complexities of inter-state river water sharing in India. Which two states in the Telugu region also have significant inter-state river water sharing discussions for other rivers?",
+    "options": ["Karnataka and Kerala", "Maharashtra and Goa", "Telangana and Andhra Pradesh", "Odisha and Chhattisgarh"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
+  },
+  {
+    "id": 12,
+    "question": "The Supreme Court has been approached concerning the release of water for irrigation and drinking purposes in an inter-state river dispute. Such disputes are crucial for agricultural states like Andhra Pradesh and Telangana, which depend on river waters, though this specific case involves which river?",
+    "options": ["Narmada", "Yamuna", "Brahmaputra", "Cauvery"],
+    "correctAnswer": "Cauvery"
+  },
+  {
+    "id": 13,
+    "question": "PM Narendra Modi recently inaugurated the Viveka Smaraka youth centre in which city, a facility aiming to inspire youth across India, including those from Telangana and Andhra Pradesh?",
+    "options": ["Bengaluru", "Chennai", "Mysuru", "Hyderabad"],
+    "correctAnswer": "Mysuru"
+  },
+  {
+    "id": 14,
+    "question": "The Swami Vivekananda Cultural Youth Centre, inaugurated by PM Modi in Mysuru, aims to inspire youth towards national ideals. Which of these pairs of states represents regions whose youth are expected to benefit from such national initiatives?",
+    "options": ["West Bengal & Odisha", "Rajasthan & Gujarat", "Telangana & Andhra Pradesh", "Punjab & Haryana"],
+    "correctAnswer": "Telangana & Andhra Pradesh"
+  },
+  {
+    "id": 15,
+    "question": "What theme did Prime Minister Modi emphasize for youth at the inauguration of the Viveka Smaraka in Mysuru, a message relevant to young people throughout India, including Telangana and Andhra Pradesh?",
+    "options": ["Technological innovation", "Global business expansion", "Nation-building and service ideals", "Regional cultural promotion"],
+    "correctAnswer": "Nation-building and service ideals"
+  },
+  {
+    "id": 16,
+    "question": "India's athletes continue to secure medals at the Commonwealth Games 2026. This national achievement motivates sports enthusiasts across all states, including which two prominent states in South India?",
+    "options": ["Uttar Pradesh and Bihar", "Kerala and Tamil Nadu", "Telangana and Andhra Pradesh", "Gujarat and Maharashtra"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
+  },
+  {
     "id": 17,
-    "question": "The complaints against leaders over the Ram Temple skit were filed alleging what specific harm?",
-    "options": ["Defamation", "Disruption of parliamentary proceedings", "Hurting religious sentiments", "Violation of election code"],
-    "correctAnswer": "Hurting religious sentiments"
+    "question": "The Commonwealth Games 2026 is an international multi-sport event where India is participating. The performance of Indian athletes, including those from states like Telangana and Andhra Pradesh, contributes to the national medal tally. What is the year for this ongoing event?",
+    "options": ["2024", "2025", "2026", "2027"],
+    "correctAnswer": "2026"
   },
   {
     "id": 18,
-    "question": "The symbolic protest over Ram Temple allegations was staged by opposition leaders in which national institution?",
-    "options": ["Supreme Court", "Rashtrapati Bhavan", "Parliament", "Red Fort"],
-    "correctAnswer": "Parliament"
+    "question": "The Citizenship Amendment Act (CAA) is a national law. While West Bengal's Suvendu Adhikari mentioned clearing applications, the law's provisions apply nationwide. Which group is the CAA primarily intended to grant citizenship to?",
+    "options": ["Illegal immigrants from all countries", "Persecuted minorities from neighboring countries", "Indian citizens living abroad", "Refugees from European nations"],
+    "correctAnswer": "Persecuted minorities from neighboring countries"
   },
   {
     "id": 19,
-    "question": "The recent terror attack in Kulgam, where victims were identified by caste/community, involved labourers from which Indian state?",
-    "options": ["Uttar Pradesh", "Bihar", "Chhattisgarh", "Odisha"],
-    "correctAnswer": "Chhattisgarh"
+    "question": "A senior political leader recently stated that the CAA grants citizenship and is not meant to revoke it. This national legal clarity benefits citizens across India, including those in Telangana and Andhra Pradesh. In which state was this statement primarily made?",
+    "options": ["Karnataka", "Tamil Nadu", "West Bengal", "Ladakh"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 20,
-    "question": "Which political leader linked the timing of the Kulgam terror attack to demands for statehood restoration in the region?",
-    "options": ["Omar Abdullah", "Mehbooba Mufti", "Ghulam Nabi Azad", "Farooq Abdullah"],
-    "correctAnswer": "Farooq Abdullah"
+    "question": "Political statements about governance and accountability, such as those made by the BJP chief in West Bengal regarding 'extortion culture,' reflect national concerns about clean politics. Such issues are relevant for good governance in all states, including which two Telugu states?",
+    "options": ["Bihar and Jharkhand", "Telangana and Andhra Pradesh", "Punjab and Haryana", "Assam and Nagaland"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 21,
-    "question": "What was the alleged discriminatory criterion used by terrorists to target victims in the Kulgam attack?",
-    "options": ["Age and gender", "Place of origin", "Caste and community", "Political affiliation"],
-    "correctAnswer": "Caste and community"
+    "question": "Shehzad Poonawalla's sarcastic jibe at PM Modi regarding 'dictatorship' reflects broader national political discourse. Such debates are common across all democratic states of India. Which political party did he recently quit?",
+    "options": ["Congress", "Aam Aadmi Party", "BJP", "Trinamool Congress"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 22,
-    "question": "In which district of Jammu and Kashmir did the recent terror attack on migrant labourers occur?",
-    "options": ["Anantnag", "Pulwama", "Shopian", "Kulgam"],
-    "correctAnswer": "Kulgam"
+    "question": "Rahul Gandhi's call for an apology to students highlights concerns about educational reforms and policies at a national level, impacting academic futures in all states, including Telangana and Andhra Pradesh. Which Indian political figure was he addressing?",
+    "options": ["Home Minister", "Education Minister", "Prime Minister", "Chief Justice"],
+    "correctAnswer": "Prime Minister"
   },
   {
     "id": 23,
-    "question": "Which leader called for a high-level investigation and compensation for victims of the Kulgam terror attack, citing security lapse?",
-    "options": ["Farooq Abdullah", "Mehbooba Mufti", "Ghulam Nabi Azad", "Jitendra Singh"],
-    "correctAnswer": "Mehbooba Mufti"
+    "question": "The filing of a Zero FIR in Ladakh against an influencer over an alleged anti-Amit Shah video pertains to freedom of speech laws applicable across all Indian states, including Telangana and Andhra Pradesh. Which police force initiated this action?",
+    "options": ["Delhi Police", "Ladakh Police", "Mumbai Police", "Kolkata Police"],
+    "correctAnswer": "Ladakh Police"
   },
   {
     "id": 24,
-    "question": "The Lokmanya Tilak National Award recognizes outstanding contributions in fields that advance the progress and development of which nation?",
-    "options": ["India", "Nepal", "Sri Lanka", "Bangladesh"],
-    "correctAnswer": "India"
+    "question": "The concept of 'days of threat culture over,' as assured by the Bengal CM to an author, relates to general law and order and freedom of expression, fundamental rights for citizens in all Indian states including Andhra Pradesh. Who was the Bangladeshi author assured security?",
+    "options": ["Taslima Nasreen", "Jhumpa Lahiri", "Arundhati Roy", "Kiran Desai"],
+    "correctAnswer": "Taslima Nasreen"
   },
   {
     "id": 25,
-    "question": "The presidential assent to a Bill is a crucial step in the Indian legislative process, signifying its approval by which branch of government?",
-    "options": ["Legislative", "Judiciary", "Executive", "Bureaucracy"],
-    "correctAnswer": "Executive"
+    "question": "National political party leaders often caution their workers against arrogance and complacency, a message relevant for disciplined political functioning across all states. For instance, the Bengal BJP chief recently used what term to warn party workers, a sentiment applicable to regional politics in Telangana and Andhra Pradesh?",
+    "options": ["'Rocket Science'", "'Egg-therapy'", "'Brainstorming'", "'Ground reality'"],
+    "correctAnswer": "'Egg-therapy'"
   }
 ]

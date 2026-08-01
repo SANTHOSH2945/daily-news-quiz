@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What percentage of voters were deleted from the draft electoral rolls in Andhra Pradesh, as per recent reports?",
-    "options": ["16.4%", "10.8%", "8.2%", "5.5%"],
-    "correctAnswer": "10.8%"
+    "question": "Which new airport project was recently inaugurated by Prime Minister Modi in Andhra Pradesh?",
+    "options": ["Gannavaram Airport", "Kadapa Airport", "Bhogapuram Airport", "Rajahmundry Airport"],
+    "correctAnswer": "Bhogapuram Airport"
   },
   {
     "id": 2,
-    "question": "Which Indian state, along with Haryana, recently saw significant deletions (10.8%) in its draft voter rolls?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What is the estimated cost of the Bhogapuram Airport project recently inaugurated in Andhra Pradesh?",
+    "options": ["Rs 1,000 crore", "Rs 5,000 crore", "Rs 10,000 crore", "Rs 2,500 crore"],
+    "correctAnswer": "Rs 5,000 crore"
   },
   {
     "id": 3,
-    "question": "The 10.8% deletion rate in draft voter rolls, as reported recently, was specifically observed in which state?",
-    "options": ["Haryana", "Uttar Pradesh", "Andhra Pradesh", "Maharashtra"],
+    "question": "In which Indian state was the Bhogapuram Airport, a major infrastructure project, recently inaugurated?",
+    "options": ["Telangana", "Andhra Pradesh", "Karnataka", "Tamil Nadu"],
     "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 4,
-    "question": "Beyond deaths and permanent shifts, what is another common reason cited for deletions in electoral rolls, as implied by the news context?",
-    "options": ["Age limit expiration", "Multiple registrations", "Lack of voter ID card", "Failure to update address"],
-    "correctAnswer": "Multiple registrations"
+    "question": "Who inaugurated the new Rs 5,000 crore Bhogapuram Airport in Andhra Pradesh?",
+    "options": ["Chief Minister of Andhra Pradesh", "Union Minister for Civil Aviation", "PM Modi", "President of India"],
+    "correctAnswer": "PM Modi"
   },
   {
     "id": 5,
-    "question": "What mechanism allows genuine voters to be added to electoral rolls even after initial deletions in the draft list?",
-    "options": ["Re-election campaign", "Public referendum", "Claims period", "Judicial review"],
-    "correctAnswer": "Claims period"
+    "question": "The inauguration of Bhogapuram Airport signifies a major infrastructural development in which South Indian state?",
+    "options": ["Kerala", "Andhra Pradesh", "Odisha", "Chhattisgarh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 6,
-    "question": "Which central government scheme, providing financial support to farmers, was recently extended?",
-    "options": ["PM-Fasal Bima Yojana", "PM-Kisan Yojana", "MGNREGA", "Pradhan Mantri Jan Dhan Yojana"],
-    "correctAnswer": "PM-Kisan Yojana"
+    "question": "The Rs 5,000 crore Bhogapuram project, recently inaugurated in Andhra Pradesh, is primarily what type of infrastructure?",
+    "options": ["Seaport", "Railway line", "Highway", "Airport"],
+    "correctAnswer": "Airport"
   },
   {
     "id": 7,
-    "question": "The PM-Kisan Yojana primarily provides financial support to which group of beneficiaries?",
-    "options": ["Urban poor", "Small and marginal farmers", "Industrial workers", "Government employees"],
-    "correctAnswer": "Small and marginal farmers"
+    "question": "Which significant national leader participated in the inauguration ceremony of the Bhogapuram Airport in Andhra Pradesh?",
+    "options": ["Amit Shah", "Nirmala Sitharaman", "PM Modi", "Rajnath Singh"],
+    "correctAnswer": "PM Modi"
   },
   {
     "id": 8,
-    "question": "The recent extension of PM-Kisan Yojana will directly benefit farmers in states like Andhra Pradesh and Telangana by providing what?",
-    "options": ["Crop insurance subsidies", "Direct income support", "Free irrigation facilities", "Subsidized farm machinery"],
-    "correctAnswer": "Direct income support"
+    "question": "What is the primary sector expected to benefit from the new Bhogapuram Airport in Andhra Pradesh?",
+    "options": ["Agriculture", "Fisheries", "Air Connectivity", "Manufacturing"],
+    "correctAnswer": "Air Connectivity"
   },
   {
     "id": 9,
-    "question": "PM-Kisan Yojana is aimed at supporting which sector of the economy across India, including Andhra Pradesh and Telangana?",
-    "options": ["Manufacturing", "Services", "Agriculture", "Information Technology"],
-    "correctAnswer": "Agriculture"
+    "question": "Which region of India is expected to benefit significantly from the new Bhogapuram Airport?",
+    "options": ["North-Eastern India", "Western India", "Andhra Pradesh", "Central India"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 10,
-    "question": "What is a key characteristic of the PM-Kisan Yojana, relevant to its recent extension and its impact on states like Andhra Pradesh?",
-    "options": ["Loan waiver program", "Direct Benefit Transfer (DBT)", "Crop procurement scheme", "Skill development initiative"],
-    "correctAnswer": "Direct Benefit Transfer (DBT)"
-  },
-  {
-    "id": 11,
-    "question": "According to the IMD, what is the forecast for monsoon rainfall during August and September for India?",
-    "options": ["Above normal", "Normal", "Below normal", "Significantly above normal"],
-    "correctAnswer": "Below normal"
-  },
-  {
-    "id": 12,
-    "question": "What climatic phenomenon is cited as a risk influencing the 'below normal' monsoon forecast for India in August-September?",
-    "options": ["La Niña", "El Niño", "Indian Ocean Dipole (IOD)", "Arctic Oscillation"],
-    "correctAnswer": "El Niño"
-  },
-  {
-    "id": 13,
-    "question": "How did India's monsoon rainfall fare during July, according to the IMD's recent assessment?",
-    "options": ["Significantly below normal", "Below normal", "Normal", "Above normal"],
-    "correctAnswer": "Normal"
-  },
-  {
-    "id": 14,
-    "question": "Which part of India experienced plentiful showers in July, contributing to a reduced overall monsoon deficit?",
-    "options": ["Northeast India", "Southern Peninsular India", "Central India", "Northwest India"],
-    "correctAnswer": "Central India"
-  },
-  {
-    "id": 15,
-    "question": "A 'below normal' monsoon forecast is significant for states like Andhra Pradesh and Telangana primarily due to its impact on what?",
-    "options": ["Industrial output", "Tourism revenue", "Agriculture and water resources", "Urban development projects"],
-    "correctAnswer": "Agriculture and water resources"
-  },
-  {
-    "id": 16,
-    "question": "The Indian government has announced a significant financial push of Rs 5,000 crore for which type of renewable energy infrastructure?",
-    "options": ["Wind power farms", "Hydroelectric projects", "Floating solar plants", "Geothermal energy stations"],
-    "correctAnswer": "Floating solar plants"
-  },
-  {
-    "id": 17,
-    "question": "What is the approximate financial push announced for floating solar plants in India?",
-    "options": ["Rs 1,000 crore", "Rs 2,500 crore", "Rs 5,000 crore", "Rs 10,000 crore"],
+    "question": "The Bhogapuram Airport project in Andhra Pradesh represents a capital investment of approximately how much?",
+    "options": ["Rs 2,000 crore", "Rs 5,000 crore", "Rs 7,500 crore", "Rs 1,500 crore"],
     "correctAnswer": "Rs 5,000 crore"
   },
   {
+    "id": 11,
+    "question": "Which national leader's presence at the Bhogapuram Airport inauguration underscored the central government's focus on regional development in Andhra Pradesh?",
+    "options": ["Vice President of India", "Prime Minister", "Speaker of Lok Sabha", "Chief Justice of India"],
+    "correctAnswer": "Prime Minister"
+  },
+  {
+    "id": 12,
+    "question": "A new airport project, valued at Rs 5,000 crore, has been inaugurated in Andhra Pradesh under what name?",
+    "options": ["Visakhapatnam International Airport Phase 2", "Amaravati Airport", "Bhogapuram Airport", "Tirupati Greenfield Airport"],
+    "correctAnswer": "Bhogapuram Airport"
+  },
+  {
+    "id": 13,
+    "question": "The inauguration of Bhogapuram Airport highlights the central government's focus on enhancing which aspect of Andhra Pradesh?",
+    "options": ["Agricultural subsidies", "Rural electrification", "Infrastructure and Air Travel", "Educational reforms"],
+    "correctAnswer": "Infrastructure and Air Travel"
+  },
+  {
+    "id": 14,
+    "question": "Which specific state's air connectivity is set to improve significantly with the new Bhogapuram Airport?",
+    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": 15,
+    "question": "What was the approximate capital expenditure mentioned for the Bhogapuram Airport project in Andhra Pradesh?",
+    "options": ["Three thousand crore rupees", "Four thousand crore rupees", "Five thousand crore rupees", "Six thousand crore rupees"],
+    "correctAnswer": "Five thousand crore rupees"
+  },
+  {
+    "id": 16,
+    "question": "The Bhogapuram Airport, recently inaugurated, is a significant development in which sector for Andhra Pradesh?",
+    "options": ["Maritime", "Railways", "Aviation", "Road Transport"],
+    "correctAnswer": "Aviation"
+  },
+  {
+    "id": 17,
+    "question": "A recent discussion across India highlights concerns that excessive medical testing might lead to what outcome?",
+    "options": ["Reduced healthcare costs", "Improved public health", "Testing oneself sick", "Faster disease diagnosis"],
+    "correctAnswer": "Testing oneself sick"
+  },
+  {
     "id": 18,
-    "question": "Floating solar plants are recognized as an innovative solution in which sector for Indian states, including Andhra Pradesh and Telangana?",
-    "options": ["Water management", "Logistics", "Renewable energy", "Digital infrastructure"],
-    "correctAnswer": "Renewable energy"
+    "question": "The trend of 'more tests, less health' in India points to a potential systemic issue within which sector?",
+    "options": ["Agricultural sector", "Information Technology", "Healthcare and diagnostics", "Automobile industry"],
+    "correctAnswer": "Healthcare and diagnostics"
   },
   {
     "id": 19,
-    "question": "Which type of water body is typically utilized for setting up floating solar plants?",
-    "options": ["Rivers", "Oceans", "Reservoirs and lakes", "Groundwater aquifers"],
-    "correctAnswer": "Reservoirs and lakes"
+    "question": "What is a key concern highlighted regarding medical testing practices in India, potentially affecting states like Andhra Pradesh and Telangana?",
+    "options": ["Lack of testing facilities", "High cost of basic tests", "Excessive or unnecessary testing", "Insufficient trained medical personnel"],
+    "correctAnswer": "Excessive or unnecessary testing"
   },
   {
     "id": 20,
-    "question": "The Rs 5,000 crore push for floating solar plants reflects India's commitment to what broader goal?",
-    "options": ["Space exploration", "Military modernization", "Green energy transition", "Smart city development"],
-    "correctAnswer": "Green energy transition"
+    "question": "The article 'More tests, less health' suggests a critique of the current practices in India's what?",
+    "options": ["Pharmaceutical research", "Public health campaigns", "Diagnostic healthcare system", "Medical education standards"],
+    "correctAnswer": "Diagnostic healthcare system"
   },
   {
     "id": 21,
-    "question": "Which important amendment bill was recently passed by the Lok Sabha without debate amidst opposition protests?",
-    "options": ["Land Acquisition Bill", "Citizenship Amendment Bill", "Registration of Births and Deaths (Amendment) Bill", "Forest Rights Bill"],
-    "correctAnswer": "Registration of Births and Deaths (Amendment) Bill"
+    "question": "Which national food safety authority recently cracked down on firms for violations, impacting consumer safety across India?",
+    "options": ["BIS (Bureau of Indian Standards)", "NITI Aayog", "FSSAI (Food Safety and Standards Authority of India)", "CCI (Competition Commission of India)"],
+    "correctAnswer": "FSSAI (Food Safety and Standards Authority of India)"
   },
   {
     "id": 22,
-    "question": "What is a primary objective of the Registration of Births and Deaths (Amendment) Bill, 2026?",
-    "options": ["To simplify marriage registration", "To make delayed registrations of births and deaths more stringent", "To introduce online voter registration", "To mandate biometric identity for newborns"],
-    "correctAnswer": "To make delayed registrations of births and deaths more stringent"
+    "question": "FSSAI recently recalled a specific food product due to excessive pesticide residues. Which product was it?",
+    "options": ["Packaged milk", "Raisins", "Wheat flour", "Edible oil"],
+    "correctAnswer": "Raisins"
   },
   {
     "id": 23,
-    "question": "In which house of Parliament did opposition members disrupt proceedings, preventing debate on the Births and Deaths Bill?",
-    "options": ["Lok Sabha", "Rajya Sabha", "Both Lok Sabha and Rajya Sabha", "State Legislative Assemblies"],
-    "correctAnswer": "Rajya Sabha"
+    "question": "FSSAI recently took action against a nutraceutical firm for what primary reason?",
+    "options": ["Export violations", "Tax evasion", "Suspended license due to safety violations", "Employment law breaches"],
+    "correctAnswer": "Suspended license due to safety violations"
   },
   {
     "id": 24,
-    "question": "The Registration of Births and Deaths (Amendment) Bill, 2026, primarily aims to make which process more stringent?",
-    "options": ["Issuance of passports", "Registration of property", "Delayed registration of births and deaths", "Obtaining ration cards"],
-    "correctAnswer": "Delayed registration of births and deaths"
+    "question": "Which regulatory body is responsible for enforcing food safety standards and ensuring consumer protection across all states of India, including Telangana and Andhra Pradesh?",
+    "options": ["Ministry of Health and Family Welfare", "Department of Consumer Affairs", "FSSAI", "Central Board of Indirect Taxes and Customs"],
+    "correctAnswer": "FSSAI"
   },
   {
     "id": 25,
-    "question": "The passage of the Births and Deaths Bill will impact administrative procedures related to demographic data across all Indian states, including Andhra Pradesh and Telangana. What is a key aspect of this impact?",
-    "options": ["Reducing the number of districts", "Improving the accuracy and timeliness of vital statistics", "Centralizing all state government records", "Automating parliamentary debates"],
-    "correctAnswer": "Improving the accuracy and timeliness of vital statistics"
+    "question": "FSSAI banned a specific syrup due to misleading claims. What type of syrup was it?",
+    "options": ["Cough syrup", "Iron supplement syrup", "Folinic acid syrup", "Multivitamin syrup"],
+    "correctAnswer": "Folinic acid syrup"
   }
 ]

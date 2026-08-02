@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is scheduled to play the role of Rama in the upcoming film 'Ramayana: Part 1'?",
-    "options": ["Prabhas", "Yash", "Ranbir Kapoor", "Allu Arjun"],
-    "correctAnswer": "Ranbir Kapoor"
+    "question": "Which major pharmaceutical company recently announced the withdrawal of 11 eye medicines from the market?",
+    "options": ["Cipla", "Dr. Reddy's Laboratories", "Sun Pharma", "Lupin"],
+    "correctAnswer": "Sun Pharma"
   },
   {
     "id": 2,
-    "question": "Who is scheduled to play the role of Ravana in the upcoming film 'Ramayana: Part 1'?",
-    "options": ["Yash", "Ranbir Kapoor", "Ram Charan", "Jr NTR"],
-    "correctAnswer": "Yash"
+    "question": "How many distinct eye medicines did Sun Pharma recently withdraw from the market, as per the news?",
+    "options": ["5", "11", "15", "20"],
+    "correctAnswer": "11"
   },
   {
     "id": 3,
-    "question": "What is the name of the organization that requested a special preview screening of the 'Ramayana' film?",
-    "options": ["Vishwa Hindu Parishad", "Shri Ramlila Mahasangh", "Hindu Janajagruti Samiti", "Bajrang Dal"],
-    "correctAnswer": "Shri Ramlila Mahasangh"
+    "question": "The medicines recently withdrawn by Sun Pharma primarily belonged to which therapeutic category?",
+    "options": ["Cardiac medicines", "Pain relievers", "Eye medicines", "Diabetes medications"],
+    "correctAnswer": "Eye medicines"
   },
   {
     "id": 4,
-    "question": "Why did the Shri Ramlila Mahasangh request a special preview of the 'Ramayana' film?",
-    "options": ["To promote the film", "To secure acting roles", "To prevent scenes that might offend Hindu sentiments", "To get early access to tickets"],
-    "correctAnswer": "To prevent scenes that might offend Hindu sentiments"
+    "question": "What action did the pharmaceutical giant Sun Pharma take regarding some of its eye medicines, according to recent reports?",
+    "options": ["Launched new variants", "Increased prices", "Withdrew them from the market", "Expanded distribution"],
+    "correctAnswer": "Withdrew them from the market"
   },
   {
     "id": 5,
-    "question": "When is 'Ramayana: Part 1' scheduled for release?",
-    "options": ["Diwali 2024", "Christmas 2025", "Diwali 2026", "Eid 2027"],
-    "correctAnswer": "Diwali 2026"
-  },
-  {
-    "id": 6,
-    "question": "What action did the Shri Ramlila Mahasangh warn of if their preview request for the 'Ramayana' film is not accepted?",
-    "options": ["Boycotts", "Protests", "Legal action", "Public endorsements"],
-    "correctAnswer": "Protests"
-  },
-  {
-    "id": 7,
-    "question": "The upcoming film 'Ramayana: Part 1' is based on which revered Indian epic?",
-    "options": ["Mahabharata", "Bhagavad Gita", "Ramayana", "Puranas"],
+    "question": "Which upcoming film is the subject of a demand for a special preview screening from the Shri Ramlila Mahasangh?",
+    "options": ["Mahabharata", "Ramayana", "Krishna Leela", "Hanuman"],
     "correctAnswer": "Ramayana"
   },
   {
+    "id": 6,
+    "question": "What organization demanded a special preview screening of the upcoming 'Ramayana' film?",
+    "options": ["Hindu Sena", "Vishva Hindu Parishad", "Bajrang Dal", "Shri Ramlila Mahasangh"],
+    "correctAnswer": "Shri Ramlila Mahasangh"
+  },
+  {
+    "id": 7,
+    "question": "What was the stated reason for the Shri Ramlila Mahasangh's demand for a special screening of the 'Ramayana' film?",
+    "options": ["To endorse the film's artistic merit", "To provide feedback on special effects", "To prevent scenes that might offend Hindu sentiments", "To promote cultural exchange"],
+    "correctAnswer": "To prevent scenes that might offend Hindu sentiments"
+  },
+  {
     "id": 8,
-    "question": "Which major Hindu festival is targeted for the release of 'Ramayana: Part 1'?",
-    "options": ["Holi", "Eid", "Diwali", "Christmas"],
-    "correctAnswer": "Diwali"
+    "question": "Ranbir Kapoor is reported to be playing which iconic character in the upcoming 'Ramayana' film?",
+    "options": ["Ravana", "Rama", "Lakshmana", "Hanuman"],
+    "correctAnswer": "Rama"
   },
   {
     "id": 9,
-    "question": "The demand for a special screening of 'Ramayana' highlights concerns about the depiction of which religious community's sentiments?",
-    "options": ["Muslim", "Christian", "Sikh", "Hindu"],
-    "correctAnswer": "Hindu"
+    "question": "Yash, a prominent actor, is reported to be portraying which character in the upcoming 'Ramayana' film?",
+    "options": ["Rama", "Lakshmana", "Ravana", "Bharata"],
+    "correctAnswer": "Ravana"
   },
   {
     "id": 10,
-    "question": "The 'Ramayana' film features a prominent actor from South Indian cinema in the role of Ravana. Who is he?",
-    "options": ["Dulquer Salmaan", "Yash", "Karthi", "Vijay Deverakonda"],
-    "correctAnswer": "Yash"
+    "question": "What consequence did the Shri Ramlila Mahasangh warn of if their demand for a special screening of 'Ramayana' is not accepted?",
+    "options": ["Legal action", "Financial penalties", "Protests", "Boycott of theaters"],
+    "correctAnswer": "Protests"
   },
   {
     "id": 11,
-    "question": "The news highlights a significant issue in India related to which demographic group?",
-    "options": ["Farmers struggling with debt", "Educated but unemployed", "Migrant workers seeking opportunities", "Senior citizens needing healthcare"],
-    "correctAnswer": "Educated but unemployed"
+    "question": "When is 'Ramayana: Part 1' primarily scheduled for release, according to the news?",
+    "options": ["Christmas 2025", "Republic Day 2026", "Diwali 2026", "Independence Day 2027"],
+    "correctAnswer": "Diwali 2026"
   },
   {
     "id": 12,
-    "question": "What specific problem does the headline \"Educated but unemployed: Inside India's broken jobs market\" address?",
-    "options": ["Declining agricultural output", "High unemployment among educated individuals", "Lack of affordable housing", "Rising inflation"],
-    "correctAnswer": "High unemployment among educated individuals"
+    "question": "The upcoming 'Ramayana' film is based on a celebrated epic from which religious tradition?",
+    "options": ["Buddhist", "Jain", "Sikh", "Hindu"],
+    "correctAnswer": "Hindu"
   },
   {
     "id": 13,
-    "question": "The term \"broken jobs market\" in the headline refers to which economic challenge facing India?",
-    "options": ["Excessive foreign investment", "Lack of sufficient job opportunities", "Over-regulation of businesses", "High corporate taxes"],
-    "correctAnswer": "Lack of sufficient job opportunities"
+    "question": "What critical challenge is India's job market currently facing, despite an increase in higher education, as highlighted in the news?",
+    "options": ["Shortage of skilled labor", "Rapid wage inflation", "Educated unemployment", "Excessive foreign investment"],
+    "correctAnswer": "Educated unemployment"
   },
   {
     "id": 14,
-    "question": "This issue of unemployment is a major concern for young people across various Indian states, including Telangana and Andhra Pradesh. What demographic does the news suggest is \"fed up\"?",
-    "options": ["Industrialists", "Government pensioners", "Youth/educated job seekers", "Small business owners"],
-    "correctAnswer": "Youth/educated job seekers"
+    "question": "Which demographic group in India is experiencing widespread frustration due to the scarcity of quality job opportunities, as reported?",
+    "options": ["Unskilled daily wage laborers", "Senior citizens seeking re-employment", "Educated youth/graduates", "Rural agricultural workers"],
+    "correctAnswer": "Educated youth/graduates"
   },
   {
     "id": 15,
-    "question": "What is a common consequence of a \"broken jobs market\" for the educated populace in a country like India?",
-    "options": ["Increased wages for skilled labor", "Underemployment or brain drain", "Surge in entrepreneurial ventures", "Higher tax revenues"],
-    "correctAnswer": "Underemployment or brain drain"
+    "question": "According to the news, what essential factor has not kept pace with India's expanding higher education system?",
+    "options": ["Infrastructure development", "Quality job creation", "Agricultural output", "Healthcare services"],
+    "correctAnswer": "Quality job creation"
   },
   {
     "id": 16,
-    "question": "The article implies a widespread sentiment among the affected population. What is this sentiment often described as?",
-    "options": ["Optimism", "Indifference", "Contentment", "Frustration/dissatisfaction"],
-    "correctAnswer": "Frustration/dissatisfaction"
+    "question": "The significant mismatch between education and employment opportunities in India is contributing to what nationwide phenomenon?",
+    "options": ["Increased emigration", "A decline in literacy rates", "Widespread frustration and youth-led protests", "A boost in entrepreneurial ventures"],
+    "correctAnswer": "Widespread frustration and youth-led protests"
   },
   {
     "id": 17,
-    "question": "Addressing the \"broken jobs market\" typically requires government policies focused on what?",
-    "options": ["Decreasing public sector employment", "Job creation and skill development", "Promoting imports over domestic production", "Reducing educational access"],
-    "correctAnswer": "Job creation and skill development"
+    "question": "The article mentions a critical challenge for India's 'demographic dividend.' What does 'demographic dividend' typically refer to?",
+    "options": ["The financial benefits from a young population", "The economic growth potential from a favorable age structure", "The challenges of an aging population", "The benefits of diverse demographics"],
+    "correctAnswer": "The economic growth potential from a favorable age structure"
   },
   {
     "id": 18,
-    "question": "The challenge of educated unemployment in India can lead to social and economic implications, including what?",
-    "options": ["Economic boom", "Increased innovation", "Increased poverty and social unrest", "Enhanced global competitiveness"],
-    "correctAnswer": "Increased poverty and social unrest"
+    "question": "What type of employment are many educated youth in India struggling to find, leading to widespread frustration?",
+    "options": ["Part-time roles", "Unpaid internships", "Stable, well-paying employment", "Government contracts"],
+    "correctAnswer": "Stable, well-paying employment"
   },
   {
     "id": 19,
-    "question": "Which sector often struggles to absorb the large number of educated graduates in India?",
-    "options": ["Agriculture", "Formal employment sector", "Unorganized retail", "Traditional handicrafts"],
-    "correctAnswer": "Formal employment sector"
+    "question": "The news highlights that India's expanding higher education system produces millions of what annually?",
+    "options": ["New businesses", "Graduates", "Skilled manual laborers", "Foreign investors"],
+    "correctAnswer": "Graduates"
   },
   {
     "id": 20,
-    "question": "The issue of educated unemployment is observed across various states in India, including Telangana and Andhra Pradesh. What is a key characteristic of the individuals described in the headline as 'fed up'?",
-    "options": ["They are highly skilled professionals", "They are educated but lack employment", "They are primarily rural laborers", "They are recent school dropouts"],
-    "correctAnswer": "They are educated but lack employment"
-  },
-  {
-    "id": 21,
-    "question": "Which political figure made a \"Korean finger heart gesture\" on Friendship Day?",
-    "options": ["Narendra Modi", "Rahul Gandhi", "Arvind Kejriwal", "Amit Shah"],
+    "question": "Which prominent political leader's recent social media post was the subject of criticism from Shehzad Poonawalla?",
+    "options": ["Narendra Modi", "Amit Shah", "Rahul Gandhi", "Arvind Kejriwal"],
     "correctAnswer": "Rahul Gandhi"
   },
   {
+    "id": 21,
+    "question": "What specific gesture did Rahul Gandhi use in his social media post that drew criticism from Shehzad Poonawalla?",
+    "options": ["Thumbs up", "Victory sign", "Korean finger heart", "Waving hand"],
+    "correctAnswer": "Korean finger heart"
+  },
+  {
     "id": 22,
-    "question": "Which political commentator criticized Rahul Gandhi's \"Korean finger heart gesture\"?",
-    "options": ["Sambit Patra", "Shehzad Poonawalla", "Sudhanshu Trivedi", "Gaurav Bhatia"],
-    "correctAnswer": "Shehzad Poonawalla"
-  },
-  {
-    "id": 23,
-    "question": "What was Shehzad Poonawalla's interpretation of Rahul Gandhi's finger gesture?",
-    "options": ["Expressing friendship", "Counting corruption and bribes daily", "Supporting Korean culture", "Signaling peace"],
-    "correctAnswer": "Counting corruption and bribes daily"
-  },
-  {
-    "id": 24,
-    "question": "What was Rahul Gandhi's intended purpose behind sharing the Korean finger heart gesture?",
-    "options": ["To promote tourism in Korea", "To criticize the government", "To connect with younger audiences", "To make a fashion statement"],
+    "question": "According to the news, what was Rahul Gandhi's intended purpose behind sharing the social media post with the Korean finger heart gesture?",
+    "options": ["To promote a new movie", "To connect with younger audiences", "To announce a political alliance", "To celebrate a national festival"],
     "correctAnswer": "To connect with younger audiences"
   },
   {
+    "id": 23,
+    "question": "Who criticized Rahul Gandhi's social media gesture, interpreting it as 'counting corruption and bribes daily'?",
+    "options": ["Priyanka Gandhi", "Mallikarjun Kharge", "Shehzad Poonawalla", "Smriti Irani"],
+    "correctAnswer": "Shehzad Poonawalla"
+  },
+  {
+    "id": 24,
+    "question": "On what specific occasion did Rahul Gandhi share his post featuring the Korean finger heart gesture?",
+    "options": ["Republic Day", "Friendship Day", "Independence Day", "Gandhi Jayanti"],
+    "correctAnswer": "Friendship Day"
+  },
+  {
     "id": 25,
-    "question": "The criticism by Shehzad Poonawalla accused which family of extensive involvement in corruption?",
-    "options": ["Nehru family", "Gandhi family", "Modi family", "Ambani family"],
+    "question": "The criticism by Shehzad Poonawalla against Rahul Gandhi's post was primarily related to accusations against which family?",
+    "options": ["Nehru family", "Modi family", "Gandhi family", "Ambani family"],
     "correctAnswer": "Gandhi family"
   }
 ]

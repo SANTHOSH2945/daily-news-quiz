@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What new authentication methods will NEET-PG aspirants face to enhance security?",
-    "options": [
-      "Fingerprint and retina scan",
-      "Aadhaar and iris authentication",
-      "Voice recognition and facial scan",
-      "Biometric and signature verification"
-    ],
-    "correctAnswer": "Aadhaar and iris authentication"
+    "question": "Which national body informed the Supreme Court about the impact of long working hours on resident doctors' mental health?",
+    "options": ["Indian Medical Association (IMA)", "National Medical Commission (NMC)", "Ministry of Health and Family Welfare", "Doctors' Welfare Federation"],
+    "correctAnswer": "National Medical Commission (NMC)"
   },
   {
     "id": 2,
-    "question": "For which specific year's NEET-PG examination have major overhauls, including changes to exam centers and question patterns, been announced?",
-    "options": [
-      "NEET-PG 2024",
-      "NEET-PG 2025",
-      "NEET-PG 2026",
-      "NEET-PG 2027"
-    ],
-    "correctAnswer": "NEET-PG 2026"
+    "question": "What is identified as the primary factor significantly contributing to psychological distress among resident doctors?",
+    "options": ["Lack of proper infrastructure", "Low salaries", "Long working hours", "Insufficient research opportunities"],
+    "correctAnswer": "Long working hours"
   },
   {
     "id": 3,
-    "question": "Under the new NEET-PG 2026 changes, how many preferred states can candidates select for their examination centre locations?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "correctAnswer": "Three"
+    "question": "According to the National Medical Commission, reasonable working hours are crucial for the well-being of which two groups?",
+    "options": ["Doctors and administrators", "Doctors and researchers", "Doctors and patients", "Patients and their families"],
+    "correctAnswer": "Doctors and patients"
   },
   {
     "id": 4,
-    "question": "Will the test duration for NEET-PG 2026 change compared to previous years?",
-    "options": [
-      "Yes, it will be extended",
-      "Yes, it will be reduced",
-      "No, it will remain the same",
-      "It depends on the number of questions"
-    ],
-    "correctAnswer": "No, it will remain the same"
+    "question": "A doctors' group highlighted a concerning issue in relation to the demanding conditions faced by resident doctors. What was it?",
+    "options": ["High attrition rates", "Rising suicide cases", "Frequent strikes for pay hikes", "Increased legal disputes"],
+    "correctAnswer": "Rising suicide cases"
   },
   {
     "id": 5,
-    "question": "How many questions will be included in the NEET-PG 2026 examination, following the announced changes?",
-    "options": [
-      "200",
-      "180",
-      "150",
-      "240"
-    ],
-    "correctAnswer": "180"
+    "question": "The National Medical Commission cited its inability to enforce reasonable working hours for resident doctors, stating it falls under whose domain?",
+    "options": ["Union Public Service Commission", "State Medical Councils", "Health authorities", "Supreme Court"],
+    "correctAnswer": "Health authorities"
   },
   {
     "id": 6,
-    "question": "To ensure uniform assessment, in how many shifts will the NEET-PG 2026 examination be conducted?",
-    "options": [
-      "Single shift",
-      "Two shifts",
-      "Multiple shifts",
-      "Flexible shifts based on candidate numbers"
-    ],
-    "correctAnswer": "Single shift"
+    "question": "What is the specific type of distress mentioned that resident doctors face due to demanding schedules?",
+    "options": ["Physical exhaustion", "Financial strain", "Academic pressure", "Psychological distress"],
+    "correctAnswer": "Psychological distress"
   },
   {
     "id": 7,
-    "question": "Which of the following is a primary reason cited for the introduction of Aadhaar and iris biometrics in NEET-PG?",
-    "options": [
-      "To reduce exam fees",
-      "To enhance security",
-      "To simplify application process",
-      "To increase exam centers"
-    ],
-    "correctAnswer": "To enhance security"
+    "question": "What climate phenomenon poses a risk of below-normal monsoon rainfall in India, as mentioned in the news?",
+    "options": ["La Niña", "Arctic Oscillation", "El Niño", "North Atlantic Oscillation"],
+    "correctAnswer": "El Niño"
   },
   {
     "id": 8,
-    "question": "The provision allowing NEET-PG candidates to select three preferred states for exam centres aims to improve what aspect for aspirants?",
-    "options": [
-      "Exam difficulty",
-      "Candidate convenience",
-      "Question paper quality",
-      "Scoring transparency"
-    ],
-    "correctAnswer": "Candidate convenience"
+    "question": "Which oceanic pattern is projected to potentially offer relief and improve monsoon rainfall conditions in India, especially in the south?",
+    "options": ["Negative Indian Ocean Dipole (IOD)", "Positive Indian Ocean Dipole (IOD)", "Pacific Decadal Oscillation (PDO)", "Atlantic Meridional Overturning Circulation (AMOC)"],
+    "correctAnswer": "Positive Indian Ocean Dipole (IOD)"
   },
   {
     "id": 9,
-    "question": "One of the new biometric authentication methods for NEET-PG aspirants involves using which unique national identifier?",
-    "options": [
-      "Fingerprint scan",
-      "Aadhaar",
-      "Voiceprint recognition",
-      "Facial geometry scan"
-    ],
-    "correctAnswer": "Aadhaar"
+    "question": "A positive Indian Ocean Dipole (IOD) is particularly expected to improve rainfall conditions in which region of India?",
+    "options": ["North-Eastern India", "North-Western India", "Southern India", "Central India"],
+    "correctAnswer": "Southern India"
   },
   {
     "id": 10,
-    "question": "Apart from Aadhaar, what other specific biometric authentication will NEET-PG aspirants undergo?",
-    "options": [
-      "Retina scan",
-      "Palm print verification",
-      "Iris authentication",
-      "DNA profiling"
-    ],
-    "correctAnswer": "Iris authentication"
+    "question": "What potential positive impact could a developing positive IOD have on the Indian monsoon?",
+    "options": ["Cause flash floods", "Delay its arrival", "Prevent it from slipping into a deficient phase", "Increase cyclones in the Bay of Bengal"],
+    "correctAnswer": "Prevent it from slipping into a deficient phase"
   },
   {
     "id": 11,
-    "question": "What combination of biometric authentication measures will strengthen both registration and exam day security for NEET-PG 2026?",
-    "options": [
-      "Fingerprint and retina scans",
-      "Voice and face recognition",
-      "Aadhaar and iris biometrics",
-      "Palm and signature verification"
-    ],
-    "correctAnswer": "Aadhaar and iris biometrics"
+    "question": "Which international organization's forecasts are mentioned regarding the potential development of a positive Indian Ocean Dipole (IOD)?",
+    "options": ["NASA", "Intergovernmental Panel on Climate Change (IPCC)", "World Meteorological Organization (WMO)", "United Nations Environment Programme (UNEP)"],
+    "correctAnswer": "World Meteorological Organization (WMO)"
   },
   {
     "id": 12,
-    "question": "What specific change has been made to the NEET-PG 2026 exam pattern concerning the total number of questions?",
-    "options": [
-      "Number of questions increased",
-      "Number of questions reduced",
-      "Number of questions remains the same",
-      "Number of questions decided on exam day"
-    ],
-    "correctAnswer": "Number of questions reduced"
+    "question": "The news suggests a positive IOD could act as a 'counter' to which adverse climate event for India's monsoon?",
+    "options": ["La Niña", "Indian Ocean Tsunami", "El Niño", "Heatwaves"],
+    "correctAnswer": "El Niño"
   },
   {
     "id": 13,
-    "question": "While the number of questions for NEET-PG 2026 will be fewer, what aspect of the test will remain unchanged?",
-    "options": [
-      "Test duration",
-      "Passing marks",
-      "Syllabus coverage",
-      "Exam language options"
-    ],
-    "correctAnswer": "Test duration"
+    "question": "Which former Chief Justice of the Telangana High Court recently questioned the transparency of the Supreme Court collegium?",
+    "options": ["Justice Hima Kohli", "Justice R. Subhash Reddy", "Justice Ujjal Bhuyan", "Justice P.V. Sanjay Kumar"],
+    "correctAnswer": "Justice Ujjal Bhuyan"
   },
   {
     "id": 14,
-    "question": "The decision to conduct NEET-PG 2026 in a single shift primarily aims to achieve which objective?",
-    "options": [
-      "Reduce administrative costs",
-      "Accommodate more candidates",
-      "Ensure uniform assessment",
-      "Shorten the result processing time"
-    ],
-    "correctAnswer": "Ensure uniform assessment"
+    "question": "What specific aspect of the Supreme Court collegium's resolutions did Justice Ujjal Bhuyan criticize for its lack of clarity?",
+    "options": ["Length of deliberations", "Absence of reasons for decisions", "Speed of appointments", "Composition of the collegium"],
+    "correctAnswer": "Absence of reasons for decisions"
   },
   {
     "id": 15,
-    "question": "What options do NEET-PG 2026 candidates have regarding their examination centre locations?",
-    "options": [
-      "They are assigned randomly",
-      "They can select three preferred states",
-      "They can choose any city in India",
-      "They must take the exam in their home state"
-    ],
-    "correctAnswer": "They can select three preferred states"
+    "question": "According to Justice Ujjal Bhuyan, what is a potential negative consequence of the Supreme Court collegium's lack of transparency?",
+    "options": ["Increased workload for judges", "Unsuitable individuals entering the judiciary", "Delays in court proceedings", "Public loss of faith in the legal system"],
+    "correctAnswer": "Unsuitable individuals entering the judiciary"
   },
   {
     "id": 16,
-    "question": "According to a recent Supreme Court ruling, what allegation, if prima facie true, can disqualify a wife from receiving interim maintenance?",
-    "options": [
-      "Desertion",
-      "Cruelty",
-      "Adultery",
-      "Financial independence"
-    ],
-    "correctAnswer": "Adultery"
+    "question": "Justice Ujjal Bhuyan emphasized that citizens possess a right to know what regarding judicial appointments?",
+    "options": ["The financial assets of judges", "The educational background of judges", "Deliberations concerning judicial elevations and transfers", "The personal lives of judges"],
+    "correctAnswer": "Deliberations concerning judicial elevations and transfers"
   },
   {
     "id": 17,
-    "question": "Which judicial body recently ruled on the conditions under which a wife may not be entitled to interim maintenance if adultery allegations are prima facie true?",
-    "options": [
-      "High Court",
-      "District Court",
-      "Supreme Court",
-      "Family Court"
-    ],
-    "correctAnswer": "Supreme Court"
+    "question": "The JALDI report, as mentioned in the context of Justice Bhuyan's remarks, highlights varying levels of what across India's higher courts?",
+    "options": ["Infrastructure development", "Judicial independence", "Transparency", "Case disposal rates"],
+    "correctAnswer": "Transparency"
   },
   {
     "id": 18,
-    "question": "The Supreme Court's ruling explicitly concerns which specific type of financial support for a wife?",
-    "options": [
-      "Permanent alimony",
-      "Child support",
-      "Interim maintenance",
-      "Property division"
-    ],
-    "correctAnswer": "Interim maintenance"
+    "question": "Before being elevated to the Supreme Court, Justice Ujjal Bhuyan held the position of Chief Justice in which state's High Court, making this news particularly relevant?",
+    "options": ["Kerala", "Andhra Pradesh", "Gujarat", "Telangana"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 19,
-    "question": "Who is the subject of the Supreme Court's ruling regarding entitlement to interim maintenance under certain conditions?",
-    "options": [
-      "Husband",
-      "Wife",
-      "Child",
-      "Parents"
-    ],
-    "correctAnswer": "Wife"
+    "question": "What term was used by Justice Ujjal Bhuyan to describe the Supreme Court collegium's functioning regarding judicial appointments, indicating a lack of openness?",
+    "options": ["Efficiency", "Autonomy", "Opacity", "Expediency"],
+    "correctAnswer": "Opacity"
   },
   {
     "id": 20,
-    "question": "For the adultery allegation to impact interim maintenance, what status must it hold, according to the Supreme Court?",
-    "options": [
-      "Fully proven",
-      "Prima facie true",
-      "Under investigation",
-      "Merely suspected"
-    ],
-    "correctAnswer": "Prima facie true"
+    "question": "The concerns raised by Justice Ujjal Bhuyan primarily relate to the process of what within the judiciary?",
+    "options": ["Case management", "Legal reforms", "Judicial appointments", "Court administration"],
+    "correctAnswer": "Judicial appointments"
   },
   {
     "id": 21,
-    "question": "In the context of the Supreme Court's ruling on interim maintenance, what does 'prima facie true' signify regarding an adultery allegation?",
-    "options": [
-      "It has been conclusively proven beyond doubt",
-      "It appears to be true based on initial evidence",
-      "It is a baseless accusation with no evidence",
-      "It is a formal charge filed in court"
-    ],
-    "correctAnswer": "It appears to be true based on initial evidence"
+    "question": "What new biometric authentication methods are NEET-PG aspirants required to undergo?",
+    "options": ["Fingerprint and face recognition", "Aadhaar and iris authentication", "Voice and retina scan", "Palm print and facial recognition"],
+    "correctAnswer": "Aadhaar and iris authentication"
   },
   {
     "id": 22,
-    "question": "If an adultery allegation against a wife is established as prima facie true by the court, what is the consequence regarding her entitlement to interim maintenance?",
-    "options": [
-      "She is automatically entitled",
-      "She is not entitled",
-      "The amount is reduced",
-      "It is left to the discretion of the husband"
-    ],
-    "correctAnswer": "She is not entitled"
+    "question": "The new authentication measures using Aadhaar and iris are being implemented for aspirants of which specific examination?",
+    "options": ["JEE Main", "UPSC Civil Services Exam", "NEET-PG", "CLAT"],
+    "correctAnswer": "NEET-PG"
   },
   {
     "id": 23,
-    "question": "This Supreme Court ruling, concerning interim maintenance and adultery, falls primarily under which area of law?",
-    "options": [
-      "Criminal Law",
-      "Constitutional Law",
-      "Matrimonial Law",
-      "Property Law"
-    ],
-    "correctAnswer": "Matrimonial Law"
+    "question": "What is one of the two specific biometric identification methods to be used for NEET-PG aspirants, alongside iris authentication?",
+    "options": ["Passport", "Driver's License", "Voter ID", "Aadhaar"],
+    "correctAnswer": "Aadhaar"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's recent decision specifies that an allegation of which specific act, if proven prima facie, impacts a wife's right to interim maintenance?",
-    "options": [
-      "Domestic violence",
-      "Adultery",
-      "Financial misconduct",
-      "Child neglect"
-    ],
-    "correctAnswer": "Adultery"
+    "question": "What type of authentication is being introduced for NEET-PG aspirants to verify their identity?",
+    "options": ["Password-based authentication", "Multi-factor authentication", "Biometric authentication", "Document-based authentication"],
+    "correctAnswer": "Biometric authentication"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's ruling on a wife's entitlement to interim maintenance under certain conditions is applicable across which geographical scope?",
-    "options": [
-      "Only in metropolitan cities",
-      "Only in the state where the case originated",
-      "Across all Union Territories",
-      "Nationwide across India"
-    ],
-    "correctAnswer": "Nationwide across India"
+    "question": "What is the primary purpose of introducing Aadhaar and iris authentication for NEET-PG aspirants, implicitly suggested by such security measures?",
+    "options": ["To collect demographic data", "To ensure identity verification and prevent impersonation", "To streamline application processing", "To test new technology"],
+    "correctAnswer": "To ensure identity verification and prevent impersonation"
   }
 ]

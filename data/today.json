@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "How many cases are pending for over 30 years in High Courts across India, including the High Courts of Telangana and Andhra Pradesh, as per recent reports?",
-    "options": ["10,000", "50,000", "80,000", "1 lakh"],
-    "correctAnswer": "80,000"
+    "question": "What is the primary spaceport of ISRO, located in Andhra Pradesh, which is mentioned in the news for current satellite launch delays?",
+    "options": ["Thumba Equatorial Rocket Launching Station", "Balasore Missile Test Range", "Satish Dhawan Space Centre (SDSC) Sriharikota", "Vikram Sarabhai Space Centre"],
+    "correctAnswer": "Satish Dhawan Space Centre (SDSC) Sriharikota"
   },
   {
     "id": 2,
-    "question": "What is cited as a primary reason for the extensive case pendency in Indian courts, including High Courts relevant to Telangana and Andhra Pradesh, according to the Law Minister?",
-    "options": ["Lack of funds", "Judicial vacancies", "Public disinterest", "Inadequate laws"],
-    "correctAnswer": "Judicial vacancies"
+    "question": "In which Indian state is the Satish Dhawan Space Centre (SDSC), ISRO's primary launch site, located?",
+    "options": ["Kerala", "Odisha", "Andhra Pradesh", "Tamil Nadu"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 3,
-    "question": "What measures are being established to address the growing backlog of cases in Indian courts, which also affects the judicial systems in Telangana and Andhra Pradesh?",
-    "options": ["More national holidays", "New laws and committees", "Reduction in court working hours", "Increased lawyer fees"],
-    "correctAnswer": "New laws and committees"
+    "question": "Which Indian organization is currently facing delays in its satellite launch schedule due to a lack of governmental clearance?",
+    "options": ["Defence Research and Development Organisation (DRDO)", "Hindustan Aeronautics Limited (HAL)", "Indian Space Research Organisation (ISRO)", "Bharat Electronics Limited (BEL)"],
+    "correctAnswer": "Indian Space Research Organisation (ISRO)"
   },
   {
     "id": 4,
-    "question": "Approximately how many cases have been pending in the Supreme Court for more than ten years, as per recent news, impacting the overall speed of justice delivery in India?",
-    "options": ["5,000", "10,000", "20,000", "30,000"],
-    "correctAnswer": "10,000"
+    "question": "What is the main reason cited in the news for the current delay in ISRO's satellite launches from Sriharikota?",
+    "options": ["Technical glitches in satellites", "Adverse weather conditions", "Lack of governmental clearance", "Funding shortages for new missions"],
+    "correctAnswer": "Lack of governmental clearance"
   },
   {
     "id": 5,
-    "question": "According to the news, despite significant investment, what has not been effectively reduced in Indian courts, including those serving Telangana and Andhra Pradesh?",
-    "options": ["Judicial expenses", "Case pendency", "Number of lawyers", "Court holidays"],
-    "correctAnswer": "Case pendency"
+    "question": "Which two strategic satellites are specifically mentioned as awaiting government approval for launch from Sriharikota?",
+    "options": ["Chandrayaan-3 and Aditya-L1", "Mangalyaan-2 and Gaganyaan-1", "NVS-03 and Gisat-1A", "Cartosat-3 and RISAT-2BR1"],
+    "correctAnswer": "NVS-03 and Gisat-1A"
   },
   {
     "id": 6,
-    "question": "Prime Minister Modi recently launched a national campaign for a drug-free India. For how many weeks is this campaign expected to run, aiming to impact youth in all states, including Telangana and Andhra Pradesh?",
-    "options": ["50 weeks", "75 weeks", "100 weeks", "150 weeks"],
-    "correctAnswer": "100 weeks"
+    "question": "The delays in ISRO launches are partly attributed to concerns following two recent mission failures involving which rocket series?",
+    "options": ["Geosynchronous Satellite Launch Vehicle (GSLV)", "Polar Satellite Launch Vehicle (PSLV)", "Small Satellite Launch Vehicle (SSLV)", "Augmented Satellite Launch Vehicle (ASLV)"],
+    "correctAnswer": "Polar Satellite Launch Vehicle (PSLV)"
   },
   {
     "id": 7,
-    "question": "What did PM Modi emphasize for families in the context of the national anti-drug campaign, which is relevant for promoting healthy environments in states like Telangana and Andhra Pradesh?",
-    "options": ["Punishing addicts severely", "Ignoring the issue", "Seeking expert help and open communication", "Sending youth abroad"],
-    "correctAnswer": "Seeking expert help and open communication"
+    "question": "What does NVS-03, one of the delayed satellites awaiting launch from Andhra Pradesh, primarily stand for?",
+    "options": ["Navigational Vision Satellite", "National Vehicle System", "New Venture Spacecraft", "Natural Resources Verification System"],
+    "correctAnswer": "Navigational Vision Satellite"
   },
   {
     "id": 8,
-    "question": "How are youth overcoming addiction referred to by PM Modi in the national campaign, aiming to encourage recovery and societal acceptance in states like Telangana and Andhra Pradesh?",
-    "options": ["Patients", "Warriors", "Survivors", "Reformers"],
-    "correctAnswer": "Warriors"
+    "question": "Gisat-1A, another satellite whose launch from Sriharikota is delayed, is primarily designed for what purpose?",
+    "options": ["Communication services", "Weather forecasting", "Geo-imaging/Earth observation", "Deep space scientific research"],
+    "correctAnswer": "Geo-imaging/Earth observation"
   },
   {
     "id": 9,
-    "question": "According to the PM, who uses drug supply as part of terror plans targeting the country's future, a threat applicable to all regions including Telangana and Andhra Pradesh?",
-    "options": ["Local gangs", "Enemy nations", "International cartels", "Corrupt officials"],
-    "correctAnswer": "Enemy nations"
+    "question": "In which district of Andhra Pradesh is the Satish Dhawan Space Centre, India's primary spaceport, located?",
+    "options": ["Guntur", "Visakhapatnam", "Nellore", "Chittoor"],
+    "correctAnswer": "Nellore"
   },
   {
     "id": 10,
-    "question": "What type of activities will be organized as part of the 100-week national campaign for a drug-free India, vital for public health in states like Telangana and Andhra Pradesh?",
-    "options": ["Political rallies", "De-addiction activities", "Economic reforms", "Agricultural subsidies"],
-    "correctAnswer": "De-addiction activities"
+    "question": "The news implies a pause in all ISRO launches. What is the broader impact of such delays on India's space program, as suggested by the context?",
+    "options": ["Increased international collaboration", "Enhanced technological development", "Setback to strategic space ambitions", "Reduction in operational costs"],
+    "correctAnswer": "Setback to strategic space ambitions"
   },
   {
     "id": 11,
-    "question": "According to recent reports, India has seen a dip in highway deaths for the first time since which major event, a trend also observed in states like Telangana and Andhra Pradesh?",
-    "options": ["Demonetization", "GST implementation", "Covid-19 pandemic", "Economic liberalization"],
-    "correctAnswer": "Covid-19 pandemic"
+    "question": "Sriharikota, the location of ISRO's spaceport in Andhra Pradesh, is an island. What water body separates it from the mainland?",
+    "options": ["Bay of Bengal", "Pulicat Lake", "Kolleru Lake", "Chilika Lake"],
+    "correctAnswer": "Pulicat Lake"
   },
   {
     "id": 12,
-    "question": "The general trend of declining highway deaths in India, relevant to road safety efforts in Telangana and Andhra Pradesh, indicates a potential impact of what?",
-    "options": ["Increased road taxes", "Better enforcement and awareness campaigns", "Fewer vehicles on roads", "Decline in population"],
-    "correctAnswer": "Better enforcement and awareness campaigns"
+    "question": "Who is the current Chairman of ISRO, the organization facing these launch delays at its Andhra Pradesh spaceport?",
+    "options": ["K. Sivan", "A. S. Kiran Kumar", "S. Somnath", "G. Madhavan Nair"],
+    "correctAnswer": "S. Somnath"
   },
   {
     "id": 13,
-    "question": "What aspect of public safety, applicable to states including Telangana and Andhra Pradesh, has shown improvement for the first time since the Covid-19 pandemic?",
-    "options": ["Air pollution levels", "Railway accidents", "Highway deaths", "Industrial accidents"],
-    "correctAnswer": "Highway deaths"
+    "question": "Which former President of India, renowned as a scientist, was closely associated with India's space and missile programs, which are supported by facilities like Sriharikota in Andhra Pradesh?",
+    "options": ["R. Venkataraman", "K. R. Narayanan", "A. P. J. Abdul Kalam", "Pranab Mukherjee"],
+    "correctAnswer": "A. P. J. Abdul Kalam"
   },
   {
     "id": 14,
-    "question": "The National Testing Agency (NTA) recently floated a tender to secure its offices and exam material 24x7. How does this measure primarily benefit students from states like Telangana and Andhra Pradesh?",
-    "options": ["Reduces exam fees", "Ensures fairness and integrity of national examinations", "Provides more exam centers", "Offers coaching assistance"],
-    "correctAnswer": "Ensures fairness and integrity of national examinations"
+    "question": "The Indian Space Research Organisation (ISRO), which operates the spaceport in Andhra Pradesh, has its headquarters in which major South Indian city?",
+    "options": ["Chennai", "Hyderabad", "Bengaluru", "Thiruvananthapuram"],
+    "correctAnswer": "Bengaluru"
   },
   {
     "id": 15,
-    "question": "What is the main objective behind NTA's move to enhance security for its offices and exam materials, a measure relevant to all students across India, including those in Telangana and Andhra Pradesh?",
-    "options": ["To reduce administrative costs", "To prevent malpractice and ensure secure conduct of exams", "To increase staff safety", "To digitize all records"],
-    "correctAnswer": "To prevent malpractice and ensure secure conduct of exams"
+    "question": "Given the term 'strategic satellites' in the headline, what type of satellites are NVS-03 and Gisat-1A generally categorized as?",
+    "options": ["Experimental satellites", "Commercial satellites", "Defence/National Security related satellites", "Educational satellites"],
+    "correctAnswer": "Defence/National Security related satellites"
   },
   {
     "id": 16,
-    "question": "Sun Pharma recently withdrew 11 eye medicines. This news highlights the importance of what in the pharmaceutical sector, a significant industry in regions like Telangana?",
-    "options": ["Marketing strategies", "Regulatory compliance and quality control", "Global expansion", "Employee benefits"],
-    "correctAnswer": "Regulatory compliance and quality control"
+    "question": "Which state, a neighbor to both Andhra Pradesh and Telangana, recently underwent a major cabinet expansion with 20 ministers taking oath?",
+    "options": ["Kerala", "Tamil Nadu", "Maharashtra", "Karnataka"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 17,
-    "question": "When a major pharmaceutical company like Sun Pharma withdraws medicines, what is the direct impact on consumers, including those in Telangana and Andhra Pradesh?",
-    "options": ["Prices of medicines increase", "Trust in pharmaceutical products can be affected", "New medicines are immediately introduced", "Only foreign drugs are impacted"],
-    "correctAnswer": "Trust in pharmaceutical products can be affected"
+    "question": "How many ministers were set to take oath in the recent Karnataka cabinet expansion, as reported in the news?",
+    "options": ["10", "15", "20", "25"],
+    "correctAnswer": "20"
   },
   {
     "id": 18,
-    "question": "Which city, often referred to as a pharmaceutical hub in Telangana, would be particularly attentive to news regarding major Indian pharma companies like Sun Pharma, given its concentration of related industries?",
-    "options": ["Mumbai", "Chennai", "Hyderabad", "Bengaluru"],
-    "correctAnswer": "Hyderabad"
+    "question": "Who is the current Chief Minister of Karnataka, the state mentioned for its cabinet expansion?",
+    "options": ["Basavaraj Bommai", "H.D. Kumaraswamy", "Siddaramaiah", "B.S. Yeddyurappa"],
+    "correctAnswer": "Siddaramaiah"
   },
   {
     "id": 19,
-    "question": "The news reports on significant case pendency in High Courts across India. What does this situation imply for the judicial systems in states like Telangana and Andhra Pradesh?",
-    "options": ["Increased efficiency", "Timely justice", "Potential delays in delivering justice", "Reduced workload for judges"],
-    "correctAnswer": "Potential delays in delivering justice"
+    "question": "What is the capital city of Karnataka, where the recent cabinet expansion would typically take place?",
+    "options": ["Mysuru", "Mangaluru", "Hubballi", "Bengaluru"],
+    "correctAnswer": "Bengaluru"
   },
   {
     "id": 20,
-    "question": "The Law Minister cited judicial vacancies as a reason for case backlog. How do judicial vacancies affect the functioning of High Courts, including those in Telangana and Andhra Pradesh?",
-    "options": ["No impact", "Leads to faster judgments", "Contributes to longer processing times", "Improves judicial diversity"],
-    "correctAnswer": "Contributes to longer processing times"
+    "question": "Which political party is currently leading the government in Karnataka, a state neighboring Andhra Pradesh and Telangana?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (Congress)", "Janata Dal (Secular) (JD(S))", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress (Congress)"
   },
   {
     "id": 21,
-    "question": "Following the Prime Minister's call for a national drug-free India campaign, what role do state governments, such as those in Telangana and Andhra Pradesh, play in its implementation?",
-    "options": ["No role", "Solely responsible for funding", "Implementing state-specific de-addiction programs and awareness", "Only coordinating with international bodies"],
-    "correctAnswer": "Implementing state-specific de-addiction programs and awareness"
+    "question": "In which specific area of Bengaluru were comedian Kunal Kamra's shows originally scheduled before being shifted due to opposition?",
+    "options": ["Jayanagar", "Koramangala", "Whitefield", "Indiranagar"],
+    "correctAnswer": "Whitefield"
   },
   {
     "id": 22,
-    "question": "The PM's campaign highlights that youth overcoming addiction deserve societal respect and second chances. How does tackling drug abuse benefit communities in states like Telangana and Andhra Pradesh?",
-    "options": ["Increases crime rates", "Boosts tourism", "Enhances public health and social well-being", "Decreases employment"],
-    "correctAnswer": "Enhances public health and social well-being"
+    "question": "The shifting of Kunal Kamra's shows due to opposition occurred in which South Indian state, bordering Telangana and Andhra Pradesh?",
+    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Telangana"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 23,
-    "question": "The dip in highway deaths across India, including regions like Telangana and Andhra Pradesh, often reflects the success of what?",
-    "options": ["Increased vehicle sales", "Reduced fuel prices", "State-specific road safety policies and infrastructure improvements", "Relaxed traffic rules"],
-    "correctAnswer": "State-specific road safety policies and infrastructure improvements"
+    "question": "What was the reported reason for Kunal Kamra's shows being shifted from their original venue in Bengaluru?",
+    "options": ["Technical issues with the venue", "Low ticket sales", "Opposition by 'Hindutva activists'", "Venue renovation work"],
+    "correctAnswer": "Opposition by 'Hindutva activists'"
   },
   {
     "id": 24,
-    "question": "The NTA's enhanced security measures for exams are crucial for students from states like Telangana and Andhra Pradesh, particularly for what reason?",
-    "options": ["To make exams more difficult", "To ensure equitable opportunities and prevent paper leaks", "To reduce the number of exam centers", "To promote only certain subjects"],
-    "correctAnswer": "To ensure equitable opportunities and prevent paper leaks"
+    "question": "Which major city, a neighbor to Andhra Pradesh and Telangana, was the location for Kunal Kamra's shows that were recently shifted?",
+    "options": ["Chennai", "Kochi", "Hyderabad", "Bengaluru"],
+    "correctAnswer": "Bengaluru"
   },
   {
     "id": 25,
-    "question": "The withdrawal of certain medicines by Sun Pharma, a major player in India's pharmaceutical sector with a presence in Telangana, underscores the importance of what for consumers?",
-    "options": ["Avoiding all medicines", "Relying only on traditional remedies", "Checking for drug safety alerts and consulting healthcare professionals", "Buying medicines from unregulated sources"],
-    "correctAnswer": "Checking for drug safety alerts and consulting healthcare professionals"
+    "question": "The states of Andhra Pradesh and Telangana, which are the primary focus of this quiz, were bifurcated in which year?",
+    "options": ["2010", "2012", "2014", "2016"],
+    "correctAnswer": "2014"
   }
 ]

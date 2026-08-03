@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which major river is the subject of a significant water dispute between Telangana and Andhra Pradesh, particularly regarding water sharing and project operations?",
-    "options": ["Godavari", "Mahanadi", "Krishna", "Cauvery"],
-    "correctAnswer": "Krishna"
+    "question": "Following the FSSAI's directives on food and beverage standards, which body in Telangana is primarily responsible for enforcing food safety and quality control in the state?",
+    "options": ["Telangana Food Safety Commissionerate", "Department of Health and Family Welfare", "Telangana Pollution Control Board", "State Excise Department"],
+    "correctAnswer": "Telangana Food Safety Commissionerate"
   },
   {
     "id": 2,
-    "question": "The Krishna Water Disputes Tribunal (KWDT) is instrumental in adjudicating water sharing. What is the name of the most recent KWDT award that impacts both Telangana and Andhra Pradesh?",
-    "options": ["Bachawat Award", "Vamsadhara Award", "Brijesh Kumar Award", "Ravi-Beas Award"],
-    "correctAnswer": "Brijesh Kumar Award"
+    "question": "The FSSAI recently acted against firms for misleading labeling. In Andhra Pradesh, what act primarily governs the manufacturing, storage, distribution, and sale of food articles, aligning with FSSAI standards?",
+    "options": ["Andhra Pradesh Food Security Act", "Food Safety and Standards Act, 2006", "AP Public Health Act", "Essential Commodities Act"],
+    "correctAnswer": "Food Safety and Standards Act, 2006"
   },
   {
     "id": 3,
-    "question": "Where is the headquarters of the Krishna River Management Board (KRMB) located, an institution overseeing river water sharing between the two Telugu states?",
-    "options": ["Vijayawada", "Hyderabad", "Bengaluru", "Amaravati"],
+    "question": "The FSSAI's emphasis on natural flavouring relates to consumer health. Which city in Telangana hosts a major campus or regional office involved in food technology and research relevant to food safety?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
     "correctAnswer": "Hyderabad"
   },
   {
     "id": 4,
-    "question": "Which of the following major irrigation projects on the Krishna River is a point of contention and shared resource management between Telangana and Andhra Pradesh?",
-    "options": ["Kaleshwaram Lift Irrigation Project", "Polavaram Project", "Nagarjuna Sagar Project", "Sriram Sagar Project"],
-    "correctAnswer": "Nagarjuna Sagar Project"
+    "question": "FSSAI's actions ensure regulated food and beverage quality. Which department in the Andhra Pradesh government works closely with FSSAI for state-level enforcement of food safety standards?",
+    "options": ["Department of Consumer Affairs, Food & Civil Supplies", "Department of Medical, Health & Family Welfare", "Department of Municipal Administration", "Department of Industries & Commerce"],
+    "correctAnswer": "Department of Medical, Health & Family Welfare"
   },
   {
     "id": 5,
-    "question": "Beyond specific rivers, which article of the Indian Constitution empowers the Parliament to make laws for the adjudication of disputes relating to waters of inter-state rivers or river valleys?",
-    "options": ["Article 246", "Article 262", "Article 275", "Article 280"],
-    "correctAnswer": "Article 262"
+    "question": "The FSSAI's regulations aim to prevent misrepresentation. In Telangana, what specific government wing is dedicated to consumer protection against such misleading practices, especially in food and beverages?",
+    "options": ["Department of Legal Metrology", "Telangana State Food Commission", "Consumer Affairs and Civil Supplies Department", "Telangana State Co-operative Marketing Federation"],
+    "correctAnswer": "Consumer Affairs and Civil Supplies Department"
   },
   {
     "id": 6,
-    "question": "Following the recent assembly elections in Telangana, who assumed the office of Chief Minister?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Eatala Rajender", "Bandi Sanjay Kumar"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "Following the Supreme Court's expanded interpretation of Section 498A, which high court serves Telangana for addressing legal matters, including those related to domestic cruelty?",
+    "options": ["High Court of Telangana", "Andhra Pradesh High Court", "Hyderabad High Court", "High Court for the States of Telangana and Andhra Pradesh"],
+    "correctAnswer": "High Court of Telangana"
   },
   {
     "id": 7,
-    "question": "Who is the current Chief Minister of Andhra Pradesh?",
-    "options": ["N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan", "Kanna Lakshmi Narayana"],
-    "correctAnswer": "Y. S. Jagan Mohan Reddy"
+    "question": "The Supreme Court's decision to include live-in relationships under Section 498A strengthens women's rights. Which organization in Andhra Pradesh actively works towards protecting women from domestic violence?",
+    "options": ["AP State Commission for Women", "State Human Rights Commission", "AP Legal Services Authority", "AP Child Rights Protection Commission"],
+    "correctAnswer": "AP State Commission for Women"
   },
   {
     "id": 8,
-    "question": "As per the 91st Amendment Act, 2003, what is the maximum permissible size of a Council of Ministers in an Indian state, including the Chief Minister?",
-    "options": ["10% of the total assembly members", "12% of the total assembly members", "15% of the total assembly members", "20% of the total assembly members"],
-    "correctAnswer": "15% of the total assembly members"
+    "question": "Section 498A, now applicable to live-in relationships, addresses cruelty. In Telangana, under which major government scheme do victims of domestic violence often receive support and legal aid?",
+    "options": ["Aasara Pensions", "KCR Kit", "One Stop Centres (Sakhi)", "Kalyana Lakshmi Scheme"],
+    "correctAnswer": "One Stop Centres (Sakhi)"
   },
   {
     "id": 9,
-    "question": "How many members are elected to the Telangana State Legislative Assembly?",
-    "options": ["100", "119", "150", "175"],
-    "correctAnswer": "119"
+    "question": "The legal protection offered to women in live-in relationships reflects societal changes. Which city in Andhra Pradesh is recognized as a major legal education hub, contributing to awareness of such evolving laws?",
+    "options": ["Kurnool", "Visakhapatnam", "Nellore", "Kakinada"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 10,
-    "question": "What is the total number of elected members in the Andhra Pradesh State Legislative Assembly?",
-    "options": ["119", "150", "175", "200"],
-    "correctAnswer": "175"
+    "question": "The expansion of Section 498A signifies the judiciary's role in adapting to modern societal norms. Which former Chief Justice of India, a prominent legal figure, hails from the Telugu-speaking states?",
+    "options": ["K.G. Balakrishnan", "N. V. Ramana", "Dipak Misra", "H. L. Dattu"],
+    "correctAnswer": "N. V. Ramana"
   },
   {
     "id": 11,
-    "question": "Who currently holds the position of Governor of Telangana?",
-    "options": ["S. Abdul Nazeer", "Biswabhusan Harichandan", "C. P. Radhakrishnan", "Arif Mohammed Khan"],
-    "correctAnswer": "C. P. Radhakrishnan"
+    "question": "India's military contributed significantly to CWG medals. In Telangana, which authority is primarily responsible for promoting sports and youth services in the state?",
+    "options": ["Telangana Sports Authority (SATS)", "Telangana Olympic Association", "Department of Youth Affairs", "Education Department"],
+    "correctAnswer": "Telangana Sports Authority (SATS)"
   },
   {
     "id": 12,
-    "question": "Who is the current Governor of Andhra Pradesh?",
-    "options": ["C. P. Radhakrishnan", "S. Abdul Nazeer", "Kalraj Mishra", "P. S. Sreedharan Pillai"],
-    "correctAnswer": "S. Abdul Nazeer"
+    "question": "Indian athletes, including military personnel, are making a mark globally. Which city in Andhra Pradesh has been a host for major national or international sporting events and has facilities for athlete training?",
+    "options": ["Tirupati", "Vijayawada", "Visakhapatnam", "Nellore"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 13,
-    "question": "Which of the following is a major regional political party in Telangana that has held power in the state?",
-    "options": ["Telugu Desam Party (TDP)", "Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)"],
-    "correctAnswer": "Bharat Rashtra Samithi (BRS)"
+    "question": "The success of military personnel in sports highlights discipline. Which major sports stadium in Hyderabad, Telangana, is a well-known venue for various athletic and sporting events?",
+    "options": ["Rajiv Gandhi International Cricket Stadium", "Gachibowli Athletic Stadium", "Lal Bahadur Shastri Stadium", "GMC Balayogi Athletic Stadium"],
+    "correctAnswer": "GMC Balayogi Athletic Stadium"
   },
   {
     "id": 14,
-    "question": "Which of these is a prominent regional political party in Andhra Pradesh, currently holding power?",
-    "options": ["Telangana Rashtra Samithi (TRS)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Communist Party of India (Marxist) (CPM)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "Considering the emphasis on physical fitness in military and sports, which major sporting initiative or event has historically been significant for promoting sports in Andhra Pradesh before bifurcation?",
+    "options": ["National Games", "Rural Sports Meet", "CM's Cup", "Andhra Pradesh Olympics"],
+    "correctAnswer": "National Games"
   },
   {
     "id": 15,
-    "question": "The news mentions a CBI probe into state government affairs. Which central agency is responsible for investigating complex and sensitive cases of corruption, economic offenses, and organized crime across India, including states?",
-    "options": ["National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
+    "question": "Indian military personnel are recognized for their commitment. Which sports personality from Telangana achieved international acclaim and inspired many, particularly in badminton?",
+    "options": ["Pullela Gopichand", "Saina Nehwal", "PV Sindhu", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 16,
-    "question": "Where is the principal seat of the High Court for the State of Telangana located?",
-    "options": ["Warangal", "Hyderabad", "Amaravati", "Secunderabad"],
+    "question": "Rajnath Singh emphasized military-civil integration. Which city in Telangana is a prominent hub for defence research and development (DRDO) and aerospace industries, indicating strong civil-military ties?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
     "correctAnswer": "Hyderabad"
   },
   {
     "id": 17,
-    "question": "What is the official location of the High Court for the State of Andhra Pradesh?",
-    "options": ["Visakhapatnam", "Kurnool", "Guntur", "Amaravati"],
-    "correctAnswer": "Amaravati"
+    "question": "The concept of a robust defense ecosystem involves state support. Which region in Andhra Pradesh is home to a significant naval base, crucial for India's maritime defense?",
+    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Nellore"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 18,
-    "question": "Who was the first full-time Chief Justice of the Telangana High Court after its establishment as a separate judicial body?",
-    "options": ["Justice Raghvendra Singh Chauhan", "Justice Hima Kohli", "Justice T.B. Radhakrishnan", "Justice Ujjal Bhuyan"],
-    "correctAnswer": "Justice T.B. Radhakrishnan"
+    "question": "Rajnath Singh spoke on robust defense ecosystem. Which public sector undertaking, headquartered in Hyderabad, Telangana, plays a critical role in manufacturing missiles and other defense equipment for the Indian armed forces?",
+    "options": ["Hindustan Aeronautics Limited (HAL)", "Bharat Dynamics Limited (BDL)", "Mishra Dhatu Nigam Limited (MIDHANI)", "Electronics Corporation of India Limited (ECIL)"],
+    "correctAnswer": "Bharat Dynamics Limited (BDL)"
   },
   {
     "id": 19,
-    "question": "Before the bifurcation of the High Court of Judicature at Hyderabad, which High Court served both Telangana and Andhra Pradesh?",
-    "options": ["Andhra Pradesh High Court", "Telangana High Court", "Hyderabad High Court", "Combined Telugu States High Court"],
-    "correctAnswer": "Hyderabad High Court"
+    "question": "A robust defence ecosystem involves various installations. Which major Indian Coast Guard (ICG) District Headquarters is located in Andhra Pradesh, contributing to maritime security?",
+    "options": ["Kakinada", "Krishnapatnam", "Visakhapatnam", "Machilipatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 20,
-    "question": "What is the sanctioned strength of judges (including the Chief Justice) for the High Court of Telangana?",
-    "options": ["32", "42", "50", "60"],
-    "correctAnswer": "42"
+    "question": "Military-civil integration also involves veteran welfare. Which state-level body in Telangana is dedicated to the welfare of ex-servicemen and their families?",
+    "options": ["Telangana Sainik Welfare Department", "Department of Defence Services", "Telangana Veteran Affairs Board", "Ex-Servicemen Welfare Corporation"],
+    "correctAnswer": "Telangana Sainik Welfare Department"
   },
   {
     "id": 21,
-    "question": "The High Court of Andhra Pradesh has a sanctioned strength of how many judges (including the Chief Justice)?",
-    "options": ["28", "37", "45", "52"],
-    "correctAnswer": "37"
+    "question": "The news highlights human trafficking for cybercrime. Which specific state police unit in Telangana is primarily tasked with investigating cybercrimes and protecting citizens from online fraud?",
+    "options": ["CID Cyber Crime Wing", "SHE Teams", "Traffic Police", "Narcotics Control Bureau (State Unit)"],
+    "correctAnswer": "CID Cyber Crime Wing"
   },
   {
     "id": 22,
-    "question": "The Enforcement Directorate (ED) is mentioned in the news regarding frozen funds. Which key Indian law primarily governs the ED's powers to investigate and prosecute money laundering offenses?",
-    "options": ["Foreign Exchange Management Act (FEMA)", "Prevention of Corruption Act (PCA)", "Narcotic Drugs and Psychotropic Substances Act (NDPS)", "Prevention of Money Laundering Act (PMLA)"],
-    "correctAnswer": "Prevention of Money Laundering Act (PMLA)"
+    "question": "To combat human trafficking, law enforcement agencies are crucial. Which district in Andhra Pradesh, being a major port city, faces particular challenges and has initiatives against human trafficking?",
+    "options": ["Krishna", "Visakhapatnam", "Guntur", "East Godavari"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 23,
-    "question": "Which city in Telangana is widely recognized as a major hub for medical tourism and advanced healthcare services, attracting patients from across India and abroad?",
-    "options": ["Warangal", "Khammam", "Karimnagar", "Hyderabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "The trafficking of Indians for cybercrime underscores the need for digital literacy. Which government initiative in Telangana aims to enhance digital literacy among its citizens, particularly in rural areas?",
+    "options": ["Telangana Skill Development Mission", "Digital Telangana", "TS-iPASS", "T-Hub"],
+    "correctAnswer": "Digital Telangana"
   },
   {
     "id": 24,
-    "question": "The Andhra Pradesh government has a flagship healthcare scheme providing free medical treatment to the poor and needy. What is this scheme known as?",
-    "options": ["Arogya Mitra", "Pradhan Mantri Jan Arogya Yojana (PMJAY)", "YSR Aarogyasri", "Telangana Aarogyasri"],
-    "correctAnswer": "YSR Aarogyasri"
+    "question": "In the context of combating cybercrime and trafficking, what is the dedicated helpline number available to citizens across India, including Andhra Pradesh, to report cyber financial fraud?",
+    "options": ["100", "112", "155260", "1098"],
+    "correctAnswer": "155260"
   },
   {
     "id": 25,
-    "question": "Both Telangana and Andhra Pradesh operate bicameral legislatures. What is the name of the upper house of the state legislature in these states?",
-    "options": ["Vidhan Sabha", "Lok Sabha", "Rajya Sabha", "Vidhan Parishad"],
-    "correctAnswer": "Vidhan Parishad"
+    "question": "The fight against human trafficking involves multiple agencies. Which specific wing of the Andhra Pradesh Police is dedicated to tackling crimes against women and children, including trafficking?",
+    "options": ["Disha Police Stations", "Special Protection Force", "Anti-Corruption Bureau", "Greyhounds"],
+    "correctAnswer": "Disha Police Stations"
   }
 ]

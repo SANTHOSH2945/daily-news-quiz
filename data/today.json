@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary spaceport of ISRO, located in Andhra Pradesh, which is mentioned in the news for current satellite launch delays?",
-    "options": ["Thumba Equatorial Rocket Launching Station", "Balasore Missile Test Range", "Satish Dhawan Space Centre (SDSC) Sriharikota", "Vikram Sarabhai Space Centre"],
-    "correctAnswer": "Satish Dhawan Space Centre (SDSC) Sriharikota"
+    "question": "Which major river is the subject of a significant water dispute between Telangana and Andhra Pradesh, particularly regarding water sharing and project operations?",
+    "options": ["Godavari", "Mahanadi", "Krishna", "Cauvery"],
+    "correctAnswer": "Krishna"
   },
   {
     "id": 2,
-    "question": "In which Indian state is the Satish Dhawan Space Centre (SDSC), ISRO's primary launch site, located?",
-    "options": ["Kerala", "Odisha", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The Krishna Water Disputes Tribunal (KWDT) is instrumental in adjudicating water sharing. What is the name of the most recent KWDT award that impacts both Telangana and Andhra Pradesh?",
+    "options": ["Bachawat Award", "Vamsadhara Award", "Brijesh Kumar Award", "Ravi-Beas Award"],
+    "correctAnswer": "Brijesh Kumar Award"
   },
   {
     "id": 3,
-    "question": "Which Indian organization is currently facing delays in its satellite launch schedule due to a lack of governmental clearance?",
-    "options": ["Defence Research and Development Organisation (DRDO)", "Hindustan Aeronautics Limited (HAL)", "Indian Space Research Organisation (ISRO)", "Bharat Electronics Limited (BEL)"],
-    "correctAnswer": "Indian Space Research Organisation (ISRO)"
+    "question": "Where is the headquarters of the Krishna River Management Board (KRMB) located, an institution overseeing river water sharing between the two Telugu states?",
+    "options": ["Vijayawada", "Hyderabad", "Bengaluru", "Amaravati"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 4,
-    "question": "What is the main reason cited in the news for the current delay in ISRO's satellite launches from Sriharikota?",
-    "options": ["Technical glitches in satellites", "Adverse weather conditions", "Lack of governmental clearance", "Funding shortages for new missions"],
-    "correctAnswer": "Lack of governmental clearance"
+    "question": "Which of the following major irrigation projects on the Krishna River is a point of contention and shared resource management between Telangana and Andhra Pradesh?",
+    "options": ["Kaleshwaram Lift Irrigation Project", "Polavaram Project", "Nagarjuna Sagar Project", "Sriram Sagar Project"],
+    "correctAnswer": "Nagarjuna Sagar Project"
   },
   {
     "id": 5,
-    "question": "Which two strategic satellites are specifically mentioned as awaiting government approval for launch from Sriharikota?",
-    "options": ["Chandrayaan-3 and Aditya-L1", "Mangalyaan-2 and Gaganyaan-1", "NVS-03 and Gisat-1A", "Cartosat-3 and RISAT-2BR1"],
-    "correctAnswer": "NVS-03 and Gisat-1A"
+    "question": "Beyond specific rivers, which article of the Indian Constitution empowers the Parliament to make laws for the adjudication of disputes relating to waters of inter-state rivers or river valleys?",
+    "options": ["Article 246", "Article 262", "Article 275", "Article 280"],
+    "correctAnswer": "Article 262"
   },
   {
     "id": 6,
-    "question": "The delays in ISRO launches are partly attributed to concerns following two recent mission failures involving which rocket series?",
-    "options": ["Geosynchronous Satellite Launch Vehicle (GSLV)", "Polar Satellite Launch Vehicle (PSLV)", "Small Satellite Launch Vehicle (SSLV)", "Augmented Satellite Launch Vehicle (ASLV)"],
-    "correctAnswer": "Polar Satellite Launch Vehicle (PSLV)"
+    "question": "Following the recent assembly elections in Telangana, who assumed the office of Chief Minister?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Eatala Rajender", "Bandi Sanjay Kumar"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 7,
-    "question": "What does NVS-03, one of the delayed satellites awaiting launch from Andhra Pradesh, primarily stand for?",
-    "options": ["Navigational Vision Satellite", "National Vehicle System", "New Venture Spacecraft", "Natural Resources Verification System"],
-    "correctAnswer": "Navigational Vision Satellite"
+    "question": "Who is the current Chief Minister of Andhra Pradesh?",
+    "options": ["N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan", "Kanna Lakshmi Narayana"],
+    "correctAnswer": "Y. S. Jagan Mohan Reddy"
   },
   {
     "id": 8,
-    "question": "Gisat-1A, another satellite whose launch from Sriharikota is delayed, is primarily designed for what purpose?",
-    "options": ["Communication services", "Weather forecasting", "Geo-imaging/Earth observation", "Deep space scientific research"],
-    "correctAnswer": "Geo-imaging/Earth observation"
+    "question": "As per the 91st Amendment Act, 2003, what is the maximum permissible size of a Council of Ministers in an Indian state, including the Chief Minister?",
+    "options": ["10% of the total assembly members", "12% of the total assembly members", "15% of the total assembly members", "20% of the total assembly members"],
+    "correctAnswer": "15% of the total assembly members"
   },
   {
     "id": 9,
-    "question": "In which district of Andhra Pradesh is the Satish Dhawan Space Centre, India's primary spaceport, located?",
-    "options": ["Guntur", "Visakhapatnam", "Nellore", "Chittoor"],
-    "correctAnswer": "Nellore"
+    "question": "How many members are elected to the Telangana State Legislative Assembly?",
+    "options": ["100", "119", "150", "175"],
+    "correctAnswer": "119"
   },
   {
     "id": 10,
-    "question": "The news implies a pause in all ISRO launches. What is the broader impact of such delays on India's space program, as suggested by the context?",
-    "options": ["Increased international collaboration", "Enhanced technological development", "Setback to strategic space ambitions", "Reduction in operational costs"],
-    "correctAnswer": "Setback to strategic space ambitions"
+    "question": "What is the total number of elected members in the Andhra Pradesh State Legislative Assembly?",
+    "options": ["119", "150", "175", "200"],
+    "correctAnswer": "175"
   },
   {
     "id": 11,
-    "question": "Sriharikota, the location of ISRO's spaceport in Andhra Pradesh, is an island. What water body separates it from the mainland?",
-    "options": ["Bay of Bengal", "Pulicat Lake", "Kolleru Lake", "Chilika Lake"],
-    "correctAnswer": "Pulicat Lake"
+    "question": "Who currently holds the position of Governor of Telangana?",
+    "options": ["S. Abdul Nazeer", "Biswabhusan Harichandan", "C. P. Radhakrishnan", "Arif Mohammed Khan"],
+    "correctAnswer": "C. P. Radhakrishnan"
   },
   {
     "id": 12,
-    "question": "Who is the current Chairman of ISRO, the organization facing these launch delays at its Andhra Pradesh spaceport?",
-    "options": ["K. Sivan", "A. S. Kiran Kumar", "S. Somnath", "G. Madhavan Nair"],
-    "correctAnswer": "S. Somnath"
+    "question": "Who is the current Governor of Andhra Pradesh?",
+    "options": ["C. P. Radhakrishnan", "S. Abdul Nazeer", "Kalraj Mishra", "P. S. Sreedharan Pillai"],
+    "correctAnswer": "S. Abdul Nazeer"
   },
   {
     "id": 13,
-    "question": "Which former President of India, renowned as a scientist, was closely associated with India's space and missile programs, which are supported by facilities like Sriharikota in Andhra Pradesh?",
-    "options": ["R. Venkataraman", "K. R. Narayanan", "A. P. J. Abdul Kalam", "Pranab Mukherjee"],
-    "correctAnswer": "A. P. J. Abdul Kalam"
+    "question": "Which of the following is a major regional political party in Telangana that has held power in the state?",
+    "options": ["Telugu Desam Party (TDP)", "Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)"],
+    "correctAnswer": "Bharat Rashtra Samithi (BRS)"
   },
   {
     "id": 14,
-    "question": "The Indian Space Research Organisation (ISRO), which operates the spaceport in Andhra Pradesh, has its headquarters in which major South Indian city?",
-    "options": ["Chennai", "Hyderabad", "Bengaluru", "Thiruvananthapuram"],
-    "correctAnswer": "Bengaluru"
+    "question": "Which of these is a prominent regional political party in Andhra Pradesh, currently holding power?",
+    "options": ["Telangana Rashtra Samithi (TRS)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Communist Party of India (Marxist) (CPM)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 15,
-    "question": "Given the term 'strategic satellites' in the headline, what type of satellites are NVS-03 and Gisat-1A generally categorized as?",
-    "options": ["Experimental satellites", "Commercial satellites", "Defence/National Security related satellites", "Educational satellites"],
-    "correctAnswer": "Defence/National Security related satellites"
+    "question": "The news mentions a CBI probe into state government affairs. Which central agency is responsible for investigating complex and sensitive cases of corruption, economic offenses, and organized crime across India, including states?",
+    "options": ["National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
+    "correctAnswer": "Central Bureau of Investigation (CBI)"
   },
   {
     "id": 16,
-    "question": "Which state, a neighbor to both Andhra Pradesh and Telangana, recently underwent a major cabinet expansion with 20 ministers taking oath?",
-    "options": ["Kerala", "Tamil Nadu", "Maharashtra", "Karnataka"],
-    "correctAnswer": "Karnataka"
+    "question": "Where is the principal seat of the High Court for the State of Telangana located?",
+    "options": ["Warangal", "Hyderabad", "Amaravati", "Secunderabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 17,
-    "question": "How many ministers were set to take oath in the recent Karnataka cabinet expansion, as reported in the news?",
-    "options": ["10", "15", "20", "25"],
-    "correctAnswer": "20"
+    "question": "What is the official location of the High Court for the State of Andhra Pradesh?",
+    "options": ["Visakhapatnam", "Kurnool", "Guntur", "Amaravati"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 18,
-    "question": "Who is the current Chief Minister of Karnataka, the state mentioned for its cabinet expansion?",
-    "options": ["Basavaraj Bommai", "H.D. Kumaraswamy", "Siddaramaiah", "B.S. Yeddyurappa"],
-    "correctAnswer": "Siddaramaiah"
+    "question": "Who was the first full-time Chief Justice of the Telangana High Court after its establishment as a separate judicial body?",
+    "options": ["Justice Raghvendra Singh Chauhan", "Justice Hima Kohli", "Justice T.B. Radhakrishnan", "Justice Ujjal Bhuyan"],
+    "correctAnswer": "Justice T.B. Radhakrishnan"
   },
   {
     "id": 19,
-    "question": "What is the capital city of Karnataka, where the recent cabinet expansion would typically take place?",
-    "options": ["Mysuru", "Mangaluru", "Hubballi", "Bengaluru"],
-    "correctAnswer": "Bengaluru"
+    "question": "Before the bifurcation of the High Court of Judicature at Hyderabad, which High Court served both Telangana and Andhra Pradesh?",
+    "options": ["Andhra Pradesh High Court", "Telangana High Court", "Hyderabad High Court", "Combined Telugu States High Court"],
+    "correctAnswer": "Hyderabad High Court"
   },
   {
     "id": 20,
-    "question": "Which political party is currently leading the government in Karnataka, a state neighboring Andhra Pradesh and Telangana?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (Congress)", "Janata Dal (Secular) (JD(S))", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Indian National Congress (Congress)"
+    "question": "What is the sanctioned strength of judges (including the Chief Justice) for the High Court of Telangana?",
+    "options": ["32", "42", "50", "60"],
+    "correctAnswer": "42"
   },
   {
     "id": 21,
-    "question": "In which specific area of Bengaluru were comedian Kunal Kamra's shows originally scheduled before being shifted due to opposition?",
-    "options": ["Jayanagar", "Koramangala", "Whitefield", "Indiranagar"],
-    "correctAnswer": "Whitefield"
+    "question": "The High Court of Andhra Pradesh has a sanctioned strength of how many judges (including the Chief Justice)?",
+    "options": ["28", "37", "45", "52"],
+    "correctAnswer": "37"
   },
   {
     "id": 22,
-    "question": "The shifting of Kunal Kamra's shows due to opposition occurred in which South Indian state, bordering Telangana and Andhra Pradesh?",
-    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Telangana"],
-    "correctAnswer": "Karnataka"
+    "question": "The Enforcement Directorate (ED) is mentioned in the news regarding frozen funds. Which key Indian law primarily governs the ED's powers to investigate and prosecute money laundering offenses?",
+    "options": ["Foreign Exchange Management Act (FEMA)", "Prevention of Corruption Act (PCA)", "Narcotic Drugs and Psychotropic Substances Act (NDPS)", "Prevention of Money Laundering Act (PMLA)"],
+    "correctAnswer": "Prevention of Money Laundering Act (PMLA)"
   },
   {
     "id": 23,
-    "question": "What was the reported reason for Kunal Kamra's shows being shifted from their original venue in Bengaluru?",
-    "options": ["Technical issues with the venue", "Low ticket sales", "Opposition by 'Hindutva activists'", "Venue renovation work"],
-    "correctAnswer": "Opposition by 'Hindutva activists'"
+    "question": "Which city in Telangana is widely recognized as a major hub for medical tourism and advanced healthcare services, attracting patients from across India and abroad?",
+    "options": ["Warangal", "Khammam", "Karimnagar", "Hyderabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 24,
-    "question": "Which major city, a neighbor to Andhra Pradesh and Telangana, was the location for Kunal Kamra's shows that were recently shifted?",
-    "options": ["Chennai", "Kochi", "Hyderabad", "Bengaluru"],
-    "correctAnswer": "Bengaluru"
+    "question": "The Andhra Pradesh government has a flagship healthcare scheme providing free medical treatment to the poor and needy. What is this scheme known as?",
+    "options": ["Arogya Mitra", "Pradhan Mantri Jan Arogya Yojana (PMJAY)", "YSR Aarogyasri", "Telangana Aarogyasri"],
+    "correctAnswer": "YSR Aarogyasri"
   },
   {
     "id": 25,
-    "question": "The states of Andhra Pradesh and Telangana, which are the primary focus of this quiz, were bifurcated in which year?",
-    "options": ["2010", "2012", "2014", "2016"],
-    "correctAnswer": "2014"
+    "question": "Both Telangana and Andhra Pradesh operate bicameral legislatures. What is the name of the upper house of the state legislature in these states?",
+    "options": ["Vidhan Sabha", "Lok Sabha", "Rajya Sabha", "Vidhan Parishad"],
+    "correctAnswer": "Vidhan Parishad"
   }
 ]

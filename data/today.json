@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Justice Manmohan Singh Liberhan, who recently passed away, was widely recognized for heading the commission that investigated which significant national event?",
-    "options": ["Godhra train burning incident", "Kargil War conflict", "Babri Masjid demolition", "2G Spectrum allocation scam"],
-    "correctAnswer": "Babri Masjid demolition"
+    "question": "Which international airport serves Hyderabad, a major aviation hub in Telangana?",
+    "options": ["Begumpet Airport", "Warangal Airport", "Rajiv Gandhi International Airport", "Vijayawada International Airport"],
+    "correctAnswer": "Rajiv Gandhi International Airport"
   },
   {
     "id": 2,
-    "question": "The Liberhan Commission, led by Justice M.S. Liberhan, was specifically constituted to inquire into the circumstances surrounding the events at which religious site?",
-    "options": ["Kashi Vishwanath Temple", "Mathura Shahi Idgah", "Babri Masjid", "Somnath Temple"],
-    "correctAnswer": "Babri Masjid"
+    "question": "What is the full form of DGCA, the Indian regulatory body responsible for civil aviation safety, relevant to all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["Directorate General of Civil Aviation", "Department of Government Civil Aviation", "Divisional Group of Civil Aviation", "Directorate General of Commercial Aeronautics"],
+    "correctAnswer": "Directorate General of Civil Aviation"
   },
   {
     "id": 3,
-    "question": "In which specific year did the demolition of the Babri Masjid, which was the focus of the Liberhan Commission's inquiry, primarily take place?",
-    "options": ["1986", "1990", "1992", "2002"],
-    "correctAnswer": "1992"
+    "question": "Which major city in Andhra Pradesh hosts the Visakhapatnam International Airport, a key gateway for the state?",
+    "options": ["Guntur", "Visakhapatnam", "Tirupati", "Nellore"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 4,
-    "question": "At what age did Justice Manmohan Singh Liberhan, known for his work on a pivotal national inquiry, pass away?",
-    "options": ["77", "81", "87", "92"],
-    "correctAnswer": "87"
+    "question": "What is the unique three-letter IATA code for Rajiv Gandhi International Airport in Hyderabad, Telangana?",
+    "options": ["HIA", "RGI", "HYD", "BGM"],
+    "correctAnswer": "HYD"
   },
   {
     "id": 5,
-    "question": "What type of official investigative body did Justice M.S. Liberhan lead to probe the Babri Masjid demolition?",
-    "options": ["Parliamentary Committee", "Judicial Commission", "Special Investigation Team", "Central Bureau of Investigation"],
-    "correctAnswer": "Judicial Commission"
+    "question": "Which of the following is a primary airport in Andhra Pradesh, other than Visakhapatnam, facilitating regional air travel?",
+    "options": ["Kadapa Airport", "Rajahmundry Airport", "Tirupati Airport", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 6,
-    "question": "Justice Liberhan's inquiry focused on an event located in which major Indian state, critical to the national narrative?",
-    "options": ["Bihar", "Rajasthan", "Madhya Pradesh", "Uttar Pradesh"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "What is the official name of the High Court for the State of Telangana?",
+    "options": ["Hyderabad High Court", "Telangana High Court", "High Court of Andhra Pradesh", "High Court of Secunderabad"],
+    "correctAnswer": "Telangana High Court"
   },
   {
     "id": 7,
-    "question": "According to recent news, which globally popular messaging application has temporarily blocked user access and initiated reviews of multiple accounts?",
-    "options": ["Telegram", "Signal", "WhatsApp", "Messenger"],
-    "correctAnswer": "WhatsApp"
+    "question": "Which article of the Indian Constitution ensures freedom of speech and expression, often central to political discourse in states like Telangana and Andhra Pradesh?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "correctAnswer": "Article 19"
   },
   {
     "id": 8,
-    "question": "The recent review process implemented by WhatsApp has resulted in what specific action for affected user accounts?",
-    "options": ["Permanent deletion", "Temporary blockage of access", "Mandatory data migration", "Immediate feature upgrades"],
-    "correctAnswer": "Temporary blockage of access"
+    "question": "Which political party won the most recent assembly elections in Telangana and formed the state government?",
+    "options": ["Bharat Rashtra Samithi (BRS)", "Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 9,
-    "question": "What primary user behavior is indicated as the reason for WhatsApp's recent decision to review and temporarily block accounts?",
-    "options": ["Sharing excessive media files", "Operating multiple accounts", "Frequent status updates", "Participation in large group chats"],
-    "correctAnswer": "Operating multiple accounts"
+    "question": "Who is the current Chief Minister of Andhra Pradesh as of the last assembly elections?",
+    "options": ["N. Chandrababu Naidu", "K. Chandrashekar Rao", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan"],
+    "correctAnswer": "Y. S. Jagan Mohan Reddy"
   },
   {
     "id": 10,
-    "question": "The recent actions taken by WhatsApp regarding account reviews and temporary blocks are primarily targeting users engaged in what activity?",
-    "options": ["Using older app versions", "Managing business profiles", "Operating multiple accounts", "Having low account activity"],
-    "correctAnswer": "Operating multiple accounts"
+    "question": "Which political party formed the government in Andhra Pradesh after the 2019 assembly elections?",
+    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 11,
-    "question": "For Indian users, what immediate consequence might occur if their WhatsApp account is put under review due to the stated reasons?",
-    "options": ["Permanent data loss", "Mandatory software update", "Temporary access blockage", "Automatic upgrade to premium services"],
-    "correctAnswer": "Temporary access blockage"
+    "question": "The NEET exam, a source of nationwide protests, is a crucial entrance test for admission to which professional courses in India, including Telangana and Andhra Pradesh?",
+    "options": ["Engineering and Technology", "Medical and Dental", "Management and Business Administration", "Law and Judiciary"],
+    "correctAnswer": "Medical and Dental"
   },
   {
     "id": 12,
-    "question": "What specific user activity prompted WhatsApp to initiate a review of several accounts, potentially leading to temporary access restrictions?",
-    "options": ["Frequent location sharing", "Operating multiple accounts on the same device", "Using third-party stickers", "Changing profile pictures too often"],
-    "correctAnswer": "Operating multiple accounts on the same device"
+    "question": "What is the name of the public body responsible for conducting recruitment examinations for state government services in Telangana?",
+    "options": ["Andhra Pradesh Public Service Commission (APPSC)", "Telangana State Public Service Commission (TSPSC)", "Union Public Service Commission (UPSC)", "Staff Selection Commission (SSC)"],
+    "correctAnswer": "Telangana State Public Service Commission (TSPSC)"
   },
   {
     "id": 13,
-    "question": "The recent WhatsApp policy update regarding account reviews has led to what primary outcome for users found in violation?",
-    "options": ["Account suspension for a week", "Temporary account restriction", "Permanent account deletion", "A warning notification"],
-    "correctAnswer": "Temporary account restriction"
+    "question": "What is the name of the public body responsible for conducting recruitment examinations for state government services in Andhra Pradesh?",
+    "options": ["Telangana State Public Service Commission (TSPSC)", "Andhra Pradesh Public Service Commission (APPSC)", "Union Public Service Commission (UPSC)", "Staff Selection Commission (SSC)"],
+    "correctAnswer": "Andhra Pradesh Public Service Commission (APPSC)"
   },
   {
     "id": 14,
-    "question": "The Indian government has proposed mandatory Vehicle-to-Vehicle (V2V) communication systems primarily with the aim of achieving which crucial objective?",
-    "options": ["Enhancing in-car entertainment", "Cutting road crashes", "Improving vehicle fuel efficiency", "Facilitating vehicle tracking for taxation"],
-    "correctAnswer": "Cutting road crashes"
+    "question": "Where is a historically significant and frequently used venue for public protests and demonstrations in Hyderabad, Telangana?",
+    "options": ["Charminar", "Tank Bund", "Dharna Chowk (Indira Park)", "Golconda Fort"],
+    "correctAnswer": "Dharna Chowk (Indira Park)"
   },
   {
     "id": 15,
-    "question": "By which specific month and year has the Indian government proposed to make Vehicle-to-Vehicle (V2V) communication systems a mandatory feature in vehicles?",
-    "options": ["January 2025", "April 2026", "October 2028", "December 2030"],
-    "correctAnswer": "October 2028"
+    "question": "Which premier investigating agency of India can be involved in large-scale recruitment fraud investigations across states, similar to the one in Jharkhand mentioned in the news?",
+    "options": ["National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
+    "correctAnswer": "Central Bureau of Investigation (CBI)"
   },
   {
     "id": 16,
-    "question": "What does the acronym 'V2V' stand for, in the context of the communication system the Indian government plans to make mandatory?",
-    "options": ["Voice-to-Video", "Vital-to-Vehicle", "Vehicle-to-Vehicle", "Virtual-to-Vision"],
-    "correctAnswer": "Vehicle-to-Vehicle"
+    "question": "Which temple in Telangana is a highly revered pilgrimage site dedicated to Lord Narasimha, often called 'Telangana Tirupati'?",
+    "options": ["Bhadrachalam Temple", "Yadagirigutta Temple", "Srikalahasti Temple", "Warangal Thousand Pillar Temple"],
+    "correctAnswer": "Yadagirigutta Temple"
   },
   {
     "id": 17,
-    "question": "The implementation of mandatory V2V communication systems by the Indian government is expected to have a significant impact on which industrial sector?",
-    "options": ["Telecommunications", "Healthcare", "Automotive", "Agriculture"],
-    "correctAnswer": "Automotive"
+    "question": "The Tirumala Venkateswara Temple, one of the world's richest Hindu temples, is located in which Indian state?",
+    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 18,
-    "question": "What is the key long-term benefit envisioned by the Indian government through the mandatory adoption of V2V systems on roads across the nation?",
-    "options": ["Reduced air pollution", "Decreased road accidents", "Lower vehicle maintenance costs", "Faster average travel speeds"],
-    "correctAnswer": "Decreased road accidents"
+    "question": "What is the administrative body primarily overseeing the Tirumala Tirupati Devasthanams (TTD) in Andhra Pradesh?",
+    "options": ["Andhra Pradesh Endowments Department", "TTD Board", "Central Endowments Board", "Ministry of Culture"],
+    "correctAnswer": "TTD Board"
   },
   {
     "id": 19,
-    "question": "The government's proposal for V2V communication systems is a part of a broader national initiative focused on what major area?",
-    "options": ["Digital transformation of public services", "Enhancing national security", "Improving road safety and infrastructure", "Promoting electric vehicle adoption"],
-    "correctAnswer": "Improving road safety and infrastructure"
+    "question": "Which festival, celebrating the birth of Lord Rama, is widely celebrated with fervor in Telangana and Andhra Pradesh, similar to the Ram Mandir context?",
+    "options": ["Krishna Janmashtami", "Shivaratri", "Diwali", "Rama Navami"],
+    "correctAnswer": "Rama Navami"
   },
   {
     "id": 20,
-    "question": "Which specific governmental body in India would most likely be responsible for proposing regulations related to vehicle safety and communication systems on national roads?",
-    "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Road Transport and Highways", "Ministry of Defence"],
-    "correctAnswer": "Ministry of Road Transport and Highways"
+    "question": "Which ancient city in Telangana is renowned for its UNESCO World Heritage site, the Kakatiya Rudreshwara (Ramappa) Temple?",
+    "options": ["Hyderabad", "Karimnagar", "Warangal", "Nizamabad"],
+    "correctAnswer": "Warangal"
   },
   {
     "id": 21,
-    "question": "The proposed V2V communication technology is fundamentally designed to enable communication between which specific entities?",
-    "options": ["Vehicles and pedestrians", "Vehicles and traffic signals", "Vehicles with each other", "Vehicles and emergency services"],
-    "correctAnswer": "Vehicles with each other"
+    "question": "Which major forest range, known for its biodiversity, extends across parts of Andhra Pradesh and Telangana?",
+    "options": ["Western Ghats", "Eastern Ghats", "Satpura Range", "Aravalli Range"],
+    "correctAnswer": "Eastern Ghats"
   },
   {
     "id": 22,
-    "question": "Mandatory V2V systems are aimed at reducing road crashes, a challenge that affects which demographic group across India?",
-    "options": ["Only commercial vehicle drivers", "All road users across India", "Only drivers in urban areas", "Only drivers of luxury vehicles"],
-    "correctAnswer": "All road users across India"
+    "question": "Which river is often referred to as the 'Lifeline of Andhra Pradesh and Telangana' and is a major source of water for irrigation and drinking?",
+    "options": ["Godavari River", "Krishna River", "Tungabhadra River", "Penna River"],
+    "correctAnswer": "Krishna River"
   },
   {
     "id": 23,
-    "question": "What foundational type of technology is essential for the functionality of Vehicle-to-Vehicle communication systems?",
-    "options": ["Satellite navigation", "Wireless communication", "Optical fiber networks", "Ultrasonic sensors"],
-    "correctAnswer": "Wireless communication"
+    "question": "What is the state tree of Telangana, reflecting its local flora and environmental identity?",
+    "options": ["Neem", "Mango", "Jammi Chettu (Prosopis cineraria)", "Banyan"],
+    "correctAnswer": "Jammi Chettu (Prosopis cineraria)"
   },
   {
     "id": 24,
-    "question": "Recent news reports detailing instances of public figures facing detention over alleged 'vulgar' remarks often ignite discussions concerning which fundamental right enshrined in the Indian Constitution?",
-    "options": ["Right to privacy", "Right to education", "Freedom of speech and expression", "Right to property"],
-    "correctAnswer": "Freedom of speech and expression"
+    "question": "The climate in Telangana and Andhra Pradesh, similar to other parts of India, is experiencing effects of rising temperatures. What is the typical climate classification for much of this region?",
+    "options": ["Arid", "Humid Subtropical", "Tropical Wet and Dry", "Alpine"],
+    "correctAnswer": "Tropical Wet and Dry"
   },
   {
     "id": 25,
-    "question": "In the broader context of politicians facing legal action for alleged inappropriate remarks, which governmental institutions are primarily responsible for the enforcement of such laws and detaining individuals in India?",
-    "options": ["Election Commission and Political Parties", "Police and Judiciary", "Parliament and State Legislatures", "Media and Civil Society Organizations"],
-    "correctAnswer": "Police and Judiciary"
+    "question": "The Kaleshwaram Lift Irrigation Project, a mega project in Telangana, primarily draws water from which river?",
+    "options": ["Krishna", "Godavari", "Musi", "Manjira"],
+    "correctAnswer": "Godavari"
   }
 ]

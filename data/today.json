@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What recent directive did the Supreme Court issue regarding Bar Councils in India to promote inclusivity?",
-    "options": ["To increase the retirement age of members", "To co-opt two women members", "To conduct online elections", "To reduce membership fees"],
-    "correctAnswer": "To co-opt two women members"
+    "question": "What kind of financial support will new government schemes offer to Indian private space companies, according to recent news?",
+    "options": ["Loans only", "30-100% subsidy", "Tax exemptions", "Export incentives"],
+    "correctAnswer": "30-100% subsidy"
   },
   {
     "id": 2,
-    "question": "How many women members are now mandated by a Supreme Court order to be co-opted into Bar Councils across India, including those in Telangana and Andhra Pradesh?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "Which aspect of private space companies will new government subsidies aim to cover, besides launch services and technology transfer?",
+    "options": ["Marketing and advertising", "Access to ISRO facilities", "International lobbying", "Employee salaries"],
+    "correctAnswer": "Access to ISRO facilities"
   },
   {
     "id": 3,
-    "question": "The Supreme Court's order for co-option of women members in Bar Councils aims to address what systemic issue described as 'men’s clubs'?",
-    "options": ["Financial mismanagement", "Lack of gender diversity", "Slow legal processes", "Insufficient infrastructure"],
-    "correctAnswer": "Lack of gender diversity"
+    "question": "What is one of the primary goals of the government's new schemes to support private space companies?",
+    "options": ["To increase government control over the space sector", "To boost domestic launch capabilities", "To reduce international collaboration", "To privatize ISRO completely"],
+    "correctAnswer": "To boost domestic launch capabilities"
   },
   {
     "id": 4,
-    "question": "Which judicial body in India recently ordered the inclusion of women members in Bar Councils across all states?",
-    "options": ["High Courts", "District Courts", "Supreme Court", "Lok Adalats"],
-    "correctAnswer": "Supreme Court"
+    "question": "The new government initiatives for private space firms are designed to lower entry barriers and accelerate which aspect of the private sector?",
+    "options": ["Global acquisitions", "Revenue repatriation", "Sector growth", "Import of foreign technology"],
+    "correctAnswer": "Sector growth"
   },
   {
     "id": 5,
-    "question": "The Supreme Court's ruling on Bar Councils, applicable to all states including Telangana and Andhra Pradesh, primarily focuses on improving what aspect of legal professional bodies?",
-    "options": ["Administrative efficiency", "Gender representation", "Funding mechanisms", "Caseload management"],
-    "correctAnswer": "Gender representation"
+    "question": "According to the news, what will become more affordable for Indian entities due to the new support for private space companies?",
+    "options": ["International travel", "Luxury goods", "Satellite data and infrastructure", "Foreign investments"],
+    "correctAnswer": "Satellite data and infrastructure"
   },
   {
     "id": 6,
-    "question": "According to recent news, how is Artificial Intelligence primarily aiding farmers across India, including those in Andhra Pradesh and Telangana?",
-    "options": ["By providing entertainment apps", "By assisting with changing climate conditions", "By automating harvesting entirely", "By reducing crop prices"],
-    "correctAnswer": "By assisting with changing climate conditions"
+    "question": "In recent years, what notable trend has been observed regarding private sector contributions to India's research and development funding?",
+    "options": ["A significant decline", "A stagnation", "A notable rise", "A complete takeover from government"],
+    "correctAnswer": "A notable rise"
   },
   {
     "id": 7,
-    "question": "In the healthcare sector across India, what specific benefit is AI providing as mentioned in recent reports?",
-    "options": ["Providing free medicines", "AI-driven diagnostics", "Building new hospitals", "Training more doctors"],
-    "correctAnswer": "AI-driven diagnostics"
+    "question": "For every Rs 100 India spends on R&D, what approximate share does the government provide, according to recent data?",
+    "options": ["Rs 10", "Rs 25", "Rs 48", "Rs 75"],
+    "correctAnswer": "Rs 48"
   },
   {
     "id": 8,
-    "question": "AI is being utilized in Indian education, particularly to support whom in remote areas?",
-    "options": ["School administrators", "Teachers", "Policy makers", "Parents"],
-    "correctAnswer": "Teachers"
+    "question": "What is a key characteristic of government spending on R&D in India, as mentioned in the news?",
+    "options": ["Concentrated on luxury goods", "Focused on strategic and public benefit sectors", "Primarily for international collaborations", "Geared towards non-profit organizations"],
+    "correctAnswer": "Focused on strategic and public benefit sectors"
   },
   {
     "id": 9,
-    "question": "Beyond specific sectors like healthcare and education, AI in India is generally contributing to strengthening which broader national objective?",
-    "options": ["International diplomacy", "Climate resilience", "Space exploration", "Sports development"],
-    "correctAnswer": "Climate resilience"
+    "question": "Despite increased contributions from the private sector, how does India's overall research intensity compare to other major economies?",
+    "options": ["It leads other major economies", "It is on par with major economies", "It still lags behind", "It is not comparable"],
+    "correctAnswer": "It still lags behind"
   },
   {
     "id": 10,
-    "question": "What type of assessments is AI streamlining in the agricultural sector in India, as per recent news?",
-    "options": ["Crop yield predictions", "Livestock health checks", "Agricultural loan assessments", "Market price analyses"],
-    "correctAnswer": "Agricultural loan assessments"
+    "question": "Besides government and domestic private industry, which other entities are increasingly influential in shaping India's research environment?",
+    "options": ["Individual philanthropists", "Religious organizations", "Multinational corporations", "Small and medium enterprises"],
+    "correctAnswer": "Multinational corporations"
   },
   {
     "id": 11,
-    "question": "Which major area of Indian governance is seeing increased access to services due to AI integration?",
-    "options": ["Military operations", "Public transportation", "Government services", "Private banking"],
-    "correctAnswer": "Government services"
+    "question": "What clean energy milestone has NPCIL cumulatively achieved with nuclear power generation?",
+    "options": ["Over 100 billion units", "Over 500 billion units", "Over 1,000 billion units", "Over 2,000 billion units"],
+    "correctAnswer": "Over 1,000 billion units"
   },
   {
     "id": 12,
-    "question": "The increasing use of AI in various sectors across India, including Telangana and Andhra Pradesh, necessitates significant investments in what?",
-    "options": ["Sports stadiums", "Luxurious housing", "Necessary infrastructure", "Foreign currencies"],
-    "correctAnswer": "Necessary infrastructure"
+    "question": "How much CO2 emissions has India avoided due to its cumulative nuclear power generation, as reported by NPCIL?",
+    "options": ["86 million tons", "860 million tons", "8.6 billion tons", "8600 million tons"],
+    "correctAnswer": "860 million tons"
   },
   {
     "id": 13,
-    "question": "How is AI transforming access to government services in India, according to recent insights?",
-    "options": ["By making services exclusive", "By decreasing accessibility", "By increasing access to services", "By privatizing services"],
-    "correctAnswer": "By increasing access to services"
+    "question": "By what year does the Indian government aim to achieve a nuclear power capacity of 100 GW?",
+    "options": ["2025", "2031-32", "2047", "2050"],
+    "correctAnswer": "2047"
   },
   {
     "id": 14,
-    "question": "What is one of the key challenges AI is helping India address in the agricultural sector, particularly regarding environmental factors?",
-    "options": ["Crop diversification", "Farmer protests", "Changing climate conditions", "Pest control measures"],
-    "correctAnswer": "Changing climate conditions"
+    "question": "What is the intermediate target for India's nuclear power capacity by the year 2031-32?",
+    "options": ["10 GW", "22 GW", "50 GW", "100 GW"],
+    "correctAnswer": "22 GW"
   },
   {
     "id": 15,
-    "question": "The recent article highlights India's practical approach to using AI for solving fundamental issues, metaphorically termed as moving 'From Hype To Help'. What is this approach focused on?",
-    "options": ["Theoretical research only", "Addressing real developmental challenges", "Commercializing AI products", "Exporting AI talent"],
-    "correctAnswer": "Addressing real developmental challenges"
+    "question": "The expansion of India's nuclear power capacity will involve multiple stakeholders and the introduction of what, according to the news?",
+    "options": ["New taxation policies", "New sports events", "New legislation", "New international treaties"],
+    "correctAnswer": "New legislation"
   },
   {
     "id": 16,
-    "question": "Farmers across India, including those in Telangana and Andhra Pradesh, are reportedly backing the use of ethanol for what primary economic and energy reasons?",
-    "options": ["To reduce irrigation needs and create new crops", "To boost income and secure energy", "To decrease land prices and lower labor costs", "To promote organic farming and genetic engineering"],
-    "correctAnswer": "To boost income and secure energy"
+    "question": "Which specific scheme is mentioned in the context of MPs feeling left out of foundation stone laying ceremonies?",
+    "options": ["National Highway Projects (NHP)", "Pradhan Mantri Gram Sadak Yojana (PMGSY)", "Smart Cities Mission", "Swachh Bharat Abhiyan"],
+    "correctAnswer": "Pradhan Mantri Gram Sadak Yojana (PMGSY)"
   },
   {
     "id": 17,
-    "question": "The E20 fuel policy, a topic of national discussion in India, refers to a blend of petrol with what percentage of ethanol?",
-    "options": ["5%", "10%", "20%", "25%"],
-    "correctAnswer": "20%"
+    "question": "What has a parliamentary panel urged to ensure MPs are included in foundation stone laying events for rural road schemes?",
+    "options": ["Mandatory media coverage", "Mandatory invitations for MPs", "Financial compensation", "Online voting for participation"],
+    "correctAnswer": "Mandatory invitations for MPs"
   },
   {
     "id": 18,
-    "question": "According to recent reports, what is one of the main benefits farmers see in the production of ethanol for fuel blending?",
-    "options": ["It simplifies crop rotation", "It provides a new market for agricultural produce", "It reduces dependency on fertilizers", "It makes farming less physically demanding"],
-    "correctAnswer": "It provides a new market for agricultural produce"
+    "question": "What system will be implemented to monitor adherence to protocols regarding MP involvement in PMGSY projects?",
+    "options": ["Annual review", "Monthly feedback", "Quarterly system", "Bi-annual audit"],
+    "correctAnswer": "Quarterly system"
   },
   {
     "id": 19,
-    "question": "Which national policy aims to boost farmer income and secure energy through the increased blending of biofuels with conventional fuels?",
-    "options": ["National Food Security Act", "Pradhan Mantri Fasal Bima Yojana", "Ethanol Blending Program (or E20 policy)", "Minimum Support Price policy"],
-    "correctAnswer": "Ethanol Blending Program (or E20 policy)"
+    "question": "What type of evidence has the parliamentary panel proposed should be uploaded online to showcase MP involvement in rural road projects?",
+    "options": ["Videos of speeches", "High-quality photos", "Written testimonials", "Attendance registers"],
+    "correctAnswer": "High-quality photos"
   },
   {
     "id": 20,
-    "question": "What is the maximum percentage of ethanol currently targeted to be blended with petrol under the E20 policy in India?",
-    "options": ["10%", "15%", "20%", "30%"],
-    "correctAnswer": "20%"
+    "question": "The parliamentary panel's intervention primarily aims to uphold which aspect related to MPs' participation in public events?",
+    "options": ["Financial transparency", "Parliamentary etiquette", "Technological innovation", "International relations"],
+    "correctAnswer": "Parliamentary etiquette"
   },
   {
     "id": 21,
-    "question": "A concern raised by some states regarding the E20 policy, relevant to vehicle owners nationwide including Telangana and Andhra Pradesh, primarily revolves around what potential issue?",
-    "options": ["Increased fuel prices", "Vehicle damage from higher ethanol blend", "Scarcity of petrol", "Difficulty in accessing fueling stations"],
-    "correctAnswer": "Vehicle damage from higher ethanol blend"
+    "question": "How many households have now been covered by India's rooftop solar scheme, according to recent reports?",
+    "options": ["10 lakh", "25 lakh", "50 lakh", "75 lakh"],
+    "correctAnswer": "50 lakh"
   },
   {
     "id": 22,
-    "question": "The E20 policy in India primarily aims to reduce the nation's reliance on what?",
-    "options": ["Domestic agriculture", "Renewable energy", "Imported crude oil", "Natural gas"],
-    "correctAnswer": "Imported crude oil"
+    "question": "The milestone of 50-lakh households under the rooftop solar scheme reflects India's progress in which of the following?",
+    "options": ["Fossil fuel extraction", "Nuclear energy research", "Renewable energy adoption", "Hydroelectric power projects"],
+    "correctAnswer": "Renewable energy adoption"
   },
   {
     "id": 23,
-    "question": "What agricultural product, grown by farmers in states like Telangana and Andhra Pradesh, is commonly used as a raw material for ethanol production in India?",
-    "options": ["Cotton", "Maize/Sugarcane", "Spices", "Tea"],
-    "correctAnswer": "Maize/Sugarcane"
+    "question": "What type of energy generation is the \"rooftop solar scheme\" primarily focused on?",
+    "options": ["Wind power", "Thermal power", "Solar photovoltaic power", "Geothermal energy"],
+    "correctAnswer": "Solar photovoltaic power"
   },
   {
     "id": 24,
-    "question": "Sainik Schools, established in various states across India including Telangana (e.g., Karimnagar) and Andhra Pradesh (e.g., Korukonda), serve what primary purpose?",
-    "options": ["Promoting sports", "Preparing students for entry into the National Defence Academy (NDA)", "Teaching vocational skills", "Focusing on arts and humanities"],
-    "correctAnswer": "Preparing students for entry into the National Defence Academy (NDA)"
+    "question": "The \"rooftop solar scheme\" contributes directly to which broader national goal?",
+    "options": ["Enhancing agricultural exports", "Strengthening space defense", "Promoting clean energy transition", "Expanding public transport infrastructure"],
+    "correctAnswer": "Promoting clean energy transition"
   },
   {
     "id": 25,
-    "question": "What type of educational institution, with branches in several Indian states, was recently mentioned in national news regarding alleged increasing involvement of a particular organization?",
-    "options": ["IITs", "Central Universities", "Sainik Schools", "Navodaya Vidyalayas"],
-    "correctAnswer": "Sainik Schools"
+    "question": "What is the significance of the \"50-lakh household mark\" for the rooftop solar scheme in India?",
+    "options": ["It signifies the completion of the scheme", "It indicates a significant expansion of solar energy use in homes", "It shows a decline in conventional energy sources", "It is a target for the next five years"],
+    "correctAnswer": "It indicates a significant expansion of solar energy use in homes"
   }
 ]

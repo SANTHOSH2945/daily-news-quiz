@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which international airport serves Hyderabad, a major aviation hub in Telangana?",
-    "options": ["Begumpet Airport", "Warangal Airport", "Rajiv Gandhi International Airport", "Vijayawada International Airport"],
-    "correctAnswer": "Rajiv Gandhi International Airport"
+    "question": "What recent directive did the Supreme Court issue regarding Bar Councils in India to promote inclusivity?",
+    "options": ["To increase the retirement age of members", "To co-opt two women members", "To conduct online elections", "To reduce membership fees"],
+    "correctAnswer": "To co-opt two women members"
   },
   {
     "id": 2,
-    "question": "What is the full form of DGCA, the Indian regulatory body responsible for civil aviation safety, relevant to all Indian states including Telangana and Andhra Pradesh?",
-    "options": ["Directorate General of Civil Aviation", "Department of Government Civil Aviation", "Divisional Group of Civil Aviation", "Directorate General of Commercial Aeronautics"],
-    "correctAnswer": "Directorate General of Civil Aviation"
+    "question": "How many women members are now mandated by a Supreme Court order to be co-opted into Bar Councils across India, including those in Telangana and Andhra Pradesh?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Two"
   },
   {
     "id": 3,
-    "question": "Which major city in Andhra Pradesh hosts the Visakhapatnam International Airport, a key gateway for the state?",
-    "options": ["Guntur", "Visakhapatnam", "Tirupati", "Nellore"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "The Supreme Court's order for co-option of women members in Bar Councils aims to address what systemic issue described as 'men’s clubs'?",
+    "options": ["Financial mismanagement", "Lack of gender diversity", "Slow legal processes", "Insufficient infrastructure"],
+    "correctAnswer": "Lack of gender diversity"
   },
   {
     "id": 4,
-    "question": "What is the unique three-letter IATA code for Rajiv Gandhi International Airport in Hyderabad, Telangana?",
-    "options": ["HIA", "RGI", "HYD", "BGM"],
-    "correctAnswer": "HYD"
+    "question": "Which judicial body in India recently ordered the inclusion of women members in Bar Councils across all states?",
+    "options": ["High Courts", "District Courts", "Supreme Court", "Lok Adalats"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 5,
-    "question": "Which of the following is a primary airport in Andhra Pradesh, other than Visakhapatnam, facilitating regional air travel?",
-    "options": ["Kadapa Airport", "Rajahmundry Airport", "Tirupati Airport", "All of the above"],
-    "correctAnswer": "All of the above"
+    "question": "The Supreme Court's ruling on Bar Councils, applicable to all states including Telangana and Andhra Pradesh, primarily focuses on improving what aspect of legal professional bodies?",
+    "options": ["Administrative efficiency", "Gender representation", "Funding mechanisms", "Caseload management"],
+    "correctAnswer": "Gender representation"
   },
   {
     "id": 6,
-    "question": "What is the official name of the High Court for the State of Telangana?",
-    "options": ["Hyderabad High Court", "Telangana High Court", "High Court of Andhra Pradesh", "High Court of Secunderabad"],
-    "correctAnswer": "Telangana High Court"
+    "question": "According to recent news, how is Artificial Intelligence primarily aiding farmers across India, including those in Andhra Pradesh and Telangana?",
+    "options": ["By providing entertainment apps", "By assisting with changing climate conditions", "By automating harvesting entirely", "By reducing crop prices"],
+    "correctAnswer": "By assisting with changing climate conditions"
   },
   {
     "id": 7,
-    "question": "Which article of the Indian Constitution ensures freedom of speech and expression, often central to political discourse in states like Telangana and Andhra Pradesh?",
-    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
-    "correctAnswer": "Article 19"
+    "question": "In the healthcare sector across India, what specific benefit is AI providing as mentioned in recent reports?",
+    "options": ["Providing free medicines", "AI-driven diagnostics", "Building new hospitals", "Training more doctors"],
+    "correctAnswer": "AI-driven diagnostics"
   },
   {
     "id": 8,
-    "question": "Which political party won the most recent assembly elections in Telangana and formed the state government?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "AI is being utilized in Indian education, particularly to support whom in remote areas?",
+    "options": ["School administrators", "Teachers", "Policy makers", "Parents"],
+    "correctAnswer": "Teachers"
   },
   {
     "id": 9,
-    "question": "Who is the current Chief Minister of Andhra Pradesh as of the last assembly elections?",
-    "options": ["N. Chandrababu Naidu", "K. Chandrashekar Rao", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan"],
-    "correctAnswer": "Y. S. Jagan Mohan Reddy"
+    "question": "Beyond specific sectors like healthcare and education, AI in India is generally contributing to strengthening which broader national objective?",
+    "options": ["International diplomacy", "Climate resilience", "Space exploration", "Sports development"],
+    "correctAnswer": "Climate resilience"
   },
   {
     "id": 10,
-    "question": "Which political party formed the government in Andhra Pradesh after the 2019 assembly elections?",
-    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "What type of assessments is AI streamlining in the agricultural sector in India, as per recent news?",
+    "options": ["Crop yield predictions", "Livestock health checks", "Agricultural loan assessments", "Market price analyses"],
+    "correctAnswer": "Agricultural loan assessments"
   },
   {
     "id": 11,
-    "question": "The NEET exam, a source of nationwide protests, is a crucial entrance test for admission to which professional courses in India, including Telangana and Andhra Pradesh?",
-    "options": ["Engineering and Technology", "Medical and Dental", "Management and Business Administration", "Law and Judiciary"],
-    "correctAnswer": "Medical and Dental"
+    "question": "Which major area of Indian governance is seeing increased access to services due to AI integration?",
+    "options": ["Military operations", "Public transportation", "Government services", "Private banking"],
+    "correctAnswer": "Government services"
   },
   {
     "id": 12,
-    "question": "What is the name of the public body responsible for conducting recruitment examinations for state government services in Telangana?",
-    "options": ["Andhra Pradesh Public Service Commission (APPSC)", "Telangana State Public Service Commission (TSPSC)", "Union Public Service Commission (UPSC)", "Staff Selection Commission (SSC)"],
-    "correctAnswer": "Telangana State Public Service Commission (TSPSC)"
+    "question": "The increasing use of AI in various sectors across India, including Telangana and Andhra Pradesh, necessitates significant investments in what?",
+    "options": ["Sports stadiums", "Luxurious housing", "Necessary infrastructure", "Foreign currencies"],
+    "correctAnswer": "Necessary infrastructure"
   },
   {
     "id": 13,
-    "question": "What is the name of the public body responsible for conducting recruitment examinations for state government services in Andhra Pradesh?",
-    "options": ["Telangana State Public Service Commission (TSPSC)", "Andhra Pradesh Public Service Commission (APPSC)", "Union Public Service Commission (UPSC)", "Staff Selection Commission (SSC)"],
-    "correctAnswer": "Andhra Pradesh Public Service Commission (APPSC)"
+    "question": "How is AI transforming access to government services in India, according to recent insights?",
+    "options": ["By making services exclusive", "By decreasing accessibility", "By increasing access to services", "By privatizing services"],
+    "correctAnswer": "By increasing access to services"
   },
   {
     "id": 14,
-    "question": "Where is a historically significant and frequently used venue for public protests and demonstrations in Hyderabad, Telangana?",
-    "options": ["Charminar", "Tank Bund", "Dharna Chowk (Indira Park)", "Golconda Fort"],
-    "correctAnswer": "Dharna Chowk (Indira Park)"
+    "question": "What is one of the key challenges AI is helping India address in the agricultural sector, particularly regarding environmental factors?",
+    "options": ["Crop diversification", "Farmer protests", "Changing climate conditions", "Pest control measures"],
+    "correctAnswer": "Changing climate conditions"
   },
   {
     "id": 15,
-    "question": "Which premier investigating agency of India can be involved in large-scale recruitment fraud investigations across states, similar to the one in Jharkhand mentioned in the news?",
-    "options": ["National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
+    "question": "The recent article highlights India's practical approach to using AI for solving fundamental issues, metaphorically termed as moving 'From Hype To Help'. What is this approach focused on?",
+    "options": ["Theoretical research only", "Addressing real developmental challenges", "Commercializing AI products", "Exporting AI talent"],
+    "correctAnswer": "Addressing real developmental challenges"
   },
   {
     "id": 16,
-    "question": "Which temple in Telangana is a highly revered pilgrimage site dedicated to Lord Narasimha, often called 'Telangana Tirupati'?",
-    "options": ["Bhadrachalam Temple", "Yadagirigutta Temple", "Srikalahasti Temple", "Warangal Thousand Pillar Temple"],
-    "correctAnswer": "Yadagirigutta Temple"
+    "question": "Farmers across India, including those in Telangana and Andhra Pradesh, are reportedly backing the use of ethanol for what primary economic and energy reasons?",
+    "options": ["To reduce irrigation needs and create new crops", "To boost income and secure energy", "To decrease land prices and lower labor costs", "To promote organic farming and genetic engineering"],
+    "correctAnswer": "To boost income and secure energy"
   },
   {
     "id": 17,
-    "question": "The Tirumala Venkateswara Temple, one of the world's richest Hindu temples, is located in which Indian state?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The E20 fuel policy, a topic of national discussion in India, refers to a blend of petrol with what percentage of ethanol?",
+    "options": ["5%", "10%", "20%", "25%"],
+    "correctAnswer": "20%"
   },
   {
     "id": 18,
-    "question": "What is the administrative body primarily overseeing the Tirumala Tirupati Devasthanams (TTD) in Andhra Pradesh?",
-    "options": ["Andhra Pradesh Endowments Department", "TTD Board", "Central Endowments Board", "Ministry of Culture"],
-    "correctAnswer": "TTD Board"
+    "question": "According to recent reports, what is one of the main benefits farmers see in the production of ethanol for fuel blending?",
+    "options": ["It simplifies crop rotation", "It provides a new market for agricultural produce", "It reduces dependency on fertilizers", "It makes farming less physically demanding"],
+    "correctAnswer": "It provides a new market for agricultural produce"
   },
   {
     "id": 19,
-    "question": "Which festival, celebrating the birth of Lord Rama, is widely celebrated with fervor in Telangana and Andhra Pradesh, similar to the Ram Mandir context?",
-    "options": ["Krishna Janmashtami", "Shivaratri", "Diwali", "Rama Navami"],
-    "correctAnswer": "Rama Navami"
+    "question": "Which national policy aims to boost farmer income and secure energy through the increased blending of biofuels with conventional fuels?",
+    "options": ["National Food Security Act", "Pradhan Mantri Fasal Bima Yojana", "Ethanol Blending Program (or E20 policy)", "Minimum Support Price policy"],
+    "correctAnswer": "Ethanol Blending Program (or E20 policy)"
   },
   {
     "id": 20,
-    "question": "Which ancient city in Telangana is renowned for its UNESCO World Heritage site, the Kakatiya Rudreshwara (Ramappa) Temple?",
-    "options": ["Hyderabad", "Karimnagar", "Warangal", "Nizamabad"],
-    "correctAnswer": "Warangal"
+    "question": "What is the maximum percentage of ethanol currently targeted to be blended with petrol under the E20 policy in India?",
+    "options": ["10%", "15%", "20%", "30%"],
+    "correctAnswer": "20%"
   },
   {
     "id": 21,
-    "question": "Which major forest range, known for its biodiversity, extends across parts of Andhra Pradesh and Telangana?",
-    "options": ["Western Ghats", "Eastern Ghats", "Satpura Range", "Aravalli Range"],
-    "correctAnswer": "Eastern Ghats"
+    "question": "A concern raised by some states regarding the E20 policy, relevant to vehicle owners nationwide including Telangana and Andhra Pradesh, primarily revolves around what potential issue?",
+    "options": ["Increased fuel prices", "Vehicle damage from higher ethanol blend", "Scarcity of petrol", "Difficulty in accessing fueling stations"],
+    "correctAnswer": "Vehicle damage from higher ethanol blend"
   },
   {
     "id": 22,
-    "question": "Which river is often referred to as the 'Lifeline of Andhra Pradesh and Telangana' and is a major source of water for irrigation and drinking?",
-    "options": ["Godavari River", "Krishna River", "Tungabhadra River", "Penna River"],
-    "correctAnswer": "Krishna River"
+    "question": "The E20 policy in India primarily aims to reduce the nation's reliance on what?",
+    "options": ["Domestic agriculture", "Renewable energy", "Imported crude oil", "Natural gas"],
+    "correctAnswer": "Imported crude oil"
   },
   {
     "id": 23,
-    "question": "What is the state tree of Telangana, reflecting its local flora and environmental identity?",
-    "options": ["Neem", "Mango", "Jammi Chettu (Prosopis cineraria)", "Banyan"],
-    "correctAnswer": "Jammi Chettu (Prosopis cineraria)"
+    "question": "What agricultural product, grown by farmers in states like Telangana and Andhra Pradesh, is commonly used as a raw material for ethanol production in India?",
+    "options": ["Cotton", "Maize/Sugarcane", "Spices", "Tea"],
+    "correctAnswer": "Maize/Sugarcane"
   },
   {
     "id": 24,
-    "question": "The climate in Telangana and Andhra Pradesh, similar to other parts of India, is experiencing effects of rising temperatures. What is the typical climate classification for much of this region?",
-    "options": ["Arid", "Humid Subtropical", "Tropical Wet and Dry", "Alpine"],
-    "correctAnswer": "Tropical Wet and Dry"
+    "question": "Sainik Schools, established in various states across India including Telangana (e.g., Karimnagar) and Andhra Pradesh (e.g., Korukonda), serve what primary purpose?",
+    "options": ["Promoting sports", "Preparing students for entry into the National Defence Academy (NDA)", "Teaching vocational skills", "Focusing on arts and humanities"],
+    "correctAnswer": "Preparing students for entry into the National Defence Academy (NDA)"
   },
   {
     "id": 25,
-    "question": "The Kaleshwaram Lift Irrigation Project, a mega project in Telangana, primarily draws water from which river?",
-    "options": ["Krishna", "Godavari", "Musi", "Manjira"],
-    "correctAnswer": "Godavari"
+    "question": "What type of educational institution, with branches in several Indian states, was recently mentioned in national news regarding alleged increasing involvement of a particular organization?",
+    "options": ["IITs", "Central Universities", "Sainik Schools", "Navodaya Vidyalayas"],
+    "correctAnswer": "Sainik Schools"
   }
 ]

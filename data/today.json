@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Asaduddin Owaisi, a prominent political figure, recently criticized remarks concerning madrassas. He is an MP from which Indian state?",
-    "options": ["Uttar Pradesh", "Maharashtra", "Telangana", "Karnataka"],
-    "correctAnswer": "Telangana"
+    "question": "Where is India's primary spaceport, Satish Dhawan Space Centre (SDSC), located, from where satellites like NVS-03 are launched?",
+    "options": ["Karnataka", "Kerala", "Andhra Pradesh", "Odisha"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "Which political party, primarily based in Telangana, does Asaduddin Owaisi lead?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)", "Telugu Desam Party (TDP)", "Yuvajana Sramika Rythu Congress Party (YSRCP)"],
-    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
+    "question": "NVS-03, a navigation satellite mentioned in the news, is part of India's indigenous satellite navigation system. What is this system officially known as?",
+    "options": ["GAGAN", "NavIC", "DORIS", "GLONASS"],
+    "correctAnswer": "NavIC"
   },
   {
     "id": 3,
-    "question": "Asaduddin Owaisi, the MP from Hyderabad, used the phrase 'spewing venom to stay politically relevant' in response to whose remarks about madrassas?",
-    "options": ["Rahul Gandhi", "Devendra Fadnavis", "Keshav Maurya", "Sambit Patra"],
-    "correctAnswer": "Keshav Maurya"
+    "question": "Which premier Indian space organization is responsible for the design, development, and launch of satellites such as NVS-03?",
+    "options": ["DRDO", "ISRO", "BARC", "HAL"],
+    "correctAnswer": "ISRO"
   },
   {
     "id": 4,
-    "question": "The All India Majlis-e-Ittehadul Muslimeen (AIMIM), led by Asaduddin Owaisi, has its headquarters in which major city, located in Telangana?",
-    "options": ["Visakhapatnam", "Hyderabad", "Amaravati", "Vijayawada"],
-    "correctAnswer": "Hyderabad"
+    "question": "The Satish Dhawan Space Centre, crucial for India's satellite launches, is situated in which district of Andhra Pradesh?",
+    "options": ["Guntur", "Visakhapatnam", "Nellore", "Chittoor"],
+    "correctAnswer": "Nellore"
   },
   {
     "id": 5,
-    "question": "What was the central topic of the remarks that drew strong criticism from Telangana MP Asaduddin Owaisi?",
-    "options": ["Farmers' protests", "Madrassa education", "Economic policies", "Flood relief efforts"],
-    "correctAnswer": "Madrassa education"
+    "question": "The NVS series of satellites enhances India's regional satellite navigation capabilities. Which state's territory hosts the critical launch infrastructure for these missions?",
+    "options": ["Tamil Nadu", "Maharashtra", "Andhra Pradesh", "Gujarat"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 6,
-    "question": "Asaduddin Owaisi's recent comments highlight the role of which state's political voices in national debates concerning minority affairs?",
-    "options": ["Andhra Pradesh", "Tamil Nadu", "Telangana", "Kerala"],
-    "correctAnswer": "Telangana"
+    "question": "The news refers to inter-state river water disputes. Which specific river water dispute primarily involves Telangana and Andhra Pradesh, particularly concerning their shares?",
+    "options": ["Mahanadi River dispute", "Cauvery River dispute", "Krishna River dispute", "Periyar River dispute"],
+    "correctAnswer": "Krishna River dispute"
   },
   {
     "id": 7,
-    "question": "The political party AIMIM, active in Telangana and led by Asaduddin Owaisi, primarily represents the interests of which community?",
-    "options": ["Farmers", "Industrialists", "Muslims", "Women"],
-    "correctAnswer": "Muslims"
+    "question": "Which two major rivers are often central to water sharing agreements and disputes between Telangana and Andhra Pradesh?",
+    "options": ["Narmada and Tapi", "Brahmaputra and Ganga", "Krishna and Godavari", "Indus and Jhelum"],
+    "correctAnswer": "Krishna and Godavari"
   },
   {
     "id": 8,
-    "question": "Which two significant legislative proposals were mentioned by the government for potential discussion in a special Parliament session?",
-    "options": ["Uniform Civil Code and Farm Bills", "Women's Reservation and Delimitation Bills", "Anti-Conversion Bill and Forest Rights Bill", "Data Protection Bill and Labour Codes"],
-    "correctAnswer": "Women's Reservation and Delimitation Bills"
+    "question": "The Palamuru-Rangareddy Lift Irrigation Scheme, which has been a point of contention regarding inter-state water sharing, is a flagship project of which state?",
+    "options": ["Karnataka", "Andhra Pradesh", "Telangana", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 9,
-    "question": "The Women's Reservation Bill, if enacted, aims to reserve seats for women in which legislative bodies?",
-    "options": ["Rajya Sabha only", "State Assemblies and Municipalities only", "Lok Sabha and State Legislative Assemblies", "Parliament's Upper House and Gram Panchayats"],
-    "correctAnswer": "Lok Sabha and State Legislative Assemblies"
+    "question": "The Rayalaseema Lift Irrigation Scheme, intended to draw water from the Krishna River, has been a subject of dispute. Which state proposed this scheme?",
+    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Odisha"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 10,
-    "question": "What is the primary objective of a Delimitation Bill in India?",
-    "options": ["To establish new states", "To redrawing electoral constituency boundaries", "To introduce new taxation policies", "To reform judicial appointments"],
-    "correctAnswer": "To redrawing electoral constituency boundaries"
+    "question": "What is the primary mechanism established in India to resolve disputes over inter-state rivers, often involving the constitution of specific tribunals?",
+    "options": ["Supreme Court direct intervention", "Parliamentary legislation", "Inter-State River Water Disputes Tribunals", "Bilateral state agreements only"],
+    "correctAnswer": "Inter-State River Water Disputes Tribunals"
   },
   {
     "id": 11,
-    "question": "The process of delimitation, if implemented, would involve adjusting electoral boundaries based on what demographic data?",
-    "options": ["Economic Survey", "Population Census", "Voter Turnout Statistics", "Agricultural Productivity"],
-    "correctAnswer": "Population Census"
+    "question": "The news highlights the need to curb illegal mining. Which valuable mineral resource, significant in parts of Andhra Pradesh, has often been associated with illegal mining concerns?",
+    "options": ["Gold", "Diamonds", "Bauxite", "Uranium"],
+    "correctAnswer": "Bauxite"
   },
   {
     "id": 12,
-    "question": "If the Women's Reservation Bill passes, how would it specifically impact the political landscape of states like Telangana and Andhra Pradesh?",
-    "options": ["It would reduce the number of elected representatives.", "It would increase the representation of women in their respective state assemblies.", "It would dissolve the existing state legislative councils.", "It would merge the two states into one larger entity."],
-    "correctAnswer": "It would increase the representation of women in their respective state assemblies."
+    "question": "In Telangana, the Singareni Collieries Company Limited (SCCL) is a major public sector undertaking involved in the mining of which critical fossil fuel?",
+    "options": ["Petroleum", "Natural Gas", "Coal", "Lignite"],
+    "correctAnswer": "Coal"
   },
   {
     "id": 13,
-    "question": "The Delimitation Bill, if enacted, could lead to significant changes in the allocation of parliamentary and assembly seats, potentially affecting the political representation of various regions within states like Telangana and Andhra Pradesh. This process is typically preceded by what?",
-    "options": ["A national referendum", "A detailed economic survey", "A population census", "A Supreme Court ruling"],
-    "correctAnswer": "A population census"
+    "question": "Which state government department in both Andhra Pradesh and Telangana is primarily tasked with the regulation of mineral exploration, extraction, and curbing illegal mining?",
+    "options": ["Forest Department", "Environment Department", "Mines and Geology Department", "Revenue Department"],
+    "correctAnswer": "Mines and Geology Department"
   },
   {
     "id": 14,
-    "question": "A special session of Parliament was speculated to discuss the Women's Reservation and Delimitation Bills. These bills are considered significant because they deal with what aspect of Indian democracy?",
-    "options": ["Fiscal policy and budget allocation", "Electoral reforms and representation", "Foreign policy and international relations", "Environmental protection and climate change"],
-    "correctAnswer": "Electoral reforms and representation"
+    "question": "Unregulated sand mining, a form of illegal mining mentioned in the broader context of mineral monitoring, is a prevalent issue particularly along the riverbeds of which major river flowing through Telangana and Andhra Pradesh?",
+    "options": ["Cauvery", "Brahmaputra", "Krishna", "Sutlej"],
+    "correctAnswer": "Krishna"
   },
   {
     "id": 15,
-    "question": "What potential impact does the Delimitation Bill have on the number of constituencies in states like Telangana and Andhra Pradesh?",
-    "options": ["It could lead to a fixed number of constituencies permanently.", "It could result in an increase or decrease in the number of constituencies based on population changes.", "It would abolish all existing constituencies.", "It only affects union territories, not states."],
-    "correctAnswer": "It could result in an increase or decrease in the number of constituencies based on population changes."
+    "question": "What is a common severe environmental consequence of rampant illegal mining activities in states with rich mineral deposits like Andhra Pradesh and Telangana?",
+    "options": ["Increased biodiversity", "Improved soil fertility", "Deforestation and land degradation", "Reduced air pollution"],
+    "correctAnswer": "Deforestation and land degradation"
   },
   {
     "id": 16,
-    "question": "The Women's Reservation Bill aims to address gender disparity in politics by ensuring a certain percentage of seats for women. What percentage is commonly proposed for this reservation?",
-    "options": ["10%", "25%", "33%", "50%"],
-    "correctAnswer": "33%"
+    "question": "The news mentions delimitation. When is the next major delimitation exercise in India, which would potentially redraw the boundaries of parliamentary and assembly constituencies in Telangana and Andhra Pradesh, expected to take effect?",
+    "options": ["After the 2021 Census", "After 2026", "After the 2031 Census", "No further delimitation is planned"],
+    "correctAnswer": "After 2026"
   },
   {
     "id": 17,
-    "question": "Beyond the Lok Sabha, the Women's Reservation Bill also targets enhancing women's representation in which other tier of government crucial for states like Telangana and Andhra Pradesh?",
-    "options": ["Gram Panchayats", "State Legislative Assemblies", "Rajya Sabha", "Union Cabinet"],
-    "correctAnswer": "State Legislative Assemblies"
+    "question": "What is the primary objective of the delimitation process, as discussed in the context of national legislative affairs, affecting states like Telangana and Andhra Pradesh?",
+    "options": ["To increase the number of Rajya Sabha seats", "To redraw constituency boundaries to reflect population changes", "To merge smaller states into larger ones", "To establish new state capitals"],
+    "correctAnswer": "To redraw constituency boundaries to reflect population changes"
   },
   {
     "id": 18,
-    "question": "Which global tech company's CEO recently apologized to the Indian government over content moderation and platform issues?",
-    "options": ["Google", "Microsoft", "Meta", "Apple"],
-    "correctAnswer": "Meta"
+    "question": "Which constitutional amendment act froze the number of Lok Sabha and Assembly seats in states, including Andhra Pradesh and Telangana, based on the 1971 census until 2026?",
+    "options": ["42nd Amendment", "61st Amendment", "84th Amendment", "101st Amendment"],
+    "correctAnswer": "84th Amendment"
   },
   {
     "id": 19,
-    "question": "Mark Zuckerberg, CEO of Meta, extended an apology to the Indian government concerning what specific type of issues?",
-    "options": ["Data privacy breaches", "Monopoly practices", "Content moderation and platform issues", "Tax evasion"],
-    "correctAnswer": "Content moderation and platform issues"
+    "question": "The delimitation process aims to ensure that constituencies within a state like Telangana have roughly equal populations. Which body is primarily responsible for carrying out this task?",
+    "options": ["Election Commission of India", "Parliament", "Delimitation Commission", "State Legislatures"],
+    "correctAnswer": "Delimitation Commission"
   },
   {
     "id": 20,
-    "question": "The interaction between Meta's CEO and the Indian government highlights India's growing role in which global discussions?",
-    "options": ["Space exploration policy", "International trade agreements", "Digital governance and tech regulation", "Climate change mitigation"],
-    "correctAnswer": "Digital governance and tech regulation"
+    "question": "How does the impending delimitation, post-2026, primarily aim to impact the representation of various regions within a state like Andhra Pradesh in its legislative assembly?",
+    "options": ["By increasing the total number of assembly seats uniformly", "By ensuring proportional representation based on the latest population census", "By reducing the number of constituencies in rapidly growing urban areas", "By empowering only the central government to decide state boundaries"],
+    "correctAnswer": "By ensuring proportional representation based on the latest population census"
   },
   {
     "id": 21,
-    "question": "The issues of content moderation on social media platforms like Meta are relevant to citizens in states like Telangana and Andhra Pradesh because they impact what?",
-    "options": ["Agricultural subsidies", "Online safety and the spread of misinformation", "Public transportation networks", "Electricity supply"],
-    "correctAnswer": "Online safety and the spread of misinformation"
+    "question": "Following the bifurcation of Andhra Pradesh in 2014, what is the currently designated capital of Andhra Pradesh, though proposals for a new capital have been debated?",
+    "options": ["Visakhapatnam", "Kurnool", "Amaravati", "Vijayawada"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 22,
-    "question": "The Indian government's engagement with Meta on platform issues underscores its commitment to ensuring what for its citizens, including those in Telangana and Andhra Pradesh?",
-    "options": ["Access to free internet", "Digital literacy programs", "A safe and responsible online environment", "Development of indigenous social media platforms"],
-    "correctAnswer": "A safe and responsible online environment"
+    "question": "What is the current capital city of Telangana state, known for being a major hub for IT, pharmaceuticals, and biotechnology industries in India?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Secunderabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 23,
-    "question": "The Indian Parliament is empowered to legislate on subjects mentioned in which list of the Seventh Schedule of the Constitution?",
-    "options": ["State List", "Concurrent List", "Union List", "Residuary List"],
-    "correctAnswer": "Union List"
+    "question": "Hyderabad, the capital of Telangana, is home to a significant part of India's defense and aerospace industry. Which major public sector unit, involved in aerospace and defense, has a prominent presence there?",
+    "options": ["Hindustan Aeronautics Limited (HAL)", "Bharat Dynamics Limited (BDL)", "Garden Reach Shipbuilders & Engineers (GRSE)", "Mazagon Dock Shipbuilders (MDL)"],
+    "correctAnswer": "Bharat Dynamics Limited (BDL)"
   },
   {
     "id": 24,
-    "question": "Legislative Bills related to national policy, such as those concerning reservation or delimitation, are typically introduced and debated in which central governmental body?",
-    "options": ["State Legislative Assemblies", "Supreme Court", "Parliament of India", "NITI Aayog"],
-    "correctAnswer": "Parliament of India"
+    "question": "Which agricultural product is a major crop for both Telangana and Andhra Pradesh, heavily reliant on efficient water management and irrigation discussed in the context of river disputes?",
+    "options": ["Wheat", "Sugarcane", "Paddy (Rice)", "Cotton"],
+    "correctAnswer": "Paddy (Rice)"
   },
   {
     "id": 25,
-    "question": "The Indian government's statement on special parliamentary sessions indicates that key policy discussions are initiated and managed by which branch of government?",
-    "options": ["Judiciary", "Executive", "Legislative", "Local Self-Government"],
-    "correctAnswer": "Executive"
+    "question": "Given the discussions on national policy and state-level implementation, which Indian institution plays a crucial role in promoting cooperative federalism and economic development, including matters of infrastructure and shared resources, across states like Telangana and Andhra Pradesh?",
+    "options": ["Reserve Bank of India", "NITI Aayog", "Comptroller and Auditor General", "Securities and Exchange Board of India"],
+    "correctAnswer": "NITI Aayog"
   }
 ]

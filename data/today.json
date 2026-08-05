@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which sector in India is reportedly being 'rewritten' by Corporate Social Responsibility (CSR) activities, moving beyond mere donations?",
-    "options": ["Healthcare", "Infrastructure", "Education", "Agriculture"],
-    "correctAnswer": "Education"
+    "question": "Asaduddin Owaisi, a prominent political figure, recently criticized remarks concerning madrassas. He is an MP from which Indian state?",
+    "options": ["Uttar Pradesh", "Maharashtra", "Telangana", "Karnataka"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 2,
-    "question": "The news headline suggests a significant shift in CSR activities in India; what is this shift primarily focused on?",
-    "options": ["Increasing international aid", "Beyond mere donations to comprehensive engagement in education", "Funding political campaigns", "Supporting sports events"],
-    "correctAnswer": "Beyond mere donations to comprehensive engagement in education"
+    "question": "Which political party, primarily based in Telangana, does Asaduddin Owaisi lead?",
+    "options": ["Bharat Rashtra Samithi (BRS)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)", "Telugu Desam Party (TDP)", "Yuvajana Sramika Rythu Congress Party (YSRCP)"],
+    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
   },
   {
     "id": 3,
-    "question": "According to the news, how are Corporate Social Responsibility (CSR) initiatives evolving in India?",
-    "options": ["They are becoming entirely government-funded.", "They are shifting from donations to actively rewriting India's education story.", "They are solely focusing on urban development.", "They are primarily directed towards environmental conservation."],
-    "correctAnswer": "They are shifting from donations to actively rewriting India's education story."
+    "question": "Asaduddin Owaisi, the MP from Hyderabad, used the phrase 'spewing venom to stay politically relevant' in response to whose remarks about madrassas?",
+    "options": ["Rahul Gandhi", "Devendra Fadnavis", "Keshav Maurya", "Sambit Patra"],
+    "correctAnswer": "Keshav Maurya"
   },
   {
     "id": 4,
-    "question": "What does the acronym CSR stand for in the context of corporate contributions in India?",
-    "options": ["Company Services & Resources", "Corporate Social Responsibility", "Civic Sector Reforms", "Commercial Strategy & Revenue"],
-    "correctAnswer": "Corporate Social Responsibility"
+    "question": "The All India Majlis-e-Ittehadul Muslimeen (AIMIM), led by Asaduddin Owaisi, has its headquarters in which major city, located in Telangana?",
+    "options": ["Visakhapatnam", "Hyderabad", "Amaravati", "Vijayawada"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 5,
-    "question": "Who is the current Cabinet Secretary of India who recently received a one-year extension?",
-    "options": ["Ajay Bhalla", "Rajiv Gauba", "TV Somanathan", "Govind Mohan"],
-    "correctAnswer": "TV Somanathan"
+    "question": "What was the central topic of the remarks that drew strong criticism from Telangana MP Asaduddin Owaisi?",
+    "options": ["Farmers' protests", "Madrassa education", "Economic policies", "Flood relief efforts"],
+    "correctAnswer": "Madrassa education"
   },
   {
     "id": 6,
-    "question": "Which top government official, alongside the Cabinet Secretary, received a one-year extension in their position?",
-    "options": ["Finance Secretary", "Defence Secretary", "Home Secretary", "Foreign Secretary"],
-    "correctAnswer": "Home Secretary"
+    "question": "Asaduddin Owaisi's recent comments highlight the role of which state's political voices in national debates concerning minority affairs?",
+    "options": ["Andhra Pradesh", "Tamil Nadu", "Telangana", "Kerala"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 7,
-    "question": "What is the name of the Home Secretary of India who recently received a one-year extension?",
-    "options": ["Ajay Kumar Bhalla", "Subrahmanyam Jaishankar", "Govind Mohan", "T.V. Somanathan"],
-    "correctAnswer": "Govind Mohan"
+    "question": "The political party AIMIM, active in Telangana and led by Asaduddin Owaisi, primarily represents the interests of which community?",
+    "options": ["Farmers", "Industrialists", "Muslims", "Women"],
+    "correctAnswer": "Muslims"
   },
   {
     "id": 8,
-    "question": "What is the duration of the extension granted to India's Cabinet Secretary and Home Secretary?",
-    "options": ["Six months", "One year", "Two years", "Three months"],
-    "correctAnswer": "One year"
+    "question": "Which two significant legislative proposals were mentioned by the government for potential discussion in a special Parliament session?",
+    "options": ["Uniform Civil Code and Farm Bills", "Women's Reservation and Delimitation Bills", "Anti-Conversion Bill and Forest Rights Bill", "Data Protection Bill and Labour Codes"],
+    "correctAnswer": "Women's Reservation and Delimitation Bills"
   },
   {
     "id": 9,
-    "question": "TV Somanathan holds which crucial position in the Indian government that recently saw his extension?",
-    "options": ["Defence Secretary", "Finance Secretary", "Cabinet Secretary", "Foreign Secretary"],
-    "correctAnswer": "Cabinet Secretary"
+    "question": "The Women's Reservation Bill, if enacted, aims to reserve seats for women in which legislative bodies?",
+    "options": ["Rajya Sabha only", "State Assemblies and Municipalities only", "Lok Sabha and State Legislative Assemblies", "Parliament's Upper House and Gram Panchayats"],
+    "correctAnswer": "Lok Sabha and State Legislative Assemblies"
   },
   {
     "id": 10,
-    "question": "What does CJP stand for in the context of the youth-led campaign mentioned in the news?",
-    "options": ["Citizens' Justice Party", "Civilian Journalists' Platform", "Cockroach Janta Party", "Campus Journalism Project"],
-    "correctAnswer": "Cockroach Janta Party"
+    "question": "What is the primary objective of a Delimitation Bill in India?",
+    "options": ["To establish new states", "To redrawing electoral constituency boundaries", "To introduce new taxation policies", "To reform judicial appointments"],
+    "correctAnswer": "To redrawing electoral constituency boundaries"
   },
   {
     "id": 11,
-    "question": "Saurav Das is a visible representative of which youth-led campaign in India that recently raised concerns about media intrusion?",
-    "options": ["Youth for Rights", "Save Our India", "Cockroach Janta Party (CJP)", "Digital India Movement"],
-    "correctAnswer": "Cockroach Janta Party (CJP)"
+    "question": "The process of delimitation, if implemented, would involve adjusting electoral boundaries based on what demographic data?",
+    "options": ["Economic Survey", "Population Census", "Voter Turnout Statistics", "Agricultural Productivity"],
+    "correctAnswer": "Population Census"
   },
   {
     "id": 12,
-    "question": "Which Chief Justice of India's statement initially inspired the satirical online response that later developed into the CJP movement?",
-    "options": ["Ranjan Gogoi", "Surya Kant", "D.Y. Chandrachud", "U.U. Lalit"],
-    "correctAnswer": "Surya Kant"
+    "question": "If the Women's Reservation Bill passes, how would it specifically impact the political landscape of states like Telangana and Andhra Pradesh?",
+    "options": ["It would reduce the number of elected representatives.", "It would increase the representation of women in their respective state assemblies.", "It would dissolve the existing state legislative councils.", "It would merge the two states into one larger entity."],
+    "correctAnswer": "It would increase the representation of women in their respective state assemblies."
   },
   {
     "id": 13,
-    "question": "What issues has the CJP movement primarily focused on in India, according to the news?",
-    "options": ["Environmental protection and climate change", "Economic reforms and international trade", "Exam security, administrative reforms, and employment-related concerns", "Healthcare access and social welfare programs"],
-    "correctAnswer": "Exam security, administrative reforms, and employment-related concerns"
+    "question": "The Delimitation Bill, if enacted, could lead to significant changes in the allocation of parliamentary and assembly seats, potentially affecting the political representation of various regions within states like Telangana and Andhra Pradesh. This process is typically preceded by what?",
+    "options": ["A national referendum", "A detailed economic survey", "A population census", "A Supreme Court ruling"],
+    "correctAnswer": "A population census"
   },
   {
     "id": 14,
-    "question": "What was Saurav Das's professional background that made him a visible representative of CJP?",
-    "options": ["Lawyer", "Engineer", "Journalist", "Doctor"],
-    "correctAnswer": "Journalist"
+    "question": "A special session of Parliament was speculated to discuss the Women's Reservation and Delimitation Bills. These bills are considered significant because they deal with what aspect of Indian democracy?",
+    "options": ["Fiscal policy and budget allocation", "Electoral reforms and representation", "Foreign policy and international relations", "Environmental protection and climate change"],
+    "correctAnswer": "Electoral reforms and representation"
   },
   {
     "id": 15,
-    "question": "What does E20 refer to in the context of fuel policy in India?",
-    "options": ["A new electric vehicle model", "A grade of petrol blended with 20% ethanol", "A highway project", "An energy efficiency standard for appliances"],
-    "correctAnswer": "A grade of petrol blended with 20% ethanol"
+    "question": "What potential impact does the Delimitation Bill have on the number of constituencies in states like Telangana and Andhra Pradesh?",
+    "options": ["It could lead to a fixed number of constituencies permanently.", "It could result in an increase or decrease in the number of constituencies based on population changes.", "It would abolish all existing constituencies.", "It only affects union territories, not states."],
+    "correctAnswer": "It could result in an increase or decrease in the number of constituencies based on population changes."
   },
   {
     "id": 16,
-    "question": "Which political party alleged that the E20 policy benefits ethanol producers at the expense of consumers?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "All India Trinamool Congress (AITC)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "The Women's Reservation Bill aims to address gender disparity in politics by ensuring a certain percentage of seats for women. What percentage is commonly proposed for this reservation?",
+    "options": ["10%", "25%", "33%", "50%"],
+    "correctAnswer": "33%"
   },
   {
     "id": 17,
-    "question": "What is the primary concern raised by Congress regarding the E20 fuel policy in India?",
-    "options": ["It causes increased air pollution.", "It disproportionately benefits ethanol producers, making consumers pay more.", "It leads to fuel scarcity.", "It promotes foreign imports."],
-    "correctAnswer": "It disproportionately benefits ethanol producers, making consumers pay more."
+    "question": "Beyond the Lok Sabha, the Women's Reservation Bill also targets enhancing women's representation in which other tier of government crucial for states like Telangana and Andhra Pradesh?",
+    "options": ["Gram Panchayats", "State Legislative Assemblies", "Rajya Sabha", "Union Cabinet"],
+    "correctAnswer": "State Legislative Assemblies"
   },
   {
     "id": 18,
-    "question": "What percentage of ethanol is blended with petrol in E20 fuel?",
-    "options": ["5%", "10%", "20%", "25%"],
-    "correctAnswer": "20%"
+    "question": "Which global tech company's CEO recently apologized to the Indian government over content moderation and platform issues?",
+    "options": ["Google", "Microsoft", "Meta", "Apple"],
+    "correctAnswer": "Meta"
   },
   {
     "id": 19,
-    "question": "The E20 fuel policy is part of India's broader initiative towards what?",
-    "options": ["Reducing fuel prices", "Increasing dependence on fossil fuels", "Promoting alternative and cleaner fuels", "Boosting automobile exports"],
-    "correctAnswer": "Promoting alternative and cleaner fuels"
+    "question": "Mark Zuckerberg, CEO of Meta, extended an apology to the Indian government concerning what specific type of issues?",
+    "options": ["Data privacy breaches", "Monopoly practices", "Content moderation and platform issues", "Tax evasion"],
+    "correctAnswer": "Content moderation and platform issues"
   },
   {
     "id": 20,
-    "question": "Which institution clarified that there is no blanket ban on reporting court proceedings, but some restrictions apply?",
-    "options": ["High Court", "District Court", "Supreme Court", "Parliament"],
-    "correctAnswer": "Supreme Court"
+    "question": "The interaction between Meta's CEO and the Indian government highlights India's growing role in which global discussions?",
+    "options": ["Space exploration policy", "International trade agreements", "Digital governance and tech regulation", "Climate change mitigation"],
+    "correctAnswer": "Digital governance and tech regulation"
   },
   {
     "id": 21,
-    "question": "What was the subject of the clarification issued by the Supreme Court regarding court proceedings?",
-    "options": ["Dress code for lawyers", "Duration of hearings", "Restrictions on the use of audio-video clips for reporting", "Rules for filing petitions"],
-    "correctAnswer": "Restrictions on the use of audio-video clips for reporting"
+    "question": "The issues of content moderation on social media platforms like Meta are relevant to citizens in states like Telangana and Andhra Pradesh because they impact what?",
+    "options": ["Agricultural subsidies", "Online safety and the spread of misinformation", "Public transportation networks", "Electricity supply"],
+    "correctAnswer": "Online safety and the spread of misinformation"
   },
   {
     "id": 22,
-    "question": "The Supreme Court clarified its order concerning the use of what type of content from court proceedings for reporting purposes?",
-    "options": ["Written transcripts only", "Only still photographs", "Audio-video clips", "Court documents"],
-    "correctAnswer": "Audio-video clips"
+    "question": "The Indian government's engagement with Meta on platform issues underscores its commitment to ensuring what for its citizens, including those in Telangana and Andhra Pradesh?",
+    "options": ["Access to free internet", "Digital literacy programs", "A safe and responsible online environment", "Development of indigenous social media platforms"],
+    "correctAnswer": "A safe and responsible online environment"
   },
   {
     "id": 23,
-    "question": "Who recently guided newly elected BJP MPs on connecting with the youth and understanding Parliament?",
-    "options": ["Home Minister Amit Shah", "BJP President J.P. Nadda", "Prime Minister Narendra Modi", "Vice President Jagdeep Dhankhar"],
-    "correctAnswer": "Prime Minister Narendra Modi"
+    "question": "The Indian Parliament is empowered to legislate on subjects mentioned in which list of the Seventh Schedule of the Constitution?",
+    "options": ["State List", "Concurrent List", "Union List", "Residuary List"],
+    "correctAnswer": "Union List"
   },
   {
     "id": 24,
-    "question": "What key advice did PM Modi offer to newly elected BJP MPs regarding grassroots connectivity?",
-    "options": ["Focus on social media outreach only", "Delegate all public interactions to staff", "Listen to youth, read, learn, and understand Parliament", "Prioritize international relations"],
-    "correctAnswer": "Listen to youth, read, learn, and understand Parliament"
+    "question": "Legislative Bills related to national policy, such as those concerning reservation or delimitation, are typically introduced and debated in which central governmental body?",
+    "options": ["State Legislative Assemblies", "Supreme Court", "Parliament of India", "NITI Aayog"],
+    "correctAnswer": "Parliament of India"
   },
   {
     "id": 25,
-    "question": "According to PM Modi's guidance, what is essential for newly elected BJP MPs to effectively connect with the youth?",
-    "options": ["Ignoring youth concerns", "Engaging in constant public debates", "Listening to them and understanding their perspectives", "Only delivering speeches"],
-    "correctAnswer": "Listening to them and understanding their perspectives"
+    "question": "The Indian government's statement on special parliamentary sessions indicates that key policy discussions are initiated and managed by which branch of government?",
+    "options": ["Judiciary", "Executive", "Legislative", "Local Self-Government"],
+    "correctAnswer": "Executive"
   }
 ]

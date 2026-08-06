@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Where is India's primary spaceport, Satish Dhawan Space Centre (SDSC), located, from where satellites like NVS-03 are launched?",
-    "options": ["Karnataka", "Kerala", "Andhra Pradesh", "Odisha"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The Supreme Court recently urged states, including Telangana and Andhra Pradesh, to decide on raising the retirement age for which specific group of judicial officers?",
+    "options": ["High Court Judges", "District Court Judges", "Trial Court Judges", "Supreme Court Judges"],
+    "correctAnswer": "Trial Court Judges"
   },
   {
     "id": 2,
-    "question": "NVS-03, a navigation satellite mentioned in the news, is part of India's indigenous satellite navigation system. What is this system officially known as?",
-    "options": ["GAGAN", "NavIC", "DORIS", "GLONASS"],
-    "correctAnswer": "NavIC"
+    "question": "By what date did the Supreme Court ask states, including Telangana and Andhra Pradesh, to make a decision regarding the retirement age of trial court judges?",
+    "options": ["August 15", "September 2", "October 1", "December 31"],
+    "correctAnswer": "September 2"
   },
   {
     "id": 3,
-    "question": "Which premier Indian space organization is responsible for the design, development, and launch of satellites such as NVS-03?",
-    "options": ["DRDO", "ISRO", "BARC", "HAL"],
-    "correctAnswer": "ISRO"
+    "question": "The Supreme Court advocated for raising the retirement age of trial court judges, arguing that retaining experienced judges offers what to the government?",
+    "options": ["Reduced workload for senior judges", "Financial benefits", "Greater judicial independence", "Faster case resolution"],
+    "correctAnswer": "Financial benefits"
   },
   {
     "id": 4,
-    "question": "The Satish Dhawan Space Centre, crucial for India's satellite launches, is situated in which district of Andhra Pradesh?",
-    "options": ["Guntur", "Visakhapatnam", "Nellore", "Chittoor"],
-    "correctAnswer": "Nellore"
+    "question": "Which argument against raising the retirement age of judges was specifically dismissed by the Supreme Court in its directive to states?",
+    "options": ["Lack of suitable replacements", "Potential for judicial overreach", "Financial constraints", "Constitutional challenges"],
+    "correctAnswer": "Financial constraints"
   },
   {
     "id": 5,
-    "question": "The NVS series of satellites enhances India's regional satellite navigation capabilities. Which state's territory hosts the critical launch infrastructure for these missions?",
-    "options": ["Tamil Nadu", "Maharashtra", "Andhra Pradesh", "Gujarat"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The Supreme Court's initiative to enhance the retirement age of trial court judges aims to align their superannuation age with that of judges from which other level of the judiciary?",
+    "options": ["Magistrates' Courts", "Family Courts", "High Courts", "Consumer Forums"],
+    "correctAnswer": "High Courts"
   },
   {
     "id": 6,
-    "question": "The news refers to inter-state river water disputes. Which specific river water dispute primarily involves Telangana and Andhra Pradesh, particularly concerning their shares?",
-    "options": ["Mahanadi River dispute", "Cauvery River dispute", "Krishna River dispute", "Periyar River dispute"],
-    "correctAnswer": "Krishna River dispute"
+    "question": "Beyond the states themselves, which other judicial bodies were requested by the Supreme Court to support the age enhancement initiative for trial court judges?",
+    "options": ["Bar Councils", "Law Commissions", "High Courts", "Ministry of Law and Justice"],
+    "correctAnswer": "High Courts"
   },
   {
     "id": 7,
-    "question": "Which two major rivers are often central to water sharing agreements and disputes between Telangana and Andhra Pradesh?",
-    "options": ["Narmada and Tapi", "Brahmaputra and Ganga", "Krishna and Godavari", "Indus and Jhelum"],
-    "correctAnswer": "Krishna and Godavari"
+    "question": "The Supreme Court's push for states like Telangana and Andhra Pradesh to decide on judicial retirement age directly impacts which aspect of state governance?",
+    "options": ["State Public Service Commissions", "State Legislative Procedures", "Judicial Administration and Policy", "State Budget Allocation for Education"],
+    "correctAnswer": "Judicial Administration and Policy"
   },
   {
     "id": 8,
-    "question": "The Palamuru-Rangareddy Lift Irrigation Scheme, which has been a point of contention regarding inter-state water sharing, is a flagship project of which state?",
-    "options": ["Karnataka", "Andhra Pradesh", "Telangana", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "The Indian government recently ordered the blocking of thousands of links involved in film piracy, a prevalent issue impacting the film industries of states like Telangana and Andhra Pradesh. Which Act was amended in 2023 to fortify the legal framework against online film piracy?",
+    "options": ["Information Technology Act", "Copyright Act", "Cinematograph Act", "Digital India Act"],
+    "correctAnswer": "Cinematograph Act"
   },
   {
     "id": 9,
-    "question": "The Rayalaseema Lift Irrigation Scheme, intended to draw water from the Krishna River, has been a subject of dispute. Which state proposed this scheme?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Odisha"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Which Union Ministry disclosed the directive to block 7,393 links involved in film piracy to the Lok Sabha?",
+    "options": ["Ministry of Home Affairs", "Ministry of Electronics and Information Technology", "Ministry of Information and Broadcasting", "Ministry of Law and Justice"],
+    "correctAnswer": "Ministry of Information and Broadcasting"
   },
   {
     "id": 10,
-    "question": "What is the primary mechanism established in India to resolve disputes over inter-state rivers, often involving the constitution of specific tribunals?",
-    "options": ["Supreme Court direct intervention", "Parliamentary legislation", "Inter-State River Water Disputes Tribunals", "Bilateral state agreements only"],
-    "correctAnswer": "Inter-State River Water Disputes Tribunals"
+    "question": "The government's recent action against film piracy, affecting content consumption in states like Telangana and Andhra Pradesh, primarily targeted blocking links on which two types of online platforms?",
+    "options": ["Facebook and Twitter", "YouTube and Instagram", "Telegram channels and websites", "WhatsApp and Signal"],
+    "correctAnswer": "Telegram channels and websites"
   },
   {
     "id": 11,
-    "question": "The news highlights the need to curb illegal mining. Which valuable mineral resource, significant in parts of Andhra Pradesh, has often been associated with illegal mining concerns?",
-    "options": ["Gold", "Diamonds", "Bauxite", "Uranium"],
-    "correctAnswer": "Bauxite"
+    "question": "What was the approximate total number of online links, including Telegram channels and websites, that the government ordered to be blocked due to their involvement in film piracy?",
+    "options": ["1,263", "4,996", "7,393", "10,000"],
+    "correctAnswer": "7,393"
   },
   {
     "id": 12,
-    "question": "In Telangana, the Singareni Collieries Company Limited (SCCL) is a major public sector undertaking involved in the mining of which critical fossil fuel?",
-    "options": ["Petroleum", "Natural Gas", "Coal", "Lignite"],
-    "correctAnswer": "Coal"
+    "question": "The impact of film piracy, addressed by the recent government action, is particularly significant for regional film industries. Which two states are well-known for their prominent film industries heavily affected by piracy?",
+    "options": ["Uttar Pradesh and Bihar", "Gujarat and Rajasthan", "Telangana and Andhra Pradesh", "Punjab and Haryana"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 13,
-    "question": "Which state government department in both Andhra Pradesh and Telangana is primarily tasked with the regulation of mineral exploration, extraction, and curbing illegal mining?",
-    "options": ["Forest Department", "Environment Department", "Mines and Geology Department", "Revenue Department"],
-    "correctAnswer": "Mines and Geology Department"
+    "question": "The amendments made to the Cinematograph Act in 2023 specifically aimed to strengthen the legal framework against what?",
+    "options": ["Censorship of films", "Online film piracy", "Foreign film imports", "Promoting regional cinema"],
+    "correctAnswer": "Online film piracy"
   },
   {
     "id": 14,
-    "question": "Unregulated sand mining, a form of illegal mining mentioned in the broader context of mineral monitoring, is a prevalent issue particularly along the riverbeds of which major river flowing through Telangana and Andhra Pradesh?",
-    "options": ["Cauvery", "Brahmaputra", "Krishna", "Sutlej"],
-    "correctAnswer": "Krishna"
+    "question": "The Supreme Court recently acquitted a man who had been wrongfully imprisoned for 22 years, highlighting systemic issues in the Indian judicial system that affect all states, including Telangana and Andhra Pradesh. Which community, according to the Supreme Court, often finds access to justice elusive?",
+    "options": ["Economic Elites", "Marginalized Communities", "Urban Professionals", "Political Activists"],
+    "correctAnswer": "Marginalized Communities"
   },
   {
     "id": 15,
-    "question": "What is a common severe environmental consequence of rampant illegal mining activities in states with rich mineral deposits like Andhra Pradesh and Telangana?",
-    "options": ["Increased biodiversity", "Improved soil fertility", "Deforestation and land degradation", "Reduced air pollution"],
-    "correctAnswer": "Deforestation and land degradation"
+    "question": "What was a key factor leading to the injustice in the case of the man wrongfully imprisoned for 22 years, as identified by the Supreme Court?",
+    "options": ["Lack of legal representation", "Biased media coverage", "Flawed evidence analysis by the trial court", "Political interference"],
+    "correctAnswer": "Flawed evidence analysis by the trial court"
   },
   {
     "id": 16,
-    "question": "The news mentions delimitation. When is the next major delimitation exercise in India, which would potentially redraw the boundaries of parliamentary and assembly constituencies in Telangana and Andhra Pradesh, expected to take effect?",
-    "options": ["After the 2021 Census", "After 2026", "After the 2031 Census", "No further delimitation is planned"],
-    "correctAnswer": "After 2026"
+    "question": "How many years did the man spend in jail due to a wrongful conviction before being finally acquitted by the Supreme Court?",
+    "options": ["10 years", "15 years", "22 years", "30 years"],
+    "correctAnswer": "22 years"
   },
   {
     "id": 17,
-    "question": "What is the primary objective of the delimitation process, as discussed in the context of national legislative affairs, affecting states like Telangana and Andhra Pradesh?",
-    "options": ["To increase the number of Rajya Sabha seats", "To redraw constituency boundaries to reflect population changes", "To merge smaller states into larger ones", "To establish new state capitals"],
-    "correctAnswer": "To redraw constituency boundaries to reflect population changes"
+    "question": "The High Court's refusal to entertain the man's delayed appeal contributed to his prolonged wrongful imprisonment, underscoring challenges in which aspect of the judicial process, relevant to all states like Telangana and Andhra Pradesh?",
+    "options": ["Speedy trials", "Appeal mechanisms", "Judicial appointments", "Witness protection"],
+    "correctAnswer": "Appeal mechanisms"
   },
   {
     "id": 18,
-    "question": "Which constitutional amendment act froze the number of Lok Sabha and Assembly seats in states, including Andhra Pradesh and Telangana, based on the 1971 census until 2026?",
-    "options": ["42nd Amendment", "61st Amendment", "84th Amendment", "101st Amendment"],
-    "correctAnswer": "84th Amendment"
+    "question": "The Telecom Regulatory Authority of India (TRAI) recently unveiled draft service quality norms for 'network slicing'. For telecom consumers in states like Telangana and Andhra Pradesh, what is the primary anticipated benefit of this technology?",
+    "options": ["Reduced call rates", "Unlimited data plans", "Different internet speeds tailored to various user segments", "Free international roaming"],
+    "correctAnswer": "Different internet speeds tailored to various user segments"
   },
   {
     "id": 19,
-    "question": "The delimitation process aims to ensure that constituencies within a state like Telangana have roughly equal populations. Which body is primarily responsible for carrying out this task?",
-    "options": ["Election Commission of India", "Parliament", "Delimitation Commission", "State Legislatures"],
-    "correctAnswer": "Delimitation Commission"
+    "question": "Which regulatory body in India is responsible for releasing draft protocols for groundbreaking technologies like network slicing in the telecom sector, impacting services in all states?",
+    "options": ["NITI Aayog", "Department of Telecommunications", "TRAI", "Ministry of Information Technology"],
+    "correctAnswer": "TRAI"
   },
   {
     "id": 20,
-    "question": "How does the impending delimitation, post-2026, primarily aim to impact the representation of various regions within a state like Andhra Pradesh in its legislative assembly?",
-    "options": ["By increasing the total number of assembly seats uniformly", "By ensuring proportional representation based on the latest population census", "By reducing the number of constituencies in rapidly growing urban areas", "By empowering only the central government to decide state boundaries"],
-    "correctAnswer": "By ensuring proportional representation based on the latest population census"
+    "question": "What is 'network slicing' expected to allow telecom operators, impacting pricing and service delivery across states like Telangana and Andhra Pradesh?",
+    "options": ["To charge a flat rate for all services", "To set unique prices for services like 4G and 5G", "To provide services only to premium users", "To restrict access to certain websites"],
+    "correctAnswer": "To set unique prices for services like 4G and 5G"
   },
   {
     "id": 21,
-    "question": "Following the bifurcation of Andhra Pradesh in 2014, what is the currently designated capital of Andhra Pradesh, though proposals for a new capital have been debated?",
-    "options": ["Visakhapatnam", "Kurnool", "Amaravati", "Vijayawada"],
-    "correctAnswer": "Amaravati"
+    "question": "The introduction of network slicing technology, as per TRAI's draft norms, follows appeals from which group within the telecom sector?",
+    "options": ["Consumer rights organizations", "Prominent telecom service providers", "International telecom bodies", "Government IT departments"],
+    "correctAnswer": "Prominent telecom service providers"
   },
   {
     "id": 22,
-    "question": "What is the current capital city of Telangana state, known for being a major hub for IT, pharmaceuticals, and biotechnology industries in India?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Secunderabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "The Lok Sabha recently approved the Bankers’ Books Evidence Bill, which modernizes the procedures for presenting what type of records in legal settings across all states, including Telangana and Andhra Pradesh?",
+    "options": ["Property ownership deeds", "Birth and death certificates", "Digital banking records", "Company registration documents"],
+    "correctAnswer": "Digital banking records"
   },
   {
     "id": 23,
-    "question": "Hyderabad, the capital of Telangana, is home to a significant part of India's defense and aerospace industry. Which major public sector unit, involved in aerospace and defense, has a prominent presence there?",
-    "options": ["Hindustan Aeronautics Limited (HAL)", "Bharat Dynamics Limited (BDL)", "Garden Reach Shipbuilders & Engineers (GRSE)", "Mazagon Dock Shipbuilders (MDL)"],
-    "correctAnswer": "Bharat Dynamics Limited (BDL)"
+    "question": "The new Bankers’ Books Evidence Bill is described as a significant update from an older statute. What was a notable characteristic of its passage in the Lok Sabha?",
+    "options": ["It was passed unanimously", "It underwent extensive debate", "It passed through a voice vote despite opposition protests", "It was referred to a select committee"],
+    "correctAnswer": "It passed through a voice vote despite opposition protests"
   },
   {
     "id": 24,
-    "question": "Which agricultural product is a major crop for both Telangana and Andhra Pradesh, heavily reliant on efficient water management and irrigation discussed in the context of river disputes?",
-    "options": ["Wheat", "Sugarcane", "Paddy (Rice)", "Cotton"],
-    "correctAnswer": "Paddy (Rice)"
+    "question": "The modernization brought by the Bankers' Books Evidence Bill is crucial for the legal system in states like Telangana and Andhra Pradesh due to the increasing reliance on what?",
+    "options": ["Manual record keeping", "Physical banking transactions", "Digital financial transactions", "Cash-only economy"],
+    "correctAnswer": "Digital financial transactions"
   },
   {
     "id": 25,
-    "question": "Given the discussions on national policy and state-level implementation, which Indian institution plays a crucial role in promoting cooperative federalism and economic development, including matters of infrastructure and shared resources, across states like Telangana and Andhra Pradesh?",
-    "options": ["Reserve Bank of India", "NITI Aayog", "Comptroller and Auditor General", "Securities and Exchange Board of India"],
-    "correctAnswer": "NITI Aayog"
+    "question": "Recent government initiatives, such as strengthening anti-piracy laws (Cinematograph Act) and modernizing banking evidence (Bankers’ Books Evidence Bill), reflect a broader national effort to update legal frameworks. How do these efforts generally impact governance and citizen services in states like Telangana and Andhra Pradesh?",
+    "options": ["They lead to increased manual paperwork", "They reduce the scope for digital services", "They enhance legal efficiency and digital integration", "They transfer all legislative power to states"],
+    "correctAnswer": "They enhance legal efficiency and digital integration"
   }
 ]

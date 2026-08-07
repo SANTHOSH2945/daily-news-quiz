@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Rahul Gandhi recently backed student protests related to a significant national entrance exam. Which exam was at the center of these protests, impacting students across India, including Telangana and Andhra Pradesh?",
-    "options": ["JEE Main", "UPSC Civil Services", "NEET", "CAT"],
-    "correctAnswer": "NEET"
+    "question": "Which Indian city is home to the company mentioned in the news that is developing 'power banks' for satellites?",
+    "options": ["Hyderabad", "Bengaluru", "Chennai", "Mumbai"],
+    "correctAnswer": "Bengaluru"
   },
   {
     "id": 2,
-    "question": "What did Rahul Gandhi primarily label the education system as, after meeting with NEET protesters, reflecting a national concern pertinent to students in states like Telangana and Andhra Pradesh?",
-    "options": ["Highly competitive", "Deeply flawed", "Outdated in curriculum", "Underfunded"],
-    "correctAnswer": "Deeply flawed"
+    "question": "What is the primary objective of the technology developed by the Bengaluru company for satellites?",
+    "options": ["To launch new satellites faster", "To keep ageing spacecraft alive", "To improve satellite communication speeds", "To reduce satellite manufacturing costs"],
+    "correctAnswer": "To keep ageing spacecraft alive"
   },
   {
     "id": 3,
-    "question": "Students protesting NEET, whose cause was supported by Rahul Gandhi, reported facing what specific issues during their advocacy for rights, a concern for youth in all Indian states including Telangana?",
-    "options": ["Lack of study materials", "High examination fees", "Police brutality and discrimination", "Insufficient coaching centers"],
-    "correctAnswer": "Police brutality and discrimination"
+    "question": "The innovation by the Bengaluru company signifies the growing role of which sector in India's space industry?",
+    "options": ["Government agencies", "International collaborations", "Private sector", "Academic institutions"],
+    "correctAnswer": "Private sector"
   },
   {
     "id": 4,
-    "question": "The Rajya Sabha recently approved a crucial financial bill, impacting national expenditure and indirectly affecting fiscal planning for states such as Telangana and Andhra Pradesh. Which bill was approved?",
-    "options": ["Finance Bill, 2024", "Appropriation Bill, 2026", "Direct Tax Code Bill", "GST Amendment Bill"],
-    "correctAnswer": "Appropriation Bill, 2026"
+    "question": "According to the news, what percentage of the retail market have alternative-fuel passenger vehicles captured in India?",
+    "options": ["Twenty percent", "Thirty percent", "Forty percent", "Fifty percent"],
+    "correctAnswer": "Forty percent"
   },
   {
     "id": 5,
-    "question": "Why did the opposition, including MPs representing constituencies in Telangana and Andhra Pradesh, repeatedly demand the presence of Home Minister Amit Shah in Parliament?",
-    "options": ["To discuss state-specific issues", "To debate the national budget", "To get a statement on student police action", "To address international relations"],
-    "correctAnswer": "To get a statement on student police action"
+    "question": "What significant milestone was recorded for automobile sales in July, as per the report on alternative-fuel vehicles?",
+    "options": ["Highest sales figures ever recorded", "Lowest sales figures in a decade", "First time electric vehicles outsold petrol", "Market share of diesel vehicles doubled"],
+    "correctAnswer": "Highest sales figures ever recorded"
   },
   {
     "id": 6,
-    "question": "The BJP urged the Congress to allow the House to function, assuring that a specific Union Minister would address concerns. Which Union Minister was central to these parliamentary discussions, impacting national legislative work?",
-    "options": ["Finance Minister Nirmala Sitharaman", "Home Minister Amit Shah", "External Affairs Minister S. Jaishankar", "Defence Minister Rajnath Singh"],
-    "correctAnswer": "Home Minister Amit Shah"
+    "question": "Besides alternative-fuel passenger vehicles, which other vehicle segment is experiencing unprecedented market penetration in India?",
+    "options": ["Luxury cars", "Commercial trucks", "Electric two-wheelers", "Hybrid buses"],
+    "correctAnswer": "Electric two-wheelers"
   },
   {
     "id": 7,
-    "question": "Mallikarjun Kharge, the Leader of the Opposition, specifically sought the Home Minister's statement on what issue, a matter of national concern that could resonate with citizens in states like Andhra Pradesh and Telangana?",
-    "options": ["Border security concerns", "Rise in commodity prices", "Student police action", "Railway modernization plans"],
-    "correctAnswer": "Student police action"
+    "question": "What is cited as a key factor driving consumer preference towards alternative-fuel vehicles and electric two-wheelers in India?",
+    "options": ["Government subsidies", "Increased vehicle performance", "Cost-effective options", "Availability of more models"],
+    "correctAnswer": "Cost-effective options"
   },
   {
     "id": 8,
-    "question": "Continued disruptions by the opposition in Parliament, as noted by the BJP, directly hinder what process, affecting legislative outcomes for all Indian citizens, including those in Telangana and Andhra Pradesh?",
-    "options": ["Inter-state council meetings", "Legislative work", "Judicial appointments", "Electoral reforms"],
-    "correctAnswer": "Legislative work"
+    "question": "What is the approximate market share difference between petrol-powered passenger vehicles and alternative-fuel passenger vehicles?",
+    "options": ["Petrol has a ten percent lead", "Alternative-fuel has a five percent lead", "Petrol has a one percent lead", "They have equal market share"],
+    "correctAnswer": "Petrol has a one percent lead"
   },
   {
     "id": 9,
-    "question": "What significant power was granted to the government regarding UPI and RuPay by a bill recently passed in the Lok Sabha, impacting digital transactions and businesses in states like Telangana and Andhra Pradesh?",
-    "options": ["To mandate UPI as the sole payment method", "To empower it to revise the zero-MDR scheme", "To ban all international payment gateways", "To make all UPI transactions free"],
-    "correctAnswer": "To empower it to revise the zero-MDR scheme"
+    "question": "What percentage of Indian study-abroad aspirants surveyed plan to return home after completing their studies?",
+    "options": ["65%", "72%", "81%", "95%"],
+    "correctAnswer": "81%"
   },
   {
     "id": 10,
-    "question": "The new legislation allows banks and providers to charge merchants on specific electronic transactions. Which payment options are primarily affected by this change, influencing digital commerce across India, including Telangana?",
-    "options": ["Credit card payments and net banking", "UPI and RuPay", "IMPS and NEFT", "All electronic fund transfers"],
-    "correctAnswer": "UPI and RuPay"
+    "question": "Approximately what percentage of Indian study-abroad aspirants are pioneers, being the first in their families to study overseas?",
+    "options": ["About 50%", "About 70%", "About 90%", "About 30%"],
+    "correctAnswer": "About 90%"
   },
   {
     "id": 11,
-    "question": "What was a key objective of the Lok Sabha bill concerning electronic payments, aimed at enhancing investment attractiveness and benefiting the financial sector infrastructure in all states, including Andhra Pradesh?",
-    "options": ["To discourage digital payments", "To simplify tax rules", "To increase cash transactions", "To privatize public sector banks"],
-    "correctAnswer": "To simplify tax rules"
+    "question": "Which fields of study are particularly appealing to Indian students planning to study abroad, according to the survey?",
+    "options": ["Arts and Humanities", "Science and Engineering", "Business and management", "Medical and Health Sciences"],
+    "correctAnswer": "Business and management"
   },
   {
     "id": 12,
-    "question": "Which existing limitation on specific electronic payment options was abolished by the recent Lok Sabha bill, affecting digital transactions in all states, including Telangana and Andhra Pradesh?",
-    "options": ["Limitation on transaction volume", "Limitation on specific electronic payment options for charges", "Limitation on daily transaction limit", "Limitation on international transactions"],
-    "correctAnswer": "Limitation on specific electronic payment options for charges"
+    "question": "What are the primary methods many students use to find their perfect educational fit for studying abroad?",
+    "options": ["Family recommendations and university brochures", "Google searches and agents", "Social media and alumni networks", "Educational fairs and counselor advice"],
+    "correctAnswer": "Google searches and agents"
   },
   {
     "id": 13,
-    "question": "What national agency, crucial for combating cyber threats and relevant to the robust IT sector in Telangana, is being pressed to expedite hirings by a parliamentary committee?",
-    "options": ["NITI Aayog", "ISRO", "CERT-In", "DRDO"],
-    "correctAnswer": "CERT-In"
+    "question": "The trend among study-abroad aspirants highlights a shift towards what kind of decisions regarding their overseas education?",
+    "options": ["Parent-influenced decisions", "Peer-driven decisions", "Institution-led decisions", "Self-driven decisions"],
+    "correctAnswer": "Self-driven decisions"
   },
   {
     "id": 14,
-    "question": "The IndiaAI Mission's fellowship program, vital for developing AI talent in India (including states like Telangana known for IT), initially faced what challenge?",
-    "options": ["Lack of government funding", "Struggled to attract candidates", "Insufficient infrastructure", "International sanctions"],
-    "correctAnswer": "Struggled to attract candidates"
+    "question": "Which national body recently revised its guidelines concerning MBBS admissions for candidates with temporary disability certificates?",
+    "options": ["Medical Council of India (MCI)", "National Medical Commission (NMC)", "All India Council for Technical Education (AICTE)", "University Grants Commission (UGC)"],
+    "correctAnswer": "National Medical Commission (NMC)"
   },
   {
     "id": 15,
-    "question": "MeitY is implementing outreach sessions and promotional campaigns to attract more applicants for tech roles. This initiative is particularly relevant for which sector's growth in states like Telangana and Andhra Pradesh?",
-    "options": ["Agriculture and Food Processing", "Textile and Handicrafts", "Information Technology and Cybersecurity", "Manufacturing and Heavy Industry"],
-    "correctAnswer": "Information Technology and Cybersecurity"
+    "question": "According to the revised NMC guidelines, admission requests from persons with disabilities will be subject to assessment by what body?",
+    "options": ["University administration", "Medical boards", "Disability rights organizations", "Admission committees"],
+    "correctAnswer": "Medical boards"
   },
   {
     "id": 16,
-    "question": "The finance ministry sanctioned more posts for CERT-In. What is the primary function of CERT-In, a crucial role in protecting digital infrastructure across India, including Telangana and Andhra Pradesh?",
-    "options": ["Promoting digital literacy", "Responding to cybersecurity incidents", "Developing new software applications", "Regulating e-commerce platforms"],
-    "correctAnswer": "Responding to cybersecurity incidents"
+    "question": "What type of disabilities will not inherently prevent admission to MBBS, provided a thorough evaluation of functional competency takes place?",
+    "options": ["Only permanent disabilities", "Only mild disabilities", "Progressive or non-progressive disabilities", "Only physical disabilities"],
+    "correctAnswer": "Progressive or non-progressive disabilities"
   },
   {
     "id": 17,
-    "question": "What national mission, struggling to attract candidates for its fellowship program, aims to foster innovation in artificial intelligence, a key area for states like Telangana with a strong tech ecosystem?",
-    "options": ["Digital India Mission", "Startup India Mission", "IndiaAI Mission", "Skill India Mission"],
-    "correctAnswer": "IndiaAI Mission"
+    "question": "Which investigative agency's probes against defaulting realtors will continue, as per a warning from the Supreme Court?",
+    "options": ["Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Serious Fraud Investigation Office (SFIO)"],
+    "correctAnswer": "CBI"
   },
   {
     "id": 18,
-    "question": "How many Indian seafarers were recently reported killed in geopolitical conflicts in West Asia and the Black Sea, a tragic event for maritime communities in coastal states like Andhra Pradesh?",
-    "options": ["5", "10", "15", "20"],
-    "correctAnswer": "15"
+    "question": "Who has been found to have colluded with defaulting builders in many cases, leading to Supreme Court intervention?",
+    "options": ["Homebuyers", "Government officials", "Bank officials", "Local politicians"],
+    "correctAnswer": "Bank officials"
   },
   {
     "id": 19,
-    "question": "What specific threats have resurfaced off Somalia and by Houthis, posing significant danger to Indian seafarers and impacting maritime trade routes relevant to coastal states such as Andhra Pradesh?",
-    "options": ["Illegal fishing and smuggling", "Piracy and drone/missile attacks", "Extreme weather conditions", "Oil spills and environmental hazards"],
-    "correctAnswer": "Piracy and drone/missile attacks"
+    "question": "How many of the fifty registered cases against realtors has the CBI completed probes in so far?",
+    "options": ["Ten", "Eighteen", "Twenty-five", "Fifty"],
+    "correctAnswer": "Eighteen"
   },
   {
     "id": 20,
-    "question": "What national body is enhancing safety measures and tracking seafarers' well-being in response to increased dangers in West Asia and the Black Sea, affecting individuals potentially from coastal regions like Andhra Pradesh?",
-    "options": ["Indian Coast Guard", "Directorate General of Shipping", "Ministry of External Affairs", "Indian Navy"],
-    "correctAnswer": "Directorate General of Shipping"
+    "question": "What is the Supreme Court's deadline for banks to grant prosecution sanctions for accused officials involved with defaulting realtors?",
+    "options": ["One week", "Two weeks", "One month", "Three months"],
+    "correctAnswer": "Two weeks"
   },
   {
     "id": 21,
-    "question": "A national political party is actively exploring an alliance with the Samajwadi Party for upcoming state elections, a strategic move by a party with a significant presence in Telangana and Andhra Pradesh. Which national party is this?",
-    "options": ["Bharatiya Janata Party (BJP)", "Bahujan Samaj Party (BSP)", "Indian National Congress (INC)", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "What action by builders will NOT stop the CBI investigations, according to the Supreme Court?",
+    "options": ["Starting new projects", "Declaring bankruptcy", "Settling with only a few homebuyers", "Providing new financial guarantees"],
+    "correctAnswer": "Settling with only a few homebuyers"
   },
   {
     "id": 22,
-    "question": "The Supreme Court, India's apex judicial body whose decisions impact legal interpretations across all states including Telangana and Andhra Pradesh, recently granted interim bail to whom in a land-grab case?",
-    "options": ["A former Chief Minister", "A prominent journalist", "Abhishek Banerjee's PA", "A corporate executive"],
-    "correctAnswer": "Abhishek Banerjee's PA"
+    "question": "Which political leader is mentioned as being present at Parliament House but unable to participate due to ongoing protests?",
+    "options": ["Narendra Modi", "Amit Shah", "Mallikarjun Kharge", "Rahul Gandhi"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 23,
-    "question": "Sonam Wangchuk expressed disappointment with the inaction of a prominent national political leader regarding his hunger strike. Which national leader was mentioned in this context, whose actions are observed across India?",
-    "options": ["Narendra Modi", "Rahul Gandhi", "Arvind Kejriwal", "Amit Shah"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Who are the Congress leaders specifically called out by the BJP for allegedly spreading misinformation regarding parliamentary proceedings?",
+    "options": ["P. Chidambaram and Shashi Tharoor", "Rahul Gandhi and Mallikarjun Kharge", "Adhir Ranjan Chowdhury and Priyanka Gandhi", "Sonia Gandhi and K.C. Venugopal"],
+    "correctAnswer": "Rahul Gandhi and Mallikarjun Kharge"
   },
   {
     "id": 24,
-    "question": "A group of dissenting MPs recently met with the Prime Minister, the head of the national executive whose government policies impact all Indian states, including Telangana and Andhra Pradesh. Who did these MPs meet?",
-    "options": ["President Droupadi Murmu", "Prime Minister Narendra Modi", "Vice President Jagdeep Dhankhar", "Lok Sabha Speaker Om Birla"],
-    "correctAnswer": "Prime Minister Narendra Modi"
+    "question": "What reason does the BJP state for Home Minister Amit Shah's inability to participate in parliamentary proceedings?",
+    "options": ["Scheduled cabinet meetings", "Health issues", "Ongoing disruptions/protests by the opposition", "Travel commitments"],
+    "correctAnswer": "Ongoing disruptions/protests by the opposition"
   },
   {
     "id": 25,
-    "question": "The Appropriation Bill, 2026, approved in Rajya Sabha, authorizes withdrawals for 'excess expenditure.' This process ensures financial accountability at the national level, which in turn impacts the overall economic environment for states like Telangana and Andhra Pradesh. What kind of expenditure does it specifically address?",
-    "options": ["Future developmental projects", "Unforeseen emergency funds", "Expenditure incurred over and above the budget estimates", "Routine administrative expenses"],
-    "correctAnswer": "Expenditure incurred over and above the budget estimates"
+    "question": "What does the BJP assert about Home Minister Shah's daily presence at his office during the parliamentary session?",
+    "options": ["He is attending virtual meetings from his constituency", "He is working from home", "He is in his office daily, awaiting the resumption of parliamentary activities", "He is meeting with international delegations"],
+    "correctAnswer": "He is in his office daily, awaiting the resumption of parliamentary activities"
   }
 ]

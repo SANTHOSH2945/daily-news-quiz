@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Nari Shakti Vandan Adhiniyam, 2023, mentioned in recent news, aims to reserve seats for women. In the context of Andhra Pradesh, how would such a bill primarily impact the composition of its legislative assembly, post-delimitation?",
-    "options": [
-      "It would lead to direct reservation of seats for women in the assembly.",
-      "It would only impact Parliament, not state assemblies.",
-      "It would mandate 50% reservation for women in all cabinet positions.",
-      "It would primarily affect nominated members."
-    ],
-    "correctAnswer": "It would lead to direct reservation of seats for women in the assembly."
+    "question": "Which social media giant was recently asked by India's IT Ministry to revamp algorithms and submit a roadmap to tackle deepfakes?",
+    "options": ["Meta", "X (formerly Twitter)", "Google", "TikTok"],
+    "correctAnswer": "Meta"
   },
   {
     "id": 2,
-    "question": "The Women's Reservation Bill's implementation is tied to delimitation. What is a key challenge this linkage presents for states like Telangana regarding the timing of increased women's representation?",
-    "options": [
-      "Delimitation exclusively focuses on urban areas.",
-      "It defers the immediate implementation of reservations until a new census and delimitation exercise.",
-      "It requires a separate state-level bill for implementation.",
-      "It mandates an equal number of male and female constituencies."
-    ],
-    "correctAnswer": "It defers the immediate implementation of reservations until a new census and delimitation exercise."
+    "question": "Which prominent Indian political leader recently urged the immediate implementation of the Women's Reservation Bill without linking it to delimitation?",
+    "options": ["Kiren Rijiju", "Rahul Gandhi", "Akhilesh Yadav", "Pawan Khera"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 3,
-    "question": "Rahul Gandhi's comments highlight the necessity of women's freedom of expression for India's development. How might increased women's representation, post-Nari Shakti Vandan Adhiniyam, 2023, strengthen democratic participation in Andhra Pradesh?",
-    "options": [
-      "By reducing the total number of constituencies.",
-      "By introducing a quota for women in all government jobs.",
-      "By ensuring diverse perspectives in policy-making and governance.",
-      "By mandating women to vote in higher numbers."
-    ],
-    "correctAnswer": "By ensuring diverse perspectives in policy-making and governance."
+    "question": "Who among the following criticized the Congress party, drawing parallels with Indira Gandhi's post-Emergency actions regarding self-awareness?",
+    "options": ["PM Narendra Modi", "Kiren Rijiju", "Raghav Chadha", "Pawan Khera"],
+    "correctAnswer": "Kiren Rijiju"
   },
   {
     "id": 4,
-    "question": "While the Nari Shakti Vandan Adhiniyam, 2023, focuses on legislative bodies, women already have reservation in local self-governance. How does the existing reservation in Panchayati Raj institutions in Telangana set a precedent for legislative reservations?",
-    "options": [
-      "It provides a model for successful implementation of women's quotas.",
-      "It has led to a complete overhaul of state-level political parties.",
-      "It guarantees women's chief ministerial positions.",
-      "It is entirely unrelated to legislative reservations."
-    ],
-    "correctAnswer": "It provides a model for successful implementation of women's quotas."
+    "question": "Which generation is Rahul Gandhi reportedly focusing on to forge a bond with ahead of the 2029 elections?",
+    "options": ["Millennials", "Generation X", "Gen Z", "Baby Boomers"],
+    "correctAnswer": "Gen Z"
   },
   {
     "id": 5,
-    "question": "Assuming the Nari Shakti Vandan Adhiniyam, 2023, is implemented, what specific constitutional articles would primarily facilitate the reservation of seats for women in the Telangana Legislative Assembly?",
-    "options": [
-      "Articles 330A and 332A.",
-      "Article 370.",
-      "Article 243.",
-      "Article 368."
-    ],
-    "correctAnswer": "Articles 330A and 332A."
+    "question": "At which IIT did Prime Minister Narendra Modi recently address the 57th Convocation Ceremony, inspiring graduates on transformation and knowledge?",
+    "options": ["IIT Bombay", "IIT Delhi", "IIT Madras", "IIT Kanpur"],
+    "correctAnswer": "IIT Delhi"
   },
   {
     "id": 6,
-    "question": "The Nari Shakti Vandan Adhiniyam, 2023, will necessitate political parties to nominate more women candidates. How might this policy impact the internal selection processes of major political parties in Andhra Pradesh for assembly elections?",
-    "options": [
-      "It would eliminate the need for male candidates.",
-      "It would force parties to actively seek out and promote women leaders.",
-      "It would lead to the dissolution of all-women political parties.",
-      "It would only apply to national parties, not regional ones."
-    ],
-    "correctAnswer": "It would force parties to actively seek out and promote women leaders."
+    "question": "What cutting-edge facility did PM Modi inaugurate during his recent address at IIT Delhi?",
+    "options": ["A new nanotechnology research center", "An advanced robotics lab", "An AI-powered supercomputing facility", "A quantum computing research institute"],
+    "correctAnswer": "An AI-powered supercomputing facility"
   },
   {
     "id": 7,
-    "question": "The national initiative of digital OPD registrations using QR codes aims to reduce queues. How would this specifically improve efficiency in government hospitals across Telangana?",
-    "options": [
-      "By increasing the number of available doctors.",
-      "By automating patient data entry and reducing waiting times.",
-      "By providing free medication to all patients.",
-      "By eliminating the need for physical infrastructure."
-    ],
-    "correctAnswer": "By automating patient data entry and reducing waiting times."
+    "question": "What concern did PM Modi express regarding medal winners during his address at IIT Delhi's convocation?",
+    "options": ["The lack of research in social sciences", "The low number of girls among medal winners", "The emigration of talented graduates", "The slow pace of infrastructure development"],
+    "correctAnswer": "The low number of girls among medal winners"
   },
   {
     "id": 8,
-    "question": "Implementing QR code-based OPD registrations across Andhra Pradesh hospitals might face challenges related to digital literacy. Which demographic group in rural Andhra Pradesh would likely require specific assistance for this transition?",
-    "options": [
-      "Young adults.",
-      "Tech-savvy urban population.",
-      "Elderly and less digitally literate individuals.",
-      "Healthcare professionals."
-    ],
-    "correctAnswer": "Elderly and less digitally literate individuals."
+    "question": "Which Congress leader recently questioned India's autonomy regarding the purchase of Russian oil, criticizing the government's stance?",
+    "options": ["Rahul Gandhi", "Kiren Rijiju", "Pawan Khera", "Raghav Chadha"],
+    "correctAnswer": "Pawan Khera"
   },
   {
     "id": 9,
-    "question": "With 25 crore digital OPD registrations nationally, including contributions from states like Telangana, what is a key advantage for public health tracking and policy-making at the state level?",
-    "options": [
-      "It allows for personalized dietary recommendations.",
-      "It provides real-time data on disease prevalence and patient demographics.",
-      "It ensures all hospitals become fully cashless.",
-      "It replaces the need for medical records."
-    ],
-    "correctAnswer": "It provides real-time data on disease prevalence and patient demographics."
+    "question": "In which Indian state were students recently protesting recruitment irregularities, drawing solidarity from Congress leader Pawan Khera?",
+    "options": ["Bihar", "Odisha", "Jharkhand", "West Bengal"],
+    "correctAnswer": "Jharkhand"
   },
   {
     "id": 10,
-    "question": "For the widespread adoption of QR code-based OPD registrations in Andhra Pradesh, what primary technological infrastructure is essential in all government healthcare facilities?",
-    "options": [
-      "High-speed rail connectivity.",
-      "Reliable internet access and scanning devices.",
-      "Automated surgical robots.",
-      "Large-scale biometric scanning systems."
-    ],
-    "correctAnswer": "Reliable internet access and scanning devices."
+    "question": "An officer from which Indian defense force was recently held for allegedly sharing classified data after being 'honey-trapped'?",
+    "options": ["Indian Army", "Indian Navy", "Indian Air Force", "Border Security Force"],
+    "correctAnswer": "Indian Air Force"
   },
   {
     "id": 11,
-    "question": "The 'no queue' benefit of digital OPD registration aims to enhance patient experience. How would this specifically impact patients attending public hospitals in cities like Hyderabad or Vijayawada?",
-    "options": [
-      "Patients would receive priority in emergency cases only.",
-      "It would significantly reduce their waiting time for registration.",
-      "It would allow them to book appointments with private doctors for free.",
-      "It would eliminate the need for them to physically visit the hospital."
-    ],
-    "correctAnswer": "It would significantly reduce their waiting time for registration."
+    "question": "What key piece of legislation did Rahul Gandhi recently question the delay in implementing?",
+    "options": ["The Farm Laws", "The Data Protection Bill", "The Women's Reservation Bill", "The Citizenship Amendment Act"],
+    "correctAnswer": "The Women's Reservation Bill"
   },
   {
     "id": 12,
-    "question": "As digital OPD registrations become widespread in states like Telangana, what ethical consideration related to patient information becomes paramount?",
-    "options": [
-      "Ensuring that patient data is publicly accessible for research.",
-      "Preventing unauthorized access and ensuring data security of medical records.",
-      "Requiring all patients to use a single digital platform.",
-      "Allowing medical data to be shared with advertising companies."
-    ],
-    "correctAnswer": "Preventing unauthorized access and ensuring data security of medical records."
+    "question": "What primary theme did Prime Minister Modi emphasize to IIT Delhi graduates regarding the current global scenario?",
+    "options": ["The importance of traditional crafts", "The rapid technological shift", "The need for agricultural reform", "The challenges of urbanization"],
+    "correctAnswer": "The rapid technological shift"
   },
   {
     "id": 13,
-    "question": "The national issue of discarded blood components highlights inefficiencies. What is a critical factor for blood banks in Andhra Pradesh to minimize wastage?",
-    "options": [
-      "Over-collection of blood from donors.",
-      "Lack of proper storage facilities and inventory management.",
-      "Exclusive reliance on private blood banks.",
-      "Refusing all voluntary donations."
-    ],
-    "correctAnswer": "Lack of proper storage facilities and inventory management."
+    "question": "The Indian IT Ministry's recent directive to Meta primarily concerns tackling what specific digital threat?",
+    "options": ["Online harassment", "Hate speech", "Deepfakes", "Data breaches"],
+    "correctAnswer": "Deepfakes"
   },
   {
     "id": 14,
-    "question": "To reduce the mismatch between collection and wastage, what public awareness campaign related to blood donation could be emphasized in Telangana?",
-    "options": [
-      "Promoting universal blood type B positive.",
-      "Encouraging only paid blood donations.",
-      "Emphasizing voluntary and regular blood donation to meet dynamic demand.",
-      "Discouraging blood donation due to health risks."
-    ],
-    "correctAnswer": "Emphasizing voluntary and regular blood donation to meet dynamic demand."
+    "question": "According to recent analysis, which demographic group is the Congress party perceived to have 'lost' in terms of political support?",
+    "options": ["Gen Z", "Baby Boomers", "Generation X", "Millennials"],
+    "correctAnswer": "Millennials"
   },
   {
     "id": 15,
-    "question": "The discarding of blood components could be due to inadequate infrastructure. What type of facility improvement is crucial for blood banks in Andhra Pradesh to prevent such wastage?",
-    "options": [
-      "Upgrading public transportation to blood banks.",
-      "Enhancing cold chain storage and component separation units.",
-      "Constructing new administrative offices.",
-      "Investing in advanced surgical theaters."
-    ],
-    "correctAnswer": "Enhancing cold chain storage and component separation units."
+    "question": "What is the primary focus of Rahul Gandhi's upcoming initiative, as mentioned in recent news?",
+    "options": ["Rural development projects", "Women's safety campaigns", "Youth challenges and job seekers' aspirations", "Environmental conservation"],
+    "correctAnswer": "Youth challenges and job seekers' aspirations"
   },
   {
     "id": 16,
-    "question": "For states like Telangana, accurately forecasting blood component demand is vital. Which of the following factors is most crucial for effective demand-supply analysis in state blood banks?",
-    "options": [
-      "Global weather patterns.",
-      "Local disease incidence, surgical schedules, and accident rates.",
-      "National economic growth indicators.",
-      "The number of registered vehicles in the state."
-    ],
-    "correctAnswer": "Local disease incidence, surgical schedules, and accident rates."
+    "question": "Who currently holds the portfolio of Parliamentary Affairs Minister, as mentioned in the news criticizing the Congress?",
+    "options": ["Amit Shah", "Kiren Rijiju", "Nirmala Sitharaman", "S. Jaishankar"],
+    "correctAnswer": "Kiren Rijiju"
   },
   {
     "id": 17,
-    "question": "The discarding of blood components can also be due to quality issues. What role does the state health department in Andhra Pradesh play in ensuring the quality and safety of collected blood?",
-    "options": [
-      "Overseeing the nutritional content of donor meals.",
-      "Implementing strict screening protocols and quality assurance tests.",
-      "Mandating a minimum weight for all donors.",
-      "Regulating the color of blood donation camps."
-    ],
-    "correctAnswer": "Implementing strict screening protocols and quality assurance tests."
+    "question": "The AI-powered supercomputing facility inaugurated by PM Modi is intended to support India's commitment to what broader national goal?",
+    "options": ["Export-oriented manufacturing", "Self-reliance and innovative sectors", "Global military dominance", "Traditional arts promotion"],
+    "correctAnswer": "Self-reliance and innovative sectors"
   },
   {
     "id": 18,
-    "question": "To improve blood component utilization and reduce wastage in Telangana, what role can public-private partnerships play?",
-    "options": [
-      "Exclusively transferring all blood bank operations to private entities.",
-      "Collaborating on efficient logistics, storage, and specialized processing.",
-      "Limiting public access to blood banks.",
-      "Restricting private hospitals from accepting donated blood."
-    ],
-    "correctAnswer": "Collaborating on efficient logistics, storage, and specialized processing."
+    "question": "What was the alleged crime for which an IAF officer was recently held after being 'honey-trapped'?",
+    "options": ["Financial fraud", "Drug trafficking", "Sharing classified defence data", "Illegal arms trade"],
+    "correctAnswer": "Sharing classified defence data"
   },
   {
     "id": 19,
-    "question": "FSSAI's action highlights food safety concerns. What is the primary responsibility of the Telangana Food Safety Department in relation to such national directives?",
-    "options": [
-      "To issue licenses for all restaurants.",
-      "To enforce FSSAI regulations and conduct inspections at the state level.",
-      "To develop new food products for the market.",
-      "To solely manage agricultural subsidies."
-    ],
-    "correctAnswer": "To enforce FSSAI regulations and conduct inspections at the state level."
+    "question": "What condition did Rahul Gandhi specifically state should NOT be linked to the immediate implementation of the Women's Reservation Bill?",
+    "options": ["Economic survey", "Census", "Delimitation", "State elections"],
+    "correctAnswer": "Delimitation"
   },
   {
     "id": 20,
-    "question": "Following FSSAI's actions, what key message should be conveyed to consumers in Andhra Pradesh regarding packaged food products?",
-    "options": [
-      "To avoid all packaged foods.",
-      "To check for FSSAI licenses and expiry dates before purchase.",
-      "To only consume imported food items.",
-      "To report all food products as unsafe."
-    ],
-    "correctAnswer": "To check for FSSAI licenses and expiry dates before purchase."
+    "question": "What commodity's purchase from Russia was the subject of recent concerns raised by Congress leader Pawan Khera regarding India's autonomy?",
+    "options": ["Natural gas", "Defence equipment", "Crude oil", "Fertilizers"],
+    "correctAnswer": "Crude oil"
   },
   {
     "id": 21,
-    "question": "For food manufacturers operating in states like Telangana, what is a crucial compliance aspect FSSAI's actions emphasize?",
-    "options": [
-      "Adhering to environmental protection laws only.",
-      "Ensuring product formulation, labeling, and hygiene standards meet FSSAI guidelines.",
-      "Increasing advertising spend.",
-      "Limiting production volumes."
-    ],
-    "correctAnswer": "Ensuring product formulation, labeling, and hygiene standards meet FSSAI guidelines."
+    "question": "Which specific ministry in India is responsible for asking Meta to revamp its algorithms to tackle deepfakes?",
+    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Electronics and Information Technology (IT Ministry)", "Ministry of Communications"],
+    "correctAnswer": "Ministry of Electronics and Information Technology (IT Ministry)"
   },
   {
     "id": 22,
-    "question": "If a food product popular in Andhra Pradesh is found with safety lapses by FSSAI, what immediate action is typically expected from the manufacturer and state authorities?",
-    "options": [
-      "To increase the price of the product.",
-      "To issue a product recall and stop sales.",
-      "To rename the product.",
-      "To export the product to other countries."
-    ],
-    "correctAnswer": "To issue a product recall and stop sales."
+    "question": "Besides welcoming transformation and nurturing curiosity, what two other aspects did PM Modi emphasize to IIT Delhi graduates as important for their journeys?",
+    "options": ["Financial savings and investment", "Physical fitness and mental health", "Mentors and supportive networks", "Political awareness and activism"],
+    "correctAnswer": "Mentors and supportive networks"
   },
   {
     "id": 23,
-    "question": "To support FSSAI's efforts and ensure food safety at the state level, what kind of infrastructure is vital in Andhra Pradesh?",
-    "options": [
-      "Advanced weather forecasting stations.",
-      "Well-equipped food testing laboratories.",
-      "Large-scale grain storage facilities.",
-      "Tourist information centers."
-    ],
-    "correctAnswer": "Well-equipped food testing laboratories."
+    "question": "For which upcoming general elections is Rahul Gandhi specifically focusing on winning over the youth, including Gen Z?",
+    "options": ["2024", "2025", "2029", "2034"],
+    "correctAnswer": "2029"
   },
   {
     "id": 24,
-    "question": "FSSAI's strict stance on compliance could impact local food businesses in Telangana. What support might the state government offer to help these businesses comply with regulations?",
-    "options": [
-      "Providing subsidies for non-compliant products.",
-      "Offering training and awareness programs on food safety standards.",
-      "Exempting them from all FSSAI rules.",
-      "Encouraging them to switch industries."
-    ],
-    "correctAnswer": "Offering training and awareness programs on food safety standards."
+    "question": "Which political leader recently criticized the Samajwadi Party (SP) for allegedly changing its 'PDA' formula to target Brahmin voters?",
+    "options": ["Mamata Banerjee", "Mayawati", "Priyanka Gandhi Vadra", "Sonia Gandhi"],
+    "correctAnswer": "Mayawati"
   },
   {
     "id": 25,
-    "question": "Beyond safety, FSSAI also focuses on compliance lapses that can include food fraud. How does the vigilance from FSSAI and state food safety departments protect consumers in Andhra Pradesh from fraudulent food products?",
-    "options": [
-      "By ensuring all food is organic.",
-      "By preventing adulteration and mislabeling.",
-      "By making food free for all.",
-      "By limiting the variety of food products available."
-    ],
-    "correctAnswer": "By preventing adulteration and mislabeling."
+    "question": "Pawan Khera described addressing student grievances, such as those seen in Jharkhand's recruitment irregularities, as a collective duty of whom?",
+    "options": ["Only the ruling party", "Only the opposition parties", "All political parties", "The judiciary alone"],
+    "correctAnswer": "All political parties"
   }
 ]

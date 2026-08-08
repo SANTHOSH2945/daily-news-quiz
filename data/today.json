@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which social media giant was recently asked by India's IT Ministry to revamp algorithms and submit a roadmap to tackle deepfakes?",
-    "options": ["Meta", "X (formerly Twitter)", "Google", "TikTok"],
-    "correctAnswer": "Meta"
+    "question": "What is a key focus of domestic-help platforms in India according to recent reports?",
+    "options": ["Increasing wages for workers", "Expanding services to rural areas", "Enhancing user trust and safety", "Reducing service charges"],
+    "correctAnswer": "Enhancing user trust and safety"
   },
   {
     "id": 2,
-    "question": "Which prominent Indian political leader recently urged the immediate implementation of the Women's Reservation Bill without linking it to delimitation?",
-    "options": ["Kiren Rijiju", "Rahul Gandhi", "Akhilesh Yadav", "Pawan Khera"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Which measure are domestic-help platforms implementing to bolster user trust in India?",
+    "options": ["Providing free training programs", "Conducting background checks for helpers", "Offering flexible payment options", "Launching loyalty programs"],
+    "correctAnswer": "Conducting background checks for helpers"
   },
   {
     "id": 3,
-    "question": "Who among the following criticized the Congress party, drawing parallels with Indira Gandhi's post-Emergency actions regarding self-awareness?",
-    "options": ["PM Narendra Modi", "Kiren Rijiju", "Raghav Chadha", "Pawan Khera"],
-    "correctAnswer": "Kiren Rijiju"
+    "question": "What technological innovations are being assessed by domestic-help platforms in India to improve safety?",
+    "options": ["Advanced cooking appliances", "Smart home security systems", "AI technology and body cameras", "GPS tracking for client homes"],
+    "correctAnswer": "AI technology and body cameras"
   },
   {
     "id": 4,
-    "question": "Which generation is Rahul Gandhi reportedly focusing on to forge a bond with ahead of the 2029 elections?",
-    "options": ["Millennials", "Generation X", "Gen Z", "Baby Boomers"],
-    "correctAnswer": "Gen Z"
+    "question": "What characteristic of the domestic help industry in India are platforms trying to address to build trust?",
+    "options": ["Its highly organized nature", "Its traditionally informal nature", "Its reliance on foreign workers", "Its lack of digital presence"],
+    "correctAnswer": "Its traditionally informal nature"
   },
   {
     "id": 5,
-    "question": "At which IIT did Prime Minister Narendra Modi recently address the 57th Convocation Ceremony, inspiring graduates on transformation and knowledge?",
-    "options": ["IIT Bombay", "IIT Delhi", "IIT Madras", "IIT Kanpur"],
-    "correctAnswer": "IIT Delhi"
+    "question": "Besides background checks, what other measure are domestic-help platforms in India defining for service improvement?",
+    "options": ["Holiday bonuses", "Service hours", "Health insurance plans", "Public ratings for clients"],
+    "correctAnswer": "Service hours"
   },
   {
     "id": 6,
-    "question": "What cutting-edge facility did PM Modi inaugurate during his recent address at IIT Delhi?",
-    "options": ["A new nanotechnology research center", "An advanced robotics lab", "An AI-powered supercomputing facility", "A quantum computing research institute"],
-    "correctAnswer": "An AI-powered supercomputing facility"
+    "question": "Which national authority recently suspended licenses of food units due to hygiene issues in India?",
+    "options": ["Ministry of Health Affairs", "Food Safety and Standards Authority of India (FSSAI)", "Bureau of Indian Standards (BIS)", "Indian Council of Medical Research (ICMR)"],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 7,
-    "question": "What concern did PM Modi express regarding medal winners during his address at IIT Delhi's convocation?",
-    "options": ["The lack of research in social sciences", "The low number of girls among medal winners", "The emigration of talented graduates", "The slow pace of infrastructure development"],
-    "correctAnswer": "The low number of girls among medal winners"
+    "question": "What were some of the reasons cited for the suspension of licenses of two food units by FSSAI?",
+    "options": ["High pricing and slow service", "Use of expired ingredients and poor packaging", "Pests, mould, and live insects", "Lack of proper advertising and branding"],
+    "correctAnswer": "Pests, mould, and live insects"
   },
   {
     "id": 8,
-    "question": "Which Congress leader recently questioned India's autonomy regarding the purchase of Russian oil, criticizing the government's stance?",
-    "options": ["Rahul Gandhi", "Kiren Rijiju", "Pawan Khera", "Raghav Chadha"],
-    "correctAnswer": "Pawan Khera"
+    "question": "The suspension of food unit licenses by FSSAI highlights a concern regarding what aspect of public health in India?",
+    "options": ["Water quality", "Air pollution", "Food safety and hygiene", "Noise pollution"],
+    "correctAnswer": "Food safety and hygiene"
   },
   {
     "id": 9,
-    "question": "In which Indian state were students recently protesting recruitment irregularities, drawing solidarity from Congress leader Pawan Khera?",
-    "options": ["Bihar", "Odisha", "Jharkhand", "West Bengal"],
-    "correctAnswer": "Jharkhand"
+    "question": "What specific action did the FSSAI recently take against two food units in India?",
+    "options": ["Issued a warning", "Imposed a heavy fine", "Suspended their licenses", "Provided a subsidy"],
+    "correctAnswer": "Suspended their licenses"
   },
   {
     "id": 10,
-    "question": "An officer from which Indian defense force was recently held for allegedly sharing classified data after being 'honey-trapped'?",
-    "options": ["Indian Army", "Indian Navy", "Indian Air Force", "Border Security Force"],
-    "correctAnswer": "Indian Air Force"
+    "question": "What is the primary objective of FSSAI's actions like license suspension against food units in India?",
+    "options": ["To promote competition", "To ensure food quality and safety for consumers", "To reduce operational costs for businesses", "To increase government revenue"],
+    "correctAnswer": "To ensure food quality and safety for consumers"
   },
   {
     "id": 11,
-    "question": "What key piece of legislation did Rahul Gandhi recently question the delay in implementing?",
-    "options": ["The Farm Laws", "The Data Protection Bill", "The Women's Reservation Bill", "The Citizenship Amendment Act"],
-    "correctAnswer": "The Women's Reservation Bill"
+    "question": "Which Bill did Supriya Sule recently oppose, urging its withdrawal or referral to a JPC?",
+    "options": ["Farmers' Produce Trade and Commerce Bill", "Foreign Contribution (Regulation) Amendment Bill, 2026", "Labour Codes Bill", "Environmental Protection Bill"],
+    "correctAnswer": "Foreign Contribution (Regulation) Amendment Bill, 2026"
   },
   {
     "id": 12,
-    "question": "What primary theme did Prime Minister Modi emphasize to IIT Delhi graduates regarding the current global scenario?",
-    "options": ["The importance of traditional crafts", "The rapid technological shift", "The need for agricultural reform", "The challenges of urbanization"],
-    "correctAnswer": "The rapid technological shift"
+    "question": "What is the primary subject of the FCRA Bill, 2026, mentioned in the news?",
+    "options": ["Regulation of agricultural exports", "Regulation of foreign funding for NGOs and organizations", "Regulation of foreign trade agreements", "Regulation of foreign exchange rates"],
+    "correctAnswer": "Regulation of foreign funding for NGOs and organizations"
   },
   {
     "id": 13,
-    "question": "The Indian IT Ministry's recent directive to Meta primarily concerns tackling what specific digital threat?",
-    "options": ["Online harassment", "Hate speech", "Deepfakes", "Data breaches"],
-    "correctAnswer": "Deepfakes"
+    "question": "To which parliamentary body did Supriya Sule suggest the FCRA Bill, 2026, be sent for further review?",
+    "options": ["Standing Committee on Finance", "Joint Parliamentary Committee (JPC)", "Estimates Committee", "Public Accounts Committee"],
+    "correctAnswer": "Joint Parliamentary Committee (JPC)"
   },
   {
     "id": 14,
-    "question": "According to recent analysis, which demographic group is the Congress party perceived to have 'lost' in terms of political support?",
-    "options": ["Gen Z", "Baby Boomers", "Generation X", "Millennials"],
-    "correctAnswer": "Millennials"
+    "question": "What concern did Supriya Sule express regarding the government's approach to foreign funding in the context of the FCRA Bill?",
+    "options": ["It should be completely banned.", "It should not be viewed with automatic suspicion.", "It needs more government promotion.", "It is insufficient for national development."],
+    "correctAnswer": "It should not be viewed with automatic suspicion."
   },
   {
     "id": 15,
-    "question": "What is the primary focus of Rahul Gandhi's upcoming initiative, as mentioned in recent news?",
-    "options": ["Rural development projects", "Women's safety campaigns", "Youth challenges and job seekers' aspirations", "Environmental conservation"],
-    "correctAnswer": "Youth challenges and job seekers' aspirations"
+    "question": "The Foreign Contribution (Regulation) Act primarily deals with the regulation of contributions from what source?",
+    "options": ["Domestic corporate entities", "Foreign individuals and organizations", "Public sector undertakings", "Indian charitable trusts"],
+    "correctAnswer": "Foreign individuals and organizations"
   },
   {
     "id": 16,
-    "question": "Who currently holds the portfolio of Parliamentary Affairs Minister, as mentioned in the news criticizing the Congress?",
-    "options": ["Amit Shah", "Kiren Rijiju", "Nirmala Sitharaman", "S. Jaishankar"],
-    "correctAnswer": "Kiren Rijiju"
+    "question": "Which important Bill related to civil records was recently passed by the Indian Parliament?",
+    "options": ["Marriage Registration Amendment Bill", "Land Records Modernization Bill", "Registration of Births and Deaths Bill", "Population Census Bill"],
+    "correctAnswer": "Registration of Births and Deaths Bill"
   },
   {
     "id": 17,
-    "question": "The AI-powered supercomputing facility inaugurated by PM Modi is intended to support India's commitment to what broader national goal?",
-    "options": ["Export-oriented manufacturing", "Self-reliance and innovative sectors", "Global military dominance", "Traditional arts promotion"],
-    "correctAnswer": "Self-reliance and innovative sectors"
+    "question": "The passing of the Registration of Births and Deaths Bill aims to bring changes to what national process in India?",
+    "options": ["Electoral roll updates", "Recording births and deaths", "Property registration", "Aadhaar card issuance"],
+    "correctAnswer": "Recording births and deaths"
   },
   {
     "id": 18,
-    "question": "What was the alleged crime for which an IAF officer was recently held after being 'honey-trapped'?",
-    "options": ["Financial fraud", "Drug trafficking", "Sharing classified defence data", "Illegal arms trade"],
-    "correctAnswer": "Sharing classified defence data"
+    "question": "What is one expected outcome of the Registration of Births and Deaths Bill being passed by the Indian Parliament?",
+    "options": ["Decentralization of registration", "Standardized registration across India", "Reduced government oversight", "Elimination of all physical records"],
+    "correctAnswer": "Standardized registration across India"
   },
   {
     "id": 19,
-    "question": "What condition did Rahul Gandhi specifically state should NOT be linked to the immediate implementation of the Women's Reservation Bill?",
-    "options": ["Economic survey", "Census", "Delimitation", "State elections"],
-    "correctAnswer": "Delimitation"
+    "question": "The Registration of Births and Deaths Bill will impact the official documentation process for which life events in India?",
+    "options": ["Marriages and Divorces", "Education and Employment", "Births and Deaths", "Property and Inheritance"],
+    "correctAnswer": "Births and Deaths"
   },
   {
     "id": 20,
-    "question": "What commodity's purchase from Russia was the subject of recent concerns raised by Congress leader Pawan Khera regarding India's autonomy?",
-    "options": ["Natural gas", "Defence equipment", "Crude oil", "Fertilizers"],
-    "correctAnswer": "Crude oil"
+    "question": "What is the legislative body that recently passed the Registration of Births and Deaths Bill in India?",
+    "options": ["Supreme Court", "State Assemblies", "Parliament", "Election Commission"],
+    "correctAnswer": "Parliament"
   },
   {
     "id": 21,
-    "question": "Which specific ministry in India is responsible for asking Meta to revamp its algorithms to tackle deepfakes?",
-    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Electronics and Information Technology (IT Ministry)", "Ministry of Communications"],
-    "correctAnswer": "Ministry of Electronics and Information Technology (IT Ministry)"
+    "question": "Which significant Bill, potentially affecting parliamentary representation across India, faced opposition from some MPs recently?",
+    "options": ["Goods and Services Tax Bill", "Delimitation Bill", "Right to Education Bill", "Environmental Impact Assessment Bill"],
+    "correctAnswer": "Delimitation Bill"
   },
   {
     "id": 22,
-    "question": "Besides welcoming transformation and nurturing curiosity, what two other aspects did PM Modi emphasize to IIT Delhi graduates as important for their journeys?",
-    "options": ["Financial savings and investment", "Physical fitness and mental health", "Mentors and supportive networks", "Political awareness and activism"],
-    "correctAnswer": "Mentors and supportive networks"
+    "question": "What is the primary purpose of a Delimitation Bill in the context of parliamentary representation in India?",
+    "options": ["To decide the national budget", "To redraw the boundaries of electoral constituencies", "To appoint members of parliament", "To regulate political party funding"],
+    "correctAnswer": "To redraw the boundaries of electoral constituencies"
   },
   {
     "id": 23,
-    "question": "For which upcoming general elections is Rahul Gandhi specifically focusing on winning over the youth, including Gen Z?",
-    "options": ["2024", "2025", "2029", "2034"],
-    "correctAnswer": "2029"
+    "question": "What impact does the Delimitation Bill typically have on the number of parliamentary seats for states in India?",
+    "options": ["It can only increase the number of seats.", "It can only decrease the number of seats.", "It can alter the number of seats based on population changes.", "It has no impact on the number of seats."],
+    "correctAnswer": "It can alter the number of seats based on population changes."
   },
   {
     "id": 24,
-    "question": "Which political leader recently criticized the Samajwadi Party (SP) for allegedly changing its 'PDA' formula to target Brahmin voters?",
-    "options": ["Mamata Banerjee", "Mayawati", "Priyanka Gandhi Vadra", "Sonia Gandhi"],
-    "correctAnswer": "Mayawati"
+    "question": "The Delimitation Bill aims to ensure what principle in democratic representation within India?",
+    "options": ["Seniority of political leaders", "Equitable representation based on population", "Historical boundaries of regions", "Uniformity of voter turnout"],
+    "correctAnswer": "Equitable representation based on population"
   },
   {
     "id": 25,
-    "question": "Pawan Khera described addressing student grievances, such as those seen in Jharkhand's recruitment irregularities, as a collective duty of whom?",
-    "options": ["Only the ruling party", "Only the opposition parties", "All political parties", "The judiciary alone"],
-    "correctAnswer": "All political parties"
+    "question": "What is the general nature of the 'Delimitation Bill' as a legislative measure in India?",
+    "options": ["It relates to national security policies.", "It relates to fiscal reforms and taxation.", "It relates to the allocation and boundaries of electoral constituencies.", "It relates to foreign policy and international relations."],
+    "correctAnswer": "It relates to the allocation and boundaries of electoral constituencies."
   }
 ]

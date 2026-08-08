@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which long-standing case, dating back approximately four decades, was recently closed by the Supreme Court dismissing an appeal?",
-    "options": ["Hawala Scam", "Bofors Pay-off Case", "Telgi Stamp Paper Scam", "2G Spectrum Case"],
-    "correctAnswer": "Bofors Pay-off Case"
+    "question": "The Nari Shakti Vandan Adhiniyam, 2023, mentioned in recent news, aims to reserve seats for women. In the context of Andhra Pradesh, how would such a bill primarily impact the composition of its legislative assembly, post-delimitation?",
+    "options": [
+      "It would lead to direct reservation of seats for women in the assembly.",
+      "It would only impact Parliament, not state assemblies.",
+      "It would mandate 50% reservation for women in all cabinet positions.",
+      "It would primarily affect nominated members."
+    ],
+    "correctAnswer": "It would lead to direct reservation of seats for women in the assembly."
   },
   {
     "id": 2,
-    "question": "The Supreme Court dismissed an appeal challenging a 2005 ruling by which high court in the Bofors case?",
-    "options": ["Bombay High Court", "Calcutta High Court", "Delhi High Court", "Madras High Court"],
-    "correctAnswer": "Delhi High Court"
+    "question": "The Women's Reservation Bill's implementation is tied to delimitation. What is a key challenge this linkage presents for states like Telangana regarding the timing of increased women's representation?",
+    "options": [
+      "Delimitation exclusively focuses on urban areas.",
+      "It defers the immediate implementation of reservations until a new census and delimitation exercise.",
+      "It requires a separate state-level bill for implementation.",
+      "It mandates an equal number of male and female constituencies."
+    ],
+    "correctAnswer": "It defers the immediate implementation of reservations until a new census and delimitation exercise."
   },
   {
     "id": 3,
-    "question": "Who had filed the appeal in the Supreme Court regarding the Bofors pay-off case, which was ultimately dismissed?",
-    "options": ["Ravi Shankar Prasad", "Kapil Sibal", "Ajay K Agrawal", "P. Chidambaram"],
-    "correctAnswer": "Ajay K Agrawal"
+    "question": "Rahul Gandhi's comments highlight the necessity of women's freedom of expression for India's development. How might increased women's representation, post-Nari Shakti Vandan Adhiniyam, 2023, strengthen democratic participation in Andhra Pradesh?",
+    "options": [
+      "By reducing the total number of constituencies.",
+      "By introducing a quota for women in all government jobs.",
+      "By ensuring diverse perspectives in policy-making and governance.",
+      "By mandating women to vote in higher numbers."
+    ],
+    "correctAnswer": "By ensuring diverse perspectives in policy-making and governance."
   },
   {
     "id": 4,
-    "question": "The government recently defended the comprehensive framework of which fund, emphasizing strict conflict-of-interest protocols?",
-    "options": ["National Health Fund", "Research, Development and Innovation Fund", "National Disaster Relief Fund", "Pradhan Mantri Jan Dhan Yojana"],
-    "correctAnswer": "Research, Development and Innovation Fund"
+    "question": "While the Nari Shakti Vandan Adhiniyam, 2023, focuses on legislative bodies, women already have reservation in local self-governance. How does the existing reservation in Panchayati Raj institutions in Telangana set a precedent for legislative reservations?",
+    "options": [
+      "It provides a model for successful implementation of women's quotas.",
+      "It has led to a complete overhaul of state-level political parties.",
+      "It guarantees women's chief ministerial positions.",
+      "It is entirely unrelated to legislative reservations."
+    ],
+    "correctAnswer": "It provides a model for successful implementation of women's quotas."
   },
   {
     "id": 5,
-    "question": "Which board has been upholding essential safeguards related to conflict-of-interest protocols in public funding for decades?",
-    "options": ["Defence Research and Development Organisation (DRDO)", "Indian Space Research Organisation (ISRO)", "Technology Development Board", "Council of Scientific and Industrial Research (CSIR)"],
-    "correctAnswer": "Technology Development Board"
+    "question": "Assuming the Nari Shakti Vandan Adhiniyam, 2023, is implemented, what specific constitutional articles would primarily facilitate the reservation of seats for women in the Telangana Legislative Assembly?",
+    "options": [
+      "Articles 330A and 332A.",
+      "Article 370.",
+      "Article 243.",
+      "Article 368."
+    ],
+    "correctAnswer": "Articles 330A and 332A."
   },
   {
     "id": 6,
-    "question": "What measures were highlighted by officials to maintain an equitable assessment of all initiatives under public funding?",
-    "options": ["Confidentiality clauses and non-disclosure", "Full disclosure and recusal", "Arbitration and mediation", "Peer review and external audits"],
-    "correctAnswer": "Full disclosure and recusal"
+    "question": "The Nari Shakti Vandan Adhiniyam, 2023, will necessitate political parties to nominate more women candidates. How might this policy impact the internal selection processes of major political parties in Andhra Pradesh for assembly elections?",
+    "options": [
+      "It would eliminate the need for male candidates.",
+      "It would force parties to actively seek out and promote women leaders.",
+      "It would lead to the dissolution of all-women political parties.",
+      "It would only apply to national parties, not regional ones."
+    ],
+    "correctAnswer": "It would force parties to actively seek out and promote women leaders."
   },
   {
     "id": 7,
-    "question": "Which ministry is exploring new legislation aimed at regulating content on Over-The-Top (OTT) platforms?",
-    "options": ["Ministry of Electronics and Information Technology", "Ministry of Home Affairs", "Ministry of Information & Broadcasting", "Ministry of Communications"],
-    "correctAnswer": "Ministry of Information & Broadcasting"
+    "question": "The national initiative of digital OPD registrations using QR codes aims to reduce queues. How would this specifically improve efficiency in government hospitals across Telangana?",
+    "options": [
+      "By increasing the number of available doctors.",
+      "By automating patient data entry and reducing waiting times.",
+      "By providing free medication to all patients.",
+      "By eliminating the need for physical infrastructure."
+    ],
+    "correctAnswer": "By automating patient data entry and reducing waiting times."
   },
   {
     "id": 8,
-    "question": "What key aspects are prioritized in the proposed framework for regulating OTT content?",
-    "options": ["Promoting local content and artists", "Enhancing digital literacy and cybersecurity", "Regulating offensive content and preserving users' rights", "Ensuring data privacy and secure transactions"],
-    "correctAnswer": "Regulating offensive content and preserving users' rights"
+    "question": "Implementing QR code-based OPD registrations across Andhra Pradesh hospitals might face challenges related to digital literacy. Which demographic group in rural Andhra Pradesh would likely require specific assistance for this transition?",
+    "options": [
+      "Young adults.",
+      "Tech-savvy urban population.",
+      "Elderly and less digitally literate individuals.",
+      "Healthcare professionals."
+    ],
+    "correctAnswer": "Elderly and less digitally literate individuals."
   },
   {
     "id": 9,
-    "question": "What mechanisms are planned to be implemented as part of the new OTT content regulation framework?",
-    "options": ["Subscription limits and content licensing", "User rating systems and feedback loops", "Robust age verification and parental controls", "Regional content filters and language options"],
-    "correctAnswer": "Robust age verification and parental controls"
+    "question": "With 25 crore digital OPD registrations nationally, including contributions from states like Telangana, what is a key advantage for public health tracking and policy-making at the state level?",
+    "options": [
+      "It allows for personalized dietary recommendations.",
+      "It provides real-time data on disease prevalence and patient demographics.",
+      "It ensures all hospitals become fully cashless.",
+      "It replaces the need for medical records."
+    ],
+    "correctAnswer": "It provides real-time data on disease prevalence and patient demographics."
   },
   {
     "id": 10,
-    "question": "India recently urged China to share data on which specific natural resource?",
-    "options": ["Mineral resources", "Forest coverage", "Air quality", "River waters"],
-    "correctAnswer": "River waters"
+    "question": "For the widespread adoption of QR code-based OPD registrations in Andhra Pradesh, what primary technological infrastructure is essential in all government healthcare facilities?",
+    "options": [
+      "High-speed rail connectivity.",
+      "Reliable internet access and scanning devices.",
+      "Automated surgical robots.",
+      "Large-scale biometric scanning systems."
+    ],
+    "correctAnswer": "Reliable internet access and scanning devices."
   },
   {
     "id": 11,
-    "question": "According to New Delhi, what is necessary for the advancement of bilateral relationship with China?",
-    "options": ["Increased trade agreements", "Cultural exchange programs", "Maintaining peace along the Line of Actual Control", "Joint military exercises"],
-    "correctAnswer": "Maintaining peace along the Line of Actual Control"
+    "question": "The 'no queue' benefit of digital OPD registration aims to enhance patient experience. How would this specifically impact patients attending public hospitals in cities like Hyderabad or Vijayawada?",
+    "options": [
+      "Patients would receive priority in emergency cases only.",
+      "It would significantly reduce their waiting time for registration.",
+      "It would allow them to book appointments with private doctors for free.",
+      "It would eliminate the need for them to physically visit the hospital."
+    ],
+    "correctAnswer": "It would significantly reduce their waiting time for registration."
   },
   {
     "id": 12,
-    "question": "What did India seek an expedited meeting for amidst China's unveiling of a significant dam project upstream?",
-    "options": ["Expert committee on trans-border rivers", "Joint economic partnership council", "Environmental impact assessment team", "Bilateral security dialogue"],
-    "correctAnswer": "Expert committee on trans-border rivers"
+    "question": "As digital OPD registrations become widespread in states like Telangana, what ethical consideration related to patient information becomes paramount?",
+    "options": [
+      "Ensuring that patient data is publicly accessible for research.",
+      "Preventing unauthorized access and ensuring data security of medical records.",
+      "Requiring all patients to use a single digital platform.",
+      "Allowing medical data to be shared with advertising companies."
+    ],
+    "correctAnswer": "Preventing unauthorized access and ensuring data security of medical records."
   },
   {
     "id": 13,
-    "question": "Which court temporarily halted an FSSAI directive questioning Dabur India's product claims?",
-    "options": ["Bombay High Court", "Delhi High Court", "Allahabad High Court", "Karnataka High Court"],
-    "correctAnswer": "Delhi High Court"
+    "question": "The national issue of discarded blood components highlights inefficiencies. What is a critical factor for blood banks in Andhra Pradesh to minimize wastage?",
+    "options": [
+      "Over-collection of blood from donors.",
+      "Lack of proper storage facilities and inventory management.",
+      "Exclusive reliance on private blood banks.",
+      "Refusing all voluntary donations."
+    ],
+    "correctAnswer": "Lack of proper storage facilities and inventory management."
   },
   {
     "id": 14,
-    "question": "Which food regulator's directive against Dabur India was stayed by the Delhi High Court?",
-    "options": ["BIS (Bureau of Indian Standards)", "AGMARK (Agricultural Mark)", "FSSAI (Food Safety and Standards Authority of India)", "CCI (Competition Commission of India)"],
-    "correctAnswer": "FSSAI (Food Safety and Standards Authority of India)"
+    "question": "To reduce the mismatch between collection and wastage, what public awareness campaign related to blood donation could be emphasized in Telangana?",
+    "options": [
+      "Promoting universal blood type B positive.",
+      "Encouraging only paid blood donations.",
+      "Emphasizing voluntary and regular blood donation to meet dynamic demand.",
+      "Discouraging blood donation due to health risks."
+    ],
+    "correctAnswer": "Emphasizing voluntary and regular blood donation to meet dynamic demand."
   },
   {
     "id": 15,
-    "question": "Dabur emphasized that the FSSAI's approach contravened which principles?",
-    "options": ["Principles of market economics", "Principles of natural justice", "Principles of fair trade", "Principles of consumer protection"],
-    "correctAnswer": "Principles of natural justice"
+    "question": "The discarding of blood components could be due to inadequate infrastructure. What type of facility improvement is crucial for blood banks in Andhra Pradesh to prevent such wastage?",
+    "options": [
+      "Upgrading public transportation to blood banks.",
+      "Enhancing cold chain storage and component separation units.",
+      "Constructing new administrative offices.",
+      "Investing in advanced surgical theaters."
+    ],
+    "correctAnswer": "Enhancing cold chain storage and component separation units."
   },
   {
     "id": 16,
-    "question": "How many Indian seafarers are reported missing after a drone attack on a merchant ship?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "For states like Telangana, accurately forecasting blood component demand is vital. Which of the following factors is most crucial for effective demand-supply analysis in state blood banks?",
+    "options": [
+      "Global weather patterns.",
+      "Local disease incidence, surgical schedules, and accident rates.",
+      "National economic growth indicators.",
+      "The number of registered vehicles in the state."
+    ],
+    "correctAnswer": "Local disease incidence, surgical schedules, and accident rates."
   },
   {
     "id": 17,
-    "question": "What did the Supreme Court direct to facilitate for the families of the missing seafarers?",
-    "options": ["Government employment", "Medical assistance", "Maritime insurance payments", "Financial grants for education"],
-    "correctAnswer": "Maritime insurance payments"
+    "question": "The discarding of blood components can also be due to quality issues. What role does the state health department in Andhra Pradesh play in ensuring the quality and safety of collected blood?",
+    "options": [
+      "Overseeing the nutritional content of donor meals.",
+      "Implementing strict screening protocols and quality assurance tests.",
+      "Mandating a minimum weight for all donors.",
+      "Regulating the color of blood donation camps."
+    ],
+    "correctAnswer": "Implementing strict screening protocols and quality assurance tests."
   },
   {
     "id": 18,
-    "question": "Which airline recently announced a significant pay rise for its pilots, ranging from eight to fifteen percent?",
-    "options": ["IndiGo", "SpiceJet", "Air India", "Vistara"],
-    "correctAnswer": "Air India"
+    "question": "To improve blood component utilization and reduce wastage in Telangana, what role can public-private partnerships play?",
+    "options": [
+      "Exclusively transferring all blood bank operations to private entities.",
+      "Collaborating on efficient logistics, storage, and specialized processing.",
+      "Limiting public access to blood banks.",
+      "Restricting private hospitals from accepting donated blood."
+    ],
+    "correctAnswer": "Collaborating on efficient logistics, storage, and specialized processing."
   },
   {
     "id": 19,
-    "question": "As part of Air India's strategic move, who will gain command upgrades at Air India Express first?",
-    "options": ["Senior Captains", "First Officers", "Trainee Pilots", "Flight Engineers"],
-    "correctAnswer": "First Officers"
+    "question": "FSSAI's action highlights food safety concerns. What is the primary responsibility of the Telangana Food Safety Department in relation to such national directives?",
+    "options": [
+      "To issue licenses for all restaurants.",
+      "To enforce FSSAI regulations and conduct inspections at the state level.",
+      "To develop new food products for the market.",
+      "To solely manage agricultural subsidies."
+    ],
+    "correctAnswer": "To enforce FSSAI regulations and conduct inspections at the state level."
   },
   {
     "id": 20,
-    "question": "What significant operational change does Air India plan to resume next month, alongside pilot salary hikes?",
-    "options": ["Domestic cargo services", "Regional charter flights", "International flight services", "New budget airline operations"],
-    "correctAnswer": "International flight services"
+    "question": "Following FSSAI's actions, what key message should be conveyed to consumers in Andhra Pradesh regarding packaged food products?",
+    "options": [
+      "To avoid all packaged foods.",
+      "To check for FSSAI licenses and expiry dates before purchase.",
+      "To only consume imported food items.",
+      "To report all food products as unsafe."
+    ],
+    "correctAnswer": "To check for FSSAI licenses and expiry dates before purchase."
   },
   {
     "id": 21,
-    "question": "Which court recently replaced two special judges hearing coal scam cases in Delhi?",
-    "options": ["Delhi High Court", "Supreme Court", "Central Administrative Tribunal", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "For food manufacturers operating in states like Telangana, what is a crucial compliance aspect FSSAI's actions emphasize?",
+    "options": [
+      "Adhering to environmental protection laws only.",
+      "Ensuring product formulation, labeling, and hygiene standards meet FSSAI guidelines.",
+      "Increasing advertising spend.",
+      "Limiting production volumes."
+    ],
+    "correctAnswer": "Ensuring product formulation, labeling, and hygiene standards meet FSSAI guidelines."
   },
   {
     "id": 22,
-    "question": "Which court requested the transfer of the two coal scam judges for other judicial responsibilities?",
-    "options": ["Supreme Court of India", "Delhi High Court", "Patna High Court", "Calcutta High Court"],
-    "correctAnswer": "Delhi High Court"
+    "question": "If a food product popular in Andhra Pradesh is found with safety lapses by FSSAI, what immediate action is typically expected from the manufacturer and state authorities?",
+    "options": [
+      "To increase the price of the product.",
+      "To issue a product recall and stop sales.",
+      "To rename the product.",
+      "To export the product to other countries."
+    ],
+    "correctAnswer": "To issue a product recall and stop sales."
   },
   {
     "id": 23,
-    "question": "By what percentage did India's crude oil import bill surge in the first quarter of the year?",
-    "options": ["18 percent", "22 percent", "26 percent", "30 percent"],
-    "correctAnswer": "26 percent"
+    "question": "To support FSSAI's efforts and ensure food safety at the state level, what kind of infrastructure is vital in Andhra Pradesh?",
+    "options": [
+      "Advanced weather forecasting stations.",
+      "Well-equipped food testing laboratories.",
+      "Large-scale grain storage facilities.",
+      "Tourist information centers."
+    ],
+    "correctAnswer": "Well-equipped food testing laboratories."
   },
   {
     "id": 24,
-    "question": "Despite an 18 percent drop in import volumes, what was the primary reason for India's surged crude oil import bill?",
-    "options": ["Increased domestic consumption", "Rising oil prices due to ongoing conflicts", "Depreciation of the Indian Rupee", "Higher transportation costs"],
-    "correctAnswer": "Rising oil prices due to ongoing conflicts"
+    "question": "FSSAI's strict stance on compliance could impact local food businesses in Telangana. What support might the state government offer to help these businesses comply with regulations?",
+    "options": [
+      "Providing subsidies for non-compliant products.",
+      "Offering training and awareness programs on food safety standards.",
+      "Exempting them from all FSSAI rules.",
+      "Encouraging them to switch industries."
+    ],
+    "correctAnswer": "Offering training and awareness programs on food safety standards."
   },
   {
     "id": 25,
-    "question": "Which country emerged as India's primary crude supplier, contributing over forty percent, in the first quarter?",
-    "options": ["Saudi Arabia", "Iraq", "United States", "Russia"],
-    "correctAnswer": "Russia"
+    "question": "Beyond safety, FSSAI also focuses on compliance lapses that can include food fraud. How does the vigilance from FSSAI and state food safety departments protect consumers in Andhra Pradesh from fraudulent food products?",
+    "options": [
+      "By ensuring all food is organic.",
+      "By preventing adulteration and mislabeling.",
+      "By making food free for all.",
+      "By limiting the variety of food products available."
+    ],
+    "correctAnswer": "By preventing adulteration and mislabeling."
   }
 ]

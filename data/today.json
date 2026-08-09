@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What demographic group did Dharmendra Pradhan emphasize as a significant force for national advancement?",
-    "options": ["Baby Boomers", "Generation X", "Millennials", "Gen Z"],
-    "correctAnswer": "Gen Z"
+    "question": "What national event do 'Tiranga Yatras' typically precede in India, as observed in various states?",
+    "options": ["Republic Day", "Independence Day", "Gandhi Jayanti", "Constitution Day"],
+    "correctAnswer": "Independence Day"
   },
   {
     "id": 2,
-    "question": "According to Dharmendra Pradhan, what is essential for national advancement regarding Gen Z?",
-    "options": ["Ignoring their demands", "Grasping their hopes and dreams", "Restricting their participation", "Directing their career choices"],
-    "correctAnswer": "Grasping their hopes and dreams"
+    "question": "The 'Tiranga Yatra' signifies national unity. Which of the following is a key symbol of this unity, often displayed during such events across India?",
+    "options": ["State Emblems", "Political Party Flags", "The National Flag", "Regional Cultural Symbols"],
+    "correctAnswer": "The National Flag"
   },
   {
     "id": 3,
-    "question": "What issue has arisen due to the rollout of EPFO's new IT system?",
-    "options": ["Immediate increase in claim processing speed", "Substantial backlog of claim issues", "Reduction in member discomfort", "Complete automation of all claims"],
-    "correctAnswer": "Substantial backlog of claim issues"
+    "question": "The spirit of 'Tiranga Yatra' aims to foster patriotism among citizens across India. This initiative is most closely associated with celebrating:",
+    "options": ["India's cultural diversity", "India's freedom from colonial rule", "India's economic growth", "India's technological advancements"],
+    "correctAnswer": "India's freedom from colonial rule"
   },
   {
     "id": 4,
-    "question": "How long have many pending auto claims been lingering due to the EPFO system transition, causing discomfort to members?",
-    "options": ["Less than a week", "Over twenty days", "Approximately ten days", "One month exactly"],
-    "correctAnswer": "Over twenty days"
+    "question": "Union Education Minister Dharmendra Pradhan emphasized the importance of understanding the aspirations of which demographic group for national advancement?",
+    "options": ["Senior Citizens", "Gen X", "Baby Boomers", "Gen Z"],
+    "correctAnswer": "Gen Z"
   },
   {
     "id": 5,
-    "question": "What is EPFO's stance on the recent surge in claim pendency after the IT system rollout?",
-    "options": ["It's an unexpected major failure", "It's a planned long-term strategy", "It's a short-term effect of the system transition", "It's due to lack of staff training"],
-    "correctAnswer": "It's a short-term effect of the system transition"
+    "question": "According to Dharmendra Pradhan, whose hopes and dreams are essential for India's national advancement?",
+    "options": ["Industrialists", "Politicians", "Young people (Gen Z)", "Farmers"],
+    "correctAnswer": "Young people (Gen Z)"
   },
   {
     "id": 6,
-    "question": "In which perilous region did the Indian Navy recently thwart a pirate assault on the Golden Arsenal?",
-    "options": ["Strait of Malacca", "Suez Canal", "Gulf of Aden", "Persian Gulf"],
-    "correctAnswer": "Gulf of Aden"
+    "question": "Dharmendra Pradhan stated that the eagerness of young people surpasses governmental duties. This sentiment highlights the importance of youth engagement in the context of:",
+    "options": ["Regional festivals", "National welfare and progress", "Local elections", "International trade agreements"],
+    "correctAnswer": "National welfare and progress"
   },
   {
     "id": 7,
-    "question": "What defensive measure did the crew of the Golden Arsenal utilize to thwart the pirate attack?",
-    "options": ["Engaging pirates in combat", "Calling for air support", "Seeking refuge within an impregnable citadel", "Abandoning the ship"],
-    "correctAnswer": "Seeking refuge within an impregnable citadel"
+    "question": "Which national organization is facing a backlog of claim issues due to the rollout of a new IT system?",
+    "options": ["Reserve Bank of India (RBI)", "Employees' Provident Fund Organisation (EPFO)", "Income Tax Department (ITD)", "National Payments Corporation of India (NPCI)"],
+    "correctAnswer": "Employees' Provident Fund Organisation (EPFO)"
   },
   {
     "id": 8,
-    "question": "As per the news, how many vessels reportedly remain under the control of Somali pirates, with Indian nationals on three of them?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Four"
+    "question": "The recent issues with EPFO's new IT system have caused significant discomfort to which group in India, including those in Telangana and Andhra Pradesh?",
+    "options": ["Government contractors", "Pension fund managers", "EPFO members", "IT system developers"],
+    "correctAnswer": "EPFO members"
   },
   {
     "id": 9,
-    "question": "Which US official recently called PM Narendra Modi to discuss strengthening partnerships in vital sectors?",
-    "options": ["Secretary of State Blinken", "President Joe Biden", "Vice President JD Vance", "National Security Advisor Sullivan"],
-    "correctAnswer": "Vice President JD Vance"
+    "question": "EPFO admitted that the surge in pendency of claims is a short-term effect of what process?",
+    "options": ["Staff shortages", "System transition", "Budget cuts", "New policy mandates"],
+    "correctAnswer": "System transition"
   },
   {
     "id": 10,
-    "question": "What key sectors were discussed by US VP JD Vance and PM Modi to strengthen partnerships?",
-    "options": ["Agriculture, tourism, and textiles", "Trade, defense, and upcoming technologies", "Education, healthcare, and infrastructure", "Mining, fisheries, and renewable energy"],
-    "correctAnswer": "Trade, defense, and upcoming technologies"
+    "question": "The EPFO is a statutory body under the Government of India that manages:",
+    "options": ["Public sector banks", "Provident Funds and Pension Schemes for organized sector employees", "Foreign exchange reserves", "Agricultural subsidies"],
+    "correctAnswer": "Provident Funds and Pension Schemes for organized sector employees"
   },
   {
     "id": 11,
-    "question": "How many new judges were recently notified for appointment across four high courts in India?",
+    "question": "The Indian Navy recently thwarted a pirate assault on the Golden Arsenal in which perilous region?",
+    "options": ["Strait of Malacca", "Persian Gulf", "Gulf of Aden", "Suez Canal"],
+    "correctAnswer": "Gulf of Aden"
+  },
+  {
+    "id": 12,
+    "question": "How did the crew of the Golden Arsenal successfully thwart the pirate invaders, with assistance from the Indian Navy?",
+    "options": ["By outmaneuvering the pirate ships", "By seeking refuge in an impregnable citadel", "By negotiating a ransom payment", "By launching counter-attacks"],
+    "correctAnswer": "By seeking refuge in an impregnable citadel"
+  },
+  {
+    "id": 13,
+    "question": "The Indian Navy's intervention in the Gulf of Aden highlights India's commitment to:",
+    "options": ["Expanding its territorial waters", "Ensuring freedom of navigation and maritime security", "Establishing new trade routes", "International peacekeeping missions in landlocked areas"],
+    "correctAnswer": "Ensuring freedom of navigation and maritime security"
+  },
+  {
+    "id": 14,
+    "question": "US Vice President JD Vance recently engaged in a conversation with PM Narendra Modi to discuss strengthening partnerships in which key sectors?",
+    "options": ["Tourism and hospitality", "Agriculture and fisheries", "Trade, defense, and upcoming technologies", "Entertainment and media"],
+    "correctAnswer": "Trade, defense, and upcoming technologies"
+  },
+  {
+    "id": 15,
+    "question": "The recent call between US VP JD Vance and PM Modi reiterates the dedication of both nations to strengthen:",
+    "options": ["Regional sports leagues", "Bilateral ties", "Internal political alliances", "Local administrative cooperation"],
+    "correctAnswer": "Bilateral ties"
+  },
+  {
+    "id": 16,
+    "question": "Which country's Vice President recently held talks with India's Prime Minister to discuss boosting strategic ties?",
+    "options": ["Russia", "China", "United States", "United Kingdom"],
+    "correctAnswer": "United States"
+  },
+  {
+    "id": 17,
+    "question": "The Indian Law Ministry recently notified appointments for how many new judges across various high courts?",
     "options": ["15", "20", "25", "30"],
     "correctAnswer": "30"
   },
   {
-    "id": 12,
-    "question": "What reason did the law minister cite for the significant number of vacancies in High Courts across India?",
-    "options": ["Lack of qualified candidates", "Government budget cuts", "Collegium delays", "Insufficient applications"],
-    "correctAnswer": "Collegium delays"
-  },
-  {
-    "id": 13,
-    "question": "Approximately how many cases are pending across India's twenty-five high courts as per the news?",
-    "options": ["Over thirty lakh", "Over forty lakh", "Over fifty lakh", "Over sixty lakh"],
-    "correctAnswer": "Over sixty lakh"
-  },
-  {
-    "id": 14,
-    "question": "Which Indian airline's captain reportedly tested positive for psychoactive substances after a turbulent Phuket-Delhi flight?",
-    "options": ["IndiGo", "SpiceJet", "Air India", "Vistara"],
-    "correctAnswer": "Air India"
-  },
-  {
-    "id": 15,
-    "question": "What regulatory body is conducting a detailed investigation into the incident involving the captain of the Phuket-Delhi flight?",
-    "options": ["Bureau of Civil Aviation Security", "Airport Authority of India", "Directorate General of Civil Aviation", "Ministry of Civil Aviation"],
-    "correctAnswer": "Directorate General of Civil Aviation"
-  },
-  {
-    "id": 16,
-    "question": "What has the government pledged regarding the upcoming UPI merchant discount rate (MDR)?",
-    "options": ["It will be very high", "It will be nominal", "It will be abolished entirely", "It will apply to all transactions"],
-    "correctAnswer": "It will be nominal"
-  },
-  {
-    "id": 17,
-    "question": "For which type of UPI transactions will the proposed MDR generally remain free for all users?",
-    "options": ["Merchant-to-merchant payments", "Business-to-customer payments", "Person-to-person payments", "International remittances"],
-    "correctAnswer": "Person-to-person payments"
-  },
-  {
     "id": 18,
-    "question": "What is one of the stated goals of introducing a nominal MDR for certain UPI transactions?",
-    "options": ["To discourage digital payments", "To increase government revenue significantly", "To enhance the sustainability of India's digital payment ecosystem", "To limit service expansion to urban areas"],
-    "correctAnswer": "To enhance the sustainability of India's digital payment ecosystem"
+    "question": "The appointment of judges to High Courts in India is typically notified by which central ministry?",
+    "options": ["Ministry of Home Affairs", "Ministry of Law and Justice", "Ministry of Finance", "Ministry of Defence"],
+    "correctAnswer": "Ministry of Law and Justice"
   },
   {
     "id": 19,
-    "question": "India's education funding aligns with what standard, according to the news?",
-    "options": ["International benchmarks for per capita spending", "UNESCO's public spending goals", "GDP standards", "Private sector investment targets"],
-    "correctAnswer": "GDP standards"
+    "question": "The Law Minister cited delays by which body as a reason for the significant number of vacancies in India's high courts?",
+    "options": ["Bar Council of India", "Supreme Court Collegium", "Parliament", "Attorney General's office"],
+    "correctAnswer": "Supreme Court Collegium"
   },
   {
     "id": 20,
-    "question": "What international organization's spending standard does India's education funding fall short of, particularly for public spending goals?",
-    "options": ["World Bank", "IMF", "UNICEF", "UNESCO"],
-    "correctAnswer": "UNESCO"
+    "question": "The Directorate General of Civil Aviation (DGCA) is investigating an incident involving the captain of an Air India flight who reportedly tested positive for which type of substances?",
+    "options": ["Performance-enhancing drugs", "Psychoactive substances", "Prescription painkillers", "Alcohol"],
+    "correctAnswer": "Psychoactive substances"
   },
   {
     "id": 21,
-    "question": "What aspect of secondary education completion rates in India lags behind national and UNESCO guidelines?",
-    "options": ["Enrollment figures", "Quality of teaching staff", "Completion rates", "Infrastructure development"],
-    "correctAnswer": "Completion rates"
+    "question": "Which Indian airline was involved in the recent incident where a flight captain reportedly failed a dope test after a turbulent Phuket-Delhi flight?",
+    "options": ["IndiGo", "SpiceJet", "Vistara", "Air India"],
+    "correctAnswer": "Air India"
   },
   {
     "id": 22,
-    "question": "Which bill was the subject of a recent exchange between Union Minister Kiren Rijiju and LoP Rahul Gandhi?",
-    "options": ["Farmer's Income Support Bill", "Environmental Protection Bill", "Women's Reservation Bill", "Digital Personal Data Protection Bill"],
-    "correctAnswer": "Women's Reservation Bill"
+    "question": "What regulatory body in India is responsible for investigating aviation incidents and ensuring flight safety, such as in the case of the Phuket-Delhi flight?",
+    "options": ["Bureau of Civil Aviation Security (BCAS)", "Airports Authority of India (AAI)", "Directorate General of Civil Aviation (DGCA)", "Ministry of Civil Aviation"],
+    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
   },
   {
     "id": 23,
-    "question": "What process did Rahul Gandhi link to the holdup in implementing the Women's Reservation Bill?",
-    "options": ["Electoral bond reforms", "Judicial review process", "Delimitation process", "State assembly approvals"],
-    "correctAnswer": "Delimitation process"
+    "question": "The Indian government has pledged that the upcoming Merchant Discount Rate (MDR) for UPI transactions will be nominal and applicable only to certain merchants and transactions exceeding a designated threshold. What will remain free for all users?",
+    "options": ["Merchant-to-merchant UPI payments", "International UPI transactions", "Person-to-person UPI payments", "Government service UPI payments"],
+    "correctAnswer": "Person-to-person UPI payments"
   },
   {
     "id": 24,
-    "question": "What is the proposed increase in Lok Sabha's strength aimed by the Constitution amendment bill related to women's reservation?",
-    "options": ["Twenty-five percent", "Thirty percent", "Forty percent", "Fifty percent"],
-    "correctAnswer": "Fifty percent"
+    "question": "The initiative to introduce a nominal MDR for certain UPI transactions is designed to enhance the sustainability of India's digital payment ecosystem and facilitate service expansion into which areas?",
+    "options": ["Only metropolitan cities", "Foreign markets exclusively", "Rural and semi-urban regions", "High-volume commercial centers only"],
+    "correctAnswer": "Rural and semi-urban regions"
   },
   {
     "id": 25,
-    "question": "Besides the Akali Dal, which other political parties is the government reportedly seeking support from for the women's reservation measure?",
-    "options": ["Congress and BJP", "AAP and TMC", "DMK and NCP(SP)", "BJD and YSRCP"],
-    "correctAnswer": "DMK and NCP(SP)"
+    "question": "The UPI system, which is part of India's digital payment ecosystem, is managed by which organization?",
+    "options": ["Reserve Bank of India (RBI)", "National Payments Corporation of India (NPCI)", "State Bank of India (SBI)", "Ministry of Finance"],
+    "correctAnswer": "National Payments Corporation of India (NPCI)"
   }
 ]

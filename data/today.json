@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the Indian Nobel laureate whose life and work were discussed in the news?",
-    "options": ["Amartya Sen", "C.V. Raman", "Kailash Satyarthi", "Rabindranath Tagore"],
-    "correctAnswer": "Kailash Satyarthi"
+    "question": "The Directorate General of Civil Aviation (DGCA), mentioned in recent national news, is the primary regulatory body for civil aviation in India. Which international airport in Telangana operates under the safety regulations overseen by the DGCA?",
+    "options": ["Rajiv Gandhi International Airport, Hyderabad", "Begumpet Airport, Hyderabad", "Warangal Airport", "Kadapa Airport"],
+    "correctAnswer": "Rajiv Gandhi International Airport, Hyderabad"
   },
   {
     "id": 2,
-    "question": "For what primary cause did Kailash Satyarthi receive the Nobel Peace Prize?",
-    "options": ["Environmental protection", "Child rights and abolition of child labor", "Promotion of peace between nations", "Eradication of poverty"],
-    "correctAnswer": "Child rights and abolition of child labor"
+    "question": "Regarding air safety and regulation, a topic highlighted in national news, which Indian authority sets the primary regulatory framework for airports like Visakhapatnam in Andhra Pradesh?",
+    "options": ["Ministry of Civil Aviation", "Airports Authority of India (AAI)", "Directorate General of Civil Aviation (DGCA)", "Bureau of Civil Aviation Security (BCAS)"],
+    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
   },
   {
     "id": 3,
-    "question": "Which organization is famously associated with Kailash Satyarthi's work against child labor?",
-    "options": ["PETA", "Bachpan Bachao Andolan", "Greenpeace India", "Doctors Without Borders"],
-    "correctAnswer": "Bachpan Bachao Andolan"
+    "question": "Air India, a national carrier frequently mentioned in news reports, operates numerous flights connecting major Indian cities. Which major business group recently re-acquired Air India from the government?",
+    "options": ["Reliance Group", "Adani Group", "Tata Group", "Mahindra Group"],
+    "correctAnswer": "Tata Group"
   },
   {
     "id": 4,
-    "question": "Kailash Satyarthi's work primarily focuses on the rights of which vulnerable group?",
-    "options": ["Women", "Elderly", "Children", "Indigenous communities"],
-    "correctAnswer": "Children"
+    "question": "The national aviation sector, including airports in Telangana and Andhra Pradesh, requires robust technical standards. Which body primarily governs the technical standards and licensing for pilots operating commercial flights across India?",
+    "options": ["Airports Authority of India (AAI)", "Bureau of Civil Aviation Security (BCAS)", "Directorate General of Civil Aviation (DGCA)", "Ministry of Civil Aviation (MoCA)"],
+    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
   },
   {
     "id": 5,
-    "question": "In what year did Kailash Satyarthi win the Nobel Peace Prize?",
-    "options": ["2007", "2010", "2014", "2018"],
-    "correctAnswer": "2014"
+    "question": "What is the name of the prominent international airport serving Hyderabad, the capital city of Telangana, which is a major hub for national and international air travel?",
+    "options": ["Begumpet Airport", "Warangal Airport", "Rajiv Gandhi International Airport", "Vijayawada Airport"],
+    "correctAnswer": "Rajiv Gandhi International Airport"
   },
   {
     "id": 6,
-    "question": "What specific type of exploitation does Kailash Satyarthi actively campaign against in India and globally?",
-    "options": ["Human trafficking", "Child labor", "Gender discrimination", "Economic inequality"],
-    "correctAnswer": "Child labor"
+    "question": "Which city in Andhra Pradesh is home to the major airport often referred to as 'Vizag Airport', serving as a crucial air travel gateway for the state's northern region?",
+    "options": ["Vijayawada", "Tirupati", "Visakhapatnam", "Rajahmundry"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 7,
-    "question": "What major concern did Rahul Gandhi raise regarding students in India?",
-    "options": ["Lack of sports facilities", "Police action on students", "High tuition fees in private schools", "Shortage of teachers"],
-    "correctAnswer": "Police action on students"
+    "question": "In the context of national airport infrastructure, which public sector undertaking operates most of the civilian airports in Andhra Pradesh, including regional ones?",
+    "options": ["GMR Group", "GVK Group", "Airports Authority of India (AAI)", "Adani Airports"],
+    "correctAnswer": "Airports Authority of India (AAI)"
   },
   {
     "id": 8,
-    "question": "According to Rahul Gandhi, what challenge do Indian youth primarily face regarding their careers?",
-    "options": ["Lack of international exposure", "Shrinking employment opportunities", "Insufficient government scholarships", "Difficulty in higher education admissions"],
-    "correctAnswer": "Shrinking employment opportunities"
+    "question": "With national aviation growth, which Indian state, known for its IT hub and rapid economic development, has seen significant expansion in air passenger traffic, leading to upgraded airport facilities?",
+    "options": ["Karnataka", "Tamil Nadu", "Telangana", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 9,
-    "question": "Which political leaders did Rahul Gandhi criticize regarding the police action on students?",
-    "options": ["Mallikarjun Kharge and Sonia Gandhi", "Arvind Kejriwal and Yogi Adityanath", "PM Modi and HM Shah", "Mamata Banerjee and M.K. Stalin"],
-    "correctAnswer": "PM Modi and HM Shah"
+    "question": "Following a recent report about aviation safety, clarity on regulatory bodies is important. What is the full form of DGCA, the primary regulatory body for civil aviation in India?",
+    "options": ["Directorate General of Civil Aviation", "Department of Government Civil Aircraft", "Directorate of Global Civil Aviation", "Division of General Commercial Airlines"],
+    "correctAnswer": "Directorate General of Civil Aviation"
   },
   {
     "id": 10,
-    "question": "What did Rahul Gandhi warn youth against, stating that jobs are shrinking?",
-    "options": ["Excessive academic pressure", "Social media distractions", "Pursuing arts degrees", "Migrating abroad for jobs"],
-    "correctAnswer": "Social media distractions"
+    "question": "Recent national political news has involved various parties. Which national political party is currently in power in Telangana after the recent state assembly elections?",
+    "options": ["Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 11,
-    "question": "What ideology did the Congress leader allege was influencing appointments in institutional systems?",
-    "options": ["Communist ideology", "Secularist ideology", "RSS ideology", "Socialist ideology"],
-    "correctAnswer": "RSS ideology"
+    "question": "Which national political party, a key player in Indian politics, is currently the principal opposition party in the Andhra Pradesh Legislative Assembly?",
+    "options": ["Bharatiya Janata Party (BJP)", "YSR Congress Party", "Telugu Desam Party (TDP)", "Jana Sena Party"],
+    "correctAnswer": "Telugu Desam Party (TDP)"
   },
   {
     "id": 12,
-    "question": "Rahul Gandhi stated that students are the nation's __________.",
-    "options": ["backbone", "future", "light", "hope"],
-    "correctAnswer": "light"
+    "question": "While some states are known as 'Devbhoomi' (as mentioned in national news), which state in India is widely recognized as the 'Rice Bowl of India' due to its significant rice production?",
+    "options": ["Punjab", "West Bengal", "Andhra Pradesh", "Uttar Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 13,
-    "question": "What is one of the key issues Rahul Gandhi highlighted concerning the struggles of students?",
-    "options": ["Lack of access to digital devices", "Difficulties with education and lack of employment opportunities", "Poor infrastructure in schools", "Absence of extracurricular activities"],
-    "correctAnswer": "Difficulties with education and lack of employment opportunities"
+    "question": "Which major regional political party currently holds power in Andhra Pradesh and is led by Y. S. Jagan Mohan Reddy?",
+    "options": ["Telugu Desam Party (TDP)", "Bharat Rashtra Samithi (BRS)", "YSR Congress Party", "Jana Sena Party"],
+    "correctAnswer": "YSR Congress Party"
   },
   {
     "id": 14,
-    "question": "Rahul Gandhi criticized the government's response to which specific group mentioned in the news?",
-    "options": ["Farmers", "Industrial workers", "Students", "Small business owners"],
-    "correctAnswer": "Students"
+    "question": "The 'Tiranga Yatra' and national duty (mentioned in news) reflect cultural pride. What is the state animal of Telangana, symbolizing its unique natural heritage?",
+    "options": ["Tiger", "Elephant", "Spotted Deer", "Indian Roller"],
+    "correctAnswer": "Spotted Deer"
   },
   {
     "id": 15,
-    "question": "What is the broader implication of 'shrinking jobs' mentioned by Rahul Gandhi for Indian youth?",
-    "options": ["Increased competition for available positions", "Higher salaries in specialized fields", "A shift towards government jobs", "Reduced need for higher education"],
-    "correctAnswer": "Increased competition for available positions"
+    "question": "Which national political party won the maximum number of Lok Sabha seats from the state of Andhra Pradesh in the 2019 general elections?",
+    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party", "Bharatiya Janata Party (BJP)", "Indian National Congress (INC)"],
+    "correctAnswer": "YSR Congress Party"
   },
   {
     "id": 16,
-    "question": "According to a recent report, what technology can help bridge India's healthcare gap?",
-    "options": ["Virtual Reality", "Augmented Reality", "Artificial Intelligence", "Blockchain"],
-    "correctAnswer": "Artificial Intelligence"
+    "question": "The demand for cancelling state-level examinations (like JPSC mentioned in news) is a recurrent issue. Which autonomous body is primarily responsible for conducting civil service examinations for various government posts in the state of Telangana?",
+    "options": ["Union Public Service Commission (UPSC)", "Staff Selection Commission (SSC)", "Telangana State Public Service Commission (TSPSC)", "Andhra Pradesh Public Service Commission (APPSC)"],
+    "correctAnswer": "Telangana State Public Service Commission (TSPSC)"
   },
   {
     "id": 17,
-    "question": "What is one of the main problems AI is expected to address in India's healthcare sector?",
-    "options": ["High cost of medical education", "Lack of trained medical professionals", "Gap in healthcare access and services", "Over-reliance on traditional medicine"],
-    "correctAnswer": "Gap in healthcare access and services"
+    "question": "The Congress party, prominent in national news, recently formed the government in Telangana. Who is the current Chief Minister of Telangana?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "N. Chandrababu Naidu"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 18,
-    "question": "How can AI potentially improve access to healthcare in remote parts of India?",
-    "options": ["By building more physical hospitals", "Through virtual consultations and early diagnosis", "By training more local paramedics", "By reducing medicine prices"],
-    "correctAnswer": "Through virtual consultations and early diagnosis"
+    "question": "The national political landscape frequently highlights regional leaders. Which prominent regional political party in Andhra Pradesh is currently led by N. Chandrababu Naidu?",
+    "options": ["YSR Congress Party", "Telugu Desam Party (TDP)", "Jana Sena Party", "Bharatiya Janata Party (BJP)"],
+    "correctAnswer": "Telugu Desam Party (TDP)"
   },
   {
     "id": 19,
-    "question": "Besides bridging gaps, what other benefit could AI bring to the efficiency of Indian healthcare?",
-    "options": ["Reducing the need for doctors", "Automating complex surgeries", "Improving diagnostic accuracy and operational efficiency", "Replacing all human nurses"],
-    "correctAnswer": "Improving diagnostic accuracy and operational efficiency"
+    "question": "Which Indian state was bifurcated in 2014, leading to the formation of a new state, Telangana, while retaining its original name for the residuary state?",
+    "options": ["Madhya Pradesh", "Uttar Pradesh", "Bihar", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 20,
-    "question": "What kind of report suggests AI's role in India's healthcare?",
-    "options": ["A government policy paper", "A medical journal publication", "A recent industry report", "An international organization's study"],
-    "correctAnswer": "A recent industry report"
+    "question": "National headlines sometimes involve inter-state resource sharing. Which major river is a crucial water source for both Telangana and Andhra Pradesh, with its basin being a frequent subject of inter-state water sharing discussions?",
+    "options": ["Ganga", "Yamuna", "Krishna", "Godavari"],
+    "correctAnswer": "Krishna"
   },
   {
     "id": 21,
-    "question": "Which sector in India is predicted to benefit significantly from Artificial Intelligence according to a recent analysis?",
-    "options": ["Manufacturing", "Agriculture", "Healthcare", "Finance"],
-    "correctAnswer": "Healthcare"
+    "question": "While an India-Russia rail link is proposed, India's own national railway network is vital for internal connectivity. What is the headquarters of the South Central Railway Zone, which serves large parts of Telangana and Andhra Pradesh?",
+    "options": ["Chennai", "Secunderabad", "Bengaluru", "Hubballi"],
+    "correctAnswer": "Secunderabad"
   },
   {
     "id": 22,
-    "question": "What did the Indian government recently emphasize regarding Meta's operations in India?",
-    "options": ["Meta should expand its data centers", "Meta must comply with Indian law", "Meta should increase its advertising revenue", "Meta needs to hire more Indian employees"],
-    "correctAnswer": "Meta must comply with Indian law"
+    "question": "Sohrai-Khovar painting (mentioned for Jharkhand) is a traditional art form. Which traditional art form from Andhra Pradesh is renowned for its intricate block printing and natural dyes, often depicting mythological narratives?",
+    "options": ["Madhubani", "Kalamkari", "Warli", "Gond"],
+    "correctAnswer": "Kalamkari"
   },
   {
     "id": 23,
-    "question": "The Centre stated that Meta must comply with which specific set of rules?",
-    "options": ["Global corporate guidelines", "Indian law", "European data privacy regulations", "US trade policies"],
-    "correctAnswer": "Indian law"
+    "question": "India aims to improve national logistics and trade infrastructure. Which port city in Andhra Pradesh is widely recognized for possessing one of the deepest natural harbors in the country?",
+    "options": ["Kakinada", "Machilipatnam", "Krishnapatnam", "Visakhapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 24,
-    "question": "What did the Indian government state Meta should prioritize over its global policies?",
-    "options": ["User engagement metrics", "Brand reputation", "Indian law", "Shareholder value"],
-    "correctAnswer": "Indian law"
+    "question": "National public sector undertakings are crucial for India's industrial base. Which major integrated steel plant, a prominent public sector undertaking, is located in Visakhapatnam, Andhra Pradesh?",
+    "options": ["Bhilai Steel Plant", "Durgapur Steel Plant", "Visakhapatnam Steel Plant", "Rourkela Steel Plant"],
+    "correctAnswer": "Visakhapatnam Steel Plant"
   },
   {
     "id": 25,
-    "question": "What is the core principle the Indian government is asserting over global tech companies like Meta?",
-    "options": ["Free market competition", "National sovereignty in digital governance", "Technological innovation", "Data localization"],
-    "correctAnswer": "National sovereignty in digital governance"
+    "question": "The promotion of Indian cultural heritage is a national priority. Which classical dance form, known for its graceful movements and storytelling, originated in the state of Andhra Pradesh?",
+    "options": ["Bharatanatyam", "Kathakali", "Kuchipudi", "Odissi"],
+    "correctAnswer": "Kuchipudi"
   }
 ]

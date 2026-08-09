@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What national event do 'Tiranga Yatras' typically precede in India, as observed in various states?",
-    "options": ["Republic Day", "Independence Day", "Gandhi Jayanti", "Constitution Day"],
-    "correctAnswer": "Independence Day"
+    "question": "Who is the Indian Nobel laureate whose life and work were discussed in the news?",
+    "options": ["Amartya Sen", "C.V. Raman", "Kailash Satyarthi", "Rabindranath Tagore"],
+    "correctAnswer": "Kailash Satyarthi"
   },
   {
     "id": 2,
-    "question": "The 'Tiranga Yatra' signifies national unity. Which of the following is a key symbol of this unity, often displayed during such events across India?",
-    "options": ["State Emblems", "Political Party Flags", "The National Flag", "Regional Cultural Symbols"],
-    "correctAnswer": "The National Flag"
+    "question": "For what primary cause did Kailash Satyarthi receive the Nobel Peace Prize?",
+    "options": ["Environmental protection", "Child rights and abolition of child labor", "Promotion of peace between nations", "Eradication of poverty"],
+    "correctAnswer": "Child rights and abolition of child labor"
   },
   {
     "id": 3,
-    "question": "The spirit of 'Tiranga Yatra' aims to foster patriotism among citizens across India. This initiative is most closely associated with celebrating:",
-    "options": ["India's cultural diversity", "India's freedom from colonial rule", "India's economic growth", "India's technological advancements"],
-    "correctAnswer": "India's freedom from colonial rule"
+    "question": "Which organization is famously associated with Kailash Satyarthi's work against child labor?",
+    "options": ["PETA", "Bachpan Bachao Andolan", "Greenpeace India", "Doctors Without Borders"],
+    "correctAnswer": "Bachpan Bachao Andolan"
   },
   {
     "id": 4,
-    "question": "Union Education Minister Dharmendra Pradhan emphasized the importance of understanding the aspirations of which demographic group for national advancement?",
-    "options": ["Senior Citizens", "Gen X", "Baby Boomers", "Gen Z"],
-    "correctAnswer": "Gen Z"
+    "question": "Kailash Satyarthi's work primarily focuses on the rights of which vulnerable group?",
+    "options": ["Women", "Elderly", "Children", "Indigenous communities"],
+    "correctAnswer": "Children"
   },
   {
     "id": 5,
-    "question": "According to Dharmendra Pradhan, whose hopes and dreams are essential for India's national advancement?",
-    "options": ["Industrialists", "Politicians", "Young people (Gen Z)", "Farmers"],
-    "correctAnswer": "Young people (Gen Z)"
+    "question": "In what year did Kailash Satyarthi win the Nobel Peace Prize?",
+    "options": ["2007", "2010", "2014", "2018"],
+    "correctAnswer": "2014"
   },
   {
     "id": 6,
-    "question": "Dharmendra Pradhan stated that the eagerness of young people surpasses governmental duties. This sentiment highlights the importance of youth engagement in the context of:",
-    "options": ["Regional festivals", "National welfare and progress", "Local elections", "International trade agreements"],
-    "correctAnswer": "National welfare and progress"
+    "question": "What specific type of exploitation does Kailash Satyarthi actively campaign against in India and globally?",
+    "options": ["Human trafficking", "Child labor", "Gender discrimination", "Economic inequality"],
+    "correctAnswer": "Child labor"
   },
   {
     "id": 7,
-    "question": "Which national organization is facing a backlog of claim issues due to the rollout of a new IT system?",
-    "options": ["Reserve Bank of India (RBI)", "Employees' Provident Fund Organisation (EPFO)", "Income Tax Department (ITD)", "National Payments Corporation of India (NPCI)"],
-    "correctAnswer": "Employees' Provident Fund Organisation (EPFO)"
+    "question": "What major concern did Rahul Gandhi raise regarding students in India?",
+    "options": ["Lack of sports facilities", "Police action on students", "High tuition fees in private schools", "Shortage of teachers"],
+    "correctAnswer": "Police action on students"
   },
   {
     "id": 8,
-    "question": "The recent issues with EPFO's new IT system have caused significant discomfort to which group in India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Government contractors", "Pension fund managers", "EPFO members", "IT system developers"],
-    "correctAnswer": "EPFO members"
+    "question": "According to Rahul Gandhi, what challenge do Indian youth primarily face regarding their careers?",
+    "options": ["Lack of international exposure", "Shrinking employment opportunities", "Insufficient government scholarships", "Difficulty in higher education admissions"],
+    "correctAnswer": "Shrinking employment opportunities"
   },
   {
     "id": 9,
-    "question": "EPFO admitted that the surge in pendency of claims is a short-term effect of what process?",
-    "options": ["Staff shortages", "System transition", "Budget cuts", "New policy mandates"],
-    "correctAnswer": "System transition"
+    "question": "Which political leaders did Rahul Gandhi criticize regarding the police action on students?",
+    "options": ["Mallikarjun Kharge and Sonia Gandhi", "Arvind Kejriwal and Yogi Adityanath", "PM Modi and HM Shah", "Mamata Banerjee and M.K. Stalin"],
+    "correctAnswer": "PM Modi and HM Shah"
   },
   {
     "id": 10,
-    "question": "The EPFO is a statutory body under the Government of India that manages:",
-    "options": ["Public sector banks", "Provident Funds and Pension Schemes for organized sector employees", "Foreign exchange reserves", "Agricultural subsidies"],
-    "correctAnswer": "Provident Funds and Pension Schemes for organized sector employees"
+    "question": "What did Rahul Gandhi warn youth against, stating that jobs are shrinking?",
+    "options": ["Excessive academic pressure", "Social media distractions", "Pursuing arts degrees", "Migrating abroad for jobs"],
+    "correctAnswer": "Social media distractions"
   },
   {
     "id": 11,
-    "question": "The Indian Navy recently thwarted a pirate assault on the Golden Arsenal in which perilous region?",
-    "options": ["Strait of Malacca", "Persian Gulf", "Gulf of Aden", "Suez Canal"],
-    "correctAnswer": "Gulf of Aden"
+    "question": "What ideology did the Congress leader allege was influencing appointments in institutional systems?",
+    "options": ["Communist ideology", "Secularist ideology", "RSS ideology", "Socialist ideology"],
+    "correctAnswer": "RSS ideology"
   },
   {
     "id": 12,
-    "question": "How did the crew of the Golden Arsenal successfully thwart the pirate invaders, with assistance from the Indian Navy?",
-    "options": ["By outmaneuvering the pirate ships", "By seeking refuge in an impregnable citadel", "By negotiating a ransom payment", "By launching counter-attacks"],
-    "correctAnswer": "By seeking refuge in an impregnable citadel"
+    "question": "Rahul Gandhi stated that students are the nation's __________.",
+    "options": ["backbone", "future", "light", "hope"],
+    "correctAnswer": "light"
   },
   {
     "id": 13,
-    "question": "The Indian Navy's intervention in the Gulf of Aden highlights India's commitment to:",
-    "options": ["Expanding its territorial waters", "Ensuring freedom of navigation and maritime security", "Establishing new trade routes", "International peacekeeping missions in landlocked areas"],
-    "correctAnswer": "Ensuring freedom of navigation and maritime security"
+    "question": "What is one of the key issues Rahul Gandhi highlighted concerning the struggles of students?",
+    "options": ["Lack of access to digital devices", "Difficulties with education and lack of employment opportunities", "Poor infrastructure in schools", "Absence of extracurricular activities"],
+    "correctAnswer": "Difficulties with education and lack of employment opportunities"
   },
   {
     "id": 14,
-    "question": "US Vice President JD Vance recently engaged in a conversation with PM Narendra Modi to discuss strengthening partnerships in which key sectors?",
-    "options": ["Tourism and hospitality", "Agriculture and fisheries", "Trade, defense, and upcoming technologies", "Entertainment and media"],
-    "correctAnswer": "Trade, defense, and upcoming technologies"
+    "question": "Rahul Gandhi criticized the government's response to which specific group mentioned in the news?",
+    "options": ["Farmers", "Industrial workers", "Students", "Small business owners"],
+    "correctAnswer": "Students"
   },
   {
     "id": 15,
-    "question": "The recent call between US VP JD Vance and PM Modi reiterates the dedication of both nations to strengthen:",
-    "options": ["Regional sports leagues", "Bilateral ties", "Internal political alliances", "Local administrative cooperation"],
-    "correctAnswer": "Bilateral ties"
+    "question": "What is the broader implication of 'shrinking jobs' mentioned by Rahul Gandhi for Indian youth?",
+    "options": ["Increased competition for available positions", "Higher salaries in specialized fields", "A shift towards government jobs", "Reduced need for higher education"],
+    "correctAnswer": "Increased competition for available positions"
   },
   {
     "id": 16,
-    "question": "Which country's Vice President recently held talks with India's Prime Minister to discuss boosting strategic ties?",
-    "options": ["Russia", "China", "United States", "United Kingdom"],
-    "correctAnswer": "United States"
+    "question": "According to a recent report, what technology can help bridge India's healthcare gap?",
+    "options": ["Virtual Reality", "Augmented Reality", "Artificial Intelligence", "Blockchain"],
+    "correctAnswer": "Artificial Intelligence"
   },
   {
     "id": 17,
-    "question": "The Indian Law Ministry recently notified appointments for how many new judges across various high courts?",
-    "options": ["15", "20", "25", "30"],
-    "correctAnswer": "30"
+    "question": "What is one of the main problems AI is expected to address in India's healthcare sector?",
+    "options": ["High cost of medical education", "Lack of trained medical professionals", "Gap in healthcare access and services", "Over-reliance on traditional medicine"],
+    "correctAnswer": "Gap in healthcare access and services"
   },
   {
     "id": 18,
-    "question": "The appointment of judges to High Courts in India is typically notified by which central ministry?",
-    "options": ["Ministry of Home Affairs", "Ministry of Law and Justice", "Ministry of Finance", "Ministry of Defence"],
-    "correctAnswer": "Ministry of Law and Justice"
+    "question": "How can AI potentially improve access to healthcare in remote parts of India?",
+    "options": ["By building more physical hospitals", "Through virtual consultations and early diagnosis", "By training more local paramedics", "By reducing medicine prices"],
+    "correctAnswer": "Through virtual consultations and early diagnosis"
   },
   {
     "id": 19,
-    "question": "The Law Minister cited delays by which body as a reason for the significant number of vacancies in India's high courts?",
-    "options": ["Bar Council of India", "Supreme Court Collegium", "Parliament", "Attorney General's office"],
-    "correctAnswer": "Supreme Court Collegium"
+    "question": "Besides bridging gaps, what other benefit could AI bring to the efficiency of Indian healthcare?",
+    "options": ["Reducing the need for doctors", "Automating complex surgeries", "Improving diagnostic accuracy and operational efficiency", "Replacing all human nurses"],
+    "correctAnswer": "Improving diagnostic accuracy and operational efficiency"
   },
   {
     "id": 20,
-    "question": "The Directorate General of Civil Aviation (DGCA) is investigating an incident involving the captain of an Air India flight who reportedly tested positive for which type of substances?",
-    "options": ["Performance-enhancing drugs", "Psychoactive substances", "Prescription painkillers", "Alcohol"],
-    "correctAnswer": "Psychoactive substances"
+    "question": "What kind of report suggests AI's role in India's healthcare?",
+    "options": ["A government policy paper", "A medical journal publication", "A recent industry report", "An international organization's study"],
+    "correctAnswer": "A recent industry report"
   },
   {
     "id": 21,
-    "question": "Which Indian airline was involved in the recent incident where a flight captain reportedly failed a dope test after a turbulent Phuket-Delhi flight?",
-    "options": ["IndiGo", "SpiceJet", "Vistara", "Air India"],
-    "correctAnswer": "Air India"
+    "question": "Which sector in India is predicted to benefit significantly from Artificial Intelligence according to a recent analysis?",
+    "options": ["Manufacturing", "Agriculture", "Healthcare", "Finance"],
+    "correctAnswer": "Healthcare"
   },
   {
     "id": 22,
-    "question": "What regulatory body in India is responsible for investigating aviation incidents and ensuring flight safety, such as in the case of the Phuket-Delhi flight?",
-    "options": ["Bureau of Civil Aviation Security (BCAS)", "Airports Authority of India (AAI)", "Directorate General of Civil Aviation (DGCA)", "Ministry of Civil Aviation"],
-    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
+    "question": "What did the Indian government recently emphasize regarding Meta's operations in India?",
+    "options": ["Meta should expand its data centers", "Meta must comply with Indian law", "Meta should increase its advertising revenue", "Meta needs to hire more Indian employees"],
+    "correctAnswer": "Meta must comply with Indian law"
   },
   {
     "id": 23,
-    "question": "The Indian government has pledged that the upcoming Merchant Discount Rate (MDR) for UPI transactions will be nominal and applicable only to certain merchants and transactions exceeding a designated threshold. What will remain free for all users?",
-    "options": ["Merchant-to-merchant UPI payments", "International UPI transactions", "Person-to-person UPI payments", "Government service UPI payments"],
-    "correctAnswer": "Person-to-person UPI payments"
+    "question": "The Centre stated that Meta must comply with which specific set of rules?",
+    "options": ["Global corporate guidelines", "Indian law", "European data privacy regulations", "US trade policies"],
+    "correctAnswer": "Indian law"
   },
   {
     "id": 24,
-    "question": "The initiative to introduce a nominal MDR for certain UPI transactions is designed to enhance the sustainability of India's digital payment ecosystem and facilitate service expansion into which areas?",
-    "options": ["Only metropolitan cities", "Foreign markets exclusively", "Rural and semi-urban regions", "High-volume commercial centers only"],
-    "correctAnswer": "Rural and semi-urban regions"
+    "question": "What did the Indian government state Meta should prioritize over its global policies?",
+    "options": ["User engagement metrics", "Brand reputation", "Indian law", "Shareholder value"],
+    "correctAnswer": "Indian law"
   },
   {
     "id": 25,
-    "question": "The UPI system, which is part of India's digital payment ecosystem, is managed by which organization?",
-    "options": ["Reserve Bank of India (RBI)", "National Payments Corporation of India (NPCI)", "State Bank of India (SBI)", "Ministry of Finance"],
-    "correctAnswer": "National Payments Corporation of India (NPCI)"
+    "question": "What is the core principle the Indian government is asserting over global tech companies like Meta?",
+    "options": ["Free market competition", "National sovereignty in digital governance", "Technological innovation", "Data localization"],
+    "correctAnswer": "National sovereignty in digital governance"
   }
 ]

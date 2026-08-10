@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Russia has proposed a direct rail corridor to India, aiming to bypass which two perilous straits?",
-    "options": ["Strait of Malacca and Suez Canal", "Bosphorus and Hormuz", "English Channel and Strait of Gibraltar", "Panama Canal and Kiel Canal"],
-    "correctAnswer": "Bosphorus and Hormuz"
+    "question": "Which political party secured a majority in the recent Telangana Assembly elections to form the government?",
+    "options": ["BRS", "Congress", "BJP", "AIMIM"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 2,
-    "question": "The proposed direct rail corridor from Russia to India is expected to pass through which of the following countries?",
-    "options": ["China, Mongolia, Kazakhstan", "Turkmenistan, Iran, Afghanistan, Pakistan", "Uzbekistan, Tajikistan, Kyrgyzstan", "Turkey, Iraq, Saudi Arabia"],
-    "correctAnswer": "Turkmenistan, Iran, Afghanistan, Pakistan"
+    "question": "Who assumed office as the new Chief Minister of Telangana following the recent assembly elections?",
+    "options": ["K. Chandrashekar Rao", "Bandi Sanjay Kumar", "Revanth Reddy", "G. Kishan Reddy"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 3,
-    "question": "What action did the aviation ministry take regarding the pilots of the Air India flight after the incident involving altitude loss and a 'not negative' dope test result for one pilot?",
-    "options": ["Promoted them for quick thinking", "Sent them for advanced training", "Temporarily removed them from flying duties", "Issued a warning letter only"],
-    "correctAnswer": "Temporarily removed them from flying duties"
+    "question": "As per the Andhra Pradesh Reorganisation Act, 2014, what is the current official capital of Andhra Pradesh?",
+    "options": ["Visakhapatnam", "Kurnool", "Amaravati", "Vijayawada"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 4,
-    "question": "How many passengers and crew members were hospitalized following the turbulent Air India flight incident?",
-    "options": ["Five", "Ten", "Seventeen", "Twenty-five"],
-    "correctAnswer": "Seventeen"
+    "question": "Who currently holds the position of Chief Minister of Andhra Pradesh?",
+    "options": ["N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan", "K. Venkata Appala Naidu"],
+    "correctAnswer": "Y. S. Jagan Mohan Reddy"
   },
   {
     "id": 5,
-    "question": "According to Science Minister Jitendra Singh, India's standing in quantum technology is now considered to be:",
-    "options": ["Lagging significantly behind global leaders", "At par with global leaders", "Emerging but not yet competitive", "Focused only on theoretical research"],
-    "correctAnswer": "At par with global leaders"
+    "question": "Who was recently elected as the Speaker of the Telangana Legislative Assembly in December 2023?",
+    "options": ["Akbaruddin Owaisi", "Gaddam Prasad Kumar", "T. Harish Rao", "Eatala Rajender"],
+    "correctAnswer": "Gaddam Prasad Kumar"
   },
   {
     "id": 6,
-    "question": "Which specific discovery by Chandrayaan is mentioned as showcasing India's capabilities in advanced technology?",
-    "options": ["Presence of rare earth metals", "Evidence of ancient civilizations", "Discovery of water molecules on the Moon", "Confirmation of a lunar ocean"],
-    "correctAnswer": "Discovery of water molecules on the Moon"
+    "question": "Where is the permanent seat of the High Court of Andhra Pradesh located?",
+    "options": ["Visakhapatnam", "Kurnool", "Amaravati", "Guntur"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 7,
-    "question": "What has spurred rapid expansion in India's space and nuclear sectors, as mentioned by the Science Minister?",
-    "options": ["Increased government funding only", "International collaborations", "Opening these sectors to private companies", "Focus on military applications"],
-    "correctAnswer": "Opening these sectors to private companies"
+    "question": "Which significant phase of the Hyderabad Metro Rail expansion is currently underway or planned, aiming to connect Rajiv Gandhi International Airport?",
+    "options": ["Phase I Extension (Nagole to LB Nagar)", "Phase II (Airport Express)", "Phase III (Secunderabad to Medchal)", "Phase IV (Gachibowli to Financial District)"],
+    "correctAnswer": "Phase II (Airport Express)"
   },
   {
     "id": 8,
-    "question": "Rahul Gandhi raised concerns regarding Home Minister Amit Shah's response to police actions against students protesting at Jantar Mantar over what issue?",
-    "options": ["Agricultural reforms", "Paper leaks", "Employment policies", "Environmental regulations"],
-    "correctAnswer": "Paper leaks"
+    "question": "In line with promoting sustainable travel, which region in Andhra Pradesh is actively being developed for ecotourism and nature-based activities?",
+    "options": ["Anantapur Desert Region", "Coastal Godavari Belt", "Eastern Ghats (Araku Valley)", "Rayalaseema Hills"],
+    "correctAnswer": "Eastern Ghats (Araku Valley)"
   },
   {
     "id": 9,
-    "question": "Who reminded the Home Minister of his silence during a previous security incident in Parliament, emphasizing the need for accountability?",
-    "options": ["Mallikarjun Kharge", "Shashi Tharoor", "Jairam Ramesh", "Priyanka Gandhi"],
-    "correctAnswer": "Jairam Ramesh"
+    "question": "Which prominent song has been reaffirmed as the official state anthem of Telangana by the new government?",
+    "options": ["Maa Telugu Talliki", "Jaya Jaya He Telangana", "Ee Desame", "Telanganamu"],
+    "correctAnswer": "Jaya Jaya He Telangana"
   },
   {
     "id": 10,
-    "question": "The absence of the FCRA amendment bill from Monday's Lok Sabha agenda is seen as a possible political strategy by the government to woo which opposition groups for the pending delimitation exercise?",
-    "options": ["Congress and AAP", "DMK and NCP(SP)", "Shiv Sena (UBT) and RJD", "Trinamool Congress and BJD"],
-    "correctAnswer": "DMK and NCP(SP)"
+    "question": "The Kaleshwaram Lift Irrigation Project in Telangana has been under scrutiny recently due to concerns about which of the following?",
+    "options": ["Its impact on urban development", "Its financial viability and structural integrity", "Its benefit to only one district", "Its lack of international funding"],
+    "correctAnswer": "Its financial viability and structural integrity"
   },
   {
     "id": 11,
-    "question": "What key political process is drawing connections to the contentious nature of the FCRA amendment bill, as highlighted in the news?",
-    "options": ["State Assembly elections", "Presidential elections", "The pending delimitation exercise", "Local body elections"],
-    "correctAnswer": "The pending delimitation exercise"
+    "question": "What is the primary purpose of the multi-purpose Polavaram Project, currently under construction in Andhra Pradesh?",
+    "options": ["Hydroelectric power generation only", "Industrial water supply only", "Irrigation, drinking water, and power generation", "Coastal erosion control"],
+    "correctAnswer": "Irrigation, drinking water, and power generation"
   },
   {
     "id": 12,
-    "question": "The Enforcement Directorate (ED) has formally charged which two companies with money laundering involving over forty thousand crore rupees in misappropriated bank funds?",
-    "options": ["Tata Communications and Adani Infra", "Bharti Airtel and L&T", "Reliance Communications and Reliance Infrastructure", "Vodafone Idea and GMR Infra"],
-    "correctAnswer": "Reliance Communications and Reliance Infrastructure"
+    "question": "The new integrated secretariat complex in Telangana is officially named after which prominent personality?",
+    "options": ["K. Chandrashekar Rao", "Mahatma Gandhi", "Dr. B.R. Ambedkar", "P.V. Narasimha Rao"],
+    "correctAnswer": "Dr. B.R. Ambedkar"
   },
   {
     "id": 13,
-    "question": "The allegations against Reliance Communications and Reliance Infrastructure involve a deliberate scheme to misdirect public funds from which type of projects?",
-    "options": ["Agricultural projects", "Education sector projects", "Vital infrastructure projects", "Healthcare initiatives"],
-    "correctAnswer": "Vital infrastructure projects"
+    "question": "In 2022, Andhra Pradesh underwent a major administrative reorganization, increasing its total number of districts from 13 to how many?",
+    "options": ["20", "26", "30", "32"],
+    "correctAnswer": "26"
   },
   {
     "id": 14,
-    "question": "Since the inception of the Pradhan Mantri Awas Yojana, how many urban houses have been completed and delivered across India?",
-    "options": ["Over 50 lakh", "Over 75 lakh", "Over one crore", "Over 1.5 crore"],
-    "correctAnswer": "Over one crore"
+    "question": "Which of the following is a key welfare scheme introduced by the new Telangana government, providing financial assistance to women heads of households?",
+    "options": ["Rythu Bandhu", "KCR Kit", "Maha Lakshmi", "Arogyasri"],
+    "correctAnswer": "Maha Lakshmi"
   },
   {
     "id": 15,
-    "question": "Under the Pradhan Mantri Awas Yojana, how many houses have been allocated to women since 2015 across India?",
-    "options": ["Nearly 50 lakh", "Nearly 75 lakh", "Nearly one crore", "Nearly 1.25 crore"],
-    "correctAnswer": "Nearly one crore"
+    "question": "Which flagship scheme in Andhra Pradesh provides financial assistance to farmers for crop investment?",
+    "options": ["Amma Vodi", "YSR Rythu Bharosa", "Jagananna Vidya Deevena", "Vahana Mitra"],
+    "correctAnswer": "YSR Rythu Bharosa"
   },
   {
     "id": 16,
-    "question": "Pradhan Mantri Awas Yojana-Urban 2.0 introduced how many houses for Economically Weaker Section (EWS) families across India?",
-    "options": ["Over 1 lakh", "Over 1.5 lakh", "Over 2.09 lakh", "Over 3 lakh"],
-    "correctAnswer": "Over 2.09 lakh"
+    "question": "Which city in Andhra Pradesh is aggressively being promoted as the state's primary IT and financial hub?",
+    "options": ["Vijayawada", "Tirupati", "Guntur", "Visakhapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 17,
-    "question": "What is the name of the ED director whose tenure was recently extended by a year?",
-    "options": ["Sanjay Kumar Mishra", "Rahul Navin", "Subodh Kumar Jaiswal", "S. N. Shrivastava"],
-    "correctAnswer": "Rahul Navin"
+    "question": "The primary international airport serving Telangana is named after which former Prime Minister of India?",
+    "options": ["Jawaharlal Nehru", "Indira Gandhi", "Rajiv Gandhi", "Atal Bihari Vajpayee"],
+    "correctAnswer": "Rajiv Gandhi"
   },
   {
     "id": 18,
-    "question": "Until which month and year has the ED director's service been extended, including post-superannuation service?",
-    "options": ["August 2025", "August 2026", "August 2027", "August 2028"],
-    "correctAnswer": "August 2027"
+    "question": "Which traditional Hindu festival, known for its vibrant celebrations and offerings to the goddess Mahakali, is predominantly celebrated in Telangana?",
+    "options": ["Bathukamma", "Ugadi", "Bonalu", "Sankranti"],
+    "correctAnswer": "Bonalu"
   },
   {
     "id": 19,
-    "question": "How many of India's 25 High Courts are currently functioning without Chief Justices?",
-    "options": ["3", "5", "7", "10"],
-    "correctAnswer": "7"
+    "question": "The administration and management of the famous Sri Venkateswara Temple at Tirumala, Andhra Pradesh, is overseen by which trust?",
+    "options": ["Andhra Pradesh Endowments Department", "Tirumala Tirupati Devasthanams (TTD)", "Srisailam Devasthanam", "Simhachalam Devasthanam"],
+    "correctAnswer": "Tirumala Tirupati Devasthanams (TTD)"
   },
   {
     "id": 20,
-    "question": "The Supreme Court collegium recently recommended names for Chief Justice positions in how many High Courts?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Four"
+    "question": "Which new greenfield seaport in Andhra Pradesh was recently inaugurated, aimed at boosting industrial and trade activities?",
+    "options": ["Machilipatnam Port", "Gangavaram Port", "Visakhapatnam Port", "Ramayapatnam Port"],
+    "correctAnswer": "Ramayapatnam Port"
   },
   {
     "id": 21,
-    "question": "Which High Court is specifically mentioned as facing a significant shortage of judges, impacting its functioning?",
-    "options": ["Allahabad High Court", "Bombay High Court", "Orissa High Court", "Madras High Court"],
-    "correctAnswer": "Orissa High Court"
+    "question": "What is the official state bird of Telangana?",
+    "options": ["Indian Roller (Palapitta)", "Indian Peafowl", "Common Myna", "Asian Koel"],
+    "correctAnswer": "Indian Roller (Palapitta)"
   },
   {
     "id": 22,
-    "question": "Despite recent rains in some regions, what is the current status of the national monsoon, as per the news?",
-    "options": ["Significant surplus", "Normal rainfall", "Persistent deficit", "Seasonal average achieved"],
-    "correctAnswer": "Persistent deficit"
+    "question": "Which Andhra Pradesh government scheme provides full fee reimbursement for eligible students pursuing higher education?",
+    "options": ["Jagananna Vasathi Deevena", "Amma Vodi", "Jagananna Vidya Deevena", "YSR Cheyutha"],
+    "correctAnswer": "Jagananna Vidya Deevena"
   },
   {
     "id": 23,
-    "question": "Which of the following states are mentioned as continuing to struggle with below-average rainfall despite some recent relief elsewhere in India?",
-    "options": ["Gujarat and Maharashtra", "Bihar and Punjab", "Karnataka and Kerala", "West Bengal and Assam"],
-    "correctAnswer": "Bihar and Punjab"
+    "question": "Which of the following major rivers flows through Telangana, playing a crucial role in its agriculture and irrigation projects?",
+    "options": ["Kaveri", "Godavari", "Mahanadi", "Yamuna"],
+    "correctAnswer": "Godavari"
   },
   {
     "id": 24,
-    "question": "For which crops is sowing nearly finalized across the nation, despite the monsoon deficit?",
-    "options": ["Rabi crops", "Zaid crops", "Kharif crops", "Cash crops"],
-    "correctAnswer": "Kharif crops"
+    "question": "Which of the following major rivers forms a significant part of Andhra Pradesh's landscape and irrigation network?",
+    "options": ["Narmada", "Krishna", "Tapti", "Brahmaputra"],
+    "correctAnswer": "Krishna"
   },
   {
     "id": 25,
-    "question": "According to Science Minister Jitendra Singh, what two sectors in India have seen rapid expansion due to their opening to private companies?",
-    "options": ["Textile and Mining", "Automobile and Pharmaceutical", "Space and Nuclear", "IT and Telecommunications"],
-    "correctAnswer": "Space and Nuclear"
+    "question": "How many Lok Sabha constituencies are there in Telangana?",
+    "options": ["10", "17", "25", "30"],
+    "correctAnswer": "17"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian state is scheduled to host an RSS coordination meeting involving 32 outfits from August 19-21?",
-    "options": ["Telangana", "Andhra Pradesh", "Karnataka", "Tamil Nadu"],
+    "question": "In which Indian state is the RSS coordination meeting of 32 outfits scheduled to be held from August 19-21?",
+    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Kerala"],
     "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "An upcoming coordination meeting of 32 outfits in Andhra Pradesh, slated for August 19-21, will be organized by which entity?",
-    "options": ["BJP", "Congress", "RSS", "CPI"],
+    "question": "Which organization is scheduled to hold a coordination meeting of 32 outfits in Andhra Pradesh in August?",
+    "options": ["BJP", "Congress", "RSS", "VHP"],
     "correctAnswer": "RSS"
   },
   {
     "id": 3,
-    "question": "From which dates will the RSS coordination meeting be held in Andhra Pradesh?",
+    "question": "How many outfits are expected to participate in the RSS coordination meeting scheduled in Andhra Pradesh?",
+    "options": ["16", "24", "32", "40"],
+    "correctAnswer": "32"
+  },
+  {
+    "id": 4,
+    "question": "What type of meeting is the RSS holding in Andhra Pradesh from August 19-21?",
+    "options": ["Political Rally", "Youth Camp", "Coordination Meeting", "Religious Conclave"],
+    "correctAnswer": "Coordination Meeting"
+  },
+  {
+    "id": 5,
+    "question": "The RSS coordination meeting in Andhra Pradesh is scheduled to take place during which dates?",
     "options": ["August 1-3", "August 10-12", "August 19-21", "September 1-3"],
     "correctAnswer": "August 19-21"
   },
   {
-    "id": 4,
-    "question": "How many outfits are expected to participate in the RSS coordination meeting scheduled for Andhra Pradesh?",
-    "options": ["25", "32", "40", "50"],
-    "correctAnswer": "32"
-  },
-  {
-    "id": 5,
-    "question": "What type of meeting is the RSS holding in Andhra Pradesh from August 19-21?",
-    "options": ["Public rally", "Executive committee", "Coordination meeting", "Training camp"],
-    "correctAnswer": "Coordination meeting"
-  },
-  {
     "id": 6,
-    "question": "The RSS coordination meeting in Andhra Pradesh is scheduled for which specific period in August?",
-    "options": ["Aug 1st-3rd", "Aug 10th-12th", "Aug 19th-21st", "Aug 25th-27th"],
-    "correctAnswer": "Aug 19th-21st"
+    "question": "Which of the following states is hosting a significant RSS event involving multiple outfits in August, according to recent news?",
+    "options": ["Telangana", "Andhra Pradesh", "Odisha", "Maharashtra"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 7,
-    "question": "Which organization is coordinating a meeting in Andhra Pradesh that includes 32 different outfits?",
-    "options": ["Bajrang Dal", "Vishva Hindu Parishad", "Rashtriya Swayamsevak Sangh (RSS)", "Hindu Sena"],
-    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
+    "question": "What national issue did the Congress leader Rahul Gandhi demand Union Home Minister Amit Shah make a statement on, concerning student protests?",
+    "options": ["Police action in Jharkhand", "Ram temple donation theft", "NEET paper leak", "Farmers' protests"],
+    "correctAnswer": "NEET paper leak"
   },
   {
     "id": 8,
-    "question": "A coordination meeting involving 32 outfits, organized by the RSS, is set to take place in which Southern Indian state?",
-    "options": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Karnataka"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "According to Rahul Gandhi, what was one of the three non-negotiable demands set by Congress for Parliament concerning recent student protests?",
+    "options": ["Immediate resignation of the Education Minister", "A statement from Union Home Minister on police action against students protesting NEET paper leak", "Formation of a new investigative agency", "Apology from the Prime Minister for inflation"],
+    "correctAnswer": "A statement from Union Home Minister on police action against students protesting NEET paper leak"
   },
   {
     "id": 9,
-    "question": "The RSS is holding a meeting in Andhra Pradesh described as a '______ meeting of 32 outfits'. What word completes this description?",
-    "options": ["Leadership", "Strategy", "Coordination", "Outreach"],
-    "correctAnswer": "Coordination"
+    "question": "A right-wing commentator recently granted bail made controversial remarks concerning what type of student protest?",
+    "options": ["Jharkhand job recruitment", "NEET examination", "University fee hike", "Medical college admissions"],
+    "correctAnswer": "NEET examination"
   },
   {
     "id": 10,
-    "question": "From August 19-21, an RSS coordination meeting is scheduled to occur in which state?",
-    "options": ["Telangana", "Odisha", "Andhra Pradesh", "Maharashtra"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What kind of alleged malpractice in a national examination was the subject of student protests and political demands according to recent news?",
+    "options": ["Exam rescheduling", "Paper leak", "Online exam glitches", "Unfair marking"],
+    "correctAnswer": "Paper leak"
   },
   {
     "id": 11,
-    "question": "How many constituent outfits will be part of the RSS coordination meeting in Andhra Pradesh from August 19-21?",
-    "options": ["Around 20", "Exactly 32", "More than 40", "Less than 15"],
-    "correctAnswer": "Exactly 32"
+    "question": "Which national competitive examination was recently mentioned in news regarding student protests over alleged irregularities?",
+    "options": ["JEE", "UPSC Civil Services", "NEET", "CAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 12,
-    "question": "Which state has been chosen as the venue for the RSS coordination meeting involving 32 outfits in August?",
-    "options": ["Gujarat", "Uttar Pradesh", "Andhra Pradesh", "Madhya Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Who did Rahul Gandhi demand an apology from, alongside a statement on student crackdown and accountability for Ram temple theft?",
+    "options": ["Union Home Minister", "Education Minister", "Prime Minister", "Chief Justice of India"],
+    "correctAnswer": "Prime Minister"
   },
   {
     "id": 13,
-    "question": "What major event is the RSS holding in Andhra Pradesh between August 19th and 21st?",
-    "options": ["A political rally", "A national conference", "A coordination meeting of 32 outfits", "A youth summit"],
-    "correctAnswer": "A coordination meeting of 32 outfits"
+    "question": "What was one of the 'non-negotiable' demands put forth by Congress in Parliament, related to accountability for financial irregularities?",
+    "options": ["Investigation into state-level corruption", "Audit of political parties' funds", "Accountability over donation theft in Ayodhya Ram Mandir", "Review of corporate donations"],
+    "correctAnswer": "Accountability over donation theft in Ayodhya Ram Mandir"
   },
   {
     "id": 14,
-    "question": "A coordination meeting of various outfits is planned for Andhra Pradesh from August 19-21; this meeting is being held by:",
-    "options": ["The State Government", "A Farmers' Union", "The RSS", "An Industry Association"],
-    "correctAnswer": "The RSS"
+    "question": "Who was granted bail after being taken into custody for controversial remarks on NEET student protests?",
+    "options": ["Devendra Mahto", "Rahul Gandhi", "TG Mohandas", "Pankaj Kumar"],
+    "correctAnswer": "TG Mohandas"
   },
   {
     "id": 15,
-    "question": "The coordination meeting of 32 outfits in Andhra Pradesh is slated for which specific timeframe in August?",
-    "options": ["First week", "Second week", "Third week", "Last week"],
-    "correctAnswer": "Third week"
+    "question": "In connection with which national student protest was commentator TG Mohandas arrested and later granted bail?",
+    "options": ["Jharkhand recruitment exams", "NEET paper leak", "Red Fort Vande Mataram event", "Ayodhya Ram Mandir issues"],
+    "correctAnswer": "NEET paper leak"
   },
   {
     "id": 16,
-    "question": "The RSS's coordination meeting in Andhra Pradesh will bring together how many organizations?",
-    "options": ["Two dozen", "Three dozen", "32 outfits", "Approximately 28"],
-    "correctAnswer": "32 outfits"
+    "question": "For the first time, which historic patriotic song is set to be sung from the ramparts of the Red Fort?",
+    "options": ["Jana Gana Mana", "Vande Mataram", "Sare Jahan Se Achha", "Ae Mere Watan Ke Logon"],
+    "correctAnswer": "Vande Mataram"
   },
   {
     "id": 17,
-    "question": "Who is organizing the coordination meeting of 32 outfits in Andhra Pradesh from August 19-21?",
-    "options": ["Local NGOs", "Central Government", "RSS", "Political Parties Alliance"],
-    "correctAnswer": "RSS"
+    "question": "From which historic landmark in India will 'Vande Mataram' be sung for the first time, as per recent news?",
+    "options": ["India Gate", "Gateway of India", "Red Fort", "Qutub Minar"],
+    "correctAnswer": "Red Fort"
   },
   {
     "id": 18,
-    "question": "An RSS coordination meeting, bringing together 32 outfits, is scheduled to occur in which Indian state in August?",
-    "options": ["Rajasthan", "Bihar", "Andhra Pradesh", "Punjab"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The singing of 'Vande Mataram' from the Red Fort ramparts is described as a display of what specific national characteristic?",
+    "options": ["Economic Strength", "Cultural Diversity", "Yuva Shakti", "Historical Heritage"],
+    "correctAnswer": "Yuva Shakti"
   },
   {
     "id": 19,
-    "question": "The RSS coordination meeting in Andhra Pradesh is set to take place on which consecutive days in August?",
-    "options": ["1st, 2nd, 3rd", "19th, 20th, 21st", "10th, 11th, 12th", "28th, 29th, 30th"],
-    "correctAnswer": "19th, 20th, 21st"
+    "question": "What makes the upcoming event of 'Vande Mataram' being sung from the Red Fort ramparts historic?",
+    "options": ["It is a new composition", "It marks a record-breaking performance", "It is the first time it will be sung from this location", "It is part of an international collaboration"],
+    "correctAnswer": "It is the first time it will be sung from this location"
   },
   {
     "id": 20,
-    "question": "A 'coordination meeting' is being held by the RSS for 32 outfits in Andhra Pradesh. What is the primary focus of this gathering?",
-    "options": ["Policy-making", "Ideological debate", "Organizational alignment", "Recruitment drive"],
-    "correctAnswer": "Organizational alignment"
+    "question": "Which national song is associated with a historic first-time rendition from the Red Fort, emphasizing youth power?",
+    "options": ["Jana Gana Mana", "Vande Mataram", "Dhanya Dhanya Bharat", "Maa Tujhe Salaam"],
+    "correctAnswer": "Vande Mataram"
   },
   {
     "id": 21,
-    "question": "Which state will host the RSS event planned for August 19-21, involving 32 outfits?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Who recently dared Rahul Gandhi to come for a discussion in Parliament, accusing him of disrupting the House and shifting goalposts?",
+    "options": ["Amit Shah", "JP Nadda", "Narendra Modi", "Rajnath Singh"],
+    "correctAnswer": "JP Nadda"
   },
   {
     "id": 22,
-    "question": "The RSS coordination meeting of 32 outfits in Andhra Pradesh from August 19-21 involves how many distinct organizations?",
-    "options": ["A dozen", "Two dozen", "Thirty-two", "Over forty"],
-    "correctAnswer": "Thirty-two"
+    "question": "What specific position's seating arrangement during Independence Day events was clarified by the government after past controversies?",
+    "options": ["Speaker of Lok Sabha", "Chief Minister", "Leader of Opposition", "Union Minister"],
+    "correctAnswer": "Leader of Opposition"
   },
   {
     "id": 23,
-    "question": "In Andhra Pradesh, a coordination meeting of 32 outfits is being convened by which national organization from August 19-21?",
-    "options": ["Indian National Congress", "Bharatiya Janata Party", "Rashtriya Swayamsevak Sangh", "Communist Party of India (Marxist)"],
-    "correctAnswer": "Rashtriya Swayamsevak Sangh"
+    "question": "What was the government's clarification regarding the Leader of Opposition's seating during Independence Day ceremonies?",
+    "options": ["To sit in the front row with Cabinet Ministers", "To sit per the table of precedence after ministers", "To be seated separately from all dignitaries", "To alternate seating with the Speaker"],
+    "correctAnswer": "To sit per the table of precedence after ministers"
   },
   {
     "id": 24,
-    "question": "When will the 32-outfit RSS coordination meeting take place in Andhra Pradesh in August?",
-    "options": ["First week", "Second week", "Third week", "Last week"],
-    "correctAnswer": "Third week"
+    "question": "Who accused Rahul Gandhi of disrupting the House and shifting goalposts in parliamentary discussions?",
+    "options": ["The Prime Minister", "JP Nadda", "Amit Shah", "The Speaker of Lok Sabha"],
+    "correctAnswer": "JP Nadda"
   },
   {
     "id": 25,
-    "question": "As per recent news, an RSS coordination meeting of 32 outfits is planned for August in which South Indian state?",
-    "options": ["Telangana", "Andhra Pradesh", "Kerala", "Goa"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What specific concern did Rahul Gandhi raise that led to a demand for Union Home Minister Amit Shah to make a statement in Parliament?",
+    "options": ["International relations with Bangladesh", "Economic slowdown in India", "Police action on student demonstrators", "Dispute over state boundaries"],
+    "correctAnswer": "Police action on student demonstrators"
   }
 ]

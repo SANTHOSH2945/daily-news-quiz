@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian state experienced one of the sharpest falls in the number of government elementary schools in the past year, according to recent reports?",
-    "options": ["Meghalaya", "Telangana", "Andhra Pradesh", "Odisha"],
-    "correctAnswer": "Telangana"
+    "question": "Which international space agency has extended an invitation to ISRO to join its Moon base program?",
+    "options": ["European Space Agency (ESA)", "Roscosmos", "China National Space Administration (CNSA)", "National Aeronautics and Space Administration (NASA)"],
+    "correctAnswer": "National Aeronautics and Space Administration (NASA)"
   },
   {
     "id": 2,
-    "question": "What is the reported national trend regarding the number of government elementary schools in India over the past year?",
-    "options": ["Increased by 10,000", "Remained stable", "Declined by 10,000", "Declined by 5,000"],
-    "correctAnswer": "Declined by 10,000"
+    "question": "ISRO, India's premier space agency, has been invited by NASA to participate in which specific international program?",
+    "options": ["Mars exploration mission", "International Space Station expansion", "Moon base program", "Asteroid mining project"],
+    "correctAnswer": "Moon base program"
   },
   {
     "id": 3,
-    "question": "Which two states were highlighted for experiencing the sharpest fall in government elementary schools in the last year?",
-    "options": ["Uttar Pradesh and Bihar", "Meghalaya and Telangana", "Rajasthan and Madhya Pradesh", "Kerala and Tamil Nadu"],
-    "correctAnswer": "Meghalaya and Telangana"
+    "question": "The invitation from NASA to ISRO signifies a move towards broader cooperation between India and the USA in which sector?",
+    "options": ["Defense manufacturing", "Pharmaceutical research", "Information technology", "Space exploration"],
+    "correctAnswer": "Space exploration"
   },
   {
     "id": 4,
-    "question": "Approximately how many government elementary schools reportedly closed down across India in the last year?",
-    "options": ["5,000", "7,500", "10,000", "12,000"],
-    "correctAnswer": "10,00  0"
+    "question": "Which Indian state hosts the Satish Dhawan Space Centre (SDSC SHAR), ISRO's primary launch site crucial for its international collaborations?",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 5,
-    "question": "The recent report highlighted a decline in which specific type of schools across India, affecting states like Telangana?",
-    "options": ["Private secondary schools", "Government elementary schools", "Private universities", "Government vocational institutes"],
-    "correctAnswer": "Government elementary schools"
+    "question": "Sriharikota, a key location for India's space missions where ISRO's main launch facility is situated, is located in which Indian state?",
+    "options": ["Telangana", "Odisha", "Gujarat", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 6,
-    "question": "CJP's Dipke announced a nationwide campaign focusing on what specific issue related to education in India?",
-    "options": ["Funding for private schools", "New Parliament building", "New government schools in villages", "Higher education reform"],
-    "correctAnswer": "New government schools in villages"
+    "question": "The news highlights NASA's desire for 'wider space cooperation' with India. What is the Indian organization at the center of this cooperation?",
+    "options": ["Defence Research and Development Organisation (DRDO)", "Indian Institute of Science (IISc)", "Bhabha Atomic Research Centre (BARC)", "Indian Space Research Organisation (ISRO)"],
+    "correctAnswer": "Indian Space Research Organisation (ISRO)"
   },
   {
     "id": 7,
-    "question": "What specific comparison did CJP's Dipke make while advocating for new government schools in villages?",
-    "options": ["New roads and bridges", "New Parliament and PM house", "New airports and railway stations", "New IT parks and industries"],
-    "correctAnswer": "New Parliament and PM house"
+    "question": "The Moon base program that ISRO has been invited to join is a part of the long-term vision for which celestial body's sustained human presence?",
+    "options": ["Mars", "International Space Station", "Venus", "Moon"],
+    "correctAnswer": "Moon"
   },
   {
     "id": 8,
-    "question": "The nationwide campaign for government schools, announced by CJP's Dipke, is scheduled to be launched on which date?",
-    "options": ["January 26th", "August 15th", "October 2nd", "November 14th"],
-    "correctAnswer": "August 15th"
+    "question": "Which major ISRO facility in Andhra Pradesh is directly involved in launching the rockets that enable India's presence in global space activities?",
+    "options": ["Vikram Sarabhai Space Centre (VSSC)", "ISRO Propulsion Complex (IPRC)", "Satish Dhawan Space Centre (SDSC SHAR)", "Space Applications Centre (SAC)"],
+    "correctAnswer": "Satish Dhawan Space Centre (SDSC SHAR)"
   },
   {
     "id": 9,
-    "question": "The nationwide campaign for new government schools in villages is being led by a representative of which organization, as indicated by 'CJP's Dipke'?",
-    "options": ["CJP", "UNICEF", "Amnesty International", "Teach for India"],
-    "correctAnswer": "CJP"
+    "question": "The cooperation sought by NASA with ISRO for a Moon base program is a testament to India's recent successes in which specific area of space exploration?",
+    "options": ["Asteroid deflection", "Deep space probes", "Lunar missions", "Exoplanet discovery"],
+    "correctAnswer": "Lunar missions"
   },
   {
     "id": 10,
-    "question": "What is the fundamental demand put forth by CJP's Dipke's nationwide campaign regarding educational infrastructure?",
-    "options": ["Privatization of all schools", "More focus on online education", "Increased funding for new government schools in villages", "Building more private universities"],
-    "correctAnswer": "Increased funding for new government schools in villages"
+    "question": "What does the acronym SHAR stand for in the context of ISRO's Satish Dhawan Space Centre in Andhra Pradesh?",
+    "options": ["Satellite Heavy Apparatus Range", "Spacecraft Handling And Research", "Sriharikota Range", "Scientific High-Altitude Rocketry"],
+    "correctAnswer": "Sriharikota Range"
   },
   {
     "id": 11,
-    "question": "Which Indian airline was recently involved in a turbulence scare on a flight bound for Phuket?",
-    "options": ["IndiGo", "SpiceJet", "Vistara", "Air India"],
-    "correctAnswer": "Air India"
+    "question": "India is a signatory to the Artemis Accords, an international agreement related to space exploration. This aligns with the broader cooperation sought by NASA for programs like the Moon base. Where is the primary Indian launch facility contributing to these efforts?",
+    "options": ["Bengaluru, Karnataka", "Thiruvananthapuram, Kerala", "Sriharikota, Andhra Pradesh", "Mahendragiri, Tamil Nadu"],
+    "correctAnswer": "Sriharikota, Andhra Pradesh"
   },
   {
     "id": 12,
-    "question": "Which international aircraft manufacturer is joining the probe into the Air India turbulence incident?",
-    "options": ["Boeing", "Airbus", "Embraer", "Bombardier"],
-    "correctAnswer": "Airbus"
+    "question": "The invitation to ISRO reflects India's growing stature as a key player in the global space economy. Which state specifically benefits from having a major space launch infrastructure related to this growth?",
+    "options": ["Telangana", "Maharashtra", "West Bengal", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 13,
-    "question": "A government agency from which country is also joining the probe into the Air India turbulence incident?",
-    "options": ["USA", "Germany", "France", "UK"],
-    "correctAnswer": "France"
+    "question": "Beyond the Moon base program, NASA is interested in what other general form of collaboration with India?",
+    "options": ["Military technology exchange", "Cultural exchange programs", "Agricultural research partnerships", "Wider space cooperation"],
+    "correctAnswer": "Wider space cooperation"
   },
   {
     "id": 14,
-    "question": "What are the two primary aspects under scanner in the Air India turbulence probe?",
-    "options": ["Fuel efficiency and passenger comfort", "Pilot behaviour and technical issues", "Air traffic control and ground operations", "Cabin crew training and catering services"],
-    "correctAnswer": "Pilot behaviour and technical issues"
+    "question": "Which region in India is strategically important for ISRO's heavy lift launch vehicle operations, critical for international partnerships?",
+    "options": ["The Deccan Plateau", "The Thar Desert", "The Eastern Coastal Plains of Andhra Pradesh", "The Western Ghats"],
+    "correctAnswer": "The Eastern Coastal Plains of Andhra Pradesh"
   },
   {
     "id": 15,
-    "question": "The Air India flight incident under investigation involved severe turbulence on a flight to which specific international destination?",
-    "options": ["Bangkok", "Phuket", "Singapore", "Kuala Lumpur"],
-    "correctAnswer": "Phuket"
+    "question": "The collaboration on a Moon base program would likely involve advanced technologies and scientific research. Which Indian states' scientific institutions and talent pool would be contributing to these efforts?",
+    "options": ["Only states with ISRO facilities", "Mainly northern Indian states", "Primarily states in the northeastern region", "All Indian states, including Andhra Pradesh and Telangana"],
+    "correctAnswer": "All Indian states, including Andhra Pradesh and Telangana"
   },
   {
     "id": 16,
-    "question": "The Indian government recently condemned the vandalism of its embassy located in which European country?",
-    "options": ["Croatia", "Slovenia", "Hungary", "Austria"],
-    "correctAnswer": "Slovenia"
+    "question": "What kind of infrastructure is essential at ISRO's Satish Dhawan Space Centre (SHAR) in Andhra Pradesh for supporting ambitious missions like a potential Moon base contribution?",
+    "options": ["Large astronomical observatories", "Deep sea ports", "Advanced rocket integration and launch facilities", "Nuclear research reactors"],
+    "correctAnswer": "Advanced rocket integration and launch facilities"
   },
   {
     "id": 17,
-    "question": "What specific act was condemned by the Indian government concerning its embassy in Slovenia?",
-    "options": ["Protests", "Boycott", "Vandalism", "Cyber attack"],
-    "correctAnswer": "Vandalism"
+    "question": "The partnership between NASA and ISRO aims to foster advancements in which crucial aspect of space exploration that could impact future human settlements beyond Earth?",
+    "options": ["Interstellar travel techniques", "Space tourism regulations", "Long-duration space habitation and resource utilization", "Asteroid mining logistics"],
+    "correctAnswer": "Long-duration space habitation and resource utilization"
   },
   {
     "id": 18,
-    "question": "What was the Indian government's official diplomatic response to the vandalism of its embassy in Slovenia?",
-    "options": ["Issued a travel advisory", "Recalled its ambassador", "Demanded an apology", "Issued a condemnation"],
-    "correctAnswer": "Issued a condemnation"
+    "question": "Which body within the Indian government plays a direct role in approving and overseeing ISRO's international collaborations like the one with NASA?",
+    "options": ["Ministry of External Affairs", "Ministry of Defence", "Department of Space (DoS)", "Ministry of Science and Technology"],
+    "correctAnswer": "Department of Space (DoS)"
   },
   {
     "id": 19,
-    "question": "Which country recently asserted that an 'India move' would complicate ongoing border talks?",
-    "options": ["Pakistan", "Nepal", "Bangladesh", "China"],
-    "correctAnswer": "China"
+    "question": "The news implies India's capacity to contribute significantly to global space endeavors. Which region within India is known for its contribution to launching these national capabilities?",
+    "options": ["The Himalayan states", "The Central Indian Plateau", "The Coromandel Coast, particularly Andhra Pradesh", "The Western Coast of India"],
+    "correctAnswer": "The Coromandel Coast, particularly Andhra Pradesh"
   },
   {
     "id": 20,
-    "question": "The statement from China, regarding an 'India move' complicating talks, pertains to what sensitive bilateral issue?",
-    "options": ["Trade negotiations", "Cultural exchange programs", "Border talks", "Climate change cooperation"],
-    "correctAnswer": "Border talks"
+    "question": "Which type of vehicles are primarily launched from ISRO's Satish Dhawan Space Centre (SHAR) in Sriharikota, essential for India's independent access to space?",
+    "options": ["Lunar rovers", "Interplanetary probes", "Satellite launch vehicles", "Space shuttles"],
+    "correctAnswer": "Satellite launch vehicles"
   },
   {
     "id": 21,
-    "question": "China's alleged concern that an 'India move' would 'muddle' border talks highlights a disagreement in which specific area of bilateral relations?",
-    "options": ["Economic policy", "Diplomatic and territorial relations", "Space exploration", "Maritime security"],
-    "correctAnswer": "Diplomatic and territorial relations"
+    "question": "The expanded space cooperation, involving a Moon base program, is expected to encourage greater scientific and engineering talent development in India, including states like Andhra Pradesh. What is a key area of focus for this talent?",
+    "options": ["Marine biology", "Archaeological discoveries", "Aerospace engineering and rocketry", "Biomedical research"],
+    "correctAnswer": "Aerospace engineering and rocketry"
   },
   {
     "id": 22,
-    "question": "The reported sharp fall in government elementary schools, with Telangana seeing a significant decline, underscores a national challenge primarily in which sector?",
-    "options": ["Healthcare", "Agriculture", "Education", "Infrastructure"],
-    "correctAnswer": "Education"
+    "question": "What critical advantage does India offer as a partner in large-scale international space projects, especially those with budget considerations?",
+    "options": ["Exclusive access to rare earth elements", "High-cost, high-tech manufacturing", "Cost-effective space solutions and missions", "Unique extraterrestrial data archives"],
+    "correctAnswer": "Cost-effective space solutions and missions"
   },
   {
     "id": 23,
-    "question": "CJP's Dipke's nationwide campaign specifically advocates for the establishment of new government schools in which geographical areas?",
-    "options": ["Major cities", "State capitals", "Villages", "Tribal regions"],
-    "correctAnswer": "Villages"
+    "question": "The invitation to ISRO reflects a global trend towards multinational collaboration in space exploration. Which specific type of orbital mission is this collaboration focused on?",
+    "options": ["Geosynchronous satellites", "Low Earth orbit constellations", "Lunar orbit and surface missions", "Solar observation probes"],
+    "correctAnswer": "Lunar orbit and surface missions"
   },
   {
     "id": 24,
-    "question": "The Air India turbulence scare occurred on a flight travelling to Phuket. Based on this destination, was it classified as an international or domestic route?",
-    "options": ["Domestic", "International", "Charter", "Regional"],
-    "correctAnswer": "International"
+    "question": "In the context of India's space program and its global partnerships, what is a primary benefit of having a dedicated launch facility like SHAR in Andhra Pradesh?",
+    "options": ["Facilitating maritime trade routes", "Enabling secure terrestrial communications", "Providing a strategic location for orbital insertion and safety corridors", "Supporting large-scale agricultural research"],
+    "correctAnswer": "Providing a strategic location for orbital insertion and safety corridors"
   },
   {
     "id": 25,
-    "question": "The vandalism of the Indian embassy in Slovenia and the Indian government's condemnation fall under the purview of which aspect of international relations?",
-    "options": ["Trade agreements", "Cultural diplomacy", "Diplomatic security and relations", "Humanitarian aid"],
-    "correctAnswer": "Diplomatic security and relations"
+    "question": "The collaboration for a Moon base program underscores the long-term goal of establishing a sustained human presence on the Moon. Which Indian institution, with its significant infrastructure in Andhra Pradesh, is pivotal to achieving this goal for India?",
+    "options": ["Indian Institute of Technology (IIT Hyderabad)", "National Geophysical Research Institute (NGRI)", "Indian Space Research Organisation (ISRO)", "Andhra Pradesh State Remote Sensing Applications Centre (APSRAC)"],
+    "correctAnswer": "Indian Space Research Organisation (ISRO)"
   }
 ]

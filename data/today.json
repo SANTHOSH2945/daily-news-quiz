@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian space agency has been invited by NASA to join its Moon base programme, a collaboration that could benefit facilities like the Satish Dhawan Space Centre in Andhra Pradesh?",
-    "options": ["Defence Research and Development Organisation (DRDO)", "Indian Space Research Organisation (ISRO)", "Hindustan Aeronautics Limited (HAL)", "Bharat Heavy Electricals Limited (BHEL)"],
-    "correctAnswer": "Indian Space Research Organisation (ISRO)"
+    "question": "The Indian Army has initiated 43 internship projects for students this year. Which city in Telangana is widely recognized for hosting a significant Army cantonment and training establishments?",
+    "options": ["Warangal", "Karimnagar", "Secunderabad", "Nizamabad"],
+    "correctAnswer": "Secunderabad"
   },
   {
     "id": 2,
-    "question": "The primary launch site for ISRO, the Satish Dhawan Space Centre, crucial for India's space missions and therefore indirectly relevant to the NASA collaboration, is located in which Indian state?",
-    "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Kerala"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What is the primary objective behind the Indian Army opening its establishments for student internship projects, as per the recent news?",
+    "options": ["To recruit students directly into combat roles", "To encourage civilian-military engagement and exposure to defense technology", "To provide a pathway for students to join the NCC only", "To offer free vocational training in non-defense sectors"],
+    "correctAnswer": "To encourage civilian-military engagement and exposure to defense technology"
   },
   {
     "id": 3,
-    "question": "What is the specific nature of the collaboration sought by NASA with ISRO, as per recent news, indicating a global space effort that India, including its facilities in Andhra Pradesh, will contribute to?",
-    "options": ["Joint Earth observation missions", "Moon base programme", "Mars exploration", "Asteroid mining"],
-    "correctAnswer": "Moon base programme"
+    "question": "Beyond internship projects, which institution in Andhra Pradesh has a strong historical connection to defense training and research, particularly in naval sciences?",
+    "options": ["Andhra University", "KL University", "National Defence Academy (NDA)", "Naval Science & Technological Laboratory (NSTL), Visakhapatnam"],
+    "correctAnswer": "Naval Science & Technological Laboratory (NSTL), Visakhapatnam"
   },
   {
     "id": 4,
-    "question": "Beyond the Moon base programme, NASA is reportedly seeking wider cooperation with India in which broad domain, impacting the future of space research and development across the nation, including Telangana and Andhra Pradesh?",
-    "options": ["Terrestrial renewable energy", "Space exploration", "Oceanography research", "Arctic research"],
-    "correctAnswer": "Space exploration"
+    "question": "The Army's internship program aims to engage students in various projects. Which of the following defense-related organizations, with multiple labs in Hyderabad, Telangana, might benefit from such student engagement?",
+    "options": ["ISRO", "DRDO (various labs)", "NAL", "BHEL"],
+    "correctAnswer": "DRDO (various labs)"
   },
   {
     "id": 5,
-    "question": "The invitation from NASA to ISRO for a Moon base programme signifies India's growing role in which global aspect, fostering scientific and technological advancements that resonate with states like Andhra Pradesh and Telangana?",
-    "options": ["Global trade negotiations", "Geopolitical alliances", "Space diplomacy", "Cultural exchange programs"],
-    "correctAnswer": "Space diplomacy"
+    "question": "The initiative for Army internships is a national one. Historically, which city in Andhra Pradesh has been a prominent naval base and defense hub?",
+    "options": ["Vijayawada", "Guntur", "Visakhapatnam", "Nellore"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 6,
-    "question": "Sriharikota, home to India's major spaceport in Andhra Pradesh, is located off the coast of which prominent bay?",
-    "options": ["Arabian Sea", "Bay of Bengal", "Gulf of Kutch", "Gulf of Mannar"],
-    "correctAnswer": "Bay of Bengal"
+    "question": "What type of projects are students likely to be involved in during the Army's internship programs, reflecting modern defense needs and offering diverse learning experiences?",
+    "options": ["Only physical training and drill", "Administrative tasks and record-keeping", "Technology, research, and innovation-related projects", "Food preparation and catering services"],
+    "correctAnswer": "Technology, research, and innovation-related projects"
   },
   {
     "id": 7,
-    "question": "Which international framework, often associated with lunar exploration and international collaboration, is the 'Moon base programme' likely to be aligned with, reflecting India's expanding role in global space governance?",
-    "options": ["Kyoto Protocol", "Artemis Accords", "Paris Agreement", "Outer Space Treaty (1967)"],
-    "correctAnswer": "Artemis Accords"
+    "question": "While the news highlights climate change in the Himalayas, what is a significant climate-related challenge frequently faced by coastal regions of Andhra Pradesh?",
+    "options": ["Extreme cold waves", "Cyclones and coastal erosion", "Desertification", "Volcanic eruptions"],
+    "correctAnswer": "Cyclones and coastal erosion"
   },
   {
     "id": 8,
-    "question": "ISRO's activities, including satellite launches from Andhra Pradesh, significantly contribute to India's advancements in which critical sector that benefits communication and observation services across all states, including Telangana?",
-    "options": ["Agriculture", "Telecommunications", "Healthcare", "Tourism"],
-    "correctAnswer": "Telecommunications"
+    "question": "Climate change impacts water resources nationally. Which major river basins, vital for both Telangana and Andhra Pradesh, are susceptible to variations in monsoon patterns due to climate change?",
+    "options": ["Ganga Basin", "Brahmaputra Basin", "Godavari and Krishna Basins", "Indus Basin"],
+    "correctAnswer": "Godavari and Krishna Basins"
   },
   {
     "id": 9,
-    "question": "The ongoing collaboration between India and international space agencies like NASA aims to achieve what long-term goal for human presence beyond Earth?",
-    "options": ["Establishing permanent settlements on Mars", "Developing interstellar travel capabilities", "Facilitating sustained human presence on the Moon and beyond", "Extracting resources from asteroids"],
-    "correctAnswer": "Facilitating sustained human presence on the Moon and beyond"
+    "question": "In response to climate change concerns, what type of energy generation has Telangana actively promoted to reduce its carbon footprint and increase sustainability?",
+    "options": ["Thermal power", "Hydroelectric power", "Solar power", "Nuclear power"],
+    "correctAnswer": "Solar power"
   },
   {
     "id": 10,
-    "question": "What kind of technological exchange is implied by NASA's invitation to ISRO, potentially enhancing indigenous capabilities in states like Andhra Pradesh and Telangana?",
-    "options": ["Agricultural technology", "Nuclear energy technology", "Advanced rocketry and propulsion systems", "Medical technology"],
-    "correctAnswer": "Advanced rocketry and propulsion systems"
+    "question": "Andhra Pradesh has implemented initiatives for sustainable agriculture to combat climate change effects. What is a key practice promoted for water conservation in farming in the state?",
+    "options": ["Flood irrigation", "Drip irrigation and micro-irrigation", "Slash-and-burn farming", "Excessive groundwater extraction"],
+    "correctAnswer": "Drip irrigation and micro-irrigation"
   },
   {
     "id": 11,
-    "question": "Concerns about content that 'insults' religious figures like Lord Ram, Krishna, and Sita, a common point of contention in India, often raise debates on which fundamental right guaranteed by the Indian Constitution?",
-    "options": ["Right to equality", "Right to freedom of speech and expression", "Right to education", "Right to property"],
-    "correctAnswer": "Right to freedom of speech and expression"
+    "question": "The impact of climate change includes extreme weather events. Which of the following describes a common natural disaster in Telangana that can be exacerbated by changing climate patterns?",
+    "options": ["Landslides in hilly areas", "Urban flooding from heavy rainfall", "Tsunamis", "Blizzards"],
+    "correctAnswer": "Urban flooding from heavy rainfall"
   },
   {
     "id": 12,
-    "question": "Which level of Indian judiciary typically hears cases related to content moderation and freedom of expression disputes, impacting citizens and content creators in states like Telangana and Andhra Pradesh?",
-    "options": ["District Courts", "High Courts", "Lok Adalats", "Gram Nyayalayas"],
-    "correctAnswer": "High Courts"
+    "question": "What is a common environmental initiative undertaken by both Telangana and Andhra Pradesh to increase green cover and combat deforestation, contributing to climate change mitigation?",
+    "options": ["Desert reclamation projects", "Large-scale afforestation programs (e.g., Haritha Haram in Telangana)", "Promoting single-use plastics", "Industrial expansion in forest areas"],
+    "correctAnswer": "Large-scale afforestation programs (e.g., Haritha Haram in Telangana)"
   },
   {
     "id": 13,
-    "question": "The demand for an improved teacher-student ratio, as seen in recent news, is a key component of the National Education Policy, primarily aimed at enhancing which aspect of schooling in Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Infrastructure development", "Quality of education", "Teacher salaries", "Student enrollment rates"],
-    "correctAnswer": "Quality of education"
+    "question": "An Air India pilot failed a dope test, raising aviation safety concerns. Which of these is the primary international airport serving Telangana?",
+    "options": ["Visakhapatnam International Airport", "Rajiv Gandhi International Airport (Hyderabad)", "Vijayawada International Airport", "Tirupati Airport"],
+    "correctAnswer": "Rajiv Gandhi International Airport (Hyderabad)"
   },
   {
     "id": 14,
-    "question": "Which national policy framework provides guidelines for educational standards and teacher qualifications that states like Telangana and Andhra Pradesh consider for their education systems?",
-    "options": ["Industrial Policy", "National Education Policy", "Foreign Policy", "Agricultural Policy"],
-    "correctAnswer": "National Education Policy"
+    "question": "What is the full form of DGCA, the regulatory body in India responsible for aviation safety and overseeing incidents like pilot dope tests?",
+    "options": ["Directorate General of Civil Accounts", "Directorate General of Civil Aviation", "Department of Government Civil Agencies", "Divisional Grand Control Authority"],
+    "correctAnswer": "Directorate General of Civil Aviation"
   },
   {
     "id": 15,
-    "question": "Protests by teachers across various states underscore the need for state governments, including those in Andhra Pradesh and Telangana, to prioritize resource allocation to which vital sector?",
-    "options": ["Defense", "Space research", "Education", "Infrastructure"],
-    "correctAnswer": "Education"
+    "question": "The incident with the Air India pilot underscores the importance of stringent safety checks in aviation. Which city in Andhra Pradesh hosts a significant international airport handling a large volume of domestic and international flights?",
+    "options": ["Kakinada", "Nellore", "Visakhapatnam", "Ongole"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 16,
-    "question": "Debates surrounding the conduct and decorum of public representatives, as recently highlighted in national news, are relevant to the ethical standards expected of elected officials in which two prominent southern Indian states?",
-    "options": ["Kerala and Karnataka", "Goa and Maharashtra", "Telangana and Andhra Pradesh", "Odisha and West Bengal"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "What kind of substance was reportedly detected in the Air India pilot's confirmatory test, leading to serious aviation safety concerns?",
+    "options": ["Alcohol", "Nicotine", "Marijuana", "Caffeine"],
+    "correctAnswer": "Marijuana"
   },
   {
     "id": 17,
-    "question": "Maintaining public trust through ethical conduct and decorum by MLAs and other elected representatives is crucial for the healthy functioning of which democratic institution across India, including state assemblies in Telangana and Andhra Pradesh?",
-    "options": ["Judiciary", "Bureaucracy", "Legislature", "Military"],
-    "correctAnswer": "Legislature"
+    "question": "Beyond pilot testing, what is a crucial safety measure implemented at airports like those in Hyderabad and Visakhapatnam to ensure passenger security?",
+    "options": ["Mandatory passenger singing", "X-ray baggage screening and metal detectors", "Random dance-offs", "Only manual frisking"],
+    "correctAnswer": "X-ray baggage screening and metal detectors"
   },
   {
     "id": 18,
-    "question": "The Supreme Court of India, a national judicial body, adjudicates disputes related to political party financing and operations across all states. In which city is the Supreme Court primarily located?",
-    "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
-    "correctAnswer": "New Delhi"
+    "question": "How does an incident like a pilot failing a dope test impact the reputation and operational protocols of airlines and airports across India, including those in Telangana and Andhra Pradesh?",
+    "options": ["No impact, business as usual", "Leads to stricter enforcement of safety protocols and crew checks", "Only affects specific routes", "Promotes more lenient policies for crew"],
+    "correctAnswer": "Leads to stricter enforcement of safety protocols and crew checks"
   },
   {
     "id": 19,
-    "question": "Which national regulatory body in India primarily oversees the financial dealings and electoral compliance of political parties, including those active in Andhra Pradesh and Telangana?",
-    "options": ["Reserve Bank of India (RBI)", "Securities and Exchange Board of India (SEBI)", "Election Commission of India (ECI)", "Competition Commission of India (CCI)"],
-    "correctAnswer": "Election Commission of India (ECI)"
+    "question": "The Centre is likely to send the FCRA Bill to a Joint Parliamentary Committee. What does FCRA primarily regulate in India?",
+    "options": ["Foreign Currency Rate Act", "Foreign Contribution Regulation Act", "Financial Corporations and Revenue Act", "Federal Customs and Regulatory Agency"],
+    "correctAnswer": "Foreign Contribution Regulation Act"
   },
   {
     "id": 20,
-    "question": "Drug abuse, a significant societal challenge highlighted by recent reports, affects public health and law enforcement across all regions of India, including which two Telugu-speaking states?",
-    "options": ["Karnataka and Tamil Nadu", "Andhra Pradesh and Telangana", "Kerala and Goa", "Maharashtra and Gujarat"],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "A Joint Parliamentary Committee (JPC) reviews specific bills. How would the FCRA Bill, once passed, impact Non-Governmental Organizations (NGOs) operating in states like Telangana and Andhra Pradesh?",
+    "options": ["It would provide unlimited foreign funding without oversight", "It would regulate and potentially restrict the receipt and utilization of foreign contributions by NGOs", "It would exempt all NGOs from any financial scrutiny", "It would only affect NGOs in northern India"],
+    "correctAnswer": "It would regulate and potentially restrict the receipt and utilization of foreign contributions by NGOs"
   },
   {
     "id": 21,
-    "question": "Which national agency in India is primarily responsible for combating drug trafficking and abuse across states, working with local authorities in regions like Telangana and Andhra Pradesh?",
-    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Narcotics Control Bureau (NCB)", "Enforcement Directorate (ED)"],
-    "correctAnswer": "Narcotics Control Bureau (NCB)"
+    "question": "What is the legislative body where the FCRA Bill is currently being discussed and is likely to be sent to a JPC?",
+    "options": ["Supreme Court", "Election Commission", "Parliament (Lok Sabha/Rajya Sabha)", "State Assemblies of Telangana and Andhra Pradesh"],
+    "correctAnswer": "Parliament (Lok Sabha/Rajya Sabha)"
   },
   {
     "id": 22,
-    "question": "Vande Mataram, the national song of India, holds cultural significance in all states, including Telangana and Andhra Pradesh. Who composed this iconic song?",
-    "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Mahatma Gandhi", "Subhas Chandra Bose"],
-    "correctAnswer": "Bankim Chandra Chattopadhyay"
+    "question": "Why might there be 'opposition' to the FCRA Bill, as mentioned in the news headline, from the perspective of many civil society organizations including those in AP/TS?",
+    "options": ["They want more stringent regulations", "Concerns about potential misuse or over-regulation affecting their legitimate work", "They wish to only receive domestic funding", "They believe foreign funding is unnecessary"],
+    "correctAnswer": "Concerns about potential misuse or over-regulation affecting their legitimate work"
   },
   {
     "id": 23,
-    "question": "Debates surrounding the rendition of national symbols like Vande Mataram often involve balancing national identity with which other important constitutional principle in India?",
-    "options": ["Economic liberalization", "Fiscal federalism", "Freedom of expression", "Judicial review"],
-    "correctAnswer": "Freedom of expression"
+    "question": "If the FCRA Bill is enacted, what is a likely increased compliance requirement for NGOs in Telangana and Andhra Pradesh receiving foreign funds?",
+    "options": ["No new requirements", "More detailed reporting, audits, and possibly restrictions on fund utilization", "Only verbal reporting", "Requirement to open accounts in foreign banks"],
+    "correctAnswer": "More detailed reporting, audits, and possibly restrictions on fund utilization"
   },
   {
     "id": 24,
-    "question": "The political discourse involving prominent national leaders reflects vibrant democratic debates that influence the political landscape in states such as Telangana and Andhra Pradesh. Which national political party is Dharmendra Pradhan associated with?",
-    "options": ["Indian National Congress", "Bharatiya Janata Party", "Aam Aadmi Party", "Trinamool Congress"],
-    "correctAnswer": "Bharatiya Janata Party"
+    "question": "Which ministry typically oversees the implementation and enforcement of the Foreign Contribution Regulation Act (FCRA)?",
+    "options": ["Ministry of External Affairs", "Ministry of Finance", "Ministry of Home Affairs", "Ministry of Corporate Affairs"],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 25,
-    "question": "Major national political parties, frequently mentioned in news regarding political debates, field candidates and have significant presence in both Telangana and Andhra Pradesh during elections for which legislative bodies?",
-    "options": ["Gram Panchayats and Municipalities", "State Assemblies and Lok Sabha", "District Councils and Zilla Parishads", "Cantonment Boards and Port Trusts"],
-    "correctAnswer": "State Assemblies and Lok Sabha"
+    "question": "The FCRA Bill aims to strengthen oversight. What is the broader implication for the transparency of foreign funding towards NGOs in India, including those operating in Andhra Pradesh and Telangana?",
+    "options": ["It reduces transparency", "It aims to increase transparency and accountability in foreign fund management", "It has no bearing on transparency", "It only affects religious organizations"],
+    "correctAnswer": "It aims to increase transparency and accountability in foreign fund management"
   }
 ]

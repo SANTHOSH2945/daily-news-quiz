@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What major issue triggered the recent nationwide crisis regarding the NEET examination, impacting aspiring medical students including those from Telangana and Andhra Pradesh?",
-    "options": ["Change in exam pattern", "Leaked question paper", "Increase in application fees", "Shortage of exam centers"],
-    "correctAnswer": "Leaked question paper"
+    "question": "What is the primary central agency in India responsible for coordinating disaster response and relief operations during natural calamities like floods?",
+    "options": ["National Disaster Response Force (NDRF)", "State Disaster Response Fund (SDRF)", "Indian Meteorological Department (IMD)", "Central Industrial Security Force (CISF)"],
+    "correctAnswer": "National Disaster Response Force (NDRF)"
   },
   {
     "id": 2,
-    "question": "Following the NEET crisis and related allegations, which prominent Union Minister resigned from their post, a decision that affects national education policy for states like Andhra Pradesh and Telangana?",
-    "options": ["Finance Minister", "Home Minister", "Education Minister", "Health Minister"],
-    "correctAnswer": "Education Minister"
+    "question": "Which central act governs the overall framework for disaster management in India, including aspects of preparedness, response, and rehabilitation?",
+    "options": ["Environmental Protection Act", "Disaster Management Act", "National Security Act", "Epidemic Diseases Act"],
+    "correctAnswer": "Disaster Management Act"
   },
   {
     "id": 3,
-    "question": "What type of national entrance examination has been the subject of widespread student protests and parliamentary debate across India, including significant concern among students in Andhra Pradesh and Telangana?",
-    "options": ["UPSC Civil Services Exam", "JEE Main", "NEET", "CLAT"],
-    "correctAnswer": "NEET"
+    "question": "The Ministry of External Affairs (MEA) is primarily responsible for what aspect of India's governance?",
+    "options": ["Internal Security", "Financial Planning", "Foreign Relations", "Defense Procurement"],
+    "correctAnswer": "Foreign Relations"
   },
   {
     "id": 4,
-    "question": "Union Home Minister Amit Shah recently wrote to the Lok Sabha Speaker requesting a debate on which national issue that has caused distress among students nationwide, including those from Telangana and Andhra Pradesh?",
-    "options": ["Farmers' protests", "Economic slowdown", "NEET protest", "Railway safety"],
-    "correctAnswer": "NEET protest"
+    "question": "What is the primary role of the Lok Sabha during a parliamentary session in India?",
+    "options": ["Adjudicating legal disputes", "Passing laws and budgets", "Appointing state governors", "Conducting international diplomacy"],
+    "correctAnswer": "Passing laws and budgets"
   },
   {
     "id": 5,
-    "question": "Regarding the Union Home Minister's offer for a parliamentary discussion on student protests, what was the general sentiment expressed by opposition leader Rahul Gandhi, reflecting national political discourse relevant to all states?",
-    "options": ["Welcomed the offer", "Demanded more time", "Rejected the offer demanding accountability", "Proposed a joint committee"],
-    "correctAnswer": "Rejected the offer demanding accountability"
+    "question": "Which of the following is a common reason for a 'logjam' or disruption in parliamentary proceedings in India?",
+    "options": ["Consensus on all bills", "Lack of any debate", "Members abstaining from voting", "Disagreements over key issues leading to protests"],
+    "correctAnswer": "Disagreements over key issues leading to protests"
   },
   {
     "id": 6,
-    "question": "The news highlights a long-standing challenge in India's education system, where millions chase a small pool of prized seats for medical and engineering, a situation acutely felt by students in Telangana and Andhra Pradesh. What is this phenomenon often associated with?",
-    "options": ["Lack of interest in higher education", "Abundance of job opportunities", "Intense competition for limited seats", "High quality of all available seats"],
-    "correctAnswer": "Intense competition for limited seats"
+    "question": "In India, which body is primarily responsible for maintaining law and order within a specific state or Union Territory?",
+    "options": ["Central Bureau of Investigation", "State Police Force", "Border Security Force", "Indian Army"],
+    "correctAnswer": "State Police Force"
   },
   {
     "id": 7,
-    "question": "Despite millions vying for limited medical and engineering seats, the news also points out what paradoxical situation within the Indian education system, relevant to states like Andhra Pradesh and Telangana?",
-    "options": ["Thousands of other seats going empty", "Decrease in coaching institutes", "Reduction in exam difficulty", "Increase in government funding for all seats"],
-    "correctAnswer": "Thousands of other seats going empty"
+    "question": "How does the Union Government typically assert its influence over law enforcement in Union Territories compared to states?",
+    "options": ["Directly controlling state budgets", "Appointing Chief Ministers", "Directly administering through Lieutenant Governors", "No influence"],
+    "correctAnswer": "Directly administering through Lieutenant Governors"
   },
   {
     "id": 8,
-    "question": "The article references a popular Bollywood movie and coaching city to illustrate the fierce competition for medical/engineering seats. Which movie and city are commonly associated with this narrative in India, including for students from AP/Telangana?",
-    "options": ["Lagaan and Mumbai", "3 Idiots and Kota", "Dangal and Delhi", "Swades and Pune"],
-    "correctAnswer": "3 Idiots and Kota"
+    "question": "In India, the freedom of speech and expression is guaranteed by which article of the Constitution, subject to reasonable restrictions?",
+    "options": ["Article 19", "Article 21", "Article 14", "Article 32"],
+    "correctAnswer": "Article 19"
   },
   {
     "id": 9,
-    "question": "Amit Shah proposed sitting in Parliament for how long to address concerns regarding the NEET protests, affecting students across India including Telangana and Andhra Pradesh?",
-    "options": ["One hour", "From today until tomorrow", "For the entire week", "Until the end of the session"],
-    "correctAnswer": "From today until tomorrow"
+    "question": "Action against derogatory posts about historical figures in India often falls under laws related to:",
+    "options": ["Traffic violations", "Environmental protection", "Defamation or promoting enmity", "Intellectual property"],
+    "correctAnswer": "Defamation or promoting enmity"
   },
   {
     "id": 10,
-    "question": "The opposition's rejection of Amit Shah's offer to debate NEET protests was primarily driven by a demand for what, beyond just a lecture? (A national political demand relevant to citizen concerns in all states, including AP/Telangana)",
-    "options": ["A new exam body", "Direct financial compensation", "Accountability for alleged police actions", "International intervention"],
-    "correctAnswer": "Accountability for alleged police actions"
+    "question": "Public awareness campaigns by police in India often aim to educate citizens on issues like:",
+    "options": ["Stock market investments", "Agricultural policies", "Cyber safety and traffic rules", "International trade agreements"],
+    "correctAnswer": "Cyber safety and traffic rules"
   },
   {
     "id": 11,
-    "question": "The proposed FCRA legislation, currently under parliamentary discussion, aims to address what specific aspect related to organizations operating across India, including Telangana and Andhra Pradesh?",
-    "options": ["Regulation of domestic business funds", "Management of foreign funding to NGOs", "Taxation of charitable donations", "Allocation of government grants"],
-    "correctAnswer": "Management of foreign funding to NGOs"
+    "question": "The ban on certain types of 'manjha' (kite string) in India is primarily due to concerns regarding:",
+    "options": ["Aesthetic appearance", "Historical tradition", "Safety hazards to people and animals", "High cost"],
+    "correctAnswer": "Safety hazards to people and animals"
   },
   {
     "id": 12,
-    "question": "Union Minister Kiren Rijiju emphasized the importance of FCRA, stating that India was not a 'banana republic' and needed rules for spending foreign funds. What was the core message behind this statement regarding governance for all states like AP/Telangana?",
-    "options": ["To encourage more foreign investment", "To assert national sovereignty and regulatory control", "To discourage all forms of foreign aid", "To promote unrestricted funding for NGOs"],
-    "correctAnswer": "To assert national sovereignty and regulatory control"
+    "question": "Which independent regulatory body is responsible for ensuring safety in nuclear and radiation facilities in India?",
+    "options": ["ISRO", "DRDO", "Atomic Energy Regulatory Board (AERB)", "Bhabha Atomic Research Centre (BARC)"],
+    "correctAnswer": "Atomic Energy Regulatory Board (AERB)"
   },
   {
     "id": 13,
-    "question": "One of the stated aims of the FCRA Bill, which could affect religious organizations and NGOs in states like Telangana and Andhra Pradesh, is to curb what activity?",
-    "options": ["Environmental activism", "Political lobbying", "Proselytisation", "Cultural exchange programs"],
-    "correctAnswer": "Proselytisation"
+    "question": "Cybersecurity threats to critical infrastructure, such as nuclear power plants, are a matter of concern for which aspect of governance in India?",
+    "options": ["Local municipality planning", "National security", "Sports development", "Cultural heritage preservation"],
+    "correctAnswer": "National security"
   },
   {
     "id": 14,
-    "question": "The FCRA Bill has faced fierce criticism from the opposition, which has termed it as what, raising concerns among various groups, including those in Andhra Pradesh and Telangana?",
-    "options": ["Pro-business", "Anti-minority", "Economic reform", "Pro-development"],
-    "correctAnswer": "Anti-minority"
+    "question": "India's focus on nuclear energy primarily aims to address:",
+    "options": ["Shortage of agricultural land", "Boosting tourism", "Energy security and clean power generation", "Expanding military presence"],
+    "correctAnswer": "Energy security and clean power generation"
   },
   {
     "id": 15,
-    "question": "Amidst opposition ruckus, the FCRA Bill was recently sent to which parliamentary body for further review and discussion? (A standard legislative process impacting national laws relevant to states like AP/Telangana)",
-    "options": ["Standing Committee on Finance", "Joint Parliamentary Committee", "Estimates Committee", "Public Accounts Committee"],
-    "correctAnswer": "Joint Parliamentary Committee"
+    "question": "The protection of critical national infrastructure, including power grids and nuclear plants, against cyberattacks is managed by:",
+    "options": ["State Tourism Departments", "Individual households", "Various central government agencies", "Local libraries"],
+    "correctAnswer": "Various central government agencies"
   },
   {
     "id": 16,
-    "question": "What specific gap in regulation did the proposed FCRA legislation aim to manage, impacting NGOs operating nationwide, including in Telangana and Andhra Pradesh?",
-    "options": ["Regulation of government grants", "Regulation of corporate social responsibility (CSR) funds", "Regulation of foreign fundings to NGOs", "Regulation of domestic private donations"],
-    "correctAnswer": "Regulation of foreign fundings to NGOs"
+    "question": "Which central investigative agency in India primarily deals with economic offenses and money laundering?",
+    "options": ["Central Bureau of Investigation (CBI)", "Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Income Tax Department"],
+    "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 17,
-    "question": "Which Union Minister moved the motion for the FCRA Bill in the Lok Sabha? (Identifying key political figures involved in national legislation relevant to all states)",
-    "options": ["Amit Shah", "Kiren Rijiju", "Nityanand Rai", "Nirmala Sitharaman"],
-    "correctAnswer": "Nityanand Rai"
+    "question": "The Prevention of Money Laundering Act (PMLA) in India empowers which agency to investigate and prosecute offenses related to money laundering?",
+    "options": ["Reserve Bank of India", "SEBI", "Enforcement Directorate (ED)", "Ministry of Finance's Department of Economic Affairs"],
+    "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 18,
-    "question": "The FCRA legislation deals with the flow of what kind of funds into India, affecting various organizations including charitable trusts and NGOs in states like Telangana and Andhra Pradesh?",
-    "options": ["State government funds", "Foreign funds", "Private individual donations", "Corporate dividends"],
-    "correctAnswer": "Foreign funds"
+    "question": "Allegations of large-scale financial scams involving public funds are typically investigated by:",
+    "options": ["Village Panchayats", "Central investigative agencies", "Local school committees", "Private detective firms"],
+    "correctAnswer": "Central investigative agencies"
   },
   {
     "id": 19,
-    "question": "The government's stance on the FCRA Bill, as expressed by ministers, suggests a belief in the necessity of what regarding foreign funds, a policy impacting organizations in all states, including AP/Telangana?",
-    "options": ["Complete abolition", "Unrestricted flow", "Strict rules and regulations", "Decentralized management"],
-    "correctAnswer": "Strict rules and regulations"
+    "question": "What is the primary objective of the Enforcement Directorate (ED) when investigating a financial scam?",
+    "options": ["To mediate political disputes", "To recover proceeds of crime and punish offenders", "To conduct market research", "To organize cultural events"],
+    "correctAnswer": "To recover proceeds of crime and punish offenders"
   },
   {
     "id": 20,
-    "question": "The movement of the FCRA Bill in the Lok Sabha was characterized by what specific atmosphere? (Describes the legislative environment impacting national policy)",
-    "options": ["Unanimous approval", "Peaceful debate", "Opposition ruckus", "Quick passage"],
-    "correctAnswer": "Opposition ruckus"
+    "question": "What is the role of State Disaster Response Funds (SDRF) in India during natural disasters?",
+    "options": ["Funding national defence", "Providing immediate relief to affected state population", "Regulating financial markets", "Promoting cultural festivals"],
+    "correctAnswer": "Providing immediate relief to affected state population"
   },
   {
     "id": 21,
-    "question": "Beyond the recent NEET crisis, the difficulty highlighted in the news for aspiring doctors and engineers reflects a broader national challenge regarding access to quality higher education and competitive opportunities for youth, a concern shared by families in Telangana and Andhra Pradesh. What is this fundamental challenge?",
-    "options": ["Lack of student ambition", "Abundant and easily accessible higher education", "Disparity between demand and availability of prized professional seats", "Over-regulation of private universities"],
-    "correctAnswer": "Disparity between demand and availability of prized professional seats"
+    "question": "Which Union Ministry is primarily responsible for formulating and implementing defense policy and managing the armed forces to protect India's borders?",
+    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Defence", "Ministry of Finance"],
+    "correctAnswer": "Ministry of Defence"
   },
   {
     "id": 22,
-    "question": "Kiren Rijiju's statement 'India not a banana republic' in the context of FCRA emphasizes the government's commitment to which principle in national governance, important for all states like Andhra Pradesh and Telangana?",
-    "options": ["Absolute deregulation", "Lack of accountability", "Rule of law and sovereign control", "Complete reliance on foreign aid"],
-    "correctAnswer": "Rule of law and sovereign control"
+    "question": "In the Indian parliamentary system, what is the purpose of a 'no-confidence motion'?",
+    "options": ["To elect the Speaker", "To approve the annual budget", "To express lack of confidence in the Council of Ministers", "To amend the Constitution"],
+    "correctAnswer": "To express lack of confidence in the Council of Ministers"
   },
   {
     "id": 23,
-    "question": "The recent parliamentary discussions concerning the NEET protests and the FCRA Bill exemplify the role of the Indian Parliament in addressing what kind of issues affecting the nation, including its constituent states like Telangana and Andhra Pradesh?",
-    "options": ["Local municipal disputes", "National policy and public grievances", "International sports events", "Celebrity endorsements"],
-    "correctAnswer": "National policy and public grievances"
+    "question": "National icons like Netaji Subhas Chandra Bose are revered for their contributions to:",
+    "options": ["Indian cinema", "Space research", "India's freedom struggle", "Modern sports"],
+    "correctAnswer": "India's freedom struggle"
   },
   {
     "id": 24,
-    "question": "The controversy surrounding national entrance exams like NEET has a direct impact on the academic and career pathways of millions of students across India. In states like Telangana and Andhra Pradesh, what significant concern does this controversy raise for students and their families?",
-    "options": ["Reduced need for coaching", "Guaranteed admission", "Fairness and transparency of the admission process", "Easier syllabus"],
-    "correctAnswer": "Fairness and transparency of the admission process"
+    "question": "The jurisdiction of central investigative agencies like the ED or CBI in India extends to:",
+    "options": ["Only Union Territories", "Only specific industries", "Across all states and Union Territories", "Only international cases"],
+    "correctAnswer": "Across all states and Union Territories"
   },
   {
     "id": 25,
-    "question": "The ongoing debate about regulating foreign funding to NGOs, as seen with the FCRA Bill, reflects a national effort to ensure transparency and accountability in the utilization of such funds across all states, including where NGOs operate in Telangana and Andhra Pradesh. What is a primary objective of this regulatory effort?",
-    "options": ["To encourage indiscriminate foreign donations", "To remove all oversight on foreign funds", "To prevent misuse and ensure funds serve their intended purpose", "To promote informal funding channels"],
-    "correctAnswer": "To prevent misuse and ensure funds serve their intended purpose"
+    "question": "The term 'scam' in the context of Indian public affairs generally refers to:",
+    "options": ["A new government policy", "A large-scale fraudulent scheme", "A technological innovation", "A cultural exchange program"],
+    "correctAnswer": "A large-scale fraudulent scheme"
   }
 ]

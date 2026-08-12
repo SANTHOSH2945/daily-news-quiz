@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to recent news, what national campaign did PM Modi call on every household in India, including those in Telangana and Andhra Pradesh, to celebrate?",
-    "options": ["Swachh Bharat Abhiyan", "Har Ghar Tiranga", "Make in India", "Digital India"],
-    "correctAnswer": "Har Ghar Tiranga"
+    "question": "Which Chief Minister recently moved a resolution to freeze Lok Sabha seats at 543?",
+    "options": ["CM Vijay", "CM Modi", "CM Baghel", "CM Reddy"],
+    "correctAnswer": "CM Vijay"
   },
   {
     "id": 2,
-    "question": "The 'Har Ghar Tiranga' drive aims to encourage citizens across India. What is the primary symbolic action encouraged for households in states like Andhra Pradesh and Telangana during this campaign?",
-    "options": ["Planting trees", "Hoisting the national flag", "Participating in parades", "Donating to charity"],
-    "correctAnswer": "Hoisting the national flag"
+    "question": "What is the primary subject of the resolution moved by CM Vijay concerning parliamentary constituencies?",
+    "options": ["Redistribution of state assembly seats", "Freezing of Lok Sabha seats", "Revising Rajya Sabha representation", "Establishing new electoral districts"],
+    "correctAnswer": "Freezing of Lok Sabha seats"
   },
   {
     "id": 3,
-    "question": "The 'Har Ghar Tiranga' campaign seeks to deepen the connection with the national flag. Which national occasion is this drive typically associated with?",
-    "options": ["Republic Day", "Gandhi Jayanti", "Independence Day", "Diwali"],
-    "correctAnswer": "Independence Day"
+    "question": "What specific number of Lok Sabha seats does CM Vijay's resolution propose to freeze?",
+    "options": ["545", "543", "550", "530"],
+    "correctAnswer": "543"
   },
   {
     "id": 4,
-    "question": "How does the 'Har Ghar Tiranga' initiative promote national pride and unity among diverse populations, including those residing in Telangana?",
-    "options": ["By promoting regional languages", "By encouraging local festivals", "By uniform display of the national flag", "By boosting state economies"],
-    "correctAnswer": "By uniform display of the national flag"
+    "question": "The 'delimitation row' mentioned in the news is particularly crucial for Southern states like Andhra Pradesh and Telangana due to its potential impact on what?",
+    "options": ["Tourism revenue", "Representation in the Lok Sabha", "Allocation of central funds for infrastructure", "State border disputes"],
+    "correctAnswer": "Representation in the Lok Sabha"
   },
   {
     "id": 5,
-    "question": "What role do state governments, such as those in Andhra Pradesh, typically play in facilitating nationwide campaigns like 'Har Ghar Tiranga'?",
-    "options": ["Developing the campaign theme", "Funding international promotion", "Implementing awareness programs locally", "Designing the national flag"],
-    "correctAnswer": "Implementing awareness programs locally"
-  },
-  {
-    "id": 6,
-    "question": "What significant piece of legislation, relevant to NGOs and organizations operating in Telangana and Andhra Pradesh, is the government reportedly considering sending to a parliamentary panel for consensus?",
-    "options": ["Right to Information (RTI) Act", "Foreign Contribution (Regulation) Act (FCRA)", "Goods and Services Tax (GST) Act", "Environmental Protection Act (EPA)"],
-    "correctAnswer": "Foreign Contribution (Regulation) Act (FCRA)"
-  },
-  {
-    "id": 7,
-    "question": "The potential move to send the FCRA bill to a parliamentary panel aims to build consensus. What is the primary subject matter of the FCRA, impacting organizations in states like Andhra Pradesh?",
-    "options": ["Regulation of domestic trade", "Control of foreign contributions", "Management of public sector undertakings", "Licensing of educational institutions"],
-    "correctAnswer": "Control of foreign contributions"
-  },
-  {
-    "id": 8,
-    "question": "Which sector in Telangana is most directly concerned with the provisions and potential amendments to the Foreign Contribution (Regulation) Act (FCRA)?",
-    "options": ["Information Technology sector", "Non-governmental organizations (NGOs)", "Agriculture sector", "Automobile manufacturing"],
-    "correctAnswer": "Non-governmental organizations (NGOs)"
-  },
-  {
-    "id": 9,
-    "question": "If the FCRA bill undergoes significant changes, what could be the implication for international funding received by social welfare projects in Andhra Pradesh?",
-    "options": ["Increased funding availability", "Simplified reporting procedures", "Stricter scrutiny and compliance", "Complete ban on foreign funds"],
-    "correctAnswer": "Stricter scrutiny and compliance"
-  },
-  {
-    "id": 10,
-    "question": "What is the reported reason for the government considering sending the FCRA bill to a parliamentary panel?",
-    "options": ["To delay its implementation", "To avoid public scrutiny", "To evolve consensus among stakeholders", "To expand its scope internationally"],
-    "correctAnswer": "To evolve consensus among stakeholders"
-  },
-  {
-    "id": 11,
-    "question": "During the recent Monsoon Session, which legislative body in India passed two bills amidst disruption, impacting all states including Telangana and Andhra Pradesh?",
-    "options": ["Rajya Sabha", "Supreme Court", "Lok Sabha", "President's Office"],
+    "question": "Which legislative body's representation is at the core of the delimitation row as highlighted by CM Vijay's resolution?",
+    "options": ["Rajya Sabha", "Vidhan Sabha", "Lok Sabha", "Legislative Council"],
     "correctAnswer": "Lok Sabha"
   },
   {
+    "id": 6,
+    "question": "The recent parliamentary panel report highlighted a significant shortfall in achieving skill development targets for which specific demographic group?",
+    "options": ["Rural youth", "Women entrepreneurs", "Persons with disabilities", "Migrant workers"],
+    "correctAnswer": "Persons with disabilities"
+  },
+  {
+    "id": 7,
+    "question": "What approximate percentage of skill development targets for persons with disabilities was noted as unachieved by the parliamentary panel?",
+    "options": ["Below 25%", "Above 50%", "Around 75%", "Exactly 10%"],
+    "correctAnswer": "Below 25%"
+  },
+  {
+    "id": 8,
+    "question": "Which governmental body raised concerns about the shortfall in skill development targets for persons with disabilities?",
+    "options": ["NITI Aayog", "Election Commission of India", "Parliamentary Panel", "Ministry of Finance"],
+    "correctAnswer": "Parliamentary Panel"
+  },
+  {
+    "id": 9,
+    "question": "To improve employment results for persons with disabilities, the parliamentary panel recommended an enhanced strategy integrated with what?",
+    "options": ["Academic research", "International aid agencies", "Industry-integrated strategy", "Religious organizations"],
+    "correctAnswer": "Industry-integrated strategy"
+  },
+  {
+    "id": 10,
+    "question": "Which central government department acknowledged the parliamentary panel's suggestions regarding skill development for persons with disabilities?",
+    "options": ["Department of School Education", "Department of Youth Affairs", "Department of Empowerment of Persons with Disabilities", "Department of Health Research"],
+    "correctAnswer": "Department of Empowerment of Persons with Disabilities"
+  },
+  {
+    "id": 11,
+    "question": "Approximately how many person-days were generated within a month of the roll-out of the VB G RAM G scheme, as reported by the government?",
+    "options": ["Over 9.69 crore", "Around 5 crore", "Less than 1 crore", "Exactly 10 crore"],
+    "correctAnswer": "Over 9.69 crore"
+  },
+  {
     "id": 12,
-    "question": "The news highlights bills passed 'sans debate' in the Lok Sabha. What does this phrase indicate about the legislative process during the session?",
-    "options": ["Bills were unanimously approved", "No discussion or deliberation occurred", "Bills were returned for amendments", "Only expert committees reviewed bills"],
-    "correctAnswer": "No discussion or deliberation occurred"
+    "question": "The generation of a large number of person-days, as seen with VB G RAM G, is typically indicative of the success of schemes aimed at what?",
+    "options": ["Environmental conservation", "Cultural promotion", "Employment and welfare", "Space exploration"],
+    "correctAnswer": "Employment and welfare"
   },
   {
     "id": 13,
-    "question": "How do disruptions in parliamentary sessions, as observed in the Monsoon Session, affect the representation of states like Andhra Pradesh in national legislative matters?",
-    "options": ["It enhances their legislative power", "It allows for more regional debates", "It can limit their voice and debate opportunities", "It accelerates bill passing for their benefit"],
-    "correctAnswer": "It can limit their voice and debate opportunities"
+    "question": "Schemes like VB G RAM G, which generate significant person-days, play a crucial role in providing employment and livelihood support in rural areas of states like Telangana and Andhra Pradesh. What does 'person-days' fundamentally measure?",
+    "options": ["Total number of beneficiaries", "Total work performed by individuals in a day", "Total financial outlay of a scheme", "Number of training sessions conducted"],
+    "correctAnswer": "Total work performed by individuals in a day"
   },
   {
     "id": 14,
-    "question": "What is the primary function of the Monsoon Session of Parliament for the Indian government, including its impact on state governance like in Telangana?",
-    "options": ["To discuss international relations only", "To pass laws, debate policies, and hold the government accountable", "To elect state chief ministers", "To revise the national budget exclusively"],
-    "correctAnswer": "To pass laws, debate policies, and hold the government accountable"
+    "question": "Which sector within states like Andhra Pradesh and Telangana is most directly impacted by large-scale person-day generation schemes?",
+    "options": ["Information Technology", "Rural employment and development", "Manufacturing exports", "Urban planning"],
+    "correctAnswer": "Rural employment and development"
   },
   {
     "id": 15,
-    "question": "Who are the key representatives from states like Telangana and Andhra Pradesh present and active during the Lok Sabha sessions?",
-    "options": ["State Governors", "Members of Parliament (MPs)", "Chief Ministers", "High Court Judges"],
-    "correctAnswer": "Members of Parliament (MPs)"
+    "question": "Which level of government, besides the central government, plays a vital role in the ground-level implementation and oversight of schemes like VB G RAM G in states?",
+    "options": ["Local Self-Government bodies", "Judiciary", "Private sector corporations", "International NGOs"],
+    "correctAnswer": "Local Self-Government bodies"
   },
   {
     "id": 16,
-    "question": "The news mentions 'security steps in' during the Monsoon Session. What is the main purpose of such measures in a parliamentary setting?",
-    "options": ["To facilitate media coverage", "To enhance aesthetic appeal", "To maintain order and ensure safety", "To restrict public access entirely"],
-    "correctAnswer": "To maintain order and ensure safety"
+    "question": "On what critical issue related to medical admissions are various states reportedly ignoring Supreme Court directives and differing on norms?",
+    "options": ["MBBS admission fees", "NEET-UG counseling dates", "NEET-PG seat norms", "Private medical college accreditation"],
+    "correctAnswer": "NEET-PG seat norms"
   },
   {
     "id": 17,
-    "question": "What implications could the passing of national bills without debate have for democratic principles in India, and by extension, for the citizens of Andhra Pradesh?",
-    "options": ["Strengthens democratic debate", "Undermines legislative scrutiny", "Promotes bipartisan cooperation", "Increases public participation"],
-    "correctAnswer": "Undermines legislative scrutiny"
+    "question": "The NEET-PG exam serves as the entrance gateway for admissions into which category of medical courses?",
+    "options": ["Undergraduate medical courses", "Post-graduate medical courses", "Diploma in medical sciences", "Paramedical courses"],
+    "correctAnswer": "Post-graduate medical courses"
   },
   {
     "id": 18,
-    "question": "The government is seeking to bring transparency in appointments for which specific governmental bodies through reforms?",
-    "options": ["Public Sector Banks", "Tribunals", "State Police Departments", "University Vice-Chancellors"],
-    "correctAnswer": "Tribunals"
+    "question": "The differing stand of states on NEET-PG seat norms has significant implications for which aspect of medical education in states like Andhra Pradesh and Telangana?",
+    "options": ["Construction of new medical colleges", "Availability and allocation of medical postgraduate seats", "Development of medical research facilities", "International exchange programs for medical students"],
+    "correctAnswer": "Availability and allocation of medical postgraduate seats"
   },
   {
     "id": 19,
-    "question": "What is the overarching goal of the tribunal reforms mentioned in the news, particularly concerning their function in states like Telangana and Andhra Pradesh?",
-    "options": ["To increase the number of tribunals", "To make judicial processes more opaque", "To enhance efficiency and fairness in justice delivery", "To transfer all powers to district courts"],
-    "correctAnswer": "To enhance efficiency and fairness in justice delivery"
+    "question": "Which judicial authority's norms are states reportedly diverging from regarding NEET-PG seat allocations?",
+    "options": ["High Courts", "District Courts", "Supreme Court", "National Green Tribunal"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 20,
-    "question": "How would increased transparency in appointments to tribunals, as proposed by the reforms, likely benefit citizens seeking justice in Andhra Pradesh?",
-    "options": ["By speeding up High Court appeals", "By ensuring merit-based selections and reducing bias", "By allowing direct public nominations", "By reducing tribunal fees significantly"],
-    "correctAnswer": "By ensuring merit-based selections and reducing bias"
+    "question": "Beyond central guidelines, what local factor often plays a key role in determining NEET-PG seat allocation within state-run medical colleges in states such as Andhra Pradesh and Telangana?",
+    "options": ["Religious affiliations", "Domicile rules and state quotas", "Student's extracurricular activities", "Age of the applicant"],
+    "correctAnswer": "Domicile rules and state quotas"
   },
   {
     "id": 21,
-    "question": "Which branch of government do tribunals typically fall under, and how do their reforms impact the judicial landscape across India, including Telangana?",
-    "options": ["Executive branch, by reducing its powers", "Legislative branch, by expanding its role", "Judicial branch, by improving its specialized justice delivery", "All branches, by creating new roles"],
-    "correctAnswer": "Judicial branch, by improving its specialized justice delivery"
+    "question": "The Vice President flagging off the Tiranga bike rally (Headline 1) and national discussions on delimitation (Headline 2) both underscore the importance of which principle in the Indian federal structure, impacting all states including Telangana and Andhra Pradesh?",
+    "options": ["Unitary governance", "Centralization of powers", "Federalism and Centre-State relations", "Monarchical rule"],
+    "correctAnswer": "Federalism and Centre-State relations"
   },
   {
     "id": 22,
-    "question": "While the headline refers to a 'Mecca defence pact,' what is India's general policy stance when assessing the implications of international defence agreements for national security and strategic interests, which apply to all states including Telangana and Andhra Pradesh?",
-    "options": ["Blind acceptance of all pacts", "Isolationist approach", "Thorough evaluation of geopolitical and strategic impact", "Immediate military intervention"],
-    "correctAnswer": "Thorough evaluation of geopolitical and strategic impact"
+    "question": "The medical device industry's call for a separate regulatory body (Headline 3) can have implications for healthcare infrastructure and access to medical technology across Indian states. Which state, including Telangana, is often recognized as a hub for pharmaceuticals and medical technology R&D, potentially impacting such policy discussions?",
+    "options": ["Bihar", "Uttar Pradesh", "Telangana", "Rajasthan"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 23,
-    "question": "Which Union Ministry is primarily responsible for 'assessing implications' of international defence pacts, a process that considers their broader effects on India's security and foreign policy interests relevant to all regions like Andhra Pradesh?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of External Affairs and Ministry of Defence", "Ministry of Railways"],
-    "correctAnswer": "Ministry of External Affairs and Ministry of Defence"
+    "question": "The 'delimitation row' (Headline 2), while concerning Lok Sabha seats, fundamentally impacts the balance of political power and representation among different states based on which demographic factor?",
+    "options": ["Literacy rates", "Economic growth", "Population growth", "Geographical area"],
+    "correctAnswer": "Population growth"
   },
   {
     "id": 24,
-    "question": "India's assessment of international defence pacts often considers factors like regional stability. How might such assessments indirectly influence the security infrastructure or diplomatic efforts in states like Telangana?",
-    "options": ["By directly deploying state police overseas", "By funding local cultural festivals", "By informing national defence preparedness and foreign policy, impacting overall security", "By establishing new state borders"],
-    "correctAnswer": "By informing national defence preparedness and foreign policy, impacting overall security"
+    "question": "In the context of skill development initiatives (Headline 6) for specific groups like persons with disabilities, what key challenge often faces states like Andhra Pradesh and Telangana during implementation?",
+    "options": ["Lack of suitable land for training centers", "Insufficient participation from international organizations", "Effective ground-level implementation and funding", "Over-reliance on digital platforms"],
+    "correctAnswer": "Effective ground-level implementation and funding"
   },
   {
     "id": 25,
-    "question": "In the context of India's foreign policy and defence, what does 'assessing implications' of a defence pact primarily involve, with a view towards national interests that encompass states like Andhra Pradesh?",
-    "options": ["Reviewing sports agreements", "Evaluating economic trade deficits only", "Analyzing geopolitical shifts, security threats, and strategic partnerships", "Focusing solely on cultural exchange programs"],
-    "correctAnswer": "Analyzing geopolitical shifts, security threats, and strategic partnerships"
+    "question": "The differing stances of states on NEET-PG seat norms (Headline 8) exemplify a broader challenge in Indian federalism related to the balance between central guidelines and state autonomy in which sector?",
+    "options": ["Defense", "Foreign Policy", "Education and Healthcare", "Taxation"],
+    "correctAnswer": "Education and Healthcare"
   }
 ]

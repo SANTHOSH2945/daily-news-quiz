@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Chief Minister recently moved a resolution to freeze Lok Sabha seats at 543?",
-    "options": ["CM Vijay", "CM Modi", "CM Baghel", "CM Reddy"],
-    "correctAnswer": "CM Vijay"
+    "question": "Which state's Chief Minister recently moved a resolution in the Assembly to freeze Lok Sabha seats at 543 amidst the national delimitation row?",
+    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Kerala"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "What is the primary subject of the resolution moved by CM Vijay concerning parliamentary constituencies?",
-    "options": ["Redistribution of state assembly seats", "Freezing of Lok Sabha seats", "Revising Rajya Sabha representation", "Establishing new electoral districts"],
-    "correctAnswer": "Freezing of Lok Sabha seats"
+    "question": "What is the primary concern raised by Andhra Pradesh's Chief Minister regarding the potential impact of future delimitation on the state's Lok Sabha representation?",
+    "options": ["Increase in Rajya Sabha seats", "Decrease in political influence due to population control efforts", "Relocation of the state capital", "Changes in MLA constituencies"],
+    "correctAnswer": "Decrease in political influence due to population control efforts"
   },
   {
     "id": 3,
-    "question": "What specific number of Lok Sabha seats does CM Vijay's resolution propose to freeze?",
-    "options": ["545", "543", "550", "530"],
+    "question": "The resolution moved by CM Jagan Mohan Reddy regarding Lok Sabha seats emphasizes freezing the number at what specific figure?",
+    "options": ["600", "543", "450", "700"],
     "correctAnswer": "543"
   },
   {
     "id": 4,
-    "question": "The 'delimitation row' mentioned in the news is particularly crucial for Southern states like Andhra Pradesh and Telangana due to its potential impact on what?",
-    "options": ["Tourism revenue", "Representation in the Lok Sabha", "Allocation of central funds for infrastructure", "State border disputes"],
-    "correctAnswer": "Representation in the Lok Sabha"
+    "question": "Why might states like Telangana, which have shown successful population stabilization efforts, be particularly interested in the debate surrounding the freezing of Lok Sabha seats?",
+    "options": ["To gain more Rajya Sabha seats", "To avoid penalization for lower population growth with reduced parliamentary representation", "To increase their share of central funds", "To promote inter-state migration"],
+    "correctAnswer": "To avoid penalization for lower population growth with reduced parliamentary representation"
   },
   {
     "id": 5,
-    "question": "Which legislative body's representation is at the core of the delimitation row as highlighted by CM Vijay's resolution?",
-    "options": ["Rajya Sabha", "Vidhan Sabha", "Lok Sabha", "Legislative Council"],
-    "correctAnswer": "Lok Sabha"
+    "question": "The delimitation process, which could be impacted by the resolution moved by the AP CM, primarily aims to redraw boundaries for which legislative bodies?",
+    "options": ["State Legislative Councils", "Gram Panchayats and Municipalities", "Lok Sabha and State Legislative Assemblies", "Rajya Sabha"],
+    "correctAnswer": "Lok Sabha and State Legislative Assemblies"
   },
   {
     "id": 6,
-    "question": "The recent parliamentary panel report highlighted a significant shortfall in achieving skill development targets for which specific demographic group?",
-    "options": ["Rural youth", "Women entrepreneurs", "Persons with disabilities", "Migrant workers"],
-    "correctAnswer": "Persons with disabilities"
+    "question": "Regarding NEET-PG admissions, what is the core issue on which various Indian states, including Andhra Pradesh and Telangana, are reportedly differing from the Supreme Court's directives?",
+    "options": ["The language of the examination", "The fee structure for private colleges", "The reservation policies and domicile criteria for seat allocation", "The number of examination attempts allowed"],
+    "correctAnswer": "The reservation policies and domicile criteria for seat allocation"
   },
   {
     "id": 7,
-    "question": "What approximate percentage of skill development targets for persons with disabilities was noted as unachieved by the parliamentary panel?",
-    "options": ["Below 25%", "Above 50%", "Around 75%", "Exactly 10%"],
-    "correctAnswer": "Below 25%"
+    "question": "The divergence of states like Telangana from national NEET-PG seat norms primarily impacts which aspect of medical education?",
+    "options": ["Undergraduate admissions", "Postgraduate medical seat distribution", "Medical research funding", "Paramedical courses"],
+    "correctAnswer": "Postgraduate medical seat distribution"
   },
   {
     "id": 8,
-    "question": "Which governmental body raised concerns about the shortfall in skill development targets for persons with disabilities?",
-    "options": ["NITI Aayog", "Election Commission of India", "Parliamentary Panel", "Ministry of Finance"],
-    "correctAnswer": "Parliamentary Panel"
+    "question": "What kind of legal body's directives are states, including Andhra Pradesh, reportedly ignoring or differing from concerning NEET-PG seat allocation?",
+    "options": ["High Courts", "National Medical Commission (NMC)", "Supreme Court of India", "Medical Council of India (MCI)"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 9,
-    "question": "To improve employment results for persons with disabilities, the parliamentary panel recommended an enhanced strategy integrated with what?",
-    "options": ["Academic research", "International aid agencies", "Industry-integrated strategy", "Religious organizations"],
-    "correctAnswer": "Industry-integrated strategy"
+    "question": "The differing NEET-PG seat norms could potentially create disparities for medical aspirants seeking postgraduate seats in which states, including Andhra Pradesh?",
+    "options": ["Only northern states", "All Indian states with medical colleges", "Primarily Union Territories", "Only states without their own entrance exams"],
+    "correctAnswer": "All Indian states with medical colleges"
   },
   {
     "id": 10,
-    "question": "Which central government department acknowledged the parliamentary panel's suggestions regarding skill development for persons with disabilities?",
-    "options": ["Department of School Education", "Department of Youth Affairs", "Department of Empowerment of Persons with Disabilities", "Department of Health Research"],
-    "correctAnswer": "Department of Empowerment of Persons with Disabilities"
+    "question": "What is the full form of the 'VB G RAM G' scheme, a national initiative generating person-days in rural areas, also being implemented in Telangana and Andhra Pradesh?",
+    "options": ["Viksit Bharat Gramin Rozgar Abhiyan for Manufacturing & Generation of Rural Assets", "Village Bharat Green Rural Asset Management Growth", "Voluntary Basic Grant for Rural Area Modernization Goals", "Visionary Bhaarat Growth & Rural Action Mission Grant"],
+    "correctAnswer": "Viksit Bharat Gramin Rozgar Abhiyan for Manufacturing & Generation of Rural Assets"
   },
   {
     "id": 11,
-    "question": "Approximately how many person-days were generated within a month of the roll-out of the VB G RAM G scheme, as reported by the government?",
-    "options": ["Over 9.69 crore", "Around 5 crore", "Less than 1 crore", "Exactly 10 crore"],
-    "correctAnswer": "Over 9.69 crore"
+    "question": "The 'VB G RAM G' scheme, which generated over 9.69 crore person-days nationally, primarily focuses on boosting employment in which sector within states like Andhra Pradesh?",
+    "options": ["Urban IT sector", "Rural areas and manufacturing/asset generation", "Space technology", "Financial services"],
+    "correctAnswer": "Rural areas and manufacturing/asset generation"
   },
   {
     "id": 12,
-    "question": "The generation of a large number of person-days, as seen with VB G RAM G, is typically indicative of the success of schemes aimed at what?",
-    "options": ["Environmental conservation", "Cultural promotion", "Employment and welfare", "Space exploration"],
-    "correctAnswer": "Employment and welfare"
+    "question": "How many person-days were generated nationally within a month of the 'VB G RAM G' scheme's rollout, contributing to rural employment in states like Telangana?",
+    "options": ["Over 5 crore", "Over 9.69 crore", "Approximately 15 crore", "Less than 1 crore"],
+    "correctAnswer": "Over 9.69 crore"
   },
   {
     "id": 13,
-    "question": "Schemes like VB G RAM G, which generate significant person-days, play a crucial role in providing employment and livelihood support in rural areas of states like Telangana and Andhra Pradesh. What does 'person-days' fundamentally measure?",
-    "options": ["Total number of beneficiaries", "Total work performed by individuals in a day", "Total financial outlay of a scheme", "Number of training sessions conducted"],
-    "correctAnswer": "Total work performed by individuals in a day"
+    "question": "Beyond employment generation, what other key objective does the 'VB G RAM G' scheme aim to achieve in rural areas of states like Andhra Pradesh?",
+    "options": ["Promoting digital literacy in urban centers", "Creation of rural assets and infrastructure", "Boosting international tourism", "Regulating financial markets"],
+    "correctAnswer": "Creation of rural assets and infrastructure"
   },
   {
     "id": 14,
-    "question": "Which sector within states like Andhra Pradesh and Telangana is most directly impacted by large-scale person-day generation schemes?",
-    "options": ["Information Technology", "Rural employment and development", "Manufacturing exports", "Urban planning"],
-    "correctAnswer": "Rural employment and development"
+    "question": "A parliamentary panel highlighted a significant shortfall in skill development targets for which specific demographic group across India, including in Andhra Pradesh and Telangana?",
+    "options": ["Unemployed youth", "Women entrepreneurs", "Persons with disabilities", "Senior citizens"],
+    "correctAnswer": "Persons with disabilities"
   },
   {
     "id": 15,
-    "question": "Which level of government, besides the central government, plays a vital role in the ground-level implementation and oversight of schemes like VB G RAM G in states?",
-    "options": ["Local Self-Government bodies", "Judiciary", "Private sector corporations", "International NGOs"],
-    "correctAnswer": "Local Self-Government bodies"
+    "question": "What percentage of the skill development targets for persons with disabilities was flagged as unachieved by a parliamentary panel, impacting state-level programs in Telangana?",
+    "options": ["Even 25%", "Over 50%", "Exactly 75%", "Nearly 100%"],
+    "correctAnswer": "Even 25%"
   },
   {
     "id": 16,
-    "question": "On what critical issue related to medical admissions are various states reportedly ignoring Supreme Court directives and differing on norms?",
-    "options": ["MBBS admission fees", "NEET-UG counseling dates", "NEET-PG seat norms", "Private medical college accreditation"],
-    "correctAnswer": "NEET-PG seat norms"
+    "question": "The parliamentary panel urged for a stronger, industry-integrated strategy to enhance which outcome for persons with disabilities in states like Andhra Pradesh?",
+    "options": ["Academic qualifications", "Employment results", "Sports achievements", "Artistic skills"],
+    "correctAnswer": "Employment results"
   },
   {
     "id": 17,
-    "question": "The NEET-PG exam serves as the entrance gateway for admissions into which category of medical courses?",
-    "options": ["Undergraduate medical courses", "Post-graduate medical courses", "Diploma in medical sciences", "Paramedical courses"],
-    "correctAnswer": "Post-graduate medical courses"
+    "question": "Which central government department acknowledged suggestions regarding the skill development program for persons with disabilities, which is implemented in states like Telangana?",
+    "options": ["Ministry of Finance", "Department of Empowerment of Persons with Disabilities", "Ministry of Health and Family Welfare", "Ministry of Rural Development"],
+    "correctAnswer": "Department of Empowerment of Persons with Disabilities"
   },
   {
     "id": 18,
-    "question": "The differing stand of states on NEET-PG seat norms has significant implications for which aspect of medical education in states like Andhra Pradesh and Telangana?",
-    "options": ["Construction of new medical colleges", "Availability and allocation of medical postgraduate seats", "Development of medical research facilities", "International exchange programs for medical students"],
-    "correctAnswer": "Availability and allocation of medical postgraduate seats"
+    "question": "Given the medical device industry's call for a separate regulatory body, how might this impact the growth and regulation of medical device manufacturing zones, such as the Andhra Pradesh MedTech Zone (AMTZ) in Visakhapatnam?",
+    "options": ["It would primarily affect agricultural exports.", "It could streamline regulatory processes and foster investment in such specialized zones.", "It would lead to the closure of existing manufacturing units.", "It is unrelated to regional manufacturing."],
+    "correctAnswer": "It could streamline regulatory processes and foster investment in such specialized zones."
   },
   {
     "id": 19,
-    "question": "Which judicial authority's norms are states reportedly diverging from regarding NEET-PG seat allocations?",
-    "options": ["High Courts", "District Courts", "Supreme Court", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "The push for a separate regulatory body for medical devices aims to streamline the industry. This could potentially benefit states like Telangana by fostering which type of investment in the healthcare sector?",
+    "options": ["Investment in traditional medicine only", "Investment in medical device manufacturing and R&D", "Investment in pharmaceutical marketing", "Investment in hospital food services"],
+    "correctAnswer": "Investment in medical device manufacturing and R&D"
   },
   {
     "id": 20,
-    "question": "Beyond central guidelines, what local factor often plays a key role in determining NEET-PG seat allocation within state-run medical colleges in states such as Andhra Pradesh and Telangana?",
-    "options": ["Religious affiliations", "Domicile rules and state quotas", "Student's extracurricular activities", "Age of the applicant"],
-    "correctAnswer": "Domicile rules and state quotas"
+    "question": "What is one prominent port in Andhra Pradesh associated with the Adani Group, mentioned in the context of their national and international operations?",
+    "options": ["Gangavaram Port", "Visakhapatnam Port", "Chennai Port", "Kandla Port"],
+    "correctAnswer": "Gangavaram Port"
   },
   {
     "id": 21,
-    "question": "The Vice President flagging off the Tiranga bike rally (Headline 1) and national discussions on delimitation (Headline 2) both underscore the importance of which principle in the Indian federal structure, impacting all states including Telangana and Andhra Pradesh?",
-    "options": ["Unitary governance", "Centralization of powers", "Federalism and Centre-State relations", "Monarchical rule"],
-    "correctAnswer": "Federalism and Centre-State relations"
+    "question": "The Adani Group's involvement in various sectors, including ports and power projects in Andhra Pradesh, impacts which key aspect of the state's economy?",
+    "options": ["Agricultural subsidies", "Infrastructure development and industrial growth", "Folk art promotion", "Primary education"],
+    "correctAnswer": "Infrastructure development and industrial growth"
   },
   {
     "id": 22,
-    "question": "The medical device industry's call for a separate regulatory body (Headline 3) can have implications for healthcare infrastructure and access to medical technology across Indian states. Which state, including Telangana, is often recognized as a hub for pharmaceuticals and medical technology R&D, potentially impacting such policy discussions?",
-    "options": ["Bihar", "Uttar Pradesh", "Telangana", "Rajasthan"],
-    "correctAnswer": "Telangana"
+    "question": "The Tiranga bike rally, flagged off by the Vice President, emphasized national unity. In the context of India's federal structure, how does this sentiment apply to the relationship between the Centre and states like Andhra Pradesh and Telangana?",
+    "options": ["It promotes complete autonomy for states.", "It underscores the importance of cooperative federalism and national integration.", "It encourages states to form independent policies without central input.", "It suggests a unitary form of government."],
+    "correctAnswer": "It underscores the importance of cooperative federalism and national integration."
   },
   {
     "id": 23,
-    "question": "The 'delimitation row' (Headline 2), while concerning Lok Sabha seats, fundamentally impacts the balance of political power and representation among different states based on which demographic factor?",
-    "options": ["Literacy rates", "Economic growth", "Population growth", "Geographical area"],
-    "correctAnswer": "Population growth"
+    "question": "The national debate surrounding NEET exams, highlighted by protests and discussions, raises concerns for students across India. What is a common challenge students from states like Andhra Pradesh and Telangana face regarding competitive medical entrance exams?",
+    "options": ["Lack of interest in medical careers", "Scarcity of coaching centers in major cities", "Intense competition for a limited number of seats", "High tuition fees in government colleges"],
+    "correctAnswer": "Intense competition for a limited number of seats"
   },
   {
     "id": 24,
-    "question": "In the context of skill development initiatives (Headline 6) for specific groups like persons with disabilities, what key challenge often faces states like Andhra Pradesh and Telangana during implementation?",
-    "options": ["Lack of suitable land for training centers", "Insufficient participation from international organizations", "Effective ground-level implementation and funding", "Over-reliance on digital platforms"],
-    "correctAnswer": "Effective ground-level implementation and funding"
+    "question": "The 'VB G RAM G' initiative, boosting rural employment in states like Andhra Pradesh and Telangana, is explicitly part of a larger national vision. What is this broader national vision that aims for India's comprehensive development by 2047?",
+    "options": ["Digital India", "Make in India", "Viksit Bharat@2047", "Startup India"],
+    "correctAnswer": "Viksit Bharat@2047"
   },
   {
     "id": 25,
-    "question": "The differing stances of states on NEET-PG seat norms (Headline 8) exemplify a broader challenge in Indian federalism related to the balance between central guidelines and state autonomy in which sector?",
-    "options": ["Defense", "Foreign Policy", "Education and Healthcare", "Taxation"],
-    "correctAnswer": "Education and Healthcare"
+    "question": "The skill development action plan for persons with disabilities, implemented through various state agencies in Telangana and Andhra Pradesh, aims to achieve what primary goal for these individuals?",
+    "options": ["Providing free education up to university level", "Enhancing their employability and economic independence", "Offering free healthcare services for life", "Granting direct cash transfers without training"],
+    "correctAnswer": "Enhancing their employability and economic independence"
   }
 ]

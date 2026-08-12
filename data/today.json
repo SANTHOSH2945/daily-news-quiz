@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which state's Chief Minister recently moved a resolution in the Assembly to freeze Lok Sabha seats at 543 amidst the national delimitation row?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Kerala"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What major issue triggered the recent nationwide crisis regarding the NEET examination, impacting aspiring medical students including those from Telangana and Andhra Pradesh?",
+    "options": ["Change in exam pattern", "Leaked question paper", "Increase in application fees", "Shortage of exam centers"],
+    "correctAnswer": "Leaked question paper"
   },
   {
     "id": 2,
-    "question": "What is the primary concern raised by Andhra Pradesh's Chief Minister regarding the potential impact of future delimitation on the state's Lok Sabha representation?",
-    "options": ["Increase in Rajya Sabha seats", "Decrease in political influence due to population control efforts", "Relocation of the state capital", "Changes in MLA constituencies"],
-    "correctAnswer": "Decrease in political influence due to population control efforts"
+    "question": "Following the NEET crisis and related allegations, which prominent Union Minister resigned from their post, a decision that affects national education policy for states like Andhra Pradesh and Telangana?",
+    "options": ["Finance Minister", "Home Minister", "Education Minister", "Health Minister"],
+    "correctAnswer": "Education Minister"
   },
   {
     "id": 3,
-    "question": "The resolution moved by CM Jagan Mohan Reddy regarding Lok Sabha seats emphasizes freezing the number at what specific figure?",
-    "options": ["600", "543", "450", "700"],
-    "correctAnswer": "543"
+    "question": "What type of national entrance examination has been the subject of widespread student protests and parliamentary debate across India, including significant concern among students in Andhra Pradesh and Telangana?",
+    "options": ["UPSC Civil Services Exam", "JEE Main", "NEET", "CLAT"],
+    "correctAnswer": "NEET"
   },
   {
     "id": 4,
-    "question": "Why might states like Telangana, which have shown successful population stabilization efforts, be particularly interested in the debate surrounding the freezing of Lok Sabha seats?",
-    "options": ["To gain more Rajya Sabha seats", "To avoid penalization for lower population growth with reduced parliamentary representation", "To increase their share of central funds", "To promote inter-state migration"],
-    "correctAnswer": "To avoid penalization for lower population growth with reduced parliamentary representation"
+    "question": "Union Home Minister Amit Shah recently wrote to the Lok Sabha Speaker requesting a debate on which national issue that has caused distress among students nationwide, including those from Telangana and Andhra Pradesh?",
+    "options": ["Farmers' protests", "Economic slowdown", "NEET protest", "Railway safety"],
+    "correctAnswer": "NEET protest"
   },
   {
     "id": 5,
-    "question": "The delimitation process, which could be impacted by the resolution moved by the AP CM, primarily aims to redraw boundaries for which legislative bodies?",
-    "options": ["State Legislative Councils", "Gram Panchayats and Municipalities", "Lok Sabha and State Legislative Assemblies", "Rajya Sabha"],
-    "correctAnswer": "Lok Sabha and State Legislative Assemblies"
+    "question": "Regarding the Union Home Minister's offer for a parliamentary discussion on student protests, what was the general sentiment expressed by opposition leader Rahul Gandhi, reflecting national political discourse relevant to all states?",
+    "options": ["Welcomed the offer", "Demanded more time", "Rejected the offer demanding accountability", "Proposed a joint committee"],
+    "correctAnswer": "Rejected the offer demanding accountability"
   },
   {
     "id": 6,
-    "question": "Regarding NEET-PG admissions, what is the core issue on which various Indian states, including Andhra Pradesh and Telangana, are reportedly differing from the Supreme Court's directives?",
-    "options": ["The language of the examination", "The fee structure for private colleges", "The reservation policies and domicile criteria for seat allocation", "The number of examination attempts allowed"],
-    "correctAnswer": "The reservation policies and domicile criteria for seat allocation"
+    "question": "The news highlights a long-standing challenge in India's education system, where millions chase a small pool of prized seats for medical and engineering, a situation acutely felt by students in Telangana and Andhra Pradesh. What is this phenomenon often associated with?",
+    "options": ["Lack of interest in higher education", "Abundance of job opportunities", "Intense competition for limited seats", "High quality of all available seats"],
+    "correctAnswer": "Intense competition for limited seats"
   },
   {
     "id": 7,
-    "question": "The divergence of states like Telangana from national NEET-PG seat norms primarily impacts which aspect of medical education?",
-    "options": ["Undergraduate admissions", "Postgraduate medical seat distribution", "Medical research funding", "Paramedical courses"],
-    "correctAnswer": "Postgraduate medical seat distribution"
+    "question": "Despite millions vying for limited medical and engineering seats, the news also points out what paradoxical situation within the Indian education system, relevant to states like Andhra Pradesh and Telangana?",
+    "options": ["Thousands of other seats going empty", "Decrease in coaching institutes", "Reduction in exam difficulty", "Increase in government funding for all seats"],
+    "correctAnswer": "Thousands of other seats going empty"
   },
   {
     "id": 8,
-    "question": "What kind of legal body's directives are states, including Andhra Pradesh, reportedly ignoring or differing from concerning NEET-PG seat allocation?",
-    "options": ["High Courts", "National Medical Commission (NMC)", "Supreme Court of India", "Medical Council of India (MCI)"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "The article references a popular Bollywood movie and coaching city to illustrate the fierce competition for medical/engineering seats. Which movie and city are commonly associated with this narrative in India, including for students from AP/Telangana?",
+    "options": ["Lagaan and Mumbai", "3 Idiots and Kota", "Dangal and Delhi", "Swades and Pune"],
+    "correctAnswer": "3 Idiots and Kota"
   },
   {
     "id": 9,
-    "question": "The differing NEET-PG seat norms could potentially create disparities for medical aspirants seeking postgraduate seats in which states, including Andhra Pradesh?",
-    "options": ["Only northern states", "All Indian states with medical colleges", "Primarily Union Territories", "Only states without their own entrance exams"],
-    "correctAnswer": "All Indian states with medical colleges"
+    "question": "Amit Shah proposed sitting in Parliament for how long to address concerns regarding the NEET protests, affecting students across India including Telangana and Andhra Pradesh?",
+    "options": ["One hour", "From today until tomorrow", "For the entire week", "Until the end of the session"],
+    "correctAnswer": "From today until tomorrow"
   },
   {
     "id": 10,
-    "question": "What is the full form of the 'VB G RAM G' scheme, a national initiative generating person-days in rural areas, also being implemented in Telangana and Andhra Pradesh?",
-    "options": ["Viksit Bharat Gramin Rozgar Abhiyan for Manufacturing & Generation of Rural Assets", "Village Bharat Green Rural Asset Management Growth", "Voluntary Basic Grant for Rural Area Modernization Goals", "Visionary Bhaarat Growth & Rural Action Mission Grant"],
-    "correctAnswer": "Viksit Bharat Gramin Rozgar Abhiyan for Manufacturing & Generation of Rural Assets"
+    "question": "The opposition's rejection of Amit Shah's offer to debate NEET protests was primarily driven by a demand for what, beyond just a lecture? (A national political demand relevant to citizen concerns in all states, including AP/Telangana)",
+    "options": ["A new exam body", "Direct financial compensation", "Accountability for alleged police actions", "International intervention"],
+    "correctAnswer": "Accountability for alleged police actions"
   },
   {
     "id": 11,
-    "question": "The 'VB G RAM G' scheme, which generated over 9.69 crore person-days nationally, primarily focuses on boosting employment in which sector within states like Andhra Pradesh?",
-    "options": ["Urban IT sector", "Rural areas and manufacturing/asset generation", "Space technology", "Financial services"],
-    "correctAnswer": "Rural areas and manufacturing/asset generation"
+    "question": "The proposed FCRA legislation, currently under parliamentary discussion, aims to address what specific aspect related to organizations operating across India, including Telangana and Andhra Pradesh?",
+    "options": ["Regulation of domestic business funds", "Management of foreign funding to NGOs", "Taxation of charitable donations", "Allocation of government grants"],
+    "correctAnswer": "Management of foreign funding to NGOs"
   },
   {
     "id": 12,
-    "question": "How many person-days were generated nationally within a month of the 'VB G RAM G' scheme's rollout, contributing to rural employment in states like Telangana?",
-    "options": ["Over 5 crore", "Over 9.69 crore", "Approximately 15 crore", "Less than 1 crore"],
-    "correctAnswer": "Over 9.69 crore"
+    "question": "Union Minister Kiren Rijiju emphasized the importance of FCRA, stating that India was not a 'banana republic' and needed rules for spending foreign funds. What was the core message behind this statement regarding governance for all states like AP/Telangana?",
+    "options": ["To encourage more foreign investment", "To assert national sovereignty and regulatory control", "To discourage all forms of foreign aid", "To promote unrestricted funding for NGOs"],
+    "correctAnswer": "To assert national sovereignty and regulatory control"
   },
   {
     "id": 13,
-    "question": "Beyond employment generation, what other key objective does the 'VB G RAM G' scheme aim to achieve in rural areas of states like Andhra Pradesh?",
-    "options": ["Promoting digital literacy in urban centers", "Creation of rural assets and infrastructure", "Boosting international tourism", "Regulating financial markets"],
-    "correctAnswer": "Creation of rural assets and infrastructure"
+    "question": "One of the stated aims of the FCRA Bill, which could affect religious organizations and NGOs in states like Telangana and Andhra Pradesh, is to curb what activity?",
+    "options": ["Environmental activism", "Political lobbying", "Proselytisation", "Cultural exchange programs"],
+    "correctAnswer": "Proselytisation"
   },
   {
     "id": 14,
-    "question": "A parliamentary panel highlighted a significant shortfall in skill development targets for which specific demographic group across India, including in Andhra Pradesh and Telangana?",
-    "options": ["Unemployed youth", "Women entrepreneurs", "Persons with disabilities", "Senior citizens"],
-    "correctAnswer": "Persons with disabilities"
+    "question": "The FCRA Bill has faced fierce criticism from the opposition, which has termed it as what, raising concerns among various groups, including those in Andhra Pradesh and Telangana?",
+    "options": ["Pro-business", "Anti-minority", "Economic reform", "Pro-development"],
+    "correctAnswer": "Anti-minority"
   },
   {
     "id": 15,
-    "question": "What percentage of the skill development targets for persons with disabilities was flagged as unachieved by a parliamentary panel, impacting state-level programs in Telangana?",
-    "options": ["Even 25%", "Over 50%", "Exactly 75%", "Nearly 100%"],
-    "correctAnswer": "Even 25%"
+    "question": "Amidst opposition ruckus, the FCRA Bill was recently sent to which parliamentary body for further review and discussion? (A standard legislative process impacting national laws relevant to states like AP/Telangana)",
+    "options": ["Standing Committee on Finance", "Joint Parliamentary Committee", "Estimates Committee", "Public Accounts Committee"],
+    "correctAnswer": "Joint Parliamentary Committee"
   },
   {
     "id": 16,
-    "question": "The parliamentary panel urged for a stronger, industry-integrated strategy to enhance which outcome for persons with disabilities in states like Andhra Pradesh?",
-    "options": ["Academic qualifications", "Employment results", "Sports achievements", "Artistic skills"],
-    "correctAnswer": "Employment results"
+    "question": "What specific gap in regulation did the proposed FCRA legislation aim to manage, impacting NGOs operating nationwide, including in Telangana and Andhra Pradesh?",
+    "options": ["Regulation of government grants", "Regulation of corporate social responsibility (CSR) funds", "Regulation of foreign fundings to NGOs", "Regulation of domestic private donations"],
+    "correctAnswer": "Regulation of foreign fundings to NGOs"
   },
   {
     "id": 17,
-    "question": "Which central government department acknowledged suggestions regarding the skill development program for persons with disabilities, which is implemented in states like Telangana?",
-    "options": ["Ministry of Finance", "Department of Empowerment of Persons with Disabilities", "Ministry of Health and Family Welfare", "Ministry of Rural Development"],
-    "correctAnswer": "Department of Empowerment of Persons with Disabilities"
+    "question": "Which Union Minister moved the motion for the FCRA Bill in the Lok Sabha? (Identifying key political figures involved in national legislation relevant to all states)",
+    "options": ["Amit Shah", "Kiren Rijiju", "Nityanand Rai", "Nirmala Sitharaman"],
+    "correctAnswer": "Nityanand Rai"
   },
   {
     "id": 18,
-    "question": "Given the medical device industry's call for a separate regulatory body, how might this impact the growth and regulation of medical device manufacturing zones, such as the Andhra Pradesh MedTech Zone (AMTZ) in Visakhapatnam?",
-    "options": ["It would primarily affect agricultural exports.", "It could streamline regulatory processes and foster investment in such specialized zones.", "It would lead to the closure of existing manufacturing units.", "It is unrelated to regional manufacturing."],
-    "correctAnswer": "It could streamline regulatory processes and foster investment in such specialized zones."
+    "question": "The FCRA legislation deals with the flow of what kind of funds into India, affecting various organizations including charitable trusts and NGOs in states like Telangana and Andhra Pradesh?",
+    "options": ["State government funds", "Foreign funds", "Private individual donations", "Corporate dividends"],
+    "correctAnswer": "Foreign funds"
   },
   {
     "id": 19,
-    "question": "The push for a separate regulatory body for medical devices aims to streamline the industry. This could potentially benefit states like Telangana by fostering which type of investment in the healthcare sector?",
-    "options": ["Investment in traditional medicine only", "Investment in medical device manufacturing and R&D", "Investment in pharmaceutical marketing", "Investment in hospital food services"],
-    "correctAnswer": "Investment in medical device manufacturing and R&D"
+    "question": "The government's stance on the FCRA Bill, as expressed by ministers, suggests a belief in the necessity of what regarding foreign funds, a policy impacting organizations in all states, including AP/Telangana?",
+    "options": ["Complete abolition", "Unrestricted flow", "Strict rules and regulations", "Decentralized management"],
+    "correctAnswer": "Strict rules and regulations"
   },
   {
     "id": 20,
-    "question": "What is one prominent port in Andhra Pradesh associated with the Adani Group, mentioned in the context of their national and international operations?",
-    "options": ["Gangavaram Port", "Visakhapatnam Port", "Chennai Port", "Kandla Port"],
-    "correctAnswer": "Gangavaram Port"
+    "question": "The movement of the FCRA Bill in the Lok Sabha was characterized by what specific atmosphere? (Describes the legislative environment impacting national policy)",
+    "options": ["Unanimous approval", "Peaceful debate", "Opposition ruckus", "Quick passage"],
+    "correctAnswer": "Opposition ruckus"
   },
   {
     "id": 21,
-    "question": "The Adani Group's involvement in various sectors, including ports and power projects in Andhra Pradesh, impacts which key aspect of the state's economy?",
-    "options": ["Agricultural subsidies", "Infrastructure development and industrial growth", "Folk art promotion", "Primary education"],
-    "correctAnswer": "Infrastructure development and industrial growth"
+    "question": "Beyond the recent NEET crisis, the difficulty highlighted in the news for aspiring doctors and engineers reflects a broader national challenge regarding access to quality higher education and competitive opportunities for youth, a concern shared by families in Telangana and Andhra Pradesh. What is this fundamental challenge?",
+    "options": ["Lack of student ambition", "Abundant and easily accessible higher education", "Disparity between demand and availability of prized professional seats", "Over-regulation of private universities"],
+    "correctAnswer": "Disparity between demand and availability of prized professional seats"
   },
   {
     "id": 22,
-    "question": "The Tiranga bike rally, flagged off by the Vice President, emphasized national unity. In the context of India's federal structure, how does this sentiment apply to the relationship between the Centre and states like Andhra Pradesh and Telangana?",
-    "options": ["It promotes complete autonomy for states.", "It underscores the importance of cooperative federalism and national integration.", "It encourages states to form independent policies without central input.", "It suggests a unitary form of government."],
-    "correctAnswer": "It underscores the importance of cooperative federalism and national integration."
+    "question": "Kiren Rijiju's statement 'India not a banana republic' in the context of FCRA emphasizes the government's commitment to which principle in national governance, important for all states like Andhra Pradesh and Telangana?",
+    "options": ["Absolute deregulation", "Lack of accountability", "Rule of law and sovereign control", "Complete reliance on foreign aid"],
+    "correctAnswer": "Rule of law and sovereign control"
   },
   {
     "id": 23,
-    "question": "The national debate surrounding NEET exams, highlighted by protests and discussions, raises concerns for students across India. What is a common challenge students from states like Andhra Pradesh and Telangana face regarding competitive medical entrance exams?",
-    "options": ["Lack of interest in medical careers", "Scarcity of coaching centers in major cities", "Intense competition for a limited number of seats", "High tuition fees in government colleges"],
-    "correctAnswer": "Intense competition for a limited number of seats"
+    "question": "The recent parliamentary discussions concerning the NEET protests and the FCRA Bill exemplify the role of the Indian Parliament in addressing what kind of issues affecting the nation, including its constituent states like Telangana and Andhra Pradesh?",
+    "options": ["Local municipal disputes", "National policy and public grievances", "International sports events", "Celebrity endorsements"],
+    "correctAnswer": "National policy and public grievances"
   },
   {
     "id": 24,
-    "question": "The 'VB G RAM G' initiative, boosting rural employment in states like Andhra Pradesh and Telangana, is explicitly part of a larger national vision. What is this broader national vision that aims for India's comprehensive development by 2047?",
-    "options": ["Digital India", "Make in India", "Viksit Bharat@2047", "Startup India"],
-    "correctAnswer": "Viksit Bharat@2047"
+    "question": "The controversy surrounding national entrance exams like NEET has a direct impact on the academic and career pathways of millions of students across India. In states like Telangana and Andhra Pradesh, what significant concern does this controversy raise for students and their families?",
+    "options": ["Reduced need for coaching", "Guaranteed admission", "Fairness and transparency of the admission process", "Easier syllabus"],
+    "correctAnswer": "Fairness and transparency of the admission process"
   },
   {
     "id": 25,
-    "question": "The skill development action plan for persons with disabilities, implemented through various state agencies in Telangana and Andhra Pradesh, aims to achieve what primary goal for these individuals?",
-    "options": ["Providing free education up to university level", "Enhancing their employability and economic independence", "Offering free healthcare services for life", "Granting direct cash transfers without training"],
-    "correctAnswer": "Enhancing their employability and economic independence"
+    "question": "The ongoing debate about regulating foreign funding to NGOs, as seen with the FCRA Bill, reflects a national effort to ensure transparency and accountability in the utilization of such funds across all states, including where NGOs operate in Telangana and Andhra Pradesh. What is a primary objective of this regulatory effort?",
+    "options": ["To encourage indiscriminate foreign donations", "To remove all oversight on foreign funds", "To prevent misuse and ensure funds serve their intended purpose", "To promote informal funding channels"],
+    "correctAnswer": "To prevent misuse and ensure funds serve their intended purpose"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Indian government has notified a scheme for three mega chemical parks. What is the total outlay approved for this scheme?",
-    "options": ["Rs 2,000 crore", "Rs 3,030 crore", "Rs 4,500 crore", "Rs 1,500 crore"],
+    "question": "What is the total outlay for the new scheme notifying three mega chemical parks in India?",
+    "options": ["Rs 3,030 crore", "Rs 5,000 crore", "Rs 1,500 crore", "Rs 7,000 crore"],
     "correctAnswer": "Rs 3,030 crore"
   },
   {
     "id": 2,
-    "question": "The recently notified Rs 3,030-crore scheme aims for the establishment of how many mega chemical parks in India, which could potentially include suitable locations in Andhra Pradesh or Telangana?",
+    "question": "How many mega chemical parks are planned under the recently notified scheme by the Indian government?",
     "options": ["Two", "Three", "Four", "Five"],
     "correctAnswer": "Three"
   },
   {
     "id": 3,
-    "question": "Given Telangana's significant industrial presence, the newly notified national scheme for mega chemical parks primarily targets the development of which specific sector?",
-    "options": ["Textile manufacturing", "Chemical and Petrochemical", "Automobile components", "Information Technology"],
-    "correctAnswer": "Chemical and Petrochemical"
+    "question": "The scheme for mega chemical parks aims to boost which sector in India, potentially benefiting states like Andhra Pradesh and Telangana?",
+    "options": ["Textile manufacturing", "Automobile industry", "Chemical and petrochemical manufacturing", "Information Technology"],
+    "correctAnswer": "Chemical and petrochemical manufacturing"
   },
   {
     "id": 4,
-    "question": "If a mega chemical park were to be established in Andhra Pradesh under the new national scheme, which of the following regions, known for its port connectivity and industrial potential, would be a strong candidate?",
-    "options": ["Rayalaseema", "Amaravati region", "Visakhapatnam-Kakinada Petroleum, Chemical and Petrochemical Investment Region (PCPIR)", "North Coastal Andhra"],
-    "correctAnswer": "Visakhapatnam-Kakinada Petroleum, Chemical and Petrochemical Investment Region (PCPIR)"
+    "question": "Which Union Ministry is primarily responsible for implementing the scheme for mega chemical parks, given its focus?",
+    "options": ["Ministry of Commerce and Industry", "Ministry of Chemicals and Fertilizers", "Ministry of Finance", "Ministry of Environment, Forest and Climate Change"],
+    "correctAnswer": "Ministry of Chemicals and Fertilizers"
   },
   {
     "id": 5,
-    "question": "The Rs 3,030-crore scheme for mega chemical parks aims to boost domestic manufacturing and reduce import dependency. This initiative aligns with industrial growth goals in states like Telangana, particularly benefiting its existing pharmaceutical and chemical clusters located near cities like?",
-    "options": ["Warangal", "Nalgonda", "Hyderabad", "Karimnagar"],
-    "correctAnswer": "Hyderabad"
+    "question": "The establishment of mega chemical parks across India, including potential sites in states like Telangana and Andhra Pradesh, is intended to primarily enhance which aspect of the chemical industry?",
+    "options": ["Import dependency", "Technological obsolescence", "Domestic production and competitiveness", "Labor union power"],
+    "correctAnswer": "Domestic production and competitiveness"
   },
   {
     "id": 6,
-    "question": "What is the primary objective of the Indian government's scheme to establish three mega chemical parks, which could catalyze industrial development in states such as Telangana and Andhra Pradesh?",
-    "options": ["Promote agricultural exports", "Strengthen the domestic chemical and petrochemical industry", "Develop renewable energy infrastructure", "Enhance IT services exports"],
-    "correctAnswer": "Strengthen the domestic chemical and petrochemical industry"
+    "question": "According to a UNSC report, which organization was identified as being behind the Red Fort blast in 2025?",
+    "options": ["Lashkar-e-Taiba", "Jaish-e-Mohammed", "Al-Qaida offshoot AQIS", "Indian Mujahideen"],
+    "correctAnswer": "Al-Qaida offshoot AQIS"
   },
   {
     "id": 7,
-    "question": "The Supreme Court has recently urged how many states and union territories across India, including Telangana and Andhra Pradesh, to officially notify cancer as a reportable disease?",
-    "options": ["10", "19", "25", "36"],
-    "correctAnswer": "19"
+    "question": "In which specific year did the Red Fort blast, attributed to AQIS by a UNSC report, reportedly take place?",
+    "options": ["2023", "2024", "2025", "2026"],
+    "correctAnswer": "2025"
   },
   {
     "id": 8,
-    "question": "The Supreme Court's directive for states like Andhra Pradesh to notify cancer primarily aims to improve what aspect of public health?",
-    "options": ["Patient treatment protocols", "Data collection and surveillance for cancer cases", "Availability of cancer specialists", "Funding for cancer research"],
-    "correctAnswer": "Data collection and surveillance for cancer cases"
+    "question": "Priyank Kharge recently raised concerns regarding the 'Har Ghar Tiranga' campaign, questioning the preference for which flag?",
+    "options": ["The Bhagwa Dhwaj", "The Karnataka State Flag", "The Indian National Congress Flag", "The United Nations Flag"],
+    "correctAnswer": "The Bhagwa Dhwaj"
   },
   {
     "id": 9,
-    "question": "For states such as Telangana, what does the Supreme Court's mandate to 'notify cancer' entail?",
-    "options": ["Mandatory cancer screening for all citizens", "Making cancer a communicable disease", "Legal requirement for healthcare providers to report all diagnosed cancer cases to authorities", "Setting up new cancer hospitals"],
-    "correctAnswer": "Legal requirement for healthcare providers to report all diagnosed cancer cases to authorities"
+    "question": "The 'Har Ghar Tiranga' campaign, which drew criticism from Priyank Kharge, is primarily associated with promoting which national symbol?",
+    "options": ["The National Emblem", "The National Anthem", "The National Flag", "The National Animal"],
+    "correctAnswer": "The National Flag"
   },
   {
     "id": 10,
-    "question": "Which judicial body issued the recent directive pushing 19 states and UTs, including Telangana and Andhra Pradesh, to officially notify cancer?",
-    "options": ["High Courts of respective states", "National Green Tribunal", "Supreme Court of India", "NITI Aayog"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "The Supreme Court recently directed how many states and Union Territories to notify cancer as a public health concern?",
+    "options": ["10", "15", "19", "25"],
+    "correctAnswer": "19"
   },
   {
     "id": 11,
-    "question": "The Supreme Court's push for cancer notification in states like Andhra Pradesh is crucial for effective policymaking regarding which disease?",
-    "options": ["Diabetes", "Tuberculosis", "Cancer", "Malaria"],
-    "correctAnswer": "Cancer"
+    "question": "What specific action is the Supreme Court pushing states like Andhra Pradesh and Telangana to undertake regarding cancer?",
+    "options": ["To establish new cancer hospitals", "To increase funding for cancer research", "To notify cancer as a reportable disease", "To provide free cancer treatment"],
+    "correctAnswer": "To notify cancer as a reportable disease"
   },
   {
     "id": 12,
-    "question": "Why is the Supreme Court's directive to notify cancer significant for public health planning in states like Telangana?",
-    "options": ["It reduces treatment costs for patients.", "It allows for better understanding of disease prevalence and resource allocation.", "It criminalizes non-reporting of cancer cases.", "It mandates private hospitals to provide free treatment."],
-    "correctAnswer": "It allows for better understanding of disease prevalence and resource allocation."
+    "question": "The Supreme Court's push for states to notify cancer aims to improve which crucial aspect of public health?",
+    "options": ["Insurance coverage for cancer patients", "Early detection campaigns", "Data collection and disease surveillance", "Availability of oncology specialists"],
+    "correctAnswer": "Data collection and disease surveillance"
   },
   {
     "id": 13,
-    "question": "Which national regulatory body has recently issued a notice to influencers and celebrities regarding compliance with norms for food product promotions?",
-    "options": ["SEBI", "RBI", "FSSAI", "TRAI"],
-    "correctAnswer": "FSSAI"
+    "question": "Why is the notification of cancer by states, as pushed by the Supreme Court, considered crucial for effective public health policy and resource allocation?",
+    "options": ["To encourage private hospitals to offer cheaper treatment", "To accurately assess disease burden and plan interventions", "To attract foreign aid for cancer treatment", "To promote alternative medicine practices"],
+    "correctAnswer": "To accurately assess disease burden and plan interventions"
   },
   {
     "id": 14,
-    "question": "The FSSAI's action concerning food promotions aims to ensure what in advertising practices across states like Andhra Pradesh?",
-    "options": ["Higher marketing budgets for food companies", "Transparency and accuracy in claims made by influencers", "Increased celebrity endorsements", "Reduced prices for food products"],
-    "correctAnswer": "Transparency and accuracy in claims made by influencers"
+    "question": "States such as Telangana and Andhra Pradesh, if among the 19, are expected to implement Supreme Court directives regarding what health issue?",
+    "options": ["Diabetes management", "Tuberculosis eradication", "Cancer notification", "Maternal mortality rates"],
+    "correctAnswer": "Cancer notification"
   },
   {
     "id": 15,
-    "question": "The FSSAI's scrutiny on food promotions impacts marketing strategies in Telangana by focusing on which specific type of endorsements?",
-    "options": ["Government-sponsored health campaigns", "Food promotions by social media influencers and celebrities", "Advertisements for essential commodities", "Promotions for organic farming products"],
-    "correctAnswer": "Food promotions by social media influencers and celebrities"
+    "question": "Which regulatory body recently put influencers and celebrities on notice regarding misleading food promotions in India?",
+    "options": ["RBI (Reserve Bank of India)", "SEBI (Securities and Exchange Board of India)", "FSSAI (Food Safety and Standards Authority of India)", "TRAI (Telecom Regulatory Authority of India)"],
+    "correctAnswer": "FSSAI (Food Safety and Standards Authority of India)"
   },
   {
     "id": 16,
-    "question": "The FSSAI, which regulates food safety standards across India and impacts consumers in states like Andhra Pradesh and Telangana, stands for what?",
-    "options": ["Food Safety and Standard Authority of India", "Federal System for Safe Agriculture and Industry", "Food Security and Sanitation Act of India", "Financial Services and Safety Assessment Institute"],
-    "correctAnswer": "Food Safety and Standard Authority of India"
+    "question": "The FSSAI's recent action against influencers and celebrities targets what specific issue in food advertising, applicable across states like Telangana and Andhra Pradesh?",
+    "options": ["Promoting healthy eating habits", "Misleading and deceptive food promotions", "Endorsing international food brands", "Highlighting food safety standards"],
+    "correctAnswer": "Misleading and deceptive food promotions"
   },
   {
     "id": 17,
-    "question": "The FSSAI's latest directive to influencers aims to address the core issue of potentially misleading or unsubstantiated claims in food promotions, which is vital for consumer protection in states like Telangana. What is the main concern?",
-    "options": ["Lack of promotional content", "Excessive pricing of advertised products", "Misleading health claims and non-disclosure of material connections", "Insufficient variety of food products promoted"],
-    "correctAnswer": "Misleading health claims and non-disclosure of material connections"
+    "question": "The Food Safety and Standards Authority of India (FSSAI) operates under which central ministry?",
+    "options": ["Ministry of Health and Family Welfare", "Ministry of Consumer Affairs, Food and Public Distribution", "Ministry of Commerce and Industry", "Ministry of Agriculture and Farmers' Welfare"],
+    "correctAnswer": "Ministry of Health and Family Welfare"
   },
   {
     "id": 18,
-    "question": "A panel has recommended utilizing funds generated from which specific sector to provide medical treatment for poor Indians?",
-    "options": ["Ayurveda tourism", "Adventure tourism", "Medical tourism", "Spiritual tourism"],
-    "correctAnswer": "Medical tourism"
+    "question": "What is the primary objective of FSSAI's directive concerning celebrity and influencer endorsements of food products, applicable across states like Andhra Pradesh and Telangana?",
+    "options": ["To increase sales of organic food", "To ensure consumer protection and prevent misinformation", "To promote local culinary traditions", "To regulate celebrity income from endorsements"],
+    "correctAnswer": "To ensure consumer protection and prevent misinformation"
   },
   {
     "id": 19,
-    "question": "Hyderabad in Telangana is a prominent hub for medical tourism. The recent panel recommendation proposes using revenues from medical tourists to support which vulnerable section of the population?",
-    "options": ["Students pursuing medical education", "Healthcare workers' welfare funds", "Poor Indian citizens requiring medical treatment", "Foreign patients seeking specialized care"],
-    "correctAnswer": "Poor Indian citizens requiring medical treatment"
+    "question": "A recent panel recommended using funds generated from which group to provide treatment for poor Indians?",
+    "options": ["Foreign investors", "Corporate CSR initiatives", "Medical tourists", "Non-resident Indians"],
+    "correctAnswer": "Medical tourists"
   },
   {
     "id": 20,
-    "question": "The proposal to use medical tourists' money for treating poor Indians aims to bridge the healthcare access gap and address disparities in which sector across states like Andhra Pradesh and Telangana?",
-    "options": ["Education sector", "Infrastructure sector", "Public healthcare sector", "Agricultural sector"],
-    "correctAnswer": "Public healthcare sector"
+    "question": "The proposal to use medical tourists' money for treating poor Indians aims to address which socio-economic challenge?",
+    "options": ["Lack of healthcare access for the underprivileged", "Shortage of medical professionals", "High cost of medical education", "Brain drain of doctors"],
+    "correctAnswer": "Lack of healthcare access for the underprivileged"
   },
   {
     "id": 21,
-    "question": "What is the primary recommendation put forth by a panel concerning the utilization of funds from the medical tourism sector in India, impacting states with major medical facilities like Telangana?",
-    "options": ["To invest all medical tourism funds into private hospitals.", "To use medical tourism revenue to subsidize treatment for economically disadvantaged Indian citizens.", "To reduce taxes on medical tourism services.", "To allocate funds exclusively for promoting medical tourism abroad."],
-    "correctAnswer": "To use medical tourism revenue to subsidize treatment for economically disadvantaged Indian citizens."
+    "question": "This recommendation could potentially benefit public health infrastructure and services in states that are hubs for medical tourism, such as which major South Indian city and its surrounding state known for its medical facilities?",
+    "options": ["Bengaluru, Karnataka", "Chennai, Tamil Nadu", "Hyderabad, Telangana", "Kochi, Kerala"],
+    "correctAnswer": "Hyderabad, Telangana"
   },
   {
     "id": 22,
-    "question": "Which national postgraduate medical entrance examination recently experienced a technical glitch, leading to aspirants receiving incorrect SMS alerts about their allotted examination cities?",
-    "options": ["JEE Advanced", "UPSC Civil Services Exam", "NEET-PG", "GATE"],
-    "correctAnswer": "NEET-PG"
+    "question": "What is the primary source of funds a panel recommended leveraging to improve healthcare access for poor Indians?",
+    "options": ["Government subsidies", "Donations from philanthropists", "Revenue from international patients seeking medical treatment in India", "Lottery proceeds"],
+    "correctAnswer": "Revenue from international patients seeking medical treatment in India"
   },
   {
     "id": 23,
-    "question": "Aspirants from Telangana and Andhra Pradesh for the NEET-PG 2026 examination faced issues due to a glitch from which specific body responsible for conducting the exam?",
-    "options": ["All India Council for Technical Education (AICTE)", "National Board of Examinations in Medical Sciences (NBEMS)", "University Grants Commission (UGC)", "Medical Council of India (MCI)"],
-    "correctAnswer": "National Board of Examinations in Medical Sciences (NBEMS)"
+    "question": "Which national examination's aspirants recently received incorrect SMS alerts regarding their exam cities due to a technical glitch from NBEMS?",
+    "options": ["JEE Main", "UPSC Civil Services", "NEET-PG", "CAT"],
+    "correctAnswer": "NEET-PG"
   },
   {
     "id": 24,
-    "question": "What specific error did NEET-PG aspirants across India, including those from Andhra Pradesh, report regarding their examination details after a technical glitch?",
-    "options": ["Incorrect exam date", "Wrong examination city in SMS alerts", "Missing admit card download link", "Incorrect subject codes"],
-    "correctAnswer": "Wrong examination city in SMS alerts"
+    "question": "The National Board of Examinations in Medical Sciences (NBEMS) experienced a glitch affecting which specific detail for NEET-PG 2026 aspirants across India, including those from Andhra Pradesh and Telangana?",
+    "options": ["Exam dates", "Exam fees", "Allotted examination cities", "Eligibility criteria"],
+    "correctAnswer": "Allotted examination cities"
   },
   {
     "id": 25,
-    "question": "Following the technical glitch where NEET-PG aspirants, including those from Telangana, received incorrect exam city texts, what were they officially advised to do by NBEMS?",
-    "options": ["Contact their respective state medical councils", "Rely on the initial SMS alert despite the error", "Verify their exam city details on the official NBEMS applicant portal and rely on corrected communications", "Appear for the exam at any city of their choice"],
-    "correctAnswer": "Verify their exam city details on the official NBEMS applicant portal and rely on corrected communications"
+    "question": "What advice did NBEMS give to NEET-PG aspirants, including those from Andhra Pradesh and Telangana, regarding the verification of their exam city details after the glitch?",
+    "options": ["To call the helpline immediately", "To wait for a newspaper announcement", "To rely only on corrected official SMSes and emails, and verify on the applicant portal", "To check social media for updates"],
+    "correctAnswer": "To rely only on corrected official SMSes and emails, and verify on the applicant portal"
   }
 ]

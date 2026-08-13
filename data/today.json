@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary central agency in India responsible for coordinating disaster response and relief operations during natural calamities like floods?",
-    "options": ["National Disaster Response Force (NDRF)", "State Disaster Response Fund (SDRF)", "Indian Meteorological Department (IMD)", "Central Industrial Security Force (CISF)"],
-    "correctAnswer": "National Disaster Response Force (NDRF)"
+    "question": "Which organization recently urged citizens to shun US brands amid tariff fears?",
+    "options": ["Confederation of Indian Industry", "Swadeshi Jagaran Manch", "FICCI", "NITI Aayog"],
+    "correctAnswer": "Swadeshi Jagaran Manch"
   },
   {
     "id": 2,
-    "question": "Which central act governs the overall framework for disaster management in India, including aspects of preparedness, response, and rehabilitation?",
-    "options": ["Environmental Protection Act", "Disaster Management Act", "National Security Act", "Epidemic Diseases Act"],
-    "correctAnswer": "Disaster Management Act"
+    "question": "The call to shun US brands by Swadeshi Jagaran Manch is primarily linked to concerns over what?",
+    "options": ["Environmental impact", "Tariff fears", "Labor exploitation", "Quality issues"],
+    "correctAnswer": "Tariff fears"
   },
   {
     "id": 3,
-    "question": "The Ministry of External Affairs (MEA) is primarily responsible for what aspect of India's governance?",
-    "options": ["Internal Security", "Financial Planning", "Foreign Relations", "Defense Procurement"],
-    "correctAnswer": "Foreign Relations"
+    "question": "The principle advocated by Swadeshi Jagaran Manch, as highlighted by their call to shun US brands, relates to which broader Indian movement?",
+    "options": ["Make in India initiative", "Atmanirbhar Bharat Abhiyan", "Swadeshi Movement", "Digital India Campaign"],
+    "correctAnswer": "Swadeshi Movement"
   },
   {
     "id": 4,
-    "question": "What is the primary role of the Lok Sabha during a parliamentary session in India?",
-    "options": ["Adjudicating legal disputes", "Passing laws and budgets", "Appointing state governors", "Conducting international diplomacy"],
-    "correctAnswer": "Passing laws and budgets"
+    "question": "The Supreme Court recently ordered a CBI probe into a custodial death in which Indian state?",
+    "options": ["Bihar", "Uttar Pradesh", "Chhattisgarh", "Madhya Pradesh"],
+    "correctAnswer": "Chhattisgarh"
   },
   {
     "id": 5,
-    "question": "Which of the following is a common reason for a 'logjam' or disruption in parliamentary proceedings in India?",
-    "options": ["Consensus on all bills", "Lack of any debate", "Members abstaining from voting", "Disagreements over key issues leading to protests"],
-    "correctAnswer": "Disagreements over key issues leading to protests"
+    "question": "What was the Supreme Court's observation regarding the administration and police in the Chhattisgarh custodial death case?",
+    "options": ["They cooperated fully", "They attempted to pull the wool over the court's eyes", "They lacked proper training", "They followed all protocols"],
+    "correctAnswer": "They attempted to pull the wool over the court's eyes"
   },
   {
     "id": 6,
-    "question": "In India, which body is primarily responsible for maintaining law and order within a specific state or Union Territory?",
-    "options": ["Central Bureau of Investigation", "State Police Force", "Border Security Force", "Indian Army"],
-    "correctAnswer": "State Police Force"
+    "question": "Which central investigation agency was mandated by the Supreme Court to probe the Chhattisgarh custodial death?",
+    "options": ["National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
+    "correctAnswer": "Central Bureau of Investigation (CBI)"
   },
   {
     "id": 7,
-    "question": "How does the Union Government typically assert its influence over law enforcement in Union Territories compared to states?",
-    "options": ["Directly controlling state budgets", "Appointing Chief Ministers", "Directly administering through Lieutenant Governors", "No influence"],
-    "correctAnswer": "Directly administering through Lieutenant Governors"
+    "question": "A recent Public Interest Litigation (PIL) seeks a policy to balance which two fundamental aspects of public life?",
+    "options": ["Right to education and right to health", "Right to protest and right to commute", "Right to privacy and right to information", "Right to work and right to property"],
+    "correctAnswer": "Right to protest and right to commute"
   },
   {
     "id": 8,
-    "question": "In India, the freedom of speech and expression is guaranteed by which article of the Constitution, subject to reasonable restrictions?",
-    "options": ["Article 19", "Article 21", "Article 14", "Article 32"],
-    "correctAnswer": "Article 19"
+    "question": "What is the primary objective of the PIL mentioned in the news, concerning public spaces and citizen's activities?",
+    "options": ["To ban all public protests", "To regulate traffic during festivals", "To establish a policy balancing protest rights and commute rights", "To allocate specific zones for protests"],
+    "correctAnswer": "To establish a policy balancing protest rights and commute rights"
   },
   {
     "id": 9,
-    "question": "Action against derogatory posts about historical figures in India often falls under laws related to:",
-    "options": ["Traffic violations", "Environmental protection", "Defamation or promoting enmity", "Intellectual property"],
-    "correctAnswer": "Defamation or promoting enmity"
+    "question": "The government recently instructed which Indian airline to ‘take responsibility’ regarding certain operational issues?",
+    "options": ["IndiGo", "SpiceJet", "Air India", "Vistara"],
+    "correctAnswer": "Air India"
   },
   {
     "id": 10,
-    "question": "Public awareness campaigns by police in India often aim to educate citizens on issues like:",
-    "options": ["Stock market investments", "Agricultural policies", "Cyber safety and traffic rules", "International trade agreements"],
-    "correctAnswer": "Cyber safety and traffic rules"
+    "question": "Which regulatory body was told by the government to improve dope checks for airline personnel?",
+    "options": ["Bureau of Civil Aviation Security (BCAS)", "Directorate General of Civil Aviation (DGCA)", "Airports Authority of India (AAI)", "Ministry of Civil Aviation"],
+    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
   },
   {
     "id": 11,
-    "question": "The ban on certain types of 'manjha' (kite string) in India is primarily due to concerns regarding:",
-    "options": ["Aesthetic appearance", "Historical tradition", "Safety hazards to people and animals", "High cost"],
-    "correctAnswer": "Safety hazards to people and animals"
+    "question": "The government's directive to Air India and DGCA primarily concerns which aspect of aviation safety?",
+    "options": ["Aircraft maintenance schedules", "Pilot training hours", "Air traffic control protocols", "Improving dope checks"],
+    "correctAnswer": "Improving dope checks"
   },
   {
     "id": 12,
-    "question": "Which independent regulatory body is responsible for ensuring safety in nuclear and radiation facilities in India?",
-    "options": ["ISRO", "DRDO", "Atomic Energy Regulatory Board (AERB)", "Bhabha Atomic Research Centre (BARC)"],
-    "correctAnswer": "Atomic Energy Regulatory Board (AERB)"
+    "question": "The Supreme Court recently commented on “absurd timelines” and the number of cases for courts dealing with which specific act?",
+    "options": ["Prevention of Money Laundering Act (PMLA)", "Unlawful Activities (Prevention) Act (UAPA)", "Narcotic Drugs and Psychotropic Substances Act (NDPS)", "Protection of Children from Sexual Offences Act (POCSO)"],
+    "correctAnswer": "Unlawful Activities (Prevention) Act (UAPA)"
   },
   {
     "id": 13,
-    "question": "Cybersecurity threats to critical infrastructure, such as nuclear power plants, are a matter of concern for which aspect of governance in India?",
-    "options": ["Local municipality planning", "National security", "Sports development", "Cultural heritage preservation"],
-    "correctAnswer": "National security"
+    "question": "According to the Supreme Court's recent observation, what is the suggested ideal number of cases for each UAPA court to handle?",
+    "options": ["5-10 cases", "12-15 cases", "20-25 cases", "Over 30 cases"],
+    "correctAnswer": "12-15 cases"
   },
   {
     "id": 14,
-    "question": "India's focus on nuclear energy primarily aims to address:",
-    "options": ["Shortage of agricultural land", "Boosting tourism", "Energy security and clean power generation", "Expanding military presence"],
-    "correctAnswer": "Energy security and clean power generation"
+    "question": "What does UAPA stand for in the context of Indian law, as mentioned in the Supreme Court's remarks?",
+    "options": ["Unified Aviation Procedures Act", "Urban Area Planning Authority", "Unlawful Activities (Prevention) Act", "Universal Access Protocol Agreement"],
+    "correctAnswer": "Unlawful Activities (Prevention) Act"
   },
   {
     "id": 15,
-    "question": "The protection of critical national infrastructure, including power grids and nuclear plants, against cyberattacks is managed by:",
-    "options": ["State Tourism Departments", "Individual households", "Various central government agencies", "Local libraries"],
-    "correctAnswer": "Various central government agencies"
+    "question": "The J&K SIA recently reopened a probe into killings from which year?",
+    "options": ["1985", "1990", "1995", "2000"],
+    "correctAnswer": "1990"
   },
   {
     "id": 16,
-    "question": "Which central investigative agency in India primarily deals with economic offenses and money laundering?",
-    "options": ["Central Bureau of Investigation (CBI)", "Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Income Tax Department"],
-    "correctAnswer": "Enforcement Directorate (ED)"
+    "question": "Which Indian region is associated with the Special Investigation Agency (SIA) that reopened a probe into 1990 killings?",
+    "options": ["Himachal Pradesh", "Uttarakhand", "Jammu & Kashmir", "Ladakh"],
+    "correctAnswer": "Jammu & Kashmir"
   },
   {
     "id": 17,
-    "question": "The Prevention of Money Laundering Act (PMLA) in India empowers which agency to investigate and prosecute offenses related to money laundering?",
-    "options": ["Reserve Bank of India", "SEBI", "Enforcement Directorate (ED)", "Ministry of Finance's Department of Economic Affairs"],
-    "correctAnswer": "Enforcement Directorate (ED)"
+    "question": "The 1990 killings reopened for probe by J&K SIA specifically involved which individuals?",
+    "options": ["A political leader and his bodyguard", "A Kashmiri Pandit poet and a nurse", "Two journalists", "A civilian and a police officer"],
+    "correctAnswer": "A Kashmiri Pandit poet and a nurse"
   },
   {
     "id": 18,
-    "question": "Allegations of large-scale financial scams involving public funds are typically investigated by:",
-    "options": ["Village Panchayats", "Central investigative agencies", "Local school committees", "Private detective firms"],
-    "correctAnswer": "Central investigative agencies"
+    "question": "Which Chief Minister recently met a Governor to seek 10-day parole on humanitarian grounds for a prisoner?",
+    "options": ["Manipur CM", "Punjab CM", "Kerala CM", "Goa CM"],
+    "correctAnswer": "Punjab CM"
   },
   {
     "id": 19,
-    "question": "What is the primary objective of the Enforcement Directorate (ED) when investigating a financial scam?",
-    "options": ["To mediate political disputes", "To recover proceeds of crime and punish offenders", "To conduct market research", "To organize cultural events"],
-    "correctAnswer": "To recover proceeds of crime and punish offenders"
+    "question": "For whom did Punjab CM Bhagwant Mann seek 10-day parole on humanitarian grounds?",
+    "options": ["Jagtar Singh Hawara", "Bhai Balwant Singh Rajoana", "Devinderpal Singh Bhullar", "Paramjit Singh Bheora"],
+    "correctAnswer": "Jagtar Singh Hawara"
   },
   {
     "id": 20,
-    "question": "What is the role of State Disaster Response Funds (SDRF) in India during natural disasters?",
-    "options": ["Funding national defence", "Providing immediate relief to affected state population", "Regulating financial markets", "Promoting cultural festivals"],
-    "correctAnswer": "Providing immediate relief to affected state population"
+    "question": "What was the stated primary reason for Punjab CM Bhagwant Mann seeking parole for Jagtar Singh Hawara?",
+    "options": ["His deteriorating health", "His mother's deteriorating health", "To attend a family wedding", "To appeal his conviction"],
+    "correctAnswer": "His mother's deteriorating health"
   },
   {
     "id": 21,
-    "question": "Which Union Ministry is primarily responsible for formulating and implementing defense policy and managing the armed forces to protect India's borders?",
-    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Defence", "Ministry of Finance"],
-    "correctAnswer": "Ministry of Defence"
+    "question": "Which Indian state was recently affected by floods, with a toll rising to 103 and tens of thousands affected?",
+    "options": ["West Bengal", "Odisha", "Assam", "Bihar"],
+    "correctAnswer": "Assam"
   },
   {
     "id": 22,
-    "question": "In the Indian parliamentary system, what is the purpose of a 'no-confidence motion'?",
-    "options": ["To elect the Speaker", "To approve the annual budget", "To express lack of confidence in the Council of Ministers", "To amend the Constitution"],
-    "correctAnswer": "To express lack of confidence in the Council of Ministers"
+    "question": "As per recent reports, which district in Assam was identified as the worst-hit by the floods, affecting over 42,000 people?",
+    "options": ["Nagaon", "Jorhat", "Sivasagar", "Golaghat"],
+    "correctAnswer": "Golaghat"
   },
   {
     "id": 23,
-    "question": "National icons like Netaji Subhas Chandra Bose are revered for their contributions to:",
-    "options": ["Indian cinema", "Space research", "India's freedom struggle", "Modern sports"],
-    "correctAnswer": "India's freedom struggle"
+    "question": "Approximately how many people remained affected across four districts in Assam due to recent floods?",
+    "options": ["Around 25,000", "Around 50,000", "Around 87,000", "Around 1.5 lakh"],
+    "correctAnswer": "Around 87,000"
   },
   {
     "id": 24,
-    "question": "The jurisdiction of central investigative agencies like the ED or CBI in India extends to:",
-    "options": ["Only Union Territories", "Only specific industries", "Across all states and Union Territories", "Only international cases"],
-    "correctAnswer": "Across all states and Union Territories"
+    "question": "China recently stated that the India border is 'generally stable' amidst tensions in which Indian state?",
+    "options": ["Sikkim", "Uttarakhand", "Arunachal Pradesh", "Himachal Pradesh"],
+    "correctAnswer": "Arunachal Pradesh"
   },
   {
     "id": 25,
-    "question": "The term 'scam' in the context of Indian public affairs generally refers to:",
-    "options": ["A new government policy", "A large-scale fraudulent scheme", "A technological innovation", "A cultural exchange program"],
-    "correctAnswer": "A large-scale fraudulent scheme"
+    "question": "The recent statement from China regarding the 'generally stable' border situation specifically referred to tensions in which Indian border region?",
+    "options": ["Ladakh", "Doklam", "Arunachal", "Nepal Border"],
+    "correctAnswer": "Arunachal"
   }
 ]

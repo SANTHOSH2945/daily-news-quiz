@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to the news, what was the reported productivity percentage of the Lok Sabha during the recent Monsoon Session?",
-    "options": ["19%", "39%", "50%", "25%"],
-    "correctAnswer": "19%"
+    "question": "The recent central 'Mines, Minerals Bill' received a nod, but faced opposition from some states. Which sector in Telangana and Andhra Pradesh is directly regulated by such central legislation?",
+    "options": ["Agriculture", "Information Technology", "Mining", "Textiles"],
+    "correctAnswer": "Mining"
   },
   {
     "id": 2,
-    "question": "What was the reported productivity percentage of the Rajya Sabha during the recent Monsoon Session?",
-    "options": ["19%", "39%", "50%", "25%"],
-    "correctAnswer": "39%"
+    "question": "The 'Mines, Minerals Bill' which recently got a nod from the central government, typically aims to regulate the extraction and management of resources across all Indian states, including Andhra Pradesh and Telangana. What type of resources are primarily covered by this bill?",
+    "options": ["Agricultural produce", "Marine life", "Mineral resources", "Forest timber"],
+    "correctAnswer": "Mineral resources"
   },
   {
     "id": 3,
-    "question": "Which political alliance reportedly skipped the customary tea during the Monsoon Session of the Indian Parliament?",
-    "options": ["NDA", "INDIA bloc", "UPA", "Third Front"],
-    "correctAnswer": "INDIA bloc"
+    "question": "While the recent news highlights concerns from Jharkhand and Kerala regarding the 'Mines, Minerals Bill,' this central legislation has implications for mineral-rich states nationwide. Which of the following is a significant mineral resource found in both Andhra Pradesh and Telangana, potentially affected by such a bill?",
+    "options": ["Petroleum", "Diamond", "Coal", "Gold"],
+    "correctAnswer": "Coal"
   },
   {
     "id": 4,
-    "question": "The Monsoon Session of Parliament is one of how many regular annual sessions typically held in India?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Three"
+    "question": "The 'Mines, Minerals Bill' represents an assertion of central government's regulatory power over resources. How does such legislation generally impact the fiscal autonomy of states like Telangana and Andhra Pradesh regarding mineral revenue?",
+    "options": ["It significantly increases state control", "It centralizes decision-making and revenue sharing", "It has no impact on state revenue", "It allows states to privatize all mines"],
+    "correctAnswer": "It centralizes decision-making and revenue sharing"
   },
   {
     "id": 5,
-    "question": "The low productivity of Parliament, as highlighted in the news, can impact the legislative agenda for all states, including Telangana and Andhra Pradesh. Which article of the Indian Constitution primarily deals with the establishment and composition of Parliament?",
-    "options": ["Article 52", "Article 79", "Article 124", "Article 168"],
-    "correctAnswer": "Article 79"
+    "question": "If Andhra Pradesh or Telangana were to express 'fire' (opposition) against a central 'Mines, Minerals Bill,' their concerns would likely revolve around what aspect of state-level governance?",
+    "options": ["Control over local education", "Regulation of inter-state water disputes", "Autonomy over natural resource management", "Taxation of agricultural income"],
+    "correctAnswer": "Autonomy over natural resource management"
   },
   {
     "id": 6,
-    "question": "In the context of parliamentary sessions, what term describes a situation where proceedings are frequently disrupted, leading to low productivity, as implied by a 'washed out' session?",
-    "options": ["Adjournment", "Prorogation", "Washout", "Dissolution"],
-    "correctAnswer": "Washout"
+    "question": "The 'Mines, Minerals Bill' that recently received a nod would influence mining leases and operations. In the context of Telangana and Andhra Pradesh, which governmental body typically grants licenses for smaller mining operations?",
+    "options": ["The Union Ministry of Finance", "The State Geology Department", "The Reserve Bank of India", "The Indian Railways"],
+    "correctAnswer": "The State Geology Department"
   },
   {
     "id": 7,
-    "question": "If a bill affecting states like Andhra Pradesh and Telangana is stuck due to a 'washed out' parliamentary session, what mechanism can the President use to promulgate laws when Parliament is not in session?",
-    "options": ["Proclamation of Emergency", "Presidential Decree", "Ordinance", "Executive Order"],
-    "correctAnswer": "Ordinance"
+    "question": "The passage of a central 'Mines, Minerals Bill' suggests a national framework for resource management. What is a key objective often cited for centralizing such regulations, which would apply to mineral extraction in Andhra Pradesh and Telangana?",
+    "options": ["To promote agricultural exports", "To ensure uniform policy, sustainable mining, and revenue collection", "To control fishing rights", "To encourage urban development only"],
+    "correctAnswer": "To ensure uniform policy, sustainable mining, and revenue collection"
   },
   {
     "id": 8,
-    "question": "According to the MEA, which country registered the most cases of attacks on Indians abroad between 2021-25?",
-    "options": ["Canada", "United Kingdom", "Australia", "USA"],
-    "correctAnswer": "USA"
+    "question": "A rebel TMC group leader urged PM Modi to appoint an NDA convener. This highlights the structure of national political alliances in India. Which of the following parties from Andhra Pradesh or Telangana has historically been part of the NDA or formed alliances with its constituents?",
+    "options": ["Telangana Rashtra Samithi (BRS)", "YSR Congress Party", "Telugu Desam Party (TDP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Telugu Desam Party (TDP)"
   },
   {
     "id": 9,
-    "question": "The Ministry of External Affairs (MEA) handles issues related to the safety of Indian citizens, including those from Telangana and Andhra Pradesh, living abroad. What is the primary role of an Indian Embassy or Consulate in such situations?",
-    "options": ["Issuing visas to foreign nationals only", "Providing consular assistance to Indian citizens", "Promoting tourism to India", "Collecting intelligence for the government"],
-    "correctAnswer": "Providing consular assistance to Indian citizens"
+    "question": "The request for an NDA convener pertains to the coordination within a major national political alliance. In the context of Indian politics, what is the primary purpose of appointing a convener for an alliance like the NDA, which includes parties from states such as Andhra Pradesh and Telangana?",
+    "options": ["To manage international trade agreements", "To lead military operations", "To facilitate communication and strategy among alliance partners", "To oversee the judicial system"],
+    "correctAnswer": "To facilitate communication and strategy among alliance partners"
   },
   {
     "id": 10,
-    "question": "Indian citizens, including those from Telangana, facing distress abroad can seek assistance through which government portal or helpline?",
-    "options": ["MyGov India portal", "MADAD portal", "Passport Seva portal", "e-Visa India portal"],
-    "correctAnswer": "MADAD portal"
+    "question": "The news about a rebel TMC group leader urging PM Modi to appoint an NDA convener underscores the role of central leadership in managing multi-party coalitions. How do national alliances like the NDA impact the political landscape of states like Telangana and Andhra Pradesh?",
+    "options": ["They only affect parliamentary proceedings, not state elections", "They often lead to regional parties aligning with national parties for electoral gains", "They solely focus on foreign policy", "They are irrelevant to state-level governance"],
+    "correctAnswer": "They often lead to regional parties aligning with national parties for electoral gains"
   },
   {
     "id": 11,
-    "question": "The MEA's data on attacks on Indians abroad highlights concerns for non-resident Indians (NRIs) and Persons of Indian Origin (PIOs) from states like Andhra Pradesh. What document is generally required for Indian citizens to travel abroad?",
-    "options": ["Aadhar Card", "Voter ID", "Passport", "PAN Card"],
-    "correctAnswer": "Passport"
+    "question": "The term 'NDA' represents a major political alliance in India. Which of the following regional parties from the Telugu states has previously aligned with national parties to be part of such grand coalitions at the center?",
+    "options": ["Communist Party of India (Marxist)", "Bahujan Samaj Party", "Telugu Desam Party", "Aam Aadmi Party"],
+    "correctAnswer": "Telugu Desam Party"
   },
   {
     "id": 12,
-    "question": "Which organization, responsible for food safety, was slammed by the Supreme Court along with the Centre in a recent observation?",
-    "options": ["BIS", "NABARD", "FSSAI", "SEBI"],
-    "correctAnswer": "FSSAI"
+    "question": "The formation and management of national political alliances, like the one for which an NDA convener was requested, is crucial for parliamentary stability in India. Which of the following is a common strategy for regional parties in Andhra Pradesh or Telangana to exert influence at the national level?",
+    "options": ["Forming exclusive state-level blocs", "Joining national alliances", "Advocating for complete secession", "Boycotting all national elections"],
+    "correctAnswer": "Joining national alliances"
   },
   {
     "id": 13,
-    "question": "FSSAI is the apex body for ensuring food safety standards in India, including states like Telangana and Andhra Pradesh. What does FSSAI stand for?",
-    "options": ["Food Security and Standardisation Authority of India", "Food Safety and Standards Authority of India", "Federal System of Safety and Audit in India", "Food Science and Sanitation Agency of India"],
-    "correctAnswer": "Food Safety and Standards Authority of India"
+    "question": "TMC's plan to move the Supreme Court for disqualification of rebel MPs highlights the constitutional provisions against defection. Which Indian anti-defection law, applicable to MPs and MLAs in states like Telangana and Andhra Pradesh, is typically invoked in such cases?",
+    "options": ["The Right to Information Act", "The Anti-Defection Law (Tenth Schedule)", "The Companies Act", "The Protection of Women from Domestic Violence Act"],
+    "correctAnswer": "The Anti-Defection Law (Tenth Schedule)"
   },
   {
     "id": 14,
-    "question": "The Supreme Court's strong remarks on FSSAI emphasize its role in consumer protection regarding food. Which central ministry does FSSAI primarily fall under?",
-    "options": ["Ministry of Agriculture and Farmers Welfare", "Ministry of Commerce and Industry", "Ministry of Health and Family Welfare", "Ministry of Consumer Affairs, Food and Public Distribution"],
-    "correctAnswer": "Ministry of Health and Family Welfare"
+    "question": "The Supreme Court's role in adjudicating cases like the disqualification of rebel MPs, as highlighted by TMC's move, underscores its position as the highest judicial body. What is the jurisdiction of the Supreme Court in India regarding such legislative matters, affecting all states including Andhra Pradesh and Telangana?",
+    "options": ["Limited to union territories", "Exclusively for presidential elections", "Nationwide, acting as the final court of appeal", "Only advisory in nature"],
+    "correctAnswer": "Nationwide, acting as the final court of appeal"
   },
   {
     "id": 15,
-    "question": "What is the primary objective of the Food Safety and Standards Act, 2006, which FSSAI enforces across India, including in Telangana and Andhra Pradesh?",
-    "options": ["To regulate export of food products only", "To ensure food security for all citizens", "To consolidate laws relating to food and establish FSSAI for laying down science based standards for articles of food and to regulate their manufacture, storage, distribution, sale and import to ensure availability of safe and wholesome food for human consumption", "To provide subsidies to food manufacturers"],
-    "correctAnswer": "To consolidate laws relating to food and establish FSSAI for laying down science based standards for articles of food and to regulate their manufacture, storage, distribution, sale and import to ensure availability of safe and wholesome food for human consumption"
+    "question": "When a political party, such as TMC, seeks the disqualification of its rebel Members of Parliament (MPs) through the Supreme Court, it is typically challenging their continued membership under what premise, a scenario also seen in state legislatures in Telangana and Andhra Pradesh?",
+    "options": ["Non-payment of taxes", "Violation of the party whip or defection", "Retirement age", "Lack of educational qualifications"],
+    "correctAnswer": "Violation of the party whip or defection"
   },
   {
     "id": 16,
-    "question": "If a food safety concern arises in Andhra Pradesh, which state authority works in tandem with the national FSSAI to ensure compliance and enforcement?",
-    "options": ["State Police Department", "State Health Department / Food Safety Commissioner", "State Agriculture Department", "State Consumer Affairs Department"],
-    "correctAnswer": "State Health Department / Food Safety Commissioner"
+    "question": "The process of disqualifying Members of Parliament or Members of Legislative Assembly (MLAs) in India, which TMC is pursuing in the Supreme Court, ultimately falls under the purview of which authority, typically after a recommendation from the Speaker?",
+    "options": ["The Election Commission of India", "The President of India", "The Governor of the respective state", "The Supreme Court in appeal"],
+    "correctAnswer": "The Supreme Court in appeal"
   },
   {
     "id": 17,
-    "question": "The Supreme Court's observation underscoring the judiciary's role in holding regulatory bodies accountable relates to which highest judicial body in India that passes such judgments?",
-    "options": ["High Courts of States", "District Courts", "Supreme Court of India", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "The news about TMC seeking the disqualification of rebel MPs addresses issues of legislative integrity. In the context of Andhra Pradesh and Telangana, what power do Speakers of state Legislative Assemblies hold concerning similar matters for state legislators?",
+    "options": ["Only advisory", "Final decision-making power on disqualification, subject to judicial review", "No power at all", "Power to appoint new members"],
+    "correctAnswer": "Final decision-making power on disqualification, subject to judicial review"
   },
   {
     "id": 18,
-    "question": "What observation did the Supreme Court recently make regarding the role of consumer forums?",
-    "options": ["They are primarily for retired judges", "They cannot be mere rehabilitation centres for retired individuals", "They should only handle cases above a certain value", "They require more central funding"],
-    "correctAnswer": "They cannot be mere rehabilitation centres for retired individuals"
+    "question": "The news reports that the Opposition forced the government to put off 5 bills. This demonstrates the role of parliamentary opposition in India. How does effective opposition contribute to governance in states like Telangana and Andhra Pradesh?",
+    "options": ["It only delays policy implementation", "It ensures accountability, scrutinizes legislation, and gives voice to alternative views", "It directly forms the next government", "It is irrelevant to state-level policy"],
+    "correctAnswer": "It ensures accountability, scrutinizes legislation, and gives voice to alternative views"
   },
   {
     "id": 19,
-    "question": "Consumer forums are established under which central act in India, which is applicable across all states including Telangana and Andhra Pradesh?",
-    "options": ["Indian Penal Code, 1860", "Consumer Protection Act, 2019", "Contract Act, 1872", "Sale of Goods Act, 1930"],
-    "correctAnswer": "Consumer Protection Act, 2019"
+    "question": "When the opposition claims success in 'putting off' bills, it refers to the legislative process in the Indian Parliament. Which stage of a bill's passage is most likely affected by strong opposition pressure, a process that also applies to state legislatures in Andhra Pradesh and Telangana?",
+    "options": ["Presidential assent", "Introduction of the bill", "Debate and voting", "Publication in the Gazette"],
+    "correctAnswer": "Debate and voting"
   },
   {
     "id": 20,
-    "question": "At the district level in Telangana, which body is responsible for adjudicating consumer disputes under the Consumer Protection Act?",
-    "options": ["State Consumer Disputes Redressal Commission", "District Collector's Office", "District Consumer Disputes Redressal Commission", "Civil Court"],
-    "correctAnswer": "District Consumer Disputes Redressal Commission"
+    "question": "The deferment of bills due to opposition pressure reflects dynamic legislative proceedings in India. Such parliamentary actions directly influence the legal framework that applies to all states. How does central legislation passed (or deferred) by the Parliament impact the administration in Andhra Pradesh and Telangana?",
+    "options": ["Only financial budgets are affected", "It has no bearing on state-level administration", "It forms the overarching legal framework that state laws must conform to", "It dictates local municipal policies"],
+    "correctAnswer": "It forms the overarching legal framework that state laws must conform to"
   },
   {
     "id": 21,
-    "question": "The Supreme Court's concern about consumer forums becoming 'rehabilitation centres' relates to the qualifications and independence of their members. Who typically heads a District Consumer Disputes Redressal Commission?",
-    "options": ["A retired IAS officer", "A person who is, or has been, a District Judge or is qualified to be a District Judge", "A leading lawyer of the district", "The District Magistrate"],
-    "correctAnswer": "A person who is, or has been, a District Judge or is qualified to be a District Judge"
+    "question": "Bangladesh Prime Minister's likely visit to India signifies ongoing diplomatic relations between the two nations. While Telangana and Andhra Pradesh do not share international borders, what is a general benefit of strong international relations for any Indian state, including the Telugu states?",
+    "options": ["Direct military intervention", "Enhanced trade, cultural exchange, and investment opportunities", "Unilateral control over international waters", "Exemption from national laws"],
+    "correctAnswer": "Enhanced trade, cultural exchange, and investment opportunities"
   },
   {
     "id": 22,
-    "question": "What is the maximum pecuniary jurisdiction for a District Consumer Disputes Redressal Commission as per the Consumer Protection Act, 2019?",
-    "options": ["Up to fifty lakh rupees", "Up to one crore rupees", "Up to ten crore rupees", "No limit"],
-    "correctAnswer": "Up to one crore rupees"
+    "question": "The discussion around extradition requests during international visits, like the one by the Bangladesh PM to India, highlights international legal cooperation. What central government body in India primarily handles foreign policy and international agreements that affect all states, including Andhra Pradesh and Telangana?",
+    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Defence", "Ministry of Finance"],
+    "correctAnswer": "Ministry of External Affairs"
   },
   {
     "id": 23,
-    "question": "If a consumer in Andhra Pradesh is not satisfied with the decision of a District Consumer Forum, to which higher body can they appeal?",
-    "options": ["High Court of Andhra Pradesh", "National Consumer Disputes Redressal Commission", "State Consumer Disputes Redressal Commission", "District Civil Court"],
-    "correctAnswer": "State Consumer Disputes Redressal Commission"
+    "question": "PM Modi's statement on 'Partition Horrors Remembrance Day' calls for national reflection on a tragic historical event. While the direct impact of partition was felt in specific border regions, what is the significance of such national remembrance days for fostering unity and historical awareness across diverse states like Telangana and Andhra Pradesh?",
+    "options": ["To promote regionalism", "To encourage historical revisionism", "To unify the nation through shared historical consciousness and empathy", "To isolate certain communities"],
+    "correctAnswer": "To unify the nation through shared historical consciousness and empathy"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's emphasis on proper functioning of consumer forums ensures justice for consumers, including those in Telangana. What fundamental right is often upheld through effective consumer protection mechanisms?",
-    "options": ["Right to Freedom of Speech", "Right to Equality", "Right to be Heard", "Right to Education"],
-    "correctAnswer": "Right to be Heard"
+    "question": "Derek O' Brien's comment about Gen Z student protests using humour in political communication speaks to evolving forms of activism in India. How do student protests and youth engagement generally contribute to democratic discourse in states like Telangana and Andhra Pradesh?",
+    "options": ["By promoting political apathy", "By solely focusing on academic issues", "By bringing new perspectives, raising awareness, and advocating for change", "By only supporting established political parties"],
+    "correctAnswer": "By bringing new perspectives, raising awareness, and advocating for change"
   },
   {
     "id": 25,
-    "question": "The Consumer Protection Act allows for the establishment of Consumer Protection Councils at the central, state, and district levels. Who typically chairs the State Consumer Protection Council in states like Telangana?",
-    "options": ["The Chief Minister", "The Chief Justice of the High Court", "The Minister in charge of Consumer Affairs in the State Government", "The Chief Secretary of the State"],
-    "correctAnswer": "The Minister in charge of Consumer Affairs in the State Government"
+    "question": "The news mentions a police probe into an attack on Sukhbir Badal. This highlights the role of law enforcement. What is the primary responsibility of state police forces in regions like Andhra Pradesh and Telangana regarding public order and investigation?",
+    "options": ["Managing international borders", "Conducting national elections", "Maintaining law and order, and investigating crimes", "Regulating foreign trade"],
+    "correctAnswer": "Maintaining law and order, and investigating crimes"
   }
 ]

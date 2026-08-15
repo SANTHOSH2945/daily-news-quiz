@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "In his Independence Day speech, what percentage of reservation did PM Modi urge political parties to swiftly ensure for women?",
-    "options": ["25%", "33%", "40%", "50%"],
-    "correctAnswer": "33%"
+    "question": "Which district in Andhra Pradesh is proposed to host the Kovvada Nuclear Power Project, aligning with India's 2047 energy goals?",
+    "options": ["Guntur", "Srikakulam", "Visakhapatnam", "Nellore"],
+    "correctAnswer": "Srikakulam"
   },
   {
     "id": 2,
-    "question": "What key areas did PM Modi highlight for 'Gen Z' in his Independence Day speech to focus on for their future?",
-    "options": ["Agriculture, infrastructure, exports", "AI skills, free coaching, sports & jobs", "Manufacturing, space research, traditional arts", "Tourism, defense, entrepreneurship"],
-    "correctAnswer": "AI skills, free coaching, sports & jobs"
+    "question": "What is the targeted capacity for nuclear power generation in India by 2047, a goal that states like Andhra Pradesh aim to contribute to with proposed projects?",
+    "options": ["50 GW", "75 GW", "100 GW", "150 GW"],
+    "correctAnswer": "100 GW"
   },
   {
     "id": 3,
-    "question": "PM Modi unveiled 'Sapta Dhara' as a seven-point roadmap for achieving which national vision?",
-    "options": ["Digital India", "Make in India", "Viksit Bharat", "Swachh Bharat"],
-    "correctAnswer": "Viksit Bharat"
+    "question": "What type of energy source is emphasized in PM Modi's energy self-reliance plan to reach 100GW by 2047, with potential for expansion in states like Andhra Pradesh?",
+    "options": ["Solar Power", "Wind Power", "Hydroelectric Power", "Nuclear Power"],
+    "correctAnswer": "Nuclear Power"
   },
   {
     "id": 4,
-    "question": "According to PM Modi's Independence Day speech, what is India's global goal regarding Fortune 500 firms?",
-    "options": ["To have 10 firms in the top 500", "To have 25 firms in the top 500", "To have 50 firms in the top 500", "To have 100 firms in the top 500"],
-    "correctAnswer": "To have 50 firms in the top 500"
+    "question": "What is the name of the High Court established for the state of Telangana after its bifurcation from Andhra Pradesh?",
+    "options": ["High Court of Hyderabad", "Telangana High Court", "Hyderabad High Court for Telangana", "High Court of United Andhra Pradesh"],
+    "correctAnswer": "Telangana High Court"
   },
   {
     "id": 5,
-    "question": "PM Modi, in his Independence Day address, criticized some people for gaining joy in keeping the nation terrified during crises like Covid and what other major global event?",
-    "options": ["Climate change negotiations", "Global economic slowdown", "Middle East crisis", "International trade disputes"],
-    "correctAnswer": "Middle East crisis"
+    "question": "Which High Court primarily serves the state of Andhra Pradesh, following its reorganization and establishment of a separate judiciary?",
+    "options": ["Andhra Pradesh High Court", "High Court of Amaravati", "High Court of Visakhapatnam", "Telangana High Court"],
+    "correctAnswer": "Andhra Pradesh High Court"
   },
   {
     "id": 6,
-    "question": "RSS chief Mohan Bhagwat stated on Independence Day that 'many forces don't want India to become' what?",
-    "options": ["A global economic power", "A leading technological hub", "A Vishwaguru", "A permanent UNSC member"],
-    "correctAnswer": "A Vishwaguru"
+    "question": "Which flagship healthcare scheme in Telangana provides free eye screening camps and spectacles to citizens across the state, reflecting a focus on public services?",
+    "options": ["Aarogyasri", "Kanti Velugu", "Telangana Vaidyam", "Basti Dawakhana"],
+    "correctAnswer": "Kanti Velugu"
   },
   {
     "id": 7,
-    "question": "The Supreme Court expressed concern over the continuance of which derogatory practice?",
-    "options": ["Child labor", "Caste discrimination", "Witch-hunting", "Dowry system"],
-    "correctAnswer": "Witch-hunting"
+    "question": "Which universal health coverage scheme is a significant public service initiative in Andhra Pradesh, offering financial protection for medical treatment to eligible families?",
+    "options": ["Aarogyasri", "Jagananna Vidya Deevena", "Amma Vodi", "Rythu Bharosa"],
+    "correctAnswer": "Aarogyasri"
   },
   {
     "id": 8,
-    "question": "Which term was mentioned as one of the top highlights from PM Modi’s Independence Day speech, referring to urban extremists?",
-    "options": ["Urban Guerillas", "Dimagi Naxals", "Networked Extremists", "Hidden Militants"],
-    "correctAnswer": "Dimagi Naxals"
+    "question": "What is the name of the primary government initiative in Telangana aimed at providing affordable housing for the poor, as part of its public welfare measures?",
+    "options": ["Double Bedroom Housing Scheme", "Pradhan Mantri Awas Yojana", "Telangana Housing Project", "Indiramma Housing"],
+    "correctAnswer": "Double Bedroom Housing Scheme"
   },
   {
     "id": 9,
-    "question": "PM Modi's 2023 Independence Day speech was notable for its length. How long was it, and how did it compare to previous years?",
-    "options": ["90 minutes, shortest in three years", "75 minutes, shortest in four years", "60 minutes, longest in five years", "100 minutes, shortest in two years"],
-    "correctAnswer": "75 minutes, shortest in four years"
+    "question": "What is the name of the program in Andhra Pradesh that provides financial assistance to mothers for sending their children to private schools, linking to public service in education?",
+    "options": ["Jagananna Amma Vodi", "Vidya Deevena", "Nadu-Nedu", "Grama Volunteer System"],
+    "correctAnswer": "Jagananna Amma Vodi"
   },
   {
     "id": 10,
-    "question": "What is the primary objective of PM Modi's 'Sapta Dhara' initiative?",
-    "options": ["To boost agricultural output", "To enhance digital infrastructure", "To achieve a developed India", "To strengthen defense capabilities"],
-    "correctAnswer": "To achieve a developed India"
+    "question": "Which major infrastructure project in Telangana focuses on providing safe drinking water to every household in the state, enhancing public utility services?",
+    "options": ["Kaleshwaram Lift Irrigation Project", "Mission Bhagiratha", "Palamuru-Rangareddy Lift Irrigation", "Mid Manair Dam"],
+    "correctAnswer": "Mission Bhagiratha"
   },
   {
     "id": 11,
-    "question": "Which specific skill set was emphasized by PM Modi for 'Gen Z' to excel in, according to his Independence Day speech?",
-    "options": ["Traditional crafts", "Manual labor", "AI skills", "Public speaking"],
-    "correctAnswer": "AI skills"
+    "question": "Which greenfield international airport is being developed near Visakhapatnam, Andhra Pradesh, crucial for enhancing regional air connectivity and infrastructure?",
+    "options": ["Gannavaram Airport", "Pothurajapalem Airport", "Bhogapuram International Airport", "Kadapa Airport"],
+    "correctAnswer": "Bhogapuram International Airport"
   },
   {
     "id": 12,
-    "question": "Apart from targeting 50 Fortune 500 firms, what was another global economic goal mentioned by PM Modi for India on Independence Day?",
-    "options": ["An Indian startup in the top 10", "An Indian bank in the top 5", "An Indian tech company in the top 3", "An Indian auto manufacturer in the top 10"],
-    "correctAnswer": "An Indian bank in the top 5"
+    "question": "Which city is widely recognized as the technological hub of Telangana, often referred to as 'Cyberabad', contributing significantly to India's IT sector?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 13,
-    "question": "PM Modi promised what kind of support for 'Gen Z' related to education in his Independence Day speech?",
-    "options": ["Scholarships for overseas study", "Free coaching", "Online university degrees", "Discounted textbooks"],
-    "correctAnswer": "Free coaching"
+    "question": "Who among the following freedom fighters from the Telugu-speaking regions is renowned for his guerrilla warfare against the British in the Rampa Rebellion?",
+    "options": ["Potti Sreeramulu", "Alluri Sitarama Raju", "Tanguturi Prakasam Pantulu", "Kandukuri Veeresalingam"],
+    "correctAnswer": "Alluri Sitarama Raju"
   },
   {
     "id": 14,
-    "question": "PM Modi's Independence Day address highlighted a concern about narratives that aimed to keep the nation terrified. What was the underlying message against such narratives?",
-    "options": ["That they promote democracy", "That they hinder national progress", "That they are necessary for debate", "That they expose government weaknesses"],
-    "correctAnswer": "That they hinder national progress"
+    "question": "Which historical dynasty ruled large parts of modern-day Telangana and Andhra Pradesh from their capital at Warangal, known for their architectural contributions?",
+    "options": ["Satavahanas", "Kakatiyas", "Vijayanagara", "Cholas"],
+    "correctAnswer": "Kakatiyas"
   },
   {
     "id": 15,
-    "question": "The term 'Vishwaguru' used by RSS chief Mohan Bhagwat on Independence Day refers to India's aspiration to become what?",
-    "options": ["A military superpower", "A global economic leader", "A world teacher/leader", "A diplomatic mediator"],
-    "correctAnswer": "A world teacher/leader"
+    "question": "What is the official state animal of Telangana, symbolizing its unique biodiversity and natural heritage?",
+    "options": ["Blackbuck", "Tiger", "Deer", "Indian Roller"],
+    "correctAnswer": "Deer"
   },
   {
     "id": 16,
-    "question": "What was a notable comparison made regarding the duration of PM Modi's Independence Day speech in 2023?",
-    "options": ["It was the longest speech ever", "It was the shortest speech in his tenure", "It was the shortest in four years", "It was comparable to his first speech"],
-    "correctAnswer": "It was the shortest in four years"
+    "question": "What is the official state bird of Andhra Pradesh, representing its natural heritage and ecological significance?",
+    "options": ["Indian Roller", "Rose-ringed Parakeet", "Peacock", "Common Myna"],
+    "correctAnswer": "Rose-ringed Parakeet"
   },
   {
     "id": 17,
-    "question": "On the 80th Independence Day, what did PM Modi specifically ask political parties to swiftly ensure?",
-    "options": ["Economic reforms", "Judicial appointments", "33% reservation for women", "Clean election campaigns"],
-    "correctAnswer": "33% reservation for women"
+    "question": "What is the national vision for India by 2047, which states like Telangana and Andhra Pradesh are striving to contribute to through development and progress?",
+    "options": ["Digital India", "Swachh Bharat", "Viksit Bharat", "Self-Reliant India"],
+    "correctAnswer": "Viksit Bharat"
   },
   {
     "id": 18,
-    "question": "'Viksit Bharat' broadly translates to what national goal or vision?",
-    "options": ["Clean India", "Self-reliant India", "Developed India", "Digital India"],
-    "correctAnswer": "Developed India"
+    "question": "In what year did India achieve independence from British colonial rule, an event celebrated across all states including Telangana and Andhra Pradesh?",
+    "options": ["1942", "1947", "1950", "1962"],
+    "correctAnswer": "1947"
   },
   {
     "id": 19,
-    "question": "The 'Sapta Dhara' framework introduced by PM Modi on Independence Day outlines a roadmap consisting of how many points?",
-    "options": ["Five points", "Six points", "Seven points", "Ten points"],
-    "correctAnswer": "Seven points"
+    "question": "Who delivered the iconic 'Tryst with Destiny' speech on the eve of India's independence, a moment of national significance for all Indian states?",
+    "options": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Dr. B.R. Ambedkar"],
+    "correctAnswer": "Jawaharlal Nehru"
   },
   {
     "id": 20,
-    "question": "Which among these was explicitly mentioned as one of the top five highlights from PM Modi's Independence Day speech?",
-    "options": ["Introduction of new currency", "Launch of a space mission", "Reference to 'Dimagi Naxals'", "Announcement of a new state"],
-    "correctAnswer": "Reference to 'Dimagi Naxals'"
+    "question": "Who served as the first Governor-General of independent India, a crucial figure during the nation's formative years?",
+    "options": ["Chakravarti Rajagopalachari", "Lord Mountbatten", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+    "correctAnswer": "Lord Mountbatten"
   },
   {
     "id": 21,
-    "question": "PM Modi, in his Independence Day speech, alluded to those who 'gain joy in keeping nation terrified'. What was his broader message against such elements?",
-    "options": ["They are essential for democracy", "They serve national interest", "They obstruct the nation's progress", "They should be encouraged for diverse views"],
-    "correctAnswer": "They obstruct the nation's progress"
+    "question": "How many new nuclear reactors are planned to be commissioned in India this decade as part of the energy self-reliance plan, potentially impacting states with proposed sites like AP?",
+    "options": ["3", "5", "7", "10"],
+    "correctAnswer": "5"
   },
   {
     "id": 22,
-    "question": "The initiatives like AI skills, free coaching, sports, and jobs mentioned by PM Modi in his speech are primarily targeted at which demographic group?",
-    "options": ["Farmers", "Senior citizens", "Gen Z", "Government employees"],
-    "correctAnswer": "Gen Z"
+    "question": "What is the main objective of a Uniform Civil Code (UCC) in India, a topic of national discussion and relevance to all states?",
+    "options": ["To standardize criminal laws", "To unify personal laws for all citizens", "To reform economic policies", "To establish a national language"],
+    "correctAnswer": "To unify personal laws for all citizens"
   },
   {
     "id": 23,
-    "question": "Beyond the Middle East crisis, what specific national challenge did PM Modi address regarding fear-mongering and negative narratives?",
-    "options": ["Agricultural distress", "Covid-19 pandemic", "Economic recession", "Border security"],
-    "correctAnswer": "Covid-19 pandemic"
+    "question": "Which article of the Indian Constitution directs the state to endeavor to secure a Uniform Civil Code for its citizens?",
+    "options": ["Article 37", "Article 44", "Article 51A", "Article 21"],
+    "correctAnswer": "Article 44"
   },
   {
     "id": 24,
-    "question": "What was the specific target set by PM Modi on Independence Day for an Indian bank to achieve globally?",
-    "options": ["To be among the top 50 global banks", "To be among the top 10 global banks", "To be among the top 5 global banks", "To be the leading global bank"],
-    "correctAnswer": "To be among the top 5 global banks"
+    "question": "Who composed India's national song, 'Vande Mataram', which holds historical significance in the freedom struggle across the nation?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Subramania Bharati", "Sarojini Naidu"],
+    "correctAnswer": "Bankim Chandra Chattopadhyay"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's concern about witch-hunting highlights its impact on which aspect of society?",
-    "options": ["Economic development", "Technological advancement", "Human dignity and rights", "Agricultural practices"],
-    "correctAnswer": "Human dignity and rights"
+    "question": "Which iconic fort in Delhi hosts the Prime Minister's Independence Day address, an event watched across India, including Telangana and Andhra Pradesh?",
+    "options": ["Agra Fort", "Red Fort", "Golconda Fort", "Gwalior Fort"],
+    "correctAnswer": "Red Fort"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Recent regulatory actions across India have highlighted significant concerns regarding hygiene standards in quick-commerce food delivery platforms. Which type of issue was predominantly cited by authorities?",
-    "options": ["Low delivery speed", "High pricing", "Pest management and expired food", "Limited product range"],
-    "correctAnswer": "Pest management and expired food"
+    "question": "Which prominent law university, located in Hyderabad, Telangana, was recently in the news for its students raising queries with the CJI about the Bar Council of India (BCI)?",
+    "options": ["National Law School of India University (NLSIU)", "Nalsar University of Law", "Symbiosis Law School", "ILS Law College"],
+    "correctAnswer": "Nalsar University of Law"
   },
   {
     "id": 2,
-    "question": "In light of recent food safety actions against quick-commerce services, which national authority oversees food safety standards that are enforced by state-level bodies in states like Telangana and Andhra Pradesh?",
-    "options": ["Reserve Bank of India (RBI)", "Securities and Exchange Board of India (SEBI)", "Food Safety and Standards Authority of India (FSSAI)", "Competition Commission of India (CCI)"],
-    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
+    "question": "Students from which educational institution in Telangana, along with the Chief Justice of India, recently questioned the Bar Council of India (BCI)?",
+    "options": ["Osmania University", "Jawaharlal Nehru Technological University (JNTU)", "Nalsar University of Law", "University of Hyderabad"],
+    "correctAnswer": "Nalsar University of Law"
   },
   {
     "id": 3,
-    "question": "Beyond general hygiene, what specific types of storage and quality control issues were found in quick-commerce food outlets, a concern relevant to consumers across states including Andhra Pradesh and Telangana?",
-    "options": ["Lack of digital payment options", "Inadequate temperature regulation and improper storage", "Absence of loyalty programs", "Packaging design flaws"],
-    "correctAnswer": "Inadequate temperature regulation and improper storage"
+    "question": "Nalsar University of Law, a key institution highlighted in recent Indian legal news, is situated in which Indian state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 4,
-    "question": "State Food and Drug Administrations (FDAs) in India are empowered to take various actions against non-compliant food businesses. What action did an FDA recently take against multiple quick-commerce linked outlets for hygiene breaches?",
-    "options": ["Issued financial grants", "Provided training workshops", "Suspended licenses", "Awarded new contracts"],
-    "correctAnswer": "Suspended licenses"
+    "question": "The Bar Council of India (BCI) recently faced scrutiny from students of a well-known law university located in which major South Indian city?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Kochi"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 5,
-    "question": "Following regulatory scrutiny over food safety, how did some quick-commerce linked establishments respond to the non-compliance issues?",
-    "options": ["Expanded operations", "Temporarily closed or received notices to rectify", "Launched new marketing campaigns", "Reduced staff"],
-    "correctAnswer": "Temporarily closed or received notices to rectify"
+    "question": "What is the full name of the law university, often referred to as Nalsar, whose students recently made headlines for their interaction with the CJI regarding the BCI?",
+    "options": ["National Legal Studies and Research University", "National Academy of Legal Studies and Research", "National Association of Legal Studies and Research", "National Institute of Legal Studies and Research"],
+    "correctAnswer": "National Academy of Legal Studies and Research"
   },
   {
     "id": 6,
-    "question": "Which major trade union body called for nationwide protests concerning significant issues impacting workers across Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Indian National Trade Union Congress (INTUC)", "All India Trade Union Congress (AITUC)", "Bharatiya Mazdoor Sangh (BMS)", "Centre of Indian Trade Unions (CITU)"],
-    "correctAnswer": "Bharatiya Mazdoor Sangh (BMS)"
+    "question": "The upcoming Census Phase-II in India will include how many distinct queries, applicable to all states including Telangana and Andhra Pradesh?",
+    "options": ["25", "30", "35", "40"],
+    "correctAnswer": "40"
   },
   {
     "id": 7,
-    "question": "The recent nationwide protests called by BMS aimed to address core concerns for the working class. Which set of issues were at the forefront of these protests, relevant to employees in states like Telangana and Andhra Pradesh?",
-    "options": ["Environmental policy reforms", "Pension, wages, and labour codes", "Foreign trade agreements", "Educational syllabus changes"],
-    "correctAnswer": "Pension, wages, and labour codes"
+    "question": "Which of the following topics is explicitly mentioned as a query in the Indian Census Phase-II, relevant to data collection in states like Andhra Pradesh and Telangana?",
+    "options": ["Vehicle ownership", "Pet animals", "Covid-19 vaccination status", "Social media usage"],
+    "correctAnswer": "Covid-19 vaccination status"
   },
   {
     "id": 8,
-    "question": "One of the primary demands of the recent nationwide protests by BMS related to which aspect of worker welfare, applicable to the workforce in Andhra Pradesh and Telangana?",
-    "options": ["Childcare benefits", "Pension schemes", "Housing subsidies", "Travel allowances"],
-    "correctAnswer": "Pension schemes"
+    "question": "Beyond general demographic data, what specific personal detail regarding financial status will be part of the Census Phase-II queries for residents across India, including Telangana?",
+    "options": ["Annual income", "Bank accounts", "Credit score", "Investment portfolio"],
+    "correctAnswer": "Bank accounts"
   },
   {
     "id": 9,
-    "question": "What aspect of worker compensation was a key point of contention in the nationwide BMS protests, affecting employees in industrial and service sectors in states like Andhra Pradesh and Telangana?",
-    "options": ["Wage indexation", "Minimum wages", "Overtime pay regulations", "Equal pay for equal work"],
-    "correctAnswer": "Minimum wages"
+    "question": "The second phase of the Indian Census, a crucial national exercise, will also collect information on which social identifier, applicable across all states?",
+    "options": ["Religion", "Caste", "Tribe", "Mother Tongue"],
+    "correctAnswer": "Caste"
   },
   {
     "id": 10,
-    "question": "The BMS protests also focused on recent changes or proposed changes to which legislative framework governing employment in India, impacting workers and employers in Telangana and Andhra Pradesh?",
-    "options": ["Land Acquisition Codes", "Criminal Procedure Codes", "Labour Codes", "Environmental Protection Codes"],
-    "correctAnswer": "Labour Codes"
+    "question": "What is the primary purpose of including queries about 'Covid-19 jabs' in the Census Phase-II across Indian states like Andhra Pradesh?",
+    "options": ["To assess global vaccine supply", "To monitor public health and vaccination coverage", "To identify individuals for booster shots", "To track international travel patterns"],
+    "correctAnswer": "To monitor public health and vaccination coverage"
   },
   {
     "id": 11,
-    "question": "The Indian government recently announced a significant policy change affecting the broadcasting sector. What was this change regarding television channels?",
-    "options": ["Imposing a new tax on advertisements", "Scrapping the 12-minute ad cap", "Mandating foreign content", "Restricting news channels"],
-    "correctAnswer": "Scrapping the 12-minute ad cap"
+    "question": "President Droupadi Murmu recently stated that public examinations in India, including those conducted by state boards in Telangana and Andhra Pradesh, should become more what?",
+    "options": ["Challenging", "Digital", "Transparent, secure, and trustworthy", "Centralized"],
+    "correctAnswer": "Transparent, secure, and trustworthy"
   },
   {
     "id": 12,
-    "question": "The decision to scrap the 12-minute ad cap for TV channels is expected to have what primary impact on broadcasters operating in states like Telangana and Andhra Pradesh?",
-    "options": ["Decrease revenue from subscriptions", "Increase advertising revenue potential", "Reduce content production costs", "Limit audience reach"],
-    "correctAnswer": "Increase advertising revenue potential"
+    "question": "Which national leader recently emphasized the need for increased transparency, security, and trustworthiness in public examinations across India?",
+    "options": ["Prime Minister Narendra Modi", "Union Education Minister Dharmendra Pradhan", "President Droupadi Murmu", "Vice President Jagdeep Dhankhar"],
+    "correctAnswer": "President Droupadi Murmu"
   },
   {
     "id": 13,
-    "question": "Which government body is typically responsible for setting and changing regulations like the ad cap for television channels in India, impacting media houses including those in Andhra Pradesh and Telangana?",
-    "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Information and Broadcasting", "Ministry of Health"],
-    "correctAnswer": "Ministry of Information and Broadcasting"
+    "question": "The President's recent remarks on public examinations are aimed at benefiting which key stakeholders in the education system, particularly relevant for states like Andhra Pradesh and Telangana?",
+    "options": ["Teachers", "Parents", "Students", "Administrators"],
+    "correctAnswer": "Students"
   },
   {
     "id": 14,
-    "question": "The recent government policy change regarding advertisement limits specifically targets which type of media in India, including regional language channels watched in Telangana and Andhra Pradesh?",
-    "options": ["Print media", "Online streaming platforms", "Television channels", "Radio broadcasts"],
-    "correctAnswer": "Television channels"
+    "question": "What is one of the three key qualities President Murmu highlighted for making public exams better across India, including in Telangana?",
+    "options": ["Affordability", "Speed", "Trustworthiness", "Diversity"],
+    "correctAnswer": "Trustworthiness"
   },
   {
     "id": 15,
-    "question": "The removal of the 12-minute ad cap is widely seen as a measure to financially support which sector within the Indian media landscape, including regional channels popular in Telangana and Andhra Pradesh?",
-    "options": ["Film production", "Television broadcasting", "Music industry", "Book publishing"],
-    "correctAnswer": "Television broadcasting"
+    "question": "The call for making public exams more transparent and secure, coming from the President, is relevant for the administration of various entrance and board exams conducted by which level of government in India?",
+    "options": ["Central government only", "State governments only", "Both central and state governments", "Private institutions only"],
+    "correctAnswer": "Both central and state governments"
   },
   {
     "id": 16,
-    "question": "The President of India recently approved numerous gallantry awards, recognizing exceptional bravery among defence personnel and central armed police forces across India. Who currently holds the office of President?",
-    "options": ["Ram Nath Kovind", "Droupadi Murmu", "Pranab Mukherjee", "Pratibha Patil"],
-    "correctAnswer": "Droupadi Murmu"
+    "question": "The Supreme Court of India recently quashed a criminal defamation case against a prominent political leader, a decision that impacts legal precedents across all states including Telangana and Andhra Pradesh. Which is the highest judicial body in India?",
+    "options": ["High Court", "District Court", "Supreme Court of India", "National Green Tribunal"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 17,
-    "question": "How many gallantry awards, including those for posthumous recognition, were approved by the President of India recently, honoring brave individuals from various states including Telangana and Andhra Pradesh?",
-    "options": ["48", "58", "68", "78"],
-    "correctAnswer": "78"
+    "question": "Which political leader received relief from the Supreme Court of India in a case related to remarks about Savarkar?",
+    "options": ["Amit Shah", "Rahul Gandhi", "Uddhav Thackeray", "Sharad Pawar"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 18,
-    "question": "Among the gallantry awards approved by the President, which of the following is one of the highest peacetime gallantry awards mentioned?",
-    "options": ["Param Vir Chakra", "Ashoka Chakra", "Kirti Chakra", "Vir Chakra"],
-    "correctAnswer": "Kirti Chakra"
+    "question": "The Supreme Court's decision to quash a case against a political leader highlights the role of the judiciary in upholding which fundamental right, applicable to all citizens of India, including those in Andhra Pradesh?",
+    "options": ["Right to privacy", "Right to education", "Freedom of speech and expression", "Right to property"],
+    "correctAnswer": "Freedom of speech and expression"
   },
   {
     "id": 19,
-    "question": "Which significant gallantry award, recognizing valor during peacetime, was also prominent among those approved, with 19 instances?",
-    "options": ["Shaurya Chakra", "Maha Vir Chakra", "Chakra", "Sena Medal"],
-    "correctAnswer": "Shaurya Chakra"
+    "question": "In the context of the Supreme Court's recent action, what type of case was quashed against a political leader?",
+    "options": ["Corruption case", "Defamation case", "Electoral fraud case", "Sedition case"],
+    "correctAnswer": "Defamation case"
   },
   {
     "id": 20,
-    "question": "The gallantry awards approved by the President recognize individuals primarily from which groups for their exceptional courage and service to the nation, potentially including personnel hailing from Telangana and Andhra Pradesh?",
-    "options": ["Scientists and researchers", "Defence personnel and central armed police forces", "Artists and cultural figures", "Entrepreneurs and business leaders"],
-    "correctAnswer": "Defence personnel and central armed police forces"
+    "question": "The Supreme Court of India, whose rulings are binding across all states including Telangana, recently adjudicated on a matter concerning a political figure's comments about which historical personality?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "V.D. Savarkar"],
+    "correctAnswer": "V.D. Savarkar"
   },
   {
     "id": 21,
-    "question": "A significant number of the recently approved gallantry awards were given posthumously. What does 'posthumous' signify in this context?",
-    "options": ["Awarded for service in foreign countries", "Awarded to retired personnel", "Awarded after the recipient's death", "Awarded for cultural achievements"],
-    "correctAnswer": "Awarded after the recipient's death"
+    "question": "Which major political party in India recently stated that certain remarks made by a prominent opposition leader were 'unacceptable'?",
+    "options": ["Indian National Congress", "Bahujan Samaj Party", "Bharatiya Janata Party (BJP)", "Aam Aadmi Party"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 22,
-    "question": "Besides Kirti Chakra and Shaurya Chakra, which specific 'Bar' to a gallantry award was also approved by the President, recognizing repeated acts of gallantry?",
-    "options": ["Bar to Param Vir Chakra", "Bar to Maha Vir Chakra", "Bar to Shaurya Chakra", "Bar to Sena Medal"],
-    "correctAnswer": "Bar to Shaurya Chakra"
+    "question": "A privilege notice was recently issued against a Member of Parliament for remarks made against which Union Minister?",
+    "options": ["Nirmala Sitharaman", "S. Jaishankar", "Amit Shah", "Rajnath Singh"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 23,
-    "question": "How many Sena Medals (Gallantry) were approved by the President, including those awarded posthumously, for personnel in the Indian Army?",
-    "options": ["16", "26", "36", "46"],
-    "correctAnswer": "36"
+    "question": "The Ministry of External Affairs (MEA) recently emphasized India's strong ties with which European country, following a political leader's comments?",
+    "options": ["France", "Germany", "Italy", "UK"],
+    "correctAnswer": "Italy"
   },
   {
     "id": 24,
-    "question": "In addition to Army awards, how many Nao Sena Medals (Gallantry) and Vayu Sena Medals (Gallantry) were approved, respectively, for Naval and Air Force personnel?",
-    "options": ["2 and 4", "3 and 5", "4 and 6", "5 and 7"],
-    "correctAnswer": "3 and 5"
+    "question": "In the Indian parliamentary system, against whom was a privilege notice recently served concerning remarks made against a Union Minister?",
+    "options": ["Rahul Gandhi", "Priyanka Gandhi Vadra", "Mallikarjun Kharge", "Shashi Tharoor"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 25,
-    "question": "The approval of these gallantry awards by the President primarily emphasizes the nation's respect and appreciation for what aspect of its defence and CAPF personnel?",
-    "options": ["Academic achievements", "Political affiliations", "Remarkable commitment and courage", "Economic contributions"],
-    "correctAnswer": "Remarkable commitment and courage"
+    "question": "The Ministry of External Affairs' recent statement, relevant to India's global standing and foreign policy, underscored the importance of maintaining strong diplomatic relations with which nation?",
+    "options": ["Japan", "Russia", "Italy", "USA"],
+    "correctAnswer": "Italy"
   }
 ]

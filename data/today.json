@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The recent CAG report highlighted E. coli bacteria in drinking water at railway stations. Which national body is primarily responsible for ensuring water quality at railway stations, including those in Telangana?",
-    "options": [
-      "Telangana State Water Board",
-      "Ministry of Health and Family Welfare",
-      "Indian Railways",
-      "Local Municipal Corporations"
-    ],
-    "correctAnswer": "Indian Railways"
+    "question": "The National Investigation Agency (NIA), a central agency mentioned in the news, also conducts investigations within Telangana. Which city serves as the capital of Telangana and is a major regional hub for various central government agencies?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "What bacterial contaminant, a concern for passengers in Andhra Pradesh, was found in drinking water samples across railway stations according to a recent CAG report?",
-    "options": [
-      "Salmonella Typhi",
-      "Vibrio Cholerae",
-      "E. coli",
-      "Listeria Monocytogenes"
-    ],
-    "correctAnswer": "E. coli"
+    "question": "Given the pan-India presence of security agencies like the NIA, which neighboring state of Andhra Pradesh shares a significant border and is often subject to coordinated security efforts, particularly concerning left-wing extremism?",
+    "options": ["Chhattisgarh", "Tamil Nadu", "Odisha", "Karnataka"],
+    "correctAnswer": "Odisha"
   },
   {
     "id": 3,
-    "question": "In the context of the CAG report on railway water quality, which government body at the state level in Telangana would typically oversee broader public health standards and water safety regulations?",
-    "options": [
-      "Telangana State Health Department",
-      "Telangana State Pollution Control Board",
-      "Hyderabad Metropolitan Water Supply and Sewerage Board",
-      "Telangana Water Resources Development Corporation"
-    ],
-    "correctAnswer": "Telangana State Health Department"
+    "question": "Students from both Telangana and Andhra Pradesh frequently pursue higher education in central universities across India. Which of the following is a prominent central university located in Hyderabad, Telangana?",
+    "options": ["Jawaharlal Nehru Technological University, Hyderabad", "Osmania University", "University of Hyderabad", "Kakatiya University"],
+    "correctAnswer": "University of Hyderabad"
   },
   {
     "id": 4,
-    "question": "If E. coli contamination is detected in the drinking water supply at a major railway station in Andhra Pradesh, which local urban body might share responsibility with railway authorities for the quality of the public water supply?",
-    "options": [
-      "Andhra Pradesh State Road Transport Corporation",
-      "Visakhapatnam Municipal Corporation",
-      "Andhra Pradesh Housing Board",
-      "Andhra Pradesh Tourism Development Corporation"
-    ],
-    "correctAnswer": "Visakhapatnam Municipal Corporation"
+    "question": "Similar to discussions about central institutions like JNU, which city in Andhra Pradesh is home to the Central University of Andhra Pradesh?",
+    "options": ["Vijayawada", "Guntur", "Anantapur", "Tirupati"],
+    "correctAnswer": "Anantapur"
   },
   {
     "id": 5,
-    "question": "The CAG report on E. coli in railway station water raises health concerns. What are the primary health risks associated with E. coli bacteria found in drinking water, especially for travelers passing through Telangana?",
-    "options": [
-      "Respiratory infections",
-      "Skin allergies",
-      "Gastrointestinal diseases",
-      "Neurological disorders"
-    ],
-    "correctAnswer": "Gastrointestinal diseases"
+    "question": "The news highlighted the importance of judicial accountability. The High Court for the State of Telangana is permanently located in which city?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 6,
-    "question": "Following the CAG report's implications, which Union Ministry is ultimately responsible for railway infrastructure, passenger amenities, and safety across India, including for stations in Andhra Pradesh?",
-    "options": [
-      "Ministry of Road Transport and Highways",
-      "Ministry of Health and Family Welfare",
-      "Ministry of Railways",
-      "Ministry of Urban Development"
-    ],
-    "correctAnswer": "Ministry of Railways"
+    "question": "Following the bifurcation of the erstwhile Andhra Pradesh High Court, where is the High Court of Andhra Pradesh currently located?",
+    "options": ["Vijayawada", "Guntur", "Amaravati", "Visakhapatnam"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 7,
-    "question": "The acronym 'CAG' refers to the body that released the report on E. coli in railway water. What does CAG stand for?",
-    "options": [
-      "Central Audit Group",
-      "Comptroller and Auditor General",
-      "Consumer Affairs Guild",
-      "Council for Agricultural Growth"
-    ],
-    "correctAnswer": "Comptroller and Auditor General"
+    "question": "In the context of judicial matters discussed in the news, who is the current Chief Justice of the High Court for the State of Telangana?",
+    "options": ["Justice Alok Aradhe", "Justice Ujjal Bhuyan", "Justice Raghvendra Singh Chauhan", "Justice Satish Chandra Sharma"],
+    "correctAnswer": "Justice Alok Aradhe"
   },
   {
     "id": 8,
-    "question": "Besides E. coli, which other common contaminants are generally monitored in public drinking water supplies, including those at railway stations in India, relevant to passenger health in Andhra Pradesh?",
-    "options": [
-      "Lead and Arsenic",
-      "Fluoride and Nitrates",
-      "Pesticides and Heavy Metals",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
+    "question": "Following the discussions on judicial conduct, who is the current Chief Justice of the High Court of Andhra Pradesh?",
+    "options": ["Justice Dhiraj Singh Thakur", "Justice Prashant Kumar Mishra", "Justice J.K. Maheswari", "Justice A.K. Goswami"],
+    "correctAnswer": "Justice Dhiraj Singh Thakur"
   },
   {
     "id": 9,
-    "question": "What is a common method employed by railway authorities at stations in Telangana to purify drinking water and prevent bacterial contamination?",
-    "options": [
-      "Distillation",
-      "UV filtration",
-      "Sedimentation ponds",
-      "Carbonation"
-    ],
-    "correctAnswer": "UV filtration"
+    "question": "An incident occurred at Varanasi airport. The Rajiv Gandhi International Airport (RGIA), a major aviation hub, serves which prominent city in Telangana?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 10,
-    "question": "Which Zonal Railway division primarily covers the railway network across both Telangana and a significant portion of Andhra Pradesh?",
-    "options": [
-      "Southern Railway",
-      "South Western Railway",
-      "South Central Railway",
-      "East Coast Railway"
-    ],
-    "correctAnswer": "South Central Railway"
+    "question": "Expanding on airport infrastructure, which city in Andhra Pradesh is home to the Visakhapatnam International Airport?",
+    "options": ["Vijayawada", "Guntur", "Visakhapatnam", "Kakinada"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 11,
-    "question": "In response to concerns about drinking water quality, what is the brand name of packaged drinking water provided by Indian Railways at its stations, including those in Andhra Pradesh?",
-    "options": [
-      "Rail Jal",
-      "Rail Neer",
-      "Jal Suraksha",
-      "Amrut Jal"
-    ],
-    "correctAnswer": "Rail Neer"
+    "question": "Another key airport in Andhra Pradesh, Gannavaram Airport, serves which major city in the state?",
+    "options": ["Tirupati", "Kadapa", "Rajahmundry", "Vijayawada"],
+    "correctAnswer": "Vijayawada"
   },
   {
     "id": 12,
-    "question": "To ensure immediate access to safe drinking water for passengers, what measure could railway stations in Andhra Pradesh most directly adopt following a report on water quality issues?",
-    "options": [
-      "Constructing new dedicated water treatment plants for each station",
-      "Relying solely on external municipal water supplies without further treatment",
-      "Providing access to packaged bottled drinking water",
-      "Installing decorative water features at platforms"
-    ],
-    "correctAnswer": "Providing access to packaged bottled drinking water"
+    "question": "Given the importance of aviation security, which major international airport serves Hyderabad, Telangana, and is one of the busiest in South India?",
+    "options": ["Begumpet Airport", "Warangal Airport", "Rajiv Gandhi International Airport", "Shamshabad Airport"],
+    "correctAnswer": "Rajiv Gandhi International Airport"
   },
   {
     "id": 13,
-    "question": "The CAG report implies a need for stricter monitoring. What advanced technology is commonly used for the rapid detection and identification of bacterial contaminants like E. coli in water samples in laboratories serving railway zones in Telangana?",
-    "options": [
-      "Gas Chromatography-Mass Spectrometry (GC-MS)",
-      "Atomic Absorption Spectroscopy (AAS)",
-      "Polymerase Chain Reaction (PCR)",
-      "X-ray Diffraction (XRD)"
-    ],
-    "correctAnswer": "Polymerase Chain Reaction (PCR)"
+    "question": "The news detailed political events in West Bengal. Which political party, founded by K. Chandrashekar Rao, governed Telangana for a decade before the 2023 assembly elections?",
+    "options": ["Indian National Congress", "Bharat Rashtra Samithi", "Bharatiya Janata Party", "Telugu Desam Party"],
+    "correctAnswer": "Bharat Rashtra Samithi"
   },
   {
     "id": 14,
-    "question": "What common symptom would most likely be experienced by passengers in Andhra Pradesh who consume drinking water contaminated with E. coli at railway stations?",
-    "options": [
-      "Persistent cough and fever",
-      "Sudden hair loss",
-      "Severe abdominal cramps and diarrhea",
-      "Joint pain and swelling"
-    ],
-    "correctAnswer": "Severe abdominal cramps and diarrhea"
+    "question": "Following the political discussions in the news, who is the current Chief Minister of Telangana, leading the government formed after the 2023 assembly elections?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Etela Rajender"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 15,
-    "question": "Beyond railways, which state-level body in Telangana is generally responsible for managing and supplying potable water to urban households, which indirectly affects water sources for other public utilities?",
-    "options": [
-      "Telangana State Irrigation Department",
-      "Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB)",
-      "Telangana State Electricity Board",
-      "Telangana Rural Development Department"
-    ],
-    "correctAnswer": "Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB)"
+    "question": "The news covered various political matters. Which political party is currently in power in Andhra Pradesh?",
+    "options": ["Telugu Desam Party", "YSR Congress Party", "Jana Sena Party", "Bharatiya Janata Party"],
+    "correctAnswer": "YSR Congress Party"
   },
   {
     "id": 16,
-    "question": "PM Modi recently discussed 'ideological Naxals' and the nearing end of armed Naxalism. Which Indian states, including parts of Telangana and Andhra Pradesh, have historically been significantly affected by Naxalite movements?",
-    "options": [
-      "Gujarat and Punjab",
-      "Rajasthan and Haryana",
-      "Chhattisgarh and Jharkhand",
-      "Kerala and Tamil Nadu"
-    ],
-    "correctAnswer": "Chhattisgarh and Jharkhand"
+    "question": "Who is the current Chief Minister of Andhra Pradesh?",
+    "options": ["N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan", "K. Chandrashekar Rao"],
+    "correctAnswer": "Y. S. Jagan Mohan Reddy"
   },
   {
     "id": 17,
-    "question": "P. Chidambaram's comment on the 'dimagi naxal' label refers to an ideology. What is the fundamental political ideology associated with Naxalism, which has historically influenced regions bordering Telangana and Andhra Pradesh?",
-    "options": [
-      "Liberalism",
-      "Marxism-Leninism-Maoism",
-      "Gandhian Socialism",
-      "Hindu Nationalism"
-    ],
-    "correctAnswer": "Marxism-Leninism-Maoism"
+    "question": "The news reported on political dynamics. Which former Chief Minister of united Andhra Pradesh played a pivotal role in the formation of the Telugu Desam Party?",
+    "options": ["Y. S. Rajasekhara Reddy", "N. T. Rama Rao", "Kasu Brahmananda Reddy", "P. V. Narasimha Rao"],
+    "correctAnswer": "N. T. Rama Rao"
   },
   {
     "id": 18,
-    "question": "Which particular forested and tribal region in Andhra Pradesh is historically known for its vulnerability to left-wing extremism and Naxalite activity?",
-    "options": [
-      "Rayalaseema Region",
-      "Coastal Andhra Districts",
-      "Godavari Agency Area",
-      "Amaravati Capital Region"
-    ],
-    "correctAnswer": "Godavari Agency Area"
+    "question": "Which prominent political leader from Telangana led the statehood movement for a separate Telangana state?",
+    "options": ["K. T. Rama Rao", "K. Chandrashekar Rao", "Harish Rao", "T. Harish Rao"],
+    "correctAnswer": "K. Chandrashekar Rao"
   },
   {
     "id": 19,
-    "question": "Before state bifurcation, which erstwhile district in Telangana was particularly known for being significantly impacted by Naxalite activity and often cited in security reviews?",
-    "options": [
-      "Medak",
-      "Karimnagar",
-      "Ranga Reddy",
-      "Nalgonda"
-    ],
-    "correctAnswer": "Karimnagar"
+    "question": "The news discussed political parties and their roles. Which national party has a significant historical and current presence in both Telangana and Andhra Pradesh, often contesting against regional parties?",
+    "options": ["Aam Aadmi Party", "Bahujan Samaj Party", "Indian National Congress", "Trinamool Congress"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 20,
-    "question": "What is the primary objective of armed Naxalite groups operating in parts of India, including historically affected areas of Telangana and Andhra Pradesh?",
-    "options": [
-      "To promote agricultural reforms peacefully",
-      "To establish a communist state through armed rebellion",
-      "To advocate for corporate investments in rural areas",
-      "To improve diplomatic relations with neighboring countries"
-    ],
-    "correctAnswer": "To establish a communist state through armed rebellion"
+    "question": "The term 'Naxals' was mentioned in political discourse. Which district in Telangana has historically been significantly affected by left-wing extremism (Naxalism)?",
+    "options": ["Medak", "Nalgonda", "Bhadradri Kothagudem", "Rangareddy"],
+    "correctAnswer": "Bhadradri Kothagudem"
   },
   {
     "id": 21,
-    "question": "The term 'Naxal' is derived from Naxalbari, a village in which Indian state, often cited when discussing the origins of the movement that later spread to states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Bihar",
-      "Odisha",
-      "West Bengal",
-      "Jharkhand"
-    ],
-    "correctAnswer": "West Bengal"
+    "question": "While national parliamentary sessions were in focus, which city is proposed to be the executive capital of Andhra Pradesh by the current government, aiming for decentralized development?",
+    "options": ["Kurnool", "Visakhapatnam", "Vijayawada", "Amaravati"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 22,
-    "question": "Which central armed police force is frequently deployed by the Indian government to assist state police forces, including those in Telangana and Andhra Pradesh, in anti-Naxalite operations?",
-    "options": [
-      "Border Security Force (BSF)",
-      "Central Reserve Police Force (CRPF)",
-      "Indo-Tibetan Border Police (ITBP)",
-      "Sashastra Seema Bal (SSB)"
-    ],
-    "correctAnswer": "Central Reserve Police Force (CRPF)"
+    "question": "Discussions about national symbols and culture occurred. Which state, Telangana or Andhra Pradesh, celebrates the Bonalu festival as a state festival, showcasing its rich cultural heritage?",
+    "options": ["Andhra Pradesh", "Telangana", "Both", "Neither"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 23,
-    "question": "The 'Greyhounds' is a renowned elite anti-Naxalite commando force primarily belonging to the police departments of which two Indian states, historically active in combating extremism?",
-    "options": [
-      "Maharashtra and Gujarat",
-      "Andhra Pradesh and Telangana",
-      "Odisha and Chhattisgarh",
-      "Bihar and Jharkhand"
-    ],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "The Supreme Court is hearing the Cauvery water dispute. The Krishna River Management Board (KRMB), which oversees water sharing for the Krishna River among riparian states, including Telangana and Andhra Pradesh, has its headquarters in which city?",
+    "options": ["Vijayawada", "Hyderabad", "Kurnool", "Amaravati"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 24,
-    "question": "What socio-economic factors are frequently identified as underlying causes for the rise and persistence of Naxalism in tribal and underdeveloped regions, including those in Andhra Pradesh and Telangana?",
-    "options": [
-      "Widespread industrialization and urbanization",
-      "Land alienation, lack of basic amenities, and exploitation of natural resources",
-      "High literacy rates and advanced technological adoption",
-      "Strong democratic institutions and effective governance"
-    ],
-    "correctAnswer": "Land alienation, lack of basic amenities, and exploitation of natural resources"
+    "question": "Following the news of inter-state water disputes, which major dam on the Krishna River is a critical source of irrigation and power for both Telangana and Andhra Pradesh?",
+    "options": ["Srisailam Dam", "Nagarjuna Sagar Dam", "Polavaram Dam", "Dowleswaram Barrage"],
+    "correctAnswer": "Nagarjuna Sagar Dam"
   },
   {
     "id": 25,
-    "question": "What type of government intervention or scheme is often implemented in Naxal-affected areas, including specific regions of Telangana, focusing on development to counter extremist influence?",
-    "options": [
-      "Large-scale luxury tourism projects",
-      "Integrated Action Plan (IAP) for focused development",
-      "Creation of exclusive economic zones for foreign investors",
-      "Promoting large-scale mining operations without local consent"
-    ],
-    "correctAnswer": "Integrated Action Plan (IAP) for focused development"
+    "question": "The Godavari River is a major lifeline for Telangana and Andhra Pradesh. Which project in Andhra Pradesh aims to divert Godavari water to the Krishna basin, addressing water scarcity in drought-prone areas?",
+    "options": ["Nagarjuna Sagar Project", "Srisailam Project", "Polavaram Project", "Pattiseema Lift Irrigation Project"],
+    "correctAnswer": "Pattiseema Lift Irrigation Project"
   }
 ]

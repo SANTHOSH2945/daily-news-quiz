@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which prominent law university, located in Hyderabad, Telangana, was recently involved in a row with the Bar Council of India (BCI) regarding a diktat?",
-    "options": ["National Law School of India University (NLSIU)", "NALSAR University of Law", "Gujarat National Law University (GNLU)", "National Law University, Delhi (NLU-D)"],
-    "correctAnswer": "NALSAR University of Law"
+    "question": "What is the primary issue identified regarding panic buttons in buses in India, as per recent reports?",
+    "options": [
+      "Buttons are too complex to operate",
+      "Lack of proper maintenance",
+      "No centres to hear activated panic calls",
+      "Public unawareness of their purpose"
+    ],
+    "correctAnswer": "No centres to hear activated panic calls"
   },
   {
     "id": 2,
-    "question": "Manan Kumar Mishra, the Chairman of which national legal body, recently apologized to law students following a controversy involving NALSAR University of Law in Telangana?",
-    "options": ["Supreme Court Bar Association", "Bar Council of India (BCI)", "All India Bar Examination (AIBE) Council", "National Green Tribunal (NGT)"],
-    "correctAnswer": "Bar Council of India (BCI)"
+    "question": "What is the intended purpose of panic buttons in public transport buses?",
+    "options": [
+      "To control bus speed",
+      "To alert passengers about the next stop",
+      "To summon emergency assistance for passengers",
+      "To regulate air conditioning"
+    ],
+    "correctAnswer": "To summon emergency assistance for passengers"
   },
   {
     "id": 3,
-    "question": "The controversy between the Bar Council of India (BCI) and NALSAR University of Law, a key institution in Telangana, primarily concerned what aspect?",
-    "options": ["Admission policies for foreign students", "The syllabus for constitutional law", "A specific diktat issued by the BCI", "Funding allocation for legal aid programs"],
-    "correctAnswer": "A specific diktat issued by the BCI"
+    "question": "If implemented effectively, which demographic group is particularly expected to benefit from functional panic buttons in public transport in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Daily commuters using office transport",
+      "School children on dedicated buses",
+      "Women and vulnerable individuals",
+      "Tourists in inter-state buses"
+    ],
+    "correctAnswer": "Women and vulnerable individuals"
   },
   {
     "id": 4,
-    "question": "For how many years has Manan Kumar Mishra been at the helm of the Bar Council of India, a body whose decisions impact legal education in states like Telangana?",
-    "options": ["5 years", "8 years", "10 years", "14 years"],
-    "correctAnswer": "14 years"
+    "question": "What crucial infrastructure is reported to be missing, rendering panic buttons ineffective across India's public transport system?",
+    "options": [
+      "GPS tracking systems",
+      "Centralized monitoring and response centres",
+      "High-speed internet connectivity",
+      "Advanced communication devices for drivers"
+    ],
+    "correctAnswer": "Centralized monitoring and response centres"
   },
   {
     "id": 5,
-    "question": "The Bar Council of India (BCI), involved in a recent dispute with NALSAR in Hyderabad, is the apex regulatory body for which profession in India?",
-    "options": ["Medicine", "Engineering", "Law", "Journalism"],
-    "correctAnswer": "Law"
+    "question": "Which regulatory body often mandates the installation of safety features like panic buttons in public transport vehicles in India?",
+    "options": [
+      "Ministry of Railways",
+      "Ministry of Road Transport and Highways",
+      "Bureau of Indian Standards",
+      "State Transport Corporations"
+    ],
+    "correctAnswer": "Ministry of Road Transport and Highways"
   },
   {
     "id": 6,
-    "question": "NALSAR University of Law, which was central to a recent news controversy, is located in which Indian city, a capital of an emphasized state?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which national body's chairman recently faced scrutiny regarding professional conduct and a diktat affecting law students, specifically linked to NALSAR?",
+    "options": [
+      "Medical Council of India (MCI)",
+      "Bar Council of India (BCI)",
+      "University Grants Commission (UGC)",
+      "All India Council for Technical Education (AICTE)"
+    ],
+    "correctAnswer": "Bar Council of India (BCI)"
   },
   {
     "id": 7,
-    "question": "What was the general sentiment expressed by the BCI Chairman after the row with NALSAR University of Law regarding their diktat?",
-    "options": ["Defiance and refusal to back down", "An apology to law students", "A call for stricter regulations", "Demand for an external inquiry"],
-    "correctAnswer": "An apology to law students"
+    "question": "The controversy involving the BCI chairman and law students originated partly from a diktat concerning which prominent law university located in Hyderabad?",
+    "options": [
+      "National Law School of India University (NLSIU)",
+      "NALSAR University of Law",
+      "Indian Law Institute (ILI)",
+      "Symbiosis Law School"
+    ],
+    "correctAnswer": "NALSAR University of Law"
   },
   {
     "id": 8,
-    "question": "The NALSAR controversy highlights the interaction between a national regulatory body and a premier educational institution in which state?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "NALSAR University of Law, central to a recent Bar Council of India controversy, is situated in which Indian city, a capital of a prominent South Indian state?",
+    "options": [
+      "Bengaluru",
+      "Chennai",
+      "Hyderabad",
+      "Kochi"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 9,
-    "question": "The recent news mentions the re-emphasis on the Women's Quota Bill by the Prime Minister. This bill, if implemented, primarily aims to reserve seats for women in which legislative bodies across India, including states like Telangana and Andhra Pradesh?",
-    "options": ["Gram Panchayats only", "Municipal Corporations only", "Lok Sabha and State Assemblies", "Rajya Sabha only"],
-    "correctAnswer": "Lok Sabha and State Assemblies"
+    "question": "Who is the current Chairman of the Bar Council of India, who recently issued an apology to law students amidst a controversy?",
+    "options": [
+      "D.V. Sadananda Gowda",
+      "K.K. Venugopal",
+      "Manan Kumar Mishra",
+      "Tushar Mehta"
+    ],
+    "correctAnswer": "Manan Kumar Mishra"
   },
   {
     "id": 10,
-    "question": "The Women's Quota Bill, also known as 'Nari Shakti Vandan Adhiniyam', was passed by Parliament in which month of 2023, as mentioned in the news context?",
-    "options": ["July 2023", "August 2023", "September 2023", "October 2023"],
-    "correctAnswer": "September 2023"
+    "question": "What was the primary subject of the diktat issued by the Bar Council of India that led to a controversy involving NALSAR students, as implied by the news?",
+    "options": [
+      "Dress code for court appearances",
+      "Attendance requirements for law internships",
+      "Rules governing online law courses",
+      "Regulations on professional conduct for legal education"
+    ],
+    "correctAnswer": "Regulations on professional conduct for legal education"
   },
   {
     "id": 11,
-    "question": "The re-emphasis on the Women's Quota Bill in the news indicates a push for greater representation for women in which sector of governance, relevant to states like Andhra Pradesh and Telangana?",
-    "options": ["Judiciary", "Executive", "Legislature", "Bureaucracy"],
-    "correctAnswer": "Legislature"
+    "question": "The Bar Council of India (BCI) is the statutory body regulating which profession in India?",
+    "options": [
+      "Medical",
+      "Engineering",
+      "Legal",
+      "Chartered Accountancy"
+    ],
+    "correctAnswer": "Legal"
   },
   {
     "id": 12,
-    "question": "What percentage of seats does the Women's Quota Bill propose to reserve for women in the Lok Sabha and State Assemblies, impacting the political landscape in states like Telangana?",
-    "options": ["10%", "25%", "33%", "50%"],
-    "correctAnswer": "33%"
+    "question": "How long has Manan Kumar Mishra reportedly been at the helm of the Bar Council of India, as per the news headline?",
+    "options": [
+      "5 years",
+      "10 years",
+      "14 years",
+      "20 years"
+    ],
+    "correctAnswer": "14 years"
   },
   {
     "id": 13,
-    "question": "The Women's Quota Bill's implementation across states, including Andhra Pradesh, is subject to which two key processes, as widely discussed?",
-    "options": ["Immediate notification and execution", "Delimitation and Census", "State assembly ratification only", "Presidential assent and judicial review"],
-    "correctAnswer": "Delimitation and Census"
+    "question": "What action did the BCI chairman take following the row over the NALSAR diktat, as reported in one of the headlines?",
+    "options": [
+      "Issued a new diktat",
+      "Dissolved the committee",
+      "Apologised to law students",
+      "Dismissed the university administration"
+    ],
+    "correctAnswer": "Apologised to law students"
   },
   {
     "id": 14,
-    "question": "A recent report highlighted that panic buttons in buses across India, including those in Telangana and Andhra Pradesh, are largely idle due to the absence of what?",
-    "options": ["Sufficient power supply", "Maintenance staff", "Operational control centres to hear alerts", "Public awareness campaigns"],
-    "correctAnswer": "Operational control centres to hear alerts"
+    "question": "NALSAR University of Law is a prominent institution for legal education in which state?",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Maharashtra",
+      "Telangana"
+    ],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 15,
-    "question": "The installation of panic buttons in public transport buses is primarily a measure aimed at enhancing which aspect for passengers, particularly women, in states like Telangana?",
-    "options": ["Ticket booking convenience", "Route optimization", "Passenger safety and security", "Fuel efficiency"],
-    "correctAnswer": "Passenger safety and security"
+    "question": "What type of institution is NALSAR University of Law, which was mentioned in the context of a BCI diktat affecting legal education?",
+    "options": [
+      "Private Engineering College",
+      "National Law University",
+      "State Medical University",
+      "Central Agricultural Institute"
+    ],
+    "correctAnswer": "National Law University"
   },
   {
     "id": 16,
-    "question": "What specific technology is typically integrated with panic buttons in buses to enable real-time tracking and emergency response, a system that would benefit states like Andhra Pradesh if fully operational?",
-    "options": ["NFC (Near Field Communication)", "GPS (Global Positioning System)", "Bluetooth", "Wi-Fi Hotspots"],
-    "correctAnswer": "GPS (Global Positioning System)"
+    "question": "Which significant bill, pertaining to women's representation in legislative bodies, was recently highlighted by PM Modi, having been passed in September 2023?",
+    "options": [
+      "Women's Economic Rights Bill",
+      "Women's Reservation Bill",
+      "Anti-Dowry Amendment Bill",
+      "Maternity Benefit Amendment Bill"
+    ],
+    "correctAnswer": "Women's Reservation Bill"
   },
   {
     "id": 17,
-    "question": "The issue of idle panic buttons points to a lapse in the implementation of which broader national initiative for public transport safety, impacting regions like Telangana?",
-    "options": ["Smart City Mission", "Digital India Initiative", "Nirbhaya Fund-backed projects", "Swachh Bharat Abhiyan"],
-    "correctAnswer": "Nirbhaya Fund-backed projects"
+    "question": "The Women's Reservation Bill aims to provide quotas for women in which legislative bodies across India?",
+    "options": [
+      "Only State Assemblies",
+      "Only Lok Sabha",
+      "Lok Sabha and State Assemblies",
+      "Panchayat and Municipal Bodies"
+    ],
+    "correctAnswer": "Lok Sabha and State Assemblies"
   },
   {
     "id": 18,
-    "question": "For the panic button system in buses to be effective in states like Andhra Pradesh, what crucial infrastructure is required to receive and act upon distress signals?",
-    "options": ["On-board medical staff", "Dedicated bus lanes", "24/7 Monitoring and Emergency Response Centres", "Automated fare collection systems"],
-    "correctAnswer": "24/7 Monitoring and Emergency Response Centres"
+    "question": "Which prominent political party criticized the recent pitch by PM Modi on the women's quota, calling it a 'Dishonest Pitch' as per the news?",
+    "options": [
+      "Bharatiya Janata Party (BJP)",
+      "Indian National Congress (INC)",
+      "All India Trinamool Congress (AITC)",
+      "Aam Aadmi Party (AAP)"
+    ],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 19,
-    "question": "According to a recent CAG audit, which national food regulator failed to penalize a significant number of firms for delayed annual returns, an issue impacting food safety and compliance across states like Telangana and Andhra Pradesh?",
-    "options": ["Bureau of Indian Standards (BIS)", "Food Safety and Standards Authority of India (FSSAI)", "Consumer Protection Authority (CPA)", "Agricultural and Processed Food Products Export Development Authority (APEDA)"],
-    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
+    "question": "How does the Women's Reservation Bill, if fully implemented, directly impact legislative bodies in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It mandates equal pay for women MLAs",
+      "It reserves seats for women in their respective state assemblies",
+      "It provides financial grants to women-led businesses",
+      "It establishes new women's commissions in states"
+    ],
+    "correctAnswer": "It reserves seats for women in their respective state assemblies"
   },
   {
     "id": 20,
-    "question": "The CAG audit covering 2017-18 through 2022-23 highlighted FSSAI's oversight in failing to penalize approximately how many food businesses for delaying their annual returns, affecting compliance in all states including AP?",
-    "options": ["500 firms", "1,200 firms", "2,430 firms", "5,000 firms"],
-    "correctAnswer": "2,430 firms"
+    "question": "What percentage of seats is proposed to be reserved for women in the Lok Sabha and State Assemblies under the Women's Reservation Bill?",
+    "options": [
+      "25%",
+      "33%",
+      "40%",
+      "50%"
+    ],
+    "correctAnswer": "33%"
   },
   {
     "id": 21,
-    "question": "What was the approximate total amount of penalties accumulated by businesses due to late or non-filing of annual returns, which FSSAI failed to enforce as per the CAG report, impacting nationwide compliance including Telangana?",
-    "options": ["Rs 1 crore", "Rs 3.5 crore", "Rs 5.60 crore", "Rs 10 crore"],
-    "correctAnswer": "Rs 5.60 crore"
+    "question": "Which national food regulator was criticized by a recent CAG audit for failing to penalize a significant number of firms for non-compliance?",
+    "options": [
+      "Bureau of Indian Standards (BIS)",
+      "Food Safety and Standards Authority of India (FSSAI)",
+      "Department of Consumer Affairs (DCA)",
+      "Agricultural and Processed Food Products Export Development Authority (APEDA)"
+    ],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 22,
-    "question": "As of August 2023, what action had FSSAI *not* taken against the non-compliant businesses mentioned in the CAG audit, despite issuing improvement notices, an issue that impacts regulatory effectiveness in states like Andhra Pradesh?",
-    "options": ["Imposed monetary fines", "Suspended or revoked licenses", "Sent warning letters", "Conducted follow-up inspections"],
-    "correctAnswer": "Suspended or revoked licenses"
+    "question": "What was the primary reason for the penalties accumulated by 2,430 food businesses mentioned in the CAG audit of FSSAI?",
+    "options": [
+      "Use of substandard ingredients",
+      "Misleading advertisements",
+      "Delayed or non-filing of annual returns",
+      "Operating without a valid license"
+    ],
+    "correctAnswer": "Delayed or non-filing of annual returns"
   },
   {
     "id": 23,
-    "question": "The FSSAI's failure to enforce penalties, as pointed out by the CAG, signifies a shortcoming in which key area of its mandate, crucial for consumer health in states like Telangana and AP?",
-    "options": ["Product innovation", "Research and development", "Enforcement and compliance", "International collaborations"],
-    "correctAnswer": "Enforcement and compliance"
+    "question": "The audit by CAG covering FSSAI's oversight in failing to penalize firms spanned which period?",
+    "options": [
+      "2010-11 through 2015-16",
+      "2017-18 through 2022-23",
+      "2019-20 through 2021-22",
+      "2015-16 through 2020-21"
+    ],
+    "correctAnswer": "2017-18 through 2022-23"
   },
   {
     "id": 24,
-    "question": "The CAG audit specifically covered the period from 2017-18 to which financial year for its assessment of FSSAI's performance, relevant to food businesses in states across India, including Telangana?",
-    "options": ["2019-20", "2020-21", "2021-22", "2022-23"],
-    "correctAnswer": "2022-23"
+    "question": "What is the full form of FSSAI, the food regulator mentioned in the CAG report highlighting enforcement shortcomings?",
+    "options": [
+      "Federal Sanitation Standards and Accreditation Institute",
+      "Food Security and Safety Administration of India",
+      "Food Safety and Standards Authority of India",
+      "Forum for Sustainable Supply chain in Agriculture Industry"
+    ],
+    "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
     "id": 25,
-    "question": "What type of document were the 2,430 firms mentioned in the CAG audit failing to submit on time to FSSAI, which led to accumulated penalties and impacts regulatory oversight in states like Andhra Pradesh?",
-    "options": ["Quarterly tax returns", "Environmental impact assessments", "Annual returns (regulatory filings)", "Employee payroll records"],
-    "correctAnswer": "Annual returns (regulatory filings)"
+    "question": "The CAG audit highlighted major enforcement shortcomings by FSSAI regarding food businesses across India, which would implicitly include businesses operating in which two prominent South Indian states?",
+    "options": [
+      "Kerala and Karnataka",
+      "Gujarat and Rajasthan",
+      "Telangana and Andhra Pradesh",
+      "West Bengal and Odisha"
+    ],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   }
 ]

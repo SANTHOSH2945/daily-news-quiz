@@ -1,277 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is the primary issue identified regarding panic buttons in buses in India, as per recent reports?",
+    "question": "The recent CAG report highlighted E. coli bacteria in drinking water at railway stations. Which national body is primarily responsible for ensuring water quality at railway stations, including those in Telangana?",
     "options": [
-      "Buttons are too complex to operate",
-      "Lack of proper maintenance",
-      "No centres to hear activated panic calls",
-      "Public unawareness of their purpose"
+      "Telangana State Water Board",
+      "Ministry of Health and Family Welfare",
+      "Indian Railways",
+      "Local Municipal Corporations"
     ],
-    "correctAnswer": "No centres to hear activated panic calls"
+    "correctAnswer": "Indian Railways"
   },
   {
     "id": 2,
-    "question": "What is the intended purpose of panic buttons in public transport buses?",
+    "question": "What bacterial contaminant, a concern for passengers in Andhra Pradesh, was found in drinking water samples across railway stations according to a recent CAG report?",
     "options": [
-      "To control bus speed",
-      "To alert passengers about the next stop",
-      "To summon emergency assistance for passengers",
-      "To regulate air conditioning"
+      "Salmonella Typhi",
+      "Vibrio Cholerae",
+      "E. coli",
+      "Listeria Monocytogenes"
     ],
-    "correctAnswer": "To summon emergency assistance for passengers"
+    "correctAnswer": "E. coli"
   },
   {
     "id": 3,
-    "question": "If implemented effectively, which demographic group is particularly expected to benefit from functional panic buttons in public transport in states like Telangana and Andhra Pradesh?",
+    "question": "In the context of the CAG report on railway water quality, which government body at the state level in Telangana would typically oversee broader public health standards and water safety regulations?",
     "options": [
-      "Daily commuters using office transport",
-      "School children on dedicated buses",
-      "Women and vulnerable individuals",
-      "Tourists in inter-state buses"
+      "Telangana State Health Department",
+      "Telangana State Pollution Control Board",
+      "Hyderabad Metropolitan Water Supply and Sewerage Board",
+      "Telangana Water Resources Development Corporation"
     ],
-    "correctAnswer": "Women and vulnerable individuals"
+    "correctAnswer": "Telangana State Health Department"
   },
   {
     "id": 4,
-    "question": "What crucial infrastructure is reported to be missing, rendering panic buttons ineffective across India's public transport system?",
+    "question": "If E. coli contamination is detected in the drinking water supply at a major railway station in Andhra Pradesh, which local urban body might share responsibility with railway authorities for the quality of the public water supply?",
     "options": [
-      "GPS tracking systems",
-      "Centralized monitoring and response centres",
-      "High-speed internet connectivity",
-      "Advanced communication devices for drivers"
+      "Andhra Pradesh State Road Transport Corporation",
+      "Visakhapatnam Municipal Corporation",
+      "Andhra Pradesh Housing Board",
+      "Andhra Pradesh Tourism Development Corporation"
     ],
-    "correctAnswer": "Centralized monitoring and response centres"
+    "correctAnswer": "Visakhapatnam Municipal Corporation"
   },
   {
     "id": 5,
-    "question": "Which regulatory body often mandates the installation of safety features like panic buttons in public transport vehicles in India?",
+    "question": "The CAG report on E. coli in railway station water raises health concerns. What are the primary health risks associated with E. coli bacteria found in drinking water, especially for travelers passing through Telangana?",
     "options": [
-      "Ministry of Railways",
-      "Ministry of Road Transport and Highways",
-      "Bureau of Indian Standards",
-      "State Transport Corporations"
+      "Respiratory infections",
+      "Skin allergies",
+      "Gastrointestinal diseases",
+      "Neurological disorders"
     ],
-    "correctAnswer": "Ministry of Road Transport and Highways"
+    "correctAnswer": "Gastrointestinal diseases"
   },
   {
     "id": 6,
-    "question": "Which national body's chairman recently faced scrutiny regarding professional conduct and a diktat affecting law students, specifically linked to NALSAR?",
+    "question": "Following the CAG report's implications, which Union Ministry is ultimately responsible for railway infrastructure, passenger amenities, and safety across India, including for stations in Andhra Pradesh?",
     "options": [
-      "Medical Council of India (MCI)",
-      "Bar Council of India (BCI)",
-      "University Grants Commission (UGC)",
-      "All India Council for Technical Education (AICTE)"
+      "Ministry of Road Transport and Highways",
+      "Ministry of Health and Family Welfare",
+      "Ministry of Railways",
+      "Ministry of Urban Development"
     ],
-    "correctAnswer": "Bar Council of India (BCI)"
+    "correctAnswer": "Ministry of Railways"
   },
   {
     "id": 7,
-    "question": "The controversy involving the BCI chairman and law students originated partly from a diktat concerning which prominent law university located in Hyderabad?",
+    "question": "The acronym 'CAG' refers to the body that released the report on E. coli in railway water. What does CAG stand for?",
     "options": [
-      "National Law School of India University (NLSIU)",
-      "NALSAR University of Law",
-      "Indian Law Institute (ILI)",
-      "Symbiosis Law School"
+      "Central Audit Group",
+      "Comptroller and Auditor General",
+      "Consumer Affairs Guild",
+      "Council for Agricultural Growth"
     ],
-    "correctAnswer": "NALSAR University of Law"
+    "correctAnswer": "Comptroller and Auditor General"
   },
   {
     "id": 8,
-    "question": "NALSAR University of Law, central to a recent Bar Council of India controversy, is situated in which Indian city, a capital of a prominent South Indian state?",
+    "question": "Besides E. coli, which other common contaminants are generally monitored in public drinking water supplies, including those at railway stations in India, relevant to passenger health in Andhra Pradesh?",
     "options": [
-      "Bengaluru",
-      "Chennai",
-      "Hyderabad",
-      "Kochi"
+      "Lead and Arsenic",
+      "Fluoride and Nitrates",
+      "Pesticides and Heavy Metals",
+      "All of the above"
     ],
-    "correctAnswer": "Hyderabad"
+    "correctAnswer": "All of the above"
   },
   {
     "id": 9,
-    "question": "Who is the current Chairman of the Bar Council of India, who recently issued an apology to law students amidst a controversy?",
+    "question": "What is a common method employed by railway authorities at stations in Telangana to purify drinking water and prevent bacterial contamination?",
     "options": [
-      "D.V. Sadananda Gowda",
-      "K.K. Venugopal",
-      "Manan Kumar Mishra",
-      "Tushar Mehta"
+      "Distillation",
+      "UV filtration",
+      "Sedimentation ponds",
+      "Carbonation"
     ],
-    "correctAnswer": "Manan Kumar Mishra"
+    "correctAnswer": "UV filtration"
   },
   {
     "id": 10,
-    "question": "What was the primary subject of the diktat issued by the Bar Council of India that led to a controversy involving NALSAR students, as implied by the news?",
+    "question": "Which Zonal Railway division primarily covers the railway network across both Telangana and a significant portion of Andhra Pradesh?",
     "options": [
-      "Dress code for court appearances",
-      "Attendance requirements for law internships",
-      "Rules governing online law courses",
-      "Regulations on professional conduct for legal education"
+      "Southern Railway",
+      "South Western Railway",
+      "South Central Railway",
+      "East Coast Railway"
     ],
-    "correctAnswer": "Regulations on professional conduct for legal education"
+    "correctAnswer": "South Central Railway"
   },
   {
     "id": 11,
-    "question": "The Bar Council of India (BCI) is the statutory body regulating which profession in India?",
+    "question": "In response to concerns about drinking water quality, what is the brand name of packaged drinking water provided by Indian Railways at its stations, including those in Andhra Pradesh?",
     "options": [
-      "Medical",
-      "Engineering",
-      "Legal",
-      "Chartered Accountancy"
+      "Rail Jal",
+      "Rail Neer",
+      "Jal Suraksha",
+      "Amrut Jal"
     ],
-    "correctAnswer": "Legal"
+    "correctAnswer": "Rail Neer"
   },
   {
     "id": 12,
-    "question": "How long has Manan Kumar Mishra reportedly been at the helm of the Bar Council of India, as per the news headline?",
+    "question": "To ensure immediate access to safe drinking water for passengers, what measure could railway stations in Andhra Pradesh most directly adopt following a report on water quality issues?",
     "options": [
-      "5 years",
-      "10 years",
-      "14 years",
-      "20 years"
+      "Constructing new dedicated water treatment plants for each station",
+      "Relying solely on external municipal water supplies without further treatment",
+      "Providing access to packaged bottled drinking water",
+      "Installing decorative water features at platforms"
     ],
-    "correctAnswer": "14 years"
+    "correctAnswer": "Providing access to packaged bottled drinking water"
   },
   {
     "id": 13,
-    "question": "What action did the BCI chairman take following the row over the NALSAR diktat, as reported in one of the headlines?",
+    "question": "The CAG report implies a need for stricter monitoring. What advanced technology is commonly used for the rapid detection and identification of bacterial contaminants like E. coli in water samples in laboratories serving railway zones in Telangana?",
     "options": [
-      "Issued a new diktat",
-      "Dissolved the committee",
-      "Apologised to law students",
-      "Dismissed the university administration"
+      "Gas Chromatography-Mass Spectrometry (GC-MS)",
+      "Atomic Absorption Spectroscopy (AAS)",
+      "Polymerase Chain Reaction (PCR)",
+      "X-ray Diffraction (XRD)"
     ],
-    "correctAnswer": "Apologised to law students"
+    "correctAnswer": "Polymerase Chain Reaction (PCR)"
   },
   {
     "id": 14,
-    "question": "NALSAR University of Law is a prominent institution for legal education in which state?",
+    "question": "What common symptom would most likely be experienced by passengers in Andhra Pradesh who consume drinking water contaminated with E. coli at railway stations?",
     "options": [
-      "Karnataka",
-      "Tamil Nadu",
-      "Maharashtra",
-      "Telangana"
+      "Persistent cough and fever",
+      "Sudden hair loss",
+      "Severe abdominal cramps and diarrhea",
+      "Joint pain and swelling"
     ],
-    "correctAnswer": "Telangana"
+    "correctAnswer": "Severe abdominal cramps and diarrhea"
   },
   {
     "id": 15,
-    "question": "What type of institution is NALSAR University of Law, which was mentioned in the context of a BCI diktat affecting legal education?",
+    "question": "Beyond railways, which state-level body in Telangana is generally responsible for managing and supplying potable water to urban households, which indirectly affects water sources for other public utilities?",
     "options": [
-      "Private Engineering College",
-      "National Law University",
-      "State Medical University",
-      "Central Agricultural Institute"
+      "Telangana State Irrigation Department",
+      "Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB)",
+      "Telangana State Electricity Board",
+      "Telangana Rural Development Department"
     ],
-    "correctAnswer": "National Law University"
+    "correctAnswer": "Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB)"
   },
   {
     "id": 16,
-    "question": "Which significant bill, pertaining to women's representation in legislative bodies, was recently highlighted by PM Modi, having been passed in September 2023?",
+    "question": "PM Modi recently discussed 'ideological Naxals' and the nearing end of armed Naxalism. Which Indian states, including parts of Telangana and Andhra Pradesh, have historically been significantly affected by Naxalite movements?",
     "options": [
-      "Women's Economic Rights Bill",
-      "Women's Reservation Bill",
-      "Anti-Dowry Amendment Bill",
-      "Maternity Benefit Amendment Bill"
+      "Gujarat and Punjab",
+      "Rajasthan and Haryana",
+      "Chhattisgarh and Jharkhand",
+      "Kerala and Tamil Nadu"
     ],
-    "correctAnswer": "Women's Reservation Bill"
+    "correctAnswer": "Chhattisgarh and Jharkhand"
   },
   {
     "id": 17,
-    "question": "The Women's Reservation Bill aims to provide quotas for women in which legislative bodies across India?",
+    "question": "P. Chidambaram's comment on the 'dimagi naxal' label refers to an ideology. What is the fundamental political ideology associated with Naxalism, which has historically influenced regions bordering Telangana and Andhra Pradesh?",
     "options": [
-      "Only State Assemblies",
-      "Only Lok Sabha",
-      "Lok Sabha and State Assemblies",
-      "Panchayat and Municipal Bodies"
+      "Liberalism",
+      "Marxism-Leninism-Maoism",
+      "Gandhian Socialism",
+      "Hindu Nationalism"
     ],
-    "correctAnswer": "Lok Sabha and State Assemblies"
+    "correctAnswer": "Marxism-Leninism-Maoism"
   },
   {
     "id": 18,
-    "question": "Which prominent political party criticized the recent pitch by PM Modi on the women's quota, calling it a 'Dishonest Pitch' as per the news?",
+    "question": "Which particular forested and tribal region in Andhra Pradesh is historically known for its vulnerability to left-wing extremism and Naxalite activity?",
     "options": [
-      "Bharatiya Janata Party (BJP)",
-      "Indian National Congress (INC)",
-      "All India Trinamool Congress (AITC)",
-      "Aam Aadmi Party (AAP)"
+      "Rayalaseema Region",
+      "Coastal Andhra Districts",
+      "Godavari Agency Area",
+      "Amaravati Capital Region"
     ],
-    "correctAnswer": "Indian National Congress (INC)"
+    "correctAnswer": "Godavari Agency Area"
   },
   {
     "id": 19,
-    "question": "How does the Women's Reservation Bill, if fully implemented, directly impact legislative bodies in states like Telangana and Andhra Pradesh?",
+    "question": "Before state bifurcation, which erstwhile district in Telangana was particularly known for being significantly impacted by Naxalite activity and often cited in security reviews?",
     "options": [
-      "It mandates equal pay for women MLAs",
-      "It reserves seats for women in their respective state assemblies",
-      "It provides financial grants to women-led businesses",
-      "It establishes new women's commissions in states"
+      "Medak",
+      "Karimnagar",
+      "Ranga Reddy",
+      "Nalgonda"
     ],
-    "correctAnswer": "It reserves seats for women in their respective state assemblies"
+    "correctAnswer": "Karimnagar"
   },
   {
     "id": 20,
-    "question": "What percentage of seats is proposed to be reserved for women in the Lok Sabha and State Assemblies under the Women's Reservation Bill?",
+    "question": "What is the primary objective of armed Naxalite groups operating in parts of India, including historically affected areas of Telangana and Andhra Pradesh?",
     "options": [
-      "25%",
-      "33%",
-      "40%",
-      "50%"
+      "To promote agricultural reforms peacefully",
+      "To establish a communist state through armed rebellion",
+      "To advocate for corporate investments in rural areas",
+      "To improve diplomatic relations with neighboring countries"
     ],
-    "correctAnswer": "33%"
+    "correctAnswer": "To establish a communist state through armed rebellion"
   },
   {
     "id": 21,
-    "question": "Which national food regulator was criticized by a recent CAG audit for failing to penalize a significant number of firms for non-compliance?",
+    "question": "The term 'Naxal' is derived from Naxalbari, a village in which Indian state, often cited when discussing the origins of the movement that later spread to states like Telangana and Andhra Pradesh?",
     "options": [
-      "Bureau of Indian Standards (BIS)",
-      "Food Safety and Standards Authority of India (FSSAI)",
-      "Department of Consumer Affairs (DCA)",
-      "Agricultural and Processed Food Products Export Development Authority (APEDA)"
+      "Bihar",
+      "Odisha",
+      "West Bengal",
+      "Jharkhand"
     ],
-    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 22,
-    "question": "What was the primary reason for the penalties accumulated by 2,430 food businesses mentioned in the CAG audit of FSSAI?",
+    "question": "Which central armed police force is frequently deployed by the Indian government to assist state police forces, including those in Telangana and Andhra Pradesh, in anti-Naxalite operations?",
     "options": [
-      "Use of substandard ingredients",
-      "Misleading advertisements",
-      "Delayed or non-filing of annual returns",
-      "Operating without a valid license"
+      "Border Security Force (BSF)",
+      "Central Reserve Police Force (CRPF)",
+      "Indo-Tibetan Border Police (ITBP)",
+      "Sashastra Seema Bal (SSB)"
     ],
-    "correctAnswer": "Delayed or non-filing of annual returns"
+    "correctAnswer": "Central Reserve Police Force (CRPF)"
   },
   {
     "id": 23,
-    "question": "The audit by CAG covering FSSAI's oversight in failing to penalize firms spanned which period?",
+    "question": "The 'Greyhounds' is a renowned elite anti-Naxalite commando force primarily belonging to the police departments of which two Indian states, historically active in combating extremism?",
     "options": [
-      "2010-11 through 2015-16",
-      "2017-18 through 2022-23",
-      "2019-20 through 2021-22",
-      "2015-16 through 2020-21"
+      "Maharashtra and Gujarat",
+      "Andhra Pradesh and Telangana",
+      "Odisha and Chhattisgarh",
+      "Bihar and Jharkhand"
     ],
-    "correctAnswer": "2017-18 through 2022-23"
+    "correctAnswer": "Andhra Pradesh and Telangana"
   },
   {
     "id": 24,
-    "question": "What is the full form of FSSAI, the food regulator mentioned in the CAG report highlighting enforcement shortcomings?",
+    "question": "What socio-economic factors are frequently identified as underlying causes for the rise and persistence of Naxalism in tribal and underdeveloped regions, including those in Andhra Pradesh and Telangana?",
     "options": [
-      "Federal Sanitation Standards and Accreditation Institute",
-      "Food Security and Safety Administration of India",
-      "Food Safety and Standards Authority of India",
-      "Forum for Sustainable Supply chain in Agriculture Industry"
+      "Widespread industrialization and urbanization",
+      "Land alienation, lack of basic amenities, and exploitation of natural resources",
+      "High literacy rates and advanced technological adoption",
+      "Strong democratic institutions and effective governance"
     ],
-    "correctAnswer": "Food Safety and Standards Authority of India"
+    "correctAnswer": "Land alienation, lack of basic amenities, and exploitation of natural resources"
   },
   {
     "id": 25,
-    "question": "The CAG audit highlighted major enforcement shortcomings by FSSAI regarding food businesses across India, which would implicitly include businesses operating in which two prominent South Indian states?",
+    "question": "What type of government intervention or scheme is often implemented in Naxal-affected areas, including specific regions of Telangana, focusing on development to counter extremist influence?",
     "options": [
-      "Kerala and Karnataka",
-      "Gujarat and Rajasthan",
-      "Telangana and Andhra Pradesh",
-      "West Bengal and Odisha"
+      "Large-scale luxury tourism projects",
+      "Integrated Action Plan (IAP) for focused development",
+      "Creation of exclusive economic zones for foreign investors",
+      "Promoting large-scale mining operations without local consent"
     ],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "correctAnswer": "Integrated Action Plan (IAP) for focused development"
   }
 ]

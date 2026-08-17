@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "NALSAR University of Law, recently mentioned in news concerning the CJI, is located in which Indian city?",
-    "options": [
-      "Bengaluru",
-      "Hyderabad",
-      "Chennai",
-      "Mumbai"
-    ],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 2,
-    "question": "The Chief Justice of India recently clarified his stance on an invitation from which prominent legal institution in Telangana?",
-    "options": [
-      "NLSIU Bengaluru",
-      "NALSAR Hyderabad",
-      "NLU Delhi",
-      "Jindal Global Law School"
-    ],
-    "correctAnswer": "NALSAR Hyderabad"
-  },
-  {
-    "id": 3,
-    "question": "What type of educational institution is NALSAR University of Law, which was recently in the news regarding the CJI?",
-    "options": [
-      "Medical College",
-      "Engineering Institute",
-      "Law University",
-      "Business School"
-    ],
-    "correctAnswer": "Law University"
-  },
-  {
-    "id": 4,
-    "question": "NALSAR University of Law, a key institution for legal education, is situated in which Indian state?",
-    "options": [
-      "Andhra Pradesh",
-      "Karnataka",
-      "Telangana",
-      "Maharashtra"
-    ],
-    "correctAnswer": "Telangana"
-  },
-  {
-    "id": 5,
-    "question": "The recent news involving the Chief Justice of India and NALSAR University of Law pertained to what specific context?",
-    "options": [
-      "A new academic program",
-      "A research collaboration",
-      "An invitation to an event",
-      "A campus dispute"
-    ],
-    "correctAnswer": "An invitation to an event"
-  },
-  {
-    "id": 6,
-    "question": "What was the core statement made by the Chief Justice of India regarding an invitation from NALSAR University of Law?",
-    "options": [
-      "He accepted the invitation",
-      "He never received the invitation",
-      "He never accepted the invitation",
-      "He postponed his visit"
-    ],
-    "correctAnswer": "He never accepted the invitation"
-  },
-  {
-    "id": 7,
-    "question": "NALSAR, a leading institution mentioned in recent news, is an acronym for what?",
-    "options": [
-      "National Advanced Legal Studies and Research",
-      "National Academy of Law and Social Reforms",
-      "National Academy of Legal Studies and Research",
-      "National Association of Legal Scholars and Researchers"
-    ],
+    "question": "What is the full form of NALSAR, the institution recently in news regarding a CJI invitation?",
+    "options": ["National Academy of Legal Studies and Research", "National Association of Law Schools and Research", "National Aviation and Logistics Services Academy", "National Aptitude for Law and Social Rights"],
     "correctAnswer": "National Academy of Legal Studies and Research"
   },
   {
-    "id": 8,
-    "question": "If the Chief Justice of India were to visit NALSAR University of Law, in which South Indian state would this event take place?",
-    "options": [
-      "Kerala",
-      "Tamil Nadu",
-      "Telangana",
-      "Karnataka"
-    ],
-    "correctAnswer": "Telangana"
-  },
-  {
-    "id": 9,
-    "question": "The news headline indicates the Chief Justice of India had a connection, albeit unaccepted, with NALSAR. What is the primary academic focus of NALSAR?",
-    "options": [
-      "Medicine",
-      "Engineering",
-      "Law",
-      "Management"
-    ],
-    "correctAnswer": "Law"
-  },
-  {
-    "id": 10,
-    "question": "NALSAR University of Law is considered one of India's premier national law universities. In which city, known for its IT and cultural heritage, is it located?",
-    "options": [
-      "Vizag",
-      "Vijayawada",
-      "Hyderabad",
-      "Amaravati"
-    ],
+    "id": 2,
+    "question": "NALSAR University of Law, which was mentioned in relation to the CJI, is located in which Indian city?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
     "correctAnswer": "Hyderabad"
   },
   {
+    "id": 3,
+    "question": "The Chief Justice of India recently clarified about declining an invitation from which prominent law university in Telangana?",
+    "options": ["Osmania University", "Andhra University", "NALSAR University of Law", "Kakatiya University"],
+    "correctAnswer": "NALSAR University of Law"
+  },
+  {
+    "id": 4,
+    "question": "Which high-profile judicial figure recently stated they never accepted an invitation from NALSAR University of Law?",
+    "options": ["Attorney General of India", "Solicitor General of India", "Chief Justice of India", "President of India"],
+    "correctAnswer": "Chief Justice of India"
+  },
+  {
+    "id": 5,
+    "question": "What did the Supreme Court recently rule regarding fleeing a drowning scene?",
+    "options": ["It is always proof of culpability", "It is not proof of culpability", "It implies intent to kill", "It is a minor offense"],
+    "correctAnswer": "It is not proof of culpability"
+  },
+  {
+    "id": 6,
+    "question": "In a recent judgment, the Supreme Court acquitted two individuals in a case involving which specific circumstance?",
+    "options": ["Fleeing a crime scene", "Fleeing a drowning scene", "Fleeing an accident site", "Fleeing a protest"],
+    "correctAnswer": "Fleeing a drowning scene"
+  },
+  {
+    "id": 7,
+    "question": "The Supreme Court's recent decision emphasizes what about the act of fleeing a scene?",
+    "options": ["It is conclusive evidence of guilt", "It warrants immediate arrest", "It does not automatically establish guilt", "It is irrelevant to the investigation"],
+    "correctAnswer": "It does not automatically establish guilt"
+  },
+  {
+    "id": 8,
+    "question": "According to a recent CAG report, what was found in drinking water samples?",
+    "options": ["High lead content", "E. coli bacteria", "Excess fluoride", "Arsenic contamination"],
+    "correctAnswer": "E. coli bacteria"
+  },
+  {
+    "id": 9,
+    "question": "Which governmental body published a report highlighting the presence of E. coli in drinking water and lack of facilities at rail stations?",
+    "options": ["NITI Aayog", "Reserve Bank of India", "Comptroller and Auditor General (CAG)", "Ministry of Health and Family Welfare"],
+    "correctAnswer": "Comptroller and Auditor General (CAG)"
+  },
+  {
+    "id": 10,
+    "question": "What deficiency did the CAG report highlight concerning basic facilities at railway stations across India?",
+    "options": ["Lack of sufficient platforms", "Insufficient staff", "Lack of basic passenger amenities", "Poor signal systems"],
+    "correctAnswer": "Lack of basic passenger amenities"
+  },
+  {
     "id": 11,
-    "question": "A recent Supreme Court ruling stated that fleeing a drowning scene is not by itself sufficient proof of what?",
-    "options": [
-      "Accidental death",
-      "Culpability for killing",
-      "Rescue attempt failure",
-      "Witness negligence"
-    ],
-    "correctAnswer": "Culpability for killing"
+    "question": "The Comptroller and Auditor General (CAG) is an authority in India responsible for what primary function?",
+    "options": ["Formulating economic policies", "Auditing the accounts of the Union and State governments", "Conducting population censuses", "Regulating financial markets"],
+    "correctAnswer": "Auditing the accounts of the Union and State governments"
   },
   {
     "id": 12,
-    "question": "The Supreme Court recently acquitted two men, a decision based on the legal interpretation that fleeing a scene does not automatically establish what?",
-    "options": [
-      "Guilt",
-      "Innocence",
-      "Presence",
-      "Motive"
-    ],
-    "correctAnswer": "Guilt"
+    "question": "A recent CAG report indicated a health concern related to drinking water quality across India, identifying which bacterial contamination?",
+    "options": ["Salmonella", "Staphylococcus", "Legionella", "E. coli"],
+    "correctAnswer": "E. coli"
   },
   {
     "id": 13,
-    "question": "Which Indian judicial body recently made a significant ruling regarding the interpretation of 'fleeing a crime scene' in cases of culpability?",
-    "options": [
-      "High Court of Telangana",
-      "Andhra Pradesh High Court",
-      "Supreme Court of India",
-      "District Court of Hyderabad"
-    ],
-    "correctAnswer": "Supreme Court of India"
+    "question": "The news report states that PM Modi has changed the focus of which annual national address?",
+    "options": ["Republic Day Parade speech", "Parliament address", "Independence Day speeches", "United Nations General Assembly address"],
+    "correctAnswer": "Independence Day speeches"
   },
   {
     "id": 14,
-    "question": "The recent Supreme Court judgment on fleeing a drowning scene resulted in the acquittal of individuals previously held guilty of which offense?",
-    "options": [
-      "Manslaughter",
-      "Attempted murder",
-      "Killing a friend",
-      "Negligence causing death"
-    ],
-    "correctAnswer": "Killing a friend"
+    "question": "What has been described as a shift in PM Modi's Independence Day speeches, moving from 'problem' to what?",
+    "options": ["'Solution'", "'Potential'", "'Progress'", "'Prosperity'"],
+    "correctAnswer": "'Potential'"
   },
   {
     "id": 15,
-    "question": "According to a recent report by the Comptroller and Auditor General (CAG) of India, which harmful bacteria was detected in drinking water?",
-    "options": [
-      "Salmonella",
-      "Listeria",
-      "E. coli",
-      "Staphylococcus"
-    ],
-    "correctAnswer": "E. coli"
+    "question": "PM Modi's Independence Day speeches have shifted focus from 'access' to what new theme?",
+    "options": ["'Advancement'", "'Affluence'", "'Aspiration'", "'Accountability'"],
+    "correctAnswer": "'Aspiration'"
   },
   {
     "id": 16,
-    "question": "The CAG report highlighted a significant deficiency at Indian railway stations. What was one of the main issues identified?",
-    "options": [
-      "Overcrowding",
-      "Lack of basic facilities",
-      "High ticket prices",
-      "Insufficient train frequency"
-    ],
-    "correctAnswer": "Lack of basic facilities"
+    "question": "Sumitro Chatterjee, kin of which famous Indian literary figure, recently sought an apology from Sonia Gandhi?",
+    "options": ["Rabindranath Tagore", "Swami Vivekananda", "Bankim Chandra Chatterjee", "Mahatma Gandhi"],
+    "correctAnswer": "Bankim Chandra Chatterjee"
   },
   {
     "id": 17,
-    "question": "What does the acronym CAG stand for, the body that recently released a report on drinking water quality and railway station facilities?",
-    "options": [
-      "Chief Accounts General",
-      "Comptroller and Auditor General",
-      "Central Audit Group",
-      "Committee for Accounts Governance"
-    ],
-    "correctAnswer": "Comptroller and Auditor General"
+    "question": "The recent political row involving Congress and Amit Shah is centered around which national symbol?",
+    "options": ["National Flag", "National Anthem", "Vande Mataram", "National Emblem"],
+    "correctAnswer": "Vande Mataram"
   },
   {
     "id": 18,
-    "question": "A key finding of the recent CAG report regarding drinking water quality was the presence of which bacterial contaminant?",
-    "options": [
-      "Cholera",
-      "Typhoid",
-      "Dysentery",
-      "E. coli"
-    ],
-    "correctAnswer": "E. coli"
+    "question": "Who composed the patriotic song 'Vande Mataram', which was recently part of a political discussion?",
+    "options": ["Rabindranath Tagore", "Mahatma Gandhi", "Bankim Chandra Chatterjee", "Jawaharlal Nehru"],
+    "correctAnswer": "Bankim Chandra Chatterjee"
   },
   {
     "id": 19,
-    "question": "Which independent constitutional authority in India is responsible for auditing government accounts and recently published a report on public infrastructure issues?",
-    "options": [
-      "NITI Aayog",
-      "Election Commission",
-      "Comptroller and Auditor General",
-      "Union Public Service Commission"
-    ],
-    "correctAnswer": "Comptroller and Auditor General"
+    "question": "What was the primary demand made by Sumitro Chatterjee, a descendant of Bankim Chandra Chatterjee, to Sonia Gandhi?",
+    "options": ["A new edition of 'Anandamath'", "Recognition for his ancestor", "An apology", "Financial assistance"],
+    "correctAnswer": "An apology"
   },
   {
     "id": 20,
-    "question": "Besides drinking water quality, the CAG report also pointed out inadequate provisions in which specific public transport infrastructure?",
-    "options": [
-      "Bus depots",
-      "Airports",
-      "Seaports",
-      "Rail stations"
-    ],
-    "correctAnswer": "Rail stations"
+    "question": "What is a key reported outcome of implementing 'barrierless tolling' on Indian roads?",
+    "options": ["Increase in toll charges", "Increase in traffic jams", "Drop in number of e-notices", "Requirement for more physical toll booths"],
+    "correctAnswer": "Drop in number of e-notices"
   },
   {
     "id": 21,
-    "question": "What innovative system is being implemented on Indian roads to improve traffic flow and user compliance at plazas?",
-    "options": [
-      "Manual toll collection",
-      "Barrierless tolling",
-      "Coin-operated toll booths",
-      "Pre-paid lane system"
-    ],
-    "correctAnswer": "Barrierless tolling"
+    "question": "The system of 'barrierless tolling' aims to improve what aspect of road travel at toll plazas?",
+    "options": ["Safety for pedestrians", "Traffic efficiency and flow", "Availability of restrooms", "Maintenance of roads"],
+    "correctAnswer": "Traffic efficiency and flow"
   },
   {
     "id": 22,
-    "question": "What positive effect has been observed concerning the number of e-notices at toll plazas due to the implementation of barrierless tolling?",
-    "options": [
-      "A significant increase",
-      "No change observed",
-      "A slight increase",
-      "A drop in number"
-    ],
-    "correctAnswer": "A drop in number"
+    "question": "What technology is typically associated with barrierless tolling for seamless collection on Indian highways?",
+    "options": ["Manual cash payment", "QR code scanning", "RFID (Radio-Frequency Identification) like FASTag", "Biometric authentication"],
+    "correctAnswer": "RFID (Radio-Frequency Identification) like FASTag"
   },
   {
     "id": 23,
-    "question": "The introduction of barrierless tolling is primarily aimed at encouraging road users to do what?",
-    "options": [
-      "Drive faster",
-      "Avoid tolls",
-      "Fall in line and comply with rules",
-      "Use alternative routes"
-    ],
-    "correctAnswer": "Fall in line and comply with rules"
+    "question": "The report on 'barrierless tolling' notes a positive change in road user behavior, specifically regarding what?",
+    "options": ["Increased adherence to speed limits", "Better lane discipline", "Reduced littering", "More frequent rest stops"],
+    "correctAnswer": "Better lane discipline"
   },
   {
     "id": 24,
-    "question": "Which specific technology or system is mentioned as making road users more compliant at toll plazas?",
-    "options": [
-      "CCTV surveillance",
-      "Automated speed cameras",
-      "Barrierless tolling",
-      "Increased police presence"
-    ],
-    "correctAnswer": "Barrierless tolling"
+    "question": "NALSAR University of Law is known for specializing in what academic discipline?",
+    "options": ["Engineering", "Medicine", "Management", "Law"],
+    "correctAnswer": "Law"
   },
   {
     "id": 25,
-    "question": "One of the stated benefits of India's move towards barrierless tolling systems is the reduction in what at toll plazas?",
-    "options": [
-      "Vehicle breakdowns",
-      "Traffic accidents",
-      "E-notices",
-      "Toll collection staff"
-    ],
-    "correctAnswer": "E-notices"
+    "question": "The recent CAG report raised concerns about infrastructure and public health in which two main areas?",
+    "options": ["Airports and highways", "Schools and hospitals", "Drinking water and rail stations", "Power plants and dams"],
+    "correctAnswer": "Drinking water and rail stations"
   }
 ]

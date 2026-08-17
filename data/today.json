@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which national agency recently ordered fresh examinations for three subjects of the UGC-NET?",
-    "options": ["National Testing Agency (NTA)", "Union Public Service Commission (UPSC)", "Staff Selection Commission (SSC)", "Central Board of Secondary Education (CBSE)"],
-    "correctAnswer": "National Testing Agency (NTA)"
+    "question": "NALSAR University of Law, recently mentioned in news concerning the CJI, is located in which Indian city?",
+    "options": [
+      "Bengaluru",
+      "Hyderabad",
+      "Chennai",
+      "Mumbai"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "For how many subjects did the National Testing Agency (NTA) order fresh examinations for UGC-NET due to extensive errors?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Three"
+    "question": "The Chief Justice of India recently clarified his stance on an invitation from which prominent legal institution in Telangana?",
+    "options": [
+      "NLSIU Bengaluru",
+      "NALSAR Hyderabad",
+      "NLU Delhi",
+      "Jindal Global Law School"
+    ],
+    "correctAnswer": "NALSAR Hyderabad"
   },
   {
     "id": 3,
-    "question": "Which of the following subjects was NOT among the three for which NTA ordered a fresh UGC-NET examination?",
-    "options": ["English", "Commerce", "Sociology", "History"],
-    "correctAnswer": "History"
+    "question": "What type of educational institution is NALSAR University of Law, which was recently in the news regarding the CJI?",
+    "options": [
+      "Medical College",
+      "Engineering Institute",
+      "Law University",
+      "Business School"
+    ],
+    "correctAnswer": "Law University"
   },
   {
     "id": 4,
-    "question": "When are the re-tests for the affected UGC-NET subjects scheduled to take place, as per the NTA's announcement?",
-    "options": ["August 20 and 21", "September 9 and 10", "October 1 and 2", "August 17 and 18"],
-    "correctAnswer": "September 9 and 10"
+    "question": "NALSAR University of Law, a key institution for legal education, is situated in which Indian state?",
+    "options": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Telangana",
+      "Maharashtra"
+    ],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 5,
-    "question": "What was the primary reason cited by the National Testing Agency (NTA) for ordering fresh UGC-NET examinations for three subjects?",
-    "options": ["Low attendance", "Alleged malpractices by students", "Extensive factual and typographical errors", "Changes in examination pattern"],
-    "correctAnswer": "Extensive factual and typographical errors"
+    "question": "The recent news involving the Chief Justice of India and NALSAR University of Law pertained to what specific context?",
+    "options": [
+      "A new academic program",
+      "A research collaboration",
+      "An invitation to an event",
+      "A campus dispute"
+    ],
+    "correctAnswer": "An invitation to an event"
   },
   {
     "id": 6,
-    "question": "What does NTA stand for in the context of national examinations in India?",
-    "options": ["National Technical Academy", "National Testing Agency", "New Talent Association", "National Training Authority"],
-    "correctAnswer": "National Testing Agency"
+    "question": "What was the core statement made by the Chief Justice of India regarding an invitation from NALSAR University of Law?",
+    "options": [
+      "He accepted the invitation",
+      "He never received the invitation",
+      "He never accepted the invitation",
+      "He postponed his visit"
+    ],
+    "correctAnswer": "He never accepted the invitation"
   },
   {
     "id": 7,
-    "question": "What does UGC stand for in the context of the UGC-NET examination?",
-    "options": ["Union Government Commission", "University Grants Commission", "United Global Colleges", "Undergraduate General Certificate"],
-    "correctAnswer": "University Grants Commission"
+    "question": "NALSAR, a leading institution mentioned in recent news, is an acronym for what?",
+    "options": [
+      "National Advanced Legal Studies and Research",
+      "National Academy of Law and Social Reforms",
+      "National Academy of Legal Studies and Research",
+      "National Association of Legal Scholars and Researchers"
+    ],
+    "correctAnswer": "National Academy of Legal Studies and Research"
   },
   {
     "id": 8,
-    "question": "The NTA acknowledged errors and ordered fresh examinations for which type of national eligibility test?",
-    "options": ["JEE Main", "NEET-UG", "UGC-NET", "CLAT"],
-    "correctAnswer": "UGC-NET"
+    "question": "If the Chief Justice of India were to visit NALSAR University of Law, in which South Indian state would this event take place?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Telangana",
+      "Karnataka"
+    ],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 9,
-    "question": "According to the NTA, results for how many other UGC-NET subjects were declared as scheduled, despite the errors in three subjects?",
-    "options": ["64", "74", "84", "94"],
-    "correctAnswer": "84"
+    "question": "The news headline indicates the Chief Justice of India had a connection, albeit unaccepted, with NALSAR. What is the primary academic focus of NALSAR?",
+    "options": [
+      "Medicine",
+      "Engineering",
+      "Law",
+      "Management"
+    ],
+    "correctAnswer": "Law"
   },
   {
     "id": 10,
-    "question": "Which national auditing body recently flagged the issue of unsafe drinking water at railway stations across India?",
-    "options": ["Reserve Bank of India (RBI)", "NITI Aayog", "Comptroller and Auditor General (CAG)", "Election Commission of India (ECI)"],
-    "correctAnswer": "Comptroller and Auditor General (CAG)"
+    "question": "NALSAR University of Law is considered one of India's premier national law universities. In which city, known for its IT and cultural heritage, is it located?",
+    "options": [
+      "Vizag",
+      "Vijayawada",
+      "Hyderabad",
+      "Amaravati"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 11,
-    "question": "What specific issue regarding public facilities at railway stations was highlighted by the CAG report?",
-    "options": ["Lack of seating", "Unsafe drinking water", "Poor sanitation in restrooms", "Insufficient platform shelters"],
-    "correctAnswer": "Unsafe drinking water"
+    "question": "A recent Supreme Court ruling stated that fleeing a drowning scene is not by itself sufficient proof of what?",
+    "options": [
+      "Accidental death",
+      "Culpability for killing",
+      "Rescue attempt failure",
+      "Witness negligence"
+    ],
+    "correctAnswer": "Culpability for killing"
   },
   {
     "id": 12,
-    "question": "Which authority ordered corrective measures after the CAG's findings regarding unsafe drinking water at railway stations?",
-    "options": ["The State Governments", "The Railway Board", "The Centre", "Indian Railways Catering and Tourism Corporation (IRCTC)"],
-    "correctAnswer": "The Centre"
+    "question": "The Supreme Court recently acquitted two men, a decision based on the legal interpretation that fleeing a scene does not automatically establish what?",
+    "options": [
+      "Guilt",
+      "Innocence",
+      "Presence",
+      "Motive"
+    ],
+    "correctAnswer": "Guilt"
   },
   {
     "id": 13,
-    "question": "What does CAG stand for in the context of Indian governance and auditing?",
-    "options": ["Central Accounts Group", "Comptroller and Auditor General", "Chief Administrative Officer General", "Council for Audit Guidelines"],
-    "correctAnswer": "Comptroller and Auditor General"
+    "question": "Which Indian judicial body recently made a significant ruling regarding the interpretation of 'fleeing a crime scene' in cases of culpability?",
+    "options": [
+      "High Court of Telangana",
+      "Andhra Pradesh High Court",
+      "Supreme Court of India",
+      "District Court of Hyderabad"
+    ],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 14,
-    "question": "The CAG report focused on the quality of drinking water at which specific locations?",
-    "options": ["Bus terminals", "Railway stations", "Airports", "Public parks"],
-    "correctAnswer": "Railway stations"
+    "question": "The recent Supreme Court judgment on fleeing a drowning scene resulted in the acquittal of individuals previously held guilty of which offense?",
+    "options": [
+      "Manslaughter",
+      "Attempted murder",
+      "Killing a friend",
+      "Negligence causing death"
+    ],
+    "correctAnswer": "Killing a friend"
   },
   {
     "id": 15,
-    "question": "What kind of actions were ordered by the Centre in response to the CAG's report on drinking water at railway stations?",
-    "options": ["Penalties for passengers", "Closure of problematic stations", "Corrective measures", "Further investigation only"],
-    "correctAnswer": "Corrective measures"
+    "question": "According to a recent report by the Comptroller and Auditor General (CAG) of India, which harmful bacteria was detected in drinking water?",
+    "options": [
+      "Salmonella",
+      "Listeria",
+      "E. coli",
+      "Staphylococcus"
+    ],
+    "correctAnswer": "E. coli"
   },
   {
     "id": 16,
-    "question": "What critical purpose do human milk banks serve in India, as highlighted in the news?",
-    "options": ["Collecting blood donations", "Providing nourishment to at-risk infants", "Supplying milk to dairy farms", "Facilitating organ donation"],
-    "correctAnswer": "Providing nourishment to at-risk infants"
+    "question": "The CAG report highlighted a significant deficiency at Indian railway stations. What was one of the main issues identified?",
+    "options": [
+      "Overcrowding",
+      "Lack of basic facilities",
+      "High ticket prices",
+      "Insufficient train frequency"
+    ],
+    "correctAnswer": "Lack of basic facilities"
   },
   {
     "id": 17,
-    "question": "Who primarily donates milk to human milk banks in India, according to the article?",
-    "options": ["Cows and buffaloes", "Volunteer men", "Generous lactating mothers", "Pharmaceutical companies"],
-    "correctAnswer": "Generous lactating mothers"
+    "question": "What does the acronym CAG stand for, the body that recently released a report on drinking water quality and railway station facilities?",
+    "options": [
+      "Chief Accounts General",
+      "Comptroller and Auditor General",
+      "Central Audit Group",
+      "Committee for Accounts Governance"
+    ],
+    "correctAnswer": "Comptroller and Auditor General"
   },
   {
     "id": 18,
-    "question": "Which group of newborns primarily benefits from the donated human milk provided by these banks?",
-    "options": ["Healthy full-term babies", "At-risk infants", "Children over one year old", "Babies from affluent families"],
-    "correctAnswer": "At-risk infants"
+    "question": "A key finding of the recent CAG report regarding drinking water quality was the presence of which bacterial contaminant?",
+    "options": [
+      "Cholera",
+      "Typhoid",
+      "Dysentery",
+      "E. coli"
+    ],
+    "correctAnswer": "E. coli"
   },
   {
     "id": 19,
-    "question": "What is one crucial safety measure undertaken for donated milk before it is delivered to newborns, as mentioned in the news?",
-    "options": ["Refrigeration only", "Genetic modification", "Thorough screening", "Addition of artificial flavors"],
-    "correctAnswer": "Thorough screening"
+    "question": "Which independent constitutional authority in India is responsible for auditing government accounts and recently published a report on public infrastructure issues?",
+    "options": [
+      "NITI Aayog",
+      "Election Commission",
+      "Comptroller and Auditor General",
+      "Union Public Service Commission"
+    ],
+    "correctAnswer": "Comptroller and Auditor General"
   },
   {
     "id": 20,
-    "question": "Besides thorough screening, what other process does donated milk undergo to ensure safety for consumption by vulnerable newborns?",
-    "options": ["Freezing", "Boiling", "Pasteurisation", "Chemical treatment"],
-    "correctAnswer": "Pasteurisation"
+    "question": "Besides drinking water quality, the CAG report also pointed out inadequate provisions in which specific public transport infrastructure?",
+    "options": [
+      "Bus depots",
+      "Airports",
+      "Seaports",
+      "Rail stations"
+    ],
+    "correctAnswer": "Rail stations"
   },
   {
     "id": 21,
-    "question": "What significant impact do human milk banks have on the health of premature and sick children?",
-    "options": ["They provide recreational activities", "They deliver much-needed nourishment", "They offer educational resources", "They organize adoption drives"],
-    "correctAnswer": "They deliver much-needed nourishment"
+    "question": "What innovative system is being implemented on Indian roads to improve traffic flow and user compliance at plazas?",
+    "options": [
+      "Manual toll collection",
+      "Barrierless tolling",
+      "Coin-operated toll booths",
+      "Pre-paid lane system"
+    ],
+    "correctAnswer": "Barrierless tolling"
   },
   {
     "id": 22,
-    "question": "The headline 'Beyond bloodline' for donated milk suggests its role in saving newborns who:",
-    "options": ["Are not biologically related to the donor mother", "Have rare blood types", "Are adopted by new families", "Require blood transfusions"],
-    "correctAnswer": "Are not biologically related to the donor mother"
+    "question": "What positive effect has been observed concerning the number of e-notices at toll plazas due to the implementation of barrierless tolling?",
+    "options": [
+      "A significant increase",
+      "No change observed",
+      "A slight increase",
+      "A drop in number"
+    ],
+    "correctAnswer": "A drop in number"
   },
   {
     "id": 23,
-    "question": "What kind of milk do lactating mothers typically donate to human milk banks?",
-    "options": ["Formula milk", "Animal milk", "Surplus milk", "Expired milk"],
-    "correctAnswer": "Surplus milk"
+    "question": "The introduction of barrierless tolling is primarily aimed at encouraging road users to do what?",
+    "options": [
+      "Drive faster",
+      "Avoid tolls",
+      "Fall in line and comply with rules",
+      "Use alternative routes"
+    ],
+    "correctAnswer": "Fall in line and comply with rules"
   },
   {
     "id": 24,
-    "question": "The thorough screening and pasteurisation of donated milk are primarily carried out to ensure its:",
-    "options": ["Nutritional value", "Long shelf life", "Safety", "Flavor profile"],
-    "correctAnswer": "Safety"
+    "question": "Which specific technology or system is mentioned as making road users more compliant at toll plazas?",
+    "options": [
+      "CCTV surveillance",
+      "Automated speed cameras",
+      "Barrierless tolling",
+      "Increased police presence"
+    ],
+    "correctAnswer": "Barrierless tolling"
   },
   {
     "id": 25,
-    "question": "The establishment and operation of human milk banks across India highlight their importance for:",
-    "options": ["Promoting private healthcare", "Supporting infant formula industries", "Public health and welfare of vulnerable infants", "Creating employment opportunities"],
-    "correctAnswer": "Public health and welfare of vulnerable infants"
+    "question": "One of the stated benefits of India's move towards barrierless tolling systems is the reduction in what at toll plazas?",
+    "options": [
+      "Vehicle breakdowns",
+      "Traffic accidents",
+      "E-notices",
+      "Toll collection staff"
+    ],
+    "correctAnswer": "E-notices"
   }
 ]

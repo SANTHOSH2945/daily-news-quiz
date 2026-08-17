@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who has been appointed as the new national president of the BJP, leading the party's recent reshuffle?",
-    "options": ["Smriti Irani", "Piyush Goyal", "Nitin Nabin", "B L Santosh"],
-    "correctAnswer": "Nitin Nabin"
+    "question": "What instruction did the Indian Centre give to X (formerly Twitter) regarding its operations in India?",
+    "options": ["Increase user engagement", "Follow the law of the land", "Share user data with specific agencies", "Expand services into new markets"],
+    "correctAnswer": "Follow the law of the land"
   },
   {
     "id": 2,
-    "question": "What key national party role has Smriti Irani been reappointed to in the recent BJP reshuffle?",
-    "options": ["National Vice President", "National General Secretary", "National Spokesperson", "Chief of IT Cell"],
-    "correctAnswer": "National General Secretary"
+    "question": "What did Elon Musk recently announce concerning X that prompted a response from the Indian Centre?",
+    "options": ["A new premium subscription tier", "Greater visibility on government censorship", "A change in brand identity", "Expansion into rural internet services"],
+    "correctAnswer": "Greater visibility on government censorship"
   },
   {
     "id": 3,
-    "question": "Who has taken over as the new chief of the BJP's IT cell, replacing Amit Malviya?",
-    "options": ["Deepak Mhaske", "Piyush Goyal", "Nitin Nabin", "Kiren Rijiju"],
-    "correctAnswer": "Deepak Mhaske"
+    "question": "The Indian Centre's recent interaction with X (formerly Twitter) primarily concerns which issue?",
+    "options": ["Monetization policies for content creators", "Adherence to national laws and regulations", "Technical infrastructure upgrades", "User privacy settings"],
+    "correctAnswer": "Adherence to national laws and regulations"
   },
   {
     "id": 4,
-    "question": "According to the recent reports on the BJP's new national team, how many women leaders were included?",
-    "options": ["5", "8", "10", "12"],
-    "correctAnswer": "10"
+    "question": "Which social media platform was recently advised by the Indian Centre to 'follow the law of the land'?",
+    "options": ["Facebook", "Instagram", "X (formerly Twitter)", "WhatsApp"],
+    "correctAnswer": "X (formerly Twitter)"
   },
   {
     "id": 5,
-    "question": "How many leaders from minority communities were featured in the BJP's newly unveiled national team?",
-    "options": ["4", "6", "9", "11"],
-    "correctAnswer": "6"
+    "question": "The Indian government's expectation from social media platforms, as highlighted by the statement to X, emphasizes what principle?",
+    "options": ["Technological innovation", "Global expansion", "Compliance with domestic legal frameworks", "Increased user numbers"],
+    "correctAnswer": "Compliance with domestic legal frameworks"
   },
   {
     "id": 6,
-    "question": "Prime Minister Narendra Modi congratulated the BJP's new national office-bearers, highlighting the team's blend of experience, vitality, and what other characteristic?",
-    "options": ["Strong financial backing", "Extensive international exposure", "Strong grassroots ties", "Youth-only composition"],
-    "correctAnswer": "Strong grassroots ties"
+    "question": "How many individuals were apprehended in the recent bust of an ISI-backed terror network across India?",
+    "options": ["14", "253", "100", "500"],
+    "correctAnswer": "253"
   },
   {
     "id": 7,
-    "question": "Which prominent leader is mentioned as maintaining a significant position in the new BJP national team alongside Piyush Goyal?",
-    "options": ["Amit Malviya", "B L Santosh", "Deepak Mhaske", "Kiren Rijiju"],
-    "correctAnswer": "B L Santosh"
+    "question": "The recent operation by security forces busted a terror network reportedly backed by which foreign intelligence agency?",
+    "options": ["CIA", "Mossad", "ISI", "MI6"],
+    "correctAnswer": "ISI"
   },
   {
     "id": 8,
-    "question": "The BJP's recent national team reshuffle includes the introduction of new national secretaries aimed at bolstering which aspect of the party?",
-    "options": ["International relations", "Financial reserves", "Media outreach", "Party's framework"],
-    "correctAnswer": "Party's framework"
+    "question": "Across how many Indian states were arrests made during the recent operation to bust an ISI-backed terror network?",
+    "options": ["7", "10", "14", "28"],
+    "correctAnswer": "14"
   },
   {
     "id": 9,
-    "question": "Union Home Minister Amit Shah recently hailed the crackdown on an ISI-backed network identified with which individual?",
-    "options": ["Hafiz Saeed", "Shahzad Bhatti", "Zakiur Rehman Lakhvi", "Dawood Ibrahim"],
-    "correctAnswer": "Shahzad Bhatti"
+    "question": "What kind of network was recently dismantled by Indian security forces, leading to 253 arrests?",
+    "options": ["A cybercrime syndicate", "An illegal arms trafficking ring", "An ISI-backed terror network", "A narcotics distribution cartel"],
+    "correctAnswer": "An ISI-backed terror network"
   },
   {
     "id": 10,
-    "question": "The Centre informed the Supreme Court that transgender ID cards would remain valid until pleas against which new legislative act are decided?",
-    "options": ["Aadhaar Act", "Citizenship Amendment Act", "Transgender Persons (Protection of Rights) Act", "Data Protection Act"],
-    "correctAnswer": "Transgender Persons (Protection of Rights) Act"
+    "question": "Who was primarily responsible for busting the ISI-backed terror network across 14 states, according to the news?",
+    "options": ["Local police forces", "Border security forces", "Security forces", "National Investigation Agency (NIA)"],
+    "correctAnswer": "Security forces"
   },
   {
     "id": 11,
-    "question": "Which political leader made the controversial 'dimagi naxal' remark that was recently defended by Kiren Rijiju?",
-    "options": ["Narendra Modi", "Rahul Gandhi", "Arvind Kejriwal", "Manmohan Singh"],
-    "correctAnswer": "Narendra Modi"
+    "question": "The security forces' operation involving the ISI-backed terror network resulted in a total of how many arrests?",
+    "options": ["Over 200", "Exactly 14", "Fewer than 100", "More than 300"],
+    "correctAnswer": "Over 200"
   },
   {
     "id": 12,
-    "question": "Who recently defended PM Modi's 'dimagi naxal' remark by invoking former PM Manmohan Singh's criticism?",
-    "options": ["Jairam Ramesh", "Arvind Kejriwal", "Kiren Rijiju", "Smriti Irani"],
-    "correctAnswer": "Kiren Rijiju"
+    "question": "The widespread nature of the terror network bust indicates its presence across which of the following?",
+    "options": ["Metropolitan cities only", "Border areas exclusively", "A significant number of Indian states", "A single specific region"],
+    "correctAnswer": "A significant number of Indian states"
   },
   {
     "id": 13,
-    "question": "Former PM Manmohan Singh's past criticism, invoked by Kiren Rijiju, was asserted to be directed towards individuals associated with what ideology?",
-    "options": ["Capitalism", "Maoism", "Socialism", "Anarchism"],
-    "correctAnswer": "Maoism"
+    "question": "What specific activity was the network, which led to 253 arrests, primarily engaged in?",
+    "options": ["Economic espionage", "Political lobbying", "Terrorism backed by ISI", "Drug smuggling"],
+    "correctAnswer": "Terrorism backed by ISI"
   },
   {
     "id": 14,
-    "question": "Which opposition figure likened the 'dimagi naxal' controversy to the 'urban naxal' debate?",
-    "options": ["Arvind Kejriwal", "Jairam Ramesh", "P Chidambaram", "Mallikarjun Kharge"],
-    "correctAnswer": "Jairam Ramesh"
+    "question": "The news report about the ISI-backed terror network highlights its extensive reach by mentioning arrests in how many distinct states?",
+    "options": ["Less than 10", "Exactly 14", "More than 20", "Only northern states"],
+    "correctAnswer": "Exactly 14"
   },
   {
     "id": 15,
-    "question": "Which Chief Minister humorously embraced the 'dimagi naxal' label, declaring his love for patriotism?",
-    "options": ["Y.S. Jagan Mohan Reddy", "K. Chandrashekar Rao", "Arvind Kejriwal", "Eknath Shinde"],
-    "correctAnswer": "Arvind Kejriwal"
+    "question": "What term is used in the headline to describe the nature of the network that was busted by security forces?",
+    "options": ["Globally linked", "State-sponsored", "ISI-backed terror", "Locally funded"],
+    "correctAnswer": "ISI-backed terror"
   },
   {
     "id": 16,
-    "question": "The BJP's national team, led by Nitin Nabin, features how many vice presidents?",
-    "options": ["7", "10", "13", "15"],
-    "correctAnswer": "13"
+    "question": "Who has been appointed as the new chief of the BJP's IT cell?",
+    "options": ["Amit Malviya", "Deepak Mhaske", "Nitin Nabin", "Smriti Irani"],
+    "correctAnswer": "Deepak Mhaske"
   },
   {
     "id": 17,
-    "question": "Which key leader retained a prominent position in the BJP's new national team, as mentioned in the recent reshuffle news?",
-    "options": ["Amit Malviya", "Piyush Goyal", "Deepak Mhaske", "Nitin Nabin"],
-    "correctAnswer": "Piyush Goyal"
-  },
-  {
-    "id": 18,
-    "question": "The BJP's recent national team reshuffle prioritized administrative and organizational expertise along with its commitment to which two other aspects?",
-    "options": ["Economic growth and technological advancement", "Geographical diversity and social inclusion", "Military strength and foreign policy", "Urban development and youth engagement"],
-    "correctAnswer": "Geographical diversity and social inclusion"
-  },
-  {
-    "id": 19,
-    "question": "Deepak Mhaske took over as BJP IT cell chief from whom in the recent organizational changes?",
-    "options": ["Smriti Irani", "B L Santosh", "Amit Malviya", "Piyush Goyal"],
+    "question": "Deepak Mhaske, the new BJP IT cell chief, replaced which previous head of the cell?",
+    "options": ["Nitin Nabin", "Smriti Irani", "Amit Malviya", "Himanta Biswa Sarma"],
     "correctAnswer": "Amit Malviya"
   },
   {
+    "id": 18,
+    "question": "What is the stated primary objective of the newly appointed BJP IT cell chief, Deepak Mhaske?",
+    "options": ["To expand social media presence", "To counter propaganda and dispel misconceptions", "To develop new software applications", "To recruit more IT professionals for the party"],
+    "correctAnswer": "To counter propaganda and dispel misconceptions"
+  },
+  {
+    "id": 19,
+    "question": "The BJP has unveiled a new national team of office-bearers under which leader, referred to as 'Nitin's 'Nabin' team'?",
+    "options": ["Amit Shah", "Nitin Nabin", "J.P. Nadda", "Narendra Modi"],
+    "correctAnswer": "Nitin Nabin"
+  },
+  {
     "id": 20,
-    "question": "The 'dimagi naxal' remark, by associating individuals with Maoism, suggests opposition to which fundamental document of India?",
-    "options": ["The Indian Penal Code", "The Indian Constitution", "The Lokpal Act", "The Right to Information Act"],
-    "correctAnswer": "The Indian Constitution"
+    "question": "What are the two main electoral challenges the BJP's new national team is reportedly focused on?",
+    "options": ["Municipal elections and 2024 Lok Sabha", "Upcoming assembly elections and the 2029 Lok Sabha contest", "Panchayat elections and 2027 Lok Sabha", "By-elections and 2030 Lok Sabha"],
+    "correctAnswer": "Upcoming assembly elections and the 2029 Lok Sabha contest"
   },
   {
     "id": 21,
-    "question": "The BJP's new national team, led by Nitin Nabin, also includes a new appointment for which financial role?",
-    "options": ["National Auditor", "National Treasurer", "National Finance Secretary", "National Economic Advisor"],
-    "correctAnswer": "National Treasurer"
+    "question": "What is the stated aim of the BJP's 'Mission 2029' as implied by the news of its new team?",
+    "options": ["Expanding international relations", "Winning the 2029 Lok Sabha contest", "Focusing solely on state assembly elections", "Improving party financial health"],
+    "correctAnswer": "Winning the 2029 Lok Sabha contest"
   },
   {
     "id": 22,
-    "question": "What kind of expertise did the BJP primarily prioritize in its recent national team reshuffle?",
-    "options": ["Legal and Judicial", "Administrative and Organizational", "Scientific and Research", "Cultural and Linguistic"],
-    "correctAnswer": "Administrative and Organizational"
+    "question": "How many Vice Presidents are part of the BJP's new team under Nitin Nabin?",
+    "options": ["8", "10", "13", "15"],
+    "correctAnswer": "13"
   },
   {
     "id": 23,
-    "question": "Which Union Minister's statements were used by Kiren Rijiju to defend PM Modi's 'dimagi naxal' remark?",
-    "options": ["Nirmala Sitharaman", "S. Jaishankar", "Manmohan Singh", "Rajnath Singh"],
-    "correctAnswer": "Manmohan Singh"
+    "question": "Which prominent leader is mentioned among the 8 General Secretaries in the BJP's newly constituted team?",
+    "options": ["Nirmala Sitharaman", "Smriti Irani", "Sushma Swaraj", "Priyanka Gandhi"],
+    "correctAnswer": "Smriti Irani"
   },
   {
     "id": 24,
-    "question": "The newly appointed national office-bearers of the BJP were commended for their blend of experience and what other quality?",
-    "options": ["Wealth", "Age", "Energy", "Foreign education"],
-    "correctAnswer": "Energy"
+    "question": "The BJP's new national team is described as featuring a mix of what kind of talent?",
+    "options": ["Only fresh faces from universities", "Only seasoned politicians with long careers", "Seasoned politicians and fresh talent", "Mostly academics and technocrats"],
+    "correctAnswer": "Seasoned politicians and fresh talent"
   },
   {
     "id": 25,
-    "question": "The Centre's decision to allow transgender ID cards to remain valid until a Supreme Court decision aims to prevent disruption for individuals under which national policy framework?",
-    "options": ["National Health Mission", "National Education Policy", "Transgender Persons (Protection of Rights) Act", "Skill India Mission"],
-    "correctAnswer": "Transgender Persons (Protection of Rights) Act"
+    "question": "The restructuring of the BJP's organizational framework with a new team is highlighted as a commitment to what?",
+    "options": ["Reducing party expenses significantly", "Revitalizing its organizational framework for future challenges", "Focusing exclusively on urban voters", "Forming new international alliances"],
+    "correctAnswer": "Revitalizing its organizational framework for future challenges"
   }
 ]

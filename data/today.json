@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the full form of NALSAR, the institution recently in news regarding a CJI invitation?",
-    "options": ["National Academy of Legal Studies and Research", "National Association of Law Schools and Research", "National Aviation and Logistics Services Academy", "National Aptitude for Law and Social Rights"],
-    "correctAnswer": "National Academy of Legal Studies and Research"
+    "question": "Which prominent law university in Hyderabad was mentioned in recent news regarding an invitation to the Chief Justice of India?",
+    "options": ["NALSAR", "National Law School of India University", "Nirma University Institute of Law", "O.P. Jindal Global University"],
+    "correctAnswer": "NALSAR"
   },
   {
     "id": 2,
-    "question": "NALSAR University of Law, which was mentioned in relation to the CJI, is located in which Indian city?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
-    "correctAnswer": "Hyderabad"
+    "question": "In which Indian state is the NALSAR University of Law, a key institution in the recent news, located?",
+    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 3,
-    "question": "The Chief Justice of India recently clarified about declining an invitation from which prominent law university in Telangana?",
-    "options": ["Osmania University", "Andhra University", "NALSAR University of Law", "Kakatiya University"],
-    "correctAnswer": "NALSAR University of Law"
-  },
-  {
-    "id": 4,
-    "question": "Which high-profile judicial figure recently stated they never accepted an invitation from NALSAR University of Law?",
-    "options": ["Attorney General of India", "Solicitor General of India", "Chief Justice of India", "President of India"],
-    "correctAnswer": "Chief Justice of India"
-  },
-  {
-    "id": 5,
-    "question": "What did the Supreme Court recently rule regarding fleeing a drowning scene?",
-    "options": ["It is always proof of culpability", "It is not proof of culpability", "It implies intent to kill", "It is a minor offense"],
-    "correctAnswer": "It is not proof of culpability"
-  },
-  {
-    "id": 6,
-    "question": "In a recent judgment, the Supreme Court acquitted two individuals in a case involving which specific circumstance?",
-    "options": ["Fleeing a crime scene", "Fleeing a drowning scene", "Fleeing an accident site", "Fleeing a protest"],
-    "correctAnswer": "Fleeing a drowning scene"
-  },
-  {
-    "id": 7,
-    "question": "The Supreme Court's recent decision emphasizes what about the act of fleeing a scene?",
-    "options": ["It is conclusive evidence of guilt", "It warrants immediate arrest", "It does not automatically establish guilt", "It is irrelevant to the investigation"],
-    "correctAnswer": "It does not automatically establish guilt"
-  },
-  {
-    "id": 8,
-    "question": "According to a recent CAG report, what was found in drinking water samples?",
-    "options": ["High lead content", "E. coli bacteria", "Excess fluoride", "Arsenic contamination"],
-    "correctAnswer": "E. coli bacteria"
-  },
-  {
-    "id": 9,
-    "question": "Which governmental body published a report highlighting the presence of E. coli in drinking water and lack of facilities at rail stations?",
-    "options": ["NITI Aayog", "Reserve Bank of India", "Comptroller and Auditor General (CAG)", "Ministry of Health and Family Welfare"],
-    "correctAnswer": "Comptroller and Auditor General (CAG)"
-  },
-  {
-    "id": 10,
-    "question": "What deficiency did the CAG report highlight concerning basic facilities at railway stations across India?",
-    "options": ["Lack of sufficient platforms", "Insufficient staff", "Lack of basic passenger amenities", "Poor signal systems"],
-    "correctAnswer": "Lack of basic passenger amenities"
-  },
-  {
-    "id": 11,
-    "question": "The Comptroller and Auditor General (CAG) is an authority in India responsible for what primary function?",
-    "options": ["Formulating economic policies", "Auditing the accounts of the Union and State governments", "Conducting population censuses", "Regulating financial markets"],
-    "correctAnswer": "Auditing the accounts of the Union and State governments"
-  },
-  {
-    "id": 12,
-    "question": "A recent CAG report indicated a health concern related to drinking water quality across India, identifying which bacterial contamination?",
-    "options": ["Salmonella", "Staphylococcus", "Legionella", "E. coli"],
-    "correctAnswer": "E. coli"
-  },
-  {
-    "id": 13,
-    "question": "The news report states that PM Modi has changed the focus of which annual national address?",
-    "options": ["Republic Day Parade speech", "Parliament address", "Independence Day speeches", "United Nations General Assembly address"],
-    "correctAnswer": "Independence Day speeches"
-  },
-  {
-    "id": 14,
-    "question": "What has been described as a shift in PM Modi's Independence Day speeches, moving from 'problem' to what?",
-    "options": ["'Solution'", "'Potential'", "'Progress'", "'Prosperity'"],
-    "correctAnswer": "'Potential'"
-  },
-  {
-    "id": 15,
-    "question": "PM Modi's Independence Day speeches have shifted focus from 'access' to what new theme?",
-    "options": ["'Advancement'", "'Affluence'", "'Aspiration'", "'Accountability'"],
-    "correctAnswer": "'Aspiration'"
-  },
-  {
-    "id": 16,
-    "question": "Sumitro Chatterjee, kin of which famous Indian literary figure, recently sought an apology from Sonia Gandhi?",
-    "options": ["Rabindranath Tagore", "Swami Vivekananda", "Bankim Chandra Chatterjee", "Mahatma Gandhi"],
-    "correctAnswer": "Bankim Chandra Chatterjee"
-  },
-  {
-    "id": 17,
-    "question": "The recent political row involving Congress and Amit Shah is centered around which national symbol?",
-    "options": ["National Flag", "National Anthem", "Vande Mataram", "National Emblem"],
-    "correctAnswer": "Vande Mataram"
-  },
-  {
-    "id": 18,
-    "question": "Who composed the patriotic song 'Vande Mataram', which was recently part of a political discussion?",
-    "options": ["Rabindranath Tagore", "Mahatma Gandhi", "Bankim Chandra Chatterjee", "Jawaharlal Nehru"],
-    "correctAnswer": "Bankim Chandra Chatterjee"
-  },
-  {
-    "id": 19,
-    "question": "What was the primary demand made by Sumitro Chatterjee, a descendant of Bankim Chandra Chatterjee, to Sonia Gandhi?",
-    "options": ["A new edition of 'Anandamath'", "Recognition for his ancestor", "An apology", "Financial assistance"],
-    "correctAnswer": "An apology"
-  },
-  {
-    "id": 20,
-    "question": "What is a key reported outcome of implementing 'barrierless tolling' on Indian roads?",
-    "options": ["Increase in toll charges", "Increase in traffic jams", "Drop in number of e-notices", "Requirement for more physical toll booths"],
-    "correctAnswer": "Drop in number of e-notices"
-  },
-  {
-    "id": 21,
-    "question": "The system of 'barrierless tolling' aims to improve what aspect of road travel at toll plazas?",
-    "options": ["Safety for pedestrians", "Traffic efficiency and flow", "Availability of restrooms", "Maintenance of roads"],
-    "correctAnswer": "Traffic efficiency and flow"
-  },
-  {
-    "id": 22,
-    "question": "What technology is typically associated with barrierless tolling for seamless collection on Indian highways?",
-    "options": ["Manual cash payment", "QR code scanning", "RFID (Radio-Frequency Identification) like FASTag", "Biometric authentication"],
-    "correctAnswer": "RFID (Radio-Frequency Identification) like FASTag"
-  },
-  {
-    "id": 23,
-    "question": "The report on 'barrierless tolling' notes a positive change in road user behavior, specifically regarding what?",
-    "options": ["Increased adherence to speed limits", "Better lane discipline", "Reduced littering", "More frequent rest stops"],
-    "correctAnswer": "Better lane discipline"
-  },
-  {
-    "id": 24,
-    "question": "NALSAR University of Law is known for specializing in what academic discipline?",
-    "options": ["Engineering", "Medicine", "Management", "Law"],
+    "question": "NALSAR University of Law is primarily known for specializing in which field of study?",
+    "options": ["Engineering", "Medicine", "Law", "Business Administration"],
     "correctAnswer": "Law"
   },
   {
+    "id": 4,
+    "question": "Who was recently in the news for stating they never accepted an invitation from NALSAR University of Law?",
+    "options": ["The President of India", "The Chief Justice of India", "The Prime Minister", "The Governor of Telangana"],
+    "correctAnswer": "The Chief Justice of India"
+  },
+  {
+    "id": 5,
+    "question": "What is the full form of NALSAR, the university located in Telangana?",
+    "options": ["National Academy of Legal Studies and Research", "National Association for Law and Social Reform", "North Andhra Legal Service and Research", "New Age Legal Studies and Research"],
+    "correctAnswer": "National Academy of Legal Studies and Research"
+  },
+  {
+    "id": 6,
+    "question": "The news mentioned NALSAR University's connection with which high constitutional position in India?",
+    "options": ["Attorney General", "Chief Justice of India", "Speaker of Lok Sabha", "President of India"],
+    "correctAnswer": "Chief Justice of India"
+  },
+  {
+    "id": 7,
+    "question": "Which major city in Telangana is home to NALSAR University of Law?",
+    "options": ["Warangal", "Visakhapatnam", "Hyderabad", "Vijayawada"],
+    "correctAnswer": "Hyderabad"
+  },
+  {
+    "id": 8,
+    "question": "The recent news surrounding NALSAR University of Law involved an alleged invitation to which high-ranking judicial official?",
+    "options": ["A High Court Judge", "The Chief Justice of India", "The Solicitor General", "A District Judge"],
+    "correctAnswer": "The Chief Justice of India"
+  },
+  {
+    "id": 9,
+    "question": "Which national body has proposed central tracking of doctors' disciplinary records?",
+    "options": ["Medical Council of India (MCI)", "National Medical Commission (NMC)", "Ministry of Health and Family Welfare", "Indian Medical Association (IMA)"],
+    "correctAnswer": "National Medical Commission (NMC)"
+  },
+  {
+    "id": 10,
+    "question": "The proposed central tracking system by NMC aims to monitor what specific aspect of doctors' careers?",
+    "options": ["Academic qualifications", "Financial assets", "Disciplinary records", "Research publications"],
+    "correctAnswer": "Disciplinary records"
+  },
+  {
+    "id": 11,
+    "question": "How would the NMC's proposed system for tracking doctors' disciplinary records potentially affect medical professionals in states like Telangana and Andhra Pradesh?",
+    "options": ["It would establish a uniform national standard for medical discipline", "It would allow states to create their own separate tracking systems", "It would only apply to doctors working in central government hospitals", "It would reduce the need for state medical councils"],
+    "correctAnswer": "It would establish a uniform national standard for medical discipline"
+  },
+  {
+    "id": 12,
+    "question": "What is the primary function of the National Medical Commission (NMC)?",
+    "options": ["To manage public health initiatives", "To regulate medical education and practice in India", "To fund medical research", "To provide healthcare services to the public"],
+    "correctAnswer": "To regulate medical education and practice in India"
+  },
+  {
+    "id": 13,
+    "question": "The central tracking system for doctors' disciplinary records is being proposed by which regulatory authority in India?",
+    "options": ["Directorate General of Health Services", "Indian Council of Medical Research", "National Medical Commission", "Central Bureau of Investigation"],
+    "correctAnswer": "National Medical Commission"
+  },
+  {
+    "id": 14,
+    "question": "What is an intended benefit of a central database for doctors' disciplinary records, as proposed by NMC?",
+    "options": ["To increase doctors' salaries", "To improve patient safety and accountability", "To reduce the number of medical colleges", "To standardize medical research"],
+    "correctAnswer": "To improve patient safety and accountability"
+  },
+  {
+    "id": 15,
+    "question": "Which national agency recently ordered a fresh NET examination for three subjects?",
+    "options": ["UPSC", "SSC", "CBSE", "NTA"],
+    "correctAnswer": "NTA"
+  },
+  {
+    "id": 16,
+    "question": "The recent re-examination order for NET was mentioned by which prominent political leader in his statement to 'Modi ji'?",
+    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
+    "correctAnswer": "Rahul Gandhi"
+  },
+  {
+    "id": 17,
+    "question": "What does NET stand for, an examination that recently saw a re-order for certain subjects?",
+    "options": ["National Eligibility Test", "National Education Tracker", "New Exam Trend", "National Entrance Test"],
+    "correctAnswer": "National Eligibility Test"
+  },
+  {
+    "id": 18,
+    "question": "Students from which states, including Telangana and Andhra Pradesh, would be affected by the National Testing Agency's re-examination order for NET?",
+    "options": ["Only students from Delhi", "Only students from the affected states' capitals", "All students across India who appeared for the specific subjects", "Only students who failed the previous exam"],
+    "correctAnswer": "All students across India who appeared for the specific subjects"
+  },
+  {
+    "id": 19,
+    "question": "What was the primary reason implied for the fresh NET examination being ordered for three subjects, according to the news context?",
+    "options": ["Changes in syllabus", "Integrity issues or paper leakage concerns", "Low attendance of candidates", "Technical glitches during the exam"],
+    "correctAnswer": "Integrity issues or paper leakage concerns"
+  },
+  {
+    "id": 20,
+    "question": "The National Testing Agency (NTA) is primarily responsible for conducting which types of examinations in India?",
+    "options": ["State board exams", "University semester exams", "Entrance examinations for higher education and fellowships", "Primary school entrance tests"],
+    "correctAnswer": "Entrance examinations for higher education and fellowships"
+  },
+  {
+    "id": 21,
+    "question": "What did the Supreme Court recently rule regarding fleeing a drowning scene?",
+    "options": ["It is always proof of culpability", "It automatically implies murder", "It is not automatically proof of culpability", "It is a minor offense"],
+    "correctAnswer": "It is not automatically proof of culpability"
+  },
+  {
+    "id": 22,
+    "question": "The Supreme Court acquitted two individuals who were previously held guilty of what crime in the context of a drowning incident?",
+    "options": ["Theft", "Assault", "Murder", "Negligence"],
+    "correctAnswer": "Murder"
+  },
+  {
+    "id": 23,
+    "question": "The Supreme Court's recent ruling clarifies what aspect of culpability in drowning incidents, which applies to legal proceedings across India including Telangana and Andhra Pradesh?",
+    "options": ["That witnesses must always intervene", "That the act of fleeing alone does not establish guilt", "That all drowning incidents are accidental", "That authorities must always assume foul play"],
+    "correctAnswer": "That the act of fleeing alone does not establish guilt"
+  },
+  {
+    "id": 24,
+    "question": "Which apex judicial body in India made the ruling that fleeing a drowning scene is not proof of culpability?",
+    "options": ["High Court", "District Court", "Supreme Court", "Sessions Court"],
+    "correctAnswer": "Supreme Court"
+  },
+  {
     "id": 25,
-    "question": "The recent CAG report raised concerns about infrastructure and public health in which two main areas?",
-    "options": ["Airports and highways", "Schools and hospitals", "Drinking water and rail stations", "Power plants and dams"],
-    "correctAnswer": "Drinking water and rail stations"
+    "question": "What was the central point of the Supreme Court's recent judgment concerning two individuals involved in a drowning incident?",
+    "options": ["They were proven to have caused the drowning", "Their fleeing indicated guilt", "Their absence from the scene was not sufficient proof of their involvement in the death", "They were found guilty of abetment to suicide"],
+    "correctAnswer": "Their absence from the scene was not sufficient proof of their involvement in the death"
   }
 ]

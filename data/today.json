@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which international figures/entities were reported to have quoted a false claim originating from an Indian handle?",
-    "options": ["Biden & UK", "Macron & Germany", "Netanyahu & US", "Putin & China"],
-    "correctAnswer": "Netanyahu & US"
+    "question": "Recent reports highlight a significant number of cybercrimes across India, impacting states including Telangana and Andhra Pradesh. Approximately how many cybercrimes were mentioned in the news?",
+    "options": ["1,090", "500", "2,000", "100"],
+    "correctAnswer": "1,090"
   },
   {
     "id": 2,
-    "question": "What was the nature of the information spread by the Indian handle that 'fooled the world'?",
-    "options": ["A groundbreaking scientific discovery", "A false political claim", "An economic forecast", "A cultural initiative"],
-    "correctAnswer": "A false political claim"
+    "question": "What was the estimated financial trail associated with the cybercrime incidents recently reported nationwide?",
+    "options": ["Rs 500 crore", "Rs 1,071 crore", "Rs 2,500 crore", "Rs 100 crore"],
+    "correctAnswer": "Rs 1,071 crore"
   },
   {
     "id": 3,
-    "question": "The incident of a false claim by an Indian handle being quoted globally highlights concerns about what issue?",
-    "options": ["Data privacy", "Cybersecurity", "Misinformation", "Digital literacy programs"],
-    "correctAnswer": "Misinformation"
+    "question": "A mastermind of a major cybercrime gang, with links to which country, was recently apprehended in India?",
+    "options": ["Pakistan", "China", "Russia", "USA"],
+    "correctAnswer": "China"
   },
   {
     "id": 4,
-    "question": "Which former US President recently praised India's election system for having 'valid photo ID' for every voter?",
-    "options": ["Barack Obama", "George W. Bush", "Donald Trump", "Bill Clinton"],
-    "correctAnswer": "Donald Trump"
+    "question": "The recent arrest of a cybercrime mastermind in India highlights the national challenge of cyber security. In which Indian state was this particular arrest made?",
+    "options": ["Assam", "Maharashtra", "Uttar Pradesh", "Karnataka"],
+    "correctAnswer": "Assam"
   },
   {
     "id": 5,
-    "question": "Who was the Chief Election Commissioner of India mentioned by Donald Trump in his praise of the election system?",
-    "options": ["Rajiv Kumar", "Sushil Chandra", "Gyanesh Kumar", "Sunil Arora"],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "The Indian government plans to assess the utility and reliability of which specific type of socio-economic data following the national census?",
+    "options": ["Population growth data", "Economic growth data", "Caste data", "Agricultural output data"],
+    "correctAnswer": "Caste data"
   },
   {
     "id": 6,
-    "question": "What specific aspect of India's election system did Donald Trump commend?",
-    "options": ["Use of EVMs", "Voter turnout", "Valid photo IDs for voters", "Campaign finance regulations"],
-    "correctAnswer": "Valid photo IDs for voters"
+    "question": "When is the assessment of the utility and reliability of caste data scheduled to take place?",
+    "options": ["Before the next census", "Post-census", "Annually", "Never"],
+    "correctAnswer": "Post-census"
   },
   {
     "id": 7,
-    "question": "How many Air India pilots were reported to have failed a dope test and subsequently taken off duty?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "What key aspects of caste data are planned for evaluation by the Indian government?",
+    "options": ["Only its reliability", "Only its utility", "Its utility and reliability", "Its historical context"],
+    "correctAnswer": "Its utility and reliability"
   },
   {
     "id": 8,
-    "question": "What consequence did the Air India pilots face after failing the dope test?",
-    "options": ["Fined", "Sent for re-training", "Taken off duty", "Transferred"],
-    "correctAnswer": "Taken off duty"
+    "question": "Which specific blend of ethanol fuel was recently advocated for by the Chief Economic Adviser in India?",
+    "options": ["E5", "E10", "E20", "E85"],
+    "correctAnswer": "E10"
   },
   {
     "id": 9,
-    "question": "For what type of substance abuse test did Air India pilots recently fail, leading to their removal from duty?",
-    "options": ["Alcohol breath test", "Dope test", "Fitness test", "Vision test"],
-    "correctAnswer": "Dope test"
+    "question": "Who recently made comments regarding the availability of E10 fuel, sparking discussions about lower ethanol blends?",
+    "options": ["Finance Minister", "Chief Economic Adviser", "Petroleum Minister", "NITI Aayog CEO"],
+    "correctAnswer": "Chief Economic Adviser"
   },
   {
     "id": 10,
-    "question": "Which foreign intelligence agency was reportedly backing the terror plot foiled before Independence Day?",
-    "options": ["CIA", "MI6", "ISI", "Mossad"],
-    "correctAnswer": "ISI"
+    "question": "Despite discussions, what is the current stance of the Indian government regarding the introduction of E10 fuel at fuel stations?",
+    "options": ["Actively considering it", "Already introduced", "Not currently considering it", "Piloting in select states"],
+    "correctAnswer": "Not currently considering it"
   },
   {
     "id": 11,
-    "question": "Approximately how many operatives were held across 14 states in connection with the foiled I-Day terror plot?",
-    "options": ["Around 150", "Around 200", "Around 250", "Around 300"],
-    "correctAnswer": "Around 250"
+    "question": "What are some primary challenges cited by officials concerning the introduction of E10 fuel?",
+    "options": ["Consumer demand and price", "Logistical challenges and necessary infrastructure", "Vehicle compatibility", "Environmental impact"],
+    "correctAnswer": "Logistical challenges and necessary infrastructure"
   },
   {
     "id": 12,
-    "question": "The ISI-backed terror plot was foiled ahead of which significant Indian national event?",
-    "options": ["Republic Day", "Independence Day", "Gandhi Jayanti", "Diwali"],
-    "correctAnswer": "Independence Day"
+    "question": "Which higher ethanol blend is indicated by studies not to pose mechanical risks to older vehicles?",
+    "options": ["E5", "E10", "E20", "E50"],
+    "correctAnswer": "E20"
   },
   {
     "id": 13,
-    "question": "The operatives for the foiled I-Day terror plot were held across how many Indian states?",
-    "options": ["10", "12", "14", "16"],
-    "correctAnswer": "14"
+    "question": "Which prominent BJP leader, known for his association with Andhra Pradesh, was recently included in the party’s national team?",
+    "options": ["Smriti Irani", "Biplab Deb", "Ram Madhav", "Piyush Goyal"],
+    "correctAnswer": "Ram Madhav"
   },
   {
     "id": 14,
-    "question": "The busting of the ISI-backed terror ring across 14 states highlights a threat to which aspect of India's security?",
-    "options": ["Cyber Security", "Economic Security", "Internal Security", "Border Security"],
-    "correctAnswer": "Internal Security"
+    "question": "As per recent news, who announced the new team of national office-bearers for the BJP?",
+    "options": ["Prime Minister", "Home Minister", "BJP chief Nitin Nabin", "Party President"],
+    "correctAnswer": "BJP chief Nitin Nabin"
   },
   {
     "id": 15,
-    "question": "What was the primary objective of the operation that led to the arrest of 253 terror operatives?",
-    "options": ["Counter-insurgency", "Drug trafficking prevention", "Foiling a terror plot", "Smuggling prevention"],
-    "correctAnswer": "Foiling a terror plot"
+    "question": "Which Union Minister returned as treasurer in the recently reshuffled BJP national team?",
+    "options": ["Smriti Irani", "Ram Madhav", "Biplab Deb", "Piyush Goyal"],
+    "correctAnswer": "Piyush Goyal"
   },
   {
     "id": 16,
-    "question": "India reportedly boosted ties by joining whose victory day celebrations?",
-    "options": ["Sri Lanka", "Myanmar", "Taliban", "Nepal"],
-    "correctAnswer": "Taliban"
+    "question": "The recent overhaul of the BJP national team is aimed towards what, as mentioned in the news?",
+    "options": ["Focusing on regional elections", "Broad representation", "Reducing party size", "Recruiting new members only"],
+    "correctAnswer": "Broad representation"
   },
   {
     "id": 17,
-    "question": "The participation of Indian officials in victory day celebrations was aimed at achieving what for India's foreign relations?",
-    "options": ["Economic partnership", "Cultural exchange", "Boost to ties", "Military alliance"],
-    "correctAnswer": "Boost to ties"
+    "question": "For which upcoming major election will the new BJP national team be in place?",
+    "options": ["State assembly elections", "National election", "Local municipal elections", "Party internal elections"],
+    "correctAnswer": "National election"
   },
   {
     "id": 18,
-    "question": "How many Indian officials were reported to have attended the event at the embassy for the victory day celebrations?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "Which central investigative agency was recently barred by the Supreme Court from filing a report on an individual's assets?",
+    "options": ["NIA", "CBI", "NCB", "RAW"],
+    "correctAnswer": "CBI"
   },
   {
     "id": 19,
-    "question": "Which social media platform received a directive from the Indian Centre to 'follow law of land' regarding government censorship?",
-    "options": ["Facebook", "Instagram", "X (formerly Twitter)", "YouTube"],
-    "correctAnswer": "X (formerly Twitter)"
+    "question": "Along with CBI, which other enforcement agency was instructed by the Supreme Court to not file reports on an individual's assets?",
+    "options": ["DRI", "ED", "SFIO", "Income Tax"],
+    "correctAnswer": "ED"
   },
   {
     "id": 20,
-    "question": "Who made an announcement about greater visibility on government censorship that prompted the Indian Centre's response to X?",
-    "options": ["Jack Dorsey", "Mark Zuckerberg", "Elon Musk", "Sundar Pichai"],
-    "correctAnswer": "Elon Musk"
+    "question": "What was the primary instruction issued by the Supreme Court to the CBI and ED in a recent case concerning an individual's assets?",
+    "options": ["To expedite investigations", "To file immediate reports", "To defer their hearing", "To not file probe reports"],
+    "correctAnswer": "To not file probe reports"
   },
   {
     "id": 21,
-    "question": "The Indian Centre's directive to X (formerly Twitter) concerned the platform's adherence to what?",
-    "options": ["Data localization rules", "Taxation policies", "Law of the land", "Content monetization"],
-    "correctAnswer": "Law of the land"
+    "question": "Which High Court had initially directed agencies to investigate allegations of illegal wealth, leading to the Supreme Court's intervention?",
+    "options": ["Bombay High Court", "Allahabad High Court", "Delhi High Court", "Madras High Court"],
+    "correctAnswer": "Allahabad High Court"
   },
   {
     "id": 22,
-    "question": "The global spread of false claims, as seen with the Indian handle incident, primarily impacts which aspect of public discourse?",
-    "options": ["Scientific research", "Media credibility", "Artistic expression", "Sports reporting"],
-    "correctAnswer": "Media credibility"
+    "question": "Who argued that the High Court's order in the assets case was 'unknown to law' before the Supreme Court?",
+    "options": ["Attorney General", "Solicitor General", "Senior advocate Kapil Sibal", "Chief Justice"],
+    "correctAnswer": "Senior advocate Kapil Sibal"
   },
   {
     "id": 23,
-    "question": "The praise for India's election system, specifically regarding voter ID, emphasizes which principle of democratic elections?",
-    "options": ["Accessibility", "Transparency", "Integrity", "Voter participation"],
-    "correctAnswer": "Integrity"
+    "question": "By what date did the Supreme Court instruct the Centre to frame new airfare rules?",
+    "options": ["August 15", "September 7", "October 1", "November 15"],
+    "correctAnswer": "September 7"
   },
   {
     "id": 24,
-    "question": "The successful busting of an ISI-backed terror ring by Indian agencies demonstrates the effectiveness of which measure?",
-    "options": ["Economic sanctions", "International diplomacy", "Counter-terrorism operations", "Border fencing"],
-    "correctAnswer": "Counter-terrorism operations"
+    "question": "The Supreme Court's directive to frame new airfare rules is primarily aimed at addressing what?",
+    "options": ["Airport expansion", "Unpredictable airline ticket pricing", "Air cargo regulations", "Pilot training standards"],
+    "correctAnswer": "Unpredictable airline ticket pricing"
   },
   {
     "id": 25,
-    "question": "The Indian Centre's firm stance on social media platforms like X (formerly Twitter) primarily pertains to what issue within India's jurisdiction?",
-    "options": ["Data server locations", "Content moderation and legal compliance", "Company ownership", "Employee hiring practices"],
-    "correctAnswer": "Content moderation and legal compliance"
+    "question": "What was granted by the Supreme Court to the government to finalize the new aviation regulations?",
+    "options": ["A fine", "An injunction", "An extension", "A dismissal"],
+    "correctAnswer": "An extension"
   }
 ]

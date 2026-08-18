@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national rural employment scheme has recently been replaced by VB-G RAM G?",
-    "options": ["Pradhan Mantri Gram Sadak Yojana (PMGSY)", "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)", "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)", "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)"],
-    "correctAnswer": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)"
+    "question": "What is the primary objective of the Indian government's new incentive scheme for gas companies, which would benefit states like Telangana and Andhra Pradesh?",
+    "options": ["To reduce import dependence on crude oil", "To expand piped gas connections across the nation", "To promote electric vehicle charging infrastructure", "To subsidize commercial LPG cylinders"],
+    "correctAnswer": "To expand piped gas connections across the nation"
   },
   {
     "id": 2,
-    "question": "The new rural jobs program, VB-G RAM G, features what change regarding guaranteed employment days?",
-    "options": ["A decrease in guaranteed employment days", "An increase in guaranteed employment days", "No change in guaranteed employment days", "Guaranteed employment days replaced by cash transfers"],
-    "correctAnswer": "An increase in guaranteed employment days"
+    "question": "How many previously unbilled accounts is the government's dynamic incentive scheme targeting to convert into operational ones for piped gas connections?",
+    "options": ["Over 10 lakh", "Over 25 lakh", "Over 50 lakh", "Over 1 crore"],
+    "correctAnswer": "Over 50 lakh"
   },
   {
     "id": 3,
-    "question": "What is the revised funding ratio between the Centre and States for the VB-G RAM G scheme?",
-    "options": ["50:50 Centre:States", "75:25 Centre:States", "60:40 Centre:States", "40:60 Centre:States"],
-    "correctAnswer": "60:40 Centre:States"
+    "question": "The new government scheme aims to encourage rapid proliferation of which specific type of energy installation in households, including those in Telangana and Andhra Pradesh?",
+    "options": ["Solar panel installations", "Electric vehicle charging points", "Piped cooking gas (PNG) installations", "Biogas plants"],
+    "correctAnswer": "Piped cooking gas (PNG) installations"
   },
   {
     "id": 4,
-    "question": "Under the new VB-G RAM G scheme, what percentage of program costs will the Centre bear?",
-    "options": ["25%", "40%", "50%", "60%"],
-    "correctAnswer": "60%"
+    "question": "What incentive is being offered to distribution companies under the new scheme to accelerate the expansion of the PNG network across India, affecting states like Telangana and Andhra Pradesh?",
+    "options": ["Direct cash subsidies for each new connection", "Access to more affordable domestic gas for newly activated connections", "Tax exemptions on capital investments", "Priority allocation of raw materials"],
+    "correctAnswer": "Access to more affordable domestic gas for newly activated connections"
   },
   {
     "id": 5,
-    "question": "What percentage of program costs will states, including Telangana and Andhra Pradesh, be responsible for under the VB-G RAM G scheme?",
-    "options": ["25%", "40%", "50%", "60%"],
-    "correctAnswer": "40%"
+    "question": "The government's initiative to expand the PNG network is anticipated to expedite what for capital investments by gas companies, making projects more attractive in states like Telangana and Andhra Pradesh?",
+    "options": ["Environmental impact assessments", "Regulatory approvals", "The payback period", "Workforce training"],
+    "correctAnswer": "The payback period"
   },
   {
     "id": 6,
-    "question": "One of the primary aims of the VB-G RAM G transition, impacting states like Telangana and Andhra Pradesh, is to create what?",
-    "options": ["Urban infrastructure projects", "Durable assets", "Skill development centers", "Agricultural subsidies"],
-    "correctAnswer": "Durable assets"
+    "question": "By transforming unbilled accounts into operational ones, the scheme primarily targets the expansion of which utility service in Indian households, including those in Telangana and Andhra Pradesh?",
+    "options": ["Piped water supply", "Piped natural gas (PNG) for cooking", "Fiber optic internet services", "Centralized sewage systems"],
+    "correctAnswer": "Piped natural gas (PNG) for cooking"
   },
   {
     "id": 7,
-    "question": "How does the VB-G RAM G scheme propose to link wage work in rural areas?",
-    "options": ["With urban employment opportunities", "With agricultural produce markets", "With village infrastructure", "With corporate sponsorships"],
-    "correctAnswer": "With village infrastructure"
+    "question": "Which of the following is a key mechanism of the government's new incentive scheme to encourage expansion of piped gas networks across the country?",
+    "options": ["Providing land free of cost for infrastructure", "Offering cheaper loans from public sector banks", "Allowing access to more affordable domestic gas for new connections", "Mandating state governments to cover a portion of the costs"],
+    "correctAnswer": "Allowing access to more affordable domestic gas for new connections"
   },
   {
     "id": 8,
-    "question": "The VB-G RAM G scheme focuses on providing employment opportunities primarily in which sector?",
-    "options": ["Manufacturing jobs", "IT and tech jobs", "Rural jobs", "Service sector jobs"],
-    "correctAnswer": "Rural jobs"
+    "question": "The proliferation of piped cooking gas installations under the new scheme in states like Telangana and Andhra Pradesh is expected to primarily benefit which segment of the population?",
+    "options": ["Industrial units", "Commercial establishments", "Residential households", "Public transport vehicles"],
+    "correctAnswer": "Residential households"
   },
   {
     "id": 9,
-    "question": "What is a significant change brought by VB-G RAM G, besides the funding structure, for program implementation in states?",
-    "options": ["A revised allocation framework", "Centralized administration without state involvement", "Introduction of new eligibility criteria for urban areas", "Complete digitization of all payments"],
-    "correctAnswer": "A revised allocation framework"
+    "question": "The strategic move to provide more affordable domestic gas for newly activated connections under the PNG expansion scheme is anticipated to achieve what for gas companies?",
+    "options": ["Reduce global gas prices", "Expedite the payback period related to capital investments", "Increase the profitability of oil exploration companies", "Discourage the use of traditional cooking fuels"],
+    "correctAnswer": "Expedite the payback period related to capital investments"
   },
   {
     "id": 10,
-    "question": "The transition from MGNREGA to VB-G RAM G aims to impact which three key aspects for rural India?",
-    "options": ["Urbanization, industrialization, and trade", "Rural jobs, workers, and states", "Education, healthcare, and sanitation", "Agriculture, fisheries, and forestry"],
-    "correctAnswer": "Rural jobs, workers, and states"
+    "question": "The government's new scheme incentivizes gas companies specifically for expanding which type of utility network?",
+    "options": ["LPG cylinder distribution network", "CNG station network", "Piped Natural Gas (PNG) network", "Industrial gas supply network"],
+    "correctAnswer": "Piped Natural Gas (PNG) network"
   },
   {
     "id": 11,
-    "question": "What type of assets are specifically targeted for creation under the VB-G RAM G program?",
-    "options": ["Temporary shelters", "Industrial parks", "Durable assets", "Digital libraries"],
-    "correctAnswer": "Durable assets"
+    "question": "What kind of accounts does the scheme aim to transform into 'operational ones' to expand PNG services across Indian states?",
+    "options": ["Dormant accounts", "Unbilled accounts", "Prepaid accounts", "Commercial accounts"],
+    "correctAnswer": "Unbilled accounts"
   },
   {
     "id": 12,
-    "question": "VB-G RAM G, the replacement for MGNREGA, focuses on creating assets that are:",
-    "options": ["Short-term and consumable", "Durable and community-benefiting", "Privately owned", "Export-oriented"],
-    "correctAnswer": "Durable and community-benefiting"
+    "question": "A key outcome of the new government scheme is to foster a rapid increase in which of the following, improving energy access in states like Telangana and Andhra Pradesh?",
+    "options": ["Imports of natural gas", "Drilling for new gas wells", "Piped cooking gas installations", "Production of domestic gas cylinders"],
+    "correctAnswer": "Piped cooking gas installations"
   },
   {
     "id": 13,
-    "question": "The new scheme VB-G RAM G aims to benefit which specific demographic in states like Telangana and Andhra Pradesh?",
-    "options": ["Urban professionals", "Rural workers", "Industrial laborers", "Government employees"],
-    "correctAnswer": "Rural workers"
+    "question": "Which national body recently removed 600 experts and implemented a four-tier check system for its question papers, impacting students across all states including Telangana and Andhra Pradesh?",
+    "options": ["Union Public Service Commission (UPSC)", "National Testing Agency (NTA)", "Central Board of Secondary Education (CBSE)", "All India Council for Technical Education (AICTE)"],
+    "correctAnswer": "National Testing Agency (NTA)"
   },
   {
     "id": 14,
-    "question": "By linking wage work with village infrastructure, VB-G RAM G intends to achieve what in rural areas?",
-    "options": ["Increase urban migration", "Strengthen local governance", "Promote private land ownership", "Enhance rural development and connectivity"],
-    "correctAnswer": "Enhance rural development and connectivity"
+    "question": "What is the primary purpose behind the National Testing Agency's (NTA) introduction of a four-tier check system for question papers?",
+    "options": ["To reduce the cost of paper production", "To enhance the reliability and fairness of examinations", "To speed up the paper setting process", "To minimize human involvement in paper creation"],
+    "correctAnswer": "To enhance the reliability and fairness of examinations"
   },
   {
     "id": 15,
-    "question": "What does the 60:40 Centre:States funding ratio in VB-G RAM G signify for the financial responsibility of states?",
-    "options": ["Reduced financial burden", "Increased financial burden and shared responsibility", "Complete financial autonomy", "No change in financial responsibility"],
-    "correctAnswer": "Increased financial burden and shared responsibility"
+    "question": "How many experts were recently removed by the National Testing Agency (NTA) as part of its efforts to reform the question paper setting process?",
+    "options": ["Approximately 100", "Approximately 300", "Approximately 600", "Approximately 1000"],
+    "correctAnswer": "Approximately 600"
   },
   {
     "id": 16,
-    "question": "The shift from MGNREGA to VB-G RAM G primarily aims to streamline and improve what aspect of rural employment programs?",
-    "options": ["International partnerships", "Funding and allocation frameworks", "Urban planning strategies", "High-tech manufacturing"],
-    "correctAnswer": "Funding and allocation frameworks"
+    "question": "The reforms undertaken by the NTA are critical for students across India, including Telangana and Andhra Pradesh, primarily impacting which aspect of their education?",
+    "options": ["Syllabus design", "Examination integrity and fairness", "Curriculum development", "Teacher recruitment standards"],
+    "correctAnswer": "Examination integrity and fairness"
   },
   {
     "id": 17,
-    "question": "The VB-G RAM G scheme is specifically designed to address what need in rural areas across India?",
-    "options": ["Industrial growth", "Guaranteed employment and infrastructure", "Luxury tourism", "Space exploration"],
-    "correctAnswer": "Guaranteed employment and infrastructure"
+    "question": "What new measure has the NTA implemented to ensure the quality and accuracy of its examination question papers?",
+    "options": ["Online public review system", "Peer-to-peer expert validation", "A four-tier check system", "Automated question generation software"],
+    "correctAnswer": "A four-tier check system"
   },
   {
     "id": 18,
-    "question": "Which two states are projected to be significant beneficiaries of the new VB-G RAM G program, as mentioned in the news?",
-    "options": ["Kerala and Tamil Nadu", "Rajasthan and Gujarat", "Uttar Pradesh and Maharashtra", "Punjab and Haryana"],
-    "correctAnswer": "Uttar Pradesh and Maharashtra"
+    "question": "Besides demographic imbalance, what other significant social issue was discussed at the recent three-day RSS coordination meeting, which is relevant to public health and welfare in states like Telangana and Andhra Pradesh?",
+    "options": ["Climate change mitigation strategies", "Youth de-addiction", "Rural-urban migration patterns", "Digital literacy promotion"],
+    "correctAnswer": "Youth de-addiction"
   },
   {
     "id": 19,
-    "question": "What type of assets is VB-G RAM G focused on creating to enhance village infrastructure?",
-    "options": ["Temporary structures", "Consumer goods", "Durable, long-lasting assets", "Private commercial properties"],
-    "correctAnswer": "Durable, long-lasting assets"
+    "question": "Who among the following is the current Sarsanghchalak of the RSS, who attended the recent coordination meeting that discussed national issues?",
+    "options": ["Suresh Bhaiyyaji Joshi", "Mohan Bhagwat", "Dattatreya Hosabale", "Krishna Gopal"],
+    "correctAnswer": "Mohan Bhagwat"
   },
   {
     "id": 20,
-    "question": "The concept of 'wage work' under VB-G RAM G is intrinsically linked to the development of what in rural areas?",
-    "options": ["Export industries", "Village infrastructure", "Urban migration", "Financial markets"],
-    "correctAnswer": "Village infrastructure"
+    "question": "Approximately how many Sangh-inspired organizations had their key functionaries participate in the recent RSS coordination meeting that addressed nationwide concerns?",
+    "options": ["15", "22", "32", "40"],
+    "correctAnswer": "32"
   },
   {
     "id": 21,
-    "question": "The introduction of VB-G RAM G signifies a revised approach to which key aspect of rural development programs?",
-    "options": ["Agricultural export policies", "Program costs and allocation", "National defense strategies", "Urban population management"],
-    "correctAnswer": "Program costs and allocation"
+    "question": "The RSS coordination meeting discussed demographic imbalance. What other key social challenge, aiming to impact well-being across Indian states including Telangana and Andhra Pradesh, was addressed?",
+    "options": ["Women's empowerment through entrepreneurship", "Enhancing agricultural productivity", "Combating youth de-addiction", "Promoting traditional sports"],
+    "correctAnswer": "Combating youth de-addiction"
   },
   {
     "id": 22,
-    "question": "For rural workers in states like Telangana and Andhra Pradesh, VB-G RAM G aims to provide what specific benefit?",
-    "options": ["High-tech training", "Increased guaranteed employment days", "International job placements", "Urban housing subsidies"],
-    "correctAnswer": "Increased guaranteed employment days"
+    "question": "Sarkaryavah Dattatreya Hosabale was present at the RSS coordination meeting. What was one of the core subjects discussed concerning national welfare and societal trends?",
+    "options": ["Economic liberalization policies", "Healthcare infrastructure development", "Demographic imbalance", "Space exploration initiatives"],
+    "correctAnswer": "Demographic imbalance"
   },
   {
     "id": 23,
-    "question": "What is the overarching goal of the VB-G RAM G scheme for rural India?",
-    "options": ["To promote urbanization", "To boost agricultural exports", "To create durable assets and link wage work with village infrastructure", "To reduce government expenditure on rural areas"],
-    "correctAnswer": "To create durable assets and link wage work with village infrastructure"
+    "question": "Which group of nations, including India, recently opposed the European Union's proposed carbon border tax at their environment ministers’ meeting, a stance that impacts India's trade and industries?",
+    "options": ["G7", "ASEAN", "BRICS", "SAARC"],
+    "correctAnswer": "BRICS"
   },
   {
     "id": 24,
-    "question": "The funding structure change in VB-G RAM G from MGNREGA implies what for state governments?",
-    "options": ["They will receive more central funds", "They will have increased responsibility for funding the program", "They are exempt from funding contributions", "They will only fund administrative costs"],
-    "correctAnswer": "They will have increased responsibility for funding the program"
+    "question": "What specific tax measure, proposed by the EU, did BRICS nations, including India, recently express opposition to, citing potential economic repercussions?",
+    "options": ["Value Added Tax (VAT) on luxury goods", "Carbon Border Adjustment Mechanism (CBAM) or similar carbon border tax", "Digital Services Tax (DST)", "Import duty on agricultural products"],
+    "correctAnswer": "Carbon Border Adjustment Mechanism (CBAM) or similar carbon border tax"
   },
   {
     "id": 25,
-    "question": "VB-G RAM G is positioned as a successor to a scheme that historically focused on providing what to rural households?",
-    "options": ["Urban housing loans", "Financial literacy education", "Guaranteed wage employment in rural areas", "Subsidies for industrial production"],
-    "correctAnswer": "Guaranteed wage employment in rural areas"
+    "question": "India's stance as a BRICS member opposing the EU carbon border tax is motivated by concerns related to:",
+    "options": ["Its potential impact on developing economies' exports", "Lack of technological expertise to comply", "Disagreement over climate change goals", "Interference in sovereign fiscal policies"],
+    "correctAnswer": "Its potential impact on developing economies' exports"
   }
 ]

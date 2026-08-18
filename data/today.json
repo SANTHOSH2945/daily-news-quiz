@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the Indian Centre's primary message to X (formerly Twitter) regarding its operations in India?",
-    "options": [
-      "Increase investment in India",
-      "Follow the law of land",
-      "Improve user interface",
-      "Expand services to rural areas"
-    ],
-    "correctAnswer": "Follow the law of land"
+    "question": "Which international figures/entities were reported to have quoted a false claim originating from an Indian handle?",
+    "options": ["Biden & UK", "Macron & Germany", "Netanyahu & US", "Putin & China"],
+    "correctAnswer": "Netanyahu & US"
   },
   {
     "id": 2,
-    "question": "Who among the following recently announced plans for greater visibility on government censorship on the X platform, prompting a response from the Indian Centre?",
-    "options": [
-      "Mark Zuckerberg",
-      "Jack Dorsey",
-      "Sundar Pichai",
-      "Elon Musk"
-    ],
-    "correctAnswer": "Elon Musk"
+    "question": "What was the nature of the information spread by the Indian handle that 'fooled the world'?",
+    "options": ["A groundbreaking scientific discovery", "A false political claim", "An economic forecast", "A cultural initiative"],
+    "correctAnswer": "A false political claim"
   },
   {
     "id": 3,
-    "question": "The Indian Centre's statement to X emphasizes the importance of adhering to which principle for social media platforms operating in India?",
-    "options": [
-      "International business standards",
-      "Self-regulation guidelines",
-      "National laws and regulations",
-      "User-generated content policies"
-    ],
-    "correctAnswer": "National laws and regulations"
+    "question": "The incident of a false claim by an Indian handle being quoted globally highlights concerns about what issue?",
+    "options": ["Data privacy", "Cybersecurity", "Misinformation", "Digital literacy programs"],
+    "correctAnswer": "Misinformation"
   },
   {
     "id": 4,
-    "question": "The recent interaction between the Indian government and X (formerly Twitter) primarily pertains to the platform's policy regarding:",
-    "options": [
-      "Data privacy",
-      "Government censorship",
-      "User verification",
-      "Content monetization"
-    ],
-    "correctAnswer": "Government censorship"
+    "question": "Which former US President recently praised India's election system for having 'valid photo ID' for every voter?",
+    "options": ["Barack Obama", "George W. Bush", "Donald Trump", "Bill Clinton"],
+    "correctAnswer": "Donald Trump"
   },
   {
     "id": 5,
-    "question": "Which major social media platform was recently advised by the Indian government to 'follow the law of land' after announcing changes in its censorship visibility?",
-    "options": [
-      "Facebook",
-      "Instagram",
-      "X",
-      "Threads"
-    ],
-    "correctAnswer": "X"
+    "question": "Who was the Chief Election Commissioner of India mentioned by Donald Trump in his praise of the election system?",
+    "options": ["Rajiv Kumar", "Sushil Chandra", "Gyanesh Kumar", "Sunil Arora"],
+    "correctAnswer": "Gyanesh Kumar"
   },
   {
     "id": 6,
-    "question": "How many states were involved in the recent security forces operation that led to the busting of an ISI-backed terror network in India?",
-    "options": [
-      "8 states",
-      "10 states",
-      "12 states",
-      "14 states"
-    ],
-    "correctAnswer": "14 states"
+    "question": "What specific aspect of India's election system did Donald Trump commend?",
+    "options": ["Use of EVMs", "Voter turnout", "Valid photo IDs for voters", "Campaign finance regulations"],
+    "correctAnswer": "Valid photo IDs for voters"
   },
   {
     "id": 7,
-    "question": "What foreign intelligence agency is identified as backing the terror network recently busted by Indian security forces?",
-    "options": [
-      "CIA",
-      "KGB",
-      "Mossad",
-      "ISI"
-    ],
-    "correctAnswer": "ISI"
+    "question": "How many Air India pilots were reported to have failed a dope test and subsequently taken off duty?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Two"
   },
   {
     "id": 8,
-    "question": "Approximately how many individuals were arrested during the nationwide security forces operation against the ISI-backed terror network?",
-    "options": [
-      "150",
-      "200",
-      "253",
-      "300"
-    ],
-    "correctAnswer": "253"
+    "question": "What consequence did the Air India pilots face after failing the dope test?",
+    "options": ["Fined", "Sent for re-training", "Taken off duty", "Transferred"],
+    "correctAnswer": "Taken off duty"
   },
   {
     "id": 9,
-    "question": "The recent large-scale operation by Indian security forces targeted a terror network associated with which country's intelligence agency?",
-    "options": [
-      "China",
-      "Pakistan",
-      "Afghanistan",
-      "Bangladesh"
-    ],
-    "correctAnswer": "Pakistan"
+    "question": "For what type of substance abuse test did Air India pilots recently fail, leading to their removal from duty?",
+    "options": ["Alcohol breath test", "Dope test", "Fitness test", "Vision test"],
+    "correctAnswer": "Dope test"
   },
   {
     "id": 10,
-    "question": "What was the primary nature of the criminal enterprise busted by security forces across 14 states in India?",
-    "options": [
-      "Illegal mining syndicate",
-      "Drug trafficking ring",
-      "ISI-backed terror network",
-      "Human trafficking cartel"
-    ],
-    "correctAnswer": "ISI-backed terror network"
+    "question": "Which foreign intelligence agency was reportedly backing the terror plot foiled before Independence Day?",
+    "options": ["CIA", "MI6", "ISI", "Mossad"],
+    "correctAnswer": "ISI"
   },
   {
     "id": 11,
-    "question": "The bust of the ISI-backed terror network highlights India's continuous efforts in combating:",
-    "options": [
-      "Economic espionage",
-      "Cyber warfare",
-      "Cross-border terrorism",
-      "Financial fraud"
-    ],
-    "correctAnswer": "Cross-border terrorism"
+    "question": "Approximately how many operatives were held across 14 states in connection with the foiled I-Day terror plot?",
+    "options": ["Around 150", "Around 200", "Around 250", "Around 300"],
+    "correctAnswer": "Around 250"
   },
   {
     "id": 12,
-    "question": "Which specific type of organized crime or national threat was addressed by the security forces operation across multiple Indian states?",
-    "options": [
-      "Arms smuggling",
-      "Terror network with foreign backing",
-      "Counterfeit currency operations",
-      "Wildlife poaching"
-    ],
-    "correctAnswer": "Terror network with foreign backing"
+    "question": "The ISI-backed terror plot was foiled ahead of which significant Indian national event?",
+    "options": ["Republic Day", "Independence Day", "Gandhi Jayanti", "Diwali"],
+    "correctAnswer": "Independence Day"
   },
   {
     "id": 13,
-    "question": "The term 'ISI-backed' in the context of the recent terror network bust refers to support from:",
-    "options": [
-      "An Indian non-governmental organization",
-      "An international aid agency",
-      "A foreign intelligence agency",
-      "A local militant group"
-    ],
-    "correctAnswer": "A foreign intelligence agency"
+    "question": "The operatives for the foiled I-Day terror plot were held across how many Indian states?",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": "14"
   },
   {
     "id": 14,
-    "question": "The recent arrests of 253 individuals demonstrate the wide geographical reach of which type of security threat in India?",
-    "options": [
-      "Regional insurgencies",
-      "ISI-backed terror activities",
-      "Communal violence",
-      "Organized petty crime"
-    ],
-    "correctAnswer": "ISI-backed terror activities"
+    "question": "The busting of the ISI-backed terror ring across 14 states highlights a threat to which aspect of India's security?",
+    "options": ["Cyber Security", "Economic Security", "Internal Security", "Border Security"],
+    "correctAnswer": "Internal Security"
   },
   {
     "id": 15,
-    "question": "The comprehensive operation to dismantle the terror network indicates a coordinated effort by:",
-    "options": [
-      "Local police departments only",
-      "State intelligence agencies alone",
-      "Indian security forces across states",
-      "International law enforcement agencies"
-    ],
-    "correctAnswer": "Indian security forces across states"
+    "question": "What was the primary objective of the operation that led to the arrest of 253 terror operatives?",
+    "options": ["Counter-insurgency", "Drug trafficking prevention", "Foiling a terror plot", "Smuggling prevention"],
+    "correctAnswer": "Foiling a terror plot"
   },
   {
     "id": 16,
-    "question": "Who has been appointed to lead the Bharatiya Janata Party's (BJP) new national team of office-bearers, as per recent news?",
-    "options": [
-      "Amit Shah",
-      "J.P. Nadda",
-      "Nitin Nabin",
-      "Rajnath Singh"
-    ],
-    "correctAnswer": "Nitin Nabin"
+    "question": "India reportedly boosted ties by joining whose victory day celebrations?",
+    "options": ["Sri Lanka", "Myanmar", "Taliban", "Nepal"],
+    "correctAnswer": "Taliban"
   },
   {
     "id": 17,
-    "question": "The BJP's new national team has been strategically assembled with a focus on which upcoming electoral challenges?",
-    "options": [
-      "Local municipal elections",
-      "State legislative council elections",
-      "Upcoming assembly elections and 2029 Lok Sabha contest",
-      "International parliamentary forums"
-    ],
-    "correctAnswer": "Upcoming assembly elections and 2029 Lok Sabha contest"
+    "question": "The participation of Indian officials in victory day celebrations was aimed at achieving what for India's foreign relations?",
+    "options": ["Economic partnership", "Cultural exchange", "Boost to ties", "Military alliance"],
+    "correctAnswer": "Boost to ties"
   },
   {
     "id": 18,
-    "question": "How many Vice Presidents are part of the BJP's newly unveiled national team under Nitin Nabin?",
-    "options": [
-      "8",
-      "10",
-      "13",
-      "15"
-    ],
-    "correctAnswer": "13"
+    "question": "How many Indian officials were reported to have attended the event at the embassy for the victory day celebrations?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Two"
   },
   {
     "id": 19,
-    "question": "Which prominent Union Minister is mentioned among the 8 General Secretaries in the BJP's new national team?",
-    "options": [
-      "Nirmala Sitharaman",
-      "Smriti Irani",
-      "Piyush Goyal",
-      "S. Jaishankar"
-    ],
-    "correctAnswer": "Smriti Irani"
+    "question": "Which social media platform received a directive from the Indian Centre to 'follow law of land' regarding government censorship?",
+    "options": ["Facebook", "Instagram", "X (formerly Twitter)", "YouTube"],
+    "correctAnswer": "X (formerly Twitter)"
   },
   {
     "id": 20,
-    "question": "What is the stated goal of the BJP's recent organizational reshuffle and the unveiling of its new national team?",
-    "options": [
-      "To increase international presence",
-      "To focus solely on social media outreach",
-      "To revitalize its organizational framework",
-      "To reduce overall party expenditure"
-    ],
-    "correctAnswer": "To revitalize its organizational framework"
+    "question": "Who made an announcement about greater visibility on government censorship that prompted the Indian Centre's response to X?",
+    "options": ["Jack Dorsey", "Mark Zuckerberg", "Elon Musk", "Sundar Pichai"],
+    "correctAnswer": "Elon Musk"
   },
   {
     "id": 21,
-    "question": "The composition of the BJP's new national team is described as featuring a mix of:",
-    "options": [
-      "Academics and industrialists",
-      "Bureaucrats and technocrats",
-      "Seasoned politicians and fresh talent",
-      "Military personnel and retired judges"
-    ],
-    "correctAnswer": "Seasoned politicians and fresh talent"
+    "question": "The Indian Centre's directive to X (formerly Twitter) concerned the platform's adherence to what?",
+    "options": ["Data localization rules", "Taxation policies", "Law of the land", "Content monetization"],
+    "correctAnswer": "Law of the land"
   },
   {
     "id": 22,
-    "question": "The BJP's recent political restructuring is aimed at strengthening the party for its strategic vision up to which year?",
-    "options": [
-      "2024",
-      "2026",
-      "2029",
-      "2030"
-    ],
-    "correctAnswer": "2029"
+    "question": "The global spread of false claims, as seen with the Indian handle incident, primarily impacts which aspect of public discourse?",
+    "options": ["Scientific research", "Media credibility", "Artistic expression", "Sports reporting"],
+    "correctAnswer": "Media credibility"
   },
   {
     "id": 23,
-    "question": "What key position has Deepak Mhaske recently been appointed to within the BJP?",
-    "options": [
-      "National Spokesperson",
-      "General Secretary (Organization)",
-      "BJP IT cell chief",
-      "President of BJP Youth Wing"
-    ],
-    "correctAnswer": "BJP IT cell chief"
+    "question": "The praise for India's election system, specifically regarding voter ID, emphasizes which principle of democratic elections?",
+    "options": ["Accessibility", "Transparency", "Integrity", "Voter participation"],
+    "correctAnswer": "Integrity"
   },
   {
     "id": 24,
-    "question": "Deepak Mhaske, the newly appointed BJP IT cell chief, replaced whom in this role?",
-    "options": [
-      "Tejasvi Surya",
-      "Amit Malviya",
-      "Anurag Thakur",
-      "B.L. Santosh"
-    ],
-    "correctAnswer": "Amit Malviya"
+    "question": "The successful busting of an ISI-backed terror ring by Indian agencies demonstrates the effectiveness of which measure?",
+    "options": ["Economic sanctions", "International diplomacy", "Counter-terrorism operations", "Border fencing"],
+    "correctAnswer": "Counter-terrorism operations"
   },
   {
     "id": 25,
-    "question": "What primary responsibility has Deepak Mhaske outlined for his role as the new BJP IT cell chief?",
-    "options": [
-      "To manage party finances",
-      "To organize nationwide rallies",
-      "To counter propaganda and dispel misconceptions",
-      "To oversee international party collaborations"
-    ],
-    "correctAnswer": "To counter propaganda and dispel misconceptions"
+    "question": "The Indian Centre's firm stance on social media platforms like X (formerly Twitter) primarily pertains to what issue within India's jurisdiction?",
+    "options": ["Data server locations", "Content moderation and legal compliance", "Company ownership", "Employee hiring practices"],
+    "correctAnswer": "Content moderation and legal compliance"
   }
 ]

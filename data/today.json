@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Recent reports highlight a significant number of cybercrimes across India, impacting states including Telangana and Andhra Pradesh. Approximately how many cybercrimes were mentioned in the news?",
-    "options": ["1,090", "500", "2,000", "100"],
-    "correctAnswer": "1,090"
+    "question": "Which national rural employment scheme has recently been replaced by VB-G RAM G?",
+    "options": ["Pradhan Mantri Gram Sadak Yojana (PMGSY)", "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)", "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)", "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)"],
+    "correctAnswer": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)"
   },
   {
     "id": 2,
-    "question": "What was the estimated financial trail associated with the cybercrime incidents recently reported nationwide?",
-    "options": ["Rs 500 crore", "Rs 1,071 crore", "Rs 2,500 crore", "Rs 100 crore"],
-    "correctAnswer": "Rs 1,071 crore"
+    "question": "The new rural jobs program, VB-G RAM G, features what change regarding guaranteed employment days?",
+    "options": ["A decrease in guaranteed employment days", "An increase in guaranteed employment days", "No change in guaranteed employment days", "Guaranteed employment days replaced by cash transfers"],
+    "correctAnswer": "An increase in guaranteed employment days"
   },
   {
     "id": 3,
-    "question": "A mastermind of a major cybercrime gang, with links to which country, was recently apprehended in India?",
-    "options": ["Pakistan", "China", "Russia", "USA"],
-    "correctAnswer": "China"
+    "question": "What is the revised funding ratio between the Centre and States for the VB-G RAM G scheme?",
+    "options": ["50:50 Centre:States", "75:25 Centre:States", "60:40 Centre:States", "40:60 Centre:States"],
+    "correctAnswer": "60:40 Centre:States"
   },
   {
     "id": 4,
-    "question": "The recent arrest of a cybercrime mastermind in India highlights the national challenge of cyber security. In which Indian state was this particular arrest made?",
-    "options": ["Assam", "Maharashtra", "Uttar Pradesh", "Karnataka"],
-    "correctAnswer": "Assam"
+    "question": "Under the new VB-G RAM G scheme, what percentage of program costs will the Centre bear?",
+    "options": ["25%", "40%", "50%", "60%"],
+    "correctAnswer": "60%"
   },
   {
     "id": 5,
-    "question": "The Indian government plans to assess the utility and reliability of which specific type of socio-economic data following the national census?",
-    "options": ["Population growth data", "Economic growth data", "Caste data", "Agricultural output data"],
-    "correctAnswer": "Caste data"
+    "question": "What percentage of program costs will states, including Telangana and Andhra Pradesh, be responsible for under the VB-G RAM G scheme?",
+    "options": ["25%", "40%", "50%", "60%"],
+    "correctAnswer": "40%"
   },
   {
     "id": 6,
-    "question": "When is the assessment of the utility and reliability of caste data scheduled to take place?",
-    "options": ["Before the next census", "Post-census", "Annually", "Never"],
-    "correctAnswer": "Post-census"
+    "question": "One of the primary aims of the VB-G RAM G transition, impacting states like Telangana and Andhra Pradesh, is to create what?",
+    "options": ["Urban infrastructure projects", "Durable assets", "Skill development centers", "Agricultural subsidies"],
+    "correctAnswer": "Durable assets"
   },
   {
     "id": 7,
-    "question": "What key aspects of caste data are planned for evaluation by the Indian government?",
-    "options": ["Only its reliability", "Only its utility", "Its utility and reliability", "Its historical context"],
-    "correctAnswer": "Its utility and reliability"
+    "question": "How does the VB-G RAM G scheme propose to link wage work in rural areas?",
+    "options": ["With urban employment opportunities", "With agricultural produce markets", "With village infrastructure", "With corporate sponsorships"],
+    "correctAnswer": "With village infrastructure"
   },
   {
     "id": 8,
-    "question": "Which specific blend of ethanol fuel was recently advocated for by the Chief Economic Adviser in India?",
-    "options": ["E5", "E10", "E20", "E85"],
-    "correctAnswer": "E10"
+    "question": "The VB-G RAM G scheme focuses on providing employment opportunities primarily in which sector?",
+    "options": ["Manufacturing jobs", "IT and tech jobs", "Rural jobs", "Service sector jobs"],
+    "correctAnswer": "Rural jobs"
   },
   {
     "id": 9,
-    "question": "Who recently made comments regarding the availability of E10 fuel, sparking discussions about lower ethanol blends?",
-    "options": ["Finance Minister", "Chief Economic Adviser", "Petroleum Minister", "NITI Aayog CEO"],
-    "correctAnswer": "Chief Economic Adviser"
+    "question": "What is a significant change brought by VB-G RAM G, besides the funding structure, for program implementation in states?",
+    "options": ["A revised allocation framework", "Centralized administration without state involvement", "Introduction of new eligibility criteria for urban areas", "Complete digitization of all payments"],
+    "correctAnswer": "A revised allocation framework"
   },
   {
     "id": 10,
-    "question": "Despite discussions, what is the current stance of the Indian government regarding the introduction of E10 fuel at fuel stations?",
-    "options": ["Actively considering it", "Already introduced", "Not currently considering it", "Piloting in select states"],
-    "correctAnswer": "Not currently considering it"
+    "question": "The transition from MGNREGA to VB-G RAM G aims to impact which three key aspects for rural India?",
+    "options": ["Urbanization, industrialization, and trade", "Rural jobs, workers, and states", "Education, healthcare, and sanitation", "Agriculture, fisheries, and forestry"],
+    "correctAnswer": "Rural jobs, workers, and states"
   },
   {
     "id": 11,
-    "question": "What are some primary challenges cited by officials concerning the introduction of E10 fuel?",
-    "options": ["Consumer demand and price", "Logistical challenges and necessary infrastructure", "Vehicle compatibility", "Environmental impact"],
-    "correctAnswer": "Logistical challenges and necessary infrastructure"
+    "question": "What type of assets are specifically targeted for creation under the VB-G RAM G program?",
+    "options": ["Temporary shelters", "Industrial parks", "Durable assets", "Digital libraries"],
+    "correctAnswer": "Durable assets"
   },
   {
     "id": 12,
-    "question": "Which higher ethanol blend is indicated by studies not to pose mechanical risks to older vehicles?",
-    "options": ["E5", "E10", "E20", "E50"],
-    "correctAnswer": "E20"
+    "question": "VB-G RAM G, the replacement for MGNREGA, focuses on creating assets that are:",
+    "options": ["Short-term and consumable", "Durable and community-benefiting", "Privately owned", "Export-oriented"],
+    "correctAnswer": "Durable and community-benefiting"
   },
   {
     "id": 13,
-    "question": "Which prominent BJP leader, known for his association with Andhra Pradesh, was recently included in the party’s national team?",
-    "options": ["Smriti Irani", "Biplab Deb", "Ram Madhav", "Piyush Goyal"],
-    "correctAnswer": "Ram Madhav"
+    "question": "The new scheme VB-G RAM G aims to benefit which specific demographic in states like Telangana and Andhra Pradesh?",
+    "options": ["Urban professionals", "Rural workers", "Industrial laborers", "Government employees"],
+    "correctAnswer": "Rural workers"
   },
   {
     "id": 14,
-    "question": "As per recent news, who announced the new team of national office-bearers for the BJP?",
-    "options": ["Prime Minister", "Home Minister", "BJP chief Nitin Nabin", "Party President"],
-    "correctAnswer": "BJP chief Nitin Nabin"
+    "question": "By linking wage work with village infrastructure, VB-G RAM G intends to achieve what in rural areas?",
+    "options": ["Increase urban migration", "Strengthen local governance", "Promote private land ownership", "Enhance rural development and connectivity"],
+    "correctAnswer": "Enhance rural development and connectivity"
   },
   {
     "id": 15,
-    "question": "Which Union Minister returned as treasurer in the recently reshuffled BJP national team?",
-    "options": ["Smriti Irani", "Ram Madhav", "Biplab Deb", "Piyush Goyal"],
-    "correctAnswer": "Piyush Goyal"
+    "question": "What does the 60:40 Centre:States funding ratio in VB-G RAM G signify for the financial responsibility of states?",
+    "options": ["Reduced financial burden", "Increased financial burden and shared responsibility", "Complete financial autonomy", "No change in financial responsibility"],
+    "correctAnswer": "Increased financial burden and shared responsibility"
   },
   {
     "id": 16,
-    "question": "The recent overhaul of the BJP national team is aimed towards what, as mentioned in the news?",
-    "options": ["Focusing on regional elections", "Broad representation", "Reducing party size", "Recruiting new members only"],
-    "correctAnswer": "Broad representation"
+    "question": "The shift from MGNREGA to VB-G RAM G primarily aims to streamline and improve what aspect of rural employment programs?",
+    "options": ["International partnerships", "Funding and allocation frameworks", "Urban planning strategies", "High-tech manufacturing"],
+    "correctAnswer": "Funding and allocation frameworks"
   },
   {
     "id": 17,
-    "question": "For which upcoming major election will the new BJP national team be in place?",
-    "options": ["State assembly elections", "National election", "Local municipal elections", "Party internal elections"],
-    "correctAnswer": "National election"
+    "question": "The VB-G RAM G scheme is specifically designed to address what need in rural areas across India?",
+    "options": ["Industrial growth", "Guaranteed employment and infrastructure", "Luxury tourism", "Space exploration"],
+    "correctAnswer": "Guaranteed employment and infrastructure"
   },
   {
     "id": 18,
-    "question": "Which central investigative agency was recently barred by the Supreme Court from filing a report on an individual's assets?",
-    "options": ["NIA", "CBI", "NCB", "RAW"],
-    "correctAnswer": "CBI"
+    "question": "Which two states are projected to be significant beneficiaries of the new VB-G RAM G program, as mentioned in the news?",
+    "options": ["Kerala and Tamil Nadu", "Rajasthan and Gujarat", "Uttar Pradesh and Maharashtra", "Punjab and Haryana"],
+    "correctAnswer": "Uttar Pradesh and Maharashtra"
   },
   {
     "id": 19,
-    "question": "Along with CBI, which other enforcement agency was instructed by the Supreme Court to not file reports on an individual's assets?",
-    "options": ["DRI", "ED", "SFIO", "Income Tax"],
-    "correctAnswer": "ED"
+    "question": "What type of assets is VB-G RAM G focused on creating to enhance village infrastructure?",
+    "options": ["Temporary structures", "Consumer goods", "Durable, long-lasting assets", "Private commercial properties"],
+    "correctAnswer": "Durable, long-lasting assets"
   },
   {
     "id": 20,
-    "question": "What was the primary instruction issued by the Supreme Court to the CBI and ED in a recent case concerning an individual's assets?",
-    "options": ["To expedite investigations", "To file immediate reports", "To defer their hearing", "To not file probe reports"],
-    "correctAnswer": "To not file probe reports"
+    "question": "The concept of 'wage work' under VB-G RAM G is intrinsically linked to the development of what in rural areas?",
+    "options": ["Export industries", "Village infrastructure", "Urban migration", "Financial markets"],
+    "correctAnswer": "Village infrastructure"
   },
   {
     "id": 21,
-    "question": "Which High Court had initially directed agencies to investigate allegations of illegal wealth, leading to the Supreme Court's intervention?",
-    "options": ["Bombay High Court", "Allahabad High Court", "Delhi High Court", "Madras High Court"],
-    "correctAnswer": "Allahabad High Court"
+    "question": "The introduction of VB-G RAM G signifies a revised approach to which key aspect of rural development programs?",
+    "options": ["Agricultural export policies", "Program costs and allocation", "National defense strategies", "Urban population management"],
+    "correctAnswer": "Program costs and allocation"
   },
   {
     "id": 22,
-    "question": "Who argued that the High Court's order in the assets case was 'unknown to law' before the Supreme Court?",
-    "options": ["Attorney General", "Solicitor General", "Senior advocate Kapil Sibal", "Chief Justice"],
-    "correctAnswer": "Senior advocate Kapil Sibal"
+    "question": "For rural workers in states like Telangana and Andhra Pradesh, VB-G RAM G aims to provide what specific benefit?",
+    "options": ["High-tech training", "Increased guaranteed employment days", "International job placements", "Urban housing subsidies"],
+    "correctAnswer": "Increased guaranteed employment days"
   },
   {
     "id": 23,
-    "question": "By what date did the Supreme Court instruct the Centre to frame new airfare rules?",
-    "options": ["August 15", "September 7", "October 1", "November 15"],
-    "correctAnswer": "September 7"
+    "question": "What is the overarching goal of the VB-G RAM G scheme for rural India?",
+    "options": ["To promote urbanization", "To boost agricultural exports", "To create durable assets and link wage work with village infrastructure", "To reduce government expenditure on rural areas"],
+    "correctAnswer": "To create durable assets and link wage work with village infrastructure"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's directive to frame new airfare rules is primarily aimed at addressing what?",
-    "options": ["Airport expansion", "Unpredictable airline ticket pricing", "Air cargo regulations", "Pilot training standards"],
-    "correctAnswer": "Unpredictable airline ticket pricing"
+    "question": "The funding structure change in VB-G RAM G from MGNREGA implies what for state governments?",
+    "options": ["They will receive more central funds", "They will have increased responsibility for funding the program", "They are exempt from funding contributions", "They will only fund administrative costs"],
+    "correctAnswer": "They will have increased responsibility for funding the program"
   },
   {
     "id": 25,
-    "question": "What was granted by the Supreme Court to the government to finalize the new aviation regulations?",
-    "options": ["A fine", "An injunction", "An extension", "A dismissal"],
-    "correctAnswer": "An extension"
+    "question": "VB-G RAM G is positioned as a successor to a scheme that historically focused on providing what to rural households?",
+    "options": ["Urban housing loans", "Financial literacy education", "Guaranteed wage employment in rural areas", "Subsidies for industrial production"],
+    "correctAnswer": "Guaranteed wage employment in rural areas"
   }
 ]

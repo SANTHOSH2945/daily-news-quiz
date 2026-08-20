@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is scheduled to chair the Southern Zonal Council meeting with Chief Ministers and top officials of southern states, including Andhra Pradesh and Telangana?",
-    "options": ["Narendra Modi", "Amit Shah", "Rajnath Singh", "Nirmala Sitharaman"],
+    "question": "Who recently chaired the meeting of Chief Ministers and top officials of southern states to resolve inter-state issues, relevant to states like Telangana and Andhra Pradesh?",
+    "options": ["Narendra Modi", "Amit Shah", "Nirmala Sitharaman", "S. Jaishankar"],
     "correctAnswer": "Amit Shah"
   },
   {
     "id": 2,
-    "question": "Where is the Southern Zonal Council meeting, attended by CMs of southern states including Andhra Pradesh and Telangana, being held?",
-    "options": ["Chennai", "Bengaluru", "Mahabalipuram", "Hyderabad"],
+    "question": "In which southern Indian city was the Southern Zonal Council meeting, chaired by Union Home Minister Amit Shah, held to discuss inter-state issues?",
+    "options": ["Chennai", "Bengaluru", "Mahabalipuram", "Kochi"],
     "correctAnswer": "Mahabalipuram"
   },
   {
     "id": 3,
-    "question": "Which Union Ministry does Amit Shah represent while chairing the Southern Zonal Council meeting?",
-    "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Defence"],
-    "correctAnswer": "Ministry of Home Affairs"
+    "question": "What was one of the critical issues discussed at the Southern Zonal Council meeting, particularly vital for states like Telangana and Andhra Pradesh due to river disputes?",
+    "options": ["Interstate border trade", "Water sharing issues", "Renewable energy targets", "Tourism promotion"],
+    "correctAnswer": "Water sharing issues"
   },
   {
     "id": 4,
-    "question": "Which two states, highly prioritized in this context, are expected to send their CMs or top officials to the Southern Zonal Council meeting?",
-    "options": ["Maharashtra and Gujarat", "Andhra Pradesh and Telangana", "Uttar Pradesh and Bihar", "West Bengal and Odisha"],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "Which governmental body facilitates discussions among Chief Ministers and top officials of southern states to resolve common challenges, as highlighted by the recent meeting?",
+    "options": ["NITI Aayog", "Inter-State Council", "Southern Zonal Council", "National Development Council"],
+    "correctAnswer": "Southern Zonal Council"
   },
   {
     "id": 5,
-    "question": "What are the two key issues identified for discussion at the Southern Zonal Council meeting, affecting states like Andhra Pradesh and Telangana?",
-    "options": ["Trade tariffs and defense strategies", "Water sharing and education priorities", "Border security and economic reforms", "Agricultural subsidies and healthcare access"],
-    "correctAnswer": "Water sharing and education priorities"
+    "question": "Besides water sharing, what other significant agenda item was on the table for discussion at the Southern Zonal Council meeting, impacting educational policies in states like Telangana and Andhra Pradesh?",
+    "options": ["Industrial development plans", "Agricultural subsidies", "Education priorities", "Healthcare infrastructure"],
+    "correctAnswer": "Education priorities"
   },
   {
     "id": 6,
-    "question": "The Southern Zonal Council meeting aims to resolve inter-state issues among which specific group of states?",
-    "options": ["Northeastern states", "Western states", "Southern states", "Northern states"],
-    "correctAnswer": "Southern states"
-  },
-  {
-    "id": 7,
-    "question": "Besides the Chief Ministers, who else is explicitly mentioned as attending the Southern Zonal Council meeting?",
-    "options": ["Chief Justices of High Courts", "Top officials of southern states", "Heads of Public Sector Undertakings", "Governors of southern states"],
-    "correctAnswer": "Top officials of southern states"
-  },
-  {
-    "id": 8,
-    "question": "The meeting chaired by Amit Shah is part of which institutional mechanism in India for regional cooperation?",
-    "options": ["National Development Council", "Inter-State Council", "Zonal Councils", "NITI Aayog"],
-    "correctAnswer": "Zonal Councils"
-  },
-  {
-    "id": 9,
-    "question": "Which of the following states is a member of the Southern Zonal Council and would likely participate in the meeting chaired by Amit Shah?",
-    "options": ["Madhya Pradesh", "Rajasthan", "Karnataka", "Punjab"],
-    "correctAnswer": "Karnataka"
-  },
-  {
-    "id": 10,
-    "question": "What is the overarching goal of the Southern Zonal Council meeting chaired by the Union Home Minister?",
-    "options": ["To promote cultural exchange", "To resolve inter-state issues", "To discuss national security", "To finalize general elections strategy"],
-    "correctAnswer": "To resolve inter-state issues"
-  },
-  {
-    "id": 11,
-    "question": "Amit Shah holds which key portfolio, enabling him to chair the Southern Zonal Council meeting?",
-    "options": ["Minister of Finance", "Minister of External Affairs", "Union Home Minister", "Minister of Defence"],
+    "question": "The Southern Zonal Council meeting, which addresses crucial matters for states including Telangana and Andhra Pradesh, is traditionally chaired by which Union Minister?",
+    "options": ["Union Finance Minister", "Union Defence Minister", "Union Home Minister", "Union External Affairs Minister"],
     "correctAnswer": "Union Home Minister"
   },
   {
+    "id": 7,
+    "question": "The meeting in Mahabalipuram focused on inter-state issues among which specific group of Indian states?",
+    "options": ["Western states", "Northern states", "Eastern states", "Southern states"],
+    "correctAnswer": "Southern states"
+  },
+  {
+    "id": 8,
+    "question": "Resolution of inter-state water sharing disputes is a recurring challenge for Telangana and Andhra Pradesh. Which high-level council recently convened to address such crucial inter-state matters?",
+    "options": ["National Water Board", "River Management Authority", "Southern Zonal Council", "Central Water Commission"],
+    "correctAnswer": "Southern Zonal Council"
+  },
+  {
+    "id": 9,
+    "question": "Which state's Chief Minister would be a key participant in the Southern Zonal Council meeting, representing one of the major Telugu-speaking states with significant inter-state issues?",
+    "options": ["Karnataka", "Kerala", "Andhra Pradesh", "Goa"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": 10,
+    "question": "The Union Home Minister's role in chairing the Zonal Council meetings, such as the recent Southern Zonal Council gathering, primarily involves what?",
+    "options": ["Allocating central funds", "Enforcing legal directives", "Facilitating consensus and coordination", "Representing international interests"],
+    "correctAnswer": "Facilitating consensus and coordination"
+  },
+  {
+    "id": 11,
+    "question": "Discussions on 'education priorities' at the Southern Zonal Council meeting would directly influence policy-making in which two states that share a common linguistic and cultural heritage?",
+    "options": ["Karnataka and Kerala", "Tamil Nadu and Puducherry", "Telangana and Andhra Pradesh", "Goa and Maharashtra"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
+  },
+  {
     "id": 12,
-    "question": "Mahabalipuram, the venue for the Southern Zonal Council meeting, is located in which Indian state?",
-    "options": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Telangana"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "The Southern Zonal Council frequently addresses water disputes over major rivers. Which two states are notably involved in such disputes concerning rivers like Krishna and Godavari?",
+    "options": ["Karnataka and Maharashtra", "Odisha and Chhattisgarh", "Telangana and Andhra Pradesh", "Gujarat and Rajasthan"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 13,
-    "question": "The mention of 'water sharing' as a discussion point in the Southern Zonal Council meeting specifically highlights the nature of what type of disputes?",
-    "options": ["International trade disputes", "Intra-state administrative conflicts", "Inter-state resource disputes", "Industrial labor disputes"],
-    "correctAnswer": "Inter-state resource disputes"
+    "question": "Mahabalipuram, the venue for the recent Southern Zonal Council meeting, is located in which Southern Indian state?",
+    "options": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Karnataka"],
+    "correctAnswer": "Tamil Nadu"
   },
   {
     "id": 14,
-    "question": "'Education priorities' being on the agenda for the Southern Zonal Council meeting suggests that these councils discuss issues related to:",
-    "options": ["Only law and order", "Mainly financial allocations", "Broad developmental and administrative concerns", "Purely cultural heritage"],
-    "correctAnswer": "Broad developmental and administrative concerns"
+    "question": "The Southern Zonal Council serves as a platform for resolving issues that often create friction between which administrative entities within India?",
+    "options": ["Districts and municipalities", "Central government and local bodies", "Different states", "Union Territories and states"],
+    "correctAnswer": "Different states"
   },
   {
     "id": 15,
-    "question": "Which Union Territory is part of the Southern Zonal Council and would be represented at the meeting in Mahabalipuram?",
-    "options": ["Lakshadweep", "Andaman & Nicobar Islands", "Puducherry", "Daman & Diu"],
-    "correctAnswer": "Puducherry"
-  },
-  {
-    "id": 16,
-    "question": "Ananth Technologies, which recently signed a pact with BEL, is a company based in which major Indian city?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 17,
-    "question": "Ananth Technologies, a key player in the recent BEL pact, is predominantly associated with which Indian state?",
-    "options": ["Karnataka", "Andhra Pradesh", "Tamil Nadu", "Telangana"],
+    "question": "Given the discussions on water sharing and education, the participation of the Chief Minister from which state is crucial for addressing the needs and challenges of a significant part of the Deccan plateau?",
+    "options": ["Madhya Pradesh", "West Bengal", "Telangana", "Uttar Pradesh"],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 16,
+    "question": "India has established several Zonal Councils to promote inter-state cooperation. The Southern Zonal Council is one of how many such councils?",
+    "options": ["Three", "Five", "Seven", "Ten"],
+    "correctAnswer": "Five"
+  },
+  {
+    "id": 17,
+    "question": "What is the overarching goal of Zonal Councils, like the Southern Zonal Council, in India's federal structure?",
+    "options": ["To replace state legislatures", "To impose central government policies", "To foster inter-state cooperation and coordination", "To manage international relations"],
+    "correctAnswer": "To foster inter-state cooperation and coordination"
+  },
+  {
     "id": 18,
-    "question": "BEL (Bharat Electronics Limited), partner in the pact with Ananth Technologies, is a Public Sector Undertaking primarily in which sector?",
-    "options": ["Textile Manufacturing", "Defence and Aerospace", "Information Technology", "Financial Services"],
-    "correctAnswer": "Defence and Aerospace"
+    "question": "The high-level attendance of Chief Ministers and top officials at the Southern Zonal Council meeting underlines the importance of resolving which category of disputes?",
+    "options": ["Intra-state departmental disputes", "Inter-state disputes", "Diplomatic disputes with neighboring countries", "Corporate legal disputes"],
+    "correctAnswer": "Inter-state disputes"
   },
   {
     "id": 19,
-    "question": "The collaboration between BEL and Hyderabad-based Ananth Technologies is a significant development for which industrial sector in Telangana?",
-    "options": ["Automotive", "Pharmaceuticals", "Aerospace and Defence", "Textiles"],
-    "correctAnswer": "Aerospace and Defence"
+    "question": "Which Hyderabad-based company, a significant player in the aerospace and defence sector, recently signed a pact with Bharat Electronics Limited (BEL)?",
+    "options": ["Cyient", "Tech Mahindra", "Ananth Technologies", "VEM Technologies"],
+    "correctAnswer": "Ananth Technologies"
   },
   {
     "id": 20,
-    "question": "What type of entity is Ananth Technologies, given its collaboration with the public sector BEL?",
-    "options": ["Government Department", "Non-profit Organization", "Private Technology Firm", "International Aid Agency"],
-    "correctAnswer": "Private Technology Firm"
+    "question": "Ananth Technologies, known for its contributions to India's space and defence programs, has its primary operational presence in which major Indian city?",
+    "options": ["Bengaluru", "Chennai", "Mumbai", "Hyderabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 21,
-    "question": "The Southern Zonal Council meeting is being held to facilitate discussions between the Union Home Minister and the heads of which administrative units from the states?",
-    "options": ["District Collectors", "State Legislative Assembly Speakers", "Southern State Chief Ministers", "Union Territory Administrators"],
-    "correctAnswer": "Southern State Chief Ministers"
+    "question": "Bharat Electronics Limited (BEL), a Navratna PSU with a strong presence in Telangana, recently inked a pact with which other prominent technology company based in the state?",
+    "options": ["GMR Group", "Dr. Reddy's Laboratories", "Ananth Technologies", "Aurobindo Pharma"],
+    "correctAnswer": "Ananth Technologies"
   },
   {
     "id": 22,
-    "question": "The resolution of inter-state issues in southern India, through mechanisms like the Southern Zonal Council, is crucial for fostering what?",
-    "options": ["International trade agreements", "Regional harmony and cooperation", "National sports development", "Centralized governance"],
-    "correctAnswer": "Regional harmony and cooperation"
+    "question": "The recent pact between BEL and Ananth Technologies is expected to significantly bolster the growth of which high-technology sector within states like Telangana?",
+    "options": ["Information Technology", "Biotechnology", "Aerospace and Defence", "Automobile Manufacturing"],
+    "correctAnswer": "Aerospace and Defence"
   },
   {
     "id": 23,
-    "question": "The recent pact between BEL and Ananth Technologies strengthens the position of Hyderabad, the capital of Telangana, as a hub for which type of industry?",
-    "options": ["Agricultural processing", "Heavy machinery manufacturing", "Defence and Space technology", "Tourism and hospitality"],
-    "correctAnswer": "Defence and Space technology"
+    "question": "Ananth Technologies is a key contributor to India's strategic sectors. In which South Indian state is its primary corporate and R&D base situated?",
+    "options": ["Karnataka", "Tamil Nadu", "Telangana", "Andhra Pradesh"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 24,
-    "question": "The Southern Zonal Council's agenda, specifically including water sharing, directly impacts the resource management and development strategies of states like:",
-    "options": ["Rajasthan and Gujarat", "Punjab and Haryana", "Andhra Pradesh and Telangana", "West Bengal and Bihar"],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "BEL, which operates significant facilities in Hyderabad, entered into a collaboration agreement with which other company that shares a strong connection to Hyderabad's industrial landscape?",
+    "options": ["Tata Advanced Systems", "L&T Technology Services", "Ananth Technologies", "Adani Defence & Aerospace"],
+    "correctAnswer": "Ananth Technologies"
   },
   {
     "id": 25,
-    "question": "In the recent pact, BEL represents a Public Sector Undertaking, while Ananth Technologies is a testament to the growth of which sector in Telangana?",
-    "options": ["Public sector healthcare", "Private sector innovation", "Government research", "Cooperative farming"],
-    "correctAnswer": "Private sector innovation"
+    "question": "The collaboration between BEL and Ananth Technologies is poised to stimulate technological advancements and generate employment opportunities primarily in which economically dynamic South Indian state?",
+    "options": ["Kerala", "Maharashtra", "Telangana", "Gujarat"],
+    "correctAnswer": "Telangana"
   }
 ]

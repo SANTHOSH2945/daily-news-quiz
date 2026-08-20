@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who presided over the recent Southern Zonal Council meeting held in Tamil Nadu?",
-    "options": ["Narendra Modi", "Amit Shah", "Rajnath Singh", "Nirmala Sitharaman"],
-    "correctAnswer": "Amit Shah"
+    "question": "What national body's controversial equity rules for 2026 were recently put under reconsideration by the government, impacting higher education across India including Telangana and Andhra Pradesh?",
+    "options": ["AICTE", "NCERT", "UGC", "NITI Aayog"],
+    "correctAnswer": "UGC"
   },
   {
     "id": 2,
-    "question": "In which state was the recent Southern Zonal Council meeting chaired by Union Home Minister Amit Shah held?",
-    "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Telangana"],
-    "correctAnswer": "Tamil Nadu"
-  },
-  {
-    "id": 3,
-    "question": "The Southern Zonal Council meeting recently discussed crucial matters such as water sharing and which other key area?",
-    "options": ["Defense expenditures", "Space research", "Infrastructure advancements", "Agricultural subsidies"],
-    "correctAnswer": "Infrastructure advancements"
-  },
-  {
-    "id": 4,
-    "question": "Which Zonal Council specifically includes both Andhra Pradesh and Telangana as member states?",
-    "options": ["Northern Zonal Council", "Western Zonal Council", "Southern Zonal Council", "Eastern Zonal Council"],
-    "correctAnswer": "Southern Zonal Council"
-  },
-  {
-    "id": 5,
-    "question": "How many states are represented in the Southern Zonal Council, as per the recent meeting chaired by Amit Shah?",
-    "options": ["Three", "Five", "Seven", "Eight"],
-    "correctAnswer": "Five"
-  },
-  {
-    "id": 6,
-    "question": "Which of the following is NOT a state member of the Southern Zonal Council?",
-    "options": ["Karnataka", "Kerala", "Odisha", "Telangana"],
-    "correctAnswer": "Odisha"
-  },
-  {
-    "id": 7,
-    "question": "Besides the five states, how many Union Territories are part of the Southern Zonal Council?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Three"
-  },
-  {
-    "id": 8,
-    "question": "The Southern Zonal Council serves as a vital forum for fostering dialogue between state governments and which other entity?",
-    "options": ["United Nations", "Local Municipalities", "The Centre", "Neighboring Countries"],
-    "correctAnswer": "The Centre"
-  },
-  {
-    "id": 9,
-    "question": "Which of the following Union Territories is a member of the Southern Zonal Council?",
-    "options": ["Delhi", "Chandigarh", "Puducherry", "Daman & Diu"],
-    "correctAnswer": "Puducherry"
-  },
-  {
-    "id": 10,
-    "question": "The discussions at the Southern Zonal Council meeting underlined a commitment to which principle of governance?",
-    "options": ["Unitary federalism", "Centralized administration", "Cooperative federalism", "Autocratic rule"],
-    "correctAnswer": "Cooperative federalism"
-  },
-  {
-    "id": 11,
-    "question": "Dispute resolution between member states is a key function of which body, as highlighted by the recent meeting in Tamil Nadu involving Telangana and Andhra Pradesh?",
-    "options": ["Supreme Court of India", "NITI Aayog", "Southern Zonal Council", "Inter-State Water Tribunal"],
-    "correctAnswer": "Southern Zonal Council"
-  },
-  {
-    "id": 12,
-    "question": "Apart from water sharing, the Southern Zonal Council meeting also addressed progress in which major sector critical for regional development in states like Telangana and Andhra Pradesh?",
-    "options": ["Defence manufacturing", "Healthcare research", "Infrastructure advancements", "Space exploration"],
-    "correctAnswer": "Infrastructure advancements"
-  },
-  {
-    "id": 13,
-    "question": "Which Union Minister led the recent Southern Zonal Council meeting where Andhra Pradesh and Telangana participated?",
-    "options": ["Finance Minister", "Home Minister", "External Affairs Minister", "Defence Minister"],
-    "correctAnswer": "Home Minister"
-  },
-  {
-    "id": 14,
-    "question": "The Southern Zonal Council aims to resolve disputes and foster dialogue among its member states and UTs, including Telangana and Andhra Pradesh, with what broader objective?",
-    "options": ["Promoting regional languages", "Strengthening cooperative federalism", "Increasing foreign investments", "Standardizing educational curricula"],
-    "correctAnswer": "Strengthening cooperative federalism"
-  },
-  {
-    "id": 15,
-    "question": "Which of the following is NOT a topic specifically mentioned as a focus of discussion at the recent Southern Zonal Council meeting?",
-    "options": ["Water sharing", "Infrastructure advancements", "Border security", "Effective dispute resolution"],
-    "correctAnswer": "Border security"
-  },
-  {
-    "id": 16,
-    "question": "The Southern Zonal Council meeting involved representatives from five states and how many Union Territories?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Three"
-  },
-  {
-    "id": 17,
-    "question": "Which of the following states is a member of the Southern Zonal Council along with Telangana and Andhra Pradesh?",
-    "options": ["Maharashtra", "Gujarat", "Punjab", "Kerala"],
-    "correctAnswer": "Kerala"
-  },
-  {
-    "id": 18,
-    "question": "Which institution recently upheld a broad definition of 'industry' that was originally laid down in a 1978 judgment, impacting states like Telangana and Andhra Pradesh?",
-    "options": ["High Court", "Parliament", "Supreme Court", "NITI Aayog"],
+    "question": "Which apex court kept the UGC's 2026 regulations in abeyance, citing them as 'prima facie vague' and potentially having 'very sweeping consequences' for the education sector in states like Telangana and Andhra Pradesh?",
+    "options": ["Delhi High Court", "Supreme Court", "Bombay High Court", "Madras High Court"],
     "correctAnswer": "Supreme Court"
   },
   {
+    "id": 3,
+    "question": "What specific negative impact did the Supreme Court warn the controversial UGC 2026 regulations could have on society, a concern relevant to diverse states such as Telangana and Andhra Pradesh?",
+    "options": ["Increase unemployment", "Divide society", "Reduce literacy rates", "Promote regionalism"],
+    "correctAnswer": "Divide society"
+  },
+  {
+    "id": 4,
+    "question": "On what date did the Supreme Court initially keep the controversial UGC 2026 regulations in abeyance, a decision affecting universities nationwide, including those in Telangana and Andhra Pradesh?",
+    "options": ["February 15", "January 29", "March 10", "December 5"],
+    "correctAnswer": "January 29"
+  },
+  {
+    "id": 5,
+    "question": "The Supreme Court observed that the controversial UGC 2026 regulations could have 'very sweeping consequences' for which sector in India, a sector vital for the development of states like Telangana and Andhra Pradesh?",
+    "options": ["Primary Healthcare", "Agricultural Sector", "Higher Education", "Industrial Manufacturing"],
+    "correctAnswer": "Higher Education"
+  },
+  {
+    "id": 6,
+    "question": "Which national entrance examination was the subject of recent student protests across India, including active student participation from Telangana and Andhra Pradesh, where alleged excessive force by police is being investigated?",
+    "options": ["JEE Main", "CLAT", "NEET", "UPSC Civil Services"],
+    "correctAnswer": "NEET"
+  },
+  {
+    "id": 7,
+    "question": "Which apex court constituted a 5-member panel to probe allegations of excessive force by police on students during NEET protests, a matter of national concern for student welfare in all states including Telangana and Andhra Pradesh?",
+    "options": ["High Court of Hyderabad", "Supreme Court", "National Green Tribunal", "Central Administrative Tribunal"],
+    "correctAnswer": "Supreme Court"
+  },
+  {
+    "id": 8,
+    "question": "The 5-member panel appointed by the Supreme Court is tasked with investigating what specific issue concerning student protests related to NEET, which saw participation from students across states like Telangana and Andhra Pradesh?",
+    "options": ["Exam paper leak", "Irregularities in results", "Excessive use of force by cops", "Lack of examination centers"],
+    "correctAnswer": "Excessive use of force by cops"
+  },
+  {
+    "id": 9,
+    "question": "Students across India, including those from Telangana and Andhra Pradesh, participated in protests related to the NEET exam. The formation of a judicial panel primarily addresses concerns regarding the actions of which authority during these protests?",
+    "options": ["Exam conducting body", "Student organizations", "Law enforcement agencies", "Political parties"],
+    "correctAnswer": "Law enforcement agencies"
+  },
+  {
+    "id": 10,
+    "question": "The Supreme Court's decision to set up a panel to investigate incidents during NEET protests highlights the judiciary's role in upholding what fundamental aspect of democratic governance, relevant to all Indian states including TS/AP?",
+    "options": ["Electoral fairness", "Fiscal policy", "Accountability of public institutions", "International relations"],
+    "correctAnswer": "Accountability of public institutions"
+  },
+  {
+    "id": 11,
+    "question": "Rahul Gandhi recently criticized the RSS's ideology at an event. Which former Prime Minister's vision was this program, titled 'Hara Bhara Swaraj,' a tribute to, a political discussion relevant nationwide?",
+    "options": ["Jawaharlal Nehru", "Indira Gandhi", "Rajiv Gandhi", "Lal Bahadur Shastri"],
+    "correctAnswer": "Rajiv Gandhi"
+  },
+  {
+    "id": 12,
+    "question": "At the 'Hara Bhara Swaraj' program, Rahul Gandhi contrasted the RSS's worldview with whose idea of 'Swaraj', a concept that influences political discourse in all states including Telangana and Andhra Pradesh?",
+    "options": ["Sardar Vallabhbhai Patel", "Subhas Chandra Bose", "Mahatma Gandhi", "Bhagat Singh"],
+    "correctAnswer": "Mahatma Gandhi"
+  },
+  {
+    "id": 13,
+    "question": "The ideological contest mentioned by Rahul Gandhi, which impacts political understanding in states like Telangana and Andhra Pradesh, revolves around how people understand what core aspects of their existence?",
+    "options": ["Economic prosperity and poverty", "Themselves, freedom, and their place in society", "Technological advancement and innovation", "International trade and diplomacy"],
+    "correctAnswer": "Themselves, freedom, and their place in society"
+  },
+  {
+    "id": 14,
+    "question": "Rahul Gandhi's recent comments on the RSS and 'Swaraj' are part of a broader ideological debate in India. Which national political party does Rahul Gandhi represent, a party with significant presence and history in Telangana and Andhra Pradesh?",
+    "options": ["Bharatiya Janata Party", "Aam Aadmi Party", "Indian National Congress", "Bahujan Samaj Party"],
+    "correctAnswer": "Indian National Congress"
+  },
+  {
+    "id": 15,
+    "question": "The 'Hara Bhara Swaraj: A Tribute to Rajiv Gandhi's Vision' program, where Rahul Gandhi spoke, signifies the ongoing relevance of which political family's legacy in national Indian politics, impacting regional political narratives like those in Telangana and Andhra Pradesh?",
+    "options": ["Nehru-Gandhi family", "Modi family", "Advani family", "Jaitley family"],
+    "correctAnswer": "Nehru-Gandhi family"
+  },
+  {
+    "id": 16,
+    "question": "Which national policy, concerning a blend of ethanol and petrol, was recently criticized by Delhi CM Arvind Kejriwal, impacting fuel consumers nationwide including in Telangana and Andhra Pradesh?",
+    "options": ["CNG Adoption Policy", "Electric Vehicle Subsidy Policy", "E20 Fuel Policy", "LPG Distribution Scheme"],
+    "correctAnswer": "E20 Fuel Policy"
+  },
+  {
+    "id": 17,
+    "question": "Besides the E20 fuel policy, what other essential commodity's price issue was raised by Arvind Kejriwal in his criticism of the central government, affecting consumers in states like Telangana and Andhra Pradesh?",
+    "options": ["Wheat", "Rice", "Sugar", "Milk"],
+    "correctAnswer": "Sugar"
+  },
+  {
+    "id": 18,
+    "question": "The E20 fuel policy, a topic of recent political debate, aims to promote the use of what percentage blend of ethanol in petrol across India, including states that produce ethanol like Telangana?",
+    "options": ["5%", "10%", "20%", "30%"],
+    "correctAnswer": "20%"
+  },
+  {
     "id": 19,
-    "question": "The Supreme Court's recent ruling affirmed a broad definition of 'industry' established in a judgment from which year?",
-    "options": ["1947", "1978", "1991", "2000"],
-    "correctAnswer": "1978"
+    "question": "Arvind Kejriwal, in his criticism of the central government's economic policies like E20 fuel and sugar prices, is the Chief Minister of which prominent Indian territory, whose political statements resonate nationally?",
+    "options": ["Punjab", "Delhi", "Haryana", "Uttar Pradesh"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 20,
-    "question": "The Supreme Court's upholding of the broad definition of 'industry' is significant for the interpretation of which type of laws in states like Telangana and Andhra Pradesh?",
-    "options": ["Environmental laws", "Tax laws", "Labour laws", "Criminal laws"],
-    "correctAnswer": "Labour laws"
+    "question": "The central government's E20 fuel policy, impacting states like Telangana and Andhra Pradesh, primarily aims to achieve what environmental goal through the promotion of ethanol blending in fuel?",
+    "options": ["Reduce import costs for crude oil", "Boost agricultural income for sugarcane farmers", "Reduce carbon emissions and air pollution", "Increase vehicle performance"],
+    "correctAnswer": "Reduce carbon emissions and air pollution"
   },
   {
     "id": 21,
-    "question": "The Supreme Court emphasized what aspect regarding the definition of 'industry' by upholding a 1978 judgment?",
-    "options": ["Narrow interpretation", "Correct interpretation", "Economic interpretation", "Judicial overreach"],
-    "correctAnswer": "Correct interpretation"
+    "question": "The reconsideration of the UGC's controversial equity rules for 2026 implies a potential revision to policies affecting what aspect of higher education admissions and administration in states like Telangana and Andhra Pradesh?",
+    "options": ["Infrastructure development", "Faculty recruitment quotas", "Fairness and inclusion in educational access", "International student exchange programs"],
+    "correctAnswer": "Fairness and inclusion in educational access"
   },
   {
     "id": 22,
-    "question": "According to a recent Supreme Court ruling, which authority cannot investigate sex determination offences under the PCPNDT Act?",
-    "options": ["Police", "Medical Council of India", "District Magistrates", "Health Department Officials"],
-    "correctAnswer": "Police"
+    "question": "The Supreme Court's decision to keep the UGC 2026 regulations in abeyance highlights the judiciary's role in safeguarding constitutional principles related to what national sector that includes numerous institutions in Telangana and Andhra Pradesh?",
+    "options": ["Defense", "Financial Services", "Higher Education", "Telecommunications"],
+    "correctAnswer": "Higher Education"
   },
   {
     "id": 23,
-    "question": "The Supreme Court's ruling on the PCPNDT Act specifically concerns the investigative powers related to which type of offence, relevant to states like Andhra Pradesh and Telangana?",
-    "options": ["Drug trafficking", "Cybercrime", "Sex determination", "Financial fraud"],
-    "correctAnswer": "Sex determination"
+    "question": "The Supreme Court's intervention by setting up a panel for NEET protests underscores the importance of which constitutional principle related to citizens' interactions with law enforcement in any Indian state, including Telangana and Andhra Pradesh?",
+    "options": ["Right to property", "Accountability of police forces", "Freedom of religion", "Right to form associations"],
+    "correctAnswer": "Accountability of police forces"
   },
   {
     "id": 24,
-    "question": "What does the acronym PCPNDT in the context of the Act mentioned in the Supreme Court ruling stand for?",
-    "options": ["Prevention of Cruelty to Animals and Nature Development Trust", "Pre-Conception and Pre-Natal Diagnostic Techniques", "Protection of Children from Negligence and Disease Transmission", "Public Health and Community Nutrition Development Trust"],
-    "correctAnswer": "Pre-Conception and Pre-Natal Diagnostic Techniques"
+    "question": "NEET is the common entrance exam for admission to undergraduate medical courses. Its conduct and related protests are significant for aspiring medical students in which specific region of India, a region known for its numerous medical colleges and high demand for medical education?",
+    "options": ["North-East India", "Jammu & Kashmir", "Telangana and Andhra Pradesh", "Gujarat and Rajasthan"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's decision limiting police investigation under the PCPNDT Act impacts the enforcement of laws aimed at preventing what practice in states like Telangana and Andhra Pradesh?",
-    "options": ["Child marriage", "Illegal mining", "Sex-selective abortions", "Water pollution"],
-    "correctAnswer": "Sex-selective abortions"
+    "question": "The debates surrounding national policies like E20 fuel and sugar prices, and ideological discussions involving national political figures, often influence state-level political discourse and election agendas in states like Telangana and Andhra Pradesh. These issues collectively represent what domain of public life?",
+    "options": ["International diplomacy", "Defense strategy", "Governance and socio-economic policy", "Scientific research and development"],
+    "correctAnswer": "Governance and socio-economic policy"
   }
 ]

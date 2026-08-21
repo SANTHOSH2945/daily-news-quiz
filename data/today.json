@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which state's Chief Minister recently had his visit to the United States denied political clearance by the Ministry of External Affairs?",
-    "options": ["Karnataka", "Kerala", "Telangana", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "The National Investigation Agency (NIA) plays a crucial role in tackling terrorism across India. Which of the following is a primary function of the NIA, applicable to maintaining national security in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Investigating inter-state civil disputes",
+      "Probing terror-related offenses and national security threats",
+      "Regulating state police forces",
+      "Managing electoral processes in border states"
+    ],
+    "correctAnswer": "Probing terror-related offenses and national security threats"
   },
   {
     "id": 2,
-    "question": "Who is the current Chief Minister of Telangana, whose planned US visit was recently scrapped?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Eatala Rajender", "K. T. Rama Rao"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "Major terror attacks necessitate robust counter-terrorism measures nationwide. In India, which central agency is specifically mandated to investigate and prosecute offenses related to terrorism, impacting security across all states, including Andhra Pradesh and Telangana?",
+    "options": [
+      "Central Bureau of Investigation (CBI)",
+      "Intelligence Bureau (IB)",
+      "National Investigation Agency (NIA)",
+      "Research and Analysis Wing (RAW)"
+    ],
+    "correctAnswer": "National Investigation Agency (NIA)"
   },
   {
     "id": 3,
-    "question": "What was the stated characterization by the Ministry of External Affairs regarding the Telangana CM's proposed US visit?",
-    "options": ["A state visit", "Routine official trip", "Deemed inappropriate", "A cultural exchange program"],
-    "correctAnswer": "Deemed inappropriate"
+    "question": "In significant cases, such as those handled by the NIA, courts consider various factors for bail. What is a key principle guiding bail decisions in serious cases involving national security, observed in judicial processes across Indian states like Telangana?",
+    "options": [
+      "Always granting bail to first-time offenders",
+      "Ensuring the accused does not flee or tamper with evidence",
+      "Prioritizing the accused's economic status",
+      "Expediting bail for political figures"
+    ],
+    "correctAnswer": "Ensuring the accused does not flee or tamper with evidence"
   },
   {
     "id": 4,
-    "question": "Which government body denied political clearance for Telangana CM Revanth Reddy's US trip?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of External Affairs", "Prime Minister's Office"],
-    "correctAnswer": "Ministry of External Affairs"
+    "question": "The news mentions jail authorities providing medical care to an undertrial. Which set of guidelines or acts primarily ensures the provision of adequate medical facilities for prisoners in all Indian states, including Andhra Pradesh and Telangana?",
+    "options": [
+      "The Factories Act, 1948",
+      "The Model Prison Manual, 2016",
+      "The Income Tax Act, 1961",
+      "The Wildlife Protection Act, 1972"
+    ],
+    "correctAnswer": "The Model Prison Manual, 2016"
   },
   {
     "id": 5,
-    "question": "The Chief Minister of Telangana, Revanth Reddy, was denied clearance for a visit to which country?",
-    "options": ["United Kingdom", "Germany", "Japan", "United States"],
-    "correctAnswer": "United States"
+    "question": "Incidents like the one concerning forced abortion bring the Medical Termination of Pregnancy (MTP) Act into focus. What is the main purpose of the MTP Act in India, which regulates legal abortions and is applicable in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "To ban all abortions in India",
+      "To permit abortion only for married women",
+      "To legalize and regulate medical termination of pregnancy under specified conditions",
+      "To promote gender-selective abortions"
+    ],
+    "correctAnswer": "To legalize and regulate medical termination of pregnancy under specified conditions"
   },
   {
     "id": 6,
-    "question": "What type of clearance was denied to Telangana CM Revanth Reddy for his international travel?",
-    "options": ["Security clearance", "Political clearance", "Financial clearance", "Medical clearance"],
-    "correctAnswer": "Political clearance"
+    "question": "Violations such as forced abortions underscore the importance of women's safety laws. Which Indian legal framework broadly addresses crimes against women and ensures their protection from various forms of violence, applicable across states including Andhra Pradesh and Telangana?",
+    "options": [
+      "The Arms Act, 1959",
+      "The Indian Penal Code, 1860",
+      "The Foreign Exchange Management Act, 1999",
+      "The Copyright Act, 1957"
+    ],
+    "correctAnswer": "The Indian Penal Code, 1860"
   },
   {
     "id": 7,
-    "question": "The news report mentions the scraping of a visit for the Chief Minister of which southern Indian state?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Kerala"],
-    "correctAnswer": "Telangana"
+    "question": "Given the context of a minor's death related to a forced abortion attempt, which significant Indian act focuses on protecting children from sexual offenses, with provisions enforced in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "The Juvenile Justice (Care and Protection of Children) Act, 2015",
+      "The Protection of Children from Sexual Offences (POCSO) Act, 2012",
+      "The Child Labour (Prohibition and Regulation) Act, 1986",
+      "The RTE Act, 2009"
+    ],
+    "correctAnswer": "The Protection of Children from Sexual Offences (POCSO) Act, 2012"
   },
   {
     "id": 8,
-    "question": "From which state is the Member of Parliament whose son was recently charged in connection with a fatal incident?",
-    "options": ["Telangana", "Andhra Pradesh", "Tamil Nadu", "Odisha"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "While the news refers to an incident in a specific region, law and order is fundamentally a state subject in India. In states like Andhra Pradesh and Telangana, which branch of government is primarily responsible for maintaining law and order and investigating crimes?",
+    "options": [
+      "The Central Bureau of Investigation",
+      "The State Police Department",
+      "The Indian Army",
+      "The National Security Guard"
+    ],
+    "correctAnswer": "The State Police Department"
   },
   {
     "id": 9,
-    "question": "What luxury car brand was allegedly involved in the fatal incident caused by an Andhra MP's son?",
-    "options": ["Ferrari", "Lamborghini", "Aston Martin", "Porsche"],
-    "correctAnswer": "Aston Martin"
+    "question": "The role of the Leader of Opposition (LoP) is vital for democratic accountability. In the context of India's parliamentary system, including its relevance to the functioning of state assemblies like those in Andhra Pradesh and Telangana, what is the primary function of the LoP?",
+    "options": [
+      "To lead the ruling party in policy formulation",
+      "To approve all government budgets",
+      "To provide constructive criticism and hold the government accountable",
+      "To appoint judges to the Supreme Court"
+    ],
+    "correctAnswer": "To provide constructive criticism and hold the government accountable"
   },
   {
     "id": 10,
-    "question": "An MP's son from Andhra Pradesh recently faced charges for causing what kind of incident?",
-    "options": ["Property damage incident", "Fatal incident", "Minor collision", "Theft incident"],
-    "correctAnswer": "Fatal incident"
+    "question": "The discussions around the LoP's role highlight core aspects of India's parliamentary democracy. Which of the following is a defining characteristic of India's parliamentary system, observed at both central and state levels (like AP/Telangana)?",
+    "options": [
+      "Presidential form of government",
+      "Separation of powers between executive and legislature",
+      "Collective responsibility of the Council of Ministers to the Legislature",
+      "Single-party rule without opposition"
+    ],
+    "correctAnswer": "Collective responsibility of the Council of Ministers to the Legislature"
   },
   {
     "id": 11,
-    "question": "Who was involved in a fatal incident using an Aston Martin, leading to charges in Andhra Pradesh?",
-    "options": ["An MP's son", "A state minister", "A police officer", "A local businessman"],
-    "correctAnswer": "An MP's son"
+    "question": "The Vande Bharat Express has been a subject of political discussion and significant railway development. Which of the following is a key feature of the Vande Bharat Express trains that are being rolled out across various Indian states, including routes serving Andhra Pradesh and Telangana?",
+    "options": [
+      "Slow-speed freight trains",
+      "Indigenous manufacturing and semi-high-speed capabilities",
+      "Coaches exclusively for political rallies",
+      "Steam-powered locomotives for heritage routes"
+    ],
+    "correctAnswer": "Indigenous manufacturing and semi-high-speed capabilities"
   },
   {
     "id": 12,
-    "question": "The charges against an MP's son from Andhra Pradesh are related to an incident involving what?",
-    "options": ["Financial fraud", "Illegal construction", "A fatal road accident", "Public nuisance"],
-    "correctAnswer": "A fatal road accident"
+    "question": "The expansion of advanced train services like the Vande Bharat Express indicates India's focus on railway modernization. What is a primary objective of modernizing the Indian railway network, particularly in enhancing connectivity for states such as Andhra Pradesh and Telangana?",
+    "options": [
+      "To replace all existing railway tracks with only metro lines",
+      "To reduce travel time and improve passenger comfort and safety",
+      "To privatize all railway operations entirely",
+      "To abolish all freight trains"
+    ],
+    "correctAnswer": "To reduce travel time and improve passenger comfort and safety"
   },
   {
     "id": 13,
-    "question": "Which political party is reportedly expanding its youth outreach programs nationwide, as mentioned in recent news?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "The terms 'dharna drama' and 'Vande row' reflect dynamic political discourse. In India's democratic framework, including at the state level in Andhra Pradesh and Telangana, what is a recognized form of peaceful political protest?",
+    "options": [
+      "Organizing armed insurgencies",
+      "Engaging in public debates and peaceful demonstrations",
+      "Bypassing legislative processes entirely",
+      "Dictating policy through executive orders only"
+    ],
+    "correctAnswer": "Engaging in public debates and peaceful demonstrations"
   },
   {
     "id": 14,
-    "question": "What kind of roadmap has the Congress Working Committee proposed for young people?",
-    "options": ["Economic development roadmap", "Education-to-employment roadmap", "Rural upliftment roadmap", "Technological innovation roadmap"],
-    "correctAnswer": "Education-to-employment roadmap"
+    "question": "India and Japan maintain robust bilateral relations, including youth exchange programs. In which key sector have both countries demonstrated significant cooperation, offering potential opportunities for skill development and economic growth in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Deep-sea mining and exploration",
+      "Nuclear disarmament initiatives",
+      "Infrastructure development, technology, and manufacturing",
+      "Space colonization projects"
+    ],
+    "correctAnswer": "Infrastructure development, technology, and manufacturing"
   },
   {
     "id": 15,
-    "question": "What type of protests have reportedly influenced political parties to rethink their youth engagement strategies?",
-    "options": ["Farmer protests", "Environmental protests", "Student protests", "Worker strikes"],
-    "correctAnswer": "Student protests"
+    "question": "Youth exchange programs, like those between India and Japan, are promoted to foster international understanding. What is the core objective of such programs for Indian youth, including students from states like Andhra Pradesh and Telangana?",
+    "options": [
+      "To facilitate permanent emigration to other countries",
+      "To promote cultural understanding and enhance global perspectives",
+      "To recruit individuals for foreign military service",
+      "To exclusively focus on sports competitions"
+    ],
+    "correctAnswer": "To promote cultural understanding and enhance global perspectives"
   },
   {
     "id": 16,
-    "question": "According to the news, where have student protests taken place that prompted political parties to course-correct their youth strategies?",
-    "options": ["India Gate", "Red Fort", "Jantar Mantar", "Parliament House"],
-    "correctAnswer": "Jantar Mantar"
+    "question": "The 'Lakhpati Didi' scheme is a national initiative to empower women. What is the central goal of this scheme, which aims to benefit women self-help groups (SHGs) across India, including those actively functioning in Andhra Pradesh and Telangana?",
+    "options": [
+      "To provide free foreign travel to women",
+      "To enable at least two crore women to earn an annual income of ₹1 lakh or more",
+      "To restrict women's participation in the workforce",
+      "To distribute land ownership only to men"
+    ],
+    "correctAnswer": "To enable at least two crore women to earn an annual income of ₹1 lakh or more"
   },
   {
     "id": 17,
-    "question": "Which prominent Congress leader's recent actions highlight the party's renewed commitment to addressing student concerns?",
-    "options": ["Mallikarjun Kharge", "Priyanka Gandhi Vadra", "Rahul Gandhi", "Sonia Gandhi"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Initiatives like 'Udyamshala Chaupal' aim to support women entrepreneurs. What is a common challenge faced by women aspiring to establish businesses in India, including in economically developing states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Lack of male customers",
+      "Limited access to finance and market linkages",
+      "Excessive government subsidies",
+      "Over-abundance of skilled labor"
+    ],
+    "correctAnswer": "Limited access to finance and market linkages"
   },
   {
     "id": 18,
-    "question": "What is the reported broader effort by the Congress party to regain support among the nation's youth?",
-    "options": ["Reducing taxes", "Focus on youth issues and expanding outreach", "Promising new infrastructure projects", "Reforming the judiciary"],
-    "correctAnswer": "Focus on youth issues and expanding outreach"
+    "question": "Self-Help Groups (SHGs) are fundamental to grassroots development and women's empowerment, prominent in states like Andhra Pradesh and Telangana. What is the primary function of these SHGs in India's rural and semi-urban areas?",
+    "options": [
+      "Operating as political parties",
+      "Facilitating microfinance, skill development, and collective action for socio-economic upliftment",
+      "Organizing large-scale industrial strikes",
+      "Providing military training to rural women"
+    ],
+    "correctAnswer": "Facilitating microfinance, skill development, and collective action for socio-economic upliftment"
   },
   {
     "id": 19,
-    "question": "What national examination controversy was associated with the student protests mentioned in the news?",
-    "options": ["JEE Mains controversy", "UPSC exam irregularities", "NEET paper-leak controversy", "CLAT exam reforms"],
-    "correctAnswer": "NEET paper-leak controversy"
+    "question": "India is being recognized globally as a 'bright spot of growth.' Which factor has been a significant contributor to India's robust economic performance in recent years, impacting overall development in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Sole reliance on agricultural exports",
+      "Strong domestic consumption, digital infrastructure, and policy reforms",
+      "Decreased foreign direct investment",
+      "Shrinking service sector contribution"
+    ],
+    "correctAnswer": "Strong domestic consumption, digital infrastructure, and policy reforms"
   },
   {
     "id": 20,
-    "question": "Which political leader staged a sit-in (dharna) concerning a student protester's pellet injury and alleged complaint refusal?",
-    "options": ["Arvind Kejriwal", "Rahul Gandhi", "Mamata Banerjee", "Narendra Modi"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Attracting foreign investment is crucial for India's economic aspirations. Which policy measure has India undertaken to significantly liberalize its economy and draw more Foreign Direct Investment (FDI), benefiting industrial and infrastructural projects in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Increasing import tariffs on all goods",
+      "Nationalizing all foreign-owned companies",
+      "Simplifying regulations, enhancing ease of doing business, and opening up sectors",
+      "Imposing strict quotas on foreign capital inflow"
+    ],
+    "correctAnswer": "Simplifying regulations, enhancing ease of doing business, and opening up sectors"
   },
   {
     "id": 21,
-    "question": "What specific injury was reported by a student protester, leading to an FIR being registered by Delhi Police?",
-    "options": ["Lathi charge injury", "Tear gas exposure", "Pellet injury", "Stampede injury"],
-    "correctAnswer": "Pellet injury"
+    "question": "India's economic growth narrative often includes national manufacturing initiatives. Which flagship government program primarily aims to boost domestic manufacturing, attract investment, and create jobs across various sectors in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Digital India",
+      "Swachh Bharat Abhiyan",
+      "Make in India",
+      "Pradhan Mantri Jan Dhan Yojana"
+    ],
+    "correctAnswer": "Make in India"
   },
   {
     "id": 22,
-    "question": "What was the primary concern of the student protests where a pellet injury was reported?",
-    "options": ["Fee hikes in universities", "Lack of job opportunities", "Alleged irregularities and NEET paper-leak", "Demands for new educational policies"],
-    "correctAnswer": "Alleged irregularities and NEET paper-leak"
+    "question": "The efforts of anti-bribery portals underscore the public's desire for clean governance. Which independent institution in India is the apex body responsible for investigating corruption charges against public officials at the central level, a role indirectly influencing state-level anti-corruption efforts in places like Andhra Pradesh and Telangana?",
+    "options": [
+      "Election Commission of India",
+      "NITI Aayog",
+      "Central Vigilance Commission (CVC)",
+      "Reserve Bank of India (RBI)"
+    ],
+    "correctAnswer": "Central Vigilance Commission (CVC)"
   },
   {
     "id": 23,
-    "question": "The Ministry of External Affairs' decision to deny clearance for Telangana CM's US visit is an example of exercising what type of power?",
-    "options": ["Fiscal power", "Judicial power", "Executive power over foreign relations", "Legislative power"],
-    "correctAnswer": "Executive power over foreign relations"
+    "question": "Crowd-funded initiatives demonstrate citizen engagement in demanding accountability. What is a common and established mechanism through which citizens in India, including those in Andhra Pradesh and Telangana, can seek information and hold public officials accountable?",
+    "options": [
+      "Disrupting legislative sessions",
+      "Filing applications under the Right to Information (RTI) Act",
+      "Boycotting all public services",
+      "Forming private militias"
+    ],
+    "correctAnswer": "Filing applications under the Right to Information (RTI) Act"
   },
   {
     "id": 24,
-    "question": "What organization registered an FIR regarding the student protester's alleged pellet injury?",
-    "options": ["CBI", "NIA", "Delhi Police", "Special Investigation Team"],
-    "correctAnswer": "Delhi Police"
+    "question": "The mention of an anti-bribery portal highlights digital tools for governance. Which of the following is a major digital initiative launched by the Indian government to enhance transparency, efficiency, and reduce corruption in public service delivery across all states, including AP and Telangana?",
+    "options": [
+      "Operation Digital Storm",
+      "Unified Payment Interface (UPI)",
+      "MyGov Portal and e-Governance services",
+      "Project Cyber-Shield"
+    ],
+    "correctAnswer": "MyGov Portal and e-Governance services"
   },
   {
     "id": 25,
-    "question": "The news indicates that the Ministry of External Affairs (MEA) denied political clearance for an Indian Chief Minister's visit, implying the MEA plays a role in approving foreign visits for:",
-    "options": ["All Indian citizens", "Only central government ministers", "Chief Ministers of Indian states", "Only diplomats"],
-    "correctAnswer": "Chief Ministers of Indian states"
+    "question": "The concept behind anti-bribery platforms often aligns with whistleblower protection. Which Indian Act is specifically designed to protect individuals who expose corruption or malpractice in government offices, including those in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "The Money Laundering Act, 2002",
+      "The Whistleblowers Protection Act, 2014",
+      "The Official Secrets Act, 1923",
+      "The Prevention of Terrorism Act, 2002"
+    ],
+    "correctAnswer": "The Whistleblowers Protection Act, 2014"
   }
 ]

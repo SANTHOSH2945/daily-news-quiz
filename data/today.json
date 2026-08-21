@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which prominent political leader recently issued a directive to the Congress party to monitor its members' social media activities?",
-    "options": ["Sonia Gandhi", "Rahul Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi Vadra"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Which state's Chief Minister recently had his visit to the United States denied political clearance by the Ministry of External Affairs?",
+    "options": ["Karnataka", "Kerala", "Telangana", "Tamil Nadu"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 2,
-    "question": "The directive from Rahul Gandhi regarding social media stands primarily targets which level of communication within the Congress party?",
-    "options": ["Party manifestos", "Official press releases", "Individual members' online posts", "Inter-party dialogues"],
-    "correctAnswer": "Individual members' online posts"
+    "question": "Who is the current Chief Minister of Telangana, whose planned US visit was recently scrapped?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Eatala Rajender", "K. T. Rama Rao"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 3,
-    "question": "What specific measure did Rahul Gandhi propose for managing the online presence of Congress party netas to ensure party discipline?",
-    "options": ["Issuing a new party constitution", "Implementing a social media monitoring system", "Forming a digital media cell for all leaders", "Providing mandatory social media training"],
-    "correctAnswer": "Implementing a social media monitoring system"
+    "question": "What was the stated characterization by the Ministry of External Affairs regarding the Telangana CM's proposed US visit?",
+    "options": ["A state visit", "Routine official trip", "Deemed inappropriate", "A cultural exchange program"],
+    "correctAnswer": "Deemed inappropriate"
   },
   {
     "id": 4,
-    "question": "What is the underlying goal of Rahul Gandhi's directive to monitor Congress netas' social media activities?",
-    "options": ["To boost party membership", "To improve party image and discipline", "To increase online engagement", "To promote new policies"],
-    "correctAnswer": "To improve party image and discipline"
+    "question": "Which government body denied political clearance for Telangana CM Revanth Reddy's US trip?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of External Affairs", "Prime Minister's Office"],
+    "correctAnswer": "Ministry of External Affairs"
   },
   {
     "id": 5,
-    "question": "A panel has proposed utilizing funds generated from which specific group to provide healthcare for underprivileged Indians?",
-    "options": ["NRIs working abroad", "Corporate CSR initiatives", "Medical tourists coming to India", "International aid organizations"],
-    "correctAnswer": "Medical tourists coming to India"
+    "question": "The Chief Minister of Telangana, Revanth Reddy, was denied clearance for a visit to which country?",
+    "options": ["United Kingdom", "Germany", "Japan", "United States"],
+    "correctAnswer": "United States"
   },
   {
     "id": 6,
-    "question": "The suggested policy of using medical tourists' money is aimed at making what more affordable and accessible for poor Indians?",
-    "options": ["Education", "Housing", "Healthcare", "Transportation"],
-    "correctAnswer": "Healthcare"
+    "question": "What type of clearance was denied to Telangana CM Revanth Reddy for his international travel?",
+    "options": ["Security clearance", "Political clearance", "Financial clearance", "Medical clearance"],
+    "correctAnswer": "Political clearance"
   },
   {
     "id": 7,
-    "question": "What is the key objective of the panel's recommendation to re-route medical tourism earnings for domestic healthcare?",
-    "options": ["To increase India's foreign exchange reserves", "To establish India as a global medical hub", "To make healthcare affordable for poor Indians", "To fund medical research exclusively"],
-    "correctAnswer": "To make healthcare affordable for poor Indians"
+    "question": "The news report mentions the scraping of a visit for the Chief Minister of which southern Indian state?",
+    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Kerala"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 8,
-    "question": "This proposed financial strategy for healthcare benefits is intended for which specific demographic within India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Senior citizens", "Government employees", "Poor Indians", "Rural populations only"],
-    "correctAnswer": "Poor Indians"
+    "question": "From which state is the Member of Parliament whose son was recently charged in connection with a fatal incident?",
+    "options": ["Telangana", "Andhra Pradesh", "Tamil Nadu", "Odisha"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 9,
-    "question": "What type of panel is responsible for making recommendations regarding healthcare financing for the poor in India, as per recent news?",
-    "options": ["A parliamentary committee on finance", "An expert panel on healthcare affordability", "The NITI Aayog's infrastructure division", "The Ministry of Tourism's advisory board"],
-    "correctAnswer": "An expert panel on healthcare affordability"
+    "question": "What luxury car brand was allegedly involved in the fatal incident caused by an Andhra MP's son?",
+    "options": ["Ferrari", "Lamborghini", "Aston Martin", "Porsche"],
+    "correctAnswer": "Aston Martin"
   },
   {
     "id": 10,
-    "question": "The 'Nabin meal row' saw the BJP accusing the Congress party of what specific action regarding an online post?",
-    "options": ["Hacking into official accounts", "Spreading misinformation", "Fabricating a post", "Ignoring public sentiment"],
-    "correctAnswer": "Fabricating a post"
+    "question": "An MP's son from Andhra Pradesh recently faced charges for causing what kind of incident?",
+    "options": ["Property damage incident", "Fatal incident", "Minor collision", "Theft incident"],
+    "correctAnswer": "Fatal incident"
   },
   {
     "id": 11,
-    "question": "Which two major political parties were involved in the recent 'Nabin meal row' concerning an alleged fabricated post?",
-    "options": ["Aam Aadmi Party and Congress", "Bharatiya Janata Party and Congress", "Shiv Sena and BJP", "Trinamool Congress and CPI(M)"],
-    "correctAnswer": "Bharatiya Janata Party and Congress"
+    "question": "Who was involved in a fatal incident using an Aston Martin, leading to charges in Andhra Pradesh?",
+    "options": ["An MP's son", "A state minister", "A police officer", "A local businessman"],
+    "correctAnswer": "An MP's son"
   },
   {
     "id": 12,
-    "question": "What significant medical breakthrough, a personalized treatment for cancer, is nearing market availability?",
-    "options": ["A new surgical technique", "A gene-editing therapy", "A personalized cancer vaccine", "An advanced radiation treatment"],
-    "correctAnswer": "A personalized cancer vaccine"
+    "question": "The charges against an MP's son from Andhra Pradesh are related to an incident involving what?",
+    "options": ["Financial fraud", "Illegal construction", "A fatal road accident", "Public nuisance"],
+    "correctAnswer": "A fatal road accident"
   },
   {
     "id": 13,
-    "question": "The development of a 'personalized' cancer vaccine implies what unique characteristic regarding its efficacy or application?",
-    "options": ["It works for all cancer types universally", "It is tailored to an individual patient's tumor", "It can be administered without any side effects", "It requires minimal medical supervision"],
-    "correctAnswer": "It is tailored to an individual patient's tumor"
+    "question": "Which political party is reportedly expanding its youth outreach programs nationwide, as mentioned in recent news?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 14,
-    "question": "What type of disease is the primary target for the personalized vaccine that is reportedly taking a step closer to market?",
-    "options": ["Diabetes", "Cardiovascular disease", "Cancer", "Autoimmune disorders"],
-    "correctAnswer": "Cancer"
+    "question": "What kind of roadmap has the Congress Working Committee proposed for young people?",
+    "options": ["Economic development roadmap", "Education-to-employment roadmap", "Rural upliftment roadmap", "Technological innovation roadmap"],
+    "correctAnswer": "Education-to-employment roadmap"
   },
   {
     "id": 15,
-    "question": "Who recently urged people to rally against the Congress party in connection with the 'Vande Mataram' controversy?",
-    "options": ["J.P. Nadda", "Rajnath Singh", "Narendra Modi", "Amit Shah"],
-    "correctAnswer": "Amit Shah"
+    "question": "What type of protests have reportedly influenced political parties to rethink their youth engagement strategies?",
+    "options": ["Farmer protests", "Environmental protests", "Student protests", "Worker strikes"],
+    "correctAnswer": "Student protests"
   },
   {
     "id": 16,
-    "question": "The 'Vande Mataram' row, which led to calls for protests, primarily involves a dispute over what nationalistic theme or symbol?",
-    "options": ["The National Flag", "The National Anthem", "The 'Vande Mataram' song", "The Emblem of India"],
-    "correctAnswer": "The 'Vande Mataram' song"
+    "question": "According to the news, where have student protests taken place that prompted political parties to course-correct their youth strategies?",
+    "options": ["India Gate", "Red Fort", "Jantar Mantar", "Parliament House"],
+    "correctAnswer": "Jantar Mantar"
   },
   {
     "id": 17,
-    "question": "What was the primary political action advocated by Amit Shah for the public to undertake concerning the 'Vande Mataram' row?",
-    "options": ["Initiate a public petition", "Organize rallies against Congress", "Boycott Congress events", "Start a social media campaign"],
-    "correctAnswer": "Organize rallies against Congress"
+    "question": "Which prominent Congress leader's recent actions highlight the party's renewed commitment to addressing student concerns?",
+    "options": ["Mallikarjun Kharge", "Priyanka Gandhi Vadra", "Rahul Gandhi", "Sonia Gandhi"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 18,
-    "question": "The 'Vande Mataram' row typically signifies a conflict centered around what kind of values or principles in Indian politics?",
-    "options": ["Economic policies", "Nationalism and cultural identity", "Environmental protection", "International relations"],
-    "correctAnswer": "Nationalism and cultural identity"
+    "question": "What is the reported broader effort by the Congress party to regain support among the nation's youth?",
+    "options": ["Reducing taxes", "Focus on youth issues and expanding outreach", "Promising new infrastructure projects", "Reforming the judiciary"],
+    "correctAnswer": "Focus on youth issues and expanding outreach"
   },
   {
     "id": 19,
-    "question": "CARA, a national authority, announced plans to tweak its rules with the aim of improving what system?",
-    "options": ["Railway network", "Child adoption regulatory system", "Public distribution system", "Digital payment infrastructure"],
-    "correctAnswer": "Child adoption regulatory system"
+    "question": "What national examination controversy was associated with the student protests mentioned in the news?",
+    "options": ["JEE Mains controversy", "UPSC exam irregularities", "NEET paper-leak controversy", "CLAT exam reforms"],
+    "correctAnswer": "NEET paper-leak controversy"
   },
   {
     "id": 20,
-    "question": "What does the acronym CARA primarily oversee and regulate in India?",
-    "options": ["Central Aviation Regulation Authority", "Central Aquaculture Research Agency", "Central Adoption Resource Authority", "Central Assessment and Review Agency"],
-    "correctAnswer": "Central Adoption Resource Authority"
+    "question": "Which political leader staged a sit-in (dharna) concerning a student protester's pellet injury and alleged complaint refusal?",
+    "options": ["Arvind Kejriwal", "Rahul Gandhi", "Mamata Banerjee", "Narendra Modi"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 21,
-    "question": "The proposed changes by CARA are intended to boost the regulatory framework in which specific social welfare area across India?",
-    "options": ["Women's safety", "Elderly care", "Child protection and adoption", "Disability rights"],
-    "correctAnswer": "Child protection and adoption"
+    "question": "What specific injury was reported by a student protester, leading to an FIR being registered by Delhi Police?",
+    "options": ["Lathi charge injury", "Tear gas exposure", "Pellet injury", "Stampede injury"],
+    "correctAnswer": "Pellet injury"
   },
   {
     "id": 22,
-    "question": "Which institution recently questioned the immediate application of the '3-language plan' for Standard 6 students in the current academic year?",
-    "options": ["The Ministry of Education", "The Supreme Court", "The CBSE Board", "The NITI Aayog"],
-    "correctAnswer": "The Supreme Court"
+    "question": "What was the primary concern of the student protests where a pellet injury was reported?",
+    "options": ["Fee hikes in universities", "Lack of job opportunities", "Alleged irregularities and NEET paper-leak", "Demands for new educational policies"],
+    "correctAnswer": "Alleged irregularities and NEET paper-leak"
   },
   {
     "id": 23,
-    "question": "What specific educational policy did the Supreme Court raise concerns about for implementation in the current academic year for Standard 6?",
-    "options": ["The 'Right to Education' Act", "The 'New Education Policy' (NEP)", "The '3-language plan'", "Vocational training curriculum"],
-    "correctAnswer": "The '3-language plan'"
+    "question": "The Ministry of External Affairs' decision to deny clearance for Telangana CM's US visit is an example of exercising what type of power?",
+    "options": ["Fiscal power", "Judicial power", "Executive power over foreign relations", "Legislative power"],
+    "correctAnswer": "Executive power over foreign relations"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's query regarding the '3-language plan' pertains to students of which particular academic grade?",
-    "options": ["Standard 1", "Standard 6", "Standard 9", "Standard 12"],
-    "correctAnswer": "Standard 6"
+    "question": "What organization registered an FIR regarding the student protester's alleged pellet injury?",
+    "options": ["CBI", "NIA", "Delhi Police", "Special Investigation Team"],
+    "correctAnswer": "Delhi Police"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's consideration for 'sparing Standard 6' from the 3-language plan suggests a concern about what aspect of educational reform?",
-    "options": ["Teacher training readiness", "Infrastructure availability", "Implementation burden for students this year", "Curriculum design complexity"],
-    "correctAnswer": "Implementation burden for students this year"
+    "question": "The news indicates that the Ministry of External Affairs (MEA) denied political clearance for an Indian Chief Minister's visit, implying the MEA plays a role in approving foreign visits for:",
+    "options": ["All Indian citizens", "Only central government ministers", "Chief Ministers of Indian states", "Only diplomats"],
+    "correctAnswer": "Chief Ministers of Indian states"
   }
 ]

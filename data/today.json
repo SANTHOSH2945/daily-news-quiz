@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What recent tragic event occurred in Hyderabad, as reported in the news?",
-    "options": ["Major fire incident", "Building collapse", "Bridge collapse", "Train derailment"],
-    "correctAnswer": "Building collapse"
+    "question": "Which Union Minister recently emphasized that India's ties with Bangladesh must serve mutual interest?",
+    "options": ["S. Jaishankar", "Amit Shah", "Nirmala Sitharaman", "Rajnath Singh"],
+    "correctAnswer": "S. Jaishankar"
   },
   {
     "id": 2,
-    "question": "How many fatalities were reported in the recent building collapse incident in Hyderabad?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "India's foreign policy emphasizes 'mutual interest' when engaging with neighboring countries. This approach was recently reiterated concerning which nation?",
+    "options": ["Pakistan", "Sri Lanka", "Bangladesh", "Nepal"],
+    "correctAnswer": "Bangladesh"
   },
   {
     "id": 3,
-    "question": "Hyderabad, the city where a building collapse recently claimed lives, is the capital of which Indian state?",
-    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "In which South Indian state was an individual recently arrested for alleged links to Pakistani gangsters via social media?",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 4,
-    "question": "The news mentioned a building collapse in which major city in Telangana?",
-    "options": ["Warangal", "Hyderabad", "Visakhapatnam", "Vijayawada"],
-    "correctAnswer": "Hyderabad"
+    "question": "The arrest in Karnataka concerning links to Pakistani gangsters underscores India's challenges with what type of threat?",
+    "options": ["Cyber warfare", "Economic espionage", "Cross-border organized crime", "Maritime piracy"],
+    "correctAnswer": "Cross-border organized crime"
   },
   {
     "id": 5,
-    "question": "Which type of incident, leading to two deaths, was recently reported in Hyderabad?",
-    "options": ["Road accident", "Factory explosion", "Building collapse", "Bridge collapse"],
-    "correctAnswer": "Building collapse"
+    "question": "The 4.5-generation Light Combat Aircraft (LCA) currently used by the Indian Air Force, whose future relevance was recently debated, is known as?",
+    "options": ["Rafale", "Sukhoi-30 MKI", "Tejas", "Mirage 2000"],
+    "correctAnswer": "Tejas"
   },
   {
     "id": 6,
-    "question": "Whose US tour cancellation was recently criticized by Kharge?",
-    "options": ["Naveen Patnaik", "Revanth Reddy", "M.K. Stalin", "Pinarayi Vijayan"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "Ex-IAF vice-chief Kapoor suggested India should partner with global consortiums for a 6th-gen programme for what type of defense equipment?",
+    "options": ["Submarines", "Fighter aircraft", "Ballistic missiles", "Main battle tanks"],
+    "correctAnswer": "Fighter aircraft"
   },
   {
     "id": 7,
-    "question": "Revanth Reddy, whose US tour was cancelled, is a prominent political figure from which Indian state?",
-    "options": ["Kerala", "Telangana", "Odisha", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "Recent discussions emphasize India's foreign policy adapting to global churn, particularly in relation to its stance towards which two global powers?",
+    "options": ["Russia and Germany", "France and UK", "China and USA", "Japan and Australia"],
+    "correctAnswer": "China and USA"
   },
   {
     "id": 8,
-    "question": "Who slammed the Centre over the cancellation of Revanth Reddy's US tour?",
-    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Sonia Gandhi", "Priyanka Gandhi"],
-    "correctAnswer": "Mallikarjun Kharge"
+    "question": "According to some foreign policy perspectives mentioned, which country must remain the primary focus ('raison d’être') of Indian policy planning?",
+    "options": ["Russia", "United States", "China", "United Kingdom"],
+    "correctAnswer": "China"
   },
   {
     "id": 9,
-    "question": "Which country was Revanth Reddy scheduled to visit before his tour was cancelled?",
-    "options": ["United Kingdom", "Germany", "United States", "Australia"],
-    "correctAnswer": "United States"
+    "question": "Mumbai Police are seeking Interpol's help to bring to justice Pakistani terrorists, including Hafiz Saeed, implicated in which devastating attack?",
+    "options": ["Parliament Attack (2001)", "Uri Attack (2016)", "Pulwama Attack (2019)", "Mumbai Terror Attack (2008)"],
+    "correctAnswer": "Mumbai Terror Attack (2008)"
   },
   {
     "id": 10,
-    "question": "The cancellation of Revanth Reddy's US tour drew criticism, with the Centre being blamed. Revanth Reddy is associated with which political party?",
-    "options": ["Bharatiya Janata Party (BJP)", "Telangana Rashtra Samithi (TRS)", "Indian National Congress (INC)", "Telugu Desam Party (TDP)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "Which two founders of Lashkar-e-Taiba are explicitly mentioned as targets of Mumbai Police's Interpol request for the 26/11 case?",
+    "options": ["Hafiz Saeed and Masood Azhar", "Hafiz Saeed and Zaki-ur-Rehman Lakhvi", "Dawood Ibrahim and Sajid Mir", "Zaki-ur-Rehman Lakhvi and Abu Bakr al-Baghdadi"],
+    "correctAnswer": "Hafiz Saeed and Zaki-ur-Rehman Lakhvi"
   },
   {
     "id": 11,
-    "question": "What was the central point of Kharge's criticism against the Centre regarding Revanth Reddy?",
-    "options": ["Delay in project funding", "Cancellation of a US tour", "Dispute over state boundaries", "Allegations of corruption"],
-    "correctAnswer": "Cancellation of a US tour"
+    "question": "The National Investigation Agency (NIA) recently conducted searches in Jammu and Kashmir targeting cross-border conspiracy linked to which militant group?",
+    "options": ["Hizbul Mujahideen", "Jaish-e-Mohammed", "Lashkar-e-Taiba", "Al-Qaeda"],
+    "correctAnswer": "Lashkar-e-Taiba"
   },
   {
     "id": 12,
-    "question": "The news about Revanth Reddy's cancelled tour relates to a chief minister from which state?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "The NIA's recent investigation in J&K, focusing on over-ground operatives, was prompted by the seizure of a grenade and what other items?",
+    "options": ["Explosive devices", "Ammunition", "Fake currency", "Drones"],
+    "correctAnswer": "Ammunition"
   },
   {
     "id": 13,
-    "question": "The cancellation of whose foreign tour was labeled 'deeply unfair' by Kharge?",
-    "options": ["Chief Minister of Karnataka", "Chief Minister of Telangana", "Chief Minister of Andhra Pradesh", "Chief Minister of Kerala"],
-    "correctAnswer": "Chief Minister of Telangana"
+    "question": "A Panama-flagged cargo ship recently sank off the coast of which Indian state in the Bay of Bengal?",
+    "options": ["West Bengal", "Odisha", "Andhra Pradesh", "Tamil Nadu"],
+    "correctAnswer": "Odisha"
   },
   {
     "id": 14,
-    "question": "From which date will the new immigration rule, abolishing physical boarding pass stamps for international flyers, come into effect across India?",
-    "options": ["August 1", "September 1", "October 1", "November 1"],
-    "correctAnswer": "September 1"
+    "question": "The Bay of Bengal, where a cargo ship recently sank, borders several Indian states. Which of the following is NOT a coastal state along the Bay of Bengal?",
+    "options": ["Andhra Pradesh", "Telangana", "Odisha", "West Bengal"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 15,
-    "question": "What will international flyers increasingly use for immigration clearance from September 1, according to the new rule in India?",
-    "options": ["Physical passports", "Visa stickers", "E-boarding passes on smartphones", "Aadhar cards"],
-    "correctAnswer": "E-boarding passes on smartphones"
+    "question": "In India, which agency is primarily responsible for maritime search and rescue operations, such as those for a sinking ship?",
+    "options": ["Indian Navy", "Indian Coast Guard", "Directorate General of Shipping", "Marine Police"],
+    "correctAnswer": "Indian Coast Guard"
   },
   {
     "id": 16,
-    "question": "What is one of the primary aims of the new immigration rule to eliminate physical boarding pass stamps in India?",
-    "options": ["Increase security checks", "Streamline the process and reduce passenger inconvenience", "Generate more revenue", "Reduce air travel frequency"],
-    "correctAnswer": "Streamline the process and reduce passenger inconvenience"
+    "question": "Union MoS for Social Justice, Ramdas Athawale, while calling reservation a constitutional right, emphasized the necessity of first ending which societal system?",
+    "options": ["Poverty", "Illiteracy", "Caste system", "Gender inequality"],
+    "correctAnswer": "Caste system"
   },
   {
     "id": 17,
-    "question": "Which government body is implementing these modernization efforts in immigration, including the no-stamp rule, across Indian airports?",
-    "options": ["Ministry of External Affairs", "Directorate General of Civil Aviation", "Bureau of Immigration", "Airport Authority of India"],
-    "correctAnswer": "Bureau of Immigration"
+    "question": "The Union MoS for Social Justice, Ramdas Athawale, serves in which central ministry responsible for empowerment and social justice?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of Social Justice and Empowerment", "Ministry of Law and Justice"],
+    "correctAnswer": "Ministry of Social Justice and Empowerment"
   },
   {
     "id": 18,
-    "question": "The new immigration rule regarding boarding passes primarily affects which category of travelers in India?",
-    "options": ["Domestic flyers", "International flyers", "Diplomatic personnel", "Cargo operators"],
-    "correctAnswer": "International flyers"
+    "question": "Prime Minister Modi recently engaged with 'team Nabin,' referring to the new national team of which political party?",
+    "options": ["Indian National Congress", "Bahujan Samaj Party", "Bharatiya Janata Party", "Aam Aadmi Party"],
+    "correctAnswer": "Bharatiya Janata Party"
   },
   {
     "id": 19,
-    "question": "A pilot project is currently underway in India to eliminate immigration stamping for which specific group of passport holders?",
-    "options": ["Foreign diplomats", "Indian passport holders", "Overseas Citizen of India (OCI) cardholders", "Non-resident Indians (NRIs)"],
-    "correctAnswer": "Indian passport holders"
+    "question": "The meeting between PM Modi and 'team Nabin' took place at the headquarters of which major political party?",
+    "options": ["Congress Headquarters", "BJP Headquarters", "Aam Aadmi Party Headquarters", "CPI(M) Headquarters"],
+    "correctAnswer": "BJP Headquarters"
   },
   {
     "id": 20,
-    "question": "The new immigration policy aims to modernize the clearance process for which specific travel document in India?",
-    "options": ["Visa", "Passport", "Boarding pass", "Aadhar card"],
-    "correctAnswer": "Boarding pass"
+    "question": "Rahul Gandhi recently conveyed a message of independence to young women during a gathering in which Indian city?",
+    "options": ["Bengaluru", "Hyderabad", "Pune", "Chennai"],
+    "correctAnswer": "Pune"
   },
   {
     "id": 21,
-    "question": "What will no longer be stamped by immigration authorities from September 1 for international travelers at Indian airports?",
-    "options": ["Passports", "Visas", "Physical boarding passes", "Baggage tags"],
-    "correctAnswer": "Physical boarding passes"
+    "question": "Rahul Gandhi's event in Pune highlighted significant student challenges including job scarcity and what other major issue?",
+    "options": ["Access to scholarships", "Examination irregularities", "Digital divide", "Mental health awareness"],
+    "correctAnswer": "Examination irregularities"
   },
   {
     "id": 22,
-    "question": "The implementation of e-boarding passes for immigration clearance in India is part of a broader effort to achieve what?",
-    "options": ["Increase manual checks", "Digitalize and streamline travel processes", "Reduce airport staff", "Introduce new travel taxes"],
-    "correctAnswer": "Digitalize and streamline travel processes"
+    "question": "EAM Jaishankar's emphasis on 'mutual interest' in ties with Bangladesh is indicative of India's evolving foreign policy, which increasingly focuses on what principle?",
+    "options": ["Non-alignment", "Strategic autonomy", "Unilateralism", "Isolationism"],
+    "correctAnswer": "Strategic autonomy"
   },
   {
     "id": 23,
-    "question": "The new immigration rule effective September 1 will facilitate smoother international travel by eliminating the need for stamping which specific item?",
-    "options": ["Luggage tags", "Customs declaration forms", "Physical international boarding passes", "Visa application forms"],
-    "correctAnswer": "Physical international boarding passes"
+    "question": "India's indigenous Tejas aircraft is primarily designed and manufactured by which public sector aerospace company?",
+    "options": ["Bharat Dynamics Limited (BDL)", "Hindustan Aeronautics Limited (HAL)", "Bharat Electronics Limited (BEL)", "Defence Research and Development Organisation (DRDO)"],
+    "correctAnswer": "Hindustan Aeronautics Limited (HAL)"
   },
   {
     "id": 24,
-    "question": "Which major aspect of airport procedures is being changed by the new rule regarding boarding pass stamps at Indian airports?",
-    "options": ["Security screening", "Immigration clearance", "Check-in process", "Baggage handling"],
-    "correctAnswer": "Immigration clearance"
+    "question": "Mumbai Police are utilizing the route provided by which international police organization to seek the trial of Pakistani terrorists like Hafiz Saeed?",
+    "options": ["Europol", "Interpol", "UN Police", "FBI"],
+    "correctAnswer": "Interpol"
   },
   {
     "id": 25,
-    "question": "The new rule about immigration stamping is applicable across all international airports in India, including those in Telangana and Andhra Pradesh. This measure is intended to primarily benefit whom?",
-    "options": ["Airport staff", "Airline companies", "International travelers", "Customs officials"],
-    "correctAnswer": "International travelers"
+    "question": "The National Investigation Agency (NIA), prominent in counter-terrorism operations across India, stands for what?",
+    "options": ["National Intelligence Authority", "National Investigation Agency", "New Indian Alliance", "National Information Assessment"],
+    "correctAnswer": "National Investigation Agency"
   }
 ]

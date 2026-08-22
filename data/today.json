@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The National Investigation Agency (NIA) plays a crucial role in tackling terrorism across India. Which of the following is a primary function of the NIA, applicable to maintaining national security in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Investigating inter-state civil disputes",
-      "Probing terror-related offenses and national security threats",
-      "Regulating state police forces",
-      "Managing electoral processes in border states"
-    ],
-    "correctAnswer": "Probing terror-related offenses and national security threats"
+    "question": "Prime Minister Modi recently stated that the world views India as a bright spot for growth. How do states like Telangana and Andhra Pradesh contribute to this national economic optimism?",
+    "options": ["Through robust IT sector growth", "By attracting significant foreign investments", "With strong agricultural output and industrial development", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 2,
-    "question": "Major terror attacks necessitate robust counter-terrorism measures nationwide. In India, which central agency is specifically mandated to investigate and prosecute offenses related to terrorism, impacting security across all states, including Andhra Pradesh and Telangana?",
-    "options": [
-      "Central Bureau of Investigation (CBI)",
-      "Intelligence Bureau (IB)",
-      "National Investigation Agency (NIA)",
-      "Research and Analysis Wing (RAW)"
-    ],
-    "correctAnswer": "National Investigation Agency (NIA)"
+    "question": "Following the PM's remarks on India's economic growth, which sector is particularly emphasized in both Telangana and Andhra Pradesh for future job creation and contribution to the national economy?",
+    "options": ["Traditional manufacturing", "Information Technology and Pharmaceuticals", "Coal mining", "Fishery processing"],
+    "correctAnswer": "Information Technology and Pharmaceuticals"
   },
   {
     "id": 3,
-    "question": "In significant cases, such as those handled by the NIA, courts consider various factors for bail. What is a key principle guiding bail decisions in serious cases involving national security, observed in judicial processes across Indian states like Telangana?",
-    "options": [
-      "Always granting bail to first-time offenders",
-      "Ensuring the accused does not flee or tamper with evidence",
-      "Prioritizing the accused's economic status",
-      "Expediting bail for political figures"
-    ],
-    "correctAnswer": "Ensuring the accused does not flee or tamper with evidence"
+    "question": "The national focus on India as a growth bright spot necessitates policy support from state governments. What key policy area do Telangana and Andhra Pradesh prioritize to align with this national vision?",
+    "options": ["Promoting ease of doing business", "Strengthening law enforcement", "Increasing public holidays", "Restricting inter-state trade"],
+    "correctAnswer": "Promoting ease of doing business"
   },
   {
     "id": 4,
-    "question": "The news mentions jail authorities providing medical care to an undertrial. Which set of guidelines or acts primarily ensures the provision of adequate medical facilities for prisoners in all Indian states, including Andhra Pradesh and Telangana?",
-    "options": [
-      "The Factories Act, 1948",
-      "The Model Prison Manual, 2016",
-      "The Income Tax Act, 1961",
-      "The Wildlife Protection Act, 1972"
-    ],
-    "correctAnswer": "The Model Prison Manual, 2016"
+    "question": "In the context of India's growth narrative, what role do infrastructure projects like national highways and port developments play in Telangana and Andhra Pradesh?",
+    "options": ["Primarily for tourism", "Essential for boosting trade and industrial connectivity", "Solely for defense purposes", "Only benefit urban populations"],
+    "correctAnswer": "Essential for boosting trade and industrial connectivity"
   },
   {
     "id": 5,
-    "question": "Incidents like the one concerning forced abortion bring the Medical Termination of Pregnancy (MTP) Act into focus. What is the main purpose of the MTP Act in India, which regulates legal abortions and is applicable in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "To ban all abortions in India",
-      "To permit abortion only for married women",
-      "To legalize and regulate medical termination of pregnancy under specified conditions",
-      "To promote gender-selective abortions"
-    ],
-    "correctAnswer": "To legalize and regulate medical termination of pregnancy under specified conditions"
+    "question": "The 'Economic Times World Leaders Forum' discussed India's growth trajectory. How might the 'Look East' policy, which impacts eastern coast states, specifically benefit Andhra Pradesh in contributing to this growth?",
+    "options": ["Increased cultural exchange with North-Eastern states", "Enhanced port-led development and trade with Southeast Asia", "Greater emphasis on space research", "Expansion of traditional handloom industries"],
+    "correctAnswer": "Enhanced port-led development and trade with Southeast Asia"
   },
   {
     "id": 6,
-    "question": "Violations such as forced abortions underscore the importance of women's safety laws. Which Indian legal framework broadly addresses crimes against women and ensures their protection from various forms of violence, applicable across states including Andhra Pradesh and Telangana?",
-    "options": [
-      "The Arms Act, 1959",
-      "The Indian Penal Code, 1860",
-      "The Foreign Exchange Management Act, 1999",
-      "The Copyright Act, 1957"
-    ],
-    "correctAnswer": "The Indian Penal Code, 1860"
+    "question": "Rahul Gandhi and the role of the Leader of Opposition (LoP) are frequently in national news. How does the effective functioning of the LoP contribute to democratic accountability in states like Telangana and Andhra Pradesh?",
+    "options": ["By ensuring the ruling party faces scrutiny", "By providing an alternative voice in policy debates", "By highlighting public issues and grievances", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 7,
-    "question": "Given the context of a minor's death related to a forced abortion attempt, which significant Indian act focuses on protecting children from sexual offenses, with provisions enforced in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "The Juvenile Justice (Care and Protection of Children) Act, 2015",
-      "The Protection of Children from Sexual Offences (POCSO) Act, 2012",
-      "The Child Labour (Prohibition and Regulation) Act, 1986",
-      "The RTE Act, 2009"
-    ],
-    "correctAnswer": "The Protection of Children from Sexual Offences (POCSO) Act, 2012"
+    "question": "The 'Vande row' mentioned in national headlines, while specific in its origin, touches upon broader issues of parliamentary conduct. How do parliamentary norms and debates impact legislative processes in state assemblies like those of Telangana and Andhra Pradesh?",
+    "options": ["They dictate the exact dress code for MLAs", "They ensure orderly debate and decision-making on state policies", "They are entirely irrelevant to state assemblies", "They only apply to financial matters"],
+    "correctAnswer": "They ensure orderly debate and decision-making on state policies"
   },
   {
     "id": 8,
-    "question": "While the news refers to an incident in a specific region, law and order is fundamentally a state subject in India. In states like Andhra Pradesh and Telangana, which branch of government is primarily responsible for maintaining law and order and investigating crimes?",
-    "options": [
-      "The Central Bureau of Investigation",
-      "The State Police Department",
-      "The Indian Army",
-      "The National Security Guard"
-    ],
-    "correctAnswer": "The State Police Department"
+    "question": "Given the ongoing national political discourse involving major parties, what is a key expectation from the opposition parties in Telangana and Andhra Pradesh regarding state governance?",
+    "options": ["To blindly support all government decisions", "To provide constructive criticism and propose alternative policies", "To focus solely on national issues", "To abstain from all legislative sessions"],
+    "correctAnswer": "To provide constructive criticism and propose alternative policies"
   },
   {
     "id": 9,
-    "question": "The role of the Leader of Opposition (LoP) is vital for democratic accountability. In the context of India's parliamentary system, including its relevance to the functioning of state assemblies like those in Andhra Pradesh and Telangana, what is the primary function of the LoP?",
-    "options": [
-      "To lead the ruling party in policy formulation",
-      "To approve all government budgets",
-      "To provide constructive criticism and hold the government accountable",
-      "To appoint judges to the Supreme Court"
-    ],
-    "correctAnswer": "To provide constructive criticism and hold the government accountable"
+    "question": "Rahul Gandhi's actions, described as 'dharna drama' by the BJP, are part of a national political narrative. What is a common form of protest or advocacy used by political parties in Telangana and Andhra Pradesh to draw attention to state-level issues?",
+    "options": ["Silent meditation retreats", "Dharnas and rallies", "International lobbying", "Extreme sports competitions"],
+    "correctAnswer": "Dharnas and rallies"
   },
   {
     "id": 10,
-    "question": "The discussions around the LoP's role highlight core aspects of India's parliamentary democracy. Which of the following is a defining characteristic of India's parliamentary system, observed at both central and state levels (like AP/Telangana)?",
-    "options": [
-      "Presidential form of government",
-      "Separation of powers between executive and legislature",
-      "Collective responsibility of the Council of Ministers to the Legislature",
-      "Single-party rule without opposition"
-    ],
-    "correctAnswer": "Collective responsibility of the Council of Ministers to the Legislature"
+    "question": "The role of the Leader of Opposition is to make the government accountable. In Telangana's current political scenario, who plays this crucial role in the State Legislative Assembly?",
+    "options": ["The Chief Minister", "The Speaker of the Assembly", "The leader of the largest opposition party", "The Chief Secretary"],
+    "correctAnswer": "The leader of the largest opposition party"
   },
   {
     "id": 11,
-    "question": "The Vande Bharat Express has been a subject of political discussion and significant railway development. Which of the following is a key feature of the Vande Bharat Express trains that are being rolled out across various Indian states, including routes serving Andhra Pradesh and Telangana?",
-    "options": [
-      "Slow-speed freight trains",
-      "Indigenous manufacturing and semi-high-speed capabilities",
-      "Coaches exclusively for political rallies",
-      "Steam-powered locomotives for heritage routes"
-    ],
-    "correctAnswer": "Indigenous manufacturing and semi-high-speed capabilities"
+    "question": "In the context of national discussions on farmer welfare, which of the following flagship schemes by the Telangana government is frequently highlighted?",
+    "options": ["KCR Kit", "Mission Kakatiya", "Rythu Bandhu", "Palle Pragathi"],
+    "correctAnswer": "Rythu Bandhu"
   },
   {
     "id": 12,
-    "question": "The expansion of advanced train services like the Vande Bharat Express indicates India's focus on railway modernization. What is a primary objective of modernizing the Indian railway network, particularly in enhancing connectivity for states such as Andhra Pradesh and Telangana?",
-    "options": [
-      "To replace all existing railway tracks with only metro lines",
-      "To reduce travel time and improve passenger comfort and safety",
-      "To privatize all railway operations entirely",
-      "To abolish all freight trains"
-    ],
-    "correctAnswer": "To reduce travel time and improve passenger comfort and safety"
+    "question": "The BJP's comments on political 'dharna drama' highlight contrasting political strategies. Which major political party currently forms the government in Andhra Pradesh?",
+    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Bharatiya Janata Party (BJP)", "Jana Sena Party (JSP)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 13,
-    "question": "The terms 'dharna drama' and 'Vande row' reflect dynamic political discourse. In India's democratic framework, including at the state level in Andhra Pradesh and Telangana, what is a recognized form of peaceful political protest?",
-    "options": [
-      "Organizing armed insurgencies",
-      "Engaging in public debates and peaceful demonstrations",
-      "Bypassing legislative processes entirely",
-      "Dictating policy through executive orders only"
-    ],
-    "correctAnswer": "Engaging in public debates and peaceful demonstrations"
+    "question": "The concept of 'accountability' for the government, as discussed in national politics, is crucial at the state level. What mechanism is widely used by citizens in Telangana and Andhra Pradesh to hold their state governments accountable?",
+    "options": ["Right to Information (RTI) Act", "Social media campaigns", "Public protests and demonstrations", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 14,
-    "question": "India and Japan maintain robust bilateral relations, including youth exchange programs. In which key sector have both countries demonstrated significant cooperation, offering potential opportunities for skill development and economic growth in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Deep-sea mining and exploration",
-      "Nuclear disarmament initiatives",
-      "Infrastructure development, technology, and manufacturing",
-      "Space colonization projects"
-    ],
-    "correctAnswer": "Infrastructure development, technology, and manufacturing"
+    "question": "National political debates often influence regional political narratives. How might a major national political party's stance on fiscal federalism impact the financial resources available to states like Telangana and Andhra Pradesh?",
+    "options": ["It has no bearing", "It can influence the allocation of central funds and grants", "It solely affects foreign policy", "It only impacts Union Territories"],
+    "correctAnswer": "It can influence the allocation of central funds and grants"
   },
   {
     "id": 15,
-    "question": "Youth exchange programs, like those between India and Japan, are promoted to foster international understanding. What is the core objective of such programs for Indian youth, including students from states like Andhra Pradesh and Telangana?",
-    "options": [
-      "To facilitate permanent emigration to other countries",
-      "To promote cultural understanding and enhance global perspectives",
-      "To recruit individuals for foreign military service",
-      "To exclusively focus on sports competitions"
-    ],
-    "correctAnswer": "To promote cultural understanding and enhance global perspectives"
+    "question": "A crowd-funded anti-bribery portal recently gained national attention. What kind of state-level initiatives exist in Telangana and Andhra Pradesh to combat corruption and promote transparency?",
+    "options": ["Lokayukta and Anti-Corruption Bureau (ACB)", "State-sponsored lottery schemes", "Public distribution of free goods", "Annual state-level sports tournaments"],
+    "correctAnswer": "Lokayukta and Anti-Corruption Bureau (ACB)"
   },
   {
     "id": 16,
-    "question": "The 'Lakhpati Didi' scheme is a national initiative to empower women. What is the central goal of this scheme, which aims to benefit women self-help groups (SHGs) across India, including those actively functioning in Andhra Pradesh and Telangana?",
-    "options": [
-      "To provide free foreign travel to women",
-      "To enable at least two crore women to earn an annual income of ₹1 lakh or more",
-      "To restrict women's participation in the workforce",
-      "To distribute land ownership only to men"
-    ],
-    "correctAnswer": "To enable at least two crore women to earn an annual income of ₹1 lakh or more"
+    "question": "The success of the anti-bribery portal highlights public demand for transparency. In which department or service sector are citizens in Telangana and Andhra Pradesh most likely to seek recourse for corruption-related issues at the state level?",
+    "options": ["Cultural affairs", "Land revenue and registration", "Animal husbandry", "Tourism promotion"],
+    "correctAnswer": "Land revenue and registration"
   },
   {
     "id": 17,
-    "question": "Initiatives like 'Udyamshala Chaupal' aim to support women entrepreneurs. What is a common challenge faced by women aspiring to establish businesses in India, including in economically developing states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Lack of male customers",
-      "Limited access to finance and market linkages",
-      "Excessive government subsidies",
-      "Over-abundance of skilled labor"
-    ],
-    "correctAnswer": "Limited access to finance and market linkages"
+    "question": "Transparency in governance is a key national and state objective. What digital initiatives have Telangana and Andhra Pradesh adopted to reduce human intervention and potential for corruption in government services?",
+    "options": ["Online citizen service portals (e.g., MeeSeva)", "Mandatory cash payments for all services", "Paper-only record keeping", "Disabling all government websites"],
+    "correctAnswer": "Online citizen service portals (e.g., MeeSeva)"
   },
   {
     "id": 18,
-    "question": "Self-Help Groups (SHGs) are fundamental to grassroots development and women's empowerment, prominent in states like Andhra Pradesh and Telangana. What is the primary function of these SHGs in India's rural and semi-urban areas?",
-    "options": [
-      "Operating as political parties",
-      "Facilitating microfinance, skill development, and collective action for socio-economic upliftment",
-      "Organizing large-scale industrial strikes",
-      "Providing military training to rural women"
-    ],
-    "correctAnswer": "Facilitating microfinance, skill development, and collective action for socio-economic upliftment"
+    "question": "The brief but impactful operation of the anti-bribery portal underscores the role of technology. Which of the following technological advancements has been widely adopted by Telangana and Andhra Pradesh governments to enhance public service delivery and accountability?",
+    "options": ["Blockchain for land records", "Use of drones for surveillance", "Biometric authentication for welfare schemes", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 19,
-    "question": "India is being recognized globally as a 'bright spot of growth.' Which factor has been a significant contributor to India's robust economic performance in recent years, impacting overall development in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Sole reliance on agricultural exports",
-      "Strong domestic consumption, digital infrastructure, and policy reforms",
-      "Decreased foreign direct investment",
-      "Shrinking service sector contribution"
-    ],
-    "correctAnswer": "Strong domestic consumption, digital infrastructure, and policy reforms"
+    "question": "Public participation is vital for anti-corruption efforts. How do state governments in Telangana and Andhra Pradesh typically encourage citizen feedback and grievance redressal regarding public services?",
+    "options": ["Through exclusive invite-only events", "Via dedicated helplines and online portals", "By appointing international consultants", "By only accepting written complaints by post"],
+    "correctAnswer": "Via dedicated helplines and online portals"
   },
   {
     "id": 20,
-    "question": "Attracting foreign investment is crucial for India's economic aspirations. Which policy measure has India undertaken to significantly liberalize its economy and draw more Foreign Direct Investment (FDI), benefiting industrial and infrastructural projects in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Increasing import tariffs on all goods",
-      "Nationalizing all foreign-owned companies",
-      "Simplifying regulations, enhancing ease of doing business, and opening up sectors",
-      "Imposing strict quotas on foreign capital inflow"
-    ],
-    "correctAnswer": "Simplifying regulations, enhancing ease of doing business, and opening up sectors"
+    "question": "The rapid user base of the anti-bribery portal indicates a strong public desire for clean governance. What legal framework empowers citizens in Telangana and Andhra Pradesh to demand information from government departments, thus promoting transparency?",
+    "options": ["The Indian Penal Code", "The Right to Information Act, 2005", "The Consumer Protection Act", "The Motor Vehicles Act"],
+    "correctAnswer": "The Right to Information Act, 2005"
   },
   {
     "id": 21,
-    "question": "India's economic growth narrative often includes national manufacturing initiatives. Which flagship government program primarily aims to boost domestic manufacturing, attract investment, and create jobs across various sectors in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Digital India",
-      "Swachh Bharat Abhiyan",
-      "Make in India",
-      "Pradhan Mantri Jan Dhan Yojana"
-    ],
-    "correctAnswer": "Make in India"
+    "question": "India's economic growth is heavily reliant on state-level fiscal management. Which of the following is a significant source of revenue for the state governments of Telangana and Andhra Pradesh?",
+    "options": ["Income Tax (Central)", "Goods and Services Tax (State share)", "Customs Duties", "Corporation Tax"],
+    "correctAnswer": "Goods and Services Tax (State share)"
   },
   {
     "id": 22,
-    "question": "The efforts of anti-bribery portals underscore the public's desire for clean governance. Which independent institution in India is the apex body responsible for investigating corruption charges against public officials at the central level, a role indirectly influencing state-level anti-corruption efforts in places like Andhra Pradesh and Telangana?",
-    "options": [
-      "Election Commission of India",
-      "NITI Aayog",
-      "Central Vigilance Commission (CVC)",
-      "Reserve Bank of India (RBI)"
-    ],
-    "correctAnswer": "Central Vigilance Commission (CVC)"
+    "question": "The national political discourse often highlights job creation as a major goal. What major initiative has the Telangana government launched to boost employment opportunities, especially for its youth?",
+    "options": ["Aatmanirbhar Bharat Abhiyan (National)", "T-Hub (Telangana-specific startup incubator)", "Startup India (National)", "Make in India (National)"],
+    "correctAnswer": "T-Hub (Telangana-specific startup incubator)"
   },
   {
     "id": 23,
-    "question": "Crowd-funded initiatives demonstrate citizen engagement in demanding accountability. What is a common and established mechanism through which citizens in India, including those in Andhra Pradesh and Telangana, can seek information and hold public officials accountable?",
-    "options": [
-      "Disrupting legislative sessions",
-      "Filing applications under the Right to Information (RTI) Act",
-      "Boycotting all public services",
-      "Forming private militias"
-    ],
-    "correctAnswer": "Filing applications under the Right to Information (RTI) Act"
+    "question": "Andhra Pradesh, being a coastal state, has focused on particular sectors for economic growth in line with national priorities. Which sector is crucial for its economic development and contributes to India's overall 'bright spot' image?",
+    "options": ["Landlocked agriculture", "Port-led development and fisheries", "Desert tourism", "Mountain trekking"],
+    "correctAnswer": "Port-led development and fisheries"
   },
   {
     "id": 24,
-    "question": "The mention of an anti-bribery portal highlights digital tools for governance. Which of the following is a major digital initiative launched by the Indian government to enhance transparency, efficiency, and reduce corruption in public service delivery across all states, including AP and Telangana?",
-    "options": [
-      "Operation Digital Storm",
-      "Unified Payment Interface (UPI)",
-      "MyGov Portal and e-Governance services",
-      "Project Cyber-Shield"
-    ],
-    "correctAnswer": "MyGov Portal and e-Governance services"
+    "question": "In the broader context of national economic development, what is a primary challenge faced by both Telangana and Andhra Pradesh that impacts their growth trajectory?",
+    "options": ["Lack of access to the internet", "Limited availability of skilled workforce", "Scarcity of natural resources", "Excessive snowfalls"],
+    "correctAnswer": "Limited availability of skilled workforce"
   },
   {
     "id": 25,
-    "question": "The concept behind anti-bribery platforms often aligns with whistleblower protection. Which Indian Act is specifically designed to protect individuals who expose corruption or malpractice in government offices, including those in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "The Money Laundering Act, 2002",
-      "The Whistleblowers Protection Act, 2014",
-      "The Official Secrets Act, 1923",
-      "The Prevention of Terrorism Act, 2002"
-    ],
-    "correctAnswer": "The Whistleblowers Protection Act, 2014"
+    "question": "The political dynamic between ruling and opposition parties, as seen nationally, also plays out at the state level. In the Telangana Legislative Assembly, what is the current ruling party?",
+    "options": ["Bharat Rashtra Samithi (BRS)", "Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress (INC)"
   }
 ]

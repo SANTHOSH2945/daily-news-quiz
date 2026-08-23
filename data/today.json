@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "A Panama-flagged cargo ship with 24 crew recently sank off the coast of which Indian state?",
-    "options": ["Option A: West Bengal", "Option B: Odisha", "Option C: Andhra Pradesh", "Option D: Tamil Nadu"],
-    "correctAnswer": "Option B: Odisha"
+    "question": "What significant milestone did Chandrayaan-3 achieve in lunar exploration, as celebrated on National Space Day?",
+    "options": ["Landing on the Moon's north pole", "Orbiting Jupiter", "Landing on the Moon's south pole", "Sending humans to Mars"],
+    "correctAnswer": "Landing on the Moon's south pole"
   },
   {
     "id": 2,
-    "question": "What was the nationality of the flag under which the cargo ship that sank off the Indian coast was sailing?",
-    "options": ["Option A: Liberian", "Option B: Panamanian", "Option C: Cypriot", "Option D: Marshallese"],
-    "correctAnswer": "Option B: Panamanian"
+    "question": "Which Indian state is home to Sriharikota, the primary launch center for lunar missions like Chandrayaan-3?",
+    "options": ["Karnataka", "Kerala", "Andhra Pradesh", "Tamil Nadu"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 3,
-    "question": "How many individuals were reported to be on board the cargo ship that sank off the Odisha coast?",
-    "options": ["Option A: 12", "Option B: 18", "Option C: 24", "Option D: 30"],
-    "correctAnswer": "Option C: 24"
+    "question": "What specific event is India's recently designated National Space Day meant to commemorate?",
+    "options": ["India's first satellite launch", "The establishment of ISRO", "Chandrayaan-3's successful lunar landing", "The launch of the Mars Orbiter Mission"],
+    "correctAnswer": "Chandrayaan-3's successful lunar landing"
   },
   {
     "id": 4,
-    "question": "Which Indian External Affairs Minister is scheduled to visit Moscow in late August?",
-    "options": ["Option A: Nirmala Sitharaman", "Option B: S. Jaishankar", "Option C: Amit Shah", "Option D: Rajnath Singh"],
-    "correctAnswer": "Option B: S. Jaishankar"
+    "question": "Southern states recently agreed to resolve water issues through which primary approach?",
+    "options": ["Arbitration by Supreme Court", "Bilateral treaties", "Mutual dialogue and constructive solutions", "Central government intervention"],
+    "correctAnswer": "Mutual dialogue and constructive solutions"
   },
   {
     "id": 5,
-    "question": "The External Affairs Minister's upcoming visit in August is to which major global capital?",
-    "options": ["Option A: Washington D.C.", "Option B: Beijing", "Option C: Moscow", "Option D: London"],
-    "correctAnswer": "Option C: Moscow"
+    "question": "Which body served as the platform where southern states discussed and agreed on resolving water issues?",
+    "options": ["NITI Aayog", "Lok Sabha", "Southern Zonal Council", "Inter-State Council"],
+    "correctAnswer": "Southern Zonal Council"
   },
   {
     "id": 6,
-    "question": "What significant change is soon to be implemented for immigration procedures at Indian airports, including major hubs in Telangana and Andhra Pradesh?",
-    "options": ["Option A: Mandatory biometric scans", "Option B: No need for physical boarding cards", "Option C: Visa-on-arrival for all nations", "Option D: Self-service immigration kiosks only"],
-    "correctAnswer": "Option B: No need for physical boarding cards"
+    "question": "What was the Prime Minister's primary action on National Space Day, as per the news?",
+    "options": ["Unveiling a new satellite", "Meeting India's space startups", "Announcing new space policies", "Visiting an ISRO facility"],
+    "correctAnswer": "Meeting India's space startups"
   },
   {
     "id": 7,
-    "question": "The new immigration policy eliminating physical boarding cards is primarily expected to streamline travel for which specific type of passengers at airports like Hyderabad and Visakhapatnam?",
-    "options": ["Option A: Domestic", "Option B: International", "Option C: VVIP", "Option D: Transit"],
-    "correctAnswer": "Option B: International"
+    "question": "Which political issue, besides water, was mentioned in the context of the Southern Zonal Council meeting?",
+    "options": ["Agricultural reforms", "Delimitation", "Education policy", "Healthcare funding"],
+    "correctAnswer": "Delimitation"
   },
   {
     "id": 8,
-    "question": "What is the primary benefit of the upcoming 'no physical boarding cards' rule at Indian immigration counters, which will impact travelers from states like Andhra Pradesh and Telangana?",
-    "options": ["Option A: Reduced airfare", "Option B: Faster immigration clearance", "Option C: More direct flight routes", "Option D: Enhanced luggage security"],
-    "correctAnswer": "Option B: Faster immigration clearance"
+    "question": "What did PM Modi express concerning India's space startups during his meeting on National Space Day?",
+    "options": ["Concerns about funding", "Desire for international collaboration", "Impressed by their energy and ambition", "Need for more government regulation"],
+    "correctAnswer": "Impressed by their energy and ambition"
   },
   {
     "id": 9,
-    "question": "Which national political party is planning to launch a 'Vande' campaign across India?",
-    "options": ["Option A: Indian National Congress", "Option B: Bharatiya Janata Party", "Option C: Aam Aadmi Party", "Option D: Bahujan Samaj Party"],
-    "correctAnswer": "Option B: Bharatiya Janata Party"
+    "question": "The agreement on water issues at the Southern Zonal Council meeting specifically involved which group of states?",
+    "options": ["Northern states", "Eastern states", "Western states", "Southern states"],
+    "correctAnswer": "Southern states"
   },
   {
     "id": 10,
-    "question": "The BJP's nationwide 'Vande' campaign is announced to invoke the legacy of which historical figure?",
-    "options": ["Option A: Sardar Vallabhbhai Patel", "Option B: Bhagat Singh", "Option C: Subhas Chandra Bose", "Option D: Mahatma Gandhi"],
-    "correctAnswer": "Option D: Mahatma Gandhi"
+    "question": "What is the full form of ISRO, the organization responsible for India's space missions like Chandrayaan-3?",
+    "options": ["Indian Satellite Research Organization", "International Space Research Office", "Indian Space Research Organisation", "Integrated Space Research Operations"],
+    "correctAnswer": "Indian Space Research Organisation"
   },
   {
     "id": 11,
-    "question": "The BJP has accused which political party of communalizing national symbols in relation to its 'Vande' campaign?",
-    "options": ["Option A: Congress", "Option B: TMC", "Option C: SP", "Option D: RJD"],
-    "correctAnswer": "Option A: Congress"
+    "question": "Which Union Minister was mentioned in connection with discussions about delimitation during the Southern Zonal Council meeting?",
+    "options": ["Rajnath Singh", "Nirmala Sitharaman", "Amit Shah", "Nitin Gadkari"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 12,
-    "question": "The chairman of which prominent Indian legal body is facing calls to resign and an inquiry demand?",
-    "options": ["Option A: Supreme Court Bar Association", "Option B: Bar Council of India", "Option C: Indian Law Commission", "Option D: National Legal Services Authority"],
-    "correctAnswer": "Option B: Bar Council of India"
+    "question": "What is the stated aim of celebrating National Space Day in India?",
+    "options": ["To attract foreign investment", "To promote space tourism", "To inspire greater interest in science and technology", "To secure military dominance in space"],
+    "correctAnswer": "To inspire greater interest in science and technology"
   },
   {
     "id": 13,
-    "question": "Who among the following is reportedly demanding an inquiry against the Bar Council of India (BCI) chairman?",
-    "options": ["Option A: A Supreme Court judge", "Option B: The Attorney General", "Option C: A co-chair of BCI", "Option D: The Law Minister"],
-    "correctAnswer": "Option C: A co-chair of BCI"
+    "question": "Telangana and Andhra Pradesh are examples of states that frequently experience which type of dispute, potentially addressed by the Southern Zonal Council's agreement?",
+    "options": ["Border disputes", "Language disputes", "Water sharing disputes", "Trade disputes"],
+    "correctAnswer": "Water sharing disputes"
   },
   {
     "id": 14,
-    "question": "According to former British PM Boris Johnson, which country possesses the capability to assist the US with the 'Iran trap'?",
-    "options": ["Option A: China", "Option B: Russia", "Option C: India", "Option D: France"],
-    "correctAnswer": "Option C: India"
+    "question": "Chandrayaan-3's landing on the Moon's south pole marked India's significant progress in which two fields?",
+    "options": ["Defense and manufacturing", "Education and healthcare", "Space exploration and scientific innovation", "Agriculture and fishing"],
+    "correctAnswer": "Space exploration and scientific innovation"
   },
   {
     "id": 15,
-    "question": "Which former head of government recently commented on India's potential role in US-Iran relations?",
-    "options": ["Option A: Theresa May", "Option B: Tony Blair", "Option C: Boris Johnson", "Option D: David Cameron"],
-    "correctAnswer": "Option C: Boris Johnson"
+    "question": "The Southern Zonal Council meeting emphasized what type of solutions for water issues?",
+    "options": ["Legal injunctions", "Constructive solutions", "Unilateral decisions", "International mediation"],
+    "correctAnswer": "Constructive solutions"
   },
   {
     "id": 16,
-    "question": "According to Sergio Gor, what is expected to define the global stage in terms of international relations?",
-    "options": ["Option A: Russia-China alliance", "Option B: EU's expansion", "Option C: India-US ties", "Option D: Africa's economic growth"],
-    "correctAnswer": "Option C: India-US ties"
+    "question": "What is the general name for the private entities PM Modi met on National Space Day to praise their energy and ambition?",
+    "options": ["Government agencies", "Educational institutions", "Space startups", "Research labs"],
+    "correctAnswer": "Space startups"
   },
   {
     "id": 17,
-    "question": "Which US Senator is mentioned as planning another visit to India this year?",
-    "options": ["Option A: Chuck Schumer", "Option B: Mitch McConnell", "Option C: Marco Rubio", "Option D: Ted Cruz"],
-    "correctAnswer": "Option C: Marco Rubio"
+    "question": "Which political party was mentioned as questioning a Chief Minister's stance on delimitation during the Southern Zonal Council meeting?",
+    "options": ["BJP", "Congress", "DMK", "AIADMK"],
+    "correctAnswer": "DMK"
   },
   {
     "id": 18,
-    "question": "What type of agreement is stated to be 'coming' between India and the US, according to Sergio Gor?",
-    "options": ["Option A: Security pact", "Option B: Trade deal", "Option C: Cultural exchange program", "Option D: Climate change accord"],
-    "correctAnswer": "Option B: Trade deal"
+    "question": "What does the successful landing of Chandrayaan-3 on the Moon's south pole signify for India on a global scale?",
+    "options": ["Economic dominance", "Military superiority", "Leadership in space exploration", "Cultural influence"],
+    "correctAnswer": "Leadership in space exploration"
   },
   {
     "id": 19,
-    "question": "EAM Jaishankar stated that India's ties with which neighboring country must serve mutual interest?",
-    "options": ["Option A: Sri Lanka", "Option B: Nepal", "Option C: Bangladesh", "Option D: Myanmar"],
-    "correctAnswer": "Option C: Bangladesh"
+    "question": "The agreement among southern states to resolve water issues through mutual dialogue primarily aims to prevent what?",
+    "options": ["Political alliances", "Inter-state conflicts", "Economic downturns", "Cultural exchanges"],
+    "correctAnswer": "Inter-state conflicts"
   },
   {
     "id": 20,
-    "question": "Regarding relations with Pakistan, what did EAM Jaishankar state the Indian government cannot ignore?",
-    "options": ["Option A: International pressure", "Option B: Economic sanctions", "Option C: Public opinion", "Option D: Historical treaties"],
-    "correctAnswer": "Option C: Public opinion"
+    "question": "Apart from celebrating Chandrayaan-3, National Space Day aims to foster greater interest in which two broad fields?",
+    "options": ["Arts and humanities", "Sports and fitness", "Science and technology", "Business and finance"],
+    "correctAnswer": "Science and technology"
   },
   {
     "id": 21,
-    "question": "In which Indian state was a man arrested for alleged links to 'Pakistani gangsters' via social media?",
-    "options": ["Option A: Kerala", "Option B: Goa", "Option C: Karnataka", "Option D: Maharashtra"],
-    "correctAnswer": "Option C: Karnataka"
+    "question": "The Southern Zonal Council meeting encourages resolving disputes through what kind of reciprocal action between states?",
+    "options": ["Legal challenges", "Mutual dialogue", "Public protests", "Media campaigns"],
+    "correctAnswer": "Mutual dialogue"
   },
   {
     "id": 22,
-    "question": "Which social media platform was crucial in unveiling the alleged links of the arrested Indian man to 'Pakistani gangsters'?",
-    "options": ["Option A: Facebook", "Option B: Twitter", "Option C: WhatsApp", "Option D: Instagram"],
-    "correctAnswer": "Option D: Instagram"
+    "question": "What type of data sharing does ISRO aim for internationally following missions like Chandrayaan-3?",
+    "options": ["Financial data", "Global data", "Political data", "Economic data"],
+    "correctAnswer": "Global data"
   },
   {
     "id": 23,
-    "question": "The arrest of the Karnataka man for alleged links to 'Pakistani gangsters' highlights concerns related to international criminal networks and which national security aspect in India?",
-    "options": ["Option A: Cybercrime", "Option B: Counter-terrorism", "Option C: Border security", "Option D: Financial fraud"],
-    "correctAnswer": "Option B: Counter-terrorism"
+    "question": "During the Southern Zonal Council meeting, what was the nature of the 'political exchange' involving the DMK, Amit Shah, and a Chief Minister's stance?",
+    "options": ["Agreement on new policies", "Discussion on economic growth", "Sparring over delimitation", "Joint statement on security"],
+    "correctAnswer": "Sparring over delimitation"
   },
   {
     "id": 24,
-    "question": "According to an ex-IAF vice-chief, which Indian indigenous fighter jet may not be relevant by the 2030s?",
-    "options": ["Option A: Sukhoi-30MKI", "Option B: Rafale", "Option C: Tejas", "Option D: Mirage 2000"],
-    "correctAnswer": "Option C: Tejas"
+    "question": "What was the specific outcome of the Chandrayaan-3 mission that led to the celebration of National Space Day?",
+    "options": ["Launch of a new communication satellite", "Successful landing on the Moon's south pole", "Discovery of new exoplanets", "Development of a new rocket engine"],
+    "correctAnswer": "Successful landing on the Moon's south pole"
   },
   {
     "id": 25,
-    "question": "For India's 6th-generation fighter program, what was suggested as a necessary step by Ex-IAF vice-chief Kapoor?",
-    "options": ["Option A: Solely domestic development", "Option B: Partnering with global consortiums", "Option C: Purchasing foreign aircraft directly", "Option D: Focusing on drone technology only"],
-    "correctAnswer": "Option B: Partnering with global consortiums"
+    "question": "What aspect of the Southern Zonal Council's approach to water issues is highlighted by the phrase 'mutual dialogue'?",
+    "options": ["Confrontation", "Collaboration", "Competition", "Isolation"],
+    "correctAnswer": "Collaboration"
   }
 ]

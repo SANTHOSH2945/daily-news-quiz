@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Union Minister recently emphasized that India's ties with Bangladesh must serve mutual interest?",
-    "options": ["S. Jaishankar", "Amit Shah", "Nirmala Sitharaman", "Rajnath Singh"],
-    "correctAnswer": "S. Jaishankar"
+    "question": "What sentiment did EAM Jaishankar emphasize regarding India's ties with neighboring countries, which applies to all states including Telangana and Andhra Pradesh?",
+    "options": ["Ties must serve mutual interest", "India should dominate regional policies", "Neighbors must align with India's agenda", "Economic dependency is key"],
+    "correctAnswer": "Ties must serve mutual interest"
   },
   {
     "id": 2,
-    "question": "India's foreign policy emphasizes 'mutual interest' when engaging with neighboring countries. This approach was recently reiterated concerning which nation?",
-    "options": ["Pakistan", "Sri Lanka", "Bangladesh", "Nepal"],
-    "correctAnswer": "Bangladesh"
+    "question": "The news mentions 'Public Opinion On Pak' influencing government decisions. This highlights the sensitivity of India's foreign policy towards which country, a national security concern relevant to all Indian states?",
+    "options": ["Bangladesh", "China", "Pakistan", "USA"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 3,
-    "question": "In which South Indian state was an individual recently arrested for alleged links to Pakistani gangsters via social media?",
-    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
-    "correctAnswer": "Karnataka"
+    "question": "An arrest in Karnataka for links to 'Pakistani gangsters' underscores which growing concern in South India, including neighboring states like Andhra Pradesh and Telangana?",
+    "options": ["Local agricultural disputes", "Cross-border criminal networks and national security", "State-level political rivalries", "Regional language conflicts"],
+    "correctAnswer": "Cross-border criminal networks and national security"
   },
   {
     "id": 4,
-    "question": "The arrest in Karnataka concerning links to Pakistani gangsters underscores India's challenges with what type of threat?",
-    "options": ["Cyber warfare", "Economic espionage", "Cross-border organized crime", "Maritime piracy"],
-    "correctAnswer": "Cross-border organized crime"
+    "question": "The arrest in Karnataka was enabled by an 'Instagram trail.' This highlights the increasing role of which in law enforcement investigations across India, relevant to policing in Telangana and Andhra Pradesh?",
+    "options": ["Traditional media reports", "International diplomatic efforts", "Social media intelligence and cybersecurity", "Local community policing initiatives"],
+    "correctAnswer": "Social media intelligence and cybersecurity"
   },
   {
     "id": 5,
-    "question": "The 4.5-generation Light Combat Aircraft (LCA) currently used by the Indian Air Force, whose future relevance was recently debated, is known as?",
-    "options": ["Rafale", "Sukhoi-30 MKI", "Tejas", "Mirage 2000"],
-    "correctAnswer": "Tejas"
+    "question": "The Tejas fighter jet is India's indigenous aircraft. Its manufacturing is primarily associated with which public sector undertaking, which has a significant presence in South India, including Telangana?",
+    "options": ["Bharat Dynamics Limited", "Hindustan Aeronautics Limited (HAL)", "Defence Research and Development Organisation (DRDO)", "Mazagon Dock Shipbuilders"],
+    "correctAnswer": "Hindustan Aeronautics Limited (HAL)"
   },
   {
     "id": 6,
-    "question": "Ex-IAF vice-chief Kapoor suggested India should partner with global consortiums for a 6th-gen programme for what type of defense equipment?",
-    "options": ["Submarines", "Fighter aircraft", "Ballistic missiles", "Main battle tanks"],
-    "correctAnswer": "Fighter aircraft"
+    "question": "What type of fighter jet is the 'Tejas' categorized as, according to the news headline, representing India's national defense capabilities?",
+    "options": ["3rd-generation", "4.5-generation", "5th-generation", "6th-generation"],
+    "correctAnswer": "4.5-generation"
   },
   {
     "id": 7,
-    "question": "Recent discussions emphasize India's foreign policy adapting to global churn, particularly in relation to its stance towards which two global powers?",
-    "options": ["Russia and Germany", "France and UK", "China and USA", "Japan and Australia"],
-    "correctAnswer": "China and USA"
+    "question": "The news highlights a debate about India's foreign policy needing to adapt in a 'world in churn.' What concept is central to this debate, especially regarding India's major power relations, impacting national strategy for all states?",
+    "options": ["Economic protectionism", "Strategic independence", "Cultural isolation", "Unilateralism"],
+    "correctAnswer": "Strategic independence"
   },
   {
     "id": 8,
-    "question": "According to some foreign policy perspectives mentioned, which country must remain the primary focus ('raison d’être') of Indian policy planning?",
-    "options": ["Russia", "United States", "China", "United Kingdom"],
-    "correctAnswer": "China"
+    "question": "According to the provided news context, which two major global powers are mentioned as influencing India's foreign policy planning, a key aspect of national governance for all states?",
+    "options": ["Russia and Germany", "China and the US", "Japan and Australia", "UK and France"],
+    "correctAnswer": "China and the US"
   },
   {
     "id": 9,
-    "question": "Mumbai Police are seeking Interpol's help to bring to justice Pakistani terrorists, including Hafiz Saeed, implicated in which devastating attack?",
-    "options": ["Parliament Attack (2001)", "Uri Attack (2016)", "Pulwama Attack (2019)", "Mumbai Terror Attack (2008)"],
-    "correctAnswer": "Mumbai Terror Attack (2008)"
+    "question": "In the context of the 26/11 Mumbai terror attacks, which international organization is Mumbai Police seeking assistance from to prosecute key accused, demonstrating India's global efforts against terrorism?",
+    "options": ["United Nations Security Council", "International Court of Justice", "Interpol", "ASEAN"],
+    "correctAnswer": "Interpol"
   },
   {
     "id": 10,
-    "question": "Which two founders of Lashkar-e-Taiba are explicitly mentioned as targets of Mumbai Police's Interpol request for the 26/11 case?",
-    "options": ["Hafiz Saeed and Masood Azhar", "Hafiz Saeed and Zaki-ur-Rehman Lakhvi", "Dawood Ibrahim and Sajid Mir", "Zaki-ur-Rehman Lakhvi and Abu Bakr al-Baghdadi"],
+    "question": "Who are the two named founders of Lashkar-e-Taiba mentioned in connection with the 26/11 case, against whom India is seeking justice?",
+    "options": ["Dawood Ibrahim and Tiger Memon", "Hafiz Saeed and Zaki-ur-Rehman Lakhvi", "Osama bin Laden and Ayman al-Zawahiri", "Masood Azhar and Syed Salahuddin"],
     "correctAnswer": "Hafiz Saeed and Zaki-ur-Rehman Lakhvi"
   },
   {
     "id": 11,
-    "question": "The National Investigation Agency (NIA) recently conducted searches in Jammu and Kashmir targeting cross-border conspiracy linked to which militant group?",
-    "options": ["Hizbul Mujahideen", "Jaish-e-Mohammed", "Lashkar-e-Taiba", "Al-Qaeda"],
-    "correctAnswer": "Lashkar-e-Taiba"
+    "question": "Which Indian agency launched extensive searches in Jammu and Kashmir to dismantle a cross-border conspiracy linked to Lashkar-e-Taiba, an agency with jurisdiction across all Indian states?",
+    "options": ["Central Bureau of Investigation (CBI)", "Research and Analysis Wing (RAW)", "National Investigation Agency (NIA)", "Intelligence Bureau (IB)"],
+    "correctAnswer": "National Investigation Agency (NIA)"
   },
   {
     "id": 12,
-    "question": "The NIA's recent investigation in J&K, focusing on over-ground operatives, was prompted by the seizure of a grenade and what other items?",
-    "options": ["Explosive devices", "Ammunition", "Fake currency", "Drones"],
-    "correctAnswer": "Ammunition"
+    "question": "The NIA investigation in J&K was prompted by the seizure of which items from a local resident, highlighting a national concern regarding militant activities?",
+    "options": ["Illegal currency and gold", "Drugs and counterfeit documents", "A grenade and ammunition", "Satellite phones and laptops"],
+    "correctAnswer": "A grenade and ammunition"
   },
   {
     "id": 13,
-    "question": "A Panama-flagged cargo ship recently sank off the coast of which Indian state in the Bay of Bengal?",
-    "options": ["West Bengal", "Odisha", "Andhra Pradesh", "Tamil Nadu"],
+    "question": "A Panama-flagged cargo ship sank off the coast of which Indian state in the Bay of Bengal, an area crucial for coastal states like Andhra Pradesh?",
+    "options": ["Kerala", "Gujarat", "Odisha", "Maharashtra"],
     "correctAnswer": "Odisha"
   },
   {
     "id": 14,
-    "question": "The Bay of Bengal, where a cargo ship recently sank, borders several Indian states. Which of the following is NOT a coastal state along the Bay of Bengal?",
-    "options": ["Andhra Pradesh", "Telangana", "Odisha", "West Bengal"],
-    "correctAnswer": "Telangana"
+    "question": "The sinking of a cargo ship in the Bay of Bengal highlights the importance of maritime safety and security for India's coastal regions, including states like Andhra Pradesh. How many people were on board the sunken ship?",
+    "options": ["12", "24", "36", "48"],
+    "correctAnswer": "24"
   },
   {
     "id": 15,
-    "question": "In India, which agency is primarily responsible for maritime search and rescue operations, such as those for a sinking ship?",
-    "options": ["Indian Navy", "Indian Coast Guard", "Directorate General of Shipping", "Marine Police"],
+    "question": "The Bay of Bengal is a crucial maritime region for India, bordering several states including Andhra Pradesh. Incidents like the ship sinking necessitate robust action from which Indian agency for search and rescue operations?",
+    "options": ["Indian Navy", "Indian Army", "Indian Coast Guard", "Border Security Force"],
     "correctAnswer": "Indian Coast Guard"
   },
   {
     "id": 16,
-    "question": "Union MoS for Social Justice, Ramdas Athawale, while calling reservation a constitutional right, emphasized the necessity of first ending which societal system?",
-    "options": ["Poverty", "Illiteracy", "Caste system", "Gender inequality"],
-    "correctAnswer": "Caste system"
+    "question": "Union MoS for Social Justice Athawale stated that reservation is a 'constitutional right.' This policy affects various social groups and is a significant aspect of social justice in which country, relevant to all states including Telangana and Andhra Pradesh?",
+    "options": ["Sri Lanka", "Bangladesh", "India", "Nepal"],
+    "correctAnswer": "India"
   },
   {
     "id": 17,
-    "question": "The Union MoS for Social Justice, Ramdas Athawale, serves in which central ministry responsible for empowerment and social justice?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of Social Justice and Empowerment", "Ministry of Law and Justice"],
-    "correctAnswer": "Ministry of Social Justice and Empowerment"
+    "question": "What fundamental social issue did Union MoS Athawale state needed to end first, in relation to the discussion on reservation, a deeply rooted issue in Indian society affecting states like Telangana and Andhra Pradesh?",
+    "options": ["Poverty", "Unemployment", "Caste system", "Illiteracy"],
+    "correctAnswer": "Caste system"
   },
   {
     "id": 18,
-    "question": "Prime Minister Modi recently engaged with 'team Nabin,' referring to the new national team of which political party?",
-    "options": ["Indian National Congress", "Bahujan Samaj Party", "Bharatiya Janata Party", "Aam Aadmi Party"],
-    "correctAnswer": "Bharatiya Janata Party"
+    "question": "Prime Minister Modi met with BJP's 'team Nabin' at the party headquarters. This meeting refers to the engagement with which group, demonstrating the national party's organizational efforts across India?",
+    "options": ["New cabinet ministers", "State chief ministers", "The party's new 65-member national team", "International dignitaries"],
+    "correctAnswer": "The party's new 65-member national team"
   },
   {
     "id": 19,
-    "question": "The meeting between PM Modi and 'team Nabin' took place at the headquarters of which major political party?",
-    "options": ["Congress Headquarters", "BJP Headquarters", "Aam Aadmi Party Headquarters", "CPI(M) Headquarters"],
-    "correctAnswer": "BJP Headquarters"
+    "question": "The interaction between PM Modi and 'team Nabin' at the party HQ is a part of the national political party's ongoing efforts to streamline which aspect, impacting its presence in states like Telangana and Andhra Pradesh?",
+    "options": ["Foreign policy", "Economic reforms", "Organizational strategies and internal leadership", "Defense procurement"],
+    "correctAnswer": "Organizational strategies and internal leadership"
   },
   {
     "id": 20,
-    "question": "Rahul Gandhi recently conveyed a message of independence to young women during a gathering in which Indian city?",
-    "options": ["Bengaluru", "Hyderabad", "Pune", "Chennai"],
-    "correctAnswer": "Pune"
+    "question": "Rahul Gandhi's message in Pune emphasized the importance of which concept for young women, a message relevant to youth empowerment initiatives in Telangana and Andhra Pradesh?",
+    "options": ["Financial dependence", "Social conformity", "Personal independence and identity", "Traditional roles"],
+    "correctAnswer": "Personal independence and identity"
   },
   {
     "id": 21,
-    "question": "Rahul Gandhi's event in Pune highlighted significant student challenges including job scarcity and what other major issue?",
-    "options": ["Access to scholarships", "Examination irregularities", "Digital divide", "Mental health awareness"],
-    "correctAnswer": "Examination irregularities"
+    "question": "During Rahul Gandhi's gathering in Pune, what specific challenges faced by students were highlighted, issues that are also pressing for youth in states like Telangana and Andhra Pradesh?",
+    "options": ["Lack of recreational facilities and sports scholarships", "Job scarcity and examination irregularities", "Access to international exchange programs", "High tuition fees for primary education"],
+    "correctAnswer": "Job scarcity and examination irregularities"
   },
   {
     "id": 22,
-    "question": "EAM Jaishankar's emphasis on 'mutual interest' in ties with Bangladesh is indicative of India's evolving foreign policy, which increasingly focuses on what principle?",
-    "options": ["Non-alignment", "Strategic autonomy", "Unilateralism", "Isolationism"],
-    "correctAnswer": "Strategic autonomy"
+    "question": "The news report about Rahul Gandhi's event in Pune mentioned discord among student groups leading to police intervention. This reflects a broader trend of managing which type of gatherings in various Indian cities, including those in Telangana and Andhra Pradesh?",
+    "options": ["Religious festivals", "Academic conferences", "Political events and student protests", "Corporate seminars"],
+    "correctAnswer": "Political events and student protests"
   },
   {
     "id": 23,
-    "question": "India's indigenous Tejas aircraft is primarily designed and manufactured by which public sector aerospace company?",
-    "options": ["Bharat Dynamics Limited (BDL)", "Hindustan Aeronautics Limited (HAL)", "Bharat Electronics Limited (BEL)", "Defence Research and Development Organisation (DRDO)"],
-    "correctAnswer": "Hindustan Aeronautics Limited (HAL)"
+    "question": "The primary focus of Rahul Gandhi's event, against the backdrop of rising political tension, was to confront significant challenges faced by which demographic group across India, including Telangana and Andhra Pradesh?",
+    "options": ["Senior citizens", "Farmers", "Youth and students", "Small business owners"],
+    "correctAnswer": "Youth and students"
   },
   {
     "id": 24,
-    "question": "Mumbai Police are utilizing the route provided by which international police organization to seek the trial of Pakistani terrorists like Hafiz Saeed?",
-    "options": ["Europol", "Interpol", "UN Police", "FBI"],
-    "correctAnswer": "Interpol"
+    "question": "What was one of the key socio-economic concerns addressed at the Pune gathering, which is also a pressing issue for youth in states like Telangana and Andhra Pradesh?",
+    "options": ["Healthcare access", "Climate change impact", "Job scarcity", "Digital literacy"],
+    "correctAnswer": "Job scarcity"
   },
   {
     "id": 25,
-    "question": "The National Investigation Agency (NIA), prominent in counter-terrorism operations across India, stands for what?",
-    "options": ["National Intelligence Authority", "National Investigation Agency", "New Indian Alliance", "National Information Assessment"],
-    "correctAnswer": "National Investigation Agency"
+    "question": "The news report about the Pune gathering noted 'political factions exchanged blame over allegations of disrupted activities and financial support.' This points to the dynamics of which aspect of Indian democracy, present in all states?",
+    "options": ["Election commission reforms", "Inter-party political rivalry and accountability", "Judicial activism", "Media censorship"],
+    "correctAnswer": "Inter-party political rivalry and accountability"
   }
 ]

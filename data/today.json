@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "In which year was the state of Telangana officially formed, celebrating its own state formation day?",
-    "options": ["2012", "2013", "2014", "2015"],
-    "correctAnswer": "2014"
-  },
-  {
-    "id": 2,
-    "question": "Who is the current Chief Justice of the High Court for the State of Telangana?",
-    "options": ["Justice Satish Chandra Sharma", "Justice Alok Aradhe", "Justice Ujjal Bhuyan", "Justice Raghvendra Singh Chauhan"],
-    "correctAnswer": "Justice Alok Aradhe"
-  },
-  {
-    "id": 3,
-    "question": "Who is the current Chief Justice of the Andhra Pradesh High Court?",
-    "options": ["Justice Arup Kumar Goswami", "Justice Prashant Kumar Mishra", "Justice Dhiraj Singh Thakur", "Justice J.K. Maheswari"],
-    "correctAnswer": "Justice Dhiraj Singh Thakur"
-  },
-  {
-    "id": 4,
-    "question": "Which city serves as the common capital for both Telangana and Andhra Pradesh for a transitional period?",
-    "options": ["Vijayawada", "Hyderabad", "Amaravati", "Visakhapatnam"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 5,
-    "question": "The 80th Independence Day was celebrated. Who was the first Chief Minister of Andhra Pradesh state upon its formation in 1956?",
-    "options": ["Neelam Sanjiva Reddy", "Kasu Brahmananda Reddy", "Damodaram Sanjivayya", "Bezawada Gopala Reddy"],
-    "correctAnswer": "Neelam Sanjiva Reddy"
-  },
-  {
-    "id": 6,
-    "question": "The issue of unemployment is a national concern. Which of the following initiatives aimed at youth skill development and employment is primarily implemented in Telangana?",
-    "options": ["Yuva Vikasam", "Jagananna Vidya Deevena", "Rythu Bandhu", "Amma Vodi"],
-    "correctAnswer": "Yuva Vikasam"
-  },
-  {
-    "id": 7,
-    "question": "What is the primary body responsible for conducting recruitment examinations for various state government posts in Andhra Pradesh?",
-    "options": ["APSC", "APPSC", "TSPSC", "UPSC"],
-    "correctAnswer": "APPSC"
-  },
-  {
-    "id": 8,
-    "question": "What is the primary body responsible for conducting recruitment examinations for various state government posts in Telangana?",
-    "options": ["TSPSC", "TPSC", "APPSC", "JPSC"],
-    "correctAnswer": "TSPSC"
-  },
-  {
-    "id": 9,
-    "question": "The Telangana government has focused on creating jobs through which major IT hub city?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 10,
-    "question": "The Andhra Pradesh government has launched initiatives like Skill Connect for which purpose?",
-    "options": ["Farmer welfare", "Elderly care", "Youth employment and skill development", "Women safety"],
-    "correctAnswer": "Youth employment and skill development"
-  },
-  {
-    "id": 11,
-    "question": "Where is the permanent seat of the High Court for the State of Andhra Pradesh located?",
-    "options": ["Vijayawada", "Visakhapatnam", "Kurnool", "Amaravati"],
-    "correctAnswer": "Amaravati"
-  },
-  {
-    "id": 12,
-    "question": "Where is the High Court for the State of Telangana located?",
-    "options": ["Hyderabad", "Warangal", "Nizamabad", "Mahabubnagar"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 13,
-    "question": "The Supreme Court often issues notices in cases of alleged irregularities. Which is the apex court in India that hears appeals from High Courts of states like Telangana and Andhra Pradesh?",
-    "options": ["International Court of Justice", "National Green Tribunal", "Supreme Court of India", "Delhi High Court"],
-    "correctAnswer": "Supreme Court of India"
-  },
-  {
-    "id": 14,
-    "question": "Which state institution in Telangana is responsible for conducting competitive exams for various state government services?",
-    "options": ["Telangana Public Service Commission", "Telangana Recruitment Board", "Telangana Staff Selection Commission", "Telangana Central Commission"],
-    "correctAnswer": "Telangana Public Service Commission"
-  },
-  {
-    "id": 15,
-    "question": "Which state institution in Andhra Pradesh is responsible for conducting competitive exams for various state government services?",
-    "options": ["Andhra Pradesh Staff Selection Commission", "Andhra Pradesh Public Service Commission", "Andhra Pradesh Recruitment Board", "Andhra Pradesh Civil Service Commission"],
-    "correctAnswer": "Andhra Pradesh Public Service Commission"
-  },
-  {
-    "id": 16,
-    "question": "Which is the primary state police force responsible for maintaining law and order in Telangana?",
-    "options": ["Telangana Police", "Telangana State Armed Police", "Telangana Special Police", "Telangana Home Guard"],
-    "correctAnswer": "Telangana Police"
-  },
-  {
-    "id": 17,
-    "question": "What is the name of the special police force in Andhra Pradesh dedicated to combating extremism and organized crime?",
-    "options": ["Greyhounds", "Octopus", "Black Cats", "Eagle Force"],
-    "correctAnswer": "Greyhounds"
-  },
-  {
-    "id": 18,
-    "question": "Which central paramilitary force, like the CRPF mentioned in the news, has significant presence in parts of Andhra Pradesh and Telangana to assist with internal security challenges such as Left-Wing Extremism?",
-    "options": ["Border Security Force (BSF)", "Central Reserve Police Force (CRPF)", "Indo-Tibetan Border Police (ITBP)", "Sashastra Seema Bal (SSB)"],
-    "correctAnswer": "Central Reserve Police Force (CRPF)"
-  },
-  {
-    "id": 19,
-    "question": "Who is the current Chief Minister of Andhra Pradesh?",
-    "options": ["N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "K. Rosaiah", "K. Chandrashekar Rao"],
-    "correctAnswer": "Y. S. Jagan Mohan Reddy"
-  },
-  {
-    "id": 20,
-    "question": "Who is the current Chief Minister of Telangana?",
-    "options": ["Revanth Reddy", "K. Chandrashekar Rao", "B. S. Yeddyurappa", "N. Kiran Kumar Reddy"],
+    "question": "Which Chief Minister recently criticized the Centre over an alleged blocking of his US visit, citing it as an 'insult' to his state's people?",
+    "options": ["K. Chandrashekar Rao", "Y. S. Jagan Mohan Reddy", "Revanth Reddy", "Basavaraj Bommai"],
     "correctAnswer": "Revanth Reddy"
   },
   {
-    "id": 21,
-    "question": "Which state body in Telangana is primarily responsible for safeguarding child rights and welfare?",
-    "options": ["Telangana Women's Commission", "Telangana State Commission for Protection of Child Rights", "Telangana Child Development Agency", "Telangana Social Welfare Board"],
-    "correctAnswer": "Telangana State Commission for Protection of Child Rights"
-  },
-  {
-    "id": 22,
-    "question": "Which state body in Andhra Pradesh is primarily responsible for safeguarding child rights and welfare?",
-    "options": ["Andhra Pradesh Women's Commission", "Andhra Pradesh Child Development Corporation", "Andhra Pradesh State Commission for Protection of Child Rights", "Andhra Pradesh Social Welfare Department"],
-    "correctAnswer": "Andhra Pradesh State Commission for Protection of Child Rights"
-  },
-  {
-    "id": 23,
-    "question": "The 'Amma Vodi' scheme in Andhra Pradesh provides financial assistance for which purpose?",
-    "options": ["Farmers' crop insurance", "Mothers sending their children to school", "Housing for the poor", "Healthcare for senior citizens"],
-    "correctAnswer": "Mothers sending their children to school"
-  },
-  {
-    "id": 24,
-    "question": "The 'Rythu Bandhu' scheme is a major welfare initiative for farmers in which Indian state?",
-    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Kerala"],
+    "id": 2,
+    "question": "CM Revanth Reddy, who recently flagged a US visit snub, is the incumbent Chief Minister of which Indian state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Kerala", "Telangana"],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 3,
+    "question": "According to CM Revanth Reddy, how many crore people of Telangana were allegedly insulted by the Centre's action regarding his US visit?",
+    "options": ["2 crore", "3 crore", "4 crore", "5 crore"],
+    "correctAnswer": "4 crore"
+  },
+  {
+    "id": 4,
+    "question": "The alleged blocking of Telangana CM Revanth Reddy's US visit primarily pertains to which type of engagement?",
+    "options": ["Political dialogue", "International official engagement", "Cultural exchange", "Academic collaboration"],
+    "correctAnswer": "International official engagement"
+  },
+  {
+    "id": 5,
+    "question": "The news item about CM Revanth Reddy flagging a US visit snub was specifically mentioned as part of which broader news segment?",
+    "options": ["Daily newspaper editorial", "Evening news wrap", "Economic survey report", "Parliamentary debate summary"],
+    "correctAnswer": "Evening news wrap"
+  },
+  {
+    "id": 6,
+    "question": "The criticism by CM Revanth Reddy regarding his blocked US visit highlights what ongoing dynamic between states and the central government in India?",
+    "options": ["Inter-state river water disputes", "Centre-state relations and federalism", "Cross-border trade policies", "National security protocols"],
+    "correctAnswer": "Centre-state relations and federalism"
+  },
+  {
+    "id": 7,
+    "question": "The Chief Minister who recently expressed strong disapproval of the Centre's alleged interference in an international visit represents a state known for its IT hub, Hyderabad. Who is he?",
+    "options": ["Naveen Patnaik", "M. K. Stalin", "Revanth Reddy", "Pinarayi Vijayan"],
+    "correctAnswer": "Revanth Reddy"
+  },
+  {
+    "id": 8,
+    "question": "CM Revanth Reddy's strong statement about the US visit issue was directed towards which specific entity?",
+    "options": ["The US Embassy", "The Supreme Court", "The Central Government of India", "The opposition party in Telangana"],
+    "correctAnswer": "The Central Government of India"
+  },
+  {
+    "id": 9,
+    "question": "What was the core accusation made by CM Revanth Reddy against the Centre regarding his foreign travel?",
+    "options": ["Lack of funding", "Visa denial", "Alleged blocking or obstruction", "Insufficient security arrangements"],
+    "correctAnswer": "Alleged blocking or obstruction"
+  },
+  {
+    "id": 10,
+    "question": "The controversy surrounding CM Revanth Reddy's US visit underscores the significance of a Chief Minister's ability to engage in what activity for their state's development?",
+    "options": ["National policy debates", "International outreach and investment promotion", "Local administrative reforms", "Judicial proceedings"],
+    "correctAnswer": "International outreach and investment promotion"
+  },
+  {
+    "id": 11,
+    "question": "The Centre has issued directives to all states and union territories, including Telangana and Andhra Pradesh, to expand which specific utility network?",
+    "options": ["Optical fiber network", "Electricity grid", "Piped gas network", "Public transportation network"],
+    "correctAnswer": "Piped gas network"
+  },
+  {
+    "id": 12,
+    "question": "The expansion of the piped gas network, as mandated by the Centre for states like Telangana and Andhra Pradesh, primarily aims to deliver which essential service?",
+    "options": ["Drinking water", "Natural gas", "Sewage treatment", "Broadband internet"],
+    "correctAnswer": "Natural gas"
+  },
+  {
+    "id": 13,
+    "question": "What is a likely benefit for residents in Andhra Pradesh and Telangana from the Centre's push to expand piped gas networks?",
+    "options": ["Reduced electricity bills", "Cleaner and more convenient cooking fuel", "Improved public transport", "Faster internet access"],
+    "correctAnswer": "Cleaner and more convenient cooking fuel"
+  },
+  {
+    "id": 14,
+    "question": "The Centre's initiative to expand piped gas networks across states falls under which broader category of infrastructure development?",
+    "options": ["Renewable energy promotion", "Urban planning and sanitation", "Energy security and access", "Digital connectivity"],
+    "correctAnswer": "Energy security and access"
+  },
+  {
+    "id": 15,
+    "question": "Which level of government is primarily responsible for the implementation and expansion of piped gas networks within its geographical area, following the Centre's directive?",
+    "options": ["Central government", "State governments and UT administrations", "Municipal corporations", "Private sector companies only"],
+    "correctAnswer": "State governments and UT administrations"
+  },
+  {
+    "id": 16,
+    "question": "According to a report by ILO-NCAER, what is considered a crucial factor for enhancing women's participation in India's platform economy, relevant to states like Telangana and Andhra Pradesh?",
+    "options": ["Improved public transportation", "Digital financial inclusion", "Access to free healthcare", "Universal basic income"],
+    "correctAnswer": "Digital financial inclusion"
+  },
+  {
+    "id": 17,
+    "question": "The ILO-NCAER report highlights that digital financial inclusion can boost women's involvement in which specific economic sector in India?",
+    "options": ["Traditional agriculture", "Manufacturing industries", "Platform economy", "Government services"],
+    "correctAnswer": "Platform economy"
+  },
+  {
+    "id": 18,
+    "question": "Which two organizations collaborated on the report emphasizing digital financial inclusion for women in India's platform economy?",
+    "options": ["NITI Aayog and IMF", "World Bank and ADB", "ILO and NCAER", "RBI and SEBI"],
+    "correctAnswer": "ILO and NCAER"
+  },
+  {
+    "id": 19,
+    "question": "The focus on digital financial inclusion for women, as per the report, aims to foster what broader goal within the Indian economy, including southern states?",
+    "options": ["Gender equality and economic empowerment", "Increased male employment", "Reduced inflation", "Agricultural modernization"],
+    "correctAnswer": "Gender equality and economic empowerment"
+  },
+  {
+    "id": 20,
+    "question": "What does 'platform economy' primarily refer to in the context of the ILO-NCAER report about women's participation?",
+    "options": ["Traditional retail markets", "Manufacturing assembly lines", "Digital marketplaces and online service providers", "Government-run enterprises"],
+    "correctAnswer": "Digital marketplaces and online service providers"
+  },
+  {
+    "id": 21,
+    "question": "CJP has urged states, including Telangana and Andhra Pradesh, to be transparent about funding and facilities in which specific type of institution?",
+    "options": ["Private universities", "Government schools", "Religious seminaries", "Vocational training centers"],
+    "correctAnswer": "Government schools"
+  },
+  {
+    "id": 22,
+    "question": "What key aspects of government school infrastructure and staffing is Abhijeet Dipke actively inquiring about from ministers across various states?",
+    "options": ["Curriculum development and textbook distribution", "Conditions of renovations and teacher vacancies", "Student enrollment numbers and attendance rates", "Sports facilities and extracurricular activities"],
+    "correctAnswer": "Conditions of renovations and teacher vacancies"
+  },
+  {
+    "id": 23,
+    "question": "The demand by CJP for states to disclose funding for government schools is based on what fundamental right of citizens?",
+    "options": ["Right to privacy", "Right to education", "Right to information", "Right to protest"],
+    "correctAnswer": "Right to information"
+  },
+  {
+    "id": 24,
+    "question": "CJP's concerns about government schools across states specifically highlight the pressing need for what?",
+    "options": ["More private school options", "Immediate enhancements in public education", "Reduced teacher salaries", "Decentralization of educational policy"],
+    "correctAnswer": "Immediate enhancements in public education"
+  },
+  {
     "id": 25,
-    "question": "What is the name of the flagship scheme in Telangana that provides financial support for the marriage of poor girls from SC, ST, BC, and minority communities?",
-    "options": ["Shaadi Mubarak & Kalyana Lakshmi", "Pelli Kanuka", "Thalli Biddala", "Aasara Pensions"],
-    "correctAnswer": "Shaadi Mubarak & Kalyana Lakshmi"
+    "question": "P. Chidambaram recently labeled which proposed electoral reform plan as 'monstrous' and 'mindless' during a House panel meeting, a plan that would affect states like Telangana and Andhra Pradesh?",
+    "options": ["Proportional representation", "Online voting system", "One Nation, One Election", "Universal adult franchise expansion"],
+    "correctAnswer": "One Nation, One Election"
   }
 ]

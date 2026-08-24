@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What day is officially designated as National Space Day in India, reflecting a significant ISRO achievement?",
-    "options": ["August 15", "July 22", "August 23", "September 14"],
-    "correctAnswer": "August 23"
+    "question": "According to a recent Supreme Court ruling, what does a change in revenue records NOT automatically create or end?",
+    "options": ["Property title", "Tax liability", "Encumbrance certificate", "Occupancy rights"],
+    "correctAnswer": "Property title"
   },
   {
     "id": 2,
-    "question": "Which Indian state hosts the primary satellite launch facility, the Satish Dhawan Space Centre (SDSC)?",
+    "question": "The Supreme Court emphasized that revenue records primarily serve what purpose?",
+    "options": ["As proof of ownership", "For fiscal purposes", "To determine property market value", "To establish tenancy"],
+    "correctAnswer": "For fiscal purposes"
+  },
+  {
+    "id": 3,
+    "question": "In property disputes, what did the Supreme Court reiterate as the primary document to establish ownership, rather than revenue records?",
+    "options": ["Power of Attorney", "Sale Deed", "Property Tax Receipts", "Occupancy Certificate"],
+    "correctAnswer": "Sale Deed"
+  },
+  {
+    "id": 4,
+    "question": "This Supreme Court ruling regarding property titles holds significance for land ownership issues across all Indian states, including which two prominent southern states?",
+    "options": ["Kerala and Karnataka", "Odisha and West Bengal", "Telangana and Andhra Pradesh", "Punjab and Haryana"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
+  },
+  {
+    "id": 5,
+    "question": "Which significant bill was causing a face-off between BJP and Congress during a recent Parliament session?",
+    "options": ["Economic Reforms Bill", "Women's Reservation Bill", "Agricultural Reforms Bill", "National Education Policy Bill"],
+    "correctAnswer": "Women's Reservation Bill"
+  },
+  {
+    "id": 6,
+    "question": "The Women's Reservation Bill, also known as Nari Shakti Vandan Adhiniyam, aims to reserve what percentage of seats for women in the Lok Sabha and State Assemblies?",
+    "options": ["25%", "30%", "33%", "50%"],
+    "correctAnswer": "33%"
+  },
+  {
+    "id": 7,
+    "question": "What is a prerequisite for the implementation of the Women's Reservation Bill after its passage by Parliament?",
+    "options": ["Presidential assent only", "State Assembly ratification", "Delimitation exercise", "Public Referendum"],
+    "correctAnswer": "Delimitation exercise"
+  },
+  {
+    "id": 8,
+    "question": "What is the term for the formal act by the President of India to conclude a session of Parliament, as mentioned in the news context?",
+    "options": ["Adjournment", "Prorogation", "Dissolution", "Censure"],
+    "correctAnswer": "Prorogation"
+  },
+  {
+    "id": 9,
+    "question": "The Women's Reservation Bill's implementation will significantly impact the number of women representatives from states like Telangana and Andhra Pradesh in which legislative bodies?",
+    "options": ["Local Municipalities only", "Rajya Sabha only", "Lok Sabha and State Assemblies", "District Councils only"],
+    "correctAnswer": "Lok Sabha and State Assemblies"
+  },
+  {
+    "id": 10,
+    "question": "The Women's Reservation Bill was passed by both houses of Parliament. Which Constitutional Amendment Act number is associated with the Nari Shakti Vandan Adhiniyam?",
+    "options": ["101st Amendment", "103rd Amendment", "106th Amendment", "128th Amendment"],
+    "correctAnswer": "106th Amendment"
+  },
+  {
+    "id": 11,
+    "question": "The Supreme Court recently stated it cannot allow 'luxury litigation' by the rich while many poor are in queue. What core principle does this highlight?",
+    "options": ["Economic Disparity", "Equal Access to Justice", "Prioritization of Appeals", "Judicial Overreach"],
+    "correctAnswer": "Equal Access to Justice"
+  },
+  {
+    "id": 12,
+    "question": "What demographic did the Supreme Court implicitly suggest should have priority in the judicial system when discouraging 'luxury litigation'?",
+    "options": ["Corporate entities", "The wealthy", "The poor and vulnerable", "Government agencies"],
+    "correctAnswer": "The poor and vulnerable"
+  },
+  {
+    "id": 13,
+    "question": "This stance by the Supreme Court aims to curb what common issue in the Indian judicial system, benefiting states like Telangana and Andhra Pradesh?",
+    "options": ["Fast-tracking of cases", "Frivolous lawsuits and delays", "Introduction of new laws", "Lack of digital infrastructure"],
+    "correctAnswer": "Frivolous lawsuits and delays"
+  },
+  {
+    "id": 14,
+    "question": "How might the Supreme Court's warning against 'luxury litigation' potentially impact legal practices and access to justice in states like Telangana and Andhra Pradesh?",
+    "options": ["It will encourage more high-profile cases", "It might lead to faster resolution of common citizens' cases", "It will increase court fees for all litigants", "It will reduce the number of judges"],
+    "correctAnswer": "It might lead to faster resolution of common citizens' cases"
+  },
+  {
+    "id": 15,
+    "question": "India recently declared August 23rd as 'National Space Day' to commemorate the success of which historic mission?",
+    "options": ["Mangalyaan", "Chandrayaan-2", "Chandrayaan-3", "Aditya-L1"],
+    "correctAnswer": "Chandrayaan-3"
+  },
+  {
+    "id": 16,
+    "question": "The ISRO chief announced plans to launch a specific number of vehicle missions. How many were planned?",
+    "options": ["5", "8", "10", "12"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": 17,
+    "question": "In the same announcement related to India's space program, the ISRO chief detailed plans for how many satellite missions?",
+    "options": ["8", "10", "12", "15"],
+    "correctAnswer": "12"
+  },
+  {
+    "id": 18,
+    "question": "Who is the current Chairman of ISRO, mentioned in the news context about future mission plans?",
+    "options": ["K. Sivan", "A.S. Kiran Kumar", "S. Somanath", "G. Madhavan Nair"],
+    "correctAnswer": "S. Somanath"
+  },
+  {
+    "id": 19,
+    "question": "India's primary spaceport, the Satish Dhawan Space Centre (SDSC), from which most of its satellite and vehicle missions are launched, is located in which state?",
     "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Kerala"],
     "correctAnswer": "Andhra Pradesh"
   },
   {
-    "id": 3,
-    "question": "According to the ISRO chief's statement, how many vehicle missions are planned for launch in the near future?",
-    "options": ["5", "8", "10", "15"],
-    "correctAnswer": "8"
-  },
-  {
-    "id": 4,
-    "question": "The ISRO chief mentioned plans to launch how many satellite missions in addition to vehicle missions?",
-    "options": ["7", "12", "18", "20"],
-    "correctAnswer": "12"
-  },
-  {
-    "id": 5,
-    "question": "Which organization is responsible for India's space missions, including those launched from Sriharikota?",
-    "options": ["DRDO", "BARC", "ISRO", "HAL"],
-    "correctAnswer": "ISRO"
-  },
-  {
-    "id": 6,
-    "question": "The Satish Dhawan Space Centre (SDSC) in Sriharikota is located in which district of Andhra Pradesh?",
-    "options": ["Visakhapatnam", "Guntur", "Tirupati", "Krishna"],
-    "correctAnswer": "Tirupati"
-  },
-  {
-    "id": 7,
-    "question": "Which specific area of national security, discussed at the recent conference, is particularly pertinent to coastal states like Andhra Pradesh?",
-    "options": ["Cybercrime laws", "Aviation security", "Port security", "Himalayan border patrol"],
-    "correctAnswer": "Port security"
-  },
-  {
-    "id": 8,
-    "question": "Who chaired the National Security Strategies Conference where topics like cybercrimes and financial frauds were discussed?",
-    "options": ["Prime Minister", "Home Minister", "Defence Minister", "External Affairs Minister"],
-    "correctAnswer": "Home Minister"
-  },
-  {
-    "id": 9,
-    "question": "What claim did a Cambridge study recently make regarding India's satellite launch costs compared to the US?",
-    "options": ["2x lower", "4x higher", "Similar", "3x lower"],
-    "correctAnswer": "4x higher"
-  },
-  {
-    "id": 10,
-    "question": "How did a source from India's space department respond to the Cambridge study's claim about satellite launch costs?",
-    "options": ["Agreed with the study", "Stated India's costs were higher", "Contradicted the report", "Had no comment"],
-    "correctAnswer": "Contradicted the report"
-  },
-  {
-    "id": 11,
-    "question": "What is the full form of ISRO, the organization with a major launch facility in Andhra Pradesh?",
-    "options": ["Indian Satellite Research Organization", "International Space Research Office", "Indian Space Research Organisation", "Indo-Strategic Research Operations"],
-    "correctAnswer": "Indian Space Research Organisation"
-  },
-  {
-    "id": 12,
-    "question": "Which major port city in Andhra Pradesh would be a primary focus for discussions on 'port security' at a national level?",
-    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
-    "correctAnswer": "Visakhapatnam"
-  },
-  {
-    "id": 13,
-    "question": "The National Security Strategies Conference emphasized enhanced coordination between which two types of entities to tackle national challenges?",
-    "options": ["Public and private sector", "Central and state agencies", "Military and police", "Intelligence and diplomatic services"],
-    "correctAnswer": "Central and state agencies"
-  },
-  {
-    "id": 14,
-    "question": "What is one of the significant contemporary challenges related to communication apps discussed at the national security conference?",
-    "options": ["Encrypted communication apps", "Social media misuse", "Video conferencing issues", "Mobile network outages"],
-    "correctAnswer": "Encrypted communication apps"
-  },
-  {
-    "id": 15,
-    "question": "Which generation was specifically praised by PM Modi on National Space Day for their role in building new technology?",
+    "id": 20,
+    "question": "On National Space Day, PM Modi praised which generation for building new technology and contributing to India's technological advancements?",
     "options": ["Baby Boomers", "Generation X", "Millennials", "Gen Z"],
     "correctAnswer": "Gen Z"
   },
   {
-    "id": 16,
-    "question": "In the context of national security, what kind of frauds were highlighted as a concern at the conference, affecting citizens in states like Telangana and Andhra Pradesh?",
-    "options": ["Electoral frauds", "Academic frauds", "Financial frauds", "Insurance frauds"],
-    "correctAnswer": "Financial frauds"
-  },
-  {
-    "id": 17,
-    "question": "The discussions at the national security conference included challenges posed by the menace of ______?",
-    "options": ["Wildlife trafficking", "Narcotics", "Industrial espionage", "Counterfeiting"],
-    "correctAnswer": "Narcotics"
-  },
-  {
-    "id": 18,
-    "question": "What is the primary function of the Satish Dhawan Space Centre (SDSC) in Andhra Pradesh?",
-    "options": ["Satellite manufacturing", "Astronaut training", "Rocket launch site", "Deep space communication"],
-    "correctAnswer": "Rocket launch site"
-  },
-  {
-    "id": 19,
-    "question": "National Space Day commemorates which recent significant achievement of ISRO?",
-    "options": ["Launch of Mangalyaan", "Successful Chandrayaan-3 Moon landing", "Development of GSLV", "First Indian in space"],
-    "correctAnswer": "Successful Chandrayaan-3 Moon landing"
-  },
-  {
-    "id": 20,
-    "question": "Which type of crimes, increasingly prevalent in digital spaces, were discussed as a key challenge at the National Security Strategies Conference?",
-    "options": ["Property crimes", "Cybercrimes", "Violent crimes", "Environmental crimes"],
-    "correctAnswer": "Cybercrimes"
-  },
-  {
     "id": 21,
-    "question": "The national security conference also discussed strategies for bringing back which individuals, often requiring coordination with state agencies?",
-    "options": ["Indian citizens abroad", "Fugitives involved in terrorist and smuggling activities", "Migrant workers", "Overseas students"],
-    "correctAnswer": "Fugitives involved in terrorist and smuggling activities"
+    "question": "A Cambridge study claimed India's satellite launch cost was how many times that of the US, a claim later contradicted by an Indian space department source?",
+    "options": ["2x", "3x", "4x", "5x"],
+    "correctAnswer": "4x"
   },
   {
     "id": 22,
-    "question": "What kind of security for transportation hubs was discussed at the national security conference, besides port security?",
-    "options": ["Road security", "Railway security", "Aviation security", "Pipeline security"],
-    "correctAnswer": "Aviation security"
+    "question": "Which Indian organization is primarily responsible for conducting satellite launches from its spaceports like Sriharikota?",
+    "options": ["DRDO", "HAL", "ISRO", "BEL"],
+    "correctAnswer": "ISRO"
   },
   {
     "id": 23,
-    "question": "Which type of illegal activity, often linked to border control, was mentioned as a challenge at the security conference?",
-    "options": ["Poaching", "Illegal mining", "Illegal immigration", "Black marketing"],
-    "correctAnswer": "Illegal immigration"
+    "question": "The claim of higher launch costs from a Cambridge study was specifically referenced against the launch capabilities of which country?",
+    "options": ["China", "Russia", "France", "United States"],
+    "correctAnswer": "United States"
   },
   {
     "id": 24,
-    "question": "Which specific types of missions did the ISRO chief mention are being planned, alongside vehicle missions?",
-    "options": ["Planetary missions", "Satellite missions", "Manned missions", "Asteroid missions"],
-    "correctAnswer": "Satellite missions"
+    "question": "The Satish Dhawan Space Centre (SDSC), an important facility for India's space missions, is located on Sriharikota island in which district of Andhra Pradesh?",
+    "options": ["Guntur", "Visakhapatnam", "Tirupati", "Krishna"],
+    "correctAnswer": "Tirupati"
   },
   {
     "id": 25,
-    "question": "What is the broader objective behind the deliberations at the National Security Strategies Conference, concerning both central and state agencies?",
-    "options": ["Enhancing international relations", "Promoting economic growth", "Strengthening national security", "Expanding cultural exchanges"],
-    "correctAnswer": "Strengthening national security"
+    "question": "Despite claims about launch costs, India's space program, spearheaded by ISRO, is widely recognized globally for its focus on which aspect?",
+    "options": ["Heaviest payloads", "Fastest launch times", "Cost-effectiveness and reliability", "Manned missions only"],
+    "correctAnswer": "Cost-effectiveness and reliability"
   }
 ]

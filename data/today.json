@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the Chief Minister of Telangana mentioned in the news for flagging a US visit 'snub'?",
-    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Revanth Reddy", "Y. S. Jagan Mohan Reddy"],
+    "question": "Who was sworn in as the new Chief Minister of Telangana following the Assembly elections in December 2023?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Mallu Bhatti Vikramarka"],
     "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 2,
-    "question": "What major political event involving Telangana's Chief Minister was reported in the news?",
-    "options": ["Inauguration of a new airport", "Launch of a state welfare scheme", "Criticism of the Centre over a blocked US visit", "Signing an MoU with a foreign company"],
-    "correctAnswer": "Criticism of the Centre over a blocked US visit"
+    "question": "Which political party secured a majority in the Telangana Assembly elections held in November 2023?",
+    "options": ["Bharat Rashtra Samithi (BRS)", "Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 3,
-    "question": "CM Revanth Reddy stated that the Centre blocking his US visit was an 'insult' to the people of which state?",
-    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "Who assumed the role of Deputy Chief Minister of Telangana alongside Revanth Reddy?",
+    "options": ["Komatireddy Venkat Reddy", "Uttam Kumar Reddy", "Mallu Bhatti Vikramarka", "Damodara Rajanarasimha"],
+    "correctAnswer": "Mallu Bhatti Vikramarka"
   },
   {
     "id": 4,
-    "question": "How many people of Telangana did CM Revanth Reddy refer to when he criticized the Centre's alleged blocking of his US visit?",
-    "options": ["1 crore", "2 crore", "3 crore", "4 crore"],
-    "correctAnswer": "4 crore"
+    "question": "Which of the following is NOT one of the 'Six Guarantees' promised by the Congress party in Telangana during the 2023 elections?",
+    "options": ["Mahalakshmi scheme", "Rythu Bandhu extension", "Indiramma Indlu scheme", "Cheyutha scheme"],
+    "correctAnswer": "Rythu Bandhu extension"
   },
   {
     "id": 5,
-    "question": "The Chief Minister of Telangana, Revanth Reddy, recently accused the Centre of what action?",
-    "options": ["Delaying funds for irrigation projects", "Blocking his official visit to the United States", "Interfering in state elections", "Imposing new taxes on the state"],
-    "correctAnswer": "Blocking his official visit to the United States"
+    "question": "What is the name of the new integrated Secretariat complex inaugurated in Hyderabad in 2023?",
+    "options": ["Dr. B.R. Ambedkar Telangana State Secretariat", "Sardar Vallabhbhai Patel Secretariat", "P.V. Narasimha Rao Secretariat", "K. Chandrashekar Rao Secretariat"],
+    "correctAnswer": "Dr. B.R. Ambedkar Telangana State Secretariat"
   },
   {
     "id": 6,
-    "question": "The news wrap mentioned CM Revanth Reddy flagging a 'US visit snub'. Which Indian state does he govern?",
-    "options": ["Kerala", "Maharashtra", "Telangana", "Gujarat"],
-    "correctAnswer": "Telangana"
+    "question": "What is the proposed executive capital of Andhra Pradesh as per the current government's three-capital plan?",
+    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Guntur"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 7,
-    "question": "What was the primary reason for CM Revanth Reddy's strong criticism of the Central government, as per the news?",
-    "options": ["Lack of support for agricultural schemes", "Obstruction of his foreign travel plans", "Non-allocation of disaster relief funds", "Disagreement on infrastructure projects"],
-    "correctAnswer": "Obstruction of his foreign travel plans"
+    "question": "Which political party is currently in power in Andhra Pradesh?",
+    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 8,
-    "question": "CM Revanth Reddy's planned visit to which country was reportedly impeded, leading to his strong protest?",
-    "options": ["United Kingdom", "Germany", "United States", "Japan"],
-    "correctAnswer": "United States"
+    "question": "Who is the current Chief Minister of Andhra Pradesh?",
+    "options": ["Chandrababu Naidu", "Jagan Mohan Reddy", "Pawan Kalyan", "N. Kiran Kumar Reddy"],
+    "correctAnswer": "Jagan Mohan Reddy"
   },
   {
     "id": 9,
-    "question": "Which Indian state's Chief Minister articulated that the alleged blocking of his US visit constituted an 'insult to 4 crore people'?",
-    "options": ["Karnataka", "Telangana", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "Which flagship welfare scheme in Andhra Pradesh provides financial assistance for mothers sending their children to private schools, government schools, or junior colleges?",
+    "options": ["Jagananna Vidya Deevena", "Amma Vodi", "YSR Rythu Bharosa", "Jagananna Vasathi Deevena"],
+    "correctAnswer": "Amma Vodi"
   },
   {
     "id": 10,
-    "question": "What specific international engagement was CM Revanth Reddy reportedly prevented from undertaking, causing him to flay the Centre?",
-    "options": ["An international trade summit", "A cultural exchange program", "A visit to the United States", "A bilateral meeting with a European nation"],
-    "correctAnswer": "A visit to the United States"
+    "question": "Which major irrigation project in Andhra Pradesh is designed to divert Godavari river water to the Krishna basin?",
+    "options": ["Srisailam Project", "Nagarjuna Sagar Project", "Polavaram Project", "Handri-Neeva Project"],
+    "correctAnswer": "Polavaram Project"
   },
   {
     "id": 11,
-    "question": "The Centre has recently directed all states and Union Territories, including Telangana and Andhra Pradesh, to expand which specific infrastructure network?",
-    "options": ["Optical fiber network", "Railway network", "Piped gas network", "Smart city network"],
-    "correctAnswer": "Piped gas network"
+    "question": "What is the name of the state power distribution company for the northern districts of Telangana?",
+    "options": ["TSSPDCL", "TSNPDCL", "TSGENCO", "TSTRANSCO"],
+    "correctAnswer": "TSNPDCL"
   },
   {
     "id": 12,
-    "question": "What specific directive did the Central government issue to states like Telangana and Andhra Pradesh concerning urban energy infrastructure?",
-    "options": ["To develop more solar power plants", "To expand piped gas networks", "To promote electric vehicles", "To increase coal production"],
-    "correctAnswer": "To expand piped gas networks"
+    "question": "Which minister presented the last full budget for Andhra Pradesh in the legislative assembly?",
+    "options": ["Buggana Rajendranath Reddy", "Peddireddy Ramachandra Reddy", "Botsa Satyanarayana", "Anil Kumar Yadav"],
+    "correctAnswer": "Buggana Rajendranath Reddy"
   },
   {
     "id": 13,
-    "question": "The expansion of the piped gas network, as urged by the Centre to states like Andhra Pradesh, primarily facilitates the supply of what?",
-    "options": ["Drinking water", "Natural gas", "Electricity", "Crude oil"],
-    "correctAnswer": "Natural gas"
+    "question": "Which scheme, initiated by the previous BRS government in Telangana, provides investment support for farmers?",
+    "options": ["Rythu Bandhu", "Rythu Bima", "Dalit Bandhu", "Kalyana Lakshmi"],
+    "correctAnswer": "Rythu Bandhu"
   },
   {
     "id": 14,
-    "question": "Which governmental body is urging Indian states and UTs, including Telangana, to focus on expanding their piped gas distribution infrastructure?",
-    "options": ["State Energy Regulators", "The Central Government", "NITI Aayog", "Petroleum and Natural Gas Regulatory Board"],
-    "correctAnswer": "The Central Government"
+    "question": "What is the name of the Andhra Pradesh government's scheme providing free house sites and construction to the poor?",
+    "options": ["Pedalandariki Illu", "Jagananna Colonies", "YSR Housing", "Amma Illu"],
+    "correctAnswer": "Pedalandariki Illu"
   },
   {
     "id": 15,
-    "question": "What type of energy connectivity infrastructure is the Centre pushing states, including Andhra Pradesh, to expand for broader access?",
-    "options": ["Rural electrification lines", "Piped gas distribution networks", "National highway grids", "Renewable energy parks"],
-    "correctAnswer": "Piped gas distribution networks"
+    "question": "Which phase of the Hyderabad Metro Rail expansion is currently under various stages of planning and implementation, including routes like Raidurg to Shamshabad Airport?",
+    "options": ["Phase I", "Phase II", "Phase III", "Phase IV"],
+    "correctAnswer": "Phase II"
   },
   {
     "id": 16,
-    "question": "What two crucial aspects of government schools are CJP demanding transparency from states, including Andhra Pradesh and Telangana, about?",
-    "options": ["Student enrollment and attendance", "Funding and facilities", "Teacher salaries and benefits", "Curriculum and textbooks"],
-    "correctAnswer": "Funding and facilities"
+    "question": "Which tribunal is primarily responsible for adjudicating the water sharing disputes of the Krishna River among riparian states, including Telangana and Andhra Pradesh?",
+    "options": ["Godavari Water Disputes Tribunal", "Mahanadi Water Disputes Tribunal", "Krishna Water Disputes Tribunal (KWDT-II)", "Cauvery Water Disputes Tribunal"],
+    "correctAnswer": "Krishna Water Disputes Tribunal (KWDT-II)"
   },
   {
     "id": 17,
-    "question": "Abhijeet Dipke's mission, as mentioned in the news, is focused on uncovering the state of which specific aspect within government schools?",
-    "options": ["Extracurricular activities", "Parental involvement", "Infrastructure and staffing", "Digital learning initiatives"],
-    "correctAnswer": "Infrastructure and staffing"
+    "question": "What historic fort, a prominent tourist attraction in Hyderabad, recently underwent major conservation efforts?",
+    "options": ["Golconda Fort", "Warangal Fort", "Bhongir Fort", "Kondapalli Fort"],
+    "correctAnswer": "Golconda Fort"
   },
   {
     "id": 18,
-    "question": "What specific information related to government schools is being sought from ministers across various states like Telangana, according to the CJP demands?",
-    "options": ["Student-teacher ratios", "Conditions of renovations and teacher vacancies", "Performance in national examinations", "Mid-day meal menus"],
-    "correctAnswer": "Conditions of renovations and teacher vacancies"
+    "question": "The Andhra Pradesh government recently laid the foundation stone for a new greenfield port in which district?",
+    "options": ["East Godavari", "Krishna", "Prakasam", "Nellore"],
+    "correctAnswer": "Prakasam"
   },
   {
     "id": 19,
-    "question": "Which organization is actively demanding that states, including Andhra Pradesh, come clean on the funding and facilities in government schools?",
-    "options": ["UNICEF", "CJP", "NCERT", "CBSE"],
-    "correctAnswer": "CJP"
+    "question": "Which global tech giant recently expanded its campus significantly in Hyderabad, becoming its largest campus outside the US?",
+    "options": ["Microsoft", "Google", "Apple", "Amazon"],
+    "correctAnswer": "Google"
   },
   {
     "id": 20,
-    "question": "In the context of government schools, what specific physical aspect is being probed by Abhijeet Dipke to highlight the need for improvements?",
-    "options": ["Playground availability", "Basic facilities and renovations", "Library resources", "Computer lab equipment"],
-    "correctAnswer": "Basic facilities and renovations"
+    "question": "Which agricultural product from Telangana recently received a Geographical Indication (GI) tag for its unique qualities?",
+    "options": ["Basmati Rice", "Tandur Redgram", "Karimnagar Turmeric", "Mahabubnagar Groundnut"],
+    "correctAnswer": "Tandur Redgram"
   },
   {
     "id": 21,
-    "question": "What did CJP highlight as a significant need for public education in Indian states, implicitly including Andhra Pradesh and Telangana?",
-    "options": ["More vocational training centers", "Increased private school partnerships", "More institutions and immediate enhancements", "Focus on online learning platforms"],
-    "correctAnswer": "More institutions and immediate enhancements"
+    "question": "The Telangana government's massive tree-plantation drive aimed at increasing green cover is known by what name?",
+    "options": ["Haritha Haram", "Telangana Ku Haritha Haram", "Green Telangana", "Vanam Manam"],
+    "correctAnswer": "Telangana Ku Haritha Haram"
   },
   {
     "id": 22,
-    "question": "What specific concern was raised in the news regarding educators in government schools in various states?",
-    "options": ["Lack of professional development", "Low student engagement", "Heavy workloads faced by educators", "Insufficient technology training"],
-    "correctAnswer": "Heavy workloads faced by educators"
+    "question": "According to the latest Andhra Pradesh Economic Survey, which sector is generally the primary contributor to the Gross State Value Added (GSVA)?",
+    "options": ["Agriculture", "Industry", "Services", "Mining"],
+    "correctAnswer": "Services"
   },
   {
     "id": 23,
-    "question": "The CJP demands that states 'come clean' on what two primary areas concerning the functioning of government schools?",
-    "options": ["Student safety protocols and disciplinary actions", "Curriculum standards and teacher qualifications", "Financial allocations and infrastructural provisions", "Enrollment numbers and dropout rates"],
-    "correctAnswer": "Financial allocations and infrastructural provisions"
+    "question": "What is the name of the film city in Hyderabad, one of the largest integrated film studios in the world?",
+    "options": ["Ramoji Film City", "Annapurna Studios", "Sarathi Studios", "Padmalaya Studios"],
+    "correctAnswer": "Ramoji Film City"
   },
   {
     "id": 24,
-    "question": "The CJP's demand for transparency regarding government school funding and facilities implicitly includes which South Indian states as target regions for this information?",
-    "options": ["Karnataka and Kerala", "Tamil Nadu and Maharashtra", "Telangana and Andhra Pradesh", "Odisha and West Bengal"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "Andhra Pradesh is one of the few states in India with a bicameral legislature. Which two houses constitute its legislature?",
+    "options": ["Legislative Assembly and Lok Sabha", "Legislative Assembly and Rajya Sabha", "Legislative Assembly and Legislative Council", "Vidhan Sabha and Parliament"],
+    "correctAnswer": "Legislative Assembly and Legislative Council"
   },
   {
     "id": 25,
-    "question": "What aspect of school staffing is Abhijeet Dipke particularly concerned about, probing ministers in various states like Andhra Pradesh?",
-    "options": ["Teacher attendance rates", "Number of teacher vacancies", "Teacher training programs", "Teacher retirement ages"],
-    "correctAnswer": "Number of teacher vacancies"
+    "question": "Which major international sporting event did Hyderabad host in early 2023, attracting top-tier motorsport teams?",
+    "options": ["Formula 1 Grand Prix", "Formula E Grand Prix", "MotoGP Bharat", "Indian Racing League"],
+    "correctAnswer": "Formula E Grand Prix"
   }
 ]

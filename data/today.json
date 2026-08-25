@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who was sworn in as the new Chief Minister of Telangana following the Assembly elections in December 2023?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Mallu Bhatti Vikramarka"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "The Supreme Court recently directed the government to prevent the misuse of data by private entities. What fundamental right is most directly associated with this directive?",
+    "options": ["Right to Freedom of Speech", "Right to Equality", "Right to Privacy", "Right to Property"],
+    "correctAnswer": "Right to Privacy"
   },
   {
     "id": 2,
-    "question": "Which political party secured a majority in the Telangana Assembly elections held in November 2023?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "The SC's directive on data misuse underscores the need for robust legal frameworks. Which key central legislation in India is being developed or is already in place to address personal data protection?",
+    "options": ["Information Technology Act", "Digital Personal Data Protection Act", "Companies Act", "Consumer Protection Act"],
+    "correctAnswer": "Digital Personal Data Protection Act"
   },
   {
     "id": 3,
-    "question": "Who assumed the role of Deputy Chief Minister of Telangana alongside Revanth Reddy?",
-    "options": ["Komatireddy Venkat Reddy", "Uttam Kumar Reddy", "Mallu Bhatti Vikramarka", "Damodara Rajanarasimha"],
-    "correctAnswer": "Mallu Bhatti Vikramarka"
+    "question": "Protecting citizen data, as emphasized by the Supreme Court, is critical for all states including Telangana and Andhra Pradesh. Which government body typically handles grievances related to data breaches or misuse?",
+    "options": ["Reserve Bank of India", "Unique Identification Authority of India (UIDAI)", "Ministry of Home Affairs", "Relevant Data Protection Board or Authority"],
+    "correctAnswer": "Relevant Data Protection Board or Authority"
   },
   {
     "id": 4,
-    "question": "Which of the following is NOT one of the 'Six Guarantees' promised by the Congress party in Telangana during the 2023 elections?",
-    "options": ["Mahalakshmi scheme", "Rythu Bandhu extension", "Indiramma Indlu scheme", "Cheyutha scheme"],
-    "correctAnswer": "Rythu Bandhu extension"
+    "question": "What is a primary measure the government can enforce to hold private entities accountable for data misuse, as per the spirit of the Supreme Court's directive?",
+    "options": ["Issuing public advisories", "Imposing significant financial penalties", "Conducting awareness campaigns", "Recommending self-regulation"],
+    "correctAnswer": "Imposing significant financial penalties"
   },
   {
     "id": 5,
-    "question": "What is the name of the new integrated Secretariat complex inaugurated in Hyderabad in 2023?",
-    "options": ["Dr. B.R. Ambedkar Telangana State Secretariat", "Sardar Vallabhbhai Patel Secretariat", "P.V. Narasimha Rao Secretariat", "K. Chandrashekar Rao Secretariat"],
-    "correctAnswer": "Dr. B.R. Ambedkar Telangana State Secretariat"
+    "question": "According to recent reports, approximately how many million hectares of degraded land were restored across India between 2011 and 2020?",
+    "options": ["10 million hectares", "15 million hectares", "22 million hectares", "30 million hectares"],
+    "correctAnswer": "22 million hectares"
   },
   {
     "id": 6,
-    "question": "What is the proposed executive capital of Andhra Pradesh as per the current government's three-capital plan?",
-    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Guntur"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "Telangana's 'Haritha Haram' program, a significant state initiative, aims at increasing green cover and reducing land degradation. What is its primary goal, aligning with national land restoration efforts?",
+    "options": ["Promote organic farming", "Increase forest cover and protect environment", "Develop urban infrastructure", "Improve irrigation facilities"],
+    "correctAnswer": "Increase forest cover and protect environment"
   },
   {
     "id": 7,
-    "question": "Which political party is currently in power in Andhra Pradesh?",
-    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "Which common environmental practice is key to the restoration of degraded land by improving soil quality and preventing erosion?",
+    "options": ["Industrialization", "Urbanization", "Afforestation and reforestation", "Excessive groundwater extraction"],
+    "correctAnswer": "Afforestation and reforestation"
   },
   {
     "id": 8,
-    "question": "Who is the current Chief Minister of Andhra Pradesh?",
-    "options": ["Chandrababu Naidu", "Jagan Mohan Reddy", "Pawan Kalyan", "N. Kiran Kumar Reddy"],
-    "correctAnswer": "Jagan Mohan Reddy"
+    "question": "In agricultural states like Andhra Pradesh, a significant challenge leading to land degradation is soil erosion. Which measure effectively combats soil erosion in farming practices?",
+    "options": ["Monocropping", "Contour ploughing and terracing", "Extensive pesticide use", "Slash-and-burn agriculture"],
+    "correctAnswer": "Contour ploughing and terracing"
   },
   {
     "id": 9,
-    "question": "Which flagship welfare scheme in Andhra Pradesh provides financial assistance for mothers sending their children to private schools, government schools, or junior colleges?",
-    "options": ["Jagananna Vidya Deevena", "Amma Vodi", "YSR Rythu Bharosa", "Jagananna Vasathi Deevena"],
-    "correctAnswer": "Amma Vodi"
+    "question": "Beyond environmental benefits, land restoration initiatives contribute to which of the following socio-economic aspects?",
+    "options": ["Increased reliance on imports", "Enhanced food security and rural livelihoods", "Decreased tourism revenue", "Promotion of unchecked industrial growth"],
+    "correctAnswer": "Enhanced food security and rural livelihoods"
   },
   {
     "id": 10,
-    "question": "Which major irrigation project in Andhra Pradesh is designed to divert Godavari river water to the Krishna basin?",
-    "options": ["Srisailam Project", "Nagarjuna Sagar Project", "Polavaram Project", "Handri-Neeva Project"],
-    "correctAnswer": "Polavaram Project"
+    "question": "Which national program in India is often instrumental in generating employment while also contributing to environmental conservation efforts like afforestation and water harvesting, indirectly aiding land restoration?",
+    "options": ["Pradhan Mantri Fasal Bima Yojana", "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)", "Smart Cities Mission", "National Health Mission"],
+    "correctAnswer": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)"
   },
   {
     "id": 11,
-    "question": "What is the name of the state power distribution company for the northern districts of Telangana?",
-    "options": ["TSSPDCL", "TSNPDCL", "TSGENCO", "TSTRANSCO"],
-    "correctAnswer": "TSNPDCL"
+    "question": "Union Home Minister Amit Shah recently highlighted a new doctrine to fight terror and what other related issue?",
+    "options": ["Economic recession", "Climate change", "Radicalisation", "Cybercrime syndicates"],
+    "correctAnswer": "Radicalisation"
   },
   {
     "id": 12,
-    "question": "Which minister presented the last full budget for Andhra Pradesh in the legislative assembly?",
-    "options": ["Buggana Rajendranath Reddy", "Peddireddy Ramachandra Reddy", "Botsa Satyanarayana", "Anil Kumar Yadav"],
-    "correctAnswer": "Buggana Rajendranath Reddy"
+    "question": "In combating terror and radicalisation, state police forces in Telangana and Andhra Pradesh often collaborate with central agencies. Which central agency is specifically tasked with investigating terror-related cases across India?",
+    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Intelligence Bureau (IB)", "Research and Analysis Wing (RAW)"],
+    "correctAnswer": "National Investigation Agency (NIA)"
   },
   {
     "id": 13,
-    "question": "Which scheme, initiated by the previous BRS government in Telangana, provides investment support for farmers?",
-    "options": ["Rythu Bandhu", "Rythu Bima", "Dalit Bandhu", "Kalyana Lakshmi"],
-    "correctAnswer": "Rythu Bandhu"
+    "question": "What is a key preventative measure against radicalisation often emphasized in national security strategies?",
+    "options": ["Imposing strict travel bans", "Promoting inclusive education and community engagement", "Increasing military spending", "Restricting internet access"],
+    "correctAnswer": "Promoting inclusive education and community engagement"
   },
   {
     "id": 14,
-    "question": "What is the name of the Andhra Pradesh government's scheme providing free house sites and construction to the poor?",
-    "options": ["Pedalandariki Illu", "Jagananna Colonies", "YSR Housing", "Amma Illu"],
-    "correctAnswer": "Pedalandariki Illu"
+    "question": "The new doctrine against terror and radicalisation aims to address the root causes and enablers. Which of the following is a common factor that can contribute to radicalisation?",
+    "options": ["Strong economic growth", "Access to quality education", "Social alienation and extremist propaganda", "Robust democratic institutions"],
+    "correctAnswer": "Social alienation and extremist propaganda"
   },
   {
     "id": 15,
-    "question": "Which phase of the Hyderabad Metro Rail expansion is currently under various stages of planning and implementation, including routes like Raidurg to Shamshabad Airport?",
-    "options": ["Phase I", "Phase II", "Phase III", "Phase IV"],
-    "correctAnswer": "Phase II"
+    "question": "What is the primary objective of a national doctrine specifically focused on combating terror and radicalisation?",
+    "options": ["To establish new trade routes", "To enhance cultural exchange", "To safeguard national security and social harmony", "To promote regional sports events"],
+    "correctAnswer": "To safeguard national security and social harmony"
   },
   {
     "id": 16,
-    "question": "Which tribunal is primarily responsible for adjudicating the water sharing disputes of the Krishna River among riparian states, including Telangana and Andhra Pradesh?",
-    "options": ["Godavari Water Disputes Tribunal", "Mahanadi Water Disputes Tribunal", "Krishna Water Disputes Tribunal (KWDT-II)", "Cauvery Water Disputes Tribunal"],
-    "correctAnswer": "Krishna Water Disputes Tribunal (KWDT-II)"
+    "question": "Prime Minister Narendra Modi recently urged the country to showcase India's strengths to achieve what goal?",
+    "options": ["Boost exports", "Woo more foreign tourists", "Attract foreign investment in manufacturing", "Promote domestic consumption"],
+    "correctAnswer": "Woo more foreign tourists"
   },
   {
     "id": 17,
-    "question": "What historic fort, a prominent tourist attraction in Hyderabad, recently underwent major conservation efforts?",
-    "options": ["Golconda Fort", "Warangal Fort", "Bhongir Fort", "Kondapalli Fort"],
-    "correctAnswer": "Golconda Fort"
+    "question": "In line with the PM's call to promote India's strengths, which iconic historical monument in Hyderabad, Telangana, is a major tourist attraction?",
+    "options": ["Hampi", "Charminar", "Golconda Fort", "Qutub Shahi Tombs"],
+    "correctAnswer": "Charminar"
   },
   {
     "id": 18,
-    "question": "The Andhra Pradesh government recently laid the foundation stone for a new greenfield port in which district?",
-    "options": ["East Godavari", "Krishna", "Prakasam", "Nellore"],
-    "correctAnswer": "Prakasam"
+    "question": "To attract pilgrims and cultural tourists, Andhra Pradesh boasts numerous spiritual sites. Which famous temple town in Andhra Pradesh is renowned worldwide?",
+    "options": ["Srisailam", "Tirupati", "Amaravati", "Lepakshi"],
+    "correctAnswer": "Tirupati"
   },
   {
     "id": 19,
-    "question": "Which global tech giant recently expanded its campus significantly in Hyderabad, becoming its largest campus outside the US?",
-    "options": ["Microsoft", "Google", "Apple", "Amazon"],
-    "correctAnswer": "Google"
+    "question": "Apart from historical and spiritual sites, what other significant aspect of India's 'strengths' is increasingly being promoted to international tourists?",
+    "options": ["Its industrial output", "Its technological advancements", "Its diverse culture, cuisine, and natural beauty", "Its political stability"],
+    "correctAnswer": "Its diverse culture, cuisine, and natural beauty"
   },
   {
     "id": 20,
-    "question": "Which agricultural product from Telangana recently received a Geographical Indication (GI) tag for its unique qualities?",
-    "options": ["Basmati Rice", "Tandur Redgram", "Karimnagar Turmeric", "Mahabubnagar Groundnut"],
-    "correctAnswer": "Tandur Redgram"
+    "question": "What is a significant economic benefit that increased tourism brings to India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Decreased foreign exchange earnings", "Creation of employment opportunities", "Reduced local business revenue", "Increased reliance on imports"],
+    "correctAnswer": "Creation of employment opportunities"
   },
   {
     "id": 21,
-    "question": "The Telangana government's massive tree-plantation drive aimed at increasing green cover is known by what name?",
-    "options": ["Haritha Haram", "Telangana Ku Haritha Haram", "Green Telangana", "Vanam Manam"],
-    "correctAnswer": "Telangana Ku Haritha Haram"
+    "question": "What notable change has been announced for the upcoming Census 2027 concerning data collection?",
+    "options": ["It will include genetic data", "It will not record data on begging", "It will collect real-time biometric data", "It will be conducted entirely online"],
+    "correctAnswer": "It will not record data on begging"
   },
   {
     "id": 22,
-    "question": "According to the latest Andhra Pradesh Economic Survey, which sector is generally the primary contributor to the Gross State Value Added (GSVA)?",
-    "options": ["Agriculture", "Industry", "Services", "Mining"],
-    "correctAnswer": "Services"
+    "question": "The Census provides crucial demographic information for states like Telangana and Andhra Pradesh. What is a primary objective of conducting a national census in India?",
+    "options": ["To identify wealthy individuals", "To assess the population size, distribution, and characteristics", "To track individual financial transactions", "To monitor social media trends"],
+    "correctAnswer": "To assess the population size, distribution, and characteristics"
   },
   {
     "id": 23,
-    "question": "What is the name of the film city in Hyderabad, one of the largest integrated film studios in the world?",
-    "options": ["Ramoji Film City", "Annapurna Studios", "Sarathi Studios", "Padmalaya Studios"],
-    "correctAnswer": "Ramoji Film City"
+    "question": "Which type of government planning and policy-making heavily relies on the demographic and socio-economic data gathered during the Census?",
+    "options": ["Military strategy", "Space exploration", "Resource allocation, infrastructure development, and welfare programs", "International trade agreements"],
+    "correctAnswer": "Resource allocation, infrastructure development, and welfare programs"
   },
   {
     "id": 24,
-    "question": "Andhra Pradesh is one of the few states in India with a bicameral legislature. Which two houses constitute its legislature?",
-    "options": ["Legislative Assembly and Lok Sabha", "Legislative Assembly and Rajya Sabha", "Legislative Assembly and Legislative Council", "Vidhan Sabha and Parliament"],
-    "correctAnswer": "Legislative Assembly and Legislative Council"
+    "question": "Which central agency has initiated a probe into 'hits' on government sites during 'Operation Sindoor'?",
+    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Cyber Crime Coordination Centre (I4C)", "Indian Computer Emergency Response Team (CERT-In)"],
+    "correctAnswer": "National Investigation Agency (NIA)"
   },
   {
     "id": 25,
-    "question": "Which major international sporting event did Hyderabad host in early 2023, attracting top-tier motorsport teams?",
-    "options": ["Formula 1 Grand Prix", "Formula E Grand Prix", "MotoGP Bharat", "Indian Racing League"],
-    "correctAnswer": "Formula E Grand Prix"
+    "question": "The probe into cyberattacks on government sites highlights the importance of cybersecurity for all states. Which type of attack aims to make a network resource unavailable to its intended users by overwhelming it with traffic?",
+    "options": ["Phishing attack", "Ransomware attack", "Denial-of-Service (DoS) attack", "SQL injection"],
+    "correctAnswer": "Denial-of-Service (DoS) attack"
   }
 ]

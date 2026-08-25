@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national regulatory body is responsible for setting standards for food safety and quality in India, including states like Telangana and Andhra Pradesh?",
-    "options": ["FSSAI", "ICMR", "BIS", "NITI Aayog"],
+    "question": "What is the primary regulatory body in India responsible for ensuring food safety standards?",
+    "options": ["FSSAI", "ICMR", "Ministry of Agriculture", "Bureau of Indian Standards"],
     "correctAnswer": "FSSAI"
   },
   {
     "id": 2,
-    "question": "The FSSAI recently flagged food firms for making misleading claims. What type of claims were specifically highlighted in the news?",
-    "options": ["'100% natural' & 'organic'", "'Energy Drink' & 'immunity'", "'sugar-free' & 'diet'", "'gluten-free' & 'vegan'"],
-    "correctAnswer": "'Energy Drink' & 'immunity'"
+    "question": "The Food Safety and Standards Authority of India (FSSAI) recently flagged food firms for what specific types of claims?",
+    "options": ["Misleading health and immunity claims", "Underpricing essential commodities", "Poor hygiene in packaging", "Illegal import of food products"],
+    "correctAnswer": "Misleading health and immunity claims"
   },
   {
     "id": 3,
-    "question": "Where do the regulations set by the FSSAI apply within India?",
-    "options": ["Only metros", "Select Northern states", "All states and Union Territories including Andhra Pradesh and Telangana", "Only export-oriented units"],
-    "correctAnswer": "All states and Union Territories including Andhra Pradesh and Telangana"
+    "question": "Under which Union Ministry does the Food Safety and Standards Authority of India (FSSAI) primarily operate?",
+    "options": ["Ministry of Health and Family Welfare", "Ministry of Consumer Affairs, Food and Public Distribution", "Ministry of Commerce and Industry", "Ministry of Agriculture and Farmers Welfare"],
+    "correctAnswer": "Ministry of Health and Family Welfare"
   },
   {
     "id": 4,
-    "question": "What is the primary objective of the FSSAI in its regulatory actions against food firms in India, relevant to consumer protection in states like Telangana and Andhra Pradesh?",
-    "options": ["Promoting food exports", "Ensuring fair trade practices", "Protecting consumer health by ensuring safe food", "Boosting local food industries"],
-    "correctAnswer": "Protecting consumer health by ensuring safe food"
-  },
-  {
-    "id": 5,
-    "question": "What does the acronym FSSAI stand for?",
-    "options": ["Food Standards and Safety Authority of India", "Food Safety and Standards Authority of India", "Federal System for Safety in Agriculture and Industry", "Food and Supplements Standard Agency of India"],
+    "question": "What does FSSAI stand for?",
+    "options": ["Food Safety and Standards Authority of India", "Federal System for Safe Alimentation in India", "Food Security and Supply Association of India", "Food Standards and Sanitation Authority of India"],
     "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
+    "id": 5,
+    "question": "Which national body in India provides expert guidance and monitoring for public health issues such as H1N1 outbreaks?",
+    "options": ["Indian Council of Medical Research (ICMR)", "National Centre for Disease Control (NCDC)", "All India Institute of Medical Sciences (AIIMS)", "Food Safety and Standards Authority of India (FSSAI)"],
+    "correctAnswer": "Indian Council of Medical Research (ICMR)"
+  },
+  {
     "id": 6,
-    "question": "Which national body's Director General recently stated that while H1N1 cases are rising, there's no cause for panic across India, a statement relevant to health departments in Andhra Pradesh and Telangana?",
-    "options": ["AIIMS", "NITI Aayog", "ICMR", "WHO India"],
-    "correctAnswer": "ICMR"
+    "question": "H1N1 is commonly referred to by what name?",
+    "options": ["Swine Flu", "Bird Flu", "Dengue Fever", "Zika Virus"],
+    "correctAnswer": "Swine Flu"
   },
   {
     "id": 7,
-    "question": "What does H1N1 primarily refer to, a health concern monitored by national bodies like ICMR across all Indian states including Telangana and Andhra Pradesh?",
-    "options": ["A type of foodborne illness", "A strain of influenza virus", "A genetic disorder", "A common cold virus"],
-    "correctAnswer": "A strain of influenza virus"
+    "question": "What does the acronym ICMR stand for in the context of Indian health research?",
+    "options": ["Indian Council of Medical Research", "International Council of Medical Regulations", "Institute for Clinical Medical Research", "India's Central Medical Registry"],
+    "correctAnswer": "Indian Council of Medical Research"
   },
   {
     "id": 8,
-    "question": "What is the full form of ICMR?",
-    "options": ["Indian Council for Medical Research", "Indian Center for Medical Reforms", "International Council of Medical Resources", "Institute of Clinical Medicine and Research"],
-    "correctAnswer": "Indian Council for Medical Research"
+    "question": "According to the ICMR Director General, what is the current assessment regarding the rising H1N1 cases in India?",
+    "options": ["Cases are rising, but there is no cause for panic.", "Cases are at an alarming level, requiring immediate mass vaccination.", "The situation is under complete control with declining cases.", "There is a new, more virulent strain causing concern."],
+    "correctAnswer": "Cases are rising, but there is no cause for panic."
   },
   {
     "id": 9,
-    "question": "ICMR is India's apex body for biomedical research. Its advisories are crucial for state health departments, including those in Telangana and Andhra Pradesh, in managing public health issues. What is its main role?",
-    "options": ["Manufacturing medicines", "Providing primary healthcare", "Formulating health policies and conducting research", "Regulating medical education"],
-    "correctAnswer": "Formulating health policies and conducting research"
-  },
-  {
-    "id": 10,
-    "question": "Which statement best reflects the ICMR DG's recent advisory regarding H1N1 cases across India?",
-    "options": ["H1N1 is under control and decreasing", "H1N1 is a major concern requiring immediate lockdown", "H1N1 cases are rising but do not warrant panic", "H1N1 is specific to certain northern states"],
-    "correctAnswer": "H1N1 cases are rising but do not warrant panic"
-  },
-  {
-    "id": 11,
-    "question": "Who is India's current National Security Adviser (NSA) who recently engaged in talks with Chinese officials on boundary issues, discussions that impact national security for all Indian states?",
-    "options": ["S. Jaishankar", "Ajit Doval", "Rajnath Singh", "Amit Shah"],
+    "question": "Who is India's current National Security Adviser (NSA) who recently held border talks with China?",
+    "options": ["Ajit Doval", "S. Jaishankar", "Rajnath Singh", "Amit Shah"],
     "correctAnswer": "Ajit Doval"
   },
   {
-    "id": 12,
-    "question": "The NSA's discussions with Chinese officials centered on which primary issues?",
-    "options": ["Trade agreements and cultural exchange", "Boundary issues and enhancing economic ties", "Climate change and international aid", "Space cooperation and technology transfer"],
-    "correctAnswer": "Boundary issues and enhancing economic ties"
-  },
-  {
-    "id": 13,
-    "question": "While international relations are managed at the national level, strong national security ensures stability across all Indian states, including Andhra Pradesh and Telangana. What is the role of the NSA?",
-    "options": ["Handling all foreign policy decisions", "Advising the Prime Minister on matters of national security and foreign policy", "Commanding the armed forces", "Managing internal law and order"],
-    "correctAnswer": "Advising the Prime Minister on matters of national security and foreign policy"
-  },
-  {
-    "id": 14,
-    "question": "With which country did NSA Ajit Doval recently hold the 25th round of border talks, a matter of national importance for India?",
-    "options": ["Pakistan", "Nepal", "Bangladesh", "China"],
+    "id": 10,
+    "question": "With which country did India recently conduct its 25th round of border talks, as mentioned in recent news?",
+    "options": ["China", "Pakistan", "Nepal", "Bangladesh"],
     "correctAnswer": "China"
   },
   {
+    "id": 11,
+    "question": "A key focus of the recent discussions between NSA Ajit Doval and Chinese Vice President Han Zheng was centered on what?",
+    "options": ["Resolving boundary issues and enhancing economic ties", "Discussing trade tariffs and intellectual property rights", "Collaborating on space exploration projects", "Joint military exercises in the Indian Ocean"],
+    "correctAnswer": "Resolving boundary issues and enhancing economic ties"
+  },
+  {
+    "id": 12,
+    "question": "Where did the recent high-level India-China border talks, involving India's NSA, reportedly take place?",
+    "options": ["Beijing", "New Delhi", "Shanghai", "Mumbai"],
+    "correctAnswer": "Beijing"
+  },
+  {
+    "id": 13,
+    "question": "Which two major political parties were reportedly involved in a recent ruckus at a House panel meeting over student protests?",
+    "options": ["BJP and Congress", "AAP and Congress", "BJP and Trinamool Congress", "Congress and BRS"],
+    "correctAnswer": "BJP and Congress"
+  },
+  {
+    "id": 14,
+    "question": "The parliamentary ruckus mentioned in the news concerned allegations of the use of force on which group during a July 20 protest?",
+    "options": ["Students", "Farmers", "Daily wage laborers", "Doctors"],
+    "correctAnswer": "Students"
+  },
+  {
     "id": 15,
-    "question": "Which international summit is Chinese President Xi Jinping expected to visit India for?",
-    "options": ["G20", "BRICS", "SCO", "ASEAN"],
-    "correctAnswer": "BRICS"
+    "question": "Chinese President Xi Jinping is reportedly expected to visit India for which major international summit?",
+    "options": ["BRICS summit", "G20 Summit", "SCO Summit", "ASEAN Summit"],
+    "correctAnswer": "BRICS summit"
   },
   {
     "id": 16,
-    "question": "The BRICS summit, expected to be held in India, brings together major emerging economies. Which country is *not* a permanent member of BRICS?",
-    "options": ["Brazil", "Russia", "India", "Japan"],
-    "correctAnswer": "Japan"
-  },
-  {
-    "id": 17,
-    "question": "Mallikarjun Kharge and Rahul Gandhi recently urged PM Modi to withdraw the existing questionnaire for which national survey/initiative, impacting data collection across all states including Telangana and Andhra Pradesh?",
-    "options": ["Economic Survey", "National Family Health Survey", "Caste Census", "Livestock Census"],
-    "correctAnswer": "Caste Census"
-  },
-  {
-    "id": 18,
-    "question": "The demand for a caste census withdrawal, while a national political issue, has implications for data collection and policy across all states, including Telangana and Andhra Pradesh. Who are the two prominent Congress leaders mentioned in this context?",
-    "options": ["Sonia Gandhi and Priyanka Gandhi", "Mallikarjun Kharge and Rahul Gandhi", "P. Chidambaram and Shashi Tharoor", "Digvijaya Singh and Jairam Ramesh"],
+    "question": "Which prominent Indian political leaders recently urged Prime Minister Modi to withdraw the existing caste census questionnaire?",
+    "options": ["Mallikarjun Kharge and Rahul Gandhi", "Amit Shah and J.P. Nadda", "Arvind Kejriwal and Manish Sisodia", "K. Chandrashekar Rao and Y. S. Jagan Mohan Reddy"],
     "correctAnswer": "Mallikarjun Kharge and Rahul Gandhi"
   },
   {
+    "id": 17,
+    "question": "What key domestic issue was recently advocated by Congress leaders concerning the national census?",
+    "options": ["Withdrawal of the existing caste census questionnaire", "Inclusion of a separate religion column", "Prohibition of all census activities for five years", "Adoption of digital-only census methods"],
+    "correctAnswer": "Withdrawal of the existing caste census questionnaire"
+  },
+  {
+    "id": 18,
+    "question": "BRICS is an acronym for an association of major emerging economies. Which of the following countries is NOT a core member of BRICS?",
+    "options": ["Canada", "Brazil", "India", "China"],
+    "correctAnswer": "Canada"
+  },
+  {
     "id": 19,
-    "question": "What is the primary concern raised by Congress leaders regarding the existing caste census questionnaire?",
-    "options": ["Its digital format", "Lack of funding", "Its methodology and specific questions", "Its timing during an election year"],
-    "correctAnswer": "Its methodology and specific questions"
+    "question": "What is often cited as the primary purpose behind advocating for a caste census in India by certain political parties?",
+    "options": ["To gather comprehensive data on the social and economic conditions of different caste groups.", "To simplify tax collection based on caste.", "To determine voting eligibility criteria.", "To identify suitable candidates for government jobs based on caste."],
+    "correctAnswer": "To gather comprehensive data on the social and economic conditions of different caste groups."
   },
   {
     "id": 20,
-    "question": "India is experiencing an 'organ transplant boom'. What does this trend signify for public health and healthcare infrastructure, including in states like Andhra Pradesh and Telangana?",
-    "options": ["A decrease in the need for transplants", "An increase in available donors and successful procedures", "A shift to international patients", "A decline in medical tourism"],
-    "correctAnswer": "An increase in available donors and successful procedures"
+    "question": "According to recent reports, India has witnessed a significant 'boom' in which medical procedure?",
+    "options": ["Organ transplants", "Cosmetic surgeries", "Ayurvedic treatments", "Dental implants"],
+    "correctAnswer": "Organ transplants"
   },
   {
     "id": 21,
-    "question": "Which national organization in India typically oversees the allocation and distribution of organs for transplantation, supporting the organ transplant ecosystem in states like Telangana and Andhra Pradesh?",
-    "options": ["FSSAI", "ICMR", "NOTTO", "NITI Aayog"],
-    "correctAnswer": "NOTTO"
+    "question": "What is identified as a significant challenge and struggle within India's booming organ transplant sector?",
+    "options": ["Uncertainty and struggle for recipients in accessing suitable organs.", "Lack of skilled surgeons for the procedures.", "Overabundance of organ donors leading to storage issues.", "High cost of post-transplant care being universally covered."],
+    "correctAnswer": "Uncertainty and struggle for recipients in accessing suitable organs."
   },
   {
     "id": 22,
-    "question": "The organ transplant boom in India highlights the need for robust medical facilities. Many advanced medical centers in states like Telangana and Andhra Pradesh are part of this ecosystem. What is a key challenge highlighted in the article despite the boom?",
-    "options": ["Lack of skilled surgeons", "Scarcity of medical equipment", "Uncertainty and struggle behind the process", "Over-regulation"],
-    "correctAnswer": "Uncertainty and struggle behind the process"
+    "question": "Which organization in India plays a crucial role in regulating and coordinating organ donation and transplantation activities nationally?",
+    "options": ["National Organ and Tissue Transplant Organization (NOTTO)", "Indian Medical Association (IMA)", "Ministry of Health Research (MHR)", "All India Council for Organ Donation (AICOD)"],
+    "correctAnswer": "National Organ and Tissue Transplant Organization (NOTTO)"
   },
   {
     "id": 23,
-    "question": "What is the full form of NOTTO, a crucial body for organ transplantation in India?",
-    "options": ["National Organ and Tissue Transplant Organization", "National Organisation for Transfusions and Transplant Oversight", "Network for Organ and Tissue Transfer Operations", "New Opportunities for Transplants and Treatments Organization"],
-    "correctAnswer": "National Organ and Tissue Transplant Organization"
+    "question": "What key ethical consideration is often associated with the growth in organ transplants in India?",
+    "options": ["Ensuring fair allocation of organs and preventing illegal trafficking.", "The right to refuse organ donation for religious reasons.", "Debates over the age limit for organ recipients.", "The financial burden on government hospitals for providing transplants."],
+    "correctAnswer": "Ensuring fair allocation of organs and preventing illegal trafficking."
   },
   {
     "id": 24,
-    "question": "Organ donation awareness is crucial for the success of transplant programs across India, including in Telangana and Andhra Pradesh. What is a common way for individuals to pledge organ donation in India?",
-    "options": ["Only through a will", "By registering with a government body or hospital", "Only after death by family consent", "By purchasing an organ donation card from a private entity"],
-    "correctAnswer": "By registering with a government body or hospital"
+    "question": "Which Indian political party's recent decision to sing two stanzas of Vande Mataram sparked an intense backlash from the BJP?",
+    "options": ["Congress", "Aam Aadmi Party (AAP)", "Shiv Sena", "Dravida Munnetra Kazhagam (DMK)"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 25,
-    "question": "Given the national health advisories issued by bodies like the ICMR, how do states like Telangana and Andhra Pradesh typically integrate these recommendations into their local public health strategies?",
-    "options": ["They are legally binding and directly implemented without local adaptation", "States often disregard national advisories due to differing local needs", "National advisories serve as guidelines that states adapt and implement based on their specific contexts", "Only Union Territories follow national health advisories"],
-    "correctAnswer": "National advisories serve as guidelines that states adapt and implement based on their specific contexts"
+    "question": "The BJP accused the Congress of what in the recent Vande Mataram rendition controversy?",
+    "options": ["Engaging in appeasement politics and being responsible for partition.", "Disrespecting national symbols and promoting anti-national sentiments.", "Misappropriating cultural heritage for political gain.", "Failing to acknowledge the song's historical significance."],
+    "correctAnswer": "Engaging in appeasement politics and being responsible for partition."
   }
 ]

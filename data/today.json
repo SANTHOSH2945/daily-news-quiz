@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "The Supreme Court recently directed the government to prevent the misuse of data by private entities. What fundamental right is most directly associated with this directive?",
-    "options": ["Right to Freedom of Speech", "Right to Equality", "Right to Privacy", "Right to Property"],
-    "correctAnswer": "Right to Privacy"
+    "question": "Which traditional rice variety, known for its resilience and nutritional value, is being revived in agricultural initiatives across Telangana and Andhra Pradesh, aligning with the 'grain revolution' theme?",
+    "options": [
+      "Kalanamak",
+      "Indrayani",
+      "Kala Bhaat",
+      "Raktashali"
+    ],
+    "correctAnswer": "Raktashali"
   },
   {
     "id": 2,
-    "question": "The SC's directive on data misuse underscores the need for robust legal frameworks. Which key central legislation in India is being developed or is already in place to address personal data protection?",
-    "options": ["Information Technology Act", "Digital Personal Data Protection Act", "Companies Act", "Consumer Protection Act"],
-    "correctAnswer": "Digital Personal Data Protection Act"
+    "question": "Inspired by efforts to bring back lost varieties, what unique paddy seed bank initiative operates in Telangana to preserve indigenous rice strains?",
+    "options": [
+      "Deccan Seed Vault",
+      "Bio-diversity Farmers' Collective",
+      "Telangana Native Grain Trust",
+      "Maharshi Farmers' Cooperative"
+    ],
+    "correctAnswer": "Bio-diversity Farmers' Collective"
   },
   {
     "id": 3,
-    "question": "Protecting citizen data, as emphasized by the Supreme Court, is critical for all states including Telangana and Andhra Pradesh. Which government body typically handles grievances related to data breaches or misuse?",
-    "options": ["Reserve Bank of India", "Unique Identification Authority of India (UIDAI)", "Ministry of Home Affairs", "Relevant Data Protection Board or Authority"],
-    "correctAnswer": "Relevant Data Protection Board or Authority"
+    "question": "In Andhra Pradesh, the state government supports organic farming practices for traditional crops like rice. What is a key component of the state's natural farming program that promotes such cultivation?",
+    "options": [
+      "Zero Budget Natural Farming (ZBNF)",
+      "Green Revolution 2.0",
+      "Sustainable Agriculture Mission",
+      "Agri-Tech Innovation Hub"
+    ],
+    "correctAnswer": "Zero Budget Natural Farming (ZBNF)"
   },
   {
     "id": 4,
-    "question": "What is a primary measure the government can enforce to hold private entities accountable for data misuse, as per the spirit of the Supreme Court's directive?",
-    "options": ["Issuing public advisories", "Imposing significant financial penalties", "Conducting awareness campaigns", "Recommending self-regulation"],
-    "correctAnswer": "Imposing significant financial penalties"
+    "question": "Following discussions on empowering farmers, which organization in Telangana plays a crucial role in providing research and development for improved paddy varieties suited for local conditions?",
+    "options": [
+      "Indian Council of Agricultural Research (ICAR)",
+      "Professor Jayashankar Telangana State Agricultural University (PJTSAU)",
+      "National Rice Research Institute (NRRI)",
+      "State Seed Development Corporation (SSDC)"
+    ],
+    "correctAnswer": "Professor Jayashankar Telangana State Agricultural University (PJTSAU)"
   },
   {
     "id": 5,
-    "question": "According to recent reports, approximately how many million hectares of degraded land were restored across India between 2011 and 2020?",
-    "options": ["10 million hectares", "15 million hectares", "22 million hectares", "30 million hectares"],
-    "correctAnswer": "22 million hectares"
+    "question": "What is the primary aim of promoting millet cultivation alongside traditional rice in parts of Andhra Pradesh, aligning with dietary diversity goals?",
+    "options": [
+      "To increase cash crop exports",
+      "To replace all rice cultivation",
+      "To enhance food security and nutritional intake",
+      "To reduce water consumption in all agriculture"
+    ],
+    "correctAnswer": "To enhance food security and nutritional intake"
   },
   {
     "id": 6,
-    "question": "Telangana's 'Haritha Haram' program, a significant state initiative, aims at increasing green cover and reducing land degradation. What is its primary goal, aligning with national land restoration efforts?",
-    "options": ["Promote organic farming", "Increase forest cover and protect environment", "Develop urban infrastructure", "Improve irrigation facilities"],
-    "correctAnswer": "Increase forest cover and protect environment"
+    "question": "In the context of recent national discussions on caste census, which commission in Telangana is typically responsible for identifying and recommending the inclusion or exclusion of social groups in the BC list?",
+    "options": [
+      "State Finance Commission",
+      "State Human Rights Commission",
+      "Telangana State Commission for Backward Classes",
+      "State Election Commission"
+    ],
+    "correctAnswer": "Telangana State Commission for Backward Classes"
   },
   {
     "id": 7,
-    "question": "Which common environmental practice is key to the restoration of degraded land by improving soil quality and preventing erosion?",
-    "options": ["Industrialization", "Urbanization", "Afforestation and reforestation", "Excessive groundwater extraction"],
-    "correctAnswer": "Afforestation and reforestation"
+    "question": "Andhra Pradesh has implemented several welfare schemes for different caste groups. Which scheme specifically focuses on providing financial assistance to Kapu community women for entrepreneurship?",
+    "options": [
+      "Jagananna Vidya Deevena",
+      "YSR Cheyutha",
+      "Nadu-Nedu",
+      "Kapu Nestham"
+    ],
+    "correctAnswer": "Kapu Nestham"
   },
   {
     "id": 8,
-    "question": "In agricultural states like Andhra Pradesh, a significant challenge leading to land degradation is soil erosion. Which measure effectively combats soil erosion in farming practices?",
-    "options": ["Monocropping", "Contour ploughing and terracing", "Extensive pesticide use", "Slash-and-burn agriculture"],
-    "correctAnswer": "Contour ploughing and terracing"
+    "question": "Addressing socio-economic disparities, what is the name of the flagship initiative in Telangana aimed at empowering Dalits through direct financial assistance for entrepreneurship and self-employment?",
+    "options": [
+      "Dalit Bandhu",
+      "Mission Bhageeratha",
+      "Rythu Bandhu",
+      "Aasara Pensions"
+    ],
+    "correctAnswer": "Dalit Bandhu"
   },
   {
     "id": 9,
-    "question": "Beyond environmental benefits, land restoration initiatives contribute to which of the following socio-economic aspects?",
-    "options": ["Increased reliance on imports", "Enhanced food security and rural livelihoods", "Decreased tourism revenue", "Promotion of unchecked industrial growth"],
-    "correctAnswer": "Enhanced food security and rural livelihoods"
+    "question": "The debate over a comprehensive caste-based survey often highlights the need for accurate data to implement what type of policies in states like Andhra Pradesh?",
+    "options": [
+      "Taxation reforms",
+      "Reservation and welfare programs",
+      "Environmental protection laws",
+      "Foreign investment policies"
+    ],
+    "correctAnswer": "Reservation and welfare programs"
   },
   {
     "id": 10,
-    "question": "Which national program in India is often instrumental in generating employment while also contributing to environmental conservation efforts like afforestation and water harvesting, indirectly aiding land restoration?",
-    "options": ["Pradhan Mantri Fasal Bima Yojana", "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)", "Smart Cities Mission", "National Health Mission"],
-    "correctAnswer": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)"
+    "question": "Which specific constitutional provision allows states like Telangana and Andhra Pradesh to make special provisions for the advancement of any socially and educationally backward classes of citizens?",
+    "options": [
+      "Article 14",
+      "Article 15(4)",
+      "Article 21",
+      "Article 32"
+    ],
+    "correctAnswer": "Article 15(4)"
   },
   {
     "id": 11,
-    "question": "Union Home Minister Amit Shah recently highlighted a new doctrine to fight terror and what other related issue?",
-    "options": ["Economic recession", "Climate change", "Radicalisation", "Cybercrime syndicates"],
-    "correctAnswer": "Radicalisation"
+    "question": "Inspired by initiatives to help women stay in work, what is the key objective of the 'She Teams' initiative launched by the Telangana Police?",
+    "options": [
+      "To provide employment to women police officers",
+      "To ensure safety and security for women in public and workplaces",
+      "To train women in self-defense",
+      "To promote women's participation in sports"
+    ],
+    "correctAnswer": "To ensure safety and security for women in public and workplaces"
   },
   {
     "id": 12,
-    "question": "In combating terror and radicalisation, state police forces in Telangana and Andhra Pradesh often collaborate with central agencies. Which central agency is specifically tasked with investigating terror-related cases across India?",
-    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Intelligence Bureau (IB)", "Research and Analysis Wing (RAW)"],
-    "correctAnswer": "National Investigation Agency (NIA)"
+    "question": "Andhra Pradesh launched a flagship scheme 'Jagananna Vidya Deevena' primarily to support women in which aspect of their lives, leading to empowerment?",
+    "options": [
+      "Healthcare access",
+      "Housing for single mothers",
+      "Financial assistance for higher education fees",
+      "Start-up capital for small businesses"
+    ],
+    "correctAnswer": "Financial assistance for higher education fees"
   },
   {
     "id": 13,
-    "question": "What is a key preventative measure against radicalisation often emphasized in national security strategies?",
-    "options": ["Imposing strict travel bans", "Promoting inclusive education and community engagement", "Increasing military spending", "Restricting internet access"],
-    "correctAnswer": "Promoting inclusive education and community engagement"
+    "question": "Which industrial sector in Telangana has seen significant government initiatives to increase women's participation and leadership, especially in Hyderabad?",
+    "options": [
+      "Textile manufacturing",
+      "Information Technology (IT) and IT-enabled Services (ITES)",
+      "Heavy engineering",
+      "Mining and quarrying"
+    ],
+    "correctAnswer": "Information Technology (IT) and IT-enabled Services (ITES)"
   },
   {
     "id": 14,
-    "question": "The new doctrine against terror and radicalisation aims to address the root causes and enablers. Which of the following is a common factor that can contribute to radicalisation?",
-    "options": ["Strong economic growth", "Access to quality education", "Social alienation and extremist propaganda", "Robust democratic institutions"],
-    "correctAnswer": "Social alienation and extremist propaganda"
+    "question": "To encourage women entrepreneurship in Andhra Pradesh, the state government promotes which specific type of self-help group (SHG) activity through subsidized loans and training?",
+    "options": [
+      "Agricultural exports",
+      "Micro-enterprises and small businesses",
+      "Large-scale industrial production",
+      "Real estate development"
+    ],
+    "correctAnswer": "Micro-enterprises and small businesses"
   },
   {
     "id": 15,
-    "question": "What is the primary objective of a national doctrine specifically focused on combating terror and radicalisation?",
-    "options": ["To establish new trade routes", "To enhance cultural exchange", "To safeguard national security and social harmony", "To promote regional sports events"],
-    "correctAnswer": "To safeguard national security and social harmony"
+    "question": "What common challenge for women re-entering the workforce in both Telangana and Andhra Pradesh is often addressed by government-supported skill development programs?",
+    "options": [
+      "Lack of interest in new careers",
+      "Outdated skills and lack of modern training",
+      "Insufficient physical fitness",
+      "Reluctance to work outside home"
+    ],
+    "correctAnswer": "Outdated skills and lack of modern training"
   },
   {
     "id": 16,
-    "question": "Prime Minister Narendra Modi recently urged the country to showcase India's strengths to achieve what goal?",
-    "options": ["Boost exports", "Woo more foreign tourists", "Attract foreign investment in manufacturing", "Promote domestic consumption"],
-    "correctAnswer": "Woo more foreign tourists"
+    "question": "In line with efforts for flood-resilient infrastructure, which major irrigation project in Telangana is designed to utilize Godavari river water and mitigate flood impact in low-lying areas?",
+    "options": [
+      "Pothireddypadu Head Regulator",
+      "Kaleshwaram Lift Irrigation Project (KLIP)",
+      "Srisailam Project",
+      "Nagarjuna Sagar Project"
+    ],
+    "correctAnswer": "Kaleshwaram Lift Irrigation Project (KLIP)"
   },
   {
     "id": 17,
-    "question": "In line with the PM's call to promote India's strengths, which iconic historical monument in Hyderabad, Telangana, is a major tourist attraction?",
-    "options": ["Hampi", "Charminar", "Golconda Fort", "Qutub Shahi Tombs"],
-    "correctAnswer": "Charminar"
+    "question": "Andhra Pradesh is actively developing its road network. What is the name of the greenfield expressway project connecting Amaravati to Anantapur, aimed at improving internal connectivity?",
+    "options": [
+      "National Highway 16",
+      "Eastern Coastal Highway",
+      "Rayalaseema Expressway",
+      "Amaravati-Anantapur Expressway"
+    ],
+    "correctAnswer": "Amaravati-Anantapur Expressway"
   },
   {
     "id": 18,
-    "question": "To attract pilgrims and cultural tourists, Andhra Pradesh boasts numerous spiritual sites. Which famous temple town in Andhra Pradesh is renowned worldwide?",
-    "options": ["Srisailam", "Tirupati", "Amaravati", "Lepakshi"],
-    "correctAnswer": "Tirupati"
+    "question": "Which coastal district in Andhra Pradesh is particularly vulnerable to cyclones and floods, leading to specific state government initiatives for disaster preparedness and infrastructure resilience?",
+    "options": [
+      "Kurnool",
+      "Kadapa",
+      "Guntur",
+      "Visakhapatnam"
+    ],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 19,
-    "question": "Apart from historical and spiritual sites, what other significant aspect of India's 'strengths' is increasingly being promoted to international tourists?",
-    "options": ["Its industrial output", "Its technological advancements", "Its diverse culture, cuisine, and natural beauty", "Its political stability"],
-    "correctAnswer": "Its diverse culture, cuisine, and natural beauty"
+    "question": "Telangana recently launched a major program for rural road connectivity and upgrade. What is the primary focus of this state government initiative?",
+    "options": [
+      "Developing toll roads",
+      "Connecting remote villages to district headquarters with all-weather roads",
+      "Building expressways around Hyderabad",
+      "Upgrading national highways passing through the state"
+    ],
+    "correctAnswer": "Connecting remote villages to district headquarters with all-weather roads"
   },
   {
     "id": 20,
-    "question": "What is a significant economic benefit that increased tourism brings to India, including states like Telangana and Andhra Pradesh?",
-    "options": ["Decreased foreign exchange earnings", "Creation of employment opportunities", "Reduced local business revenue", "Increased reliance on imports"],
-    "correctAnswer": "Creation of employment opportunities"
+    "question": "What is a key challenge for implementing flood-resilient highway designs in the coastal regions of Andhra Pradesh?",
+    "options": [
+      "Lack of suitable construction materials",
+      "Insufficient engineering expertise",
+      "High cost of land acquisition",
+      "Rapid urbanization and encroachment on floodplains"
+    ],
+    "correctAnswer": "Rapid urbanization and encroachment on floodplains"
   },
   {
     "id": 21,
-    "question": "What notable change has been announced for the upcoming Census 2027 concerning data collection?",
-    "options": ["It will include genetic data", "It will not record data on begging", "It will collect real-time biometric data", "It will be conducted entirely online"],
-    "correctAnswer": "It will not record data on begging"
+    "question": "Following the theme of Shiva and spiritual narratives, which ancient Shiva temple in Telangana is famous for its unique Kakatiya architecture and also known as Ramappa Temple?",
+    "options": [
+      "Keesaragutta Temple",
+      "Ramappa Temple (Rudreswara Temple)",
+      "Alampur Nava Brahma Temples",
+      "Suryanarayana Temple, Arasavalli"
+    ],
+    "correctAnswer": "Ramappa Temple (Rudreswara Temple)"
   },
   {
     "id": 22,
-    "question": "The Census provides crucial demographic information for states like Telangana and Andhra Pradesh. What is a primary objective of conducting a national census in India?",
-    "options": ["To identify wealthy individuals", "To assess the population size, distribution, and characteristics", "To track individual financial transactions", "To monitor social media trends"],
-    "correctAnswer": "To assess the population size, distribution, and characteristics"
+    "question": "Which city, historically renowned as the primary hub for Telugu cinema ('Tollywood') and now located in Telangana, remains a major center for film production and cultural influence for both Telugu states?",
+    "options": [
+      "Visakhapatnam",
+      "Vijayawada",
+      "Tirupati",
+      "Hyderabad"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 23,
-    "question": "Which type of government planning and policy-making heavily relies on the demographic and socio-economic data gathered during the Census?",
-    "options": ["Military strategy", "Space exploration", "Resource allocation, infrastructure development, and welfare programs", "International trade agreements"],
-    "correctAnswer": "Resource allocation, infrastructure development, and welfare programs"
+    "question": "What is the name of the annual flower festival celebrated predominantly in Telangana, involving the arrangement of seasonal flowers as a symbol of goddess Gauri?",
+    "options": [
+      "Bonalu",
+      "Bathukamma",
+      "Sankranti",
+      "Ugadi"
+    ],
+    "correctAnswer": "Bathukamma"
   },
   {
     "id": 24,
-    "question": "Which central agency has initiated a probe into 'hits' on government sites during 'Operation Sindoor'?",
-    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Cyber Crime Coordination Centre (I4C)", "Indian Computer Emergency Response Team (CERT-In)"],
-    "correctAnswer": "National Investigation Agency (NIA)"
+    "question": "Inspired by cultural narratives, which temple town in Andhra Pradesh is one of the most significant pilgrimage centers dedicated to Lord Venkateswara (a form of Vishnu), attracting millions annually?",
+    "options": [
+      "Srisailam",
+      "Simhachalam",
+      "Tirupati",
+      "Vijayawada"
+    ],
+    "correctAnswer": "Tirupati"
   },
   {
     "id": 25,
-    "question": "The probe into cyberattacks on government sites highlights the importance of cybersecurity for all states. Which type of attack aims to make a network resource unavailable to its intended users by overwhelming it with traffic?",
-    "options": ["Phishing attack", "Ransomware attack", "Denial-of-Service (DoS) attack", "SQL injection"],
-    "correctAnswer": "Denial-of-Service (DoS) attack"
+    "question": "Given the focus on Yoga and spiritual narratives, which state government initiative in Telangana promotes traditional Yoga practices and holistic wellness among its citizens?",
+    "options": [
+      "Telangana Arogya Prasarana",
+      "Yoga Sadhana Abhiyan",
+      "Telangana Ayurveda, Yoga & Naturopathy (AYUSH) Department",
+      "Health & Harmony Mission"
+    ],
+    "correctAnswer": "Telangana Ayurveda, Yoga & Naturopathy (AYUSH) Department"
   }
 ]

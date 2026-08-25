@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which traditional rice variety, known for its resilience and nutritional value, is being revived in agricultural initiatives across Telangana and Andhra Pradesh, aligning with the 'grain revolution' theme?",
-    "options": [
-      "Kalanamak",
-      "Indrayani",
-      "Kala Bhaat",
-      "Raktashali"
-    ],
-    "correctAnswer": "Raktashali"
+    "question": "Which national regulatory body is responsible for setting standards for food safety and quality in India, including states like Telangana and Andhra Pradesh?",
+    "options": ["FSSAI", "ICMR", "BIS", "NITI Aayog"],
+    "correctAnswer": "FSSAI"
   },
   {
     "id": 2,
-    "question": "Inspired by efforts to bring back lost varieties, what unique paddy seed bank initiative operates in Telangana to preserve indigenous rice strains?",
-    "options": [
-      "Deccan Seed Vault",
-      "Bio-diversity Farmers' Collective",
-      "Telangana Native Grain Trust",
-      "Maharshi Farmers' Cooperative"
-    ],
-    "correctAnswer": "Bio-diversity Farmers' Collective"
+    "question": "The FSSAI recently flagged food firms for making misleading claims. What type of claims were specifically highlighted in the news?",
+    "options": ["'100% natural' & 'organic'", "'Energy Drink' & 'immunity'", "'sugar-free' & 'diet'", "'gluten-free' & 'vegan'"],
+    "correctAnswer": "'Energy Drink' & 'immunity'"
   },
   {
     "id": 3,
-    "question": "In Andhra Pradesh, the state government supports organic farming practices for traditional crops like rice. What is a key component of the state's natural farming program that promotes such cultivation?",
-    "options": [
-      "Zero Budget Natural Farming (ZBNF)",
-      "Green Revolution 2.0",
-      "Sustainable Agriculture Mission",
-      "Agri-Tech Innovation Hub"
-    ],
-    "correctAnswer": "Zero Budget Natural Farming (ZBNF)"
+    "question": "Where do the regulations set by the FSSAI apply within India?",
+    "options": ["Only metros", "Select Northern states", "All states and Union Territories including Andhra Pradesh and Telangana", "Only export-oriented units"],
+    "correctAnswer": "All states and Union Territories including Andhra Pradesh and Telangana"
   },
   {
     "id": 4,
-    "question": "Following discussions on empowering farmers, which organization in Telangana plays a crucial role in providing research and development for improved paddy varieties suited for local conditions?",
-    "options": [
-      "Indian Council of Agricultural Research (ICAR)",
-      "Professor Jayashankar Telangana State Agricultural University (PJTSAU)",
-      "National Rice Research Institute (NRRI)",
-      "State Seed Development Corporation (SSDC)"
-    ],
-    "correctAnswer": "Professor Jayashankar Telangana State Agricultural University (PJTSAU)"
+    "question": "What is the primary objective of the FSSAI in its regulatory actions against food firms in India, relevant to consumer protection in states like Telangana and Andhra Pradesh?",
+    "options": ["Promoting food exports", "Ensuring fair trade practices", "Protecting consumer health by ensuring safe food", "Boosting local food industries"],
+    "correctAnswer": "Protecting consumer health by ensuring safe food"
   },
   {
     "id": 5,
-    "question": "What is the primary aim of promoting millet cultivation alongside traditional rice in parts of Andhra Pradesh, aligning with dietary diversity goals?",
-    "options": [
-      "To increase cash crop exports",
-      "To replace all rice cultivation",
-      "To enhance food security and nutritional intake",
-      "To reduce water consumption in all agriculture"
-    ],
-    "correctAnswer": "To enhance food security and nutritional intake"
+    "question": "What does the acronym FSSAI stand for?",
+    "options": ["Food Standards and Safety Authority of India", "Food Safety and Standards Authority of India", "Federal System for Safety in Agriculture and Industry", "Food and Supplements Standard Agency of India"],
+    "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
     "id": 6,
-    "question": "In the context of recent national discussions on caste census, which commission in Telangana is typically responsible for identifying and recommending the inclusion or exclusion of social groups in the BC list?",
-    "options": [
-      "State Finance Commission",
-      "State Human Rights Commission",
-      "Telangana State Commission for Backward Classes",
-      "State Election Commission"
-    ],
-    "correctAnswer": "Telangana State Commission for Backward Classes"
+    "question": "Which national body's Director General recently stated that while H1N1 cases are rising, there's no cause for panic across India, a statement relevant to health departments in Andhra Pradesh and Telangana?",
+    "options": ["AIIMS", "NITI Aayog", "ICMR", "WHO India"],
+    "correctAnswer": "ICMR"
   },
   {
     "id": 7,
-    "question": "Andhra Pradesh has implemented several welfare schemes for different caste groups. Which scheme specifically focuses on providing financial assistance to Kapu community women for entrepreneurship?",
-    "options": [
-      "Jagananna Vidya Deevena",
-      "YSR Cheyutha",
-      "Nadu-Nedu",
-      "Kapu Nestham"
-    ],
-    "correctAnswer": "Kapu Nestham"
+    "question": "What does H1N1 primarily refer to, a health concern monitored by national bodies like ICMR across all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["A type of foodborne illness", "A strain of influenza virus", "A genetic disorder", "A common cold virus"],
+    "correctAnswer": "A strain of influenza virus"
   },
   {
     "id": 8,
-    "question": "Addressing socio-economic disparities, what is the name of the flagship initiative in Telangana aimed at empowering Dalits through direct financial assistance for entrepreneurship and self-employment?",
-    "options": [
-      "Dalit Bandhu",
-      "Mission Bhageeratha",
-      "Rythu Bandhu",
-      "Aasara Pensions"
-    ],
-    "correctAnswer": "Dalit Bandhu"
+    "question": "What is the full form of ICMR?",
+    "options": ["Indian Council for Medical Research", "Indian Center for Medical Reforms", "International Council of Medical Resources", "Institute of Clinical Medicine and Research"],
+    "correctAnswer": "Indian Council for Medical Research"
   },
   {
     "id": 9,
-    "question": "The debate over a comprehensive caste-based survey often highlights the need for accurate data to implement what type of policies in states like Andhra Pradesh?",
-    "options": [
-      "Taxation reforms",
-      "Reservation and welfare programs",
-      "Environmental protection laws",
-      "Foreign investment policies"
-    ],
-    "correctAnswer": "Reservation and welfare programs"
+    "question": "ICMR is India's apex body for biomedical research. Its advisories are crucial for state health departments, including those in Telangana and Andhra Pradesh, in managing public health issues. What is its main role?",
+    "options": ["Manufacturing medicines", "Providing primary healthcare", "Formulating health policies and conducting research", "Regulating medical education"],
+    "correctAnswer": "Formulating health policies and conducting research"
   },
   {
     "id": 10,
-    "question": "Which specific constitutional provision allows states like Telangana and Andhra Pradesh to make special provisions for the advancement of any socially and educationally backward classes of citizens?",
-    "options": [
-      "Article 14",
-      "Article 15(4)",
-      "Article 21",
-      "Article 32"
-    ],
-    "correctAnswer": "Article 15(4)"
+    "question": "Which statement best reflects the ICMR DG's recent advisory regarding H1N1 cases across India?",
+    "options": ["H1N1 is under control and decreasing", "H1N1 is a major concern requiring immediate lockdown", "H1N1 cases are rising but do not warrant panic", "H1N1 is specific to certain northern states"],
+    "correctAnswer": "H1N1 cases are rising but do not warrant panic"
   },
   {
     "id": 11,
-    "question": "Inspired by initiatives to help women stay in work, what is the key objective of the 'She Teams' initiative launched by the Telangana Police?",
-    "options": [
-      "To provide employment to women police officers",
-      "To ensure safety and security for women in public and workplaces",
-      "To train women in self-defense",
-      "To promote women's participation in sports"
-    ],
-    "correctAnswer": "To ensure safety and security for women in public and workplaces"
+    "question": "Who is India's current National Security Adviser (NSA) who recently engaged in talks with Chinese officials on boundary issues, discussions that impact national security for all Indian states?",
+    "options": ["S. Jaishankar", "Ajit Doval", "Rajnath Singh", "Amit Shah"],
+    "correctAnswer": "Ajit Doval"
   },
   {
     "id": 12,
-    "question": "Andhra Pradesh launched a flagship scheme 'Jagananna Vidya Deevena' primarily to support women in which aspect of their lives, leading to empowerment?",
-    "options": [
-      "Healthcare access",
-      "Housing for single mothers",
-      "Financial assistance for higher education fees",
-      "Start-up capital for small businesses"
-    ],
-    "correctAnswer": "Financial assistance for higher education fees"
+    "question": "The NSA's discussions with Chinese officials centered on which primary issues?",
+    "options": ["Trade agreements and cultural exchange", "Boundary issues and enhancing economic ties", "Climate change and international aid", "Space cooperation and technology transfer"],
+    "correctAnswer": "Boundary issues and enhancing economic ties"
   },
   {
     "id": 13,
-    "question": "Which industrial sector in Telangana has seen significant government initiatives to increase women's participation and leadership, especially in Hyderabad?",
-    "options": [
-      "Textile manufacturing",
-      "Information Technology (IT) and IT-enabled Services (ITES)",
-      "Heavy engineering",
-      "Mining and quarrying"
-    ],
-    "correctAnswer": "Information Technology (IT) and IT-enabled Services (ITES)"
+    "question": "While international relations are managed at the national level, strong national security ensures stability across all Indian states, including Andhra Pradesh and Telangana. What is the role of the NSA?",
+    "options": ["Handling all foreign policy decisions", "Advising the Prime Minister on matters of national security and foreign policy", "Commanding the armed forces", "Managing internal law and order"],
+    "correctAnswer": "Advising the Prime Minister on matters of national security and foreign policy"
   },
   {
     "id": 14,
-    "question": "To encourage women entrepreneurship in Andhra Pradesh, the state government promotes which specific type of self-help group (SHG) activity through subsidized loans and training?",
-    "options": [
-      "Agricultural exports",
-      "Micro-enterprises and small businesses",
-      "Large-scale industrial production",
-      "Real estate development"
-    ],
-    "correctAnswer": "Micro-enterprises and small businesses"
+    "question": "With which country did NSA Ajit Doval recently hold the 25th round of border talks, a matter of national importance for India?",
+    "options": ["Pakistan", "Nepal", "Bangladesh", "China"],
+    "correctAnswer": "China"
   },
   {
     "id": 15,
-    "question": "What common challenge for women re-entering the workforce in both Telangana and Andhra Pradesh is often addressed by government-supported skill development programs?",
-    "options": [
-      "Lack of interest in new careers",
-      "Outdated skills and lack of modern training",
-      "Insufficient physical fitness",
-      "Reluctance to work outside home"
-    ],
-    "correctAnswer": "Outdated skills and lack of modern training"
+    "question": "Which international summit is Chinese President Xi Jinping expected to visit India for?",
+    "options": ["G20", "BRICS", "SCO", "ASEAN"],
+    "correctAnswer": "BRICS"
   },
   {
     "id": 16,
-    "question": "In line with efforts for flood-resilient infrastructure, which major irrigation project in Telangana is designed to utilize Godavari river water and mitigate flood impact in low-lying areas?",
-    "options": [
-      "Pothireddypadu Head Regulator",
-      "Kaleshwaram Lift Irrigation Project (KLIP)",
-      "Srisailam Project",
-      "Nagarjuna Sagar Project"
-    ],
-    "correctAnswer": "Kaleshwaram Lift Irrigation Project (KLIP)"
+    "question": "The BRICS summit, expected to be held in India, brings together major emerging economies. Which country is *not* a permanent member of BRICS?",
+    "options": ["Brazil", "Russia", "India", "Japan"],
+    "correctAnswer": "Japan"
   },
   {
     "id": 17,
-    "question": "Andhra Pradesh is actively developing its road network. What is the name of the greenfield expressway project connecting Amaravati to Anantapur, aimed at improving internal connectivity?",
-    "options": [
-      "National Highway 16",
-      "Eastern Coastal Highway",
-      "Rayalaseema Expressway",
-      "Amaravati-Anantapur Expressway"
-    ],
-    "correctAnswer": "Amaravati-Anantapur Expressway"
+    "question": "Mallikarjun Kharge and Rahul Gandhi recently urged PM Modi to withdraw the existing questionnaire for which national survey/initiative, impacting data collection across all states including Telangana and Andhra Pradesh?",
+    "options": ["Economic Survey", "National Family Health Survey", "Caste Census", "Livestock Census"],
+    "correctAnswer": "Caste Census"
   },
   {
     "id": 18,
-    "question": "Which coastal district in Andhra Pradesh is particularly vulnerable to cyclones and floods, leading to specific state government initiatives for disaster preparedness and infrastructure resilience?",
-    "options": [
-      "Kurnool",
-      "Kadapa",
-      "Guntur",
-      "Visakhapatnam"
-    ],
-    "correctAnswer": "Visakhapatnam"
+    "question": "The demand for a caste census withdrawal, while a national political issue, has implications for data collection and policy across all states, including Telangana and Andhra Pradesh. Who are the two prominent Congress leaders mentioned in this context?",
+    "options": ["Sonia Gandhi and Priyanka Gandhi", "Mallikarjun Kharge and Rahul Gandhi", "P. Chidambaram and Shashi Tharoor", "Digvijaya Singh and Jairam Ramesh"],
+    "correctAnswer": "Mallikarjun Kharge and Rahul Gandhi"
   },
   {
     "id": 19,
-    "question": "Telangana recently launched a major program for rural road connectivity and upgrade. What is the primary focus of this state government initiative?",
-    "options": [
-      "Developing toll roads",
-      "Connecting remote villages to district headquarters with all-weather roads",
-      "Building expressways around Hyderabad",
-      "Upgrading national highways passing through the state"
-    ],
-    "correctAnswer": "Connecting remote villages to district headquarters with all-weather roads"
+    "question": "What is the primary concern raised by Congress leaders regarding the existing caste census questionnaire?",
+    "options": ["Its digital format", "Lack of funding", "Its methodology and specific questions", "Its timing during an election year"],
+    "correctAnswer": "Its methodology and specific questions"
   },
   {
     "id": 20,
-    "question": "What is a key challenge for implementing flood-resilient highway designs in the coastal regions of Andhra Pradesh?",
-    "options": [
-      "Lack of suitable construction materials",
-      "Insufficient engineering expertise",
-      "High cost of land acquisition",
-      "Rapid urbanization and encroachment on floodplains"
-    ],
-    "correctAnswer": "Rapid urbanization and encroachment on floodplains"
+    "question": "India is experiencing an 'organ transplant boom'. What does this trend signify for public health and healthcare infrastructure, including in states like Andhra Pradesh and Telangana?",
+    "options": ["A decrease in the need for transplants", "An increase in available donors and successful procedures", "A shift to international patients", "A decline in medical tourism"],
+    "correctAnswer": "An increase in available donors and successful procedures"
   },
   {
     "id": 21,
-    "question": "Following the theme of Shiva and spiritual narratives, which ancient Shiva temple in Telangana is famous for its unique Kakatiya architecture and also known as Ramappa Temple?",
-    "options": [
-      "Keesaragutta Temple",
-      "Ramappa Temple (Rudreswara Temple)",
-      "Alampur Nava Brahma Temples",
-      "Suryanarayana Temple, Arasavalli"
-    ],
-    "correctAnswer": "Ramappa Temple (Rudreswara Temple)"
+    "question": "Which national organization in India typically oversees the allocation and distribution of organs for transplantation, supporting the organ transplant ecosystem in states like Telangana and Andhra Pradesh?",
+    "options": ["FSSAI", "ICMR", "NOTTO", "NITI Aayog"],
+    "correctAnswer": "NOTTO"
   },
   {
     "id": 22,
-    "question": "Which city, historically renowned as the primary hub for Telugu cinema ('Tollywood') and now located in Telangana, remains a major center for film production and cultural influence for both Telugu states?",
-    "options": [
-      "Visakhapatnam",
-      "Vijayawada",
-      "Tirupati",
-      "Hyderabad"
-    ],
-    "correctAnswer": "Hyderabad"
+    "question": "The organ transplant boom in India highlights the need for robust medical facilities. Many advanced medical centers in states like Telangana and Andhra Pradesh are part of this ecosystem. What is a key challenge highlighted in the article despite the boom?",
+    "options": ["Lack of skilled surgeons", "Scarcity of medical equipment", "Uncertainty and struggle behind the process", "Over-regulation"],
+    "correctAnswer": "Uncertainty and struggle behind the process"
   },
   {
     "id": 23,
-    "question": "What is the name of the annual flower festival celebrated predominantly in Telangana, involving the arrangement of seasonal flowers as a symbol of goddess Gauri?",
-    "options": [
-      "Bonalu",
-      "Bathukamma",
-      "Sankranti",
-      "Ugadi"
-    ],
-    "correctAnswer": "Bathukamma"
+    "question": "What is the full form of NOTTO, a crucial body for organ transplantation in India?",
+    "options": ["National Organ and Tissue Transplant Organization", "National Organisation for Transfusions and Transplant Oversight", "Network for Organ and Tissue Transfer Operations", "New Opportunities for Transplants and Treatments Organization"],
+    "correctAnswer": "National Organ and Tissue Transplant Organization"
   },
   {
     "id": 24,
-    "question": "Inspired by cultural narratives, which temple town in Andhra Pradesh is one of the most significant pilgrimage centers dedicated to Lord Venkateswara (a form of Vishnu), attracting millions annually?",
-    "options": [
-      "Srisailam",
-      "Simhachalam",
-      "Tirupati",
-      "Vijayawada"
-    ],
-    "correctAnswer": "Tirupati"
+    "question": "Organ donation awareness is crucial for the success of transplant programs across India, including in Telangana and Andhra Pradesh. What is a common way for individuals to pledge organ donation in India?",
+    "options": ["Only through a will", "By registering with a government body or hospital", "Only after death by family consent", "By purchasing an organ donation card from a private entity"],
+    "correctAnswer": "By registering with a government body or hospital"
   },
   {
     "id": 25,
-    "question": "Given the focus on Yoga and spiritual narratives, which state government initiative in Telangana promotes traditional Yoga practices and holistic wellness among its citizens?",
-    "options": [
-      "Telangana Arogya Prasarana",
-      "Yoga Sadhana Abhiyan",
-      "Telangana Ayurveda, Yoga & Naturopathy (AYUSH) Department",
-      "Health & Harmony Mission"
-    ],
-    "correctAnswer": "Telangana Ayurveda, Yoga & Naturopathy (AYUSH) Department"
+    "question": "Given the national health advisories issued by bodies like the ICMR, how do states like Telangana and Andhra Pradesh typically integrate these recommendations into their local public health strategies?",
+    "options": ["They are legally binding and directly implemented without local adaptation", "States often disregard national advisories due to differing local needs", "National advisories serve as guidelines that states adapt and implement based on their specific contexts", "Only Union Territories follow national health advisories"],
+    "correctAnswer": "National advisories serve as guidelines that states adapt and implement based on their specific contexts"
   }
 ]

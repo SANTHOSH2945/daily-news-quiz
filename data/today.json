@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary regulatory body in India responsible for ensuring food safety standards?",
-    "options": ["FSSAI", "ICMR", "Ministry of Agriculture", "Bureau of Indian Standards"],
-    "correctAnswer": "FSSAI"
+    "question": "What did Union Minister Nitin Gadkari clarify recently regarding his political future?",
+    "options": ["Quitting politics", "Not quitting politics", "Joining a new political party", "Retiring from public life"],
+    "correctAnswer": "Not quitting politics"
   },
   {
     "id": 2,
-    "question": "The Food Safety and Standards Authority of India (FSSAI) recently flagged food firms for what specific types of claims?",
-    "options": ["Misleading health and immunity claims", "Underpricing essential commodities", "Poor hygiene in packaging", "Illegal import of food products"],
-    "correctAnswer": "Misleading health and immunity claims"
+    "question": "Nitin Gadkari, who recently clarified his political intentions, primarily holds which key Union Ministry portfolio, vital for national infrastructure development including in states like Telangana and Andhra Pradesh?",
+    "options": ["Finance", "Defence", "Road Transport & Highways", "Home Affairs"],
+    "correctAnswer": "Road Transport & Highways"
   },
   {
     "id": 3,
-    "question": "Under which Union Ministry does the Food Safety and Standards Authority of India (FSSAI) primarily operate?",
-    "options": ["Ministry of Health and Family Welfare", "Ministry of Consumer Affairs, Food and Public Distribution", "Ministry of Commerce and Industry", "Ministry of Agriculture and Farmers Welfare"],
-    "correctAnswer": "Ministry of Health and Family Welfare"
+    "question": "During a recent 'Pragati' meeting, what concern did the Prime Minister raise with top bureaucrats regarding public projects?",
+    "options": ["Lack of funding", "Delays in land acquisition", "Quality of execution", "Insufficient project proposals"],
+    "correctAnswer": "Quality of execution"
   },
   {
     "id": 4,
-    "question": "What does FSSAI stand for?",
-    "options": ["Food Safety and Standards Authority of India", "Federal System for Safe Alimentation in India", "Food Security and Supply Association of India", "Food Standards and Sanitation Authority of India"],
-    "correctAnswer": "Food Safety and Standards Authority of India"
+    "question": "The Prime Minister reviewed infrastructure projects spanning across how many states during the recent Pragati meeting, a review relevant to development across India including Telangana and Andhra Pradesh?",
+    "options": ["Five", "Seven", "Nine", "Twelve"],
+    "correctAnswer": "Nine"
   },
   {
     "id": 5,
-    "question": "Which national body in India provides expert guidance and monitoring for public health issues such as H1N1 outbreaks?",
-    "options": ["Indian Council of Medical Research (ICMR)", "National Centre for Disease Control (NCDC)", "All India Institute of Medical Sciences (AIIMS)", "Food Safety and Standards Authority of India (FSSAI)"],
-    "correctAnswer": "Indian Council of Medical Research (ICMR)"
+    "question": "What was the cumulative cost of the six infrastructure projects reviewed by the Prime Minister in the recent Pragati meeting?",
+    "options": ["Over Rs 10,000 crore", "Over Rs 20,000 crore", "Over Rs 30,000 crore", "Over Rs 40,000 crore"],
+    "correctAnswer": "Over Rs 30,000 crore"
   },
   {
     "id": 6,
-    "question": "H1N1 is commonly referred to by what name?",
-    "options": ["Swine Flu", "Bird Flu", "Dengue Fever", "Zika Virus"],
-    "correctAnswer": "Swine Flu"
+    "question": "The infrastructure projects reviewed by the Prime Minister in the Pragati meeting included which key sectors, essential for growth in states like Telangana and Andhra Pradesh?",
+    "options": ["Agriculture, Education", "Healthcare, Tourism", "Railway, Road and Power", "Telecommunications, Space"],
+    "correctAnswer": "Railway, Road and Power"
   },
   {
     "id": 7,
-    "question": "What does the acronym ICMR stand for in the context of Indian health research?",
-    "options": ["Indian Council of Medical Research", "International Council of Medical Regulations", "Institute for Clinical Medical Research", "India's Central Medical Registry"],
-    "correctAnswer": "Indian Council of Medical Research"
+    "question": "What did the Prime Minister emphasize regarding the monitoring of infrastructure projects during the Pragati meeting?",
+    "options": ["They should be monitored by international agencies", "They should be viewed as isolated sections", "They should be monitored by the private sector", "They should be viewed and monitored as an integrated whole"],
+    "correctAnswer": "They should be viewed and monitored as an integrated whole"
   },
   {
     "id": 8,
-    "question": "According to the ICMR Director General, what is the current assessment regarding the rising H1N1 cases in India?",
-    "options": ["Cases are rising, but there is no cause for panic.", "Cases are at an alarming level, requiring immediate mass vaccination.", "The situation is under complete control with declining cases.", "There is a new, more virulent strain causing concern."],
-    "correctAnswer": "Cases are rising, but there is no cause for panic."
+    "question": "What is the name of the monthly meeting chaired by the Prime Minister where he reviews public projects and interacts with top bureaucrats?",
+    "options": ["Samiksha", "Darshan", "Pragati", "Unnati"],
+    "correctAnswer": "Pragati"
   },
   {
     "id": 9,
-    "question": "Who is India's current National Security Adviser (NSA) who recently held border talks with China?",
-    "options": ["Ajit Doval", "S. Jaishankar", "Rajnath Singh", "Amit Shah"],
-    "correctAnswer": "Ajit Doval"
+    "question": "The Prime Minister questioned the need for a '4th-party audit' during the Pragati meeting in the context of what specific issue concerning public projects?",
+    "options": ["Financial allocations", "Project design", "Quality of public projects", "Environmental clearances"],
+    "correctAnswer": "Quality of public projects"
   },
   {
     "id": 10,
-    "question": "With which country did India recently conduct its 25th round of border talks, as mentioned in recent news?",
-    "options": ["China", "Pakistan", "Nepal", "Bangladesh"],
-    "correctAnswer": "China"
+    "question": "The PM's review of infrastructure projects, including road, railway, and power, directly relates to development efforts in which region of India, including key states like Telangana and Andhra Pradesh?",
+    "options": ["Only North-East India", "Only Central India", "Only Coastal regions", "Across all states including Telangana and Andhra Pradesh"],
+    "correctAnswer": "Across all states including Telangana and Andhra Pradesh"
   },
   {
     "id": 11,
-    "question": "A key focus of the recent discussions between NSA Ajit Doval and Chinese Vice President Han Zheng was centered on what?",
-    "options": ["Resolving boundary issues and enhancing economic ties", "Discussing trade tariffs and intellectual property rights", "Collaborating on space exploration projects", "Joint military exercises in the Indian Ocean"],
-    "correctAnswer": "Resolving boundary issues and enhancing economic ties"
+    "question": "Ensuring quality in public projects, as emphasized by the PM, is crucial for improving infrastructure in states like Telangana and Andhra Pradesh. Which sector was *not* mentioned in the news as part of the reviewed projects?",
+    "options": ["Railway", "Road", "Power", "Telecommunications"],
+    "correctAnswer": "Telecommunications"
   },
   {
     "id": 12,
-    "question": "Where did the recent high-level India-China border talks, involving India's NSA, reportedly take place?",
-    "options": ["Beijing", "New Delhi", "Shanghai", "Mumbai"],
-    "correctAnswer": "Beijing"
+    "question": "The Prime Minister's concerns about the quality of public projects are particularly relevant for new development initiatives, such as those in the rapidly growing urban centers of states like Telangana. What did he label as 'unacceptable'?",
+    "options": ["Bureaucratic delays", "Compromised project quality", "Lack of private investment", "Political interference"],
+    "correctAnswer": "Compromised project quality"
   },
   {
     "id": 13,
-    "question": "Which two major political parties were reportedly involved in a recent ruckus at a House panel meeting over student protests?",
-    "options": ["BJP and Congress", "AAP and Congress", "BJP and Trinamool Congress", "Congress and BRS"],
-    "correctAnswer": "BJP and Congress"
+    "question": "Union Home Minister Amit Shah has announced a strategic vision to rid India of illegal immigration by when?",
+    "options": ["2030", "2035", "2047", "2050"],
+    "correctAnswer": "2047"
   },
   {
     "id": 14,
-    "question": "The parliamentary ruckus mentioned in the news concerned allegations of the use of force on which group during a July 20 protest?",
-    "options": ["Students", "Farmers", "Daily wage laborers", "Doctors"],
-    "correctAnswer": "Students"
+    "question": "What metaphor did Amit Shah use to state that India is not open to illegal immigration, emphasizing a national policy relevant to all states?",
+    "options": ["'Not a playground'", "'Not an open house'", "'Not a dharamshala'", "'Not a free market'"],
+    "correctAnswer": "'Not a dharamshala'"
   },
   {
     "id": 15,
-    "question": "Chinese President Xi Jinping is reportedly expected to visit India for which major international summit?",
-    "options": ["BRICS summit", "G20 Summit", "SCO Summit", "ASEAN Summit"],
-    "correctAnswer": "BRICS summit"
+    "question": "What is the four-pronged strategy mentioned by Amit Shah to bolster security against illegal immigration, involving cooperation from state administrations like those in Telangana and Andhra Pradesh?",
+    "options": ["Economic sanctions", "Diplomatic negotiations", "Collaboration with border states", "Enhanced border fencing"],
+    "correctAnswer": "Collaboration with border states"
   },
   {
     "id": 16,
-    "question": "Which prominent Indian political leaders recently urged Prime Minister Modi to withdraw the existing caste census questionnaire?",
-    "options": ["Mallikarjun Kharge and Rahul Gandhi", "Amit Shah and J.P. Nadda", "Arvind Kejriwal and Manish Sisodia", "K. Chandrashekar Rao and Y. S. Jagan Mohan Reddy"],
-    "correctAnswer": "Mallikarjun Kharge and Rahul Gandhi"
+    "question": "Which entities are part of the four-pronged strategy to tackle illegal immigration, as mentioned by Amit Shah, applicable to state administrations across India?",
+    "options": ["International organizations, UN peacekeepers", "Border forces, state administrations, central agencies, and local communities", "Private security firms", "Foreign embassies and NGOs"],
+    "correctAnswer": "Border forces, state administrations, central agencies, and local communities"
   },
   {
     "id": 17,
-    "question": "What key domestic issue was recently advocated by Congress leaders concerning the national census?",
-    "options": ["Withdrawal of the existing caste census questionnaire", "Inclusion of a separate religion column", "Prohibition of all census activities for five years", "Adoption of digital-only census methods"],
-    "correctAnswer": "Withdrawal of the existing caste census questionnaire"
+    "question": "Besides illegal immigration, Amit Shah also highlighted a commitment to tackle which other major issues, relevant to security across all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["Climate change and poverty", "Terrorism and drug issues", "Healthcare and education", "Unemployment and inflation"],
+    "correctAnswer": "Terrorism and drug issues"
   },
   {
     "id": 18,
-    "question": "BRICS is an acronym for an association of major emerging economies. Which of the following countries is NOT a core member of BRICS?",
-    "options": ["Canada", "Brazil", "India", "China"],
-    "correctAnswer": "Canada"
+    "question": "What type of fuel did Arvind Kejriwal claim is hazardous for vehicles manufactured before 2023, an issue affecting vehicle owners in states like Telangana and Andhra Pradesh?",
+    "options": ["E5 fuel", "E10 fuel", "E20 fuel", "E85 fuel"],
+    "correctAnswer": "E20 fuel"
   },
   {
     "id": 19,
-    "question": "What is often cited as the primary purpose behind advocating for a caste census in India by certain political parties?",
-    "options": ["To gather comprehensive data on the social and economic conditions of different caste groups.", "To simplify tax collection based on caste.", "To determine voting eligibility criteria.", "To identify suitable candidates for government jobs based on caste."],
-    "correctAnswer": "To gather comprehensive data on the social and economic conditions of different caste groups."
+    "question": "What percentage of ethanol does E20 fuel contain, making it a topic of discussion regarding its compatibility with older vehicles?",
+    "options": ["5%", "10%", "20%", "85%"],
+    "correctAnswer": "20%"
   },
   {
     "id": 20,
-    "question": "According to recent reports, India has witnessed a significant 'boom' in which medical procedure?",
-    "options": ["Organ transplants", "Cosmetic surgeries", "Ayurvedic treatments", "Dental implants"],
-    "correctAnswer": "Organ transplants"
+    "question": "According to Arvind Kejriwal, why are auto firms not publicly speaking about the hazards of E20 fuel for older vehicles?",
+    "options": ["Lack of conclusive evidence", "Fear of government pressure/raids", "To protect sales of new vehicles", "They don't believe the claims"],
+    "correctAnswer": "Fear of government pressure/raids"
   },
   {
     "id": 21,
-    "question": "What is identified as a significant challenge and struggle within India's booming organ transplant sector?",
-    "options": ["Uncertainty and struggle for recipients in accessing suitable organs.", "Lack of skilled surgeons for the procedures.", "Overabundance of organ donors leading to storage issues.", "High cost of post-transplant care being universally covered."],
-    "correctAnswer": "Uncertainty and struggle for recipients in accessing suitable organs."
+    "question": "The issue of E20 fuel and its potential impact on pre-2023 vehicles, as highlighted by Arvind Kejriwal, affects vehicle owners in which states?",
+    "options": ["Only Delhi and Goa", "Only northern states", "Only coastal states", "All states including Telangana and Andhra Pradesh"],
+    "correctAnswer": "All states including Telangana and Andhra Pradesh"
   },
   {
     "id": 22,
-    "question": "Which organization in India plays a crucial role in regulating and coordinating organ donation and transplantation activities nationally?",
-    "options": ["National Organ and Tissue Transplant Organization (NOTTO)", "Indian Medical Association (IMA)", "Ministry of Health Research (MHR)", "All India Council for Organ Donation (AICOD)"],
-    "correctAnswer": "National Organ and Tissue Transplant Organization (NOTTO)"
+    "question": "What is the primary concern raised by Arvind Kejriwal regarding E20 fuel's impact on vehicles?",
+    "options": ["Its high cost", "Its availability", "Its environmental impact", "Its potential to severely damage pre-2023 vehicles"],
+    "correctAnswer": "Its potential to severely damage pre-2023 vehicles"
   },
   {
     "id": 23,
-    "question": "What key ethical consideration is often associated with the growth in organ transplants in India?",
-    "options": ["Ensuring fair allocation of organs and preventing illegal trafficking.", "The right to refuse organ donation for religious reasons.", "Debates over the age limit for organ recipients.", "The financial burden on government hospitals for providing transplants."],
-    "correctAnswer": "Ensuring fair allocation of organs and preventing illegal trafficking."
+    "question": "For which specific year of vehicle manufacturing did Arvind Kejriwal claim E20 fuel is hazardous?",
+    "options": ["Vehicles manufactured before 2021", "Vehicles manufactured before 2022", "Vehicles manufactured before 2023", "Vehicles manufactured before 2024"],
+    "correctAnswer": "Vehicles manufactured before 2023"
   },
   {
     "id": 24,
-    "question": "Which Indian political party's recent decision to sing two stanzas of Vande Mataram sparked an intense backlash from the BJP?",
-    "options": ["Congress", "Aam Aadmi Party (AAP)", "Shiv Sena", "Dravida Munnetra Kazhagam (DMK)"],
-    "correctAnswer": "Congress"
+    "question": "The E20 fuel controversy, impacting vehicle maintenance and performance, is a nationwide issue relevant to consumers and auto service centers in states like Telangana and Andhra Pradesh. What does 'E' in E20 refer to?",
+    "options": ["Energy", "Ethanol", "Emission", "Electric"],
+    "correctAnswer": "Ethanol"
   },
   {
     "id": 25,
-    "question": "The BJP accused the Congress of what in the recent Vande Mataram rendition controversy?",
-    "options": ["Engaging in appeasement politics and being responsible for partition.", "Disrespecting national symbols and promoting anti-national sentiments.", "Misappropriating cultural heritage for political gain.", "Failing to acknowledge the song's historical significance."],
-    "correctAnswer": "Engaging in appeasement politics and being responsible for partition."
+    "question": "What type of event was Arvind Kejriwal addressing in Goa when he made claims about E20 fuel?",
+    "options": ["A press conference", "A town hall", "A public rally", "A public debate"],
+    "correctAnswer": "A press conference"
   }
 ]

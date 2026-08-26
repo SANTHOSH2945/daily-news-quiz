@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which political leader recently criticized the RSS and BJP for their alleged preference for Manusmriti over the Indian Constitution?",
-    "options": ["Asaduddin Owaisi", "Mohan Bhagwat", "VD Savarkar", "B.R. Ambedkar"],
+    "question": "Which prominent political leader from Telangana recently criticized the Allahabad High Court's ruling regarding the wearing of a hijab?",
+    "options": [
+      "K. Chandrashekar Rao",
+      "Asaduddin Owaisi",
+      "N. Chandrababu Naidu",
+      "Revanth Reddy"
+    ],
     "correctAnswer": "Asaduddin Owaisi"
   },
   {
     "id": 2,
-    "question": "What ancient text did Asaduddin Owaisi accuse the RSS and BJP of preferring over the Indian Constitution?",
-    "options": ["Vedas", "Upanishads", "Manusmriti", "Bhagavad Gita"],
-    "correctAnswer": "Manusmriti"
-  },
-  {
-    "id": 3,
-    "question": "In what year was the Indian Constitution, as emphasized by Owaisi, adopted?",
-    "options": ["1947", "1949", "1950", "1952"],
-    "correctAnswer": "1949"
-  },
-  {
-    "id": 4,
-    "question": "Which historical figure, a key architect of the Indian Constitution, was implicitly referenced by Owaisi in his criticism?",
-    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"],
-    "correctAnswer": "B.R. Ambedkar"
-  },
-  {
-    "id": 5,
-    "question": "Owaisi highlighted the contributions of which community's freedom fighters during the resistance against British colonialism?",
-    "options": ["Sikh", "Hindu", "Muslim", "Christian"],
-    "correctAnswer": "Muslim"
-  },
-  {
-    "id": 6,
-    "question": "Whose letters to the British while imprisoned were pointed out by Owaisi in his criticism?",
-    "options": ["Bhagat Singh", "Subhas Chandra Bose", "VD Savarkar", "Bal Gangadhar Tilak"],
-    "correctAnswer": "VD Savarkar"
-  },
-  {
-    "id": 7,
-    "question": "Asaduddin Owaisi is a prominent figure from which Indian political party, predominantly based in Telangana?",
-    "options": ["TRS (BRS)", "Congress", "AIMIM", "BJP"],
-    "correctAnswer": "AIMIM"
-  },
-  {
-    "id": 8,
-    "question": "The political discourse regarding Manusmriti's relevance and constitutional principles, as mentioned in the news, is described as becoming what?",
-    "options": ["Milder", "Less frequent", "More fervent", "Irrelevant"],
-    "correctAnswer": "More fervent"
-  },
-  {
-    "id": 9,
-    "question": "Which major political party, alongside RSS, was targeted by Owaisi regarding their allegiance to the Constitution?",
-    "options": ["Congress", "BSP", "BJP", "SP"],
-    "correctAnswer": "BJP"
-  },
-  {
-    "id": 10,
-    "question": "Owaisi's criticism primarily questions the RSS and BJP's true allegiance to which foundational document of India?",
-    "options": ["Government of India Act 1935", "Preamble to the Constitution", "Indian Constitution", "Fundamental Rights"],
-    "correctAnswer": "Indian Constitution"
-  },
-  {
-    "id": 11,
-    "question": "From which specific city, central to Telangana politics, does Asaduddin Owaisi hail?",
-    "options": ["Warangal", "Secunderabad", "Vijayawada", "Hyderabad"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 12,
-    "question": "The news about Owaisi's statements contributes significantly to the political narrative in which Indian state?",
-    "options": ["Uttar Pradesh", "Maharashtra", "Telangana", "Karnataka"],
+    "question": "Asaduddin Owaisi, a leader primarily based in which Indian state, recently commented on the Allahabad High Court's hijab ruling?",
+    "options": [
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Telangana",
+      "Kerala"
+    ],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 3,
+    "question": "What was the primary concern raised by Asaduddin Owaisi regarding the Allahabad High Court's decision on the hijab?",
+    "options": [
+      "It promotes religious harmony",
+      "It strengthens uniform policies",
+      "It is an attack on Islam and individual religious liberties",
+      "It simplifies dress codes in schools"
+    ],
+    "correctAnswer": "It is an attack on Islam and individual religious liberties"
+  },
+  {
+    "id": 4,
+    "question": "The Allahabad High Court recently dismissed a petition regarding the right to wear a hijab. This High Court is located in which Indian state?",
+    "options": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Bihar",
+      "Rajasthan"
+    ],
+    "correctAnswer": "Uttar Pradesh"
+  },
+  {
+    "id": 5,
+    "question": "What did the Allahabad High Court emphasize while dismissing the petition related to the right to wear a hijab?",
+    "options": [
+      "The importance of religious attire",
+      "The necessity of changing school dress policies",
+      "Students had followed uniform rules and no enforceable right is granted to change school dress policies",
+      "The right to individual religious expression above all"
+    ],
+    "correctAnswer": "Students had followed uniform rules and no enforceable right is granted to change school dress policies"
+  },
+  {
+    "id": 6,
+    "question": "How many Indian seafarers were recently repatriated from an Abu Dhabi tanker after being stranded for 11 months?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "correctAnswer": "7"
+  },
+  {
+    "id": 7,
+    "question": "From which location were 7 Indian seafarers recently repatriated after being stranded for 11 months?",
+    "options": [
+      "Dubai",
+      "Sharjah",
+      "Abu Dhabi",
+      "Qatar"
+    ],
+    "correctAnswer": "Abu Dhabi"
+  },
+  {
+    "id": 8,
+    "question": "What primary issue did the repatriated Indian seafarers face, besides being stranded for 11 months?",
+    "options": [
+      "Lack of food supplies",
+      "No wages for 5 months",
+      "Poor medical facilities",
+      "Language barriers"
+    ],
+    "correctAnswer": "No wages for 5 months"
+  },
+  {
+    "id": 9,
+    "question": "Which government body in India is typically responsible for assisting and repatriating stranded Indian citizens abroad, including seafarers?",
+    "options": [
+      "Ministry of Home Affairs",
+      "Ministry of Finance",
+      "Ministry of External Affairs",
+      "Ministry of Shipping"
+    ],
+    "correctAnswer": "Ministry of External Affairs"
+  },
+  {
+    "id": 10,
+    "question": "Which specific type of influenza saw a significant surge in cases in an Indian city recently, prompting health alerts and safety protocols?",
+    "options": [
+      "H5N1",
+      "H3N2",
+      "H1N1",
+      "Influenza B"
+    ],
+    "correctAnswer": "H1N1"
+  },
+  {
+    "id": 11,
+    "question": "As per recent news, what measure did a Delhi minister reassure the public about, regarding hospital preparedness for flu surges?",
+    "options": [
+      "Opening new super-specialty hospitals",
+      "Adequate medical staff, medications, and isolation facilities",
+      "Mandatory vaccinations for all citizens",
+      "Shutting down public transportation"
+    ],
+    "correctAnswer": "Adequate medical staff, medications, and isolation facilities"
+  },
+  {
+    "id": 12,
+    "question": "In response to a surge in H1N1 and flu cases in India, what general advice is typically given to the public to control the spread?",
+    "options": [
+      "Attend large gatherings without masks",
+      "Avoid hand washing",
+      "Practice respiratory hygiene and seek medical attention if symptoms worsen",
+      "Self-medicate without consulting a doctor"
+    ],
+    "correctAnswer": "Practice respiratory hygiene and seek medical attention if symptoms worsen"
+  },
+  {
     "id": 13,
-    "question": "Owaisi's statements reflect an ongoing debate in India concerning the conflict between modern constitutional values and which type of ancient legal text?",
-    "options": ["Dharma Shastras", "Artha Shastras", "Natya Shastras", "Kama Shastras"],
-    "correctAnswer": "Dharma Shastras"
+    "question": "What is the approximate number of H1N1 cases logged in Delhi recently amid a flu surge, as mentioned in the news?",
+    "options": [
+      "Under 1,000",
+      "Around 1,500",
+      "Over 2,000",
+      "Close to 5,000"
+    ],
+    "correctAnswer": "Over 2,000"
   },
   {
     "id": 14,
-    "question": "What is the full form of NMC, the body pushing for doctor re-registration in India?",
-    "options": ["National Medical Council", "New Medical Commission", "National Medical Commission", "National Medicos Committee"],
-    "correctAnswer": "National Medical Commission"
+    "question": "Who is responsible for seeking a response from 20 rebel TMC MPs on disqualification petitions, as per recent news?",
+    "options": [
+      "The Prime Minister",
+      "The Chief Justice of India",
+      "The Lok Sabha Speaker",
+      "The Election Commission of India"
+    ],
+    "correctAnswer": "The Lok Sabha Speaker"
   },
   {
     "id": 15,
-    "question": "The NMC is facing challenges in registering which specific group of medical professionals?",
-    "options": ["Retired doctors", "Foreign-trained doctors", "New MBBS graduates", "Specialist doctors"],
-    "correctAnswer": "New MBBS graduates"
+    "question": "What type of petitions were filed against the 20 rebel TMC MPs, leading the Lok Sabha Speaker to seek their response?",
+    "options": [
+      "Corruption charges",
+      "Disqualification petitions",
+      "Breach of privilege motions",
+      "Defamation suits"
+    ],
+    "correctAnswer": "Disqualification petitions"
   },
   {
     "id": 16,
-    "question": "Approximately how many MBBS seats were available across India in 2020-21 according to the report?",
-    "options": ["Over 70,000", "Over 80,000", "Over 91,000", "Over 100,000"],
-    "correctAnswer": "Over 91,000"
+    "question": "How many rebel TMC MPs were mentioned in the Lok Sabha Speaker's action regarding disqualification petitions?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "20"
   },
   {
     "id": 17,
-    "question": "Based on the news, around how many MBBS graduates were estimated to be missing from the Indian Medical Register from the previous year's batch?",
-    "options": ["At least 10,000", "At least 15,000", "At least 24,000", "At least 30,000"],
-    "correctAnswer": "At least 24,000"
+    "question": "Disqualification petitions against Members of Parliament in India are typically based on which schedule of the Constitution, often related to defection?",
+    "options": [
+      "Fifth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule",
+      "Twelfth Schedule"
+    ],
+    "correctAnswer": "Tenth Schedule"
   },
   {
     "id": 18,
-    "question": "What is the primary function of the Indian Medical Register mentioned in the news?",
-    "options": ["To track medical research", "To list medical colleges", "To register doctors for practice", "To regulate pharmaceutical companies"],
-    "correctAnswer": "To register doctors for practice"
+    "question": "Which former Chief of Defence Staff (CDS) recently revealed insights into India's operational targets during a past military action?",
+    "options": [
+      "General Bipin Rawat",
+      "General Manoj Pande",
+      "General Anil Chauhan",
+      "Air Chief Marshal V. R. Chaudhari"
+    ],
+    "correctAnswer": "General Anil Chauhan"
   },
   {
     "id": 19,
-    "question": "The discrepancy in doctor registration rates highlighted by the NMC implies a potential shortage of medical professionals entering which sector?",
-    "options": ["Medical research", "Public health system", "Medical education", "Pharmaceutical industry"],
-    "correctAnswer": "Public health system"
+    "question": "What type of munitions were discussed in relation to Operation Sindoor, deployed near Sargodha as revealed by the former CDS?",
+    "options": [
+      "Ballistic Missiles",
+      "Loitering Munitions",
+      "Cruise Missiles",
+      "Artillery Shells"
+    ],
+    "correctAnswer": "Loitering Munitions"
   },
   {
     "id": 20,
-    "question": "The Indian government is seeking two years to frame new criteria for the 'creamy layer' in which context?",
-    "options": ["Income tax exemptions", "Educational loans", "Reservations", "Property ownership"],
-    "correctAnswer": "Reservations"
+    "question": "Which hills were potentially struck by munitions after failing to locate their intended targets during a past Indian military operation?",
+    "options": [
+      "Himalayan Ranges",
+      "Aravalli Hills",
+      "Kirana Hills",
+      "Western Ghats"
+    ],
+    "correctAnswer": "Kirana Hills"
   },
   {
     "id": 21,
-    "question": "The new creamy layer criteria are being framed for the children of employees from which two sectors?",
-    "options": ["Government and private", "PSU and private", "Public and cooperative", "State and central"],
-    "correctAnswer": "PSU and private"
+    "question": "An Ex-Navy officer backed the former CDS's remarks, stating that operations had gone towards which specific area?",
+    "options": [
+      "Kashmir Valley",
+      "Thar Desert",
+      "Sargodha",
+      "Siachen Glacier"
+    ],
+    "correctAnswer": "Sargodha"
   },
   {
     "id": 22,
-    "question": "Which apex judicial body's observations is the government trying to address with the new creamy layer policy?",
-    "options": ["High Courts", "Supreme Court", "National Green Tribunal", "Central Administrative Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "Which international body did India urge to safeguard key maritime routes, emphasizing their indispensability?",
+    "options": [
+      "World Trade Organization (WTO)",
+      "International Maritime Organization (IMO)",
+      "United Nations (UN)",
+      "ASEAN"
+    ],
+    "correctAnswer": "United Nations (UN)"
   },
   {
     "id": 23,
-    "question": "The government's application states a commitment to bring out a policy that is what?",
-    "options": ["Rapid and temporary", "Fair and just", "Restrictive and exclusive", "Economic and political"],
-    "correctAnswer": "Fair and just"
+    "question": "What was India's primary call regarding sea lanes, stating they are essential for uninterrupted global commodity movement?",
+    "options": [
+      "To privatize all sea lanes",
+      "To restrict access to sea lanes",
+      "To ensure secure and predictable sea lanes",
+      "To increase tariffs on maritime trade"
+    ],
+    "correctAnswer": "To ensure secure and predictable sea lanes"
   },
   {
     "id": 24,
-    "question": "What does the term 'creamy layer' generally denote within the context of affirmative action policies in India?",
-    "options": ["The most economically backward", "The most meritorious", "The relatively affluent among the backward classes", "Those without any reservations"],
-    "correctAnswer": "The relatively affluent among the backward classes"
+    "question": "According to India's statement at the UN, what are crucial for uninterrupted movement of vital commodities globally?",
+    "options": [
+      "Air cargo facilities",
+      "Secure and predictable sea lanes",
+      "High-speed rail networks",
+      "Satellite communication"
+    ],
+    "correctAnswer": "Secure and predictable sea lanes"
   },
   {
     "id": 25,
-    "question": "The Rashtriya Swayamsevak Sangh (RSS), which Asaduddin Owaisi criticized, is broadly known as what kind of organization in India?",
-    "options": ["A trade union", "A socio-cultural nationalist organization", "A business conglomerate", "A charitable foundation"],
-    "correctAnswer": "A socio-cultural nationalist organization"
+    "question": "India stressed the need for which two key aspects regarding humanitarian access and global supply chains?",
+    "options": [
+      "Increased military presence and trade barriers",
+      "Unimpeded humanitarian access and objective supply chain assessments",
+      "New international laws and naval blockades",
+      "Regional trade agreements and restricted aid"
+    ],
+    "correctAnswer": "Unimpeded humanitarian access and objective supply chain assessments"
   }
 ]

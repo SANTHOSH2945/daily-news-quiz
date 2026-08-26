@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What did Union Minister Nitin Gadkari clarify recently regarding his political future?",
-    "options": ["Quitting politics", "Not quitting politics", "Joining a new political party", "Retiring from public life"],
-    "correctAnswer": "Not quitting politics"
+    "question": "Which political leader recently criticized the RSS and BJP for their alleged preference for Manusmriti over the Indian Constitution?",
+    "options": ["Asaduddin Owaisi", "Mohan Bhagwat", "VD Savarkar", "B.R. Ambedkar"],
+    "correctAnswer": "Asaduddin Owaisi"
   },
   {
     "id": 2,
-    "question": "Nitin Gadkari, who recently clarified his political intentions, primarily holds which key Union Ministry portfolio, vital for national infrastructure development including in states like Telangana and Andhra Pradesh?",
-    "options": ["Finance", "Defence", "Road Transport & Highways", "Home Affairs"],
-    "correctAnswer": "Road Transport & Highways"
+    "question": "What ancient text did Asaduddin Owaisi accuse the RSS and BJP of preferring over the Indian Constitution?",
+    "options": ["Vedas", "Upanishads", "Manusmriti", "Bhagavad Gita"],
+    "correctAnswer": "Manusmriti"
   },
   {
     "id": 3,
-    "question": "During a recent 'Pragati' meeting, what concern did the Prime Minister raise with top bureaucrats regarding public projects?",
-    "options": ["Lack of funding", "Delays in land acquisition", "Quality of execution", "Insufficient project proposals"],
-    "correctAnswer": "Quality of execution"
+    "question": "In what year was the Indian Constitution, as emphasized by Owaisi, adopted?",
+    "options": ["1947", "1949", "1950", "1952"],
+    "correctAnswer": "1949"
   },
   {
     "id": 4,
-    "question": "The Prime Minister reviewed infrastructure projects spanning across how many states during the recent Pragati meeting, a review relevant to development across India including Telangana and Andhra Pradesh?",
-    "options": ["Five", "Seven", "Nine", "Twelve"],
-    "correctAnswer": "Nine"
+    "question": "Which historical figure, a key architect of the Indian Constitution, was implicitly referenced by Owaisi in his criticism?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"],
+    "correctAnswer": "B.R. Ambedkar"
   },
   {
     "id": 5,
-    "question": "What was the cumulative cost of the six infrastructure projects reviewed by the Prime Minister in the recent Pragati meeting?",
-    "options": ["Over Rs 10,000 crore", "Over Rs 20,000 crore", "Over Rs 30,000 crore", "Over Rs 40,000 crore"],
-    "correctAnswer": "Over Rs 30,000 crore"
+    "question": "Owaisi highlighted the contributions of which community's freedom fighters during the resistance against British colonialism?",
+    "options": ["Sikh", "Hindu", "Muslim", "Christian"],
+    "correctAnswer": "Muslim"
   },
   {
     "id": 6,
-    "question": "The infrastructure projects reviewed by the Prime Minister in the Pragati meeting included which key sectors, essential for growth in states like Telangana and Andhra Pradesh?",
-    "options": ["Agriculture, Education", "Healthcare, Tourism", "Railway, Road and Power", "Telecommunications, Space"],
-    "correctAnswer": "Railway, Road and Power"
+    "question": "Whose letters to the British while imprisoned were pointed out by Owaisi in his criticism?",
+    "options": ["Bhagat Singh", "Subhas Chandra Bose", "VD Savarkar", "Bal Gangadhar Tilak"],
+    "correctAnswer": "VD Savarkar"
   },
   {
     "id": 7,
-    "question": "What did the Prime Minister emphasize regarding the monitoring of infrastructure projects during the Pragati meeting?",
-    "options": ["They should be monitored by international agencies", "They should be viewed as isolated sections", "They should be monitored by the private sector", "They should be viewed and monitored as an integrated whole"],
-    "correctAnswer": "They should be viewed and monitored as an integrated whole"
+    "question": "Asaduddin Owaisi is a prominent figure from which Indian political party, predominantly based in Telangana?",
+    "options": ["TRS (BRS)", "Congress", "AIMIM", "BJP"],
+    "correctAnswer": "AIMIM"
   },
   {
     "id": 8,
-    "question": "What is the name of the monthly meeting chaired by the Prime Minister where he reviews public projects and interacts with top bureaucrats?",
-    "options": ["Samiksha", "Darshan", "Pragati", "Unnati"],
-    "correctAnswer": "Pragati"
+    "question": "The political discourse regarding Manusmriti's relevance and constitutional principles, as mentioned in the news, is described as becoming what?",
+    "options": ["Milder", "Less frequent", "More fervent", "Irrelevant"],
+    "correctAnswer": "More fervent"
   },
   {
     "id": 9,
-    "question": "The Prime Minister questioned the need for a '4th-party audit' during the Pragati meeting in the context of what specific issue concerning public projects?",
-    "options": ["Financial allocations", "Project design", "Quality of public projects", "Environmental clearances"],
-    "correctAnswer": "Quality of public projects"
+    "question": "Which major political party, alongside RSS, was targeted by Owaisi regarding their allegiance to the Constitution?",
+    "options": ["Congress", "BSP", "BJP", "SP"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 10,
-    "question": "The PM's review of infrastructure projects, including road, railway, and power, directly relates to development efforts in which region of India, including key states like Telangana and Andhra Pradesh?",
-    "options": ["Only North-East India", "Only Central India", "Only Coastal regions", "Across all states including Telangana and Andhra Pradesh"],
-    "correctAnswer": "Across all states including Telangana and Andhra Pradesh"
+    "question": "Owaisi's criticism primarily questions the RSS and BJP's true allegiance to which foundational document of India?",
+    "options": ["Government of India Act 1935", "Preamble to the Constitution", "Indian Constitution", "Fundamental Rights"],
+    "correctAnswer": "Indian Constitution"
   },
   {
     "id": 11,
-    "question": "Ensuring quality in public projects, as emphasized by the PM, is crucial for improving infrastructure in states like Telangana and Andhra Pradesh. Which sector was *not* mentioned in the news as part of the reviewed projects?",
-    "options": ["Railway", "Road", "Power", "Telecommunications"],
-    "correctAnswer": "Telecommunications"
+    "question": "From which specific city, central to Telangana politics, does Asaduddin Owaisi hail?",
+    "options": ["Warangal", "Secunderabad", "Vijayawada", "Hyderabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 12,
-    "question": "The Prime Minister's concerns about the quality of public projects are particularly relevant for new development initiatives, such as those in the rapidly growing urban centers of states like Telangana. What did he label as 'unacceptable'?",
-    "options": ["Bureaucratic delays", "Compromised project quality", "Lack of private investment", "Political interference"],
-    "correctAnswer": "Compromised project quality"
+    "question": "The news about Owaisi's statements contributes significantly to the political narrative in which Indian state?",
+    "options": ["Uttar Pradesh", "Maharashtra", "Telangana", "Karnataka"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 13,
-    "question": "Union Home Minister Amit Shah has announced a strategic vision to rid India of illegal immigration by when?",
-    "options": ["2030", "2035", "2047", "2050"],
-    "correctAnswer": "2047"
+    "question": "Owaisi's statements reflect an ongoing debate in India concerning the conflict between modern constitutional values and which type of ancient legal text?",
+    "options": ["Dharma Shastras", "Artha Shastras", "Natya Shastras", "Kama Shastras"],
+    "correctAnswer": "Dharma Shastras"
   },
   {
     "id": 14,
-    "question": "What metaphor did Amit Shah use to state that India is not open to illegal immigration, emphasizing a national policy relevant to all states?",
-    "options": ["'Not a playground'", "'Not an open house'", "'Not a dharamshala'", "'Not a free market'"],
-    "correctAnswer": "'Not a dharamshala'"
+    "question": "What is the full form of NMC, the body pushing for doctor re-registration in India?",
+    "options": ["National Medical Council", "New Medical Commission", "National Medical Commission", "National Medicos Committee"],
+    "correctAnswer": "National Medical Commission"
   },
   {
     "id": 15,
-    "question": "What is the four-pronged strategy mentioned by Amit Shah to bolster security against illegal immigration, involving cooperation from state administrations like those in Telangana and Andhra Pradesh?",
-    "options": ["Economic sanctions", "Diplomatic negotiations", "Collaboration with border states", "Enhanced border fencing"],
-    "correctAnswer": "Collaboration with border states"
+    "question": "The NMC is facing challenges in registering which specific group of medical professionals?",
+    "options": ["Retired doctors", "Foreign-trained doctors", "New MBBS graduates", "Specialist doctors"],
+    "correctAnswer": "New MBBS graduates"
   },
   {
     "id": 16,
-    "question": "Which entities are part of the four-pronged strategy to tackle illegal immigration, as mentioned by Amit Shah, applicable to state administrations across India?",
-    "options": ["International organizations, UN peacekeepers", "Border forces, state administrations, central agencies, and local communities", "Private security firms", "Foreign embassies and NGOs"],
-    "correctAnswer": "Border forces, state administrations, central agencies, and local communities"
+    "question": "Approximately how many MBBS seats were available across India in 2020-21 according to the report?",
+    "options": ["Over 70,000", "Over 80,000", "Over 91,000", "Over 100,000"],
+    "correctAnswer": "Over 91,000"
   },
   {
     "id": 17,
-    "question": "Besides illegal immigration, Amit Shah also highlighted a commitment to tackle which other major issues, relevant to security across all Indian states including Telangana and Andhra Pradesh?",
-    "options": ["Climate change and poverty", "Terrorism and drug issues", "Healthcare and education", "Unemployment and inflation"],
-    "correctAnswer": "Terrorism and drug issues"
+    "question": "Based on the news, around how many MBBS graduates were estimated to be missing from the Indian Medical Register from the previous year's batch?",
+    "options": ["At least 10,000", "At least 15,000", "At least 24,000", "At least 30,000"],
+    "correctAnswer": "At least 24,000"
   },
   {
     "id": 18,
-    "question": "What type of fuel did Arvind Kejriwal claim is hazardous for vehicles manufactured before 2023, an issue affecting vehicle owners in states like Telangana and Andhra Pradesh?",
-    "options": ["E5 fuel", "E10 fuel", "E20 fuel", "E85 fuel"],
-    "correctAnswer": "E20 fuel"
+    "question": "What is the primary function of the Indian Medical Register mentioned in the news?",
+    "options": ["To track medical research", "To list medical colleges", "To register doctors for practice", "To regulate pharmaceutical companies"],
+    "correctAnswer": "To register doctors for practice"
   },
   {
     "id": 19,
-    "question": "What percentage of ethanol does E20 fuel contain, making it a topic of discussion regarding its compatibility with older vehicles?",
-    "options": ["5%", "10%", "20%", "85%"],
-    "correctAnswer": "20%"
+    "question": "The discrepancy in doctor registration rates highlighted by the NMC implies a potential shortage of medical professionals entering which sector?",
+    "options": ["Medical research", "Public health system", "Medical education", "Pharmaceutical industry"],
+    "correctAnswer": "Public health system"
   },
   {
     "id": 20,
-    "question": "According to Arvind Kejriwal, why are auto firms not publicly speaking about the hazards of E20 fuel for older vehicles?",
-    "options": ["Lack of conclusive evidence", "Fear of government pressure/raids", "To protect sales of new vehicles", "They don't believe the claims"],
-    "correctAnswer": "Fear of government pressure/raids"
+    "question": "The Indian government is seeking two years to frame new criteria for the 'creamy layer' in which context?",
+    "options": ["Income tax exemptions", "Educational loans", "Reservations", "Property ownership"],
+    "correctAnswer": "Reservations"
   },
   {
     "id": 21,
-    "question": "The issue of E20 fuel and its potential impact on pre-2023 vehicles, as highlighted by Arvind Kejriwal, affects vehicle owners in which states?",
-    "options": ["Only Delhi and Goa", "Only northern states", "Only coastal states", "All states including Telangana and Andhra Pradesh"],
-    "correctAnswer": "All states including Telangana and Andhra Pradesh"
+    "question": "The new creamy layer criteria are being framed for the children of employees from which two sectors?",
+    "options": ["Government and private", "PSU and private", "Public and cooperative", "State and central"],
+    "correctAnswer": "PSU and private"
   },
   {
     "id": 22,
-    "question": "What is the primary concern raised by Arvind Kejriwal regarding E20 fuel's impact on vehicles?",
-    "options": ["Its high cost", "Its availability", "Its environmental impact", "Its potential to severely damage pre-2023 vehicles"],
-    "correctAnswer": "Its potential to severely damage pre-2023 vehicles"
+    "question": "Which apex judicial body's observations is the government trying to address with the new creamy layer policy?",
+    "options": ["High Courts", "Supreme Court", "National Green Tribunal", "Central Administrative Tribunal"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 23,
-    "question": "For which specific year of vehicle manufacturing did Arvind Kejriwal claim E20 fuel is hazardous?",
-    "options": ["Vehicles manufactured before 2021", "Vehicles manufactured before 2022", "Vehicles manufactured before 2023", "Vehicles manufactured before 2024"],
-    "correctAnswer": "Vehicles manufactured before 2023"
+    "question": "The government's application states a commitment to bring out a policy that is what?",
+    "options": ["Rapid and temporary", "Fair and just", "Restrictive and exclusive", "Economic and political"],
+    "correctAnswer": "Fair and just"
   },
   {
     "id": 24,
-    "question": "The E20 fuel controversy, impacting vehicle maintenance and performance, is a nationwide issue relevant to consumers and auto service centers in states like Telangana and Andhra Pradesh. What does 'E' in E20 refer to?",
-    "options": ["Energy", "Ethanol", "Emission", "Electric"],
-    "correctAnswer": "Ethanol"
+    "question": "What does the term 'creamy layer' generally denote within the context of affirmative action policies in India?",
+    "options": ["The most economically backward", "The most meritorious", "The relatively affluent among the backward classes", "Those without any reservations"],
+    "correctAnswer": "The relatively affluent among the backward classes"
   },
   {
     "id": 25,
-    "question": "What type of event was Arvind Kejriwal addressing in Goa when he made claims about E20 fuel?",
-    "options": ["A press conference", "A town hall", "A public rally", "A public debate"],
-    "correctAnswer": "A press conference"
+    "question": "The Rashtriya Swayamsevak Sangh (RSS), which Asaduddin Owaisi criticized, is broadly known as what kind of organization in India?",
+    "options": ["A trade union", "A socio-cultural nationalist organization", "A business conglomerate", "A charitable foundation"],
+    "correctAnswer": "A socio-cultural nationalist organization"
   }
 ]

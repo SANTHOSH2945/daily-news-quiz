@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Inspired by state leadership participating in cultural events, which major religious festival is primarily celebrated with immense fervor in Telangana, often with government support?",
-    "options": [
-      "Puskharams",
-      "Bonalu",
-      "Ugadi",
-      "Kumbh Mela"
-    ],
-    "correctAnswer": "Bonalu"
+    "question": "What new primary setting for vehicle headlamps has the Centre proposed to mandate across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["High beam by default", "Low beam by default", "Automatic high/low beam switching", "Headlamps off during daytime"],
+    "correctAnswer": "Low beam by default"
   },
   {
     "id": 2,
-    "question": "Which of the following historical sites in Andhra Pradesh has seen significant state government efforts for conservation and promotion, similar to how other states preserve their cultural heritage?",
-    "options": [
-      "Charminar",
-      "Golconda Fort",
-      "Amaravati Stupa",
-      "Qutb Shahi Tombs"
-    ],
-    "correctAnswer": "Amaravati Stupa"
+    "question": "Which Union Ministry is responsible for proposing amendments to the Central Motor Vehicles Rules regarding headlamp norms and reflective tapes for improved road safety in India, impacting states like Telangana and Andhra Pradesh?",
+    "options": ["Ministry of Home Affairs", "Ministry of Road Transport and Highways", "Ministry of Power", "Ministry of Urban Development"],
+    "correctAnswer": "Ministry of Road Transport and Highways"
   },
   {
     "id": 3,
-    "question": "Following the trend of states launching welfare schemes for specific demographics, which initiative in Telangana offers free travel for women in state-run buses?",
-    "options": [
-      "Arogya Mahila",
-      "Mahalakshmi Scheme",
-      "Kalyana Lakshmi",
-      "Rythu Bandhu"
-    ],
-    "correctAnswer": "Mahalakshmi Scheme"
+    "question": "Besides headlamp norm changes, what other safety measure is proposed for buses and other heavy vehicles to improve visibility at night and in bad weather, applicable nationwide?",
+    "options": ["Mandatory speed limiters", "Use of genuine reflective tapes", "Installation of rear-view cameras", "GPS tracking devices"],
+    "correctAnswer": "Use of genuine reflective tapes"
   },
   {
     "id": 4,
-    "question": "What is a prominent welfare scheme in Andhra Pradesh aimed at providing financial assistance to eligible women beneficiaries, reflecting a focus on women's economic empowerment?",
-    "options": [
-      "Amma Vodi",
-      "YSR Rythu Bharosa",
-      "Jagananna Vidya Deevena",
-      "YSR Kapu Nestham"
-    ],
-    "correctAnswer": "Amma Vodi"
+    "question": "According to the news, what was the primary reason for proposing these amendments to automotive vehicle standards regarding headlamp usage, affecting drivers in states like Telangana and Andhra Pradesh?",
+    "options": ["Increase vehicle manufacturing costs", "Reduce traffic police workload", "Lack of desired results from driver awareness efforts", "To align with international vehicle standards"],
+    "correctAnswer": "Lack of desired results from driver awareness efforts"
   },
   {
     "id": 5,
-    "question": "In line with national policies promoting social security, which scheme in Telangana provides a pension for senior citizens and other vulnerable groups?",
-    "options": [
-      "Aasara Pensions",
-      "Telangana Kanti Velugu",
-      "Mission Kakatiya",
-      "Haritha Haram"
-    ],
-    "correctAnswer": "Aasara Pensions"
+    "question": "The proposed tightening of headlamp norms and mandatory reflective tapes are primarily aimed at achieving what specific goal for road transport across India?",
+    "options": ["Reducing fuel consumption", "Improving vehicle aesthetics", "Enhancing night-time and bad weather visibility", "Standardizing vehicle inspections"],
+    "correctAnswer": "Enhancing night-time and bad weather visibility"
   },
   {
     "id": 6,
-    "question": "Similar to how community votes influence elections in other regions, which major social group is considered a significant vote bank in both Telangana and Andhra Pradesh politics, often dictating electoral strategies?",
-    "options": [
-      "Nishad community",
-      "Yadav community",
-      "Reddy and Kamma communities",
-      "Maratha community"
-    ],
-    "correctAnswer": "Reddy and Kamma communities"
+    "question": "The Indian government is pushing to indigenize what specific type of control system in the power sector by 2030, a move that will affect power grids in states like Telangana and Andhra Pradesh?",
+    "options": ["SCADA systems", "HVDC systems", "Smart Metering systems", "Renewable energy storage systems"],
+    "correctAnswer": "SCADA systems"
   },
   {
     "id": 7,
-    "question": "What is a key strategy adopted by regional political parties in Andhra Pradesh to consolidate support from various social segments, reminiscent of community-focused politics elsewhere?",
-    "options": [
-      "Focusing solely on national issues",
-      "Building alliances with only national parties",
-      "Implementing targeted welfare schemes for specific castes and communities",
-      "Ignoring local customs and traditions"
-    ],
-    "correctAnswer": "Implementing targeted welfare schemes for specific castes and communities"
+    "question": "By which target year does the Indian government aim to make SCADA systems in the power sector entirely Indian, strengthening national self-reliance in critical infrastructure?",
+    "options": ["2025", "2030", "2035", "2040"],
+    "correctAnswer": "2030"
   },
   {
     "id": 8,
-    "question": "In the context of India's overall disaster preparedness, which state agency in Telangana is primarily responsible for coordinating emergency responses during events like floods or other natural calamities?",
-    "options": [
-      "State Human Rights Commission",
-      "Telangana State Disaster Response and Fire Services Department",
-      "State Election Commission",
-      "Telangana State Road Transport Corporation"
-    ],
-    "correctAnswer": "Telangana State Disaster Response and Fire Services Department"
+    "question": "SCADA systems, targeted for indigenization by the Indian government, are crucial for the efficient operation of which vital national infrastructure sector?",
+    "options": ["Telecommunications", "Railways", "Water Management", "Power sector"],
+    "correctAnswer": "Power sector"
   },
   {
     "id": 9,
-    "question": "How do states like Andhra Pradesh contribute to national humanitarian efforts, as seen in PM Modi's outreach during international disasters?",
-    "options": [
-      "By sending state-specific diplomatic missions",
-      "By coordinating through central government agencies for relief material and personnel",
-      "By imposing tariffs on international aid",
-      "By solely focusing on internal state matters"
-    ],
-    "correctAnswer": "By coordinating through central government agencies for relief material and personnel"
+    "question": "What is a key implication of the government's push for indigenous SCADA systems in the power sector for states like Telangana and Andhra Pradesh regarding their energy infrastructure?",
+    "options": ["Increased dependence on foreign technology", "Enhanced cybersecurity and self-reliance", "Reduced overall power generation capacity", "Greater decentralization of power control"],
+    "correctAnswer": "Enhanced cybersecurity and self-reliance"
   },
   {
     "id": 10,
-    "question": "When India rejects international reports on social issues, how do states like Telangana generally align their internal social justice policies?",
-    "options": [
-      "By adopting opposing policies",
-      "By ignoring all international frameworks",
-      "By reinforcing constitutional principles of equality and non-discrimination within state laws",
-      "By seeking external arbitration"
-    ],
-    "correctAnswer": "By reinforcing constitutional principles of equality and non-discrimination within state laws"
+    "question": "The initiative to make SCADA systems Indian by 2030 aligns with India's broader goal of achieving greater self-reliance and security in which domain?",
+    "options": ["Agricultural technology", "Military defense", "Digital and technological sovereignty", "Space exploration"],
+    "correctAnswer": "Digital and technological sovereignty"
   },
   {
     "id": 11,
-    "question": "What common cause has led to significant protests from unemployed youth and students in both Telangana and Andhra Pradesh, similar to BPSC protests in other states?",
-    "options": [
-      "Demands for free international travel",
-      "Protests against agricultural reforms",
-      "Issues related to job notifications, recruitment delays, and syllabus changes in state public service commissions",
-      "Demands for increased corporate taxes"
-    ],
-    "correctAnswer": "Issues related to job notifications, recruitment delays, and syllabus changes in state public service commissions"
+    "question": "Ahead of a high-profile visit, India and China recently announced an 8-point consensus. What was one of the key areas of focus for this consensus?",
+    "options": ["Cultural exchange programs", "Boundary delimitation and border management", "Joint space missions", "Bilateral sporting events"],
+    "correctAnswer": "Boundary delimitation and border management"
   },
   {
     "id": 12,
-    "question": "In the context of the political discourse around 'patriarchy' and women's empowerment, which initiative in Andhra Pradesh aims at empowering women self-help groups (SHGs) economically?",
-    "options": [
-      "YSR Cheyutha",
-      "Jagananna Vidya Kanuka",
-      "YSR Rythu Bharosa",
-      "YSR Pelli Kanuka"
-    ],
-    "correctAnswer": "YSR Cheyutha"
+    "question": "The India-China 8-point consensus included setting up more meeting points and hotlines to improve what aspect of their relationship?",
+    "options": ["Trade negotiations", "Tourist exchanges", "Border management", "Environmental cooperation"],
+    "correctAnswer": "Border management"
   },
   {
     "id": 13,
-    "question": "What is a key aspect of how Chief Ministers in Telangana and Andhra Pradesh typically engage with the launch of new welfare programs?",
-    "options": [
-      "They delegate all responsibilities to junior officials without public appearances.",
-      "They often personally launch schemes with large public gatherings to connect with beneficiaries.",
-      "They announce schemes via press release without any public interaction.",
-      "They conduct launches exclusively in the state capital."
-    ],
-    "correctAnswer": "They often personally launch schemes with large public gatherings to connect with beneficiaries."
+    "question": "Which two areas of cooperation were explicitly mentioned for expansion in the recent 8-point consensus between India and China?",
+    "options": ["Science and technology, education", "Defense and security, healthcare", "Trans-border trade and river cooperation", "Infrastructure development, agriculture"],
+    "correctAnswer": "Trans-border trade and river cooperation"
   },
   {
     "id": 14,
-    "question": "Which of the following statements accurately describes the importance of Other Backward Classes (OBCs) in the political landscape of Telangana and Andhra Pradesh?",
-    "options": [
-      "OBCs have minimal influence, primarily focusing on upper caste politics.",
-      "OBCs are a significant and diverse electoral bloc, with parties actively seeking their support through reservations and welfare programs.",
-      "OBCs primarily support national parties and avoid regional politics.",
-      "OBCs are a unified political entity with a single representative party."
-    ],
-    "correctAnswer": "OBCs are a significant and diverse electoral bloc, with parties actively seeking their support through reservations and welfare programs."
+    "question": "The India-China consensus emphasized addressing the ground situation along the Line of Actual Control (LAC) through what kind of engagements?",
+    "options": ["Economic sanctions", "Unilateral military actions", "Diplomatic and military engagements", "International arbitration"],
+    "correctAnswer": "Diplomatic and military engagements"
   },
   {
     "id": 15,
-    "question": "Beyond international border surveillance, what technological advancement have states like Telangana invested in for enhancing internal security and urban monitoring?",
-    "options": [
-      "Development of nuclear submarines",
-      "Large-scale drone surveillance for traffic management and crime prevention in cities",
-      "Construction of space launchpads",
-      "Deployment of underwater robots in rivers"
-    ],
-    "correctAnswer": "Large-scale drone surveillance for traffic management and crime prevention in cities"
+    "question": "In what manner was the 8-point consensus between India and China announced, signifying its importance in diplomatic relations?",
+    "options": ["Through a press conference by one nation", "Via a rare joint statement", "As a leaked document", "Through social media posts"],
+    "correctAnswer": "Via a rare joint statement"
   },
   {
     "id": 16,
-    "question": "What is the typical dynamic between the Union government and states like Telangana or Andhra Pradesh regarding financial aid and support during major disasters, reflecting a federal structure?",
-    "options": [
-      "States are entirely self-sufficient and receive no central aid.",
-      "The Union government provides financial assistance and coordinates national response, while states manage local implementation.",
-      "States unilaterally decide on the amount of aid to receive from the Union government.",
-      "International organizations are the primary source of disaster aid for states."
-    ],
-    "correctAnswer": "The Union government provides financial assistance and coordinates national response, while states manage local implementation."
+    "question": "A Supreme Court judge recently raised concerns regarding leadership qualities and alleged maladministration against an acting Chief Justice of which Indian High Court?",
+    "options": ["Bombay High Court", "Madras High Court", "Rajasthan High Court", "Allahabad High Court"],
+    "correctAnswer": "Rajasthan High Court"
   },
   {
     "id": 17,
-    "question": "Which of the following is a common area of criticism leveled by opposition parties against the ruling governments in Telangana or Andhra Pradesh?",
-    "options": [
-      "Lack of interest in promoting international trade",
-      "Issues related to corruption, unemployment, and implementation of welfare schemes",
-      "Overemphasis on space research",
-      "Failure to establish diplomatic ties with neighboring countries"
-    ],
-    "correctAnswer": "Issues related to corruption, unemployment, and implementation of welfare schemes"
+    "question": "How did Chief Justice of India (CJI) Surya Kant state that individual complaints concerning judges should be resolved, in response to the recent controversy?",
+    "options": ["Through public debate in media", "As per established mechanism", "By immediate judicial review", "Via political intervention"],
+    "correctAnswer": "As per established mechanism"
   },
   {
     "id": 18,
-    "question": "How do political parties in Telangana and Andhra Pradesh generally approach the discourse surrounding 'patriarchy' and gender equality in their public statements and manifestos?",
-    "options": [
-      "By actively promoting traditional patriarchal values.",
-      "By completely ignoring gender-related issues.",
-      "By advocating for women's empowerment, increased representation, and specific welfare schemes targeting women.",
-      "By opposing women's entry into public life."
-    ],
-    "correctAnswer": "By advocating for women's empowerment, increased representation, and specific welfare schemes targeting women."
+    "question": "What were the primary allegations made by the Supreme Court judge against the acting Chief Justice of the Rajasthan High Court?",
+    "options": ["Financial fraud and corruption", "Lacking leadership qualities and maladministration", "Nepotism in appointments", "Delay in judicial proceedings"],
+    "correctAnswer": "Lacking leadership qualities and maladministration"
   },
   {
     "id": 19,
-    "question": "What initiatives have Telangana and Andhra Pradesh undertaken to promote their unique cultural and religious tourism sites, similar to heritage promotion in other states?",
-    "options": [
-      "Banning all religious tourism to protect ancient sites.",
-      "Investing in infrastructure, conducting promotional campaigns, and developing pilgrimage circuits.",
-      "Converting all religious sites into commercial hubs.",
-      "Closing historical sites for public access."
-    ],
-    "correctAnswer": "Investing in infrastructure, conducting promotional campaigns, and developing pilgrimage circuits."
+    "question": "CJI Kant stated that the Supreme Court cannot allow individual complaints concerning judges to be determined through what means?",
+    "options": ["Secret internal inquiries", "Competing claims in the media", "Direct public appeals", "Political lobbying"],
+    "correctAnswer": "Competing claims in the media"
   },
   {
     "id": 20,
-    "question": "What measures have the state road transport corporations in Telangana (TSRTC) and Andhra Pradesh (APSRTC) implemented to modernize their fleet or improve passenger services, beyond specific schemes?",
-    "options": [
-      "Discontinuing all bus services.",
-      "Introduction of new electric buses, cashless ticketing, and real-time tracking systems.",
-      "Reducing the number of routes and increasing fares without service improvements.",
-      "Exclusively using private contractors for all routes."
-    ],
-    "correctAnswer": "Introduction of new electric buses, cashless ticketing, and real-time tracking systems."
+    "question": "The complaint against the acting Chief Justice highlights concerns about the functioning of both the judicial and administrative sides of which level of court in India?",
+    "options": ["District Court", "Supreme Court", "High Court", "Magistrate Court"],
+    "correctAnswer": "High Court"
   },
   {
     "id": 21,
-    "question": "Which other major caste groups, besides OBCs, significantly influence the political landscape and electoral outcomes of Andhra Pradesh and Telangana?",
-    "options": [
-      "Jat and Gurjar communities",
-      "Brahmin and Rajput communities",
-      "Scheduled Castes (SCs) and Scheduled Tribes (STs)",
-      "Sikh and Christian communities"
-    ],
-    "correctAnswer": "Scheduled Castes (SCs) and Scheduled Tribes (STs)"
+    "question": "Which prominent Indian organization recently issued a statement emphasizing \"open dialogue\" and being \"inclusive to all\" in response to a controversy surrounding an event featuring its chief, Mohan Bhagwat?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Rashtriya Swayamsevak Sangh (RSS)", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
   },
   {
     "id": 22,
-    "question": "Given the recurring challenges of floods in many Indian regions, what specific infrastructure projects or policy changes have Telangana or Andhra Pradesh implemented for flood mitigation?",
-    "options": [
-      "Diverting rivers into deserts",
-      "Constructing barrages, reservoirs, and improving drainage systems, along with early warning systems.",
-      "Banning construction near any water body without exception.",
-      "Relying solely on rainfall prediction without structural measures."
-    ],
-    "correctAnswer": "Constructing barrages, reservoirs, and improving drainage systems, along with early warning systems."
+    "question": "Mohan Bhagwat, mentioned in the news regarding an event in New York, holds the position of Sarsanghchalak for which major Indian organization?",
+    "options": ["Bajrang Dal", "Vishva Hindu Parishad", "Rashtriya Swayamsevak Sangh (RSS)", "Akhil Bharatiya Vidyarthi Parishad"],
+    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
   },
   {
     "id": 23,
-    "question": "How have states like Telangana and Andhra Pradesh historically approached or implemented women's reservation in local self-government bodies?",
-    "options": [
-      "They have not implemented any form of women's reservation.",
-      "They have implemented 33% or 50% reservation for women in Panchayats and Municipalities.",
-      "They only reserve seats for women in parliamentary elections.",
-      "Reservation is based on age, not gender."
-    ],
-    "correctAnswer": "They have implemented 33% or 50% reservation for women in Panchayats and Municipalities."
+    "question": "The RSS statement about \"open dialogue\" and being \"inclusive to all\" was issued in the context of what type of event for its chief Mohan Bhagwat?",
+    "options": ["A national level rally", "An international event in New York", "A state-level seminar", "A book launch ceremony"],
+    "correctAnswer": "An international event in New York"
   },
   {
     "id": 24,
-    "question": "What major infrastructure development, beyond transportation, has been a significant focus for the governments in Telangana and Andhra Pradesh recently?",
-    "options": [
-      "Construction of new space stations.",
-      "Development of large-scale irrigation projects and industrial corridors.",
-      "Establishment of intercontinental bullet train networks.",
-      "Building new national wildlife sanctuaries without human access."
-    ],
-    "correctAnswer": "Development of large-scale irrigation projects and industrial corridors."
+    "question": "A BJP minister, Vijayvargiya, recently made a notable comment regarding the price spike of which essential commodity in India?",
+    "options": ["Wheat", "Petrol", "Sugar", "Cooking Oil"],
+    "correctAnswer": "Sugar"
   },
   {
     "id": 25,
-    "question": "Which notable public healthcare scheme has been rolled out in Telangana to provide comprehensive health coverage to its citizens, similar to health initiatives in other states?",
-    "options": [
-      "Pradhan Mantri Jan Arogya Yojana (PMJAY)",
-      "Telangana Kanti Velugu (eye screening)",
-      "Arogyasri (now Dr. YSR Arogyasri in AP, similar scheme exists in Telangana)",
-      "Ayushman Bharat Digital Mission"
-    ],
-    "correctAnswer": "Arogyasri (now Dr. YSR Arogyasri in AP, similar scheme exists in Telangana)"
+    "question": "What was the unusual remark made by BJP minister Vijayvargiya concerning the rising prices of sugar?",
+    "options": ["The government will subsidize it heavily", "Let sugar become expensive", "It will stabilize shortly", "Farmers should produce more"],
+    "correctAnswer": "Let sugar become expensive"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What new global architecture for drought resilience was launched at the UNCCD meet, which India supports?",
-    "options": ["Climate Action Fund", "Green Water Initiative", "Drought Resilience Index and Investment Facility", "Desertification Combat Alliance"],
-    "correctAnswer": "Drought Resilience Index and Investment Facility"
-  },
-  {
-    "id": 2,
-    "question": "By what specific year does the new UNCCD initiative, which India is part of, aim to significantly strengthen global drought resilience?",
-    "options": ["2030", "2040", "2050", "2060"],
-    "correctAnswer": "2050"
-  },
-  {
-    "id": 3,
-    "question": "What specific technological tools are highlighted by the UNCCD initiative to help countries like India assess and manage drought risks effectively?",
-    "options": ["Advanced Satellite Imagery", "New AI tools", "Hydroponic Farming Systems", "Cloud Seeding Technology"],
-    "correctAnswer": "New AI tools"
-  },
-  {
-    "id": 4,
-    "question": "What approach does India specifically advocate for regarding drought preparedness at international forums like the UNCCD meet?",
-    "options": ["Reactive relief measures", "International aid dependency", "Proactive, technology-enabled preparedness", "Local community-led initiatives only"],
-    "correctAnswer": "Proactive, technology-enabled preparedness"
-  },
-  {
-    "id": 5,
-    "question": "The Drought Resilience Investment Facility, an outcome of the UNCCD meet, aims to unlock finance for which key development projects in nations including India?",
-    "options": ["Urban infrastructure development", "Water security and land restoration projects", "Renewable energy expansion", "Digital literacy programs"],
-    "correctAnswer": "Water security and land restoration projects"
-  },
-  {
-    "id": 6,
-    "question": "According to the committee on health and family welfare, approximately how many people are currently waiting for kidney transplants in India?",
-    "options": ["Over 20,000", "Over 40,000", "Over 61,000", "Over 80,000"],
-    "correctAnswer": "Over 61,000"
-  },
-  {
-    "id": 7,
-    "question": "The health and family welfare committee recommended expanding kidney transplant facilities to at least how many government medical colleges in large Indian states like Telangana and Andhra Pradesh?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Three"
-  },
-  {
-    "id": 8,
-    "question": "Besides expanding facilities, what did the committee on health and family welfare recommend to increase organ retrieval centers and transplant infrastructure in India?",
-    "options": ["Increasing donor awareness campaigns", "Offering financial incentives to donors", "Setting time-bound targets", "Collaborating with international hospitals"],
-    "correctAnswer": "Setting time-bound targets"
-  },
-  {
-    "id": 9,
-    "question": "The recommendation for expanding kidney transplant facilities particularly emphasized which types of regions in India?",
-    "options": ["Metropolitan areas", "Coastal regions", "Underserved and hilly regions", "Industrial zones"],
-    "correctAnswer": "Underserved and hilly regions"
-  },
-  {
-    "id": 10,
-    "question": "The committee's recommendations for expanding kidney transplant infrastructure are applicable across which administrative divisions in India?",
-    "options": ["Only Union Territories", "Only large states", "Large states, small states, and UTs", "Only private hospitals"],
-    "correctAnswer": "Large states, small states, and UTs"
-  },
-  {
-    "id": 11,
-    "question": "Which major political party in India recently expressed concerns about the methodology used for the caste count in the Census?",
-    "options": ["BJP", "Congress", "AAP", "TMC"],
-    "correctAnswer": "Congress"
-  },
-  {
-    "id": 12,
-    "question": "What was the primary criticism leveled by the Congress party against the current caste census methodology in its letter to the Prime Minister?",
-    "options": ["It is too expensive", "It is politically motivated", "It is \"misleading\"", "It delays other government programs"],
-    "correctAnswer": "It is \"misleading\""
-  },
-  {
-    "id": 13,
-    "question": "What specific action did the Congress recommend the government take regarding the current caste census questionnaire?",
-    "options": ["Accelerate its implementation", "Cancel it and prepare a fresh one", "Expand its scope to include sub-castes", "Share it publicly for review"],
-    "correctAnswer": "Cancel it and prepare a fresh one"
-  },
-  {
-    "id": 14,
-    "question": "According to the Congress, who should be consulted for preparing a fresh and accurate caste census questionnaire?",
-    "options": ["Only government officials", "Only statisticians", "Political parties, experts, and the public", "International organizations"],
-    "correctAnswer": "Political parties, experts, and the public"
-  },
-  {
-    "id": 15,
-    "question": "The demand for a revised caste census questionnaire, particularly relevant in states like Telangana and Andhra Pradesh, aims to ensure the headcount is what?",
-    "options": ["Completed quickly", "Less controversial", "Precise, relevant, and beneficial", "Limited to specific regions"],
-    "correctAnswer": "Precise, relevant, and beneficial"
-  },
-  {
-    "id": 16,
-    "question": "How many lakh tonnes of refined sugar are projected to enter the Indian domestic market quickly, as per recent government allowance?",
-    "options": ["1 lakh tonnes", "3 lakh tonnes", "5 lakh tonnes", "10 lakh tonnes"],
-    "correctAnswer": "3 lakh tonnes"
-  },
-  {
-    "id": 17,
-    "question": "To address supply issues, the Indian government had previously allowed duty-free import of how many lakh tonnes of raw sugar?",
-    "options": ["5 lakh tonnes", "7 lakh tonnes", "10 lakh tonnes", "12 lakh tonnes"],
-    "correctAnswer": "10 lakh tonnes"
-  },
-  {
-    "id": 18,
-    "question": "The refined sugar now being sold in the Indian domestic market was originally intended for which purpose?",
-    "options": ["Government reserves", "Export only", "Industrial use", "Animal feed production"],
-    "correctAnswer": "Export only"
-  },
-  {
-    "id": 19,
-    "question": "In the past 10 days, by what approximate percentage has the ex-mill price of sugar decreased in India?",
-    "options": ["5%", "10%", "20%", "30%"],
-    "correctAnswer": "20%"
-  },
-  {
-    "id": 20,
-    "question": "The government's decision to allow more refined sugar into the domestic market primarily aims to achieve what objective?",
-    "options": ["Boost exports", "Increase government revenue", "Tide over any supply issue", "Support sugarcane farmers"],
-    "correctAnswer": "Tide over any supply issue"
-  },
-  {
-    "id": 21,
-    "question": "Following deadly floods, India provided emergency helplines for its stranded nationals in which neighboring country?",
-    "options": ["Bhutan", "Bangladesh", "Sri Lanka", "Nepal"],
+    "question": "Which neighboring country recently experienced severe floods where hundreds of Indians were reported missing?",
+    "options": ["Bangladesh", "Sri Lanka", "Nepal", "Myanmar"],
     "correctAnswer": "Nepal"
   },
   {
+    "id": 2,
+    "question": "Which Indian government ministry established a control room in response to the floods and missing Indians in a neighboring country?",
+    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Defence", "Ministry of Disaster Management"],
+    "correctAnswer": "Ministry of External Affairs"
+  },
+  {
+    "id": 3,
+    "question": "Approximately how many Indian citizens were reported unaccounted for in the recent Nepal floods, as per one of the news headlines?",
+    "options": ["Nearly 100", "Over 280", "Around 50", "Exactly 200"],
+    "correctAnswer": "Over 280"
+  },
+  {
+    "id": 4,
+    "question": "Besides floods, what other natural disaster was mentioned as contributing to the critical situation in Nepal?",
+    "options": ["Earthquakes", "Volcanic eruptions", "Mudslides", "Cyclones"],
+    "correctAnswer": "Mudslides"
+  },
+  {
+    "id": 5,
+    "question": "Which country issued a warning about a barrier lake near the Nepal border that posed a risk of breach?",
+    "options": ["Bhutan", "Pakistan", "China", "Tibet"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": 6,
+    "question": "What form of immediate assistance did India dispatch to Nepal in response to the severe floods?",
+    "options": ["Financial aid", "Medical teams", "Relief supplies", "Military personnel"],
+    "correctAnswer": "Relief supplies"
+  },
+  {
+    "id": 7,
+    "question": "According to reports, the Nepal floods and mudslides tragically resulted in over 273 fatalities and how many individuals still unaccounted for?",
+    "options": ["500", "800", "1,300", "2,000"],
+    "correctAnswer": "1,300"
+  },
+  {
+    "id": 8,
+    "question": "The 'artificial sugar crisis' scam, recently alleged by the Congress party, is valued at approximately what amount?",
+    "options": ["Rs 10,000 crore", "Rs 25,000 crore", "Rs 36,000 crore", "Rs 50,000 crore"],
+    "correctAnswer": "Rs 36,000 crore"
+  },
+  {
+    "id": 9,
+    "question": "Which major political party in India leveled allegations of a significant scam related to an 'artificial' sugar crisis?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Trinamool Congress (TMC)"],
+    "correctAnswer": "Indian National Congress"
+  },
+  {
+    "id": 10,
+    "question": "The alleged 'artificial sugar crisis' refers to a manipulated shortage of which essential commodity?",
+    "options": ["Wheat", "Rice", "Pulses", "Sugar"],
+    "correctAnswer": "Sugar"
+  },
+  {
+    "id": 11,
+    "question": "PM Modi is scheduled to meet Russian President Putin on the sidelines of the summit of which international organization?",
+    "options": ["BRICS", "G20", "Shanghai Cooperation Organisation (SCO)", "BIMSTEC"],
+    "correctAnswer": "Shanghai Cooperation Organisation (SCO)"
+  },
+  {
+    "id": 12,
+    "question": "Which two Central Asian countries will PM Modi visit to attend the SCO summit?",
+    "options": ["Kazakhstan and Tajikistan", "Turkmenistan and Afghanistan", "Uzbekistan and Kyrgyzstan", "Mongolia and Azerbaijan"],
+    "correctAnswer": "Uzbekistan and Kyrgyzstan"
+  },
+  {
+    "id": 13,
+    "question": "What is the full form of SCO, the international organization whose summit PM Modi is attending?",
+    "options": ["South Asian Cooperation Organization", "Shanghai Cooperation Organisation", "Social Commonwealth Organisation", "Strategic Countries' Organisation"],
+    "correctAnswer": "Shanghai Cooperation Organisation"
+  },
+  {
+    "id": 14,
+    "question": "Which operation, according to the Congress, involves an alleged 'plan to change narrative' regarding China's role?",
+    "options": ["Op Shakti", "Op Sindoor", "Op Vijay", "Op Meghdoot"],
+    "correctAnswer": "Op Sindoor"
+  },
+  {
+    "id": 15,
+    "question": "The Congress party alleged a 'plan to change narrative' regarding which country's role in 'Op Sindoor'?",
+    "options": ["Pakistan", "Nepal", "China", "Sri Lanka"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": 16,
+    "question": "Which prominent BJP leader recently held discussions with an anti-reservation group after their protest?",
+    "options": ["Amit Shah", "Rajnath Singh", "JP Nadda", "Nirmala Sitharaman"],
+    "correctAnswer": "JP Nadda"
+  },
+  {
+    "id": 17,
+    "question": "The anti-reservation group met JP Nadda after staging a protest at which well-known location in Delhi?",
+    "options": ["India Gate", "Red Fort", "Jantar Mantar", "Parliament House"],
+    "correctAnswer": "Jantar Mantar"
+  },
+  {
+    "id": 18,
+    "question": "What social policy was the central subject of the protest and subsequent discussion between JP Nadda and a protesting group?",
+    "options": ["Taxation policy", "Education reforms", "Reservation policy", "Agricultural subsidies"],
+    "correctAnswer": "Reservation policy"
+  },
+  {
+    "id": 19,
+    "question": "Which Congress leader recently wrote to PM Modi advocating for a 25-year freeze on the delimitation process?",
+    "options": ["Rahul Gandhi", "Shashi Tharoor", "Mallikarjun Kharge", "P. Chidambaram"],
+    "correctAnswer": "Mallikarjun Kharge"
+  },
+  {
+    "id": 20,
+    "question": "Mallikarjun Kharge's letter to PM Modi specifically requested a freeze on which constitutional process?",
+    "options": ["Election Commission appointments", "Judicial reforms", "Delimitation", "Central funding to states"],
+    "correctAnswer": "Delimitation"
+  },
+  {
+    "id": 21,
+    "question": "For how many years did Congress leader Mallikarjun Kharge propose freezing the delimitation process?",
+    "options": ["10 years", "15 years", "20 years", "25 years"],
+    "correctAnswer": "25 years"
+  },
+  {
     "id": 22,
-    "question": "In the recent Nepal deluge, approximately how many Indian nationals were reported among the missing?",
-    "options": ["At least 50", "At least 133", "At least 200", "At least 350"],
-    "correctAnswer": "At least 133"
+    "question": "The issue of delimitation, as emphasized by Kharge, primarily impacts which aspect of India's democratic system, directly affecting states like Telangana and Andhra Pradesh?",
+    "options": ["Judicial appointments", "Fiscal federalism", "Representation in legislative bodies", "Interstate water disputes"],
+    "correctAnswer": "Representation in legislative bodies"
   },
   {
     "id": 23,
-    "question": "Which Indian disaster response force was deployed and placed on high alert in border areas of Bihar and UP due to the Nepal floods?",
-    "options": ["BSF", "ITBP", "NDRF", "CISF"],
-    "correctAnswer": "NDRF"
+    "question": "The news reports indicate that a critical situation is unfolding as a barrier lake near the Nepal border risks a breach within how many days?",
+    "options": ["One day", "Three days", "Seven days", "Ten days"],
+    "correctAnswer": "Three days"
   },
   {
     "id": 24,
-    "question": "How did the Ministry of External Affairs spokesperson, Randhir Jaiswal, characterize the UN panel report on minorities?",
-    "options": ["Comprehensive and objective", "Helpful for policy making", "\"Politically motivated, highly malicious\"", "Requiring further study"],
-    "correctAnswer": "\"Politically motivated, highly malicious\""
+    "question": "What is the primary implication of calling the sugar crisis 'artificial' in the context of the alleged scam?",
+    "options": ["It was caused by natural calamities", "It was a result of genuine market forces", "It was deliberately created or manipulated", "It was a short-term, minor issue"],
+    "correctAnswer": "It was deliberately created or manipulated"
   },
   {
     "id": 25,
-    "question": "The UN Committee on the Elimination of Racial Discrimination report had highlighted an increase in law enforcement operations targeting which specific groups in India?",
-    "options": ["Kashmiri Pandits and Sikhs", "Rohingya, Bengali-speaking Muslims, migrants and asylum-seekers", "Tribal communities in central India", "Foreign tourists and diplomatic staff"],
-    "correctAnswer": "Rohingya, Bengali-speaking Muslims, migrants and asylum-seekers"
+    "question": "The protest at Jantar Mantar, which led to discussions with JP Nadda, was organized by a group advocating against what?",
+    "options": ["Price rise", "Unemployment", "Reservation", "Environmental policies"],
+    "correctAnswer": "Reservation"
   }
 ]

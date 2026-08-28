@@ -1,277 +1,277 @@
 [
   {
     "id": 1,
-    "question": "OpenAI is rolling out a new advertising feature for businesses in India from September 4th. What is this feature related to?",
+    "question": "What significant healthcare initiative was announced by Home Minister Amit Shah on Raksha Bandhan for girls diagnosed with Type 1 diabetes?",
     "options": [
-      "ChatGPT ads manager",
-      "DALL-E ad creation tools",
-      "Custom GPT development kits",
-      "Whisper API for voice ads"
+      "Free vaccinations for children",
+      "Subsidized medicines for seniors",
+      "Free insulin for life",
+      "Health insurance for all women"
     ],
-    "correctAnswer": "ChatGPT ads manager"
+    "correctAnswer": "Free insulin for life"
   },
   {
     "id": 2,
-    "question": "What is the minimum daily campaign budget for the self-serve ChatGPT ads manager in India, as mentioned in the news?",
+    "question": "Which Union Minister announced the initiative to provide free insulin for life to girls battling Type 1 diabetes?",
     "options": [
-      "Rs 500",
-      "Rs 725",
-      "Rs 1000",
-      "Rs 1500"
+      "Nirmala Sitharaman",
+      "Amit Shah",
+      "Narendra Modi",
+      "Raj Nath Singh"
     ],
-    "correctAnswer": "Rs 725"
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 3,
-    "question": "Which of the following sectors is *not* specifically mentioned as expecting early advertiser interest in ChatGPT ads in India?",
+    "question": "The government's new initiative, announced on Raksha Bandhan, targets girls diagnosed with which specific health condition for free insulin?",
     "options": [
-      "Travel",
-      "Financial services",
-      "Automotive",
-      "Health and beauty"
+      "Type 2 Diabetes",
+      "Gestational Diabetes",
+      "Type 1 Diabetes",
+      "Insulin Resistance"
     ],
-    "correctAnswer": "Automotive"
+    "correctAnswer": "Type 1 Diabetes"
   },
   {
     "id": 4,
-    "question": "How many brands are initially reported to be on board with ChatGPT ads in India at the time of the rollout?",
+    "question": "For what duration will the government provide free insulin to girls diagnosed with Type 1 diabetes under the recently announced initiative?",
     "options": [
-      "Over 20",
-      "Over 30",
-      "Over 40",
-      "Over 50"
+      "For 5 years",
+      "Until adulthood",
+      "For their lifetimes",
+      "Until they get married"
     ],
-    "correctAnswer": "Over 50"
+    "correctAnswer": "For their lifetimes"
   },
   {
     "id": 5,
-    "question": "The launch of ChatGPT ads in India is expected to open the platform to smaller advertisers alongside large brands due to which feature?",
+    "question": "The primary beneficiaries of the government's free insulin initiative announced on Raksha Bandhan are which demographic group?",
     "options": [
-      "Extensive training programs",
-      "Reduced ad placement fees",
-      "Self-serve ads manager with low daily budgets",
-      "AI-powered ad content generation"
+      "Elderly women",
+      "Pregnant women",
+      "Young girls diagnosed with Type 1 diabetes",
+      "All individuals with diabetes"
     ],
-    "correctAnswer": "Self-serve ads manager with low daily budgets"
+    "correctAnswer": "Young girls diagnosed with Type 1 diabetes"
   },
   {
     "id": 6,
-    "question": "Which judicial body has issued directions to expedite dowry trials across India?",
+    "question": "On which festival did Home Minister Amit Shah announce the initiative for free insulin for life for girls with Type 1 diabetes?",
     "options": [
-      "High Courts of various states",
-      "District Courts",
-      "Supreme Court",
-      "National Legal Services Authority"
+      "Diwali",
+      "Raksha Bandhan",
+      "Holi",
+      "Eid"
     ],
-    "correctAnswer": "Supreme Court"
+    "correctAnswer": "Raksha Bandhan"
   },
   {
     "id": 7,
-    "question": "What type of programs has the Supreme Court directed states/UTs and high courts to conduct for officials dealing with dowry cases?",
+    "question": "One of the key objectives of the government's free insulin initiative for girls with Type 1 diabetes is to alleviate what kind of stress?",
     "options": [
-      "Financial literacy workshops",
-      "Technology skill development",
-      "Periodic training and sensitisation programmes",
-      "International legal exchanges"
+      "Educational stress",
+      "Social stress",
+      "Emotional stress",
+      "Financial stress of ongoing treatment"
     ],
-    "correctAnswer": "Periodic training and sensitisation programmes"
+    "correctAnswer": "Financial stress of ongoing treatment"
   },
   {
     "id": 8,
-    "question": "Who among the following are specified beneficiaries of the periodic training and sensitisation programmes directed by the Supreme Court concerning dowry cases?",
+    "question": "Beyond providing free insulin, the government's initiative aims to build on current measures to manage diabetes among which broader group?",
     "options": [
-      "Only judicial officers",
-      "Only police officials",
-      "Judicial officers, police officials, prosecutors, and counsellors",
-      "Only legal aid lawyers"
+      "Seniors nationally",
+      "Rural women nationally",
+      "Youth nationally",
+      "Urban men nationally"
     ],
-    "correctAnswer": "Judicial officers, police officials, prosecutors, and counsellors"
+    "correctAnswer": "Youth nationally"
   },
   {
     "id": 9,
-    "question": "What is the primary objective of the Supreme Court's recent directions regarding dowry cases?",
+    "question": "The government's commitment to the health and protection of daughters is highlighted by the provision of what specific medical supply for life?",
     "options": [
-      "To increase the number of reported dowry cases",
-      "To reduce the severity of penalties for dowry offenses",
-      "To ensure time-bound completion of trials",
-      "To introduce new laws against dowry"
+      "Vaccines",
+      "Vitamins",
+      "Insulin",
+      "Antibiotics"
     ],
-    "correctAnswer": "To ensure time-bound completion of trials"
+    "correctAnswer": "Insulin"
   },
   {
     "id": 10,
-    "question": "Which body is directed to periodically review pending criminal appeals related to dowry cases, as per the Supreme Court's directions?",
+    "question": "The free insulin initiative by Amit Shah primarily showcases the government's dedication to the health and protection of which demographic?",
     "options": [
-      "District Legal Services Authorities",
-      "State Human Rights Commissions",
-      "High Courts",
-      "National Commission for Women"
+      "Sons",
+      "Daughters",
+      "All children",
+      "All citizens"
     ],
-    "correctAnswer": "High Courts"
+    "correctAnswer": "Daughters"
   },
   {
     "id": 11,
-    "question": "What was the reported percentage surge in India's petroleum products exports in July?",
+    "question": "Which major Indian company recently received SEBI approval for its substantial $3.8 billion IPO?",
     "options": [
-      "5%",
-      "8%",
-      "10%",
-      "12%"
+      "Reliance Industries",
+      "Jio Platforms",
+      "Airtel Digital",
+      "Vodafone Idea"
     ],
-    "correctAnswer": "8%"
+    "correctAnswer": "Jio Platforms"
   },
   {
     "id": 12,
-    "question": "Which specific petroleum product saw its exports increase from 2.2 million tonnes to 2.4 million tonnes in July this year compared to last year?",
+    "question": "What is the approximate value of the Initial Public Offering (IPO) for which Jio Platforms recently secured SEBI approval?",
     "options": [
-      "Petrol",
-      "Kerosene",
-      "Diesel",
-      "LPG"
+      "$1.5 billion",
+      "$2.8 billion",
+      "$3.8 billion",
+      "$4.5 billion"
     ],
-    "correctAnswer": "Diesel"
+    "correctAnswer": "$3.8 billion"
   },
   {
     "id": 13,
-    "question": "What is the approximate premium percentage that diesel currently commands over crude, making its exports lucrative for Indian refiners?",
+    "question": "Which regulatory body in India granted approval for Jio Platforms' substantial $3.8 billion IPO?",
     "options": [
-      "30%",
-      "50%",
-      "70%",
-      "90%"
+      "Reserve Bank of India (RBI)",
+      "Securities and Exchange Board of India (SEBI)",
+      "Competition Commission of India (CCI)",
+      "Ministry of Finance"
     ],
-    "correctAnswer": "70%"
+    "correctAnswer": "Securities and Exchange Board of India (SEBI)"
   },
   {
     "id": 14,
-    "question": "What measure did the Indian government implement to ensure adequate domestic stocks of petroleum products despite lucrative exports?",
+    "question": "Jio Platforms' recent SEBI approval for its $3.8 billion offering signifies what type of major financial event for the company?",
     "options": [
-      "Export subsidies",
-      "Import tariffs",
-      "Windfall gains tax",
-      "Production quotas"
+      "Merger and Acquisition",
+      "Debt Restructuring",
+      "Public Debt Issuance",
+      "Initial Public Offering (IPO)"
     ],
-    "correctAnswer": "Windfall gains tax"
+    "correctAnswer": "Initial Public Offering (IPO)"
   },
   {
     "id": 15,
-    "question": "What was the total volume of India's petroleum product exports in July this year?",
+    "question": "The approval of Jio Platforms' $3.8 billion IPO is a significant event for which sector of the Indian economy?",
     "options": [
-      "5 MT",
-      "5.5 MT",
-      "6 MT",
-      "6.5 MT"
+      "Agriculture",
+      "Manufacturing",
+      "Digital and Telecom",
+      "Real Estate"
     ],
-    "correctAnswer": "5.5 MT"
+    "correctAnswer": "Digital and Telecom"
   },
   {
     "id": 16,
-    "question": "Which national initiative did the Prime Minister mention while addressing youth about the importance of sports?",
+    "question": "Amid an ongoing exam overhaul, which national body recently saw the appointment of three senior officers?",
     "options": [
-      "Fit India Movement",
-      "Khelo India dialogue",
-      "National Sports Policy",
-      "Youth for Sports campaign"
+      "Union Public Service Commission (UPSC)",
+      "Staff Selection Commission (SSC)",
+      "National Testing Agency (NTA)",
+      "Central Board of Secondary Education (CBSE)"
     ],
-    "correctAnswer": "Khelo India dialogue"
+    "correctAnswer": "National Testing Agency (NTA)"
   },
   {
     "id": 17,
-    "question": "What age bracket has the Prime Minister announced for a talent hunt for children in sports?",
+    "question": "The appointment of new senior officers at the National Testing Agency (NTA) is part of a broader effort concerning what?",
     "options": [
-      "3-8 years",
-      "5-15 years",
-      "10-20 years",
-      "15-25 years"
+      "Staff recruitment drive",
+      "Technological upgrade",
+      "Exam overhaul",
+      "Curriculum development"
     ],
-    "correctAnswer": "5-15 years"
+    "correctAnswer": "Exam overhaul"
   },
   {
     "id": 18,
-    "question": "The Prime Minister emphasized that what is more important than 'PlayStation' for youth engagement?",
+    "question": "Who is spearheading the task force that is actively engaging citizens for nationwide examination reforms?",
     "options": [
-      "Outdoor games",
-      "Educational apps",
-      "Reading books",
-      "Playground"
+      "Raghuram Rajan",
+      "Nandan Nilekani",
+      "K. Kasturirangan",
+      "Urjit Patel"
     ],
-    "correctAnswer": "Playground"
+    "correctAnswer": "Nandan Nilekani"
   },
   {
     "id": 19,
-    "question": "What concern did the Prime Minister express regarding India's participation in Olympic sports?",
+    "question": "Until when are suggestions welcomed from the public for the examination reforms being driven by the Nandan Nilekani panel?",
     "options": [
-      "Lack of interest from youth",
-      "Insufficient international exposure",
-      "Absence from almost half of Olympic sports",
-      "Poor performance in team sports"
+      "August 31",
+      "September 13",
+      "October 15",
+      "November 1"
     ],
-    "correctAnswer": "Absence from almost half of Olympic sports"
+    "correctAnswer": "September 13"
   },
   {
     "id": 20,
-    "question": "The Prime Minister's central message to the youth encouraged embracing which approach?",
+    "question": "One of the main goals of the Nandan Nilekani panel's initiative is to establish what kind of public examination process?",
     "options": [
-      "Focusing on digital literacy",
-      "Prioritizing academic achievements",
-      "Joining sports and utilizing playgrounds",
-      "Developing professional skills"
+      "Faster and cheaper",
+      "More selective and exclusive",
+      "Secure and transparent",
+      "Regionally diversified"
     ],
-    "correctAnswer": "Joining sports and utilizing playgrounds"
+    "correctAnswer": "Secure and transparent"
   },
   {
     "id": 21,
-    "question": "What is the government planning to engage for inspecting National Highways (NHs) and Expressways across India?",
+    "question": "The initiative for examination reforms by the Nilekani panel is a response to what recent issues?",
     "options": [
-      "Internal audit teams",
-      "State Public Works Departments",
-      "Third-party auditors",
-      "Local self-government bodies"
+      "Increase in student enrollment",
+      "Shortage of examination centers",
+      "Youth protests and controversies surrounding examination integrity",
+      "Demand for more vocational courses"
     ],
-    "correctAnswer": "Third-party auditors"
+    "correctAnswer": "Youth protests and controversies surrounding examination integrity"
   },
   {
     "id": 22,
-    "question": "What was the name of India's first flagship highway development programme mentioned in the context of third-party quality checks?",
+    "question": "The National Testing Agency (NTA) is primarily responsible for conducting which of the following in India?",
     "options": [
-      "North-South Corridor",
-      "East-West Corridor",
-      "Golden Quadrilateral",
-      "National Highway Development Project"
+      "Economic surveys",
+      "Sports events",
+      "High-stakes entrance examinations",
+      "Census operations"
     ],
-    "correctAnswer": "Golden Quadrilateral"
+    "correctAnswer": "High-stakes entrance examinations"
   },
   {
     "id": 23,
-    "question": "Which company previously carried out the task of third-party quality checks during the construction of the Golden Quadrilateral?",
+    "question": "The examination reforms initiated by the Nandan Nilekani panel are set to reshape what aspect nationwide?",
     "options": [
-      "L&T Infrastructure",
-      "GMR Infra",
-      "EIL (Engineers India Limited)",
-      "IRB Infrastructure"
+      "School curriculum",
+      "Teacher training programs",
+      "Entire assessment landscape",
+      "Higher education funding"
     ],
-    "correctAnswer": "EIL (Engineers India Limited)"
+    "correctAnswer": "Entire assessment landscape"
   },
   {
     "id": 24,
-    "question": "Under which Prime Minister was the Golden Quadrilateral project, a flagship highway development programme, initiated?",
+    "question": "Through what method is the Nandan Nilekani panel seeking public input for its examination reforms?",
     "options": [
-      "Manmohan Singh",
-      "Atal Bihari Vajpayee",
-      "Narendra Modi",
-      "P. V. Narasimha Rao"
+      "Closed-door meetings",
+      "Expert committees only",
+      "Suggestions through various channels from citizens",
+      "Government directives only"
     ],
-    "correctAnswer": "Atal Bihari Vajpayee"
+    "correctAnswer": "Suggestions through various channels from citizens"
   },
   {
     "id": 25,
-    "question": "What has become a recent cause of concern, leading to the government's plan for third-party auditors for National Highway projects?",
+    "question": "Besides security, what other key principle is the Nandan Nilekani panel aiming to ensure in the public examination process?",
     "options": [
-      "Increased construction costs",
-      "Lack of qualified engineers",
-      "Increased instances of deficiencies",
-      "Slow pace of project completion"
+      "Affordability",
+      "Exclusivity",
+      "Transparency",
+      "Decentralization"
     ],
-    "correctAnswer": "Increased instances of deficiencies"
+    "correctAnswer": "Transparency"
   }
 ]

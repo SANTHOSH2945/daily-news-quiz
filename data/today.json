@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which neighboring country recently experienced severe floods where hundreds of Indians were reported missing?",
-    "options": ["Bangladesh", "Sri Lanka", "Nepal", "Myanmar"],
-    "correctAnswer": "Nepal"
+    "question": "OpenAI is rolling out a new advertising feature for businesses in India from September 4th. What is this feature related to?",
+    "options": [
+      "ChatGPT ads manager",
+      "DALL-E ad creation tools",
+      "Custom GPT development kits",
+      "Whisper API for voice ads"
+    ],
+    "correctAnswer": "ChatGPT ads manager"
   },
   {
     "id": 2,
-    "question": "Which Indian government ministry established a control room in response to the floods and missing Indians in a neighboring country?",
-    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Defence", "Ministry of Disaster Management"],
-    "correctAnswer": "Ministry of External Affairs"
+    "question": "What is the minimum daily campaign budget for the self-serve ChatGPT ads manager in India, as mentioned in the news?",
+    "options": [
+      "Rs 500",
+      "Rs 725",
+      "Rs 1000",
+      "Rs 1500"
+    ],
+    "correctAnswer": "Rs 725"
   },
   {
     "id": 3,
-    "question": "Approximately how many Indian citizens were reported unaccounted for in the recent Nepal floods, as per one of the news headlines?",
-    "options": ["Nearly 100", "Over 280", "Around 50", "Exactly 200"],
-    "correctAnswer": "Over 280"
+    "question": "Which of the following sectors is *not* specifically mentioned as expecting early advertiser interest in ChatGPT ads in India?",
+    "options": [
+      "Travel",
+      "Financial services",
+      "Automotive",
+      "Health and beauty"
+    ],
+    "correctAnswer": "Automotive"
   },
   {
     "id": 4,
-    "question": "Besides floods, what other natural disaster was mentioned as contributing to the critical situation in Nepal?",
-    "options": ["Earthquakes", "Volcanic eruptions", "Mudslides", "Cyclones"],
-    "correctAnswer": "Mudslides"
+    "question": "How many brands are initially reported to be on board with ChatGPT ads in India at the time of the rollout?",
+    "options": [
+      "Over 20",
+      "Over 30",
+      "Over 40",
+      "Over 50"
+    ],
+    "correctAnswer": "Over 50"
   },
   {
     "id": 5,
-    "question": "Which country issued a warning about a barrier lake near the Nepal border that posed a risk of breach?",
-    "options": ["Bhutan", "Pakistan", "China", "Tibet"],
-    "correctAnswer": "China"
+    "question": "The launch of ChatGPT ads in India is expected to open the platform to smaller advertisers alongside large brands due to which feature?",
+    "options": [
+      "Extensive training programs",
+      "Reduced ad placement fees",
+      "Self-serve ads manager with low daily budgets",
+      "AI-powered ad content generation"
+    ],
+    "correctAnswer": "Self-serve ads manager with low daily budgets"
   },
   {
     "id": 6,
-    "question": "What form of immediate assistance did India dispatch to Nepal in response to the severe floods?",
-    "options": ["Financial aid", "Medical teams", "Relief supplies", "Military personnel"],
-    "correctAnswer": "Relief supplies"
+    "question": "Which judicial body has issued directions to expedite dowry trials across India?",
+    "options": [
+      "High Courts of various states",
+      "District Courts",
+      "Supreme Court",
+      "National Legal Services Authority"
+    ],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 7,
-    "question": "According to reports, the Nepal floods and mudslides tragically resulted in over 273 fatalities and how many individuals still unaccounted for?",
-    "options": ["500", "800", "1,300", "2,000"],
-    "correctAnswer": "1,300"
+    "question": "What type of programs has the Supreme Court directed states/UTs and high courts to conduct for officials dealing with dowry cases?",
+    "options": [
+      "Financial literacy workshops",
+      "Technology skill development",
+      "Periodic training and sensitisation programmes",
+      "International legal exchanges"
+    ],
+    "correctAnswer": "Periodic training and sensitisation programmes"
   },
   {
     "id": 8,
-    "question": "The 'artificial sugar crisis' scam, recently alleged by the Congress party, is valued at approximately what amount?",
-    "options": ["Rs 10,000 crore", "Rs 25,000 crore", "Rs 36,000 crore", "Rs 50,000 crore"],
-    "correctAnswer": "Rs 36,000 crore"
+    "question": "Who among the following are specified beneficiaries of the periodic training and sensitisation programmes directed by the Supreme Court concerning dowry cases?",
+    "options": [
+      "Only judicial officers",
+      "Only police officials",
+      "Judicial officers, police officials, prosecutors, and counsellors",
+      "Only legal aid lawyers"
+    ],
+    "correctAnswer": "Judicial officers, police officials, prosecutors, and counsellors"
   },
   {
     "id": 9,
-    "question": "Which major political party in India leveled allegations of a significant scam related to an 'artificial' sugar crisis?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Trinamool Congress (TMC)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "What is the primary objective of the Supreme Court's recent directions regarding dowry cases?",
+    "options": [
+      "To increase the number of reported dowry cases",
+      "To reduce the severity of penalties for dowry offenses",
+      "To ensure time-bound completion of trials",
+      "To introduce new laws against dowry"
+    ],
+    "correctAnswer": "To ensure time-bound completion of trials"
   },
   {
     "id": 10,
-    "question": "The alleged 'artificial sugar crisis' refers to a manipulated shortage of which essential commodity?",
-    "options": ["Wheat", "Rice", "Pulses", "Sugar"],
-    "correctAnswer": "Sugar"
+    "question": "Which body is directed to periodically review pending criminal appeals related to dowry cases, as per the Supreme Court's directions?",
+    "options": [
+      "District Legal Services Authorities",
+      "State Human Rights Commissions",
+      "High Courts",
+      "National Commission for Women"
+    ],
+    "correctAnswer": "High Courts"
   },
   {
     "id": 11,
-    "question": "PM Modi is scheduled to meet Russian President Putin on the sidelines of the summit of which international organization?",
-    "options": ["BRICS", "G20", "Shanghai Cooperation Organisation (SCO)", "BIMSTEC"],
-    "correctAnswer": "Shanghai Cooperation Organisation (SCO)"
+    "question": "What was the reported percentage surge in India's petroleum products exports in July?",
+    "options": [
+      "5%",
+      "8%",
+      "10%",
+      "12%"
+    ],
+    "correctAnswer": "8%"
   },
   {
     "id": 12,
-    "question": "Which two Central Asian countries will PM Modi visit to attend the SCO summit?",
-    "options": ["Kazakhstan and Tajikistan", "Turkmenistan and Afghanistan", "Uzbekistan and Kyrgyzstan", "Mongolia and Azerbaijan"],
-    "correctAnswer": "Uzbekistan and Kyrgyzstan"
+    "question": "Which specific petroleum product saw its exports increase from 2.2 million tonnes to 2.4 million tonnes in July this year compared to last year?",
+    "options": [
+      "Petrol",
+      "Kerosene",
+      "Diesel",
+      "LPG"
+    ],
+    "correctAnswer": "Diesel"
   },
   {
     "id": 13,
-    "question": "What is the full form of SCO, the international organization whose summit PM Modi is attending?",
-    "options": ["South Asian Cooperation Organization", "Shanghai Cooperation Organisation", "Social Commonwealth Organisation", "Strategic Countries' Organisation"],
-    "correctAnswer": "Shanghai Cooperation Organisation"
+    "question": "What is the approximate premium percentage that diesel currently commands over crude, making its exports lucrative for Indian refiners?",
+    "options": [
+      "30%",
+      "50%",
+      "70%",
+      "90%"
+    ],
+    "correctAnswer": "70%"
   },
   {
     "id": 14,
-    "question": "Which operation, according to the Congress, involves an alleged 'plan to change narrative' regarding China's role?",
-    "options": ["Op Shakti", "Op Sindoor", "Op Vijay", "Op Meghdoot"],
-    "correctAnswer": "Op Sindoor"
+    "question": "What measure did the Indian government implement to ensure adequate domestic stocks of petroleum products despite lucrative exports?",
+    "options": [
+      "Export subsidies",
+      "Import tariffs",
+      "Windfall gains tax",
+      "Production quotas"
+    ],
+    "correctAnswer": "Windfall gains tax"
   },
   {
     "id": 15,
-    "question": "The Congress party alleged a 'plan to change narrative' regarding which country's role in 'Op Sindoor'?",
-    "options": ["Pakistan", "Nepal", "China", "Sri Lanka"],
-    "correctAnswer": "China"
+    "question": "What was the total volume of India's petroleum product exports in July this year?",
+    "options": [
+      "5 MT",
+      "5.5 MT",
+      "6 MT",
+      "6.5 MT"
+    ],
+    "correctAnswer": "5.5 MT"
   },
   {
     "id": 16,
-    "question": "Which prominent BJP leader recently held discussions with an anti-reservation group after their protest?",
-    "options": ["Amit Shah", "Rajnath Singh", "JP Nadda", "Nirmala Sitharaman"],
-    "correctAnswer": "JP Nadda"
+    "question": "Which national initiative did the Prime Minister mention while addressing youth about the importance of sports?",
+    "options": [
+      "Fit India Movement",
+      "Khelo India dialogue",
+      "National Sports Policy",
+      "Youth for Sports campaign"
+    ],
+    "correctAnswer": "Khelo India dialogue"
   },
   {
     "id": 17,
-    "question": "The anti-reservation group met JP Nadda after staging a protest at which well-known location in Delhi?",
-    "options": ["India Gate", "Red Fort", "Jantar Mantar", "Parliament House"],
-    "correctAnswer": "Jantar Mantar"
+    "question": "What age bracket has the Prime Minister announced for a talent hunt for children in sports?",
+    "options": [
+      "3-8 years",
+      "5-15 years",
+      "10-20 years",
+      "15-25 years"
+    ],
+    "correctAnswer": "5-15 years"
   },
   {
     "id": 18,
-    "question": "What social policy was the central subject of the protest and subsequent discussion between JP Nadda and a protesting group?",
-    "options": ["Taxation policy", "Education reforms", "Reservation policy", "Agricultural subsidies"],
-    "correctAnswer": "Reservation policy"
+    "question": "The Prime Minister emphasized that what is more important than 'PlayStation' for youth engagement?",
+    "options": [
+      "Outdoor games",
+      "Educational apps",
+      "Reading books",
+      "Playground"
+    ],
+    "correctAnswer": "Playground"
   },
   {
     "id": 19,
-    "question": "Which Congress leader recently wrote to PM Modi advocating for a 25-year freeze on the delimitation process?",
-    "options": ["Rahul Gandhi", "Shashi Tharoor", "Mallikarjun Kharge", "P. Chidambaram"],
-    "correctAnswer": "Mallikarjun Kharge"
+    "question": "What concern did the Prime Minister express regarding India's participation in Olympic sports?",
+    "options": [
+      "Lack of interest from youth",
+      "Insufficient international exposure",
+      "Absence from almost half of Olympic sports",
+      "Poor performance in team sports"
+    ],
+    "correctAnswer": "Absence from almost half of Olympic sports"
   },
   {
     "id": 20,
-    "question": "Mallikarjun Kharge's letter to PM Modi specifically requested a freeze on which constitutional process?",
-    "options": ["Election Commission appointments", "Judicial reforms", "Delimitation", "Central funding to states"],
-    "correctAnswer": "Delimitation"
+    "question": "The Prime Minister's central message to the youth encouraged embracing which approach?",
+    "options": [
+      "Focusing on digital literacy",
+      "Prioritizing academic achievements",
+      "Joining sports and utilizing playgrounds",
+      "Developing professional skills"
+    ],
+    "correctAnswer": "Joining sports and utilizing playgrounds"
   },
   {
     "id": 21,
-    "question": "For how many years did Congress leader Mallikarjun Kharge propose freezing the delimitation process?",
-    "options": ["10 years", "15 years", "20 years", "25 years"],
-    "correctAnswer": "25 years"
+    "question": "What is the government planning to engage for inspecting National Highways (NHs) and Expressways across India?",
+    "options": [
+      "Internal audit teams",
+      "State Public Works Departments",
+      "Third-party auditors",
+      "Local self-government bodies"
+    ],
+    "correctAnswer": "Third-party auditors"
   },
   {
     "id": 22,
-    "question": "The issue of delimitation, as emphasized by Kharge, primarily impacts which aspect of India's democratic system, directly affecting states like Telangana and Andhra Pradesh?",
-    "options": ["Judicial appointments", "Fiscal federalism", "Representation in legislative bodies", "Interstate water disputes"],
-    "correctAnswer": "Representation in legislative bodies"
+    "question": "What was the name of India's first flagship highway development programme mentioned in the context of third-party quality checks?",
+    "options": [
+      "North-South Corridor",
+      "East-West Corridor",
+      "Golden Quadrilateral",
+      "National Highway Development Project"
+    ],
+    "correctAnswer": "Golden Quadrilateral"
   },
   {
     "id": 23,
-    "question": "The news reports indicate that a critical situation is unfolding as a barrier lake near the Nepal border risks a breach within how many days?",
-    "options": ["One day", "Three days", "Seven days", "Ten days"],
-    "correctAnswer": "Three days"
+    "question": "Which company previously carried out the task of third-party quality checks during the construction of the Golden Quadrilateral?",
+    "options": [
+      "L&T Infrastructure",
+      "GMR Infra",
+      "EIL (Engineers India Limited)",
+      "IRB Infrastructure"
+    ],
+    "correctAnswer": "EIL (Engineers India Limited)"
   },
   {
     "id": 24,
-    "question": "What is the primary implication of calling the sugar crisis 'artificial' in the context of the alleged scam?",
-    "options": ["It was caused by natural calamities", "It was a result of genuine market forces", "It was deliberately created or manipulated", "It was a short-term, minor issue"],
-    "correctAnswer": "It was deliberately created or manipulated"
+    "question": "Under which Prime Minister was the Golden Quadrilateral project, a flagship highway development programme, initiated?",
+    "options": [
+      "Manmohan Singh",
+      "Atal Bihari Vajpayee",
+      "Narendra Modi",
+      "P. V. Narasimha Rao"
+    ],
+    "correctAnswer": "Atal Bihari Vajpayee"
   },
   {
     "id": 25,
-    "question": "The protest at Jantar Mantar, which led to discussions with JP Nadda, was organized by a group advocating against what?",
-    "options": ["Price rise", "Unemployment", "Reservation", "Environmental policies"],
-    "correctAnswer": "Reservation"
+    "question": "What has become a recent cause of concern, leading to the government's plan for third-party auditors for National Highway projects?",
+    "options": [
+      "Increased construction costs",
+      "Lack of qualified engineers",
+      "Increased instances of deficiencies",
+      "Slow pace of project completion"
+    ],
+    "correctAnswer": "Increased instances of deficiencies"
   }
 ]

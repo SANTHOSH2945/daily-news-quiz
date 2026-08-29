@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What significant healthcare initiative was announced by Home Minister Amit Shah on Raksha Bandhan for girls diagnosed with Type 1 diabetes?",
-    "options": [
-      "Free vaccinations for children",
-      "Subsidized medicines for seniors",
-      "Free insulin for life",
-      "Health insurance for all women"
-    ],
-    "correctAnswer": "Free insulin for life"
+    "question": "What new regulatory focus has the Indian government initiated regarding two-wheelers?",
+    "options": ["Tightening norms for e-cycles and e-bikes", "Relaxing rules for petrol scooters", "Introducing subsidies for all two-wheelers", "Banning two-wheeler production"],
+    "correctAnswer": "Tightening norms for e-cycles and e-bikes"
   },
   {
     "id": 2,
-    "question": "Which Union Minister announced the initiative to provide free insulin for life to girls battling Type 1 diabetes?",
-    "options": [
-      "Nirmala Sitharaman",
-      "Amit Shah",
-      "Narendra Modi",
-      "Raj Nath Singh"
-    ],
-    "correctAnswer": "Amit Shah"
+    "question": "What type of vehicles are seeing tightened norms from the Indian government?",
+    "options": ["Petrol cars and diesel buses", "Electric cycles and electric bikes", "Traditional bicycles and motorcycles", "Commercial heavy vehicles"],
+    "correctAnswer": "Electric cycles and electric bikes"
   },
   {
     "id": 3,
-    "question": "The government's new initiative, announced on Raksha Bandhan, targets girls diagnosed with which specific health condition for free insulin?",
-    "options": [
-      "Type 2 Diabetes",
-      "Gestational Diabetes",
-      "Type 1 Diabetes",
-      "Insulin Resistance"
-    ],
-    "correctAnswer": "Type 1 Diabetes"
+    "question": "What is a likely implication of the government tightening norms for e-cycles and e-bikes across India?",
+    "options": ["A decrease in manufacturing costs for these vehicles", "Enhanced safety and quality standards for e-cycles and e-bikes", "Increased reliance on imported components for production", "A complete halt in the sale of electric two-wheelers"],
+    "correctAnswer": "Enhanced safety and quality standards for e-cycles and e-bikes"
   },
   {
     "id": 4,
-    "question": "For what duration will the government provide free insulin to girls diagnosed with Type 1 diabetes under the recently announced initiative?",
-    "options": [
-      "For 5 years",
-      "Until adulthood",
-      "For their lifetimes",
-      "Until they get married"
-    ],
-    "correctAnswer": "For their lifetimes"
+    "question": "Which organization has agreed to new regulations for prominent red warning labels on junk food packaging in India?",
+    "options": ["Bureau of Indian Standards (BIS)", "Ministry of Health and Family Welfare", "Food Safety and Standards Authority of India (FSSAI)", "NITI Aayog"],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 5,
-    "question": "The primary beneficiaries of the government's free insulin initiative announced on Raksha Bandhan are which demographic group?",
-    "options": [
-      "Elderly women",
-      "Pregnant women",
-      "Young girls diagnosed with Type 1 diabetes",
-      "All individuals with diabetes"
-    ],
-    "correctAnswer": "Young girls diagnosed with Type 1 diabetes"
+    "question": "What will the new red warning labels on junk food packaging in India highlight?",
+    "options": ["Country of origin and manufacturing date", "High levels of salt, sugar, and fat content", "Organic certification and allergen information", "Recommended daily intake for all nutrients"],
+    "correctAnswer": "High levels of salt, sugar, and fat content"
   },
   {
     "id": 6,
-    "question": "On which festival did Home Minister Amit Shah announce the initiative for free insulin for life for girls with Type 1 diabetes?",
-    "options": [
-      "Diwali",
-      "Raksha Bandhan",
-      "Holi",
-      "Eid"
-    ],
-    "correctAnswer": "Raksha Bandhan"
+    "question": "What is the primary aim of the new junk food labeling regulation by FSSAI?",
+    "options": ["To increase the sales of junk food by making it more appealing", "To confuse consumers about food ingredients", "To help consumers make more informed purchasing decisions", "To promote international food brands in India"],
+    "correctAnswer": "To help consumers make more informed purchasing decisions"
   },
   {
     "id": 7,
-    "question": "One of the key objectives of the government's free insulin initiative for girls with Type 1 diabetes is to alleviate what kind of stress?",
-    "options": [
-      "Educational stress",
-      "Social stress",
-      "Emotional stress",
-      "Financial stress of ongoing treatment"
-    ],
-    "correctAnswer": "Financial stress of ongoing treatment"
+    "question": "Which nutrient categories will be highlighted on new warning labels for junk foods in India?",
+    "options": ["Vitamins, minerals, and fiber", "Protein, carbohydrates, and water", "Salt, sugar, and fat", "Calcium, iron, and potassium"],
+    "correctAnswer": "Salt, sugar, and fat"
   },
   {
     "id": 8,
-    "question": "Beyond providing free insulin, the government's initiative aims to build on current measures to manage diabetes among which broader group?",
-    "options": [
-      "Seniors nationally",
-      "Rural women nationally",
-      "Youth nationally",
-      "Urban men nationally"
-    ],
-    "correctAnswer": "Youth nationally"
+    "question": "How will the new junk food labeling regulation be implemented across India?",
+    "options": ["Instantly with no grace period", "Through a phased implementation to allow the industry time to adjust", "Voluntarily by food manufacturers", "Only in metropolitan cities initially"],
+    "correctAnswer": "Through a phased implementation to allow the industry time to adjust"
   },
   {
     "id": 9,
-    "question": "The government's commitment to the health and protection of daughters is highlighted by the provision of what specific medical supply for life?",
-    "options": [
-      "Vaccines",
-      "Vitamins",
-      "Insulin",
-      "Antibiotics"
-    ],
-    "correctAnswer": "Insulin"
+    "question": "What is the purpose of the new FSSAI regulation regarding junk food labeling?",
+    "options": ["To enforce stricter advertising guidelines for food products", "To reduce the production cost of junk food items", "To empower consumers with clear information about unhealthy ingredients", "To encourage the export of Indian junk food to other countries"],
+    "correctAnswer": "To empower consumers with clear information about unhealthy ingredients"
   },
   {
     "id": 10,
-    "question": "The free insulin initiative by Amit Shah primarily showcases the government's dedication to the health and protection of which demographic?",
-    "options": [
-      "Sons",
-      "Daughters",
-      "All children",
-      "All citizens"
-    ],
-    "correctAnswer": "Daughters"
+    "question": "Who heads the committee recently announced to seek public ideas for fixing India's examination system?",
+    "options": ["Narendra Modi", "Ravi Kumar Singh", "Nandan Nilekani", "Surya Kant"],
+    "correctAnswer": "Nandan Nilekani"
   },
   {
     "id": 11,
-    "question": "Which major Indian company recently received SEBI approval for its substantial $3.8 billion IPO?",
-    "options": [
-      "Reliance Industries",
-      "Jio Platforms",
-      "Airtel Digital",
-      "Vodafone Idea"
-    ],
-    "correctAnswer": "Jio Platforms"
+    "question": "What was the primary controversy that led to the formation of the Nilekani committee for exam reforms?",
+    "options": ["Alleged financial irregularities in university admissions", "The NEET-UG paper leak controversy and alleged lapses", "Protests against changes in school curriculum", "Demands for more regional language options in exams"],
+    "correctAnswer": "The NEET-UG paper leak controversy and alleged lapses"
   },
   {
     "id": 12,
-    "question": "What is the approximate value of the Initial Public Offering (IPO) for which Jio Platforms recently secured SEBI approval?",
-    "options": [
-      "$1.5 billion",
-      "$2.8 billion",
-      "$3.8 billion",
-      "$4.5 billion"
-    ],
-    "correctAnswer": "$3.8 billion"
+    "question": "What is one key aspect the Nilekani committee will look into besides improving exams?",
+    "options": ["Promoting international exchange programs for students", "Measures to improve accessibility and inclusion in the examination process", "Streamlining administrative processes for educational institutions", "Developing new digital platforms for online learning"],
+    "correctAnswer": "Measures to improve accessibility and inclusion in the examination process"
   },
   {
     "id": 13,
-    "question": "Which regulatory body in India granted approval for Jio Platforms' substantial $3.8 billion IPO?",
-    "options": [
-      "Reserve Bank of India (RBI)",
-      "Securities and Exchange Board of India (SEBI)",
-      "Competition Commission of India (CCI)",
-      "Ministry of Finance"
-    ],
-    "correctAnswer": "Securities and Exchange Board of India (SEBI)"
+    "question": "Which Prime Minister announced the formation of the committee headed by Nandan Nilekani to reform the examination system?",
+    "options": ["Manmohan Singh", "Atal Bihari Vajpayee", "Narendra Modi", "Indira Gandhi"],
+    "correctAnswer": "Narendra Modi"
   },
   {
     "id": 14,
-    "question": "Jio Platforms' recent SEBI approval for its $3.8 billion offering signifies what type of major financial event for the company?",
-    "options": [
-      "Merger and Acquisition",
-      "Debt Restructuring",
-      "Public Debt Issuance",
-      "Initial Public Offering (IPO)"
-    ],
-    "correctAnswer": "Initial Public Offering (IPO)"
+    "question": "What kind of ideas is the Nilekani committee seeking from the public regarding examination reforms?",
+    "options": ["Ideas for new syllabus content for primary education", "Suggestions for fixing the examination system", "Proposals for increasing government funding for private schools", "Recommendations for establishing new universities"],
+    "correctAnswer": "Suggestions for fixing the examination system"
   },
   {
     "id": 15,
-    "question": "The approval of Jio Platforms' $3.8 billion IPO is a significant event for which sector of the Indian economy?",
-    "options": [
-      "Agriculture",
-      "Manufacturing",
-      "Digital and Telecom",
-      "Real Estate"
-    ],
-    "correctAnswer": "Digital and Telecom"
+    "question": "The Nilekani committee's mandate includes improving accessibility and inclusion in which system?",
+    "options": ["The public healthcare system", "The legal aid system", "The examination system", "The financial banking system"],
+    "correctAnswer": "The examination system"
   },
   {
     "id": 16,
-    "question": "Amid an ongoing exam overhaul, which national body recently saw the appointment of three senior officers?",
-    "options": [
-      "Union Public Service Commission (UPSC)",
-      "Staff Selection Commission (SSC)",
-      "National Testing Agency (NTA)",
-      "Central Board of Secondary Education (CBSE)"
-    ],
+    "question": "Which organization recently received new senior officer appointments amidst an examination overhaul?",
+    "options": ["University Grants Commission (UGC)", "Central Board of Secondary Education (CBSE)", "National Testing Agency (NTA)", "All India Council for Technical Education (AICTE)"],
     "correctAnswer": "National Testing Agency (NTA)"
   },
   {
     "id": 17,
-    "question": "The appointment of new senior officers at the National Testing Agency (NTA) is part of a broader effort concerning what?",
-    "options": [
-      "Staff recruitment drive",
-      "Technological upgrade",
-      "Exam overhaul",
-      "Curriculum development"
-    ],
-    "correctAnswer": "Exam overhaul"
+    "question": "How many senior officers were recently appointed to the National Testing Agency (NTA)?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Three"
   },
   {
     "id": 18,
-    "question": "Who is spearheading the task force that is actively engaging citizens for nationwide examination reforms?",
-    "options": [
-      "Raghuram Rajan",
-      "Nandan Nilekani",
-      "K. Kasturirangan",
-      "Urjit Patel"
-    ],
-    "correctAnswer": "Nandan Nilekani"
+    "question": "Who among the following was appointed as a director at the National Testing Agency (NTA)?",
+    "options": ["Nandan Nilekani", "Amit Samdariya", "Surya Kant", "Ravi Kumar Singh"],
+    "correctAnswer": "Ravi Kumar Singh"
   },
   {
     "id": 19,
-    "question": "Until when are suggestions welcomed from the public for the examination reforms being driven by the Nandan Nilekani panel?",
-    "options": [
-      "August 31",
-      "September 13",
-      "October 15",
-      "November 1"
-    ],
-    "correctAnswer": "September 13"
+    "question": "What is the designation of Ravi Kumar Singh, recently appointed at the National Testing Agency (NTA)?",
+    "options": ["Chairman", "Joint Director", "Director", "Secretary"],
+    "correctAnswer": "Director"
   },
   {
     "id": 20,
-    "question": "One of the main goals of the Nandan Nilekani panel's initiative is to establish what kind of public examination process?",
-    "options": [
-      "Faster and cheaper",
-      "More selective and exclusive",
-      "Secure and transparent",
-      "Regionally diversified"
-    ],
-    "correctAnswer": "Secure and transparent"
+    "question": "What is the designation of Prasanna Venkatesh V, recently appointed at the National Testing Agency (NTA)?",
+    "options": ["Chief Financial Officer", "Director", "Chief Operating Officer", "Advisor"],
+    "correctAnswer": "Director"
   },
   {
     "id": 21,
-    "question": "The initiative for examination reforms by the Nilekani panel is a response to what recent issues?",
-    "options": [
-      "Increase in student enrollment",
-      "Shortage of examination centers",
-      "Youth protests and controversies surrounding examination integrity",
-      "Demand for more vocational courses"
-    ],
-    "correctAnswer": "Youth protests and controversies surrounding examination integrity"
+    "question": "What is the designation of Amit Samdariya, recently appointed at the National Testing Agency (NTA)?",
+    "options": ["President", "Joint Director", "Vice President", "Senior Advisor"],
+    "correctAnswer": "Joint Director"
   },
   {
     "id": 22,
-    "question": "The National Testing Agency (NTA) is primarily responsible for conducting which of the following in India?",
-    "options": [
-      "Economic surveys",
-      "Sports events",
-      "High-stakes entrance examinations",
-      "Census operations"
-    ],
-    "correctAnswer": "High-stakes entrance examinations"
+    "question": "Which ministry cleared the appointments of new officers to the National Testing Agency (NTA)?",
+    "options": ["Ministry of Education", "Ministry of Home Affairs", "Personnel Ministry", "Ministry of Finance"],
+    "correctAnswer": "Personnel Ministry"
   },
   {
     "id": 23,
-    "question": "The examination reforms initiated by the Nandan Nilekani panel are set to reshape what aspect nationwide?",
-    "options": [
-      "School curriculum",
-      "Teacher training programs",
-      "Entire assessment landscape",
-      "Higher education funding"
-    ],
-    "correctAnswer": "Entire assessment landscape"
+    "question": "What is the primary reason for the recent appointments of senior officers to the National Testing Agency (NTA)?",
+    "options": ["To manage international collaborations", "Amidst an examination overhaul", "To expand NTA's operational scope into new sectors", "Due to a routine administrative reshuffle"],
+    "correctAnswer": "Amidst an examination overhaul"
   },
   {
     "id": 24,
-    "question": "Through what method is the Nandan Nilekani panel seeking public input for its examination reforms?",
-    "options": [
-      "Closed-door meetings",
-      "Expert committees only",
-      "Suggestions through various channels from citizens",
-      "Government directives only"
-    ],
-    "correctAnswer": "Suggestions through various channels from citizens"
+    "question": "What specific controversy recently heightened scrutiny on the examination system, leading to changes in NTA?",
+    "options": ["Allegations of bias in recruitment for government jobs", "The NEET-UG paper leak controversy", "Widespread protests against digital examination formats", "Demand for private entities to conduct national exams"],
+    "correctAnswer": "The NEET-UG paper leak controversy"
   },
   {
     "id": 25,
-    "question": "Besides security, what other key principle is the Nandan Nilekani panel aiming to ensure in the public examination process?",
-    "options": [
-      "Affordability",
-      "Exclusivity",
-      "Transparency",
-      "Decentralization"
-    ],
-    "correctAnswer": "Transparency"
+    "question": "What is the maximum timeframe given to the newly appointed NTA officers to take charge?",
+    "options": ["One week", "Two weeks", "Three weeks", "One month"],
+    "correctAnswer": "Three weeks"
   }
 ]

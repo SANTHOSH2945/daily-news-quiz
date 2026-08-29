@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian state's Jal Shakti minister recently confirmed that there is 'no threat' from Nepal floods to their state but authorities remain on alert?",
-    "options": ["Bihar", "Uttar Pradesh", "West Bengal", "Uttarakhand"],
-    "correctAnswer": "Uttar Pradesh"
-  },
-  {
-    "id": 2,
-    "question": "The statement by a state's Jal Shakti minister about flood preparedness indicates the portfolio is responsible for which key area?",
-    "options": ["Road infrastructure", "Water resources and sanitation", "Power generation", "Forest and environment"],
-    "correctAnswer": "Water resources and sanitation"
-  },
-  {
-    "id": 3,
-    "question": "Auto and taxi unions recently opposed a CNG hike in which major Indian city, citing concerns about burdening people?",
-    "options": ["Mumbai", "Bengaluru", "Delhi", "Kolkata"],
-    "correctAnswer": "Delhi"
-  },
-  {
-    "id": 4,
-    "question": "What does the acronym 'CNG' represent, a fuel whose price hike recently led to protests by public transport unions in India?",
-    "options": ["Compressed Nitrogen Gas", "Converted Natural Gas", "Controlled Natural Gas", "Compressed Natural Gas"],
-    "correctAnswer": "Compressed Natural Gas"
-  },
-  {
-    "id": 5,
-    "question": "The opposition to CNG price hikes by auto and taxi unions highlights the economic challenges faced by which key sector across Indian cities?",
-    "options": ["Agriculture", "Manufacturing", "Public transportation", "Information Technology"],
-    "correctAnswer": "Public transportation"
-  },
-  {
-    "id": 6,
-    "question": "The term 'suddhikaran' or 'purification' became a point of contention in a recent political row involving a prominent leader. What does this term generally refer to?",
-    "options": ["Economic reforms", "Environmental conservation", "Ritualistic cleansing or purification", "Legislative changes"],
-    "correctAnswer": "Ritualistic cleansing or purification"
-  },
-  {
-    "id": 7,
-    "question": "Which prominent Indian politician was recently targeted by the BJP in connection with the 'suddhikaran' row?",
-    "options": ["Narendra Modi", "Amit Shah", "Rahul Gandhi", "Arvind Kejriwal"],
+    "question": "The recent 'suddhikaran' row in Indian politics, where a prominent opposition leader's actions were criticized, primarily involved comments made by:",
+    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi", "Arvind Kejriwal"],
     "correctAnswer": "Rahul Gandhi"
   },
   {
+    "id": 2,
+    "question": "The 'suddhikaran' controversy, mentioned in recent news headlines regarding political comments on a temple visit, primarily involved a leader from which political party?",
+    "options": ["Indian National Congress", "Bharatiya Janata Party", "Bharat Rashtra Samithi", "YSR Congress Party"],
+    "correctAnswer": "Indian National Congress"
+  },
+  {
+    "id": 3,
+    "question": "Which state's Chief Minister, Pushkar Singh Dhami, recently hit back at Rahul Gandhi regarding the 'purification' row, mentioning that religious slogans were raised?",
+    "options": ["Uttarakhand", "Uttar Pradesh", "Telangana", "Andhra Pradesh"],
+    "correctAnswer": "Uttarakhand"
+  },
+  {
+    "id": 4,
+    "question": "The 'purification' row, where BJP leaders criticized a prominent opposition figure, highlights which aspect of contemporary Indian political discourse?",
+    "options": ["Ideological and cultural conflicts", "Economic policy disagreements", "Foreign relations strategies", "Inter-state border disputes"],
+    "correctAnswer": "Ideological and cultural conflicts"
+  },
+  {
+    "id": 5,
+    "question": "Union Ministers Chirag Paswan and Jitan Ram Manjhi were recently reported clashing over which significant policy issue in India?",
+    "options": ["The national quota system", "Agricultural reform bills", "Defense procurement policies", "Inter-state river water sharing"],
+    "correctAnswer": "The national quota system"
+  },
+  {
+    "id": 6,
+    "question": "The disagreement between Union Ministers Chirag Paswan and Jitan Ram Manjhi highlights ongoing debates about which aspect of Indian governance and social justice?",
+    "options": ["Reservation policies", "Taxation reforms", "Judicial appointments", "Election processes"],
+    "correctAnswer": "Reservation policies"
+  },
+  {
+    "id": 7,
+    "question": "Chirag Paswan, one of the Union Ministers involved in the recent quota clash, primarily represents which Indian state in the Lok Sabha?",
+    "options": ["Bihar", "Uttar Pradesh", "Telangana", "Andhra Pradesh"],
+    "correctAnswer": "Bihar"
+  },
+  {
     "id": 8,
-    "question": "The Chief Minister of Uttarakhand, who recently commented on the 'purification' row, is associated with which political party?",
-    "options": ["Indian National Congress", "Bharatiya Janata Party", "Aam Aadmi Party", "Samajwadi Party"],
-    "correctAnswer": "Bharatiya Janata Party"
+    "question": "While a national issue, debates around reservation policies often consider socio-economic indicators. Which state, formed in 2014, has implemented its own distinct reservation policies?",
+    "options": ["Telangana", "Kerala", "Gujarat", "Punjab"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 9,
-    "question": "Union ministers Chirag Paswan and Jitan Ram Manjhi recently clashed over which significant policy issue in India?",
-    "options": ["Agricultural subsidies", "Interstate water disputes", "Quotas and reservation policies", "Foreign policy"],
-    "correctAnswer": "Quotas and reservation policies"
-  },
-  {
-    "id": 10,
-    "question": "Chirag Paswan and Jitan Ram Manjhi, recently in news for clashing over quotas, hold what positions in the current Indian government?",
-    "options": ["State Governors", "Chief Ministers", "Union Ministers", "Senior Bureaucrats"],
-    "correctAnswer": "Union Ministers"
-  },
-  {
-    "id": 11,
-    "question": "Reservation policies in India aim to promote which of the following?",
-    "options": ["Economic liberalization", "Social justice and equality", "Urban development", "International trade"],
-    "correctAnswer": "Social justice and equality"
-  },
-  {
-    "id": 12,
-    "question": "Which Indian government ministry is primarily responsible for the welfare and rescue of Indian citizens abroad during emergencies like natural disasters?",
-    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Defence", "Ministry of Finance"],
-    "correctAnswer": "Ministry of External Affairs"
-  },
-  {
-    "id": 13,
-    "question": "In the aftermath of the Nepal floods, what type of specialized teams did India dispatch to assist in identifying missing Indian citizens?",
-    "options": ["Medical relief teams", "Forensic teams", "Engineering teams", "Logistics support teams"],
-    "correctAnswer": "Forensic teams"
-  },
-  {
-    "id": 14,
-    "question": "The recent news about the rescue of Indian citizens by the MEA was in the context of natural disasters in which neighboring country?",
-    "options": ["Bangladesh", "Sri Lanka", "Nepal", "Myanmar"],
+    "question": "The Ministry of External Affairs (MEA) recently confirmed the rescue of Indian citizens from a natural disaster in which neighboring country?",
+    "options": ["Nepal", "Bangladesh", "Sri Lanka", "Myanmar"],
     "correctAnswer": "Nepal"
   },
   {
+    "id": 10,
+    "question": "In the event of a natural disaster abroad affecting Indian citizens, which government body is primarily responsible for coordinating their rescue and relief efforts?",
+    "options": ["Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Defence", "National Disaster Response Force (NDRF)"],
+    "correctAnswer": "Ministry of External Affairs"
+  },
+  {
+    "id": 11,
+    "question": "Which of these Indian states shares a significant land border with Nepal, relevant to cross-border movements of people and disaster management?",
+    "options": ["Uttar Pradesh", "West Bengal", "Telangana", "Andhra Pradesh"],
+    "correctAnswer": "Uttar Pradesh"
+  },
+  {
+    "id": 12,
+    "question": "If Indian citizens from Telangana or Andhra Pradesh were among those affected in an international disaster, which Indian diplomatic entity would typically assist them abroad?",
+    "options": ["The nearest Indian consulate/embassy", "A special state representative office", "The local police department of the foreign country", "A designated international NGO"],
+    "correctAnswer": "The nearest Indian consulate/embassy"
+  },
+  {
+    "id": 13,
+    "question": "Recent trends in India's marriage biodata indicate a shift in emphasis to include more focus on:",
+    "options": ["Personality and compatibility", "Caste and religion", "Dowry and property ownership", "Astrological charts and horoscopes"],
+    "correctAnswer": "Personality and compatibility"
+  },
+  {
+    "id": 14,
+    "question": "The evolution of marriage biodata in India, reflecting changing societal values towards individual aspirations and 'vibe checks', is a trend observed across:",
+    "options": ["All of the above", "Northern India only", "Southern India only", "Western India only"],
+    "correctAnswer": "All of the above"
+  },
+  {
     "id": 15,
-    "question": "Recent news indicates that India's marriage biodata is evolving to include more details beyond traditional aspects, reflecting changes in what?",
-    "options": ["Agricultural practices", "Social and personal preferences", "Infrastructure development", "Industrial output"],
-    "correctAnswer": "Social and personal preferences"
+    "question": "In a rapidly urbanizing state like Telangana, how might the evolving marriage biodata trends manifest regarding partner selection?",
+    "options": ["Increased demand for 'vibe check' and lifestyle alignment", "Stricter adherence to traditional caste compatibility", "Exclusive reliance on family networks for matches", "Decline in the practice of sharing biodata altogether"],
+    "correctAnswer": "Increased demand for 'vibe check' and lifestyle alignment"
   },
   {
     "id": 16,
-    "question": "What modern 'check', related to personal compatibility, is increasingly being considered in evolving Indian marriage biodatas, alongside traditional details?",
-    "options": ["Financial audit check", "Vibe check", "Political affiliation check", "Educational background check"],
-    "correctAnswer": "Vibe check"
+    "question": "Which two factors, traditionally highly prioritized in Indian marriage biodata, are now being complemented by new considerations like 'vibe check' and 'will our lives fit together'?",
+    "options": ["Caste and salary", "Astrological matching and family reputation", "Property ownership and physical appearance", "Educational background and regional origin"],
+    "correctAnswer": "Caste and salary"
   },
   {
     "id": 17,
-    "question": "While still prevalent, what traditional aspect often included in Indian marriage biodata is being re-evaluated or supplemented by modern considerations?",
-    "options": ["Educational qualifications", "Family background", "Caste and community", "Professional achievements"],
-    "correctAnswer": "Caste and community"
+    "question": "Ex-Army chief General M.M. Naravane recently discussed how India changed tactics in which specific military operation?",
+    "options": ["Op Sindoor", "Op Vijay", "Op Cactus", "Op Parakram"],
+    "correctAnswer": "Op Sindoor"
   },
   {
     "id": 18,
-    "question": "Former Army chief Naravane recently discussed India's changed tactics in an operation named 'Op Sindoor'. This operation is primarily related to which aspect of national policy?",
-    "options": ["Economic development", "Military and border security", "Space exploration", "Healthcare reforms"],
-    "correctAnswer": "Military and border security"
+    "question": "The discussion by Ex-Army chief Naravane about new Indian Army tactics involved operations primarily conducted near which sensitive border region?",
+    "options": ["Line of Control (LoC)", "Line of Actual Control (LAC)", "International Border with Bangladesh", "India-Myanmar Border"],
+    "correctAnswer": "Line of Control (LoC)"
   },
   {
     "id": 19,
-    "question": "What does 'LoC' stand for, a term frequently mentioned in the context of India's military operations and border security?",
-    "options": ["Line of Commerce", "Line of Control", "Line of Communication", "Line of Command"],
-    "correctAnswer": "Line of Control"
+    "question": "Which of the following Indian states does *not* share a land border with a neighboring country where major military operations are frequently discussed?",
+    "options": ["Telangana", "Jammu & Kashmir", "Punjab", "Rajasthan"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 20,
-    "question": "Gen. Naravane's remarks on 'Op Sindoor' and strikes 'not just near LoC' suggest a shift in India's approach to what type of military engagement?",
-    "options": ["Defensive peacekeeping", "Proactive cross-border operations", "Humanitarian aid missions", "International joint exercises"],
-    "correctAnswer": "Proactive cross-border operations"
+    "question": "The change in tactics described by Ex-Army chief Naravane in Op Sindoor, emphasizing 'strikes not just near LoC', suggests a shift towards what kind of military engagement?",
+    "options": ["Expanding strike capabilities beyond immediate borders", "Relying solely on defensive postures", "Reducing cross-border engagements to diplomacy", "Prioritizing naval operations over ground forces"],
+    "correctAnswer": "Expanding strike capabilities beyond immediate borders"
   },
   {
     "id": 21,
-    "question": "The 'School Thik Karo' campaign, featuring Abhijeet Dipke, recently raised concerns about which aspect of public education, specifically mentioning 'expired food'?",
-    "options": ["Teacher absenteeism", "Quality of mid-day meals", "Digital literacy infrastructure", "Sports facilities"],
-    "correctAnswer": "Quality of mid-day meals"
+    "question": "The 'School Thik Karo' campaign, featuring activist Abhijeet Dipke, primarily advocates for improvements in which vital public sector?",
+    "options": ["Education", "Healthcare", "Agriculture", "Public transportation"],
+    "correctAnswer": "Education"
   },
   {
     "id": 22,
-    "question": "When Abhijeet Dipke questioned if 'ministers feed their own children expired food,' the campaign primarily aimed to highlight a lack of what in the education system?",
-    "options": ["Funding", "Parental involvement", "Government and administrative accountability", "Student interest"],
-    "correctAnswer": "Government and administrative accountability"
+    "question": "The 'School Thik Karo' campaign highlights concerns about education quality. Which initiative has the Telangana government notably undertaken to improve school infrastructure and facilities?",
+    "options": ["Mana Ooru Mana Badi", "Amma Vodi", "Jagananna Vidya Deevena", "Sarva Shiksha Abhiyan"],
+    "correctAnswer": "Mana Ooru Mana Badi"
   },
   {
     "id": 23,
-    "question": "BJP chief Nitin Nabin expressed displeasure over party MPs visiting Sajjan Kumar's residence. This issue typically raises questions about what in politics?",
-    "options": ["Inter-party cooperation", "Political ethics and party discipline", "Economic policy discussions", "International relations"],
-    "correctAnswer": "Political ethics and party discipline"
+    "question": "Activist Abhijeet Dipke, during the 'School Thik Karo' campaign, specifically highlighted issues like expired food, drawing attention to which critical aspect of the education system?",
+    "options": ["Mid-day meal quality and safety", "Teacher recruitment and training standards", "Curriculum development and reform", "Digital learning infrastructure and access"],
+    "correctAnswer": "Mid-day meal quality and safety"
   },
   {
     "id": 24,
-    "question": "When a BJP chief expresses displeasure over party MPs visiting a controversial figure's residence, it indicates concerns within the party regarding what?",
-    "options": ["Electoral strategy", "Party image and internal discipline", "Alliance building", "Policy formulation"],
-    "correctAnswer": "Party image and internal discipline"
+    "question": "Andhra Pradesh has also launched significant programs for educational reform. Which program aims to provide financial assistance to mothers for sending their children to private schools/junior colleges?",
+    "options": ["Amma Vodi", "Mana Badi Nadu-Nedu", "Jagananna Vidya Kanuka", "YSR Rythu Bharosa"],
+    "correctAnswer": "Amma Vodi"
   },
   {
     "id": 25,
-    "question": "The various political clashes and controversies mentioned in recent news (e.g., 'suddhikaran' row, quota debates) are examples of ongoing discussions within India's which system?",
-    "options": ["Economic planning", "Judicial administration", "Parliamentary democracy", "Cultural heritage preservation"],
-    "correctAnswer": "Parliamentary democracy"
+    "question": "BJP chief Nitin Nabin recently expressed displeasure over party MPs visiting the residence of which controversial figure, previously convicted in a 1984 anti-Sikh riots case?",
+    "options": ["Sajjan Kumar", "Lalu Prasad Yadav", "Suresh Kalmadi", "P. Chidambaram"],
+    "correctAnswer": "Sajjan Kumar"
   }
 ]

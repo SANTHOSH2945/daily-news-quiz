@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The recent 'suddhikaran' row in Indian politics, where a prominent opposition leader's actions were criticized, primarily involved comments made by:",
-    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi", "Arvind Kejriwal"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "According to recent news, which South Indian state is explicitly mentioned as facing a substantial rainfall deficit during the monsoon season?",
+    "options": ["Kerala", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "The 'suddhikaran' controversy, mentioned in recent news headlines regarding political comments on a temple visit, primarily involved a leader from which political party?",
-    "options": ["Indian National Congress", "Bharatiya Janata Party", "Bharat Rashtra Samithi", "YSR Congress Party"],
-    "correctAnswer": "Indian National Congress"
+    "question": "The ongoing monsoon deficit in India, impacting states like Andhra Pradesh, has primarily led to a significant acreage gap in the sowing of which crop season?",
+    "options": ["Rabi", "Zaid", "Kharif", "Perennial"],
+    "correctAnswer": "Kharif"
   },
   {
     "id": 3,
-    "question": "Which state's Chief Minister, Pushkar Singh Dhami, recently hit back at Rahul Gandhi regarding the 'purification' row, mentioning that religious slogans were raised?",
-    "options": ["Uttarakhand", "Uttar Pradesh", "Telangana", "Andhra Pradesh"],
-    "correctAnswer": "Uttarakhand"
+    "question": "Farmers in states like Andhra Pradesh, grappling with monsoon deficits, have seen notable declines in the acreage of which two specific kharif crops compared to last year?",
+    "options": ["Wheat and Barley", "Sugarcane and Cotton", "Paddy and Maize", "Jute and Tea"],
+    "correctAnswer": "Paddy and Maize"
   },
   {
     "id": 4,
-    "question": "The 'purification' row, where BJP leaders criticized a prominent opposition figure, highlights which aspect of contemporary Indian political discourse?",
-    "options": ["Ideological and cultural conflicts", "Economic policy disagreements", "Foreign relations strategies", "Inter-state border disputes"],
-    "correctAnswer": "Ideological and cultural conflicts"
+    "question": "Despite some August rains, what factor mentioned in the news prevented an increase in acreage for most kharif crops in regions including Andhra Pradesh?",
+    "options": ["Lack of seeds", "Erratic rainfall distribution", "Pest infestations", "Government policy changes"],
+    "correctAnswer": "Erratic rainfall distribution"
   },
   {
     "id": 5,
-    "question": "Union Ministers Chirag Paswan and Jitan Ram Manjhi were recently reported clashing over which significant policy issue in India?",
-    "options": ["The national quota system", "Agricultural reform bills", "Defense procurement policies", "Inter-state river water sharing"],
-    "correctAnswer": "The national quota system"
+    "question": "What is the overall cumulative status of India's monsoon rainfall, which includes impacts on Andhra Pradesh, as reported recently?",
+    "options": ["Significant surplus", "Minor surplus", "Cumulative deficit remains", "Normal rainfall achieved"],
+    "correctAnswer": "Cumulative deficit remains"
   },
   {
     "id": 6,
-    "question": "The disagreement between Union Ministers Chirag Paswan and Jitan Ram Manjhi highlights ongoing debates about which aspect of Indian governance and social justice?",
-    "options": ["Reservation policies", "Taxation reforms", "Judicial appointments", "Election processes"],
-    "correctAnswer": "Reservation policies"
+    "question": "The significant acreage gap in kharif crop sowing, directly impacting agricultural states like Andhra Pradesh, is a consequence of which weather phenomenon?",
+    "options": ["Heatwave", "Cyclonic storms", "Monsoon deficit", "Winter fog"],
+    "correctAnswer": "Monsoon deficit"
   },
   {
     "id": 7,
-    "question": "Chirag Paswan, one of the Union Ministers involved in the recent quota clash, primarily represents which Indian state in the Lok Sabha?",
-    "options": ["Bihar", "Uttar Pradesh", "Telangana", "Andhra Pradesh"],
-    "correctAnswer": "Bihar"
+    "question": "Which critical cereal crop, a staple in states like Andhra Pradesh, has specifically experienced a notable decline in acreage due to the monsoon's erratic nature?",
+    "options": ["Wheat", "Ragi", "Jowar", "Paddy"],
+    "correctAnswer": "Paddy"
   },
   {
     "id": 8,
-    "question": "While a national issue, debates around reservation policies often consider socio-economic indicators. Which state, formed in 2014, has implemented its own distinct reservation policies?",
-    "options": ["Telangana", "Kerala", "Gujarat", "Punjab"],
-    "correctAnswer": "Telangana"
+    "question": "The news reports 'substantial rainfall deficits' in several Indian states. Besides Bihar, which other state was explicitly named in this context?",
+    "options": ["Gujarat", "Rajasthan", "Andhra Pradesh", "Odisha"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 9,
-    "question": "The Ministry of External Affairs (MEA) recently confirmed the rescue of Indian citizens from a natural disaster in which neighboring country?",
-    "options": ["Nepal", "Bangladesh", "Sri Lanka", "Myanmar"],
-    "correctAnswer": "Nepal"
+    "question": "Beyond Paddy, which other major kharif crop's acreage has notably declined in states affected by India's monsoon deficit, such as Andhra Pradesh?",
+    "options": ["Wheat", "Barley", "Maize", "Mustard"],
+    "correctAnswer": "Maize"
   },
   {
     "id": 10,
-    "question": "In the event of a natural disaster abroad affecting Indian citizens, which government body is primarily responsible for coordinating their rescue and relief efforts?",
-    "options": ["Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Defence", "National Disaster Response Force (NDRF)"],
-    "correctAnswer": "Ministry of External Affairs"
+    "question": "What kind of rainfall pattern, observed in regions like Andhra Pradesh, made it difficult to increase acreage for most kharif crops this season?",
+    "options": ["Continuous heavy rainfall", "Well-distributed moderate rainfall", "Erratic distribution", "Delayed onset but steady"],
+    "correctAnswer": "Erratic distribution"
   },
   {
     "id": 11,
-    "question": "Which of these Indian states shares a significant land border with Nepal, relevant to cross-border movements of people and disaster management?",
-    "options": ["Uttar Pradesh", "West Bengal", "Telangana", "Andhra Pradesh"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "Which regulatory body in India recently issued prohibition orders against Everest Food Products and Laljee Godhoo and Company for non-compliance?",
+    "options": ["BIS", "AGMARK", "FSSAI", "CCI"],
+    "correctAnswer": "FSSAI"
   },
   {
     "id": 12,
-    "question": "If Indian citizens from Telangana or Andhra Pradesh were among those affected in an international disaster, which Indian diplomatic entity would typically assist them abroad?",
-    "options": ["The nearest Indian consulate/embassy", "A special state representative office", "The local police department of the foreign country", "A designated international NGO"],
-    "correctAnswer": "The nearest Indian consulate/embassy"
+    "question": "For what specific spice product did FSSAI issue prohibition orders against Everest and Laljee Godhoo due to non-compliance issues?",
+    "options": ["Turmeric powder", "Chili powder", "Hing (asafoetida)", "Garam masala"],
+    "correctAnswer": "Hing (asafoetida)"
   },
   {
     "id": 13,
-    "question": "Recent trends in India's marriage biodata indicate a shift in emphasis to include more focus on:",
-    "options": ["Personality and compatibility", "Caste and religion", "Dowry and property ownership", "Astrological charts and horoscopes"],
-    "correctAnswer": "Personality and compatibility"
+    "question": "What specific quality requirement did samples of hing powder from Everest and Laljee Godhoo fail to meet, leading to the FSSAI ban?",
+    "options": ["Moisture content", "Purity of color", "Alcohol-soluble extract requirements", "Protein levels"],
+    "correctAnswer": "Alcohol-soluble extract requirements"
   },
   {
     "id": 14,
-    "question": "The evolution of marriage biodata in India, reflecting changing societal values towards individual aspirations and 'vibe checks', is a trend observed across:",
-    "options": ["All of the above", "Northern India only", "Southern India only", "Western India only"],
-    "correctAnswer": "All of the above"
+    "question": "Besides Everest Food Products, which other company was prohibited by FSSAI from selling hing due to non-compliance?",
+    "options": ["MDH", "Catch", "Laljee Godhoo and Company", "Aashirvaad"],
+    "correctAnswer": "Laljee Godhoo and Company"
   },
   {
     "id": 15,
-    "question": "In a rapidly urbanizing state like Telangana, how might the evolving marriage biodata trends manifest regarding partner selection?",
-    "options": ["Increased demand for 'vibe check' and lifestyle alignment", "Stricter adherence to traditional caste compatibility", "Exclusive reliance on family networks for matches", "Decline in the practice of sharing biodata altogether"],
-    "correctAnswer": "Increased demand for 'vibe check' and lifestyle alignment"
+    "question": "The FSSAI's recent actions against major spice companies highlight ongoing scrutiny in which sector within the Indian market, impacting consumers in states like Telangana?",
+    "options": ["Textile safety", "Pharmaceutical regulation", "Food safety", "Automotive standards"],
+    "correctAnswer": "Food safety"
   },
   {
     "id": 16,
-    "question": "Which two factors, traditionally highly prioritized in Indian marriage biodata, are now being complemented by new considerations like 'vibe check' and 'will our lives fit together'?",
-    "options": ["Caste and salary", "Astrological matching and family reputation", "Property ownership and physical appearance", "Educational background and regional origin"],
-    "correctAnswer": "Caste and salary"
+    "question": "The FSSAI prohibition orders against spice companies were primarily issued due to what general issue?",
+    "options": ["Price manipulation", "Labor disputes", "Non-compliance issues", "Packaging violations"],
+    "correctAnswer": "Non-compliance issues"
   },
   {
     "id": 17,
-    "question": "Ex-Army chief General M.M. Naravane recently discussed how India changed tactics in which specific military operation?",
-    "options": ["Op Sindoor", "Op Vijay", "Op Cactus", "Op Parakram"],
-    "correctAnswer": "Op Sindoor"
+    "question": "Everest Food Products had faced earlier reviews for violations in which other category of products, prior to the hing ban?",
+    "options": ["Dairy products", "Snack foods", "Masala products", "Beverages"],
+    "correctAnswer": "Masala products"
   },
   {
     "id": 18,
-    "question": "The discussion by Ex-Army chief Naravane about new Indian Army tactics involved operations primarily conducted near which sensitive border region?",
-    "options": ["Line of Control (LoC)", "Line of Actual Control (LAC)", "International Border with Bangladesh", "India-Myanmar Border"],
-    "correctAnswer": "Line of Control (LoC)"
+    "question": "What is the common English name for 'hing', the spice product involved in the recent FSSAI ban?",
+    "options": ["Cumin", "Coriander", "Asafoetida", "Cardamom"],
+    "correctAnswer": "Asafoetida"
   },
   {
     "id": 19,
-    "question": "Which of the following Indian states does *not* share a land border with a neighboring country where major military operations are frequently discussed?",
-    "options": ["Telangana", "Jammu & Kashmir", "Punjab", "Rajasthan"],
-    "correctAnswer": "Telangana"
+    "question": "The FSSAI's action against spice manufacturers like Everest and Laljee Godhoo reinforces the importance of maintaining standards for what type of widely consumed products?",
+    "options": ["Processed snacks", "Beverages", "Food additives", "Spice products"],
+    "correctAnswer": "Spice products"
   },
   {
     "id": 20,
-    "question": "The change in tactics described by Ex-Army chief Naravane in Op Sindoor, emphasizing 'strikes not just near LoC', suggests a shift towards what kind of military engagement?",
-    "options": ["Expanding strike capabilities beyond immediate borders", "Relying solely on defensive postures", "Reducing cross-border engagements to diplomacy", "Prioritizing naval operations over ground forces"],
-    "correctAnswer": "Expanding strike capabilities beyond immediate borders"
+    "question": "What does FSSAI stand for, the organization responsible for ensuring food safety standards across India?",
+    "options": ["Federal Standard Safety Agency of India", "Food Safety and Standards Authority of India", "Food Supply and Storage Association of India", "Food Security Services Administration of India"],
+    "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
     "id": 21,
-    "question": "The 'School Thik Karo' campaign, featuring activist Abhijeet Dipke, primarily advocates for improvements in which vital public sector?",
-    "options": ["Education", "Healthcare", "Agriculture", "Public transportation"],
-    "correctAnswer": "Education"
+    "question": "From which month and year will Indian Standard Time (IST) become mandatory for all entities in India, including those operating in Telangana and Andhra Pradesh?",
+    "options": ["January 2025", "July 2026", "March 2027", "December 2028"],
+    "correctAnswer": "March 2027"
   },
   {
     "id": 22,
-    "question": "The 'School Thik Karo' campaign highlights concerns about education quality. Which initiative has the Telangana government notably undertaken to improve school infrastructure and facilities?",
-    "options": ["Mana Ooru Mana Badi", "Amma Vodi", "Jagananna Vidya Deevena", "Sarva Shiksha Abhiyan"],
-    "correctAnswer": "Mana Ooru Mana Badi"
+    "question": "What specific time standard is set to become mandatory for all entities across India starting March 2027?",
+    "options": ["Greenwich Mean Time", "Coordinated Universal Time", "Indian Standard Time", "Daylight Saving Time"],
+    "correctAnswer": "Indian Standard Time"
   },
   {
     "id": 23,
-    "question": "Activist Abhijeet Dipke, during the 'School Thik Karo' campaign, specifically highlighted issues like expired food, drawing attention to which critical aspect of the education system?",
-    "options": ["Mid-day meal quality and safety", "Teacher recruitment and training standards", "Curriculum development and reform", "Digital learning infrastructure and access"],
-    "correctAnswer": "Mid-day meal quality and safety"
+    "question": "The new mandate regarding Indian Standard Time (IST) from March 2027 applies to which broad category of organizations or groups across the nation?",
+    "options": ["Only government offices", "Only public sector undertakings", "All entities", "Only educational institutions"],
+    "correctAnswer": "All entities"
   },
   {
     "id": 24,
-    "question": "Andhra Pradesh has also launched significant programs for educational reform. Which program aims to provide financial assistance to mothers for sending their children to private schools/junior colleges?",
-    "options": ["Amma Vodi", "Mana Badi Nadu-Nedu", "Jagananna Vidya Kanuka", "YSR Rythu Bharosa"],
-    "correctAnswer": "Amma Vodi"
+    "question": "The year 2027 is significant as it marks the beginning of a new regulation concerning what aspect of timekeeping in India?",
+    "options": ["Introduction of a new timezone", "Mandatory adoption of Indian Standard Time", "Abolition of Daylight Saving Time", "Implementation of atomic clocks"],
+    "correctAnswer": "Mandatory adoption of Indian Standard Time"
   },
   {
     "id": 25,
-    "question": "BJP chief Nitin Nabin recently expressed displeasure over party MPs visiting the residence of which controversial figure, previously convicted in a 1984 anti-Sikh riots case?",
-    "options": ["Sajjan Kumar", "Lalu Prasad Yadav", "Suresh Kalmadi", "P. Chidambaram"],
-    "correctAnswer": "Sajjan Kumar"
+    "question": "The move to make IST mandatory for all entities from March 2027 aims to achieve what across India?",
+    "options": ["Introduce a dual-time system", "Promote regional time variations", "Standardize timekeeping", "Align with global time zones"],
+    "correctAnswer": "Standardize timekeeping"
   }
 ]

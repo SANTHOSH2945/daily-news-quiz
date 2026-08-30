@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to recent news, which South Indian state is explicitly mentioned as facing a substantial rainfall deficit during the monsoon season?",
-    "options": ["Kerala", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+    "question": "Which state, among others, was specifically mentioned in recent news for facing substantial rainfall deficits despite better-than-expected August rains, impacting its agricultural sector?",
+    "options": ["Telangana", "Kerala", "Andhra Pradesh", "Rajasthan"],
     "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "The ongoing monsoon deficit in India, impacting states like Andhra Pradesh, has primarily led to a significant acreage gap in the sowing of which crop season?",
-    "options": ["Rabi", "Zaid", "Kharif", "Perennial"],
-    "correctAnswer": "Kharif"
+    "question": "The significant acreage gap in kharif crop sowing in India, notably impacting states like Andhra Pradesh, is primarily attributed to what factor?",
+    "options": ["Excessive rainfall", "Monsoon deficit", "Lack of government subsidies", "Pest outbreaks"],
+    "correctAnswer": "Monsoon deficit"
   },
   {
     "id": 3,
-    "question": "Farmers in states like Andhra Pradesh, grappling with monsoon deficits, have seen notable declines in the acreage of which two specific kharif crops compared to last year?",
-    "options": ["Wheat and Barley", "Sugarcane and Cotton", "Paddy and Maize", "Jute and Tea"],
+    "question": "Which two crops were highlighted in recent reports as experiencing notable declines in acreage in India, affecting states like Andhra Pradesh, due to monsoon deficit?",
+    "options": ["Wheat and Sugarcane", "Paddy and Maize", "Cotton and Jute", "Groundnut and Pulses"],
     "correctAnswer": "Paddy and Maize"
   },
   {
     "id": 4,
-    "question": "Despite some August rains, what factor mentioned in the news prevented an increase in acreage for most kharif crops in regions including Andhra Pradesh?",
-    "options": ["Lack of seeds", "Erratic rainfall distribution", "Pest infestations", "Government policy changes"],
+    "question": "What factor, as per recent reports, prevented an increase in acreage for most kharif crops across India, including Andhra Pradesh, despite some August rainfall?",
+    "options": ["High seed costs", "Erratic rainfall distribution", "Labor shortage", "Limited market demand"],
     "correctAnswer": "Erratic rainfall distribution"
   },
   {
     "id": 5,
-    "question": "What is the overall cumulative status of India's monsoon rainfall, which includes impacts on Andhra Pradesh, as reported recently?",
-    "options": ["Significant surplus", "Minor surplus", "Cumulative deficit remains", "Normal rainfall achieved"],
-    "correctAnswer": "Cumulative deficit remains"
+    "question": "What is the reported status of India's cumulative monsoon rainfall after August, which continues to impact agricultural planning in states like Andhra Pradesh?",
+    "options": ["Significant surplus", "Normal rainfall", "Deficit remains", "Record high rainfall"],
+    "correctAnswer": "Deficit remains"
   },
   {
     "id": 6,
-    "question": "The significant acreage gap in kharif crop sowing, directly impacting agricultural states like Andhra Pradesh, is a consequence of which weather phenomenon?",
-    "options": ["Heatwave", "Cyclonic storms", "Monsoon deficit", "Winter fog"],
-    "correctAnswer": "Monsoon deficit"
+    "question": "A substantial rainfall deficit, as observed in states like Andhra Pradesh, directly impacts which major agricultural cropping season?",
+    "options": ["Rabi", "Zaid", "Kharif", "Winter"],
+    "correctAnswer": "Kharif"
   },
   {
     "id": 7,
-    "question": "Which critical cereal crop, a staple in states like Andhra Pradesh, has specifically experienced a notable decline in acreage due to the monsoon's erratic nature?",
-    "options": ["Wheat", "Ragi", "Jowar", "Paddy"],
-    "correctAnswer": "Paddy"
+    "question": "Besides Andhra Pradesh, which other Indian state was explicitly mentioned in the news as facing substantial rainfall deficits despite recent August rains?",
+    "options": ["Uttar Pradesh", "Gujarat", "Bihar", "Madhya Pradesh"],
+    "correctAnswer": "Bihar"
   },
   {
     "id": 8,
-    "question": "The news reports 'substantial rainfall deficits' in several Indian states. Besides Bihar, which other state was explicitly named in this context?",
-    "options": ["Gujarat", "Rajasthan", "Andhra Pradesh", "Odisha"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What is a primary consequence of a monsoon deficit on agricultural activities in affected regions, including Andhra Pradesh and Telangana?",
+    "options": ["Increased crop yield", "Earlier harvest times", "Reduced sowing acreage for kharif crops", "Shift to cash crops"],
+    "correctAnswer": "Reduced sowing acreage for kharif crops"
   },
   {
     "id": 9,
-    "question": "Beyond Paddy, which other major kharif crop's acreage has notably declined in states affected by India's monsoon deficit, such as Andhra Pradesh?",
-    "options": ["Wheat", "Barley", "Maize", "Mustard"],
-    "correctAnswer": "Maize"
+    "question": "The term 'kharif crops' in India primarily refers to crops that are cultivated during which season?",
+    "options": ["Summer season", "Winter season", "Monsoon season", "Spring season"],
+    "correctAnswer": "Monsoon season"
   },
   {
     "id": 10,
-    "question": "What kind of rainfall pattern, observed in regions like Andhra Pradesh, made it difficult to increase acreage for most kharif crops this season?",
-    "options": ["Continuous heavy rainfall", "Well-distributed moderate rainfall", "Erratic distribution", "Delayed onset but steady"],
-    "correctAnswer": "Erratic distribution"
+    "question": "Which of the following is typically considered a kharif crop, often impacted by monsoon variations in states like Andhra Pradesh?",
+    "options": ["Wheat", "Barley", "Gram", "Paddy"],
+    "correctAnswer": "Paddy"
   },
   {
     "id": 11,
-    "question": "Which regulatory body in India recently issued prohibition orders against Everest Food Products and Laljee Godhoo and Company for non-compliance?",
-    "options": ["BIS", "AGMARK", "FSSAI", "CCI"],
-    "correctAnswer": "FSSAI"
+    "question": "The proposed 'ARISE' project for coastal projection and climate resilience, initially reviewed for Odisha, is highly relevant to which other coastal state in India known for its long coastline?",
+    "options": ["Gujarat", "West Bengal", "Andhra Pradesh", "Karnataka"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 12,
-    "question": "For what specific spice product did FSSAI issue prohibition orders against Everest and Laljee Godhoo due to non-compliance issues?",
-    "options": ["Turmeric powder", "Chili powder", "Hing (asafoetida)", "Garam masala"],
-    "correctAnswer": "Hing (asafoetida)"
+    "question": "What is the primary focus of projects like 'ARISE' in Indian coastal states such as Andhra Pradesh?",
+    "options": ["Promoting tourism", "Developing fishing harbors", "Coastal protection and climate resilience", "Establishing industrial zones"],
+    "correctAnswer": "Coastal protection and climate resilience"
   },
   {
     "id": 13,
-    "question": "What specific quality requirement did samples of hing powder from Everest and Laljee Godhoo fail to meet, leading to the FSSAI ban?",
-    "options": ["Moisture content", "Purity of color", "Alcohol-soluble extract requirements", "Protein levels"],
-    "correctAnswer": "Alcohol-soluble extract requirements"
+    "question": "Which type of environmental challenge do 'climate resilience' projects, like the one for coastal projection, aim to address in states with long coastlines like Andhra Pradesh?",
+    "options": ["Air pollution", "Deforestation", "Impacts of climate change, including sea-level rise", "Desertification"],
+    "correctAnswer": "Impacts of climate change, including sea-level rise"
   },
   {
     "id": 14,
-    "question": "Besides Everest Food Products, which other company was prohibited by FSSAI from selling hing due to non-compliance?",
-    "options": ["MDH", "Catch", "Laljee Godhoo and Company", "Aashirvaad"],
-    "correctAnswer": "Laljee Godhoo and Company"
+    "question": "Coastal states like Andhra Pradesh are particularly vulnerable to which natural phenomena, making projects for coastal protection crucial?",
+    "options": ["Earthquakes", "Tornadoes", "Cyclones and storm surges", "Volcanic eruptions"],
+    "correctAnswer": "Cyclones and storm surges"
   },
   {
     "id": 15,
-    "question": "The FSSAI's recent actions against major spice companies highlight ongoing scrutiny in which sector within the Indian market, impacting consumers in states like Telangana?",
-    "options": ["Textile safety", "Pharmaceutical regulation", "Food safety", "Automotive standards"],
-    "correctAnswer": "Food safety"
+    "question": "What is the strategic importance of developing 'climate resilience' in Indian coastal regions, exemplified by states like Andhra Pradesh?",
+    "options": ["To boost industrial output", "To minimize damage and enable recovery from extreme weather events", "To increase agricultural exports", "To attract international investments"],
+    "correctAnswer": "To minimize damage and enable recovery from extreme weather events"
   },
   {
     "id": 16,
-    "question": "The FSSAI prohibition orders against spice companies were primarily issued due to what general issue?",
-    "options": ["Price manipulation", "Labor disputes", "Non-compliance issues", "Packaging violations"],
-    "correctAnswer": "Non-compliance issues"
+    "question": "Which Indian food safety authority recently issued prohibition orders against companies like Everest and Laljee Godhoo for non-compliant spice products?",
+    "options": ["BIS (Bureau of Indian Standards)", "FSSAI (Food Safety and Standards Authority of India)", "AGMARK (Agricultural Produce Grading and Marking)", "NABARD (National Bank for Agriculture and Rural Development)"],
+    "correctAnswer": "FSSAI (Food Safety and Standards Authority of India)"
   },
   {
     "id": 17,
-    "question": "Everest Food Products had faced earlier reviews for violations in which other category of products, prior to the hing ban?",
-    "options": ["Dairy products", "Snack foods", "Masala products", "Beverages"],
-    "correctAnswer": "Masala products"
+    "question": "What specific spice product was recently banned by FSSAI for certain companies due to non-compliance with quality standards?",
+    "options": ["Turmeric powder", "Chilli powder", "Garam masala", "Hing (asafoetida)"],
+    "correctAnswer": "Hing (asafoetida)"
   },
   {
     "id": 18,
-    "question": "What is the common English name for 'hing', the spice product involved in the recent FSSAI ban?",
-    "options": ["Cumin", "Coriander", "Asafoetida", "Cardamom"],
-    "correctAnswer": "Asafoetida"
+    "question": "The FSSAI ban on specific hing products was primarily due to failure to meet requirements for what particular characteristic?",
+    "options": ["Moisture content", "Color additives", "Alcohol-soluble extract", "Sodium levels"],
+    "correctAnswer": "Alcohol-soluble extract"
   },
   {
     "id": 19,
-    "question": "The FSSAI's action against spice manufacturers like Everest and Laljee Godhoo reinforces the importance of maintaining standards for what type of widely consumed products?",
-    "options": ["Processed snacks", "Beverages", "Food additives", "Spice products"],
-    "correctAnswer": "Spice products"
+    "question": "What is the primary role of the Food Safety and Standards Authority of India (FSSAI) in the country?",
+    "options": ["Promoting agricultural exports", "Regulating food safety and quality standards", "Providing food subsidies", "Managing public distribution system"],
+    "correctAnswer": "Regulating food safety and quality standards"
   },
   {
     "id": 20,
-    "question": "What does FSSAI stand for, the organization responsible for ensuring food safety standards across India?",
-    "options": ["Federal Standard Safety Agency of India", "Food Safety and Standards Authority of India", "Food Supply and Storage Association of India", "Food Security Services Administration of India"],
-    "correctAnswer": "Food Safety and Standards Authority of India"
+    "question": "The recent actions by FSSAI against spice manufacturers highlight the ongoing focus on what aspect of consumer welfare across all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Reducing food prices", "Ensuring food product quality and safety", "Increasing food production", "Promoting organic farming"],
+    "correctAnswer": "Ensuring food product quality and safety"
   },
   {
     "id": 21,
-    "question": "From which month and year will Indian Standard Time (IST) become mandatory for all entities in India, including those operating in Telangana and Andhra Pradesh?",
-    "options": ["January 2025", "July 2026", "March 2027", "December 2028"],
-    "correctAnswer": "March 2027"
+    "question": "Who among the following is the current Prime Minister of India, who recently undertook a diplomatic visit to Uzbekistan and met with its President?",
+    "options": ["Rahul Gandhi", "Amit Shah", "Narendra Modi", "Rajnath Singh"],
+    "correctAnswer": "Narendra Modi"
   },
   {
     "id": 22,
-    "question": "What specific time standard is set to become mandatory for all entities across India starting March 2027?",
-    "options": ["Greenwich Mean Time", "Coordinated Universal Time", "Indian Standard Time", "Daylight Saving Time"],
-    "correctAnswer": "Indian Standard Time"
+    "question": "Which Central Asian capital did Prime Minister Modi recently visit, where he was received by the Uzbek President Mirziyoyev?",
+    "options": ["Astana", "Bishkek", "Tashkent", "Dushanbe"],
+    "correctAnswer": "Tashkent"
   },
   {
     "id": 23,
-    "question": "The new mandate regarding Indian Standard Time (IST) from March 2027 applies to which broad category of organizations or groups across the nation?",
-    "options": ["Only government offices", "Only public sector undertakings", "All entities", "Only educational institutions"],
-    "correctAnswer": "All entities"
+    "question": "The recent meeting between PM Modi and Uzbek President Mirziyoyev is an example of India's ongoing efforts to strengthen what kind of ties?",
+    "options": ["Cultural exchange programs", "Bilateral diplomatic relations", "Sports cooperation agreements", "Regional trade blocs"],
+    "correctAnswer": "Bilateral diplomatic relations"
   },
   {
     "id": 24,
-    "question": "The year 2027 is significant as it marks the beginning of a new regulation concerning what aspect of timekeeping in India?",
-    "options": ["Introduction of a new timezone", "Mandatory adoption of Indian Standard Time", "Abolition of Daylight Saving Time", "Implementation of atomic clocks"],
-    "correctAnswer": "Mandatory adoption of Indian Standard Time"
+    "question": "Who is the current Sarsanghchalak (chief) of the Rashtriya Swayamsevak Sangh (RSS), who recently articulated the organization's global vision?",
+    "options": ["Dattatreya Hosabale", "Suresh Joshi", "Mohan Bhagwat", "Indresh Kumar"],
+    "correctAnswer": "Mohan Bhagwat"
   },
   {
     "id": 25,
-    "question": "The move to make IST mandatory for all entities from March 2027 aims to achieve what across India?",
-    "options": ["Introduce a dual-time system", "Promote regional time variations", "Standardize timekeeping", "Align with global time zones"],
-    "correctAnswer": "Standardize timekeeping"
+    "question": "What unifying vision did RSS chief Mohan Bhagwat articulate at a recent international event, which reflects a global perspective?",
+    "options": ["To establish economic dominance", "To promote cultural homogeneity", "To see the world as one family", "To strengthen national borders"],
+    "correctAnswer": "To see the world as one family"
   }
 ]

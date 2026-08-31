@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the bilateral trade target set between India and Uzbekistan for 2030?",
-    "options": ["$3 billion", "$4 billion", "$5 billion", "$6 billion"],
-    "correctAnswer": "$5 billion"
+    "question": "Which prominent MP from Hyderabad recently criticized Mohan Bhagwat's remarks regarding Hindu-Muslim relations?",
+    "options": ["Asaduddin Owaisi", "Akbaruddin Owaisi", "K. Kavitha", "Bandi Sanjay Kumar"],
+    "correctAnswer": "Asaduddin Owaisi"
   },
   {
     "id": 2,
-    "question": "During PM Modi's recent visit, what new status did India and Uzbekistan elevate their relationship to?",
-    "options": ["Economic Alliance", "Strategic Friendship", "Comprehensive Strategic Partnership", "Cultural Exchange Agreement"],
-    "correctAnswer": "Comprehensive Strategic Partnership"
+    "question": "The NEET-PG 2026 examination faced a retest for some candidates due to a power failure in which city?",
+    "options": ["Hyderabad", "Jaipur", "Bengaluru", "Chennai"],
+    "correctAnswer": "Jaipur"
   },
   {
     "id": 3,
-    "question": "Which key energy resource did India seal a long-term supply deal for with Uzbekistan?",
-    "options": ["Natural Gas", "Crude Oil", "Coal", "Uranium"],
-    "correctAnswer": "Uranium"
+    "question": "What was the primary reason for the retest scheduled for 2,445 candidates in the NEET-PG 2026 examination?",
+    "options": ["Question paper leak", "Technical glitch/power failure", "Unruly student behavior", "Incomplete registration process"],
+    "correctAnswer": "Technical glitch/power failure"
   },
   {
     "id": 4,
-    "question": "According to PM Modi, what is Uzbekistan's geographical significance?",
-    "options": ["It is the largest country in Central Asia", "It is a gateway to Europe", "It is at the heart of Central Asia", "It is a major maritime power"],
-    "correctAnswer": "It is at the heart of Central Asia"
+    "question": "Which organization is responsible for conducting the NEET-PG examination, as mentioned in the news?",
+    "options": ["MCI", "NBEMS", "UGC", "AICTE"],
+    "correctAnswer": "NBEMS"
   },
   {
     "id": 5,
-    "question": "Which Indian leader recently stated that 'Uzbekistan is at the heart of Central Asia'?",
-    "options": ["External Affairs Minister", "Prime Minister Modi", "President Droupadi Murmu", "Commerce Minister"],
-    "correctAnswer": "Prime Minister Modi"
+    "question": "Which Supreme Court judge recently emphasized that questioning is an essential expression of citizenship and liberty in democracies?",
+    "options": ["Justice D.Y. Chandrachud", "Justice Ujjal Bhuyan", "Justice Hima Kohli", "Justice K.M. Joseph"],
+    "correctAnswer": "Justice Ujjal Bhuyan"
   },
   {
     "id": 6,
-    "question": "What specific date was the CJP protest march in Lutyens' Delhi scheduled for, as mentioned in an SC plea?",
-    "options": ["August 28", "September 1", "September 5", "September 10"],
-    "correctAnswer": "September 5"
+    "question": "According to a recent statement by an SC judge, what does a democracy's maturity demonstrate in its response to?",
+    "options": ["Economic growth", "Unpopular or inconvenient opinions", "Military strength", "International relations"],
+    "correctAnswer": "Unpopular or inconvenient opinions"
   },
   {
     "id": 7,
-    "question": "A Supreme Court plea sought curbs on a protest march in Lutyens' Delhi by which organization?",
-    "options": ["BJP", "RSS", "CJP", "Trinamool Chhatra Parishad"],
-    "correctAnswer": "CJP"
+    "question": "According to a recent study, which gender tends to face greater mental health challenges after being diagnosed with Type 2 diabetes?",
+    "options": ["Men", "Women", "Both equally", "No significant difference"],
+    "correctAnswer": "Women"
   },
   {
     "id": 8,
-    "question": "Which CJP leader commented on the relationship between BJP and RSS, suggesting BJP should listen to Mohan Bhagwat?",
-    "options": ["Tejashwi Yadav", "Abhijeet Dipke", "Akhilesh Yadav", "Agnimitra Paul"],
-    "correctAnswer": "Abhijeet Dipke"
+    "question": "What health complication is commonly observed in both men and women after developing diabetes, according    to the study?",
+    "options": ["Thyroid issues", "Hypertension", "Vision loss", "Arthritis"],
+    "correctAnswer": "Hypertension"
   },
   {
     "id": 9,
-    "question": "According to Abhijeet Dipke, what does BJP allegedly think of itself in relation to RSS?",
-    "options": ["An equal partner", "A junior ally", "Bigger than RSS", "Guided by RSS"],
-    "correctAnswer": "Bigger than RSS"
+    "question": "The study on diabetes suggests a need for what specific approach in patient care and monitoring?",
+    "options": ["Universal treatment protocols", "Diet-focused therapy", "Sex-specific diabetes care", "Advanced surgical interventions"],
+    "correctAnswer": "Sex-specific diabetes care"
   },
   {
     "id": 10,
-    "question": "Who is the RSS chief that recently recalled the 1996 Charkhi Dadri mid-air collision?",
-    "options": ["J.P. Nadda", "Rajnath Singh", "Mohan Bhagwat", "Amit Shah"],
-    "correctAnswer": "Mohan Bhagwat"
+    "question": "What length of highway projects has NHAI mandated end-to-end AI-MC (Artificial Intelligence and Machine Control) deployment for?",
+    "options": ["Projects over 5 km", "Projects over 10 km", "Projects over 20 km", "Projects over 50 km"],
+    "correctAnswer": "Projects over 20 km"
   },
   {
     "id": 11,
-    "question": "What humanitarian aspect did Mohan Bhagwat highlight regarding RSS volunteers' actions during the Charkhi Dadri disaster?",
-    "options": ["They provided financial aid", "They focused on political advocacy", "They served injured and deceased without considering religious identity", "They rebuilt infrastructure"],
-    "correctAnswer": "They served injured and deceased without considering religious identity"
+    "question": "What technology has NHAI recently mandated for end-to-end deployment in highway projects exceeding 20 km?",
+    "options": ["IoT sensors and drones", "AI-MC (Artificial Intelligence and Machine Control)", "Blockchain for supply chain", "Augmented Reality for planning"],
+    "correctAnswer": "AI-MC (Artificial Intelligence and Machine Control)"
   },
   {
     "id": 12,
-    "question": "In what year did the Charkhi Dadri mid-air collision, recalled by Mohan Bhagwat, occur?",
-    "options": ["1986", "1991", "1996", "2001"],
-    "correctAnswer": "1996"
+    "question": "Climate activist Sonam Wangchuk recently commented on the political ambitions of organizers of which movement?",
+    "options": ["Farmer's Protest", "Cockroach Janta Party (CJP)", "Anti-Corruption Movement", "Save Rivers Campaign"],
+    "correctAnswer": "Cockroach Janta Party (CJP)"
   },
   {
     "id": 13,
-    "question": "What was the core philosophy emphasized by Mohan Bhagwat regarding RSS's selfless service, as recalled from the Charkhi Dadri event?",
-    "options": ["Publicity for actions", "Serving only specific communities", "Not seeking publicity and fostering unity", "Political mobilization"],
-    "correctAnswer": "Not seeking publicity and fostering unity"
+    "question": "Sonam Wangchuk advised the organizers of the CJP movement to maintain it as what kind of group for broader support?",
+    "options": ["Political party", "Neutral pressure group", "Social welfare organization", "Environmental advocacy firm"],
+    "correctAnswer": "Neutral pressure group"
   },
   {
     "id": 14,
-    "question": "Which two countries aimed to take bilateral trade to $5 billion by 2030?",
-    "options": ["India and Iran", "India and Nepal", "India and Uzbekistan", "India and Afghanistan"],
-    "correctAnswer": "India and Uzbekistan"
+    "question": "PM Modi is likely to hold bilateral talks with the President of which country, as per recent news?",
+    "options": ["Afghanistan", "Pakistan", "Iran", "Saudi Arabia"],
+    "correctAnswer": "Iran"
   },
   {
     "id": 15,
-    "question": "The recent agreement between India and Uzbekistan secured a long-term supply of what crucial element for India's energy sector?",
-    "options": ["Thorium", "Plutonium", "Deuterium", "Uranium"],
-    "correctAnswer": "Uranium"
-  },
-  {
-    "id": 16,
-    "question": "The 'Comprehensive Strategic Partnership' was established between India and which Central Asian nation?",
-    "options": ["Kazakhstan", "Tajikistan", "Kyrgyzstan", "Uzbekistan"],
+    "question": "India recently enhanced its engagement to a comprehensive strategic partnership with which Central Asian country?",
+    "options": ["Kazakhstan", "Turkmenistan", "Kyrgyzstan", "Uzbekistan"],
     "correctAnswer": "Uzbekistan"
   },
   {
+    "id": 16,
+    "question": "India and Uzbekistan recently formalized an agreement for the supply of which critical resource?",
+    "options": ["Natural gas", "Crude oil", "Uranium", "Coal"],
+    "correctAnswer": "Uranium"
+  },
+  {
     "id": 17,
-    "question": "Where was the CJP protest march, subject of an SC plea, planned to take place?",
-    "options": ["Jantar Mantar", "Lutyens' Delhi", "India Gate", "Parliament Street"],
-    "correctAnswer": "Lutyens' Delhi"
+    "question": "What is the ambitious annual trade target set by India and Uzbekistan?",
+    "options": ["One billion dollars", "Two billion dollars", "Five billion dollars", "Ten billion dollars"],
+    "correctAnswer": "Five billion dollars"
   },
   {
     "id": 18,
-    "question": "What was the central point of the SC plea regarding the CJP protest march?",
-    "options": ["To allow the protest", "To provide security", "To seek curbs on the march", "To change the protest venue"],
-    "correctAnswer": "To seek curbs on the march"
+    "question": "What was the recent statistic highlighted by the Chief Justice of India regarding the recovery rate of laundered money?",
+    "options": ["10 out of 100", "5 out of 100", "1 out of 100", "25 out of 100"],
+    "correctAnswer": "1 out of 100"
   },
   {
     "id": 19,
-    "question": "What was the context in which Mohan Bhagwat spoke about RSS volunteers providing aid without considering religious identity?",
-    "options": ["A flood relief effort", "The 1996 Charkhi Dadri mid-air collision", "A communal riot", "A medical camp"],
-    "correctAnswer": "The 1996 Charkhi Dadri mid-air collision"
+    "question": "How many candidates were affected by the power failure during the NEET-PG 2026 exam in Jaipur?",
+    "options": ["1,225", "2,445", "3,660", "4,890"],
+    "correctAnswer": "2,445"
   },
   {
     "id": 20,
-    "question": "Beyond trade, what other major outcome resulted from PM Modi's visit to Uzbekistan regarding bilateral ties?",
-    "options": ["Cultural Exchange Program", "Visa-free travel", "Elevation to Comprehensive Strategic Partnership", "Military Alliance"],
-    "correctAnswer": "Elevation to Comprehensive Strategic Partnership"
+    "question": "What measures were reportedly in place for the nationwide NEET-PG examination to ensure security and monitoring?",
+    "options": ["Biometric scanning only", "Extensive security measures and real-time monitoring", "AI proctoring", "Manual invigilation only"],
+    "correctAnswer": "Extensive security measures and real-time monitoring"
   },
   {
     "id": 21,
-    "question": "Which Indian organization's chief recalled a 1996 air disaster to exemplify selfless service?",
-    "options": ["Congress Party", "Bharatiya Janata Party (BJP)", "Rashtriya Swayamsevak Sangh (RSS)", "Communist Party of India (CPI)"],
-    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
+    "question": "According to Justice Ujjal Bhuyan, what specific institutions should foster free thinking and encourage students to ask difficult questions?",
+    "options": ["Political parties", "Government ministries", "Universities", "Corporate firms"],
+    "correctAnswer": "Universities"
   },
   {
     "id": 22,
-    "question": "What commodity deal was a significant part of the new roadmap announced during PM Modi's visit to Uzbekistan?",
-    "options": ["Natural Gas export from India", "Agricultural product exchange", "Long-term uranium supply", "Textile import from Uzbekistan"],
-    "correctAnswer": "Long-term uranium supply"
+    "question": "When does intolerance undermine the constitutional framework, as stated by Justice Ujjal Bhuyan?",
+    "options": ["When economic growth is slow", "When disagreement is silenced or punished", "When public opinion shifts", "When judicial review is exercised"],
+    "correctAnswer": "When disagreement is silenced or punished"
   },
   {
     "id": 23,
-    "question": "Who is the current Prime Minister of India whose visit to Uzbekistan led to several key agreements?",
-    "options": ["Narendra Modi", "Manmohan Singh", "Atal Bihari Vajpayee", "Indira Gandhi"],
-    "correctAnswer": "Narendra Modi"
+    "question": "The study on Type 2 diabetes indicated that people developing mental health conditions after diagnosis tend to experience what?",
+    "options": ["Improved recovery rates", "Earlier mortality", "Reduced need for medication", "No significant impact"],
+    "correctAnswer": "Earlier mortality"
   },
   {
     "id": 24,
-    "question": "The CJP leader Abhijeet Dipke suggested that BJP should listen to whom?",
-    "options": ["The Supreme Court", "The people of India", "Mohan Bhagwat", "Other opposition parties"],
-    "correctAnswer": "Mohan Bhagwat"
+    "question": "What does 'AI-MC' stand for in the context of NHAI's new mandate for highway projects?",
+    "options": ["Advanced Infrastructure – Modern Construction", "Artificial Intelligence – Machine Control", "Automated Inspection – Maintenance Check", "All India – Mega Connectivity"],
+    "correctAnswer": "Artificial Intelligence – Machine Control"
   },
   {
     "id": 25,
-    "question": "What kind of partnership did India and Uzbekistan elevate their relationship to?",
-    "options": ["Economic and Cultural", "Security and Defense", "Comprehensive Strategic", "Regional Development"],
-    "correctAnswer": "Comprehensive Strategic"
+    "question": "Climate activist Sonam Wangchuk stated that the organizers of the CJP movement, despite political ambitions, have no current indications of what?",
+    "options": ["Public support", "Corruption", "International ties", "Funding issues"],
+    "correctAnswer": "Corruption"
   }
 ]

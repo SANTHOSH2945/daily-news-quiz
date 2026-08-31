@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the main objective of the 'school thik karo' campaign initiated by the Cockroach Janata Party (CJP) across India?",
-    "options": ["Improve railway infrastructure", "Reform government school conditions", "Promote digital literacy", "Support agricultural development"],
-    "correctAnswer": "Reform government school conditions"
+    "question": "Where did PM Modi meet President Putin for bilateral talks, as reported in the news?",
+    "options": ["Moscow", "Astana", "Bishkek", "Tashkent"],
+    "correctAnswer": "Bishkek"
   },
   {
     "id": 2,
-    "question": "According to the news, which group is increasingly seen as a potential game-changer in electoral politics due to movements like the 'school thik karo' campaign?",
-    "options": ["Farmers", "Industrialists", "Youth", "Senior citizens"],
-    "correctAnswer": "Youth"
+    "question": "What was PM Modi's core message to President Putin regarding the ongoing conflict, as highlighted in the headlines?",
+    "options": ["Intensify peace talks", "Move from endless war to end of war", "Seek UN intervention", "Focus on economic cooperation"],
+    "correctAnswer": "Move from endless war to end of war"
   },
   {
     "id": 3,
-    "question": "The CJP's 'school thik karo' campaign exposed poor government school infrastructure in which context?",
-    "options": ["Only specific metropolitan areas", "Several states across India", "Predominantly private schools", "International schools only"],
-    "correctAnswer": "Several states across India"
+    "question": "Which Iranian President did PM Modi meet recently to discuss trade and West Asia peace?",
+    "options": ["Raisi", "Khamenei", "Pezeshkian", "Rouhani"],
+    "correctAnswer": "Pezeshkian"
   },
   {
     "id": 4,
-    "question": "How have state governments generally reacted to the CJP's campaign exposing poor school infrastructure?",
-    "options": ["Ignored the campaign entirely", "Responded with new regulations and accelerated development projects", "Increased taxes on private schools", "Delegated all responsibility to local bodies"],
-    "correctAnswer": "Responded with new regulations and accelerated development projects"
+    "question": "What was India's stance on the recent Court of Arbitration ruling regarding the Indus Waters Treaty?",
+    "options": ["Accepted the ruling under protest", "Rejected it as illegal with no jurisdiction", "Sought further negotiations", "Agreed to abide by the decision"],
+    "correctAnswer": "Rejected it as illegal with no jurisdiction"
   },
   {
     "id": 5,
-    "question": "What shift has been observed in the location of student protests for improved school conditions across India?",
-    "options": ["From urban centers to international cities", "From cities to villages", "From colleges to universities", "From government schools to private schools"],
-    "correctAnswer": "From cities to villages"
+    "question": "What was India's GDP growth rate in the first quarter of FY27, as mentioned in the news wrap, a figure relevant to economies like Telangana and Andhra Pradesh?",
+    "options": ["6.5%", "7.2%", "7.8%", "8.1%"],
+    "correctAnswer": "7.8%"
   },
   {
     "id": 6,
-    "question": "Which national examination is at the center of a recent plea by the Centre to the Supreme Court seeking to quash FIRs against protesters?",
-    "options": ["JEE Main", "UPSC Civil Services Exam", "NEET", "CLAT"],
-    "correctAnswer": "NEET"
+    "question": "According to Shaina NC, what social issue does Swachh Bharat Abhiyan, a program implemented across India including Telangana and Andhra Pradesh, aim to reduce?",
+    "options": ["Illiteracy", "Poverty", "Untouchability", "Gender inequality"],
+    "correctAnswer": "Untouchability"
   },
   {
     "id": 7,
-    "question": "Who presented the Centre's plea to the Supreme Court regarding quashing FIRs against NEET protesters?",
-    "options": ["Attorney General of India", "Chief Justice of India", "Solicitor General Tushar Mehta", "Union Education Minister"],
-    "correctAnswer": "Solicitor General Tushar Mehta"
+    "question": "Which prominent Indian political leader was mentioned for using sarees as part of their political messaging?",
+    "options": ["Nirmala Sitharaman", "Priyanka Gandhi", "Mamata Banerjee", "Smriti Irani"],
+    "correctAnswer": "Mamata Banerjee"
   },
   {
     "id": 8,
-    "question": "When is the Supreme Court scheduled to hear the significant matter concerning FIRs against NEET protesters?",
-    "options": ["August 15", "September 1", "October 2", "November 14"],
-    "correctAnswer": "September 1"
+    "question": "Who recently highlighted India's legacy of refuge and global service, stating India is a 'Vishwaguru, not a Mahashakti'?",
+    "options": ["S. Jaishankar", "Mohan Bhagwat", "Rajnath Singh", "Amit Shah"],
+    "correctAnswer": "Mohan Bhagwat"
   },
   {
     "id": 9,
-    "question": "Which political party announced a new protest march in Delhi on September 5 over unfulfilled assurances related to student and education issues?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Cockroach Janata Party (CJP)", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Cockroach Janata Party (CJP)"
+    "question": "Which Indian constitutional article is being invoked by the Supreme Court to hear the Centre's plea to quash FIRs against NEET protesters, a matter affecting students across India including Telangana and Andhra Pradesh?",
+    "options": ["Article 32", "Article 142", "Article 226", "Article 136"],
+    "correctAnswer": "Article 142"
   },
   {
     "id": 10,
-    "question": "Did the Supreme Court intervene in the CJP's planned September 5 protest march in Delhi?",
-    "options": ["Yes, it granted permission", "Yes, it banned the march", "No, it declined to intervene", "It postponed its decision"],
-    "correctAnswer": "No, it declined to intervene"
+    "question": "When is the Supreme Court scheduled to hear the Centre's plea regarding FIRs against NEET protesters?",
+    "options": ["August 25", "September 1", "October 15", "November 1"],
+    "correctAnswer": "September 1"
   },
   {
     "id": 11,
-    "question": "What reason did the Supreme Court cite for declining to intervene in the CJP's September 5 protest march?",
-    "options": ["Lack of jurisdiction", "No compelling circumstance", "The protest was already permitted", "Security concerns were too high"],
-    "correctAnswer": "No compelling circumstance"
+    "question": "Where did an Air India flight make an emergency landing after a 'bomb' note was found in its lavatory?",
+    "options": ["Mumbai", "Delhi", "Chennai", "Ahmedabad"],
+    "correctAnswer": "Ahmedabad"
   },
   {
     "id": 12,
-    "question": "The Supreme Court recently dismissed a plea seeking mandatory disclosure of what substance's content at petrol pumps and on fuel bills across India?",
-    "options": ["Diesel additives", "Ethanol", "Sulphur", "Lead"],
-    "correctAnswer": "Ethanol"
+    "question": "The recent bilateral talks between PM Modi and President Putin, where they shared a car ride, took place in which city?",
+    "options": ["Samarkand", "Tashkent", "Dushanbe", "Bishkek"],
+    "correctAnswer": "Bishkek"
   },
   {
     "id": 13,
-    "question": "What was the specific demand of the plea dismissed by the SC regarding fuel at petrol pumps?",
-    "options": ["To increase fuel prices", "To make ethanol content disclosure mandatory on fuel bills and at pumps", "To ban certain fuel types", "To reduce fuel taxes"],
-    "correctAnswer": "To make ethanol content disclosure mandatory on fuel bills and at pumps"
+    "question": "What were the primary topics of discussion during PM Modi's meeting with Iran's President Pezeshkian?",
+    "options": ["Energy security and defense", "Trade and West Asia peace", "Climate change and technology", "Cultural exchange and tourism"],
+    "correctAnswer": "Trade and West Asia peace"
   },
   {
     "id": 14,
-    "question": "Which prominent Indian political leader, often associated with Telangana, recently made a remark about PM Modi's 'Uzbek honour' by referencing Babur?",
-    "options": ["K. Chandrashekar Rao", "Y. S. Jagan Mohan Reddy", "Asaduddin Owaisi", "N. Chandrababu Naidu"],
-    "correctAnswer": "Asaduddin Owaisi"
+    "question": "What specific reason did India cite for its rejection of the Court of Arbitration's award on the Indus Waters Treaty?",
+    "options": ["Unfair terms", "Treaty violation", "No jurisdiction", "Technical discrepancies"],
+    "correctAnswer": "No jurisdiction"
   },
   {
     "id": 15,
-    "question": "What historical figure did Asaduddin Owaisi reference in his remark about PM Modi's Uzbek honour, questioning the origin of Babur?",
-    "options": ["Akbar", "Ashoka", "Babur", "Shivaji"],
-    "correctAnswer": "Babur"
+    "question": "Whose economic estimates did India's 7.8% GDP growth in the first quarter of FY27 exceed?",
+    "options": ["World Bank estimates", "IMF estimates", "RBI estimates", "NITI Aayog estimates"],
+    "correctAnswer": "RBI estimates"
   },
   {
     "id": 16,
-    "question": "The Centre's plea to quash FIRs against NEET protesters is primarily aimed at protecting whom?",
-    "options": ["Government officials", "Students participating in protests", "Medical college administrators", "Exam conducting bodies"],
-    "correctAnswer": "Students participating in protests"
+    "question": "Shaina NC's remarks linking Swachh Bharat to reducing untouchability were targeted at which political leader?",
+    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "P. Chidambaram", "Adhir Ranjan Chowdhury"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 17,
-    "question": "The 'school thik karo' campaign, spearheaded by the CJP, primarily targets which aspect of India's education system?",
-    "options": ["Private school curriculum", "Government school infrastructure and conditions", "Higher education funding", "Online learning platforms"],
-    "correctAnswer": "Government school infrastructure and conditions"
+    "question": "Besides PM Modi's jackets and Mamata Banerjee's sarees, whose shirts were mentioned as an example of political fashion messaging?",
+    "options": ["Arvind Kejriwal", "Akhilesh Yadav", "Rahul Gandhi", "M.K. Stalin"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 18,
-    "question": "Beyond infrastructure, what other issues are indirectly highlighted by the 'school thik karo' campaign in government schools across various states?",
-    "options": ["Lack of sports facilities", "Poor academic performance of students", "Insufficient teaching staff and basic amenities (e.g., toilets, roofs)", "Overcrowding in classrooms"],
-    "correctAnswer": "Insufficient teaching staff and basic amenities (e.g., toilets, roofs)"
+    "question": "What aspect of India's legacy did RSS chief Mohan Bhagwat highlight in his 'Vishwaguru' statement?",
+    "options": ["Military strength and strategic alliances", "Economic prowess and industrial growth", "Legacy of refuge and global service", "Technological innovation and digital advancements"],
+    "correctAnswer": "Legacy of refuge and global service"
   },
   {
     "id": 19,
-    "question": "The Supreme Court's non-intervention in the CJP's September 5 protest march implies what regarding the fundamental right to protest?",
-    "options": ["It restricts all forms of public assembly.", "It upholds the right to peaceful protest in the absence of compelling reasons against it.", "It only allows government-sanctioned protests.", "It mandates police permission for all protests."],
-    "correctAnswer": "It upholds the right to peaceful protest in the absence of compelling reasons against it."
+    "question": "The Supreme Court's power to do 'complete justice' by hearing the plea against FIRs on NEET protesters is primarily derived from which Article of the Indian Constitution?",
+    "options": ["Article 139", "Article 141", "Article 142", "Article 143"],
+    "correctAnswer": "Article 142"
   },
   {
     "id": 20,
-    "question": "What kind of political shift is highlighted by the CJP's campaigns like 'school thik karo' and NEET protests, influencing states like Telangana and Andhra Pradesh?",
-    "options": ["Shift towards international politics", "Increased focus on economic reforms", "Youth-centric political discourse and activism", "Emphasis on defense spending"],
-    "correctAnswer": "Youth-centric political discourse and activism"
+    "question": "Which national airline was involved in the incident of an emergency landing in Ahmedabad after a bomb threat?",
+    "options": ["IndiGo", "SpiceJet", "Vistara", "Air India"],
+    "correctAnswer": "Air India"
   },
   {
     "id": 21,
-    "question": "The Centre's plea to the Supreme Court to quash FIRs against NEET protesters is seen as a move to address concerns regarding:",
-    "options": ["The validity of the NEET exam itself.", "The legal repercussions faced by students for expressing grievances.", "The allocation of medical seats.", "The security arrangements at protest sites."],
-    "correctAnswer": "The legal repercussions faced by students for expressing grievances."
+    "question": "How did India officially characterize the Court of Arbitration's award on the Indus Waters Treaty when rejecting it?",
+    "options": ["Non-binding", "Inadmissible", "Illegal", "Disputed"],
+    "correctAnswer": "Illegal"
   },
   {
     "id": 22,
-    "question": "The dismissal of the plea for mandatory ethanol content disclosure at petrol pumps means:",
-    "options": ["Ethanol content is now classified information.", "It remains non-mandatory for petrol pumps to disclose this information publicly.", "Petrol pumps must now disclose other fuel additives.", "The government plans to ban ethanol blending."],
-    "correctAnswer": "It remains non-mandatory for petrol pumps to disclose this information publicly."
+    "question": "The reported 7.8% GDP growth in India, which influences economic conditions in states like Telangana and Andhra Pradesh, pertains to which financial year's first quarter?",
+    "options": ["FY26", "FY27", "FY25", "FY24"],
+    "correctAnswer": "FY27"
   },
   {
     "id": 23,
-    "question": "The 'Cockroach Janata Party' (CJP) has been instrumental in changing the discourse of politics by focusing on what key area that impacts states like Telangana and Andhra Pradesh?",
-    "options": ["Foreign policy", "Social media regulations", "Public education and student issues", "Monetary policy"],
-    "correctAnswer": "Public education and student issues"
+    "question": "What specific term did RSS chief Mohan Bhagwat use to describe India's aspirational global role, as opposed to a 'Mahashakti'?",
+    "options": ["Loknayak", "Jagatguru", "Vishwaguru", "Sarvashreshtha"],
+    "correctAnswer": "Vishwaguru"
   },
   {
     "id": 24,
-    "question": "In the context of the 'school thik karo' campaign, accelerated development projects initiated by state governments are primarily aimed at what?",
-    "options": ["Building new private schools", "Improving infrastructure and facilities in existing government schools", "Establishing virtual classrooms", "Funding teacher training abroad"],
-    "correctAnswer": "Improving infrastructure and facilities in existing government schools"
+    "question": "The recent tensions between Congress and TVK mentioned in the news were centered around what political issue, relevant to national political dynamics affecting all states?",
+    "options": ["Seat-sharing for upcoming elections", "Disagreement on economic policies", "2029 prime ministerial candidate", "State leadership positions"],
+    "correctAnswer": "2029 prime ministerial candidate"
   },
   {
     "id": 25,
-    "question": "Asaduddin Owaisi's critical remarks regarding PM Modi's foreign engagements, given his base in Telangana, often underscore concerns related to:",
-    "options": ["India's trade deficit.", "The historical and cultural narratives promoted by the government.", "International climate change policies.", "The performance of the national cricket team."],
-    "correctAnswer": "The historical and cultural narratives promoted by the government."
+    "question": "Apart from Russia's President Putin, which other head of state did PM Modi recently meet, according to the news wrap?",
+    "options": ["US President Joe Biden", "French President Emmanuel Macron", "Iran's President Pezeshkian", "UK Prime Minister Keir Starmer"],
+    "correctAnswer": "Iran's President Pezeshkian"
   }
 ]

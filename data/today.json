@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Flooding is a recurring issue across India, affecting states like Telangana and Andhra Pradesh. According to recent reports, which Indian state experienced over 11,000 hectares inundated by rising rivers?",
-    "options": ["Bihar", "Uttar Pradesh", "West Bengal", "Assam"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "Which international organization's summit did Prime Minister Modi attend, where he presented gifts to leaders from Uzbekistan and Kyrgyzstan?",
+    "options": ["G20", "BRICS", "SCO", "SAARC"],
+    "correctAnswer": "SCO"
   },
   {
     "id": 2,
-    "question": "The recent floods caused significant inundation in Uttar Pradesh. How many districts in UP, similar to how floods can impact multiple districts in Andhra Pradesh, were reported to be affected by these rising rivers?",
-    "options": ["Three", "Five", "Seven", "Nine"],
-    "correctAnswer": "Five"
+    "question": "Besides Uzbekistan, which other country's leader received gifts from PM Modi at the recent SCO summit?",
+    "options": ["Kazakhstan", "Tajikistan", "Kyrgyzstan", "Turkmenistan"],
+    "correctAnswer": "Kyrgyzstan"
   },
   {
     "id": 3,
-    "question": "Environmental issues, like the spread of unusual species, are a concern across India, including states like Telangana. In which Indian state did floods from Nepal recently lead to the discovery of unusual fish in the Gandak river?",
-    "options": ["Uttar Pradesh", "Bihar", "Jharkhand", "Uttarakhand"],
-    "correctAnswer": "Bihar"
+    "question": "What ancient Indian epic was among the gifts PM Modi presented to leaders at the SCO summit?",
+    "options": ["Ramayana", "Mahabharata", "Bhagavad Gita", "Panchatantra"],
+    "correctAnswer": "Mahabharata"
   },
   {
     "id": 4,
-    "question": "The Bihar government issued a warning against consuming 'unusual' fish found in the Gandak river. Which type of catfish, locally known as Gochita, was specifically mentioned among these species, a situation that could be relevant to aquatic life studies in Andhra Pradesh's rivers?",
-    "options": ["Pangasius catfish", "Goonch catfish", "Walking catfish", "Blue catfish"],
-    "correctAnswer": "Goonch catfish"
-  },
-  {
-    "id": 5,
-    "question": "Prime Minister Modi's engagement in international forums like the SCO summit represents all of India, including Telangana and Andhra Pradesh. Which two countries' leaders received gifts from PM Modi at the recent SCO summit?",
-    "options": ["Kazakhstan and Tajikistan", "Uzbekistan and Kyrgyzstan", "China and Russia", "Iran and Belarus"],
-    "correctAnswer": "Uzbekistan and Kyrgyzstan"
-  },
-  {
-    "id": 6,
-    "question": "At the SCO summit, PM Modi presented various traditional Indian items. Which of the following, known for its intricate artistry, was mentioned as a gift, reflecting India's cultural heritage cherished also in states like Andhra Pradesh?",
-    "options": ["Pochampally Ikat", "Marble Inlay", "Kalamkari Painting", "Mysore Silk"],
+    "question": "What traditional Indian craft, often associated with intricate stone work, was featured in PM Modi's gifts at the SCO summit?",
+    "options": ["Kalamkari", "Marble Inlay", "Pattachitra", "Bidriware"],
     "correctAnswer": "Marble Inlay"
   },
   {
-    "id": 7,
-    "question": "Beyond marble inlay, what other traditional Indian textile, commonly used for exquisite garments and a craft also practiced in different forms in Telangana, was among PM Modi's gifts at the SCO summit?",
+    "id": 5,
+    "question": "Which material, known for its luxurious fabric, was also part of PM Modi's diplomatic gifts at the SCO summit?",
     "options": ["Cotton", "Linen", "Silk", "Jute"],
     "correctAnswer": "Silk"
   },
   {
-    "id": 8,
-    "question": "In the context of recent political events in India, affecting national leaders active in states like Telangana, which political party's SC Morcha performed a 'buddhi-shuddhi' ritual for Rahul Gandhi?",
-    "options": ["Indian National Congress", "Bahujan Samaj Party", "Bharatiya Janata Party (BJP)", "Samajwadi Party"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "id": 6,
+    "question": "Prime Minister Modi recently criticized the use of terrorism as a strategic asset. At which international forum did he make these remarks?",
+    "options": ["UN General Assembly", "SCO Summit", "G7 Summit", "Quad Leaders' Summit"],
+    "correctAnswer": "SCO Summit"
   },
   {
-    "id": 9,
-    "question": "The 'buddhi-shuddhi' ritual was performed by the BJP SC Morcha, targeting which prominent national political figure, who also campaigns frequently in states like Andhra Pradesh?",
-    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Mallikarjun Kharge"],
-    "correctAnswer": "Rahul Gandhi"
-  },
-  {
-    "id": 10,
-    "question": "Complaints of 'political vendetta' are not uncommon in Indian politics, including the heated political landscape of Telangana. Which Trinamool Congress (TMC) leader recently alleged 'political vendetta' after being grilled by the police?",
-    "options": ["Mamata Banerjee", "Derek O'Brien", "Abhishek Banerjee", "Subrata Bakshi"],
-    "correctAnswer": "Abhishek Banerjee"
-  },
-  {
-    "id": 11,
-    "question": "The TMC leader, Abhishek Banerjee, faced police grilling over which specific type of case, highlighting issues that can arise in public life across any Indian state, including Andhra Pradesh?",
-    "options": ["Corruption allegations", "Defamation charges", "Scuffle case", "Illegal mining case"],
-    "correctAnswer": "Scuffle case"
-  },
-  {
-    "id": 12,
-    "question": "Public figures' gestures often gain media attention. In Tamil Nadu, 'CM Vijay' recently gifted his Dior glasses to an elderly woman in Mettur. How would this 'CM Vijay' typically be identified by the general public in Telangana or Andhra Pradesh?",
-    "options": ["As the sitting Chief Minister of Tamil Nadu", "As a prominent film actor and politician", "As a former Chief Minister of Tamil Nadu", "As a leading industrialist"],
-    "correctAnswer": "As a prominent film actor and politician"
-  },
-  {
-    "id": 13,
-    "question": "The incident involving 'CM Vijay's' gift took place in which specific town in Tamil Nadu, a state geographically close to Andhra Pradesh and with shared cultural ties?",
-    "options": ["Coimbatore", "Madurai", "Mettur", "Tiruchirappalli"],
-    "correctAnswer": "Mettur"
-  },
-  {
-    "id": 14,
-    "question": "Technological products like Ray-Ban Meta glasses raise significant privacy questions for users across India, including in Telangana. What was the monetary value of the legal notice filed alleging covert filming with these glasses?",
-    "options": ["Rs 2.05 lakh", "Rs 20.5 lakh", "Rs 2.05 crore", "Rs 20.5 crore"],
-    "correctAnswer": "Rs 2.05 crore"
-  },
-  {
-    "id": 15,
-    "question": "The legal notice concerning Ray-Ban Meta glasses highlighted a major question about corporate responsibility. Which entity was questioned regarding its accountability for designing eyewear that allows unsuspecting bystanders to be recorded, an issue relevant to digital privacy laws in Andhra Pradesh?",
-    "options": ["Ray-Ban", "Meta", "Google", "Apple"],
-    "correctAnswer": "Meta"
-  },
-  {
-    "id": 16,
-    "question": "In a political dig in Tamil Nadu, a former CM made comments about 'CM Vijay's' 'PM ambitions'. Such political sparring is common even among leaders in Telangana and Andhra Pradesh. Who made these remarks?",
-    "options": ["M.K. Stalin", "E.K. Palaniswami", "O. Panneerselvam", "K. Chandrashekar Rao"],
-    "correctAnswer": "E.K. Palaniswami"
-  },
-  {
-    "id": 17,
-    "question": "The political 'dig' referred to the 'PM ambitions' of 'CM Vijay'. What kind of ambition was Palaniswami alluding to for the actor-turned-politician, a type of ambition not uncommon among aspiring leaders in Telangana?",
-    "options": ["Chief Minister of Tamil Nadu", "President of India", "Prime Minister of India", "United States President"],
-    "correctAnswer": "Prime Minister of India"
-  },
-  {
-    "id": 18,
-    "question": "India's stance on global security issues, relevant to all its regions including Telangana and Andhra Pradesh, was reiterated at the SCO summit. Which country recently took the Chair of the Shanghai Cooperation Organisation (SCO)?",
-    "options": ["China", "Russia", "Pakistan", "India"],
+    "id": 7,
+    "question": "Which country took over the Chair of the Shanghai Cooperation Organisation (SCO) at the recent summit mentioned in the news?",
+    "options": ["India", "Russia", "China", "Pakistan"],
     "correctAnswer": "Pakistan"
   },
   {
+    "id": 8,
+    "question": "The BJP SC Morcha performed a 'buddhi-shuddhi' ritual. Who was the subject of this ritual?",
+    "options": ["Amit Shah", "Rahul Gandhi", "Mallikarjun Kharge", "Narendra Modi"],
+    "correctAnswer": "Rahul Gandhi"
+  },
+  {
+    "id": 9,
+    "question": "What was the name of the ritual performed by the BJP SC Morcha for Rahul Gandhi?",
+    "options": ["Pind Daan", "Yagna", "Buddhi-shuddhi", "Hawan"],
+    "correctAnswer": "Buddhi-shuddhi"
+  },
+  {
+    "id": 10,
+    "question": "The 'buddhi-shuddhi' ritual by BJP SC Morcha was performed amidst which ongoing controversy?",
+    "options": ["Sudhikaran row", "Manipur violence", "Electoral bond issue", "Poverty alleviation program"],
+    "correctAnswer": "Sudhikaran row"
+  },
+  {
+    "id": 11,
+    "question": "Which political party's SC Morcha performed the 'buddhi-shuddhi' ritual for Rahul Gandhi?",
+    "options": ["Indian National Congress", "Bahujan Samaj Party", "Bharatiya Janata Party", "Samajwadi Party"],
+    "correctAnswer": "Bharatiya Janata Party"
+  },
+  {
+    "id": 12,
+    "question": "Who is the political leader from the Trinamool Congress (TMC) mentioned in the news for alleging 'political vendetta'?",
+    "options": ["Mamata Banerjee", "Derek O'Brien", "Abhishek Banerjee", "Yashwant Sinha"],
+    "correctAnswer": "Abhishek Banerjee"
+  },
+  {
+    "id": 13,
+    "question": "Abhishek Banerjee, a leader from the TMC, cried foul after police grilling over what kind of case?",
+    "options": ["Corruption case", "Scuffle case", "Land dispute case", "Defamation case"],
+    "correctAnswer": "Scuffle case"
+  },
+  {
+    "id": 14,
+    "question": "Which political party does Abhishek Banerjee belong to, as mentioned in the news context?",
+    "options": ["CPI(M)", "BJP", "TMC", "Congress"],
+    "correctAnswer": "TMC"
+  },
+  {
+    "id": 15,
+    "question": "Which Chief Minister was seen stepping out of his convoy to gift an elderly woman his Dior glasses?",
+    "options": ["MK Stalin", "Basavaraj Bommai", "CM Vijay", "Pinarayi Vijayan"],
+    "correctAnswer": "CM Vijay"
+  },
+  {
+    "id": 16,
+    "question": "In which state did CM Vijay gift his Dior glasses to an elderly woman?",
+    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+    "correctAnswer": "Tamil Nadu"
+  },
+  {
+    "id": 17,
+    "question": "What was the brand of glasses that CM Vijay gifted to an elderly woman?",
+    "options": ["Ray-Ban", "Gucci", "Dior", "Versace"],
+    "correctAnswer": "Dior"
+  },
+  {
+    "id": 18,
+    "question": "Who took a dig at TN CM Vijay's 'PM ambitions' by suggesting he could even become the US president?",
+    "options": ["MK Stalin", "K Palaniswami", "Annamalai", "Seeman"],
+    "correctAnswer": "K Palaniswami"
+  },
+  {
     "id": 19,
-    "question": "At the SCO summit, with Pakistan taking the Chair, what critical issue did PM Modi condemn, emphasizing its global implications and impact on nations like India, including its southern states?",
-    "options": ["Trade protectionism", "Climate change denial", "Use of terrorism as a strategic asset", "Economic inequality"],
-    "correctAnswer": "Use of terrorism as a strategic asset"
+    "question": "The dig at CM Vijay's 'PM ambitions' was made by a leader from which state's politics?",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Telangana"],
+    "correctAnswer": "Tamil Nadu"
   },
   {
     "id": 20,
-    "question": "Political controversies, often involving religious sentiments, regularly feature in news across India, including in Andhra Pradesh. In Uttar Pradesh, which state Congress chief filed a defamation case against CM Yogi Adityanath?",
-    "options": ["Pramod Tiwari", "Ajay Rai", "Aradhana Mishra 'Mona'", "Anugrah Narayan Singh"],
+    "question": "Who is the UP Congress chief that filed a defamation case against CM Yogi Adityanath?",
+    "options": ["Pramod Tiwari", "Ajay Rai", "Deepak Singh", "Aradhana Mishra"],
     "correctAnswer": "Ajay Rai"
   },
   {
     "id": 21,
-    "question": "UP Congress chief Ajay Rai's defamation case against CM Yogi Adityanath stemmed from a controversy involving what specific topic, which became a point of contention and was reported extensively, including potentially being discussed in political circles in Telangana?",
-    "options": ["Land deal dispute", "Fish video row", "Caste-based remarks", "Development project delay"],
-    "correctAnswer": "Fish video row"
+    "question": "Against whom did UP Congress chief Ajay Rai file a defamation case?",
+    "options": ["Akhilesh Yadav", "Mayawati", "CM Yogi Adityanath", "Priyanka Gandhi"],
+    "correctAnswer": "CM Yogi Adityanath"
   },
   {
     "id": 22,
-    "question": "The defamation case filed by Ajay Rai alleged that CM Yogi Adityanath's remarks hurt his religious sentiments. What specific event related to the 'fish video row' was mentioned as the basis for these remarks, a sensitive issue in a multi-religious country like India, including Andhra Pradesh?",
-    "options": ["A public rally speech", "A media interview statement", "Accusations of duplicity for attending an event", "A social media post"],
-    "correctAnswer": "Accusations of duplicity for attending an event"
+    "question": "What was the primary reason cited by Ajay Rai for filing a defamation case against CM Yogi Adityanath?",
+    "options": ["Misuse of power", "Hurting religious sentiments", "Corruption charges", "Violation of election code"],
+    "correctAnswer": "Hurting religious sentiments"
   },
   {
     "id": 23,
-    "question": "In the context of floods affecting different regions of India, including Telangana and Andhra Pradesh, the initial news mentioned a specific land area inundated in Uttar Pradesh. Approximately how many hectares were reported to be submerged?",
-    "options": ["Under 5,000 hectares", "Around 7,500 hectares", "Over 11,000 hectares", "About 15,000 hectares"],
-    "correctAnswer": "Over 11,000 hectares"
+    "question": "The defamation case filed by Ajay Rai against CM Yogi Adityanath stemmed from a controversy involving what type of video?",
+    "options": ["A rally speech video", "A fish preparation video", "A public interaction video", "A private meeting video"],
+    "correctAnswer": "A fish preparation video"
   },
   {
     "id": 24,
-    "question": "The warning about unusual fish in Bihar's Gandak river advised residents against consuming or selling them. What was the primary reason given for this warning by the government, an advisory that reflects public health concerns common across Indian states including Telangana?",
-    "options": ["High mercury levels in fish", "Presence of endangered species", "Potential for toxicity from unknown species", "Risk of overfishing"],
-    "correctAnswer": "Potential for toxicity from unknown species"
+    "question": "What specific accusation did CM Yogi Adityanath make against Ajay Rai that led to the defamation case?",
+    "options": ["Tax evasion", "Duplicity for attending a fish feast", "Misleading voters", "Spreading false rumors"],
+    "correctAnswer": "Duplicity for attending a fish feast"
   },
   {
     "id": 25,
-    "question": "Beyond marble inlay and silk, what ancient Indian epic, deeply revered across the country including in Andhra Pradesh, was also mentioned as a gift from PM Modi to the leaders of Uzbekistan and Kyrgyzstan?",
-    "options": ["Ramayana", "Mahabharata", "Bhagavata Purana", "Arthashastra"],
-    "correctAnswer": "Mahabharata"
+    "question": "Which river in Bihar was mentioned in the news for unusual fish species appearing due to Nepal floods?",
+    "options": ["Ganga", "Yamuna", "Gandak", "Kosi"],
+    "correctAnswer": "Gandak"
   }
 ]

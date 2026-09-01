@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which national body is responsible for recommending Chief Justices for High Courts across India, including those in Telangana and Andhra Pradesh?",
-    "options": ["President of India", "Parliamentary Committee", "Supreme Court Collegium", "Union Law Ministry"],
-    "correctAnswer": "Supreme Court Collegium"
+    "question": "The Supreme Court is currently hearing a plea from the Centre regarding what specific criteria for OBC creamy layer status?",
+    "options": [
+      "Economic background of the entire family",
+      "Parents' income-only",
+      "Educational qualifications of parents",
+      "Number of dependents in the family"
+    ],
+    "correctAnswer": "Parents' income-only"
   },
   {
     "id": 2,
-    "question": "According to a recent Supreme Court ruling applicable nationwide, what is a crucial requirement for passing externment orders?",
-    "options": ["Prior approval from the President", "Adequate reasons", "Local police recommendation only", "Approval from the Chief Minister"],
-    "correctAnswer": "Adequate reasons"
+    "question": "What national issue related to the definition of 'creamy layer' among Other Backward Classes (OBCs) is being addressed by the Supreme Court?",
+    "options": [
+      "Review of caste-based reservations",
+      "Determining the eligibility for OBC creamy layer status",
+      "Enhancement of OBC reservation quotas",
+      "Inclusion of new castes in the OBC list"
+    ],
+    "correctAnswer": "Determining the eligibility for OBC creamy layer status"
   },
   {
     "id": 3,
-    "question": "The Supreme Court emphasized that externment orders should not be passed in what manner?",
-    "options": ["Selectively", "Routinely", "Arbitrarily", "Expeditiously"],
-    "correctAnswer": "Routinely"
+    "question": "The Centre's plea before the Supreme Court challenges the exclusive reliance on which factor for determining OBC creamy layer status?",
+    "options": [
+      "Parents' professional status",
+      "Parents' property ownership",
+      "Parents' income",
+      "Parents' educational qualifications"
+    ],
+    "correctAnswer": "Parents' income"
   },
   {
     "id": 4,
-    "question": "Which judicial body's recent pronouncement affects the procedure for issuing externment orders nationwide, impacting states like Telangana and Andhra Pradesh?",
-    "options": ["High Court of Delhi", "Bombay High Court", "Supreme Court of India", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "Which national regulatory body has opened an eligibility certificate window for Foreign Medical Graduate Examination (FMGE) aspirants from September 1st?",
+    "options": [
+      "Medical Council of India (MCI)",
+      "All India Council for Technical Education (AICTE)",
+      "National Medical Commission (NMC)",
+      "University Grants Commission (UGC)"
+    ],
+    "correctAnswer": "National Medical Commission (NMC)"
   },
   {
     "id": 5,
-    "question": "What type of legal orders are subject to the Supreme Court's mandate requiring explicit reasons for their issuance?",
-    "options": ["Tax evasion orders", "Externment orders", "Property seizure orders", "Traffic violation orders"],
-    "correctAnswer": "Externment orders"
+    "question": "The eligibility certificate window for FMGE aspirants, opened from Sept 1, is crucial for whom to practice medicine in India?",
+    "options": [
+      "Indian medical students studying abroad",
+      "Foreign doctors seeking to work in India",
+      "Medical students pursuing postgraduate studies",
+      "Doctors seeking permanent residency in India"
+    ],
+    "correctAnswer": "Indian medical students studying abroad"
   },
   {
     "id": 6,
-    "question": "The Supreme Court Collegium recommends new Chief Justices primarily for which level of courts in India?",
-    "options": ["District Courts", "Subordinate Courts", "High Courts", "Tribunals"],
-    "correctAnswer": "High Courts"
+    "question": "What was India's recorded GDP growth rate for the April-June 2026 quarter?",
+    "options": [
+      "6.5 percent",
+      "7.8 percent",
+      "8.2 percent",
+      "5.9 percent"
+    ],
+    "correctAnswer": "7.8 percent"
   },
   {
     "id": 7,
-    "question": "What is the primary function of the Supreme Court Collegium concerning judicial appointments in India?",
-    "options": ["Administering court budgets", "Recommending judges for higher judiciary", "Managing court infrastructure", "Providing legal aid to citizens"],
-    "correctAnswer": "Recommending judges for higher judiciary"
+    "question": "Which major political party, reacting to India's recent GDP growth, specifically raised concerns about youth employment and wealth disparity?",
+    "options": [
+      "Bharatiya Janata Party (BJP)",
+      "Indian National Congress (INC)",
+      "Aam Aadmi Party (AAP)",
+      "Bahujan Samaj Party (BSP)"
+    ],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 8,
-    "question": "The principle that externment orders must be justified with reasons applies to law enforcement agencies in all Indian states. Which of the following state pairs would benefit from this ruling?",
-    "options": ["Bihar and Jharkhand", "Rajasthan and Madhya Pradesh", "Telangana and Andhra Pradesh", "Uttarakhand and J&K"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "The debate over India's GDP growth and job creation is particularly relevant to the economic well-being of which group in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Senior citizens",
+      "Youth and farmers",
+      "Government employees",
+      "Industrialists"
+    ],
+    "correctAnswer": "Youth and farmers"
   },
   {
     "id": 9,
-    "question": "A recent Supreme Court decision mandates that administrative orders restricting an individual's movement, like externment orders, must be supported by what?",
-    "options": ["Public outcry", "Media reports", "Adequate reasons", "Political consensus"],
-    "correctAnswer": "Adequate reasons"
+    "question": "The Indian consulate in the UAE recently issued a warning to its nationals regarding what type of fraudulent activity?",
+    "options": [
+      "Immigration visa scams",
+      "Biometric fraud",
+      "Fake job offers",
+      "Money laundering schemes"
+    ],
+    "correctAnswer": "Biometric fraud"
   },
   {
     "id": 10,
-    "question": "Who typically heads the Supreme Court Collegium, which plays a crucial role in judicial appointments across India?",
-    "options": ["The President of India", "The Union Law Minister", "The Attorney General of India", "The Chief Justice of India"],
-    "correctAnswer": "The Chief Justice of India"
+    "question": "What specific type of personal data, including fingerprints and facial scans, are Indian nationals in the UAE warned about submitting to unauthorized agents?",
+    "options": [
+      "Financial account details",
+      "Educational certificates",
+      "Biometric data",
+      "Passport copies"
+    ],
+    "correctAnswer": "Biometric data"
   },
   {
     "id": 11,
-    "question": "Which national medical entrance examination's counselling process recently led to a delay in academic sessions across India, including states like Telangana and Andhra Pradesh?",
-    "options": ["JEE Main", "UPSC CSE", "NEET", "CAT"],
-    "correctAnswer": "NEET"
+    "question": "Beyond financial liabilities, what other serious consequences can biometric data misuse lead to for Indian nationals abroad, including those from Telangana and Andhra Pradesh?",
+    "options": [
+      "Loss of citizenship",
+      "Exclusion from social benefits",
+      "Fines and travel bans",
+      "Revocation of driving license"
+    ],
+    "correctAnswer": "Fines and travel bans"
   },
   {
     "id": 12,
-    "question": "What specific academic session was pushed back by a week due to NEET counselling?",
-    "options": ["B.Tech session", "MBBS session", "MBA session", "B.Sc session"],
-    "correctAnswer": "MBBS session"
+    "question": "Which Indian airline's international flight recently faced diversion due to the discovery of a threat note on board?",
+    "options": [
+      "Indigo",
+      "Vistara",
+      "Air India Express",
+      "SpiceJet"
+    ],
+    "correctAnswer": "Air India Express"
   },
   {
     "id": 13,
-    "question": "By how much time was the MBBS session delayed as a result of the NEET counselling process?",
-    "options": ["By a day", "By a month", "By a week", "By two weeks"],
-    "correctAnswer": "By a week"
+    "question": "What specific forensic evidence were flyers on the diverted Air India Express flight asked to provide?",
+    "options": [
+      "Fingerprints",
+      "DNA samples",
+      "Handwriting samples",
+      "Photographs"
+    ],
+    "correctAnswer": "Handwriting samples"
   },
   {
     "id": 14,
-    "question": "NEET counselling affects admissions to medical colleges across India. Which of these pairs of states would be directly impacted by a delay in NEET counselling?",
-    "options": ["Assam and Odisha", "Gujarat and Maharashtra", "Telangana and Andhra Pradesh", "Punjab and Haryana"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "What measure is the Supreme Court urging the Centre and states to consider to curb acid attacks across the nation, including in Telangana and Andhra Pradesh?",
+    "options": [
+      "Increased penalties for attackers",
+      "Mandatory counseling for offenders",
+      "Complete ban on retail acid sales",
+      "Rehabilitation centers for attackers"
+    ],
+    "correctAnswer": "Complete ban on retail acid sales"
   },
   {
     "id": 15,
-    "question": "What does the acronym NEET stand for in the context of medical education in India?",
-    "options": ["National Engineering Entrance Test", "National Eligibility cum Entrance Test", "National Educational Aptitude Test", "National Examination for Engineering and Technology"],
-    "correctAnswer": "National Eligibility cum Entrance Test"
+    "question": "The Supreme Court suggested that if retail acid sales are permitted, they should be restricted to individuals above what age?",
+    "options": [
+      "Twenty-five years old",
+      "Forty years old",
+      "Fifty years old",
+      "Sixty-five years old"
+    ],
+    "correctAnswer": "Fifty years old"
   },
   {
     "id": 16,
-    "question": "What does MBBS stand for, the undergraduate medical course whose session was recently delayed due to counselling issues?",
-    "options": ["Master of Biological Sciences", "Bachelor of Medicine, Bachelor of Surgery", "Medical Bachelor of Science", "Master of Biomedical Studies"],
-    "correctAnswer": "Bachelor of Medicine, Bachelor of Surgery"
+    "question": "Besides a ban on retail sales, what other aspect related to acid attack victims did the Supreme Court request an update on from the government?",
+    "options": [
+      "Medical insurance policies",
+      "Educational scholarships",
+      "Survivor rehabilitation programs",
+      "Legal aid services"
+    ],
+    "correctAnswer": "Survivor rehabilitation programs"
   },
   {
     "id": 17,
-    "question": "The delay in the MBBS session impacts aspiring doctors in all Indian states. Specifically, students from which southern state would be affected by such a national delay?",
-    "options": ["Uttar Pradesh", "Bihar", "West Bengal", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The Supreme Court's intervention on acid sales aims to protect which group from a specific form of violence prevalent in many states?",
+    "options": [
+      "Domestic violence victims",
+      "Road accident victims",
+      "Acid attack survivors",
+      "Child abuse victims"
+    ],
+    "correctAnswer": "Acid attack survivors"
   },
   {
     "id": 18,
-    "question": "What is the main purpose of the NEET examination in India?",
-    "options": ["To select candidates for engineering courses", "To recruit candidates for civil services", "To facilitate admission to undergraduate medical courses", "To determine eligibility for scholarships"],
-    "correctAnswer": "To facilitate admission to undergraduate medical courses"
+    "question": "Rahul Gandhi recently revived allegations of 'vote chori' concerning the exclusion of a large number of voters. In which state was this issue specifically highlighted?",
+    "options": [
+      "Uttar Pradesh",
+      "Maharashtra",
+      "West Bengal",
+      "Bihar"
+    ],
+    "correctAnswer": "Maharashtra"
   },
   {
     "id": 19,
-    "question": "Which crucial process, following the NEET examination, determines the allocation of seats to candidates in medical colleges?",
-    "options": ["Interview round", "Physical fitness test", "Document verification", "Counselling"],
-    "correctAnswer": "Counselling"
+    "question": "The 'vote chori' charges and concerns over voter exclusion, though related to a specific state, raise broader questions about what aspect of democracy across India?",
+    "options": [
+      "The role of the judiciary",
+      "The power of the executive",
+      "Electoral integrity and fairness",
+      "The funding of political parties"
+    ],
+    "correctAnswer": "Electoral integrity and fairness"
   },
   {
     "id": 20,
-    "question": "Which central authority issued a warning about fraudulent activities luring users through online advertisements on social media platforms?",
-    "options": ["Reserve Bank of India", "National Cyber Security Agency", "The Centre/Government", "Telecom Regulatory Authority of India"],
-    "correctAnswer": "The Centre/Government"
+    "question": "What organization called off its planned September 5 march after the Supreme Court quashed FIRs against protesters?",
+    "options": [
+      "Amnesty International India",
+      "Citizens for Justice and Peace (CJP)",
+      "People's Union for Civil Liberties (PUCL)",
+      "National Alliance of People's Movements (NAPM)"
+    ],
+    "correctAnswer": "Citizens for Justice and Peace (CJP)"
   },
   {
     "id": 21,
-    "question": "What specific type of advertisements were identified by the Centre as being used to entice users into online fraud?",
-    "options": ["Investment ads", "Job ads", "Gaming ads", "Porn ads"],
-    "correctAnswer": "Porn ads"
+    "question": "The Supreme Court's quashing of FIRs against protesters was done at whose request?",
+    "options": [
+      "The petitioners' lawyers",
+      "The Centre (Government)",
+      "The State Police",
+      "The National Human Rights Commission"
+    ],
+    "correctAnswer": "The Centre (Government)"
   },
   {
     "id": 22,
-    "question": "On which two major social media platforms were these fraudulent ads reported to be actively luring users, as warned by the Centre?",
-    "options": ["Twitter and LinkedIn", "WhatsApp and Telegram", "Facebook and Instagram", "Snapchat and TikTok"],
-    "correctAnswer": "Facebook and Instagram"
+    "question": "At which international forum did PM Modi emphasize that there should be 'no double standards on terrorism'?",
+    "options": [
+      "G20 Summit",
+      "BRICS Summit",
+      "Shanghai Cooperation Organisation (SCO) Summit",
+      "UN General Assembly"
+    ],
+    "correctAnswer": "Shanghai Cooperation Organisation (SCO) Summit"
   },
   {
     "id": 23,
-    "question": "What is the primary concern raised by the Centre regarding certain ads on social media platforms like FB and Instagram?",
-    "options": ["Data privacy violations", "Spreading misinformation", "Luring users into fraud", "Promoting illegal gambling"],
-    "correctAnswer": "Luring users into fraud"
+    "question": "What challenge did PM Modi state cannot be considered a strategic asset for any nation during his address at the SCO summit?",
+    "options": [
+      "Economic protectionism",
+      "Climate change",
+      "Terrorism",
+      "Cyber warfare"
+    ],
+    "correctAnswer": "Terrorism"
   },
   {
     "id": 24,
-    "question": "The Centre's warning about online fraud through social media platforms is relevant to internet users in all Indian states. Which of these states, known for its tech-savvy population, would this warning significantly affect?",
-    "options": ["Bihar", "Rajasthan", "Telangana", "Uttar Pradesh"],
-    "correctAnswer": "Telangana"
+    "question": "Alongside terrorism, what other serious regional threat did Prime Minister Modi highlight at the recent SCO summit?",
+    "options": [
+      "Illegal immigration",
+      "Drug trafficking",
+      "Water scarcity",
+      "Food insecurity"
+    ],
+    "correctAnswer": "Drug trafficking"
   },
   {
     "id": 25,
-    "question": "What kind of activity were users being lured into by certain ads on FB and Insta, according to the Centre's warning?",
-    "options": ["Online gaming addiction", "Political propaganda", "Fraudulent schemes", "Data harvesting"],
-    "correctAnswer": "Fraudulent schemes"
+    "question": "PM Modi advocated for dialogue and diplomacy to resolve which type of tensions, especially in West Asia, at the SCO Summit?",
+    "options": [
+      "Economic disputes",
+      "Cultural clashes",
+      "International conflicts",
+      "Trade imbalances"
+    ],
+    "correctAnswer": "International conflicts"
   }
 ]

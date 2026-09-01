@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Where did PM Modi meet President Putin for bilateral talks, as reported in the news?",
-    "options": ["Moscow", "Astana", "Bishkek", "Tashkent"],
-    "correctAnswer": "Bishkek"
+    "question": "What is the IMD's prediction for rainfall across India in September, which could significantly impact agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["Above normal", "Normal", "Below normal", "No specific prediction"],
+    "correctAnswer": "Below normal"
   },
   {
     "id": 2,
-    "question": "What was PM Modi's core message to President Putin regarding the ongoing conflict, as highlighted in the headlines?",
-    "options": ["Intensify peace talks", "Move from endless war to end of war", "Seek UN intervention", "Focus on economic cooperation"],
-    "correctAnswer": "Move from endless war to end of war"
+    "question": "How is the monsoon season expected to conclude for India, as predicted by the IMD, affecting agricultural planning in states such as Telangana and Andhra Pradesh?",
+    "options": ["With a surplus", "Normally", "Deficiently", "With an extended period"],
+    "correctAnswer": "Deficiently"
   },
   {
     "id": 3,
-    "question": "Which Iranian President did PM Modi meet recently to discuss trade and West Asia peace?",
-    "options": ["Raisi", "Khamenei", "Pezeshkian", "Rouhani"],
-    "correctAnswer": "Pezeshkian"
+    "question": "For which period did India experience a significant cumulative rainfall deficit, as mentioned in the news, impacting states like Telangana and Andhra Pradesh?",
+    "options": ["January to March", "April to June", "June to August", "September to November"],
+    "correctAnswer": "June to August"
   },
   {
     "id": 4,
-    "question": "What was India's stance on the recent Court of Arbitration ruling regarding the Indus Waters Treaty?",
-    "options": ["Accepted the ruling under protest", "Rejected it as illegal with no jurisdiction", "Sought further negotiations", "Agreed to abide by the decision"],
-    "correctAnswer": "Rejected it as illegal with no jurisdiction"
+    "question": "Which climatic phenomenon is expected to persist and negatively affect monsoon rainfall patterns across India, including agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["La Niña", "Indian Ocean Dipole", "El Niño", "Arctic Oscillation"],
+    "correctAnswer": "El Niño"
   },
   {
     "id": 5,
-    "question": "What was India's GDP growth rate in the first quarter of FY27, as mentioned in the news wrap, a figure relevant to economies like Telangana and Andhra Pradesh?",
-    "options": ["6.5%", "7.2%", "7.8%", "8.1%"],
-    "correctAnswer": "7.8%"
+    "question": "What is the expected condition of the Indian Ocean Dipole (IOD) this year, in relation to its benefit to the monsoon, for states across India including Telangana and Andhra Pradesh?",
+    "options": ["Strong positive", "Weak positive", "Neutral", "Negative"],
+    "correctAnswer": "Neutral"
   },
   {
     "id": 6,
-    "question": "According to Shaina NC, what social issue does Swachh Bharat Abhiyan, a program implemented across India including Telangana and Andhra Pradesh, aim to reduce?",
-    "options": ["Illiteracy", "Poverty", "Untouchability", "Gender inequality"],
-    "correctAnswer": "Untouchability"
+    "question": "Which month was recorded as the warmest on record across several regions of India, contributing to the overall weather concerns for states like Telangana and Andhra Pradesh?",
+    "options": ["June", "July", "August", "September"],
+    "correctAnswer": "August"
   },
   {
     "id": 7,
-    "question": "Which prominent Indian political leader was mentioned for using sarees as part of their political messaging?",
-    "options": ["Nirmala Sitharaman", "Priyanka Gandhi", "Mamata Banerjee", "Smriti Irani"],
-    "correctAnswer": "Mamata Banerjee"
+    "question": "The predicted below-normal rainfall and monsoon deficit are expected to lead to what specific consequence for agriculture in states like Telangana and Andhra Pradesh?",
+    "options": ["Increased crop yields", "Reduced agricultural sowing", "Lower irrigation costs", "Earlier harvest cycles"],
+    "correctAnswer": "Reduced agricultural sowing"
   },
   {
     "id": 8,
-    "question": "Who recently highlighted India's legacy of refuge and global service, stating India is a 'Vishwaguru, not a Mahashakti'?",
-    "options": ["S. Jaishankar", "Mohan Bhagwat", "Rajnath Singh", "Amit Shah"],
-    "correctAnswer": "Mohan Bhagwat"
+    "question": "What economic challenge are farmers in regions like Telangana and Andhra Pradesh likely to face due to the predicted rainfall patterns, as mentioned in the news?",
+    "options": ["Reduced labor costs", "Decreased demand for produce", "Increased irrigation costs", "Subsidized fertilizer prices"],
+    "correctAnswer": "Increased irrigation costs"
   },
   {
     "id": 9,
-    "question": "Which Indian constitutional article is being invoked by the Supreme Court to hear the Centre's plea to quash FIRs against NEET protesters, a matter affecting students across India including Telangana and Andhra Pradesh?",
-    "options": ["Article 32", "Article 142", "Article 226", "Article 136"],
-    "correctAnswer": "Article 142"
+    "question": "Which Indian organization is responsible for making predictions about rainfall and monsoon patterns across the country, influencing agricultural decisions in states like Telangana and Andhra Pradesh?",
+    "options": ["ISRO", "DRDO", "IMD", "ICAR"],
+    "correctAnswer": "IMD"
   },
   {
     "id": 10,
-    "question": "When is the Supreme Court scheduled to hear the Centre's plea regarding FIRs against NEET protesters?",
-    "options": ["August 25", "September 1", "October 15", "November 1"],
-    "correctAnswer": "September 1"
+    "question": "The news mentions cumulative rainfall from June to August. Which period generally defines the Southwest Monsoon season in India, crucial for agriculture in states like Telangana and Andhra Pradesh?",
+    "options": ["March to May", "June to September", "October to December", "January to February"],
+    "correctAnswer": "June to September"
   },
   {
     "id": 11,
-    "question": "Where did an Air India flight make an emergency landing after a 'bomb' note was found in its lavatory?",
-    "options": ["Mumbai", "Delhi", "Chennai", "Ahmedabad"],
-    "correctAnswer": "Ahmedabad"
+    "question": "An FIR was recently registered against which prominent national political leader under various sections including the SC/ST Act, in a controversy that sparked nationwide debate, with implications for political discourse in all states including Telangana and Andhra Pradesh?",
+    "options": ["PM Narendra Modi", "Rahul Gandhi", "Amit Shah", "Mallikarjun Kharge"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 12,
-    "question": "The recent bilateral talks between PM Modi and President Putin, where they shared a car ride, took place in which city?",
-    "options": ["Samarkand", "Tashkent", "Dushanbe", "Bishkek"],
-    "correctAnswer": "Bishkek"
+    "question": "The complaint against Rahul Gandhi alleged he gave a caste angle to which type of work at a rally, a debate relevant to social justice discussions nationwide including in Telangana and Andhra Pradesh?",
+    "options": ["Construction work", "Cleaning work", "Campaign management", "Volunteer recruitment"],
+    "correctAnswer": "Cleaning work"
   },
   {
     "id": 13,
-    "question": "What were the primary topics of discussion during PM Modi's meeting with Iran's President Pezeshkian?",
-    "options": ["Energy security and defense", "Trade and West Asia peace", "Climate change and technology", "Cultural exchange and tourism"],
-    "correctAnswer": "Trade and West Asia peace"
+    "question": "Under which specific Act, designed to prevent atrocities against marginalized communities, was an FIR registered against a national political leader, highlighting its importance across all Indian states?",
+    "options": ["IPC Section 498A", "SC/ST (Prevention of Atrocities) Act", "PMLA", "IT Act Section 66A"],
+    "correctAnswer": "SC/ST (Prevention of Atrocities) Act"
   },
   {
     "id": 14,
-    "question": "What specific reason did India cite for its rejection of the Court of Arbitration's award on the Indus Waters Treaty?",
-    "options": ["Unfair terms", "Treaty violation", "No jurisdiction", "Technical discrepancies"],
-    "correctAnswer": "No jurisdiction"
+    "question": "According to the MEA, how many Indian nationals have unfortunately died while serving in the Russian army, a matter of national concern for families across all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["139", "51", "200", "10"],
+    "correctAnswer": "51"
   },
   {
     "id": 15,
-    "question": "Whose economic estimates did India's 7.8% GDP growth in the first quarter of FY27 exceed?",
-    "options": ["World Bank estimates", "IMF estimates", "RBI estimates", "NITI Aayog estimates"],
-    "correctAnswer": "RBI estimates"
+    "question": "How many Indian nationals serving in the Russian army have been discharged, as stated by the MEA, providing relief to families across the country?",
+    "options": ["51", "100", "139", "200"],
+    "correctAnswer": "139"
   },
   {
     "id": 16,
-    "question": "Shaina NC's remarks linking Swachh Bharat to reducing untouchability were targeted at which political leader?",
-    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "P. Chidambaram", "Adhir Ranjan Chowdhury"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "A memoir of which prominent Indian political figure is facing an impasse over 'a particular issue' with its publisher, a figure whose party has significant presence in states like Telangana and Andhra Pradesh?",
+    "options": ["Priyanka Gandhi Vadra", "Sonia Gandhi", "Indira Gandhi", "Manmohan Singh"],
+    "correctAnswer": "Sonia Gandhi"
   },
   {
     "id": 17,
-    "question": "Besides PM Modi's jackets and Mamata Banerjee's sarees, whose shirts were mentioned as an example of political fashion messaging?",
-    "options": ["Arvind Kejriwal", "Akhilesh Yadav", "Rahul Gandhi", "M.K. Stalin"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "During the meeting between PM Modi and the Iranian President, which strategically important port was discussed for further collaboration, vital for India's trade routes including for businesses in Telangana and Andhra Pradesh?",
+    "options": ["Gwadar Port", "Bandar Abbas Port", "Chabahar Port", "Duqm Port"],
+    "correctAnswer": "Chabahar Port"
   },
   {
     "id": 18,
-    "question": "What aspect of India's legacy did RSS chief Mohan Bhagwat highlight in his 'Vishwaguru' statement?",
-    "options": ["Military strength and strategic alliances", "Economic prowess and industrial growth", "Legacy of refuge and global service", "Technological innovation and digital advancements"],
-    "correctAnswer": "Legacy of refuge and global service"
+    "question": "What specific help did the Iranian President Pezeshkian seek from India during his meeting with PM Modi, demonstrating India's diplomatic influence which benefits its global standing and by extension its states?",
+    "options": ["Economic sanctions relief", "Military aid", "Mediation for peace to end war", "Technological transfer"],
+    "correctAnswer": "Mediation for peace to end war"
   },
   {
     "id": 19,
-    "question": "The Supreme Court's power to do 'complete justice' by hearing the plea against FIRs on NEET protesters is primarily derived from which Article of the Indian Constitution?",
-    "options": ["Article 139", "Article 141", "Article 142", "Article 143"],
-    "correctAnswer": "Article 142"
+    "question": "A key focus of the discussions between Prime Minister Modi and the Iranian President was on fortifying which aspect between their nations, fostering economic opportunities for Indian states?",
+    "options": ["Cultural exchanges", "Trade connections", "Military alliances", "Educational programs"],
+    "correctAnswer": "Trade connections"
   },
   {
     "id": 20,
-    "question": "Which national airline was involved in the incident of an emergency landing in Ahmedabad after a bomb threat?",
-    "options": ["IndiGo", "SpiceJet", "Vistara", "Air India"],
-    "correctAnswer": "Air India"
+    "question": "Ahead of the SCO summit, PM Modi held talks with the presidents/PMs of which two countries, representing India's active diplomatic engagement on the global stage?",
+    "options": ["Russia and China", "Kyrgyz Republic and Armenia", "USA and UK", "France and Germany"],
+    "correctAnswer": "Kyrgyz Republic and Armenia"
   },
   {
     "id": 21,
-    "question": "How did India officially characterize the Court of Arbitration's award on the Indus Waters Treaty when rejecting it?",
-    "options": ["Non-binding", "Inadmissible", "Illegal", "Disputed"],
-    "correctAnswer": "Illegal"
+    "question": "The Prime Minister's talks ahead of the SCO summit highlight India's participation in this major regional organization. What does SCO primarily stand for, indicating India's geopolitical engagements?",
+    "options": ["South Asian Cooperation Organization", "Shanghai Cooperation Organization", "Strategic Commonwealth Organization", "Sahelian Countries Organization"],
+    "correctAnswer": "Shanghai Cooperation Organization"
   },
   {
     "id": 22,
-    "question": "The reported 7.8% GDP growth in India, which influences economic conditions in states like Telangana and Andhra Pradesh, pertains to which financial year's first quarter?",
-    "options": ["FY26", "FY27", "FY25", "FY24"],
-    "correctAnswer": "FY27"
+    "question": "What was PM Modi's core message to President Vladimir Putin regarding the ongoing conflict, reflecting India's stance on global peace and stability which impacts its national interests?",
+    "options": ["To continue military operations", "To seek a swift and peaceful resolution", "To expand the conflict's scope", "To increase military aid"],
+    "correctAnswer": "To seek a swift and peaceful resolution"
   },
   {
     "id": 23,
-    "question": "What specific term did RSS chief Mohan Bhagwat use to describe India's aspirational global role, as opposed to a 'Mahashakti'?",
-    "options": ["Loknayak", "Jagatguru", "Vishwaguru", "Sarvashreshtha"],
-    "correctAnswer": "Vishwaguru"
+    "question": "An Indian High Court recently reinstated a bank official who was sacked without an inquiry, emphasizing the importance of which legal principle that ensures fair treatment for employees across all sectors and states?",
+    "options": ["Doctrine of Pleasure", "Principle of Natural Justice", "Rule of Absolute Liability", "Principle of Vicarious Liability"],
+    "correctAnswer": "Principle of Natural Justice"
   },
   {
     "id": 24,
-    "question": "The recent tensions between Congress and TVK mentioned in the news were centered around what political issue, relevant to national political dynamics affecting all states?",
-    "options": ["Seat-sharing for upcoming elections", "Disagreement on economic policies", "2029 prime ministerial candidate", "State leadership positions"],
-    "correctAnswer": "2029 prime ministerial candidate"
+    "question": "Medical interns across a Union Territory initiated an indefinite strike primarily demanding an increase in what, a common concern for junior medical professionals throughout India, including those training in Telangana and Andhra Pradesh?",
+    "options": ["Working hours", "Number of holidays", "Stipend", "Accommodation facilities"],
+    "correctAnswer": "Stipend"
   },
   {
     "id": 25,
-    "question": "Apart from Russia's President Putin, which other head of state did PM Modi recently meet, according to the news wrap?",
-    "options": ["US President Joe Biden", "French President Emmanuel Macron", "Iran's President Pezeshkian", "UK Prime Minister Keir Starmer"],
-    "correctAnswer": "Iran's President Pezeshkian"
+    "question": "Following the FIR against Rahul Gandhi, how did the Congress party describe the action, reflecting the nature of political debates in India that resonate in states like Telangana and Andhra Pradesh?",
+    "options": ["Unwarranted and casteist", "Necessary for accountability", "A standard legal procedure", "A misunderstanding"],
+    "correctAnswer": "Unwarranted and casteist"
   }
 ]

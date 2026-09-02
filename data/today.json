@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who was appointed as the inaugural CEO of the Ram temple Trust, as reported recently?",
-    "options": ["Jeetendra Mishra", "Kirti Vardhan Singh", "Manoj Sinha", "Anil Sharma"],
-    "correctAnswer": "Jeetendra Mishra"
-  },
-  {
-    "id": 2,
-    "question": "What was the former professional background of Jeetendra Mishra before his appointment as Ram temple Trust CEO?",
-    "options": ["Retired IAS Officer", "Retired Air Marshal", "Retired Army General", "Former High Court Judge"],
-    "correctAnswer": "Retired Air Marshal"
-  },
-  {
-    "id": 3,
-    "question": "Jeetendra Mishra, the new CEO of the Ram temple Trust, was previously known as the commander of which specific operation?",
-    "options": ["Operation Vijay", "Operation Sindoor", "Operation Meghdoot", "Operation Cactus"],
-    "correctAnswer": "Operation Sindoor"
-  },
-  {
-    "id": 4,
-    "question": "How many new trustees were recently inducted into the Ram temple Trust?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Three"
-  },
-  {
-    "id": 5,
-    "question": "The newly appointed trustees for the Ram temple Trust bring experience from which key areas?",
-    "options": ["Science, technology, and defense", "Education, philanthropy, and public life", "Finance, law, and media", "Agriculture, industry, and social work"],
-    "correctAnswer": "Education, philanthropy, and public life"
-  },
-  {
-    "id": 6,
-    "question": "The Ram temple, for which a new CEO and trustees have been appointed, is primarily located in which Indian state?",
-    "options": ["Madhya Pradesh", "Uttar Pradesh", "Gujarat", "Maharashtra"],
-    "correctAnswer": "Uttar Pradesh"
-  },
-  {
-    "id": 7,
-    "question": "What is considered a primary objective of the Ram temple Trust, highlighted by the recent appointments?",
-    "options": ["Managing international relations", "Overseeing temple construction and management", "Promoting tourism in Ayodhya", "Conducting archaeological surveys"],
-    "correctAnswer": "Overseeing temple construction and management"
-  },
-  {
-    "id": 8,
-    "question": "Which significant religious project in India recently announced the appointment of an inaugural CEO and new trustees?",
-    "options": ["Kashi Vishwanath Corridor", "Ram temple Trust", "Kedarnath Temple Committee", "Vaishno Devi Shrine Board"],
-    "correctAnswer": "Ram temple Trust"
-  },
-  {
-    "id": 9,
-    "question": "The appointment of Jeetendra Mishra as CEO of the Ram temple Trust signifies what status for his role?",
-    "options": ["Temporary appointment", "Honorary position", "Inaugural CEO", "Advisory role"],
-    "correctAnswer": "Inaugural CEO"
-  },
-  {
-    "id": 10,
-    "question": "Which of the following experiences is NOT mentioned for the newly appointed trustees of the Ram temple Trust?",
-    "options": ["Education", "Philanthropy", "Public life", "Military service"],
-    "correctAnswer": "Military service"
-  },
-  {
-    "id": 11,
-    "question": "In which neighboring country was a century-old Hindu temple recently subjected to demolition and vandalism?",
-    "options": ["Nepal", "Bangladesh", "Pakistan", "Sri Lanka"],
-    "correctAnswer": "Pakistan"
-  },
-  {
-    "id": 12,
-    "question": "How did India's Ministry of External Affairs respond to the demolition of the historic Hindu temple in Pakistan?",
-    "options": ["Expressed regret and offered aid", "Condemned the act and sought a probe", "Sent a diplomatic delegation to investigate", "Issued a travel advisory for the region"],
-    "correctAnswer": "Condemned the act and sought a probe"
-  },
-  {
-    "id": 13,
-    "question": "What specific characteristic was highlighted regarding the Hindu temple demolished in Pakistan?",
-    "options": ["Its modern architecture", "Its remote location", "Its century-old age", "Its unusual deity"],
-    "correctAnswer": "Its century-old age"
-  },
-  {
-    "id": 14,
-    "question": "India specifically noted the apparent apathy of which entity regarding the demolition of the temple in Pakistan?",
-    "options": ["Local residents", "International organizations", "Pakistani authorities", "Religious leaders"],
-    "correctAnswer": "Pakistani authorities"
-  },
-  {
-    "id": 15,
-    "question": "Besides seeking an investigation, what remedial measure did India urge Pakistan to take regarding the demolished Hindu temple?",
-    "options": ["Offer monetary compensation to devotees", "Relocate the temple to a new site", "Restore the temple and ensure minority safety", "Launch an awareness campaign"],
-    "correctAnswer": "Restore the temple and ensure minority safety"
-  },
-  {
-    "id": 16,
-    "question": "Which Indian government body formally condemned the demolition of the century-old Hindu temple in Pakistan?",
-    "options": ["Ministry of Home Affairs", "Ministry of Culture", "Ministry of External Affairs", "Prime Minister's Office"],
-    "correctAnswer": "Ministry of External Affairs"
-  },
-  {
-    "id": 17,
-    "question": "The incident of temple demolition in Pakistan raised concerns in India regarding the safety of which specific group?",
-    "options": ["Foreign tourists", "Indian expatriates", "Religious minorities in Pakistan", "Journalists and media personnel"],
-    "correctAnswer": "Religious minorities in Pakistan"
-  },
-  {
-    "id": 18,
-    "question": "What was the reported age of the Hindu temple that was vandalized and demolished in Pakistan?",
-    "options": ["Fifty years old", "Over a century old", "Recently constructed", "Two centuries old"],
-    "correctAnswer": "Over a century old"
-  },
-  {
-    "id": 19,
-    "question": "Which country was specifically urged by India to take remedial measures and ensure minority safety following the temple demolition incident?",
+    "question": "India recently condemned the demolition of a century-old Hindu temple in which country?",
     "options": ["Pakistan", "Bangladesh", "Afghanistan", "Myanmar"],
     "correctAnswer": "Pakistan"
   },
   {
+    "id": 2,
+    "question": "What was the primary characteristic of the Hindu temple demolished in Pakistan, as noted by India's Ministry of External Affairs?",
+    "options": ["Newly constructed", "Historically significant", "Century-old", "A local shrine"],
+    "correctAnswer": "Century-old"
+  },
+  {
+    "id": 3,
+    "question": "India called for a prompt and transparent investigation into the demolition of the temple and also urged Pakistan to take what remedial measure?",
+    "options": ["Impose sanctions on the perpetrators", "Rebuild the temple and ensure minority safety", "Seek international arbitration", "Issue a public apology"],
+    "correctAnswer": "Rebuild the temple and ensure minority safety"
+  },
+  {
+    "id": 4,
+    "question": "The Ministry of External Affairs noted the apparent apathy of authorities and their failure to protect the temple in which country?",
+    "options": ["Sri Lanka", "Pakistan", "Nepal", "Bhutan"],
+    "correctAnswer": "Pakistan"
+  },
+  {
+    "id": 5,
+    "question": "What type of act did India condemn regarding the demolition of the historic Hindu temple in Pakistan?",
+    "options": ["A political protest", "An unfortunate accident", "A reprehensible act of vandalism", "A religious dispute"],
+    "correctAnswer": "A reprehensible act of vandalism"
+  },
+  {
+    "id": 6,
+    "question": "Which Indian minister was scheduled to visit Ukraine and Poland from Sept 3-5?",
+    "options": ["Home Minister Amit Shah", "Finance Minister Nirmala Sitharaman", "External Affairs Minister S. Jaishankar", "Defence Minister Rajnath Singh"],
+    "correctAnswer": "External Affairs Minister S. Jaishankar"
+  },
+  {
+    "id": 7,
+    "question": "What were the primary agenda points for EAM Jaishankar's visit to Ukraine and Poland?",
+    "options": ["Trade agreements and cultural exchange", "War diplomacy and bilateral ties", "Tourism promotion and investment", "Educational collaborations and research"],
+    "correctAnswer": "War diplomacy and bilateral ties"
+  },
+  {
+    "id": 8,
+    "question": "The EAM's visit to Ukraine and Poland primarily focused on which aspect of India's foreign relations?",
+    "options": ["Economic sanctions", "Multilateral trade talks", "Geopolitical engagement", "Cultural diplomacy"],
+    "correctAnswer": "Geopolitical engagement"
+  },
+  {
+    "id": 9,
+    "question": "What is the full form of EAM as mentioned in the news regarding S. Jaishankar's visit?",
+    "options": ["Expert Advisory Member", "External Affairs Minister", "Economic Affairs Manager", "Environmental Agency Monitor"],
+    "correctAnswer": "External Affairs Minister"
+  },
+  {
+    "id": 10,
+    "question": "During which month was EAM Jaishankar's visit to Ukraine and Poland scheduled?",
+    "options": ["August", "September", "October", "November"],
+    "correctAnswer": "September"
+  },
+  {
+    "id": 11,
+    "question": "Who was recently appointed as the inaugural CEO for the Ram temple Trust?",
+    "options": ["N. Chandrasekaran", "Jeetendra Mishra", "Sunil Bharti Mittal", "Anil Ambani"],
+    "correctAnswer": "Jeetendra Mishra"
+  },
+  {
+    "id": 12,
+    "question": "What was Jeetendra Mishra's previous designation or role mentioned before becoming the CEO of the Ram temple Trust?",
+    "options": ["Retired Chief Justice", "Former diplomat", "Operation Sindoor commander", "Philanthropist"],
+    "correctAnswer": "Operation Sindoor commander"
+  },
+  {
+    "id": 13,
+    "question": "The appointment of the Ram temple Trust CEO is described in the news as what kind of move?",
+    "options": ["A routine administrative step", "A controversial decision", "A historic move", "A temporary assignment"],
+    "correctAnswer": "A historic move"
+  },
+  {
+    "id": 14,
+    "question": "For which prominent national project was Jeetendra Mishra appointed as the CEO?",
+    "options": ["Red Fort Restoration Project", "Statue of Unity", "Ayodhya Ram Temple", "Kashi Vishwanath Corridor"],
+    "correctAnswer": "Ayodhya Ram Temple"
+  },
+  {
+    "id": 15,
+    "question": "What is the name of the Trust for which Jeetendra Mishra was appointed CEO?",
+    "options": ["Shri Ram Janmabhoomi Teerth Kshetra Trust", "Ram Sethu Trust", "Ayodhya Dham Trust", "National Temple Management Trust"],
+    "correctAnswer": "Shri Ram Janmabhoomi Teerth Kshetra Trust"
+  },
+  {
+    "id": 16,
+    "question": "How many new trustees did the Ram temple trust recently acquire?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "Three"
+  },
+  {
+    "id": 17,
+    "question": "The new trustees of the Ram temple Trust bring experience from which key areas?",
+    "options": ["Technology, finance, and marketing", "Law, sports, and media", "Education, philanthropy, and public life", "Art, science, and governance"],
+    "correctAnswer": "Education, philanthropy, and public life"
+  },
+  {
+    "id": 18,
+    "question": "What is the objective behind adding new trustees with diverse backgrounds to the Ram temple Trust?",
+    "options": ["To increase political representation", "To broaden the trust's expertise and reach", "To introduce new financial strategies", "To accelerate construction timelines"],
+    "correctAnswer": "To broaden the trust's expertise and reach"
+  },
+  {
+    "id": 19,
+    "question": "The new trustees are expected to contribute expertise in which specific aspects of the Ram temple Trust's functioning?",
+    "options": ["Only financial management", "Only legal compliance", "Broad spectrum covering education, charity, and civic engagement", "Only religious rituals"],
+    "correctAnswer": "Broad spectrum covering education, charity, and civic engagement"
+  },
+  {
     "id": 20,
-    "question": "The Ministry of External Affairs expressed deep concern over the reported destruction of what type of structure in Pakistan?",
-    "options": ["A historic library", "A community center", "A century-old Hindu temple", "An ancient monument"],
-    "correctAnswer": "A century-old Hindu temple"
+    "question": "What kind of experience is highlighted for the three new trustees joining the Ram temple Trust?",
+    "options": ["Business acumen and political lobbying", "Academic achievements and social work", "Education, philanthropy, and public life experience", "Military service and diplomatic relations"],
+    "correctAnswer": "Education, philanthropy, and public life experience"
   },
   {
     "id": 21,
-    "question": "The news regarding the Ram temple Trust's appointments holds national significance and is followed by devotees across India, including those in which state?",
-    "options": ["Kerala", "Telangana", "Punjab", "West Bengal"],
-    "correctAnswer": "Telangana"
+    "question": "Which country is seeking climate compensation from major polluters following severe flash floods?",
+    "options": ["Bhutan", "Bangladesh", "Nepal", "Sri Lanka"],
+    "correctAnswer": "Nepal"
   },
   {
     "id": 22,
-    "question": "India's strong condemnation of the temple demolition in Pakistan reflects its consistent stance on the protection of what principle?",
-    "options": ["Economic development", "Freedom of speech", "Religious freedom and cultural heritage", "Territorial integrity"],
-    "correctAnswer": "Religious freedom and cultural heritage"
+    "question": "Nepal is calling for climate compensation from major polluters, specifically mentioning which three countries/regions?",
+    "options": ["India, US and China", "EU, Russia and Japan", "Australia, Canada and UK", "Brazil, South Africa and Germany"],
+    "correctAnswer": "India, US and China"
   },
   {
     "id": 23,
-    "question": "The appointment of a CEO and trustees for a major religious site like the Ram Temple underscores the importance of what type of structure for such institutions?",
-    "options": ["Political oversight", "Professional management and governance", "Military protection", "International funding"],
-    "correctAnswer": "Professional management and governance"
+    "question": "What natural phenomenon prompted Nepal to seek climate compensation from major polluters?",
+    "options": ["Earthquakes", "Droughts", "Severe flash floods", "Volcanic eruptions"],
+    "correctAnswer": "Severe flash floods"
   },
   {
     "id": 24,
-    "question": "What specific aspect of the Pakistani authorities' conduct was highlighted by India in the context of the temple's demolition?",
-    "options": ["Their swift response to the incident", "Their collaborative efforts with India", "Their apparent apathy and failure to protect the temple", "Their comprehensive report on the incident"],
-    "correctAnswer": "Their apparent apathy and failure to protect the temple"
+    "question": "Nepal's demand for compensation is based on the impact of which global issue?",
+    "options": ["Global trade imbalances", "Regional conflicts", "Climate change and its effects", "Economic recessions"],
+    "correctAnswer": "Climate change and its effects"
   },
   {
     "id": 25,
-    "question": "The Ram Temple Trust, now with a new CEO and trustees, is overseeing the construction and management of a temple dedicated to which Hindu deity?",
-    "options": ["Lord Shiva", "Lord Krishna", "Lord Rama", "Goddess Durga"],
-    "correctAnswer": "Lord Rama"
+    "question": "The Centre recently provided clarity on its calculations related to which economic indicator?",
+    "options": ["Inflation rate", "Unemployment figures", "GDP growth", "Foreign exchange reserves"],
+    "correctAnswer": "GDP growth"
   }
 ]

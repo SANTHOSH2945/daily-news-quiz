@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which international organization's summit did Prime Minister Modi attend, where he presented gifts to leaders from Uzbekistan and Kyrgyzstan?",
-    "options": ["G20", "BRICS", "SCO", "SAARC"],
-    "correctAnswer": "SCO"
+    "question": "What recent suggestion did the Supreme Court of India make regarding the counting of votes from Electronic Voting Machines (EVMs)?",
+    "options": ["Mix votes using a 'totaliser' before counting", "Increase the number of VVPAT verifications", "Switch back to ballot papers entirely", "Introduce online voting systems"],
+    "correctAnswer": "Mix votes using a 'totaliser' before counting"
   },
   {
     "id": 2,
-    "question": "Besides Uzbekistan, which other country's leader received gifts from PM Modi at the recent SCO summit?",
-    "options": ["Kazakhstan", "Tajikistan", "Kyrgyzstan", "Turkmenistan"],
-    "correctAnswer": "Kyrgyzstan"
+    "question": "The Supreme Court questioned why a 'totaliser' system, previously used for ballot papers, could not be applied to EVMs. What is the primary purpose of a 'totaliser' in this context?",
+    "options": ["To speed up the counting process", "To prevent the identification of voting patterns in specific polling booths", "To verify the authenticity of EVMs", "To reduce manual errors in counting"],
+    "correctAnswer": "To prevent the identification of voting patterns in specific polling booths"
   },
   {
     "id": 3,
-    "question": "What ancient Indian epic was among the gifts PM Modi presented to leaders at the SCO summit?",
-    "options": ["Ramayana", "Mahabharata", "Bhagavad Gita", "Panchatantra"],
-    "correctAnswer": "Mahabharata"
+    "question": "The debate around the 'totaliser' system in Indian elections primarily concerns which aspect of the electoral process?",
+    "options": ["Voter registration", "Campaign finance", "Vote counting and secrecy", "Election scheduling"],
+    "correctAnswer": "Vote counting and secrecy"
   },
   {
     "id": 4,
-    "question": "What traditional Indian craft, often associated with intricate stone work, was featured in PM Modi's gifts at the SCO summit?",
-    "options": ["Kalamkari", "Marble Inlay", "Pattachitra", "Bidriware"],
-    "correctAnswer": "Marble Inlay"
+    "question": "If implemented, the 'totaliser' system for EVMs would aim to enhance which democratic principle in India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Transparency in party funding", "Secrecy of individual votes", "Accessibility for voters with disabilities", "Fair representation for all communities"],
+    "correctAnswer": "Secrecy of individual votes"
   },
   {
     "id": 5,
-    "question": "Which material, known for its luxurious fabric, was also part of PM Modi's diplomatic gifts at the SCO summit?",
-    "options": ["Cotton", "Linen", "Silk", "Jute"],
-    "correctAnswer": "Silk"
+    "question": "Prior to EVMs, what method was mentioned by the Supreme Court as having used a 'totaliser' concept to mix votes?",
+    "options": ["Postal ballots", "Ballot papers", "Punch card voting", "Electronic ballot units"],
+    "correctAnswer": "Ballot papers"
   },
   {
     "id": 6,
-    "question": "Prime Minister Modi recently criticized the use of terrorism as a strategic asset. At which international forum did he make these remarks?",
-    "options": ["UN General Assembly", "SCO Summit", "G7 Summit", "Quad Leaders' Summit"],
-    "correctAnswer": "SCO Summit"
+    "question": "The Supreme Court's inquiry into the 'totaliser' system for EVMs indicates an ongoing discussion about which fundamental aspect of India's electoral system?",
+    "options": ["The role of election observers", "The integrity and perceived fairness of vote counting", "The eligibility criteria for candidates", "The frequency of elections"],
+    "correctAnswer": "The integrity and perceived fairness of vote counting"
   },
   {
     "id": 7,
-    "question": "Which country took over the Chair of the Shanghai Cooperation Organisation (SCO) at the recent summit mentioned in the news?",
-    "options": ["India", "Russia", "China", "Pakistan"],
-    "correctAnswer": "Pakistan"
+    "question": "The proposal to use a 'totaliser' for EVMs is being considered at which level of the Indian judicial system?",
+    "options": ["High Courts", "District Courts", "Supreme Court", "Election Tribunals"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 8,
-    "question": "The BJP SC Morcha performed a 'buddhi-shuddhi' ritual. Who was the subject of this ritual?",
-    "options": ["Amit Shah", "Rahul Gandhi", "Mallikarjun Kharge", "Narendra Modi"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "A 'totaliser' system in vote counting is generally intended to achieve what, according to the Supreme Court's recent discussions?",
+    "options": ["Ensure EVM security", "Protect the identity of voters and their choices at the booth level", "Allow for re-counting requests", "Standardize ballot paper designs"],
+    "correctAnswer": "Protect the identity of voters and their choices at the booth level"
   },
   {
     "id": 9,
-    "question": "What was the name of the ritual performed by the BJP SC Morcha for Rahul Gandhi?",
-    "options": ["Pind Daan", "Yagna", "Buddhi-shuddhi", "Hawan"],
-    "correctAnswer": "Buddhi-shuddhi"
+    "question": "Which body in India would be responsible for potentially implementing changes like the 'totaliser' system, if approved, in elections across all states, including Telangana and Andhra Pradesh?",
+    "options": ["The Parliament of India", "The President of India", "The Election Commission of India", "The Prime Minister's Office"],
+    "correctAnswer": "The Election Commission of India"
   },
   {
     "id": 10,
-    "question": "The 'buddhi-shuddhi' ritual by BJP SC Morcha was performed amidst which ongoing controversy?",
-    "options": ["Sudhikaran row", "Manipur violence", "Electoral bond issue", "Poverty alleviation program"],
-    "correctAnswer": "Sudhikaran row"
+    "question": "The concern addressed by the 'totaliser' idea regarding EVMs is primarily related to which stage of the election process?",
+    "options": ["Pre-election campaigning", "Polling day procedures", "Vote counting", "Post-election appeals"],
+    "correctAnswer": "Vote counting"
   },
   {
     "id": 11,
-    "question": "Which political party's SC Morcha performed the 'buddhi-shuddhi' ritual for Rahul Gandhi?",
-    "options": ["Indian National Congress", "Bahujan Samaj Party", "Bharatiya Janata Party", "Samajwadi Party"],
-    "correctAnswer": "Bharatiya Janata Party"
+    "question": "Prime Minister Modi recently urged Indian citizens to shun which of the following activities to promote national economic interests?",
+    "options": ["Participation in domestic festivals", "Unnecessary gold purchases, foreign weddings, and holidays", "Investment in government bonds", "Use of public transportation"],
+    "correctAnswer": "Unnecessary gold purchases, foreign weddings, and holidays"
   },
   {
     "id": 12,
-    "question": "Who is the political leader from the Trinamool Congress (TMC) mentioned in the news for alleging 'political vendetta'?",
-    "options": ["Mamata Banerjee", "Derek O'Brien", "Abhishek Banerjee", "Yashwant Sinha"],
-    "correctAnswer": "Abhishek Banerjee"
+    "question": "The Prime Minister's appeal regarding gold purchases, foreign weddings, and holidays is aimed at achieving what for the Indian economy?",
+    "options": ["Boosting imports", "Increasing foreign exchange outflow", "Promoting domestic tourism and saving foreign exchange", "Encouraging international cultural exchange"],
+    "correctAnswer": "Promoting domestic tourism and saving foreign exchange"
   },
   {
     "id": 13,
-    "question": "Abhishek Banerjee, a leader from the TMC, cried foul after police grilling over what kind of case?",
-    "options": ["Corruption case", "Scuffle case", "Land dispute case", "Defamation case"],
-    "correctAnswer": "Scuffle case"
+    "question": "Which aspect of personal spending was explicitly mentioned by PM Modi as something to be curbed to benefit the Indian economy?",
+    "options": ["Spending on education", "Foreign holidays", "Daily groceries", "Healthcare expenses"],
+    "correctAnswer": "Foreign holidays"
   },
   {
     "id": 14,
-    "question": "Which political party does Abhishek Banerjee belong to, as mentioned in the news context?",
-    "options": ["CPI(M)", "BJP", "TMC", "Congress"],
-    "correctAnswer": "TMC"
+    "question": "The call to reduce 'unnecessary gold buys' by the Prime Minister directly relates to which economic challenge for India, including states like Telangana which has significant gold consumption?",
+    "options": ["Domestic manufacturing capacity", "Balance of payments and current account deficit", "Agricultural productivity", "Inflation in food prices"],
+    "correctAnswer": "Balance of payments and current account deficit"
   },
   {
     "id": 15,
-    "question": "Which Chief Minister was seen stepping out of his convoy to gift an elderly woman his Dior glasses?",
-    "options": ["MK Stalin", "Basavaraj Bommai", "CM Vijay", "Pinarayi Vijayan"],
-    "correctAnswer": "CM Vijay"
+    "question": "What was the underlying theme of Prime Minister Modi's recent appeal to Indian citizens about their spending habits?",
+    "options": ["Promoting a minimalist lifestyle", "Encouraging self-reliance and boosting the domestic economy", "Increasing government tax revenue", "Discouraging international relations"],
+    "correctAnswer": "Encouraging self-reliance and boosting the domestic economy"
   },
   {
     "id": 16,
-    "question": "In which state did CM Vijay gift his Dior glasses to an elderly woman?",
-    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "PM Modi's suggestion to avoid foreign weddings primarily encourages which type of spending?",
+    "options": ["Luxury goods", "Domestic tourism and services", "International investments", "Digital currencies"],
+    "correctAnswer": "Domestic tourism and services"
   },
   {
     "id": 17,
-    "question": "What was the brand of glasses that CM Vijay gifted to an elderly woman?",
-    "options": ["Ray-Ban", "Gucci", "Dior", "Versace"],
-    "correctAnswer": "Dior"
+    "question": "The Prime Minister's appeal is part of a broader national effort to strengthen the Indian economy by focusing on:",
+    "options": ["Increasing imports of luxury goods", "Optimizing foreign exchange utilization", "Expanding international trade deficits", "Encouraging emigration for work"],
+    "correctAnswer": "Optimizing foreign exchange utilization"
   },
   {
     "id": 18,
-    "question": "Who took a dig at TN CM Vijay's 'PM ambitions' by suggesting he could even become the US president?",
-    "options": ["MK Stalin", "K Palaniswami", "Annamalai", "Seeman"],
-    "correctAnswer": "K Palaniswami"
+    "question": "For states like Andhra Pradesh and Telangana, adherence to the Prime Minister's appeal to curb foreign spending could potentially lead to an increase in which economic activity within their borders?",
+    "options": ["Export of agricultural products", "Inbound international tourism", "Domestic tourism and local service consumption", "Investment in overseas real estate"],
+    "correctAnswer": "Domestic tourism and local service consumption"
   },
   {
     "id": 19,
-    "question": "The dig at CM Vijay's 'PM ambitions' was made by a leader from which state's politics?",
-    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Telangana"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "The Indian government recently took action to curb hoarding by halving the stock limit for which essential commodity?",
+    "options": ["Rice", "Wheat", "Sugar", "Pulses"],
+    "correctAnswer": "Sugar"
   },
   {
     "id": 20,
-    "question": "Who is the UP Congress chief that filed a defamation case against CM Yogi Adityanath?",
-    "options": ["Pramod Tiwari", "Ajay Rai", "Deepak Singh", "Aradhana Mishra"],
-    "correctAnswer": "Ajay Rai"
+    "question": "What was the primary objective of the government's decision to halve the sugar stock limit for dealers across India?",
+    "options": ["To increase sugar exports", "To encourage new sugar mills", "To curb hoarding and stabilize prices", "To promote artificial sweeteners"],
+    "correctAnswer": "To curb hoarding and stabilize prices"
   },
   {
     "id": 21,
-    "question": "Against whom did UP Congress chief Ajay Rai file a defamation case?",
-    "options": ["Akhilesh Yadav", "Mayawati", "CM Yogi Adityanath", "Priyanka Gandhi"],
-    "correctAnswer": "CM Yogi Adityanath"
+    "question": "The reduction in the sugar stock limit is a measure aimed at controlling which economic phenomenon affecting consumers in all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Deflation", "Unemployment", "Inflation and artificial scarcity", "Trade deficit"],
+    "correctAnswer": "Inflation and artificial scarcity"
   },
   {
     "id": 22,
-    "question": "What was the primary reason cited by Ajay Rai for filing a defamation case against CM Yogi Adityanath?",
-    "options": ["Misuse of power", "Hurting religious sentiments", "Corruption charges", "Violation of election code"],
-    "correctAnswer": "Hurting religious sentiments"
+    "question": "Under which economic regulatory framework would the government typically implement measures like halving stock limits for essential commodities?",
+    "options": ["Goods and Services Tax (GST) Act", "Foreign Exchange Management Act (FEMA)", "Essential Commodities Act", "Companies Act"],
+    "correctAnswer": "Essential Commodities Act"
   },
   {
     "id": 23,
-    "question": "The defamation case filed by Ajay Rai against CM Yogi Adityanath stemmed from a controversy involving what type of video?",
-    "options": ["A rally speech video", "A fish preparation video", "A public interaction video", "A private meeting video"],
-    "correctAnswer": "A fish preparation video"
+    "question": "What direct impact is the government expecting on the market availability of sugar by reducing the stock limit for dealers?",
+    "options": ["Decreased supply", "Increased hoarding", "Improved availability and stable prices", "Higher export volumes"],
+    "correctAnswer": "Improved availability and stable prices"
   },
   {
     "id": 24,
-    "question": "What specific accusation did CM Yogi Adityanath make against Ajay Rai that led to the defamation case?",
-    "options": ["Tax evasion", "Duplicity for attending a fish feast", "Misleading voters", "Spreading false rumors"],
-    "correctAnswer": "Duplicity for attending a fish feast"
+    "question": "For a state like Andhra Pradesh, which consumes and also produces certain agricultural goods, how would a national policy like halving the sugar stock limit impact local markets?",
+    "options": ["It would only affect import/export of sugar.", "It would regulate the supply and pricing for local consumers and traders.", "It would lead to an increase in local sugar production.", "It would have no impact on local markets."],
+    "correctAnswer": "It would regulate the supply and pricing for local consumers and traders."
   },
   {
     "id": 25,
-    "question": "Which river in Bihar was mentioned in the news for unusual fish species appearing due to Nepal floods?",
-    "options": ["Ganga", "Yamuna", "Gandak", "Kosi"],
-    "correctAnswer": "Gandak"
+    "question": "The government's action on sugar stock limits is a response to concerns about:",
+    "options": ["Excessive foreign investment in the sugar industry", "Speculative practices and supply chain disruptions", "Lack of consumer demand", "Environmental impact of sugar production"],
+    "correctAnswer": "Speculative practices and supply chain disruptions"
   }
 ]

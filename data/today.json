@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who among the following recently flagged concerns about the 'corporatisation' of the Ram Mandir project?",
-    "options": ["Sanjay Raut", "Uddhav Thackeray", "Sharad Pawar", "Rahul Gandhi"],
-    "correctAnswer": "Sanjay Raut"
+    "question": "Who recently questioned her removal from the cabinet of Telangana Chief Minister Revanth Reddy?",
+    "options": ["Konda Surekha", "Sabitha Indra Reddy", "D. Anasuya", "G. Padma Rao"],
+    "correctAnswer": "Konda Surekha"
   },
   {
     "id": 2,
-    "question": "The term 'corporatisation' was recently used in a political discussion regarding which significant religious project in India?",
-    "options": ["Kashi Vishwanath Corridor", "Ram Mandir Ayodhya", "Char Dham Yatra", "Vaishno Devi Shrine"],
-    "correctAnswer": "Ram Mandir Ayodhya"
-  },
-  {
-    "id": 3,
-    "question": "India is reportedly preparing for 'armed coexistence' in response to the 'grey-zone game' initiated by which neighbouring country?",
-    "options": ["Pakistan", "Nepal", "Bangladesh", "China"],
-    "correctAnswer": "China"
-  },
-  {
-    "id": 4,
-    "question": "What specific strategic concept is India considering in its long-term approach to manage relations with China?",
-    "options": ["Economic Integration", "Armed Coexistence", "Cultural Diplomacy", "Joint Research Ventures"],
-    "correctAnswer": "Armed Coexistence"
-  },
-  {
-    "id": 5,
-    "question": "The 'creamy layer' debate, recently in news concerning reservations, is specifically being discussed in the context of sub-quotas for which social groups in India?",
-    "options": ["Economically Weaker Sections (EWS)", "Other Backward Classes (OBC)", "Scheduled Castes and Scheduled Tribes (SC/ST)", "General Category"],
-    "correctAnswer": "Scheduled Castes and Scheduled Tribes (SC/ST)"
-  },
-  {
-    "id": 6,
-    "question": "Which Indian minister recently offered India's readiness to help resolve the Russia-Ukraine war?",
-    "options": ["Defence Minister Rajnath Singh", "Finance Minister Nirmala Sitharaman", "External Affairs Minister S. Jaishankar", "Home Minister Amit Shah"],
-    "correctAnswer": "External Affairs Minister S. Jaishankar"
-  },
-  {
-    "id": 7,
-    "question": "India's External Affairs Minister recently expressed the nation's willingness to mediate and help end which global conflict?",
-    "options": ["Israel-Hamas Conflict", "Yemen Civil War", "Russia-Ukraine War", "Sudan Conflict"],
-    "correctAnswer": "Russia-Ukraine War"
-  },
-  {
-    "id": 8,
-    "question": "Who assumed office as the new Chief Minister of Telangana following the recent 2023 Assembly elections?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Etela Rajender"],
+    "question": "From whose cabinet did Konda Surekha recently question her removal in Telangana?",
+    "options": ["K. Chandrashekar Rao", "Nara Lokesh", "Revanth Reddy", "Jagan Mohan Reddy"],
     "correctAnswer": "Revanth Reddy"
   },
   {
-    "id": 9,
-    "question": "Which political party formed the government in Telangana after securing a majority in the 2023 Assembly elections?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "id": 3,
+    "question": "How did Konda Surekha describe her removal from the Telangana cabinet, according to the news report?",
+    "options": ["Unjustified", "Vindictive", "Unconstitutional", "Temporary"],
+    "correctAnswer": "Vindictive"
   },
   {
-    "id": 10,
-    "question": "Who is currently holding the additional charge as the Governor of Telangana, as of recent appointments in March 2024?",
-    "options": ["Tamilisai Soundararajan", "C.P. Radhakrishnan", "Biswabhusan Harichandan", "Arif Mohammed Khan"],
-    "correctAnswer": "C.P. Radhakrishnan"
+    "id": 4,
+    "question": "Which prominent political figure is currently the Chief Minister of Telangana, whose cabinet was recently in the news regarding Konda Surekha's removal?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "G. Kishan Reddy"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
-    "id": 11,
-    "question": "The 'Mahalakshmi' scheme, one of the 'Six Guarantees' by the new Telangana government, primarily offers which benefit?",
-    "options": ["Financial aid to farmers", "Free electricity for households", "Free bus travel for women", "Housing for the poor"],
-    "correctAnswer": "Free bus travel for women"
-  },
-  {
-    "id": 12,
-    "question": "The Kaleshwaram Lift Irrigation Project, a massive multi-purpose irrigation scheme, is a flagship project of which Indian state?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra"],
+    "id": 5,
+    "question": "In which Indian state did the recent controversy involving Konda Surekha's cabinet removal take place?",
+    "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Telangana"],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 6,
+    "question": "Konda Surekha's questioning of her cabinet removal implies her previous role was what type of position?",
+    "options": ["An opposition leader", "A cabinet minister", "A party spokesperson", "A district collector"],
+    "correctAnswer": "A cabinet minister"
+  },
+  {
+    "id": 7,
+    "question": "What specific action did Konda Surekha take regarding her position in the Telangana cabinet?",
+    "options": ["Resigned voluntarily", "Demanded promotion", "Questioned her removal", "Appointed new staff"],
+    "correctAnswer": "Questioned her removal"
+  },
+  {
+    "id": 8,
+    "question": "The news report states Konda Surekha considered her removal from the cabinet as an act of what?",
+    "options": ["Political reform", "Mutual agreement", "Vindictiveness", "Strategic realignment"],
+    "correctAnswer": "Vindictiveness"
+  },
+  {
+    "id": 9,
+    "question": "Which Chief Minister's cabinet was at the center of the recent news involving Konda Surekha in Telangana?",
+    "options": ["Pinarayi Vijayan", "M.K. Stalin", "Revanth Reddy", "Eknath Shinde"],
+    "correctAnswer": "Revanth Reddy"
+  },
+  {
+    "id": 10,
+    "question": "What was the primary subject of Konda Surekha's recent public statement in Telangana politics?",
+    "options": ["New policy initiatives", "Electoral reforms", "Her removal from the cabinet", "State budget allocations"],
+    "correctAnswer": "Her removal from the cabinet"
+  },
+  {
+    "id": 11,
+    "question": "What does the Central Electricity Authority (CEA) propose for solar and wind energy projects in India?",
+    "options": ["Increased subsidies", "Mandatory energy storage", "Export restrictions", "New tax incentives"],
+    "correctAnswer": "Mandatory energy storage"
+  },
+  {
+    "id": 12,
+    "question": "The CEA's recent proposal primarily focuses on which aspect of solar and wind energy projects to enhance grid stability?",
+    "options": ["Panel efficiency", "Turbine design", "Energy storage", "Transmission lines"],
+    "correctAnswer": "Energy storage"
+  },
+  {
     "id": 13,
-    "question": "As per the Andhra Pradesh Reorganisation Act, 2014, which city was designated as the common capital for both Telangana and Andhra Pradesh for a period not exceeding ten years?",
-    "options": ["Amaravati", "Warangal", "Hyderabad", "Visakhapatnam"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which types of renewable energy projects are specifically targeted by the CEA's proposal for mandatory storage in India?",
+    "options": ["Hydropower and geothermal", "Nuclear and biomass", "Solar and wind", "Tidal and wave"],
+    "correctAnswer": "Solar and wind"
   },
   {
     "id": 14,
-    "question": "Which major city in Telangana is often referred to as 'Cyberabad' due to its rapid growth as an Information Technology and IT-enabled Services hub?",
-    "options": ["Warangal", "Karimnagar", "Nizamabad", "Hyderabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which government body in India recently proposed mandatory storage for solar and wind power projects?",
+    "options": ["Ministry of New and Renewable Energy", "NITI Aayog", "Central Electricity Authority", "Bureau of Energy Efficiency"],
+    "correctAnswer": "Central Electricity Authority"
   },
   {
     "id": 15,
-    "question": "What is the name of the international airport serving Hyderabad, a major gateway to Telangana?",
-    "options": ["Begumpet Airport", "Rajiv Gandhi International Airport", "Visakhapatnam Airport", "Kempegowda International Airport"],
-    "correctAnswer": "Rajiv Gandhi International Airport"
+    "question": "What is a key expected benefit of implementing mandatory storage for solar and wind projects, especially in states like Telangana and Andhra Pradesh?",
+    "options": ["Reduced project costs", "Improved grid stability", "Increased land use", "Decreased energy output"],
+    "correctAnswer": "Improved grid stability"
   },
   {
     "id": 16,
-    "question": "Which iconic historical monument, built by Muhammad Quli Qutb Shah, stands as a global symbol of Hyderabad and Telangana?",
-    "options": ["Golconda Fort", "Charminar", "Falaknuma Palace", "Qutb Shahi Tombs"],
-    "correctAnswer": "Charminar"
+    "question": "The CEA's proposal for mandatory storage aims to address what inherent characteristic of renewable energy sources like solar and wind?",
+    "options": ["High maintenance costs", "Intermittency", "Geographic limitations", "Dependency on imports"],
+    "correctAnswer": "Intermittency"
   },
   {
     "id": 17,
-    "question": "'T-Hub', an initiative aimed at fostering innovation and entrepreneurship, is located in which major city of Telangana?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "For states like Telangana and Andhra Pradesh with growing renewable energy capacities, the CEA's proposal for mandatory storage would directly impact their efforts to ensure what?",
+    "options": ["Reduced carbon footprint in agriculture", "Continuous power supply", "Lower industrial tariffs", "Enhanced tourism infrastructure"],
+    "correctAnswer": "Continuous power supply"
   },
   {
     "id": 18,
-    "question": "Who is the current Chief Minister of Andhra Pradesh?",
-    "options": ["N. Chandrababu Naidu", "Pawan Kalyan", "Y. S. Jagan Mohan Reddy", "Nara Lokesh"],
-    "correctAnswer": "Y. S. Jagan Mohan Reddy"
+    "question": "What innovative renewable energy technology, projected to involve a Rs 5,070-crore investment, is seen as India's next renewable leap?",
+    "options": ["Geothermal power", "Offshore wind farms", "Floating solar power", "Nuclear fusion"],
+    "correctAnswer": "Floating solar power"
   },
   {
     "id": 19,
-    "question": "Which political party currently governs Andhra Pradesh?",
-    "options": ["Telugu Desam Party (TDP)", "Jana Sena Party (JSP)", "YSR Congress Party (YSRCP)", "Bharatiya Janata Party (BJP)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "The news highlights a significant investment of approximately Rs 5,070 crore dedicated to advancing what specific type of power generation in India?",
+    "options": ["Thermal power", "Hydropower", "Floating solar power", "Biomass energy"],
+    "correctAnswer": "Floating solar power"
   },
   {
     "id": 20,
-    "question": "Who is the current Governor of Andhra Pradesh?",
-    "options": ["S. Abdul Nazeer", "Biswabhusan Harichandan", "E. S. L. Narasimhan", "Jagdeep Dhankhar"],
-    "correctAnswer": "S. Abdul Nazeer"
+    "question": "What is a primary characteristic of 'floating solar' technology as implied by its name?",
+    "options": ["Solar panels that levitate above ground", "Solar panels installed on the roofs of boats", "Solar panels deployed on bodies of water", "Solar panels designed to track cloud movement"],
+    "correctAnswer": "Solar panels deployed on bodies of water"
   },
   {
     "id": 21,
-    "question": "Under the YSRCP government's proposed plan for decentralized development, which city is intended to serve as the executive capital of Andhra Pradesh?",
-    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Vijayawada"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "States like Telangana and Andhra Pradesh, with numerous reservoirs, could particularly benefit from which type of solar power technology?",
+    "options": ["Rooftop solar", "Concentrated solar", "Floating solar", "Community solar farms"],
+    "correctAnswer": "Floating solar"
   },
   {
     "id": 22,
-    "question": "Which major port city in Andhra Pradesh is a significant economic hub and home to the Eastern Naval Command of the Indian Navy?",
-    "options": ["Kakinada", "Nellore", "Visakhapatnam", "Machilipatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What is one major advantage of floating solar power, especially in water-rich regions of India?",
+    "options": ["Higher energy conversion efficiency", "Requires less initial investment", "Reduces land usage and water evaporation", "Easier to maintain than traditional solar farms"],
+    "correctAnswer": "Reduces land usage and water evaporation"
   },
   {
     "id": 23,
-    "question": "The 'Amma Vodi' scheme, a flagship welfare initiative providing financial aid to mothers for their children's education, is implemented by which state government?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The approximate investment for India's floating solar power initiative is cited as how many crore rupees?",
+    "options": ["Rs 1,070 crore", "Rs 2,570 crore", "Rs 5,070 crore", "Rs 10,070 crore"],
+    "correctAnswer": "Rs 5,070 crore"
   },
   {
     "id": 24,
-    "question": "The Visakhapatnam-Chennai Industrial Corridor (VCIC), part of the East Coast Economic Corridor, is primarily developing infrastructure in which Indian state?",
-    "options": ["Odisha", "Tamil Nadu", "Andhra Pradesh", "West Bengal"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Beyond electricity generation, what additional benefit does floating solar power offer to reservoirs in states like Telangana and Andhra Pradesh?",
+    "options": ["Improves water quality by filtering pollutants", "Increases aquatic biodiversity", "Reduces water evaporation", "Supports fish farming activities"],
+    "correctAnswer": "Reduces water evaporation"
   },
   {
     "id": 25,
-    "question": "Tirupati, home to the famous Sri Venkateswara Swamy Temple, is a renowned pilgrimage destination located in which Indian state?",
-    "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The concept of 'floating solar' power addresses the challenge of what resource scarcity often faced by large-scale solar projects in densely populated areas?",
+    "options": ["Water", "Manpower", "Land", "Raw materials"],
+    "correctAnswer": "Land"
   }
 ]

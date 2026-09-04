@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which launch vehicle was successfully used by ISRO for the EOS-05 satellite mission?",
-    "options": ["PSLV-C50", "GSLV-F17", "SSLV-D1", "LVM3-M4"],
-    "correctAnswer": "GSLV-F17"
+    "question": "Abhishek Banerjee, whose office faced action by the fire department, is a political figure primarily associated with which Indian state?",
+    "options": ["West Bengal", "Odisha", "Bihar", "Assam"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 2,
-    "question": "What type of satellite is EOS-05, recently launched by ISRO?",
-    "options": ["Communication satellite", "Navigation satellite", "Earth observation satellite", "Weather monitoring satellite"],
-    "correctAnswer": "Earth observation satellite"
+    "question": "Which specific government department initiated a crackdown on Abhishek Banerjee's office regarding safety concerns?",
+    "options": ["Municipal Corporation", "Fire Department", "Pollution Control Board", "Public Works Department"],
+    "correctAnswer": "Fire Department"
   },
   {
     "id": 3,
-    "question": "Which Indian state is home to the primary launch facility for ISRO's GSLV missions, including GSLV-F17?",
-    "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The Indian Army conducted a joint operation in which region, resulting in the elimination of a terrorist?",
+    "options": ["Jammu & Kashmir", "Punjab", "Assam", "Chhattisgarh"],
+    "correctAnswer": "Jammu & Kashmir"
   },
   {
     "id": 4,
-    "question": "The Satish Dhawan Space Centre (SDSC), from where the GSLV-F17 mission originated, is located in which specific region of Andhra Pradesh?",
-    "options": ["Visakhapatnam", "Tirupati", "Sriharikota", "Amaravati"],
-    "correctAnswer": "Sriharikota"
-  },
-  {
-    "id": 5,
-    "question": "What was the approximate weight of the EOS-05 satellite that was placed into orbit by GSLV-F17?",
-    "options": ["1,500 kg", "2,367 kg", "3,000 kg", "500 kg"],
-    "correctAnswer": "2,367 kg"
-  },
-  {
-    "id": 6,
-    "question": "The EOS-05 satellite was successfully placed into which specific type of orbit?",
-    "options": ["Low Earth Orbit", "Polar Orbit", "Geosynchronous Orbit", "Sun-Synchronous Orbit"],
-    "correctAnswer": "Geosynchronous Orbit"
-  },
-  {
-    "id": 7,
-    "question": "Which national space agency was responsible for the successful launch of EOS-05 using the GSLV-F17 rocket?",
-    "options": ["NASA", "Roscosmos", "JAXA", "ISRO"],
-    "correctAnswer": "ISRO"
-  },
-  {
-    "id": 8,
-    "question": "What does the acronym 'GSLV' stand for in the context of ISRO's GSLV-F17 launch vehicle?",
-    "options": ["Global Satellite Launch Vehicle", "Geosynchronous Satellite Launch Vehicle", "General Space Launch Vehicle", "Geostationary Space Launch Vehicle"],
-    "correctAnswer": "Geosynchronous Satellite Launch Vehicle"
-  },
-  {
-    "id": 9,
-    "question": "Which prominent Indian figure hailed ISRO's successful EOS-05 launch as an 'outstanding achievement'?",
-    "options": ["President Droupadi Murmu", "Home Minister Amit Shah", "PM Narendra Modi", "ISRO Chairman S. Somanath"],
-    "correctAnswer": "PM Narendra Modi"
-  },
-  {
-    "id": 10,
-    "question": "The EOS-05 mission, focusing on Earth observation, directly contributes to India's capabilities in which of the following areas?",
-    "options": ["Interplanetary exploration", "Deep-sea mapping", "Climate monitoring and resource management", "Satellite communication"],
-    "correctAnswer": "Climate monitoring and resource management"
-  },
-  {
-    "id": 11,
-    "question": "Sriharikota, the launch site for GSLV-F17, is an island located on the coast of which major body of water?",
-    "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean", "Gulf of Mannar"],
-    "correctAnswer": "Bay of Bengal"
-  },
-  {
-    "id": 12,
-    "question": "Which neighboring state shares a border relatively close to Sriharikota, Andhra Pradesh?",
-    "options": ["Karnataka", "Odisha", "Telangana", "Tamil Nadu"],
+    "question": "C. Joseph Vijay, mentioned in the context of national leadership aspirations, is a political figure from which Indian state?",
+    "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
     "correctAnswer": "Tamil Nadu"
   },
   {
+    "id": 5,
+    "question": "Which political party is led by C. Joseph Vijay, as indicated in the news discussing his national ambitions?",
+    "options": ["TVK", "DMK", "AIADMK", "PMK"],
+    "correctAnswer": "TVK"
+  },
+  {
+    "id": 6,
+    "question": "Rahul Gandhi, a prominent national political leader, is associated with which major Indian political party?",
+    "options": ["Indian National Congress", "Bharatiya Janata Party", "Aam Aadmi Party", "Bahujan Samaj Party"],
+    "correctAnswer": "Indian National Congress"
+  },
+  {
+    "id": 7,
+    "question": "The Congress party planned a protest march to the Chief Minister's residence in Dehradun, the capital of which Indian state?",
+    "options": ["Uttarakhand", "Himachal Pradesh", "Uttar Pradesh", "Punjab"],
+    "correctAnswer": "Uttarakhand"
+  },
+  {
+    "id": 8,
+    "question": "The 'purification' row that led to the Congress protest in Dehradun was centered around which specific town?",
+    "options": ["Haldwani", "Haridwar", "Rishikesh", "Nainital"],
+    "correctAnswer": "Haldwani"
+  },
+  {
+    "id": 9,
+    "question": "Which Indian airline's pilot-in-command tested non-negative for psychoactive substances following an incident involving hydraulic failures?",
+    "options": ["Air India", "IndiGo", "SpiceJet", "Vistara"],
+    "correctAnswer": "Air India"
+  },
+  {
+    "id": 10,
+    "question": "The Air India flight incident, where the pilot tested positive for a psychoactive substance, originated from which international city?",
+    "options": ["Phuket", "Bangkok", "Singapore", "Kuala Lumpur"],
+    "correctAnswer": "Phuket"
+  },
+  {
+    "id": 11,
+    "question": "Which Indian regulatory body issued an interim safety recommendation to the DGCA regarding the concern of drug use among pilots?",
+    "options": ["Aircraft Accident Investigation Bureau (AAIB)", "Bureau of Civil Aviation Security (BCAS)", "Airports Authority of India (AAI)", "Directorate General of Shipping (DGS)"],
+    "correctAnswer": "Aircraft Accident Investigation Bureau (AAIB)"
+  },
+  {
+    "id": 12,
+    "question": "What significant technical failure was reported regarding the Air India Phuket-Delhi flight incident?",
+    "options": ["Engine malfunction", "Landing gear collapse", "Multiple hydraulic failures", "Cabin depressurization"],
+    "correctAnswer": "Multiple hydraulic failures"
+  },
+  {
     "id": 13,
-    "question": "The GSLV-F17 mission marks a continued effort by ISRO in developing indigenous capabilities for launching which class of satellites?",
-    "options": ["Small satellites", "Heavy communication satellites", "Earth observation satellites", "Navigational satellites"],
-    "correctAnswer": "Earth observation satellites"
+    "question": "Dharamvira Gandhi, an MP whose name was clarified by the Election Commission, is associated with which Indian state?",
+    "options": ["Punjab", "Haryana", "Rajasthan", "Gujarat"],
+    "correctAnswer": "Punjab"
   },
   {
     "id": 14,
-    "question": "What is the full form of 'EOS' as in the EOS-05 satellite?",
-    "options": ["Earth Orbiting Satellite", "Electro-Optical System", "Earth Observation Satellite", "External Operating System"],
-    "correctAnswer": "Earth Observation Satellite"
+    "question": "Which independent constitutional body clarified the electoral roll status of MP Dharamvira Gandhi?",
+    "options": ["Election Commission of India (ECI)", "Parliament Secretariat", "Ministry of Home Affairs", "Supreme Court of India"],
+    "correctAnswer": "Election Commission of India (ECI)"
   },
   {
     "id": 15,
-    "question": "The primary objective of placing EOS-05 into a geosynchronous orbit is typically for what kind of coverage?",
-    "options": ["High-resolution imaging of small areas", "Continuous observation of a specific region on Earth", "Intermittent global coverage", "Lunar surface mapping"],
-    "correctAnswer": "Continuous observation of a specific region on Earth"
+    "question": "An IndiGo aircraft had a minor mishap at Srinagar airport, making contact with what object?",
+    "options": ["A baggage cart", "A catering truck", "A parking stand pole", "Another aircraft"],
+    "correctAnswer": "A parking stand pole"
   },
   {
     "id": 16,
-    "question": "Which city is the officially designated capital of Andhra Pradesh, the state housing the GSLV-F17 launch facility?",
-    "options": ["Hyderabad", "Bengaluru", "Chennai", "Amaravati"],
-    "correctAnswer": "Amaravati"
+    "question": "The IndiGo aircraft incident occurred at an airport in which major Indian city?",
+    "options": ["Srinagar", "Leh", "Jammu", "Chandigarh"],
+    "correctAnswer": "Srinagar"
   },
   {
     "id": 17,
-    "question": "Which major lake forms a significant geographical feature adjacent to the Satish Dhawan Space Centre in Andhra Pradesh?",
-    "options": ["Kolleru Lake", "Chilika Lake", "Pulicat Lake", "Vembanad Lake"],
-    "correctAnswer": "Pulicat Lake"
+    "question": "Prime Minister Modi congratulated Giorgia Meloni for becoming the longest-serving postwar leader of which country?",
+    "options": ["Italy", "France", "Germany", "Spain"],
+    "correctAnswer": "Italy"
   },
   {
     "id": 18,
-    "question": "The GSLV-F17 mission's success contributes to India's self-reliance in which critical aspect of space technology?",
-    "options": ["Deep space probes", "Manned missions", "Heavy-lift launch capabilities", "Asteroid mining"],
-    "correctAnswer": "Heavy-lift launch capabilities"
+    "question": "Which European Prime Minister was congratulated by PM Modi for her political milestone?",
+    "options": ["Giorgia Meloni", "Ursula von der Leyen", "Roberta Metsola", "Sanna Marin"],
+    "correctAnswer": "Giorgia Meloni"
   },
   {
     "id": 19,
-    "question": "What specific type of trajectory is commonly used from Satish Dhawan Space Centre to place satellites into geosynchronous orbit?",
-    "options": ["Direct Ascent", "Hohmann Transfer", "Lunar Trajectory", "Martian Insertion"],
-    "correctAnswer": "Hohmann Transfer"
+    "question": "Which publishing house is set to release Sonia Gandhi’s controversial memoir?",
+    "options": ["HarperCollins", "Penguin Random House", "Rupa Publications", "Hachette India"],
+    "correctAnswer": "HarperCollins"
   },
   {
     "id": 20,
-    "question": "The coastal location of Sriharikota offers an advantage for launches by leveraging the Earth's rotational speed. In which general direction are most launches from Sriharikota conducted?",
-    "options": ["Northward", "Southward", "Eastward", "Westward"],
-    "correctAnswer": "Eastward"
+    "question": "The memoir being published by HarperCollins belongs to which prominent Indian political personality?",
+    "options": ["Sonia Gandhi", "Priyanka Gandhi Vadra", "Manmohan Singh", "LK Advani"],
+    "correctAnswer": "Sonia Gandhi"
   },
   {
     "id": 21,
-    "question": "Before its bifurcation, which city served as the common capital for both Telangana and Andhra Pradesh?",
-    "options": ["Chennai", "Visakhapatnam", "Hyderabad", "Amaravati"],
-    "correctAnswer": "Hyderabad"
+    "question": "The Aircraft Accident Investigation Bureau (AAIB) expressed serious concern to the DGCA regarding the use of which substances in aviation?",
+    "options": ["Alcohol", "Tobacco", "Psychoactive substances", "Performance-enhancing drugs"],
+    "correctAnswer": "Psychoactive substances"
   },
   {
     "id": 22,
-    "question": "What is the current capital city of the Indian state of Telangana?",
-    "options": ["Warangal", "Hyderabad", "Secunderabad", "Karimnagar"],
-    "correctAnswer": "Hyderabad"
+    "question": "Despite hydraulic failures and other issues, the Air India Phuket flight ultimately proceeded to which Indian city?",
+    "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 23,
-    "question": "In which year did the state of Telangana officially come into existence, following its bifurcation from Andhra Pradesh?",
-    "options": ["2012", "2013", "2014", "2015"],
-    "correctAnswer": "2014"
+    "question": "The news article discusses C. Joseph Vijay's potential challenge to Rahul Gandhi for the Prime Ministerial post in the context of which upcoming general election?",
+    "options": ["2029", "2024", "2034", "2028"],
+    "correctAnswer": "2029"
   },
   {
     "id": 24,
-    "question": "The GSLV program, which includes the GSLV-F17, is primarily designed to launch satellites into which higher altitude orbit compared to PSLV?",
-    "options": ["Low Earth Orbit", "Medium Earth Orbit", "Geostationary Transfer Orbit", "Sun-Synchronous Orbit"],
-    "correctAnswer": "Geostationary Transfer Orbit"
+    "question": "What type of action did the fire department take against Abhishek Banerjee's office, leading to the vacating of three floors?",
+    "options": ["Demolition notice", "Occupancy restriction", "Financial penalty", "Arrest warrants"],
+    "correctAnswer": "Occupancy restriction"
   },
   {
     "id": 25,
-    "question": "The successful operation of the Satish Dhawan Space Centre (SDSC) in Andhra Pradesh demonstrates India's leadership in which regional technological domain?",
-    "options": ["Naval engineering", "Aerospace manufacturing", "Nuclear power generation", "Information technology services"],
-    "correctAnswer": "Aerospace manufacturing"
+    "question": "During the Air India flight incident, what type of damage was reported regarding the aircraft's interior?",
+    "options": ["Engine damage", "Wing damage", "Considerable cabin damage", "Fuselage cracks"],
+    "correctAnswer": "Considerable cabin damage"
   }
 ]

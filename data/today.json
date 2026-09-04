@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who recently questioned her removal from the cabinet of Telangana Chief Minister Revanth Reddy?",
-    "options": ["Konda Surekha", "Sabitha Indra Reddy", "D. Anasuya", "G. Padma Rao"],
-    "correctAnswer": "Konda Surekha"
+    "question": "Which launch vehicle was successfully used by ISRO for the EOS-05 satellite mission?",
+    "options": ["PSLV-C50", "GSLV-F17", "SSLV-D1", "LVM3-M4"],
+    "correctAnswer": "GSLV-F17"
   },
   {
     "id": 2,
-    "question": "From whose cabinet did Konda Surekha recently question her removal in Telangana?",
-    "options": ["K. Chandrashekar Rao", "Nara Lokesh", "Revanth Reddy", "Jagan Mohan Reddy"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "What type of satellite is EOS-05, recently launched by ISRO?",
+    "options": ["Communication satellite", "Navigation satellite", "Earth observation satellite", "Weather monitoring satellite"],
+    "correctAnswer": "Earth observation satellite"
   },
   {
     "id": 3,
-    "question": "How did Konda Surekha describe her removal from the Telangana cabinet, according to the news report?",
-    "options": ["Unjustified", "Vindictive", "Unconstitutional", "Temporary"],
-    "correctAnswer": "Vindictive"
+    "question": "Which Indian state is home to the primary launch facility for ISRO's GSLV missions, including GSLV-F17?",
+    "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 4,
-    "question": "Which prominent political figure is currently the Chief Minister of Telangana, whose cabinet was recently in the news regarding Konda Surekha's removal?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "G. Kishan Reddy"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "The Satish Dhawan Space Centre (SDSC), from where the GSLV-F17 mission originated, is located in which specific region of Andhra Pradesh?",
+    "options": ["Visakhapatnam", "Tirupati", "Sriharikota", "Amaravati"],
+    "correctAnswer": "Sriharikota"
   },
   {
     "id": 5,
-    "question": "In which Indian state did the recent controversy involving Konda Surekha's cabinet removal take place?",
-    "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "What was the approximate weight of the EOS-05 satellite that was placed into orbit by GSLV-F17?",
+    "options": ["1,500 kg", "2,367 kg", "3,000 kg", "500 kg"],
+    "correctAnswer": "2,367 kg"
   },
   {
     "id": 6,
-    "question": "Konda Surekha's questioning of her cabinet removal implies her previous role was what type of position?",
-    "options": ["An opposition leader", "A cabinet minister", "A party spokesperson", "A district collector"],
-    "correctAnswer": "A cabinet minister"
+    "question": "The EOS-05 satellite was successfully placed into which specific type of orbit?",
+    "options": ["Low Earth Orbit", "Polar Orbit", "Geosynchronous Orbit", "Sun-Synchronous Orbit"],
+    "correctAnswer": "Geosynchronous Orbit"
   },
   {
     "id": 7,
-    "question": "What specific action did Konda Surekha take regarding her position in the Telangana cabinet?",
-    "options": ["Resigned voluntarily", "Demanded promotion", "Questioned her removal", "Appointed new staff"],
-    "correctAnswer": "Questioned her removal"
+    "question": "Which national space agency was responsible for the successful launch of EOS-05 using the GSLV-F17 rocket?",
+    "options": ["NASA", "Roscosmos", "JAXA", "ISRO"],
+    "correctAnswer": "ISRO"
   },
   {
     "id": 8,
-    "question": "The news report states Konda Surekha considered her removal from the cabinet as an act of what?",
-    "options": ["Political reform", "Mutual agreement", "Vindictiveness", "Strategic realignment"],
-    "correctAnswer": "Vindictiveness"
+    "question": "What does the acronym 'GSLV' stand for in the context of ISRO's GSLV-F17 launch vehicle?",
+    "options": ["Global Satellite Launch Vehicle", "Geosynchronous Satellite Launch Vehicle", "General Space Launch Vehicle", "Geostationary Space Launch Vehicle"],
+    "correctAnswer": "Geosynchronous Satellite Launch Vehicle"
   },
   {
     "id": 9,
-    "question": "Which Chief Minister's cabinet was at the center of the recent news involving Konda Surekha in Telangana?",
-    "options": ["Pinarayi Vijayan", "M.K. Stalin", "Revanth Reddy", "Eknath Shinde"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "Which prominent Indian figure hailed ISRO's successful EOS-05 launch as an 'outstanding achievement'?",
+    "options": ["President Droupadi Murmu", "Home Minister Amit Shah", "PM Narendra Modi", "ISRO Chairman S. Somanath"],
+    "correctAnswer": "PM Narendra Modi"
   },
   {
     "id": 10,
-    "question": "What was the primary subject of Konda Surekha's recent public statement in Telangana politics?",
-    "options": ["New policy initiatives", "Electoral reforms", "Her removal from the cabinet", "State budget allocations"],
-    "correctAnswer": "Her removal from the cabinet"
+    "question": "The EOS-05 mission, focusing on Earth observation, directly contributes to India's capabilities in which of the following areas?",
+    "options": ["Interplanetary exploration", "Deep-sea mapping", "Climate monitoring and resource management", "Satellite communication"],
+    "correctAnswer": "Climate monitoring and resource management"
   },
   {
     "id": 11,
-    "question": "What does the Central Electricity Authority (CEA) propose for solar and wind energy projects in India?",
-    "options": ["Increased subsidies", "Mandatory energy storage", "Export restrictions", "New tax incentives"],
-    "correctAnswer": "Mandatory energy storage"
+    "question": "Sriharikota, the launch site for GSLV-F17, is an island located on the coast of which major body of water?",
+    "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean", "Gulf of Mannar"],
+    "correctAnswer": "Bay of Bengal"
   },
   {
     "id": 12,
-    "question": "The CEA's recent proposal primarily focuses on which aspect of solar and wind energy projects to enhance grid stability?",
-    "options": ["Panel efficiency", "Turbine design", "Energy storage", "Transmission lines"],
-    "correctAnswer": "Energy storage"
+    "question": "Which neighboring state shares a border relatively close to Sriharikota, Andhra Pradesh?",
+    "options": ["Karnataka", "Odisha", "Telangana", "Tamil Nadu"],
+    "correctAnswer": "Tamil Nadu"
   },
   {
     "id": 13,
-    "question": "Which types of renewable energy projects are specifically targeted by the CEA's proposal for mandatory storage in India?",
-    "options": ["Hydropower and geothermal", "Nuclear and biomass", "Solar and wind", "Tidal and wave"],
-    "correctAnswer": "Solar and wind"
+    "question": "The GSLV-F17 mission marks a continued effort by ISRO in developing indigenous capabilities for launching which class of satellites?",
+    "options": ["Small satellites", "Heavy communication satellites", "Earth observation satellites", "Navigational satellites"],
+    "correctAnswer": "Earth observation satellites"
   },
   {
     "id": 14,
-    "question": "Which government body in India recently proposed mandatory storage for solar and wind power projects?",
-    "options": ["Ministry of New and Renewable Energy", "NITI Aayog", "Central Electricity Authority", "Bureau of Energy Efficiency"],
-    "correctAnswer": "Central Electricity Authority"
+    "question": "What is the full form of 'EOS' as in the EOS-05 satellite?",
+    "options": ["Earth Orbiting Satellite", "Electro-Optical System", "Earth Observation Satellite", "External Operating System"],
+    "correctAnswer": "Earth Observation Satellite"
   },
   {
     "id": 15,
-    "question": "What is a key expected benefit of implementing mandatory storage for solar and wind projects, especially in states like Telangana and Andhra Pradesh?",
-    "options": ["Reduced project costs", "Improved grid stability", "Increased land use", "Decreased energy output"],
-    "correctAnswer": "Improved grid stability"
+    "question": "The primary objective of placing EOS-05 into a geosynchronous orbit is typically for what kind of coverage?",
+    "options": ["High-resolution imaging of small areas", "Continuous observation of a specific region on Earth", "Intermittent global coverage", "Lunar surface mapping"],
+    "correctAnswer": "Continuous observation of a specific region on Earth"
   },
   {
     "id": 16,
-    "question": "The CEA's proposal for mandatory storage aims to address what inherent characteristic of renewable energy sources like solar and wind?",
-    "options": ["High maintenance costs", "Intermittency", "Geographic limitations", "Dependency on imports"],
-    "correctAnswer": "Intermittency"
+    "question": "Which city is the officially designated capital of Andhra Pradesh, the state housing the GSLV-F17 launch facility?",
+    "options": ["Hyderabad", "Bengaluru", "Chennai", "Amaravati"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 17,
-    "question": "For states like Telangana and Andhra Pradesh with growing renewable energy capacities, the CEA's proposal for mandatory storage would directly impact their efforts to ensure what?",
-    "options": ["Reduced carbon footprint in agriculture", "Continuous power supply", "Lower industrial tariffs", "Enhanced tourism infrastructure"],
-    "correctAnswer": "Continuous power supply"
+    "question": "Which major lake forms a significant geographical feature adjacent to the Satish Dhawan Space Centre in Andhra Pradesh?",
+    "options": ["Kolleru Lake", "Chilika Lake", "Pulicat Lake", "Vembanad Lake"],
+    "correctAnswer": "Pulicat Lake"
   },
   {
     "id": 18,
-    "question": "What innovative renewable energy technology, projected to involve a Rs 5,070-crore investment, is seen as India's next renewable leap?",
-    "options": ["Geothermal power", "Offshore wind farms", "Floating solar power", "Nuclear fusion"],
-    "correctAnswer": "Floating solar power"
+    "question": "The GSLV-F17 mission's success contributes to India's self-reliance in which critical aspect of space technology?",
+    "options": ["Deep space probes", "Manned missions", "Heavy-lift launch capabilities", "Asteroid mining"],
+    "correctAnswer": "Heavy-lift launch capabilities"
   },
   {
     "id": 19,
-    "question": "The news highlights a significant investment of approximately Rs 5,070 crore dedicated to advancing what specific type of power generation in India?",
-    "options": ["Thermal power", "Hydropower", "Floating solar power", "Biomass energy"],
-    "correctAnswer": "Floating solar power"
+    "question": "What specific type of trajectory is commonly used from Satish Dhawan Space Centre to place satellites into geosynchronous orbit?",
+    "options": ["Direct Ascent", "Hohmann Transfer", "Lunar Trajectory", "Martian Insertion"],
+    "correctAnswer": "Hohmann Transfer"
   },
   {
     "id": 20,
-    "question": "What is a primary characteristic of 'floating solar' technology as implied by its name?",
-    "options": ["Solar panels that levitate above ground", "Solar panels installed on the roofs of boats", "Solar panels deployed on bodies of water", "Solar panels designed to track cloud movement"],
-    "correctAnswer": "Solar panels deployed on bodies of water"
+    "question": "The coastal location of Sriharikota offers an advantage for launches by leveraging the Earth's rotational speed. In which general direction are most launches from Sriharikota conducted?",
+    "options": ["Northward", "Southward", "Eastward", "Westward"],
+    "correctAnswer": "Eastward"
   },
   {
     "id": 21,
-    "question": "States like Telangana and Andhra Pradesh, with numerous reservoirs, could particularly benefit from which type of solar power technology?",
-    "options": ["Rooftop solar", "Concentrated solar", "Floating solar", "Community solar farms"],
-    "correctAnswer": "Floating solar"
+    "question": "Before its bifurcation, which city served as the common capital for both Telangana and Andhra Pradesh?",
+    "options": ["Chennai", "Visakhapatnam", "Hyderabad", "Amaravati"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 22,
-    "question": "What is one major advantage of floating solar power, especially in water-rich regions of India?",
-    "options": ["Higher energy conversion efficiency", "Requires less initial investment", "Reduces land usage and water evaporation", "Easier to maintain than traditional solar farms"],
-    "correctAnswer": "Reduces land usage and water evaporation"
+    "question": "What is the current capital city of the Indian state of Telangana?",
+    "options": ["Warangal", "Hyderabad", "Secunderabad", "Karimnagar"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 23,
-    "question": "The approximate investment for India's floating solar power initiative is cited as how many crore rupees?",
-    "options": ["Rs 1,070 crore", "Rs 2,570 crore", "Rs 5,070 crore", "Rs 10,070 crore"],
-    "correctAnswer": "Rs 5,070 crore"
+    "question": "In which year did the state of Telangana officially come into existence, following its bifurcation from Andhra Pradesh?",
+    "options": ["2012", "2013", "2014", "2015"],
+    "correctAnswer": "2014"
   },
   {
     "id": 24,
-    "question": "Beyond electricity generation, what additional benefit does floating solar power offer to reservoirs in states like Telangana and Andhra Pradesh?",
-    "options": ["Improves water quality by filtering pollutants", "Increases aquatic biodiversity", "Reduces water evaporation", "Supports fish farming activities"],
-    "correctAnswer": "Reduces water evaporation"
+    "question": "The GSLV program, which includes the GSLV-F17, is primarily designed to launch satellites into which higher altitude orbit compared to PSLV?",
+    "options": ["Low Earth Orbit", "Medium Earth Orbit", "Geostationary Transfer Orbit", "Sun-Synchronous Orbit"],
+    "correctAnswer": "Geostationary Transfer Orbit"
   },
   {
     "id": 25,
-    "question": "The concept of 'floating solar' power addresses the challenge of what resource scarcity often faced by large-scale solar projects in densely populated areas?",
-    "options": ["Water", "Manpower", "Land", "Raw materials"],
-    "correctAnswer": "Land"
+    "question": "The successful operation of the Satish Dhawan Space Centre (SDSC) in Andhra Pradesh demonstrates India's leadership in which regional technological domain?",
+    "options": ["Naval engineering", "Aerospace manufacturing", "Nuclear power generation", "Information technology services"],
+    "correctAnswer": "Aerospace manufacturing"
   }
 ]

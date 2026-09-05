@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "The recent remarks by an SC judge regarding police action on NEET protesters highlight the judiciary's role in which aspect of Indian governance, applicable across all states including Telangana and Andhra Pradesh?",
-    "options": ["Fiscal policy", "Environmental regulation", "Upholding fundamental rights", "Military operations"],
-    "correctAnswer": "Upholding fundamental rights"
+    "question": "Who heads the Rashtriya Swayamsevak Sangh (RSS) and recently made a 'global Hindu call' in a context broadly relevant to India?",
+    "options": [
+      "Narendra Modi",
+      "Amit Shah",
+      "Mohan Bhagwat",
+      "Yogi Adityanath"
+    ],
+    "correctAnswer": "Mohan Bhagwat"
   },
   {
     "id": 2,
-    "question": "The NEET examination, often a subject of national discussion and protests, is primarily for admission to which courses across India, including for students from Telangana and Andhra Pradesh?",
-    "options": ["Engineering", "Law", "Medical and dental", "Business management"],
-    "correctAnswer": "Medical and dental"
+    "question": "What was the core message delivered by Mohan Bhagwat during his recent address, emphasizing a particular identity?",
+    "options": [
+      "Global economic cooperation",
+      "Global Hindu call",
+      "National technological advancement",
+      "Environmental sustainability"
+    ],
+    "correctAnswer": "Global Hindu call"
   },
   {
     "id": 3,
-    "question": "What is the full form of NEET, an entrance examination that affects students nationwide, including those aspiring to medical careers from Telangana and Andhra Pradesh?",
-    "options": ["National Engineering Entrance Test", "National Eligibility cum Entrance Test", "National Education and Employment Test", "National Examination for Educational Technology"],
-    "correctAnswer": "National Eligibility cum Entrance Test"
+    "question": "Which prominent Indian organization is associated with its chief making a 'global Hindu call', impacting national discourse including in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Indian National Congress",
+      "Bharatiya Janata Party",
+      "Rashtriya Swayamsevak Sangh",
+      "Vishwa Hindu Parishad"
+    ],
+    "correctAnswer": "Rashtriya Swayamsevak Sangh"
   },
   {
     "id": 4,
-    "question": "Protests related to national examinations like NEET often involve which key democratic right, as implied by the Supreme Court's concern about police action, a right shared by citizens in Telangana and Andhra Pradesh?",
-    "options": ["Right to property", "Right to assemble peacefully", "Right to privacy", "Right to education"],
-    "correctAnswer": "Right to assemble peacefully"
+    "question": "In the context of recent national discourse initiated by a prominent leader, which concept related to identity was emphasized?",
+    "options": [
+      "Global citizenship",
+      "Regional autonomy",
+      "Secular humanism",
+      "Global Hindu identity"
+    ],
+    "correctAnswer": "Global Hindu identity"
   },
   {
     "id": 5,
-    "question": "In India, Teachers' Day is celebrated annually on September 5th, dedicated to which former President and esteemed teacher, a celebration observed in all states including Telangana and Andhra Pradesh?",
-    "options": ["Dr. A.P.J. Abdul Kalam", "Sarvepalli Radhakrishnan", "Rajendra Prasad", "Pranab Mukherjee"],
-    "correctAnswer": "Sarvepalli Radhakrishnan"
+    "question": "What new benchmark for teacher-student ratio has India achieved in its foundational classrooms?",
+    "options": [
+      "One teacher, fifteen students",
+      "One teacher, ten students",
+      "One teacher, twenty students",
+      "One teacher, five students"
+    ],
+    "correctAnswer": "One teacher, ten students"
   },
   {
     "id": 6,
-    "question": "PM Modi's message on Teachers' Day emphasized what approach for educators to connect with children nationwide, a principle relevant to schools in Telangana and Andhra Pradesh?",
-    "options": ["Focus strictly on syllabus completion", "Step beyond books and connect personally", "Increase homework assignments", "Prioritize rote learning"],
-    "correctAnswer": "Step beyond books and connect personally"
+    "question": "The mentioned benchmark of 'one teacher, ten students' in India refers to which specific level of education?",
+    "options": [
+      "Higher education",
+      "Secondary education",
+      "Foundational classrooms",
+      "Vocational training"
+    ],
+    "correctAnswer": "Foundational classrooms"
   },
   {
     "id": 7,
-    "question": "The celebration of Teachers' Day highlights the importance of which sector for the overall development of the nation, including its states like Telangana and Andhra Pradesh?",
-    "options": ["Agriculture", "Manufacturing", "Education", "Healthcare"],
-    "correctAnswer": "Education"
+    "question": "How could achieving a better teacher-student ratio nationally, as highlighted in the news, positively impact educational outcomes in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Increase administrative burden",
+      "Reduce funding for infrastructure",
+      "Improve individualized attention and learning",
+      "Lead to fewer teaching positions"
+    ],
+    "correctAnswer": "Improve individualized attention and learning"
   },
   {
     "id": 8,
-    "question": "What is the primary purpose of observing Teachers' Day across India, an event that sees participation from educators and students in Telangana and Andhra Pradesh?",
-    "options": ["To assess teacher performance", "To provide a holiday for students", "To honor the contributions of teachers to society", "To announce new educational policies"],
-    "correctAnswer": "To honor the contributions of teachers to society"
+    "question": "A lower teacher-student ratio in foundational classrooms, as observed nationally, is generally considered a positive indicator for what aspect of education?",
+    "options": [
+      "Cost efficiency",
+      "Standardized testing only",
+      "Quality of learning and student engagement",
+      "Online education adoption"
+    ],
+    "correctAnswer": "Quality of learning and student engagement"
   },
   {
     "id": 9,
-    "question": "The Supreme Court of India's power to overturn judgments of lower courts, such as High Courts and Trial Courts, is an example of its role as the ultimate interpreter of what, affecting legal frameworks in all states including Telangana and Andhra Pradesh?",
-    "options": ["State laws", "International treaties", "The Constitution of India", "Local municipal bylaws"],
-    "correctAnswer": "The Constitution of India"
+    "question": "Which demographic group in India is currently challenging the traditional trade-off between work-life balance and job security?",
+    "options": [
+      "Baby Boomers",
+      "Generation X",
+      "Millennials",
+      "Generation Z"
+    ],
+    "correctAnswer": "Generation Z"
   },
   {
     "id": 10,
-    "question": "In the Indian judicial system, which court serves as the apex judicial body for all states and union territories, including Telangana and Andhra Pradesh?",
-    "options": ["High Court", "District Court", "Supreme Court", "Session Court"],
-    "correctAnswer": "Supreme Court"
+    "question": "Beyond a secure salary, what two factors are Gen Z reportedly prioritizing in their careers across India?",
+    "options": [
+      "Higher bonuses and company car",
+      "Personal time and flexibility",
+      "Strict hierarchy and long hours",
+      "Only job security and no growth"
+    ],
+    "correctAnswer": "Personal time and flexibility"
   },
   {
     "id": 11,
-    "question": "When the Supreme Court overturns an acquittal in a case, it signifies its authority in reviewing legal decisions to ensure what fundamental principle of justice across India?",
-    "options": ["Political neutrality", "Media endorsement", "Justice and adherence to law", "Economic benefits"],
-    "correctAnswer": "Justice and adherence to law"
+    "question": "How might the Gen Z trend of prioritizing work-life balance affect employment strategies in major tech hubs like Hyderabad (Telangana)?",
+    "options": [
+      "Leading to more rigid work schedules",
+      "Decreasing demand for remote work options",
+      "Encouraging flexible working arrangements and employee well-being programs",
+      "Increasing focus solely on salary packages"
+    ],
+    "correctAnswer": "Encouraging flexible working arrangements and employee well-being programs"
   },
   {
     "id": 12,
-    "question": "What is the term for the power of the Supreme Court to review and, if necessary, overturn decisions made by lower courts, a power that ensures legal consistency throughout India?",
-    "options": ["Legislative power", "Executive power", "Judicial review", "Veto power"],
-    "correctAnswer": "Judicial review"
+    "question": "The recent survey on Gen Z's workplace preferences indicates a shift in focus from what traditional priority in India's job market?",
+    "options": [
+      "Career growth",
+      "Personal time",
+      "Job security as the sole priority",
+      "Flexibility"
+    ],
+    "correctAnswer": "Job security as the sole priority"
   },
   {
     "id": 13,
-    "question": "Air India, the national carrier, was recently in the news due to a technical snag involving the failure of hydraulic systems on one of its flights. What kind of entity is Air India, serving the entire nation?",
-    "options": ["Private regional airline", "State-owned bus service", "National flag carrier airline", "International cargo shipping company"],
-    "correctAnswer": "National flag carrier airline"
+    "question": "According to a KPMG report, what is identified as the primary catalyst for growth within the manufacturing sector in India?",
+    "options": [
+      "Lower taxes",
+      "Increased exports only",
+      "Productivity",
+      "Government subsidies"
+    ],
+    "correctAnswer": "Productivity"
   },
   {
     "id": 14,
-    "question": "The Air India flight incident mentioned in the news involved a route between Phuket and which major Indian city, a significant travel hub for passengers from Telangana and Andhra Pradesh?",
-    "options": ["Mumbai", "Chennai", "Delhi", "Bengaluru"],
-    "correctAnswer": "Delhi"
+    "question": "What percentage of future manufacturing in India could be powered by a 30% productivity boost, as per the KPMG report?",
+    "options": [
+      "10%",
+      "25%",
+      "35%",
+      "50%"
+    ],
+    "correctAnswer": "35%"
   },
   {
     "id": 15,
-    "question": "Following the report from the Aircraft Accident Investigation Bureau (AAIB), what immediate action was taken against the pilot of the Air India flight mentioned in the news?",
-    "options": ["Promoted", "Given a warning", "Awarded", "Sacked"],
-    "correctAnswer": "Sacked"
+    "question": "What type of manufacturing firms in India are shown to typically have lower per-worker output according to the KPMG report?",
+    "options": [
+      "Large manufacturers",
+      "Export-oriented factories",
+      "Small factories",
+      "Automated plants"
+    ],
+    "correctAnswer": "Small factories"
   },
   {
     "id": 16,
-    "question": "The investigation of aviation incidents involving Indian carriers like Air India falls under the purview of which regulatory body in India, ensuring national aviation safety?",
-    "options": ["Directorate General of Civil Aviation (DGCA)", "Airports Authority of India (AAI)", "Aircraft Accident Investigation Bureau (AAIB)", "Bureau of Civil Aviation Security (BCAS)"],
-    "correctAnswer": "Aircraft Accident Investigation Bureau (AAIB)"
+    "question": "What two key approaches are essential for driving productivity forward in manufacturing, according to the KPMG report on India's industrial growth?",
+    "options": [
+      "Reducing workforce and increasing working hours",
+      "Leveraging digital solutions and cultivating a positive workplace culture",
+      "Outsourcing production and minimizing research",
+      "Ignoring market trends and maintaining old machinery"
+    ],
+    "correctAnswer": "Leveraging digital solutions and cultivating a positive workplace culture"
   },
   {
     "id": 17,
-    "question": "The failure of all three hydraulic systems on an aircraft, as reported for an Air India flight, is described as 'exceptionally rare' due to the aviation industry's strong focus on what critical aspect?",
-    "options": ["Cost-cutting", "Passenger comfort", "Redundancy and safety protocols", "Speed records"],
-    "correctAnswer": "Redundancy and safety protocols"
+    "question": "How can improved manufacturing productivity, as emphasized by KPMG, significantly benefit states like Andhra Pradesh and Telangana, known for their industrial zones?",
+    "options": [
+      "By increasing reliance on imported goods",
+      "By reducing the need for skilled labor",
+      "By boosting profits, market valuation, and economic growth",
+      "By solely focusing on agricultural output"
+    ],
+    "correctAnswer": "By boosting profits, market valuation, and economic growth"
   },
   {
     "id": 18,
-    "question": "The Belgian Prime Minister's comment about 'Europe waking up to Modi's warning' relates to India's growing influence in which sphere, representing the nation as a whole?",
-    "options": ["Regional sports", "Global diplomacy and geopolitics", "Cultural exchange programs", "Local governance reforms"],
-    "correctAnswer": "Global diplomacy and geopolitics"
+    "question": "Which national exercise, involving a decennial headcount, is scheduled for 2027 in India, with enumerators already beginning work in some regions?",
+    "options": [
+      "National Elections",
+      "Economic Survey",
+      "Agricultural Census",
+      "Census 2027"
+    ],
+    "correctAnswer": "Census 2027"
   },
   {
     "id": 19,
-    "question": "Which country's Prime Minister made the statement regarding PM Modi's warnings, acknowledging India's foresight on global issues?",
-    "options": ["Germany", "France", "Belgium", "Italy"],
-    "correctAnswer": "Belgium"
+    "question": "What is the primary concern raised by the opposition regarding the new Census 2027 questionnaire in India?",
+    "options": [
+      "It contains too few questions",
+      "It is becoming a backdoor for the National Population Register (NPR)",
+      "It does not ask about educational qualifications",
+      "It is too expensive to conduct"
+    ],
+    "correctAnswer": "It is becoming a backdoor for the National Population Register (NPR)"
   },
   {
     "id": 20,
-    "question": "The phrase 'waking up 'a bit late'' used by an international leader suggests an acknowledgment of India's role as what in international affairs?",
-    "options": ["A follower", "A latecomer", "A proactive and prescient voice", "An isolated nation"],
-    "correctAnswer": "A proactive and prescient voice"
+    "question": "What legal provision in India protects personal information collected during the Census exercise?",
+    "options": [
+      "The Right to Information Act",
+      "The Data Protection Act",
+      "The Census Act",
+      "The Official Secrets Act"
+    ],
+    "correctAnswer": "The Census Act"
   },
   {
     "id": 21,
-    "question": "Such comments by international leaders reflect the increasing importance of India's foreign policy and its impact on the global stage, affecting the nation as a whole, including states like Telangana and Andhra Pradesh, in terms of what?",
-    "options": ["Local festivals", "International trade relations and economic opportunities", "State-level elections", "Domestic agricultural practices"],
-    "correctAnswer": "International trade relations and economic opportunities"
+    "question": "What is the term for the process of decennial headcount in India, which is generating discussion around new questions and concerns about data usage?",
+    "options": [
+      "Population Survey",
+      "National Register",
+      "Census",
+      "Demographic Study"
+    ],
+    "correctAnswer": "Census"
   },
   {
     "id": 22,
-    "question": "The Indian judiciary, including the Supreme Court, plays a critical role in upholding the rule of law and ensuring justice across all states. What is the highest judicial authority within a state like Telangana or Andhra Pradesh?",
-    "options": ["District Court", "High Court", "Supreme Court", "Revenue Court"],
-    "correctAnswer": "High Court"
+    "question": "How will data collected during Census 2027 be crucial for effective governance and resource allocation in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It will only be used for international comparisons",
+      "It provides vital statistics for policy making, planning, and development schemes",
+      "It primarily serves historical research purposes",
+      "It will solely determine political constituency boundaries"
+    ],
+    "correctAnswer": "It provides vital statistics for policy making, planning, and development schemes"
   },
   {
     "id": 23,
-    "question": "Public protests, such as those mentioned in connection with NEET, are a common feature of Indian democracy. Which part of the Indian Constitution guarantees the right to freedom of speech and expression, including peaceful assembly, applicable nationwide?",
-    "options": ["Part II", "Part III", "Part IV", "Part V"],
-    "correctAnswer": "Part III"
+    "question": "Which regulatory body recently warned medical colleges in India about updating faculty registration numbers for attendance, a directive impacting institutions in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "University Grants Commission (UGC)",
+      "All India Council for Technical Education (AICTE)",
+      "National Medical Commission (NMC)",
+      "Medical Council of India (MCI)"
+    ],
+    "correctAnswer": "National Medical Commission (NMC)"
   },
   {
     "id": 24,
-    "question": "Beyond Teachers' Day, India celebrates other national days. Which other significant national day, widely observed, often focuses on children's welfare and education across all states?",
-    "options": ["Republic Day", "Independence Day", "Children's Day", "Gandhi Jayanti"],
-    "correctAnswer": "Children's Day"
+    "question": "What consequence will medical colleges across India face if they fail to update faculty registration numbers on the attendance system within the specified one-month deadline, as warned by the NMC?",
+    "options": [
+      "A monetary fine of Rs. 1 lakh",
+      "Blocked daily attendance for specified teaching staff",
+      "Loss of accreditation immediately",
+      "Public shaming only"
+    ],
+    "correctAnswer": "Blocked daily attendance for specified teaching staff"
   },
   {
     "id": 25,
-    "question": "Major aviation hubs like Delhi, mentioned in the Air India flight news, serve as crucial connectivity points for passengers from all over India, including two prominent South Indian states like which of the following?",
-    "options": ["Rajasthan and Gujarat", "Punjab and Haryana", "Telangana and Andhra Pradesh", "West Bengal and Odisha"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "How does the National Medical Commission's directive on faculty registration impact the accreditation and operational standards of medical colleges in Telangana and Andhra Pradesh?",
+    "options": [
+      "It simplifies the registration process significantly",
+      "It ensures faculty authenticity and compliance with regulatory standards, affecting their accreditation status",
+      "It only affects non-medical faculty",
+      "It has no bearing on operational standards"
+    ],
+    "correctAnswer": "It ensures faculty authenticity and compliance with regulatory standards, affecting their accreditation status"
   }
 ]

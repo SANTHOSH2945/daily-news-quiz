@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who heads the Rashtriya Swayamsevak Sangh (RSS) and recently made a 'global Hindu call' in a context broadly relevant to India?",
-    "options": [
-      "Narendra Modi",
-      "Amit Shah",
-      "Mohan Bhagwat",
-      "Yogi Adityanath"
-    ],
-    "correctAnswer": "Mohan Bhagwat"
+    "question": "What is the total financial outlay of the national coal gasification scheme for which NTPC, a major power provider in Telangana and Andhra Pradesh, has recently applied?",
+    "options": ["Rs 25,000 crore", "Rs 30,000 crore", "Rs 37,500 crore", "Rs 45,000 crore"],
+    "correctAnswer": "Rs 37,500 crore"
   },
   {
     "id": 2,
-    "question": "What was the core message delivered by Mohan Bhagwat during his recent address, emphasizing a particular identity?",
-    "options": [
-      "Global economic cooperation",
-      "Global Hindu call",
-      "National technological advancement",
-      "Environmental sustainability"
-    ],
-    "correctAnswer": "Global Hindu call"
+    "question": "Which major public sector undertaking, known for its extensive power generation operations including in Andhra Pradesh, is one of the entities that applied under the national Rs 37,500 crore coal gasification scheme?",
+    "options": ["NHPC", "NTPC", "POWERGRID", "NPCIL"],
+    "correctAnswer": "NTPC"
   },
   {
     "id": 3,
-    "question": "Which prominent Indian organization is associated with its chief making a 'global Hindu call', impacting national discourse including in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Indian National Congress",
-      "Bharatiya Janata Party",
-      "Rashtriya Swayamsevak Sangh",
-      "Vishwa Hindu Parishad"
-    ],
-    "correctAnswer": "Rashtriya Swayamsevak Sangh"
+    "question": "The national coal gasification scheme, which has seen applications from entities like NTPC (present in Telangana), primarily aims to promote what technology?",
+    "options": ["Solar Panel Manufacturing", "Hydroelectric Power Generation", "Coal Gasification", "Nuclear Fission"],
+    "correctAnswer": "Coal Gasification"
   },
   {
     "id": 4,
-    "question": "In the context of recent national discourse initiated by a prominent leader, which concept related to identity was emphasized?",
-    "options": [
-      "Global citizenship",
-      "Regional autonomy",
-      "Secular humanism",
-      "Global Hindu identity"
-    ],
-    "correctAnswer": "Global Hindu identity"
+    "question": "Besides NTPC, which other company was mentioned in the news as having applied for the Rs 37,500 crore national coal gasification scheme?",
+    "options": ["RCF", "IFFCO", "Talcher Fertilisers", "KRIBHCO"],
+    "correctAnswer": "Talcher Fertilisers"
   },
   {
     "id": 5,
-    "question": "What new benchmark for teacher-student ratio has India achieved in its foundational classrooms?",
-    "options": [
-      "One teacher, fifteen students",
-      "One teacher, ten students",
-      "One teacher, twenty students",
-      "One teacher, five students"
-    ],
-    "correctAnswer": "One teacher, ten students"
+    "question": "NTPC, with significant thermal power projects in states like Andhra Pradesh and Telangana, applied for a national scheme focused on enhancing the use of which resource?",
+    "options": ["Natural Gas", "Crude Oil", "Uranium", "Coal"],
+    "correctAnswer": "Coal"
   },
   {
     "id": 6,
-    "question": "The mentioned benchmark of 'one teacher, ten students' in India refers to which specific level of education?",
-    "options": [
-      "Higher education",
-      "Secondary education",
-      "Foundational classrooms",
-      "Vocational training"
-    ],
-    "correctAnswer": "Foundational classrooms"
+    "question": "The national coal gasification scheme, drawing interest from India's largest power utility NTPC (operating Ramagundam in Telangana), is valued at what amount?",
+    "options": ["Rs 10,000 crore", "Rs 20,000 crore", "Rs 37,500 crore", "Rs 50,000 crore"],
+    "correctAnswer": "Rs 37,500 crore"
   },
   {
     "id": 7,
-    "question": "How could achieving a better teacher-student ratio nationally, as highlighted in the news, positively impact educational outcomes in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Increase administrative burden",
-      "Reduce funding for infrastructure",
-      "Improve individualized attention and learning",
-      "Lead to fewer teaching positions"
-    ],
-    "correctAnswer": "Improve individualized attention and learning"
+    "question": "Which two entities were explicitly mentioned in the news as applying under the Rs 37,500 crore national coal gasification scheme, a program that could impact the energy landscape across India, including Andhra Pradesh and Telangana?",
+    "options": ["Adani Power and Reliance Industries", "Tata Power and JSW Energy", "NTPC and Talcher Fertilisers", "SAIL and GAIL"],
+    "correctAnswer": "NTPC and Talcher Fertilisers"
   },
   {
     "id": 8,
-    "question": "A lower teacher-student ratio in foundational classrooms, as observed nationally, is generally considered a positive indicator for what aspect of education?",
-    "options": [
-      "Cost efficiency",
-      "Standardized testing only",
-      "Quality of learning and student engagement",
-      "Online education adoption"
-    ],
-    "correctAnswer": "Quality of learning and student engagement"
+    "question": "The Rs 37,500 crore national scheme, for which NTPC (a major power producer for Telangana) has applied, is aimed at what type of industrial process?",
+    "options": ["Petrochemical refining", "Steel production", "Coal gasification", "Aluminum smelting"],
+    "correctAnswer": "Coal gasification"
   },
   {
     "id": 9,
-    "question": "Which demographic group in India is currently challenging the traditional trade-off between work-life balance and job security?",
-    "options": [
-      "Baby Boomers",
-      "Generation X",
-      "Millennials",
-      "Generation Z"
-    ],
-    "correctAnswer": "Generation Z"
+    "question": "NTPC, a central PSU operating projects like Simhadri in Andhra Pradesh, is participating in a national initiative to explore what innovative method for coal utilization?",
+    "options": ["Underground coal mining", "Carbon capture and storage", "Coal bed methane extraction", "Coal gasification"],
+    "correctAnswer": "Coal gasification"
   },
   {
     "id": 10,
-    "question": "Beyond a secure salary, what two factors are Gen Z reportedly prioritizing in their careers across India?",
-    "options": [
-      "Higher bonuses and company car",
-      "Personal time and flexibility",
-      "Strict hierarchy and long hours",
-      "Only job security and no growth"
-    ],
-    "correctAnswer": "Personal time and flexibility"
+    "question": "What is the primary focus of the Rs 37,500 crore scheme under which NTPC, a critical energy supplier to both Telangana and Andhra Pradesh, has submitted its application?",
+    "options": ["Promoting renewable energy", "Enhancing nuclear power", "Developing coal gasification", "Improving grid infrastructure"],
+    "correctAnswer": "Developing coal gasification"
   },
   {
     "id": 11,
-    "question": "How might the Gen Z trend of prioritizing work-life balance affect employment strategies in major tech hubs like Hyderabad (Telangana)?",
-    "options": [
-      "Leading to more rigid work schedules",
-      "Decreasing demand for remote work options",
-      "Encouraging flexible working arrangements and employee well-being programs",
-      "Increasing focus solely on salary packages"
-    ],
-    "correctAnswer": "Encouraging flexible working arrangements and employee well-being programs"
+    "question": "Prime Minister Modi recently used the phrase 'Jhooth ki goonj' (echo of lies) in his criticism of which political leader, a national discourse relevant across India including Telangana and Andhra Pradesh?",
+    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "Sonia Gandhi", "Priyanka Gandhi"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 12,
-    "question": "The recent survey on Gen Z's workplace preferences indicates a shift in focus from what traditional priority in India's job market?",
-    "options": [
-      "Career growth",
-      "Personal time",
-      "Job security as the sole priority",
-      "Flexibility"
-    ],
-    "correctAnswer": "Job security as the sole priority"
+    "question": "PM Modi recently criticized a certain 'mai-baap' culture in politics. What does this phrase generally refer to in the Indian political context, a topic of national debate?",
+    "options": ["Dynastic politics", "Parental guidance", "Feudalistic governance", "Bureaucratic red tape"],
+    "correctAnswer": "Feudalistic governance"
   },
   {
     "id": 13,
-    "question": "According to a KPMG report, what is identified as the primary catalyst for growth within the manufacturing sector in India?",
-    "options": [
-      "Lower taxes",
-      "Increased exports only",
-      "Productivity",
-      "Government subsidies"
-    ],
-    "correctAnswer": "Productivity"
+    "question": "In recent political discourse across India, PM Modi has criticized a 'culture' often translated as patronizing or feudalistic. Which term did he use to describe this?",
+    "options": ["Parivarvaad", "Mai-baap culture", "Bhrashtachar", "Vikasvaad"],
+    "correctAnswer": "Mai-baap culture"
   },
   {
     "id": 14,
-    "question": "What percentage of future manufacturing in India could be powered by a 30% productivity boost, as per the KPMG report?",
-    "options": [
-      "10%",
-      "25%",
-      "35%",
-      "50%"
-    ],
-    "correctAnswer": "35%"
+    "question": "The Prime Minister's recent comments, including the phrase 'Jhooth ki goonj', are part of his ongoing critique of which major political party in India?",
+    "options": ["BJP", "Congress", "Aam Aadmi Party", "Samajwadi Party"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 15,
-    "question": "What type of manufacturing firms in India are shown to typically have lower per-worker output according to the KPMG report?",
-    "options": [
-      "Large manufacturers",
-      "Export-oriented factories",
-      "Small factories",
-      "Automated plants"
-    ],
-    "correctAnswer": "Small factories"
+    "question": "PM Modi's reference to 'mai-baap' culture in politics is generally aimed at highlighting issues related to what aspect of governance in India?",
+    "options": ["Economic reforms", "Social welfare", "Accountability and public service", "Foreign policy"],
+    "correctAnswer": "Accountability and public service"
   },
   {
     "id": 16,
-    "question": "What two key approaches are essential for driving productivity forward in manufacturing, according to the KPMG report on India's industrial growth?",
-    "options": [
-      "Reducing workforce and increasing working hours",
-      "Leveraging digital solutions and cultivating a positive workplace culture",
-      "Outsourcing production and minimizing research",
-      "Ignoring market trends and maintaining old machinery"
-    ],
-    "correctAnswer": "Leveraging digital solutions and cultivating a positive workplace culture"
+    "question": "Which body in Leh recently deferred its protest marches following an announcement of talks with the Central government, a development impacting Union Territory governance in India?",
+    "options": ["Ladakh Buddhist Association", "Kargil Democratic Alliance", "Leh Apex Body", "All Ladakh Students' Association"],
+    "correctAnswer": "Leh Apex Body"
   },
   {
     "id": 17,
-    "question": "How can improved manufacturing productivity, as emphasized by KPMG, significantly benefit states like Andhra Pradesh and Telangana, known for their industrial zones?",
-    "options": [
-      "By increasing reliance on imported goods",
-      "By reducing the need for skilled labor",
-      "By boosting profits, market valuation, and economic growth",
-      "By solely focusing on agricultural output"
-    ],
-    "correctAnswer": "By boosting profits, market valuation, and economic growth"
+    "question": "The Leh Apex Body's decision to defer protests is ahead of scheduled talks with which entity?",
+    "options": ["Jammu and Kashmir Administration", "Ministry of Home Affairs", "Union Cabinet", "The Centre"],
+    "correctAnswer": "The Centre"
   },
   {
     "id": 18,
-    "question": "Which national exercise, involving a decennial headcount, is scheduled for 2027 in India, with enumerators already beginning work in some regions?",
-    "options": [
-      "National Elections",
-      "Economic Survey",
-      "Agricultural Census",
-      "Census 2027"
-    ],
-    "correctAnswer": "Census 2027"
+    "question": "The protests in Leh, which have been deferred for talks, are related to demands from which Indian Union Territory?",
+    "options": ["Puducherry", "Chandigarh", "Ladakh", "Andaman & Nicobar Islands"],
+    "correctAnswer": "Ladakh"
   },
   {
     "id": 19,
-    "question": "What is the primary concern raised by the opposition regarding the new Census 2027 questionnaire in India?",
-    "options": [
-      "It contains too few questions",
-      "It is becoming a backdoor for the National Population Register (NPR)",
-      "It does not ask about educational qualifications",
-      "It is too expensive to conduct"
-    ],
-    "correctAnswer": "It is becoming a backdoor for the National Population Register (NPR)"
+    "question": "Which organization recently staged a hunger strike demanding a genocide law in India?",
+    "options": ["Kashmiri Pandit Sangharsh Samiti", "Panun Kashmir", "Jammu Kashmir Apni Party", "All Parties Hurriyat Conference"],
+    "correctAnswer": "Panun Kashmir"
   },
   {
     "id": 20,
-    "question": "What legal provision in India protects personal information collected during the Census exercise?",
-    "options": [
-      "The Right to Information Act",
-      "The Data Protection Act",
-      "The Census Act",
-      "The Official Secrets Act"
-    ],
-    "correctAnswer": "The Census Act"
+    "question": "What specific type of national legislation is being demanded by Panun Kashmir through its recent hunger strike?",
+    "options": ["Anti-terrorism law", "Refugee protection law", "Genocide law", "Human rights commission reform"],
+    "correctAnswer": "Genocide law"
   },
   {
     "id": 21,
-    "question": "What is the term for the process of decennial headcount in India, which is generating discussion around new questions and concerns about data usage?",
-    "options": [
-      "Population Survey",
-      "National Register",
-      "Census",
-      "Demographic Study"
-    ],
-    "correctAnswer": "Census"
+    "question": "Police in which Indian state/union territory recently identified a slain terrorist as a Pakistani national, a matter of national security concern?",
+    "options": ["Punjab", "Jammu & Kashmir", "Rajasthan", "Gujarat"],
+    "correctAnswer": "Jammu & Kashmir"
   },
   {
     "id": 22,
-    "question": "How will data collected during Census 2027 be crucial for effective governance and resource allocation in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "It will only be used for international comparisons",
-      "It provides vital statistics for policy making, planning, and development schemes",
-      "It primarily serves historical research purposes",
-      "It will solely determine political constituency boundaries"
-    ],
-    "correctAnswer": "It provides vital statistics for policy making, planning, and development schemes"
+    "question": "A recent report by J&K Police identified a slain terrorist from which country, highlighting ongoing cross-border security challenges for India?",
+    "options": ["Afghanistan", "China", "Pakistan", "Bangladesh"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 23,
-    "question": "Which regulatory body recently warned medical colleges in India about updating faculty registration numbers for attendance, a directive impacting institutions in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "University Grants Commission (UGC)",
-      "All India Council for Technical Education (AICTE)",
-      "National Medical Commission (NMC)",
-      "Medical Council of India (MCI)"
-    ],
-    "correctAnswer": "National Medical Commission (NMC)"
+    "question": "Substandard rabies vaccine vials, branded as Abhayrab, were recently flagged after being found in which Indian city?",
+    "options": ["Mumbai", "Kolkata", "Delhi", "Bengaluru"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 24,
-    "question": "What consequence will medical colleges across India face if they fail to update faculty registration numbers on the attendance system within the specified one-month deadline, as warned by the NMC?",
-    "options": [
-      "A monetary fine of Rs. 1 lakh",
-      "Blocked daily attendance for specified teaching staff",
-      "Loss of accreditation immediately",
-      "Public shaming only"
-    ],
-    "correctAnswer": "Blocked daily attendance for specified teaching staff"
+    "question": "What specific medical product, found in Delhi, was flagged as substandard and misbranded, posing a public health risk across India?",
+    "options": ["Paracetamol tablets", "Rabies vaccine vials", "Insulin injections", "Antibiotic syrups"],
+    "correctAnswer": "Rabies vaccine vials"
   },
   {
     "id": 25,
-    "question": "How does the National Medical Commission's directive on faculty registration impact the accreditation and operational standards of medical colleges in Telangana and Andhra Pradesh?",
-    "options": [
-      "It simplifies the registration process significantly",
-      "It ensures faculty authenticity and compliance with regulatory standards, affecting their accreditation status",
-      "It only affects non-medical faculty",
-      "It has no bearing on operational standards"
-    ],
-    "correctAnswer": "It ensures faculty authenticity and compliance with regulatory standards, affecting their accreditation status"
+    "question": "The Centre recently investigated child deaths in which district, finding no single cause for the illnesses affecting tribal children?",
+    "options": ["Bastar", "Balaghat", "Wayanad", "Gadchiroli"],
+    "correctAnswer": "Balaghat"
   }
 ]

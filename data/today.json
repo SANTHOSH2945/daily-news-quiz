@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What was the primary objective of digital asset firms meeting in Delhi, as per recent news, relevant to India's financial landscape?",
-    "options": [
-      "To lobby for stricter regulations on cryptocurrencies",
-      "To seek backing from sovereign funds for their operations",
-      "To discuss global digital asset market trends",
-      "To propose a new digital currency for India"
-    ],
-    "correctAnswer": "To seek backing from sovereign funds for their operations"
+    "question": "Which national body in India summoned the head of Meta India regarding alleged child abuse ads?",
+    "options": ["National Human Rights Commission (NHRC)", "National Commission for Women (NCW)", "National Commission for Protection of Child Rights (NCPCR)", "Central Bureau of Investigation (CBI)"],
+    "correctAnswer": "National Commission for Protection of Child Rights (NCPCR)"
   },
   {
     "id": 2,
-    "question": "The Delhi meet involving digital asset firms highlights India's growing focus on which sector, a development relevant to technology hubs like Hyderabad in Telangana?",
-    "options": [
-      "Traditional banking services",
-      "Agricultural technology",
-      "Digital finance and blockchain innovation",
-      "Heavy manufacturing industries"
-    ],
-    "correctAnswer": "Digital finance and blockchain innovation"
+    "question": "The NCPCR's inquiry into Meta India considered stringent provisions under which specific act relating to child protection in India?",
+    "options": ["Information Technology Act, 2000", "Juvenile Justice (Care and Protection of Children) Act, 2015", "Protection of Children from Sexual Offences (POCSO) Act, 2012", "Child Labour (Prohibition and Regulation) Act, 1986"],
+    "correctAnswer": "Protection of Children from Sexual Offences (POCSO) Act, 2012"
   },
   {
     "id": 3,
-    "question": "Which type of financial entities were digital asset firms specifically seeking support from at their recent Delhi gathering?",
-    "options": [
-      "Commercial banks",
-      "Private equity funds",
-      "Sovereign funds",
-      "Retail investors"
-    ],
-    "correctAnswer": "Sovereign funds"
+    "question": "What was the primary reason for the NCPCR summoning the Managing Director of Meta India?",
+    "options": ["Data privacy violations", "Alleged child abuse advertisements", "Monopoly practices", "Hate speech propagation"],
+    "correctAnswer": "Alleged child abuse advertisements"
   },
   {
     "id": 4,
-    "question": "What is a potential implication of digital asset firms securing sovereign fund backing for states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Increased traditional agricultural exports",
-      "Boost in local manufacturing jobs only",
-      "Enhanced investment and innovation in their technology sectors",
-      "Decline in foreign direct investment"
-    ],
-    "correctAnswer": "Enhanced investment and innovation in their technology sectors"
+    "question": "The action by NCPCR against Meta India was initiated following a report from which international media outlet?",
+    "options": ["CNN International", "The Guardian", "BBC Eye", "Reuters"],
+    "correctAnswer": "BBC Eye"
   },
   {
     "id": 5,
-    "question": "The discussions at the Delhi meet regarding digital assets signify India's broader ambition in which economic domain, affecting all states including Andhra Pradesh?",
-    "options": [
-      "Strengthening brick-and-mortar retail",
-      "Expanding the digital economy and fintech sector",
-      "Reducing dependence on international trade",
-      "Focusing solely on public sector enterprises"
-    ],
-    "correctAnswer": "Expanding the digital economy and fintech sector"
+    "question": "Meta India, in response to the allegations, stated it has what kind of tolerance for child exploitation?",
+    "options": ["High tolerance", "Moderate tolerance", "Conditional tolerance", "Zero tolerance"],
+    "correctAnswer": "Zero tolerance"
   },
   {
     "id": 6,
-    "question": "What could be the role of state governments, such as those in Telangana and Andhra Pradesh, in facilitating the growth of digital asset firms in India following such national discussions?",
-    "options": [
-      "Strictly banning all digital asset activities",
-      "Providing regulatory clarity and infrastructure support",
-      "Promoting only traditional investment avenues",
-      "Discouraging technological innovation"
-    ],
-    "correctAnswer": "Providing regulatory clarity and infrastructure support"
+    "question": "In the context of the NCPCR's actions, what is the full form of POCSO?",
+    "options": ["Protection of Criminal Offenders and Social Order", "Prevention of Child Obstruction and Safety Operations", "Protection of Children from Sexual Offences", "Promoting Online Child Safety and Outreach"],
+    "correctAnswer": "Protection of Children from Sexual Offences"
   },
   {
     "id": 7,
-    "question": "The gathering of digital asset firms seeking investment reflects India's trajectory towards becoming a significant player in which global market?",
-    "options": [
-      "Crude oil production",
-      "Conventional textiles",
-      "Blockchain and digital assets",
-      "Heavy machinery export"
-    ],
-    "correctAnswer": "Blockchain and digital assets"
+    "question": "The NCPCR is a statutory body in India established under an Act of Parliament. Its primary function is to safeguard the rights of which demographic?",
+    "options": ["Women", "Elderly citizens", "Children", "Persons with disabilities"],
+    "correctAnswer": "Children"
   },
   {
     "id": 8,
-    "question": "What was the central theme of Prime Minister Modi's recent four-hour review meeting with 20 ministers, a focus that includes governance in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "International foreign policy strategies",
-      "Cultural exchange programs",
-      "Governance, welfare, and implementation of government initiatives",
-      "Defense equipment procurement"
-    ],
-    "correctAnswer": "Governance, welfare, and implementation of government initiatives"
+    "question": "How is the Protection of Children from Sexual Offences (POCSO) Act implemented and enforced at the state level in India, including in states like Telangana and Andhra Pradesh?",
+    "options": ["Through local municipal corporations only", "Through designated Special Courts and Police Units", "Exclusively by central government agencies", "Voluntarily by NGOs"],
+    "correctAnswer": "Through designated Special Courts and Police Units"
   },
   {
     "id": 9,
-    "question": "What long-term vision was emphasized by PM Modi during his review meeting with ministers, aiming for a significant transformation by 2047 for all of India, including Telangana and Andhra Pradesh?",
-    "options": [
-      "A digitally isolated India",
-      "A developed India",
-      "An industrially stagnant India",
-      "A purely agrarian India"
-    ],
-    "correctAnswer": "A developed India"
+    "question": "What is a crucial responsibility for technology companies like Meta regarding harmful content on their platforms, particularly in a country like India with a large user base?",
+    "options": ["Maximizing advertising revenue", "Developing new gaming features", "Proactive content moderation and removal", "Limiting user interaction"],
+    "correctAnswer": "Proactive content moderation and removal"
   },
   {
     "id": 10,
-    "question": "Which aspect was stressed by PM Modi for improved governance and welfare during his recent review meeting, signifying a national approach applicable to states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Increased manual record-keeping",
-      "Reduced public interaction",
-      "Enhanced digital engagement",
-      "Sole reliance on paper-based communication"
-    ],
-    "correctAnswer": "Enhanced digital engagement"
+    "question": "If a citizen in Telangana or Andhra Pradesh encounters online content suggesting child exploitation, which national online portal should they ideally use to report such incidents?",
+    "options": ["MyGov Portal", "National Cybercrime Reporting Portal", "Indian Police Service Portal", "Aadhaar Portal"],
+    "correctAnswer": "National Cybercrime Reporting Portal"
   },
   {
     "id": 11,
-    "question": "How are states like Andhra Pradesh and Telangana expected to contribute significantly to the 'Developed India vision by 2047' discussed in the PM's review meeting?",
-    "options": [
-      "By solely focusing on local issues without national alignment",
-      "Through robust implementation of central schemes and state-specific development",
-      "By limiting inter-state collaborations",
-      "By reducing investment in infrastructure"
-    ],
-    "correctAnswer": "Through robust implementation of central schemes and state-specific development"
+    "question": "According to the Protection of Children from Sexual Offences (POCSO) Act, a 'child' is defined as a person below what age?",
+    "options": ["14 years", "16 years", "18 years", "21 years"],
+    "correctAnswer": "18 years"
   },
   {
     "id": 12,
-    "question": "What kind of reports were presented by ministers during the Prime Minister's review meeting on governance and welfare?",
-    "options": [
-      "Reports on international sports events",
-      "Progress reports on their respective departmental work",
-      "Updates on historical research projects",
-      "Feedback on private sector operations"
-    ],
-    "correctAnswer": "Progress reports on their respective departmental work"
+    "question": "What kind of specialized police units in Indian states, including Telangana and Andhra Pradesh, are primarily responsible for investigating cybercrime cases involving children?",
+    "options": ["Traffic Police Units", "Cybercrime Police Stations/Units", "Railway Police Force", "Coastal Security Police"],
+    "correctAnswer": "Cybercrime Police Stations/Units"
   },
   {
     "id": 13,
-    "question": "The PM's review meeting aimed to gather 'actionable ideas' for which specific national goal?",
-    "options": [
-      "Establishing new international alliances unrelated to development",
-      "Preparing for a global cultural festival",
-      "Achieving a developed India vision by 2047",
-      "Developing new military technologies exclusively"
-    ],
-    "correctAnswer": "Achieving a developed India vision by 2047"
+    "question": "Beyond legal action, what type of initiative is crucial for the Indian government and state governments (like AP/Telangana) to combat online child abuse effectively?",
+    "options": ["Promoting foreign tourism", "Developing new highways", "Public awareness and digital literacy campaigns", "Reducing internet speed"],
+    "correctAnswer": "Public awareness and digital literacy campaigns"
   },
   {
     "id": 14,
-    "question": "What was the reported duration of Prime Minister Modi's recent review meeting with 20 ministers on governance and welfare?",
-    "options": [
-      "One hour",
-      "Two hours",
-      "Four hours",
-      "Eight hours"
-    ],
-    "correctAnswer": "Four hours"
+    "question": "Which Union Ministry in India generally oversees matters related to child welfare and protection, including the functioning of the NCPCR?",
+    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Women and Child Development", "Ministry of Finance"],
+    "correctAnswer": "Ministry of Women and Child Development"
   },
   {
     "id": 15,
-    "question": "The emphasis on 'digital engagement' by PM Modi in his review meeting is particularly relevant for improving service delivery in which area across states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Traditional postal services",
-      "Online government services and citizen interface",
-      "Manual agricultural surveys",
-      "Offline election campaigning"
-    ],
-    "correctAnswer": "Online government services and citizen interface"
+    "question": "The alleged child abuse ads on Meta platforms highlight the importance of what for ensuring online safety for children in India?",
+    "options": ["Increasing screen time for children", "Unrestricted internet access", "Robust content moderation and user reporting systems", "Ignoring suspicious online activity"],
+    "correctAnswer": "Robust content moderation and user reporting systems"
   },
   {
     "id": 16,
-    "question": "What is the overarching goal of government initiatives discussed in PM Modi's review meetings, which directly impacts the developmental trajectories of states like Telangana and Andhra Pradesh?",
-    "options": [
-      "To centralize all decision-making without state input",
-      "To ensure effective implementation and citizen welfare",
-      "To reduce accountability across departments",
-      "To exclusively promote urban development"
-    ],
-    "correctAnswer": "To ensure effective implementation and citizen welfare"
+    "question": "What is the primary objective of regulatory bodies like NCPCR taking action against digital platforms for child exploitation?",
+    "options": ["To ban social media platforms completely", "To encourage more advertising revenue", "To ensure accountability and enforce child protection laws online", "To promote only educational content"],
+    "correctAnswer": "To ensure accountability and enforce child protection laws online"
   },
   {
     "id": 17,
-    "question": "The vision of a 'Developed India by 2047' requires significant collaborative contributions from which level of government, including in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Only the central government",
-      "Only local municipalities",
-      "Both central and state governments",
-      "Primarily international organizations"
-    ],
-    "correctAnswer": "Both central and state governments"
+    "question": "In the context of the NCPCR's mandate, what is a key right of every child in India that the commission strives to uphold?",
+    "options": ["Right to unlimited internet access", "Right to privacy from parental oversight", "Right to protection from all forms of abuse and exploitation", "Right to choose their own legal guardian"],
+    "correctAnswer": "Right to protection from all forms of abuse and exploitation"
   },
   {
     "id": 18,
-    "question": "The recent discussion about improving governance and welfare through PM's review meetings is aimed at ensuring better outcomes for whom across all states, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Only government officials",
-      "Foreign dignitaries",
-      "The citizens of India",
-      "International corporations"
-    ],
-    "correctAnswer": "The citizens of India"
+    "question": "Which of the following is an example of a proactive measure social media platforms should take to prevent child exploitation, relevant for users in any Indian state?",
+    "options": ["Waiting for law enforcement requests only", "Implementing strong age verification and content filters", "Allowing anonymous posting without moderation", "Promoting adult-only content"],
+    "correctAnswer": "Implementing strong age verification and content filters"
   },
   {
     "id": 19,
-    "question": "A recent state assembly resolution urged the Centre to use official names for which category in the 2027 Census, a move that could affect data collection for communities in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Scheduled Tribes",
-      "Minority Religions",
-      "Other Backward Classes (OBCs)",
-      "Senior Citizens"
-    ],
-    "correctAnswer": "Other Backward Classes (OBCs)"
+    "question": "How can parental control features on digital devices and platforms significantly contribute to child safety for families in Telangana and Andhra Pradesh?",
+    "options": ["By completely blocking internet access", "By allowing children unrestricted access", "By monitoring and managing children's online activities and content", "By encouraging children to use multiple social media accounts"],
+    "correctAnswer": "By monitoring and managing children's online activities and content"
   },
   {
     "id": 20,
-    "question": "The resolution regarding the 2027 Census emphasizes the collection of caste data for certain communities in a manner similar to which existing categories, impacting how socio-economic data is gathered across India, including in Telangana?",
-    "options": [
-      "Gender and age data",
-      "Scheduled Castes and Scheduled Tribes",
-      "Literacy rates and employment status",
-      "Housing and infrastructure details"
-    ],
-    "correctAnswer": "Scheduled Castes and Scheduled Tribes"
+    "question": "The issue of child exploitation on digital platforms is significant for India's 'Digital India' initiative because it highlights the need for what alongside digital transformation?",
+    "options": ["Increased digital infrastructure only", "Enhanced digital security and ethical online practices", "Reduced reliance on digital platforms", "Strict censorship of all online content"],
+    "correctAnswer": "Enhanced digital security and ethical online practices"
   },
   {
     "id": 21,
-    "question": "What is the proposed method for people to select their caste from a fixed list in the 2027 Census, as suggested by a recent resolution to improve data accuracy across India, including Andhra Pradesh?",
-    "options": [
-      "Manually entering any caste name",
-      "Selecting from a pre-defined list on the census portal",
-      "Verbal declaration without verification",
-      "Casting a vote for their preferred caste"
-    ],
-    "correctAnswer": "Selecting from a pre-defined list on the census portal"
+    "question": "What general measures are critical for ensuring child safety on online platforms in states across India, including Telangana and Andhra Pradesh?",
+    "options": ["Allowing all content to be published freely", "Educating children and parents about online risks", "Removing all advertising from platforms", "Restricting internet access to only government-approved sites"],
+    "correctAnswer": "Educating children and parents about online risks"
   },
   {
     "id": 22,
-    "question": "Why is the collection of accurate caste data for Backward Classes, Most Backward Classes, and Denotified Communities considered important for states like Andhra Pradesh and Telangana?",
-    "options": [
-      "To enforce strict social hierarchies",
-      "To ensure equitable distribution of welfare schemes and targeted development",
-      "To eliminate caste-based reservations completely",
-      "To promote solely agricultural census"
-    ],
-    "correctAnswer": "To ensure equitable distribution of welfare schemes and targeted development"
+    "question": "What kind of legal framework does India have, as highlighted by the NCPCR's actions, to address child protection issues comprehensively?",
+    "options": ["Fragmented and outdated laws", "A robust framework including acts like POCSO", "No specific laws for child protection", "Laws that only cover physical abuse"],
+    "correctAnswer": "A robust framework including acts like POCSO"
   },
   {
     "id": 23,
-    "question": "The resolution concerning the 2027 Census aims to improve the accuracy of data for which social group across India, including in states like Telangana and Andhra Pradesh, for better policy formulation?",
-    "options": [
-      "Non-resident Indians",
-      "Backward Classes, Most Backward Classes, and Denotified Communities",
-      "High-net-worth individuals",
-      "Urban slum dwellers only"
-    ],
-    "correctAnswer": "Backward Classes, Most Backward Classes, and Denotified Communities"
+    "question": "The summons to Meta India’s MD highlights the responsibility of social media companies towards which section of their user base in India?",
+    "options": ["Only adult users", "Only business users", "Children and vulnerable users", "Political organizations"],
+    "correctAnswer": "Children and vulnerable users"
   },
   {
     "id": 24,
-    "question": "What is the significance of 'official lists' of castes being built into the Census portal, as urged in a recent resolution, for states like Andhra Pradesh and Telangana?",
-    "options": [
-      "It allows individuals to create new caste names",
-      "It ensures standardization and reduces errors in caste identification",
-      "It limits the scope of the census to only a few states",
-      "It complicates the process of data collection"
-    ],
-    "correctAnswer": "It ensures standardization and reduces errors in caste identification"
+    "question": "What is the role of State Commissions for Protection of Child Rights (SCPCRs), which exist in states like Telangana and Andhra Pradesh, in relation to the national NCPCR?",
+    "options": ["They are independent bodies with no connection to NCPCR", "They act as a subordinate branch of the NCPCR", "They complement the work of NCPCR at the state level", "They handle only educational aspects of child rights"],
+    "correctAnswer": "They complement the work of NCPCR at the state level"
   },
   {
     "id": 25,
-    "question": "The discussions around the 2027 Census, particularly concerning caste data, reflect a broader national debate on which aspect of societal statistics, relevant to policy-making in all states including Telangana?",
-    "options": [
-      "The exact number of rivers in India",
-      "The role of accurate demographic data in inclusive development and social justice",
-      "The number of registered vehicles nationwide",
-      "The annual rainfall patterns"
-    ],
-    "correctAnswer": "The role of accurate demographic data in inclusive development and social justice"
+    "question": "In the context of the recent news, the alleged 'child abuse ads' refer to advertisements or content that promotes or normalizes what activity?",
+    "options": ["Online gaming", "Child labor", "Exploitation of children", "Educational content"],
+    "correctAnswer": "Exploitation of children"
   }
 ]

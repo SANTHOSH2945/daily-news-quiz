@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Who among the following BRS leaders was recently booked for allegedly assaulting cops outside the Telangana assembly?",
-    "options": ["K. Chandrashekar Rao", "K. T. Rama Rao", "T. Harish Rao", "Eatala Rajender"],
-    "correctAnswer": "K. T. Rama Rao"
+    "question": "What was the primary objective of digital asset firms meeting in Delhi, as per recent news, relevant to India's financial landscape?",
+    "options": [
+      "To lobby for stricter regulations on cryptocurrencies",
+      "To seek backing from sovereign funds for their operations",
+      "To discuss global digital asset market trends",
+      "To propose a new digital currency for India"
+    ],
+    "correctAnswer": "To seek backing from sovereign funds for their operations"
   },
   {
     "id": 2,
-    "question": "What political party's leaders, including K. T. Rama Rao, were recently booked for allegedly assaulting police outside the Telangana assembly?",
-    "options": ["Congress", "BJP", "BRS", "AIMIM"],
-    "correctAnswer": "BRS"
+    "question": "The Delhi meet involving digital asset firms highlights India's growing focus on which sector, a development relevant to technology hubs like Hyderabad in Telangana?",
+    "options": [
+      "Traditional banking services",
+      "Agricultural technology",
+      "Digital finance and blockchain innovation",
+      "Heavy manufacturing industries"
+    ],
+    "correctAnswer": "Digital finance and blockchain innovation"
   },
   {
     "id": 3,
-    "question": "The incident where BRS leaders were booked for allegedly assaulting police occurred outside which state's assembly?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Kerala"],
-    "correctAnswer": "Telangana"
+    "question": "Which type of financial entities were digital asset firms specifically seeking support from at their recent Delhi gathering?",
+    "options": [
+      "Commercial banks",
+      "Private equity funds",
+      "Sovereign funds",
+      "Retail investors"
+    ],
+    "correctAnswer": "Sovereign funds"
   },
   {
     "id": 4,
-    "question": "For what alleged offense were K. T. Rama Rao and other BRS leaders booked outside the Telangana assembly?",
-    "options": ["Unlawful assembly", "Damaging public property", "Assaulting cops", "Obstructing official duties"],
-    "correctAnswer": "Assaulting cops"
+    "question": "What is a potential implication of digital asset firms securing sovereign fund backing for states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Increased traditional agricultural exports",
+      "Boost in local manufacturing jobs only",
+      "Enhanced investment and innovation in their technology sectors",
+      "Decline in foreign direct investment"
+    ],
+    "correctAnswer": "Enhanced investment and innovation in their technology sectors"
   },
   {
     "id": 5,
-    "question": "Which specific location was the scene of the alleged assault by BRS leaders on police, leading to bookings in Telangana?",
-    "options": ["Pragathi Bhavan", "Telangana Assembly", "Tank Bund", "High Court Complex"],
-    "correctAnswer": "Telangana Assembly"
+    "question": "The discussions at the Delhi meet regarding digital assets signify India's broader ambition in which economic domain, affecting all states including Andhra Pradesh?",
+    "options": [
+      "Strengthening brick-and-mortar retail",
+      "Expanding the digital economy and fintech sector",
+      "Reducing dependence on international trade",
+      "Focusing solely on public sector enterprises"
+    ],
+    "correctAnswer": "Expanding the digital economy and fintech sector"
   },
   {
     "id": 6,
-    "question": "The news report mentions K. T. Rama Rao in connection with which type of incident outside the Telangana assembly?",
-    "options": ["Inaugurating a project", "Addressing a press conference", "Participating in a protest that led to violence", "Assaulting police"],
-    "correctAnswer": "Assaulting police"
+    "question": "What could be the role of state governments, such as those in Telangana and Andhra Pradesh, in facilitating the growth of digital asset firms in India following such national discussions?",
+    "options": [
+      "Strictly banning all digital asset activities",
+      "Providing regulatory clarity and infrastructure support",
+      "Promoting only traditional investment avenues",
+      "Discouraging technological innovation"
+    ],
+    "correctAnswer": "Providing regulatory clarity and infrastructure support"
   },
   {
     "id": 7,
-    "question": "Which group of individuals was reportedly assaulted by BRS leaders outside the Telangana assembly?",
-    "options": ["Journalists", "Assembly staff", "Security guards", "Police personnel"],
-    "correctAnswer": "Police personnel"
+    "question": "The gathering of digital asset firms seeking investment reflects India's trajectory towards becoming a significant player in which global market?",
+    "options": [
+      "Crude oil production",
+      "Conventional textiles",
+      "Blockchain and digital assets",
+      "Heavy machinery export"
+    ],
+    "correctAnswer": "Blockchain and digital assets"
   },
   {
     "id": 8,
-    "question": "What is K. T. Rama Rao's primary role or affiliation mentioned in the context of the incident outside the Telangana assembly?",
-    "options": ["Chief Minister of Telangana", "Opposition Leader", "BRS leader", "Speaker of Assembly"],
-    "correctAnswer": "BRS leader"
+    "question": "What was the central theme of Prime Minister Modi's recent four-hour review meeting with 20 ministers, a focus that includes governance in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "International foreign policy strategies",
+      "Cultural exchange programs",
+      "Governance, welfare, and implementation of government initiatives",
+      "Defense equipment procurement"
+    ],
+    "correctAnswer": "Governance, welfare, and implementation of government initiatives"
   },
   {
     "id": 9,
-    "question": "Which international grouping's 18th Summit was recently hosted by India, a decision that could impact economic policies affecting states across the nation, including Telangana and Andhra Pradesh?",
-    "options": ["G7", "BRICS", "ASEAN", "SCO"],
-    "correctAnswer": "BRICS"
+    "question": "What long-term vision was emphasized by PM Modi during his review meeting with ministers, aiming for a significant transformation by 2047 for all of India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "A digitally isolated India",
+      "A developed India",
+      "An industrially stagnant India",
+      "A purely agrarian India"
+    ],
+    "correctAnswer": "A developed India"
   },
   {
     "id": 10,
-    "question": "India's hosting of the 18th BRICS Summit is highlighted as an example of its pursuit of what foreign policy principle?",
-    "options": ["Non-alignment", "Strategic Autonomy", "Bilateralism", "Multilateralism"],
-    "correctAnswer": "Strategic Autonomy"
+    "question": "Which aspect was stressed by PM Modi for improved governance and welfare during his recent review meeting, signifying a national approach applicable to states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Increased manual record-keeping",
+      "Reduced public interaction",
+      "Enhanced digital engagement",
+      "Sole reliance on paper-based communication"
+    ],
+    "correctAnswer": "Enhanced digital engagement"
   },
   {
     "id": 11,
-    "question": "What global economic agenda is India reportedly championing during its BRICS engagements, which could influence trade and investment opportunities for Indian states?",
-    "options": ["Global North dominance", "Protectionism", "Championing the Global South", "Regional trade blocs"],
-    "correctAnswer": "Championing the Global South"
+    "question": "How are states like Andhra Pradesh and Telangana expected to contribute significantly to the 'Developed India vision by 2047' discussed in the PM's review meeting?",
+    "options": [
+      "By solely focusing on local issues without national alignment",
+      "Through robust implementation of central schemes and state-specific development",
+      "By limiting inter-state collaborations",
+      "By reducing investment in infrastructure"
+    ],
+    "correctAnswer": "Through robust implementation of central schemes and state-specific development"
   },
   {
     "id": 12,
-    "question": "What major infrastructure project in India is expected to become fully operational after approximately two decades?",
-    "options": ["High-speed rail network", "Coastal shipping routes", "Dedicated Freight Corridors", "National Highway expansion"],
-    "correctAnswer": "Dedicated Freight Corridors"
+    "question": "What kind of reports were presented by ministers during the Prime Minister's review meeting on governance and welfare?",
+    "options": [
+      "Reports on international sports events",
+      "Progress reports on their respective departmental work",
+      "Updates on historical research projects",
+      "Feedback on private sector operations"
+    ],
+    "correctAnswer": "Progress reports on their respective departmental work"
   },
   {
     "id": 13,
-    "question": "Approximately how long has it taken for India's freight corridors to become fully operational, as per the news?",
-    "options": ["One decade", "Two decades", "Three decades", "Four decades"],
-    "correctAnswer": "Two decades"
+    "question": "The PM's review meeting aimed to gather 'actionable ideas' for which specific national goal?",
+    "options": [
+      "Establishing new international alliances unrelated to development",
+      "Preparing for a global cultural festival",
+      "Achieving a developed India vision by 2047",
+      "Developing new military technologies exclusively"
+    ],
+    "correctAnswer": "Achieving a developed India vision by 2047"
   },
   {
     "id": 14,
-    "question": "The full operationalization of India's freight corridors is expected to primarily benefit which sector, crucial for industrial states like Telangana and Andhra Pradesh?",
-    "options": ["Aviation", "Passenger transport", "Waterways", "Logistics and cargo transport"],
-    "correctAnswer": "Logistics and cargo transport"
+    "question": "What was the reported duration of Prime Minister Modi's recent review meeting with 20 ministers on governance and welfare?",
+    "options": [
+      "One hour",
+      "Two hours",
+      "Four hours",
+      "Eight hours"
+    ],
+    "correctAnswer": "Four hours"
   },
   {
     "id": 15,
-    "question": "What legal body recently emphasized the necessity of balancing scientific investigation with an individual's right to privacy in India?",
-    "options": ["High Court", "District Court", "Supreme Court", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "The emphasis on 'digital engagement' by PM Modi in his review meeting is particularly relevant for improving service delivery in which area across states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Traditional postal services",
+      "Online government services and citizen interface",
+      "Manual agricultural surveys",
+      "Offline election campaigning"
+    ],
+    "correctAnswer": "Online government services and citizen interface"
   },
   {
     "id": 16,
-    "question": "According to the Supreme Court's recent observations, what right must be balanced against the needs of a scientific probe?",
-    "options": ["Right to education", "Right to property", "Right to privacy", "Right to information"],
-    "correctAnswer": "Right to privacy"
+    "question": "What is the overarching goal of government initiatives discussed in PM Modi's review meetings, which directly impacts the developmental trajectories of states like Telangana and Andhra Pradesh?",
+    "options": [
+      "To centralize all decision-making without state input",
+      "To ensure effective implementation and citizen welfare",
+      "To reduce accountability across departments",
+      "To exclusively promote urban development"
+    ],
+    "correctAnswer": "To ensure effective implementation and citizen welfare"
   },
   {
     "id": 17,
-    "question": "Who is reported to have issued threats against India in a recent jihadist speech, as per news reports?",
-    "options": ["Dawood Ibrahim", "Masood Azhar", "Hafiz Saeed’s son", "Syed Salahuddin"],
-    "correctAnswer": "Hafiz Saeed’s son"
+    "question": "The vision of a 'Developed India by 2047' requires significant collaborative contributions from which level of government, including in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Only the central government",
+      "Only local municipalities",
+      "Both central and state governments",
+      "Primarily international organizations"
+    ],
+    "correctAnswer": "Both central and state governments"
   },
   {
     "id": 18,
-    "question": "The concerns expressed by the Supreme Court regarding scientific probes and privacy are relevant to which aspect of governance across all Indian states, including Andhra Pradesh and Telangana?",
-    "options": ["Agricultural policy", "Industrial development", "Law enforcement and digital forensics", "Educational reforms"],
-    "correctAnswer": "Law enforcement and digital forensics"
+    "question": "The recent discussion about improving governance and welfare through PM's review meetings is aimed at ensuring better outcomes for whom across all states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Only government officials",
+      "Foreign dignitaries",
+      "The citizens of India",
+      "International corporations"
+    ],
+    "correctAnswer": "The citizens of India"
   },
   {
     "id": 19,
-    "question": "The operationalization of freight corridors across India is crucial for improving what aspect of interstate trade and commerce, potentially benefiting ports and industrial clusters in Andhra Pradesh and Telangana?",
-    "options": ["Air travel", "Road safety", "Railway efficiency", "Coastal shipping"],
-    "correctAnswer": "Railway efficiency"
+    "question": "A recent state assembly resolution urged the Centre to use official names for which category in the 2027 Census, a move that could affect data collection for communities in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Scheduled Tribes",
+      "Minority Religions",
+      "Other Backward Classes (OBCs)",
+      "Senior Citizens"
+    ],
+    "correctAnswer": "Other Backward Classes (OBCs)"
   },
   {
     "id": 20,
-    "question": "As India engages with the BRICS nations, which two major global powers are mentioned in the context of India navigating complex relationships?",
-    "options": ["France and Germany", "Japan and South Korea", "China and Russia", "UK and Canada"],
-    "correctAnswer": "China and Russia"
+    "question": "The resolution regarding the 2027 Census emphasizes the collection of caste data for certain communities in a manner similar to which existing categories, impacting how socio-economic data is gathered across India, including in Telangana?",
+    "options": [
+      "Gender and age data",
+      "Scheduled Castes and Scheduled Tribes",
+      "Literacy rates and employment status",
+      "Housing and infrastructure details"
+    ],
+    "correctAnswer": "Scheduled Castes and Scheduled Tribes"
   },
   {
     "id": 21,
-    "question": "The Supreme Court's stance on balancing scientific probe and privacy reflects a broader judicial concern for what constitutional principle in India?",
-    "options": ["Secularism", "Federalism", "Rule of law", "Protection of individual liberties"],
-    "correctAnswer": "Protection of individual liberties"
+    "question": "What is the proposed method for people to select their caste from a fixed list in the 2027 Census, as suggested by a recent resolution to improve data accuracy across India, including Andhra Pradesh?",
+    "options": [
+      "Manually entering any caste name",
+      "Selecting from a pre-defined list on the census portal",
+      "Verbal declaration without verification",
+      "Casting a vote for their preferred caste"
+    ],
+    "correctAnswer": "Selecting from a pre-defined list on the census portal"
   },
   {
     "id": 22,
-    "question": "The threats issued against India by Hafiz Saeed's son underline persistent challenges to which aspect of India's national framework?",
-    "options": ["Economic stability", "Cultural heritage", "National security", "Environmental policy"],
-    "correctAnswer": "National security"
+    "question": "Why is the collection of accurate caste data for Backward Classes, Most Backward Classes, and Denotified Communities considered important for states like Andhra Pradesh and Telangana?",
+    "options": [
+      "To enforce strict social hierarchies",
+      "To ensure equitable distribution of welfare schemes and targeted development",
+      "To eliminate caste-based reservations completely",
+      "To promote solely agricultural census"
+    ],
+    "correctAnswer": "To ensure equitable distribution of welfare schemes and targeted development"
   },
   {
     "id": 23,
-    "question": "The 18th BRICS Summit hosted by India demonstrates the nation's growing influence in what area of global affairs?",
-    "options": ["Space exploration", "Cybersecurity", "Geopolitics and economic cooperation", "Climate change activism"],
-    "correctAnswer": "Geopolitics and economic cooperation"
+    "question": "The resolution concerning the 2027 Census aims to improve the accuracy of data for which social group across India, including in states like Telangana and Andhra Pradesh, for better policy formulation?",
+    "options": [
+      "Non-resident Indians",
+      "Backward Classes, Most Backward Classes, and Denotified Communities",
+      "High-net-worth individuals",
+      "Urban slum dwellers only"
+    ],
+    "correctAnswer": "Backward Classes, Most Backward Classes, and Denotified Communities"
   },
   {
     "id": 24,
-    "question": "What is the primary significance of the freight corridors becoming fully operational in India, impacting trade routes including those connecting to Telangana and Andhra Pradesh?",
-    "options": ["Increased passenger train speed", "Enhanced tourism opportunities", "Boost to industrial and agricultural logistics", "Development of new airports"],
-    "correctAnswer": "Boost to industrial and agricultural logistics"
+    "question": "What is the significance of 'official lists' of castes being built into the Census portal, as urged in a recent resolution, for states like Andhra Pradesh and Telangana?",
+    "options": [
+      "It allows individuals to create new caste names",
+      "It ensures standardization and reduces errors in caste identification",
+      "It limits the scope of the census to only a few states",
+      "It complicates the process of data collection"
+    ],
+    "correctAnswer": "It ensures standardization and reduces errors in caste identification"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's mention of balancing scientific probe and right to privacy underscores the importance of ethical considerations in which field of investigation?",
-    "options": ["Archaeological studies", "Forensic science", "Environmental impact assessments", "Market research"],
-    "correctAnswer": "Forensic science"
+    "question": "The discussions around the 2027 Census, particularly concerning caste data, reflect a broader national debate on which aspect of societal statistics, relevant to policy-making in all states including Telangana?",
+    "options": [
+      "The exact number of rivers in India",
+      "The role of accurate demographic data in inclusive development and social justice",
+      "The number of registered vehicles nationwide",
+      "The annual rainfall patterns"
+    ],
+    "correctAnswer": "The role of accurate demographic data in inclusive development and social justice"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national body in India summoned the head of Meta India regarding alleged child abuse ads?",
-    "options": ["National Human Rights Commission (NHRC)", "National Commission for Women (NCW)", "National Commission for Protection of Child Rights (NCPCR)", "Central Bureau of Investigation (CBI)"],
-    "correctAnswer": "National Commission for Protection of Child Rights (NCPCR)"
+    "question": "What is the primary objective of the POSH Act, 2013, as applicable to workplaces in states like Telangana and Andhra Pradesh?",
+    "options": ["Regulating working hours", "Preventing sexual harassment at workplace", "Mandating minimum wages", "Promoting gender diversity in management"],
+    "correctAnswer": "Preventing sexual harassment at workplace"
   },
   {
     "id": 2,
-    "question": "The NCPCR's inquiry into Meta India considered stringent provisions under which specific act relating to child protection in India?",
-    "options": ["Information Technology Act, 2000", "Juvenile Justice (Care and Protection of Children) Act, 2015", "Protection of Children from Sexual Offences (POCSO) Act, 2012", "Child Labour (Prohibition and Regulation) Act, 1986"],
-    "correctAnswer": "Protection of Children from Sexual Offences (POCSO) Act, 2012"
+    "question": "The recent Delhi High Court ruling highlighted the importance of protecting the identity of survivors in cases under the POSH Act. What principle does this uphold?",
+    "options": ["Employer's right to information", "Public interest in disclosure", "Survivor's privacy and dignity", "Media freedom"],
+    "correctAnswer": "Survivor's privacy and dignity"
   },
   {
     "id": 3,
-    "question": "What was the primary reason for the NCPCR summoning the Managing Director of Meta India?",
-    "options": ["Data privacy violations", "Alleged child abuse advertisements", "Monopoly practices", "Hate speech propagation"],
-    "correctAnswer": "Alleged child abuse advertisements"
+    "question": "Which body is typically responsible for addressing complaints under the POSH Act within organizations in Telangana and Andhra Pradesh?",
+    "options": ["Local Police Station", "Women's Commission", "Internal Complaints Committee (ICC)", "District Collector"],
+    "correctAnswer": "Internal Complaints Committee (ICC)"
   },
   {
     "id": 4,
-    "question": "The action by NCPCR against Meta India was initiated following a report from which international media outlet?",
-    "options": ["CNN International", "The Guardian", "BBC Eye", "Reuters"],
-    "correctAnswer": "BBC Eye"
+    "question": "Prime Minister Modi recently emphasized a 'desi connect' for UPI's global expansion. What does UPI primarily facilitate in India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Cash withdrawals from ATMs", "Inter-bank peer-to-peer and merchant payments", "International money transfers only", "Stock market trading"],
+    "correctAnswer": "Inter-bank peer-to-peer and merchant payments"
   },
   {
     "id": 5,
-    "question": "Meta India, in response to the allegations, stated it has what kind of tolerance for child exploitation?",
-    "options": ["High tolerance", "Moderate tolerance", "Conditional tolerance", "Zero tolerance"],
-    "correctAnswer": "Zero tolerance"
+    "question": "What is one significant benefit of the widespread adoption of UPI in Indian states like Telangana and Andhra Pradesh for daily transactions?",
+    "options": ["Increased reliance on physical currency", "Enhanced convenience and speed of payments", "Growth of cash-on-delivery services", "Reduction in mobile phone usage"],
+    "correctAnswer": "Enhanced convenience and speed of payments"
   },
   {
     "id": 6,
-    "question": "In the context of the NCPCR's actions, what is the full form of POCSO?",
-    "options": ["Protection of Criminal Offenders and Social Order", "Prevention of Child Obstruction and Safety Operations", "Protection of Children from Sexual Offences", "Promoting Online Child Safety and Outreach"],
-    "correctAnswer": "Protection of Children from Sexual Offences"
+    "question": "Which organization developed UPI, the digital payment system widely used across India?",
+    "options": ["Reserve Bank of India (RBI)", "National Payments Corporation of India (NPCI)", "State Bank of India (SBI)", "Ministry of Finance"],
+    "correctAnswer": "National Payments Corporation of India (NPCI)"
   },
   {
     "id": 7,
-    "question": "The NCPCR is a statutory body in India established under an Act of Parliament. Its primary function is to safeguard the rights of which demographic?",
-    "options": ["Women", "Elderly citizens", "Children", "Persons with disabilities"],
-    "correctAnswer": "Children"
+    "question": "The 'desi connect' initiative aims to extend UPI's reach to which area?",
+    "options": ["Rural areas within India", "Small businesses exclusively", "International cross-border transactions", "Only government-to-citizen payments"],
+    "correctAnswer": "International cross-border transactions"
   },
   {
     "id": 8,
-    "question": "How is the Protection of Children from Sexual Offences (POCSO) Act implemented and enforced at the state level in India, including in states like Telangana and Andhra Pradesh?",
-    "options": ["Through local municipal corporations only", "Through designated Special Courts and Police Units", "Exclusively by central government agencies", "Voluntarily by NGOs"],
-    "correctAnswer": "Through designated Special Courts and Police Units"
+    "question": "What characteristic of UPI has made it particularly successful in fostering digital payments in diverse regions of India, including Telangana and Andhra Pradesh?",
+    "options": ["Requirement for a high minimum transaction amount", "Complex setup process", "Interoperability across multiple banks and payment apps", "Exclusive to credit card users"],
+    "correctAnswer": "Interoperability across multiple banks and payment apps"
   },
   {
     "id": 9,
-    "question": "What is a crucial responsibility for technology companies like Meta regarding harmful content on their platforms, particularly in a country like India with a large user base?",
-    "options": ["Maximizing advertising revenue", "Developing new gaming features", "Proactive content moderation and removal", "Limiting user interaction"],
-    "correctAnswer": "Proactive content moderation and removal"
+    "question": "Meta India officials were summoned over concerns regarding child abuse ads. Which type of content is explicitly prohibited and a serious legal offense on online platforms in India?",
+    "options": ["Political advertisements", "Educational videos", "Child Sexual Abuse Material (CSAM)", "E-commerce promotions"],
+    "correctAnswer": "Child Sexual Abuse Material (CSAM)"
   },
   {
     "id": 10,
-    "question": "If a citizen in Telangana or Andhra Pradesh encounters online content suggesting child exploitation, which national online portal should they ideally use to report such incidents?",
-    "options": ["MyGov Portal", "National Cybercrime Reporting Portal", "Indian Police Service Portal", "Aadhaar Portal"],
-    "correctAnswer": "National Cybercrime Reporting Portal"
+    "question": "In the context of online safety and child protection, what is the primary responsibility of social media platforms operating in India, including those serving Telangana and Andhra Pradesh?",
+    "options": ["To passively host all content", "To actively moderate and remove illegal content like CSAM", "To promote unrestricted free speech", "To only respond to international law enforcement requests"],
+    "correctAnswer": "To actively moderate and remove illegal content like CSAM"
   },
   {
     "id": 11,
-    "question": "According to the Protection of Children from Sexual Offences (POCSO) Act, a 'child' is defined as a person below what age?",
-    "options": ["14 years", "16 years", "18 years", "21 years"],
-    "correctAnswer": "18 years"
+    "question": "Which Indian government agency is primarily responsible for investigating and acting on reports of cybercrimes, including those related to online child abuse, in states like Telangana and Andhra Pradesh?",
+    "options": ["Department of Telecommunications", "Ministry of Information and Broadcasting", "Cybercrime Cells under State Police/Central agencies", "Reserve Bank of India"],
+    "correctAnswer": "Cybercrime Cells under State Police/Central agencies"
   },
   {
     "id": 12,
-    "question": "What kind of specialized police units in Indian states, including Telangana and Andhra Pradesh, are primarily responsible for investigating cybercrime cases involving children?",
-    "options": ["Traffic Police Units", "Cybercrime Police Stations/Units", "Railway Police Force", "Coastal Security Police"],
-    "correctAnswer": "Cybercrime Police Stations/Units"
+    "question": "The recent report on building collapses and fires highlights significant safety concerns in urban areas across India. What is a common factor contributing to building collapses in states like Telangana and Andhra Pradesh?",
+    "options": ["Over-reliance on traditional architecture", "Strict adherence to building codes", "Use of substandard materials and illegal constructions", "Lack of demand for housing"],
+    "correctAnswer": "Use of substandard materials and illegal constructions"
   },
   {
     "id": 13,
-    "question": "Beyond legal action, what type of initiative is crucial for the Indian government and state governments (like AP/Telangana) to combat online child abuse effectively?",
-    "options": ["Promoting foreign tourism", "Developing new highways", "Public awareness and digital literacy campaigns", "Reducing internet speed"],
-    "correctAnswer": "Public awareness and digital literacy campaigns"
+    "question": "Which local government body is primarily responsible for enforcing building codes and ensuring construction safety in municipal areas of Telangana and Andhra Pradesh?",
+    "options": ["State Disaster Management Authority", "Municipal Corporations/Urban Development Authorities", "National Highways Authority", "District Judiciary"],
+    "correctAnswer": "Municipal Corporations/Urban Development Authorities"
   },
   {
     "id": 14,
-    "question": "Which Union Ministry in India generally oversees matters related to child welfare and protection, including the functioning of the NCPCR?",
-    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Women and Child Development", "Ministry of Finance"],
-    "correctAnswer": "Ministry of Women and Child Development"
+    "question": "In the context of fire safety in multi-story buildings in Hyderabad or Vijayawada, what is a crucial preventative measure often mandated by regulations?",
+    "options": ["Use of wooden structures primarily", "Regular fire safety audits and functional fire fighting systems", "Blocking emergency exits", "Storing flammable materials in corridors"],
+    "correctAnswer": "Regular fire safety audits and functional fire fighting systems"
   },
   {
     "id": 15,
-    "question": "The alleged child abuse ads on Meta platforms highlight the importance of what for ensuring online safety for children in India?",
-    "options": ["Increasing screen time for children", "Unrestricted internet access", "Robust content moderation and user reporting systems", "Ignoring suspicious online activity"],
-    "correctAnswer": "Robust content moderation and user reporting systems"
+    "question": "What is the broader implication of the high number of deaths from building collapses and fires across India, including states with rapid urbanization like Telangana?",
+    "options": ["Reduction in urban population", "Need for stronger regulatory oversight and enforcement of safety norms", "Decline in construction activity", "Increase in demand for rural housing"],
+    "correctAnswer": "Need for stronger regulatory oversight and enforcement of safety norms"
   },
   {
     "id": 16,
-    "question": "What is the primary objective of regulatory bodies like NCPCR taking action against digital platforms for child exploitation?",
-    "options": ["To ban social media platforms completely", "To encourage more advertising revenue", "To ensure accountability and enforce child protection laws online", "To promote only educational content"],
-    "correctAnswer": "To ensure accountability and enforce child protection laws online"
+    "question": "The Supreme Court recently remarked against absorbing unqualified private school teachers. What is a key concern associated with unqualified teachers in private schools in states like Andhra Pradesh and Telangana?",
+    "options": ["They demand higher salaries", "They contribute to lower educational quality for students", "They are more likely to pursue higher education", "They increase administrative burden"],
+    "correctAnswer": "They contribute to lower educational quality for students"
   },
   {
     "id": 17,
-    "question": "In the context of the NCPCR's mandate, what is a key right of every child in India that the commission strives to uphold?",
-    "options": ["Right to unlimited internet access", "Right to privacy from parental oversight", "Right to protection from all forms of abuse and exploitation", "Right to choose their own legal guardian"],
-    "correctAnswer": "Right to protection from all forms of abuse and exploitation"
+    "question": "What is the potential long-term impact on students if private schools widely employ unqualified teachers, as highlighted by the Supreme Court?",
+    "options": ["Improved student engagement", "Enhanced learning outcomes", "Deterioration of educational standards and student performance", "Greater access to diverse teaching methods"],
+    "correctAnswer": "Deterioration of educational standards and student performance"
   },
   {
     "id": 18,
-    "question": "Which of the following is an example of a proactive measure social media platforms should take to prevent child exploitation, relevant for users in any Indian state?",
-    "options": ["Waiting for law enforcement requests only", "Implementing strong age verification and content filters", "Allowing anonymous posting without moderation", "Promoting adult-only content"],
-    "correctAnswer": "Implementing strong age verification and content filters"
+    "question": "In India, including Telangana and Andhra Pradesh, what agency or authority generally sets the minimum qualification standards for teachers in recognized schools?",
+    "options": ["Parents-Teachers Association (PTA)", "School Management Committee", "National Council for Teacher Education (NCTE) or State Education Departments", "Local Political Bodies"],
+    "correctAnswer": "National Council for Teacher Education (NCTE) or State Education Departments"
   },
   {
     "id": 19,
-    "question": "How can parental control features on digital devices and platforms significantly contribute to child safety for families in Telangana and Andhra Pradesh?",
-    "options": ["By completely blocking internet access", "By allowing children unrestricted access", "By monitoring and managing children's online activities and content", "By encouraging children to use multiple social media accounts"],
-    "correctAnswer": "By monitoring and managing children's online activities and content"
+    "question": "What crucial role does teacher qualification play in achieving quality education, as emphasized by recent judicial observations applicable across India?",
+    "options": ["Primarily to manage school finances", "Ensures effective pedagogy and student learning outcomes", "Simplifies administrative tasks", "Attracts more students regardless of teaching quality"],
+    "correctAnswer": "Ensures effective pedagogy and student learning outcomes"
   },
   {
     "id": 20,
-    "question": "The issue of child exploitation on digital platforms is significant for India's 'Digital India' initiative because it highlights the need for what alongside digital transformation?",
-    "options": ["Increased digital infrastructure only", "Enhanced digital security and ethical online practices", "Reduced reliance on digital platforms", "Strict censorship of all online content"],
-    "correctAnswer": "Enhanced digital security and ethical online practices"
+    "question": "High Courts in India, such as the High Court for the State of Telangana or Andhra Pradesh High Court, play a vital role in upholding fundamental rights. What is their primary function in the legal system?",
+    "options": ["Only to advise the state government", "To interpret the Constitution and laws, and supervise lower courts", "To enact new legislation", "To manage international relations"],
+    "correctAnswer": "To interpret the Constitution and laws, and supervise lower courts"
   },
   {
     "id": 21,
-    "question": "What general measures are critical for ensuring child safety on online platforms in states across India, including Telangana and Andhra Pradesh?",
-    "options": ["Allowing all content to be published freely", "Educating children and parents about online risks", "Removing all advertising from platforms", "Restricting internet access to only government-approved sites"],
-    "correctAnswer": "Educating children and parents about online risks"
+    "question": "Given the push for digital payments like UPI, what skill is becoming increasingly important for citizens in states like Telangana and Andhra Pradesh to participate effectively in the modern economy?",
+    "options": ["Advanced agricultural techniques", "Digital literacy and cybersecurity awareness", "Traditional craft skills", "Foreign language proficiency"],
+    "correctAnswer": "Digital literacy and cybersecurity awareness"
   },
   {
     "id": 22,
-    "question": "What kind of legal framework does India have, as highlighted by the NCPCR's actions, to address child protection issues comprehensively?",
-    "options": ["Fragmented and outdated laws", "A robust framework including acts like POCSO", "No specific laws for child protection", "Laws that only cover physical abuse"],
-    "correctAnswer": "A robust framework including acts like POCSO"
+    "question": "The issue of online child safety, as seen with Meta India, highlights the need for robust regulatory frameworks. Which Union Ministry in India is primarily responsible for formulating policies and regulations related to information technology and online platforms?",
+    "options": ["Ministry of External Affairs", "Ministry of Defence", "Ministry of Electronics and Information Technology (MeitY)", "Ministry of Rural Development"],
+    "correctAnswer": "Ministry of Electronics and Information Technology (MeitY)"
   },
   {
     "id": 23,
-    "question": "The summons to Meta India’s MD highlights the responsibility of social media companies towards which section of their user base in India?",
-    "options": ["Only adult users", "Only business users", "Children and vulnerable users", "Political organizations"],
-    "correctAnswer": "Children and vulnerable users"
+    "question": "Rapid urbanization in states like Telangana and Andhra Pradesh often brings challenges, including the need for robust infrastructure and safety. What is a key challenge faced by urban planners in cities like Hyderabad and Visakhapatnam regarding building safety?",
+    "options": ["Excessively slow population growth", "Managing unauthorized constructions and ensuring compliance with safety standards", "Lack of interest in infrastructure development", "Abundance of perfectly planned greenfield cities"],
+    "correctAnswer": "Managing unauthorized constructions and ensuring compliance with safety standards"
   },
   {
     "id": 24,
-    "question": "What is the role of State Commissions for Protection of Child Rights (SCPCRs), which exist in states like Telangana and Andhra Pradesh, in relation to the national NCPCR?",
-    "options": ["They are independent bodies with no connection to NCPCR", "They act as a subordinate branch of the NCPCR", "They complement the work of NCPCR at the state level", "They handle only educational aspects of child rights"],
-    "correctAnswer": "They complement the work of NCPCR at the state level"
+    "question": "While national bodies like NCTE set standards, State Governments in India, including Telangana and Andhra Pradesh, play a significant role in education. What is a primary responsibility of state governments concerning school education?",
+    "options": ["Printing all textbooks for the entire country", "Direct management of national universities", "Implementation of educational policies, administration of schools, and teacher recruitment", "Setting international educational exchange programs"],
+    "correctAnswer": "Implementation of educational policies, administration of schools, and teacher recruitment"
   },
   {
     "id": 25,
-    "question": "In the context of the recent news, the alleged 'child abuse ads' refer to advertisements or content that promotes or normalizes what activity?",
-    "options": ["Online gaming", "Child labor", "Exploitation of children", "Educational content"],
-    "correctAnswer": "Exploitation of children"
+    "question": "Judicial pronouncements by the Supreme Court, like the one on unqualified teachers, are binding across India. What is the fundamental principle behind the binding nature of Supreme Court decisions for all other courts and authorities in Telangana and Andhra Pradesh?",
+    "options": ["Judicial preference", "Precedent (Stare Decisis)", "Political influence", "Local customs"],
+    "correctAnswer": "Precedent (Stare Decisis)"
   }
 ]

@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which major infrastructure development in Hyderabad aims to significantly ease traffic congestion and improve connectivity within the city?",
-    "options": [
-      "Hyderabad Metro Rail Phase II",
-      "Strategic Road Development Plan (SRDP)",
-      "Outer Ring Road expansion",
-      "Gachibowli-Miyapur Expressway"
-    ],
-    "correctAnswer": "Strategic Road Development Plan (SRDP)"
+    "question": "Which state in India has taken significant strides in e-governance initiatives, aiming to make government services more user-friendly for its citizens, aligning with recent national emphasis?",
+    "options": ["Telangana", "Karnataka", "Gujarat", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 2,
-    "question": "The Telangana government recently announced plans for a new 'Greenfield Industrial Park' to boost manufacturing. In which district is this park primarily being established?",
-    "options": [
-      "Nalgonda",
-      "Siddipet",
-      "Mahabubnagar",
-      "Medak"
-    ],
-    "correctAnswer": "Siddipet"
+    "question": "The concept of user-friendly government websites aligns with which flagship program of the Telangana government that provides integrated citizen services?",
+    "options": ["Rythu Bandhu", "MeeSeva", "Kanti Velugu", "Mission Bhagiratha"],
+    "correctAnswer": "MeeSeva"
   },
   {
     "id": 3,
-    "question": "Andhra Pradesh is actively developing a new deep-water port to enhance its maritime trade capabilities. Which location has been chosen for this significant project?",
-    "options": [
-      "Kakinada",
-      "Machilipatnam",
-      "Ramayapatnam",
-      "Nizampatnam"
-    ],
-    "correctAnswer": "Ramayapatnam"
+    "question": "Andhra Pradesh has also focused on digital service delivery. What is the name of a comprehensive citizen service portal frequently used by residents of Andhra Pradesh?",
+    "options": ["MeeBhoomi", "AP Seva Portal", "Jagananna Vidya Deevena Portal", "YSR Rythu Bharosa Portal"],
+    "correctAnswer": "AP Seva Portal"
   },
   {
     "id": 4,
-    "question": "The AP government recently inaugurated a new stretch of National Highway aimed at improving connectivity between which two major cities within the state?",
-    "options": [
-      "Vijayawada and Guntur",
-      "Visakhapatnam and Vizianagaram",
-      "Tirupati and Kadapa",
-      "Anantapur and Kurnool"
-    ],
-    "correctAnswer": "Tirupati and Kadapa"
+    "question": "To enhance user experience on government portals, what is a key feature being increasingly integrated, as suggested by national guidelines and implemented in states like Telangana?",
+    "options": ["Biometric authentication", "AI-powered chatbots", "Offline access", "Mandatory VPN usage"],
+    "correctAnswer": "AI-powered chatbots"
   },
   {
     "id": 5,
-    "question": "The Telangana government introduced the 'Maha Lakshmi' scheme, providing which key benefit to women residents?",
-    "options": [
-      "Financial aid for higher education",
-      "Free bus travel in state-run buses",
-      "Housing subsidy for single women",
-      "Health insurance coverage"
-    ],
-    "correctAnswer": "Free bus travel in state-run buses"
+    "question": "Which department in Telangana is primarily responsible for the development and maintenance of user-friendly government websites and digital services?",
+    "options": ["Department of Finance", "Department of Education", "Department of IT, Electronics & Communications", "Department of Health"],
+    "correctAnswer": "Department of IT, Electronics & Communications"
   },
   {
     "id": 6,
-    "question": "What is the primary objective of the 'Rythu Bandhu' scheme, a flagship agricultural support program of the Telangana government?",
-    "options": [
-      "Crop insurance for all farmers",
-      "Investment support for farmers for two crops a year",
-      "Farm loan waiver for small and marginal farmers",
-      "Free electricity supply for agricultural pump sets"
-    ],
-    "correctAnswer": "Investment support for farmers for two crops a year"
+    "question": "Andhra Pradesh introduced a 'Village Secretariat' system to bring government services closer to people. This initiative directly supports the goal of:",
+    "options": ["Centralizing administration", "Increasing public debt", "Enhancing user-friendliness of government services", "Promoting tourism"],
+    "correctAnswer": "Enhancing user-friendliness of government services"
   },
   {
     "id": 7,
-    "question": "Which welfare scheme by the Andhra Pradesh government provides financial assistance directly to mothers for sending their children to recognized private schools?",
-    "options": [
-      "Jagananna Vidya Deevena",
-      "Vahana Mitra",
-      "Amma Vodi",
-      "YSR Cheyutha"
-    ],
-    "correctAnswer": "Amma Vodi"
+    "question": "What is the significance of the 'Digital India' initiative in the context of state governments like Telangana and Andhra Pradesh making their websites user-friendly?",
+    "options": ["It mandates specific software", "It provides funding and a national framework for digital transformation", "It limits online services", "It only applies to central government"],
+    "correctAnswer": "It provides funding and a national framework for digital transformation"
   },
   {
     "id": 8,
-    "question": "The Andhra Pradesh government is significantly focusing on developing which city as a major IT and financial hub to attract global investments?",
-    "options": [
-      "Guntur",
-      "Tirupati",
-      "Nellore",
-      "Visakhapatnam"
-    ],
-    "correctAnswer": "Visakhapatnam"
+    "question": "Which e-governance project in Telangana focuses on land records and aims to provide transparent and user-friendly access to land-related information?",
+    "options": ["Dharani Portal", "Palle Pragathi", "Kanti Velugu", "Telangana Ku Haritha Haram"],
+    "correctAnswer": "Dharani Portal"
   },
   {
     "id": 9,
-    "question": "Telangana is undertaking a massive afforestation drive to increase its green cover under which ambitious state program?",
-    "options": [
-      "Vana Rakshak",
-      "Haritha Haram",
-      "Jana Vanam",
-      "Pachani Telangana"
-    ],
-    "correctAnswer": "Haritha Haram"
+    "question": "To ensure government sites are accessible to all, including those with disabilities, what standard is often recommended for compliance in states like Andhra Pradesh?",
+    "options": ["WCAG (Web Content Accessibility Guidelines)", "ISO 9001", "GDPR", "HIPAA"],
+    "correctAnswer": "WCAG (Web Content Accessibility Guidelines)"
   },
   {
     "id": 10,
-    "question": "Which location in Telangana hosts one of India's largest floating solar power plants?",
-    "options": [
-      "Kothagudem",
-      "Bhadradri",
-      "Ramagundam",
-      "Nagarjunasagar"
-    ],
-    "correctAnswer": "Ramagundam"
+    "question": "The emphasis on user-friendly government sites also implies a focus on mobile accessibility. Which mobile app from Telangana aggregates various government services for easy access?",
+    "options": ["TS-MeeSeva", "T-App Folio", "Apatbandhu", "e-Panchayat"],
+    "correctAnswer": "T-App Folio"
   },
   {
     "id": 11,
-    "question": "Andhra Pradesh recently announced a new policy aimed at promoting the production of which future fuel, particularly in its coastal regions?",
-    "options": [
-      "Bio-ethanol",
-      "Green Hydrogen",
-      "Compressed Natural Gas (CNG)",
-      "Bio-diesel"
-    ],
-    "correctAnswer": "Green Hydrogen"
+    "question": "Which major city in Telangana is often recognized as a significant hub for cybersecurity expertise and has robust initiatives to combat cyber fraud?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 12,
-    "question": "To combat plastic pollution, the Andhra Pradesh government implemented a ban on single-use plastics in which prominent coastal city?",
-    "options": [
-      "Kakinada",
-      "Visakhapatnam",
-      "Nellore",
-      "Ongole"
-    ],
-    "correctAnswer": "Visakhapatnam"
+    "question": "The Telangana State Police has a dedicated unit for combating cybercrime. What is its common designation?",
+    "options": ["Economic Offence Wing", "Cyber Crime Police Station", "Anti-Terrorist Squad", "Narcotics Control Bureau"],
+    "correctAnswer": "Cyber Crime Police Station"
   },
   {
     "id": 13,
-    "question": "Which traditional floral festival of Telangana, dedicated to Goddess Gauri, is celebrated by women with great enthusiasm?",
-    "options": [
-      "Bonalu",
-      "Bathukamma",
-      "Dasara",
-      "Ugadi"
-    ],
-    "correctAnswer": "Bathukamma"
+    "question": "Andhra Pradesh has also bolstered its cybercrime prevention. What is the general helpline number promoted by state police for reporting cyber fraud incidents across India, including AP and Telangana?",
+    "options": ["100", "108", "112", "1930"],
+    "correctAnswer": "1930"
   },
   {
     "id": 14,
-    "question": "The Telangana State Archives and Research Institute recently digitized and made accessible historical records from which significant era?",
-    "options": [
-      "Kakatiya Dynasty",
-      "Satavahana Period",
-      "Nizam Era",
-      "Vijayanagara Empire"
-    ],
-    "correctAnswer": "Nizam Era"
+    "question": "What type of cyber fraud involves deceiving individuals into revealing personal information through fake websites or emails, a common target for prevention efforts in states like AP and Telangana?",
+    "options": ["DDoS attack", "Phishing", "Ransomware", "Malware injection"],
+    "correctAnswer": "Phishing"
   },
   {
     "id": 15,
-    "question": "The Andhra Pradesh government is investing significantly in the restoration and development of ancient Buddhist heritage sites in which region?",
-    "options": [
-      "Guntupalli",
-      "Thotlakonda",
-      "Amaravati",
-      "Sankaram"
-    ],
-    "correctAnswer": "Amaravati"
+    "question": "Which initiative by the government, supported by state police forces, aims to create awareness among citizens about various types of cyber fraud and how to protect themselves?",
+    "options": ["Swachh Bharat Abhiyan", "Cyber Jagrookta Abhiyan", "Skill India", "Beti Bachao Beti Padhao"],
+    "correctAnswer": "Cyber Jagrookta Abhiyan"
   },
   {
     "id": 16,
-    "question": "Which initiative by the Andhra Pradesh government aims to provide quality education and digital literacy to rural students through virtual classrooms?",
-    "options": [
-      "AP Vidya Connect",
-      "Jagananna Smart Class",
-      "Digital Andhra Education",
-      "EduTech AP"
-    ],
-    "correctAnswer": "Jagananna Smart Class"
+    "question": "To prevent financial cyber fraud, what measure do banks in states like Telangana frequently advise their customers to take regarding their OTPs?",
+    "options": ["Share OTPs with bank staff", "Write OTPs down", "Never share OTPs with anyone", "Use same OTP for multiple transactions"],
+    "correctAnswer": "Never share OTPs with anyone"
   },
   {
     "id": 17,
-    "question": "Hyderabad's 'Genome Valley' is globally recognized as a leading hub for which specialized industry?",
-    "options": [
-      "Information Technology (IT)",
-      "Aerospace and Defense",
-      "Biotechnology and Pharmaceuticals",
-      "Automobile Manufacturing"
-    ],
-    "correctAnswer": "Biotechnology and Pharmaceuticals"
+    "question": "The Andhra Pradesh Cyber Crime Investigation Cell focuses on various online crimes. Which of the following is NOT typically classified as cyber fraud?",
+    "options": ["Online lottery scams", "Job offer scams", "Identity theft", "Road traffic violation"],
+    "correctAnswer": "Road traffic violation"
   },
   {
     "id": 18,
-    "question": "Which global tech giant recently announced a major expansion of its data center operations in Hyderabad, solidifying the city's tech prowess?",
-    "options": [
-      "Microsoft",
-      "Apple",
-      "Google",
-      "Amazon Web Services (AWS)"
-    ],
-    "correctAnswer": "Amazon Web Services (AWS)"
+    "question": "What role does the National Cybercrime Reporting Portal play for citizens in Telangana and Andhra Pradesh in reporting cyber fraud?",
+    "options": ["It's an information portal only", "It's a platform to lodge cybercrime complaints", "It offers legal advice", "It's only for central government employees"],
+    "correctAnswer": "It's a platform to lodge cybercrime complaints"
   },
   {
     "id": 19,
-    "question": "Andhra Pradesh aims to become a significant manufacturing hub for which specific segment within the electronics industry?",
-    "options": [
-      "Semiconductors",
-      "Mobile Phones",
-      "LED Components",
-      "Solar Panels"
-    ],
-    "correctAnswer": "Mobile Phones"
+    "question": "How do state police departments, including those in AP and Telangana, typically use technology to track and prevent large-scale cyber fraud operations?",
+    "options": ["Manual ledger entries", "Advanced data analytics and intelligence sharing", "Relying solely on victim reports", "Public announcements only"],
+    "correctAnswer": "Advanced data analytics and intelligence sharing"
   },
   {
     "id": 20,
-    "question": "The Andhra Pradesh government has been actively promoting the 'Aqua-culture Hub' concept, particularly in which region known for its extensive shrimp and fish farming?",
-    "options": [
-      "Konaseema",
-      "Krishna Delta",
-      "Nellore-Prakasam belt",
-      "Visakhapatnam coast"
-    ],
-    "correctAnswer": "Nellore-Prakasam belt"
+    "question": "Which of these is a common target for cybercriminals attempting to commit fraud, prompting warnings from state authorities in AP and Telangana?",
+    "options": ["Ancient monuments", "Public libraries", "Bank accounts and digital wallets", "Agricultural farms"],
+    "correctAnswer": "Bank accounts and digital wallets"
   },
   {
     "id": 21,
-    "question": "The 'Kanti Velugu' program in Telangana is a large-scale public health initiative primarily focused on providing which service?",
-    "options": [
-      "Free cancer screening",
-      "Universal eye screening and free spectacles",
-      "Diabetes management and awareness",
-      "Maternal and child health check-ups"
-    ],
-    "correctAnswer": "Universal eye screening and free spectacles"
+    "question": "In line with national discussions on legal reforms and women's safety, which state government (Telangana or Andhra Pradesh) has initiated programs aimed at enhancing women's safety and access to justice at the grassroots level, such as the 'SHE Teams'?",
+    "options": ["Telangana", "Kerala", "Punjab", "Rajasthan"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 22,
-    "question": "How many new government medical colleges were recently inaugurated in Telangana, significantly boosting the state's medical education infrastructure?",
-    "options": [
-      "5",
-      "9",
-      "13",
-      "17"
-    ],
-    "correctAnswer": "9"
+    "question": "Andhra Pradesh has a specific initiative to empower women and provide safety measures, notably through a voluntary group trained to assist in public safety and awareness, particularly for women. What is this group called?",
+    "options": ["Mahila Police", "Disha Volunteers", "Green Brigades", "Aarogyamitras"],
+    "correctAnswer": "Disha Volunteers"
   },
   {
     "id": 23,
-    "question": "The 'Nadu-Nedu' program launched by the Andhra Pradesh government is primarily focused on improving the infrastructure and facilities of which sector?",
-    "options": [
-      "Rural roads and connectivity",
-      "Public health hospitals",
-      "Government schools",
-      "Agricultural irrigation projects"
-    ],
-    "correctAnswer": "Government schools"
+    "question": "Hyderabad is known for its advanced surveillance and security infrastructure. What type of technology is extensively used by the Hyderabad City Police to create a 'multi-layered security grid'?",
+    "options": ["Drone surveillance", "CCTV cameras", "Biometric scanners", "Underground sensors"],
+    "correctAnswer": "CCTV cameras"
   },
   {
     "id": 24,
-    "question": "What is the main objective of the 'YSR Aarogyasri' scheme, a flagship health initiative in Andhra Pradesh?",
-    "options": [
-      "Providing free medicines for chronic diseases",
-      "Offering financial aid for medical students",
-      "Implementing universal health insurance coverage for the poor",
-      "Subsidizing healthy food for pregnant women"
-    ],
-    "correctAnswer": "Implementing universal health insurance coverage for the poor"
+    "question": "Andhra Pradesh has been developing its new capital region. What is a key component emphasized for the security and smart city development of such areas in the state?",
+    "options": ["High-security prisons", "Integrated command and control centers", "Exclusive VIP zones", "Traditional watchtowers"],
+    "correctAnswer": "Integrated command and control centers"
   },
   {
     "id": 25,
-    "question": "The new Secretariat building of Telangana, inaugurated recently, is officially named after which prominent Indian personality?",
-    "options": [
-      "Mahatma Gandhi",
-      "Dr. B.R. Ambedkar",
-      "P.V. Narasimha Rao",
-      "K. Chandrashekar Rao"
-    ],
-    "correctAnswer": "Dr. B.R. Ambedkar"
+    "question": "The Supreme Court often adjudicates on matters related to public administration and officer grievances. In Telangana and Andhra Pradesh, what system is in place for public servants to address service-related disputes and grievances?",
+    "options": ["District Courts", "High Court", "Administrative Tribunals", "Gram Sabhas"],
+    "correctAnswer": "Administrative Tribunals"
   }
 ]

@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which individual was identified as the Red Fort bomber whose original target was recently revealed to be Lal Mandir?",
-    "options": [
-      "Shahid Azmi",
-      "Umar-un-Nabi",
-      "Yasin Bhatkal",
-      "Dawood Ibrahim"
-    ],
-    "correctAnswer": "Umar-un-Nabi"
+    "question": "Which Indian state hosts the Satish Dhawan Space Centre (SHAR), a vital facility for ISRO?",
+    "options": ["Kerala", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "What was the initial target of the Red Fort bomber, Umar-un-Nabi, before it was redirected due to traffic and police constraints?",
-    "options": [
-      "India Gate",
-      "Lal Mandir",
-      "Jama Masjid",
-      "Qutub Minar"
-    ],
-    "correctAnswer": "Lal Mandir"
+    "question": "The Chandrayaan-2 orbiter, reported to be still active, was launched from which key ISRO facility located in Andhra Pradesh?",
+    "options": ["Vikram Sarabhai Space Centre", "Satish Dhawan Space Centre", "Liquid Propulsion Systems Centre", "ISRO Satellite Centre"],
+    "correctAnswer": "Satish Dhawan Space Centre"
   },
   {
     "id": 3,
-    "question": "Which monument was ultimately bombed by Umar-un-Nabi, after a change in plans from his original target?",
-    "options": [
-      "Gateway of India",
-      "Red Fort",
-      "Taj Mahal",
-      "Charminar"
-    ],
-    "correctAnswer": "Red Fort"
+    "question": "What is the full form of SHAR, the prominent ISRO launch complex situated in Andhra Pradesh?",
+    "options": ["Satellite Handling & Aerospace Research", "Space Hardware & Aerospace Reactor", "Satish Dhawan Space Centre", "Scientific High-Altitude Research"],
+    "correctAnswer": "Satish Dhawan Space Centre"
   },
   {
     "id": 4,
-    "question": "Which Chinese President is scheduled to visit India next month for the upcoming BRICS summit?",
-    "options": [
-      "Li Qiang",
-      "Wang Yi",
-      "Xi Jinping",
-      "Li Keqiang"
-    ],
-    "correctAnswer": "Xi Jinping"
+    "question": "The Satish Dhawan Space Centre in Andhra Pradesh is strategically located on which island?",
+    "options": ["Pamban Island", "Sriharikota Island", "Rameswaram Island", "Kavaratti Island"],
+    "correctAnswer": "Sriharikota Island"
   },
   {
     "id": 5,
-    "question": "For what international summit is Chinese President Xi Jinping set to visit India?",
-    "options": [
-      "G20 Summit",
-      "SCO Summit",
-      "BRICS summit",
-      "ASEAN Summit"
-    ],
-    "correctAnswer": "BRICS summit"
+    "question": "Adjacent to the Satish Dhawan Space Centre in Andhra Pradesh, which significant water body is located?",
+    "options": ["Arabian Sea", "Indian Ocean", "Bay of Bengal", "Gulf of Mannar"],
+    "correctAnswer": "Bay of Bengal"
   },
   {
     "id": 6,
-    "question": "The upcoming visit of Chinese President Xi Jinping to India is in the context of which international grouping?",
-    "options": [
-      "G7",
-      "NATO",
-      "BRICS",
-      "OPEC"
-    ],
-    "correctAnswer": "BRICS"
+    "question": "According to a senior Indian scientist, the Chandrayaan-2 orbiter is still active and contributing to what?",
+    "options": ["Martian exploration", "Future lunar missions", "Solar observations", "Deep-space communication"],
+    "correctAnswer": "Future lunar missions"
   },
   {
     "id": 7,
-    "question": "Which Indian state recently instituted a mandate for the singing of Vande Mataram during its state government events?",
-    "options": [
-      "Maharashtra",
-      "Kerala",
-      "Karnataka",
-      "Gujarat"
-    ],
-    "correctAnswer": "Karnataka"
+    "question": "PM Modi recently praised ISRO at a Paris summit for which specific characteristic of its space missions?",
+    "options": ["Their rapid launch frequency", "Their cost-effectiveness", "Their international collaborations", "Their astronaut training programs"],
+    "correctAnswer": "Their cost-effectiveness"
   },
   {
     "id": 8,
-    "question": "What national song has a state government recently mandated for singing during its official events?",
-    "options": [
-      "Jana Gana Mana",
-      "Sare Jahan Se Achha",
-      "Vande Mataram",
-      "Ae Mere Watan Ke Logon"
-    ],
-    "correctAnswer": "Vande Mataram"
+    "question": "Beyond Chandrayaan-2, which other significant lunar mission has ISRO successfully undertaken, preceding Chandrayaan-2?",
+    "options": ["Mangalyaan", "Chandrayaan-1", "Aditya-L1", "Gaganyaan"],
+    "correctAnswer": "Chandrayaan-1"
   },
   {
     "id": 9,
-    "question": "The mandate for singing Vande Mataram, as mentioned in the news, applies to what specific type of events?",
-    "options": [
-      "Private corporate events",
-      "Religious ceremonies",
-      "School functions",
-      "State government events"
-    ],
-    "correctAnswer": "State government events"
+    "question": "The continued functionality of the Chandrayaan-2 orbiter, as highlighted, demonstrates India's proficiency in which aspect of space technology?",
+    "options": ["Reusable rocket technology", "Long-duration mission management", "Human spaceflight", "Asteroid mining"],
+    "correctAnswer": "Long-duration mission management"
   },
   {
     "id": 10,
-    "question": "The news highlights Trump's strategies regarding which two electoral elements that resonate with India's election approaches?",
-    "options": [
-      "Campaign financing and social media outreach",
-      "Voter ID and dividends",
-      "Exit polls and candidate endorsements",
-      "Party manifestos and grassroots campaigning"
-    ],
-    "correctAnswer": "Voter ID and dividends"
+    "question": "What is a key type of rocket launched from the Satish Dhawan Space Centre in Andhra Pradesh for various ISRO missions?",
+    "options": ["Agni-V", "BrahMos", "PSLV and GSLV", "Akash"],
+    "correctAnswer": "PSLV and GSLV"
   },
   {
     "id": 11,
-    "question": "Which country's election strategies, particularly concerning voter ID and dividends, are noted to resonate with India's election approaches?",
-    "options": [
-      "United Kingdom",
-      "Canada",
-      "United States",
-      "Australia"
-    ],
-    "correctAnswer": "United States"
+    "question": "The global admiration ISRO has earned for its missions, implicitly benefits all Indian states, including Telangana and AP, through advancements in what?",
+    "options": ["Agricultural subsidies", "Satellite communication and remote sensing", "Road infrastructure", "Tourism promotion"],
+    "correctAnswer": "Satellite communication and remote sensing"
   },
   {
     "id": 12,
-    "question": "Which judicial body made remarks about not being able to 'browbeat a child' in a recent case concerning an intimidation complaint?",
-    "options": [
-      "Delhi High Court",
-      "Supreme Court of India",
-      "National Human Rights Commission",
-      "Bombay High Court"
-    ],
-    "correctAnswer": "Supreme Court of India"
+    "question": "What kind of scientific data can the Chandrayaan-2 orbiter, still functioning, provide that is valuable for future lunar explorations?",
+    "options": ["Data on lunar meteor showers", "High-resolution images and spectral data of the moon", "Information on solar flares", "Data on exoplanet atmospheres"],
+    "correctAnswer": "High-resolution images and spectral data of the moon"
   },
   {
     "id": 13,
-    "question": "The Supreme Court's recent observation pertained to a complaint of intimidation against an 'influencer' made by whom?",
-    "options": [
-      "A journalist",
-      "A CJP protester",
-      "A political activist",
-      "A minor witness"
-    ],
-    "correctAnswer": "A CJP protester"
+    "question": "The success of ISRO's cost-effective missions, partly launched from Andhra Pradesh, places India as a significant player in which global market?",
+    "options": ["Defense equipment", "Space launch services", "Pharmaceutical manufacturing", "Automotive industry"],
+    "correctAnswer": "Space launch services"
   },
   {
     "id": 14,
-    "question": "What phrase did the Supreme Court use in relation to the intimidation complaint against an 'influencer' by a CJP protester, indicating protection for the complainant?",
-    "options": [
-      "'Justice must prevail'",
-      "'Can't browbeat child'",
-      "'Upholding fundamental rights'",
-      "'Rule of law is paramount'"
-    ],
-    "correctAnswer": "'Can't browbeat child'"
+    "question": "What is the primary objective of lunar missions like Chandrayaan, undertaken by ISRO?",
+    "options": ["Establishing a permanent human settlement", "Scientific study of the Moon's surface and environment", "Extracting lunar resources", "Developing new rocket fuels"],
+    "correctAnswer": "Scientific study of the Moon's surface and environment"
   },
   {
     "id": 15,
-    "question": "Which two major Indian political parties are noted for engaging in an AI-generated 80s meme war on social media?",
-    "options": [
-      "Aam Aadmi Party and Trinamool Congress",
-      "Bahujan Samaj Party and Samajwadi Party",
-      "BJP and Congress",
-      "DMK and AIADMK"
-    ],
-    "correctAnswer": "BJP and Congress"
+    "question": "Hyderabad, a major scientific hub in Telangana, could indirectly contribute to the advancements needed for ISRO's missions through its strengths in which sector?",
+    "options": ["Traditional textiles", "Information Technology and R&D", "Dairy farming", "Mining operations"],
+    "correctAnswer": "Information Technology and R&D"
   },
   {
     "id": 16,
-    "question": "The recent social media phenomenon involving political satire by BJP and Congress utilizes what technology to reimagine images as 1980s portraits?",
-    "options": [
-      "Virtual Reality",
-      "Augmented Reality",
-      "AI technology",
-      "Blockchain"
-    ],
-    "correctAnswer": "AI technology"
+    "question": "Which Indian judicial body recently urged the Central government to lower cut-off marks for super-specialty medical seats?",
+    "options": ["High Court of Telangana", "High Court of Andhra Pradesh", "Supreme Court of India", "National Green Tribunal"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 17,
-    "question": "Which specific era's portraits are politicians reimagining their current images as, using AI technology for political satire on social media?",
-    "options": [
-      "1960s",
-      "1970s",
-      "1980s",
-      "1990s"
-    ],
-    "correctAnswer": "1980s"
+    "question": "The Supreme Court's primary reason for advocating a reduction in super-specialty medical cut-offs was to prevent what outcome?",
+    "options": ["Increased competition among students", "Super-specialty seats remaining vacant", "Migration of doctors abroad", "Reduction in medical college quality"],
+    "correctAnswer": "Super-specialty seats remaining vacant"
   },
   {
     "id": 18,
-    "question": "Besides Rahul Gandhi, which prominent leaders were mentioned as participating in the retro AI trend for political satire?",
-    "options": [
-      "Arvind Kejriwal and Mamata Banerjee",
-      "Piyush Goyal and Kiren Rijiju",
-      "Narendra Modi and Amit Shah",
-      "Akhilesh Yadav and Mayawati"
-    ],
-    "correctAnswer": "Piyush Goyal and Kiren Rijiju"
+    "question": "How would a decision to reduce cut-offs for super-specialty medical seats directly impact medical aspirants from Telangana and Andhra Pradesh?",
+    "options": ["It would make admissions more difficult", "It would increase their opportunities for securing a seat", "It would limit their choice of specialization", "It would only affect private college admissions"],
+    "correctAnswer": "It would increase their opportunities for securing a seat"
   },
   {
     "id": 19,
-    "question": "According to Niti Aayog member Gauba, which entities are expected to drive the next phase of India's deregulation?",
-    "options": [
-      "Private corporations and NGOs",
-      "Central ministries and departments",
-      "States and municipalities",
-      "International organizations and foreign investors"
-    ],
-    "correctAnswer": "States and municipalities"
+    "question": "What specific type of medical education seats are the focus of the Supreme Court's recent directive?",
+    "options": ["Undergraduate MBBS seats", "Postgraduate MD/MS seats", "Super-specialty medical seats", "Diploma courses in medicine"],
+    "correctAnswer": "Super-specialty medical seats"
   },
   {
     "id": 20,
-    "question": "Who is the Niti Aayog member quoted stating that states and municipalities will drive India's next phase of deregulation?",
-    "options": [
-      "Arvind Panagariya",
-      "V.K. Saraswat",
-      "Rajiv Kumar",
-      "Gauba"
-    ],
-    "correctAnswer": "Gauba"
+    "question": "The National Medical Commission (NMC) is typically involved in setting guidelines for medical admissions. What role would it play following the Supreme Court's directive for super-specialty seats?",
+    "options": ["Ignoring the directive", "Implementing the revised cut-off policies", "Increasing tuition fees", "Reducing the number of seats"],
+    "correctAnswer": "Implementing the revised cut-off policies"
   },
   {
     "id": 21,
-    "question": "What economic process is envisioned to be primarily driven by states and municipalities in its next phase, according to Niti Aayog?",
-    "options": [
-      "Nationalization",
-      "Centralization",
-      "Deregulation",
-      "Monopolization"
-    ],
-    "correctAnswer": "Deregulation"
+    "question": "What is a major consequence for the healthcare system in states like Telangana and Andhra Pradesh if super-specialty medical seats continue to go waste?",
+    "options": ["Surplus of general physicians", "Shortage of highly specialized medical professionals", "Improved rural healthcare", "Lower healthcare costs"],
+    "correctAnswer": "Shortage of highly specialized medical professionals"
   },
   {
     "id": 22,
-    "question": "Niti Aayog, whose member Gauba commented on deregulation, is India's premier think tank. What does NITI stand for?",
-    "options": [
-      "National Institute for Technology and Innovation",
-      "National Institution for Transforming India",
-      "New Indian Think-tank Initiative",
-      "National Integrated Transformation Institute"
-    ],
-    "correctAnswer": "National Institution for Transforming India"
+    "question": "The Supreme Court's intervention on medical cut-offs aims to optimize the utilization of India's capacity for what?",
+    "options": ["General medical practice", "Medical tourism", "Advanced medical training and specialization", "Basic healthcare research"],
+    "correctAnswer": "Advanced medical training and specialization"
   },
   {
     "id": 23,
-    "question": "Which Indian entity is set to receive key systems worth €5m from Safran for enhancing its space-based surveillance capabilities?",
-    "options": [
-      "ISRO",
-      "DRDO",
-      "Dhruva",
-      "HAL"
-    ],
-    "correctAnswer": "Dhruva"
+    "question": "In the context of medical education, what does 'super-specialty' refer to?",
+    "options": ["Undergraduate medical degrees", "Master's level degrees in non-clinical subjects", "Highly specialized fields of medicine pursued after a postgraduate degree (MD/MS)", "Short-term medical certification courses"],
+    "correctAnswer": "Highly specialized fields of medicine pursued after a postgraduate degree (MD/MS)"
   },
   {
     "id": 24,
-    "question": "From which European company is Dhruva set to acquire key systems worth €5m for its space-based surveillance initiatives?",
-    "options": [
-      "Airbus",
-      "Thales",
-      "Safran",
-      "Leonardo"
-    ],
-    "correctAnswer": "Safran"
+    "question": "The potential increase in the number of super-specialists due to lower cut-offs could particularly benefit which sector in Telangana and Andhra Pradesh?",
+    "options": ["Primary education", "Tertiary healthcare services", "Agriculture sector", "Manufacturing industries"],
+    "correctAnswer": "Tertiary healthcare services"
   },
   {
     "id": 25,
-    "question": "What specific type of surveillance is Dhruva enhancing with key systems worth €5m acquired from Safran?",
-    "options": [
-      "Underwater surveillance",
-      "Terrestrial surveillance",
-      "Aerial surveillance",
-      "Space-based surveillance"
-    ],
-    "correctAnswer": "Space-based surveillance"
+    "question": "The Supreme Court's directive on super-specialty medical seats underscores the importance of addressing the gap between available training infrastructure and the demand for what?",
+    "options": ["Medical researchers", "Trained medical personnel", "Medical equipment", "Medical college faculty"],
+    "correctAnswer": "Trained medical personnel"
   }
 ]

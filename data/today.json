@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which state in India has taken significant strides in e-governance initiatives, aiming to make government services more user-friendly for its citizens, aligning with recent national emphasis?",
-    "options": ["Telangana", "Karnataka", "Gujarat", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "The allegation of a family regarding the forced cremation of Gulzar Singh's body without consent raises concerns primarily about the violation of which fundamental right?",
+    "options": ["Right to freedom of speech", "Right to property", "Right to dignity in death", "Right to education"],
+    "correctAnswer": "Right to dignity in death"
   },
   {
     "id": 2,
-    "question": "The concept of user-friendly government websites aligns with which flagship program of the Telangana government that provides integrated citizen services?",
-    "options": ["Rythu Bandhu", "MeeSeva", "Kanti Velugu", "Mission Bhagiratha"],
-    "correctAnswer": "MeeSeva"
+    "question": "If an incident of alleged forced cremation by government authorities were to occur in an Indian state, which of the following institutions would typically be responsible for investigating and ensuring justice for the family?",
+    "options": ["Reserve Bank of India", "Election Commission of India", "State Human Rights Commission", "Archaeological Survey of India"],
+    "correctAnswer": "State Human Rights Commission"
   },
   {
     "id": 3,
-    "question": "Andhra Pradesh has also focused on digital service delivery. What is the name of a comprehensive citizen service portal frequently used by residents of Andhra Pradesh?",
-    "options": ["MeeBhoomi", "AP Seva Portal", "Jagananna Vidya Deevena Portal", "YSR Rythu Bharosa Portal"],
-    "correctAnswer": "AP Seva Portal"
+    "question": "The news report concerning Gulzar Singh's family highlights a dispute over the last rites. In India, matters related to funeral rites and personal laws are primarily governed by:",
+    "options": ["Central Motor Vehicles Act", "Specific personal laws (e.g., Hindu, Muslim)", "Wildlife Protection Act", "Indian Forest Act"],
+    "correctAnswer": "Specific personal laws (e.g., Hindu, Muslim)"
   },
   {
     "id": 4,
-    "question": "To enhance user experience on government portals, what is a key feature being increasingly integrated, as suggested by national guidelines and implemented in states like Telangana?",
-    "options": ["Biometric authentication", "AI-powered chatbots", "Offline access", "Mandatory VPN usage"],
-    "correctAnswer": "AI-powered chatbots"
+    "question": "M.K. Stalin, a prominent Indian political leader, recently recalled his experiences during the Emergency period in India. During which years was the Emergency officially declared in India?",
+    "options": ["1965-1967", "1975-1977", "1980-1982", "1991-1993"],
+    "correctAnswer": "1975-1977"
   },
   {
     "id": 5,
-    "question": "Which department in Telangana is primarily responsible for the development and maintenance of user-friendly government websites and digital services?",
-    "options": ["Department of Finance", "Department of Education", "Department of IT, Electronics & Communications", "Department of Health"],
-    "correctAnswer": "Department of IT, Electronics & Communications"
+    "question": "The 'Emergency-era' in India, as referenced by M.K. Stalin, is primarily associated with which Prime Minister?",
+    "options": ["Jawaharlal Nehru", "Indira Gandhi", "Morarji Desai", "Rajiv Gandhi"],
+    "correctAnswer": "Indira Gandhi"
   },
   {
     "id": 6,
-    "question": "Andhra Pradesh introduced a 'Village Secretariat' system to bring government services closer to people. This initiative directly supports the goal of:",
-    "options": ["Centralizing administration", "Increasing public debt", "Enhancing user-friendliness of government services", "Promoting tourism"],
-    "correctAnswer": "Enhancing user-friendliness of government services"
+    "question": "The term 'turncoats' in Indian politics refers to politicians who frequently:",
+    "options": ["Introduce new legislation", "Change political parties", "Lead public protests", "Serve multiple terms"],
+    "correctAnswer": "Change political parties"
   },
   {
     "id": 7,
-    "question": "What is the significance of the 'Digital India' initiative in the context of state governments like Telangana and Andhra Pradesh making their websites user-friendly?",
-    "options": ["It mandates specific software", "It provides funding and a national framework for digital transformation", "It limits online services", "It only applies to central government"],
-    "correctAnswer": "It provides funding and a national framework for digital transformation"
+    "question": "Bypolls in India are typically held to fill vacancies arising due to:",
+    "options": ["Scheduled general elections", "Resignation, death, or disqualification of a sitting member", "Mid-term census", "International events"],
+    "correctAnswer": "Resignation, death, or disqualification of a sitting member"
   },
   {
     "id": 8,
-    "question": "Which e-governance project in Telangana focuses on land records and aims to provide transparent and user-friendly access to land-related information?",
-    "options": ["Dharani Portal", "Palle Pragathi", "Kanti Velugu", "Telangana Ku Haritha Haram"],
-    "correctAnswer": "Dharani Portal"
+    "question": "Which Indian constitutional amendment specifically addresses anti-defection law to prevent 'turncoat' politics?",
+    "options": ["42nd Amendment", "52nd Amendment", "73rd Amendment", "86th Amendment"],
+    "correctAnswer": "52nd Amendment"
   },
   {
     "id": 9,
-    "question": "To ensure government sites are accessible to all, including those with disabilities, what standard is often recommended for compliance in states like Andhra Pradesh?",
-    "options": ["WCAG (Web Content Accessibility Guidelines)", "ISO 9001", "GDPR", "HIPAA"],
-    "correctAnswer": "WCAG (Web Content Accessibility Guidelines)"
+    "question": "The Supreme Court recently rejected Abu Salem's plea for early release. He was convicted for his involvement in which major event?",
+    "options": ["26/11 Mumbai attacks", "1993 Mumbai serial blasts", "Parliament attack 2001", "Babri Masjid demolition"],
+    "correctAnswer": "1993 Mumbai serial blasts"
   },
   {
     "id": 10,
-    "question": "The emphasis on user-friendly government sites also implies a focus on mobile accessibility. Which mobile app from Telangana aggregates various government services for easy access?",
-    "options": ["TS-MeeSeva", "T-App Folio", "Apatbandhu", "e-Panchayat"],
-    "correctAnswer": "T-App Folio"
+    "question": "From which country was Abu Salem extradited to India in November 2005?",
+    "options": ["UAE", "Pakistan", "Portugal", "USA"],
+    "correctAnswer": "Portugal"
   },
   {
     "id": 11,
-    "question": "Which major city in Telangana is often recognized as a significant hub for cybersecurity expertise and has robust initiatives to combat cyber fraud?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "The Bombay High Court's decision, reaffirmed by the Supreme Court in Abu Salem's case, determined his request for early release was:",
+    "options": ["Legally binding", "Premature", "Justified", "Outside its jurisdiction"],
+    "correctAnswer": "Premature"
   },
   {
     "id": 12,
-    "question": "The Telangana State Police has a dedicated unit for combating cybercrime. What is its common designation?",
-    "options": ["Economic Offence Wing", "Cyber Crime Police Station", "Anti-Terrorist Squad", "Narcotics Control Bureau"],
-    "correctAnswer": "Cyber Crime Police Station"
+    "question": "Abu Salem's incarceration for the 1993 Mumbai serial blasts falls under the jurisdiction of which Indian state?",
+    "options": ["Uttar Pradesh", "Gujarat", "Maharashtra", "Delhi"],
+    "correctAnswer": "Maharashtra"
   },
   {
     "id": 13,
-    "question": "Andhra Pradesh has also bolstered its cybercrime prevention. What is the general helpline number promoted by state police for reporting cyber fraud incidents across India, including AP and Telangana?",
-    "options": ["100", "108", "112", "1930"],
-    "correctAnswer": "1930"
+    "question": "'Vande Mataram', a significant national song in India, was composed by which literary figure?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Muhammad Iqbal", "Sarojini Naidu"],
+    "correctAnswer": "Bankim Chandra Chattopadhyay"
   },
   {
     "id": 14,
-    "question": "What type of cyber fraud involves deceiving individuals into revealing personal information through fake websites or emails, a common target for prevention efforts in states like AP and Telangana?",
-    "options": ["DDoS attack", "Phishing", "Ransomware", "Malware injection"],
-    "correctAnswer": "Phishing"
+    "question": "The National Conference (NC), a political party mentioned in the context of a rift with Congress, primarily operates in which Indian region?",
+    "options": ["Punjab", "Jammu & Kashmir", "Himachal Pradesh", "Uttarakhand"],
+    "correctAnswer": "Jammu & Kashmir"
   },
   {
     "id": 15,
-    "question": "Which initiative by the government, supported by state police forces, aims to create awareness among citizens about various types of cyber fraud and how to protect themselves?",
-    "options": ["Swachh Bharat Abhiyan", "Cyber Jagrookta Abhiyan", "Skill India", "Beti Bachao Beti Padhao"],
-    "correctAnswer": "Cyber Jagrookta Abhiyan"
+    "question": "The news mentions 'statehood and Article 370 challenges'. Article 370 of the Indian Constitution was historically linked to which state/region?",
+    "options": ["Goa", "Nagaland", "Jammu & Kashmir", "Sikkim"],
+    "correctAnswer": "Jammu & Kashmir"
   },
   {
     "id": 16,
-    "question": "To prevent financial cyber fraud, what measure do banks in states like Telangana frequently advise their customers to take regarding their OTPs?",
-    "options": ["Share OTPs with bank staff", "Write OTPs down", "Never share OTPs with anyone", "Use same OTP for multiple transactions"],
-    "correctAnswer": "Never share OTPs with anyone"
+    "question": "Which former Union Minister and Congress leader recently raised questions about the tangible benefits of Brics summits for India?",
+    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "P. Chidambaram", "Shashi Tharoor"],
+    "correctAnswer": "P. Chidambaram"
   },
   {
     "id": 17,
-    "question": "The Andhra Pradesh Cyber Crime Investigation Cell focuses on various online crimes. Which of the following is NOT typically classified as cyber fraud?",
-    "options": ["Online lottery scams", "Job offer scams", "Identity theft", "Road traffic violation"],
-    "correctAnswer": "Road traffic violation"
+    "question": "India is set to host the Brics Summit in 2026. What does the 'S' in BRICS typically represent?",
+    "options": ["Spain", "Sweden", "South Africa", "Switzerland"],
+    "correctAnswer": "South Africa"
   },
   {
     "id": 18,
-    "question": "What role does the National Cybercrime Reporting Portal play for citizens in Telangana and Andhra Pradesh in reporting cyber fraud?",
-    "options": ["It's an information portal only", "It's a platform to lodge cybercrime complaints", "It offers legal advice", "It's only for central government employees"],
-    "correctAnswer": "It's a platform to lodge cybercrime complaints"
+    "question": "Which Indian city is mentioned as the host for the Brics Summit 2026?",
+    "options": ["Bengaluru", "Mumbai", "Chennai", "Delhi"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 19,
-    "question": "How do state police departments, including those in AP and Telangana, typically use technology to track and prevent large-scale cyber fraud operations?",
-    "options": ["Manual ledger entries", "Advanced data analytics and intelligence sharing", "Relying solely on victim reports", "Public announcements only"],
-    "correctAnswer": "Advanced data analytics and intelligence sharing"
+    "question": "P. Chidambaram's comments highlighted India's participation in several major international groupings. Which of the following is NOT one of the original five BRICS member countries?",
+    "options": ["Russia", "China", "India", "Turkey"],
+    "correctAnswer": "Turkey"
   },
   {
     "id": 20,
-    "question": "Which of these is a common target for cybercriminals attempting to commit fraud, prompting warnings from state authorities in AP and Telangana?",
-    "options": ["Ancient monuments", "Public libraries", "Bank accounts and digital wallets", "Agricultural farms"],
-    "correctAnswer": "Bank accounts and digital wallets"
+    "question": "Nandan Nilekani is the co-founder and chairman of which prominent Indian IT company?",
+    "options": ["TCS", "Wipro", "HCLTech", "Infosys"],
+    "correctAnswer": "Infosys"
   },
   {
     "id": 21,
-    "question": "In line with national discussions on legal reforms and women's safety, which state government (Telangana or Andhra Pradesh) has initiated programs aimed at enhancing women's safety and access to justice at the grassroots level, such as the 'SHE Teams'?",
-    "options": ["Telangana", "Kerala", "Punjab", "Rajasthan"],
-    "correctAnswer": "Telangana"
+    "question": "Nandan Nilekani was the founding chairman of which authority responsible for issuing Aadhaar cards in India?",
+    "options": ["SEBI", "UIDAI", "IRDAI", "TRAI"],
+    "correctAnswer": "UIDAI"
   },
   {
     "id": 22,
-    "question": "Andhra Pradesh has a specific initiative to empower women and provide safety measures, notably through a voluntary group trained to assist in public safety and awareness, particularly for women. What is this group called?",
-    "options": ["Mahila Police", "Disha Volunteers", "Green Brigades", "Aarogyamitras"],
-    "correctAnswer": "Disha Volunteers"
+    "question": "From 2009 to 2014, Nandan Nilekani held the rank of a Cabinet minister in the Congress-led central government while serving as the chairman of UIDAI. What was his primary responsibility during this period?",
+    "options": ["Minister of Finance", "Chairman of Unique Identification Authority of India", "Minister of Railways", "Minister of Defence"],
+    "correctAnswer": "Chairman of Unique Identification Authority of India"
   },
   {
     "id": 23,
-    "question": "Hyderabad is known for its advanced surveillance and security infrastructure. What type of technology is extensively used by the Hyderabad City Police to create a 'multi-layered security grid'?",
-    "options": ["Drone surveillance", "CCTV cameras", "Biometric scanners", "Underground sensors"],
-    "correctAnswer": "CCTV cameras"
+    "question": "Nandan Nilekani was appointed co-chair of a G20 Task Force in January 2023 focusing on what key area?",
+    "options": ["Global Climate Change Policy", "Digital Public Infrastructure for Economic Transformation", "International Trade Agreements", "Space Exploration and Research"],
+    "correctAnswer": "Digital Public Infrastructure for Economic Transformation"
   },
   {
     "id": 24,
-    "question": "Andhra Pradesh has been developing its new capital region. What is a key component emphasized for the security and smart city development of such areas in the state?",
-    "options": ["High-security prisons", "Integrated command and control centers", "Exclusive VIP zones", "Traditional watchtowers"],
-    "correctAnswer": "Integrated command and control centers"
+    "question": "Vijay Mallya, who is currently living in London, is famously associated with which now-defunct Indian airline?",
+    "options": ["Jet Airways", "Air Deccan", "SpiceJet", "Kingfisher Airlines"],
+    "correctAnswer": "Kingfisher Airlines"
   },
   {
     "id": 25,
-    "question": "The Supreme Court often adjudicates on matters related to public administration and officer grievances. In Telangana and Andhra Pradesh, what system is in place for public servants to address service-related disputes and grievances?",
-    "options": ["District Courts", "High Court", "Administrative Tribunals", "Gram Sabhas"],
-    "correctAnswer": "Administrative Tribunals"
+    "question": "The Enforcement Directorate (ED), an Indian agency, filed an affidavit in the Bombay High Court concerning Vijay Mallya's case. The ED primarily deals with which type of offenses?",
+    "options": ["Environmental pollution", "Financial crimes and money laundering", "Cyber security breaches", "Goods and Services Tax evasion"],
+    "correctAnswer": "Financial crimes and money laundering"
   }
 ]

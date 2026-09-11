@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian state hosts the Satish Dhawan Space Centre (SHAR), a vital facility for ISRO?",
-    "options": ["Kerala", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Which political party recently taunted the Centre over an alleged delay in Parliament prorogation?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Trinamool Congress (TMC)", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 2,
-    "question": "The Chandrayaan-2 orbiter, reported to be still active, was launched from which key ISRO facility located in Andhra Pradesh?",
-    "options": ["Vikram Sarabhai Space Centre", "Satish Dhawan Space Centre", "Liquid Propulsion Systems Centre", "ISRO Satellite Centre"],
-    "correctAnswer": "Satish Dhawan Space Centre"
+    "question": "According to the Congress, what was the alleged motive behind the Centre's delay in Parliament prorogation?",
+    "options": ["To facilitate urgent legislative reforms", "To allow more time for debate on key bills", "To plot a 'super-tainted majority'", "To prepare for an upcoming international summit"],
+    "correctAnswer": "To plot a 'super-tainted majority'"
   },
   {
     "id": 3,
-    "question": "What is the full form of SHAR, the prominent ISRO launch complex situated in Andhra Pradesh?",
-    "options": ["Satellite Handling & Aerospace Research", "Space Hardware & Aerospace Reactor", "Satish Dhawan Space Centre", "Scientific High-Altitude Research"],
-    "correctAnswer": "Satish Dhawan Space Centre"
+    "question": "What is the term for formally ending a session of Parliament without dissolving it, as mentioned in the news context?",
+    "options": ["Adjournment", "Dissolution", "Prorogation", "Conferment"],
+    "correctAnswer": "Prorogation"
   },
   {
     "id": 4,
-    "question": "The Satish Dhawan Space Centre in Andhra Pradesh is strategically located on which island?",
-    "options": ["Pamban Island", "Sriharikota Island", "Rameswaram Island", "Kavaratti Island"],
-    "correctAnswer": "Sriharikota Island"
+    "question": "The recent news highlights a political controversy surrounding the prorogation of which Indian legislative body?",
+    "options": ["State Assemblies", "Rajya Sabha", "Lok Sabha", "Parliament"],
+    "correctAnswer": "Parliament"
   },
   {
     "id": 5,
-    "question": "Adjacent to the Satish Dhawan Space Centre in Andhra Pradesh, which significant water body is located?",
-    "options": ["Arabian Sea", "Indian Ocean", "Bay of Bengal", "Gulf of Mannar"],
-    "correctAnswer": "Bay of Bengal"
+    "question": "Who advised the Indian government to prioritize national interest and keep BRICS 'non-West'?",
+    "options": ["Nitin Nabin", "Shashi Tharoor", "Prashant Kishor", "Pushkar Singh Dhami"],
+    "correctAnswer": "Shashi Tharoor"
   },
   {
     "id": 6,
-    "question": "According to a senior Indian scientist, the Chandrayaan-2 orbiter is still active and contributing to what?",
-    "options": ["Martian exploration", "Future lunar missions", "Solar observations", "Deep-space communication"],
-    "correctAnswer": "Future lunar missions"
+    "question": "In which year is India set to assume the chair of BRICS?",
+    "options": ["2024", "2025", "2026", "2027"],
+    "correctAnswer": "2026"
   },
   {
     "id": 7,
-    "question": "PM Modi recently praised ISRO at a Paris summit for which specific characteristic of its space missions?",
-    "options": ["Their rapid launch frequency", "Their cost-effectiveness", "Their international collaborations", "Their astronaut training programs"],
-    "correctAnswer": "Their cost-effectiveness"
+    "question": "Which specific BRICS summit number will India host in New Delhi as the chair in 2026?",
+    "options": ["16th", "17th", "18th", "19th"],
+    "correctAnswer": "18th"
   },
   {
     "id": 8,
-    "question": "Beyond Chandrayaan-2, which other significant lunar mission has ISRO successfully undertaken, preceding Chandrayaan-2?",
-    "options": ["Mangalyaan", "Chandrayaan-1", "Aditya-L1", "Gaganyaan"],
-    "correctAnswer": "Chandrayaan-1"
+    "question": "In which city will India host the 18th BRICS summit?",
+    "options": ["Mumbai", "Bengaluru", "New Delhi", "Chennai"],
+    "correctAnswer": "New Delhi"
   },
   {
     "id": 9,
-    "question": "The continued functionality of the Chandrayaan-2 orbiter, as highlighted, demonstrates India's proficiency in which aspect of space technology?",
-    "options": ["Reusable rocket technology", "Long-duration mission management", "Human spaceflight", "Asteroid mining"],
-    "correctAnswer": "Long-duration mission management"
+    "question": "What are the scheduled dates for the 18th BRICS summit to be hosted by India?",
+    "options": ["August 10 and 11", "September 12 and 13", "October 5 and 6", "November 20 and 21"],
+    "correctAnswer": "September 12 and 13"
   },
   {
     "id": 10,
-    "question": "What is a key type of rocket launched from the Satish Dhawan Space Centre in Andhra Pradesh for various ISRO missions?",
-    "options": ["Agni-V", "BrahMos", "PSLV and GSLV", "Akash"],
-    "correctAnswer": "PSLV and GSLV"
+    "question": "According to the MEA statement, what is a key expected discussion point at the BRICS summit regarding cooperation?",
+    "options": ["Bilateral trade agreements", "Strengthening intra-BRICS cooperation on common priorities", "Expanding military alliances", "Resolving regional border disputes"],
+    "correctAnswer": "Strengthening intra-BRICS cooperation on common priorities"
   },
   {
     "id": 11,
-    "question": "The global admiration ISRO has earned for its missions, implicitly benefits all Indian states, including Telangana and AP, through advancements in what?",
-    "options": ["Agricultural subsidies", "Satellite communication and remote sensing", "Road infrastructure", "Tourism promotion"],
-    "correctAnswer": "Satellite communication and remote sensing"
+    "question": "Besides internal cooperation, what other discussions are expected at the BRICS summit?",
+    "options": ["Exchange views on global and regional issues of mutual importance", "Formation of a new currency bloc", "Sports and cultural exchange programs", "Specific technology transfer agreements"],
+    "correctAnswer": "Exchange views on global and regional issues of mutual importance"
   },
   {
     "id": 12,
-    "question": "What kind of scientific data can the Chandrayaan-2 orbiter, still functioning, provide that is valuable for future lunar explorations?",
-    "options": ["Data on lunar meteor showers", "High-resolution images and spectral data of the moon", "Information on solar flares", "Data on exoplanet atmospheres"],
-    "correctAnswer": "High-resolution images and spectral data of the moon"
+    "question": "What was Prime Minister Modi's message ahead of the BRICS summit, reflecting a core aspiration?",
+    "options": ["'Commitment to economic dominance'", "'Shared aspiration for global well-being'", "'Prioritizing national security'", "'Promoting regional isolation'"],
+    "correctAnswer": "'Shared aspiration for global well-being'"
   },
   {
     "id": 13,
-    "question": "The success of ISRO's cost-effective missions, partly launched from Andhra Pradesh, places India as a significant player in which global market?",
-    "options": ["Defense equipment", "Space launch services", "Pharmaceutical manufacturing", "Automotive industry"],
-    "correctAnswer": "Space launch services"
+    "question": "The BRICS summit hosted by India is expected to bring together leaders from which groups?",
+    "options": ["Only BRICS member countries", "BRICS member and partner countries, as well as outreach invitees", "G7 and BRICS nations", "African Union member states"],
+    "correctAnswer": "BRICS member and partner countries, as well as outreach invitees"
   },
   {
     "id": 14,
-    "question": "What is the primary objective of lunar missions like Chandrayaan, undertaken by ISRO?",
-    "options": ["Establishing a permanent human settlement", "Scientific study of the Moon's surface and environment", "Extracting lunar resources", "Developing new rocket fuels"],
-    "correctAnswer": "Scientific study of the Moon's surface and environment"
+    "question": "The BRICS summit is taking place in Delhi amidst what global conditions, as per the news?",
+    "options": ["Periods of economic boom", "Reduced international cooperation", "Global tensions", "Significant climate change agreements"],
+    "correctAnswer": "Global tensions"
   },
   {
     "id": 15,
-    "question": "Hyderabad, a major scientific hub in Telangana, could indirectly contribute to the advancements needed for ISRO's missions through its strengths in which sector?",
-    "options": ["Traditional textiles", "Information Technology and R&D", "Dairy farming", "Mining operations"],
-    "correctAnswer": "Information Technology and R&D"
+    "question": "What is the primary focus of Shashi Tharoor's advice to the Indian government regarding BRICS?",
+    "options": ["Increasing military strength", "Prioritizing national interest", "Securing permanent UNSC seat", "Expanding BRICS membership rapidly"],
+    "correctAnswer": "Prioritizing national interest"
   },
   {
     "id": 16,
-    "question": "Which Indian judicial body recently urged the Central government to lower cut-off marks for super-specialty medical seats?",
-    "options": ["High Court of Telangana", "High Court of Andhra Pradesh", "Supreme Court of India", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "Which agency recently conducted raids in an alleged Rs 132-crore bank fraud case involving Ramnandi Hotels?",
+    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Income Tax Department (ITD)"],
+    "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 17,
-    "question": "The Supreme Court's primary reason for advocating a reduction in super-specialty medical cut-offs was to prevent what outcome?",
-    "options": ["Increased competition among students", "Super-specialty seats remaining vacant", "Migration of doctors abroad", "Reduction in medical college quality"],
-    "correctAnswer": "Super-specialty seats remaining vacant"
+    "question": "What is the name of the hotel company accused in the alleged Rs 132-crore bank fraud case?",
+    "options": ["Royal Grand Hotels", "Sunrise Resorts Pvt Ltd", "Ramnandi Hotels and Resorts Ltd", "Luxury Stay Hospitality"],
+    "correctAnswer": "Ramnandi Hotels and Resorts Ltd"
   },
   {
     "id": 18,
-    "question": "How would a decision to reduce cut-offs for super-specialty medical seats directly impact medical aspirants from Telangana and Andhra Pradesh?",
-    "options": ["It would make admissions more difficult", "It would increase their opportunities for securing a seat", "It would limit their choice of specialization", "It would only affect private college admissions"],
-    "correctAnswer": "It would increase their opportunities for securing a seat"
+    "question": "How many locations were searched by the Enforcement Directorate in connection with the alleged bank fraud case?",
+    "options": ["5 locations", "7 locations", "9 locations", "12 locations"],
+    "correctAnswer": "9 locations"
   },
   {
     "id": 19,
-    "question": "What specific type of medical education seats are the focus of the Supreme Court's recent directive?",
-    "options": ["Undergraduate MBBS seats", "Postgraduate MD/MS seats", "Super-specialty medical seats", "Diploma courses in medicine"],
-    "correctAnswer": "Super-specialty medical seats"
+    "question": "What was the alleged amount diverted from bank loans by Ramnandi Hotels and Resorts Ltd?",
+    "options": ["Rs 58 crore", "Rs 75 crore", "Rs 90 crore", "Rs 132 crore"],
+    "correctAnswer": "Rs 58 crore"
   },
   {
     "id": 20,
-    "question": "The National Medical Commission (NMC) is typically involved in setting guidelines for medical admissions. What role would it play following the Supreme Court's directive for super-specialty seats?",
-    "options": ["Ignoring the directive", "Implementing the revised cut-off policies", "Increasing tuition fees", "Reducing the number of seats"],
-    "correctAnswer": "Implementing the revised cut-off policies"
+    "question": "What methods were allegedly used by Ramnandi Hotels to secure funds in the bank fraud case?",
+    "options": ["Influencing bank officials directly", "Submitting fake reports and personal guarantees", "Threatening bank employees", "Using cryptocurrency for transactions"],
+    "correctAnswer": "Submitting fake reports and personal guarantees"
   },
   {
     "id": 21,
-    "question": "What is a major consequence for the healthcare system in states like Telangana and Andhra Pradesh if super-specialty medical seats continue to go waste?",
-    "options": ["Surplus of general physicians", "Shortage of highly specialized medical professionals", "Improved rural healthcare", "Lower healthcare costs"],
-    "correctAnswer": "Shortage of highly specialized medical professionals"
+    "question": "The ED suspects that certain actions, such as selling pledged properties, were taken by Ramnandi Hotels to prevent what?",
+    "options": ["Asset depreciation", "Tax evasion", "Asset attachment and recovery of crime proceeds", "Bankruptcy proceedings"],
+    "correctAnswer": "Asset attachment and recovery of crime proceeds"
   },
   {
     "id": 22,
-    "question": "The Supreme Court's intervention on medical cut-offs aims to optimize the utilization of India's capacity for what?",
-    "options": ["General medical practice", "Medical tourism", "Advanced medical training and specialization", "Basic healthcare research"],
-    "correctAnswer": "Advanced medical training and specialization"
+    "question": "The alleged bank fraud case against Ramnandi Hotels involved a total alleged fraud amount of what figure?",
+    "options": ["Rs 58 crore", "Rs 100 crore", "Rs 132 crore", "Rs 200 crore"],
+    "correctAnswer": "Rs 132 crore"
   },
   {
     "id": 23,
-    "question": "In the context of medical education, what does 'super-specialty' refer to?",
-    "options": ["Undergraduate medical degrees", "Master's level degrees in non-clinical subjects", "Highly specialized fields of medicine pursued after a postgraduate degree (MD/MS)", "Short-term medical certification courses"],
-    "correctAnswer": "Highly specialized fields of medicine pursued after a postgraduate degree (MD/MS)"
+    "question": "The raids by the Enforcement Directorate in the alleged bank fraud case spanned across how many states?",
+    "options": ["One state", "Two states", "Three states", "Four states"],
+    "correctAnswer": "Three states"
   },
   {
     "id": 24,
-    "question": "The potential increase in the number of super-specialists due to lower cut-offs could particularly benefit which sector in Telangana and Andhra Pradesh?",
-    "options": ["Primary education", "Tertiary healthcare services", "Agriculture sector", "Manufacturing industries"],
-    "correctAnswer": "Tertiary healthcare services"
+    "question": "The news indicates that five pledged properties were reportedly sold at undervalued prices recently by Ramnandi Hotels. What was the suspected aim of these sales?",
+    "options": ["To raise capital for new ventures", "To repay minor debts", "To prevent asset attachment", "To comply with regulatory requirements"],
+    "correctAnswer": "To prevent asset attachment"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's directive on super-specialty medical seats underscores the importance of addressing the gap between available training infrastructure and the demand for what?",
-    "options": ["Medical researchers", "Trained medical personnel", "Medical equipment", "Medical college faculty"],
-    "correctAnswer": "Trained medical personnel"
+    "question": "What kind of reports were allegedly used by Ramnandi Hotels to secure bank loans, according to the ED's investigation?",
+    "options": ["Market research reports", "Feasibility reports", "Financial audit reports", "Fake reports"],
+    "correctAnswer": "Fake reports"
   }
 ]

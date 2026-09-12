@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian city hosted Chinese President Xi Jinping for the BRICS summit mentioned in the news?",
-    "options": ["Mumbai", "Bengaluru", "Delhi", "Kolkata"],
-    "correctAnswer": "Delhi"
+    "question": "What national body has been mandated by the Supreme Court to provide precise details about food warning labels, including their design, dimensions, colors, and position on food packaging?",
+    "options": ["Bureau of Indian Standards (BIS)", "Food Safety and Standards Authority of India (FSSAI)", "Consumer Affairs Ministry", "Agricultural and Processed Food Products Export Development Authority (APEDA)"],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 2,
-    "question": "After how many years did Chinese President Xi Jinping visit Delhi for the BRICS summit, as per the news?",
-    "options": ["3 years", "5 years", "7 years", "10 years"],
-    "correctAnswer": "7 years"
+    "question": "One of the Supreme Court's emphasized points to the FSSAI regarding food safety was the importance of communicating junk food risks to which demographic?",
+    "options": ["Adults", "Elderly", "Children", "Pregnant women"],
+    "correctAnswer": "Children"
   },
   {
     "id": 3,
-    "question": "With which two countries' leaders did PM Narendra Modi hold discussions to bolster defense collaboration and investments?",
-    "options": ["Russia and China", "Malaysia and Ethiopia", "US and UK", "Japan and South Korea"],
-    "correctAnswer": "Malaysia and Ethiopia"
-  },
-  {
-    "id": 4,
-    "question": "Which of the following did Malaysia welcome the idea of setting up?",
-    "options": ["An Indian University branch", "An Indian Consulate General in Kota Kinabalu", "A joint defense base", "A free trade zone"],
-    "correctAnswer": "An Indian Consulate General in Kota Kinabalu"
-  },
-  {
-    "id": 5,
-    "question": "Ethiopia highlighted its commitment to amplifying the collective voice of which group?",
-    "options": ["European Union", "G7", "Global South", "ASEAN"],
-    "correctAnswer": "Global South"
-  },
-  {
-    "id": 6,
-    "question": "Which airline resumed its Guangzhou-Delhi flights after a six-year suspension?",
-    "options": ["Air China", "China Eastern", "China Southern", "Hainan Airlines"],
-    "correctAnswer": "China Southern"
-  },
-  {
-    "id": 7,
-    "question": "Which Indian regulatory body was mandated by the Supreme Court to outline precise details about food warning labels?",
-    "options": ["BIS", "FSSAI", "NITI Aayog", "CCI"],
-    "correctAnswer": "FSSAI"
-  },
-  {
-    "id": 8,
-    "question": "How many specific inquiries was FSSAI tasked with addressing within ten days by the Supreme Court?",
+    "question": "How many specific inquiries did the Supreme Court task FSSAI with addressing within ten days regarding food warning labels?",
     "options": ["7", "10", "13", "20"],
     "correctAnswer": "13"
   },
   {
+    "id": 4,
+    "question": "The Supreme Court mandated that the FSSAI outline precise details about which specific aspect of food packaging?",
+    "options": ["Nutritional content", "Ingredient sourcing", "Food warning labels", "Manufacturing date"],
+    "correctAnswer": "Food warning labels"
+  },
+  {
+    "id": 5,
+    "question": "Which international grouping recently held a summit in Delhi, attended by Prime Minister Modi and other world leaders?",
+    "options": ["G7", "ASEAN", "BRICS", "SAARC"],
+    "correctAnswer": "BRICS"
+  },
+  {
+    "id": 6,
+    "question": "Which country's President visited Delhi for the BRICS summit after a gap of seven years?",
+    "options": ["Russia", "Brazil", "China", "South Africa"],
+    "correctAnswer": "China"
+  },
+  {
+    "id": 7,
+    "question": "Which airline resumed its Guangzhou-Delhi flights after a six-year suspension, ahead of the BRICS summit?",
+    "options": ["Air China", "China Eastern", "China Southern", "Hainan Airlines"],
+    "correctAnswer": "China Southern"
+  },
+  {
+    "id": 8,
+    "question": "Prime Minister Modi recently engaged in discussions with the leaders of which two nations to bolster defence collaboration and increase Indian investments?",
+    "options": ["Japan and South Korea", "France and Germany", "Malaysia and Ethiopia", "Australia and New Zealand"],
+    "correctAnswer": "Malaysia and Ethiopia"
+  },
+  {
     "id": 9,
-    "question": "Beyond label details, FSSAI is tasked with communicating the risks of which type of food to children?",
-    "options": ["Organic food", "Processed food", "Junk food", "Genetically modified food"],
-    "correctAnswer": "Junk food"
+    "question": "In which Malaysian city did the government welcome the idea of setting up an Indian Consulate General?",
+    "options": ["Kuala Lumpur", "Penang", "Kota Kinabalu", "Johor Bahru"],
+    "correctAnswer": "Kota Kinabalu"
   },
   {
     "id": 10,
-    "question": "What literary work did Prime Minister Modi present to President Putin in its Russian translation?",
-    "options": ["Ramayana", "Mahabharata", "Thirukkural", "Bhagavad Gita"],
+    "question": "Prime Minister Modi gifted a Russian translation of which esteemed Tamil classic to President Putin?",
+    "options": ["Silappatikaram", "Manimekalai", "Thirukkural", "Tolkappiyam"],
     "correctAnswer": "Thirukkural"
   },
   {
     "id": 11,
-    "question": "The 'Thirukkural', gifted by PM Modi to President Putin, is an esteemed classic from which Indian language?",
-    "options": ["Telugu", "Kannada", "Malayalam", "Tamil"],
-    "correctAnswer": "Tamil"
+    "question": "The Thirukkural, gifted by PM Modi to President Putin, is described as encapsulating teachings primarily on which subjects?",
+    "options": ["Ancient warfare and strategies", "Scientific discoveries and inventions", "Morality, governance, and affection", "Economic theories and trade"],
+    "correctAnswer": "Morality, governance, and affection"
   },
   {
     "id": 12,
-    "question": "According to the news, 'Thirukkural' encapsulates teachings on morality, governance, affection, and what else?",
-    "options": ["Economic policies", "Space exploration", "Conflict resolution", "Agricultural techniques"],
-    "correctAnswer": "Conflict resolution"
+    "question": "What were the primary agenda items discussed during Prime Minister Modi's talks with the leaders of Malaysia and Ethiopia?",
+    "options": ["Cultural exchange programs", "Space exploration cooperation", "Defence collaboration and Indian investments", "Tourism promotion and wildlife conservation"],
+    "correctAnswer": "Defence collaboration and Indian investments"
   },
   {
     "id": 13,
-    "question": "How many deep-tech ventures is India slated to present at the BRICS forum?",
-    "options": ["15", "27", "37", "45"],
+    "question": "How many deep-tech ventures did India plan to present at the BRICS forum?",
+    "options": ["25", "37", "42", "50"],
     "correctAnswer": "37"
   },
   {
     "id": 14,
-    "question": "Which two countries criticized Western sanctions and aggression at the BRICS Business Forum?",
-    "options": ["Brazil and South Africa", "Russia and Iran", "India and China", "Ethiopia and Malaysia"],
+    "question": "Which two nations criticized Western sanctions and aggression at the BRICS Business Forum, calling for strategies to enhance the group's resilience?",
+    "options": ["Brazil and South Africa", "Russia and Iran", "China and India", "Ethiopia and Malaysia"],
     "correctAnswer": "Russia and Iran"
   },
   {
     "id": 15,
-    "question": "Iranian President Pezeshkian highlighted the link between economic security and what at the BRICS forum?",
-    "options": ["Technological advancement", "Cultural exchange", "National and regional stability", "Environmental protection"],
-    "correctAnswer": "National and regional stability"
-  },
-  {
-    "id": 16,
-    "question": "Russian President Putin condemned which tactics at the BRICS Business Forum?",
-    "options": ["Economic protectionism", "Western dominance tactics", "Cyber warfare", "Human rights violations"],
-    "correctAnswer": "Western dominance tactics"
-  },
-  {
-    "id": 17,
-    "question": "What was discussed at the BRICS forum regarding trade expansion?",
-    "options": ["Trade in cryptocurrencies", "Trade in local currencies", "Trade in gold", "Barter trade"],
-    "correctAnswer": "Trade in local currencies"
-  },
-  {
-    "id": 18,
-    "question": "Which financial institution was mentioned as a tool to be leveraged at the BRICS forum?",
-    "options": ["International Monetary Fund", "World Bank", "Asian Infrastructure Investment Bank", "New Development Bank"],
+    "question": "To counter external pressures, leaders at the BRICS Business Forum discussed strategies such as expanding trade in local currencies and leveraging which financial institution?",
+    "options": ["World Bank", "International Monetary Fund", "Asian Infrastructure Investment Bank", "New Development Bank"],
     "correctAnswer": "New Development Bank"
   },
   {
+    "id": 16,
+    "question": "Which Iranian President highlighted the link between economic security and national/regional stability at the BRICS Business Forum?",
+    "options": ["Ebrahim Raisi", "Hassan Rouhani", "Masoud Pezeshkian", "Mohammad Khatami"],
+    "correctAnswer": "Masoud Pezeshkian"
+  },
+  {
+    "id": 17,
+    "question": "Which Russian President condemned Western dominance tactics and infrastructure destruction at the BRICS Business Forum?",
+    "options": ["Dmitry Medvedev", "Vladimir Putin", "Mikhail Gorbachev", "Boris Yeltsin"],
+    "correctAnswer": "Vladimir Putin"
+  },
+  {
+    "id": 18,
+    "question": "According to China’s state-run Global Times, what is the source of BRICS's strength?",
+    "options": ["Military alliances", "Economic sanctions", "Commitment to openness, cooperation and fairness", "Unilateral trade policies"],
+    "correctAnswer": "Commitment to openness, cooperation and fairness"
+  },
+  {
     "id": 19,
-    "question": "China's state-run Global Times described BRICS as an increasingly important platform at a time of what?",
-    "options": ["Global prosperity", "Global uncertainty", "Regional conflicts", "Economic recession"],
-    "correctAnswer": "Global uncertainty"
+    "question": "Beyond the New Development Bank, what other key areas did China highlight its support for within BRICS?",
+    "options": ["Agricultural subsidies and food security", "Expansion of BRICS and cooperation in different areas", "Maritime security and anti-piracy operations", "Cultural exchange programs and sports events"],
+    "correctAnswer": "Expansion of BRICS and cooperation in different areas"
   },
   {
     "id": 20,
-    "question": "According to China's Global Times editorial, BRICS' strength comes from its commitment to openness, cooperation, and what else?",
-    "options": ["Dominance", "Fairness", "Exclusivity", "Competition"],
-    "correctAnswer": "Fairness"
+    "question": "During discussions with PM Modi, Ethiopia highlighted its commitment to amplifying the collective voice of which global group?",
+    "options": ["Global North", "Global South", "European Union", "G20"],
+    "correctAnswer": "Global South"
   },
   {
     "id": 21,
-    "question": "Besides design and dimensions, what other specific details about food warning labels did the Supreme Court mandate FSSAI to outline?",
-    "options": ["Manufacturer's logo and slogan", "Nutritional information and expiry date", "Colors and position on packaging", "Brand ambassador's image"],
-    "correctAnswer": "Colors and position on packaging"
+    "question": "The diplomatic gesture of gifting the Thirukkural by PM Modi to President Putin symbolizes what?",
+    "options": ["India's stance on space exploration", "The enduring legacy of Thiruvalluvar transcending cultural barriers", "A new military alliance", "India's economic dominance"],
+    "correctAnswer": "The enduring legacy of Thiruvalluvar transcending cultural barriers"
   },
   {
     "id": 22,
-    "question": "After resuming the Guangzhou-Delhi service, China Southern's total operations across eight round-trip routes in South Asia would exceed how many flights a week?",
+    "question": "With the resumption of Guangzhou-New Delhi service, China Southern's total operations across eight round-trip routes in South Asia will exceed how many flights a week?",
     "options": ["50", "75", "100", "150"],
     "correctAnswer": "100"
   },
   {
     "id": 23,
-    "question": "PM Modi's gift of 'Thirukkural' aligns with his stance on resolving which international crisis?",
-    "options": ["South China Sea dispute", "Israeli-Palestinian conflict", "Ukraine crisis", "Syrian civil war"],
-    "correctAnswer": "Ukraine crisis"
+    "question": "Beyond detailing label specifications, the Supreme Court specifically emphasized FSSAI's role in communicating junk food risks to whom?",
+    "options": ["Food manufacturers", "Retailers", "Children", "Policy makers"],
+    "correctAnswer": "Children"
   },
   {
     "id": 24,
-    "question": "The criticism by Russia and Iran against US 'aggression' at the BRICS Business Forum poses a challenge for whom?",
-    "options": ["The United States", "The European Union", "Summit host India", "The United Nations"],
-    "correctAnswer": "Summit host India"
+    "question": "FSSAI has been given a specific timeframe to address the Supreme Court's thirteen inquiries regarding food warning labels. What is this timeframe?",
+    "options": ["One week", "Ten days", "One month", "Three months"],
+    "correctAnswer": "Ten days"
   },
   {
     "id": 25,
-    "question": "Apart from bolstering defense collaboration, what was the other primary agenda item for PM Modi's discussions with leaders of Malaysia and Ethiopia?",
-    "options": ["Cultural exchange programs", "Increasing Indian investments", "Joint space missions", "Environmental conservation projects"],
-    "correctAnswer": "Increasing Indian investments"
+    "question": "The New Development Bank is often associated with which economic bloc, as mentioned in the news?",
+    "options": ["G7", "QUAD", "SCO", "BRICS"],
+    "correctAnswer": "BRICS"
   }
 ]

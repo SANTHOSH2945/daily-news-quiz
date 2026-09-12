@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which Indian city recently hosted the BRICS summit where the New Delhi Declaration was adopted?",
-    "options": ["Mumbai", "Bengaluru", "New Delhi", "Hyderabad"],
-    "correctAnswer": "New Delhi"
+    "question": "What significant diplomatic role did India play in the recent BRICS joint declaration discussions, as per the headlines?",
+    "options": [
+      "India proposed new members for the BRICS bloc.",
+      "India mediated a consensus on economic sanctions.",
+      "India bridged the chasm between Iran and UAE.",
+      "India led discussions on climate change initiatives."
+    ],
+    "correctAnswer": "India bridged the chasm between Iran and UAE."
   },
   {
     "id": 2,
-    "question": "What is the name of the declaration adopted by BRICS nations at their recent summit in India?",
-    "options": ["Bharat Accord", "New Delhi Declaration", "Unity Resolution", "Global Cooperation Pact"],
-    "correctAnswer": "New Delhi Declaration"
+    "question": "One of the vital issues addressed in the recent BRICS joint declaration was the protection of what type of sites?",
+    "options": [
+      "Endangered wildlife habitats.",
+      "Global cultural heritage sites.",
+      "Civilian and peaceful nuclear sites.",
+      "International maritime trade routes."
+    ],
+    "correctAnswer": "Civilian and peaceful nuclear sites."
   },
   {
     "id": 3,
-    "question": "The BRICS New Delhi Declaration strongly condemned which global issue?",
-    "options": ["Climate Change", "Global Recession", "Terrorism", "Cyber Warfare"],
-    "correctAnswer": "Terrorism"
+    "question": "Beyond nuclear sites, what other key areas did the BRICS joint declaration collectively reaffirm their resolve on?",
+    "options": [
+      "Space exploration and research initiatives.",
+      "Combating terrorism in all its manifestations and UN Security Council reforms.",
+      "Bilateral trade agreements among member states.",
+      "Development of new global digital currencies."
+    ],
+    "correctAnswer": "Combating terrorism in all its manifestations and UN Security Council reforms."
   },
   {
     "id": 4,
-    "question": "Beyond condemning terrorism, the New Delhi Declaration also raised concerns over which economic measures?",
-    "options": ["Bilateral trade agreements", "Unilateral tariffs", "Free trade zones", "Currency fluctuations"],
-    "correctAnswer": "Unilateral tariffs"
+    "question": "What mechanism did BRICS nations resolve to establish concerning the extradition of fugitives?",
+    "options": [
+      "A joint financial aid program for developing nations.",
+      "A unified border control system.",
+      "A joint mechanism to extradite fugitives.",
+      "A shared intelligence network for cyber security."
+    ],
+    "correctAnswer": "A joint mechanism to extradite fugitives."
   },
   {
     "id": 5,
-    "question": "The BRICS New Delhi Declaration supported comprehensive reform for which international organization?",
-    "options": ["World Bank", "International Monetary Fund (IMF)", "United Nations", "World Trade Organization (WTO)"],
-    "correctAnswer": "United Nations"
+    "question": "Which Indian artist's classic song was sung by Malaysian PM Anwar Ibrahim at the BRICS gala dinner?",
+    "options": [
+      "Lata Mangeshkar",
+      "A.R. Rahman",
+      "Kishore Kumar",
+      "Mohammed Rafi"
+    ],
+    "correctAnswer": "Kishore Kumar"
   },
   {
     "id": 6,
-    "question": "Which specific UN body did the New Delhi Declaration call for expansion, particularly for developing nations?",
-    "options": ["UN General Assembly", "UN Economic and Social Council", "UN Security Council", "International Court of Justice"],
-    "correctAnswer": "UN Security Council"
+    "question": "The decomposed body of a suspected Jaish-e-Mohammed terrorist was recently discovered in which district of Jammu and Kashmir?",
+    "options": [
+      "Poonch",
+      "Udhampur",
+      "Doda",
+      "Pulwama"
+    ],
+    "correctAnswer": "Doda"
   },
   {
     "id": 7,
-    "question": "Which two BRICS nations explicitly reiterated support for India's greater role in the UN Security Council?",
-    "options": ["South Africa and Brazil", "China and Russia", "Brazil and China", "Russia and South Africa"],
-    "correctAnswer": "China and Russia"
+    "question": "Along with the body of the suspected terrorist in Doda, what specific weapon was recovered?",
+    "options": [
+      "AK-47 assault rifle",
+      "M4 rifle",
+      "Sniper rifle",
+      "Pistol"
+    ],
+    "correctAnswer": "M4 rifle"
   },
   {
     "id": 8,
-    "question": "According to PM Modi, what overarching principle should guide India-China ties, encapsulated in '3 mutuals'?",
-    "options": ["Economic competition", "Strategic alliance", "Differences should not become disputes", "Cultural exchange"],
-    "correctAnswer": "Differences should not become disputes"
+    "question": "The suspected terrorist whose body was found in Doda is believed to be affiliated with which organization?",
+    "options": [
+      "Hizbul Mujahideen",
+      "Lashkar-e-Taiba",
+      "Jaish-e-Mohammed",
+      "Al-Badr"
+    ],
+    "correctAnswer": "Jaish-e-Mohammed"
   },
   {
     "id": 9,
-    "question": "The BRICS leaders recognized women as leaders, drivers of growth, and what other key aspect?",
-    "options": ["Political representatives", "Social transformation", "Technological innovators", "Financial experts"],
-    "correctAnswer": "Social transformation"
+    "question": "In which districts of Jammu and Kashmir did the State Investigation Agency (SIA) conduct searches for a radicalisation probe?",
+    "options": [
+      "Srinagar and Baramulla",
+      "Jammu and Kathua",
+      "Poonch and Udhampur",
+      "Anantnag and Shopian"
+    ],
+    "correctAnswer": "Poonch and Udhampur"
   },
   {
     "id": 10,
-    "question": "Who was the Prime Minister of India who welcomed world leaders at the recent BRICS summit in New Delhi?",
-    "options": ["Manmohan Singh", "Narendra Modi", "Amit Shah", "Rahul Gandhi"],
-    "correctAnswer": "Narendra Modi"
+    "question": "The State Investigation Agency (SIA) probe in Jammu and Kashmir is primarily focused on what alleged activity?",
+    "options": [
+      "Financial fraud cases",
+      "Environmental violations",
+      "Alleged secessionist narratives",
+      "Drug trafficking networks"
+    ],
+    "correctAnswer": "Alleged secessionist narratives"
   },
   {
     "id": 11,
-    "question": "The New Delhi Declaration called for what specific approach towards terrorism?",
-    "options": ["Diplomatic dialogue", "Limited engagement", "Zero tolerance", "Strategic containment"],
-    "correctAnswer": "Zero tolerance"
+    "question": "From which European country was gangster Amritpal Singh recently extradited to India?",
+    "options": [
+      "Germany",
+      "France",
+      "Moldova",
+      "Ukraine"
+    ],
+    "correctAnswer": "Moldova"
   },
   {
     "id": 12,
-    "question": "In the context of combating terrorism, what did the BRICS declaration explicitly oppose?",
-    "options": ["International cooperation", "Information sharing", "Double standards", "Regional initiatives"],
-    "correctAnswer": "Double standards"
+    "question": "Amritpal Singh, the gangster extradited from Moldova, was identified as an operative of which gang?",
+    "options": [
+      "Bishnoi gang",
+      "Jaggu Bhagwanpuria gang",
+      "Lawrence Bishnoi gang",
+      "Bambiha gang"
+    ],
+    "correctAnswer": "Jaggu Bhagwanpuria gang"
   },
   {
     "id": 13,
-    "question": "What was one of the stated key focuses of the 18th BRICS summit hosted by India?",
-    "options": ["Space exploration", "Military exercises", "Cooperation and sustainability", "Digital currency"],
-    "correctAnswer": "Cooperation and sustainability"
+    "question": "Which specific Indian government cell or agency is credited with bringing back wanted fugitives, including the one from Moldova?",
+    "options": [
+      "Interpol India Unit",
+      "Central Bureau of Investigation (CBI)",
+      "Overseas Fugitive Tracking and Extradition Cell",
+      "National Investigation Agency (NIA)"
+    ],
+    "correctAnswer": "Overseas Fugitive Tracking and Extradition Cell"
   },
   {
     "id": 14,
-    "question": "An Air India pilot recently passed away during a layover in which Indian metropolitan city?",
-    "options": ["Chennai", "Delhi", "Kolkata", "Bengaluru"],
-    "correctAnswer": "Delhi"
+    "question": "What term was used to describe the friendly atmosphere between leaders Modi, Xi, and Putin at the BRICS Summit, as noted in the key takeaways?",
+    "options": [
+      "Détente",
+      "Confluence",
+      "Bonhomie",
+      "Concord"
+    ],
+    "correctAnswer": "Bonhomie"
   },
   {
     "id": 15,
-    "question": "The Air India pilot who recently passed away during a layover was based in which major Indian city?",
-    "options": ["Mumbai", "Hyderabad", "Jaipur", "Ahmedabad"],
-    "correctAnswer": "Mumbai"
+    "question": "What specific location, within India, was mentioned in connection with a condemnation during the BRICS Summit key takeaways?",
+    "options": [
+      "Mumbai",
+      "Bengaluru",
+      "Pahalgam",
+      "Goa"
+    ],
+    "correctAnswer": "Pahalgam"
   },
   {
     "id": 16,
-    "question": "Which country is reportedly accelerating upgrades for its Rafale F5 jets, a development potentially relevant for India's defense acquisition?",
-    "options": ["USA", "Russia", "Israel", "France"],
-    "correctAnswer": "France"
+    "question": "What did BRICS leaders reiterate as critical for achieving regional stability in their recent declaration?",
+    "options": [
+      "Economic sanctions",
+      "Military interventions",
+      "Constructive dialogue",
+      "Unilateral declarations"
+    ],
+    "correctAnswer": "Constructive dialogue"
   },
   {
     "id": 17,
-    "question": "Which leader did PM Modi hold bilateral talks with after the BRICS declaration in New Delhi?",
-    "options": ["Vladimir Putin", "Cyril Ramaphosa", "Xi Jinping", "Luiz Inácio Lula da Silva"],
-    "correctAnswer": "Xi Jinping"
+    "question": "What was the BRICS nations' collective stance on terrorism as reaffirmed in their joint declaration?",
+    "options": [
+      "To address only state-sponsored terrorism.",
+      "To combat terrorism in all its manifestations.",
+      "To focus on cyber terrorism exclusively.",
+      "To overlook certain forms of terrorism."
+    ],
+    "correctAnswer": "To combat terrorism in all its manifestations."
   },
   {
     "id": 18,
-    "question": "The BRICS New Delhi Declaration (as mentioned in the news context) was named with which specific year?",
-    "options": ["2023", "2024", "2025", "2026"],
-    "correctAnswer": "2026"
+    "question": "How many more extradition proposals are currently pending with the central government, according to the Punjab minister?",
+    "options": [
+      "Ten",
+      "Fifteen",
+      "Twenty-one",
+      "Thirty"
+    ],
+    "correctAnswer": "Twenty-one"
   },
   {
     "id": 19,
-    "question": "India recently hosted which numbered BRICS summit?",
-    "options": ["15th", "16th", "17th", "18th"],
-    "correctAnswer": "18th"
+    "question": "The recent BRICS joint declaration highlighted India's key role in resolving a diplomatic issue between which two Middle Eastern nations?",
+    "options": [
+      "Russia and China",
+      "Brazil and South Africa",
+      "Iran and UAE",
+      "India and Pakistan"
+    ],
+    "correctAnswer": "Iran and UAE"
   },
   {
     "id": 20,
-    "question": "Besides India, which other developing nation's greater role in the UN did China and Russia support, according to the BRICS declaration?",
-    "options": ["South Africa", "Brazil", "Egypt", "Argentina"],
-    "correctAnswer": "Brazil"
+    "question": "In the radicalisation probe in J&K, what type of cross-border contact was discovered by investigators?",
+    "options": [
+      "Trade negotiations with neighboring countries.",
+      "Tourist exchanges across the Line of Control.",
+      "Contact with suspicious persons across the Line of Control.",
+      "Cultural exchange programs."
+    ],
+    "correctAnswer": "Contact with suspicious persons across the Line of Control."
   },
   {
     "id": 21,
-    "question": "The BRICS New Delhi Declaration reaffirmed the commitment of member nations to combating which global threat?",
-    "options": ["Poverty", "Terrorism", "Climate change", "Pandemics"],
-    "correctAnswer": "Terrorism"
+    "question": "What major international body did the BRICS joint declaration call for extensive reforms of?",
+    "options": [
+      "World Bank",
+      "International Monetary Fund (IMF)",
+      "World Trade Organization (WTO)",
+      "United Nations Security Council (UNSC)"
+    ],
+    "correctAnswer": "United Nations Security Council (UNSC)"
   },
   {
     "id": 22,
-    "question": "What kind of sanctions did the BRICS New Delhi Declaration raise concerns about, in addition to trade measures?",
-    "options": ["Bilateral sanctions", "Multilateral sanctions", "Unilateral sanctions", "Economic sanctions"],
-    "correctAnswer": "Unilateral sanctions"
+    "question": "What is the current status regarding the identity of the suspected Jaish-e-Mohammed terrorist found in Doda?",
+    "options": [
+      "The identity has been confirmed as a local resident.",
+      "The identity has been confirmed as a foreign national.",
+      "Security forces are working to determine the identity.",
+      "The identity has been withheld from the public."
+    ],
+    "correctAnswer": "Security forces are working to determine the identity."
   },
   {
     "id": 23,
-    "question": "Which global leader did PM Modi share photos with at the BRICS summit, alongside Xi Jinping, according to news reports?",
-    "options": ["Joe Biden", "Emmanuel Macron", "Vladimir Putin", "Rishi Sunak"],
-    "correctAnswer": "Vladimir Putin"
+    "question": "How many wanted fugitives has the Overseas Fugitive Tracking and Extradition Cell successfully brought back to India so far, as per the news?",
+    "options": [
+      "Five",
+      "Seven",
+      "Ten",
+      "Twelve"
+    ],
+    "correctAnswer": "Ten"
   },
   {
     "id": 24,
-    "question": "The BRICS declaration also opposed unilateral tariffs and supported which comprehensive international reform?",
-    "options": ["IMF restructuring", "WTO modernization", "UN reform", "World Bank policy changes"],
-    "correctAnswer": "UN reform"
+    "question": "The Malaysian PM singing an Indian classic at the BRICS gala dinner is an example of what kind of diplomatic effort?",
+    "options": [
+      "Economic diplomacy",
+      "Cultural diplomacy",
+      "Military diplomacy",
+      "Environmental diplomacy"
+    ],
+    "correctAnswer": "Cultural diplomacy"
   },
   {
     "id": 25,
-    "question": "The BRICS New Delhi Declaration emphasized supporting comprehensive reforms for international bodies to include more representation from which group of nations?",
-    "options": ["Developed nations", "Economically stable nations", "Developing nations", "Technologically advanced nations"],
-    "correctAnswer": "Developing nations"
+    "question": "The SIA's radicalisation probe in Poonch and Udhampur is investigating the spread of secessionist narratives through which mediums?",
+    "options": [
+      "Only print media",
+      "Only social media",
+      "Online and offline channels",
+      "Foreign broadcasts exclusively"
+    ],
+    "correctAnswer": "Online and offline channels"
   }
 ]

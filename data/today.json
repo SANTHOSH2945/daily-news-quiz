@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Where was the recent BRICS Summit, mentioned in multiple headlines, hosted by India?",
-    "options": ["Mumbai", "Bengaluru", "Chennai", "New Delhi"],
-    "correctAnswer": "New Delhi"
+    "question": "Where was the recent BRICS summit, attended by PM Modi, held in India?",
+    "options": ["Mumbai", "Bengaluru", "Chennai", "Delhi"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 2,
-    "question": "Which venue in New Delhi hosted the BRICS Summit family photo with world leaders, as per the news?",
-    "options": ["Vigyan Bhawan", "Pragati Maidan", "India Gate", "Bharat Mandapam"],
+    "question": "The family photo of world leaders at the BRICS summit was taken at which venue in India?",
+    "options": ["Pragati Maidan", "Vigyan Bhawan", "India Gate", "Bharat Mandapam"],
     "correctAnswer": "Bharat Mandapam"
   },
   {
     "id": 3,
-    "question": "PM Modi warned against the 'weaponisation of critical minerals' at the BRICS summit. Which country's leader was present in the room when he made this statement?",
-    "options": ["Russia", "Brazil", "China", "South Africa"],
-    "correctAnswer": "China"
+    "question": "Who represented India at the recent BRICS summit where leaders like Putin and Xi were also present?",
+    "options": ["President Droupadi Murmu", "Vice President Jagdeep Dhankhar", "Prime Minister Narendra Modi", "External Affairs Minister S. Jaishankar"],
+    "correctAnswer": "Prime Minister Narendra Modi"
   },
   {
     "id": 4,
-    "question": "What did PM Modi emphasize on Day 2 of the BRICS summit regarding collaboration?",
-    "options": ["Climate change solutions", "Shared vision transformed into a win-win collaboration", "Digital payment systems", "Counter-terrorism measures"],
-    "correctAnswer": "Shared vision transformed into a win-win collaboration"
+    "question": "Which foreign leader, attending the BRICS summit in India, reportedly skipped the gala dinner hosted by PM Modi?",
+    "options": ["Russian President Putin", "Chinese President Xi Jinping", "Brazilian President Lula da Silva", "South African President Ramaphosa"],
+    "correctAnswer": "Chinese President Xi Jinping"
   },
   {
     "id": 5,
-    "question": "Which world leader skipped PM Modi's gala dinner at the recent BRICS Summit in Delhi?",
-    "options": ["Vladimir Putin", "Cyril Ramaphosa", "Luiz Inácio Lula da Silva", "Xi Jinping"],
-    "correctAnswer": "Xi Jinping"
+    "question": "At the BRICS summit, PM Modi warned against the 'weaponisation' of what specific resources?",
+    "options": ["Agricultural products", "Critical minerals", "Water resources", "Digital infrastructure"],
+    "correctAnswer": "Critical minerals"
   },
   {
     "id": 6,
-    "question": "The BRICS summit embraced a specific technology but left one major concern largely unaddressed. What was the technology?",
-    "options": ["Quantum Computing", "Artificial Intelligence", "Blockchain", "Biotechnology"],
-    "correctAnswer": "Artificial Intelligence"
+    "question": "PM Modi spoke of a 'shared vision transformed into a win-win collaboration' on which day of the BRICS summit?",
+    "options": ["Day 1", "Day 2", "Pre-summit", "Post-summit"],
+    "correctAnswer": "Day 2"
   },
   {
     "id": 7,
-    "question": "What major concern related to technology was largely unaddressed at the BRICS summit, despite embracing Artificial Intelligence?",
-    "options": ["Cyber security threats", "Data privacy issues", "Job displacement", "Ethical guidelines for AI"],
-    "correctAnswer": "Job displacement"
+    "question": "According to the news, BRICS nations embraced which emerging technology in their discussions?",
+    "options": ["Quantum Computing", "Biotechnology", "Artificial Intelligence (AI)", "Blockchain"],
+    "correctAnswer": "Artificial Intelligence (AI)"
   },
   {
     "id": 8,
-    "question": "A Chinese journalist highlighted the strategic importance of stronger India-China ties for which global grouping at the BRICS summit?",
-    "options": ["G7", "ASEAN", "Global South", "European Union"],
-    "correctAnswer": "Global South"
+    "question": "What significant issue, related to AI, was largely unaddressed at the BRICS summit despite its embrace of the technology?",
+    "options": ["Data privacy concerns", "Ethical guidelines", "Job displacement", "Regulatory frameworks"],
+    "correctAnswer": "Job displacement"
   },
   {
     "id": 9,
-    "question": "PM Modi paused his speech when a certain leader appeared uncomfortable at the BRICS summit. Which leader was it?",
-    "options": ["Russian President Putin", "Brazilian President Lula", "Chinese President Xi", "South African President Ramaphosa"],
-    "correctAnswer": "Chinese President Xi"
+    "question": "A Chinese journalist highlighted the strategic importance of stronger ties between which two countries for the Global South at the BRICS summit 2026?",
+    "options": ["India and Russia", "India and Brazil", "India and China", "India and South Africa"],
+    "correctAnswer": "India and China"
   },
   {
     "id": 10,
-    "question": "Which three specific world leaders were explicitly mentioned as joining the family photo at Bharat Mandapam during the BRICS summit Day 2?",
-    "options": ["PM Modi, President Putin, President Xi", "President Lula, President Ramaphosa, PM Modi", "President Xi, President Biden, PM Modi", "President Putin, President Macron, President Xi"],
-    "correctAnswer": "PM Modi, President Putin, President Xi"
+    "question": "Besides PM Modi, which two other world leaders were explicitly mentioned joining for a family photo at Bharat Mandapam on Day 2 of the BRICS summit?",
+    "options": ["Biden and Macron", "Putin and Xi", "Trudeau and Sunak", "Kishida and Albanese"],
+    "correctAnswer": "Putin and Xi"
   },
   {
     "id": 11,
-    "question": "PM Modi's warning about the 'weaponisation of critical minerals' at the BRICS summit highlights their strategic importance as what?",
-    "options": ["Agricultural products", "Financial assets", "Energy sources", "Raw materials for advanced technology"],
-    "correctAnswer": "Raw materials for advanced technology"
+    "question": "PM Modi reportedly paused his speech at the BRICS summit when which foreign leader appeared uncomfortable?",
+    "options": ["President Putin", "President Xi", "President Lula", "President Ramaphosa"],
+    "correctAnswer": "President Xi"
   },
   {
     "id": 12,
-    "question": "The strategic importance of stronger India-China ties for the 'Global South' was noted. What does 'Global South' generally refer to?",
-    "options": ["Developed nations of the Southern Hemisphere", "Developing countries in Asia, Africa, and Latin America", "Countries with strong maritime trade routes", "Nations with advanced space programs"],
-    "correctAnswer": "Developing countries in Asia, Africa, and Latin America"
+    "question": "Who hosted the gala dinner at the BRICS Summit in Delhi that Chinese President Xi Jinping skipped?",
+    "options": ["The President of India", "The Vice President of India", "The Prime Minister of India", "The External Affairs Minister of India"],
+    "correctAnswer": "The Prime Minister of India"
   },
   {
     "id": 13,
-    "question": "How many years before the 9/11 attacks did the CIA warn President Clinton about Bin Laden's intent to strike India?",
+    "question": "Rahul and Priyanka Gandhi recently met the Prime Minister of which country over breakfast?",
+    "options": ["Singapore", "Thailand", "Indonesia", "Malaysia"],
+    "correctAnswer": "Malaysia"
+  },
+  {
+    "id": 14,
+    "question": "What is the name of the Malaysian Prime Minister who met with Rahul and Priyanka Gandhi?",
+    "options": ["Mahathir Mohamad", "Anwar Ibrahim", "Najib Razak", "Muhyiddin Yassin"],
+    "correctAnswer": "Anwar Ibrahim"
+  },
+  {
+    "id": 15,
+    "question": "The CIA reportedly warned then-President Clinton before 9/11 that Bin Laden wanted to strike which country?",
+    "options": ["USA", "UK", "India", "Saudi Arabia"],
+    "correctAnswer": "India"
+  },
+  {
+    "id": 16,
+    "question": "How many years before 9/11 did the CIA warn President Clinton about Bin Laden's intentions to strike India?",
     "options": ["One year", "Two years", "Three years", "Four years"],
     "correctAnswer": "Three years"
   },
   {
-    "id": 14,
-    "question": "Which US intelligence agency warned President Clinton about Bin Laden's intention to strike India?",
-    "options": ["FBI", "NSA", "CIA", "DIA"],
-    "correctAnswer": "CIA"
+    "id": 17,
+    "question": "PM Modi's statement 'Shared vision transformed into a win-win collaboration' encapsulated the spirit of which day's proceedings at the BRICS summit?",
+    "options": ["Inaugural day", "Second day", "Closing day", "Pre-summit day"],
+    "correctAnswer": "Second day"
   },
   {
-    "id": 15,
-    "question": "Which US President was warned by the CIA about Bin Laden's desire to strike India?",
+    "id": 18,
+    "question": "The news implies that Xi Jinping skipped PM Modi’s gala dinner at the BRICS Summit in Delhi following what circumstance?",
+    "options": ["A scheduling conflict", "Health reasons", "Diplomatic protocol issues", "An earlier moment where he appeared uncomfortable"],
+    "correctAnswer": "An earlier moment where he appeared uncomfortable"
+  },
+  {
+    "id": 19,
+    "question": "PM Modi paused his speech during which major international event?",
+    "options": ["G20 Summit", "SCO Summit", "BRICS Summit", "ASEAN Summit"],
+    "correctAnswer": "BRICS Summit"
+  },
+  {
+    "id": 20,
+    "question": "In PM Modi's warning, the 'weaponisation of critical minerals' primarily implies a concern about their use for what purpose?",
+    "options": ["Economic exploitation", "Environmental degradation", "Military or geopolitical advantage", "Technological monopolies"],
+    "correctAnswer": "Military or geopolitical advantage"
+  },
+  {
+    "id": 21,
+    "question": "The BRICS summit in Delhi this year had a reference to which future BRICS event in the context of India-China ties?",
+    "options": ["BRICS summit 2024", "BRICS summit 2025", "BRICS summit 2026", "BRICS summit 2027"],
+    "correctAnswer": "BRICS summit 2026"
+  },
+  {
+    "id": 22,
+    "question": "According to the CIA warning to President Clinton, who was the specific individual or group that intended to strike India before 9/11?",
+    "options": ["Al-Qaeda", "Osama Bin Laden", "ISIS", "Taliban"],
+    "correctAnswer": "Osama Bin Laden"
+  },
+  {
+    "id": 23,
+    "question": "Which US President was warned by the CIA about Bin Laden's intention to strike India?",
     "options": ["George H.W. Bush", "Bill Clinton", "George W. Bush", "Barack Obama"],
     "correctAnswer": "Bill Clinton"
   },
   {
-    "id": 16,
-    "question": "Which prominent Indian political figures from the Gandhi family recently met with Malaysian PM Anwar Ibrahim over breakfast?",
-    "options": ["Sonia Gandhi and Rahul Gandhi", "Rahul Gandhi and Priyanka Gandhi", "Priyanka Gandhi and Robert Vadra", "Sonia Gandhi and Manmohan Singh"],
-    "correctAnswer": "Rahul Gandhi and Priyanka Gandhi"
-  },
-  {
-    "id": 17,
-    "question": "What is the name of the Malaysian Prime Minister who met with Rahul and Priyanka Gandhi?",
-    "options": ["Mahathir Mohamad", "Najib Razak", "Anwar Ibrahim", "Abdullah Badawi"],
-    "correctAnswer": "Anwar Ibrahim"
-  },
-  {
-    "id": 18,
-    "question": "Abhijeet Dipke of CJP mocked the MP government after a heckling incident in Balaghat. In which Indian state is Balaghat located?",
-    "options": ["Madhya Pradesh", "Maharashtra", "Uttar Pradesh", "Rajasthan"],
-    "correctAnswer": "Madhya Pradesh"
-  },
-  {
-    "id": 19,
-    "question": "Beyond critical minerals, PM Modi's statements at BRICS indicated a focus on:",
-    "options": ["Bilateral trade deficits", "Regional security challenges", "Strengthening multilateral collaboration", "Cultural exchange programs"],
-    "correctAnswer": "Strengthening multilateral collaboration"
-  },
-  {
-    "id": 20,
-    "question": "The Chinese journalist mentioned 'Brics summit 2026' in the context of stronger India-China ties for Global South. This implies a future context. What was the year mentioned for a future BRICS summit in this context?",
-    "options": ["2024", "2025", "2026", "2027"],
-    "correctAnswer": "2026"
-  },
-  {
-    "id": 21,
-    "question": "The news highlights BRICS as a platform for discussions impacting the 'Global South'. What kind of topics typically discussed at BRICS would be most relevant to the 'Global South'?",
-    "options": ["Advanced space exploration", "Luxury tourism", "Economic development and geopolitical influence", "Western political alliances"],
-    "correctAnswer": "Economic development and geopolitical influence"
-  },
-  {
-    "id": 22,
-    "question": "According to the news, a potential reason for Xi Jinping skipping PM Modi's gala dinner was his:",
-    "options": ["Scheduling conflict", "Health reasons reported by his delegation", "Diplomatic protocol preferences", "Apparent discomfort during PM Modi's speech"],
-    "correctAnswer": "Apparent discomfort during PM Modi's speech"
-  },
-  {
-    "id": 23,
-    "question": "Which country was the primary host nation for the recent BRICS Summit mentioned in the headlines?",
-    "options": ["Brazil", "Russia", "India", "China"],
-    "correctAnswer": "India"
-  },
-  {
     "id": 24,
-    "question": "What was the general subject PM Modi was speaking about when he paused due to Xi's discomfort at the BRICS summit?",
-    "options": ["India's economic growth", "Climate change", "BRICS cooperation", "Regional conflicts"],
-    "correctAnswer": "BRICS cooperation"
+    "question": "Stronger India-China ties were deemed strategically important for which global grouping, according to a journalist at the BRICS summit?",
+    "options": ["G7", "NATO", "Global South", "European Union"],
+    "correctAnswer": "Global South"
   },
   {
     "id": 25,
-    "question": "The BRICS summit's discussions on AI and critical minerals reflect a broader global focus on:",
-    "options": ["Traditional manufacturing processes", "Non-renewable energy sources", "Technological advancements and strategic resources", "Agricultural subsidies and food security"],
-    "correctAnswer": "Technological advancements and strategic resources"
+    "question": "PM Modi's phrase 'Shared vision transformed into a win-win collaboration' directly refers to the collective goals and cooperation among the nations of which forum?",
+    "options": ["G20", "QUAD", "BRICS", "ASEAN"],
+    "correctAnswer": "BRICS"
   }
 ]

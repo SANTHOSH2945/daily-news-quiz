@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What significant diplomatic role did India play in the recent BRICS joint declaration discussions, as per the headlines?",
-    "options": [
-      "India proposed new members for the BRICS bloc.",
-      "India mediated a consensus on economic sanctions.",
-      "India bridged the chasm between Iran and UAE.",
-      "India led discussions on climate change initiatives."
-    ],
-    "correctAnswer": "India bridged the chasm between Iran and UAE."
+    "question": "What significant diplomatic role did India play during the recent BRICS negotiations that led to a joint declaration?",
+    "options": ["Hosting the summit for the first time", "Bridging a chasm between Iran and the UAE", "Proposing new permanent members for BRICS", "Leading the economic discussions on trade tariffs"],
+    "correctAnswer": "Bridging a chasm between Iran and the UAE"
   },
   {
     "id": 2,
-    "question": "One of the vital issues addressed in the recent BRICS joint declaration was the protection of what type of sites?",
-    "options": [
-      "Endangered wildlife habitats.",
-      "Global cultural heritage sites.",
-      "Civilian and peaceful nuclear sites.",
-      "International maritime trade routes."
-    ],
-    "correctAnswer": "Civilian and peaceful nuclear sites."
+    "question": "The BRICS joint declaration was achieved following India's successful diplomatic efforts between which two countries?",
+    "options": ["Brazil and South Africa", "China and Russia", "Iran and United Arab Emirates", "India and Pakistan"],
+    "correctAnswer": "Iran and United Arab Emirates"
   },
   {
     "id": 3,
-    "question": "Beyond nuclear sites, what other key areas did the BRICS joint declaration collectively reaffirm their resolve on?",
-    "options": [
-      "Space exploration and research initiatives.",
-      "Combating terrorism in all its manifestations and UN Security Council reforms.",
-      "Bilateral trade agreements among member states.",
-      "Development of new global digital currencies."
-    ],
-    "correctAnswer": "Combating terrorism in all its manifestations and UN Security Council reforms."
+    "question": "Which specific type of sites did the recent BRICS joint declaration, reflecting India's security concerns, address for protection?",
+    "options": ["Ancient archaeological sites", "Civilian and peaceful nuclear sites", "Wildlife conservation areas", "International space research facilities"],
+    "correctAnswer": "Civilian and peaceful nuclear sites"
   },
   {
     "id": 4,
-    "question": "What mechanism did BRICS nations resolve to establish concerning the extradition of fugitives?",
-    "options": [
-      "A joint financial aid program for developing nations.",
-      "A unified border control system.",
-      "A joint mechanism to extradite fugitives.",
-      "A shared intelligence network for cyber security."
-    ],
-    "correctAnswer": "A joint mechanism to extradite fugitives."
+    "question": "What principle did BRICS leaders, including India, reiterate as critical for achieving regional stability?",
+    "options": ["Economic sanctions against rogue states", "Unilateral military intervention", "Constructive dialogue and cooperation", "Strict border controls and isolation"],
+    "correctAnswer": "Constructive dialogue and cooperation"
   },
   {
     "id": 5,
-    "question": "Which Indian artist's classic song was sung by Malaysian PM Anwar Ibrahim at the BRICS gala dinner?",
-    "options": [
-      "Lata Mangeshkar",
-      "A.R. Rahman",
-      "Kishore Kumar",
-      "Mohammed Rafi"
-    ],
-    "correctAnswer": "Kishore Kumar"
+    "question": "India, as part of the BRICS declaration, collectively reaffirmed its strong resolve to combat which global threat?",
+    "options": ["Climate change denial", "Global economic recession", "Terrorism in all its manifestations", "Pandemic misinformation"],
+    "correctAnswer": "Terrorism in all its manifestations"
   },
   {
     "id": 6,
-    "question": "The decomposed body of a suspected Jaish-e-Mohammed terrorist was recently discovered in which district of Jammu and Kashmir?",
-    "options": [
-      "Poonch",
-      "Udhampur",
-      "Doda",
-      "Pulwama"
-    ],
-    "correctAnswer": "Doda"
+    "question": "What major international body's extensive reforms did the BRICS joint declaration, supported by India, specifically call for?",
+    "options": ["The World Bank", "The International Monetary Fund", "The United Nations Security Council", "The World Trade Organization"],
+    "correctAnswer": "The United Nations Security Council"
   },
   {
     "id": 7,
-    "question": "Along with the body of the suspected terrorist in Doda, what specific weapon was recovered?",
-    "options": [
-      "AK-47 assault rifle",
-      "M4 rifle",
-      "Sniper rifle",
-      "Pistol"
-    ],
-    "correctAnswer": "M4 rifle"
+    "question": "What new mechanism did BRICS nations, including India, resolve to establish concerning individuals who have fled justice?",
+    "options": ["A global travel ban database", "A joint mechanism to extradite fugitives", "An international human rights court", "A shared financial intelligence network"],
+    "correctAnswer": "A joint mechanism to extradite fugitives"
   },
   {
     "id": 8,
-    "question": "The suspected terrorist whose body was found in Doda is believed to be affiliated with which organization?",
-    "options": [
-      "Hizbul Mujahideen",
-      "Lashkar-e-Taiba",
-      "Jaish-e-Mohammed",
-      "Al-Badr"
-    ],
-    "correctAnswer": "Jaish-e-Mohammed"
+    "question": "India's participation in the BRICS resolution for a joint extradition mechanism primarily targets individuals involved in what category of offenses?",
+    "options": ["Environmental protection violations", "International tax evasion", "Fugitives from justice and transnational crime", "Minor immigration offenses"],
+    "correctAnswer": "Fugitives from justice and transnational crime"
   },
   {
     "id": 9,
-    "question": "In which districts of Jammu and Kashmir did the State Investigation Agency (SIA) conduct searches for a radicalisation probe?",
-    "options": [
-      "Srinagar and Baramulla",
-      "Jammu and Kathua",
-      "Poonch and Udhampur",
-      "Anantnag and Shopian"
-    ],
-    "correctAnswer": "Poonch and Udhampur"
-  },
-  {
-    "id": 10,
-    "question": "The State Investigation Agency (SIA) probe in Jammu and Kashmir is primarily focused on what alleged activity?",
-    "options": [
-      "Financial fraud cases",
-      "Environmental violations",
-      "Alleged secessionist narratives",
-      "Drug trafficking networks"
-    ],
-    "correctAnswer": "Alleged secessionist narratives"
-  },
-  {
-    "id": 11,
-    "question": "From which European country was gangster Amritpal Singh recently extradited to India?",
-    "options": [
-      "Germany",
-      "France",
-      "Moldova",
-      "Ukraine"
-    ],
-    "correctAnswer": "Moldova"
-  },
-  {
-    "id": 12,
-    "question": "Amritpal Singh, the gangster extradited from Moldova, was identified as an operative of which gang?",
-    "options": [
-      "Bishnoi gang",
-      "Jaggu Bhagwanpuria gang",
-      "Lawrence Bishnoi gang",
-      "Bambiha gang"
-    ],
-    "correctAnswer": "Jaggu Bhagwanpuria gang"
-  },
-  {
-    "id": 13,
-    "question": "Which specific Indian government cell or agency is credited with bringing back wanted fugitives, including the one from Moldova?",
-    "options": [
-      "Interpol India Unit",
-      "Central Bureau of Investigation (CBI)",
-      "Overseas Fugitive Tracking and Extradition Cell",
-      "National Investigation Agency (NIA)"
-    ],
-    "correctAnswer": "Overseas Fugitive Tracking and Extradition Cell"
-  },
-  {
-    "id": 14,
-    "question": "What term was used to describe the friendly atmosphere between leaders Modi, Xi, and Putin at the BRICS Summit, as noted in the key takeaways?",
-    "options": [
-      "Détente",
-      "Confluence",
-      "Bonhomie",
-      "Concord"
-    ],
-    "correctAnswer": "Bonhomie"
-  },
-  {
-    "id": 15,
-    "question": "What specific location, within India, was mentioned in connection with a condemnation during the BRICS Summit key takeaways?",
-    "options": [
-      "Mumbai",
-      "Bengaluru",
-      "Pahalgam",
-      "Goa"
-    ],
+    "question": "The BRICS Summit's key takeaways included a condemnation related to which Indian region, highlighting India's security concerns on the global stage?",
+    "options": ["Goa", "Pahalgam", "Punjab", "Maharashtra"],
     "correctAnswer": "Pahalgam"
   },
   {
+    "id": 10,
+    "question": "What major declaration was a key outcome of the recent BRICS Summit, reflecting India's contributions to global dialogues?",
+    "options": ["The Moscow Accord", "The Cape Town Resolution", "The New Delhi Declaration", "The Beijing Consensus"],
+    "correctAnswer": "The New Delhi Declaration"
+  },
+  {
+    "id": 11,
+    "question": "The BRICS joint declaration emphasized the protection of nuclear sites, specifically qualifying them as what type?",
+    "options": ["Military and strategic", "Undeclared and experimental", "Civilian and peaceful", "Decommissioned and redundant"],
+    "correctAnswer": "Civilian and peaceful"
+  },
+  {
+    "id": 12,
+    "question": "India's efforts to bridge the Iran-UAE chasm within BRICS underscore its commitment to which diplomatic approach in international relations?",
+    "options": ["Unilateral imposition of policies", "Mediatory role and constructive engagement", "Formation of exclusive military blocs", "Aggressive economic competition"],
+    "correctAnswer": "Mediatory role and constructive engagement"
+  },
+  {
+    "id": 13,
+    "question": "India, as part of the BRICS joint declaration, advocated for what kind of changes to the United Nations Security Council?",
+    "options": ["Minor administrative adjustments", "Abolition of the veto power for all members", "Extensive structural reforms", "Reduction in the number of permanent members"],
+    "correctAnswer": "Extensive structural reforms"
+  },
+  {
+    "id": 14,
+    "question": "India, through the BRICS declaration, reinforced a collective resolve against what global destructive phenomenon, highlighting its widespread impact?",
+    "options": ["Cybercrime and digital piracy", "Terrorism in all its varied forms", "Illegal wildlife trade", "Ocean plastic pollution"],
+    "correctAnswer": "Terrorism in all its varied forms"
+  },
+  {
+    "id": 15,
+    "question": "The recent major output from the BRICS nations, to which India was a key contributor, is formally known as a:",
+    "options": ["Bilateral Memorandum", "Joint Declaration", "Unilateral Sanction Order", "Trade Protocol"],
+    "correctAnswer": "Joint Declaration"
+  },
+  {
     "id": 16,
-    "question": "What did BRICS leaders reiterate as critical for achieving regional stability in their recent declaration?",
-    "options": [
-      "Economic sanctions",
-      "Military interventions",
-      "Constructive dialogue",
-      "Unilateral declarations"
-    ],
-    "correctAnswer": "Constructive dialogue"
+    "question": "India's stance within the BRICS joint declaration highlights its emphasis on which approach for fostering regional and global stability?",
+    "options": ["Economic protectionism", "Military deterrence", "Constructive dialogue and multilateralism", "Unilateral decision-making"],
+    "correctAnswer": "Constructive dialogue and multilateralism"
   },
   {
     "id": 17,
-    "question": "What was the BRICS nations' collective stance on terrorism as reaffirmed in their joint declaration?",
-    "options": [
-      "To address only state-sponsored terrorism.",
-      "To combat terrorism in all its manifestations.",
-      "To focus on cyber terrorism exclusively.",
-      "To overlook certain forms of terrorism."
-    ],
-    "correctAnswer": "To combat terrorism in all its manifestations."
+    "question": "India's diplomatic role in bridging the Iran-UAE differences during BRICS negotiations exemplified its policy of promoting what in complex regional dynamics?",
+    "options": ["Economic isolation of disputing parties", "Peaceful resolution through dialogue and mediation", "Strong military alliances", "Unilateral sanctions"],
+    "correctAnswer": "Peaceful resolution through dialogue and mediation"
   },
   {
     "id": 18,
-    "question": "How many more extradition proposals are currently pending with the central government, according to the Punjab minister?",
-    "options": [
-      "Ten",
-      "Fifteen",
-      "Twenty-one",
-      "Thirty"
-    ],
-    "correctAnswer": "Twenty-one"
+    "question": "Which of the following topics was NOT explicitly mentioned as a key issue addressed in the BRICS joint declaration that India was part of?",
+    "options": ["Combating terrorism", "Reforms of the UNSC", "Protection of peaceful nuclear sites", "Global cryptocurrency regulation"],
+    "correctAnswer": "Global cryptocurrency regulation"
   },
   {
     "id": 19,
-    "question": "The recent BRICS joint declaration highlighted India's key role in resolving a diplomatic issue between which two Middle Eastern nations?",
-    "options": [
-      "Russia and China",
-      "Brazil and South Africa",
-      "Iran and UAE",
-      "India and Pakistan"
-    ],
-    "correctAnswer": "Iran and UAE"
+    "question": "A specific act of violence or aggression in which Indian region received condemnation in the BRICS Summit key takeaways, demonstrating international concern for India's security?",
+    "options": ["Sikkim", "Pahalgam", "Gujarat", "Kerala"],
+    "correctAnswer": "Pahalgam"
   },
   {
     "id": 20,
-    "question": "In the radicalisation probe in J&K, what type of cross-border contact was discovered by investigators?",
-    "options": [
-      "Trade negotiations with neighboring countries.",
-      "Tourist exchanges across the Line of Control.",
-      "Contact with suspicious persons across the Line of Control.",
-      "Cultural exchange programs."
-    ],
-    "correctAnswer": "Contact with suspicious persons across the Line of Control."
+    "question": "The BRICS nations, including India, resolved to create a joint mechanism for the extradition of what specific group of individuals?",
+    "options": ["Political refugees seeking asylum", "Economic migrants without valid visas", "Fugitives from justice", "Academics engaged in controversial research"],
+    "correctAnswer": "Fugitives from justice"
   },
   {
     "id": 21,
-    "question": "What major international body did the BRICS joint declaration call for extensive reforms of?",
-    "options": [
-      "World Bank",
-      "International Monetary Fund (IMF)",
-      "World Trade Organization (WTO)",
-      "United Nations Security Council (UNSC)"
-    ],
-    "correctAnswer": "United Nations Security Council (UNSC)"
+    "question": "What diplomatic tool did India effectively employ to help resolve the Iran-UAE differences during the BRICS negotiations, leading to a joint declaration?",
+    "options": ["Imposing trade embargoes", "Issuing an ultimatum", "Providing military aid", "Facilitating mediation"],
+    "correctAnswer": "Facilitating mediation"
   },
   {
     "id": 22,
-    "question": "What is the current status regarding the identity of the suspected Jaish-e-Mohammed terrorist found in Doda?",
-    "options": [
-      "The identity has been confirmed as a local resident.",
-      "The identity has been confirmed as a foreign national.",
-      "Security forces are working to determine the identity.",
-      "The identity has been withheld from the public."
-    ],
-    "correctAnswer": "Security forces are working to determine the identity."
+    "question": "The BRICS joint declaration explicitly supported the critical role of what in achieving regional stability, a point often emphasized by India?",
+    "options": ["Unilateral military build-up", "Exclusive economic blocs", "Constructive dialogue", "Isolationist foreign policies"],
+    "correctAnswer": "Constructive dialogue"
   },
   {
     "id": 23,
-    "question": "How many wanted fugitives has the Overseas Fugitive Tracking and Extradition Cell successfully brought back to India so far, as per the news?",
-    "options": [
-      "Five",
-      "Seven",
-      "Ten",
-      "Twelve"
-    ],
-    "correctAnswer": "Ten"
+    "question": "Which group of nations recently issued a joint declaration addressing vital global issues after intense negotiations involving India?",
+    "options": ["G7", "NATO", "BRICS", "SAARC"],
+    "correctAnswer": "BRICS"
   },
   {
     "id": 24,
-    "question": "The Malaysian PM singing an Indian classic at the BRICS gala dinner is an example of what kind of diplomatic effort?",
-    "options": [
-      "Economic diplomacy",
-      "Cultural diplomacy",
-      "Military diplomacy",
-      "Environmental diplomacy"
-    ],
-    "correctAnswer": "Cultural diplomacy"
+    "question": "India's active participation in the BRICS joint declaration demonstrates its commitment to a foreign policy that prioritizes what for regional and global stability?",
+    "options": ["Isolationism and self-reliance", "Aggressive military posturing", "Multilateralism and cooperative diplomacy", "Economic protectionism"],
+    "correctAnswer": "Multilateralism and cooperative diplomacy"
   },
   {
     "id": 25,
-    "question": "The SIA's radicalisation probe in Poonch and Udhampur is investigating the spread of secessionist narratives through which mediums?",
-    "options": [
-      "Only print media",
-      "Only social media",
-      "Online and offline channels",
-      "Foreign broadcasts exclusively"
-    ],
-    "correctAnswer": "Online and offline channels"
+    "question": "The call for 'extensive reforms of the United Nations Security Council' in the BRICS joint declaration, as supported by India, is an appeal for what kind of change?",
+    "options": ["Minor adjustments to voting procedures", "Fundamental structural and operational adjustments", "A reduction in the budget for UN peacekeeping", "A focus solely on humanitarian aid"],
+    "correctAnswer": "Fundamental structural and operational adjustments"
   }
 ]

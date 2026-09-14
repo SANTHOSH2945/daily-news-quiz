@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "India recently strengthened space cooperation with France. Which state is home to the Satish Dhawan Space Centre, India's main launch facility that plays a crucial role in such international collaborations?",
-    "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Kerala"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What was the primary cause of the food stall fire in Hyderabad's Puppalaguda area?",
+    "options": ["Electrical short circuit", "Gas cylinder explosion", "Arson", "Oil spill"],
+    "correctAnswer": "Gas cylinder explosion"
   },
   {
     "id": 2,
-    "question": "The new agreements between India and France include the development of space surveillance systems. Which city in Telangana is known as a major center for defense research and development, potentially contributing to these systems?",
-    "options": ["Warangal", "Visakhapatnam", "Hyderabad", "Vijayawada"],
+    "question": "In which city was the food stall fire, involving a gas cylinder explosion, reported?",
+    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
     "correctAnswer": "Hyderabad"
   },
   {
     "id": 3,
-    "question": "As part of enhancing space partnership, France's Safran Space will provide essential technology for India's SBS-III constellation. This development supports India's overall space program, which utilizes launch infrastructure in Andhra Pradesh. For which specific Indian constellation is Safran Space providing technology?",
-    "options": ["NavIC", "GSAT-series", "SBS-III", "IRNSS"],
-    "correctAnswer": "SBS-III"
+    "question": "Which specific area of Hyderabad experienced a food stall fire due to a gas cylinder explosion?",
+    "options": ["Banjara Hills", "Jubilee Hills", "Puppalaguda", "Gachibowli"],
+    "correctAnswer": "Puppalaguda"
   },
   {
     "id": 4,
-    "question": "RIDE! is mentioned as facilitating the launch of two satellites for orbital data centers. If these launches occur from Indian soil, which state's spaceport, located on the east coast, would be the most likely origin?",
-    "options": ["Odisha", "Tamil Nadu", "Andhra Pradesh", "West Bengal"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What was the reported outcome regarding injuries from the food kiosk fire in Hyderabad?",
+    "options": ["Multiple severe injuries", "Fatalities reported", "No injuries reported", "Minor injuries to staff"],
+    "correctAnswer": "No injuries reported"
   },
   {
     "id": 5,
-    "question": "The collaboration between India and France in space is described as merging French innovation with India's 'extensive industrial expertise.' Which major city in Telangana has a prominent aerospace industry sector contributing to this national expertise?",
-    "options": ["Khammam", "Karimnagar", "Hyderabad", "Nalgonda"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 6,
-    "question": "India's space cooperation with France includes new arrangements for satellite launch agreements. These agreements indirectly highlight the strategic importance of India's launch capabilities centered in which state?",
-    "options": ["Maharashtra", "Gujarat", "Andhra Pradesh", "Goa"],
-    "correctAnswer": "Andhra Pradesh"
-  },
-  {
-    "id": 7,
-    "question": "What is one of the two main areas of cooperation highlighted in the new agreements between India and France regarding space?",
-    "options": ["Lunar mining", "Mars colonization", "Satellite launch agreements", "Asteroid deflection"],
-    "correctAnswer": "Satellite launch agreements"
-  },
-  {
-    "id": 8,
-    "question": "The development of space surveillance systems, a part of India-France cooperation, leverages India's industrial capabilities. Beyond Hyderabad in Telangana, which major port city in Andhra Pradesh also contributes significantly to India's industrial base that supports such national strategic projects?",
-    "options": ["Guntur", "Nellore", "Kakinada", "Visakhapatnam"],
+    "question": "The incident of a bus catching fire occurred in which city of Andhra Pradesh?",
+    "options": ["Amaravati", "Tirupati", "Vijayawada", "Visakhapatnam"],
     "correctAnswer": "Visakhapatnam"
   },
   {
-    "id": 9,
-    "question": "India's extensive industrial expertise, including contributions from entities in Telangana, is being merged with French innovation for space. What is the overarching theme of these new India-France space agreements?",
-    "options": ["Economic trade liberalization", "Cultural exchange programs", "Boosting space collaboration", "Tourism promotion"],
-    "correctAnswer": "Boosting space collaboration"
+    "id": 6,
+    "question": "What action did the driver of the bus in Visakhapatnam take after the vehicle caught fire?",
+    "options": ["Attempted to extinguish the fire himself", "Called for immediate help and waited", "Pulled over and ensured passenger evacuation", "Drove to the nearest fire station"],
+    "correctAnswer": "Pulled over and ensured passenger evacuation"
   },
   {
-    "id": 10,
-    "question": "The partnership between India and France strengthens India's position in global space activities. From which coastal region of Andhra Pradesh are India's major satellite launch facilities operated?",
-    "options": ["Rayalaseema coast", "North Andhra coast", "Central Andhra coast", "Nellore coast"],
-    "correctAnswer": "Nellore coast"
+    "id": 7,
+    "question": "What was the positive outcome for the passengers in the Visakhapatnam bus fire incident?",
+    "options": ["All belongings were saved", "The bus was partially salvageable", "All passengers evacuated safely", "No traffic disruption occurred"],
+    "correctAnswer": "All passengers evacuated safely"
   },
   {
-    "id": 11,
-    "question": "What is the name of the organization that is set to facilitate the launch of two satellites for orbital data centers, as per the India-France space agreements?",
-    "options": ["ESA", "SpaceX", "RIDE!", "Blue Origin"],
-    "correctAnswer": "RIDE!"
-  },
-  {
-    "id": 12,
-    "question": "The news highlights the role of French innovation in new space deals with India. India's contribution comes from its 'extensive industrial expertise,' with cities like Hyderabad in Telangana playing a vital part. What specific domain is this collaboration focused on?",
-    "options": ["Deep-sea exploration", "Space exploration", "Cybersecurity", "Renewable energy"],
-    "correctAnswer": "Space exploration"
-  },
-  {
-    "id": 13,
-    "question": "The agreements between India and France strengthen India's capabilities in space. These capabilities rely on infrastructure, including launch pads located in which specific district of Andhra Pradesh?",
-    "options": ["Guntur District", "Krishna District", "Nellore District", "Chittoor District"],
-    "correctAnswer": "Nellore District"
-  },
-  {
-    "id": 14,
-    "question": "What is one of the key types of technology France's Safran Space will provide to India under the new space cooperation agreements?",
-    "options": ["Rocket propulsion systems", "Advanced navigation software", "Essential technology for SBS-III constellation", "Lunar lander modules"],
-    "correctAnswer": "Essential technology for SBS-III constellation"
-  },
-  {
-    "id": 15,
-    "question": "India's space program, with its launch facilities in Andhra Pradesh, is broadening its international partnerships. The recent agreements were signed with companies from which European nation?",
-    "options": ["Germany", "United Kingdom", "France", "Italy"],
-    "correctAnswer": "France"
-  },
-  {
-    "id": 16,
-    "question": "The 'extensive industrial expertise' mentioned in the context of India-France space collaboration refers to India's capabilities. Which state, carved out of the erstwhile Andhra Pradesh, is a significant contributor to India's IT and aerospace industries?",
-    "options": ["Odisha", "Karnataka", "Telangana", "Chhattisgarh"],
+    "id": 8,
+    "question": "Which state saw a food stall fire in its capital city, Hyderabad, recently?",
+    "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Telangana"],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 9,
+    "question": "Which state reported a bus fire in Visakhapatnam, where passengers were safely evacuated?",
+    "options": ["Telangana", "Odisha", "Andhra Pradesh", "Kerala"],
+    "correctAnswer": "Andhra Pradesh"
+  },
+  {
+    "id": 10,
+    "question": "The news reported two fire incidents, one in Hyderabad and another in Visakhapatnam. What type of incidents were these?",
+    "options": ["Forest fires", "Industrial fires", "Vehicle and commercial establishment fires", "Residential fires"],
+    "correctAnswer": "Vehicle and commercial establishment fires"
+  },
+  {
+    "id": 11,
+    "question": "What type of establishment caught fire in Hyderabad's Puppalaguda area?",
+    "options": ["Residential building", "Office complex", "Food stall", "Shopping mall"],
+    "correctAnswer": "Food stall"
+  },
+  {
+    "id": 12,
+    "question": "How did the driver of the Visakhapatnam bus ensure passenger safety during the fire?",
+    "options": ["By diverting to a remote area", "By immediately pulling over and evacuating all passengers", "By dousing the flames with an extinguisher", "By calling emergency services while driving"],
+    "correctAnswer": "By immediately pulling over and evacuating all passengers"
+  },
+  {
+    "id": 13,
+    "question": "Which Hindu deity is primarily worshipped during Ganesh Chaturthi, a festival widely celebrated in Telangana and Andhra Pradesh?",
+    "options": ["Lord Vishnu", "Lord Shiva", "Lord Ganesha", "Goddess Lakshmi"],
+    "correctAnswer": "Lord Ganesha"
+  },
+  {
+    "id": 14,
+    "question": "Ganesh Chaturthi is a vibrant festival celebrated across India, including states like Telangana and Andhra Pradesh. What does this festival often symbolize?",
+    "options": ["End of harvest season", "Beginning of spring", "Cultural resurgence and herald of prosperity", "Commemoration of historical battles"],
+    "correctAnswer": "Cultural resurgence and herald of prosperity"
+  },
+  {
+    "id": 15,
+    "question": "What is a common practice for devotees during Ganesh Chaturthi celebrations in states like Telangana and Andhra Pradesh?",
+    "options": ["Fasting for an entire month", "Converging at prominent pandals and temples", "Performing firewalking rituals", "Exchanging traditional attire only"],
+    "correctAnswer": "Converging at prominent pandals and temples"
+  },
+  {
+    "id": 16,
+    "question": "In which month, typically, does Ganesh Chaturthi fall, as per the news context of its vibrant celebration across India?",
+    "options": ["January", "April", "September", "December"],
+    "correctAnswer": "September"
+  },
+  {
     "id": 17,
-    "question": "What specific type of agreements, alongside space surveillance systems, define the enhanced partnership between India and France in the space sector?",
-    "options": ["Space tourism ventures", "Asteroid mining contracts", "Satellite launch agreements", "International Space Station funding"],
-    "correctAnswer": "Satellite launch agreements"
+    "question": "Beyond Mumbai and Tamil Nadu, Ganesh Chaturthi is a significant festival in which other major South Indian states?",
+    "options": ["Kerala and Karnataka", "Telangana and Andhra Pradesh", "Goa and Odisha", "West Bengal and Bihar"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 18,
-    "question": "Which Indian organization operates the Satish Dhawan Space Centre in Andhra Pradesh, a key asset in India's space ventures and international collaborations?",
-    "options": ["DRDO", "BARC", "ISRO", "HAL"],
-    "correctAnswer": "ISRO"
+    "question": "The installation of pandals and unique decorations is a hallmark of which Indian festival, widely observed in states like Telangana?",
+    "options": ["Diwali", "Holi", "Eid", "Ganesh Chaturthi"],
+    "correctAnswer": "Ganesh Chaturthi"
   },
   {
     "id": 19,
-    "question": "The development of space surveillance systems is crucial for India's space security. Which major city in Telangana houses several defense and research establishments that are vital for such strategic projects?",
-    "options": ["Secunderabad", "Warangal", "Hyderabad", "Khammam"],
-    "correctAnswer": "Hyderabad"
+    "question": "In which Indian city was the Brics Summit 2026 held, as mentioned in the news, an event of national significance?",
+    "options": ["Mumbai", "Bengaluru", "New Delhi", "Kolkata"],
+    "correctAnswer": "New Delhi"
   },
   {
     "id": 20,
-    "question": "The orbital data centers, for which RIDE! is launching satellites, represent a new frontier in space technology. India's launch capabilities, primarily from Andhra Pradesh, are integral to these future endeavors. What is the fundamental nature of these 'orbital data centers'?",
-    "options": ["Ground-based servers", "Underwater data storage", "Data processing in space", "Mobile data units"],
-    "correctAnswer": "Data processing in space"
+    "question": "Which international grouping recently held its summit in New Delhi where India played a leadership role, an event relevant to all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["G7", "NATO", "Brics", "SAARC"],
+    "correctAnswer": "Brics"
   },
   {
     "id": 21,
-    "question": "The collaboration between India and France aims to strengthen space capabilities. The facilities in Andhra Pradesh are key for launching. What is the full name of the primary space center located in Andhra Pradesh?",
-    "options": ["Vikram Sarabhai Space Centre", "Thumba Equatorial Rocket Launching Station", "Satish Dhawan Space Centre", "Liquid Propulsion Systems Centre"],
-    "correctAnswer": "Satish Dhawan Space Centre"
+    "question": "Who among the following global leaders engaged in discussions with PM Modi at the Brics Summit in New Delhi, according to the news?",
+    "options": ["Joe Biden", "Emmanuel Macron", "Xi Jinping", "Rishi Sunak"],
+    "correctAnswer": "Xi Jinping"
   },
   {
     "id": 22,
-    "question": "India's 'extensive industrial expertise' is a strength in its space partnerships. This includes various private and public sector entities across India. Which of the following is a major contributor to industrial output in Andhra Pradesh, potentially supporting such initiatives?",
-    "options": ["Automobile manufacturing in Chennai", "IT sector in Bengaluru", "Pharmaceuticals and port-based industries in Visakhapatnam", "Textile mills in Ahmedabad"],
-    "correctAnswer": "Pharmaceuticals and port-based industries in Visakhapatnam"
+    "question": "What was a significant outcome of the 18th Brics summit, as highlighted by Rajnath Singh?",
+    "options": ["Agreement on a new currency", "Joint declaration after intensive negotiations", "Formation of a new military alliance", "Sanctions against a member nation"],
+    "correctAnswer": "Joint declaration after intensive negotiations"
   },
   {
     "id": 23,
-    "question": "The space agreements with France involve technology transfer for India's SBS-III constellation. The infrastructure for managing such constellations includes tracking stations. What is the geographical feature where Sriharikota, the launch site in Andhra Pradesh, is located?",
-    "options": ["On a mountain range", "In a desert region", "On an island/barrier island", "Near a major river delta"],
-    "correctAnswer": "On an island/barrier island"
+    "question": "On which date is Hindi Diwas celebrated annually in India, a national observance?",
+    "options": ["January 26", "August 15", "September 14", "October 2"],
+    "correctAnswer": "September 14"
   },
   {
     "id": 24,
-    "question": "Which country is partnering with India to boost space cooperation, involving agreements for satellite launches and the development of space surveillance systems, leveraging industrial expertise from states like Telangana?",
-    "options": ["USA", "Russia", "France", "Japan"],
-    "correctAnswer": "France"
+    "question": "What is the primary reason for celebrating Hindi Diwas on September 14th across India?",
+    "options": ["Commemoration of India's independence", "Adoption of Hindi as official language by Constituent Assembly", "Birthday of a prominent Hindi poet", "Victory in a historical war"],
+    "correctAnswer": "Adoption of Hindi as official language by Constituent Assembly"
   },
   {
     "id": 25,
-    "question": "The new space arrangements between India and France are set to enhance their partnership, benefiting India's space program, including its launch facilities in Andhra Pradesh. What is the overall number of key agreements signed?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Three"
+    "question": "What did the Israeli envoy compare Hindi to, in terms of its antiquity, on Hindi Diwas?",
+    "options": ["Greek", "Latin", "Hebrew", "Sanskrit"],
+    "correctAnswer": "Hebrew"
   }
 ]

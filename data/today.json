@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Uniform Civil Code (UCC) remains a significant point of debate in Indian polity. Which article of the Indian Constitution, under the Directive Principles of State Policy, advocates for the state to endeavor to secure a UCC for all citizens?",
-    "options": ["Article 44", "Article 40", "Article 48", "Article 51"],
-    "correctAnswer": "Article 44"
+    "question": "Calls for increased transparency in India's judicial system often highlight concerns regarding which of the following?",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "correctAnswer": "Opacity in judicial appointments and transfers"
   },
   {
     "id": 2,
-    "question": "In the context of the national discourse on the Uniform Civil Code (UCC), what is a primary concern for states like Telangana and Andhra Pradesh, known for their diverse cultural and religious communities?",
-    "options": ["Streamlining agricultural laws", "Preserving distinct personal laws", "Implementing uniform taxation", "Enhancing cross-border trade"],
-    "correctAnswer": "Preserving distinct personal laws"
+    "question": "In the Indian legal context, what does FIR primarily stand for?",
+    "options": ["Final Inquiry Report", "First Information Report", "Federal Investigation Regulation", "Formal Incident Record"],
+    "correctAnswer": "First Information Report"
   },
   {
     "id": 3,
-    "question": "The debate around UCC often involves different personal laws currently governing various communities in India. Which of the following is NOT typically considered a personal law that UCC aims to unify?",
-    "options": ["Marriage and divorce laws", "Inheritance laws", "Property laws", "Criminal procedure code"],
-    "correctAnswer": "Criminal procedure code"
+    "question": "The Chief Justice of India recently defended the judiciary's internal complaint redressal mechanism. What is a common source of complaints mentioned in this context, applicable across Indian states including Telangana and Andhra Pradesh?",
+    "options": ["Overworked court staff", "Disgruntled litigants after court reversals", "Lack of infrastructure for lawyers", "Political interference in judicial appointments"],
+    "correctAnswer": "Disgruntled litigants after court reversals"
   },
   {
     "id": 4,
-    "question": "While some political parties advocate for UCC, others express reservations. What is a common argument made by those opposing immediate implementation, particularly in states with significant minority populations like Telangana and Andhra Pradesh?",
-    "options": ["It would simplify election processes", "It might infringe on religious freedom and cultural diversity", "It would boost economic growth", "It could lead to better law and order"],
-    "correctAnswer": "It might infringe on religious freedom and cultural diversity"
+    "question": "One of the criticisms often leveled against the Indian judicial system, relevant to all states including Telangana and Andhra Pradesh, relates to opaqueness in what process?",
+    "options": ["Court fee collection", "Judicial appointments and transfers", "Case scheduling and listing", "Verdict pronouncements"],
+    "correctAnswer": "Judicial appointments and transfers"
   },
   {
     "id": 5,
-    "question": "Which constitutional body in India recently sought public and religious organizations' views on the Uniform Civil Code, inviting submissions from various stakeholders, including those from Telangana and Andhra Pradesh?",
-    "options": ["Election Commission of India", "Law Commission of India", "NITI Aayog", "Supreme Court of India"],
-    "correctAnswer": "Law Commission of India"
+    "question": "The Central Bureau of Investigation (CBI) in India is a premier investigating agency. What is its typical jurisdiction, which includes states like Telangana and Andhra Pradesh?",
+    "options": ["Limited to specific Union Territories", "Primarily state-level crimes without central government consent", "Cases assigned by the central government or high courts/Supreme Court across India", "International crimes only, involving Indian citizens abroad"],
+    "correctAnswer": "Cases assigned by the central government or high courts/Supreme Court across India"
   },
   {
     "id": 6,
-    "question": "Historically, the state of Goa is unique in India for having a form of Uniform Civil Code. What is this code commonly known as?",
-    "options": ["Goan Family Law", "Portuguese Civil Code", "Goa Personal Statutes", "Indian Civil Code of Goa"],
-    "correctAnswer": "Portuguese Civil Code"
+    "question": "Under what circumstances might the CBI register an FIR for a previously closed case in India, a process applicable throughout the country?",
+    "options": ["Only upon public demand via social media", "Following a directive from a competent court", "After a media exposé without formal complaint", "If new political parties assume power at the Centre"],
+    "correctAnswer": "Following a directive from a competent court"
   },
   {
     "id": 7,
-    "question": "The Anti-Defection Law, enshrined in the Tenth Schedule of the Indian Constitution, aims to prevent political defections. Which amendment introduced this law?",
-    "options": ["42nd Amendment", "52nd Amendment", "61st Amendment", "73rd Amendment"],
-    "correctAnswer": "52nd Amendment"
+    "question": "In the context of ongoing high-profile investigations in India, a concern often raised by political leaders regarding such cases is what, which is equally pertinent in states like Telangana and Andhra Pradesh?",
+    "options": ["Excessive police resources allocated", "Under-reporting by national media", "Potential for politicization", "Lack of public interest in the outcome"],
+    "correctAnswer": "Potential for politicization"
   },
   {
     "id": 8,
-    "question": "In the context of states like Telangana and Andhra Pradesh, what is the primary consequence for an elected representative who defects from their original political party after being elected, according to the Anti-Defection Law?",
-    "options": ["They must pay a large fine", "They are disqualified from their legislative membership", "They are banned from future elections", "Their party membership is revoked"],
-    "correctAnswer": "They are disqualified from their legislative membership"
+    "question": "When a legal case in India, including those in Telangana or Andhra Pradesh, is described as 'sub judice,' what does it mean?",
+    "options": ["It has been dismissed by the court", "It is pending before a court and not yet decided", "It is a civil dispute, not a criminal one", "It is currently under appeal in a higher court"],
+    "correctAnswer": "It is pending before a court and not yet decided"
   },
   {
     "id": 9,
-    "question": "The dynamics of national and regional parties often influence state elections. Which of the following is a characteristic typically associated with regional parties, often seen in states like Telangana and Andhra Pradesh, compared to national parties?",
-    "options": ["Wider national appeal and policy focus", "Stronger focus on local issues and regional identity", "Larger financial resources", "Greater international recognition"],
-    "correctAnswer": "Stronger focus on local issues and regional identity"
+    "question": "Local body elections, such as municipal polls, are crucial in India for which primary purpose, affecting governance in states like Telangana and Andhra Pradesh?",
+    "options": ["Electing state chief ministers directly", "Directly electing Members of Parliament to the Lok Sabha", "Ensuring grassroots governance and local administration", "Deciding national defense policies"],
+    "correctAnswer": "Ensuring grassroots governance and local administration"
   },
   {
     "id": 10,
-    "question": "Recent news highlighted instances of political leaders switching parties. What is a common criticism leveled against political defections in Indian democracy, including in states like Telangana and Andhra Pradesh?",
-    "options": ["It strengthens party discipline", "It upholds electoral mandate", "It undermines voter trust and democratic stability", "It simplifies governance"],
-    "correctAnswer": "It undermines voter trust and democratic stability"
+    "question": "The performance of major national parties like BJP and Congress in local body elections in India, including those in Telangana and Andhra Pradesh, is often seen as an indicator for what?",
+    "options": ["International trade relations", "Upcoming state assembly and national elections", "Agricultural output for the current year", "Monsoon predictions for the next season"],
+    "correctAnswer": "Upcoming state assembly and national elections"
   },
   {
     "id": 11,
-    "question": "What is the role of the presiding officer (Speaker or Chairman) of the legislative body in deciding cases of disqualification under the Anti-Defection Law in state assemblies, such as those in Telangana and Andhra Pradesh?",
-    "options": ["Advisory role", "Binding judicial authority", "Final decision-making authority subject to judicial review", "No role, handled by Election Commission"],
-    "correctAnswer": "Final decision-making authority subject to judicial review"
+    "question": "Electoral victories in India, particularly at the local level in any state, are often interpreted by political leaders as reflecting what?",
+    "options": ["Public approval of development policies", "Economic recession", "Global political trends", "Changes in regional climate patterns"],
+    "correctAnswer": "Public approval of development policies"
   },
   {
     "id": 12,
-    "question": "Political alliances are common before and after elections in India. In states like Telangana and Andhra Pradesh, what is a primary motivation for regional parties to form alliances with national parties?",
-    "options": ["To completely merge their ideologies", "To gain national visibility and access to resources", "To reduce their own electoral base", "To contest elections in other countries"],
-    "correctAnswer": "To gain national visibility and access to resources"
+    "question": "Many Indian states, including Telangana and Andhra Pradesh, have implemented Chief Minister Helplines or similar mechanisms. What is their primary objective?",
+    "options": ["To provide tourism information to visitors", "To facilitate public grievance redressal", "To monitor political rallies and gatherings", "To promote state-specific cultural events"],
+    "correctAnswer": "To facilitate public grievance redressal"
   },
   {
     "id": 13,
-    "question": "When a political party gains members from another party through defections, particularly impacting legislative majorities in states like Telangana and Andhra Pradesh, this process is often referred to as:",
-    "options": ["Party consolidation", "Horse-trading", "Ideological shift", "Policy alignment"],
-    "correctAnswer": "Horse-trading"
+    "question": "Regarding public complaints received through helplines in Indian states, what instruction is crucial for officials to ensure effective governance?",
+    "options": ["To transfer all complaints to the central government", "To ensure actual resolution, not just formal closure", "To conduct extensive surveys on complaint satisfaction annually", "To increase the number of helplines without adding staff"],
+    "correctAnswer": "To ensure actual resolution, not just formal closure"
   },
   {
     "id": 14,
-    "question": "The Congress party recently criticized the Centre over inflation. In India, what is the most commonly referenced measure of retail inflation that directly impacts household budgets in states like Telangana and Andhra Pradesh?",
-    "options": ["Wholesale Price Index (WPI)", "Consumer Price Index (CPI)", "Producer Price Index (PPI)", "Gross Domestic Product (GDP) deflator"],
-    "correctAnswer": "Consumer Price Index (CPI)"
+    "question": "What types of issues are often highlighted for priority resolution through state-level grievance mechanisms in India, which are commonly faced in Telangana and Andhra Pradesh?",
+    "options": ["Space exploration queries and funding", "Land fraud and water supply issues", "International diplomacy concerns", "Sports league schedules and broadcasting rights"],
+    "correctAnswer": "Land fraud and water supply issues"
   },
   {
     "id": 15,
-    "question": "When inflation rises significantly, which sector's prices typically see the most immediate and direct impact on the common populace in states such as Telangana and Andhra Pradesh?",
-    "options": ["Luxury goods", "Essential food items and fuel", "Industrial machinery", "Software services"],
-    "correctAnswer": "Essential food items and fuel"
+    "question": "To improve the effectiveness of public grievance redressal in Indian states, what measure is often emphasized for officials to ensure accountability?",
+    "options": ["Offering financial rewards for early closure of cases", "Fixing accountability for unnecessary delays or negligence", "Delegating all responsibilities to junior staff without oversight", "Prioritizing complaints from influential individuals"],
+    "correctAnswer": "Fixing accountability for unnecessary delays or negligence"
   },
   {
     "id": 16,
-    "question": "What is the primary role of the Reserve Bank of India (RBI) in controlling inflation in India, including its impact on state economies like Telangana and Andhra Pradesh?",
-    "options": ["Implementing fiscal policy", "Formulating monetary policy", "Directly regulating commodity prices", "Managing state budgets"],
-    "correctAnswer": "Formulating monetary policy"
+    "question": "In the Indian judiciary, which officer holds the primary responsibility for presiding over court proceedings and delivering judgments, a role uniform across states like Telangana and Andhra Pradesh?",
+    "options": ["Public Prosecutor", "Judge", "Investigating Officer", "Legal Secretary"],
+    "correctAnswer": "Judge"
   },
   {
     "id": 17,
-    "question": "State governments, including those of Telangana and Andhra Pradesh, often implement measures to mitigate the impact of inflation on their citizens. Which of the following is a common measure adopted by state governments to control local price hikes or provide relief?",
-    "options": ["Increasing import duties on all goods", "Offering subsidies on essential commodities through PDS", "Directly setting interest rates", "Printing more currency"],
-    "correctAnswer": "Offering subsidies on essential commodities through PDS"
+    "question": "The independence of the judiciary is a cornerstone of India's democratic structure. Which principle, supported by the Indian Constitution, broadly underpins this, relevant to all state judiciaries?",
+    "options": ["The judiciary is subordinate to the executive", "Judicial appointments are solely made by the Parliament", "Separation of powers ensuring distinct functions for legislative, executive, and judicial branches", "State governments have absolute power over High Court appointments"],
+    "correctAnswer": "Separation of powers ensuring distinct functions for legislative, executive, and judicial branches"
   },
   {
     "id": 18,
-    "question": "A sustained increase in the general price level of goods and services in an economy over a period of time is known as:",
-    "options": ["Deflation", "Recession", "Inflation", "Stagnation"],
-    "correctAnswer": "Inflation"
+    "question": "Lawyers play a vital role in the Indian legal system across all states. Which of the following is their primary function?",
+    "options": ["Conducting police investigations", "Representing clients and presenting legal arguments in court", "Presiding over court cases", "Drafting new laws for the state legislature"],
+    "correctAnswer": "Representing clients and presenting legal arguments in court"
   },
   {
     "id": 19,
-    "question": "Which government body in India is responsible for collecting and releasing data for the Consumer Price Index (CPI), providing crucial insights into inflation trends for all states, including Telangana and Andhra Pradesh?",
-    "options": ["Ministry of Finance", "NITI Aayog", "National Statistical Office (NSO)", "Reserve Bank of India (RBI)"],
-    "correctAnswer": "National Statistical Office (NSO)"
+    "question": "Beyond internal mechanisms, which body/system in India generally holds the power for ultimate oversight of the judiciary in terms of appointments and transfers, though often criticized for opaqueness?",
+    "options": ["Parliament of India", "Union Public Service Commission", "Collegium system (Supreme Court/High Courts)", "Election Commission of India"],
+    "correctAnswer": "Collegium system (Supreme Court/High Courts)"
   },
   {
     "id": 20,
-    "question": "The term 'stagflation' refers to a situation characterized by which of the following economic conditions simultaneously?",
-    "options": ["High inflation and high economic growth", "Low inflation and low unemployment", "High inflation and high unemployment with stagnant demand", "Deflation and high economic growth"],
-    "correctAnswer": "High inflation and high unemployment with stagnant demand"
+    "question": "A court directive in India can significantly impact an investigation. What is a common outcome when a court issues a directive in a criminal case, applicable to states like Telangana and Andhra Pradesh?",
+    "options": ["Immediate closure of the case without further review", "Reopening of a previously closed case for further investigation", "Automatic acquittal of all accused individuals", "Mandatory international mediation for resolution"],
+    "correctAnswer": "Reopening of a previously closed case for further investigation"
   },
   {
     "id": 21,
-    "question": "The practice of buying and selling social media accounts raises significant ethical concerns. What is a primary risk associated with this trend for individuals and public discourse in states like Telangana and Andhra Pradesh?",
-    "options": ["Increased digital literacy", "Enhanced online privacy", "Spread of misinformation and erosion of authenticity", "Reduced advertising costs"],
-    "correctAnswer": "Spread of misinformation and erosion of authenticity"
+    "question": "Local governments in India, including municipal corporations and panchayats, are empowered to manage what types of issues, fundamental to state administration in Telangana and Andhra Pradesh?",
+    "options": ["National security and foreign policy", "Local infrastructure, sanitation, and public services", "Interstate water disputes between riparian states", "Monetary policy and national banking regulations"],
+    "correctAnswer": "Local infrastructure, sanitation, and public services"
   },
   {
     "id": 22,
-    "question": "What Indian law primarily governs offenses and legal aspects related to electronic transactions and cybercrime, which could potentially apply to fraudulent activities involving social media accounts?",
-    "options": ["Indian Penal Code", "Information Technology Act, 2000", "Consumer Protection Act", "Copyright Act"],
-    "correctAnswer": "Information Technology Act, 2000"
+    "question": "Which principle is crucial for effective public grievance redressal in any Indian state, ensuring genuine resolution rather than superficial closure?",
+    "options": ["Rapid escalation of all complaints to the Supreme Court", "Focus on preventive measures and root cause analysis of complaints", "Sole reliance on informal channels for complaint submission", "Complete anonymity of all complaints, preventing follow-up"],
+    "correctAnswer": "Focus on preventive measures and root cause analysis of complaints"
   },
   {
     "id": 23,
-    "question": "What is the primary motivation for individuals or organizations to purchase social media accounts with a large existing follower base?",
-    "options": ["To quickly establish credibility and reach a wide audience", "To practice digital hygiene", "To reduce screen time", "To bypass internet censorship"],
-    "correctAnswer": "To quickly establish credibility and reach a wide audience"
+    "question": "In India's democratic system, how do citizens primarily express their approval or disapproval of government policies and performance, at all levels including state elections in Telangana and Andhra Pradesh?",
+    "options": ["Through social media trends and online petitions", "By participating in elections", "By organizing international conferences", "Through purchasing specific consumer goods"],
+    "correctAnswer": "By participating in elections"
   },
   {
     "id": 24,
-    "question": "In the context of digital governance and social media usage in India, including states like Telangana and Andhra Pradesh, what concept refers to the ability to identify the real person behind an online interaction?",
-    "options": ["Anonymity", "Digital footprint", "Online transparency", "Pseudonymity"],
-    "correctAnswer": "Online transparency"
+    "question": "The Indian system of governance incorporates 'checks and balances' to maintain democratic integrity. Which scenario illustrates this principle, common to all states?",
+    "options": ["The executive making laws without legislative approval", "The judiciary reviewing actions of the executive and legislature", "The legislature appointing all judges without judicial input", "State governments having absolute autonomy over national defense"],
+    "correctAnswer": "The judiciary reviewing actions of the executive and legislature"
   },
   {
     "id": 25,
-    "question": "The rise of social media account trading contributes to the broader challenge of identifying authentic online voices. What regulatory measure have some social media platforms implemented to verify the identity of prominent users or accounts?",
-    "options": ["Mandatory biometric authentication for all users", "Implementation of 'blue tick' or verification badges", "Prohibition of all personal accounts", "Limiting daily usage time"],
-    "correctAnswer": "Implementation of 'blue tick' or verification badges"
+    "question": "Maintaining public trust in governance requires high ethical standards from officials across India. Which aspect is most critical for officials overseeing public funds or addressing public complaints in states like Telangana and Andhra Pradesh?",
+    "options": ["Frequent public appearances", "Timely submission of reports on minor administrative tasks", "Integrity and accountability", "Ability to speak multiple languages fluently"],
+    "correctAnswer": "Integrity and accountability"
   }
 ]

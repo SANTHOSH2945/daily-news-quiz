@@ -1,152 +1,302 @@
 [
   {
     "id": 1,
-    "question": "Calls for increased transparency in India's judicial system often highlight concerns regarding which of the following?",
-    "options": ["Option A", "Option B", "Option C", "Option D"],
-    "correctAnswer": "Opacity in judicial appointments and transfers"
+    "question": "What is a primary concern raised by legal experts regarding the Indian judiciary, as implied by recent discussions?",
+    "options": [
+      "Lack of adequate infrastructure in courts",
+      "Opaqueness in judicial appointments and transfers",
+      "Insufficient salary for judges",
+      "Over-reliance on digital technologies",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Opaqueness in judicial appointments and transfers"
   },
   {
     "id": 2,
-    "question": "In the Indian legal context, what does FIR primarily stand for?",
-    "options": ["Final Inquiry Report", "First Information Report", "Federal Investigation Regulation", "Formal Incident Record"],
-    "correctAnswer": "First Information Report"
+    "question": "What mechanism does the Chief Justice typically defend for handling complaints against judges within the Indian judiciary?",
+    "options": [
+      "Public referendums",
+      "External independent commissions",
+      "An internal complaint redressal mechanism",
+      "Direct parliamentary intervention",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "An internal complaint redressal mechanism"
   },
   {
     "id": 3,
-    "question": "The Chief Justice of India recently defended the judiciary's internal complaint redressal mechanism. What is a common source of complaints mentioned in this context, applicable across Indian states including Telangana and Andhra Pradesh?",
-    "options": ["Overworked court staff", "Disgruntled litigants after court reversals", "Lack of infrastructure for lawyers", "Political interference in judicial appointments"],
+    "question": "According to judicial observations, many complaints against judges in India often originate from which group?",
+    "options": [
+      "Fellow judges seeking promotion",
+      "Disgruntled litigants after court reversals",
+      "Government officials",
+      "Journalists and media personnel",
+      "The exact option string that is correct"
+    ],
     "correctAnswer": "Disgruntled litigants after court reversals"
   },
   {
     "id": 4,
-    "question": "One of the criticisms often leveled against the Indian judicial system, relevant to all states including Telangana and Andhra Pradesh, relates to opaqueness in what process?",
-    "options": ["Court fee collection", "Judicial appointments and transfers", "Case scheduling and listing", "Verdict pronouncements"],
-    "correctAnswer": "Judicial appointments and transfers"
+    "question": "What key legal action is often called for by leading lawyers when allegations of impropriety, like cash found at a judge's residence, surface?",
+    "options": [
+      "A formal apology from the judge",
+      "Immediate retirement of the judge",
+      "Slapping of an FIR (First Information Report)",
+      "A public debate on ethical standards",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Slapping of an FIR (First Information Report)"
   },
   {
     "id": 5,
-    "question": "The Central Bureau of Investigation (CBI) in India is a premier investigating agency. What is its typical jurisdiction, which includes states like Telangana and Andhra Pradesh?",
-    "options": ["Limited to specific Union Territories", "Primarily state-level crimes without central government consent", "Cases assigned by the central government or high courts/Supreme Court across India", "International crimes only, involving Indian citizens abroad"],
-    "correctAnswer": "Cases assigned by the central government or high courts/Supreme Court across India"
+    "question": "Discussions on judicial reform in India often advocate for increased:",
+    "options": [
+      "Confidentiality",
+      "Bureaucracy",
+      "Transparency",
+      "Autocracy",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Transparency"
   },
   {
     "id": 6,
-    "question": "Under what circumstances might the CBI register an FIR for a previously closed case in India, a process applicable throughout the country?",
-    "options": ["Only upon public demand via social media", "Following a directive from a competent court", "After a media exposé without formal complaint", "If new political parties assume power at the Centre"],
-    "correctAnswer": "Following a directive from a competent court"
+    "question": "Under what condition does the Central Bureau of Investigation (CBI) typically register a new FIR for a previously closed case, as seen in recent news?",
+    "options": [
+      "On a political party's recommendation",
+      "Following a court directive",
+      "When the media demands it",
+      "After public protests",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Following a court directive"
   },
   {
     "id": 7,
-    "question": "In the context of ongoing high-profile investigations in India, a concern often raised by political leaders regarding such cases is what, which is equally pertinent in states like Telangana and Andhra Pradesh?",
-    "options": ["Excessive police resources allocated", "Under-reporting by national media", "Potential for politicization", "Lack of public interest in the outcome"],
-    "correctAnswer": "Potential for politicization"
+    "question": "When a CBI FIR invokes 'serious charges' but initially names no individuals as accused, what is implied about the investigation?",
+    "options": [
+      "It is a preliminary inquiry to identify suspects",
+      "The case is about to be closed again",
+      "The charges are minor and will be dropped",
+      "The investigation is complete",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "It is a preliminary inquiry to identify suspects"
   },
   {
     "id": 8,
-    "question": "When a legal case in India, including those in Telangana or Andhra Pradesh, is described as 'sub judice,' what does it mean?",
-    "options": ["It has been dismissed by the court", "It is pending before a court and not yet decided", "It is a civil dispute, not a criminal one", "It is currently under appeal in a higher court"],
-    "correctAnswer": "It is pending before a court and not yet decided"
+    "question": "What is the status of a case that is 'sub judice' in the Indian legal system?",
+    "options": [
+      "It has been permanently closed",
+      "It is awaiting a presidential pardon",
+      "It is currently under judicial consideration and not yet decided",
+      "It can be discussed freely in public without legal implications",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "It is currently under judicial consideration and not yet decided"
   },
   {
     "id": 9,
-    "question": "Local body elections, such as municipal polls, are crucial in India for which primary purpose, affecting governance in states like Telangana and Andhra Pradesh?",
-    "options": ["Electing state chief ministers directly", "Directly electing Members of Parliament to the Lok Sabha", "Ensuring grassroots governance and local administration", "Deciding national defense policies"],
-    "correctAnswer": "Ensuring grassroots governance and local administration"
+    "question": "What concern do political leaders often raise when an investigative agency re-opens a previously closed case?",
+    "options": [
+      "Lack of resources within the agency",
+      "The case might be politicized",
+      "The need for more stringent laws",
+      "The efficiency of the judiciary",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "The case might be politicized"
   },
   {
     "id": 10,
-    "question": "The performance of major national parties like BJP and Congress in local body elections in India, including those in Telangana and Andhra Pradesh, is often seen as an indicator for what?",
-    "options": ["International trade relations", "Upcoming state assembly and national elections", "Agricultural output for the current year", "Monsoon predictions for the next season"],
-    "correctAnswer": "Upcoming state assembly and national elections"
+    "question": "Who typically provides names of individuals they wish to be examined by investigators in a high-profile case being reopened by the CBI?",
+    "options": [
+      "The Chief Minister of the state",
+      "The victim's family or involved parties",
+      "Members of the opposition party",
+      "International legal observers",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "The victim's family or involved parties"
   },
   {
     "id": 11,
-    "question": "Electoral victories in India, particularly at the local level in any state, are often interpreted by political leaders as reflecting what?",
-    "options": ["Public approval of development policies", "Economic recession", "Global political trends", "Changes in regional climate patterns"],
-    "correctAnswer": "Public approval of development policies"
+    "question": "What is the primary objective of a 'CM Helpline' or similar public grievance redressal mechanism in Indian states?",
+    "options": [
+      "To conduct political surveys",
+      "To provide entertainment content",
+      "To ensure swift and satisfactory resolution of public grievances",
+      "To disseminate government propaganda",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "To ensure swift and satisfactory resolution of public grievances"
   },
   {
     "id": 12,
-    "question": "Many Indian states, including Telangana and Andhra Pradesh, have implemented Chief Minister Helplines or similar mechanisms. What is their primary objective?",
-    "options": ["To provide tourism information to visitors", "To facilitate public grievance redressal", "To monitor political rallies and gatherings", "To promote state-specific cultural events"],
-    "correctAnswer": "To facilitate public grievance redressal"
+    "question": "What specific instruction do Chief Ministers often give to officials regarding public complaints received through helplines?",
+    "options": [
+      "To defer all complaints to higher authorities",
+      "To prioritize only complaints from urban areas",
+      "To ensure genuine resolution, not just formal closure",
+      "To discourage citizens from filing complaints",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "To ensure genuine resolution, not just formal closure"
   },
   {
     "id": 13,
-    "question": "Regarding public complaints received through helplines in Indian states, what instruction is crucial for officials to ensure effective governance?",
-    "options": ["To transfer all complaints to the central government", "To ensure actual resolution, not just formal closure", "To conduct extensive surveys on complaint satisfaction annually", "To increase the number of helplines without adding staff"],
-    "correctAnswer": "To ensure actual resolution, not just formal closure"
+    "question": "What measure is typically suggested by Chief Ministers to ensure effective functioning of public grievance redressal systems?",
+    "options": [
+      "Reducing staff numbers",
+      "Imposing a fee for complaints",
+      "Conducting surprise inspections and fixing accountability",
+      "Limiting the types of complaints accepted",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Conducting surprise inspections and fixing accountability"
   },
   {
     "id": 14,
-    "question": "What types of issues are often highlighted for priority resolution through state-level grievance mechanisms in India, which are commonly faced in Telangana and Andhra Pradesh?",
-    "options": ["Space exploration queries and funding", "Land fraud and water supply issues", "International diplomacy concerns", "Sports league schedules and broadcasting rights"],
+    "question": "What common issues are often prioritized for resolution through state-level CM Helplines in India?",
+    "options": [
+      "International trade disputes",
+      "Celebrity endorsements",
+      "Land fraud and water supply issues",
+      "Historical research funding",
+      "The exact option string that is correct"
+    ],
     "correctAnswer": "Land fraud and water supply issues"
   },
   {
     "id": 15,
-    "question": "To improve the effectiveness of public grievance redressal in Indian states, what measure is often emphasized for officials to ensure accountability?",
-    "options": ["Offering financial rewards for early closure of cases", "Fixing accountability for unnecessary delays or negligence", "Delegating all responsibilities to junior staff without oversight", "Prioritizing complaints from influential individuals"],
-    "correctAnswer": "Fixing accountability for unnecessary delays or negligence"
+    "question": "What is the consequence for officials causing unnecessary delays or negligence in resolving public complaints, according to state government directives?",
+    "options": [
+      "They receive a warning letter",
+      "They are given a pay raise",
+      "Accountability will be fixed",
+      "They are transferred to a preferred posting",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Accountability will be fixed"
   },
   {
     "id": 16,
-    "question": "In the Indian judiciary, which officer holds the primary responsibility for presiding over court proceedings and delivering judgments, a role uniform across states like Telangana and Andhra Pradesh?",
-    "options": ["Public Prosecutor", "Judge", "Investigating Officer", "Legal Secretary"],
-    "correctAnswer": "Judge"
+    "question": "What kind of elections are crucial for determining the local governance and administration of cities and towns in India?",
+    "options": [
+      "Presidential elections",
+      "Municipal elections",
+      "International sporting event selections",
+      "National film awards",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Municipal elections"
   },
   {
     "id": 17,
-    "question": "The independence of the judiciary is a cornerstone of India's democratic structure. Which principle, supported by the Indian Constitution, broadly underpins this, relevant to all state judiciaries?",
-    "options": ["The judiciary is subordinate to the executive", "Judicial appointments are solely made by the Parliament", "Separation of powers ensuring distinct functions for legislative, executive, and judicial branches", "State governments have absolute power over High Court appointments"],
-    "correctAnswer": "Separation of powers ensuring distinct functions for legislative, executive, and judicial branches"
+    "question": "How do results of local civic polls often reflect on the broader political landscape of a state?",
+    "options": [
+      "They have no impact on state politics",
+      "They are indicative of public approval for the ruling party's policies or a warning for others",
+      "They directly determine the state's Chief Minister",
+      "They only affect national economic policy",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "They are indicative of public approval for the ruling party's policies or a warning for others"
   },
   {
     "id": 18,
-    "question": "Lawyers play a vital role in the Indian legal system across all states. Which of the following is their primary function?",
-    "options": ["Conducting police investigations", "Representing clients and presenting legal arguments in court", "Presiding over court cases", "Drafting new laws for the state legislature"],
-    "correctAnswer": "Representing clients and presenting legal arguments in court"
+    "question": "In municipal elections, what role can independent candidates play in the formation of local boards?",
+    "options": [
+      "They are typically excluded from any role",
+      "They often form the majority government independently",
+      "They can play a pivotal role, especially in hung councils",
+      "Their votes are usually not counted",
+      "The exact option string that in correct"
+    ],
+    "correctAnswer": "They can play a pivotal role, especially in hung councils"
   },
   {
     "id": 19,
-    "question": "Beyond internal mechanisms, which body/system in India generally holds the power for ultimate oversight of the judiciary in terms of appointments and transfers, though often criticized for opaqueness?",
-    "options": ["Parliament of India", "Union Public Service Commission", "Collegium system (Supreme Court/High Courts)", "Election Commission of India"],
-    "correctAnswer": "Collegium system (Supreme Court/High Courts)"
+    "question": "What do victories in local body elections often signify for a political party?",
+    "options": [
+      "Immediate change in national leadership",
+      "Public approval of their development policies",
+      "A guaranteed win in the next general elections",
+      "A decrease in party membership",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Public approval of their development policies"
   },
   {
     "id": 20,
-    "question": "A court directive in India can significantly impact an investigation. What is a common outcome when a court issues a directive in a criminal case, applicable to states like Telangana and Andhra Pradesh?",
-    "options": ["Immediate closure of the case without further review", "Reopening of a previously closed case for further investigation", "Automatic acquittal of all accused individuals", "Mandatory international mediation for resolution"],
-    "correctAnswer": "Reopening of a previously closed case for further investigation"
+    "question": "Which level of government is primarily strengthened by successful municipal elections and local body formation?",
+    "options": [
+      "Central government",
+      "State government",
+      "Local self-governance",
+      "International organizations",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Local self-governance"
   },
   {
     "id": 21,
-    "question": "Local governments in India, including municipal corporations and panchayats, are empowered to manage what types of issues, fundamental to state administration in Telangana and Andhra Pradesh?",
-    "options": ["National security and foreign policy", "Local infrastructure, sanitation, and public services", "Interstate water disputes between riparian states", "Monetary policy and national banking regulations"],
-    "correctAnswer": "Local infrastructure, sanitation, and public services"
+    "question": "What kind of support do state governments in India often announce for legal professionals?",
+    "options": [
+      "Restrictions on their practice",
+      "Welfare measures and financial aid",
+      "Mandatory participation in political rallies",
+      "Compulsory relocation to rural areas",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Welfare measures and financial aid"
   },
   {
     "id": 22,
-    "question": "Which principle is crucial for effective public grievance redressal in any Indian state, ensuring genuine resolution rather than superficial closure?",
-    "options": ["Rapid escalation of all complaints to the Supreme Court", "Focus on preventive measures and root cause analysis of complaints", "Sole reliance on informal channels for complaint submission", "Complete anonymity of all complaints, preventing follow-up"],
-    "correctAnswer": "Focus on preventive measures and root cause analysis of complaints"
+    "question": "Alongside welfare measures, what modern initiative are governments promoting for lawyers and the legal system?",
+    "options": [
+      "Reversion to manual record-keeping",
+      "A push for technological integration",
+      "Elimination of legal aid services",
+      "Increased dependence on paper documents",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "A push for technological integration"
   },
   {
     "id": 23,
-    "question": "In India's democratic system, how do citizens primarily express their approval or disapproval of government policies and performance, at all levels including state elections in Telangana and Andhra Pradesh?",
-    "options": ["Through social media trends and online petitions", "By participating in elections", "By organizing international conferences", "Through purchasing specific consumer goods"],
-    "correctAnswer": "By participating in elections"
+    "question": "What is a benefit of integrating technology into the legal system for lawyers?",
+    "options": [
+      "Increased paperwork",
+      "Slower case processing",
+      "Enhanced efficiency and accessibility",
+      "Reduced need for legal expertise",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Enhanced efficiency and accessibility"
   },
   {
     "id": 24,
-    "question": "The Indian system of governance incorporates 'checks and balances' to maintain democratic integrity. Which scenario illustrates this principle, common to all states?",
-    "options": ["The executive making laws without legislative approval", "The judiciary reviewing actions of the executive and legislature", "The legislature appointing all judges without judicial input", "State governments having absolute autonomy over national defense"],
-    "correctAnswer": "The judiciary reviewing actions of the executive and legislature"
+    "question": "Government initiatives for legal professionals often aim to improve their working conditions and:",
+    "options": [
+      "Limit their caseloads",
+      "Provide skill development and training",
+      "Encourage early retirement",
+      "Reduce their professional network",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "Provide skill development and training"
   },
   {
     "id": 25,
-    "question": "Maintaining public trust in governance requires high ethical standards from officials across India. Which aspect is most critical for officials overseeing public funds or addressing public complaints in states like Telangana and Andhra Pradesh?",
-    "options": ["Frequent public appearances", "Timely submission of reports on minor administrative tasks", "Integrity and accountability", "Ability to speak multiple languages fluently"],
-    "correctAnswer": "Integrity and accountability"
+    "question": "What is the broader objective behind state governments providing welfare and tech support to specific professional groups like lawyers?",
+    "options": [
+      "To create exclusive clubs",
+      "To reduce the number of professionals",
+      "To strengthen the respective sector and improve public service delivery",
+      "To encourage emigration of professionals",
+      "The exact option string that is correct"
+    ],
+    "correctAnswer": "To strengthen the respective sector and improve public service delivery"
   }
 ]

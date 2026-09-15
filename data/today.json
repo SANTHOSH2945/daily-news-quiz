@@ -1,302 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is a primary concern raised by legal experts regarding the Indian judiciary, as implied by recent discussions?",
-    "options": [
-      "Lack of adequate infrastructure in courts",
-      "Opaqueness in judicial appointments and transfers",
-      "Insufficient salary for judges",
-      "Over-reliance on digital technologies",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Opaqueness in judicial appointments and transfers"
+    "question": "Which national digital payment system, recently subject to discussions regarding its fee exemption limit, is widely utilized across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["RTGS", "NEFT", "UPI", "IMPS"],
+    "correctAnswer": "UPI"
   },
   {
     "id": 2,
-    "question": "What mechanism does the Chief Justice typically defend for handling complaints against judges within the Indian judiciary?",
-    "options": [
-      "Public referendums",
-      "External independent commissions",
-      "An internal complaint redressal mechanism",
-      "Direct parliamentary intervention",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "An internal complaint redressal mechanism"
+    "question": "The news highlights a political figure criticizing the government's stance on the UPI fee exemption limit. Which leader made these remarks, a policy decision impacting digital transactions nationwide, including in Telangana and Andhra Pradesh?",
+    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 3,
-    "question": "According to judicial observations, many complaints against judges in India often originate from which group?",
-    "options": [
-      "Fellow judges seeking promotion",
-      "Disgruntled litigants after court reversals",
-      "Government officials",
-      "Journalists and media personnel",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Disgruntled litigants after court reversals"
+    "question": "What is one of the primary concerns raised regarding the government's approach to the UPI fee exemption limit, which could potentially impact users and businesses in states like Telangana and Andhra Pradesh?",
+    "options": ["Increased transaction speed", "Reduced security features", "Surrendering to external pressure", "Expanding international reach"],
+    "correctAnswer": "Surrendering to external pressure"
   },
   {
     "id": 4,
-    "question": "What key legal action is often called for by leading lawyers when allegations of impropriety, like cash found at a judge's residence, surface?",
-    "options": [
-      "A formal apology from the judge",
-      "Immediate retirement of the judge",
-      "Slapping of an FIR (First Information Report)",
-      "A public debate on ethical standards",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Slapping of an FIR (First Information Report)"
+    "question": "What kind of transactions does the Unified Payments Interface (UPI) primarily facilitate for individuals and businesses across India, including in Telangana and Andhra Pradesh?",
+    "options": ["Cash withdrawals from ATMs", "Cross-border remittances only", "Real-time bank-to-bank payments", "Stock market trading"],
+    "correctAnswer": "Real-time bank-to-bank payments"
   },
   {
     "id": 5,
-    "question": "Discussions on judicial reform in India often advocate for increased:",
-    "options": [
-      "Confidentiality",
-      "Bureaucracy",
-      "Transparency",
-      "Autocracy",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Transparency"
+    "question": "Which organization is primarily responsible for the development and operation of UPI in India, a system widely adopted in states like Telangana and Andhra Pradesh?",
+    "options": ["Reserve Bank of India (RBI)", "National Payments Corporation of India (NPCI)", "State Bank of India (SBI)", "Ministry of Finance"],
+    "correctAnswer": "National Payments Corporation of India (NPCI)"
   },
   {
     "id": 6,
-    "question": "Under what condition does the Central Bureau of Investigation (CBI) typically register a new FIR for a previously closed case, as seen in recent news?",
-    "options": [
-      "On a political party's recommendation",
-      "Following a court directive",
-      "When the media demands it",
-      "After public protests",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Following a court directive"
+    "question": "The 'fee exemption limit' for UPI transactions discussed in the news refers to what aspect of digital payments that affects users in states such as Telangana and Andhra Pradesh?",
+    "options": ["Maximum transaction value", "Number of transactions per day", "Threshold below which no charges are levied", "Minimum amount for a transaction"],
+    "correctAnswer": "Threshold below which no charges are levied"
   },
   {
     "id": 7,
-    "question": "When a CBI FIR invokes 'serious charges' but initially names no individuals as accused, what is implied about the investigation?",
-    "options": [
-      "It is a preliminary inquiry to identify suspects",
-      "The case is about to be closed again",
-      "The charges are minor and will be dropped",
-      "The investigation is complete",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "It is a preliminary inquiry to identify suspects"
+    "question": "How does the widespread adoption of UPI, including in rural areas of Telangana and Andhra Pradesh, contribute to India's financial ecosystem?",
+    "options": ["By increasing physical cash usage", "By promoting digital financial inclusion", "By reducing bank branch networks", "By limiting access to banking services"],
+    "correctAnswer": "By promoting digital financial inclusion"
   },
   {
     "id": 8,
-    "question": "What is the status of a case that is 'sub judice' in the Indian legal system?",
-    "options": [
-      "It has been permanently closed",
-      "It is awaiting a presidential pardon",
-      "It is currently under judicial consideration and not yet decided",
-      "It can be discussed freely in public without legal implications",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "It is currently under judicial consideration and not yet decided"
+    "question": "What technology forms the backbone of UPI, enabling instant fund transfers and widely used in states like Telangana and Andhra Pradesh?",
+    "options": ["NFC (Near Field Communication)", "QR Code scanning and mobile numbers", "Magnetic Stripe Readers", "Biometric authentication only"],
+    "correctAnswer": "QR Code scanning and mobile numbers"
   },
   {
     "id": 9,
-    "question": "What concern do political leaders often raise when an investigative agency re-opens a previously closed case?",
-    "options": [
-      "Lack of resources within the agency",
-      "The case might be politicized",
-      "The need for more stringent laws",
-      "The efficiency of the judiciary",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "The case might be politicized"
+    "question": "What potential impact could changes in UPI fee policies have on small businesses and vendors in states such as Andhra Pradesh?",
+    "options": ["Significantly boost their profit margins", "Lead to higher operational costs", "Reduce their customer base", "Require them to switch to cash-only transactions"],
+    "correctAnswer": "Lead to higher operational costs"
   },
   {
     "id": 10,
-    "question": "Who typically provides names of individuals they wish to be examined by investigators in a high-profile case being reopened by the CBI?",
-    "options": [
-      "The Chief Minister of the state",
-      "The victim's family or involved parties",
-      "Members of the opposition party",
-      "International legal observers",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "The victim's family or involved parties"
+    "question": "What is the broader government initiative that UPI supports in its aim to digitize the economy and reduce reliance on cash, benefiting states like Telangana and Andhra Pradesh?",
+    "options": ["Make in India", "Digital India", "Swachh Bharat Abhiyan", "Skill India"],
+    "correctAnswer": "Digital India"
   },
   {
     "id": 11,
-    "question": "What is the primary objective of a 'CM Helpline' or similar public grievance redressal mechanism in Indian states?",
-    "options": [
-      "To conduct political surveys",
-      "To provide entertainment content",
-      "To ensure swift and satisfactory resolution of public grievances",
-      "To disseminate government propaganda",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "To ensure swift and satisfactory resolution of public grievances"
+    "question": "Which government body typically makes policy decisions regarding digital payment systems like UPI, affecting its operational framework in all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Ministry of External Affairs", "Ministry of Commerce and Industry", "Ministry of Finance", "Ministry of Home Affairs"],
+    "correctAnswer": "Ministry of Finance"
   },
   {
     "id": 12,
-    "question": "What specific instruction do Chief Ministers often give to officials regarding public complaints received through helplines?",
-    "options": [
-      "To defer all complaints to higher authorities",
-      "To prioritize only complaints from urban areas",
-      "To ensure genuine resolution, not just formal closure",
-      "To discourage citizens from filing complaints",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "To ensure genuine resolution, not just formal closure"
+    "question": "The news regarding UPI fee limits highlights the ongoing debate about the sustainability and accessibility of digital payments across India. What is a key factor considered when adjusting such limits for a system widely used in states like Telangana and Andhra Pradesh?",
+    "options": ["The number of international tourists", "The global price of crude oil", "Balancing transaction costs with user adoption", "The average temperature of the region"],
+    "correctAnswer": "Balancing transaction costs with user adoption"
   },
   {
     "id": 13,
-    "question": "What measure is typically suggested by Chief Ministers to ensure effective functioning of public grievance redressal systems?",
-    "options": [
-      "Reducing staff numbers",
-      "Imposing a fee for complaints",
-      "Conducting surprise inspections and fixing accountability",
-      "Limiting the types of complaints accepted",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Conducting surprise inspections and fixing accountability"
+    "question": "What does RERA stand for, an act that governs the real estate sector across India, including in Telangana and Andhra Pradesh?",
+    "options": ["Real Estate Regulatory Agency", "Real Estate Registration Act", "Real Estate (Regulation and Development) Act", "Regional Economic Revival Authority"],
+    "correctAnswer": "Real Estate (Regulation and Development) Act"
   },
   {
     "id": 14,
-    "question": "What common issues are often prioritized for resolution through state-level CM Helplines in India?",
-    "options": [
-      "International trade disputes",
-      "Celebrity endorsements",
-      "Land fraud and water supply issues",
-      "Historical research funding",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Land fraud and water supply issues"
+    "question": "What is the primary objective of the RERA Act in India, crucial for ensuring transparency and accountability in real estate markets like those in Hyderabad and Visakhapatnam?",
+    "options": ["To boost land prices", "To standardize construction materials", "To protect the interests of homebuyers and promote investments", "To promote foreign direct investment in real estate only"],
+    "correctAnswer": "To protect the interests of homebuyers and promote investments"
   },
   {
     "id": 15,
-    "question": "What is the consequence for officials causing unnecessary delays or negligence in resolving public complaints, according to state government directives?",
-    "options": [
-      "They receive a warning letter",
-      "They are given a pay raise",
-      "Accountability will be fixed",
-      "They are transferred to a preferred posting",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Accountability will be fixed"
+    "question": "The news refers to 'RERA’s extension loop.' What issue does this phrase describe in the context of real estate projects, a common concern for homebuyers in states like Telangana and Andhra Pradesh?",
+    "options": ["Rapid approval of new projects", "Frequent and multiple delays in project completion", "Streamlined dispute resolution mechanisms", "Strict enforcement of quality standards"],
+    "correctAnswer": "Frequent and multiple delays in project completion"
   },
   {
     "id": 16,
-    "question": "What kind of elections are crucial for determining the local governance and administration of cities and towns in India?",
-    "options": [
-      "Presidential elections",
-      "Municipal elections",
-      "International sporting event selections",
-      "National film awards",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Municipal elections"
+    "question": "How does the 'extension loop' in RERA impact homebuyers, especially in developing real estate markets of states like Telangana and Andhra Pradesh?",
+    "options": ["It guarantees early possession of properties", "It leads to financial uncertainty and prolonged waiting periods", "It allows buyers to renegotiate prices down", "It simplifies property registration processes"],
+    "correctAnswer": "It leads to financial uncertainty and prolonged waiting periods"
   },
   {
     "id": 17,
-    "question": "How do results of local civic polls often reflect on the broader political landscape of a state?",
-    "options": [
-      "They have no impact on state politics",
-      "They are indicative of public approval for the ruling party's policies or a warning for others",
-      "They directly determine the state's Chief Minister",
-      "They only affect national economic policy",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "They are indicative of public approval for the ruling party's policies or a warning for others"
+    "question": "What specific oversight mechanism under RERA is meant to ensure that developers adhere to timelines, a challenge highlighted by the 'extension loop' in states like Telangana and Andhra Pradesh?",
+    "options": ["Mandatory monthly project inspections by buyers", "Strict penalties for non-compliance and limited extensions", "Automatic project cancellation after initial delay", "Direct government funding for delayed projects"],
+    "correctAnswer": "Strict penalties for non-compliance and limited extensions"
   },
   {
     "id": 18,
-    "question": "In municipal elections, what role can independent candidates play in the formation of local boards?",
-    "options": [
-      "They are typically excluded from any role",
-      "They often form the majority government independently",
-      "They can play a pivotal role, especially in hung councils",
-      "Their votes are usually not counted",
-      "The exact option string that in correct"
-    ],
-    "correctAnswer": "They can play a pivotal role, especially in hung councils"
+    "question": "What information are RERA-registered projects required to provide to buyers to ensure transparency, a measure benefiting purchasers in states like Telangana and Andhra Pradesh?",
+    "options": ["Only the final sale price", "Detailed project plans, timelines, and approvals", "Just the developer's financial statements", "Only marketing brochures and advertisements"],
+    "correctAnswer": "Detailed project plans, timelines, and approvals"
   },
   {
     "id": 19,
-    "question": "What do victories in local body elections often signify for a political party?",
-    "options": [
-      "Immediate change in national leadership",
-      "Public approval of their development policies",
-      "A guaranteed win in the next general elections",
-      "A decrease in party membership",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Public approval of their development policies"
+    "question": "The RERA Act mandates the establishment of a Real Estate Regulatory Authority in each state. What is the primary function of these state-level authorities, such as those in Telangana and Andhra Pradesh?",
+    "options": ["To build new infrastructure projects", "To approve housing loans for buyers", "To regulate the real estate sector and adjudicate disputes", "To manage land acquisition for government projects"],
+    "correctAnswer": "To regulate the real estate sector and adjudicate disputes"
   },
   {
     "id": 20,
-    "question": "Which level of government is primarily strengthened by successful municipal elections and local body formation?",
-    "options": [
-      "Central government",
-      "State government",
-      "Local self-governance",
-      "International organizations",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Local self-governance"
+    "question": "What is a common reason cited by developers for project delays that often lead to RERA extensions, affecting homebuyers in cities like Hyderabad and Vijayawada?",
+    "options": ["Lack of demand for properties", "Unforeseen circumstances, approvals, and funding issues", "Buyers refusing to take possession", "Excessive availability of skilled labor"],
+    "correctAnswer": "Unforeseen circumstances, approvals, and funding issues"
   },
   {
     "id": 21,
-    "question": "What kind of support do state governments in India often announce for legal professionals?",
-    "options": [
-      "Restrictions on their practice",
-      "Welfare measures and financial aid",
-      "Mandatory participation in political rallies",
-      "Compulsory relocation to rural areas",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Welfare measures and financial aid"
+    "question": "The news highlights that RERA's oversight framework 'fails to secure buyer possession effectively.' This points to a gap in which aspect of real estate regulation that impacts consumers in Telangana and Andhra Pradesh?",
+    "options": ["Marketing and advertising standards", "Financial reporting and auditing", "Enforcement of project completion deadlines", "Architectural design guidelines"],
+    "correctAnswer": "Enforcement of project completion deadlines"
   },
   {
     "id": 22,
-    "question": "Alongside welfare measures, what modern initiative are governments promoting for lawyers and the legal system?",
-    "options": [
-      "Reversion to manual record-keeping",
-      "A push for technological integration",
-      "Elimination of legal aid services",
-      "Increased dependence on paper documents",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "A push for technological integration"
+    "question": "What is one of the key consumer rights protected by RERA for homebuyers in states like Telangana and Andhra Pradesh, particularly regarding project changes?",
+    "options": ["Right to demand a discount after purchase", "Right to modify approved building plans independently", "Right to information and consent for major changes", "Right to resell the property at any time without developer's consent"],
+    "correctAnswer": "Right to information and consent for major changes"
   },
   {
     "id": 23,
-    "question": "What is a benefit of integrating technology into the legal system for lawyers?",
-    "options": [
-      "Increased paperwork",
-      "Slower case processing",
-      "Enhanced efficiency and accessibility",
-      "Reduced need for legal expertise",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Enhanced efficiency and accessibility"
+    "question": "What kind of data, as mentioned in the news about RERA, is annually processed in substantial volume, indicating a widespread issue of project delays across India, including in states like Telangana and Andhra Pradesh?",
+    "options": ["Data on property sales transactions", "Data on RERA project extensions", "Data on new project launches", "Data on real estate agent registrations"],
+    "correctAnswer": "Data on RERA project extensions"
   },
   {
     "id": 24,
-    "question": "Government initiatives for legal professionals often aim to improve their working conditions and:",
-    "options": [
-      "Limit their caseloads",
-      "Provide skill development and training",
-      "Encourage early retirement",
-      "Reduce their professional network",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "Provide skill development and training"
+    "question": "How does the Real Estate (Regulation and Development) Act, 2016 (RERA), establish a framework for states like Telangana and Andhra Pradesh to ensure accountability in the sector?",
+    "options": ["By directly funding all state housing projects", "By imposing a uniform property tax across all states", "By providing a central regulatory act for states to implement", "By requiring all construction to be carried out by central agencies"],
+    "correctAnswer": "By providing a central regulatory act for states to implement"
   },
   {
     "id": 25,
-    "question": "What is the broader objective behind state governments providing welfare and tech support to specific professional groups like lawyers?",
-    "options": [
-      "To create exclusive clubs",
-      "To reduce the number of professionals",
-      "To strengthen the respective sector and improve public service delivery",
-      "To encourage emigration of professionals",
-      "The exact option string that is correct"
-    ],
-    "correctAnswer": "To strengthen the respective sector and improve public service delivery"
+    "question": "The news suggests that developers often 'tout impressive completion figures while still pending crucial approvals.' This indicates a challenge for RERA in states like Telangana and Andhra Pradesh regarding which aspect of project monitoring?",
+    "options": ["Marketing effectiveness", "Timely acquisition of all necessary regulatory clearances", "Customer satisfaction surveys", "Post-construction maintenance"],
+    "correctAnswer": "Timely acquisition of all necessary regulatory clearances"
   }
 ]

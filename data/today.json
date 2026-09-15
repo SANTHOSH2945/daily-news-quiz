@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which national digital payment system, recently subject to discussions regarding its fee exemption limit, is widely utilized across India, including states like Telangana and Andhra Pradesh?",
-    "options": ["RTGS", "NEFT", "UPI", "IMPS"],
-    "correctAnswer": "UPI"
+    "question": "What is the primary purpose of the Real Estate (Regulation and Development) Act, 2016 (RERA), which applies across Indian states including Telangana and Andhra Pradesh?",
+    "options": ["To regulate agricultural land sales", "To ensure timely delivery and transparency in real estate projects", "To control rent prices for commercial properties", "To fund infrastructure development exclusively for luxury housing"],
+    "correctAnswer": "To ensure timely delivery and transparency in real estate projects"
   },
   {
     "id": 2,
-    "question": "The news highlights a political figure criticizing the government's stance on the UPI fee exemption limit. Which leader made these remarks, a policy decision impacting digital transactions nationwide, including in Telangana and Andhra Pradesh?",
+    "question": "A recent news report highlighted delays and frequent extensions in real estate project deliveries. Which specific state's RERA body was mentioned in the context of processing a substantial volume of these extensions, serving as an example of a national trend?",
+    "options": ["Karnataka RERA", "MahaRERA (Maharashtra)", "Gujarat RERA", "Tamil Nadu RERA"],
+    "correctAnswer": "MahaRERA (Maharashtra)"
+  },
+  {
+    "id": 3,
+    "question": "In Telangana, which authority is responsible for the implementation of the Real Estate (Regulation and Development) Act, 2016 (RERA)?",
+    "options": ["Telangana State Industrial Infrastructure Corporation (TSIIC)", "Greater Hyderabad Municipal Corporation (GHMC)", "Telangana Real Estate Regulatory Authority (TSRERA)", "Hyderabad Metropolitan Development Authority (HMDA)"],
+    "correctAnswer": "Telangana Real Estate Regulatory Authority (TSRERA)"
+  },
+  {
+    "id": 4,
+    "question": "What is the name of the Real Estate Regulatory Authority established in Andhra Pradesh under the RERA Act?",
+    "options": ["Andhra Pradesh Urban Development Authority (APUDA)", "Andhra Pradesh Real Estate Regulatory Authority (APRERA)", "Andhra Pradesh Capital Region Development Authority (APCRDA)", "Visakhapatnam Metropolitan Region Development Authority (VMRDA)"],
+    "correctAnswer": "Andhra Pradesh Real Estate Regulatory Authority (APRERA)"
+  },
+  {
+    "id": 5,
+    "question": "According to recent news on RERA, what is a significant concern for homebuyers even when projects are reported as '100% complete'?",
+    "options": ["Lack of parking space", "High maintenance charges", "Pending crucial approvals delaying possession", "Absence of recreational facilities"],
+    "correctAnswer": "Pending crucial approvals delaying possession"
+  },
+  {
+    "id": 6,
+    "question": "The news article used the phrase 'Tareekh Pe Tareekh' to describe what aspect of real estate project delivery, a situation relevant to buyers in Telangana and Andhra Pradesh?",
+    "options": ["The process of property registration", "The delay in obtaining construction permits", "Frequent extensions without guaranteed delivery", "The schedule for site visits by buyers"],
+    "correctAnswer": "Frequent extensions without guaranteed delivery"
+  },
+  {
+    "id": 7,
+    "question": "What is one of the key issues identified regarding the oversight framework of RERA extensions, as mentioned in the news, which impacts homebuyers nationally?",
+    "options": ["Over-involvement of government officials", "Failure to secure buyer possession effectively", "Lack of digital application process", "Strict penalties for minor delays"],
+    "correctAnswer": "Failure to secure buyer possession effectively"
+  },
+  {
+    "id": 8,
+    "question": "What does 'RERA' primarily stand for in the context of India's real estate sector?",
+    "options": ["Regional Economic Restoration Agency", "Real Estate Regulatory Alliance", "Real Estate (Regulation and Development) Act", "Revenue Earning and Rental Authority"],
+    "correctAnswer": "Real Estate (Regulation and Development) Act"
+  },
+  {
+    "id": 9,
+    "question": "Which digital payment system, widely used in Telangana and Andhra Pradesh, was recently in the news regarding a debate about fee exemption limits?",
+    "options": ["NEFT", "RTGS", "UPI", "IMPS"],
+    "correctAnswer": "UPI"
+  },
+  {
+    "id": 10,
+    "question": "Which political leader recently criticized the government, alleging it was 'surrendering to US pressure' over UPI fee exemption limits?",
     "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
     "correctAnswer": "Rahul Gandhi"
   },
   {
-    "id": 3,
-    "question": "What is one of the primary concerns raised regarding the government's approach to the UPI fee exemption limit, which could potentially impact users and businesses in states like Telangana and Andhra Pradesh?",
-    "options": ["Increased transaction speed", "Reduced security features", "Surrendering to external pressure", "Expanding international reach"],
-    "correctAnswer": "Surrendering to external pressure"
-  },
-  {
-    "id": 4,
-    "question": "What kind of transactions does the Unified Payments Interface (UPI) primarily facilitate for individuals and businesses across India, including in Telangana and Andhra Pradesh?",
-    "options": ["Cash withdrawals from ATMs", "Cross-border remittances only", "Real-time bank-to-bank payments", "Stock market trading"],
-    "correctAnswer": "Real-time bank-to-bank payments"
-  },
-  {
-    "id": 5,
-    "question": "Which organization is primarily responsible for the development and operation of UPI in India, a system widely adopted in states like Telangana and Andhra Pradesh?",
-    "options": ["Reserve Bank of India (RBI)", "National Payments Corporation of India (NPCI)", "State Bank of India (SBI)", "Ministry of Finance"],
-    "correctAnswer": "National Payments Corporation of India (NPCI)"
-  },
-  {
-    "id": 6,
-    "question": "The 'fee exemption limit' for UPI transactions discussed in the news refers to what aspect of digital payments that affects users in states such as Telangana and Andhra Pradesh?",
-    "options": ["Maximum transaction value", "Number of transactions per day", "Threshold below which no charges are levied", "Minimum amount for a transaction"],
-    "correctAnswer": "Threshold below which no charges are levied"
-  },
-  {
-    "id": 7,
-    "question": "How does the widespread adoption of UPI, including in rural areas of Telangana and Andhra Pradesh, contribute to India's financial ecosystem?",
-    "options": ["By increasing physical cash usage", "By promoting digital financial inclusion", "By reducing bank branch networks", "By limiting access to banking services"],
-    "correctAnswer": "By promoting digital financial inclusion"
-  },
-  {
-    "id": 8,
-    "question": "What technology forms the backbone of UPI, enabling instant fund transfers and widely used in states like Telangana and Andhra Pradesh?",
-    "options": ["NFC (Near Field Communication)", "QR Code scanning and mobile numbers", "Magnetic Stripe Readers", "Biometric authentication only"],
-    "correctAnswer": "QR Code scanning and mobile numbers"
-  },
-  {
-    "id": 9,
-    "question": "What potential impact could changes in UPI fee policies have on small businesses and vendors in states such as Andhra Pradesh?",
-    "options": ["Significantly boost their profit margins", "Lead to higher operational costs", "Reduce their customer base", "Require them to switch to cash-only transactions"],
-    "correctAnswer": "Lead to higher operational costs"
-  },
-  {
-    "id": 10,
-    "question": "What is the broader government initiative that UPI supports in its aim to digitize the economy and reduce reliance on cash, benefiting states like Telangana and Andhra Pradesh?",
-    "options": ["Make in India", "Digital India", "Swachh Bharat Abhiyan", "Skill India"],
-    "correctAnswer": "Digital India"
-  },
-  {
     "id": 11,
-    "question": "Which government body typically makes policy decisions regarding digital payment systems like UPI, affecting its operational framework in all Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Ministry of External Affairs", "Ministry of Commerce and Industry", "Ministry of Finance", "Ministry of Home Affairs"],
-    "correctAnswer": "Ministry of Finance"
+    "question": "What is the general nature of the fees discussed in relation to UPI transactions in the recent political debate?",
+    "options": ["International transaction fees", "Interchange or processing fees", "Annual account maintenance fees", "Cash withdrawal fees"],
+    "correctAnswer": "Interchange or processing fees"
   },
   {
     "id": 12,
-    "question": "The news regarding UPI fee limits highlights the ongoing debate about the sustainability and accessibility of digital payments across India. What is a key factor considered when adjusting such limits for a system widely used in states like Telangana and Andhra Pradesh?",
-    "options": ["The number of international tourists", "The global price of crude oil", "Balancing transaction costs with user adoption", "The average temperature of the region"],
-    "correctAnswer": "Balancing transaction costs with user adoption"
+    "question": "The political criticism regarding UPI fee exemption limits alleged pressure from which country on the Indian government?",
+    "options": ["China", "Russia", "United States", "United Kingdom"],
+    "correctAnswer": "United States"
   },
   {
     "id": 13,
-    "question": "What does RERA stand for, an act that governs the real estate sector across India, including in Telangana and Andhra Pradesh?",
-    "options": ["Real Estate Regulatory Agency", "Real Estate Registration Act", "Real Estate (Regulation and Development) Act", "Regional Economic Revival Authority"],
-    "correctAnswer": "Real Estate (Regulation and Development) Act"
+    "question": "Which student organization was mentioned in recent news for being criticized by a Congress leader amid a documentary row, an organization also active in Telangana and Andhra Pradesh?",
+    "options": ["NSUI", "SFI", "ABVP", "AISF"],
+    "correctAnswer": "ABVP"
   },
   {
     "id": 14,
-    "question": "What is the primary objective of the RERA Act in India, crucial for ensuring transparency and accountability in real estate markets like those in Hyderabad and Visakhapatnam?",
-    "options": ["To boost land prices", "To standardize construction materials", "To protect the interests of homebuyers and promote investments", "To promote foreign direct investment in real estate only"],
-    "correctAnswer": "To protect the interests of homebuyers and promote investments"
+    "question": "Which Congress leader recently made statements calling Umar Khalid a 'nationalist' and criticized ABVP?",
+    "options": ["Mallikarjun Kharge", "Adhir Ranjan Chowdhury", "BK Hariprasad", "Priyanka Gandhi Vadra"],
+    "correctAnswer": "BK Hariprasad"
   },
   {
     "id": 15,
-    "question": "The news refers to 'RERA’s extension loop.' What issue does this phrase describe in the context of real estate projects, a common concern for homebuyers in states like Telangana and Andhra Pradesh?",
-    "options": ["Rapid approval of new projects", "Frequent and multiple delays in project completion", "Streamlined dispute resolution mechanisms", "Strict enforcement of quality standards"],
-    "correctAnswer": "Frequent and multiple delays in project completion"
+    "question": "The recent controversy involving Congress leader BK Hariprasad and ABVP was reportedly sparked by a 'documentary row'. What was the core subject of this row?",
+    "options": ["A documentary on economic reforms", "A documentary featuring Umar Khalid", "A documentary about student elections", "A documentary on India's foreign policy"],
+    "correctAnswer": "A documentary featuring Umar Khalid"
   },
   {
     "id": 16,
-    "question": "How does the 'extension loop' in RERA impact homebuyers, especially in developing real estate markets of states like Telangana and Andhra Pradesh?",
-    "options": ["It guarantees early possession of properties", "It leads to financial uncertainty and prolonged waiting periods", "It allows buyers to renegotiate prices down", "It simplifies property registration processes"],
-    "correctAnswer": "It leads to financial uncertainty and prolonged waiting periods"
+    "question": "In the context of national politics relevant to states like Telangana and Andhra Pradesh, what is the political affiliation of BK Hariprasad?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Communist Party of India (Marxist) (CPM)", "Bahujan Samaj Party (BSP)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 17,
-    "question": "What specific oversight mechanism under RERA is meant to ensure that developers adhere to timelines, a challenge highlighted by the 'extension loop' in states like Telangana and Andhra Pradesh?",
-    "options": ["Mandatory monthly project inspections by buyers", "Strict penalties for non-compliance and limited extensions", "Automatic project cancellation after initial delay", "Direct government funding for delayed projects"],
-    "correctAnswer": "Strict penalties for non-compliance and limited extensions"
+    "question": "Passengers of which airline recently staged a protest at Delhi airport due to repeated flight delays, a concern that impacts air travel across India, including Telangana and Andhra Pradesh?",
+    "options": ["IndiGo", "Air India", "SpiceJet", "Vistara"],
+    "correctAnswer": "SpiceJet"
   },
   {
     "id": 18,
-    "question": "What information are RERA-registered projects required to provide to buyers to ensure transparency, a measure benefiting purchasers in states like Telangana and Andhra Pradesh?",
-    "options": ["Only the final sale price", "Detailed project plans, timelines, and approvals", "Just the developer's financial statements", "Only marketing brochures and advertisements"],
-    "correctAnswer": "Detailed project plans, timelines, and approvals"
+    "question": "While a recent passenger protest occurred at Delhi airport, what common issue for air travelers in general, including those flying to/from Hyderabad or Visakhapatnam, was highlighted by this incident?",
+    "options": ["High airfare prices", "Lack of in-flight entertainment", "Repeated flight delays and inconvenience", "Limited baggage allowance"],
+    "correctAnswer": "Repeated flight delays and inconvenience"
   },
   {
     "id": 19,
-    "question": "The RERA Act mandates the establishment of a Real Estate Regulatory Authority in each state. What is the primary function of these state-level authorities, such as those in Telangana and Andhra Pradesh?",
-    "options": ["To build new infrastructure projects", "To approve housing loans for buyers", "To regulate the real estate sector and adjudicate disputes", "To manage land acquisition for government projects"],
-    "correctAnswer": "To regulate the real estate sector and adjudicate disputes"
+    "question": "What is the approximate number of SpiceJet passengers reported to have protested at Delhi airport over flight delays?",
+    "options": ["Around 50", "Over 200", "Exactly 100", "Fewer than 20"],
+    "correctAnswer": "Over 200"
   },
   {
     "id": 20,
-    "question": "What is a common reason cited by developers for project delays that often lead to RERA extensions, affecting homebuyers in cities like Hyderabad and Vijayawada?",
-    "options": ["Lack of demand for properties", "Unforeseen circumstances, approvals, and funding issues", "Buyers refusing to take possession", "Excessive availability of skilled labor"],
-    "correctAnswer": "Unforeseen circumstances, approvals, and funding issues"
+    "question": "If a passenger from Telangana or Andhra Pradesh faces repeated flight delays, which regulatory body in India can they approach for grievance redressal concerning airline services?",
+    "options": ["Reserve Bank of India (RBI)", "Securities and Exchange Board of India (SEBI)", "Directorate General of Civil Aviation (DGCA)", "Telecom Regulatory Authority of India (TRAI)"],
+    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
   },
   {
     "id": 21,
-    "question": "The news highlights that RERA's oversight framework 'fails to secure buyer possession effectively.' This points to a gap in which aspect of real estate regulation that impacts consumers in Telangana and Andhra Pradesh?",
-    "options": ["Marketing and advertising standards", "Financial reporting and auditing", "Enforcement of project completion deadlines", "Architectural design guidelines"],
-    "correctAnswer": "Enforcement of project completion deadlines"
+    "question": "Which international grouping's dinner was recently skipped by three Congress Chief Ministers, leading to a 'sharp rebuke' from the BJP?",
+    "options": ["G7", "SCO", "BRICS", "ASEAN"],
+    "correctAnswer": "BRICS"
   },
   {
     "id": 22,
-    "question": "What is one of the key consumer rights protected by RERA for homebuyers in states like Telangana and Andhra Pradesh, particularly regarding project changes?",
-    "options": ["Right to demand a discount after purchase", "Right to modify approved building plans independently", "Right to information and consent for major changes", "Right to resell the property at any time without developer's consent"],
-    "correctAnswer": "Right to information and consent for major changes"
+    "question": "Which major political party in India criticized Congress Chief Ministers for allegedly skipping an international dinner, highlighting a national political disagreement that resonates in states like Telangana and Andhra Pradesh?",
+    "options": ["Aam Aadmi Party (AAP)", "Bharatiya Janata Party (BJP)", "Trinamool Congress (TMC)", "Biju Janata Dal (BJD)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 23,
-    "question": "What kind of data, as mentioned in the news about RERA, is annually processed in substantial volume, indicating a widespread issue of project delays across India, including in states like Telangana and Andhra Pradesh?",
-    "options": ["Data on property sales transactions", "Data on RERA project extensions", "Data on new project launches", "Data on real estate agent registrations"],
-    "correctAnswer": "Data on RERA project extensions"
+    "question": "The BJP's criticism of Congress CMs skipping an event was rooted in the context of what type of gathering?",
+    "options": ["A national party conclave", "A state-level policy summit", "An international diplomatic dinner", "A bilateral trade meeting"],
+    "correctAnswer": "An international diplomatic dinner"
   },
   {
     "id": 24,
-    "question": "How does the Real Estate (Regulation and Development) Act, 2016 (RERA), establish a framework for states like Telangana and Andhra Pradesh to ensure accountability in the sector?",
-    "options": ["By directly funding all state housing projects", "By imposing a uniform property tax across all states", "By providing a central regulatory act for states to implement", "By requiring all construction to be carried out by central agencies"],
-    "correctAnswer": "By providing a central regulatory act for states to implement"
+    "question": "Given the political dynamics discussed in the news (BJP vs. Congress) and the focus on regional current affairs, which party currently holds the Chief Minister's position in Telangana?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Bharat Rashtra Samithi (BRS)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 25,
-    "question": "The news suggests that developers often 'tout impressive completion figures while still pending crucial approvals.' This indicates a challenge for RERA in states like Telangana and Andhra Pradesh regarding which aspect of project monitoring?",
-    "options": ["Marketing effectiveness", "Timely acquisition of all necessary regulatory clearances", "Customer satisfaction surveys", "Post-construction maintenance"],
-    "correctAnswer": "Timely acquisition of all necessary regulatory clearances"
+    "question": "Which of the following airports is a major hub in Telangana, frequently handling flights from airlines like SpiceJet, and is thus directly impacted by national aviation concerns like flight delays?",
+    "options": ["Vijayawada International Airport, Vijayawada", "Rajiv Gandhi International Airport, Hyderabad", "Tirupati Airport, Tirupati", "Visakhapatnam International Airport, Visakhapatnam"],
+    "correctAnswer": "Rajiv Gandhi International Airport, Hyderabad"
   }
 ]

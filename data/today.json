@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which specific technology has DRDO indigenously developed for next-generation radars and electronic warfare, according to a recent report?",
-    "options": ["Silicon Carbide (SiC) MMIC", "Gallium Nitride (GaN) MMIC", "Indium Phosphide (InP) MMIC", "Gallium Arsenide (GaAs) MMIC"],
-    "correctAnswer": "Gallium Nitride (GaN) MMIC"
+    "question": "What recent technological breakthrough has DRDO achieved for next-gen radars and electronic warfare?",
+    "options": ["Indigenous GaN MMIC technology", "Advanced stealth coating", "Hypersonic missile propulsion", "Quantum computing for defense"],
+    "correctAnswer": "Indigenous GaN MMIC technology"
   },
   {
     "id": 2,
-    "question": "The indigenous development of GaN MMIC technology places India among a select few nations skilled in which specific type of chip technology?",
-    "options": ["Low-frequency analog chip technology", "High-frequency digital chip technology", "High-frequency chip technology", "Optical processing chip technology"],
-    "correctAnswer": "High-frequency chip technology"
+    "question": "What is the primary significance of India developing indigenous Gallium Nitride (GaN) MMIC technology?",
+    "options": ["Reduces dependency on foreign technology in defense", "Enhances space exploration capabilities", "Boosts agricultural productivity", "Improves civil aviation safety"],
+    "correctAnswer": "Reduces dependency on foreign technology in defense"
   },
   {
     "id": 3,
-    "question": "What key benefit does the DRDO's newly developed GaN tech offer for defense systems, particularly concerning operational efficiency?",
-    "options": ["Enhanced cooling capacity without performance gain", "Robust wireless signal processing without the risk of overheating", "Reduced power consumption with lower output", "Simplified manufacturing process for faster deployment"],
-    "correctAnswer": "Robust wireless signal processing without the risk of overheating"
+    "question": "Which organization is responsible for the recent development of indigenous GaN technology for defense applications, as per the news?",
+    "options": ["Indian Space Research Organisation (ISRO)", "Defence Research and Development Organisation (DRDO)", "Bhabha Atomic Research Centre (BARC)", "Council of Scientific and Industrial Research (CSIR)"],
+    "correctAnswer": "Defence Research and Development Organisation (DRDO)"
   },
   {
     "id": 4,
-    "question": "The DRDO, known for its extensive research and development facilities across India, including a significant presence in Hyderabad, Telangana, developed which crucial component for advanced defense applications?",
-    "options": ["Quantum encryption algorithms", "GaN MMIC technology", "Space-grade solar panels", "Underwater drone propulsion systems"],
-    "correctAnswer": "GaN MMIC technology"
+    "question": "The indigenous GaN MMIC technology developed by DRDO is specifically set to enhance which of India's defense capabilities?",
+    "options": ["Underwater sonar systems", "Next-gen radars and electronic warfare", "Artillery range and precision", "Troop mobility in difficult terrains"],
+    "correctAnswer": "Next-gen radars and electronic warfare"
   },
   {
     "id": 5,
-    "question": "What does CSAM stand for in the context of Meta agreeing to report directly to Indian authorities?",
-    "options": ["Cyber Security Attack Material", "Child Safety Awareness Manual", "Child Sexual Abuse Material", "Computer System Access Management"],
-    "correctAnswer": "Child Sexual Abuse Material"
+    "question": "What advantage does Gallium Nitride (GaN) technology offer over traditional semiconductor materials for the applications mentioned?",
+    "options": ["Lower manufacturing costs", "Superior high-frequency performance and heat management", "Reduced physical size of devices only", "Increased resistance to physical damage"],
+    "correctAnswer": "Superior high-frequency performance and heat management"
   },
   {
     "id": 6,
-    "question": "Until recently, how did Meta route reports concerning Child Sexual Abuse Material (CSAM) from India?",
-    "options": ["Through the UN Human Rights Council", "Directly to the local police stations", "Through a US-based agency", "Via an independent international NGO"],
-    "correctAnswer": "Through a US-based agency"
+    "question": "India's development of GaN MMIC technology positions it among a select few nations skilled in what specific high-tech area?",
+    "options": ["Artificial intelligence for surveillance", "High-frequency chip technology", "Advanced biochemical weapons", "Satellite-based communication encryption"],
+    "correctAnswer": "High-frequency chip technology"
   },
   {
     "id": 7,
-    "question": "To which entity has Meta agreed to report Child Sexual Abuse Material (CSAM) cases directly, moving forward?",
-    "options": ["Indian NGOs focused on child welfare", "The Indian Cyber Crime Coordination Centre", "Indian authorities", "The Interpol branch in India"],
-    "correctAnswer": "Indian authorities"
-  },
-  {
-    "id": 8,
-    "question": "Which national body has repeatedly summoned Meta India's MD and head regarding cases of sexual abuse material?",
-    "options": ["The National Commission for Women", "The National Human Rights Commission", "The National Commission for Protection of Child Rights (NCPCR)", "The Ministry of Electronics and Information Technology"],
-    "correctAnswer": "The National Commission for Protection of Child Rights (NCPCR)"
-  },
-  {
-    "id": 9,
-    "question": "The direct reporting of CSAM by Meta to Indian authorities is a significant step in addressing which major issue affecting children across all Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Online gaming addiction", "Digital privacy breaches", "Cyberbullying", "Child sexual abuse on digital platforms"],
-    "correctAnswer": "Child sexual abuse on digital platforms"
-  },
-  {
-    "id": 10,
-    "question": "The Enforcement Directorate (ED) has reportedly intensified its scrutiny on frauds related to which specific financial framework in India?",
-    "options": ["Companies Act, 2013", "Competition Act, 2002", "Insolvency and Bankruptcy Code (IBC)", "Prevention of Money Laundering Act (PMLA)"],
-    "correctAnswer": "Insolvency and Bankruptcy Code (IBC)"
-  },
-  {
-    "id": 11,
-    "question": "What is one of the specific types of fraud that the ED is putting a lens on within the IBC framework, as per recent news?",
-    "options": ["Tax evasion schemes", "Excessive haircuts", "Insider trading in public companies", "Bank loan defaults by individuals"],
-    "correctAnswer": "Excessive haircuts"
-  },
-  {
-    "id": 12,
-    "question": "In the context of the Insolvency and Bankruptcy Code (IBC), what does the term 'haircut' generally refer to?",
-    "options": ["A reduction in the company's workforce", "The amount of debt a lender agrees to forgo", "A tax levied on bankrupt companies", "The process of liquidating assets quickly"],
-    "correctAnswer": "The amount of debt a lender agrees to forgo"
-  },
-  {
-    "id": 13,
-    "question": "The ED's increased focus on IBC frauds aims to enhance transparency and accountability within which sector of the Indian economy?",
-    "options": ["Agricultural sector", "Corporate insolvency and resolution process", "Micro, Small & Medium Enterprises (MSME) sector", "Real estate market"],
-    "correctAnswer": "Corporate insolvency and resolution process"
-  },
-  {
-    "id": 14,
-    "question": "Who recently expressed concerns about the central government's strategy in implementing the Uniform Civil Code (UCC)?",
-    "options": ["Prime Minister Narendra Modi", "Home Minister Amit Shah", "Jammu and Kashmir's chief minister Omar Abdullah", "Finance Minister Nirmala Sitharaman"],
-    "correctAnswer": "Jammu and Kashmir's chief minister Omar Abdullah"
-  },
-  {
-    "id": 15,
-    "question": "According to Omar Abdullah, which institution should primarily decide on pivotal legislation like the Uniform Civil Code?",
-    "options": ["State Assemblies", "The Supreme Court of India", "Parliament", "The Law Commission of India"],
-    "correctAnswer": "Parliament"
-  },
-  {
-    "id": 16,
-    "question": "Omar Abdullah asserted that implementing the UCC through isolated state actions circumvents what?",
-    "options": ["Judicial review processes", "Executive decrees", "Legislative norms", "Public consultations"],
-    "correctAnswer": "Legislative norms"
-  },
-  {
-    "id": 17,
-    "question": "The debate around the Uniform Civil Code (UCC) is a significant national discussion, with implications for all states including Telangana and Andhra Pradesh, regarding which aspect of law?",
-    "options": ["Criminal law reforms", "Personal laws (marriage, divorce, inheritance, adoption)", "Economic policy reforms", "Environmental protection laws"],
-    "correctAnswer": "Personal laws (marriage, divorce, inheritance, adoption)"
-  },
-  {
-    "id": 18,
-    "question": "What kind of expertise has India expressed its readiness to share globally, according to Mohanty?",
-    "options": ["Satellite launching capabilities and space exploration", "Nuclear and indigenous technology development expertise", "Ayurvedic medicine and yoga practices", "Film production and entertainment industry techniques"],
-    "correctAnswer": "Nuclear and indigenous technology development expertise"
-  },
-  {
-    "id": 19,
-    "question": "The readiness to share nuclear and indigenous technology development expertise highlights India's growing stature in which global domain?",
-    "options": ["Soft power diplomacy", "Economic trade agreements", "Science and technology innovation", "Agricultural self-sufficiency"],
-    "correctAnswer": "Science and technology innovation"
-  },
-  {
-    "id": 20,
-    "question": "Which organization is primarily responsible for advanced technology development in defense, including the GaN MMIC tech mentioned?",
-    "options": ["ISRO", "BARC", "DRDO", "CSIR"],
-    "correctAnswer": "DRDO"
-  },
-  {
-    "id": 21,
-    "question": "The development of indigenous GaN technology by DRDO contributes to enhancing which specific defense capabilities?",
-    "options": ["Naval fleet operations and submarine technology", "Cybersecurity and digital forensics", "Radar functions and electronic warfare", "Artillery and ballistic missile systems"],
+    "question": "The advanced systems crafted through DRDO's GaN innovation promise to specifically improve which critical defense functions?",
+    "options": ["Naval fleet maintenance and logistics", "Ground troop training simulations", "Radar functions and electronic warfare", "Cybersecurity for civilian infrastructure"],
     "correctAnswer": "Radar functions and electronic warfare"
   },
   {
+    "id": 8,
+    "question": "A key benefit of using DRDO's indigenous GaN technology for wireless signal processing is that it prevents what issue?",
+    "options": ["Signal interception", "Data loss", "Overheating", "Battery drainage"],
+    "correctAnswer": "Overheating"
+  },
+  {
+    "id": 9,
+    "question": "Which sector is the primary beneficiary of DRDO's recent indigenous GaN technology development for next-gen radars?",
+    "options": ["Telecommunications", "Automotive industry", "Defense and security", "Healthcare technology"],
+    "correctAnswer": "Defense and security"
+  },
+  {
+    "id": 10,
+    "question": "The DRDO's newly developed indigenous GaN technology is specifically intended for which generation of radars?",
+    "options": ["First-generation", "Second-generation", "Third-generation", "Next-generation"],
+    "correctAnswer": "Next-generation"
+  },
+  {
+    "id": 11,
+    "question": "As stated by Mohanty, what types of expertise is India ready to share globally?",
+    "options": ["Agricultural and meteorological", "Financial and banking", "Nuclear and indigenous technology development", "Tourism and hospitality management"],
+    "correctAnswer": "Nuclear and indigenous technology development"
+  },
+  {
+    "id": 12,
+    "question": "The statement by Mohanty underscores India's achievements in promoting self-reliance and global collaboration in which two primary fields?",
+    "options": ["Space exploration and marine biology", "Nuclear energy and advanced indigenous technologies", "Renewable energy and urban planning", "Biotechnology and traditional medicine"],
+    "correctAnswer": "Nuclear energy and advanced indigenous technologies"
+  },
+  {
+    "id": 13,
+    "question": "India's readiness to share its indigenous technology development expertise globally signals its growing role in what domain?",
+    "options": ["Global cultural exchange", "International sports diplomacy", "Technological leadership and strategic partnerships", "Humanitarian aid and disaster relief"],
+    "correctAnswer": "Technological leadership and strategic partnerships"
+  },
+  {
+    "id": 14,
+    "question": "Which central enforcement agency has reportedly intensified its focus on investigating frauds within the Insolvency and Bankruptcy Code (IBC) framework?",
+    "options": ["Central Bureau of Investigation (CBI)", "Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Income Tax Department (ITD)"],
+    "correctAnswer": "Enforcement Directorate (ED)"
+  },
+  {
+    "id": 15,
+    "question": "According to the news, what specific financial irregularities related to the Insolvency and Bankruptcy Code (IBC) are under the ED's scrutiny?",
+    "options": ["Excessive haircuts and other frauds", "Share market manipulations", "Tax evasion by startups", "Illegal foreign exchange transactions"],
+    "correctAnswer": "Excessive haircuts and other frauds"
+  },
+  {
+    "id": 16,
+    "question": "The ED's intensified scrutiny on IBC frauds aims to ensure transparency and accountability within which critical Indian economic legislation?",
+    "options": ["Goods and Services Tax (GST) Act", "Reserve Bank of India (RBI) Act", "Insolvency and Bankruptcy Code (IBC)", "Foreign Exchange Management Act (FEMA)"],
+    "correctAnswer": "Insolvency and Bankruptcy Code (IBC)"
+  },
+  {
+    "id": 17,
+    "question": "What significant procedural change has Meta agreed to implement regarding Child Sexual Abuse Material (CSAM) reports in India?",
+    "options": ["Reporting CSAM only after judicial review", "Directly reporting CSAM to Indian authorities", "Outsourcing CSAM reporting to a third-party agency", "Delaying CSAM reports by several weeks"],
+    "correctAnswer": "Directly reporting CSAM to Indian authorities"
+  },
+  {
+    "id": 18,
+    "question": "Until recently, through which type of agency did Meta route reports of Child Sexual Abuse Material (CSAM) originating from India?",
+    "options": ["UN-based agency", "US-based agency", "UK-based agency", "EU-based agency"],
+    "correctAnswer": "US-based agency"
+  },
+  {
+    "id": 19,
+    "question": "Which national regulatory body has repeatedly issued summons to Meta India's MD and head concerning issues related to sexual abuse material on its platforms?",
+    "options": ["National Commission for Women", "National Human Rights Commission", "Child Rights Panel", "Cyber Crime Cell"],
+    "correctAnswer": "Child Rights Panel"
+  },
+  {
+    "id": 20,
+    "question": "The ongoing actions and agreements concerning Meta and CSAM are primarily aimed at safeguarding the rights and well-being of which group?",
+    "options": ["Journalists and media personnel", "Digital content creators", "Children", "Senior citizens"],
+    "correctAnswer": "Children"
+  },
+  {
+    "id": 21,
+    "question": "Meta's agreement to directly report CSAM to Indian authorities signifies a move towards closer collaboration with which Indian entities?",
+    "options": ["Telecom regulatory bodies", "Law enforcement agencies and child protection authorities", "Educational institutions", "Consumer protection forums"],
+    "correctAnswer": "Law enforcement agencies and child protection authorities"
+  },
+  {
     "id": 22,
-    "question": "Beyond defense, India's readiness to share indigenous technology expertise can also benefit which sectors in states like Telangana and Andhra Pradesh, known for their tech hubs?",
-    "options": ["Textile manufacturing and handicraft exports", "Information Technology, electronics manufacturing, and research", "Traditional agriculture and fisheries", "Mining and heavy industries"],
-    "correctAnswer": "Information Technology, electronics manufacturing, and research"
+    "question": "Omar Abdullah criticized the central government's approach concerning which significant national legislative proposal?",
+    "options": ["Farm Laws Repeal Bill", "Data Protection Bill", "Uniform Civil Code (UCC)", "Environmental Impact Assessment (EIA) Bill"],
+    "correctAnswer": "Uniform Civil Code (UCC)"
   },
   {
     "id": 23,
-    "question": "The summons by the child rights panel to Meta India's MD underscores the importance of which act for online platforms operating in India?",
-    "options": ["Compliance with environmental regulations", "Adherence to local labor laws", "Strict adherence to Indian child protection laws and digital safety guidelines", "Participation in national economic development programs"],
-    "correctAnswer": "Strict adherence to Indian child protection laws and digital safety guidelines"
+    "question": "According to Omar Abdullah, which national legislative body should decide on pivotal legislation such as the Uniform Civil Code?",
+    "options": ["The Supreme Court", "State Assemblies individually", "Parliament", "The President's Office"],
+    "correctAnswer": "Parliament"
   },
   {
     "id": 24,
-    "question": "What is the primary objective of the Enforcement Directorate (ED) in scrutinizing IBC frauds and excessive haircuts?",
-    "options": ["To promote foreign direct investment", "To ensure fair play and prevent value erosion for creditors in insolvency proceedings", "To increase government revenue through fines", "To nationalize private companies in financial distress"],
-    "correctAnswer": "To ensure fair play and prevent value erosion for creditors in insolvency proceedings"
+    "question": "What specific concern did Omar Abdullah express regarding the central government's strategy for implementing the Uniform Civil Code?",
+    "options": ["Lack of international consultation", "Circumventing legislative norms through isolated state actions", "Insufficient digital public consultation", "Over-reliance on expert committees"],
+    "correctAnswer": "Circumventing legislative norms through isolated state actions"
   },
   {
     "id": 25,
-    "question": "The Uniform Civil Code (UCC) aims to provide a common set of laws governing which aspects for all citizens of India?",
-    "options": ["Business contracts and property disputes", "Criminal offenses and penalties", "Personal matters such as marriage, divorce, and inheritance", "Taxation and financial regulations"],
-    "correctAnswer": "Personal matters such as marriage, divorce, and inheritance"
+    "question": "The debate around the Uniform Civil Code, as highlighted by Omar Abdullah, involves questions of appropriate decision-making authority for such legislation between which levels of governance?",
+    "options": ["Local municipalities and district administrations", "State actions and Parliament", "Judiciary and executive orders", "International bodies and national governments"],
+    "correctAnswer": "State actions and Parliament"
   }
 ]

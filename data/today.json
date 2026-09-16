@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What recent technological breakthrough has DRDO achieved for next-gen radars and electronic warfare?",
-    "options": ["Indigenous GaN MMIC technology", "Advanced stealth coating", "Hypersonic missile propulsion", "Quantum computing for defense"],
-    "correctAnswer": "Indigenous GaN MMIC technology"
+    "question": "Which Indian regulatory body recently flagged certain imported cosmetic creams for containing excess heavy metals, a concern relevant to consumers in states like Telangana and Andhra Pradesh?",
+    "options": ["FSSAI", "BIS", "CDSCO", "AYUSH"],
+    "correctAnswer": "CDSCO"
   },
   {
     "id": 2,
-    "question": "What is the primary significance of India developing indigenous Gallium Nitride (GaN) MMIC technology?",
-    "options": ["Reduces dependency on foreign technology in defense", "Enhances space exploration capabilities", "Boosts agricultural productivity", "Improves civil aviation safety"],
-    "correctAnswer": "Reduces dependency on foreign technology in defense"
+    "question": "The CDSCO's recent action highlights a concern regarding the presence of what in certain cosmetic products, posing a significant health risk to consumers across India, including Telangana and Andhra Pradesh?",
+    "options": ["Harmful bacteria", "Excess heavy metals", "Radioactive isotopes", "Carcinogenic dyes"],
+    "correctAnswer": "Excess heavy metals"
   },
   {
     "id": 3,
-    "question": "Which organization is responsible for the recent development of indigenous GaN technology for defense applications, as per the news?",
-    "options": ["Indian Space Research Organisation (ISRO)", "Defence Research and Development Organisation (DRDO)", "Bhabha Atomic Research Centre (BARC)", "Council of Scientific and Industrial Research (CSIR)"],
-    "correctAnswer": "Defence Research and Development Organisation (DRDO)"
+    "question": "Which Indian state's Chief Minister recently undertook a visit to the UK to attract foreign investments, leading to MoUs worth approximately Rs 12,300 crore?",
+    "options": ["Karnataka", "Tamil Nadu", "Maharashtra", "Gujarat"],
+    "correctAnswer": "Tamil Nadu"
   },
   {
     "id": 4,
-    "question": "The indigenous GaN MMIC technology developed by DRDO is specifically set to enhance which of India's defense capabilities?",
-    "options": ["Underwater sonar systems", "Next-gen radars and electronic warfare", "Artillery range and precision", "Troop mobility in difficult terrains"],
-    "correctAnswer": "Next-gen radars and electronic warfare"
+    "question": "Chief Ministers of Indian states, including those of Telangana and Andhra Pradesh, often engage in international tours primarily to achieve what objective for their respective states?",
+    "options": ["Promote cultural tourism only", "Attract foreign investments and foster economic partnerships", "Participate in international sporting events", "Recruit skilled labor for specific industries"],
+    "correctAnswer": "Attract foreign investments and foster economic partnerships"
   },
   {
     "id": 5,
-    "question": "What advantage does Gallium Nitride (GaN) technology offer over traditional semiconductor materials for the applications mentioned?",
-    "options": ["Lower manufacturing costs", "Superior high-frequency performance and heat management", "Reduced physical size of devices only", "Increased resistance to physical damage"],
-    "correctAnswer": "Superior high-frequency performance and heat management"
+    "question": "Despite an event cancellation, what was a significant economic achievement for the Indian state delegation during their recent UK visit, indicating a positive trend for states like Telangana and Andhra Pradesh in seeking global partnerships?",
+    "options": ["Securing a new international flight route", "Signing MoUs valued at around Rs 12,300 crore", "Establishing a cultural exchange center", "Announcing a new educational scholarship program"],
+    "correctAnswer": "Signing MoUs valued at around Rs 12,300 crore"
   },
   {
     "id": 6,
-    "question": "India's development of GaN MMIC technology positions it among a select few nations skilled in what specific high-tech area?",
-    "options": ["Artificial intelligence for surveillance", "High-frequency chip technology", "Advanced biochemical weapons", "Satellite-based communication encryption"],
-    "correctAnswer": "High-frequency chip technology"
+    "question": "Who recently made history by becoming the first woman to head the CRPF’s CoBRA commando unit, a force that operates in various Indian states including potentially Naxal-affected areas in Andhra Pradesh and Telangana?",
+    "options": ["Kiran Bedi", "Sanjukta Parashar", "Seema Dhundia", "Pooja Devi"],
+    "correctAnswer": "Sanjukta Parashar"
   },
   {
     "id": 7,
-    "question": "The advanced systems crafted through DRDO's GaN innovation promise to specifically improve which critical defense functions?",
-    "options": ["Naval fleet maintenance and logistics", "Ground troop training simulations", "Radar functions and electronic warfare", "Cybersecurity for civilian infrastructure"],
-    "correctAnswer": "Radar functions and electronic warfare"
+    "question": "The CoBRA commando unit, now headed by a woman, is a specialized force of which central armed police organization, whose presence is significant across Indian states?",
+    "options": ["Border Security Force (BSF)", "Central Reserve Police Force (CRPF)", "Indo-Tibetan Border Police (ITBP)", "National Security Guard (NSG)"],
+    "correctAnswer": "Central Reserve Police Force (CRPF)"
   },
   {
     "id": 8,
-    "question": "A key benefit of using DRDO's indigenous GaN technology for wireless signal processing is that it prevents what issue?",
-    "options": ["Signal interception", "Data loss", "Overheating", "Battery drainage"],
-    "correctAnswer": "Overheating"
+    "question": "The appointment of women to leadership roles in central security forces, such as the CRPF, is a reflection of a broader trend towards what in India's national institutions?",
+    "options": ["Increased military spending", "Decentralization of power", "Gender equality and inclusive leadership", "Greater international cooperation"],
+    "correctAnswer": "Gender equality and inclusive leadership"
   },
   {
     "id": 9,
-    "question": "Which sector is the primary beneficiary of DRDO's recent indigenous GaN technology development for next-gen radars?",
-    "options": ["Telecommunications", "Automotive industry", "Defense and security", "Healthcare technology"],
-    "correctAnswer": "Defense and security"
+    "question": "What directive did the Supreme Court of India recently issue to all state governments, including Telangana and Andhra Pradesh, concerning road safety?",
+    "options": ["To implement stricter driving license tests", "To enforce norms for speed curb devices on vehicles", "To ban the use of two-wheelers on national highways", "To provide free helmets to all citizens"],
+    "correctAnswer": "To enforce norms for speed curb devices on vehicles"
   },
   {
     "id": 10,
-    "question": "The DRDO's newly developed indigenous GaN technology is specifically intended for which generation of radars?",
-    "options": ["First-generation", "Second-generation", "Third-generation", "Next-generation"],
-    "correctAnswer": "Next-generation"
+    "question": "The Supreme Court's order on speed curb devices aims to address which critical issue prevalent on Indian roads, including those in Telangana and Andhra Pradesh, impacting public safety?",
+    "options": ["Traffic congestion", "Air pollution from vehicles", "Road accidents caused by overspeeding", "Lack of parking facilities"],
+    "correctAnswer": "Road accidents caused by overspeeding"
   },
   {
     "id": 11,
-    "question": "As stated by Mohanty, what types of expertise is India ready to share globally?",
-    "options": ["Agricultural and meteorological", "Financial and banking", "Nuclear and indigenous technology development", "Tourism and hospitality management"],
-    "correctAnswer": "Nuclear and indigenous technology development"
+    "question": "Which constitutional body in India holds the authority to issue directives to state governments for the enforcement of national regulations and safety standards, as seen with speed curb devices?",
+    "options": ["The President of India", "The Prime Minister's Office", "The Supreme Court", "The National Green Tribunal"],
+    "correctAnswer": "The Supreme Court"
   },
   {
     "id": 12,
-    "question": "The statement by Mohanty underscores India's achievements in promoting self-reliance and global collaboration in which two primary fields?",
-    "options": ["Space exploration and marine biology", "Nuclear energy and advanced indigenous technologies", "Renewable energy and urban planning", "Biotechnology and traditional medicine"],
-    "correctAnswer": "Nuclear energy and advanced indigenous technologies"
+    "question": "What specific equipment is the Supreme Court urging state governments like Telangana and Andhra Pradesh to ensure strict compliance with for vehicles to enhance road safety?",
+    "options": ["GPS tracking systems", "Dashcams", "Speed curb devices", "Anti-lock braking systems"],
+    "correctAnswer": "Speed curb devices"
   },
   {
     "id": 13,
-    "question": "India's readiness to share its indigenous technology development expertise globally signals its growing role in what domain?",
-    "options": ["Global cultural exchange", "International sports diplomacy", "Technological leadership and strategic partnerships", "Humanitarian aid and disaster relief"],
-    "correctAnswer": "Technological leadership and strategic partnerships"
+    "question": "A key demand from students and parents regarding high-stakes entrance tests in India, including those for students from Telangana and Andhra Pradesh, is for what change in examination attempts?",
+    "options": ["Fewer attempts per year", "Online-only attempts", "Multiple attempts per year", "Only single attempt with re-evaluation"],
+    "correctAnswer": "Multiple attempts per year"
   },
   {
     "id": 14,
-    "question": "Which central enforcement agency has reportedly intensified its focus on investigating frauds within the Insolvency and Bankruptcy Code (IBC) framework?",
-    "options": ["Central Bureau of Investigation (CBI)", "Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Income Tax Department (ITD)"],
-    "correctAnswer": "Enforcement Directorate (ED)"
+    "question": "Besides multiple attempts, what other significant improvement is on the 'reform wish list' for examination centers for high-stakes entrance tests across India, which would benefit students in Telangana and Andhra Pradesh?",
+    "options": ["More stringent security checks", "Better infrastructure and facilities", "Shorter examination durations", "Reduced examination fees"],
+    "correctAnswer": "Better infrastructure and facilities"
   },
   {
     "id": 15,
-    "question": "According to the news, what specific financial irregularities related to the Insolvency and Bankruptcy Code (IBC) are under the ED's scrutiny?",
-    "options": ["Excessive haircuts and other frauds", "Share market manipulations", "Tax evasion by startups", "Illegal foreign exchange transactions"],
-    "correctAnswer": "Excessive haircuts and other frauds"
+    "question": "The ongoing discussions about reforms in high-stakes entrance tests in India highlight the need for systemic changes in which vital sector?",
+    "options": ["Financial sector", "Agricultural sector", "Healthcare sector", "Education sector"],
+    "correctAnswer": "Education sector"
   },
   {
     "id": 16,
-    "question": "The ED's intensified scrutiny on IBC frauds aims to ensure transparency and accountability within which critical Indian economic legislation?",
-    "options": ["Goods and Services Tax (GST) Act", "Reserve Bank of India (RBI) Act", "Insolvency and Bankruptcy Code (IBC)", "Foreign Exchange Management Act (FEMA)"],
-    "correctAnswer": "Insolvency and Bankruptcy Code (IBC)"
+    "question": "The news about the CDSCO flagging certain creams with heavy metals underscores the importance of which type of regulation for consumer protection across all Indian states?",
+    "options": ["Price control", "Manufacturing process certification", "Product ingredient and safety standard enforcement", "Import duty adjustments"],
+    "correctAnswer": "Product ingredient and safety standard enforcement"
   },
   {
     "id": 17,
-    "question": "What significant procedural change has Meta agreed to implement regarding Child Sexual Abuse Material (CSAM) reports in India?",
-    "options": ["Reporting CSAM only after judicial review", "Directly reporting CSAM to Indian authorities", "Outsourcing CSAM reporting to a third-party agency", "Delaying CSAM reports by several weeks"],
-    "correctAnswer": "Directly reporting CSAM to Indian authorities"
+    "question": "What is the primary concern for Indian consumers, including those in Telangana and Andhra Pradesh, when products like certain imported creams are found with excess heavy metals?",
+    "options": ["Product price", "Brand reputation", "Health and safety risks", "Availability in local markets"],
+    "correctAnswer": "Health and safety risks"
   },
   {
     "id": 18,
-    "question": "Until recently, through which type of agency did Meta route reports of Child Sexual Abuse Material (CSAM) originating from India?",
-    "options": ["UN-based agency", "US-based agency", "UK-based agency", "EU-based agency"],
-    "correctAnswer": "US-based agency"
+    "question": "The news about Chief Ministers attracting foreign investment (e.g., TN CM) demonstrates a trend where Indian states actively compete for what to fuel their economic growth and development?",
+    "options": ["Cultural exchange programs", "International sporting events", "Foreign Direct Investment (FDI)", "Educational scholarships"],
+    "correctAnswer": "Foreign Direct Investment (FDI)"
   },
   {
     "id": 19,
-    "question": "Which national regulatory body has repeatedly issued summons to Meta India's MD and head concerning issues related to sexual abuse material on its platforms?",
-    "options": ["National Commission for Women", "National Human Rights Commission", "Child Rights Panel", "Cyber Crime Cell"],
-    "correctAnswer": "Child Rights Panel"
+    "question": "The Supreme Court's directives to state governments (e.g., on speed curb devices) underscore its role in ensuring the uniform implementation of what across the country, affecting states like Telangana and Andhra Pradesh?",
+    "options": ["Regional cultural policies", "National laws and safety standards", "State-specific economic reforms", "Local municipality regulations"],
+    "correctAnswer": "National laws and safety standards"
   },
   {
     "id": 20,
-    "question": "The ongoing actions and agreements concerning Meta and CSAM are primarily aimed at safeguarding the rights and well-being of which group?",
-    "options": ["Journalists and media personnel", "Digital content creators", "Children", "Senior citizens"],
-    "correctAnswer": "Children"
+    "question": "In the context of Indian national security, specialized units like CoBRA (mentioned with its new head) are primarily deployed for operations against what kind of threats in various states, including those with internal security challenges?",
+    "options": ["Cyber warfare", "Naxalite and insurgent activities", "International espionage", "Environmental crimes"],
+    "correctAnswer": "Naxalite and insurgent activities"
   },
   {
     "id": 21,
-    "question": "Meta's agreement to directly report CSAM to Indian authorities signifies a move towards closer collaboration with which Indian entities?",
-    "options": ["Telecom regulatory bodies", "Law enforcement agencies and child protection authorities", "Educational institutions", "Consumer protection forums"],
-    "correctAnswer": "Law enforcement agencies and child protection authorities"
+    "question": "The wish list for educational reforms regarding entrance tests reflects a national consensus among students and parents for greater what in the examination system?",
+    "options": ["Exclusivity and difficulty", "Accessibility and fairness", "Regional quotas", "Government funding cuts"],
+    "correctAnswer": "Accessibility and fairness"
   },
   {
     "id": 22,
-    "question": "Omar Abdullah criticized the central government's approach concerning which significant national legislative proposal?",
-    "options": ["Farm Laws Repeal Bill", "Data Protection Bill", "Uniform Civil Code (UCC)", "Environmental Impact Assessment (EIA) Bill"],
-    "correctAnswer": "Uniform Civil Code (UCC)"
+    "question": "What is the broader impact of national health advisories, such as those from CDSCO, on states like Telangana and Andhra Pradesh?",
+    "options": ["They are advisory only and not binding", "They lead to immediate closure of all related businesses", "They guide state health departments and consumer protection agencies in enforcing safety standards", "They only apply to imported goods, not domestic ones"],
+    "correctAnswer": "They guide state health departments and consumer protection agencies in enforcing safety standards"
   },
   {
     "id": 23,
-    "question": "According to Omar Abdullah, which national legislative body should decide on pivotal legislation such as the Uniform Civil Code?",
-    "options": ["The Supreme Court", "State Assemblies individually", "Parliament", "The President's Office"],
-    "correctAnswer": "Parliament"
+    "question": "Road safety, a concern addressed by the Supreme Court for state governments, is a subject listed under which schedule of the Indian Constitution, indicating shared responsibility?",
+    "options": ["Union List", "State List", "Concurrent List", "Residuary List"],
+    "correctAnswer": "Concurrent List"
   },
   {
     "id": 24,
-    "question": "What specific concern did Omar Abdullah express regarding the central government's strategy for implementing the Uniform Civil Code?",
-    "options": ["Lack of international consultation", "Circumventing legislative norms through isolated state actions", "Insufficient digital public consultation", "Over-reliance on expert committees"],
-    "correctAnswer": "Circumventing legislative norms through isolated state actions"
+    "question": "When an Indian state's Chief Minister (like TN CM Vijay) travels abroad to secure MoUs, it exemplifies the state's efforts towards enhancing its what on a global platform?",
+    "options": ["Cultural heritage promotion", "Tourism sector development only", "Economic development and global engagement", "Local agricultural output increase"],
+    "correctAnswer": "Economic development and global engagement"
   },
   {
     "id": 25,
-    "question": "The debate around the Uniform Civil Code, as highlighted by Omar Abdullah, involves questions of appropriate decision-making authority for such legislation between which levels of governance?",
-    "options": ["Local municipalities and district administrations", "State actions and Parliament", "Judiciary and executive orders", "International bodies and national governments"],
-    "correctAnswer": "State actions and Parliament"
+    "question": "The demand for 'better centres' in high-stakes entrance tests (relevant to students from Telangana and Andhra Pradesh) primarily seeks improvements in what aspect of the examination process?",
+    "options": ["Question paper quality", "Invigilator training", "Logistics and physical environment", "Online examination software"],
+    "correctAnswer": "Logistics and physical environment"
   }
 ]

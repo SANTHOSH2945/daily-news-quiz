@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What event is PM Modi scheduled to hold at the halfway mark of his third term?",
-    "options": ["Jan Sabha", "Chintan Shivir", "Bharat Yatra", "Mann Ki Baat Session"],
-    "correctAnswer": "Chintan Shivir"
+    "question": "Who is scheduled to hold a 'Chintan Shivir' at the halfway mark of his third term?",
+    "options": ["Rahul Gandhi", "Amit Shah", "Narendra Modi", "Arvind Kejriwal"],
+    "correctAnswer": "Narendra Modi"
   },
   {
     "id": 2,
-    "question": "Which term of PM Modi's tenure is mentioned as being at its halfway mark?",
-    "options": ["First term", "Second term", "Third term", "Fourth term"],
-    "correctAnswer": "Third term"
+    "question": "What specific milestone in his current tenure is PM Modi marking by holding a 'Chintan Shivir'?",
+    "options": ["Beginning of second term", "End of first term", "Halfway mark of third term", "Completion of fourth term"],
+    "correctAnswer": "Halfway mark of third term"
   },
   {
     "id": 3,
-    "question": "What significant milestone in his tenure is PM Modi reaching, prompting a 'Chintan Shivir'?",
-    "options": ["Beginning of his first term", "End of his second term", "Halfway mark of his third term", "Anniversary of his election"],
-    "correctAnswer": "Halfway mark of his third term"
+    "question": "The 'Chintan Shivir' organized by PM Modi is typically associated with what kind of activity?",
+    "options": ["Public rallies", "Policy discussions and brainstorming", "Electoral campaigns", "International summits"],
+    "correctAnswer": "Policy discussions and brainstorming"
   },
   {
     "id": 4,
-    "question": "Who praised PM Modi for efforts to curb illicit opium cultivation?",
-    "options": ["Joe Biden", "Donald Trump", "Xi Jinping", "Vladimir Putin"],
-    "correctAnswer": "Donald Trump"
+    "question": "Which national leader is conducting a 'Chintan Shivir' as reported in the news?",
+    "options": ["President of India", "Chief Justice of India", "Prime Minister of India", "Speaker of Lok Sabha"],
+    "correctAnswer": "Prime Minister of India"
   },
   {
     "id": 5,
-    "question": "What specific type of cultivation did Trump praise PM Modi for curbing?",
-    "options": ["Illegal tobacco farming", "Illicit opium poppy cultivation", "Unauthorized cannabis growth", "Unregulated rice farming"],
-    "correctAnswer": "Illicit opium poppy cultivation"
+    "question": "Which former US President recently praised PM Modi for efforts against illicit opium cultivation?",
+    "options": ["Joe Biden", "Barack Obama", "Donald Trump", "George W. Bush"],
+    "correctAnswer": "Donald Trump"
   },
   {
     "id": 6,
-    "question": "Which country, despite efforts to curb drug trade, was designated by the US as a major drug transit or producing nation?",
-    "options": ["China", "India", "Russia", "Pakistan"],
-    "correctAnswer": "India"
+    "question": "What type of cultivation was PM Modi specifically praised for curbing in India?",
+    "options": ["Cotton", "Illicit opium poppy", "Sugarcane", "Tobacco"],
+    "correctAnswer": "Illicit opium poppy"
   },
   {
     "id": 7,
-    "question": "How many countries, including India, were designated by the US as major drug transit or producing nations?",
-    "options": ["10", "15", "23", "30"],
-    "correctAnswer": "23"
+    "question": "India continues to remain on which specific list maintained by the United States concerning narcotics?",
+    "options": ["Major drug producing nations", "Major drug transit nations", "Major drug transit or producing nations", "Drug consumer nations"],
+    "correctAnswer": "Major drug transit or producing nations"
   },
   {
     "id": 8,
-    "question": "What specific designation did the US give India regarding drug trade, as per the news?",
-    "options": ["Minor drug consumer nation", "Major drug transit or producing nation", "Leading drug eradication partner", "Drug-free zone"],
-    "correctAnswer": "Major drug transit or producing nation"
+    "question": "According to the news, does India's designation on the US drug transit list reflect a failure by India to tackle the drug trade?",
+    "options": ["Yes, it indicates a complete failure", "No, it does not reflect a failure", "The news is unclear on this", "Only partially reflects failure"],
+    "correctAnswer": "No, it does not reflect a failure"
   },
   {
     "id": 9,
-    "question": "What framework does the US seek continued cooperation with India under, concerning drug policy?",
-    "options": ["Indo-US Economic Pact", "Strategic Security Dialogue", "Drug Policy Framework", "Counter-Terrorism Initiative"],
+    "question": "The US seeks continued cooperation with India under which specific framework regarding drug policy?",
+    "options": ["Bilateral Trade Agreement", "Drug Policy Framework", "Anti-Terrorism Pact", "Economic Cooperation Treaty"],
     "correctAnswer": "Drug Policy Framework"
   },
   {
     "id": 10,
-    "question": "Which country did Trump urge to strengthen action against precursor chemical flows?",
-    "options": ["India", "Pakistan", "Afghanistan", "China"],
+    "question": "Which country did former President Trump urge to strengthen action against precursor chemical flows?",
+    "options": ["Russia", "Pakistan", "China", "Mexico"],
     "correctAnswer": "China"
   },
   {
     "id": 11,
-    "question": "What type of chemicals did Trump urge China to strengthen action against?",
-    "options": ["Agricultural chemicals", "Industrial chemicals", "Precursor chemicals", "Household chemicals"],
-    "correctAnswer": "Precursor chemicals"
+    "question": "How many countries, including India, did Washington designate as major drug transit or producing nations?",
+    "options": ["15", "20", "23", "28"],
+    "correctAnswer": "23"
   },
   {
     "id": 12,
-    "question": "What was the primary reason for former President Trump's praise of PM Modi mentioned in the news?",
-    "options": ["Economic growth initiatives", "Diplomatic relations with the US", "Curbing illicit opium cultivation", "Progress in digital payments"],
+    "question": "What is the primary issue for which PM Modi received praise from Donald Trump?",
+    "options": ["Economic growth", "Curbing illicit opium cultivation", "Space exploration", "Digitalization"],
     "correctAnswer": "Curbing illicit opium cultivation"
   },
   {
     "id": 13,
-    "question": "What does the US designation of India as a 'major drug transit or producing nation' NOT reflect, according to the news?",
-    "options": ["A failure to tackle the drug trade by India", "The ongoing partnership with the US", "India's commitment to international law", "Its geographical location"],
-    "correctAnswer": "A failure to tackle the drug trade by India"
+    "question": "What is the nature of the relationship the US seeks with India regarding drug policy, as per the news?",
+    "options": ["Increased sanctions", "Reduced cooperation", "Continued cooperation", "New trade barriers"],
+    "correctAnswer": "Continued cooperation"
   },
   {
     "id": 14,
-    "question": "What national payment system is at the center of a 'charges row' mentioned in the news?",
-    "options": ["RTGS", "NEFT", "UPI", "IMPS"],
+    "question": "What Indian digital payment system is currently involved in a 'charges row' as per the headlines?",
+    "options": ["NEFT", "RTGS", "UPI", "IMPS"],
     "correctAnswer": "UPI"
   },
   {
     "id": 15,
-    "question": "Which prominent Congress leader is mentioned as backing the revenue framework for UPI?",
+    "question": "Which political party had 5 of its MPs, including a prominent leader, supporting the UPI revenue framework?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Trinamool Congress (TMC)"],
+    "correctAnswer": "Indian National Congress"
+  },
+  {
+    "id": 16,
+    "question": "Which prominent Congress MP is explicitly mentioned as having backed the UPI revenue framework?",
     "options": ["Rahul Gandhi", "P. Chidambaram", "Mallikarjun Kharge", "Shashi Tharoor"],
     "correctAnswer": "P. Chidambaram"
   },
   {
-    "id": 16,
-    "question": "How many Congress MPs, including Chidambaram, were reported to have backed the UPI revenue framework?",
+    "id": 17,
+    "question": "How many Congress MPs, including P. Chidambaram, were reported to have backed the revenue framework for UPI?",
     "options": ["3", "5", "7", "10"],
     "correctAnswer": "5"
   },
   {
-    "id": 17,
-    "question": "What was the subject of the 'row' concerning UPI mentioned in the headline?",
-    "options": ["Security vulnerabilities", "Data privacy issues", "Charges / Revenue framework", "International expansion"],
-    "correctAnswer": "Charges / Revenue framework"
-  },
-  {
     "id": 18,
-    "question": "Which political party's MPs are mentioned in connection with backing the UPI revenue framework?",
-    "options": ["Bharatiya Janata Party", "Congress", "Trinamool Congress", "Aam Aadmi Party"],
-    "correctAnswer": "Congress"
+    "question": "The 'UPI charges row' primarily concerns what aspect of the Unified Payments Interface?",
+    "options": ["Security features", "User interface design", "Revenue framework", "Transaction speed"],
+    "correctAnswer": "Revenue framework"
   },
   {
     "id": 19,
-    "question": "Which country's vessel, PNS Hunain, was damaged after a collision with an Indian warship?",
-    "options": ["Sri Lanka", "Bangladesh", "Pakistan", "Myanmar"],
-    "correctAnswer": "Pakistan"
+    "question": "The news about the UPI charges row highlights involvement of which legislative body members?",
+    "options": ["State Legislators", "Members of Parliament", "Local Councilors", "Village Panchayats"],
+    "correctAnswer": "Members of Parliament"
   },
   {
     "id": 20,
-    "question": "What was the name of the Pakistani vessel involved in a collision with an Indian warship?",
-    "options": ["PNS Ghazi", "PNS Khaibar", "PNS Hunain", "PNS Zulfiqar"],
+    "question": "Which Pakistani naval vessel was damaged in a collision with an Indian warship?",
+    "options": ["PNS Alamgir", "PNS Babur", "PNS Hunain", "PNS Saif"],
     "correctAnswer": "PNS Hunain"
   },
   {
     "id": 21,
-    "question": "With what type of Indian vessel did PNS Hunain collide?",
-    "options": ["Indian Coast Guard patrol vessel", "Indian merchant ship", "Indian fishing trawler", "Indian warship"],
-    "correctAnswer": "Indian warship"
-  },
-  {
-    "id": 22,
-    "question": "Where did the collision between PNS Hunain and an Indian warship occur?",
-    "options": ["Bay of Bengal", "Gulf of Mannar", "North Arabian Sea", "Indian Ocean"],
+    "question": "In which sea did the collision involving the Pakistani vessel and an Indian warship occur?",
+    "options": ["Bay of Bengal", "Red Sea", "North Arabian Sea", "Persian Gulf"],
     "correctAnswer": "North Arabian Sea"
   },
   {
+    "id": 22,
+    "question": "What type of Indian vessel was involved in the collision with PNS Hunain?",
+    "options": ["Merchant ship", "Fishing boat", "Coast Guard vessel", "Warship"],
+    "correctAnswer": "Warship"
+  },
+  {
     "id": 23,
-    "question": "What was the consequence for PNS Hunain after the collision?",
-    "options": ["It was captured by the Indian Navy", "It sank immediately", "It was significantly damaged and returned to harbour", "It continued its mission undamaged"],
-    "correctAnswer": "It was significantly damaged and returned to harbour"
+    "question": "What was the immediate consequence for PNS Hunain following its collision with an Indian warship?",
+    "options": ["It was captured by India", "It sank immediately", "It returned to harbour damaged", "It continued its mission unscathed"],
+    "correctAnswer": "It returned to harbour damaged"
   },
   {
     "id": 24,
-    "question": "What happened to the Pakistani vessel PNS Hunain after its collision with an Indian warship?",
-    "options": ["It sank", "It was repaired at sea", "It returned to the harbour", "It was escorted by the Indian Navy"],
-    "correctAnswer": "It returned to the harbour"
+    "question": "The collision incident mentioned in the news involved naval assets of which two countries?",
+    "options": ["India and Bangladesh", "India and Sri Lanka", "India and Pakistan", "India and Iran"],
+    "correctAnswer": "India and Pakistan"
   },
   {
     "id": 25,
-    "question": "In which sea was the collision between a Pakistani vessel and an Indian warship reported?",
-    "options": ["Red Sea", "Arabian Sea", "Persian Gulf", "Andaman Sea"],
-    "correctAnswer": "Arabian Sea"
+    "question": "The North Arabian Sea incident involved an Indian warship and a vessel from which country's navy?",
+    "options": ["Saudi Arabia", "Oman", "Pakistan", "UAE"],
+    "correctAnswer": "Pakistan"
   }
 ]

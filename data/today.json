@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Who is scheduled to hold a 'Chintan Shivir' at the halfway mark of his third term?",
-    "options": ["Rahul Gandhi", "Amit Shah", "Narendra Modi", "Arvind Kejriwal"],
-    "correctAnswer": "Narendra Modi"
+    "question": "What new regulation has been mandated for films featuring scenes of drug consumption or trafficking in India?",
+    "options": [
+      "A mandatory age restriction",
+      "A prominent anti-drug warning label",
+      "Censorship of all drug-related scenes",
+      "A special tax on such films"
+    ],
+    "correctAnswer": "A prominent anti-drug warning label"
   },
   {
     "id": 2,
-    "question": "What specific milestone in his current tenure is PM Modi marking by holding a 'Chintan Shivir'?",
-    "options": ["Beginning of second term", "End of first term", "Halfway mark of third term", "Completion of fourth term"],
-    "correctAnswer": "Halfway mark of third term"
+    "question": "Which national body is responsible for mandating the new anti-drug warning labels in Indian films?",
+    "options": [
+      "NITI Aayog",
+      "Ministry of Health and Family Welfare",
+      "Central Board of Film Certification (CBFC)",
+      "National Film Development Corporation"
+    ],
+    "correctAnswer": "Central Board of Film Certification (CBFC)"
   },
   {
     "id": 3,
-    "question": "The 'Chintan Shivir' organized by PM Modi is typically associated with what kind of activity?",
-    "options": ["Public rallies", "Policy discussions and brainstorming", "Electoral campaigns", "International summits"],
-    "correctAnswer": "Policy discussions and brainstorming"
+    "question": "What is the primary aim of introducing anti-drug warning labels in Indian cinema, according to the new regulation?",
+    "options": [
+      "To increase film revenue",
+      "To promote health awareness programs",
+      "To combat drug culture and avoid glamorization of substance abuse",
+      "To reduce film production costs"
+    ],
+    "correctAnswer": "To combat drug culture and avoid glamorization of substance abuse"
   },
   {
     "id": 4,
-    "question": "Which national leader is conducting a 'Chintan Shivir' as reported in the news?",
-    "options": ["President of India", "Chief Justice of India", "Prime Minister of India", "Speaker of Lok Sabha"],
-    "correctAnswer": "Prime Minister of India"
+    "question": "Besides films, which other platforms have similar anti-drug measures in place, as mentioned in the news?",
+    "options": [
+      "Radio broadcasts and newspapers",
+      "Live theatre performances and concerts",
+      "OTT platforms and television broadcasts",
+      "Print media and social media"
+    ],
+    "correctAnswer": "OTT platforms and television broadcasts"
   },
   {
     "id": 5,
-    "question": "Which former US President recently praised PM Modi for efforts against illicit opium cultivation?",
-    "options": ["Joe Biden", "Barack Obama", "Donald Trump", "George W. Bush"],
-    "correctAnswer": "Donald Trump"
+    "question": "What specific characteristic must the new anti-drug warning label possess, as mandated by the regulation?",
+    "options": [
+      "It must be audibly spoken by a celebrity",
+      "It must be in a regional language only",
+      "It must be prominently displayed",
+      "It must appear only at the beginning of the film"
+    ],
+    "correctAnswer": "It must be prominently displayed"
   },
   {
     "id": 6,
-    "question": "What type of cultivation was PM Modi specifically praised for curbing in India?",
-    "options": ["Cotton", "Illicit opium poppy", "Sugarcane", "Tobacco"],
-    "correctAnswer": "Illicit opium poppy"
+    "question": "According to the news, when were the CBFC guidelines concerning the glamorization of substance abuse last updated?",
+    "options": [
+      "May 2023",
+      "May 2024",
+      "May 2025",
+      "December 2022"
+    ],
+    "correctAnswer": "May 2025"
   },
   {
     "id": 7,
-    "question": "India continues to remain on which specific list maintained by the United States concerning narcotics?",
-    "options": ["Major drug producing nations", "Major drug transit nations", "Major drug transit or producing nations", "Drug consumer nations"],
-    "correctAnswer": "Major drug transit or producing nations"
+    "question": "The new regulation on anti-drug warnings in films is primarily aimed at combating which societal issue?",
+    "options": [
+      "Film piracy",
+      "Drug culture in cinema",
+      "Child labor in film production",
+      "Online misinformation"
+    ],
+    "correctAnswer": "Drug culture in cinema"
   },
   {
     "id": 8,
-    "question": "According to the news, does India's designation on the US drug transit list reflect a failure by India to tackle the drug trade?",
-    "options": ["Yes, it indicates a complete failure", "No, it does not reflect a failure", "The news is unclear on this", "Only partially reflects failure"],
-    "correctAnswer": "No, it does not reflect a failure"
+    "question": "Prior to the new regulation for films, similar anti-drug measures were already imposed on which specific media?",
+    "options": [
+      "Newspaper advertisements",
+      "Radio programs",
+      "Digital gaming platforms",
+      "OTT platforms and television broadcasts"
+    ],
+    "correctAnswer": "OTT platforms and television broadcasts"
   },
   {
     "id": 9,
-    "question": "The US seeks continued cooperation with India under which specific framework regarding drug policy?",
-    "options": ["Bilateral Trade Agreement", "Drug Policy Framework", "Anti-Terrorism Pact", "Economic Cooperation Treaty"],
-    "correctAnswer": "Drug Policy Framework"
+    "question": "The Central Government's initiative to include anti-drug warnings in films reflects its broader efforts against what?",
+    "options": [
+      "Illegal immigration",
+      "Substance abuse",
+      "Environmental pollution",
+      "Economic recession"
+    ],
+    "correctAnswer": "Substance abuse"
   },
   {
     "id": 10,
-    "question": "Which country did former President Trump urge to strengthen action against precursor chemical flows?",
-    "options": ["Russia", "Pakistan", "China", "Mexico"],
-    "correctAnswer": "China"
+    "question": "Which specific actions, if depicted in films, will now require an anti-drug warning label?",
+    "options": [
+      "Smoking and alcohol consumption",
+      "Drug consumption and trafficking",
+      "Gambling and betting",
+      "Violence and aggression"
+    ],
+    "correctAnswer": "Drug consumption and trafficking"
   },
   {
     "id": 11,
-    "question": "How many countries, including India, did Washington designate as major drug transit or producing nations?",
-    "options": ["15", "20", "23", "28"],
-    "correctAnswer": "23"
+    "question": "What is the key objective of the new regulation regarding drug scenes, beyond just adding a label?",
+    "options": [
+      "To increase screen time for public service announcements",
+      "To ensure films do not inadvertently glamorize substance abuse",
+      "To provide medical advice to viewers",
+      "To promote rehabilitation centers"
+    ],
+    "correctAnswer": "To ensure films do not inadvertently glamorize substance abuse"
   },
   {
     "id": 12,
-    "question": "What is the primary issue for which PM Modi received praise from Donald Trump?",
-    "options": ["Economic growth", "Curbing illicit opium cultivation", "Space exploration", "Digitalization"],
-    "correctAnswer": "Curbing illicit opium cultivation"
+    "question": "The new guidelines from the CBFC aim to avoid the glamorization of what in cinematic portrayals?",
+    "options": [
+      "Extreme sports",
+      "Political ideologies",
+      "Substance abuse",
+      "Luxury lifestyles"
+    ],
+    "correctAnswer": "Substance abuse"
   },
   {
     "id": 13,
-    "question": "What is the nature of the relationship the US seeks with India regarding drug policy, as per the news?",
-    "options": ["Increased sanctions", "Reduced cooperation", "Continued cooperation", "New trade barriers"],
-    "correctAnswer": "Continued cooperation"
+    "question": "What kind of label is now mandated for film scenes depicting drug use, as per the new regulation?",
+    "options": [
+      "A parental guidance label",
+      "An anti-drug warning label",
+      "A health advisory label",
+      "A disclaimer about fictional content"
+    ],
+    "correctAnswer": "An anti-drug warning label"
   },
   {
     "id": 14,
-    "question": "What Indian digital payment system is currently involved in a 'charges row' as per the headlines?",
-    "options": ["NEFT", "RTGS", "UPI", "IMPS"],
-    "correctAnswer": "UPI"
+    "question": "The regulation for anti-drug warnings applies to which specific type of content in films?",
+    "options": [
+      "Any scene featuring alcohol",
+      "Scenes showing drug consumption or trafficking",
+      "Scenes with smoking",
+      "All scenes involving adult themes"
+    ],
+    "correctAnswer": "Scenes showing drug consumption or trafficking"
   },
   {
     "id": 15,
-    "question": "Which political party had 5 of its MPs, including a prominent leader, supporting the UPI revenue framework?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "Trinamool Congress (TMC)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "The new film regulation aims to discourage what specific aspect related to drugs in Indian society?",
+    "options": [
+      "Drug pricing",
+      "Drug manufacturing",
+      "Drug culture",
+      "Drug export"
+    ],
+    "correctAnswer": "Drug culture"
   },
   {
     "id": 16,
-    "question": "Which prominent Congress MP is explicitly mentioned as having backed the UPI revenue framework?",
-    "options": ["Rahul Gandhi", "P. Chidambaram", "Mallikarjun Kharge", "Shashi Tharoor"],
-    "correctAnswer": "P. Chidambaram"
+    "question": "By mandating anti-drug warnings, the CBFC intends to align film content with broader public health efforts to prevent what?",
+    "options": [
+      "Obesity",
+      "Drug addiction",
+      "Mental health issues",
+      "Cardiovascular diseases"
+    ],
+    "correctAnswer": "Drug addiction"
   },
   {
     "id": 17,
-    "question": "How many Congress MPs, including P. Chidambaram, were reported to have backed the revenue framework for UPI?",
-    "options": ["3", "5", "7", "10"],
-    "correctAnswer": "5"
+    "question": "What does the acronym CBFC stand for in the context of Indian cinema regulations?",
+    "options": [
+      "Central Bureau of Film Control",
+      "Cinema and Broadcast Film Committee",
+      "Central Board of Film Certification",
+      "Cultural Broadcast and Film Council"
+    ],
+    "correctAnswer": "Central Board of Film Certification"
   },
   {
     "id": 18,
-    "question": "The 'UPI charges row' primarily concerns what aspect of the Unified Payments Interface?",
-    "options": ["Security features", "User interface design", "Revenue framework", "Transaction speed"],
-    "correctAnswer": "Revenue framework"
+    "question": "The new regulation marks a continuation of measures that were previously imposed on which other forms of media?",
+    "options": [
+      "Print magazines and newspapers",
+      "Radio broadcasts and podcasts",
+      "OTT platforms and television",
+      "Documentaries and short films"
+    ],
+    "correctAnswer": "OTT platforms and television"
   },
   {
     "id": 19,
-    "question": "The news about the UPI charges row highlights involvement of which legislative body members?",
-    "options": ["State Legislators", "Members of Parliament", "Local Councilors", "Village Panchayats"],
-    "correctAnswer": "Members of Parliament"
+    "question": "The introduction of anti-drug warnings in films aims to discourage the perception that substance abuse is:",
+    "options": [
+      "A minor issue",
+      "A necessary evil",
+      "Glamorous or acceptable",
+      "A historical fact"
+    ],
+    "correctAnswer": "Glamorous or acceptable"
   },
   {
     "id": 20,
-    "question": "Which Pakistani naval vessel was damaged in a collision with an Indian warship?",
-    "options": ["PNS Alamgir", "PNS Babur", "PNS Hunain", "PNS Saif"],
-    "correctAnswer": "PNS Hunain"
+    "question": "What is the underlying principle guiding the CBFC's new regulation concerning drug-related content?",
+    "options": [
+      "Promoting artistic freedom without limits",
+      "Ensuring commercial success of films",
+      "Public health and social responsibility",
+      "Reducing film run-time"
+    ],
+    "correctAnswer": "Public health and social responsibility"
   },
   {
     "id": 21,
-    "question": "In which sea did the collision involving the Pakistani vessel and an Indian warship occur?",
-    "options": ["Bay of Bengal", "Red Sea", "North Arabian Sea", "Persian Gulf"],
-    "correctAnswer": "North Arabian Sea"
+    "question": "Which type of content featuring illicit substances will specifically trigger the new warning label requirement?",
+    "options": [
+      "Discussions about drug policy",
+      "Historical portrayals of drug use",
+      "Direct consumption or trafficking of drugs",
+      "Documentaries on drug rehabilitation"
+    ],
+    "correctAnswer": "Direct consumption or trafficking of drugs"
   },
   {
     "id": 22,
-    "question": "What type of Indian vessel was involved in the collision with PNS Hunain?",
-    "options": ["Merchant ship", "Fishing boat", "Coast Guard vessel", "Warship"],
-    "correctAnswer": "Warship"
+    "question": "The news states that the new regulation aligns with prior measures. What were these prior measures intended to do?",
+    "options": [
+      "Boost film viewership",
+      "Increase government revenue",
+      "Combat drug culture on other platforms",
+      "Standardize film lengths"
+    ],
+    "correctAnswer": "Combat drug culture on other platforms"
   },
   {
     "id": 23,
-    "question": "What was the immediate consequence for PNS Hunain following its collision with an Indian warship?",
-    "options": ["It was captured by India", "It sank immediately", "It returned to harbour damaged", "It continued its mission unscathed"],
-    "correctAnswer": "It returned to harbour damaged"
+    "question": "What is the general nature of the label that is now mandatory for drug-related film scenes?",
+    "options": [
+      "A promotional label",
+      "An educational label",
+      "A cautionary or warning label",
+      "An artistic expression label"
+    ],
+    "correctAnswer": "A cautionary or warning label"
   },
   {
     "id": 24,
-    "question": "The collision incident mentioned in the news involved naval assets of which two countries?",
-    "options": ["India and Bangladesh", "India and Sri Lanka", "India and Pakistan", "India and Iran"],
-    "correctAnswer": "India and Pakistan"
+    "question": "The CBFC operates under the purview of which Union Ministry in India?",
+    "options": [
+      "Ministry of Home Affairs",
+      "Ministry of Culture",
+      "Ministry of Information and Broadcasting",
+      "Ministry of Law and Justice"
+    ],
+    "correctAnswer": "Ministry of Information and Broadcasting"
   },
   {
     "id": 25,
-    "question": "The North Arabian Sea incident involved an Indian warship and a vessel from which country's navy?",
-    "options": ["Saudi Arabia", "Oman", "Pakistan", "UAE"],
-    "correctAnswer": "Pakistan"
+    "question": "The overall goal of the new regulation is to prevent the glamorization of drug use, thereby contributing to which broader national effort?",
+    "options": [
+      "Promoting film tourism",
+      "Combating a pervasive social issue",
+      "Encouraging international film collaborations",
+      "Modernizing cinema technology"
+    ],
+    "correctAnswer": "Combating a pervasive social issue"
   }
 ]

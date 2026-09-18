@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Union health ministry recently directed states, including Telangana and Andhra Pradesh, to take action against which specific medical practice?",
-    "options": [
-      "Unauthorized stem cell therapy",
-      "Unregulated organ transplantation",
-      "Illegal pharmaceutical manufacturing",
-      "Unlicensed diagnostic centers"
-    ],
-    "correctAnswer": "Unauthorized stem cell therapy"
+    "question": "What recent directive has the Union health ministry issued to all Indian states, including Telangana and Andhra Pradesh, concerning stem cell therapy?",
+    "options": ["Promote all stem cell therapies", "Fund new stem cell research centers", "Act against unauthorised stem cell therapy", "Standardize stem cell therapy costs"],
+    "correctAnswer": "Act against unauthorised stem cell therapy"
   },
   {
     "id": 2,
-    "question": "According to the Union health ministry's directive to states, for which specific condition must stem cell therapy remain restricted to clinical trials?",
-    "options": [
-      "Diabetes Mellitus",
-      "Autism Spectrum Disorder",
-      "Parkinson's Disease",
-      "Alzheimer's Disease"
-    ],
-    "correctAnswer": "Autism Spectrum Disorder"
+    "question": "According to the Union health ministry's directive, for which specific condition must stem cell therapy remain restricted to clinical trials in states like Andhra Pradesh?",
+    "options": ["Diabetes", "Autism spectrum disorder", "Parkinson's disease", "Spinal cord injury"],
+    "correctAnswer": "Autism spectrum disorder"
   },
   {
     "id": 3,
-    "question": "What are the potential repercussions for healthcare professionals in states like Telangana and Andhra Pradesh for non-compliance with the Union health ministry's stem cell therapy regulations?",
-    "options": [
-      "Fines and imprisonment",
-      "Loss of government funding",
-      "Professional misconduct and penalties",
-      "Suspension of institutional licenses"
-    ],
+    "question": "What is a potential consequence for non-compliance with the Union health ministry's directions on unproven stem cell interventions in states like Telangana?",
+    "options": ["Financial grants", "Professional misconduct and penalties", "International recognition", "Research subsidies"],
     "correctAnswer": "Professional misconduct and penalties"
   },
   {
     "id": 4,
-    "question": "What must state authorities, including those in Andhra Pradesh and Telangana, ensure regarding unproven stem cell interventions?",
-    "options": [
-      "They are widely advertised for public awareness",
-      "They are offered in collaboration with private clinics",
-      "They are not offered outside the regulatory framework",
-      "They receive central government subsidies"
-    ],
-    "correctAnswer": "They are not offered outside the regulatory framework"
-  },
-  {
-    "id": 5,
-    "question": "Which central government body issued directions to states regarding unauthorized stem cell therapy?",
-    "options": [
-      "Ministry of Home Affairs",
-      "Ministry of Finance",
-      "Union Health Ministry",
-      "Ministry of Science and Technology"
-    ],
-    "correctAnswer": "Union Health Ministry"
-  },
-  {
-    "id": 6,
-    "question": "The Union health ministry's directive on stem cell therapy emphasizes that such treatments are only for what category of conditions?",
-    "options": [
-      "Chronic illnesses only",
-      "Approved disease conditions",
-      "Rare genetic disorders",
-      "Life-threatening emergencies"
-    ],
+    "question": "The Union health ministry recently reiterated that stem cell treatments are only for what kind of conditions in states across India, including Telangana and Andhra Pradesh?",
+    "options": ["Experimental disease conditions", "Approved disease conditions", "Chronic disease conditions", "Rare genetic conditions"],
     "correctAnswer": "Approved disease conditions"
   },
   {
+    "id": 5,
+    "question": "What must authorities in states such as Andhra Pradesh ensure regarding unproven stem cell interventions, as per the Union health ministry's directive?",
+    "options": ["They are widely promoted", "They are offered outside regulatory framework", "They are not offered outside the regulatory framework", "They are eligible for government subsidies"],
+    "correctAnswer": "They are not offered outside the regulatory framework"
+  },
+  {
+    "id": 6,
+    "question": "What action is the Indian government implementing to curb stray cattle on highways and expressways, a policy that will apply to states like Telangana?",
+    "options": ["Constructing more cattle shelters", "Penalizing owners for stray cattle", "Banning cattle farming", "Importing foreign breeds"],
+    "correctAnswer": "Penalizing owners for stray cattle"
+  },
+  {
     "id": 7,
-    "question": "What is the status of stem cell therapy for autism spectrum disorder, as per the central government's guidelines to states?",
-    "options": [
-      "It is fully approved for treatment",
-      "It is restricted to clinical trials",
-      "It is completely banned nationwide",
-      "It is under review for future approval"
-    ],
-    "correctAnswer": "It is restricted to clinical trials"
-  },
-  {
-    "id": 8,
-    "question": "Non-compliance with the stem cell therapy directions issued by the Centre can lead to what for healthcare providers?",
-    "options": [
-      "Mandatory community service",
-      "Temporary license suspension",
-      "Professional misconduct and penalties",
-      "Public censure only"
-    ],
-    "correctAnswer": "Professional misconduct and penalties"
-  },
-  {
-    "id": 9,
-    "question": "What specific action has the Centre asked states like Telangana and Andhra Pradesh to take regarding unauthorized stem cell therapy?",
-    "options": [
-      "To promote its usage",
-      "To conduct public awareness campaigns",
-      "To act against it",
-      "To fund research on it"
-    ],
-    "correctAnswer": "To act against it"
-  },
-  {
-    "id": 10,
-    "question": "By directing states to act against unauthorized stem cell therapy, the Centre is primarily aiming to protect what?",
-    "options": [
-      "The reputation of medical professionals",
-      "The interests of pharmaceutical companies",
-      "Public health and patient safety",
-      "The advancement of medical research"
-    ],
-    "correctAnswer": "Public health and patient safety"
-  },
-  {
-    "id": 11,
-    "question": "What type of intervention is the Union health ministry's directive on stem cell therapy primarily targeting to curb?",
-    "options": [
-      "High-cost therapies",
-      "Experimental surgeries",
-      "Unproven/Unauthorized therapies",
-      "Foreign medical tourism"
-    ],
-    "correctAnswer": "Unproven/Unauthorized therapies"
-  },
-  {
-    "id": 12,
-    "question": "What framework is emphasized by the Union health ministry for offering stem cell interventions, particularly for unproven conditions, applicable in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "A commercial framework",
-      "An ethical advisory framework",
-      "A regulatory framework",
-      "A research funding framework"
-    ],
-    "correctAnswer": "A regulatory framework"
-  },
-  {
-    "id": 13,
-    "question": "What is the government's recent initiative aimed at improving safety on Indian highways and expressways, applicable to states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Installing more speed cameras",
-      "Curbing stray cattle",
-      "Building more underpasses",
-      "Providing free emergency services"
-    ],
-    "correctAnswer": "Curbing stray cattle"
-  },
-  {
-    "id": 14,
-    "question": "Which animal is the focus of a new government drive to curb their presence on major roads, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "Wild dogs",
-      "Monkeys",
-      "Stray cattle",
-      "Deer"
-    ],
-    "correctAnswer": "Stray cattle"
-  },
-  {
-    "id": 15,
-    "question": "What measure is being implemented against owners whose cattle stray onto highways and expressways across India?",
-    "options": [
-      "Public warnings",
-      "Confiscation of cattle",
-      "Penalties",
-      "Mandatory fencing of properties"
-    ],
-    "correctAnswer": "Penalties"
-  },
-  {
-    "id": 16,
-    "question": "The government aims to curb the presence of stray cattle on which specific types of roads, a policy applicable in all states?",
-    "options": [
-      "Rural roads and village lanes",
-      "Residential streets and city roads",
-      "Highways and expressways",
-      "Mountain passes and forest routes"
-    ],
-    "correctAnswer": "Highways and expressways"
-  },
-  {
-    "id": 17,
-    "question": "What consequence will owners face if their cattle are found straying on national highways, as per the government's new rules?",
-    "options": [
-      "A formal warning letter",
-      "A compulsory educational program",
-      "Financial penalties",
-      "Temporary restriction from livestock trade"
-    ],
-    "correctAnswer": "Financial penalties"
-  },
-  {
-    "id": 18,
-    "question": "What is the primary objective of the government's initiative regarding stray cattle on highways, impacting states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Promoting animal welfare",
-      "Ensuring road safety",
-      "Boosting agricultural productivity",
-      "Reducing traffic congestion"
-    ],
-    "correctAnswer": "Ensuring road safety"
-  },
-  {
-    "id": 19,
-    "question": "The government's move on stray cattle on roads indicates a focus on addressing issues related to what aspect of civic management and infrastructure?",
-    "options": [
-      "Public transportation systems",
-      "Environmental conservation",
-      "Road safety and animal control",
-      "Urban planning and development"
-    ],
-    "correctAnswer": "Road safety and animal control"
-  },
-  {
-    "id": 20,
-    "question": "Which entity is ultimately responsible for preventing cattle from straying onto major roads, according to the government's new stance applicable to all Indian states?",
-    "options": [
-      "Local municipalities",
-      "Road maintenance authorities",
-      "Cattle owners",
-      "Animal welfare organizations"
-    ],
+    "question": "Which entity would face penalties if stray cattle are found on highways and expressways in states like Andhra Pradesh, according to the government's new measures?",
+    "options": ["Highway authorities", "Local municipalities", "Cattle owners", "Animal welfare organizations"],
     "correctAnswer": "Cattle owners"
   },
   {
+    "id": 8,
+    "question": "The government is moving to curb stray cattle. What specific infrastructure in states like Telangana will be covered by the new regulations regarding owners facing penalties?",
+    "options": ["Agricultural fields", "Urban parks", "Highways and e-ways", "Residential colonies"],
+    "correctAnswer": "Highways and e-ways"
+  },
+  {
+    "id": 9,
+    "question": "What is the primary objective behind the government's move to penalize owners for stray cattle on highways and expressways, a regulation applicable in Andhra Pradesh?",
+    "options": ["Increase government revenue", "Improve road safety and reduce accidents", "Promote cattle breeding", "Encourage organic farming"],
+    "correctAnswer": "Improve road safety and reduce accidents"
+  },
+  {
+    "id": 10,
+    "question": "The government's initiative to curb stray cattle on highways by penalizing owners aims to improve road conditions across India, including states like Telangana. What is the nature of this initiative?",
+    "options": ["Advisory", "Regulatory", "Voluntary", "Promotional"],
+    "correctAnswer": "Regulatory"
+  },
+  {
+    "id": 11,
+    "question": "AIIMS has developed an AI tool for breast cancer detection. How might this innovation benefit healthcare facilities in states like Andhra Pradesh?",
+    "options": ["By replacing human doctors", "By making mammograms more expensive", "By improving detection accuracy and efficiency", "By reducing the need for mammograms"],
+    "correctAnswer": "By improving detection accuracy and efficiency"
+  },
+  {
+    "id": 12,
+    "question": "Which specific diagnostic imaging technique does the new AI tool developed by AIIMS assist in detecting breast cancer, potentially impacting medical practices in Telangana?",
+    "options": ["X-rays", "CT scans", "Mammograms", "MRI scans"],
+    "correctAnswer": "Mammograms"
+  },
+  {
+    "id": 13,
+    "question": "What is the primary medical condition targeted by the new AI tool developed by AIIMS, an advancement that could be adopted by hospitals in states like Andhra Pradesh?",
+    "options": ["Lung cancer", "Breast cancer", "Prostate cancer", "Skin cancer"],
+    "correctAnswer": "Breast cancer"
+  },
+  {
+    "id": 14,
+    "question": "The development of an AI tool by AIIMS for breast cancer detection signifies an advancement in what field, with potential applications for hospitals in Telangana?",
+    "options": ["Agricultural science", "Artificial Intelligence in healthcare", "Space technology", "Civil engineering"],
+    "correctAnswer": "Artificial Intelligence in healthcare"
+  },
+  {
+    "id": 15,
+    "question": "Which port has emerged as India’s gateway to the GCC, a development impacting shipping and trade for coastal states like Andhra Pradesh?",
+    "options": ["Mumbai", "Sohar", "Kolkata", "Chennai"],
+    "correctAnswer": "Sohar"
+  },
+  {
+    "id": 16,
+    "question": "What international crisis is mentioned as reshaping shipping and contributing to Sohar's emergence as India's gateway to the GCC, with implications for trade in Andhra Pradesh?",
+    "options": ["Suez Canal blockage", "Hormuz crisis", "Panama Canal drought", "Strait of Malacca piracy"],
+    "correctAnswer": "Hormuz crisis"
+  },
+  {
+    "id": 17,
+    "question": "The emergence of Sohar as India's gateway benefits which economic sector across India, including Andhra Pradesh?",
+    "options": ["Agriculture", "Manufacturing", "Shipping and trade", "Tourism"],
+    "correctAnswer": "Shipping and trade"
+  },
+  {
+    "id": 18,
+    "question": "An NIA court has recently issued Non-Bailable Warrants (NBWs) against individuals associated with which terrorist organization, a matter of national security for all Indian states, including Telangana?",
+    "options": ["Al-Qaeda", "ISIS", "Lashkar-e-Taiba (LeT)", "Taliban"],
+    "correctAnswer": "Lashkar-e-Taiba (LeT)"
+  },
+  {
+    "id": 19,
+    "question": "The NBWs issued by the NIA court are against individuals based in which country, relevant to India's national security, including for states like Andhra Pradesh?",
+    "options": ["Afghanistan", "China", "Pakistan", "Sri Lanka"],
+    "correctAnswer": "Pakistan"
+  },
+  {
+    "id": 20,
+    "question": "On whose birthday did Bangladesh Prime Minister Tarique Rahman extend warm wishes, an event widely noted across India, including Telangana and Andhra Pradesh?",
+    "options": ["President Droupadi Murmu", "Prime Minister Narendra Modi", "External Affairs Minister S. Jaishankar", "Home Minister Amit Shah"],
+    "correctAnswer": "Prime Minister Narendra Modi"
+  },
+  {
     "id": 21,
-    "question": "What specific types of roads are primarily targeted by the government's initiative to control stray cattle, a measure that affects states like Telangana?",
-    "options": [
-      "State highways",
-      "National Highways and Expressways",
-      "District roads",
-      "Village roads"
-    ],
-    "correctAnswer": "National Highways and Expressways"
+    "question": "Which national political party recently criticized the Election Commission's decision regarding a political symbol freeze, sparking debate across India, including Telangana and Andhra Pradesh?",
+    "options": ["BJP", "Congress", "CPI", "AAP"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 22,
-    "question": "The imposition of penalties on cattle owners for stray cattle on roads is a measure to reinforce what aspect of animal management?",
-    "options": [
-      "Animal breeding standards",
-      "Responsible animal ownership",
-      "Veterinary health checks",
-      "Fodder distribution"
-    ],
-    "correctAnswer": "Responsible animal ownership"
+    "question": "The criticism by Congress towards the Election Commission was related to the symbol freeze of which regional political party, a development that affects national political discourse in states like Telangana?",
+    "options": ["BJD", "TMC", "DMK", "AIADMK"],
+    "correctAnswer": "TMC"
   },
   {
     "id": 23,
-    "question": "The Union health ministry's directive on stem cell therapy aims to prevent the offering of unproven interventions outside of which specific framework?",
-    "options": [
-      "Commercial framework",
-      "Philanthropic framework",
-      "Community health framework",
-      "Regulatory framework"
-    ],
-    "correctAnswer": "Regulatory framework"
+    "question": "The occasion of PM Modi's birthday, which saw wishes from Bangladesh PM, was used by the Bharatiya Janata Party to kick off what series of activities throughout the month, potentially involving party units in Andhra Pradesh?",
+    "options": ["Electoral rallies", "Service activities", "Fundraising drives", "Membership campaigns"],
+    "correctAnswer": "Service activities"
   },
   {
     "id": 24,
-    "question": "What can be attracted by non-compliance with the Union health ministry's directions on stem cell therapy regarding unauthorized treatments?",
-    "options": [
-      "Public appreciation",
-      "Financial grants",
-      "Professional misconduct and penalties",
-      "Awards for innovation"
-    ],
-    "correctAnswer": "Professional misconduct and penalties"
+    "question": "What was the political development that Congress labeled as a 'late night birthday gift to Modi ji,' which involved the Election Commission and had national implications affecting political discussions in Telangana?",
+    "options": ["A new policy announcement", "The TMC symbol freeze", "An economic package", "A change in election dates"],
+    "correctAnswer": "The TMC symbol freeze"
   },
   {
     "id": 25,
-    "question": "The government's initiative to curb stray cattle on highways and expressways primarily intends to improve what aspect of public life?",
-    "options": [
-      "Agricultural exports",
-      "Urban sanitation",
-      "Road safety and traffic flow",
-      "Animal population control"
-    ],
-    "correctAnswer": "Road safety and traffic flow"
+    "question": "International leaders and Indian opposition figures wished PM Modi on his birthday, an event that underscores India's diplomatic ties and internal political dynamics, both relevant to citizens in Andhra Pradesh. What was the primary sentiment expressed by Bangladesh PM Rahman?",
+    "options": ["A challenge to India's policies", "A call for immediate negotiations", "Wishes for good health and service", "Criticism of recent economic reforms"],
+    "correctAnswer": "Wishes for good health and service"
   }
 ]

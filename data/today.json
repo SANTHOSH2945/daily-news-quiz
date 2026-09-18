@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "A recent news report highlighted the arrest of a candidate from which constituency in West Bengal, leading to allegations of political targeting?",
-    "options": ["Singur", "Nandigram", "Howrah", "Darjeeling"],
-    "correctAnswer": "Nandigram"
+    "question": "Recent reports indicate a political party's candidate was arrested in Nandigram. In which Indian state is Nandigram located, a region often associated with significant political contests?",
+    "options": ["West Bengal", "Odisha", "Andhra Pradesh", "Telangana"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 2,
-    "question": "Which political party criticized the arrest of the Nandigram candidate as part of a 'usual BJP formula'?",
-    "options": ["Trinamool Congress", "Congress", "Communist Party of India (Marxist)", "Aam Aadmi Party"],
-    "correctAnswer": "Congress"
+    "question": "The Election Commission of India has been in the news for decisions related to party symbols. Which of the following pairs of states has recently seen disputes over the rightful claim to a party's original name and symbol, as highlighted in the news?",
+    "options": ["Punjab and Assam", "Maharashtra and West Bengal", "Telangana and Andhra Pradesh", "Kerala and Tamil Nadu"],
+    "correctAnswer": "Maharashtra and West Bengal"
   },
   {
     "id": 3,
-    "question": "Which prominent political leader questioned the timing of the Nandigram candidate's arrest, implying political motivation?",
-    "options": ["Rahul Gandhi", "Mamata Banerjee", "Pinarayi Vijayan", "Arvind Kejriwal"],
-    "correctAnswer": "Mamata Banerjee"
+    "question": "The Trinamool Congress (TMC) Assam unit recently decided not to contest a bypoll due to an Election Commission order. Which bypoll constituency was mentioned in this context?",
+    "options": ["Dispur", "Nagaon", "Guwahati", "Jorhat"],
+    "correctAnswer": "Nagaon"
   },
   {
     "id": 4,
-    "question": "Which country recently settled a significant loan of $150 million to India?",
-    "options": ["Sri Lanka", "Nepal", "Maldives", "Bangladesh"],
-    "correctAnswer": "Maldives"
+    "question": "The Congress party has been strategizing for the 2027 assembly elections in a northern Indian state, aiming to unite key leaders. Which state's Congress unit was highlighted in this context, with Sachin Pilot playing a key role?",
+    "options": ["Uttar Pradesh", "Punjab", "Rajasthan", "Haryana"],
+    "correctAnswer": "Punjab"
   },
   {
     "id": 5,
-    "question": "The Maldives settled its $150 million loan to India after how many extensions for the final tranche?",
-    "options": ["Two", "Four", "Six", "Eight"],
-    "correctAnswer": "Six"
+    "question": "A recent political event involved the arrest of a Congress candidate in Nandigram. This incident led to the Chief Minister of which state questioning the timing of the arrest?",
+    "options": ["West Bengal", "Bihar", "Andhra Pradesh", "Telangana"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 6,
-    "question": "Which state's Trinamool Congress (TMC) unit decided not to contest a bypoll over an Election Commission order?",
-    "options": ["West Bengal", "Assam", "Tripura", "Meghalaya"],
-    "correctAnswer": "Assam"
-  },
-  {
-    "id": 7,
-    "question": "The Election Commission recently designated new names and symbols for which national political party, causing a dispute?",
-    "options": ["Bahujan Samaj Party", "Trinamool Congress", "Samajwadi Party", "Janata Dal (United)"],
-    "correctAnswer": "Trinamool Congress"
-  },
-  {
-    "id": 8,
-    "question": "The recent Election Commission decision on party symbols for TMC mirrored previous disputes seen in which Indian state(s)?",
-    "options": ["Uttar Pradesh", "Karnataka and Kerala", "Maharashtra", "Punjab and Haryana"],
+    "question": "The Election Commission's decision on new names and symbols for political factions was compared in the news to previous disputes in which state, besides West Bengal, regarding Shiv Sena and NCP?",
+    "options": ["Punjab", "Maharashtra", "Karnataka", "Gujarat"],
     "correctAnswer": "Maharashtra"
   },
   {
-    "id": 9,
-    "question": "According to recent Supreme Court decisions influencing the Election Commission, what factor is now highly prioritized in determining the rightful claim to an original party name and symbol?",
-    "options": ["Electoral funding", "Media representation", "Organisational support", "Public opinion polls"],
-    "correctAnswer": "Organisational support"
-  },
-  {
-    "id": 10,
-    "question": "Which Congress leader is credited with successfully bringing together key leaders of the Punjab Congress for the 2027 assembly elections?",
-    "options": ["P. Chidambaram", "Sachin Pilot", "Bhupesh Baghel", "Kamal Nath"],
+    "id": 7,
+    "question": "In the context of political strategies for upcoming assembly elections, which leader was mentioned for successfully bringing together key leaders of the Punjab Congress?",
+    "options": ["Rahul Gandhi", "Sachin Pilot", "Charanjit Singh Channi", "Navjot Singh Sidhu"],
     "correctAnswer": "Sachin Pilot"
   },
   {
+    "id": 8,
+    "question": "The Election Commission's role in resolving disputes over party symbols is crucial. Which Supreme Court principle was mentioned as heavily influencing the commission's decisions in such cases?",
+    "options": ["Prioritizing electoral backing only", "Prioritizing organisational support only", "Prioritizing both organisational support and electoral backing", "Prioritizing historical party lineage"],
+    "correctAnswer": "Prioritizing both organisational support and electoral backing"
+  },
+  {
+    "id": 9,
+    "question": "The Congress party alleged a 'dirty game' by the BJP following the arrest of its Nandigram candidate. This event transpired shortly after the candidate received support from the leader of which political party?",
+    "options": ["Shiv Sena", "Trinamool Congress (TMC)", "Aam Aadmi Party (AAP)", "Dravida Munnetra Kazhagam (DMK)"],
+    "correctAnswer": "Trinamool Congress (TMC)"
+  },
+  {
+    "id": 10,
+    "question": "The news mentioned that a Nandigram candidate eventually quit following recent political developments. This highlights the fluidity of candidates in which state's political landscape?",
+    "options": ["Karnataka", "West Bengal", "Andhra Pradesh", "Telangana"],
+    "correctAnswer": "West Bengal"
+  },
+  {
     "id": 11,
-    "question": "In the Punjab Congress's strategy for the upcoming 2027 assembly elections, who is positioned as the prominent figure of their campaign?",
-    "options": ["Priyanka Gandhi Vadra", "Mallikarjun Kharge", "Rahul Gandhi", "Sonia Gandhi"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "A recent initiative by a state government in Southern India plans to launch a one-gram gold ring scheme for babies born in its government hospitals. Which state's Chief Minister is set to launch this scheme?",
+    "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
+    "correctAnswer": "Tamil Nadu"
   },
   {
     "id": 12,
-    "question": "The Punjab Congress aims to counter which political party in the 2027 assembly elections, as mentioned in a recent news report?",
-    "options": ["Shiromani Akali Dal", "Bharatiya Janata Party", "Aam Aadmi Party", "Bahujan Samaj Party"],
-    "correctAnswer": "Aam Aadmi Party"
+    "question": "While a gold ring scheme for newborns is proposed in Tamil Nadu, which of the following states is also known for significant welfare schemes targeting new mothers and child health, such as the 'KCR Kit'?",
+    "options": ["Karnataka", "Maharashtra", "Telangana", "Odisha"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 13,
-    "question": "Surendra Koli, a key accused in the infamous Nithari case, was recently found dead in which city?",
-    "options": ["Noida", "Delhi", "Haridwar", "Lucknow"],
-    "correctAnswer": "Haridwar"
+    "question": "The CM of Tamil Nadu, M.K. Stalin (implicitly 'CM Vijay' in news), is set to launch a one-gram gold ring scheme. What is the primary target group for this welfare initiative?",
+    "options": ["Newborn babies in private hospitals", "Pregnant women above poverty line", "Babies born in government hospitals", "Children up to one year old"],
+    "correctAnswer": "Babies born in government hospitals"
   },
   {
     "id": 14,
-    "question": "The father of a Nithari case victim questioned Surendra Koli's death, claiming it to be a case of:",
-    "options": ["Natural causes", "Accidental death", "Murder", "Medical negligence"],
-    "correctAnswer": "Murder"
+    "question": "Welfare schemes like the gold ring initiative for newborns often aim to incentivize institutional deliveries and promote child health. Which of the following is a common goal for such state-led welfare programs in India?",
+    "options": ["Increasing the birth rate", "Reducing maternal and infant mortality rates", "Promoting gold industry", "Discouraging private healthcare"],
+    "correctAnswer": "Reducing maternal and infant mortality rates"
   },
   {
     "id": 15,
-    "question": "The Nithari case, which involved the discovery of skeletal remains, originally took place in which city?",
-    "options": ["Ghaziabad", "Meerut", "Noida", "Agra"],
-    "correctAnswer": "Noida"
+    "question": "The news highlights a welfare scheme in Tamil Nadu. Similar state-specific initiatives are common across India. In the context of promoting child health, what kind of benefits do states like Andhra Pradesh often provide to new mothers or newborns?",
+    "options": ["Free education up to college", "Land allotments", "Financial assistance or nutritional support", "Employment opportunities for parents"],
+    "correctAnswer": "Financial assistance or nutritional support"
   },
   {
     "id": 16,
-    "question": "Which neighboring country is reportedly reviewing 101 bilateral pacts with India, prompting a stern warning from India?",
-    "options": ["Nepal", "Sri Lanka", "Bhutan", "Bangladesh"],
-    "correctAnswer": "Bangladesh"
+    "question": "Maldives recently settled a significant loan with India, including a final tranche paid after multiple extensions. What was the total amount of the loan that Maldives settled with India?",
+    "options": ["$50 million", "$100 million", "$150 million", "$200 million"],
+    "correctAnswer": "$150 million"
   },
   {
     "id": 17,
-    "question": "India issued a 'stern warning' stating it 'will take all necessary actions' in response to which country reviewing its bilateral pacts?",
-    "options": ["Pakistan", "China", "Bangladesh", "Myanmar"],
+    "question": "India issued a stern warning amid reports of a neighboring country reviewing 101 bilateral pacts. Which country was mentioned in this context?",
+    "options": ["Pakistan", "Nepal", "Bangladesh", "Sri Lanka"],
     "correctAnswer": "Bangladesh"
   },
   {
     "id": 18,
-    "question": "India recently rejected naval claims made by which neighboring country?",
-    "options": ["China", "Sri Lanka", "Pakistan", "Myanmar"],
-    "correctAnswer": "Pakistan"
+    "question": "The settlement of the Indian loan by Maldives is significant for bilateral relations. How many extensions did Maldives reportedly receive before settling the final tranche of the $150 million loan?",
+    "options": ["Three", "Four", "Five", "Six"],
+    "correctAnswer": "Six"
   },
   {
     "id": 19,
-    "question": "The candidate arrested in Nandigram was apprehended in connection with what type of case, as mentioned in the news?",
-    "options": ["Financial fraud", "Old case", "Defamation suit", "Election malpractice"],
-    "correctAnswer": "Old case"
+    "question": "India's warning to Bangladesh regarding the review of bilateral pacts underscores the importance of diplomatic relations. While not directly related to the news, which of the following is a major port city in Andhra Pradesh that plays a crucial role in India's maritime trade?",
+    "options": ["Paradip", "Ennore", "Visakhapatnam", "Kochi"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 20,
-    "question": "What is the primary task the Election Commission is now facing concerning the Trinamool Congress, as per the news?",
-    "options": ["Investigating party funding", "Appointing new leadership", "Determining rightful claim to original TMC name and symbol", "Overseeing internal party elections"],
-    "correctAnswer": "Determining rightful claim to original TMC name and symbol"
+    "question": "The news about Maldives settling its loan with India highlights India's role as a regional lender. Which of the following Indian states shares a maritime boundary that could be relevant for geopolitical considerations in the Indian Ocean region?",
+    "options": ["Uttar Pradesh", "Madhya Pradesh", "Telangana", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 21,
-    "question": "The recent efforts to unite the Punjab Congress leaders are in preparation for which upcoming event?",
-    "options": ["Lok Sabha elections 2024", "Municipal elections", "2027 assembly elections", "Rajya Sabha elections"],
-    "correctAnswer": "2027 assembly elections"
+    "question": "The Nithari case, which involved the discovery of skeletal remains, recently saw new developments regarding the death of one of its convicts, Surendra Koli. In which Indian city were the skeletal remains discovered during the original case investigation?",
+    "options": ["Ghaziabad", "Noida", "Gurugram", "Agra"],
+    "correctAnswer": "Noida"
   },
   {
     "id": 22,
-    "question": "In India, a 'bypoll' (or by-election) is typically held to fill a vacancy in a legislative body due to which primary reason?",
-    "options": ["Scheduled general election", "End of term", "Resignation or death of a member", "Constitutional amendment"],
-    "correctAnswer": "Resignation or death of a member"
+    "question": "The father of a Nithari case victim has questioned the reported death by suicide of Surendra Koli, claiming murder. In which city was Koli found hanging, prompting a police investigation?",
+    "options": ["Dehradun", "Rishikesh", "Haridwar", "Roorkee"],
+    "correctAnswer": "Haridwar"
   },
   {
     "id": 23,
-    "question": "What was the amount of the final tranche paid by Maldives to settle its $150 million loan from India?",
-    "options": ["$100 million", "$75 million", "$50 million", "$25 million"],
-    "correctAnswer": "$50 million"
+    "question": "The Nithari case is a grim reminder of serious crimes. While this case is centered in Uttar Pradesh, which of the following major cities in Telangana is a prominent hub for its state police investigations?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 24,
-    "question": "How many bilateral pacts is Bangladesh reportedly reviewing with India, as per recent news?",
-    "options": ["50", "75", "101", "150"],
-    "correctAnswer": "101"
+    "question": "The Nithari case involved a notorious criminal investigation in Noida. Which of the following Indian states, known for its extensive police force and judicial system, is home to the capital city of Hyderabad?",
+    "options": ["Karnataka", "Maharashtra", "Telangana", "Andhra Pradesh"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 25,
-    "question": "An Indian state government recently announced a scheme to provide one-gram gold rings for babies born in its government hospitals. Which state's initiative is this?",
-    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Odisha"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "The Nithari case is a well-known criminal case from India's past. While unrelated to the current news, which major institution in Andhra Pradesh plays a key role in legal education and research?",
+    "options": ["Osmania University", "Andhra University", "Kakatiya University", "Sri Venkateswara University"],
+    "correctAnswer": "Andhra University"
   }
 ]

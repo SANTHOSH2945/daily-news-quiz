@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Recent reports indicate a political party's candidate was arrested in Nandigram. In which Indian state is Nandigram located, a region often associated with significant political contests?",
-    "options": ["West Bengal", "Odisha", "Andhra Pradesh", "Telangana"],
-    "correctAnswer": "West Bengal"
+    "question": "The Union Home Minister, whose ministry was implicitly criticized in the news regarding law and order, is responsible for which central ministry overseeing internal security in India?",
+    "options": ["Ministry of External Affairs", "Ministry of Finance", "Ministry of Home Affairs", "Ministry of Defence"],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 2,
-    "question": "The Election Commission of India has been in the news for decisions related to party symbols. Which of the following pairs of states has recently seen disputes over the rightful claim to a party's original name and symbol, as highlighted in the news?",
-    "options": ["Punjab and Assam", "Maharashtra and West Bengal", "Telangana and Andhra Pradesh", "Kerala and Tamil Nadu"],
-    "correctAnswer": "Maharashtra and West Bengal"
+    "question": "In Indian states like Telangana and Andhra Pradesh, what is the primary constitutional responsibility for maintaining law and order?",
+    "options": ["Central Government", "State Government", "Judiciary", "Parliament"],
+    "correctAnswer": "State Government"
   },
   {
     "id": 3,
-    "question": "The Trinamool Congress (TMC) Assam unit recently decided not to contest a bypoll due to an Election Commission order. Which bypoll constituency was mentioned in this context?",
-    "options": ["Dispur", "Nagaon", "Guwahati", "Jorhat"],
-    "correctAnswer": "Nagaon"
+    "question": "Which autonomous body at the national level addresses issues of women's safety and rights across all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["National Human Rights Commission", "National Commission for Protection of Child Rights", "National Commission for Women", "National Green Tribunal"],
+    "correctAnswer": "National Commission for Women"
   },
   {
     "id": 4,
-    "question": "The Congress party has been strategizing for the 2027 assembly elections in a northern Indian state, aiming to unite key leaders. Which state's Congress unit was highlighted in this context, with Sachin Pilot playing a key role?",
-    "options": ["Uttar Pradesh", "Punjab", "Rajasthan", "Haryana"],
-    "correctAnswer": "Punjab"
+    "question": "The news implicitly refers to the police force. Which legislative list in the Indian Constitution primarily covers the subject of 'Police' for states like Telangana and Andhra Pradesh?",
+    "options": ["Union List", "State List", "Concurrent List", "Residuary List"],
+    "correctAnswer": "State List"
   },
   {
     "id": 5,
-    "question": "A recent political event involved the arrest of a Congress candidate in Nandigram. This incident led to the Chief Minister of which state questioning the timing of the arrest?",
-    "options": ["West Bengal", "Bihar", "Andhra Pradesh", "Telangana"],
-    "correctAnswer": "West Bengal"
+    "question": "What is the primary central legislation in India that broadly defines and deals with crimes against persons, applicable across all states including Telangana and Andhra Pradesh?",
+    "options": ["Indian Penal Code", "Code of Criminal Procedure", "Protection of Children from Sexual Offences Act", "Negotiable Instruments Act"],
+    "correctAnswer": "Indian Penal Code"
   },
   {
     "id": 6,
-    "question": "The Election Commission's decision on new names and symbols for political factions was compared in the news to previous disputes in which state, besides West Bengal, regarding Shiv Sena and NCP?",
-    "options": ["Punjab", "Maharashtra", "Karnataka", "Gujarat"],
-    "correctAnswer": "Maharashtra"
+    "question": "The news highlights political leaders' criticism of authorities, emphasizing a fundamental principle of democratic governance where elected officials are answerable for their actions. What is this principle?",
+    "options": ["Separation of Powers", "Judicial Review", "Accountability", "Federalism"],
+    "correctAnswer": "Accountability"
   },
   {
     "id": 7,
-    "question": "In the context of political strategies for upcoming assembly elections, which leader was mentioned for successfully bringing together key leaders of the Punjab Congress?",
-    "options": ["Rahul Gandhi", "Sachin Pilot", "Charanjit Singh Channi", "Navjot Singh Sidhu"],
-    "correctAnswer": "Sachin Pilot"
+    "question": "The Supreme Court of India made observations regarding probe agencies and alcohol prohibition laws. What is its primary role in the Indian judicial system?",
+    "options": ["Solely to advise the President", "Interpret the Constitution", "Enact laws", "Administer state governments"],
+    "correctAnswer": "Interpret the Constitution"
   },
   {
     "id": 8,
-    "question": "The Election Commission's role in resolving disputes over party symbols is crucial. Which Supreme Court principle was mentioned as heavily influencing the commission's decisions in such cases?",
-    "options": ["Prioritizing electoral backing only", "Prioritizing organisational support only", "Prioritizing both organisational support and electoral backing", "Prioritizing historical party lineage"],
-    "correctAnswer": "Prioritizing both organisational support and electoral backing"
+    "question": "The Supreme Court's questioning of a state law (alcohol prohibition) exemplifies which key power of the judiciary in India?",
+    "options": ["Legislative power", "Executive power", "Judicial Review", "Advisory jurisdiction"],
+    "correctAnswer": "Judicial Review"
   },
   {
     "id": 9,
-    "question": "The Congress party alleged a 'dirty game' by the BJP following the arrest of its Nandigram candidate. This event transpired shortly after the candidate received support from the leader of which political party?",
-    "options": ["Shiv Sena", "Trinamool Congress (TMC)", "Aam Aadmi Party (AAP)", "Dravida Munnetra Kazhagam (DMK)"],
-    "correctAnswer": "Trinamool Congress (TMC)"
+    "question": "Citizens in states like Telangana and Andhra Pradesh can approach the Supreme Court (or High Courts) for the enforcement of fundamental rights under which constitutional provisions, related to judicial actions?",
+    "options": ["Article 19", "Article 21", "Article 32 & 226", "Article 370"],
+    "correctAnswer": "Article 32 & 226"
   },
   {
     "id": 10,
-    "question": "The news mentioned that a Nandigram candidate eventually quit following recent political developments. This highlights the fluidity of candidates in which state's political landscape?",
-    "options": ["Karnataka", "West Bengal", "Andhra Pradesh", "Telangana"],
-    "correctAnswer": "West Bengal"
+    "question": "The Supreme Court's debate on alcohol prohibition underscores that alcohol-related legislation primarily falls under which legislative list for Indian states like Telangana and Andhra Pradesh?",
+    "options": ["Union List", "State List", "Concurrent List", "Residuary List"],
+    "correctAnswer": "State List"
   },
   {
     "id": 11,
-    "question": "A recent initiative by a state government in Southern India plans to launch a one-gram gold ring scheme for babies born in its government hospitals. Which state's Chief Minister is set to launch this scheme?",
-    "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Telangana"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "Which part of the Indian Constitution, though not directly enforceable, encourages states to endeavor to bring about prohibition of intoxicating drinks and drugs?",
+    "options": ["Fundamental Rights", "Fundamental Duties", "Directive Principles of State Policy", "Preamble"],
+    "correctAnswer": "Directive Principles of State Policy"
   },
   {
     "id": 12,
-    "question": "While a gold ring scheme for newborns is proposed in Tamil Nadu, which of the following states is also known for significant welfare schemes targeting new mothers and child health, such as the 'KCR Kit'?",
-    "options": ["Karnataka", "Maharashtra", "Telangana", "Odisha"],
-    "correctAnswer": "Telangana"
+    "question": "In states like Telangana and Andhra Pradesh, what is the highest court within the state's judicial hierarchy, below the Supreme Court?",
+    "options": ["District Court", "Civil Court", "High Court", "Sessions Court"],
+    "correctAnswer": "High Court"
   },
   {
     "id": 13,
-    "question": "The CM of Tamil Nadu, M.K. Stalin (implicitly 'CM Vijay' in news), is set to launch a one-gram gold ring scheme. What is the primary target group for this welfare initiative?",
-    "options": ["Newborn babies in private hospitals", "Pregnant women above poverty line", "Babies born in government hospitals", "Children up to one year old"],
-    "correctAnswer": "Babies born in government hospitals"
+    "question": "The Election Commission of India (EC), mentioned in the news, is an autonomous body responsible for what key function in India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Forming political parties", "Conducting elections", "Appointing ministers", "Regulating media"],
+    "correctAnswer": "Conducting elections"
   },
   {
     "id": 14,
-    "question": "Welfare schemes like the gold ring initiative for newborns often aim to incentivize institutional deliveries and promote child health. Which of the following is a common goal for such state-led welfare programs in India?",
-    "options": ["Increasing the birth rate", "Reducing maternal and infant mortality rates", "Promoting gold industry", "Discouraging private healthcare"],
-    "correctAnswer": "Reducing maternal and infant mortality rates"
+    "question": "Which body is responsible for the registration and recognition of political parties in India, and assigning election symbols?",
+    "options": ["Parliament", "Supreme Court", "Election Commission of India", "Ministry of Law and Justice"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 15,
-    "question": "The news highlights a welfare scheme in Tamil Nadu. Similar state-specific initiatives are common across India. In the context of promoting child health, what kind of benefits do states like Andhra Pradesh often provide to new mothers or newborns?",
-    "options": ["Free education up to college", "Land allotments", "Financial assistance or nutritional support", "Employment opportunities for parents"],
-    "correctAnswer": "Financial assistance or nutritional support"
+    "question": "Who appoints the Chief Election Commissioner and other Election Commissioners in India, roles vital for an impartial electoral process in all states?",
+    "options": ["Prime Minister", "Chief Justice of India", "President of India", "Speaker of Lok Sabha"],
+    "correctAnswer": "President of India"
   },
   {
     "id": 16,
-    "question": "Maldives recently settled a significant loan with India, including a final tranche paid after multiple extensions. What was the total amount of the loan that Maldives settled with India?",
-    "options": ["$50 million", "$100 million", "$150 million", "$200 million"],
-    "correctAnswer": "$150 million"
+    "question": "Discussions about 'rebel bloc' and new symbols sometimes relate to political splits. Which law in India deals with the disqualification of elected members on grounds of defection from their party?",
+    "options": ["Representation of the People Act", "Indian Penal Code", "Anti-Defection Law (10th Schedule)", "Companies Act"],
+    "correctAnswer": "Anti-Defection Law (10th Schedule)"
   },
   {
     "id": 17,
-    "question": "India issued a stern warning amid reports of a neighboring country reviewing 101 bilateral pacts. Which country was mentioned in this context?",
-    "options": ["Pakistan", "Nepal", "Bangladesh", "Sri Lanka"],
-    "correctAnswer": "Bangladesh"
+    "question": "The Ministry of Home Affairs (MHA) defends FCRA tweaks based on internal security. Who is the head of the MHA?",
+    "options": ["Minister of Finance", "Prime Minister", "Union Home Minister", "Minister of Defence"],
+    "correctAnswer": "Union Home Minister"
   },
   {
     "id": 18,
-    "question": "The settlement of the Indian loan by Maldives is significant for bilateral relations. How many extensions did Maldives reportedly receive before settling the final tranche of the $150 million loan?",
-    "options": ["Three", "Four", "Five", "Six"],
-    "correctAnswer": "Six"
+    "question": "The FCRA (Foreign Contribution Regulation Act), mentioned in the news, primarily regulates what type of activities in India, impacting NGOs operating across all states?",
+    "options": ["Foreign trade", "Foreign investments", "Foreign donations to NGOs", "Foreign tourism"],
+    "correctAnswer": "Foreign donations to NGOs"
   },
   {
     "id": 19,
-    "question": "India's warning to Bangladesh regarding the review of bilateral pacts underscores the importance of diplomatic relations. While not directly related to the news, which of the following is a major port city in Andhra Pradesh that plays a crucial role in India's maritime trade?",
-    "options": ["Paradip", "Ennore", "Visakhapatnam", "Kochi"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What is the constitutional responsibility of the Union Government regarding internal security across all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Complete control over state police", "Aid to state governments", "Sole responsibility for law enforcement", "Regulate state finances"],
+    "correctAnswer": "Aid to state governments"
   },
   {
     "id": 20,
-    "question": "The news about Maldives settling its loan with India highlights India's role as a regional lender. Which of the following Indian states shares a maritime boundary that could be relevant for geopolitical considerations in the Indian Ocean region?",
-    "options": ["Uttar Pradesh", "Madhya Pradesh", "Telangana", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The MHA's defense of FCRA tweaks and the SC's questioning of state alcohol laws highlight the dynamics of power distribution between the Central and State governments. This is a core aspect of which feature of the Indian Constitution?",
+    "options": ["Unitary system", "Federalism", "Parliamentary system", "Presidential system"],
+    "correctAnswer": "Federalism"
   },
   {
     "id": 21,
-    "question": "The Nithari case, which involved the discovery of skeletal remains, recently saw new developments regarding the death of one of its convicts, Surendra Koli. In which Indian city were the skeletal remains discovered during the original case investigation?",
-    "options": ["Ghaziabad", "Noida", "Gurugram", "Agra"],
-    "correctAnswer": "Noida"
+    "question": "The Prime Minister's discussion with the UAE President highlights his role in foreign policy. Who is constitutionally the chief executor of India's foreign policy?",
+    "options": ["President", "Prime Minister", "Minister of External Affairs", "Cabinet Secretary"],
+    "correctAnswer": "Prime Minister"
   },
   {
     "id": 22,
-    "question": "The father of a Nithari case victim has questioned the reported death by suicide of Surendra Koli, claiming murder. In which city was Koli found hanging, prompting a police investigation?",
-    "options": ["Dehradun", "Rishikesh", "Haridwar", "Roorkee"],
-    "correctAnswer": "Haridwar"
+    "question": "The news mentions bilateral ties between India and UAE. What is a key area of cooperation between India and the UAE, significant for the economy of many Indian states, including AP/Telangana?",
+    "options": ["Space exploration", "Oil and gas trade", "Agricultural technology", "Cultural exchange programs"],
+    "correctAnswer": "Oil and gas trade"
   },
   {
     "id": 23,
-    "question": "The Nithari case is a grim reminder of serious crimes. While this case is centered in Uttar Pradesh, which of the following major cities in Telangana is a prominent hub for its state police investigations?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "The large Indian diaspora in countries like the UAE contributes significantly to India's economy through which financial inflow?",
+    "options": ["Foreign Direct Investment (FDI)", "Foreign Institutional Investment (FII)", "Remittances", "External Commercial Borrowings (ECB)"],
+    "correctAnswer": "Remittances"
   },
   {
     "id": 24,
-    "question": "The Nithari case involved a notorious criminal investigation in Noida. Which of the following Indian states, known for its extensive police force and judicial system, is home to the capital city of Hyderabad?",
-    "options": ["Karnataka", "Maharashtra", "Telangana", "Andhra Pradesh"],
-    "correctAnswer": "Telangana"
+    "question": "While UAE is not in South Asia, India's engagement in peace efforts and bilateral ties often involves regional groupings. Which of the following is a key regional organization India is part of to foster cooperation in South Asia?",
+    "options": ["ASEAN", "NATO", "SAARC", "EU"],
+    "correctAnswer": "SAARC"
   },
   {
     "id": 25,
-    "question": "The Nithari case is a well-known criminal case from India's past. While unrelated to the current news, which major institution in Andhra Pradesh plays a key role in legal education and research?",
-    "options": ["Osmania University", "Andhra University", "Kakatiya University", "Sri Venkateswara University"],
-    "correctAnswer": "Andhra University"
+    "question": "Which constitutional amendment famously granted constitutional status to Panchayati Raj Institutions, a system of local self-governance prevalent in states like Telangana and Andhra Pradesh?",
+    "options": ["42nd Amendment", "73rd Amendment", "86th Amendment", "101st Amendment"],
+    "correctAnswer": "73rd Amendment"
   }
 ]

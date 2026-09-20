@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What new identification document has been made mandatory for LPG refills in India?",
-    "options": ["Passport", "PAN Card", "Aadhaar Card", "Voter ID"],
-    "correctAnswer": "Aadhaar Card"
+    "question": "What regulatory action is being considered for morning-after pills in India?",
+    "options": ["Increasing their price", "Adding four boxed warnings", "Banning their sale", "Making them prescription-free"],
+    "correctAnswer": "Adding four boxed warnings"
   },
   {
     "id": 2,
-    "question": "The recent mandate making Aadhaar compulsory for LPG refills primarily aims to enhance which aspect of the distribution system?",
-    "options": ["Consumer convenience", "Government revenue", "Transparency and targeted subsidy delivery", "LPG cylinder manufacturing"],
-    "correctAnswer": "Transparency and targeted subsidy delivery"
+    "question": "How many 'boxed warnings' are being considered for morning-after pills in India, as per recent news that impacts all states including Telangana and Andhra Pradesh?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Four"
   },
   {
     "id": 3,
-    "question": "For residents of Andhra Pradesh and Telangana, what document is now essential to avail an LPG refill?",
-    "options": ["Driving License", "Ration Card", "Aadhaar Card", "Bank Passbook"],
-    "correctAnswer": "Aadhaar Card"
+    "question": "The proposed 'boxed warnings' for morning-after pills in India primarily aim to address which aspect for public health?",
+    "options": ["Marketing strategies", "Consumer information and safety", "Drug pricing", "Patent rights"],
+    "correctAnswer": "Consumer information and safety"
   },
   {
     "id": 4,
-    "question": "What is the main objective behind linking Aadhaar with LPG refills across India?",
-    "options": ["To monitor fuel consumption", "To prevent misuse of subsidies", "To increase LPG prices", "To promote digital payments"],
-    "correctAnswer": "To prevent misuse of subsidies"
+    "question": "Which type of medication is being considered for additional 'boxed warnings' in India, affecting its usage across all states?",
+    "options": ["Painkillers", "Antibiotics", "Morning-after pills", "Blood pressure medication"],
+    "correctAnswer": "Morning-after pills"
   },
   {
     "id": 5,
-    "question": "The mandate for Aadhaar in LPG refills is an example of the government's push for greater ___________ in public services.",
-    "options": ["Centralization", "Globalization", "Digitalization and accountability", "Privatization"],
-    "correctAnswer": "Digitalization and accountability"
+    "question": "What is the recent policy change regarding Aadhaar for LPG refills in India, impacting households in Telangana and Andhra Pradesh?",
+    "options": ["It is optional for subsidies", "It is now mandatory", "It is required only for new connections", "It is no longer needed"],
+    "correctAnswer": "It is now mandatory"
   },
   {
     "id": 6,
-    "question": "By which year does India aim to domestically manufacture bullet trains capable of 350 kmph?",
+    "question": "For which essential household service has Aadhaar recently been made mandatory across India, including states like Andhra Pradesh?",
+    "options": ["Electricity bill payment", "Water supply connection", "LPG refills", "Mobile recharges"],
+    "correctAnswer": "LPG refills"
+  },
+  {
+    "id": 7,
+    "question": "What is the primary purpose of making Aadhaar mandatory for LPG refills in India?",
+    "options": ["To increase tax collection", "To streamline subsidy delivery and prevent misuse", "To reduce fuel consumption", "To promote digital payments"],
+    "correctAnswer": "To streamline subsidy delivery and prevent misuse"
+  },
+  {
+    "id": 8,
+    "question": "The new Aadhaar mandate for LPG refills is a policy implemented by which level of government in India?",
+    "options": ["State government", "Central government", "Local municipal bodies", "District administrations"],
+    "correctAnswer": "Central government"
+  },
+  {
+    "id": 9,
+    "question": "By what year does India aim to indigenously manufacture bullet trains capable of 350 kmph?",
     "options": ["2025", "2030", "2035", "2040"],
     "correctAnswer": "2030"
   },
   {
-    "id": 7,
-    "question": "India plans to match the speed of which country's E10 model bullet trains by 2030?",
-    "options": ["China", "Germany", "Japan", "France"],
-    "correctAnswer": "Japan"
-  },
-  {
-    "id": 8,
-    "question": "What is the target speed for the bullet trains India intends to produce by 2030?",
+    "id": 10,
+    "question": "What maximum speed are India's upcoming indigenously made bullet trains expected to achieve by 2030?",
     "options": ["250 kmph", "300 kmph", "350 kmph", "400 kmph"],
     "correctAnswer": "350 kmph"
   },
   {
-    "id": 9,
-    "question": "The Cabinet has approved a revised cost for the bullet train project. What is the approximate revised cost mentioned in the news?",
-    "options": ["₹1 Lakh Crore", "₹2 Lakh Crore", "₹3 Lakh Crore", "₹4 Lakh Crore"],
-    "correctAnswer": "₹2 Lakh Crore"
-  },
-  {
-    "id": 10,
-    "question": "The indigenous manufacturing of high-speed bullet trains by India signifies a major advancement in which sector?",
-    "options": ["Automobile industry", "Aerospace engineering", "Railway technology", "Naval architecture"],
-    "correctAnswer": "Railway technology"
-  },
-  {
     "id": 11,
-    "question": "What percentage deficit is the monsoon season in India projected to end with, as per recent reports?",
+    "question": "Which country's 'E10' model bullet train does India aspire to match with its indigenous manufacturing by 2030?",
+    "options": ["China", "Germany", "France", "Japan"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "id": 12,
+    "question": "What was the revised estimated cost for India's bullet train project that recently received Cabinet nod?",
+    "options": ["₹1 lakh crore", "₹2 lakh crore", "₹3 lakh crore", "₹4 lakh crore"],
+    "correctAnswer": "₹2 lakh crore"
+  },
+  {
+    "id": 13,
+    "question": "What specific type of major infrastructure project received Cabinet nod with a revised cost of ₹2 lakh crore?",
+    "options": ["New airport construction", "National highway expansion", "Bullet train network", "Port development"],
+    "correctAnswer": "Bullet train network"
+  },
+  {
+    "id": 14,
+    "question": "Which government body has approved the revised cost for the bullet train project in India?",
+    "options": ["Parliament", "Supreme Court", "Cabinet", "Reserve Bank of India"],
+    "correctAnswer": "Cabinet"
+  },
+  {
+    "id": 15,
+    "question": "The Indian bullet train project's aim for indigenous manufacturing by 2030 aligns with which national initiative?",
+    "options": ["Digital India", "Swachh Bharat Abhiyan", "Make in India", "Skill India Mission"],
+    "correctAnswer": "Make in India"
+  },
+  {
+    "id": 16,
+    "question": "What is the projected overall monsoon deficit for the current season in India?",
     "options": ["5%", "10%", "15%", "20%"],
     "correctAnswer": "10%"
   },
   {
-    "id": 12,
-    "question": "So far, how many states have reported a rain deficit of more than 20% as the monsoon withdrawal begins?",
-    "options": ["8", "10", "12", "14"],
+    "id": 17,
+    "question": "Approximately how many Indian states have reported a rain deficit exceeding 20% so far this monsoon season?",
+    "options": ["10", "12", "14", "16"],
     "correctAnswer": "14"
   },
   {
-    "id": 13,
-    "question": "A significant monsoon deficit, as projected, could severely impact which crucial sector in states like Telangana and Andhra Pradesh?",
-    "options": ["Tourism", "Information Technology", "Agriculture", "Manufacturing"],
-    "correctAnswer": "Agriculture"
-  },
-  {
-    "id": 14,
-    "question": "What is a likely consequence of a 10% monsoon deficit on water reservoirs and groundwater levels in affected regions of India, including Telangana?",
-    "options": ["Increased levels", "No change", "Decreased levels", "Stabilized levels"],
-    "correctAnswer": "Decreased levels"
-  },
-  {
-    "id": 15,
-    "question": "The 'monsoon withdrawal' signals the end of which season in India?",
-    "options": ["Winter", "Summer", "Rainy", "Spring"],
-    "correctAnswer": "Rainy"
-  },
-  {
-    "id": 16,
-    "question": "Which states, known for their agricultural output, are particularly vulnerable to the reported monsoon deficit of over 20%?",
-    "options": ["Himachal Pradesh & Uttarakhand", "Rajasthan & Gujarat", "Telangana & Andhra Pradesh", "Kerala & Goa"],
-    "correctAnswer": "Telangana & Andhra Pradesh"
-  },
-  {
-    "id": 17,
-    "question": "The reported monsoon deficit raises concerns primarily about the availability of which natural resource for the upcoming dry season?",
-    "options": ["Mineral oil", "Natural gas", "Freshwater", "Forest timber"],
-    "correctAnswer": "Freshwater"
-  },
-  {
     "id": 18,
-    "question": "According to the Prime Minister, what is creating new opportunities for the youth in India?",
-    "options": ["Educational reforms", "Trade agreements", "Technological advancements", "Cultural exchange programs"],
-    "correctAnswer": "Trade agreements"
+    "question": "What climatic phenomenon's withdrawal has begun, signaling a potential 10% deficit for the season across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Winter chill", "Monsoon", "Heatwave", "Cyclonic activity"],
+    "correctAnswer": "Monsoon"
   },
   {
     "id": 19,
-    "question": "How do successful trade agreements potentially benefit the youth in states like Telangana and Andhra Pradesh?",
-    "options": ["By increasing local taxes", "By reducing educational funding", "By creating new job opportunities and markets", "By restricting travel abroad"],
-    "correctAnswer": "By creating new job opportunities and markets"
+    "question": "What could be a significant consequence of a 10% monsoon deficit on agriculture in Indian states like Telangana and Andhra Pradesh?",
+    "options": ["Increased crop yield", "Better groundwater levels", "Reduced agricultural output", "Earlier harvesting season"],
+    "correctAnswer": "Reduced agricultural output"
   },
   {
     "id": 20,
-    "question": "Chief Justice Surya Kant referred to the Supreme Court as the 'banyan tree' of which specific type of justice?",
-    "options": ["Criminal justice", "Civil justice", "Constitutional justice", "Environmental justice"],
-    "correctAnswer": "Environmental justice"
+    "question": "Beyond agriculture, what other vital resource in states like Andhra Pradesh and Telangana can be significantly impacted by a monsoon deficit?",
+    "options": ["Mineral reserves", "Forest cover", "Drinking water supply", "Renewable energy production"],
+    "correctAnswer": "Drinking water supply"
   },
   {
     "id": 21,
-    "question": "The Supreme Court's role as the 'banyan tree of environmental justice' is particularly significant for states like Andhra Pradesh because it ensures the protection of which resources?",
-    "options": ["Historical monuments and cultural sites", "Financial institutions and banking sector", "Natural resources and ecological balance", "Industrial zones and factories"],
-    "correctAnswer": "Natural resources and ecological balance"
+    "question": "What policy change is impacting how citizens in Telangana obtain their LPG cylinder refills?",
+    "options": ["Online booking only", "Mandatory Aadhaar linkage", "Increased subsidy for cash payments", "Doorstep delivery is no longer available"],
+    "correctAnswer": "Mandatory Aadhaar linkage"
   },
   {
     "id": 22,
-    "question": "PM Modi is pushing back on the West's narrative concerning which global environmental issue?",
-    "options": ["Plastic pollution", "Deforestation", "Carbon emissions", "Water scarcity"],
-    "correctAnswer": "Carbon emissions"
+    "question": "The Indian government's plan to make 350 kmph bullet trains by 2030 represents a significant investment in which sector for national development?",
+    "options": ["Space exploration", "Healthcare technology", "Public transportation infrastructure", "Defense manufacturing"],
+    "correctAnswer": "Public transportation infrastructure"
   },
   {
     "id": 23,
-    "question": "India's stance, as articulated by the PM, on carbon emissions highlights its commitment to a balanced approach between development and which other global imperative?",
-    "options": ["Economic liberalization", "Technological dominance", "Climate change mitigation", "Space exploration"],
-    "correctAnswer": "Climate change mitigation"
+    "question": "The consideration of 'boxed warnings' for morning-after pills in India primarily focuses on enhancing what for the public?",
+    "options": ["Product design", "Regulatory compliance and consumer awareness", "Supply chain logistics", "International trade agreements"],
+    "correctAnswer": "Regulatory compliance and consumer awareness"
   },
   {
     "id": 24,
-    "question": "The move to make Aadhaar mandatory for LPG refills aligns with the government's broader vision of promoting what in public welfare schemes?",
-    "options": ["Subsidized travel", "Direct Benefit Transfer (DBT)", "Universal Basic Income", "Cashless economy"],
-    "correctAnswer": "Direct Benefit Transfer (DBT)"
+    "question": "Before Aadhaar became mandatory, what was commonly used for identifying LPG consumers for subsidies in India?",
+    "options": ["PAN card", "Ration card", "Voter ID", "Bank passbook"],
+    "correctAnswer": "Ration card"
   },
   {
     "id": 25,
-    "question": "Which factor is directly responsible for the projected 10% deficit in the monsoon season?",
-    "options": ["Increased industrial pollution", "Late onset of winter", "Below-average rainfall", "Excessive heatwaves"],
-    "correctAnswer": "Below-average rainfall"
+    "question": "The Cabinet's approval of the revised cost for the bullet train project highlights the government's commitment to what aspect of national growth?",
+    "options": ["Cultural exchange programs", "Urban beautification projects", "Large-scale economic and technological advancement", "Rural employment schemes"],
+    "correctAnswer": "Large-scale economic and technological advancement"
   }
 ]

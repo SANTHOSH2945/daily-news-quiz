@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Who is the current President of the Telangana Pradesh Congress Committee (TPCC)?",
-    "options": ["Revanth Reddy", "Bandi Sanjay Kumar", "G. Kishan Reddy", "K. Chandrashekar Rao"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "What is the primary aim of the ABHA initiative in Indian healthcare, as mentioned in the news?",
+    "options": [
+      "To provide free medicines to all citizens",
+      "To digitally integrate healthcare systems across the nation",
+      "To establish new physical hospitals in rural areas",
+      "To train medical staff exclusively in digital tools"
+    ],
+    "correctAnswer": "To digitally integrate healthcare systems across the nation"
   },
   {
     "id": 2,
-    "question": "Which major national party recently won the assembly elections in Telangana in 2023?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Bharat Rashtra Samithi (BRS)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
-  },
-  {
-    "id": 3,
-    "question": "Who is the current state president of the BJP in Andhra Pradesh?",
-    "options": ["G. Kishan Reddy", "Somu Veerraju", "Daggubati Purandeswari", "Kanna Lakshminarayana"],
-    "correctAnswer": "Daggubati Purandeswari"
-  },
-  {
-    "id": 4,
-    "question": "What was one of the key guarantees (promises) made by the Congress party that contributed to its victory in the 2023 Telangana Assembly elections?",
-    "options": ["Free electricity up to 200 units", "Implementation of Aarogyasri for all", "Construction of new capital city", "Distribution of land to all landless farmers"],
-    "correctAnswer": "Free electricity up to 200 units"
-  },
-  {
-    "id": 5,
-    "question": "In the context of national political parties, what is the current representation of the BJP in the Andhra Pradesh Legislative Assembly (post-2019 elections)?",
-    "options": ["Significant majority", "Main opposition party", "No representation", "Part of the ruling coalition"],
-    "correctAnswer": "No representation"
-  },
-  {
-    "id": 6,
-    "question": "Which prominent Congress leader from Telangana became the Chief Minister after the 2023 Assembly elections?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Etela Rajender", "K. T. Rama Rao"],
-    "correctAnswer": "Revanth Reddy"
-  },
-  {
-    "id": 7,
-    "question": "Which former Chief Minister of united Andhra Pradesh had a strong historical affiliation with the Indian National Congress party?",
-    "options": ["N. T. Rama Rao", "Y. S. Rajasekhara Reddy", "N. Chandrababu Naidu", "K. Chandrashekar Rao"],
-    "correctAnswer": "Y. S. Rajasekhara Reddy"
-  },
-  {
-    "id": 8,
-    "question": "Beyond the ruling party, which national party demonstrated a notable increase in its electoral presence and vote share in Telangana during the 2023 Assembly elections, positioning itself as a key challenger?",
-    "options": ["Bahujan Samaj Party (BSP)", "Communist Party of India (CPI)", "Bharatiya Janata Party (BJP)", "Nationalist Congress Party (NCP)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
-  },
-  {
-    "id": 9,
-    "question": "What is the primary purpose of the ABHA (Ayushman Bharat Health Account) initiative, a digital health initiative being implemented across India, including Telangana and Andhra Pradesh?",
-    "options": ["To provide free health insurance to all citizens", "To create unique health IDs for digital health records", "To establish new government hospitals", "To regulate pharmaceutical prices"],
-    "correctAnswer": "To create unique health IDs for digital health records"
-  },
-  {
-    "id": 10,
-    "question": "Which state-specific health scheme in Andhra Pradesh aims to provide comprehensive medical care to eligible citizens, potentially integrating with national digital health initiatives?",
-    "options": ["Kanti Velugu", "Aarogyasri", "Mission Indradhanush", "Kalyana Lakshmi"],
-    "correctAnswer": "Aarogyasri"
-  },
-  {
-    "id": 11,
-    "question": "How does Telangana's Aarogyasri scheme potentially benefit from or align with national digital health initiatives like ABHA?",
-    "options": ["By reducing the need for doctors", "By digitizing patient records and streamlining access to services", "By funding new private hospitals", "By focusing solely on preventative care"],
-    "correctAnswer": "By digitizing patient records and streamlining access to services"
-  },
-  {
-    "id": 12,
-    "question": "Which central government scheme, foundational to ABHA, focuses on providing health insurance coverage to vulnerable families across India, including AP and Telangana?",
-    "options": ["PM-KISAN", "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)", "Swachh Bharat Abhiyan", "Skill India Mission"],
-    "correctAnswer": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)"
-  },
-  {
-    "id": 13,
-    "question": "What is a key challenge faced by elderly populations in adopting digital healthcare services in states like Andhra Pradesh and Telangana?",
-    "options": ["High cost of digital devices", "Lack of reliable internet access and digital literacy", "Limited availability of doctors", "Preference for traditional healing methods"],
+    "question": "According to the news, what is identified as a significant hurdle for comprehensive medical support in the context of digital healthcare in India, including states like Telangana and Andhra Pradesh?",
+    "options": [
+      "An excess of medical professionals",
+      "Lack of reliable internet access and digital literacy",
+      "High cost of traditional healthcare services",
+      "Over-reliance on physical consultations"
+    ],
     "correctAnswer": "Lack of reliable internet access and digital literacy"
   },
   {
-    "id": 14,
-    "question": "The integration of digital health records, as envisioned by ABHA, aims to create a unified health identity for citizens. What is a primary benefit for patients in Telangana from such an integration?",
-    "options": ["Eliminating all hospital visits", "Seamless access to medical history across different healthcare providers", "Guaranteeing free treatment for all ailments", "Reducing the number of available healthcare facilities"],
-    "correctAnswer": "Seamless access to medical history across different healthcare providers"
+    "id": 3,
+    "question": "Which demographic group is generally more inclined to embrace online health services, as per the insights on digital healthcare?",
+    "options": [
+      "Elderly patients",
+      "Rural populations",
+      "Younger generations",
+      "Patients with chronic illnesses"
+    ],
+    "correctAnswer": "Younger generations"
   },
   {
-    "id": 15,
-    "question": "Which government-backed digital platform facilitates teleconsultations and healthcare services, playing a role in digital health initiatives in states like Andhra Pradesh and Telangana?",
-    "options": ["eSanjeevani", "MyGov", "UMANG", "DigiLocker"],
-    "correctAnswer": "eSanjeevani"
+    "id": 4,
+    "question": "What should be the ultimate role of technology in patient care, according to the provided news context on digital healthcare?",
+    "options": [
+      "To replace human interaction entirely",
+      "To substitute medical professionals with AI",
+      "To enhance, rather than substitute, the necessary human touch",
+      "To reduce the overall number of hospitals"
+    ],
+    "correctAnswer": "To enhance, rather than substitute, the necessary human touch"
   },
   {
-    "id": 16,
-    "question": "Which city in Telangana is widely regarded as the political stronghold of the All India Majlis-e-Ittehadul Muslimeen (AIMIM) party?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+    "id": 5,
+    "question": "The article discusses 'hurdles for various patients' in digital healthcare, highlighting a disparity in access to technology. What concept does this imply for India, including states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Digital boom",
+      "Digital divide",
+      "Digital convergence",
+      "Digital transformation"
+    ],
+    "correctAnswer": "Digital divide"
+  },
+  {
+    "id": 6,
+    "question": "Digital healthcare in India is described as presenting what kind of landscape?",
+    "options": [
+      "Unanimously positive with no drawbacks",
+      "Unanimously negative with no benefits",
+      "A dual landscape offering innovative benefits while simultaneously imposing hurdles",
+      "Stagnant with no significant changes"
+    ],
+    "correctAnswer": "A dual landscape offering innovative benefits while simultaneously imposing hurdles"
+  },
+  {
+    "id": 7,
+    "question": "The ABHA initiative strives to digitally integrate healthcare systems. What is the intended geographical scope of such national initiatives in India, including states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Limited to metropolitan cities only",
+      "Exclusively for northern states of India",
+      "Pan-India, covering all regions and states",
+      "Primarily for private sector hospitals"
+    ],
+    "correctAnswer": "Pan-India, covering all regions and states"
+  },
+  {
+    "id": 8,
+    "question": "The news mentions political criticism between which two major national political parties that are also active in Telangana and Andhra Pradesh?",
+    "options": [
+      "Aam Aadmi Party (AAP) and Bahujan Samaj Party (BSP)",
+      "Bharatiya Janata Party (BJP) and Indian National Congress (Congress)",
+      "Trinamool Congress (TMC) and Samajwadi Party (SP)",
+      "Dravida Munnetra Kazhagam (DMK) and All India Anna Dravida Munnetra Kazhagam (AIADMK)"
+    ],
+    "correctAnswer": "Bharatiya Janata Party (BJP) and Indian National Congress (Congress)"
+  },
+  {
+    "id": 9,
+    "question": "What was the Bharatiya Janata Party's (BJP) reaction to the mimicry of PM Modi at a Congress event, as reported in the news?",
+    "options": [
+      "They praised the performance for its comedic value",
+      "They remained neutral, stating it was a non-issue",
+      "They criticized the Congress party and its leader Rahul Gandhi",
+      "They participated in the event alongside the Congress leaders"
+    ],
+    "correctAnswer": "They criticized the Congress party and its leader Rahul Gandhi"
+  },
+  {
+    "id": 10,
+    "question": "Rahul Gandhi attended an event where political satire was used. This highlights the importance of which aspect in India's democratic framework, applicable to states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Military parades and displays of strength",
+      "Freedom of expression and political satire",
+      "Strict adherence to economic policies only",
+      "Suppression of artistic performances"
+    ],
+    "correctAnswer": "Freedom of expression and political satire"
+  },
+  {
+    "id": 11,
+    "question": "Which prominent leader of the Indian National Congress was mentioned as attending the event in question where mimicry occurred?",
+    "options": [
+      "Sonia Gandhi",
+      "Mallikarjun Kharge",
+      "Rahul Gandhi",
+      "Priyanka Gandhi Vadra"
+    ],
+    "correctAnswer": "Rahul Gandhi"
+  },
+  {
+    "id": 12,
+    "question": "Asaduddin Owaisi, mentioned in the context of political alliances, is a prominent leader of which political party that has a significant presence in Telangana?",
+    "options": [
+      "Samajwadi Party (SP)",
+      "Bahujan Samaj Party (BSP)",
+      "All India Majlis-e-Ittehadul Muslimeen (AIMIM)",
+      "Trinamool Congress (TMC)"
+    ],
+    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
+  },
+  {
+    "id": 13,
+    "question": "The All India Majlis-e-Ittehadul Muslimeen (AIMIM), led by Asaduddin Owaisi, has a significant political stronghold in which major city of Telangana?",
+    "options": [
+      "Warangal",
+      "Karimnagar",
+      "Hyderabad",
+      "Nizamabad"
+    ],
     "correctAnswer": "Hyderabad"
   },
   {
+    "id": 14,
+    "question": "Owaisi's statement about opening 'alliance door to 'like-minded' parties' reflects a common political strategy often used for what purpose in Indian elections, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "To consolidate power against a dominant political party",
+      "To form a single-party government without external support",
+      "To intentionally reduce electoral competition",
+      "To promote extreme regionalism over national interests"
+    ],
+    "correctAnswer": "To consolidate power against a dominant political party"
+  },
+  {
+    "id": 15,
+    "question": "Although its stronghold is in Telangana, AIMIM also contests elections and has a presence in other Indian states, as implied by the news focusing on which state for Owaisi's statements?",
+    "options": [
+      "Kerala",
+      "Uttar Pradesh",
+      "Punjab",
+      "Rajasthan"
+    ],
+    "correctAnswer": "Uttar Pradesh"
+  },
+  {
+    "id": 16,
+    "question": "The political interactions and alliances between parties like BJP, Congress, and AIMIM reflect which fundamental characteristic of India's political system, applicable to Telangana and Andhra Pradesh?",
+    "options": [
+      "A one-party system",
+      "A two-party system",
+      "A multi-party system",
+      "A non-party system"
+    ],
+    "correctAnswer": "A multi-party system"
+  },
+  {
     "id": 17,
-    "question": "Who is the current president of the All India Majlis-e-Ittehadul Muslimeen (AIMIM) party?",
-    "options": ["Akbaruddin Owaisi", "Asaduddin Owaisi", "Sultan Salahuddin Owaisi", "Imtiaz Jaleel"],
-    "correctAnswer": "Asaduddin Owaisi"
+    "question": "In a democratic setup like India's, what is a crucial role played by opposition parties, as seen in the criticisms exchanged between BJP and Congress, which is also relevant in Telangana and Andhra Pradesh?",
+    "options": [
+      "To blindly support the government's every decision",
+      "To act as a check on the ruling party and hold it accountable",
+      "To avoid public discourse and debate",
+      "To remain silent on government policies and actions"
+    ],
+    "correctAnswer": "To act as a check on the ruling party and hold it accountable"
   },
   {
     "id": 18,
-    "question": "How many assembly seats did AIMIM win in the 2023 Telangana Assembly elections?",
-    "options": ["3", "5", "7", "9"],
-    "correctAnswer": "7"
+    "question": "The presence of national parties like BJP and Congress, alongside regional forces (like AIMIM's stronghold), highlights what aspect of India's governance structure, in which Telangana and Andhra Pradesh operate?",
+    "options": [
+      "A unitary system of government",
+      "A monarchy",
+      "A federal system of governance",
+      "A dictatorship"
+    ],
+    "correctAnswer": "A federal system of governance"
   },
   {
     "id": 19,
-    "question": "What is a key focus area of AIMIM's political agenda in Telangana, particularly in its stronghold areas?",
-    "options": ["Promoting agricultural reforms", "Advocating for minority rights and social justice", "Developing IT infrastructure", "Expanding tourism"],
-    "correctAnswer": "Advocating for minority rights and social justice"
+    "question": "The discussions about political alliances and vote targets (even if for another state) implicitly relate to what fundamental aspect of Indian democracy that is central to state politics in Telangana and Andhra Pradesh?",
+    "options": [
+      "Presidential decrees",
+      "Electoral processes",
+      "Military rule",
+      "Economic sanctions"
+    ],
+    "correctAnswer": "Electoral processes"
   },
   {
     "id": 20,
-    "question": "In which other major Indian state, besides Telangana, does AIMIM have a significant electoral presence and has contested assembly elections?",
-    "options": ["Kerala", "Rajasthan", "Uttar Pradesh", "Maharashtra"],
-    "correctAnswer": "Maharashtra"
+    "question": "The debate around freedom of expression and satire in political discourse, even when controversial, is often seen as a reflection of which core democratic value upheld in India, including states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Authoritarianism",
+      "Censorship",
+      "Free speech",
+      "Oligarchy"
+    ],
+    "correctAnswer": "Free speech"
   },
   {
     "id": 21,
-    "question": "Which former leader is credited with founding the All India Majlis-e-Ittehadul Muslimeen (AIMIM)'s precursor, the Majlis-e-Ittehadul Muslimeen, in the context of Hyderabad State?",
-    "options": ["Bahadur Yar Jung", "Qasim Razvi", "Nawab Mir Osman Ali Khan", "Sultan Salahuddin Owaisi"],
-    "correctAnswer": "Sultan Salahuddin Owaisi"
+    "question": "Beyond healthcare, the push for digital initiatives like ABHA generally aims to achieve what broad goal in government services across India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Increase manual paperwork and bureaucracy",
+      "Reduce transparency in operations",
+      "Improve efficiency and accessibility of public services",
+      "Limit public participation in governance"
+    ],
+    "correctAnswer": "Improve efficiency and accessibility of public services"
   },
   {
     "id": 22,
-    "question": "AIMIM's influence is largely concentrated in which specific region of Telangana?",
-    "options": ["Northern Telangana", "Southern Telangana", "Hyderabad and its surrounding urban areas", "Eastern Telangana"],
-    "correctAnswer": "Hyderabad and its surrounding urban areas"
+    "question": "For successful implementation of large-scale digital initiatives like ABHA in states such as Telangana and Andhra Pradesh, which of the following is typically a key component involving different stakeholders?",
+    "options": [
+      "Sole reliance on international aid",
+      "Isolation from the private sector",
+      "Collaboration between government, private entities, and technology providers",
+      "Complete decentralization without central coordination"
+    ],
+    "correctAnswer": "Collaboration between government, private entities, and technology providers"
   },
   {
     "id": 23,
-    "question": "What is the recognized election symbol of the All India Majlis-e-Ittehadul Muslimeen (AIMIM) party?",
-    "options": ["Hand", "Lotus", "Kite", "Elephant"],
-    "correctAnswer": "Kite"
+    "question": "The reliance on 'reliable internet access' for digital healthcare, as highlighted in the news, underscores the importance of what infrastructure development across India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Expansion of landline telephone networks",
+      "Enhancing traditional postal services",
+      "Digital connectivity infrastructure (broadband, mobile networks)",
+      "Promoting print media distribution"
+    ],
+    "correctAnswer": "Digital connectivity infrastructure (broadband, mobile networks)"
   },
   {
     "id": 24,
-    "question": "The AIMIM party primarily focuses on representing the interests of which community in India, particularly in Telangana?",
-    "options": ["Farmers", "Scheduled Castes", "Muslims and other minorities", "Business community"],
-    "correctAnswer": "Muslims and other minorities"
+    "question": "The mention of 'digital literacy' as essential for comprehensive medical support highlights its broader impact on what aspect of citizen empowerment in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Limiting access to information and services",
+      "Hindering social interaction and community building",
+      "Facilitating access to services and information, and promoting inclusion",
+      "Increasing dependency on intermediaries for basic tasks"
+    ],
+    "correctAnswer": "Facilitating access to services and information, and promoting inclusion"
   },
   {
     "id": 25,
-    "question": "What is the full form of the political party AIMIM, prominent in Telangana?",
-    "options": ["All India Muslim Ittehad Movement", "All India Majlis-e-Ittehadul Muslimeen", "All Indian Minorities Integration Movement", "All India Muslim Identity Movement"],
-    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen"
+    "question": "The ABHA initiative aims to digitally integrate healthcare systems and provides individuals in states like Telangana and Andhra Pradesh with what key element?",
+    "options": [
+      "A national health insurance card for cashless treatment",
+      "A unique health identification (Ayushman Bharat Health Account)",
+      "A digital payment wallet exclusively for medical bills",
+      "An online platform for booking doctor appointments only"
+    ],
+    "correctAnswer": "A unique health identification (Ayushman Bharat Health Account)"
   }
 ]

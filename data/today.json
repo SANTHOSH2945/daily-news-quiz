@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary aim of the ABHA initiative in Indian healthcare, as mentioned in the news?",
-    "options": [
-      "To provide free medicines to all citizens",
-      "To digitally integrate healthcare systems across the nation",
-      "To establish new physical hospitals in rural areas",
-      "To train medical staff exclusively in digital tools"
-    ],
-    "correctAnswer": "To digitally integrate healthcare systems across the nation"
+    "question": "Which major political party recently alleged an 'assault on the Constitution' in India?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Trinamool Congress (AITC)", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 2,
-    "question": "According to the news, what is identified as a significant hurdle for comprehensive medical support in the context of digital healthcare in India, including states like Telangana and Andhra Pradesh?",
-    "options": [
-      "An excess of medical professionals",
-      "Lack of reliable internet access and digital literacy",
-      "High cost of traditional healthcare services",
-      "Over-reliance on physical consultations"
-    ],
-    "correctAnswer": "Lack of reliable internet access and digital literacy"
+    "question": "The Indian Constitution is considered the supreme law of the land. Which of the following is a core principle enshrined within it?",
+    "options": ["Monarchy", "Theocracy", "Secularism", "Oligarchy"],
+    "correctAnswer": "Secularism"
   },
   {
     "id": 3,
-    "question": "Which demographic group is generally more inclined to embrace online health services, as per the insights on digital healthcare?",
-    "options": [
-      "Elderly patients",
-      "Rural populations",
-      "Younger generations",
-      "Patients with chronic illnesses"
-    ],
-    "correctAnswer": "Younger generations"
+    "question": "Who is generally considered the ultimate interpreter of the Indian Constitution?",
+    "options": ["The President of India", "The Prime Minister", "The Supreme Court of India", "The Lok Sabha Speaker"],
+    "correctAnswer": "The Supreme Court of India"
   },
   {
     "id": 4,
-    "question": "What should be the ultimate role of technology in patient care, according to the provided news context on digital healthcare?",
-    "options": [
-      "To replace human interaction entirely",
-      "To substitute medical professionals with AI",
-      "To enhance, rather than substitute, the necessary human touch",
-      "To reduce the overall number of hospitals"
-    ],
-    "correctAnswer": "To enhance, rather than substitute, the necessary human touch"
+    "question": "What is a common legislative or judicial mechanism in India for addressing serious allegations related to constitutional principles?",
+    "options": ["Public rallies", "Social media campaigns", "Judicial review", "Party manifestos"],
+    "correctAnswer": "Judicial review"
   },
   {
     "id": 5,
-    "question": "The article discusses 'hurdles for various patients' in digital healthcare, highlighting a disparity in access to technology. What concept does this imply for India, including states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Digital boom",
-      "Digital divide",
-      "Digital convergence",
-      "Digital transformation"
-    ],
-    "correctAnswer": "Digital divide"
+    "question": "Which prominent political party recently commented on Rahul Gandhi's public speaking, humorously suggesting an alternative career?",
+    "options": ["Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "Communist Party of India (Marxist)", "Bahujan Samaj Party (BSP)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 6,
-    "question": "Digital healthcare in India is described as presenting what kind of landscape?",
-    "options": [
-      "Unanimously positive with no drawbacks",
-      "Unanimously negative with no benefits",
-      "A dual landscape offering innovative benefits while simultaneously imposing hurdles",
-      "Stagnant with no significant changes"
-    ],
-    "correctAnswer": "A dual landscape offering innovative benefits while simultaneously imposing hurdles"
-  },
-  {
-    "id": 7,
-    "question": "The ABHA initiative strives to digitally integrate healthcare systems. What is the intended geographical scope of such national initiatives in India, including states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Limited to metropolitan cities only",
-      "Exclusively for northern states of India",
-      "Pan-India, covering all regions and states",
-      "Primarily for private sector hospitals"
-    ],
-    "correctAnswer": "Pan-India, covering all regions and states"
-  },
-  {
-    "id": 8,
-    "question": "The news mentions political criticism between which two major national political parties that are also active in Telangana and Andhra Pradesh?",
-    "options": [
-      "Aam Aadmi Party (AAP) and Bahujan Samaj Party (BSP)",
-      "Bharatiya Janata Party (BJP) and Indian National Congress (Congress)",
-      "Trinamool Congress (TMC) and Samajwadi Party (SP)",
-      "Dravida Munnetra Kazhagam (DMK) and All India Anna Dravida Munnetra Kazhagam (AIADMK)"
-    ],
-    "correctAnswer": "Bharatiya Janata Party (BJP) and Indian National Congress (Congress)"
-  },
-  {
-    "id": 9,
-    "question": "What was the Bharatiya Janata Party's (BJP) reaction to the mimicry of PM Modi at a Congress event, as reported in the news?",
-    "options": [
-      "They praised the performance for its comedic value",
-      "They remained neutral, stating it was a non-issue",
-      "They criticized the Congress party and its leader Rahul Gandhi",
-      "They participated in the event alongside the Congress leaders"
-    ],
-    "correctAnswer": "They criticized the Congress party and its leader Rahul Gandhi"
-  },
-  {
-    "id": 10,
-    "question": "Rahul Gandhi attended an event where political satire was used. This highlights the importance of which aspect in India's democratic framework, applicable to states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Military parades and displays of strength",
-      "Freedom of expression and political satire",
-      "Strict adherence to economic policies only",
-      "Suppression of artistic performances"
-    ],
-    "correctAnswer": "Freedom of expression and political satire"
-  },
-  {
-    "id": 11,
-    "question": "Which prominent leader of the Indian National Congress was mentioned as attending the event in question where mimicry occurred?",
-    "options": [
-      "Sonia Gandhi",
-      "Mallikarjun Kharge",
-      "Rahul Gandhi",
-      "Priyanka Gandhi Vadra"
-    ],
+    "question": "Who was the subject of a recent humorous jibe from the BJP regarding public speaking and comedy?",
+    "options": ["Narendra Modi", "Arvind Kejriwal", "Rahul Gandhi", "Mamata Banerjee"],
     "correctAnswer": "Rahul Gandhi"
   },
   {
+    "id": 7,
+    "question": "Rahul Gandhi is a prominent leader of which Indian political party?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Aam Aadmi Party (AAP)", "Janata Dal (United)"],
+    "correctAnswer": "Indian National Congress (INC)"
+  },
+  {
+    "id": 8,
+    "question": "Political discourse in India often involves leaders from different parties. Which of these is recognized as a major national party?",
+    "options": ["Telugu Desam Party (TDP)", "Shiv Sena", "Biju Janata Dal (BJD)", "Bharatiya Janata Party (BJP)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
+  },
+  {
+    "id": 9,
+    "question": "The exchange between political parties regarding a leader's speaking style falls under what general aspect of Indian politics?",
+    "options": ["Policy debate", "Economic reform", "Electoral campaigns", "Political rhetoric and commentary"],
+    "correctAnswer": "Political rhetoric and commentary"
+  },
+  {
+    "id": 10,
+    "question": "As per recent news, how many new judges were appointed in total across four High Courts in India?",
+    "options": ["7", "10", "14", "21"],
+    "correctAnswer": "14"
+  },
+  {
+    "id": 11,
+    "question": "The appointment of High Court judges in India is primarily overseen by which constitutional authority/system?",
+    "options": ["The Prime Minister's Office", "The Collegium System", "The Election Commission", "The Ministry of Law and Justice"],
+    "correctAnswer": "The Collegium System"
+  },
+  {
     "id": 12,
-    "question": "Asaduddin Owaisi, mentioned in the context of political alliances, is a prominent leader of which political party that has a significant presence in Telangana?",
-    "options": [
-      "Samajwadi Party (SP)",
-      "Bahujan Samaj Party (BSP)",
-      "All India Majlis-e-Ittehadul Muslimeen (AIMIM)",
-      "Trinamool Congress (TMC)"
-    ],
-    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
+    "question": "According to recent reports, how many new judges were appointed specifically to the Delhi High Court?",
+    "options": ["5", "7", "9", "14"],
+    "correctAnswer": "7"
   },
   {
     "id": 13,
-    "question": "The All India Majlis-e-Ittehadul Muslimeen (AIMIM), led by Asaduddin Owaisi, has a significant political stronghold in which major city of Telangana?",
-    "options": [
-      "Warangal",
-      "Karimnagar",
-      "Hyderabad",
-      "Nizamabad"
-    ],
-    "correctAnswer": "Hyderabad"
+    "question": "Which of the following is a prominent High Court located in South India, similar to those that would be part of national judicial appointments?",
+    "options": ["Allahabad High Court", "Bombay High Court", "Telangana High Court", "Patna High Court"],
+    "correctAnswer": "Telangana High Court"
   },
   {
     "id": 14,
-    "question": "Owaisi's statement about opening 'alliance door to 'like-minded' parties' reflects a common political strategy often used for what purpose in Indian elections, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "To consolidate power against a dominant political party",
-      "To form a single-party government without external support",
-      "To intentionally reduce electoral competition",
-      "To promote extreme regionalism over national interests"
-    ],
-    "correctAnswer": "To consolidate power against a dominant political party"
+    "question": "What is the standard retirement age for a High Court judge in India?",
+    "options": ["60 years", "62 years", "65 years", "68 years"],
+    "correctAnswer": "62 years"
   },
   {
     "id": 15,
-    "question": "Although its stronghold is in Telangana, AIMIM also contests elections and has a presence in other Indian states, as implied by the news focusing on which state for Owaisi's statements?",
-    "options": [
-      "Kerala",
-      "Uttar Pradesh",
-      "Punjab",
-      "Rajasthan"
-    ],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "Besides the Chief Justice of India and two senior-most Supreme Court judges, who else is typically involved in the collegium system for High Court judge appointments?",
+    "options": ["The Governor of the state", "The Chief Minister of the state", "The Chief Justice of the concerned High Court", "The Attorney General of India"],
+    "correctAnswer": "The Chief Justice of the concerned High Court"
   },
   {
     "id": 16,
-    "question": "The political interactions and alliances between parties like BJP, Congress, and AIMIM reflect which fundamental characteristic of India's political system, applicable to Telangana and Andhra Pradesh?",
-    "options": [
-      "A one-party system",
-      "A two-party system",
-      "A multi-party system",
-      "A non-party system"
-    ],
-    "correctAnswer": "A multi-party system"
+    "question": "Which apex court in India recently ruled against a truck financier for actions involving recovery agents?",
+    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court of India", "Madras High Court"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 17,
-    "question": "In a democratic setup like India's, what is a crucial role played by opposition parties, as seen in the criticisms exchanged between BJP and Congress, which is also relevant in Telangana and Andhra Pradesh?",
-    "options": [
-      "To blindly support the government's every decision",
-      "To act as a check on the ruling party and hold it accountable",
-      "To avoid public discourse and debate",
-      "To remain silent on government policies and actions"
-    ],
-    "correctAnswer": "To act as a check on the ruling party and hold it accountable"
+    "question": "What was the approximate monetary penalty imposed by the Supreme Court on the truck financier in a case involving recovery agents?",
+    "options": ["Rs 5 lakh", "Rs 10 lakh", "Rs 15 lakh", "Rs 20 lakh"],
+    "correctAnswer": "Rs 15 lakh"
   },
   {
     "id": 18,
-    "question": "The presence of national parties like BJP and Congress, alongside regional forces (like AIMIM's stronghold), highlights what aspect of India's governance structure, in which Telangana and Andhra Pradesh operate?",
-    "options": [
-      "A unitary system of government",
-      "A monarchy",
-      "A federal system of governance",
-      "A dictatorship"
-    ],
-    "correctAnswer": "A federal system of governance"
+    "question": "The Supreme Court's ruling against aggressive recovery agents often emphasizes the protection of which group's rights?",
+    "options": ["Creditors", "Financiers", "Debtors/Consumers", "Government agencies"],
+    "correctAnswer": "Debtors/Consumers"
   },
   {
     "id": 19,
-    "question": "The discussions about political alliances and vote targets (even if for another state) implicitly relate to what fundamental aspect of Indian democracy that is central to state politics in Telangana and Andhra Pradesh?",
-    "options": [
-      "Presidential decrees",
-      "Electoral processes",
-      "Military rule",
-      "Economic sanctions"
-    ],
-    "correctAnswer": "Electoral processes"
+    "question": "In India, whose rulings set legal precedents that are binding on all other courts in the country?",
+    "options": ["High Courts", "District Courts", "Supreme Court", "Tribunals"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 20,
-    "question": "The debate around freedom of expression and satire in political discourse, even when controversial, is often seen as a reflection of which core democratic value upheld in India, including states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Authoritarianism",
-      "Censorship",
-      "Free speech",
-      "Oligarchy"
-    ],
-    "correctAnswer": "Free speech"
+    "question": "What kind of business was recently penalized by the Supreme Court for the conduct of its recovery agents?",
+    "options": ["A real estate developer", "A truck financier", "A manufacturing company", "An IT service provider"],
+    "correctAnswer": "A truck financier"
   },
   {
     "id": 21,
-    "question": "Beyond healthcare, the push for digital initiatives like ABHA generally aims to achieve what broad goal in government services across India, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Increase manual paperwork and bureaucracy",
-      "Reduce transparency in operations",
-      "Improve efficiency and accessibility of public services",
-      "Limit public participation in governance"
-    ],
-    "correctAnswer": "Improve efficiency and accessibility of public services"
+    "question": "What is the term for an agent who attempts to collect overdue payments on behalf of a creditor, whose conduct was recently scrutinized by the SC?",
+    "options": ["Auditor", "Mediator", "Recovery Agent", "Legal Counsel"],
+    "correctAnswer": "Recovery Agent"
   },
   {
     "id": 22,
-    "question": "For successful implementation of large-scale digital initiatives like ABHA in states such as Telangana and Andhra Pradesh, which of the following is typically a key component involving different stakeholders?",
-    "options": [
-      "Sole reliance on international aid",
-      "Isolation from the private sector",
-      "Collaboration between government, private entities, and technology providers",
-      "Complete decentralization without central coordination"
-    ],
-    "correctAnswer": "Collaboration between government, private entities, and technology providers"
+    "question": "The Supreme Court's decision against aggressive recovery agents reflects concerns over what aspect of financial recovery practices in India?",
+    "options": ["Efficiency of collection", "Ethical and legal conduct", "Interest rates charged", "Loan repayment periods"],
+    "correctAnswer": "Ethical and legal conduct"
   },
   {
     "id": 23,
-    "question": "The reliance on 'reliable internet access' for digital healthcare, as highlighted in the news, underscores the importance of what infrastructure development across India, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Expansion of landline telephone networks",
-      "Enhancing traditional postal services",
-      "Digital connectivity infrastructure (broadband, mobile networks)",
-      "Promoting print media distribution"
-    ],
-    "correctAnswer": "Digital connectivity infrastructure (broadband, mobile networks)"
+    "question": "Which article of the Indian Constitution is often invoked in cases concerning personal liberty and dignity, such as those related to aggressive recovery actions?",
+    "options": ["Article 14 (Equality before law)", "Article 19 (Freedom of speech)", "Article 21 (Protection of life and personal liberty)", "Article 32 (Right to constitutional remedies)"],
+    "correctAnswer": "Article 21 (Protection of life and personal liberty)"
   },
   {
     "id": 24,
-    "question": "The mention of 'digital literacy' as essential for comprehensive medical support highlights its broader impact on what aspect of citizen empowerment in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Limiting access to information and services",
-      "Hindering social interaction and community building",
-      "Facilitating access to services and information, and promoting inclusion",
-      "Increasing dependency on intermediaries for basic tasks"
-    ],
-    "correctAnswer": "Facilitating access to services and information, and promoting inclusion"
+    "question": "What is the official language primarily used for proceedings in the Supreme Court of India?",
+    "options": ["Hindi", "English", "Both Hindi and English", "Any recognized regional language"],
+    "correctAnswer": "English"
   },
   {
     "id": 25,
-    "question": "The ABHA initiative aims to digitally integrate healthcare systems and provides individuals in states like Telangana and Andhra Pradesh with what key element?",
-    "options": [
-      "A national health insurance card for cashless treatment",
-      "A unique health identification (Ayushman Bharat Health Account)",
-      "A digital payment wallet exclusively for medical bills",
-      "An online platform for booking doctor appointments only"
-    ],
-    "correctAnswer": "A unique health identification (Ayushman Bharat Health Account)"
+    "question": "Which national institution in India plays a critical role in upholding the Constitution and protecting citizens' rights through judicial review?",
+    "options": ["Parliament", "Prime Minister's Office", "Reserve Bank of India", "Supreme Court of India"],
+    "correctAnswer": "Supreme Court of India"
   }
 ]

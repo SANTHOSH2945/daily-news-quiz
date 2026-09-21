@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which major political party recently alleged an 'assault on the Constitution' in India?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Trinamool Congress (AITC)", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "Which city serves as the principal seat of the High Court for the state of Telangana?",
+    "options": ["Warangal", "Hyderabad", "Khammam", "Karimnagar"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "The Indian Constitution is considered the supreme law of the land. Which of the following is a core principle enshrined within it?",
-    "options": ["Monarchy", "Theocracy", "Secularism", "Oligarchy"],
-    "correctAnswer": "Secularism"
+    "question": "The High Court for the state of Andhra Pradesh has its principal seat in which city?",
+    "options": ["Tirupati", "Visakhapatnam", "Amaravati", "Guntur"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 3,
-    "question": "Who is generally considered the ultimate interpreter of the Indian Constitution?",
-    "options": ["The President of India", "The Prime Minister", "The Supreme Court of India", "The Lok Sabha Speaker"],
-    "correctAnswer": "The Supreme Court of India"
+    "question": "In which year was the High Court of Judicature at Hyderabad bifurcated to establish separate High Courts for Telangana and Andhra Pradesh?",
+    "options": ["2014", "2016", "2019", "2021"],
+    "correctAnswer": "2019"
   },
   {
     "id": 4,
-    "question": "What is a common legislative or judicial mechanism in India for addressing serious allegations related to constitutional principles?",
-    "options": ["Public rallies", "Social media campaigns", "Judicial review", "Party manifestos"],
-    "correctAnswer": "Judicial review"
+    "question": "Before its bifurcation, the common High Court for both Telangana and Andhra Pradesh was located in which city?",
+    "options": ["Visakhapatnam", "Vijayawada", "Hyderabad", "Guntur"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 5,
-    "question": "Which prominent political party recently commented on Rahul Gandhi's public speaking, humorously suggesting an alternative career?",
-    "options": ["Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "Communist Party of India (Marxist)", "Bahujan Samaj Party (BSP)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "question": "Who was the first Chief Justice of the Telangana High Court after its separate establishment?",
+    "options": ["Justice Hima Kohli", "Justice Raghvendra Singh Chauhan", "Justice T.B.N. Radhakrishnan", "Justice Ujjal Bhuyan"],
+    "correctAnswer": "Justice T.B.N. Radhakrishnan"
   },
   {
     "id": 6,
-    "question": "Who was the subject of a recent humorous jibe from the BJP regarding public speaking and comedy?",
-    "options": ["Narendra Modi", "Arvind Kejriwal", "Rahul Gandhi", "Mamata Banerjee"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Who served as the first Chief Justice of the Andhra Pradesh High Court after its separate establishment in 2019?",
+    "options": ["Justice J.K. Maheswari", "Justice C. Praveen Kumar", "Justice A. Rupesh Kumar", "Justice G. Shyam Prasad"],
+    "correctAnswer": "Justice J.K. Maheswari"
   },
   {
     "id": 7,
-    "question": "Rahul Gandhi is a prominent leader of which Indian political party?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Aam Aadmi Party (AAP)", "Janata Dal (United)"],
+    "question": "Which political party is currently in power in the state of Telangana?",
+    "options": ["Bharatiya Janata Party (BJP)", "Telangana Rashtra Samithi (BRS)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
     "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 8,
-    "question": "Political discourse in India often involves leaders from different parties. Which of these is recognized as a major national party?",
-    "options": ["Telugu Desam Party (TDP)", "Shiv Sena", "Biju Janata Dal (BJD)", "Bharatiya Janata Party (BJP)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "question": "Which political party currently holds the ruling majority in the Andhra Pradesh Legislative Assembly?",
+    "options": ["Telugu Desam Party (TDP)", "Bharatiya Janata Party (BJP)", "Jana Sena Party (JSP)", "YSR Congress Party (YSRCP)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 9,
-    "question": "The exchange between political parties regarding a leader's speaking style falls under what general aspect of Indian politics?",
-    "options": ["Policy debate", "Economic reform", "Electoral campaigns", "Political rhetoric and commentary"],
-    "correctAnswer": "Political rhetoric and commentary"
+    "question": "Which of the following is considered a prominent opposition party in Telangana?",
+    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Telangana Rashtra Samithi (BRS)", "Jana Sena Party (JSP)"],
+    "correctAnswer": "Telangana Rashtra Samithi (BRS)"
   },
   {
     "id": 10,
-    "question": "As per recent news, how many new judges were appointed in total across four High Courts in India?",
-    "options": ["7", "10", "14", "21"],
-    "correctAnswer": "14"
+    "question": "Which of these parties is a major opposition force in Andhra Pradesh?",
+    "options": ["Bharatiya Janata Party (BJP)", "Telangana Rashtra Samithi (BRS)", "Telugu Desam Party (TDP)", "Indian National Congress (INC)"],
+    "correctAnswer": "Telugu Desam Party (TDP)"
   },
   {
     "id": 11,
-    "question": "The appointment of High Court judges in India is primarily overseen by which constitutional authority/system?",
-    "options": ["The Prime Minister's Office", "The Collegium System", "The Election Commission", "The Ministry of Law and Justice"],
-    "correctAnswer": "The Collegium System"
+    "question": "Who is the current Chief Minister of Telangana?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "G. Kishan Reddy", "Bandar Dattatreya"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 12,
-    "question": "According to recent reports, how many new judges were appointed specifically to the Delhi High Court?",
-    "options": ["5", "7", "9", "14"],
-    "correctAnswer": "7"
+    "question": "Who currently serves as the Chief Minister of Andhra Pradesh?",
+    "options": ["N. Chandrababu Naidu", "Pawan Kalyan", "Y.S. Jagan Mohan Reddy", "K. Rosaiah"],
+    "correctAnswer": "Y.S. Jagan Mohan Reddy"
   },
   {
     "id": 13,
-    "question": "Which of the following is a prominent High Court located in South India, similar to those that would be part of national judicial appointments?",
-    "options": ["Allahabad High Court", "Bombay High Court", "Telangana High Court", "Patna High Court"],
-    "correctAnswer": "Telangana High Court"
+    "question": "How many Lok Sabha constituencies are there in the state of Telangana?",
+    "options": ["10", "15", "17", "20"],
+    "correctAnswer": "17"
   },
   {
     "id": 14,
-    "question": "What is the standard retirement age for a High Court judge in India?",
-    "options": ["60 years", "62 years", "65 years", "68 years"],
-    "correctAnswer": "62 years"
+    "question": "What is the total number of Lok Sabha constituencies in Andhra Pradesh?",
+    "options": ["20", "25", "30", "35"],
+    "correctAnswer": "25"
   },
   {
     "id": 15,
-    "question": "Besides the Chief Justice of India and two senior-most Supreme Court judges, who else is typically involved in the collegium system for High Court judge appointments?",
-    "options": ["The Governor of the state", "The Chief Minister of the state", "The Chief Justice of the concerned High Court", "The Attorney General of India"],
-    "correctAnswer": "The Chief Justice of the concerned High Court"
+    "question": "How many assembly constituencies are there in the Telangana Legislative Assembly?",
+    "options": ["90", "119", "130", "153"],
+    "correctAnswer": "119"
   },
   {
     "id": 16,
-    "question": "Which apex court in India recently ruled against a truck financier for actions involving recovery agents?",
-    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court of India", "Madras High Court"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "What is the total number of seats in the Andhra Pradesh Legislative Assembly?",
+    "options": ["150", "165", "175", "180"],
+    "correctAnswer": "175"
   },
   {
     "id": 17,
-    "question": "What was the approximate monetary penalty imposed by the Supreme Court on the truck financier in a case involving recovery agents?",
-    "options": ["Rs 5 lakh", "Rs 10 lakh", "Rs 15 lakh", "Rs 20 lakh"],
-    "correctAnswer": "Rs 15 lakh"
+    "question": "Which of the following is a prominent folk festival unique to Telangana, often associated with flowers?",
+    "options": ["Sankranti", "Ugadi", "Bathukamma", "Dasara"],
+    "correctAnswer": "Bathukamma"
   },
   {
     "id": 18,
-    "question": "The Supreme Court's ruling against aggressive recovery agents often emphasizes the protection of which group's rights?",
-    "options": ["Creditors", "Financiers", "Debtors/Consumers", "Government agencies"],
-    "correctAnswer": "Debtors/Consumers"
+    "question": "Which city in Andhra Pradesh is well-known for its beautiful beaches and is a major tourist destination?",
+    "options": ["Vijayawada", "Guntur", "Visakhapatnam", "Tirupati"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 19,
-    "question": "In India, whose rulings set legal precedents that are binding on all other courts in the country?",
-    "options": ["High Courts", "District Courts", "Supreme Court", "Tribunals"],
-    "correctAnswer": "Supreme Court"
+    "question": "Which site in Telangana was inscribed as a UNESCO World Heritage Site in 2021, known for its stunning Kakatiya architecture?",
+    "options": ["Golconda Fort", "Charminar", "Ramappa Temple", "Bhadrakali Temple"],
+    "correctAnswer": "Ramappa Temple"
   },
   {
     "id": 20,
-    "question": "What kind of business was recently penalized by the Supreme Court for the conduct of its recovery agents?",
-    "options": ["A real estate developer", "A truck financier", "A manufacturing company", "An IT service provider"],
-    "correctAnswer": "A truck financier"
+    "question": "Which major river flows through Andhra Pradesh, forming a significant delta region?",
+    "options": ["Cauvery", "Mahanadi", "Godavari", "Narmada"],
+    "correctAnswer": "Godavari"
   },
   {
     "id": 21,
-    "question": "What is the term for an agent who attempts to collect overdue payments on behalf of a creditor, whose conduct was recently scrutinized by the SC?",
-    "options": ["Auditor", "Mediator", "Recovery Agent", "Legal Counsel"],
-    "correctAnswer": "Recovery Agent"
+    "question": "Which of the following is a well-known Central University located in Telangana?",
+    "options": ["Andhra University", "Osmania University", "University of Hyderabad", "Acharya Nagarjuna University"],
+    "correctAnswer": "University of Hyderabad"
   },
   {
     "id": 22,
-    "question": "The Supreme Court's decision against aggressive recovery agents reflects concerns over what aspect of financial recovery practices in India?",
-    "options": ["Efficiency of collection", "Ethical and legal conduct", "Interest rates charged", "Loan repayment periods"],
-    "correctAnswer": "Ethical and legal conduct"
+    "question": "Which city in Andhra Pradesh is home to a major natural deep-water port on the east coast of India?",
+    "options": ["Kakinada", "Nellore", "Machilipatnam", "Visakhapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 23,
-    "question": "Which article of the Indian Constitution is often invoked in cases concerning personal liberty and dignity, such as those related to aggressive recovery actions?",
-    "options": ["Article 14 (Equality before law)", "Article 19 (Freedom of speech)", "Article 21 (Protection of life and personal liberty)", "Article 32 (Right to constitutional remedies)"],
-    "correctAnswer": "Article 21 (Protection of life and personal liberty)"
+    "question": "What is the name of Telangana's flagship housing scheme aimed at providing dignified housing for the poor?",
+    "options": ["Gruha Lakshmi", "Kanti Velugu", "Mana Ooru – Mana Badi", "Double Bedroom Housing Scheme (2BHK)"],
+    "correctAnswer": "Double Bedroom Housing Scheme (2BHK)"
   },
   {
     "id": 24,
-    "question": "What is the official language primarily used for proceedings in the Supreme Court of India?",
-    "options": ["Hindi", "English", "Both Hindi and English", "Any recognized regional language"],
-    "correctAnswer": "English"
+    "question": "Which of the following is a major housing program implemented by the Andhra Pradesh government for the economically weaker sections?",
+    "options": ["YSR Cheyutha", "Jagananna Vidya Deevena", "Pedalandariki Illu (Housing for all poor)", "Amma Vodi"],
+    "correctAnswer": "Pedalandariki Illu (Housing for all poor)"
   },
   {
     "id": 25,
-    "question": "Which national institution in India plays a critical role in upholding the Constitution and protecting citizens' rights through judicial review?",
-    "options": ["Parliament", "Prime Minister's Office", "Reserve Bank of India", "Supreme Court of India"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "What is the largest city by population in Telangana, also serving as its capital?",
+    "options": ["Warangal", "Hyderabad", "Nizamabad", "Khammam"],
+    "correctAnswer": "Hyderabad"
   }
 ]

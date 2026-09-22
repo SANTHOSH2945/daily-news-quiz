@@ -1,29 +1,18 @@
 [
   {
     "id": 1,
-    "question": "What is a primary objective behind the introduction of merchant fees on UPI transactions, as per NPCI?",
+    "question": "What is the primary aim behind the introduction of merchant fees (MDR) for UPI transactions, as stated by NPCI?",
     "options": [
       "To increase government revenue",
-      "To fund innovation and ensure sustainability of the digital payments ecosystem",
-      "To discourage small merchants from using UPI",
-      "To make international transactions cheaper"
+      "To enhance the sustainability and growth of the digital payments ecosystem",
+      "To discourage digital transactions among large merchants",
+      "To fund international payment gateways"
     ],
-    "correctAnswer": "To fund innovation and ensure sustainability of the digital payments ecosystem"
+    "correctAnswer": "To enhance the sustainability and growth of the digital payments ecosystem"
   },
   {
     "id": 2,
-    "question": "What is the transaction value limit below which small merchants are exempted from UPI merchant fees?",
-    "options": [
-      "Rs 500",
-      "Rs 1,000",
-      "Rs 2,000",
-      "Rs 5,000"
-    ],
-    "correctAnswer": "Rs 2,000"
-  },
-  {
-    "id": 3,
-    "question": "Which entity is responsible for the overall sustainability and growth of the digital payments ecosystem through platforms like UPI in India?",
+    "question": "Which entity is responsible for the introduction of merchant fees (MDR) on UPI transactions, as per the news?",
     "options": [
       "Reserve Bank of India (RBI)",
       "Ministry of Finance",
@@ -33,245 +22,256 @@
     "correctAnswer": "National Payments Corporation of India (NPCI)"
   },
   {
-    "id": 4,
-    "question": "In the context of digital payments in India, what does MDR stand for?",
+    "id": 3,
+    "question": "What is the transaction threshold below which small merchants are exempted from UPI MDR fees?",
     "options": [
-      "Merchant Development Rate",
-      "Monthly Debit Ratio",
-      "Maximum Discount Rate",
-      "Merchant Discount Rate"
+      "Rs 500",
+      "Rs 1,000",
+      "Rs 2,000",
+      "Rs 5,000"
     ],
-    "correctAnswer": "Merchant Discount Rate"
+    "correctAnswer": "Rs 2,000"
+  },
+  {
+    "id": 4,
+    "question": "According to NPCI, how does the UPI MDR system aim to protect small merchants?",
+    "options": [
+      "By providing direct subsidies",
+      "By exempting them from fees for transactions below a certain threshold",
+      "By offering exclusive banking services",
+      "By mandating cashless payments only"
+    ],
+    "correctAnswer": "By exempting them from fees for transactions below a certain threshold"
   },
   {
     "id": 5,
-    "question": "According to NPCI, how are UPI merchant fees intended to benefit the broader digital payments landscape in India?",
+    "question": "Which specific issue did the Supreme Court recently question, referring to it as 'broad daylight dacoity'?",
     "options": [
-      "By reducing transaction speed",
-      "By protecting only large merchants",
-      "By enhancing sustainability and fostering innovation",
-      "By replacing all card payments"
+      "Illegal mining activities",
+      "Overpricing of essential cancer drugs",
+      "Corruption in public tenders",
+      "Unauthorized construction in protected areas"
     ],
-    "correctAnswer": "By enhancing sustainability and fostering innovation"
+    "correctAnswer": "Overpricing of essential cancer drugs"
   },
   {
     "id": 6,
-    "question": "The Supreme Court recently raised concerns regarding the overpricing of which essential medical supplies in India?",
+    "question": "The Supreme Court's strong remarks on drug overpricing highlight a concern in which sector?",
     "options": [
-      "Vaccines for common illnesses",
-      "Essential cancer drugs",
-      "Diagnostic test kits",
-      "Surgical equipment"
+      "Automobile industry",
+      "Real estate",
+      "Healthcare and pharmaceuticals",
+      "Information technology"
     ],
-    "correctAnswer": "Essential cancer drugs"
+    "correctAnswer": "Healthcare and pharmaceuticals"
   },
   {
     "id": 7,
-    "question": "Which type of governmental body in India typically addresses issues of overpricing for essential medicines?",
+    "question": "Which region's 'worsening' human rights situation was highlighted by a Kashmiri leader to the UNHRC?",
     "options": [
-      "Ministry of External Affairs",
-      "Competition Commission of India",
-      "National Pharmaceutical Pricing Authority (NPPA)",
-      "Election Commission of India"
+      "Jammu and Kashmir",
+      "Pakistan-occupied Jammu and Kashmir (PoJK)",
+      "Ladakh",
+      "North-East India"
     ],
-    "correctAnswer": "National Pharmaceutical Pricing Authority (NPPA)"
+    "correctAnswer": "Pakistan-occupied Jammu and Kashmir (PoJK)"
   },
   {
     "id": 8,
-    "question": "The Delhi High Court ordered a forensic audit concerning transactions involving former promoters of which prominent Indian healthcare company?",
+    "question": "What are two primary concerns raised regarding Pakistan-occupied Gilgit-Baltistan (PoGB) by the Kashmiri leader to the UNHRC?",
     "options": [
-      "Apollo Hospitals",
-      "Max Healthcare",
-      "Fortis Healthcare",
-      "Manipal Hospitals"
+      "Economic recession and industrial decline",
+      "Political representation and land rights",
+      "Environmental degradation and climate change",
+      "Educational disparity and unemployment"
     ],
-    "correctAnswer": "Fortis Healthcare"
+    "correctAnswer": "Political representation and land rights"
   },
   {
     "id": 9,
-    "question": "What type of petition did Fortis Healthcare file in the Supreme Court to challenge the Delhi High Court's order?",
+    "question": "What condition has India's MEA stated for the world to believe Pakistan regarding terror?",
     "options": [
-      "Public Interest Litigation (PIL)",
-      "Special Leave Petition (SLP)",
-      "Writ Petition",
-      "Review Petition"
+      "Signing a peace treaty",
+      "Disclosing intelligence reports",
+      "Taking credible action on cross-border terror",
+      "Increasing trade relations"
     ],
-    "correctAnswer": "Special Leave Petition (SLP)"
+    "correctAnswer": "Taking credible action on cross-border terror"
   },
   {
     "id": 10,
-    "question": "What is the main objective of a forensic audit in corporate governance cases involving alleged financial irregularities by former promoters in India?",
+    "question": "The MEA's statement emphasizes the need for Pakistan to take credible action against what?",
     "options": [
-      "To reduce tax liabilities",
-      "To improve marketing strategies",
-      "To uncover financial misconduct and quantify losses",
-      "To assess employee performance"
+      "Economic sanctions",
+      "Climate change effects",
+      "Cross-border terror",
+      "Human trafficking"
     ],
-    "correctAnswer": "To uncover financial misconduct and quantify losses"
+    "correctAnswer": "Cross-border terror"
   },
   {
     "id": 11,
-    "question": "Which court level in India is typically involved in the enforcement of arbitral awards, such as the one in the Daiichi Sankyo case?",
+    "question": "What new policy amendment is the Indian government considering regarding airport operators?",
     "options": [
-      "Magistrate Courts",
-      "District Courts",
-      "High Courts",
-      "Consumer Forums"
+      "Allowing them to operate ground handling services only",
+      "Allowing them to run airlines",
+      "Allowing them to manage international airports exclusively",
+      "Allowing them to invest in foreign airlines"
     ],
-    "correctAnswer": "High Courts"
+    "correctAnswer": "Allowing them to run airlines"
   },
   {
     "id": 12,
-    "question": "The Supreme Court recently heard a plea challenging a 'Premium Floor Area Ratio' (FAR) scheme in which Indian state?",
+    "question": "Which major Indian conglomerate, operating Mumbai Airport, recently sought an amendment to allow airport operators to run airlines?",
     "options": [
-      "Uttar Pradesh",
-      "Haryana",
-      "Karnataka",
-      "Assam"
-    ],
-    "correctAnswer": "Karnataka"
-  },
-  {
-    "id": 13,
-    "question": "What does 'Floor Area Ratio' (FAR) primarily regulate in urban development in India?",
-    "options": [
-      "The height of buildings",
-      "The number of floors in a building",
-      "The ratio of total floor area to the plot area",
-      "The green space around buildings"
-    ],
-    "correctAnswer": "The ratio of total floor area to the plot area"
-  },
-  {
-    "id": 14,
-    "question": "The Supreme Court highlighted inadequate investment as a cause for infrastructure collapse during rains in which major Indian city?",
-    "options": [
-      "Bengaluru",
-      "Chennai",
-      "Gurugram",
-      "Kolkata"
-    ],
-    "correctAnswer": "Gurugram"
-  },
-  {
-    "id": 15,
-    "question": "Which city was cited by the Supreme Court as being planned for a 30-40 year horizon, contrasting with Gurugram's planning?",
-    "options": [
-      "Noida",
-      "Greater Noida",
-      "Faridabad",
-      "Ghaziabad"
-    ],
-    "correctAnswer": "Greater Noida"
-  },
-  {
-    "id": 16,
-    "question": "What is the primary intention behind a 'Premium Floor Area Ratio' scheme in urban development?",
-    "options": [
-      "To reduce construction costs",
-      "To regularize illegal constructions",
-      "To allow purchasing additional construction rights",
-      "To mandate more green spaces"
-    ],
-    "correctAnswer": "To allow purchasing additional construction rights"
-  },
-  {
-    "id": 17,
-    "question": "The Indian government is currently reviewing a policy to potentially allow which entities to operate airlines?",
-    "options": [
-      "Public sector banks",
-      "Educational institutions",
-      "Airport operators",
-      "Automobile manufacturers"
-    ],
-    "correctAnswer": "Airport operators"
-  },
-  {
-    "id": 18,
-    "question": "Which major Indian conglomerate was mentioned as having sought an amendment to allow airport operators to run airlines?",
-    "options": [
+      "Reliance Group",
       "Tata Group",
-      "Reliance Industries",
       "Adani Group",
-      "Mahindra Group"
+      "GMR Group"
     ],
     "correctAnswer": "Adani Group"
   },
   {
-    "id": 19,
-    "question": "Besides operating airports, what new business area are some entities interested in entering, subject to government approval in India?",
+    "id": 13,
+    "question": "The Supreme Court recently heard a plea challenging a state's Premium Floor Area Ratio (FAR) scheme. Which state was mentioned in this context?",
     "options": [
-      "Shipping lines",
-      "Airline operations",
-      "Hotel chains",
-      "Telecommunications services"
+      "Maharashtra",
+      "Karnataka",
+      "Gujarat",
+      "Kerala"
     ],
-    "correctAnswer": "Airline operations"
+    "correctAnswer": "Karnataka"
+  },
+  {
+    "id": 14,
+    "question": "What does a Premium Floor Area Ratio (FAR) scheme generally allow in urban planning?",
+    "options": [
+      "Reduction in property taxes",
+      "Purchase of additional construction rights",
+      "Exemption from environmental clearances",
+      "Allocation of public land for private use"
+    ],
+    "correctAnswer": "Purchase of additional construction rights"
+  },
+  {
+    "id": 15,
+    "question": "The Supreme Court clarified that a state's Premium FAR scheme should not be used to regularize what?",
+    "options": [
+      "Historic buildings",
+      "Agricultural land",
+      "Illegal construction",
+      "Public parks"
+    ],
+    "correctAnswer": "Illegal construction"
+  },
+  {
+    "id": 16,
+    "question": "The SC's observation about Gurugram's infrastructure collapsing during rains, in contrast to Greater Noida's planning, highlights issues primarily in which area?",
+    "options": [
+      "Rural development",
+      "Agricultural policy",
+      "Urban planning and infrastructure investment",
+      "Coastal management"
+    ],
+    "correctAnswer": "Urban planning and infrastructure investment"
+  },
+  {
+    "id": 17,
+    "question": "The Supreme Court's involvement in reviewing state urban planning schemes like the Premium FAR in Karnataka demonstrates its role in what aspect of governance?",
+    "options": [
+      "Executive policymaking",
+      "Legislative drafting",
+      "Judicial oversight and interpretation of state policies",
+      "Direct implementation of urban projects"
+    ],
+    "correctAnswer": "Judicial oversight and interpretation of state policies"
+  },
+  {
+    "id": 18,
+    "question": "What is the full form of MDR in the context of UPI transactions?",
+    "options": [
+      "Merchant Development Rate",
+      "Maximum Daily Rate",
+      "Merchant Discount Rate",
+      "Monthly Deduction Ratio"
+    ],
+    "correctAnswer": "Merchant Discount Rate"
+  },
+  {
+    "id": 19,
+    "question": "According to NPCI, how does the introduction of UPI MDR contribute to the digital payments ecosystem?",
+    "options": [
+      "By reducing server load",
+      "By increasing the number of payment apps",
+      "By enhancing sustainability and growth",
+      "By standardizing transaction timings"
+    ],
+    "correctAnswer": "By enhancing sustainability and growth"
   },
   {
     "id": 20,
-    "question": "Which government body in India is primarily responsible for framing and implementing civil aviation policies?",
+    "question": "The Supreme Court's questioning of cancer drug overpricing is indicative of its concern for which consumer right?",
     "options": [
-      "Ministry of Railways",
-      "Ministry of Road Transport and Highways",
-      "Ministry of Civil Aviation",
-      "Ministry of Defence"
+      "Right to choose",
+      "Right to safety",
+      "Right to information",
+      "Right to affordability and access to essential services"
     ],
-    "correctAnswer": "Ministry of Civil Aviation"
+    "correctAnswer": "Right to affordability and access to essential services"
   },
   {
     "id": 21,
-    "question": "What is one of the 'cons' the Indian government might be weighing when considering allowing airport operators to also run airlines?",
+    "question": "What mechanism did a Kashmiri leader appeal for regarding alleged human rights violations in PoJK?",
     "options": [
-      "Reduced competition in the airline sector",
-      "Increased international tourism",
-      "Lower operational costs for airports",
-      "Enhanced passenger experience"
+      "Bilateral talks with Pakistan",
+      "Economic aid from international bodies",
+      "An independent investigation",
+      "Military intervention"
     ],
-    "correctAnswer": "Reduced competition in the airline sector"
+    "correctAnswer": "An independent investigation"
   },
   {
     "id": 22,
-    "question": "In the context of urban planning and corporate governance, what fundamental role does the Supreme Court of India play?",
+    "question": "What is NPCI, the entity mentioned in relation to UPI, primarily responsible for?",
     "options": [
-      "To draft new legislation for states",
-      "To provide advisory services to corporations",
-      "To ensure adherence to constitutional principles and legal oversight",
-      "To directly fund urban infrastructure projects"
+      "Regulating banking interest rates",
+      "Building robust payment and settlement infrastructure in India",
+      "Managing government bonds",
+      "Overseeing foreign exchange markets"
     ],
-    "correctAnswer": "To ensure adherence to constitutional principles and legal oversight"
+    "correctAnswer": "Building robust payment and settlement infrastructure in India"
   },
   {
     "id": 23,
-    "question": "Which country was mentioned by the MEA as needing to take credible action on cross-border terror before gaining world trust?",
+    "question": "Why are larger merchants expected to find the transition to UPI merchant fees familiar?",
     "options": [
-      "China",
-      "Nepal",
-      "Pakistan",
-      "Sri Lanka"
+      "Because they already use UPI extensively",
+      "Because they are exempt from all digital payment fees",
+      "Because they already incur fees for card payments",
+      "Because they have specialized accounting departments"
     ],
-    "correctAnswer": "Pakistan"
+    "correctAnswer": "Because they already incur fees for card payments"
   },
   {
     "id": 24,
-    "question": "Sardar Shaukat Ali Kashmiri appealed to which international body regarding the worsening human rights situation in Pakistan-occupied Jammu and Kashmir (PoJK) and Gilgit-Baltistan (PoGB)?",
+    "question": "The government's consideration of allowing airport operators to run airlines is a discussion primarily related to which sector?",
     "options": [
-      "International Criminal Court (ICC)",
-      "United Nations Human Rights Council (UNHRC)",
-      "International Court of Justice (ICJ)",
-      "Amnesty International"
+      "Maritime shipping",
+      "Railways",
+      "Road transport",
+      "Civil Aviation"
     ],
-    "correctAnswer": "United Nations Human Rights Council (UNHRC)"
+    "correctAnswer": "Civil Aviation"
   },
   {
     "id": 25,
-    "question": "According to the provided news, how is the introduction of merchant fees for UPI intended to affect the overall digital payments ecosystem?",
+    "question": "The Supreme Court's comments on urban planning discrepancies between Gurugram and Greater Noida underscore the importance of what for sustainable urban development?",
     "options": [
-      "By making it less accessible for new users",
-      "By ensuring its sustainability and growth",
-      "By exclusively benefiting large payment processors",
-      "By limiting its reach to metropolitan areas"
+      "Retroactive legislation",
+      "Short-term project cycles",
+      "Long-term, robust planning and adequate investment",
+      "Reliance on private sector alone"
     ],
-    "correctAnswer": "By ensuring its sustainability and growth"
+    "correctAnswer": "Long-term, robust planning and adequate investment"
   }
 ]

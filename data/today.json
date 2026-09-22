@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What historical event reached India on September 22, 1914, with an attack on Madras?",
-    "options": ["The Sepoy Mutiny", "World War I", "The Anglo-Mysore War", "The Battle of Plassey"],
-    "correctAnswer": "World War I"
+    "question": "What is a primary objective behind the introduction of merchant fees on UPI transactions, as per NPCI?",
+    "options": [
+      "To increase government revenue",
+      "To fund innovation and ensure sustainability of the digital payments ecosystem",
+      "To discourage small merchants from using UPI",
+      "To make international transactions cheaper"
+    ],
+    "correctAnswer": "To fund innovation and ensure sustainability of the digital payments ecosystem"
   },
   {
     "id": 2,
-    "question": "Which German warship shelled Madras during World War I?",
-    "options": ["SMS Bismarck", "SMS Emden", "SMS Tirpitz", "SMS Königsberg"],
-    "correctAnswer": "SMS Emden"
+    "question": "What is the transaction value limit below which small merchants are exempted from UPI merchant fees?",
+    "options": [
+      "Rs 500",
+      "Rs 1,000",
+      "Rs 2,000",
+      "Rs 5,000"
+    ],
+    "correctAnswer": "Rs 2,000"
   },
   {
     "id": 3,
-    "question": "In which South Indian city did World War I reach India when it was shelled by a German cruiser?",
-    "options": ["Bengaluru", "Kochi", "Madras", "Hyderabad"],
-    "correctAnswer": "Madras"
+    "question": "Which entity is responsible for the overall sustainability and growth of the digital payments ecosystem through platforms like UPI in India?",
+    "options": [
+      "Reserve Bank of India (RBI)",
+      "Ministry of Finance",
+      "National Payments Corporation of India (NPCI)",
+      "State Bank of India (SBI)"
+    ],
+    "correctAnswer": "National Payments Corporation of India (NPCI)"
   },
   {
     "id": 4,
-    "question": "Approximately how many shells did the German cruiser SMS Emden fire on Madras?",
-    "options": ["Under 50 shells", "Around 75 shells", "More than 125 shells", "Exactly 100 shells"],
-    "correctAnswer": "More than 125 shells"
+    "question": "In the context of digital payments in India, what does MDR stand for?",
+    "options": [
+      "Merchant Development Rate",
+      "Monthly Debit Ratio",
+      "Maximum Discount Rate",
+      "Merchant Discount Rate"
+    ],
+    "correctAnswer": "Merchant Discount Rate"
   },
   {
     "id": 5,
-    "question": "What was the approximate duration of the German cruiser SMS Emden's shelling of Madras?",
-    "options": ["Around 30 minutes", "Approximately one hour", "Around 10 minutes", "Several hours"],
-    "correctAnswer": "Around 10 minutes"
+    "question": "According to NPCI, how are UPI merchant fees intended to benefit the broader digital payments landscape in India?",
+    "options": [
+      "By reducing transaction speed",
+      "By protecting only large merchants",
+      "By enhancing sustainability and fostering innovation",
+      "By replacing all card payments"
+    ],
+    "correctAnswer": "By enhancing sustainability and fostering innovation"
   },
   {
     "id": 6,
-    "question": "Which specific commercial facility was set ablaze during the German attack on Madras in 1914?",
-    "options": ["Madras Port Authority office", "Burmah Oil tank", "East India Company warehouse", "Southern Railway station"],
-    "correctAnswer": "Burmah Oil tank"
+    "question": "The Supreme Court recently raised concerns regarding the overpricing of which essential medical supplies in India?",
+    "options": [
+      "Vaccines for common illnesses",
+      "Essential cancer drugs",
+      "Diagnostic test kits",
+      "Surgical equipment"
+    ],
+    "correctAnswer": "Essential cancer drugs"
   },
   {
     "id": 7,
-    "question": "The name of which German warship became part of southern India's vocabulary due to its attack on Madras?",
-    "options": ["SMS Bayern", "SMS Posen", "SMS Emden", "SMS Baden"],
-    "correctAnswer": "SMS Emden"
+    "question": "Which type of governmental body in India typically addresses issues of overpricing for essential medicines?",
+    "options": [
+      "Ministry of External Affairs",
+      "Competition Commission of India",
+      "National Pharmaceutical Pricing Authority (NPPA)",
+      "Election Commission of India"
+    ],
+    "correctAnswer": "National Pharmaceutical Pricing Authority (NPPA)"
   },
   {
     "id": 8,
-    "question": "Madras, a significant South Indian port city attacked by the SMS Emden, is now known by what name?",
-    "options": ["Chennai", "Kolkata", "Mumbai", "Thiruvananthapuram"],
-    "correctAnswer": "Chennai"
+    "question": "The Delhi High Court ordered a forensic audit concerning transactions involving former promoters of which prominent Indian healthcare company?",
+    "options": [
+      "Apollo Hospitals",
+      "Max Healthcare",
+      "Fortis Healthcare",
+      "Manipal Hospitals"
+    ],
+    "correctAnswer": "Fortis Healthcare"
   },
   {
     "id": 9,
-    "question": "Which major global conflict saw its reach extend to South India with the shelling of Madras?",
-    "options": ["The Cold War", "World War II", "The Crimean War", "World War I"],
-    "correctAnswer": "World War I"
+    "question": "What type of petition did Fortis Healthcare file in the Supreme Court to challenge the Delhi High Court's order?",
+    "options": [
+      "Public Interest Litigation (PIL)",
+      "Special Leave Petition (SLP)",
+      "Writ Petition",
+      "Review Petition"
+    ],
+    "correctAnswer": "Special Leave Petition (SLP)"
   },
   {
     "id": 10,
-    "question": "In which year did the German cruiser SMS Emden shell Madras, bringing WWI to India?",
-    "options": ["1905", "1914", "1921", "1939"],
-    "correctAnswer": "1914"
+    "question": "What is the main objective of a forensic audit in corporate governance cases involving alleged financial irregularities by former promoters in India?",
+    "options": [
+      "To reduce tax liabilities",
+      "To improve marketing strategies",
+      "To uncover financial misconduct and quantify losses",
+      "To assess employee performance"
+    ],
+    "correctAnswer": "To uncover financial misconduct and quantify losses"
   },
   {
     "id": 11,
-    "question": "What was a primary immediate impact on the city of Madras due to the SMS Emden's attack?",
-    "options": ["Formation of a new political party", "Massive infrastructure development", "Damage to buildings and residents fleeing", "Establishment of a new university"],
-    "correctAnswer": "Damage to buildings and residents fleeing"
+    "question": "Which court level in India is typically involved in the enforcement of arbitral awards, such as the one in the Daiichi Sankyo case?",
+    "options": [
+      "Magistrate Courts",
+      "District Courts",
+      "High Courts",
+      "Consumer Forums"
+    ],
+    "correctAnswer": "High Courts"
   },
   {
     "id": 12,
-    "question": "The story of the SMS Emden's attack on Madras revisits what deceptive tactic used by the German warship?",
-    "options": ["Using decoy balloons", "Employing underwater mines", "Disguising itself", "Launching air raids"],
-    "correctAnswer": "Disguising itself"
+    "question": "The Supreme Court recently heard a plea challenging a 'Premium Floor Area Ratio' (FAR) scheme in which Indian state?",
+    "options": [
+      "Uttar Pradesh",
+      "Haryana",
+      "Karnataka",
+      "Assam"
+    ],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 13,
-    "question": "According to India's latest health survey, what contrasting trends are observed regarding BMI in the country?",
-    "options": ["Decrease in both overweight and underweight", "Increase in both overweight and underweight", "Increase in underweight only", "Increase in overweight only"],
-    "correctAnswer": "Increase in both overweight and underweight"
+    "question": "What does 'Floor Area Ratio' (FAR) primarily regulate in urban development in India?",
+    "options": [
+      "The height of buildings",
+      "The number of floors in a building",
+      "The ratio of total floor area to the plot area",
+      "The green space around buildings"
+    ],
+    "correctAnswer": "The ratio of total floor area to the plot area"
   },
   {
     "id": 14,
-    "question": "For which gender did the normal BMI range significantly fall in India, as per the recent health survey?",
-    "options": ["Men", "Children", "Women", "Elderly"],
-    "correctAnswer": "Women"
+    "question": "The Supreme Court highlighted inadequate investment as a cause for infrastructure collapse during rains in which major Indian city?",
+    "options": [
+      "Bengaluru",
+      "Chennai",
+      "Gurugram",
+      "Kolkata"
+    ],
+    "correctAnswer": "Gurugram"
   },
   {
     "id": 15,
-    "question": "What trend was noted for the share of men within the normal BMI range in India's latest health survey?",
-    "options": ["Increased considerably", "Remained stable", "Shrank considerably", "Showed no data"],
-    "correctAnswer": "Shrank considerably"
+    "question": "Which city was cited by the Supreme Court as being planned for a 30-40 year horizon, contrasting with Gurugram's planning?",
+    "options": [
+      "Noida",
+      "Greater Noida",
+      "Faridabad",
+      "Ghaziabad"
+    ],
+    "correctAnswer": "Greater Noida"
   },
   {
     "id": 16,
-    "question": "In which type of geographical area (urban/rural) are higher rates of both underweight and overweight conditions reported for men and women in India?",
-    "options": ["Rural areas", "Remote villages", "Urban areas", "Semi-urban areas"],
-    "correctAnswer": "Urban areas"
+    "question": "What is the primary intention behind a 'Premium Floor Area Ratio' scheme in urban development?",
+    "options": [
+      "To reduce construction costs",
+      "To regularize illegal constructions",
+      "To allow purchasing additional construction rights",
+      "To mandate more green spaces"
+    ],
+    "correctAnswer": "To allow purchasing additional construction rights"
   },
   {
     "id": 17,
-    "question": "What has been the general trend for below-normal BMI in many Indian states according to the latest health survey?",
-    "options": ["Significantly decreased", "Remained constant", "Increased", "Data not available"],
-    "correctAnswer": "Increased"
+    "question": "The Indian government is currently reviewing a policy to potentially allow which entities to operate airlines?",
+    "options": [
+      "Public sector banks",
+      "Educational institutions",
+      "Airport operators",
+      "Automobile manufacturers"
+    ],
+    "correctAnswer": "Airport operators"
   },
   {
     "id": 18,
-    "question": "How does the rise in overweight or obesity compare to the rise in below-normal BMI across Indian states, as per the survey?",
-    "options": ["Rose less widely", "Rose even more widely", "Remained the same", "Showed no correlation"],
-    "correctAnswer": "Rose even more widely"
+    "question": "Which major Indian conglomerate was mentioned as having sought an amendment to allow airport operators to run airlines?",
+    "options": [
+      "Tata Group",
+      "Reliance Industries",
+      "Adani Group",
+      "Mahindra Group"
+    ],
+    "correctAnswer": "Adani Group"
   },
   {
     "id": 19,
-    "question": "What type of national survey in India provided data indicating a rise in both overweight and underweight populations?",
-    "options": ["Economic Census", "Health Survey", "Educational Survey", "Agricultural Survey"],
-    "correctAnswer": "Health Survey"
+    "question": "Besides operating airports, what new business area are some entities interested in entering, subject to government approval in India?",
+    "options": [
+      "Shipping lines",
+      "Airline operations",
+      "Hotel chains",
+      "Telecommunications services"
+    ],
+    "correctAnswer": "Airline operations"
   },
   {
     "id": 20,
-    "question": "India's latest health survey highlights that even as overweight and obesity rise, what persistent health issue among the population is not decreasing?",
-    "options": ["Malnutrition", "Diabetes", "Heart disease", "Below-normal BMI"],
-    "correctAnswer": "Below-normal BMI"
+    "question": "Which government body in India is primarily responsible for framing and implementing civil aviation policies?",
+    "options": [
+      "Ministry of Railways",
+      "Ministry of Road Transport and Highways",
+      "Ministry of Civil Aviation",
+      "Ministry of Defence"
+    ],
+    "correctAnswer": "Ministry of Civil Aviation"
   },
   {
     "id": 21,
-    "question": "What did India's latest health survey indicate about the prevalence of overweight and obesity in the country?",
-    "options": ["It is decreasing", "It is remaining stable", "It is rising", "It is negligible"],
-    "correctAnswer": "It is rising"
+    "question": "What is one of the 'cons' the Indian government might be weighing when considering allowing airport operators to also run airlines?",
+    "options": [
+      "Reduced competition in the airline sector",
+      "Increased international tourism",
+      "Lower operational costs for airports",
+      "Enhanced passenger experience"
+    ],
+    "correctAnswer": "Reduced competition in the airline sector"
   },
   {
     "id": 22,
-    "question": "Which major Indian media group announced the World Spirituality Summit: Shanti Manthan 2026?",
-    "options": ["Hindustan Times Group", "The Times of India Group", "Indian Express Group", "Dainik Bhaskar Group"],
-    "correctAnswer": "The Times of India Group"
+    "question": "In the context of urban planning and corporate governance, what fundamental role does the Supreme Court of India play?",
+    "options": [
+      "To draft new legislation for states",
+      "To provide advisory services to corporations",
+      "To ensure adherence to constitutional principles and legal oversight",
+      "To directly fund urban infrastructure projects"
+    ],
+    "correctAnswer": "To ensure adherence to constitutional principles and legal oversight"
   },
   {
     "id": 23,
-    "question": "What is the full official name of the World Spirituality Summit announced by The Times of India Group?",
-    "options": ["Global Peace Forum 2026", "Shanti Manthan 2026", "Mindful India Summit", "Universal Harmony Conference"],
-    "correctAnswer": "Shanti Manthan 2026"
+    "question": "Which country was mentioned by the MEA as needing to take credible action on cross-border terror before gaining world trust?",
+    "options": [
+      "China",
+      "Nepal",
+      "Pakistan",
+      "Sri Lanka"
+    ],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 24,
-    "question": "In which major Indian city will the World Spirituality Summit: Shanti Manthan 2026 be held?",
-    "options": ["Mumbai", "Bengaluru", "New Delhi", "Hyderabad"],
-    "correctAnswer": "New Delhi"
+    "question": "Sardar Shaukat Ali Kashmiri appealed to which international body regarding the worsening human rights situation in Pakistan-occupied Jammu and Kashmir (PoJK) and Gilgit-Baltistan (PoGB)?",
+    "options": [
+      "International Criminal Court (ICC)",
+      "United Nations Human Rights Council (UNHRC)",
+      "International Court of Justice (ICJ)",
+      "Amnesty International"
+    ],
+    "correctAnswer": "United Nations Human Rights Council (UNHRC)"
   },
   {
     "id": 25,
-    "question": "Besides spiritual leaders, who are some other key groups expected to participate in the Shanti Manthan 2026 summit?",
-    "options": ["Sports personalities and artists", "Scientists and engineers", "Policymakers and conscious businesses", "Farmers and laborers"],
-    "correctAnswer": "Policymakers and conscious businesses"
+    "question": "According to the provided news, how is the introduction of merchant fees for UPI intended to affect the overall digital payments ecosystem?",
+    "options": [
+      "By making it less accessible for new users",
+      "By ensuring its sustainability and growth",
+      "By exclusively benefiting large payment processors",
+      "By limiting its reach to metropolitan areas"
+    ],
+    "correctAnswer": "By ensuring its sustainability and growth"
   }
 ]

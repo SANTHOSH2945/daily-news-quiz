@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which of the following is a major cooperative institution playing a significant role in Telangana's dairy sector, echoing the importance of strong cooperatives for the rural economy?",
-    "options": ["Nandini Dairy", "Milma", "Vijaya Dairy", "Aavin"],
-    "correctAnswer": "Vijaya Dairy"
+    "question": "What new procedural requirement has the Supreme Court mandated for arrests made under the Unlawful Activities (Prevention) Act (UAPA) in India?",
+    "options": [
+      "Immediate bail hearing",
+      "Grounds for arrest in writing",
+      "Presence of a lawyer from the moment of arrest",
+      "Video recording of the arrest"
+    ],
+    "correctAnswer": "Grounds for arrest in writing"
   },
   {
     "id": 2,
-    "question": "Primary Agricultural Credit Societies (PACS) are vital for rural credit and strengthening the rural economy. Which of these states has actively promoted PACS for farmer support and local economic growth?",
-    "options": ["Telangana", "Assam", "Uttarakhand", "Punjab"],
-    "correctAnswer": "Telangana"
+    "question": "In a recent ruling, the Supreme Court emphasized the necessity of providing what document to individuals arrested across India, including those under UAPA?",
+    "options": [
+      "A copy of the FIR",
+      "A medical fitness certificate",
+      "Written grounds for their arrest",
+      "A list of their fundamental rights"
+    ],
+    "correctAnswer": "Written grounds for their arrest"
   },
   {
     "id": 3,
-    "question": "Inspired by discussions on boosting the rural economy, what is a flagship scheme launched by the Telangana government to support farmers with investment support for agriculture?",
-    "options": ["Rythu Bandhu", "PM-KISAN", "Kalia Yojana", "Fasal Bima Yojana"],
-    "correctAnswer": "Rythu Bandhu"
+    "question": "Which fundamental right is indirectly strengthened by the Supreme Court's recent directive on providing written grounds for arrest under UAPA across all states of India?",
+    "options": [
+      "Right to freedom of speech",
+      "Right to assemble peacefully",
+      "Right to know reasons for arrest",
+      "Right to practice any profession"
+    ],
+    "correctAnswer": "Right to know reasons for arrest"
   },
   {
     "id": 4,
-    "question": "In line with strengthening the rural economy, which scheme in Andhra Pradesh aims to empower women in rural areas through self-help groups (SHGs) by providing financial support?",
-    "options": ["Jagananna Vidya Deevena", "YSR Cheyutha", "Amma Vodi", "Rythu Bharosa"],
-    "correctAnswer": "YSR Cheyutha"
+    "question": "The Supreme Court's recent judgment on UAPA arrests aims to ensure greater transparency and accountability from which authority in all Indian states?",
+    "options": [
+      "Judiciary",
+      "Legislative bodies",
+      "Investigating agencies",
+      "Correctional facilities"
+    ],
+    "correctAnswer": "Investigating agencies"
   },
   {
     "id": 5,
-    "question": "Reflecting themes of party leadership and foundation, K. Chandrashekar Rao, a prominent figure in Telangana politics, founded which major regional party?",
-    "options": ["Telugu Desam Party", "YSR Congress Party", "Telangana Rashtra Samithi", "Praja Rajyam Party"],
-    "correctAnswer": "Telangana Rashtra Samithi"
+    "question": "Which specific legal act was at the center of the Supreme Court's recent ruling mandating written grounds for arrest in India?",
+    "options": [
+      "Prevention of Money Laundering Act",
+      "Unlawful Activities (Prevention) Act",
+      "Narcotics Drugs and Psychotropic Substances Act",
+      "Protection of Children from Sexual Offences Act"
+    ],
+    "correctAnswer": "Unlawful Activities (Prevention) Act"
   },
   {
     "id": 6,
-    "question": "Following the bifurcation of Andhra Pradesh, who served as the first Chief Minister of the residuary state and led a major regional party?",
-    "options": ["Y.S. Jagan Mohan Reddy", "K. Chandrashekar Rao", "N. Chandrababu Naidu", "Kiran Kumar Reddy"],
-    "correctAnswer": "N. Chandrababu Naidu"
+    "question": "Which national body informed the Supreme Court about the financial inability to construct animal shelters along highways due to high costs across India?",
+    "options": [
+      "Ministry of Environment, Forest and Climate Change",
+      "National Green Tribunal",
+      "National Highways Authority of India (NHAI)",
+      "Wildlife Institute of India"
+    ],
+    "correctAnswer": "National Highways Authority of India (NHAI)"
   },
   {
     "id": 7,
-    "question": "Drawing a parallel to discussions on dynastic politics, the YSR Congress Party, a dominant political force in Andhra Pradesh, is led by which figure, whose political career follows that of his father, a former Chief Minister?",
-    "options": ["Nara Lokesh", "K.T. Rama Rao", "Y.S. Jagan Mohan Reddy", "Pawan Kalyan"],
-    "correctAnswer": "Y.S. Jagan Mohan Reddy"
+    "question": "What was the approximate estimated cost, cited by NHAI to the Supreme Court, for building animal shelters along national highways in India?",
+    "options": [
+      "₹700 crore",
+      "₹1,700 crore",
+      "₹7,000 crore",
+      "₹17,000 crore"
+    ],
+    "correctAnswer": "₹7,000 crore"
   },
   {
     "id": 8,
-    "question": "In the context of dynastic political themes, K.T. Rama Rao, a key leader in Telangana politics, is the son of which former Chief Minister of Telangana?",
-    "options": ["N. Chandrababu Naidu", "K. Chandrashekar Rao", "Y.S. Rajasekhara Reddy", "N. Janardhana Reddy"],
-    "correctAnswer": "K. Chandrashekar Rao"
+    "question": "The National Highways Authority of India (NHAI) expressed its inability to implement a specific infrastructure project, citing what primary reason?",
+    "options": [
+      "Lack of land availability",
+      "Environmental clearances",
+      "Prohibitive costs",
+      "Shortage of skilled labor"
+    ],
+    "correctAnswer": "Prohibitive costs"
   },
   {
     "id": 9,
-    "question": "Reflecting internal party dynamics and leadership changes, which prominent figure was recently appointed as the President of the Andhra Pradesh Congress Committee?",
-    "options": ["Mohammad Azharuddin", "Ambati Rayudu", "G. Harish Rao", "Y.S. Sharmila"],
-    "correctAnswer": "Y.S. Sharmila"
+    "question": "The discussion between NHAI and the Supreme Court regarding animal shelters primarily concerns the welfare of which type of animals along Indian national highways?",
+    "options": [
+      "Domesticated pets",
+      "Stray animals crossing highways",
+      "Migratory birds",
+      "Zoo animals"
+    ],
+    "correctAnswer": "Stray animals crossing highways"
   },
   {
     "id": 10,
-    "question": "Following the recent assembly elections in Telangana, what significant leadership change occurred within the state's political landscape?",
-    "options": ["K. Chandrashekar Rao resigned as party president", "Revanth Reddy became Chief Minister", "Bandi Sanjay Kumar was appointed as CM", "Pawan Kalyan formed a new alliance"],
-    "correctAnswer": "Revanth Reddy became Chief Minister"
+    "question": "What kind of infrastructure did NHAI state it could not build due to an estimated cost of ₹7,000 crore on India's national highways?",
+    "options": [
+      "Underpasses for wildlife",
+      "Elevated corridors for vehicles",
+      "Animal shelters",
+      "Service roads"
+    ],
+    "correctAnswer": "Animal shelters"
   },
   {
     "id": 11,
-    "question": "Echoing themes of governance and public scrutiny, which major irrigation project in Telangana has faced considerable debate regarding its costs and implementation?",
-    "options": ["Kaleshwaram Lift Irrigation Project", "Polavaram Project", "Nagarjuna Sagar Project", "Sriram Sagar Project"],
-    "correctAnswer": "Kaleshwaram Lift Irrigation Project"
+    "question": "What was the Supreme Court's recent observation regarding the role of courts in police investigations across India?",
+    "options": [
+      "Courts should actively supervise every step of a probe",
+      "Courts must not interfere in police probes",
+      "Courts should conduct parallel investigations",
+      "Courts are responsible for gathering evidence"
+    ],
+    "correctAnswer": "Courts must not interfere in police probes"
   },
   {
     "id": 12,
-    "question": "Amidst discussions on state governance and welfare initiatives, what is a key welfare scheme in Andhra Pradesh providing financial assistance to mothers for sending their children to school?",
-    "options": ["Rythu Bharosa", "YSR Nethanna Nestham", "Amma Vodi", "YSR Pelli Kanuka"],
-    "correctAnswer": "Amma Vodi"
+    "question": "The Supreme Court recently emphasized the need for courts to refrain from intervening in the investigative duties of which body throughout India?",
+    "options": [
+      "Central Bureau of Investigation",
+      "Income Tax Department",
+      "Police",
+      "Enforcement Directorate"
+    ],
+    "correctAnswer": "Police"
   },
   {
     "id": 13,
-    "question": "Telangana has focused on improving its green cover through a massive afforestation drive, reflecting a commitment to environmental governance. What is the name of this flagship program?",
-    "options": ["Haritha Haram", "Jal Shakti Abhiyan", "Vanam Manam", "Green India Mission"],
-    "correctAnswer": "Haritha Haram"
+    "question": "Which principle related to the separation of powers was highlighted by the Supreme Court in its stance on police investigations in India?",
+    "options": [
+      "Legislative supremacy",
+      "Judicial activism",
+      "Executive independence in investigation",
+      "Parliamentary oversight"
+    ],
+    "correctAnswer": "Executive independence in investigation"
   },
   {
     "id": 14,
-    "question": "A major challenge often discussed in the context of urban governance in Hyderabad, Telangana, particularly during monsoons, is related to:",
-    "options": ["Traffic congestion", "Flooding and stormwater management", "Waste management", "Air pollution"],
-    "correctAnswer": "Flooding and stormwater management"
+    "question": "What specific aspect of the criminal justice system did the Supreme Court caution against judicial overreach across India?",
+    "options": [
+      "Sentencing",
+      "Bail hearings",
+      "Police investigation",
+      "Witness examination"
+    ],
+    "correctAnswer": "Police investigation"
   },
   {
     "id": 15,
-    "question": "In the context of social justice and addressing casteism, which historical social reformer from Andhra Pradesh worked extensively for the upliftment of backward castes and women's education?",
-    "options": ["Kandukuri Veeresalingam", "Gurajada Apparao", "Potti Sreeramulu", "Alluri Sitarama Raju"],
-    "correctAnswer": "Kandukuri Veeresalingam"
+    "question": "The Supreme Court's directive on non-interference in police probes aims to preserve the autonomy of which function in India?",
+    "options": [
+      "Judicial review",
+      "Lawmaking",
+      "Executive investigative power",
+      "Public prosecution"
+    ],
+    "correctAnswer": "Executive investigative power"
   },
   {
     "id": 16,
-    "question": "Building on efforts for social justice, the Telangana government has introduced several initiatives for the welfare of Scheduled Castes (SCs) and Scheduled Tribes (STs). Which scheme focuses on providing financial assistance for SC/ST entrepreneurs?",
-    "options": ["Dalit Bandhu", "Aasara Pensions", "KCR Kit", "Shaadi Mubarak"],
-    "correctAnswer": "Dalit Bandhu"
+    "question": "The Supreme Court recently highlighted significant infrastructure deficiencies at which specific judicial bodies across India?",
+    "options": [
+      "Family Courts",
+      "Consumer Forums",
+      "IBC Tribunals",
+      "Labour Courts"
+    ],
+    "correctAnswer": "IBC Tribunals"
   },
   {
     "id": 17,
-    "question": "Political confrontations between parties are a recurring theme in state politics. The local body elections in Andhra Pradesh often involve clashes between supporters of which two major parties?",
-    "options": ["TDP and Janasena", "YSRCP and Janasena", "YSRCP and TDP", "BJP and Congress"],
-    "correctAnswer": "YSRCP and TDP"
+    "question": "What key issue did the Supreme Court identify concerning the Insolvency and Bankruptcy Code (IBC) tribunals across India, including those serving Telangana and Andhra Pradesh?",
+    "options": [
+      "Shortage of judges",
+      "Poor infrastructure",
+      "Lack of legal precedents",
+      "High filing fees"
+    ],
+    "correctAnswer": "Poor infrastructure"
   },
   {
     "id": 18,
-    "question": "Drawing on the theme of state reorganization, what was the primary demand that led to the formation of Telangana as a separate state from Andhra Pradesh?",
-    "options": ["Economic development", "Linguistic identity", "Separate cultural identity", "Self-rule and regional identity"],
-    "correctAnswer": "Self-rule and regional identity"
+    "question": "What is the primary concern raised by the Supreme Court regarding the operational environment of IBC tribunals in India?",
+    "options": [
+      "Political interference",
+      "Inadequate technological support",
+      "Grossly poor infrastructure",
+      "Lack of specialized training"
+    ],
+    "correctAnswer": "Grossly poor infrastructure"
   },
   {
     "id": 19,
-    "question": "The Andhra Pradesh Reorganisation Act, 2014, led to the bifurcation of the state. On what date did Telangana officially come into existence?",
-    "options": ["June 2, 2014", "October 22, 2014", "January 1, 2015", "August 15, 2014"],
-    "correctAnswer": "June 2, 2014"
+    "question": "Which important economic legislation's tribunals were recently scrutinized by the Supreme Court for their inadequate facilities across India?",
+    "options": [
+      "Goods and Services Tax Act",
+      "Companies Act",
+      "Insolvency and Bankruptcy Code",
+      "Foreign Exchange Management Act"
+    ],
+    "correctAnswer": "Insolvency and Bankruptcy Code"
   },
   {
     "id": 20,
-    "question": "Following the bifurcation of Andhra Pradesh, which city was designated as the common capital for both states for a period of ten years?",
-    "options": ["Vijayawada", "Visakhapatnam", "Amaravati", "Hyderabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "The Supreme Court's observations on IBC tribunals' infrastructure potentially impact the efficiency of which national process?",
+    "options": [
+      "Criminal justice",
+      "Corporate insolvency and resolution",
+      "Environmental protection",
+      "Taxation disputes"
+    ],
+    "correctAnswer": "Corporate insolvency and resolution"
   },
   {
     "id": 21,
-    "question": "The issue of the capital city for Andhra Pradesh post-bifurcation has seen multiple proposals. Which city was initially proposed as the 'capital region' before further debates?",
-    "options": ["Guntur", "Amaravati", "Nellore", "Kurnool"],
-    "correctAnswer": "Amaravati"
+    "question": "What new design policy has NHAI announced for future high-speed National Highway corridors across India to enhance safety?",
+    "options": [
+      "Mandatory speed cameras",
+      "Wider service lanes",
+      "No median cuts or surface intersections",
+      "Increased toll plazas"
+    ],
+    "correctAnswer": "No median cuts or surface intersections"
   },
   {
     "id": 22,
-    "question": "Connecting to discussions around educational institutions and student welfare, which centrally funded institution located in Telangana has been a focus of discussions regarding its campus environment?",
-    "options": ["IIT Hyderabad", "BITS Pilani Hyderabad", "Osmania University", "JNTU Hyderabad"],
-    "correctAnswer": "IIT Hyderabad"
+    "question": "To improve safety on upcoming high-speed National Highways in India, what specific type of intersections will NHAI avoid in their design?",
+    "options": [
+      "Cloverleaf interchanges",
+      "Roundabouts",
+      "Surface intersections",
+      "Flyovers"
+    ],
+    "correctAnswer": "Surface intersections"
   },
   {
     "id": 23,
-    "question": "Andhra Pradesh is home to several prominent educational institutions. Which national institution in Andhra Pradesh is known for its focus on technology and engineering education?",
-    "options": ["IIT Tirupati", "NIT Warangal", "Andhra University", "Sri Venkateswara University"],
-    "correctAnswer": "IIT Tirupati"
+    "question": "NHAI's new guidelines for future high-speed National Highways across India aim to eliminate which two types of roadway features for enhanced safety?",
+    "options": [
+      "Tunnels and bridges",
+      "Pedestrian crossings and bus stops",
+      "Median cuts and surface intersections",
+      "Guardrails and signboards"
+    ],
+    "correctAnswer": "Median cuts and surface intersections"
   },
   {
     "id": 24,
-    "question": "Recent political campaigns in Telangana often involve heated debates and confrontations between ruling and opposition parties. Which issue was a major point of contention during the recent Telangana assembly elections?",
-    "options": ["Kashmir issue", "National security", "State financial status and welfare schemes", "International trade agreements"],
-    "correctAnswer": "State financial status and welfare schemes"
+    "question": "What common road design element, often associated with unauthorized crossings, will be prohibited on future high-speed National Highway corridors by NHAI across India?",
+    "options": [
+      "Overpasses",
+      "Underpasses",
+      "Median cuts",
+      "Exit ramps"
+    ],
+    "correctAnswer": "Median cuts"
   },
   {
     "id": 25,
-    "question": "Which political party in Andhra Pradesh has frequently faced scrutiny and allegations regarding its handling of state finances and public debt from opposition parties in recent years?",
-    "options": ["Telugu Desam Party", "YSR Congress Party", "Janasena Party", "Bharatiya Janata Party"],
-    "correctAnswer": "YSR Congress Party"
+    "question": "The National Highways Authority of India (NHAI) is implementing a design change for new high-speed corridors to prevent what common causes of accidents on national highways?",
+    "options": [
+      "Potholes",
+      "Driver fatigue",
+      "Collisions from cross-traffic and turning vehicles",
+      "Over-speeding"
+    ],
+    "correctAnswer": "Collisions from cross-traffic and turning vehicles"
   }
 ]

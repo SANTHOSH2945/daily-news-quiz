@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary aim behind the introduction of merchant fees (MDR) for UPI transactions, as stated by NPCI?",
-    "options": [
-      "To increase government revenue",
-      "To enhance the sustainability and growth of the digital payments ecosystem",
-      "To discourage digital transactions among large merchants",
-      "To fund international payment gateways"
-    ],
-    "correctAnswer": "To enhance the sustainability and growth of the digital payments ecosystem"
+    "question": "Which Indian court recently characterized the exorbitant pricing of drugs as 'extortion'?",
+    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court", "Madras High Court"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 2,
-    "question": "Which entity is responsible for the introduction of merchant fees (MDR) on UPI transactions, as per the news?",
-    "options": [
-      "Reserve Bank of India (RBI)",
-      "Ministry of Finance",
-      "National Payments Corporation of India (NPCI)",
-      "State Bank of India (SBI)"
-    ],
-    "correctAnswer": "National Payments Corporation of India (NPCI)"
+    "question": "What specific issue related to pharmaceuticals did the Supreme Court recently address, terming it as 'extortion'?",
+    "options": ["Drug manufacturing quality", "Drug advertising ethics", "Exorbitant pricing of drugs", "Availability of generic drugs"],
+    "correctAnswer": "Exorbitant pricing of drugs"
   },
   {
     "id": 3,
-    "question": "What is the transaction threshold below which small merchants are exempted from UPI MDR fees?",
-    "options": [
-      "Rs 500",
-      "Rs 1,000",
-      "Rs 2,000",
-      "Rs 5,000"
-    ],
-    "correctAnswer": "Rs 2,000"
+    "question": "The Supreme Court's recent observation on drug pricing is aimed at curbing what practice within the pharmaceutical sector?",
+    "options": ["Under-pricing of essential medicines", "Unfair competition among manufacturers", "Exorbitant and exploitative pricing", "Lack of research and development investment"],
+    "correctAnswer": "Exorbitant and exploitative pricing"
   },
   {
     "id": 4,
-    "question": "According to NPCI, how does the UPI MDR system aim to protect small merchants?",
-    "options": [
-      "By providing direct subsidies",
-      "By exempting them from fees for transactions below a certain threshold",
-      "By offering exclusive banking services",
-      "By mandating cashless payments only"
-    ],
-    "correctAnswer": "By exempting them from fees for transactions below a certain threshold"
+    "question": "What term did the Supreme Court explicitly use to describe the practice of charging excessively high prices for drugs?",
+    "options": ["Monopoly", "Exploitation", "Extortion", "Profiteering"],
+    "correctAnswer": "Extortion"
   },
   {
     "id": 5,
-    "question": "Which specific issue did the Supreme Court recently question, referring to it as 'broad daylight dacoity'?",
-    "options": [
-      "Illegal mining activities",
-      "Overpricing of essential cancer drugs",
-      "Corruption in public tenders",
-      "Unauthorized construction in protected areas"
-    ],
-    "correctAnswer": "Overpricing of essential cancer drugs"
+    "question": "The Supreme Court's ruling on exorbitant drug pricing affects pharmaceutical practices across India, including states like Telangana and Andhra Pradesh, underscoring the importance of what for all citizens?",
+    "options": ["Intellectual property rights", "Fair trade agreements", "Access to affordable healthcare", "Pharmaceutical company profits"],
+    "correctAnswer": "Access to affordable healthcare"
   },
   {
     "id": 6,
-    "question": "The Supreme Court's strong remarks on drug overpricing highlight a concern in which sector?",
-    "options": [
-      "Automobile industry",
-      "Real estate",
-      "Healthcare and pharmaceuticals",
-      "Information technology"
-    ],
-    "correctAnswer": "Healthcare and pharmaceuticals"
+    "question": "According to a recent Supreme Court ruling, what can courts not dictate regarding the National Song 'Vande Mataram'?",
+    "options": ["Its historical accuracy", "Its inclusion in school curriculum", "That it should be sung", "Its translation into regional languages"],
+    "correctAnswer": "That it should be sung"
   },
   {
     "id": 7,
-    "question": "Which region's 'worsening' human rights situation was highlighted by a Kashmiri leader to the UNHRC?",
-    "options": [
-      "Jammu and Kashmir",
-      "Pakistan-occupied Jammu and Kashmir (PoJK)",
-      "Ladakh",
-      "North-East India"
-    ],
-    "correctAnswer": "Pakistan-occupied Jammu and Kashmir (PoJK)"
+    "question": "What specific action did the Supreme Court state courts should not take if someone refuses to sing 'Vande Mataram'?",
+    "options": ["Issue a commendation", "Impose a punishment", "Offer an alternative song", "Mandate public service"],
+    "correctAnswer": "Impose a punishment"
   },
   {
     "id": 8,
-    "question": "What are two primary concerns raised regarding Pakistan-occupied Gilgit-Baltistan (PoGB) by the Kashmiri leader to the UNHRC?",
-    "options": [
-      "Economic recession and industrial decline",
-      "Political representation and land rights",
-      "Environmental degradation and climate change",
-      "Educational disparity and unemployment"
-    ],
-    "correctAnswer": "Political representation and land rights"
+    "question": "The Supreme Court's ruling on 'Vande Mataram' emphasizes the limit of judicial power in enforcing what?",
+    "options": ["National security protocols", "Cultural traditions", "Personal beliefs and freedom of expression", "Educational standards"],
+    "correctAnswer": "Personal beliefs and freedom of expression"
   },
   {
     "id": 9,
-    "question": "What condition has India's MEA stated for the world to believe Pakistan regarding terror?",
-    "options": [
-      "Signing a peace treaty",
-      "Disclosing intelligence reports",
-      "Taking credible action on cross-border terror",
-      "Increasing trade relations"
-    ],
-    "correctAnswer": "Taking credible action on cross-border terror"
+    "question": "What is the name of the National Song referenced in the Supreme Court's recent ruling concerning non-compulsion to sing?",
+    "options": ["Jana Gana Mana", "Sare Jahan Se Achha", "Vande Mataram", "Ae Mere Watan Ke Logo"],
+    "correctAnswer": "Vande Mataram"
   },
   {
     "id": 10,
-    "question": "The MEA's statement emphasizes the need for Pakistan to take credible action against what?",
-    "options": [
-      "Economic sanctions",
-      "Climate change effects",
-      "Cross-border terror",
-      "Human trafficking"
-    ],
-    "correctAnswer": "Cross-border terror"
+    "question": "The Supreme Court asserted that courts should not have the authority to compel citizens to participate in which specific symbolic act?",
+    "options": ["Voting in elections", "Saluting the national flag", "Singing the national song", "Observing a moment of silence"],
+    "correctAnswer": "Singing the national song"
   },
   {
     "id": 11,
-    "question": "What new policy amendment is the Indian government considering regarding airport operators?",
-    "options": [
-      "Allowing them to operate ground handling services only",
-      "Allowing them to run airlines",
-      "Allowing them to manage international airports exclusively",
-      "Allowing them to invest in foreign airlines"
-    ],
-    "correctAnswer": "Allowing them to run airlines"
+    "question": "According to NPCI's Dilip Asbe, what is the primary purpose of introducing Merchant Discount Rate (MDR) for UPI?",
+    "options": ["To reduce transaction fees for consumers", "To fund innovation and protect small merchants", "To limit the usage of digital payments", "To increase government revenue"],
+    "correctAnswer": "To fund innovation and protect small merchants"
   },
   {
     "id": 12,
-    "question": "Which major Indian conglomerate, operating Mumbai Airport, recently sought an amendment to allow airport operators to run airlines?",
-    "options": [
-      "Reliance Group",
-      "Tata Group",
-      "Adani Group",
-      "GMR Group"
-    ],
-    "correctAnswer": "Adani Group"
+    "question": "Which category of merchants is exempted from UPI MDR fees for transactions not exceeding Rs 2,000?",
+    "options": ["Large e-commerce platforms", "Government agencies", "Small merchants", "International vendors"],
+    "correctAnswer": "Small merchants"
   },
   {
     "id": 13,
-    "question": "The Supreme Court recently heard a plea challenging a state's Premium Floor Area Ratio (FAR) scheme. Which state was mentioned in this context?",
-    "options": [
-      "Maharashtra",
-      "Karnataka",
-      "Gujarat",
-      "Kerala"
-    ],
-    "correctAnswer": "Karnataka"
+    "question": "What is the transaction threshold below which small merchants are exempted from UPI MDR?",
+    "options": ["Rs 500", "Rs 1,000", "Rs 2,000", "Rs 5,000"],
+    "correctAnswer": "Rs 2,000"
   },
   {
     "id": 14,
-    "question": "What does a Premium Floor Area Ratio (FAR) scheme generally allow in urban planning?",
-    "options": [
-      "Reduction in property taxes",
-      "Purchase of additional construction rights",
-      "Exemption from environmental clearances",
-      "Allocation of public land for private use"
-    ],
-    "correctAnswer": "Purchase of additional construction rights"
+    "question": "Who is Dilip Asbe, the individual quoted regarding the new UPI MDR policy?",
+    "options": ["Finance Minister of India", "CEO of NPCI", "RBI Governor", "Head of Digital India Foundation"],
+    "correctAnswer": "CEO of NPCI"
   },
   {
     "id": 15,
-    "question": "The Supreme Court clarified that a state's Premium FAR scheme should not be used to regularize what?",
-    "options": [
-      "Historic buildings",
-      "Agricultural land",
-      "Illegal construction",
-      "Public parks"
-    ],
-    "correctAnswer": "Illegal construction"
+    "question": "What does UPI stand for in the context of digital payments in India?",
+    "options": ["Unified Payment Initiative", "Universal Payment Interface", "Unified Payments Interface", "Urban Payments India"],
+    "correctAnswer": "Unified Payments Interface"
   },
   {
     "id": 16,
-    "question": "The SC's observation about Gurugram's infrastructure collapsing during rains, in contrast to Greater Noida's planning, highlights issues primarily in which area?",
-    "options": [
-      "Rural development",
-      "Agricultural policy",
-      "Urban planning and infrastructure investment",
-      "Coastal management"
-    ],
-    "correctAnswer": "Urban planning and infrastructure investment"
-  },
-  {
-    "id": 17,
-    "question": "The Supreme Court's involvement in reviewing state urban planning schemes like the Premium FAR in Karnataka demonstrates its role in what aspect of governance?",
-    "options": [
-      "Executive policymaking",
-      "Legislative drafting",
-      "Judicial oversight and interpretation of state policies",
-      "Direct implementation of urban projects"
-    ],
-    "correctAnswer": "Judicial oversight and interpretation of state policies"
-  },
-  {
-    "id": 18,
-    "question": "What is the full form of MDR in the context of UPI transactions?",
-    "options": [
-      "Merchant Development Rate",
-      "Maximum Daily Rate",
-      "Merchant Discount Rate",
-      "Monthly Deduction Ratio"
-    ],
+    "question": "What does MDR stand for in the context of digital payment fees?",
+    "options": ["Merchant Data Record", "Money Deposit Receipt", "Maximum Discount Rate", "Merchant Discount Rate"],
     "correctAnswer": "Merchant Discount Rate"
   },
   {
+    "id": 17,
+    "question": "The introduction of UPI MDR is described as a strategic move aimed at enhancing the sustainability and growth of what ecosystem?",
+    "options": ["The e-commerce ecosystem", "The traditional banking ecosystem", "The digital payments ecosystem", "The rural banking ecosystem"],
+    "correctAnswer": "The digital payments ecosystem"
+  },
+  {
+    "id": 18,
+    "question": "For larger merchants, the transition to UPI MDR is considered familiar because they already incur fees for which other type of payments?",
+    "options": ["Cash payments", "Cheque payments", "Bank transfer payments", "Card payments"],
+    "correctAnswer": "Card payments"
+  },
+  {
     "id": 19,
-    "question": "According to NPCI, how does the introduction of UPI MDR contribute to the digital payments ecosystem?",
-    "options": [
-      "By reducing server load",
-      "By increasing the number of payment apps",
-      "By enhancing sustainability and growth",
-      "By standardizing transaction timings"
-    ],
-    "correctAnswer": "By enhancing sustainability and growth"
+    "question": "What key aspect of the digital payments system is UPI MDR primarily intended to support, apart from protecting small merchants?",
+    "options": ["Government subsidies", "Technological innovation", "International transactions", "Cashless economy targets"],
+    "correctAnswer": "Technological innovation"
   },
   {
     "id": 20,
-    "question": "The Supreme Court's questioning of cancer drug overpricing is indicative of its concern for which consumer right?",
-    "options": [
-      "Right to choose",
-      "Right to safety",
-      "Right to information",
-      "Right to affordability and access to essential services"
-    ],
-    "correctAnswer": "Right to affordability and access to essential services"
+    "question": "Which national entity is responsible for managing the UPI platform and implementing the MDR structure?",
+    "options": ["Reserve Bank of India (RBI)", "Ministry of Finance", "National Payments Corporation of India (NPCI)", "State Bank of India (SBI)"],
+    "correctAnswer": "National Payments Corporation of India (NPCI)"
   },
   {
     "id": 21,
-    "question": "What mechanism did a Kashmiri leader appeal for regarding alleged human rights violations in PoJK?",
-    "options": [
-      "Bilateral talks with Pakistan",
-      "Economic aid from international bodies",
-      "An independent investigation",
-      "Military intervention"
-    ],
-    "correctAnswer": "An independent investigation"
+    "question": "The UPI MDR policy ensures that small merchants continue to be protected from additional fees, safeguarding their participation in which sector of the economy?",
+    "options": ["The informal sector", "The agricultural sector", "The digital economy", "The export sector"],
+    "correctAnswer": "The digital economy"
   },
   {
     "id": 22,
-    "question": "What is NPCI, the entity mentioned in relation to UPI, primarily responsible for?",
-    "options": [
-      "Regulating banking interest rates",
-      "Building robust payment and settlement infrastructure in India",
-      "Managing government bonds",
-      "Overseeing foreign exchange markets"
-    ],
-    "correctAnswer": "Building robust payment and settlement infrastructure in India"
+    "question": "What is one of the stated reasons why the UPI MDR transition is familiar for larger merchants, as per the news?",
+    "options": ["They receive higher discounts", "They are fully exempted from fees", "They already incur fees for card payments", "They get preferential customer support"],
+    "correctAnswer": "They already incur fees for card payments"
   },
   {
     "id": 23,
-    "question": "Why are larger merchants expected to find the transition to UPI merchant fees familiar?",
-    "options": [
-      "Because they already use UPI extensively",
-      "Because they are exempt from all digital payment fees",
-      "Because they already incur fees for card payments",
-      "Because they have specialized accounting departments"
-    ],
-    "correctAnswer": "Because they already incur fees for card payments"
+    "question": "The UPI MDR structure is designed to apply merchant fees in a way that differentiates between what?",
+    "options": ["Urban and rural merchants", "Online and offline merchants", "Small and large merchants", "Indian and foreign merchants"],
+    "correctAnswer": "Small and large merchants"
   },
   {
     "id": 24,
-    "question": "The government's consideration of allowing airport operators to run airlines is a discussion primarily related to which sector?",
-    "options": [
-      "Maritime shipping",
-      "Railways",
-      "Road transport",
-      "Civil Aviation"
-    ],
-    "correctAnswer": "Civil Aviation"
+    "question": "Funds generated from the UPI MDR are expected to contribute to the growth and development of new features and services within which Indian payment system?",
+    "options": ["NEFT", "RTGS", "UPI", "IMPS"],
+    "correctAnswer": "UPI"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's comments on urban planning discrepancies between Gurugram and Greater Noida underscore the importance of what for sustainable urban development?",
-    "options": [
-      "Retroactive legislation",
-      "Short-term project cycles",
-      "Long-term, robust planning and adequate investment",
-      "Reliance on private sector alone"
-    ],
-    "correctAnswer": "Long-term, robust planning and adequate investment"
+    "question": "The NPCI's move to introduce merchant fees for UPI is seen as a way to enhance what long-term aspect of the digital payments ecosystem?",
+    "options": ["Security features", "User privacy", "Regulatory oversight", "Sustainability and growth"],
+    "correctAnswer": "Sustainability and growth"
   }
 ]

@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which Indian court recently characterized the exorbitant pricing of drugs as 'extortion'?",
-    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court", "Madras High Court"],
-    "correctAnswer": "Supreme Court"
+    "question": "Following the Union Minister Ashwini Vaishnaw's announcement that National Film Awards will now be held at tourist destinations, which iconic historical site in Telangana, synonymous with Hyderabad's heritage, could potentially host such a prestigious event?",
+    "options": [
+      "Warangal Fort",
+      "Bhongir Fort",
+      "Golconda Fort",
+      "Medak Fort"
+    ],
+    "correctAnswer": "Golconda Fort"
   },
   {
     "id": 2,
-    "question": "What specific issue related to pharmaceuticals did the Supreme Court recently address, terming it as 'extortion'?",
-    "options": ["Drug manufacturing quality", "Drug advertising ethics", "Exorbitant pricing of drugs", "Availability of generic drugs"],
-    "correctAnswer": "Exorbitant pricing of drugs"
+    "question": "Considering the new policy to host National Film Awards at tourist destinations, which globally recognized pilgrimage and tourist town in Andhra Pradesh, known for its Venkateswara Temple, would be a prominent choice?",
+    "options": [
+      "Srisailam",
+      "Tirupati",
+      "Annavaram",
+      "Simhachalam"
+    ],
+    "correctAnswer": "Tirupati"
   },
   {
     "id": 3,
-    "question": "The Supreme Court's recent observation on drug pricing is aimed at curbing what practice within the pharmaceutical sector?",
-    "options": ["Under-pricing of essential medicines", "Unfair competition among manufacturers", "Exorbitant and exploitative pricing", "Lack of research and development investment"],
-    "correctAnswer": "Exorbitant and exploitative pricing"
+    "question": "The decision to organize National Film Awards at tourist locations aims to significantly boost which sector, highly relevant for states like Telangana and Andhra Pradesh with rich cultural and historical sites?",
+    "options": [
+      "IT & Software",
+      "Automobile Manufacturing",
+      "Tourism & Hospitality",
+      "Pharmaceuticals"
+    ],
+    "correctAnswer": "Tourism & Hospitality"
   },
   {
     "id": 4,
-    "question": "What term did the Supreme Court explicitly use to describe the practice of charging excessively high prices for drugs?",
-    "options": ["Monopoly", "Exploitation", "Extortion", "Profiteering"],
-    "correctAnswer": "Extortion"
+    "question": "Which sprawling film studio complex in Telangana is not only a hub for film production but also a major tourist attraction, perfectly aligning with the idea of combining film events with tourism?",
+    "options": [
+      "Annapurna Studios",
+      "Ramoji Film City",
+      "Sarathi Studios",
+      "Padmalaya Studios"
+    ],
+    "correctAnswer": "Ramoji Film City"
   },
   {
     "id": 5,
-    "question": "The Supreme Court's ruling on exorbitant drug pricing affects pharmaceutical practices across India, including states like Telangana and Andhra Pradesh, underscoring the importance of what for all citizens?",
-    "options": ["Intellectual property rights", "Fair trade agreements", "Access to affordable healthcare", "Pharmaceutical company profits"],
-    "correctAnswer": "Access to affordable healthcare"
+    "question": "If the National Film Awards were to be held in Andhra Pradesh, which coastal city, known for its scenic beaches, growing infrastructure, and developing film industry, could serve as a suitable tourist destination venue?",
+    "options": [
+      "Kurnool",
+      "Nellore",
+      "Visakhapatnam",
+      "Guntur"
+    ],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 6,
-    "question": "According to a recent Supreme Court ruling, what can courts not dictate regarding the National Song 'Vande Mataram'?",
-    "options": ["Its historical accuracy", "Its inclusion in school curriculum", "That it should be sung", "Its translation into regional languages"],
-    "correctAnswer": "That it should be sung"
+    "question": "What is the primary objective of the Telangana State Tourism Development Corporation (TSTDC) in promoting historical sites like Charminar, which could potentially host parts of national cultural events?",
+    "options": [
+      "Promoting industrial investment",
+      "Enhancing agricultural exports",
+      "Attracting tourists and preserving heritage",
+      "Developing IT infrastructure"
+    ],
+    "correctAnswer": "Attracting tourists and preserving heritage"
   },
   {
     "id": 7,
-    "question": "What specific action did the Supreme Court state courts should not take if someone refuses to sing 'Vande Mataram'?",
-    "options": ["Issue a commendation", "Impose a punishment", "Offer an alternative song", "Mandate public service"],
-    "correctAnswer": "Impose a punishment"
+    "question": "Beyond the National Film Awards, which classical dance form, primarily from Andhra Pradesh, could gain further national and international recognition if cultural events are integrated with tourist destinations?",
+    "options": [
+      "Kathak",
+      "Bharatnatyam",
+      "Kuchipudi",
+      "Odissi"
+    ],
+    "correctAnswer": "Kuchipudi"
   },
   {
     "id": 8,
-    "question": "The Supreme Court's ruling on 'Vande Mataram' emphasizes the limit of judicial power in enforcing what?",
-    "options": ["National security protocols", "Cultural traditions", "Personal beliefs and freedom of expression", "Educational standards"],
-    "correctAnswer": "Personal beliefs and freedom of expression"
+    "question": "The concept of hosting national events at tourist destinations can significantly boost local economies in states like Telangana by creating opportunities in which sector?",
+    "options": [
+      "Defence manufacturing",
+      "Information technology",
+      "Handicrafts and local produce",
+      "Heavy industry"
+    ],
+    "correctAnswer": "Handicrafts and local produce"
   },
   {
     "id": 9,
-    "question": "What is the name of the National Song referenced in the Supreme Court's recent ruling concerning non-compulsion to sing?",
-    "options": ["Jana Gana Mana", "Sare Jahan Se Achha", "Vande Mataram", "Ae Mere Watan Ke Logo"],
-    "correctAnswer": "Vande Mataram"
+    "question": "Which historical city in Telangana, known for its Kakatiya dynasty heritage and UNESCO World Heritage Site of Ramappa Temple nearby, holds potential as a tourist destination for national cultural gatherings?",
+    "options": [
+      "Karimnagar",
+      "Nizamabad",
+      "Warangal",
+      "Mahabubnagar"
+    ],
+    "correctAnswer": "Warangal"
   },
   {
     "id": 10,
-    "question": "The Supreme Court asserted that courts should not have the authority to compel citizens to participate in which specific symbolic act?",
-    "options": ["Voting in elections", "Saluting the national flag", "Singing the national song", "Observing a moment of silence"],
-    "correctAnswer": "Singing the national song"
+    "question": "To facilitate events like the National Film Awards at prominent locations, which government body in Andhra Pradesh is responsible for developing and managing tourist infrastructure?",
+    "options": [
+      "Andhra Pradesh Industrial Development Corporation (APIDC)",
+      "Andhra Pradesh Tourism Development Corporation (APTDC)",
+      "Andhra Pradesh State Road Transport Corporation (APSRTC)",
+      "Andhra Pradesh Power Generation Corporation (APGENCO)"
+    ],
+    "correctAnswer": "Andhra Pradesh Tourism Development Corporation (APTDC)"
   },
   {
     "id": 11,
-    "question": "According to NPCI's Dilip Asbe, what is the primary purpose of introducing Merchant Discount Rate (MDR) for UPI?",
-    "options": ["To reduce transaction fees for consumers", "To fund innovation and protect small merchants", "To limit the usage of digital payments", "To increase government revenue"],
-    "correctAnswer": "To fund innovation and protect small merchants"
+    "question": "In line with Union Home Minister Amit Shah's call for a district-level 'war on drugs,' which specialized unit of the Telangana Police is dedicated to combating drug-related offenses across the state?",
+    "options": [
+      "Greyhounds",
+      "Octopus",
+      "Narcotics Enforcement Wing (NEW)",
+      "Cyber Crime Wing"
+    ],
+    "correctAnswer": "Narcotics Enforcement Wing (NEW)"
   },
   {
     "id": 12,
-    "question": "Which category of merchants is exempted from UPI MDR fees for transactions not exceeding Rs 2,000?",
-    "options": ["Large e-commerce platforms", "Government agencies", "Small merchants", "International vendors"],
-    "correctAnswer": "Small merchants"
+    "question": "Following the national focus on district-level drug eradication, which district in the agency areas of Andhra Pradesh has been a primary target for operations against the illegal cultivation of cannabis (ganja)?",
+    "options": [
+      "Guntur",
+      "Prakasam",
+      "Alluri Sitharama Raju (formerly part of Visakhapatnam Rural)",
+      "Krishna"
+    ],
+    "correctAnswer": "Alluri Sitharama Raju (formerly part of Visakhapatnam Rural)"
   },
   {
     "id": 13,
-    "question": "What is the transaction threshold below which small merchants are exempted from UPI MDR?",
-    "options": ["Rs 500", "Rs 1,000", "Rs 2,000", "Rs 5,000"],
-    "correctAnswer": "Rs 2,000"
+    "question": "What specific illegal crop is most commonly targeted by district-level anti-drug enforcement drives in the forested and tribal regions of Andhra Pradesh, often involving aerial surveillance and destruction?",
+    "options": [
+      "Opium poppy",
+      "Coca plant",
+      "Cannabis (Ganja)",
+      "Khat"
+    ],
+    "correctAnswer": "Cannabis (Ganja)"
   },
   {
     "id": 14,
-    "question": "Who is Dilip Asbe, the individual quoted regarding the new UPI MDR policy?",
-    "options": ["Finance Minister of India", "CEO of NPCI", "RBI Governor", "Head of Digital India Foundation"],
-    "correctAnswer": "CEO of NPCI"
+    "question": "The Telangana government's 'Nasha Mukt Bharat Abhiyaan' initiatives at the district level largely emphasize which key aspect in addition to law enforcement?",
+    "options": [
+      "International sanctions",
+      "Rehabilitation and awareness programs",
+      "Digital payments for drug transactions",
+      "Space technology integration"
+    ],
+    "correctAnswer": "Rehabilitation and awareness programs"
   },
   {
     "id": 15,
-    "question": "What does UPI stand for in the context of digital payments in India?",
-    "options": ["Unified Payment Initiative", "Universal Payment Interface", "Unified Payments Interface", "Urban Payments India"],
-    "correctAnswer": "Unified Payments Interface"
+    "question": "What common strategy is employed by district administrations in both Telangana and Andhra Pradesh to engage local communities in the fight against drug abuse and trafficking?",
+    "options": [
+      "Mandatory drug testing for all citizens",
+      "Imposing curfews",
+      "Community awareness campaigns and informant networks",
+      "Banning all public gatherings"
+    ],
+    "correctAnswer": "Community awareness campaigns and informant networks"
   },
   {
     "id": 16,
-    "question": "What does MDR stand for in the context of digital payment fees?",
-    "options": ["Merchant Data Record", "Money Deposit Receipt", "Maximum Discount Rate", "Merchant Discount Rate"],
-    "correctAnswer": "Merchant Discount Rate"
+    "question": "District-level anti-drug operations in states like Telangana and Andhra Pradesh often involve critical coordination with which central agency for intelligence sharing and inter-state operations?",
+    "options": [
+      "National Security Guard (NSG)",
+      "National Disaster Response Force (NDRF)",
+      "Narcotics Control Bureau (NCB)",
+      "Border Security Force (BSF)"
+    ],
+    "correctAnswer": "Narcotics Control Bureau (NCB)"
   },
   {
     "id": 17,
-    "question": "The introduction of UPI MDR is described as a strategic move aimed at enhancing the sustainability and growth of what ecosystem?",
-    "options": ["The e-commerce ecosystem", "The traditional banking ecosystem", "The digital payments ecosystem", "The rural banking ecosystem"],
-    "correctAnswer": "The digital payments ecosystem"
+    "question": "Which major metropolitan city in Telangana faces significant challenges in combating drug peddling and abuse at its district level, due to its large population and connectivity?",
+    "options": [
+      "Warangal",
+      "Khammam",
+      "Hyderabad",
+      "Nalgonda"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 18,
-    "question": "For larger merchants, the transition to UPI MDR is considered familiar because they already incur fees for which other type of payments?",
-    "options": ["Cash payments", "Cheque payments", "Bank transfer payments", "Card payments"],
-    "correctAnswer": "Card payments"
+    "question": "The 'war on drugs' at the district level in Andhra Pradesh often includes a focus on strengthening which specific aspect of law enforcement to curb supply chains?",
+    "options": [
+      "Maritime security",
+      "Financial intelligence gathering",
+      "Cyber forensics",
+      "Border surveillance and checkpoints"
+    ],
+    "correctAnswer": "Border surveillance and checkpoints"
   },
   {
     "id": 19,
-    "question": "What key aspect of the digital payments system is UPI MDR primarily intended to support, apart from protecting small merchants?",
-    "options": ["Government subsidies", "Technological innovation", "International transactions", "Cashless economy targets"],
-    "correctAnswer": "Technological innovation"
+    "question": "To enhance district-level drug enforcement, the Telangana government has recently emphasized increasing the training and deployment of which type of specialized units within the local police?",
+    "options": [
+      "Traffic control squads",
+      "Bomb disposal units",
+      "Anti-Narcotics Task Forces",
+      "Firefighting teams"
+    ],
+    "correctAnswer": "Anti-Narcotics Task Forces"
   },
   {
     "id": 20,
-    "question": "Which national entity is responsible for managing the UPI platform and implementing the MDR structure?",
-    "options": ["Reserve Bank of India (RBI)", "Ministry of Finance", "National Payments Corporation of India (NPCI)", "State Bank of India (SBI)"],
-    "correctAnswer": "National Payments Corporation of India (NPCI)"
+    "question": "In Andhra Pradesh, the district-level drug eradication efforts are particularly focused on destroying illegal cultivation sites, primarily found in the dense forest areas of which geographical region?",
+    "options": [
+      "Rayalaseema plains",
+      "Eastern Ghats",
+      "Godavari Delta",
+      "Coromandel Coast"
+    ],
+    "correctAnswer": "Eastern Ghats"
   },
   {
     "id": 21,
-    "question": "The UPI MDR policy ensures that small merchants continue to be protected from additional fees, safeguarding their participation in which sector of the economy?",
-    "options": ["The informal sector", "The agricultural sector", "The digital economy", "The export sector"],
-    "correctAnswer": "The digital economy"
+    "question": "Discussions stemming from national campaigns by bodies like AIMPLB against uniform civil code often invoke which fundamental principle highly relevant to the diverse citizenry of Telangana and Andhra Pradesh?",
+    "options": [
+      "Right to Property",
+      "Uniform Civil Code",
+      "Right to Information",
+      "Environmental Protection"
+    ],
+    "correctAnswer": "Uniform Civil Code"
   },
   {
     "id": 22,
-    "question": "What is one of the stated reasons why the UPI MDR transition is familiar for larger merchants, as per the news?",
-    "options": ["They receive higher discounts", "They are fully exempted from fees", "They already incur fees for card payments", "They get preferential customer support"],
-    "correctAnswer": "They already incur fees for card payments"
+    "question": "What is a primary method utilized by various citizen groups and NGOs in Andhra Pradesh to engage with and voice opinions on national social campaigns and policy debates?",
+    "options": [
+      "Issuing diplomatic communiques",
+      "Holding public consultations and awareness drives",
+      "Launching satellite projects",
+      "Establishing international trade agreements"
+    ],
+    "correctAnswer": "Holding public consultations and awareness drives"
   },
   {
     "id": 23,
-    "question": "The UPI MDR structure is designed to apply merchant fees in a way that differentiates between what?",
-    "options": ["Urban and rural merchants", "Online and offline merchants", "Small and large merchants", "Indian and foreign merchants"],
-    "correctAnswer": "Small and large merchants"
+    "question": "Hyderabad, a hub of cultural diversity in Telangana, often sees its local community groups engaging with national debates on personal laws through which platform?",
+    "options": [
+      "Exclusive economic forums",
+      "Academic seminars and inter-faith dialogues",
+      "Military parades",
+      "International sports tournaments"
+    ],
+    "correctAnswer": "Academic seminars and inter-faith dialogues"
   },
   {
     "id": 24,
-    "question": "Funds generated from the UPI MDR are expected to contribute to the growth and development of new features and services within which Indian payment system?",
-    "options": ["NEFT", "RTGS", "UPI", "IMPS"],
-    "correctAnswer": "UPI"
+    "question": "The involvement of 'prominent citizens' from states like Telangana and Andhra Pradesh in national social campaigns primarily highlights the strength of which democratic institution?",
+    "options": [
+      "Bureaucracy",
+      "Civil Society",
+      "Military",
+      "Monarchy"
+    ],
+    "correctAnswer": "Civil Society"
   },
   {
     "id": 25,
-    "question": "The NPCI's move to introduce merchant fees for UPI is seen as a way to enhance what long-term aspect of the digital payments ecosystem?",
-    "options": ["Security features", "User privacy", "Regulatory oversight", "Sustainability and growth"],
-    "correctAnswer": "Sustainability and growth"
+    "question": "Which state-level autonomous body in Telangana and Andhra Pradesh is specifically constituted to safeguard and promote the interests of minority communities, often playing a role in discussions on personal laws?",
+    "options": [
+      "State Election Commission",
+      "State Human Rights Commission",
+      "State Minorities Commission",
+      "State Finance Commission"
+    ],
+    "correctAnswer": "State Minorities Commission"
   }
 ]

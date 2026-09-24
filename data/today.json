@@ -1,277 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which central regulatory body recently issued a warning about the indiscriminate use of painkillers and antibiotics in India, affecting public health nationwide?",
+    "question": "The ongoing controversy within the Election Commission of India, relevant to states like Telangana and Andhra Pradesh, primarily concerns which electoral process?",
     "options": [
-      "Medical Council of India (MCI)",
-      "Central Drugs Standard Control Organisation (CDSCO)",
-      "All India Institute of Medical Sciences (AIIMS)",
-      "Indian Council of Medical Research (ICMR)"
+      "Special Intensive Revision (SIR) exercise",
+      "Delimitation of constituencies",
+      "Electronic Voting Machine (EVM) deployment",
+      "Appointment of State Election Commissioners"
     ],
-    "correctAnswer": "Central Drugs Standard Control Organisation (CDSCO)"
+    "correctAnswer": "Special Intensive Revision (SIR) exercise"
   },
   {
     "id": 2,
-    "question": "According to the CDSCO warning, what significant health risk is primarily associated with the overuse of painkillers?",
+    "question": "Which specific document related to voter registration is alleged to have been manipulated through unauthorized amendments, impacting the integrity of voter rolls in all states, including Telangana and Andhra Pradesh?",
     "options": [
-      "Liver damage",
-      "Kidney damage",
-      "Heart failure",
-      "Lung complications"
+      "Form 16",
+      "Form 6",
+      "Form 32A",
+      "Form 49O"
     ],
-    "correctAnswer": "Kidney damage"
+    "correctAnswer": "Form 6"
   },
   {
     "id": 3,
-    "question": "Besides kidney risks from painkillers, what other critical health concern did the CDSCO highlight regarding medication misuse?",
+    "question": "Who is the current Chief Election Commissioner (CEC) against whom a police complaint has been filed regarding alleged voter roll manipulation, a matter of concern for elections in states like Andhra Pradesh?",
     "options": [
-      "Vitamin deficiency",
-      "Antibiotic misuse",
-      "Allergic reactions",
-      "Digestive issues"
-    ],
-    "correctAnswer": "Antibiotic misuse"
-  },
-  {
-    "id": 4,
-    "question": "The CDSCO's warning about antibiotic misuse is crucial because it contributes to what widespread public health problem in India?",
-    "options": [
-      "Malnutrition",
-      "Antimicrobial resistance",
-      "Viral infections",
-      "Mental health disorders"
-    ],
-    "correctAnswer": "Antimicrobial resistance"
-  },
-  {
-    "id": 5,
-    "question": "The Supreme Court recently referred a law concerning the appointment process of which significant constitutional body to a larger bench?",
-    "options": [
-      "Union Public Service Commission (UPSC)",
-      "Comptroller and Auditor General (CAG)",
-      "Election Commission (EC)",
-      "National Human Rights Commission (NHRC)"
-    ],
-    "correctAnswer": "Election Commission (EC)"
-  },
-  {
-    "id": 6,
-    "question": "What was the immediate reason for the Supreme Court's decision to refer the law on Election Commissioner appointments to a larger bench?",
-    "options": [
-      "A new government ordinance",
-      "A split verdict by the current bench",
-      "Public interest litigation",
-      "Demand from political parties"
-    ],
-    "correctAnswer": "A split verdict by the current bench"
-  },
-  {
-    "id": 7,
-    "question": "The news indicates that 'EC faultlines' and controversies surrounding the Election Commission have a historical context dating back to which specific year?",
-    "options": [
-      "1947",
-      "1975",
-      "1989",
-      "2004"
-    ],
-    "correctAnswer": "1989"
-  },
-  {
-    "id": 8,
-    "question": "The Congress-led opposition has demanded the ouster of an EC official named in the context of the recent controversy. Which name is implicitly referred to in the headline?",
-    "options": [
-      "Arun Goel",
-      "Rajiv Kumar",
+      "Sukhbir Singh Sandhu",
+      "Ashok Lavasa",
       "Gyanesh Kumar",
-      "Om Prakash Rawat"
+      "Vivek Joshi"
     ],
     "correctAnswer": "Gyanesh Kumar"
   },
   {
-    "id": 9,
-    "question": "What kind of investigation has the opposition demanded regarding the Election Commission's functioning, as per the news?",
+    "id": 4,
+    "question": "Which political personality filed a police complaint against Chief Election Commissioner Gyanesh Kumar, alleging manipulation of voter rolls?",
     "options": [
-      "CBI probe",
-      "Parliamentary committee probe",
-      "Supreme Court probe",
-      "Internal departmental inquiry"
+      "Sonia Gandhi",
+      "Mahua Moitra",
+      "Rahul Gandhi",
+      "Yogi Adityanath"
     ],
-    "correctAnswer": "Supreme Court probe"
+    "correctAnswer": "Mahua Moitra"
+  },
+  {
+    "id": 5,
+    "question": "What is the primary allegation made against CEC Gyanesh Kumar by Mahua Moitra, a concern that affects electoral accuracy in states like Telangana?",
+    "options": [
+      "Misuse of government funds",
+      "Manipulation of voter rolls",
+      "Interference in judicial appointments",
+      "Violations of campaign finance laws"
+    ],
+    "correctAnswer": "Manipulation of voter rolls"
+  },
+  {
+    "id": 6,
+    "question": "Which political party is reportedly reaching out to opposition parties to move an impeachment motion against the Chief Election Commissioner, reflecting a national concern that also impacts state elections?",
+    "options": [
+      "Bharatiya Janata Party (BJP)",
+      "Trinamool Congress (TMC)",
+      "Indian National Congress (INC)",
+      "Aam Aadmi Party (AAP)"
+    ],
+    "correctAnswer": "Indian National Congress (INC)"
+  },
+  {
+    "id": 7,
+    "question": "Who was the former Chief Election Commissioner in the 1990s whose legal battle over the multi-member poll panel is recalled in the context of current EC disagreements?",
+    "options": [
+      "SY Quraishi",
+      "Navin Chawla",
+      "TN Seshan",
+      "JM Lyngdoh"
+    ],
+    "correctAnswer": "TN Seshan"
+  },
+  {
+    "id": 8,
+    "question": "During which major election did Ashok Lavasa express dissent, an event mentioned as a precedent for current internal disagreements within the Election Commission?",
+    "options": [
+      "2004 Lok Sabha elections",
+      "2009 Lok Sabha elections",
+      "2014 Lok Sabha elections",
+      "2019 Lok Sabha elections"
+    ],
+    "correctAnswer": "2019 Lok Sabha elections"
+  },
+  {
+    "id": 9,
+    "question": "Which two Election Commissioners reportedly raised objections multiple times over 10 months to decisions and orders related to the Special Intensive Revision (SIR) exercise?",
+    "options": [
+      "Sunil Arora and Sushil Chandra",
+      "Rajiv Kumar and Anup Chandra Pandey",
+      "Sukhbir Singh Sandhu and Vivek Joshi",
+      "Om Prakash Rawat and Achal Kumar Joti"
+    ],
+    "correctAnswer": "Sukhbir Singh Sandhu and Vivek Joshi"
   },
   {
     "id": 10,
-    "question": "The 'SIR queries' mentioned in the context of the Election Commission controversy pertained to what stage of a process?",
+    "question": "The Congress party plans to hold 'protest marches to state ECs' on September 25 under the slogan 'Gyanesh must go'. These protests would directly involve the State Election Commissions in which regions?",
     "options": [
-      "Implementation stage",
-      "Final approval stage",
-      "Draft stage",
-      "Post-election review"
+      "Only Northern Indian states",
+      "All Indian states, including Telangana and Andhra Pradesh",
+      "Only states governed by opposition parties",
+      "Only the national capital, Delhi"
     ],
-    "correctAnswer": "Draft stage"
+    "correctAnswer": "All Indian states, including Telangana and Andhra Pradesh"
   },
   {
     "id": 11,
-    "question": "The recent Supreme Court scrutiny of the EC's appointment process underscores concerns about the independence of which crucial democratic institution in India?",
+    "question": "The 'SIR row' within the Election Commission primarily highlights concerns over what aspect of electoral management, critical for fair elections in states like Andhra Pradesh?",
     "options": [
-      "The Judiciary",
-      "The Legislature",
-      "The Executive",
-      "The Election Commission"
+      "Expenditure limits for candidates",
+      "Electronic voting machine security",
+      "Electoral-roll management and voter data access",
+      "Model Code of Conduct enforcement"
     ],
-    "correctAnswer": "The Election Commission"
+    "correctAnswer": "Electoral-roll management and voter data access"
   },
   {
     "id": 12,
-    "question": "What specific aspect of the Election Commission's structure or process is currently facing significant judicial and political scrutiny?",
+    "question": "In the context of the recent Election Commission controversies, what does 'SIR' commonly refer to?",
     "options": [
-      "Delimitation of constituencies",
-      "Voting machine technology",
-      "Appointment of Election Commissioners",
-      "Campaign finance regulations"
+      "Special Investigation Report",
+      "State Integrity Review",
+      "Special Intensive Revision",
+      "Systematic Inclusion Regulation"
     ],
-    "correctAnswer": "Appointment of Election Commissioners"
+    "correctAnswer": "Special Intensive Revision"
   },
   {
     "id": 13,
-    "question": "The Supreme Court's referral of the EC appointment law to a larger bench signals a major legal debate concerning which aspect of Indian governance?",
+    "question": "The Election Commission's role in conducting free and fair elections, including the management of voter rolls, is constitutionally mandated for which level of elections in India?",
     "options": [
-      "Fiscal policy",
-      "Foreign relations",
-      "Electoral integrity and constitutional appointments",
-      "Agricultural reforms"
+      "Only Lok Sabha elections",
+      "Only State Assembly elections",
+      "Both Lok Sabha and State Assembly elections",
+      "Only Panchayat and Municipal elections"
     ],
-    "correctAnswer": "Electoral integrity and constitutional appointments"
+    "correctAnswer": "Both Lok Sabha and State Assembly elections"
   },
   {
     "id": 14,
-    "question": "The opposition's demand for a Supreme Court probe into the EC's functioning is primarily related to concerns over what crucial democratic principle?",
+    "question": "Allegations of voter roll manipulation are particularly serious for states like Telangana and Andhra Pradesh because they could directly undermine:",
     "options": [
-      "Economic growth",
-      "Social welfare",
-      "Fairness and transparency of electoral processes",
-      "National security"
+      "Economic development projects",
+      "The integrity of democratic representation",
+      "Inter-state water sharing agreements",
+      "Judicial independence"
     ],
-    "correctAnswer": "Fairness and transparency of electoral processes"
+    "correctAnswer": "The integrity of democratic representation"
   },
   {
     "id": 15,
-    "question": "The death of Sahil Wakode, an IIT-B student, sparked protests due to allegations of what serious social issue?",
+    "question": "The Election Commission of India is a multi-member body. The recent disagreements have revived debates over how dissent is handled within this crucial institution, which affects its functioning in all states, including AP and Telangana. How many members typically constitute the ECI?",
     "options": [
-      "Ragging",
-      "Caste-based discrimination",
-      "Financial fraud",
-      "Academic pressure"
+      "One (Chief Election Commissioner only)",
+      "Two (Chief Election Commissioner and one Election Commissioner)",
+      "Three (Chief Election Commissioner and two Election Commissioners)",
+      "Five (Chief Election Commissioner and four Election Commissioners)"
     ],
-    "correctAnswer": "Caste-based discrimination"
+    "correctAnswer": "Three (Chief Election Commissioner and two Election Commissioners)"
   },
   {
     "id": 16,
-    "question": "Rahul Gandhi offered support to the parents of Sahil Wakode, a student from which renowned Indian educational institution?",
+    "question": "The controversy surrounding the Election Commission's decision-making and access to voter data is relevant to election transparency in which specific Indian states mentioned in the context of regional protests?",
     "options": [
-      "IIT Delhi",
-      "IIT Madras",
-      "IIT Bombay",
-      "IIT Kanpur"
+      "Goa, Delhi, and Uttar Pradesh",
+      "Telangana, Andhra Pradesh, and all other Indian states",
+      "Kerala, Tamil Nadu, and Karnataka",
+      "West Bengal, Assam, and Odisha"
     ],
-    "correctAnswer": "IIT Bombay"
+    "correctAnswer": "Telangana, Andhra Pradesh, and all other Indian states"
   },
   {
     "id": 17,
-    "question": "The protests following Sahil Wakode's death are primarily demanding what type of investigation into the incident?",
+    "question": "What is the constitutional provision that governs the appointment and removal of Election Commissioners, a topic indirectly highlighted by the recent calls for impeachment?",
     "options": [
-      "Internal college inquiry",
-      "Police investigation",
-      "Judicial review",
-      "Independent investigation"
+      "Article 124",
+      "Article 324",
+      "Article 356",
+      "Article 370"
     ],
-    "correctAnswer": "Independent investigation"
+    "correctAnswer": "Article 324"
   },
   {
     "id": 18,
-    "question": "The incident at IIT-B brings critical attention to the welfare and protection from discrimination of which demographic group within India's higher education system?",
+    "question": "The report indicating objections from Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi underlines a broader concern about what within the Election Commission, a body vital for states like Andhra Pradesh?",
     "options": [
-      "International students",
-      "Students from marginalized communities",
-      "Female students",
-      "Students with disabilities"
+      "Financial management practices",
+      "Logistical arrangements for elections",
+      "Internal dissent and decision-making processes",
+      "International election observation policies"
     ],
-    "correctAnswer": "Students from marginalized communities"
+    "correctAnswer": "Internal dissent and decision-making processes"
   },
   {
     "id": 19,
-    "question": "What negative social practice, prevalent across India, is highlighted by the allegations surrounding the IIT-B student's death?",
+    "question": "Why is the accuracy of voter rolls, currently under scrutiny with the SIR exercise, particularly important for the democratic process in states like Telangana that periodically hold elections?",
     "options": [
-      "Gender inequality",
-      "Regionalism",
-      "Caste discrimination",
-      "Religious extremism"
+      "It determines the state's budget allocation.",
+      "It ensures all eligible citizens can exercise their franchise and prevents fraudulent voting.",
+      "It influences the allocation of central government funds.",
+      "It dictates the number of electoral districts."
     ],
-    "correctAnswer": "Caste discrimination"
+    "correctAnswer": "It ensures all eligible citizens can exercise their franchise and prevents fraudulent voting."
   },
   {
     "id": 20,
-    "question": "What was Sahil Wakode's academic program and year at IIT-B at the time of the incident?",
+    "question": "The Congress party's call for rolling back the Special Intensive Revision (SIR) exercise is based on allegations of its flawed implementation, which could disproportionately affect voters in states such as:",
     "options": [
-      "First-year M.Tech student",
-      "Second-year B.Tech student",
-      "Third-year PhD scholar",
-      "Final-year MBA student"
+      "Gujarat and Maharashtra",
+      "Punjab and Haryana",
+      "Uttar Pradesh and Bihar",
+      "Andhra Pradesh and Telangana"
     ],
-    "correctAnswer": "Second-year B.Tech student"
+    "correctAnswer": "Andhra Pradesh and Telangana"
   },
   {
     "id": 21,
-    "question": "The CDSCO's public health warning regarding medication misuse is relevant for healthcare practices in all Indian states, including those in the southern region like Telangana and Andhra Pradesh. What is the primary focus of this warning?",
+    "question": "The Chief Election Commissioner's authority and role in the Election Commission have been subjects of debate, especially concerning large-scale roll revisions. This discussion is critical for ensuring electoral integrity in regions like:",
     "options": [
-      "Dietary supplements",
-      "Vaccine efficacy",
-      "Safe medication practices",
-      "Traditional remedies"
+      "Jammu & Kashmir",
+      "Delhi NCT",
+      "Andhra Pradesh and Telangana",
+      "Arunachal Pradesh"
     ],
-    "correctAnswer": "Safe medication practices"
+    "correctAnswer": "Andhra Pradesh and Telangana"
   },
   {
     "id": 22,
-    "question": "The ongoing judicial review concerning the Election Commission's appointment process in India directly impacts the conduct of elections in which administrative units?",
+    "question": "Which of the following is NOT an alleged concern related to the Special Intensive Revision (SIR) exercise, as highlighted in the recent news?",
     "options": [
-      "Only Union Territories",
-      "Only metropolitan cities",
-      "All states and Union Territories of India",
-      "Only states with upcoming elections"
+      "Unauthorized amendments to voter registration forms",
+      "Manipulation of voter rolls",
+      "Disagreements among Election Commissioners",
+      "Use of outdated voting machines"
     ],
-    "correctAnswer": "All states and Union Territories of India"
+    "correctAnswer": "Use of outdated voting machines"
   },
   {
     "id": 23,
-    "question": "The demand for an independent investigation into student deaths and alleged discrimination, as seen in the IIT-B case, is a call for greater accountability within which sector across India?",
+    "question": "The controversy surrounding the Election Commission emphasizes the importance of safeguards for voters during large-scale roll revisions. For residents of Telangana and Andhra Pradesh, these safeguards are crucial for:",
     "options": [
-      "Public administration",
-      "Corporate sector",
-      "Higher education institutions",
-      "Healthcare services"
+      "Ensuring fair pricing of essential commodities",
+      "Protecting their right to vote and preventing disenfranchisement",
+      "Streamlining the process for obtaining government subsidies",
+      "Facilitating inter-state migration"
     ],
-    "correctAnswer": "Higher education institutions"
+    "correctAnswer": "Protecting their right to vote and preventing disenfranchisement"
   },
   {
     "id": 24,
-    "question": "The controversy surrounding the Election Commission appointments, as discussed by the Supreme Court, is fundamentally about upholding what principle in India's democratic system?",
+    "question": "The 'backstory' of EC disagreements mentions TN Seshan's tenure. His period as CEC was notable for:",
     "options": [
-      "Economic liberalization",
-      "Federalism",
-      "Judicial independence",
-      "Free and fair elections"
+      "Introducing electronic voting machines",
+      "Strict enforcement of the Model Code of Conduct and electoral reforms",
+      "Overseeing the first Lok Sabha elections post-independence",
+      "Allowing political parties to directly influence voter roll revisions"
     ],
-    "correctAnswer": "Free and fair elections"
+    "correctAnswer": "Strict enforcement of the Model Code of Conduct and electoral reforms"
   },
   {
     "id": 25,
-    "question": "Which specific body in India is responsible for ensuring the quality and safety of drugs, including issuing warnings like the recent one on painkillers and antibiotics?",
+    "question": "The recent news highlights how internal dissent and transparency within the Election Commission are vital for maintaining public trust in the electoral process across India, including states like Telangana and Andhra Pradesh. Which principle is most directly threatened by allegations of voter roll manipulation?",
     "options": [
-      "National Centre for Disease Control (NCDC)",
-      "Food Safety and Standards Authority of India (FSSAI)",
-      "Ministry of Health and Family Welfare",
-      "Central Drugs Standard Control Organisation (CDSCO)"
+      "Separation of powers",
+      "Judicial review",
+      "Free and fair elections",
+      "Federalism"
     ],
-    "correctAnswer": "Central Drugs Standard Control Organisation (CDSCO)"
+    "correctAnswer": "Free and fair elections"
   }
 ]

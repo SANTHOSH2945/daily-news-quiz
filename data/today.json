@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The ongoing controversy within the Election Commission of India, relevant to states like Telangana and Andhra Pradesh, primarily concerns which electoral process?",
-    "options": [
-      "Special Intensive Revision (SIR) exercise",
-      "Delimitation of constituencies",
-      "Electronic Voting Machine (EVM) deployment",
-      "Appointment of State Election Commissioners"
-    ],
-    "correctAnswer": "Special Intensive Revision (SIR) exercise"
+    "question": "What recent government action has expanded the list of permitted chemicals for storage in India's coastal areas, directly impacting states like Andhra Pradesh?",
+    "options": ["A) Banning all chemical storage", "B) Restricting chemical imports", "C) Expanding permitted chemicals for storage", "D) Imposing new taxes on chemical industries"],
+    "correctAnswer": "C) Expanding permitted chemicals for storage"
   },
   {
     "id": 2,
-    "question": "Which specific document related to voter registration is alleged to have been manipulated through unauthorized amendments, impacting the integrity of voter rolls in all states, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Form 16",
-      "Form 6",
-      "Form 32A",
-      "Form 49O"
-    ],
-    "correctAnswer": "Form 6"
+    "question": "Which national regulatory body has proposed a restriction on using the term 'paneer' for products not made from milk-derived ingredients?",
+    "options": ["A) Bureau of Indian Standards (BIS)", "B) Food Safety and Standards Authority of India (FSSAI)", "C) Ministry of Agriculture", "D) National Dairy Development Board (NDDB)"],
+    "correctAnswer": "B) Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 3,
-    "question": "Who is the current Chief Election Commissioner (CEC) against whom a police complaint has been filed regarding alleged voter roll manipulation, a matter of concern for elections in states like Andhra Pradesh?",
-    "options": [
-      "Sukhbir Singh Sandhu",
-      "Ashok Lavasa",
-      "Gyanesh Kumar",
-      "Vivek Joshi"
-    ],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "The FSSAI's proposed amendment regarding the term 'paneer' primarily aims to address what concern for consumers in states like Telangana and Andhra Pradesh?",
+    "options": ["A) Nutritional deficiencies", "B) Misleading product names", "C) High product prices", "D) Shortage of dairy products"],
+    "correctAnswer": "B) Misleading product names"
   },
   {
     "id": 4,
-    "question": "Which political personality filed a police complaint against Chief Election Commissioner Gyanesh Kumar, alleging manipulation of voter rolls?",
-    "options": [
-      "Sonia Gandhi",
-      "Mahua Moitra",
-      "Rahul Gandhi",
-      "Yogi Adityanath"
-    ],
-    "correctAnswer": "Mahua Moitra"
+    "question": "According to the FSSAI's proposed regulation, from what must 'paneer' be exclusively derived to be labeled as such?",
+    "options": ["A) Plant-based proteins", "B) Milk-derived ingredients", "C) Synthetic compounds", "D) Fermented grains"],
+    "correctAnswer": "B) Milk-derived ingredients"
   },
   {
     "id": 5,
-    "question": "What is the primary allegation made against CEC Gyanesh Kumar by Mahua Moitra, a concern that affects electoral accuracy in states like Telangana?",
-    "options": [
-      "Misuse of government funds",
-      "Manipulation of voter rolls",
-      "Interference in judicial appointments",
-      "Violations of campaign finance laws"
-    ],
-    "correctAnswer": "Manipulation of voter rolls"
+    "question": "An ex-FSSAI chief suggested that food warnings should primarily drive what kind of change in food products across India?",
+    "options": ["A) Increased marketing", "B) Product reformulation", "C) Lower pricing", "D) Expansion of product lines"],
+    "correctAnswer": "B) Product reformulation"
   },
   {
     "id": 6,
-    "question": "Which political party is reportedly reaching out to opposition parties to move an impeachment motion against the Chief Election Commissioner, reflecting a national concern that also impacts state elections?",
-    "options": [
-      "Bharatiya Janata Party (BJP)",
-      "Trinamool Congress (TMC)",
-      "Indian National Congress (INC)",
-      "Aam Aadmi Party (AAP)"
-    ],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "The Supreme Court recently highlighted the need for cautious evaluations before immediate arrests under which specific act, particularly in marital disputes?",
+    "options": ["A) Domestic Violence Act", "B) Immoral Traffic (Prevention) Act", "C) Protection of Children from Sexual Offences (POCSO) Act", "D) Juvenile Justice Act"],
+    "correctAnswer": "C) Protection of Children from Sexual Offences (POCSO) Act"
   },
   {
     "id": 7,
-    "question": "Who was the former Chief Election Commissioner in the 1990s whose legal battle over the multi-member poll panel is recalled in the context of current EC disagreements?",
-    "options": [
-      "SY Quraishi",
-      "Navin Chawla",
-      "TN Seshan",
-      "JM Lyngdoh"
-    ],
-    "correctAnswer": "TN Seshan"
+    "question": "In marital conflict cases involving POCSO allegations, the Supreme Court emphasized the crucial role of what kind of expert assessment?",
+    "options": ["A) Financial audits", "B) Property valuations", "C) Child assessments", "D) Forensic investigations"],
+    "correctAnswer": "C) Child assessments"
   },
   {
     "id": 8,
-    "question": "During which major election did Ashok Lavasa express dissent, an event mentioned as a precedent for current internal disagreements within the Election Commission?",
-    "options": [
-      "2004 Lok Sabha elections",
-      "2009 Lok Sabha elections",
-      "2014 Lok Sabha elections",
-      "2019 Lok Sabha elections"
-    ],
-    "correctAnswer": "2019 Lok Sabha elections"
+    "question": "What concern did the Supreme Court express regarding the rising incidents in family disputes related to POCSO cases?",
+    "options": ["A) Lack of legal aid", "B) False allegations", "C) Delayed court proceedings", "D) Overburdened police forces"],
+    "correctAnswer": "B) False allegations"
   },
   {
     "id": 9,
-    "question": "Which two Election Commissioners reportedly raised objections multiple times over 10 months to decisions and orders related to the Special Intensive Revision (SIR) exercise?",
-    "options": [
-      "Sunil Arora and Sushil Chandra",
-      "Rajiv Kumar and Anup Chandra Pandey",
-      "Sukhbir Singh Sandhu and Vivek Joshi",
-      "Om Prakash Rawat and Achal Kumar Joti"
-    ],
-    "correctAnswer": "Sukhbir Singh Sandhu and Vivek Joshi"
+    "question": "Regarding POCSO cases in matrimonial conflicts, what has the Supreme Court urged police to confirm before making arrests?",
+    "options": ["A) Financial status of parents", "B) Relationship between parties", "C) Educational background", "D) Employment history"],
+    "correctAnswer": "B) Relationship between parties"
   },
   {
     "id": 10,
-    "question": "The Congress party plans to hold 'protest marches to state ECs' on September 25 under the slogan 'Gyanesh must go'. These protests would directly involve the State Election Commissions in which regions?",
-    "options": [
-      "Only Northern Indian states",
-      "All Indian states, including Telangana and Andhra Pradesh",
-      "Only states governed by opposition parties",
-      "Only the national capital, Delhi"
-    ],
-    "correctAnswer": "All Indian states, including Telangana and Andhra Pradesh"
+    "question": "What significant national policy document, impacting power supply in states like Telangana and Andhra Pradesh, has recently been moved for inter-ministerial consultation?",
+    "options": ["A) National Renewable Energy Policy", "B) National Electricity Policy", "C) National Water Policy", "D) National Digital Policy"],
+    "correctAnswer": "B) National Electricity Policy"
   },
   {
     "id": 11,
-    "question": "The 'SIR row' within the Election Commission primarily highlights concerns over what aspect of electoral management, critical for fair elections in states like Andhra Pradesh?",
-    "options": [
-      "Expenditure limits for candidates",
-      "Electronic voting machine security",
-      "Electoral-roll management and voter data access",
-      "Model Code of Conduct enforcement"
-    ],
-    "correctAnswer": "Electoral-roll management and voter data access"
+    "question": "What national body has faced recent accusations and criticisms regarding electoral integrity and alleged manipulation of voter rolls across various states?",
+    "options": ["A) Supreme Court of India", "B) Election Commission of India", "C) Union Public Service Commission", "D) Comptroller and Auditor General"],
+    "correctAnswer": "B) Election Commission of India"
   },
   {
     "id": 12,
-    "question": "In the context of the recent Election Commission controversies, what does 'SIR' commonly refer to?",
-    "options": [
-      "Special Investigation Report",
-      "State Integrity Review",
-      "Special Intensive Revision",
-      "Systematic Inclusion Regulation"
-    ],
-    "correctAnswer": "Special Intensive Revision"
+    "question": "Opposition parties have raised concerns about the reliability of which Election Commission software, following reported discrepancies in electoral rolls?",
+    "options": ["A) E-VoterNet", "B) ECINet", "C) PollMaster", "D) BallotSecure"],
+    "correctAnswer": "B) ECINet"
   },
   {
     "id": 13,
-    "question": "The Election Commission's role in conducting free and fair elections, including the management of voter rolls, is constitutionally mandated for which level of elections in India?",
-    "options": [
-      "Only Lok Sabha elections",
-      "Only State Assembly elections",
-      "Both Lok Sabha and State Assembly elections",
-      "Only Panchayat and Municipal elections"
-    ],
-    "correctAnswer": "Both Lok Sabha and State Assembly elections"
+    "question": "What specific process initially identified discrepancies leading to concerns about missing voters in the electoral rolls, as reported recently?",
+    "options": ["A) Annual Census Survey", "B) Special Intensive Revision", "C) Digital Voter Verification", "D) Post-Election Audit"],
+    "correctAnswer": "B) Special Intensive Revision"
   },
   {
     "id": 14,
-    "question": "Allegations of voter roll manipulation are particularly serious for states like Telangana and Andhra Pradesh because they could directly undermine:",
-    "options": [
-      "Economic development projects",
-      "The integrity of democratic representation",
-      "Inter-state water sharing agreements",
-      "Judicial independence"
-    ],
-    "correctAnswer": "The integrity of democratic representation"
+    "question": "In a recent ruling concerning political party disputes, what did the Supreme Court instruct the Election Commission to set, citing past delays?",
+    "options": ["A) New election dates", "B) A time limit for final decisions", "C) Fines for political parties", "D) New rules for alliances"],
+    "correctAnswer": "B) A time limit for final decisions"
   },
   {
     "id": 15,
-    "question": "The Election Commission of India is a multi-member body. The recent disagreements have revived debates over how dissent is handled within this crucial institution, which affects its functioning in all states, including AP and Telangana. How many members typically constitute the ECI?",
-    "options": [
-      "One (Chief Election Commissioner only)",
-      "Two (Chief Election Commissioner and one Election Commissioner)",
-      "Three (Chief Election Commissioner and two Election Commissioners)",
-      "Five (Chief Election Commissioner and four Election Commissioners)"
-    ],
-    "correctAnswer": "Three (Chief Election Commissioner and two Election Commissioners)"
+    "question": "Rahul Gandhi recently demanded the resignation of which specific official, citing concerns over electoral integrity?",
+    "options": ["A) Prime Minister", "B) Chief Election Commissioner", "C) Law Minister", "D) Home Minister"],
+    "correctAnswer": "B) Chief Election Commissioner"
   },
   {
     "id": 16,
-    "question": "The controversy surrounding the Election Commission's decision-making and access to voter data is relevant to election transparency in which specific Indian states mentioned in the context of regional protests?",
-    "options": [
-      "Goa, Delhi, and Uttar Pradesh",
-      "Telangana, Andhra Pradesh, and all other Indian states",
-      "Kerala, Tamil Nadu, and Karnataka",
-      "West Bengal, Assam, and Odisha"
-    ],
-    "correctAnswer": "Telangana, Andhra Pradesh, and all other Indian states"
+    "question": "The recent expansion of permitted chemicals for storage by the government is a policy change directly affecting industrial operations in which specific geographical zones of India?",
+    "options": ["A) Mountainous regions", "B) Desert areas", "C) Coastal areas", "D) Landlocked states"],
+    "correctAnswer": "C) Coastal areas"
   },
   {
     "id": 17,
-    "question": "What is the constitutional provision that governs the appointment and removal of Election Commissioners, a topic indirectly highlighted by the recent calls for impeachment?",
-    "options": [
-      "Article 124",
-      "Article 324",
-      "Article 356",
-      "Article 370"
-    ],
-    "correctAnswer": "Article 324"
+    "question": "As a national authority, what is the core responsibility of the FSSAI concerning food products consumed by citizens across all Indian states, including Andhra Pradesh?",
+    "options": ["A) Price regulation", "B) Export promotion", "C) Safety and standards enforcement", "D) Agricultural subsidies"],
+    "correctAnswer": "C) Safety and standards enforcement"
   },
   {
     "id": 18,
-    "question": "The report indicating objections from Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi underlines a broader concern about what within the Election Commission, a body vital for states like Andhra Pradesh?",
-    "options": [
-      "Financial management practices",
-      "Logistical arrangements for elections",
-      "Internal dissent and decision-making processes",
-      "International election observation policies"
-    ],
-    "correctAnswer": "Internal dissent and decision-making processes"
+    "question": "The incident of missing voters in electoral rolls, despite follow-up visits registering eligible voters, raised concerns about the reliability of what broader process?",
+    "options": ["A) Voter turnout", "B) Electoral registration procedures", "C) Campaign finance", "D) Electronic voting machines"],
+    "correctAnswer": "B) Electoral registration procedures"
   },
   {
     "id": 19,
-    "question": "Why is the accuracy of voter rolls, currently under scrutiny with the SIR exercise, particularly important for the democratic process in states like Telangana that periodically hold elections?",
-    "options": [
-      "It determines the state's budget allocation.",
-      "It ensures all eligible citizens can exercise their franchise and prevents fraudulent voting.",
-      "It influences the allocation of central government funds.",
-      "It dictates the number of electoral districts."
-    ],
-    "correctAnswer": "It ensures all eligible citizens can exercise their franchise and prevents fraudulent voting."
+    "question": "In its recent observations on POCSO cases in marital disputes, the Supreme Court emphasized the importance of in-depth investigations prioritizing what?",
+    "options": ["A) Parental rights", "B) Children's welfare", "C) Spousal reconciliation", "D) Financial settlements"],
+    "correctAnswer": "B) Children's welfare"
   },
   {
     "id": 20,
-    "question": "The Congress party's call for rolling back the Special Intensive Revision (SIR) exercise is based on allegations of its flawed implementation, which could disproportionately affect voters in states such as:",
-    "options": [
-      "Gujarat and Maharashtra",
-      "Punjab and Haryana",
-      "Uttar Pradesh and Bihar",
-      "Andhra Pradesh and Telangana"
-    ],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "The Draft National Electricity Policy has been moved for 'inter-ministerial consultation'. What does this phrase imply about the policy's status?",
+    "options": ["A) It has been finalized", "B) It is being reviewed by various government departments", "C) It has been rejected", "D) It is only applicable to certain states"],
+    "correctAnswer": "B) It is being reviewed by various government departments"
   },
   {
     "id": 21,
-    "question": "The Chief Election Commissioner's authority and role in the Election Commission have been subjects of debate, especially concerning large-scale roll revisions. This discussion is critical for ensuring electoral integrity in regions like:",
-    "options": [
-      "Jammu & Kashmir",
-      "Delhi NCT",
-      "Andhra Pradesh and Telangana",
-      "Arunachal Pradesh"
-    ],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "Beyond 'paneer', what general objective underpins FSSAI's efforts to ensure clarity and accuracy in product labeling for consumers nationwide?",
+    "options": ["A) Reducing food waste", "B) Boosting agricultural output", "C) Protecting consumers from misleading information", "D) Promoting international trade"],
+    "correctAnswer": "C) Protecting consumers from misleading information"
   },
   {
     "id": 22,
-    "question": "Which of the following is NOT an alleged concern related to the Special Intensive Revision (SIR) exercise, as highlighted in the recent news?",
-    "options": [
-      "Unauthorized amendments to voter registration forms",
-      "Manipulation of voter rolls",
-      "Disagreements among Election Commissioners",
-      "Use of outdated voting machines"
-    ],
-    "correctAnswer": "Use of outdated voting machines"
+    "question": "The expansion of permitted chemicals for storage in coastal areas indicates a government effort to balance environmental concerns with what other aspect?",
+    "options": ["A) Tourism development", "B) Industrial growth", "C) Fishing regulations", "D) Urbanization"],
+    "correctAnswer": "B) Industrial growth"
   },
   {
     "id": 23,
-    "question": "The controversy surrounding the Election Commission emphasizes the importance of safeguards for voters during large-scale roll revisions. For residents of Telangana and Andhra Pradesh, these safeguards are crucial for:",
-    "options": [
-      "Ensuring fair pricing of essential commodities",
-      "Protecting their right to vote and preventing disenfranchisement",
-      "Streamlining the process for obtaining government subsidies",
-      "Facilitating inter-state migration"
-    ],
-    "correctAnswer": "Protecting their right to vote and preventing disenfranchisement"
+    "question": "What is one of the primary responsibilities of the Election Commission of India, a body whose functioning has been under scrutiny across the nation?",
+    "options": ["A) Appointing state governors", "B) Conducting free and fair elections", "C) Managing national finances", "D) Implementing social welfare schemes"],
+    "correctAnswer": "B) Conducting free and fair elections"
   },
   {
     "id": 24,
-    "question": "The 'backstory' of EC disagreements mentions TN Seshan's tenure. His period as CEC was notable for:",
-    "options": [
-      "Introducing electronic voting machines",
-      "Strict enforcement of the Model Code of Conduct and electoral reforms",
-      "Overseeing the first Lok Sabha elections post-independence",
-      "Allowing political parties to directly influence voter roll revisions"
-    ],
-    "correctAnswer": "Strict enforcement of the Model Code of Conduct and electoral reforms"
+    "question": "The Supreme Court's emphasis on prompt resolution of political party symbol disputes by the Election Commission aims to prevent what negative outcome?",
+    "options": ["A) Increased party funding", "B) Delays similar to past high-profile cases", "C) International interference", "D) Early elections"],
+    "correctAnswer": "B) Delays similar to past high-profile cases"
   },
   {
     "id": 25,
-    "question": "The recent news highlights how internal dissent and transparency within the Election Commission are vital for maintaining public trust in the electoral process across India, including states like Telangana and Andhra Pradesh. Which principle is most directly threatened by allegations of voter roll manipulation?",
-    "options": [
-      "Separation of powers",
-      "Judicial review",
-      "Free and fair elections",
-      "Federalism"
-    ],
-    "correctAnswer": "Free and fair elections"
+    "question": "National policies like the Draft National Electricity Policy and FSSAI regulations are significant for states like Telangana and Andhra Pradesh because they define what aspects?",
+    "options": ["A) Only cultural heritage", "B) State borders and demographics", "C) Regulatory frameworks for essential services and consumer goods", "D) International relations"],
+    "correctAnswer": "C) Regulatory frameworks for essential services and consumer goods"
   }
 ]

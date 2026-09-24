@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "The Supreme Court recently referred the law on Election Commissioner appointments to a larger bench. How might the outcome of this decision impact the conduct of state assembly elections in regions like Telangana and Andhra Pradesh?",
-    "options": ["It could alter the independence and neutrality of the body overseeing state elections.", "It might solely affect Lok Sabha elections, not state polls.", "It would change the electoral symbols for regional parties.", "It only concerns administrative procedures within the ECI, not its functions."],
-    "correctAnswer": "It could alter the independence and neutrality of the body overseeing state elections."
+    "question": "Which central regulatory body recently issued a warning about the indiscriminate use of painkillers and antibiotics in India, affecting public health nationwide?",
+    "options": [
+      "Medical Council of India (MCI)",
+      "Central Drugs Standard Control Organisation (CDSCO)",
+      "All India Institute of Medical Sciences (AIIMS)",
+      "Indian Council of Medical Research (ICMR)"
+    ],
+    "correctAnswer": "Central Drugs Standard Control Organisation (CDSCO)"
   },
   {
     "id": 2,
-    "question": "The news highlights 'faultlines' in the Election Commission's history. Why is a robust and independent Election Commission crucial for democratic processes in states such as Andhra Pradesh and Telangana?",
-    "options": ["It ensures fair and free elections, preventing undue influence in state polls.", "It determines the economic policies for states.", "It directly appoints Chief Ministers for states.", "It manages state-specific disaster relief funds."],
-    "correctAnswer": "It ensures fair and free elections, preventing undue influence in state polls."
+    "question": "According to the CDSCO warning, what significant health risk is primarily associated with the overuse of painkillers?",
+    "options": [
+      "Liver damage",
+      "Kidney damage",
+      "Heart failure",
+      "Lung complications"
+    ],
+    "correctAnswer": "Kidney damage"
   },
   {
     "id": 3,
-    "question": "The Supreme Court's involvement in the EC appointment process is significant. In the context of states like Telangana, what is the Supreme Court's general role when constitutional matters related to central bodies, impacting states, are raised?",
-    "options": ["To provide advisory opinions without binding force.", "To interpret the Constitution and ensure adherence to its principles across the nation.", "To directly administer state elections.", "To legislate on matters concerning state boundaries."],
-    "correctAnswer": "To interpret the Constitution and ensure adherence to its principles across the nation."
+    "question": "Besides kidney risks from painkillers, what other critical health concern did the CDSCO highlight regarding medication misuse?",
+    "options": [
+      "Vitamin deficiency",
+      "Antibiotic misuse",
+      "Allergic reactions",
+      "Digestive issues"
+    ],
+    "correctAnswer": "Antibiotic misuse"
   },
   {
     "id": 4,
-    "question": "The Supreme Court has expressed concern over allegations regarding the transfer of Bar Council of India (BCI) assets. Which professional group in Telangana and Andhra Pradesh is directly regulated by the Bar Council of India?",
-    "options": ["Doctors", "Engineers", "Lawyers", "Teachers"],
-    "correctAnswer": "Lawyers"
+    "question": "The CDSCO's warning about antibiotic misuse is crucial because it contributes to what widespread public health problem in India?",
+    "options": [
+      "Malnutrition",
+      "Antimicrobial resistance",
+      "Viral infections",
+      "Mental health disorders"
+    ],
+    "correctAnswer": "Antimicrobial resistance"
   },
   {
     "id": 5,
-    "question": "What is the primary function of the Bar Council of India, whose asset transfer issues are a concern for the SC, relevant to legal professionals in states like Andhra Pradesh?",
-    "options": ["To conduct state judicial service examinations.", "To regulate legal education and professional conduct of lawyers across India.", "To fund legal aid societies exclusively in state courts.", "To appoint judges to state High Courts."],
-    "correctAnswer": "To regulate legal education and professional conduct of lawyers across India."
+    "question": "The Supreme Court recently referred a law concerning the appointment process of which significant constitutional body to a larger bench?",
+    "options": [
+      "Union Public Service Commission (UPSC)",
+      "Comptroller and Auditor General (CAG)",
+      "Election Commission (EC)",
+      "National Human Rights Commission (NHRC)"
+    ],
+    "correctAnswer": "Election Commission (EC)"
   },
   {
     "id": 6,
-    "question": "The Supreme Court commented on expecting an early ruling from the Speaker on 'TMC rebels'. This principle of Speaker's authority is crucial in state legislatures too. What common legislative function does a Speaker perform in both the Lok Sabha and a State Assembly (like Telangana's)?",
-    "options": ["Approving the state budget", "Adjudicating on disqualification petitions under the anti-defection law", "Appointing state cabinet ministers", "Directing police operations in the state"],
-    "correctAnswer": "Adjudicating on disqualification petitions under the anti-defection law"
+    "question": "What was the immediate reason for the Supreme Court's decision to refer the law on Election Commissioner appointments to a larger bench?",
+    "options": [
+      "A new government ordinance",
+      "A split verdict by the current bench",
+      "Public interest litigation",
+      "Demand from political parties"
+    ],
+    "correctAnswer": "A split verdict by the current bench"
   },
   {
     "id": 7,
-    "question": "The news mentions Election Commission 'faultlines' dating back to 1989. What is the historical significance of challenges to the ECI's functioning for the fairness of elections in Indian states, including those in the South?",
-    "options": ["They indicate a continuous need for checks and balances to maintain electoral integrity.", "They are merely political rhetoric with no real impact on elections.", "They primarily concern national security, not state elections.", "They only apply to elections before the year 2000."],
-    "correctAnswer": "They indicate a continuous need for checks and balances to maintain electoral integrity."
+    "question": "The news indicates that 'EC faultlines' and controversies surrounding the Election Commission have a historical context dating back to which specific year?",
+    "options": [
+      "1947",
+      "1975",
+      "1989",
+      "2004"
+    ],
+    "correctAnswer": "1989"
   },
   {
     "id": 8,
-    "question": "The news mentions the Congress-led opposition demanding Gyanesh's ouster and the BJP defending the EC. How do political party stances on the ECI often relate to electoral outcomes and governance in states like Andhra Pradesh?",
-    "options": ["They influence public perception of electoral fairness, which can impact voter trust in state governments.", "They directly determine the allocation of central funds to states.", "They decide the appointment of district collectors in states.", "They are irrelevant to state-level politics."],
-    "correctAnswer": "They influence public perception of electoral fairness, which can impact voter trust in state governments."
+    "question": "The Congress-led opposition has demanded the ouster of an EC official named in the context of the recent controversy. Which name is implicitly referred to in the headline?",
+    "options": [
+      "Arun Goel",
+      "Rajiv Kumar",
+      "Gyanesh Kumar",
+      "Om Prakash Rawat"
+    ],
+    "correctAnswer": "Gyanesh Kumar"
   },
   {
     "id": 9,
-    "question": "When the Supreme Court refers a law like the EC appointment to a larger bench, what does this signify about the importance of the issue for the overall constitutional framework governing states like Telangana?",
-    "options": ["It means the issue is of minor legal consequence.", "It indicates a matter of significant constitutional interpretation with far-reaching implications.", "It suggests the court lacks jurisdiction over the matter.", "It is a routine administrative step with no deeper meaning."],
-    "correctAnswer": "It indicates a matter of significant constitutional interpretation with far-reaching implications."
+    "question": "What kind of investigation has the opposition demanded regarding the Election Commission's functioning, as per the news?",
+    "options": [
+      "CBI probe",
+      "Parliamentary committee probe",
+      "Supreme Court probe",
+      "Internal departmental inquiry"
+    ],
+    "correctAnswer": "Supreme Court probe"
   },
   {
     "id": 10,
-    "question": "The Congress-led opposition's demand for Gyanesh's ouster highlights the role of opposition parties in democratic oversight. Why is this oversight important for the functioning of independent bodies like the ECI, particularly for elections in states like Andhra Pradesh?",
-    "options": ["It ensures that only the ruling party's agenda is followed.", "It helps in scrutinizing institutional integrity and holding officials accountable.", "It is a mere formality without practical implications.", "It directs the ECI on how to conduct elections."],
-    "correctAnswer": "It helps in scrutinizing institutional integrity and holding officials accountable."
+    "question": "The 'SIR queries' mentioned in the context of the Election Commission controversy pertained to what stage of a process?",
+    "options": [
+      "Implementation stage",
+      "Final approval stage",
+      "Draft stage",
+      "Post-election review"
+    ],
+    "correctAnswer": "Draft stage"
   },
   {
     "id": 11,
-    "question": "In the context of election management in states like Andhra Pradesh, which key responsibility does the Election Commission of India directly hold?",
-    "options": ["Appointing the Governor of the state", "Preparing electoral rolls and conducting elections to the State Legislative Assembly", "Approving the state's annual financial budget", "Managing the state's public distribution system"],
-    "correctAnswer": "Preparing electoral rolls and conducting elections to the State Legislative Assembly"
+    "question": "The recent Supreme Court scrutiny of the EC's appointment process underscores concerns about the independence of which crucial democratic institution in India?",
+    "options": [
+      "The Judiciary",
+      "The Legislature",
+      "The Executive",
+      "The Election Commission"
+    ],
+    "correctAnswer": "The Election Commission"
   },
   {
     "id": 12,
-    "question": "The split verdict by the Supreme Court on EC appointment suggests a complex legal matter. How does a Supreme Court ruling on a constitutional body like the ECI set a precedent for states like Telangana?",
-    "options": ["It has no bearing on state-level administration.", "It provides a legal framework and interpretation that states must adhere to when dealing with similar constitutional issues.", "It empowers state governments to overrule central bodies.", "It changes the administrative structure of state secretariats."],
-    "correctAnswer": "It provides a legal framework and interpretation that states must adhere to when dealing with similar constitutional issues."
+    "question": "What specific aspect of the Election Commission's structure or process is currently facing significant judicial and political scrutiny?",
+    "options": [
+      "Delimitation of constituencies",
+      "Voting machine technology",
+      "Appointment of Election Commissioners",
+      "Campaign finance regulations"
+    ],
+    "correctAnswer": "Appointment of Election Commissioners"
   },
   {
     "id": 13,
-    "question": "If allegations of BCI asset transfer are proven to be a concern, what direct impact could it have on legal education and professional standards in law colleges across states such as Telangana?",
-    "options": ["It would lead to the closure of all law colleges.", "It could compromise the regulatory oversight and accreditation standards for legal education.", "It would exclusively affect lawyers practicing in the Supreme Court.", "It would increase the number of judicial vacancies in state courts."],
-    "correctAnswer": "It could compromise the regulatory oversight and accreditation standards for legal education."
+    "question": "The Supreme Court's referral of the EC appointment law to a larger bench signals a major legal debate concerning which aspect of Indian governance?",
+    "options": [
+      "Fiscal policy",
+      "Foreign relations",
+      "Electoral integrity and constitutional appointments",
+      "Agricultural reforms"
+    ],
+    "correctAnswer": "Electoral integrity and constitutional appointments"
   },
   {
     "id": 14,
-    "question": "The debate around the ECI's functioning is vital for Indian democracy. For states like Andhra Pradesh, how does the perceived independence of the ECI contribute to the legitimacy of democratic governance?",
-    "options": ["By ensuring that the ruling party always wins elections.", "By fostering public trust in electoral outcomes and the fairness of the political process.", "By allowing external interference in state affairs.", "By reducing the need for voter participation."],
-    "correctAnswer": "By fostering public trust in electoral outcomes and the fairness of the political process."
+    "question": "The opposition's demand for a Supreme Court probe into the EC's functioning is primarily related to concerns over what crucial democratic principle?",
+    "options": [
+      "Economic growth",
+      "Social welfare",
+      "Fairness and transparency of electoral processes",
+      "National security"
+    ],
+    "correctAnswer": "Fairness and transparency of electoral processes"
   },
   {
     "id": 15,
-    "question": "The Supreme Court's 'cannot direct Speaker but expect early ruling' comment, while concerning TMC, highlights the delicate balance of powers. How is this principle generally applicable to the Speaker of the Telangana State Legislative Assembly regarding disqualification petitions?",
-    "options": ["The Speaker must always follow the Supreme Court's direct orders.", "The Speaker has exclusive powers in such matters but is expected to act promptly and impartially.", "The Governor has the final say in such matters, not the Speaker.", "The Chief Minister can overrule the Speaker's decision."],
-    "correctAnswer": "The Speaker has exclusive powers in such matters but is expected to act promptly and impartially."
+    "question": "The death of Sahil Wakode, an IIT-B student, sparked protests due to allegations of what serious social issue?",
+    "options": [
+      "Ragging",
+      "Caste-based discrimination",
+      "Financial fraud",
+      "Academic pressure"
+    ],
+    "correctAnswer": "Caste-based discrimination"
   },
   {
     "id": 16,
-    "question": "The discussions around the Election Commission of India and the Bar Council of India underscore the role of central institutions. Why are these central institutions particularly relevant for the proper functioning of democracy and legal systems in *every* Indian state, including Telangana and Andhra Pradesh?",
-    "options": ["They dictate the cultural policies of the states.", "They provide a uniform regulatory framework and uphold constitutional principles across all states.", "They are only advisory bodies with no real power in states.", "They exclusively manage international relations for the states."],
-    "correctAnswer": "They provide a uniform regulatory framework and uphold constitutional principles across all states."
+    "question": "Rahul Gandhi offered support to the parents of Sahil Wakode, a student from which renowned Indian educational institution?",
+    "options": [
+      "IIT Delhi",
+      "IIT Madras",
+      "IIT Bombay",
+      "IIT Kanpur"
+    ],
+    "correctAnswer": "IIT Bombay"
   },
   {
     "id": 17,
-    "question": "The Supreme Court's statement 'cannot direct Speaker but expect early ruling' demonstrates judicial restraint while expressing concern. In the context of state legislatures in Andhra Pradesh, what does this approach imply about the judiciary's role concerning legislative autonomy?",
-    "options": ["The judiciary can directly intervene and command the legislature.", "The judiciary respects legislative autonomy but can express expectations for timely and lawful action.", "The judiciary has no role in legislative matters whatsoever.", "The executive branch can dictate judicial decisions on legislative matters."],
-    "correctAnswer": "The judiciary respects legislative autonomy but can express expectations for timely and lawful action."
+    "question": "The protests following Sahil Wakode's death are primarily demanding what type of investigation into the incident?",
+    "options": [
+      "Internal college inquiry",
+      "Police investigation",
+      "Judicial review",
+      "Independent investigation"
+    ],
+    "correctAnswer": "Independent investigation"
   },
   {
     "id": 18,
-    "question": "The EC stated that 'SIR queries raised, but pertained to draft stage.' Why is transparency in the decision-making process of the ECI important for voter confidence in states like Telangana?",
-    "options": ["It ensures that only the ruling party's views are considered.", "It builds trust in the fairness of electoral processes and outcomes.", "It primarily concerns international observers, not local voters.", "It speeds up the counting of votes."],
-    "correctAnswer": "It builds trust in the fairness of electoral processes and outcomes."
+    "question": "The incident at IIT-B brings critical attention to the welfare and protection from discrimination of which demographic group within India's higher education system?",
+    "options": [
+      "International students",
+      "Students from marginalized communities",
+      "Female students",
+      "Students with disabilities"
+    ],
+    "correctAnswer": "Students from marginalized communities"
   },
   {
     "id": 19,
-    "question": "When allegations are raised against a central body like the ECI or BCI, what could be the broader implication for public trust in governance and institutions within states like Andhra Pradesh?",
-    "options": ["It has no impact, as state and central institutions are entirely separate.", "It can erode public trust in the integrity of the overall democratic and legal framework.", "It only affects the perceived integrity of national leaders, not state leaders.", "It automatically leads to the dismissal of state government officials."],
-    "correctAnswer": "It can erode public trust in the integrity of the overall democratic and legal framework."
+    "question": "What negative social practice, prevalent across India, is highlighted by the allegations surrounding the IIT-B student's death?",
+    "options": [
+      "Gender inequality",
+      "Regionalism",
+      "Caste discrimination",
+      "Religious extremism"
+    ],
+    "correctAnswer": "Caste discrimination"
   },
   {
     "id": 20,
-    "question": "The law governing the appointment of Election Commissioners is being scrutinized by the SC. Why is the constitutional validity of laws governing bodies like the ECI critical for the democratic functioning of states like Telangana?",
-    "options": ["It determines the state's budget allocation.", "It ensures that the foundations of democratic elections are fair and legally sound.", "It primarily impacts international relations.", "It only concerns union territories."],
-    "correctAnswer": "It ensures that the foundations of democratic elections are fair and legally sound."
+    "question": "What was Sahil Wakode's academic program and year at IIT-B at the time of the incident?",
+    "options": [
+      "First-year M.Tech student",
+      "Second-year B.Tech student",
+      "Third-year PhD scholar",
+      "Final-year MBA student"
+    ],
+    "correctAnswer": "Second-year B.Tech student"
   },
   {
     "id": 21,
-    "question": "The Supreme Court's concern regarding BCI assets points to potential issues in the legal profession's regulatory body. Why is maintaining high ethical standards in the legal profession, as overseen by the BCI, vital for citizens in states like Andhra Pradesh?",
-    "options": ["It guarantees all citizens free legal aid.", "It ensures justice delivery and protects the rights of individuals in the state.", "It directly influences state agricultural policies.", "It only affects corporate law firms."],
-    "correctAnswer": "It ensures justice delivery and protects the rights of individuals in the state."
+    "question": "The CDSCO's public health warning regarding medication misuse is relevant for healthcare practices in all Indian states, including those in the southern region like Telangana and Andhra Pradesh. What is the primary focus of this warning?",
+    "options": [
+      "Dietary supplements",
+      "Vaccine efficacy",
+      "Safe medication practices",
+      "Traditional remedies"
+    ],
+    "correctAnswer": "Safe medication practices"
   },
   {
     "id": 22,
-    "question": "The opposition's demand for accountability from the ECI is a key democratic practice. How does such accountability help ensure free and fair elections in states like Telangana?",
-    "options": ["By allowing the government to control election outcomes.", "By holding election officials responsible for their actions and decisions.", "By solely focusing on voter registration.", "By eliminating the need for political parties."],
-    "correctAnswer": "By holding election officials responsible for their actions and decisions."
+    "question": "The ongoing judicial review concerning the Election Commission's appointment process in India directly impacts the conduct of elections in which administrative units?",
+    "options": [
+      "Only Union Territories",
+      "Only metropolitan cities",
+      "All states and Union Territories of India",
+      "Only states with upcoming elections"
+    ],
+    "correctAnswer": "All states and Union Territories of India"
   },
   {
     "id": 23,
-    "question": "Any significant ruling by the Supreme Court, such as on the BCI, directly influences the legal system. How does this impact the functioning of High Courts and subordinate courts in states like Andhra Pradesh?",
-    "options": ["Supreme Court rulings have no impact on state courts.", "State courts are bound by the precedents and interpretations set by the Supreme Court.", "Only constitutional amendments affect state courts.", "State courts follow international law exclusively."],
-    "correctAnswer": "State courts are bound by the precedents and interpretations set by the Supreme Court."
+    "question": "The demand for an independent investigation into student deaths and alleged discrimination, as seen in the IIT-B case, is a call for greater accountability within which sector across India?",
+    "options": [
+      "Public administration",
+      "Corporate sector",
+      "Higher education institutions",
+      "Healthcare services"
+    ],
+    "correctAnswer": "Higher education institutions"
   },
   {
     "id": 24,
-    "question": "The defense of the EC by BJP and criticism by Congress reflect ongoing political debates. How do these debates, concerning the integrity of national institutions like the ECI, affect the political landscape in states such as Telangana?",
-    "options": ["They distract from local issues entirely.", "They shape public discourse and perceptions about electoral fairness, potentially influencing state election campaigns.", "They directly lead to the dissolution of state assemblies.", "They only concern national political parties and not regional ones."],
-    "correctAnswer": "They shape public discourse and perceptions about electoral fairness, potentially influencing state election campaigns."
+    "question": "The controversy surrounding the Election Commission appointments, as discussed by the Supreme Court, is fundamentally about upholding what principle in India's democratic system?",
+    "options": [
+      "Economic liberalization",
+      "Federalism",
+      "Judicial independence",
+      "Free and fair elections"
+    ],
+    "correctAnswer": "Free and fair elections"
   },
   {
     "id": 25,
-    "question": "The Supreme Court referred the EC appointment law to a 'larger bench'. What is the significance of referring a matter to a larger bench of the Supreme Court for constitutional issues, affecting bodies relevant to states like Andhra Pradesh?",
-    "options": ["It means the case is being dismissed.", "It signifies a complex legal question requiring a more authoritative and comprehensive judicial review.", "It is a procedure for sending the case back to a lower court.", "It is a step taken only for international disputes."],
-    "correctAnswer": "It signifies a complex legal question requiring a more authoritative and comprehensive judicial review."
+    "question": "Which specific body in India is responsible for ensuring the quality and safety of drugs, including issuing warnings like the recent one on painkillers and antibiotics?",
+    "options": [
+      "National Centre for Disease Control (NCDC)",
+      "Food Safety and Standards Authority of India (FSSAI)",
+      "Ministry of Health and Family Welfare",
+      "Central Drugs Standard Control Organisation (CDSCO)"
+    ],
+    "correctAnswer": "Central Drugs Standard Control Organisation (CDSCO)"
   }
 ]

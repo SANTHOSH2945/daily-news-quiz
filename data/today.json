@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the Chief Election Commissioner currently facing protests and calls for resignation from opposition parties?",
-    "options": ["Rajiv Kumar", "Sushil Chandra", "Gyanesh Kumar", "Sunil Arora"],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "Which regulatory body recently launched a platform to rate buildings based on their digital connectivity across India, including states like Telangana and Andhra Pradesh?",
+    "options": ["RBI", "SEBI", "TRAI", "IRDAI"],
+    "correctAnswer": "TRAI"
   },
   {
     "id": 2,
-    "question": "The opposition's criticism against the Election Commission primarily revolves around alleged flaws in which specific electoral process, impacting voter lists in states like Telangana and Andhra Pradesh?",
-    "options": ["Voter ID Card issuance", "Special Intensive Revision (SIR) of electoral rolls", "EVM procurement", "Election funding transparency"],
-    "correctAnswer": "Special Intensive Revision (SIR) of electoral rolls"
+    "question": "The new platform introduced by TRAI is designed to assess what specific aspect of buildings?",
+    "options": ["Structural integrity", "Digital connectivity", "Energy efficiency", "Fire safety"],
+    "correctAnswer": "Digital connectivity"
   },
   {
     "id": 3,
-    "question": "Union Minister Chirag Paswan urged the Election Commission to 'firmly present its side' to maintain what crucial aspect amidst the SIR row?",
-    "options": ["Political party affiliations", "Public confidence in election integrity", "Government funding for elections", "International observer status"],
-    "correctAnswer": "Public confidence in election integrity"
+    "question": "TRAI's initiative to rate buildings on digital connectivity primarily aims to benefit which sector, relevant to urban development in states like Andhra Pradesh?",
+    "options": ["Real estate and telecommunications", "Automotive manufacturing", "Agriculture technology", "Healthcare services"],
+    "correctAnswer": "Real estate and telecommunications"
   },
   {
     "id": 4,
-    "question": "Which political party spearheaded the protests in Delhi, putting up posters demanding the removal of Chief Election Commissioner Gyanesh Kumar?",
-    "options": ["Bharatiya Janata Party (BJP)", "Bahujan Samaj Party (BSP)", "Indian National Congress", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "What does the acronym TRAI stand for, the body responsible for digital connectivity ratings across Indian states?",
+    "options": ["Telecom Regulatory Authority of India", "Trade and Revenue Administration Institute", "Technical Research and Analytics Initiative", "Transport Regulation and Infrastructure"],
+    "correctAnswer": "Telecom Regulatory Authority of India"
   },
   {
     "id": 5,
-    "question": "Protests and poster campaigns targeting Chief Election Commissioner Gyanesh Kumar were specifically reported in which Indian city?",
-    "options": ["Mumbai", "Kolkata", "Chennai", "Delhi"],
-    "correctAnswer": "Delhi"
+    "question": "An Air India pilot was recently suspended for being found intoxicated before operating a flight from which major European city?",
+    "options": ["London", "Paris", "Zurich", "Frankfurt"],
+    "correctAnswer": "Zurich"
   },
   {
     "id": 6,
-    "question": "Rahul Gandhi, during a press conference, voiced serious allegations against CEC Gyanesh Kumar concerning what issue?",
-    "options": ["Mismanagement of election funds", "Electoral misconduct", "Delay in election scheduling", "Lack of security during polls"],
-    "correctAnswer": "Electoral misconduct"
+    "question": "The Air India flight incident involved a pilot found tipsy before a flight bound for which major Indian city?",
+    "options": ["Mumbai", "Bengaluru", "Delhi", "Chennai"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 7,
-    "question": "What slogan was prominently displayed on posters put up by the Congress party against Chief Election Commissioner Gyanesh Kumar?",
-    "options": ["'Democracy Bachao, India Jitao'", "'Gyanesh Kumar Hatao, EC Bachao'", "'Vote For Change, Vote For Progress'", "'Electoral Reforms Now'"],
-    "correctAnswer": "'Gyanesh Kumar Hatao, EC Bachao'"
+    "question": "The suspension of the Air India pilot highlights concerns regarding safety regulations for which profession in India, a matter applicable to all states including Telangana?",
+    "options": ["Train drivers", "Bus conductors", "Airline pilots", "Ship captains"],
+    "correctAnswer": "Airline pilots"
   },
   {
     "id": 8,
-    "question": "According to CJP's Dipke, what is the deadline for Chief Election Commissioner Gyanesh Kumar's resignation before nationwide protests are planned to commence from October 2nd?",
-    "options": ["By end of this week", "By the coming Saturday", "By October 1st", "By November 1st"],
-    "correctAnswer": "By the coming Saturday"
+    "question": "Who recently criticized the Election Commission of India's functioning, citing issues that allegedly began before the current chief took office?",
+    "options": ["Rahul Gandhi", "Prashant Kishor", "Arvind Kejriwal", "Mamata Banerjee"],
+    "correctAnswer": "Prashant Kishor"
   },
   {
     "id": 9,
-    "question": "The ongoing national debate regarding the integrity of electoral rolls and the Election Commission's functioning directly impacts the democratic process and voter registration efforts in states like Telangana and Andhra Pradesh. Which national body is responsible for ensuring fair electoral processes in these states?",
-    "options": ["State Election Commission", "Union Ministry of Home Affairs", "Election Commission of India", "Supreme Court of India"],
-    "correctAnswer": "Election Commission of India"
+    "question": "Which former Election Commissioner's case was cited by Prashant Kishor in his recent critique of the ECI's integrity?",
+    "options": ["N. Gopalaswami", "Ashok Lavasa", "T.S. Krishnamurthy", "S.Y. Quraishi"],
+    "correctAnswer": "Ashok Lavasa"
   },
   {
     "id": 10,
-    "question": "The acronym 'SIR' in the context of the recent Election Commission controversy refers to what electoral process?",
-    "options": ["State Implementation Review", "Special Investigation Report", "Special Intensive Revision", "Systematic Issue Resolution"],
-    "correctAnswer": "Special Intensive Revision"
+    "question": "The current Chief Election Commissioner of India, who is facing recent criticism and protests related to the 'SIR row', is named:",
+    "options": ["Rajiv Kumar", "Gyanesh Kumar", "Sushil Chandra", "O.P. Rawat"],
+    "correctAnswer": "Gyanesh Kumar"
   },
   {
     "id": 11,
-    "question": "The protests against the Chief Election Commissioner involve allegations of flawed electoral processes, directly affecting the rights of citizens, including those in Andhra Pradesh and Telangana, to a fair vote. What kind of actions are these protests primarily involving?",
-    "options": ["Judicial petitions and appeals", "Public demonstrations, poster campaigns, and press conferences", "International diplomatic interventions", "Economic boycotts and strikes"],
-    "correctAnswer": "Public demonstrations, poster campaigns, and press conferences"
+    "question": "What is the primary focus of the 'SIR row' that led to widespread protests against the Election Commission of India, impacting electoral processes in states like Andhra Pradesh?",
+    "options": ["Voter ID card distribution", "Delimitation of constituencies", "Oversight of electoral rolls", "Campaign finance rules"],
+    "correctAnswer": "Oversight of electoral rolls"
   },
   {
     "id": 12,
-    "question": "Maintaining public trust in the integrity of elections is crucial for the democratic health of all Indian states, including Telangana and Andhra Pradesh. Who emphasized this point in the context of the ongoing EC row?",
-    "options": ["Rahul Gandhi", "Gyanesh Kumar", "Chirag Paswan", "Dipke of CJP"],
-    "correctAnswer": "Chirag Paswan"
+    "question": "Protests against Chief Election Commissioner Gyanesh Kumar over the 'SIR row' were reported in which of the following locations?",
+    "options": ["Hyderabad and Vijayawada", "Jantar Mantar (Delhi) and Assam", "Bengaluru and Kochi", "Lucknow and Patna"],
+    "correctAnswer": "Jantar Mantar (Delhi) and Assam"
   },
   {
     "id": 13,
-    "question": "In the context of reservations, what does the term 'creamy layer' refer to, for which the Centre is seeking a prospective effect of the SC ruling?",
-    "options": ["Economically weaker sections", "Individuals from backward classes who have achieved a certain level of social and economic advancement", "Upper-caste individuals seeking reservations", "Those without any reservations"],
-    "correctAnswer": "Individuals from backward classes who have achieved a certain level of social and economic advancement"
+    "question": "The Election Commission of India (ECI) is a constitutional body responsible for conducting elections for which of the following in all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Gram Panchayats only", "State Legislatures and Parliament", "Municipal Corporations only", "Cooperative Societies only"],
+    "correctAnswer": "State Legislatures and Parliament"
   },
   {
     "id": 14,
-    "question": "The Centre has pleaded with the Supreme Court for what specific effect of its creamy layer ruling?",
-    "options": ["Retrospective effect", "Prospective effect", "No effect", "Universal effect"],
-    "correctAnswer": "Prospective effect"
+    "question": "Concerns about the fairness and integrity of the Election Commission of India's processes are critical for which constitutional function in states like Telangana and Andhra Pradesh?",
+    "options": ["Judicial appointments", "Fiscal policy implementation", "Conduct of free and fair elections", "Local infrastructure projects"],
+    "correctAnswer": "Conduct of free and fair elections"
   },
   {
     "id": 15,
-    "question": "A Supreme Court ruling on the 'creamy layer' principle, whether applied prospectively or retrospectively, would directly influence the implementation of reservation policies for Other Backward Classes (OBCs) in states like Telangana and Andhra Pradesh. This primarily impacts which aspect?",
-    "options": ["Agricultural subsidies", "Eligibility for government jobs and educational institutions", "Property tax regulations", "Urban development projects"],
-    "correctAnswer": "Eligibility for government jobs and educational institutions"
+    "question": "The postponement of outreach programmes by Gyanesh Kumar, as reported, was specifically for which Indian state?",
+    "options": ["Uttar Pradesh", "Telangana", "Andhra Pradesh", "Maharashtra"],
+    "correctAnswer": "Uttar Pradesh"
   },
   {
     "id": 16,
-    "question": "Approximately how many candidates appeared for the NEET-PG 2026 examination?",
-    "options": ["1.5 lakh", "2.65 lakh", "3.2 lakh", "4 lakh"],
-    "correctAnswer": "2.65 lakh"
+    "question": "Chaudhary Devi Lal, a prominent political leader in Indian history, served as the Deputy Prime Minister of India in which government?",
+    "options": ["Rajiv Gandhi's government", "V.P. Singh's government", "P.V. Narasimha Rao's government", "Atal Bihari Vajpayee's government"],
+    "correctAnswer": "V.P. Singh's government"
   },
   {
     "id": 17,
-    "question": "What was the general cut-off score announced for NEET-PG 2026?",
-    "options": ["200", "262", "300", "350"],
-    "correctAnswer": "262"
+    "question": "Chaudhary Devi Lal garnered significant political support from which specific sector in Haryana, influencing national politics?",
+    "options": ["Industrial sector", "Service sector", "Agricultural sector", "Education sector"],
+    "correctAnswer": "Agricultural sector"
   },
   {
     "id": 18,
-    "question": "NEET-PG is a national-level examination crucial for admissions to postgraduate medical courses across India, including for medical graduates from Telangana and Andhra Pradesh. What is its primary function?",
-    "options": ["Undergraduate medical admissions", "Dental postgraduate admissions", "Postgraduate medical admissions", "Nursing entrance exams"],
-    "correctAnswer": "Postgraduate medical admissions"
+    "question": "The political maneuvering by Chaudhary Devi Lal was instrumental in the formation of which national political alliance/party in 1989?",
+    "options": ["Congress (I)", "Bharatiya Janata Party", "Janata Dal", "Communist Party of India"],
+    "correctAnswer": "Janata Dal"
   },
   {
     "id": 19,
-    "question": "How many years has the Ayushman Bharat scheme completed since its inception, according to the recent news?",
-    "options": ["5 years", "6 years", "7 years", "8 years"],
-    "correctAnswer": "8 years"
+    "question": "The downfall of the V.P. Singh government, in which Devi Lal served, was attributed to what factor according to the news?",
+    "options": ["Economic crisis", "Foreign policy failures", "Infighting within the party", "Natural disaster mismanagement"],
+    "correctAnswer": "Infighting within the party"
   },
   {
     "id": 20,
-    "question": "Approximately how many beneficiaries has the Ayushman Bharat scheme covered nationwide over its 8 years of operation?",
-    "options": ["10 crore", "30 crore", "60 crore", "90 crore"],
-    "correctAnswer": "60 crore"
+    "question": "Chaudhary Devi Lal, a key figure in India's political history, hailed from which Indian state?",
+    "options": ["Rajasthan", "Uttar Pradesh", "Punjab", "Haryana"],
+    "correctAnswer": "Haryana"
   },
   {
     "id": 21,
-    "question": "What is the approximate total amount spent on treatment under the Ayushman Bharat scheme over the past 8 years?",
-    "options": ["Rs 50,000 crore", "Rs 1 lakh crore", "Rs 2 lakh crore", "Rs 3 lakh crore"],
-    "correctAnswer": "Rs 2 lakh crore"
+    "question": "Who recently described the Indian economy as a 'dead economy,' leading to a strong rebuttal from Union Minister Amit Shah?",
+    "options": ["P. Chidambaram", "Rahul Gandhi", "Shashi Tharoor", "Kapil Sibal"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 22,
-    "question": "The Ayushman Bharat scheme provides significant health coverage benefits to eligible citizens across India, including those in Andhra Pradesh and Telangana. What type of services does it primarily aim to provide access to?",
-    "options": ["Agricultural insurance", "Free higher education", "Health insurance and medical treatment", "Housing subsidies"],
-    "correctAnswer": "Health insurance and medical treatment"
+    "question": "Which Union Minister recently countered Rahul Gandhi's 'dead economy' remark with a statement about a 'dead mindset'?",
+    "options": ["Nirmala Sitharaman", "Piyush Goyal", "Amit Shah", "Rajnath Singh"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 23,
-    "question": "Which major national health scheme, providing substantial benefits to states like Telangana and Andhra Pradesh, recently marked its 8th anniversary?",
-    "options": ["Pradhan Mantri Jan Dhan Yojana", "Swachh Bharat Abhiyan", "Ayushman Bharat", "Make in India"],
-    "correctAnswer": "Ayushman Bharat"
+    "question": "The recent exchange between Amit Shah and Rahul Gandhi highlights a national debate over the state of which key aspect of India?",
+    "options": ["Foreign policy", "Education system", "Indian economy", "Defense capabilities"],
+    "correctAnswer": "Indian economy"
   },
   {
     "id": 24,
-    "question": "Which entity is pleading for the prospective effect of the Supreme Court's 'creamy layer' ruling, affecting reservation policies nationwide?",
-    "options": ["State Governments", "Central Government", "Private Organizations", "Legal NGOs"],
-    "correctAnswer": "Central Government"
+    "question": "What term was used by Amit Shah to describe those who, according to him, cannot see the vibrancy of the Indian economy?",
+    "options": ["Pessimists", "Visionless", "Dead mindset", "Misguided"],
+    "correctAnswer": "Dead mindset"
   },
   {
     "id": 25,
-    "question": "The Chief Election Commissioner, Gyanesh Kumar, is currently facing widespread criticism from opposition parties over allegations related to which of the following, impacting electoral processes across states?",
-    "options": ["Delays in publishing election results", "Flaws in the Special Intensive Revision (SIR) of electoral rolls", "Lack of security at polling booths", "Failure to conduct bye-elections on time"],
-    "correctAnswer": "Flaws in the Special Intensive Revision (SIR) of electoral rolls"
+    "question": "Discussions regarding the health of the Indian economy, such as the recent exchange between Amit Shah and Rahul Gandhi, are directly relevant to the fiscal planning and development of all states, including:",
+    "options": ["Gujarat and Madhya Pradesh", "Rajasthan and West Bengal", "Telangana and Andhra Pradesh", "Punjab and Haryana"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   }
 ]

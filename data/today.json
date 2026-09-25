@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which regulatory body recently launched a platform to rate buildings based on their digital connectivity across India, including states like Telangana and Andhra Pradesh?",
-    "options": ["RBI", "SEBI", "TRAI", "IRDAI"],
-    "correctAnswer": "TRAI"
+    "question": "What is the name of the evolved car safety program planned for October 2027 in India?",
+    "options": ["India Safety Standards 2.0", "Bharat NCAP 2.0", "National Vehicle Safety Program", "Auto Safety Index 2.0"],
+    "correctAnswer": "Bharat NCAP 2.0"
   },
   {
     "id": 2,
-    "question": "The new platform introduced by TRAI is designed to assess what specific aspect of buildings?",
-    "options": ["Structural integrity", "Digital connectivity", "Energy efficiency", "Fire safety"],
-    "correctAnswer": "Digital connectivity"
+    "question": "Which year is targeted for the implementation of Bharat NCAP 2.0?",
+    "options": ["2025", "2026", "2027", "2028"],
+    "correctAnswer": "2027"
   },
   {
     "id": 3,
-    "question": "TRAI's initiative to rate buildings on digital connectivity primarily aims to benefit which sector, relevant to urban development in states like Andhra Pradesh?",
-    "options": ["Real estate and telecommunications", "Automotive manufacturing", "Agriculture technology", "Healthcare services"],
-    "correctAnswer": "Real estate and telecommunications"
+    "question": "What new area of assessment will Bharat NCAP 2.0 include, expanding beyond just occupant protection?",
+    "options": ["Road infrastructure quality", "Vulnerable road users", "Fuel efficiency standards", "Vehicle manufacturing carbon footprint"],
+    "correctAnswer": "Vulnerable road users"
   },
   {
     "id": 4,
-    "question": "What does the acronym TRAI stand for, the body responsible for digital connectivity ratings across Indian states?",
-    "options": ["Telecom Regulatory Authority of India", "Trade and Revenue Administration Institute", "Technical Research and Analytics Initiative", "Transport Regulation and Infrastructure"],
-    "correctAnswer": "Telecom Regulatory Authority of India"
+    "question": "Which existing components of vehicle safety evaluation will remain critical under Bharat NCAP 2.0?",
+    "options": ["Engine performance and emissions", "Adult and child occupant protection", "Infotainment system features", "Vehicle aesthetic design"],
+    "correctAnswer": "Adult and child occupant protection"
   },
   {
     "id": 5,
-    "question": "An Air India pilot was recently suspended for being found intoxicated before operating a flight from which major European city?",
-    "options": ["London", "Paris", "Zurich", "Frankfurt"],
-    "correctAnswer": "Zurich"
+    "question": "What additional stages of vehicle safety assessment will the revised Bharat NCAP framework cover?",
+    "options": ["Pre-delivery inspection and warranty claims", "Crash avoidance and post-collision care", "Interior comfort and luggage capacity", "Resale value and maintenance costs"],
+    "correctAnswer": "Crash avoidance and post-collision care"
   },
   {
     "id": 6,
-    "question": "The Air India flight incident involved a pilot found tipsy before a flight bound for which major Indian city?",
-    "options": ["Mumbai", "Bengaluru", "Delhi", "Chennai"],
-    "correctAnswer": "Delhi"
+    "question": "Which national body is mentioned in connection with a 'row' that caused unease within the NDA?",
+    "options": ["Supreme Court of India", "Election Commission (EC)", "Reserve Bank of India", "Union Public Service Commission"],
+    "correctAnswer": "Election Commission (EC)"
   },
   {
     "id": 7,
-    "question": "The suspension of the Air India pilot highlights concerns regarding safety regulations for which profession in India, a matter applicable to all states including Telangana?",
-    "options": ["Train drivers", "Bus conductors", "Airline pilots", "Ship captains"],
-    "correctAnswer": "Airline pilots"
+    "question": "Which political alliance experienced 'unease' and had allies seeking clarification regarding the 'EC-SIR row'?",
+    "options": ["INDIA Bloc", "United Progressive Alliance (UPA)", "National Democratic Alliance (NDA)", "Left Front"],
+    "correctAnswer": "National Democratic Alliance (NDA)"
   },
   {
     "id": 8,
-    "question": "Who recently criticized the Election Commission of India's functioning, citing issues that allegedly began before the current chief took office?",
-    "options": ["Rahul Gandhi", "Prashant Kishor", "Arvind Kejriwal", "Mamata Banerjee"],
-    "correctAnswer": "Prashant Kishor"
+    "question": "Who sought clarification from the Election Commission regarding the recent 'EC-SIR row'?",
+    "options": ["Opposition parties", "Three BJP allies", "Independent candidates", "State Election Commissions"],
+    "correctAnswer": "Three BJP allies"
   },
   {
     "id": 9,
-    "question": "Which former Election Commissioner's case was cited by Prashant Kishor in his recent critique of the ECI's integrity?",
-    "options": ["N. Gopalaswami", "Ashok Lavasa", "T.S. Krishnamurthy", "S.Y. Quraishi"],
-    "correctAnswer": "Ashok Lavasa"
+    "question": "What was the primary action taken by three BJP allies concerning the 'EC-SIR row'?",
+    "options": ["They filed a public interest litigation", "They sought poll body clarification", "They announced their withdrawal from the alliance", "They demanded a new Chief Election Commissioner"],
+    "correctAnswer": "They sought poll body clarification"
   },
   {
     "id": 10,
-    "question": "The current Chief Election Commissioner of India, who is facing recent criticism and protests related to the 'SIR row', is named:",
-    "options": ["Rajiv Kumar", "Gyanesh Kumar", "Sushil Chandra", "O.P. Rawat"],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "The 'EC-SIR row' mentioned in the news primarily highlights pressure from which groups?",
+    "options": ["International observers and media", "Government officials and bureaucrats", "Opposition and BJP allies", "Business leaders and industry experts"],
+    "correctAnswer": "Opposition and BJP allies"
   },
   {
     "id": 11,
-    "question": "What is the primary focus of the 'SIR row' that led to widespread protests against the Election Commission of India, impacting electoral processes in states like Andhra Pradesh?",
-    "options": ["Voter ID card distribution", "Delimitation of constituencies", "Oversight of electoral rolls", "Campaign finance rules"],
-    "correctAnswer": "Oversight of electoral rolls"
+    "question": "Which Union Minister recently gave a sharp reply to a Pakistani journalist?",
+    "options": ["Amit Shah", "Nirmala Sitharaman", "S. Jaishankar", "Rajnath Singh"],
+    "correctAnswer": "S. Jaishankar"
   },
   {
     "id": 12,
-    "question": "Protests against Chief Election Commissioner Gyanesh Kumar over the 'SIR row' were reported in which of the following locations?",
-    "options": ["Hyderabad and Vijayawada", "Jantar Mantar (Delhi) and Assam", "Bengaluru and Kochi", "Lucknow and Patna"],
-    "correctAnswer": "Jantar Mantar (Delhi) and Assam"
+    "question": "To whom did Union Minister S. Jaishankar deliver a sharp reply regarding terrorism?",
+    "options": ["A Chinese diplomat", "A Pakistani journalist", "A US envoy", "An Indian opposition leader"],
+    "correctAnswer": "A Pakistani journalist"
   },
   {
     "id": 13,
-    "question": "The Election Commission of India (ECI) is a constitutional body responsible for conducting elections for which of the following in all Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Gram Panchayats only", "State Legislatures and Parliament", "Municipal Corporations only", "Cooperative Societies only"],
-    "correctAnswer": "State Legislatures and Parliament"
+    "question": "What was the central theme of S. Jaishankar's sharp reply to the Pakistani journalist?",
+    "options": ["Economic cooperation", "India's space program", "Terrorism", "Climate change initiatives"],
+    "correctAnswer": "Terrorism"
   },
   {
     "id": 14,
-    "question": "Concerns about the fairness and integrity of the Election Commission of India's processes are critical for which constitutional function in states like Telangana and Andhra Pradesh?",
-    "options": ["Judicial appointments", "Fiscal policy implementation", "Conduct of free and fair elections", "Local infrastructure projects"],
-    "correctAnswer": "Conduct of free and fair elections"
+    "question": "The incident involving S. Jaishankar's reply highlights India's stance against which specific issue?",
+    "options": ["Cybercrime", "Cross-border terrorism", "Illegal immigration", "Trade disputes"],
+    "correctAnswer": "Cross-border terrorism"
   },
   {
     "id": 15,
-    "question": "The postponement of outreach programmes by Gyanesh Kumar, as reported, was specifically for which Indian state?",
-    "options": ["Uttar Pradesh", "Telangana", "Andhra Pradesh", "Maharashtra"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "In what context did S. Jaishankar make his recent statement about a 'terrorist country'?",
+    "options": ["A UN Security Council meeting", "A press conference with a Pakistani journalist", "A bilateral summit", "An address to the Indian Parliament"],
+    "correctAnswer": "A press conference with a Pakistani journalist"
   },
   {
     "id": 16,
-    "question": "Chaudhary Devi Lal, a prominent political leader in Indian history, served as the Deputy Prime Minister of India in which government?",
-    "options": ["Rajiv Gandhi's government", "V.P. Singh's government", "P.V. Narasimha Rao's government", "Atal Bihari Vajpayee's government"],
-    "correctAnswer": "V.P. Singh's government"
+    "question": "Which political party recently targeted the Centre over the bail of a US national in a terror conspiracy case?",
+    "options": ["BJP", "Samajwadi Party", "Congress", "Trinamool Congress"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 17,
-    "question": "Chaudhary Devi Lal garnered significant political support from which specific sector in Haryana, influencing national politics?",
-    "options": ["Industrial sector", "Service sector", "Agricultural sector", "Education sector"],
-    "correctAnswer": "Agricultural sector"
+    "question": "What is the name of the US national whose bail sparked criticism from the Congress against the Centre?",
+    "options": ["John Smith", "Matthew Aaron VanDyke", "David Johnson", "Robert Brown"],
+    "correctAnswer": "Matthew Aaron VanDyke"
   },
   {
     "id": 18,
-    "question": "The political maneuvering by Chaudhary Devi Lal was instrumental in the formation of which national political alliance/party in 1989?",
-    "options": ["Congress (I)", "Bharatiya Janata Party", "Janata Dal", "Communist Party of India"],
-    "correctAnswer": "Janata Dal"
+    "question": "Matthew Aaron VanDyke, the US national, was held in connection with what kind of case?",
+    "options": ["Espionage case", "Financial fraud case", "Terror conspiracy case", "Drug trafficking case"],
+    "correctAnswer": "Terror conspiracy case"
   },
   {
     "id": 19,
-    "question": "The downfall of the V.P. Singh government, in which Devi Lal served, was attributed to what factor according to the news?",
-    "options": ["Economic crisis", "Foreign policy failures", "Infighting within the party", "Natural disaster mismanagement"],
-    "correctAnswer": "Infighting within the party"
+    "question": "The Congress party's criticism in this context was directed towards which entity?",
+    "options": ["The judiciary", "The state government", "The Centre (Prime Minister)", "The US Embassy"],
+    "correctAnswer": "The Centre (Prime Minister)"
   },
   {
     "id": 20,
-    "question": "Chaudhary Devi Lal, a key figure in India's political history, hailed from which Indian state?",
-    "options": ["Rajasthan", "Uttar Pradesh", "Punjab", "Haryana"],
-    "correctAnswer": "Haryana"
+    "question": "What was the specific accusation made by Congress against the PM in relation to VanDyke's bail?",
+    "options": ["Incompetence", "Compromised", "Lack of transparency", "Unpatriotic"],
+    "correctAnswer": "Compromised"
   },
   {
     "id": 21,
-    "question": "Who recently described the Indian economy as a 'dead economy,' leading to a strong rebuttal from Union Minister Amit Shah?",
-    "options": ["P. Chidambaram", "Rahul Gandhi", "Shashi Tharoor", "Kapil Sibal"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "What is the broader goal of India's Bharat NCAP program, as indicated by its evolution to 2.0?",
+    "options": ["To increase vehicle production", "To enhance overall vehicle safety standards", "To promote electric vehicles", "To reduce import duties on cars"],
+    "correctAnswer": "To enhance overall vehicle safety standards"
   },
   {
     "id": 22,
-    "question": "Which Union Minister recently countered Rahul Gandhi's 'dead economy' remark with a statement about a 'dead mindset'?",
-    "options": ["Nirmala Sitharaman", "Piyush Goyal", "Amit Shah", "Rajnath Singh"],
-    "correctAnswer": "Amit Shah"
+    "question": "The 'EC-SIR row' and subsequent demand for clarification from BJP allies suggests what about the current political climate?",
+    "options": ["Strong unity within the ruling alliance", "Increased scrutiny and pressure on constitutional bodies", "Decline in opposition influence", "Uncontested authority of the Election Commission"],
+    "correctAnswer": "Increased scrutiny and pressure on constitutional bodies"
   },
   {
     "id": 23,
-    "question": "The recent exchange between Amit Shah and Rahul Gandhi highlights a national debate over the state of which key aspect of India?",
-    "options": ["Foreign policy", "Education system", "Indian economy", "Defense capabilities"],
-    "correctAnswer": "Indian economy"
+    "question": "S. Jaishankar's recent statement is indicative of India's firm diplomatic stance against which specific threat?",
+    "options": ["Climate change denial", "Economic protectionism", "State-sponsored terrorism", "Cyber warfare"],
+    "correctAnswer": "State-sponsored terrorism"
   },
   {
     "id": 24,
-    "question": "What term was used by Amit Shah to describe those who, according to him, cannot see the vibrancy of the Indian economy?",
-    "options": ["Pessimists", "Visionless", "Dead mindset", "Misguided"],
-    "correctAnswer": "Dead mindset"
+    "question": "The criticism from Congress regarding the bail of a US national in a terror conspiracy case reflects ongoing tension between which two political entities in India?",
+    "options": ["Judiciary and Legislature", "Central Government and State Governments", "Ruling Party and Opposition", "Defence Ministry and Home Ministry"],
+    "correctAnswer": "Ruling Party and Opposition"
   },
   {
     "id": 25,
-    "question": "Discussions regarding the health of the Indian economy, such as the recent exchange between Amit Shah and Rahul Gandhi, are directly relevant to the fiscal planning and development of all states, including:",
-    "options": ["Gujarat and Madhya Pradesh", "Rajasthan and West Bengal", "Telangana and Andhra Pradesh", "Punjab and Haryana"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "According to Union Minister Amit Shah, what two key factors have helped transform India into a global manufacturing hub under PM Modi's leadership?",
+    "options": ["International trade agreements and foreign aid", "Reduced taxation and export subsidies", "Political stability and policy continuity/implementation", "Enhanced agricultural output and rural development"],
+    "correctAnswer": "Political stability and policy continuity/implementation"
   }
 ]

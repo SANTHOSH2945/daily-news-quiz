@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the Centre pleading for regarding the Supreme Court's creamy layer ruling?",
-    "options": ["Retrospective effect", "Prospective effect", "Complete abolition", "No change"],
-    "correctAnswer": "Prospective effect"
+    "question": "Who is the Chief Election Commissioner currently facing protests and calls for resignation from opposition parties?",
+    "options": ["Rajiv Kumar", "Sushil Chandra", "Gyanesh Kumar", "Sunil Arora"],
+    "correctAnswer": "Gyanesh Kumar"
   },
   {
     "id": 2,
-    "question": "Which body's ruling on the creamy layer is the Centre appealing for prospective effect?",
-    "options": ["High Court", "Election Commission", "Supreme Court", "Parliamentary Committee"],
-    "correctAnswer": "Supreme Court"
+    "question": "The opposition's criticism against the Election Commission primarily revolves around alleged flaws in which specific electoral process, impacting voter lists in states like Telangana and Andhra Pradesh?",
+    "options": ["Voter ID Card issuance", "Special Intensive Revision (SIR) of electoral rolls", "EVM procurement", "Election funding transparency"],
+    "correctAnswer": "Special Intensive Revision (SIR) of electoral rolls"
   },
   {
     "id": 3,
-    "question": "The 'creamy layer' concept is generally associated with reservations for which social group in India?",
-    "options": ["Scheduled Castes", "Scheduled Tribes", "Other Backward Classes", "Economically Weaker Sections"],
-    "correctAnswer": "Other Backward Classes"
+    "question": "Union Minister Chirag Paswan urged the Election Commission to 'firmly present its side' to maintain what crucial aspect amidst the SIR row?",
+    "options": ["Political party affiliations", "Public confidence in election integrity", "Government funding for elections", "International observer status"],
+    "correctAnswer": "Public confidence in election integrity"
   },
   {
     "id": 4,
-    "question": "What was the general cut-off score announced for the NEET-PG 2026 examination?",
+    "question": "Which political party spearheaded the protests in Delhi, putting up posters demanding the removal of Chief Election Commissioner Gyanesh Kumar?",
+    "options": ["Bharatiya Janata Party (BJP)", "Bahujan Samaj Party (BSP)", "Indian National Congress", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress"
+  },
+  {
+    "id": 5,
+    "question": "Protests and poster campaigns targeting Chief Election Commissioner Gyanesh Kumar were specifically reported in which Indian city?",
+    "options": ["Mumbai", "Kolkata", "Chennai", "Delhi"],
+    "correctAnswer": "Delhi"
+  },
+  {
+    "id": 6,
+    "question": "Rahul Gandhi, during a press conference, voiced serious allegations against CEC Gyanesh Kumar concerning what issue?",
+    "options": ["Mismanagement of election funds", "Electoral misconduct", "Delay in election scheduling", "Lack of security during polls"],
+    "correctAnswer": "Electoral misconduct"
+  },
+  {
+    "id": 7,
+    "question": "What slogan was prominently displayed on posters put up by the Congress party against Chief Election Commissioner Gyanesh Kumar?",
+    "options": ["'Democracy Bachao, India Jitao'", "'Gyanesh Kumar Hatao, EC Bachao'", "'Vote For Change, Vote For Progress'", "'Electoral Reforms Now'"],
+    "correctAnswer": "'Gyanesh Kumar Hatao, EC Bachao'"
+  },
+  {
+    "id": 8,
+    "question": "According to CJP's Dipke, what is the deadline for Chief Election Commissioner Gyanesh Kumar's resignation before nationwide protests are planned to commence from October 2nd?",
+    "options": ["By end of this week", "By the coming Saturday", "By October 1st", "By November 1st"],
+    "correctAnswer": "By the coming Saturday"
+  },
+  {
+    "id": 9,
+    "question": "The ongoing national debate regarding the integrity of electoral rolls and the Election Commission's functioning directly impacts the democratic process and voter registration efforts in states like Telangana and Andhra Pradesh. Which national body is responsible for ensuring fair electoral processes in these states?",
+    "options": ["State Election Commission", "Union Ministry of Home Affairs", "Election Commission of India", "Supreme Court of India"],
+    "correctAnswer": "Election Commission of India"
+  },
+  {
+    "id": 10,
+    "question": "The acronym 'SIR' in the context of the recent Election Commission controversy refers to what electoral process?",
+    "options": ["State Implementation Review", "Special Investigation Report", "Special Intensive Revision", "Systematic Issue Resolution"],
+    "correctAnswer": "Special Intensive Revision"
+  },
+  {
+    "id": 11,
+    "question": "The protests against the Chief Election Commissioner involve allegations of flawed electoral processes, directly affecting the rights of citizens, including those in Andhra Pradesh and Telangana, to a fair vote. What kind of actions are these protests primarily involving?",
+    "options": ["Judicial petitions and appeals", "Public demonstrations, poster campaigns, and press conferences", "International diplomatic interventions", "Economic boycotts and strikes"],
+    "correctAnswer": "Public demonstrations, poster campaigns, and press conferences"
+  },
+  {
+    "id": 12,
+    "question": "Maintaining public trust in the integrity of elections is crucial for the democratic health of all Indian states, including Telangana and Andhra Pradesh. Who emphasized this point in the context of the ongoing EC row?",
+    "options": ["Rahul Gandhi", "Gyanesh Kumar", "Chirag Paswan", "Dipke of CJP"],
+    "correctAnswer": "Chirag Paswan"
+  },
+  {
+    "id": 13,
+    "question": "In the context of reservations, what does the term 'creamy layer' refer to, for which the Centre is seeking a prospective effect of the SC ruling?",
+    "options": ["Economically weaker sections", "Individuals from backward classes who have achieved a certain level of social and economic advancement", "Upper-caste individuals seeking reservations", "Those without any reservations"],
+    "correctAnswer": "Individuals from backward classes who have achieved a certain level of social and economic advancement"
+  },
+  {
+    "id": 14,
+    "question": "The Centre has pleaded with the Supreme Court for what specific effect of its creamy layer ruling?",
+    "options": ["Retrospective effect", "Prospective effect", "No effect", "Universal effect"],
+    "correctAnswer": "Prospective effect"
+  },
+  {
+    "id": 15,
+    "question": "A Supreme Court ruling on the 'creamy layer' principle, whether applied prospectively or retrospectively, would directly influence the implementation of reservation policies for Other Backward Classes (OBCs) in states like Telangana and Andhra Pradesh. This primarily impacts which aspect?",
+    "options": ["Agricultural subsidies", "Eligibility for government jobs and educational institutions", "Property tax regulations", "Urban development projects"],
+    "correctAnswer": "Eligibility for government jobs and educational institutions"
+  },
+  {
+    "id": 16,
+    "question": "Approximately how many candidates appeared for the NEET-PG 2026 examination?",
+    "options": ["1.5 lakh", "2.65 lakh", "3.2 lakh", "4 lakh"],
+    "correctAnswer": "2.65 lakh"
+  },
+  {
+    "id": 17,
+    "question": "What was the general cut-off score announced for NEET-PG 2026?",
     "options": ["200", "262", "300", "350"],
     "correctAnswer": "262"
   },
   {
-    "id": 5,
-    "question": "Approximately how many candidates appeared for the NEET-PG 2026 examination?",
-    "options": ["1.5 lakh", "2.0 lakh", "2.65 lakh", "3.0 lakh"],
-    "correctAnswer": "2.65 lakh"
+    "id": 18,
+    "question": "NEET-PG is a national-level examination crucial for admissions to postgraduate medical courses across India, including for medical graduates from Telangana and Andhra Pradesh. What is its primary function?",
+    "options": ["Undergraduate medical admissions", "Dental postgraduate admissions", "Postgraduate medical admissions", "Nursing entrance exams"],
+    "correctAnswer": "Postgraduate medical admissions"
   },
   {
-    "id": 6,
-    "question": "NEET-PG is an entrance examination for which level of medical education in India?",
-    "options": ["Undergraduate medical courses", "Postgraduate medical courses", "Doctoral medical research", "Paramedical diploma courses"],
-    "correctAnswer": "Postgraduate medical courses"
-  },
-  {
-    "id": 7,
-    "question": "How many years has the Ayushman Bharat scheme completed as per recent news?",
+    "id": 19,
+    "question": "How many years has the Ayushman Bharat scheme completed since its inception, according to the recent news?",
     "options": ["5 years", "6 years", "7 years", "8 years"],
     "correctAnswer": "8 years"
   },
   {
-    "id": 8,
-    "question": "Approximately how many beneficiaries has the Ayushman Bharat scheme reached?",
-    "options": ["30 crore", "45 crore", "60 crore", "75 crore"],
+    "id": 20,
+    "question": "Approximately how many beneficiaries has the Ayushman Bharat scheme covered nationwide over its 8 years of operation?",
+    "options": ["10 crore", "30 crore", "60 crore", "90 crore"],
     "correctAnswer": "60 crore"
   },
   {
-    "id": 9,
-    "question": "What is the approximate total value of treatments provided under the Ayushman Bharat scheme?",
-    "options": ["Rs 1 lakh crore", "Rs 1.5 lakh crore", "Rs 2 lakh crore", "Rs 2.5 lakh crore"],
+    "id": 21,
+    "question": "What is the approximate total amount spent on treatment under the Ayushman Bharat scheme over the past 8 years?",
+    "options": ["Rs 50,000 crore", "Rs 1 lakh crore", "Rs 2 lakh crore", "Rs 3 lakh crore"],
     "correctAnswer": "Rs 2 lakh crore"
   },
   {
-    "id": 10,
-    "question": "Ayushman Bharat is a flagship scheme primarily focused on which sector in India?",
-    "options": ["Education", "Agriculture", "Healthcare", "Infrastructure"],
-    "correctAnswer": "Healthcare"
-  },
-  {
-    "id": 11,
-    "question": "Which body may order a Special Summary Revision (SSR) of electoral rolls in October for poll-bound states?",
-    "options": ["Supreme Court", "Union Government", "Election Commission", "State Legislatures"],
-    "correctAnswer": "Election Commission"
-  },
-  {
-    "id": 12,
-    "question": "What action regarding electoral rolls might the Election Commission undertake in October for poll-bound states?",
-    "options": ["Full census", "Special Summary Revision", "Biometric verification", "Deletion of all voters"],
-    "correctAnswer": "Special Summary Revision"
-  },
-  {
-    "id": 13,
-    "question": "The Special Summary Revision of electoral rolls is primarily aimed at achieving what?",
-    "options": ["Conducting exit polls", "Updating voter lists", "Redrawing constituencies", "Appointing new polling officers"],
-    "correctAnswer": "Updating voter lists"
-  },
-  {
-    "id": 14,
-    "question": "Which specific forms, related to electoral processes, did the EC troika unanimously approve orders on?",
-    "options": ["Forms 1 & 2", "Forms 6 & 8", "Forms 9 & 10", "Forms A & B"],
-    "correctAnswer": "Forms 6 & 8"
-  },
-  {
-    "id": 15,
-    "question": "In addition to Forms 6 & 8, what other declaration did the EC troika approve orders on?",
-    "options": ["Income declaration", "Asset declaration", "Citizenship declaration", "Education declaration"],
-    "correctAnswer": "Citizenship declaration"
-  },
-  {
-    "id": 16,
-    "question": "The 'EC troika' refers to the body responsible for overseeing what crucial process in India?",
-    "options": ["Judicial appointments", "Defense procurement", "Elections", "Monetary policy"],
-    "correctAnswer": "Elections"
-  },
-  {
-    "id": 17,
-    "question": "The CBI recently arrested a key accused linked to which app scam, known for looting a massive amount?",
-    "options": ["Satta King App", "Mahadev App", "Dream11 App", "Rummy Circle App"],
-    "correctAnswer": "Mahadev App"
-  },
-  {
-    "id": 18,
-    "question": "Approximately how much money were the Dubai-based scammers reported to have looted in the Mahadev app scam?",
-    "options": ["Rs 50,000 crore", "Rs 75,000 crore", "Rs 94,000 crore", "Rs 1,00,000 crore"],
-    "correctAnswer": "Rs 94,000 crore"
-  },
-  {
-    "id": 19,
-    "question": "From which country was the key accused in the Mahadev app scam deported before being arrested by CBI?",
-    "options": ["Qatar", "Saudi Arabia", "UAE", "Bahrain"],
-    "correctAnswer": "UAE"
-  },
-  {
-    "id": 20,
-    "question": "Which central agency made the arrest in connection with the Mahadev app scam after deportation of the accused?",
-    "options": ["Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Central Bureau of Investigation (CBI)", "Intelligence Bureau (IB)"],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
-  },
-  {
-    "id": 21,
-    "question": "Who is the current Chief Election Commissioner (CEC) against whom the Opposition is making a bid for removal?",
-    "options": ["Rajiv Kumar", "Sunil Arora", "Sushil Chandra", "Gyanesh Kumar"],
-    "correctAnswer": "Gyanesh Kumar"
-  },
-  {
     "id": 22,
-    "question": "How many bids has the Opposition made to remove the current CEC as per recent reports?",
-    "options": ["First bid", "Second bid", "Third bid", "Fourth bid"],
-    "correctAnswer": "Third bid"
+    "question": "The Ayushman Bharat scheme provides significant health coverage benefits to eligible citizens across India, including those in Andhra Pradesh and Telangana. What type of services does it primarily aim to provide access to?",
+    "options": ["Agricultural insurance", "Free higher education", "Health insurance and medical treatment", "Housing subsidies"],
+    "correctAnswer": "Health insurance and medical treatment"
   },
   {
     "id": 23,
-    "question": "The Opposition's pending notice for the removal of the CEC was filed on which date?",
-    "options": ["March 24", "April 24", "May 24", "June 24"],
-    "correctAnswer": "April 24"
+    "question": "Which major national health scheme, providing substantial benefits to states like Telangana and Andhra Pradesh, recently marked its 8th anniversary?",
+    "options": ["Pradhan Mantri Jan Dhan Yojana", "Swachh Bharat Abhiyan", "Ayushman Bharat", "Make in India"],
+    "correctAnswer": "Ayushman Bharat"
   },
   {
     "id": 24,
-    "question": "Which constitutional post is the Opposition attempting to remove Gyanesh Kumar from?",
-    "options": ["Chief Justice of India", "Attorney General of India", "Chief Election Commissioner", "Comptroller and Auditor General"],
-    "correctAnswer": "Chief Election Commissioner"
+    "question": "Which entity is pleading for the prospective effect of the Supreme Court's 'creamy layer' ruling, affecting reservation policies nationwide?",
+    "options": ["State Governments", "Central Government", "Private Organizations", "Legal NGOs"],
+    "correctAnswer": "Central Government"
   },
   {
     "id": 25,
-    "question": "The process of removing a Chief Election Commissioner typically involves a motion in which legislative body?",
-    "options": ["State Legislative Assembly", "State Legislative Council", "Parliament", "Supreme Court"],
-    "correctAnswer": "Parliament"
+    "question": "The Chief Election Commissioner, Gyanesh Kumar, is currently facing widespread criticism from opposition parties over allegations related to which of the following, impacting electoral processes across states?",
+    "options": ["Delays in publishing election results", "Flaws in the Special Intensive Revision (SIR) of electoral rolls", "Lack of security at polling booths", "Failure to conduct bye-elections on time"],
+    "correctAnswer": "Flaws in the Special Intensive Revision (SIR) of electoral rolls"
   }
 ]

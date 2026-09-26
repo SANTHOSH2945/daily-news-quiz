@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary subject of the controversy involving the Election Commission (EC) that has been highlighted in recent news?",
-    "options": [
-      "The SIR row",
-      "Funding of political parties",
-      "Boundary delimitation challenges",
-      "Deployment of security forces"
-    ],
-    "correctAnswer": "The SIR row"
+    "question": "What does the acronym 'SIR' stand for, as mentioned in the context of recent electoral roll revisions affecting all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Special Intensive Revision", "State Information Report", "Systematic Inclusion Register", "Standardized Electoral Review"],
+    "correctAnswer": "Special Intensive Revision"
   },
   {
     "id": 2,
-    "question": "Which political alliance is set to hold a meeting on September 30 to discuss critical electoral matters related to the EC-SIR row?",
-    "options": [
-      "NDA",
-      "INDIA bloc",
-      "Third Front",
-      "United Progressive Alliance"
-    ],
-    "correctAnswer": "INDIA bloc"
+    "question": "Which political party, with a significant presence in states like Telangana and Andhra Pradesh, demanded the suspension of the ongoing Special Intensive Revision (SIR) of electoral rolls?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Trinamool Congress (AITC)", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 3,
-    "question": "In which city was the INDIA bloc meeting regarding the EC-SIR row scheduled to take place on September 30?",
-    "options": [
-      "Mumbai",
-      "Kolkata",
-      "New Delhi",
-      "Bengaluru"
-    ],
-    "correctAnswer": "New Delhi"
+    "question": "The Congress party recently demanded the resignation of which key position within the Election Commission of India amidst the SIR row, impacting electoral processes across states like Telangana and Andhra Pradesh?",
+    "options": ["Chief Election Commissioner (CEC)", "Union Law Minister", "Home Secretary", "President of India"],
+    "correctAnswer": "Chief Election Commissioner (CEC)"
   },
   {
     "id": 4,
-    "question": "Who is identified as the Chief Election Commissioner (CEC) at the center of the recent electoral roll controversies?",
-    "options": [
-      "Sunil Arora",
-      "Sushil Chandra",
-      "Gyanesh Kumar",
-      "Rajiv Kumar"
-    ],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "What specific type of changes related to voter registration were a major point of contention for Congress leaders regarding the Election Commission's actions, impacting voters in states like Andhra Pradesh and Telangana?",
+    "options": ["Form 7 changes", "Form 6 changes", "Form 8 changes", "Form 4 changes"],
+    "correctAnswer": "Form 6 changes"
   },
   {
     "id": 5,
-    "question": "What specific aspect of the Election Commission's functioning has opposition parties, including Congress, raised alarms about?",
-    "options": [
-      "The budget allocation for elections",
-      "Changes to electoral rolls",
-      "The appointment of state election commissioners",
-      "The use of EVMs"
-    ],
-    "correctAnswer": "Changes to electoral rolls"
+    "question": "Concerns were raised nationally, affecting electoral demographics in states like Telangana and Andhra Pradesh, regarding the alleged deletion of which specific group of voters during the Special Intensive Revision process?",
+    "options": ["Senior citizens", "Government employees", "Young and Gen Z voters", "Overseas electors"],
+    "correctAnswer": "Young and Gen Z voters"
   },
   {
     "id": 6,
-    "question": "According to the Election Commission's clarification amidst the SIR row, how are its final decisions made?",
-    "options": [
-      "By majority vote of commissioners",
-      "Unanimous",
-      "By the Chief Election Commissioner's sole discretion",
-      "Through a public referendum"
-    ],
-    "correctAnswer": "Unanimous"
+    "question": "Which political alliance publicly welcomed the Election Commission's press note amidst the SIR row, stating that 'all misconceptions put to rest'?",
+    "options": ["United Progressive Alliance (UPA)", "National Democratic Alliance (NDA)", "INDIA Bloc", "Third Front"],
+    "correctAnswer": "National Democratic Alliance (NDA)"
   },
   {
     "id": 7,
-    "question": "The 'SIR row' primarily concerns the Election Commission's management of what key aspect?",
-    "options": [
-      "Election campaign funding",
-      "Voter database access and electoral rolls",
-      "Candidate nomination process",
-      "Model Code of Conduct violations"
-    ],
-    "correctAnswer": "Voter database access and electoral rolls"
+    "question": "What did Congress leaders accuse the Election Commission of inadequately addressing regarding the issues with voter registration changes, affecting citizens across India including AP and Telangana?",
+    "options": ["Funding for elections", "Security at polling booths", "Issues with Form 6 changes", "The schedule for elections"],
+    "correctAnswer": "Issues with Form 6 changes"
   },
   {
     "id": 8,
-    "question": "Which former election commissioner has reportedly weighed in on the Election Commission's recent decision-making?",
-    "options": [
-      "T.N. Seshan",
-      "N. Gopalaswami",
-      "V.S. Sampath",
-      "Om Prakash Rawat"
-    ],
-    "correctAnswer": "Om Prakash Rawat"
+    "question": "The Congress emphasized the need for what from the Election Commission regarding the electoral roll issues, a demand relevant for fair elections in states such as Telangana and Andhra Pradesh?",
+    "options": ["More funding", "Faster processing", "Transparency", "New voting machines"],
+    "correctAnswer": "Transparency"
   },
   {
     "id": 9,
-    "question": "The controversy surrounding the Election Commission prominently concerns the transparency and fairness of which process?",
-    "options": [
-      "The delimitation of constituencies",
-      "The voter inclusion process",
-      "The process for allocating party symbols",
-      "The scheduling of election dates"
-    ],
-    "correctAnswer": "The voter inclusion process"
+    "question": "Gyanesh Kumar was mentioned in the news context related to the Election Commission row. In which capacity is he serving that makes his role relevant to electoral processes in states like Telangana and Andhra Pradesh?",
+    "options": ["Chief Minister of a state", "Election Commissioner", "Chief Justice of India", "Union Home Minister"],
+    "correctAnswer": "Election Commissioner"
   },
   {
     "id": 10,
-    "question": "What internal challenge has been noted as a source of tension within the Election Commission itself, according to the news?",
-    "options": [
-      "Lack of infrastructure",
-      "Internal decision-making and communication challenges",
-      "Insufficient staff numbers",
-      "Budgetary constraints"
-    ],
-    "correctAnswer": "Internal decision-making and communication challenges"
+    "question": "The Election Commission of India, whose decisions impact voter lists in every state including Andhra Pradesh and Telangana, defended its actions amidst concerns of what regarding voters?",
+    "options": ["Voter apathy", "Voter intimidation", "Disenfranchisement of voters", "Increased voter turnout"],
+    "correctAnswer": "Disenfranchisement of voters"
   },
   {
     "id": 11,
-    "question": "What specific document or database has been mentioned as a point of contention regarding access issues within the EC controversy?",
-    "options": [
-      "Party manifestos",
-      "Voter database",
-      "Candidate affidavit details",
-      "Polling station layouts"
-    ],
-    "correctAnswer": "Voter database"
+    "question": "What did the Election Commission defend its decisions against, particularly in the context of the Special Intensive Revision (SIR) and concerns raised by political parties, impacting electoral accuracy in states like Telangana and Andhra Pradesh?",
+    "options": ["Allegations of bias", "Concerns of disenfranchisement of voters", "Demands for new election technology", "Criticism over election dates"],
+    "correctAnswer": "Concerns of disenfranchisement of voters"
   },
   {
     "id": 12,
-    "question": "The ongoing debate within the Election Commission highlights a critical examination of the authority of which official?",
-    "options": [
-      "The Law Minister",
-      "The Prime Minister",
-      "The Chief Election Commissioner",
-      "The Chief Justice of India"
-    ],
-    "correctAnswer": "The Chief Election Commissioner"
+    "question": "The dispute between the Congress and the Election Commission primarily revolved around the conduct and integrity of which fundamental democratic process, vital for states like Telangana and Andhra Pradesh?",
+    "options": ["Legislative assembly sessions", "Parliamentary debates", "Electoral roll revision", "Judicial appointments"],
+    "correctAnswer": "Electoral roll revision"
   },
   {
     "id": 13,
-    "question": "What broader aspect of India's democratic framework is underscored by the critique of the Election Commission's credibility?",
-    "options": [
-      "Judicial independence",
-      "Legislative oversight",
-      "Media freedom",
-      "India's democratic framework"
-    ],
-    "correctAnswer": "India's democratic framework"
+    "question": "Beyond Form 6 changes, Congress leaders raised questions about the deletion of young and Gen Z voters, highlighting the need for increased what from the Election Commission, a principle important for all states including AP and Telangana?",
+    "options": ["Secrecy", "Efficiency", "Autonomy", "Transparency"],
+    "correctAnswer": "Transparency"
   },
   {
     "id": 14,
-    "question": "Which political party has been criticized by Priyank Kharge for allegedly 'acting as EC's spokespersons' amidst the SIR row?",
-    "options": [
-      "Congress",
-      "AAP",
-      "BJP",
-      "Trinamool Congress"
-    ],
-    "correctAnswer": "BJP"
+    "question": "A recent news report highlighted a hospital dispute in a major South Indian city, where a Bangladeshi woman alleged her husband's body was withheld over an unpaid bill. Which city was this incident reported in?",
+    "options": ["Chennai", "Hyderabad", "Bengaluru", "Kochi"],
+    "correctAnswer": "Bengaluru"
   },
   {
     "id": 15,
-    "question": "Priyank Kharge insists that the Election Commission must clarify what to maintain its credibility?",
-    "options": [
-      "Its financial audit reports",
-      "Its security protocols",
-      "Its electoral-roll processes",
-      "Its disciplinary actions"
-    ],
-    "correctAnswer": "Its electoral-roll processes"
+    "question": "In the Bengaluru hospital dispute, what was the primary reason cited by the hospital for allegedly withholding the deceased's body?",
+    "options": ["Police investigation", "Unidentified body", "Unpaid medical bill", "Legal injunction"],
+    "correctAnswer": "Unpaid medical bill"
   },
   {
     "id": 16,
-    "question": "What type of legislation is currently under examination regarding the Election Commission, according to the news?",
-    "options": [
-      "Legislation regarding its budget",
-      "Legislation regarding appointments and independence of the Commission",
-      "Legislation regarding the use of technology in elections",
-      "Legislation regarding political party registration"
-    ],
-    "correctAnswer": "Legislation regarding appointments and independence of the Commission"
+    "question": "The high commission of which country intervened in the Bengaluru hospital case where a citizen's body was allegedly withheld over an exorbitant bill?",
+    "options": ["Pakistan", "Sri Lanka", "Bangladesh", "Nepal"],
+    "correctAnswer": "Bangladesh"
   },
   {
     "id": 17,
-    "question": "The INDIA bloc's meeting on September 30 is focused on how to collectively address what specific action by the Election Commission?",
-    "options": [
-      "Its recent press conferences",
-      "Its public awareness campaigns",
-      "Changes to the electoral rolls",
-      "Its recruitment policy"
-    ],
-    "correctAnswer": "Changes to the electoral rolls"
+    "question": "The alleged withholding of a body over a bill in a South Indian hospital raises concerns about hospital ethics and regulations, which are relevant across states including Telangana and Andhra Pradesh. What amount was the disputed bill approximately?",
+    "options": ["Rs 5 Lakh", "Rs 15 Lakh", "Rs 35 Lakh", "Rs 50 Lakh"],
+    "correctAnswer": "Rs 35 Lakh"
   },
   {
     "id": 18,
-    "question": "What is one of the key issues that fuels the critical debate mentioned about the Election Commission's internal structure?",
-    "options": [
-      "The number of Election Commissioners",
-      "The tenure of the commissioners",
-      "The authority of the Chief Election Commissioner in relation to other commissioners",
-      "The method of voter registration"
-    ],
-    "correctAnswer": "The authority of the Chief Election Commissioner in relation to other commissioners"
+    "question": "For how many days was the deceased's body reportedly withheld by the Bengaluru hospital over the unpaid medical bill?",
+    "options": ["3 days", "5 days", "8 days", "10 days"],
+    "correctAnswer": "8 days"
   },
   {
     "id": 19,
-    "question": "The news describes tensions emerging within the Election Commission surrounding form modifications and what other issue?",
-    "options": [
-      "Polling station logistics",
-      "Voter database access",
-      "Security arrangements",
-      "Candidate spending limits"
-    ],
-    "correctAnswer": "Voter database access"
+    "question": "External Affairs Minister S. Jaishankar, representing India at the UN, recently made a statement regarding the 'perpetrator of terrorism'. Which country was he implicitly taking aim at?",
+    "options": ["China", "Pakistan", "Afghanistan", "Myanmar"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 20,
-    "question": "What type of concerns have Election Commissioners themselves reportedly voiced about internal decision-making?",
-    "options": [
-      "Financial irregularities",
-      "Security threats",
-      "Apprehensions about internal decision-making and communication challenges",
-      "Logistical difficulties"
-    ],
-    "correctAnswer": "Apprehensions about internal decision-making and communication challenges"
+    "question": "External Affairs Minister S. Jaishankar's recent comments at the UNGA included India's call for restraint regarding ship attacks. In which geographical area were these ship attacks occurring?",
+    "options": ["Bay of Bengal", "Arabian Sea", "Gulf region", "Indian Ocean"],
+    "correctAnswer": "Gulf region"
   },
   {
     "id": 21,
-    "question": "The Election Commission clarified the role of which individuals amidst the SIR row concerning voter inclusion?",
-    "options": [
-      "Political party agents",
-      "Media personnel",
-      "Officers involved in the process",
-      "International observers"
-    ],
-    "correctAnswer": "Officers involved in the process"
+    "question": "What was External Affairs Minister S. Jaishankar's primary message regarding ship attacks in the Gulf and seafarers during his address at the UNGA?",
+    "options": ["Call for sanctions", "Call for military intervention", "Call for restraint", "Call for investigations"],
+    "correctAnswer": "Call for restraint"
   },
   {
     "id": 22,
-    "question": "Which of the following parties has specifically raised alarms over Chief Election Commissioner Gyanesh Kumar's strategies?",
-    "options": [
-      "BJP",
-      "BJD",
-      "Trinamool Congress",
-      "NCP"
-    ],
-    "correctAnswer": "Trinamool Congress"
+    "question": "India's stance on international terrorism, as articulated by Jaishankar at the UN, emphasizes that it's up to the 'perpetrator of terrorism' to mend its ways. This stance is consistent for all of India, including Telangana and Andhra Pradesh. Which international forum was he addressing?",
+    "options": ["G20 Summit", "SCO Meeting", "UN General Assembly", "BRICS Summit"],
+    "correctAnswer": "UN General Assembly"
   },
   {
     "id": 23,
-    "question": "What did a Union minister state regarding the EC-SIR row, according to one of the headlines?",
-    "options": [
-      "That there is proof of the row",
-      "That the EC is acting impartially",
-      "That there is 'no proof' of the EC-SIR row",
-      "That the opposition's concerns are valid"
-    ],
-    "correctAnswer": "That there is 'no proof' of the EC-SIR row"
+    "question": "The issue of seafarers was also mentioned by S. Jaishankar at the UNGA, alongside ship attacks in the Gulf. This highlights India's concern for its citizens working abroad, including those from coastal states like Andhra Pradesh. What was the broader context of his remarks concerning seafarers?",
+    "options": ["Employment opportunities", "Safety and security", "Training programs", "Wage disputes"],
+    "correctAnswer": "Safety and security"
   },
   {
     "id": 24,
-    "question": "The 'referee fumbles' analogy used in the news context refers to issues concerning what body?",
-    "options": [
-      "The Supreme Court",
-      "The Parliament",
-      "The Election Commission",
-      "The Central Bureau of Investigation"
-    ],
-    "correctAnswer": "The Election Commission"
+    "question": "When referring to the 'perpetrator of terrorism,' Jaishankar implied a state actor. What kind of actions was he urging this entity to undertake?",
+    "options": ["Increase trade", "Mend its ways", "Join global alliances", "Share intelligence"],
+    "correctAnswer": "Mend its ways"
   },
   {
     "id": 25,
-    "question": "The discussions within the INDIA bloc regarding the EC are focused on how to collectively address changes to what?",
-    "options": [
-      "The national budget",
-      "The electoral rolls",
-      "Foreign policy",
-      "Infrastructure projects"
-    ],
-    "correctAnswer": "The electoral rolls"
+    "question": "S. Jaishankar's address at the UNGA, where he discussed global security issues affecting India as a whole, including its coastal regions like Andhra Pradesh, covered what general themes related to global stability?",
+    "options": ["Economic development and trade", "Climate change and environment", "Counter-terrorism and maritime security", "Space exploration and technology"],
+    "correctAnswer": "Counter-terrorism and maritime security"
   }
 ]

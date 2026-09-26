@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What does 'SIR' primarily refer to in the context of electoral processes, as mentioned in the news and relevant to states like Telangana and Andhra Pradesh?",
-    "options": ["Special Investigative Report", "State Infrastructure Review", "Special Summary Revision", "Senior Indian Representatives"],
-    "correctAnswer": "Special Summary Revision"
+    "question": "What phrase used by the Telangana Chief Minister recently sparked a significant controversy with the BJP?",
+    "options": ["'Development for all, appeasement for none'", "'Gandhi parivar vs Sangh parivar'", "'Federalism above all'", "'Telangana First'"],
+    "correctAnswer": "'Gandhi parivar vs Sangh parivar'"
   },
   {
     "id": 2,
-    "question": "According to BJP allies mentioned in the news, what must the Election Commission do to prevent the loss of public trust regarding election-related matters across India, including in states like Telangana and Andhra Pradesh?",
-    "options": ["Appoint new members", "Clear the air", "Hold more rallies", "Change election dates"],
-    "correctAnswer": "Clear the air"
+    "question": "Which political party criticized the Telangana CM for his 'Gandhi parivar vs Sangh parivar' remarks?",
+    "options": ["Indian National Congress", "Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 3,
-    "question": "Which political party, as per the headlines, staged protests across India against the Chief Election Commissioner concerning electoral issues?",
-    "options": ["BJP", "Samajwadi Party", "Congress", "AAP"],
-    "correctAnswer": "Congress"
+    "question": "The remarks 'Gandhi parivar vs Sangh parivar' that drew criticism were made by the Chief Minister of which Indian state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Kerala"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 4,
-    "question": "Officials clarified that 'marking VIPs' is a routine process that was part of which electoral revision even before SIR, affecting voter lists in all states including Telangana and Andhra Pradesh?",
-    "options": ["General Election Roll", "Special Electoral Survey", "Summary Special Revision (SSR)", "Public Consultation Record"],
-    "correctAnswer": "Summary Special Revision (SSR)"
+    "question": "The BJP's criticism of the Telangana CM's 'Gandhi parivar vs Sangh parivar' remarks suggested that the CM revealed what truth?",
+    "options": ["A new economic policy", "A secret alliance with a regional party", "His party's true ideological alignment", "A plan for state infrastructure development"],
+    "correctAnswer": "His party's true ideological alignment"
   },
   {
     "id": 5,
-    "question": "Who moved the Supreme Court and Attorney General for action against the poll panel chief regarding alleged 'unilateral' moves in the electoral process, a matter of national importance?",
-    "options": ["Political leaders", "Journalists", "Lawyers", "Public activists"],
-    "correctAnswer": "Lawyers"
+    "question": "In the context of the Telangana CM's remarks, what does the term 'Gandhi parivar' typically refer to in Indian politics?",
+    "options": ["The family of Mahatma Gandhi", "The Nehru-Gandhi family and its political influence", "A group of prominent industrialists", "A collective of spiritual leaders"],
+    "correctAnswer": "The Nehru-Gandhi family and its political influence"
   },
   {
     "id": 6,
-    "question": "The Supreme Court is scheduled to hear a plea related to seizing assets in which specific type of cases, which are relevant to public examinations in all states including Telangana and Andhra Pradesh?",
-    "options": ["Land dispute cases", "Cybercrime cases", "Paper-leak cases", "Money laundering cases"],
-    "correctAnswer": "Paper-leak cases"
+    "question": "What does the term 'Sangh parivar' generally denote in the context of political discourse referenced by the Telangana CM?",
+    "options": ["A family of economists", "The Rashtriya Swayamsevak Sangh (RSS) and its affiliated organizations", "A group advocating for regional autonomy", "An alliance of left-wing parties"],
+    "correctAnswer": "The Rashtriya Swayamsevak Sangh (RSS) and its affiliated organizations"
   },
   {
     "id": 7,
-    "question": "Which major political party, as per the headlines, defended the 'SIR' process against opposition criticism regarding its conduct in Indian elections?",
-    "options": ["Congress", "BJP", "DMK", "BJD"],
-    "correctAnswer": "BJP"
+    "question": "The Election Commission of India (ECI) conducts a 'Special Summary Revision' (SIR) of electoral rolls. How does this process directly impact voters in states like Telangana and Andhra Pradesh?",
+    "options": ["It decides the state budget allocation", "It updates and purifies voter lists", "It sets new tax policies", "It appoints district collectors"],
+    "correctAnswer": "It updates and purifies voter lists"
   },
   {
     "id": 8,
-    "question": "The ongoing discussions about the Election Commission's integrity are crucial for ensuring fair and free elections in states like Telangana and Andhra Pradesh. Which constitutional body is central to this?",
-    "options": ["Supreme Court", "Parliament", "Election Commission of India", "Prime Minister's Office"],
-    "correctAnswer": "Election Commission of India"
+    "question": "What is the primary objective of voter roll revision exercises conducted by the Election Commission in states like Telangana?",
+    "options": ["To increase the number of polling booths", "To update and purify electoral rolls by adding new voters and removing duplicates/dead voters", "To register political parties", "To conduct exit polls"],
+    "correctAnswer": "To update and purify electoral rolls by adding new voters and removing duplicates/dead voters"
   },
   {
     "id": 9,
-    "question": "The plea against the CEC in the Supreme Court specifically refers to allegations of what kind of moves by the poll panel chief?",
-    "options": ["Corrupt", "Unilateral", "Biased", "Inefficient"],
-    "correctAnswer": "Unilateral"
+    "question": "Recent political discourse across India, including in states like Telangana, has centered on the Election Commission's transparency. What specific process related to electoral rolls was a key point of discussion?",
+    "options": ["The annual budget allocation", "The Special Summary Revision (SIR)", "The formation of new districts", "The appointment of judicial officers"],
+    "correctAnswer": "The Special Summary Revision (SIR)"
   },
   {
     "id": 10,
-    "question": "The Supreme Court's decision on seizing assets in paper-leak cases could have significant implications for public recruitment and examinations in all Indian states, including Andhra Pradesh and Telangana. What is the primary concern addressed by such cases?",
-    "options": ["Environmental damage", "Examination integrity", "Foreign policy", "Infrastructure development"],
-    "correctAnswer": "Examination integrity"
+    "question": "Which constitutional body is primarily responsible for conducting elections and maintaining voter rolls in Indian states such as Andhra Pradesh?",
+    "options": ["Supreme Court of India", "NITI Aayog", "Election Commission of India", "Union Public Service Commission"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 11,
-    "question": "What is the critical element that 3 BJP allies emphasized the Election Commission must not lose, as per the news, for the proper functioning of democracy across India?",
-    "options": ["Political power", "International support", "People's trust", "Financial stability"],
-    "correctAnswer": "People's trust"
+    "question": "One of the goals praised for the Election Commission by some political leaders, relevant to conducting fair elections in any state like Telangana, is ensuring what kind of election?",
+    "options": ["A technology-driven election", "A single-phase election", "A violence-free election", "A social media-heavy election"],
+    "correctAnswer": "A violence-free election"
   },
   {
     "id": 12,
-    "question": "What is the primary purpose of processes like SIR and SSR carried out by the Election Commission, which are vital for democratic elections in states like Telangana and Andhra Pradesh?",
-    "options": ["To elect new leaders", "To revise and update voter lists", "To conduct political surveys", "To distribute government schemes"],
-    "correctAnswer": "To revise and update voter lists"
+    "question": "Opposition parties, including those active in Telangana, recently staged protests across India against the Election Commission. What was the general nature of their grievances?",
+    "options": ["Demands for increased election funding", "Allegations of bias and lack of transparency in EC decisions", "Calls for a uniform civil code", "Protests against climate change policies"],
+    "correctAnswer": "Allegations of bias and lack of transparency in EC decisions"
   },
   {
     "id": 13,
-    "question": "The Congress party's protests against the CEC were noted to be taking place in what geographical scope?",
-    "options": ["Only in Delhi", "Across major cities", "Across India", "Only in specific states"],
-    "correctAnswer": "Across India"
+    "question": "The 'SIR exercise' mentioned in recent news refers to the Special Summary Revision of electoral rolls. Which authority primarily conducts this exercise in all Indian states, including Andhra Pradesh?",
+    "options": ["State Finance Department", "Chief Minister's Office", "Election Commission of India", "Ministry of Home Affairs"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 14,
-    "question": "Apart from the Supreme Court, to which other high legal authority did lawyers move for action against the poll panel chief regarding election-related concerns?",
-    "options": ["Chief Justice of India", "Attorney General", "President of India", "Law Minister"],
-    "correctAnswer": "Attorney General"
+    "question": "Amidst controversies, some political parties in India, including those with a presence in Telangana, have called for the Election Commission to clear the air regarding its decisions. What is the implied concern?",
+    "options": ["Financial mismanagement", "Losing people's trust in the electoral process", "Lack of technological adoption", "Insufficient holiday declarations"],
+    "correctAnswer": "Losing people's trust in the electoral process"
   },
   {
     "id": 15,
-    "question": "The BJP's defense of SIR against opposition's criticism was described with what adjective in the headline, indicating a strong stance?",
-    "options": ["Cautious", "Conciliatory", "Combative", "Reserved"],
-    "correctAnswer": "Combative"
+    "question": "An NDA ally recently sought more speaking time for SC/ST MPs in Parliament. This issue highlights the importance of representation for these communities from all states, including which two south Indian states?",
+    "options": ["Gujarat and Maharashtra", "Uttar Pradesh and Bihar", "West Bengal and Odisha", "Telangana and Andhra Pradesh"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 16,
-    "question": "In the context of electoral roll revision (SIR/SSR), what vital information for voters in states like Telangana and Andhra Pradesh is typically updated?",
-    "options": ["Income tax details", "Residential address and age", "Property records", "Vehicle registration"],
-    "correctAnswer": "Residential address and age"
+    "question": "Ensuring equitable speaking time for Members of Parliament (MPs) from Scheduled Castes and Scheduled Tribes is crucial for representing diverse constituencies, including those in Telangana. What is the main legislative body where these MPs serve?",
+    "options": ["State Legislative Assembly", "Gram Panchayat", "Parliament of India", "Municipal Corporation"],
+    "correctAnswer": "Parliament of India"
   },
   {
     "id": 17,
-    "question": "How long will the Supreme Court wait before hearing the plea on seizing assets in paper-leak cases, a decision impacting all Indian states?",
-    "options": ["6 days", "6 months", "6 weeks", "6 years"],
-    "correctAnswer": "6 weeks"
+    "question": "The demand for more speaking time for SC/ST MPs addresses issues of fair representation and voice in national policy-making. How does this demand indirectly benefit voters in constituencies reserved for SC/ST in Andhra Pradesh?",
+    "options": ["It provides direct cash transfers", "It amplifies their concerns in Parliament", "It changes their reservation status", "It reduces their tax burden"],
+    "correctAnswer": "It amplifies their concerns in Parliament"
   },
   {
     "id": 18,
-    "question": "Why is the routine marking of 'VIPs' and other voters in electoral rolls (as part of SSR/SIR) important for democratic processes in states like Telangana and Andhra Pradesh?",
-    "options": ["To identify donors", "To ensure accurate voter registration", "To provide special privileges", "To track political affiliations"],
-    "correctAnswer": "To ensure accurate voter registration"
+    "question": "What is the administrative process that allows for the periodic updating of electoral rolls, vital for democratic functioning in states like Telangana and Andhra Pradesh?",
+    "options": ["Census enumeration", "Delimitation exercise", "Voter roll revision", "Fiscal policy review"],
+    "correctAnswer": "Voter roll revision"
   },
   {
     "id": 19,
-    "question": "The concerns raised by various parties regarding the CEC's actions highlight the importance of what characteristic of the Election Commission of India for fair elections?",
-    "options": ["Financial dependence", "Political affiliation", "Operational independence", "Bureaucratic hierarchy"],
-    "correctAnswer": "Operational independence"
+    "question": "Allegations surrounding the conduct of the Election Commission of India have led to political protests. Which national party, with a significant presence in Telangana, led some of these protests?",
+    "options": ["Aam Aadmi Party (AAP)", "Indian National Congress", "Bahujan Samaj Party (BSP)", "Trinamool Congress (TMC)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 20,
-    "question": "What is a potential negative consequence for the democratic process if the Election Commission loses people's trust, as warned by BJP allies, affecting states like Telangana and Andhra Pradesh?",
-    "options": ["Decrease in government spending", "Reduced voter turnout and legitimacy crisis", "Increase in international aid", "Slower economic growth"],
-    "correctAnswer": "Reduced voter turnout and legitimacy crisis"
+    "question": "In the context of electoral processes in India, a 'violence-free election' is a significant achievement cited by political figures. Which body is primarily responsible for ensuring this in states such as Andhra Pradesh?",
+    "options": ["State Police Department", "Home Ministry", "Election Commission of India", "Defense Ministry"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 21,
-    "question": "The fact that the Supreme Court is hearing pleas regarding the CEC's actions demonstrates which principle of Indian democracy?",
-    "options": ["Executive supremacy", "Legislative review", "Judicial review", "Media freedom"],
-    "correctAnswer": "Judicial review"
+    "question": "The political debate concerning the Election Commission often touches upon the fairness and transparency of the electoral process. Why is maintaining public trust in the EC crucial for states like Telangana?",
+    "options": ["To ensure high voter turnout", "To legitimize election results and democratic processes", "To attract foreign investment", "To improve state literacy rates"],
+    "correctAnswer": "To legitimize election results and democratic processes"
   },
   {
     "id": 22,
-    "question": "The opposition created a 'political storm' around SIR, indicating strong disagreement with what aspect of the electoral revision process?",
-    "options": ["Its necessity", "Its timing", "Its conduct or fairness", "Its budget"],
-    "correctAnswer": "Its conduct or fairness"
+    "question": "When the BJP slams remarks made by a Chief Minister, as seen recently with the Telangana CM, what does it signify about the political landscape in that state?",
+    "options": ["A period of political stability", "Intense political rivalry and ideological clashes", "Unanimous policy agreement", "A decline in media engagement"],
+    "correctAnswer": "Intense political rivalry and ideological clashes"
   },
   {
     "id": 23,
-    "question": "What is the legal consequence being sought in the Supreme Court for individuals involved in paper-leak cases, a measure that would apply across India including in Telangana and Andhra Pradesh?",
-    "options": ["Imprisonment only", "Fines only", "Seizing of assets", "Community service"],
-    "correctAnswer": "Seizing of assets"
+    "question": "The Special Summary Revision (SIR) process is critical for electoral accuracy. If this process is flawed, what could be a direct consequence for voters in Telangana and Andhra Pradesh?",
+    "options": ["Lower electricity tariffs", "Disenfranchisement of eligible voters or inclusion of ineligible voters", "Increase in public transportation fares", "Changes in school curriculum"],
+    "correctAnswer": "Disenfranchisement of eligible voters or inclusion of ineligible voters"
   },
   {
     "id": 24,
-    "question": "In the context of Indian elections and the news headlines, who is referred to as the 'poll panel chief'?",
-    "options": ["The Prime Minister", "The Chief Justice of India", "The Chief Election Commissioner", "The Speaker of Lok Sabha"],
-    "correctAnswer": "The Chief Election Commissioner"
+    "question": "The debate around the 'Gandhi parivar vs Sangh parivar' remarks by the Telangana CM reflects a broader ideological conflict within Indian politics. This conflict often plays out during elections in states like Telangana, impacting voter choices for which level of government?",
+    "options": ["Municipal only", "State and Central", "Panchayat only", "International alliances"],
+    "correctAnswer": "State and Central"
   },
   {
     "id": 25,
-    "question": "What kind of records are regularly updated through processes like SIR and SSR across India, including in Telangana and Andhra Pradesh, to facilitate democratic elections?",
-    "options": ["Birth certificates", "Land records", "Voter records", "Business licenses"],
-    "correctAnswer": "Voter records"
+    "question": "The call for the Election Commission to 'clear the air' and ensure 'people's trust' comes from various political allies. In what way does the integrity of the Election Commission directly affect the democratic health of states such as Andhra Pradesh?",
+    "options": ["It determines agricultural subsidies", "It ensures free and fair elections, upholding democratic principles", "It manages public health services", "It regulates industrial growth"],
+    "correctAnswer": "It ensures free and fair elections, upholding democratic principles"
   }
 ]

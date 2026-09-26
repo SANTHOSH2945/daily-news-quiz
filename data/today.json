@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Who is the Chief Election Commissioner (CEC) whose strategies regarding electoral rolls have raised alarms among opposition parties, a matter relevant to electoral processes in states like Telangana and Andhra Pradesh?",
-    "options": ["Sunil Arora", "Rajiv Kumar", "Gyanesh Kumar", "Sushil Chandra"],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "What is the primary subject of the controversy involving the Election Commission (EC) that has been highlighted in recent news?",
+    "options": [
+      "The SIR row",
+      "Funding of political parties",
+      "Boundary delimitation challenges",
+      "Deployment of security forces"
+    ],
+    "correctAnswer": "The SIR row"
   },
   {
     "id": 2,
-    "question": "The recent controversy involving the Election Commission of India (ECI) primarily revolves around which crucial aspect of the electoral process that impacts all states, including Telangana and Andhra Pradesh?",
-    "options": ["Voter ID card distribution", "Changes to the electoral rolls", "Deployment of security forces", "Campaign finance regulations"],
-    "correctAnswer": "Changes to the electoral rolls"
-  },
-  {
-    "id": 3,
-    "question": "Which alliance of opposition parties announced a meeting on September 30 in New Delhi to discuss the Election Commission's actions regarding electoral rolls, a matter of national electoral significance for states like Telangana?",
-    "options": ["NDA", "United Front", "INDIA bloc", "Third Front"],
+    "question": "Which political alliance is set to hold a meeting on September 30 to discuss critical electoral matters related to the EC-SIR row?",
+    "options": [
+      "NDA",
+      "INDIA bloc",
+      "Third Front",
+      "United Progressive Alliance"
+    ],
     "correctAnswer": "INDIA bloc"
   },
   {
-    "id": 4,
-    "question": "What specific concern have prominent entities like the Congress and Trinamool Congress raised regarding the Chief Election Commissioner's strategies, impacting the broader electoral framework in India, including Andhra Pradesh?",
-    "options": ["Lack of funding for elections", "Delay in election schedules", "Alarms over Chief Election Commissioner Gyanesh Kumar's strategies", "Ineffective use of EVMs"],
-    "correctAnswer": "Alarms over Chief Election Commissioner Gyanesh Kumar's strategies"
-  },
-  {
-    "id": 5,
-    "question": "The INDIA bloc's opposition parties' meeting on September 30, focusing on critical electoral matters concerning the Election Commission, was scheduled to take place in which Indian city?",
-    "options": ["Mumbai", "Bengaluru", "New Delhi", "Kolkata"],
+    "id": 3,
+    "question": "In which city was the INDIA bloc meeting regarding the EC-SIR row scheduled to take place on September 30?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Bengaluru"
+    ],
     "correctAnswer": "New Delhi"
   },
   {
+    "id": 4,
+    "question": "Who is identified as the Chief Election Commissioner (CEC) at the center of the recent electoral roll controversies?",
+    "options": [
+      "Sunil Arora",
+      "Sushil Chandra",
+      "Gyanesh Kumar",
+      "Rajiv Kumar"
+    ],
+    "correctAnswer": "Gyanesh Kumar"
+  },
+  {
+    "id": 5,
+    "question": "What specific aspect of the Election Commission's functioning has opposition parties, including Congress, raised alarms about?",
+    "options": [
+      "The budget allocation for elections",
+      "Changes to electoral rolls",
+      "The appointment of state election commissioners",
+      "The use of EVMs"
+    ],
+    "correctAnswer": "Changes to electoral rolls"
+  },
+  {
     "id": 6,
-    "question": "Mamata Banerjee has alleged that the Election Commission held the 'SIR' process to achieve what, an accusation that questions the neutrality of the electoral body for all states including Telangana and Andhra Pradesh?",
-    "options": ["To update voter photos", "To help BJP capture Bengal", "To introduce new voting machines", "To streamline ballot counting"],
-    "correctAnswer": "To help BJP capture Bengal"
+    "question": "According to the Election Commission's clarification amidst the SIR row, how are its final decisions made?",
+    "options": [
+      "By majority vote of commissioners",
+      "Unanimous",
+      "By the Chief Election Commissioner's sole discretion",
+      "Through a public referendum"
+    ],
+    "correctAnswer": "Unanimous"
   },
   {
     "id": 7,
-    "question": "What demand has Mamata Banerjee made concerning Chief Election Commissioner Gyanesh Kumar amidst the 'SIR' row, highlighting a call for accountability in the national electoral body?",
-    "options": ["His appointment as Prime Minister", "His resignation", "His transfer to another department", "His public apology"],
-    "correctAnswer": "His resignation"
+    "question": "The 'SIR row' primarily concerns the Election Commission's management of what key aspect?",
+    "options": [
+      "Election campaign funding",
+      "Voter database access and electoral rolls",
+      "Candidate nomination process",
+      "Model Code of Conduct violations"
+    ],
+    "correctAnswer": "Voter database access and electoral rolls"
   },
   {
     "id": 8,
-    "question": "Who slammed the BJP for defending the Election Commission amid the 'SIR' row and insisted that the Commission must clarify its electoral-roll processes to maintain credibility across all states?",
-    "options": ["Rahul Gandhi", "Priyank Kharge", "Akhilesh Yadav", "Arvind Kejriwal"],
-    "correctAnswer": "Priyank Kharge"
-  },
-  {
-    "id": 9,
-    "question": "Which former Election Commissioner has weighed in on the Election Commission's decision-making amidst the recent controversy, adding to the national debate on electoral integrity relevant to Andhra Pradesh and Telangana?",
-    "options": ["Navin Chawla", "SY Quraishi", "Om Prakash Rawat", "TS Krishnamurthy"],
+    "question": "Which former election commissioner has reportedly weighed in on the Election Commission's recent decision-making?",
+    "options": [
+      "T.N. Seshan",
+      "N. Gopalaswami",
+      "V.S. Sampath",
+      "Om Prakash Rawat"
+    ],
     "correctAnswer": "Om Prakash Rawat"
   },
   {
+    "id": 9,
+    "question": "The controversy surrounding the Election Commission prominently concerns the transparency and fairness of which process?",
+    "options": [
+      "The delimitation of constituencies",
+      "The voter inclusion process",
+      "The process for allocating party symbols",
+      "The scheduling of election dates"
+    ],
+    "correctAnswer": "The voter inclusion process"
+  },
+  {
     "id": 10,
-    "question": "Amidst the 'SIR' row, what has the Election Commission stated regarding its final decisions, aiming to assure the public and political parties nationwide, including those in Telangana?",
-    "options": ["They are provisional", "They are subject to review", "They are unanimous", "They are open for public consultation"],
-    "correctAnswer": "They are unanimous"
+    "question": "What internal challenge has been noted as a source of tension within the Election Commission itself, according to the news?",
+    "options": [
+      "Lack of infrastructure",
+      "Internal decision-making and communication challenges",
+      "Insufficient staff numbers",
+      "Budgetary constraints"
+    ],
+    "correctAnswer": "Internal decision-making and communication challenges"
   },
   {
     "id": 11,
-    "question": "According to reports, Election Commissioners are voicing apprehensions about which internal challenges within the EC, impacting the functioning of the national body responsible for elections in Andhra Pradesh?",
-    "options": ["Budgetary allocations", "Staffing shortages", "Internal decision-making and communication", "Logistics for election material transport"],
-    "correctAnswer": "Internal decision-making and communication"
+    "question": "What specific document or database has been mentioned as a point of contention regarding access issues within the EC controversy?",
+    "options": [
+      "Party manifestos",
+      "Voter database",
+      "Candidate affidavit details",
+      "Polling station layouts"
+    ],
+    "correctAnswer": "Voter database"
   },
   {
     "id": 12,
-    "question": "Tensions within the Election Commission have emerged surrounding which two key aspects related to voter management, processes that directly affect electoral rolls in Telangana and Andhra Pradesh?",
-    "options": ["Candidate registration and party symbols", "Polling booth locations and security", "Form modifications and voter database access", "Election observation and media coverage"],
-    "correctAnswer": "Form modifications and voter database access"
+    "question": "The ongoing debate within the Election Commission highlights a critical examination of the authority of which official?",
+    "options": [
+      "The Law Minister",
+      "The Prime Minister",
+      "The Chief Election Commissioner",
+      "The Chief Justice of India"
+    ],
+    "correctAnswer": "The Chief Election Commissioner"
   },
   {
     "id": 13,
-    "question": "The current situation within the Election Commission fuels a critical debate on whose authority, a discussion central to the independence and functioning of the body governing elections in all Indian states?",
-    "options": ["The Prime Minister's", "The Chief Election Commissioner in relation to other commissioners", "The Supreme Court's", "The Home Minister's"],
-    "correctAnswer": "The Chief Election Commissioner in relation to other commissioners"
-  },
-  {
-    "id": 14,
-    "question": "What type of legislation is currently under examination in light of the EC controversy, particularly regarding appointments and the independence of the Commission, which is vital for fair elections in states like Andhra Pradesh?",
-    "options": ["Legislation regarding campaign funding", "Legislation regarding media representation", "Legislation regarding appointments and the independence of the Commission", "Legislation regarding electronic voting machines"],
-    "correctAnswer": "Legislation regarding appointments and the independence of the Commission"
-  },
-  {
-    "id": 15,
-    "question": "Priyank Kharge emphasized that the Election Commission must clarify its electoral-roll processes to maintain what crucial aspect for its role in conducting fair elections across India, including Telangana?",
-    "options": ["Efficiency", "Speed", "Credibility", "Innovation"],
-    "correctAnswer": "Credibility"
-  },
-  {
-    "id": 16,
-    "question": "The critique surrounding the EC's actions, as voiced by Priyank Kharge, underscores significant implications for what in India, affecting the democratic process in all states including Andhra Pradesh?",
-    "options": ["India's economic growth", "India's foreign policy", "India's democratic framework", "India's defense capabilities"],
+    "question": "What broader aspect of India's democratic framework is underscored by the critique of the Election Commission's credibility?",
+    "options": [
+      "Judicial independence",
+      "Legislative oversight",
+      "Media freedom",
+      "India's democratic framework"
+    ],
     "correctAnswer": "India's democratic framework"
   },
   {
+    "id": 14,
+    "question": "Which political party has been criticized by Priyank Kharge for allegedly 'acting as EC's spokespersons' amidst the SIR row?",
+    "options": [
+      "Congress",
+      "AAP",
+      "BJP",
+      "Trinamool Congress"
+    ],
+    "correctAnswer": "BJP"
+  },
+  {
+    "id": 15,
+    "question": "Priyank Kharge insists that the Election Commission must clarify what to maintain its credibility?",
+    "options": [
+      "Its financial audit reports",
+      "Its security protocols",
+      "Its electoral-roll processes",
+      "Its disciplinary actions"
+    ],
+    "correctAnswer": "Its electoral-roll processes"
+  },
+  {
+    "id": 16,
+    "question": "What type of legislation is currently under examination regarding the Election Commission, according to the news?",
+    "options": [
+      "Legislation regarding its budget",
+      "Legislation regarding appointments and independence of the Commission",
+      "Legislation regarding the use of technology in elections",
+      "Legislation regarding political party registration"
+    ],
+    "correctAnswer": "Legislation regarding appointments and independence of the Commission"
+  },
+  {
     "id": 17,
-    "question": "What is the primary role of the Election Commission of India, as highlighted by the ongoing discussions about electoral rolls, a function critical for ensuring democratic processes in states like Telangana and Andhra Pradesh?",
-    "options": ["To form political parties", "To manage and conduct elections", "To oversee government administration", "To regulate media during elections"],
-    "correctAnswer": "To manage and conduct elections"
+    "question": "The INDIA bloc's meeting on September 30 is focused on how to collectively address what specific action by the Election Commission?",
+    "options": [
+      "Its recent press conferences",
+      "Its public awareness campaigns",
+      "Changes to the electoral rolls",
+      "Its recruitment policy"
+    ],
+    "correctAnswer": "Changes to the electoral rolls"
   },
   {
     "id": 18,
-    "question": "The 'SIR row' mentioned in the headlines refers to a controversy surrounding which process managed by the Election Commission, directly affecting the voter base for state elections in Andhra Pradesh and Telangana?",
-    "options": ["Security Intelligence Review", "Special Investigation Report", "Electoral roll changes and voter inclusion", "Strategic Infrastructure Review"],
-    "correctAnswer": "Electoral roll changes and voter inclusion"
+    "question": "What is one of the key issues that fuels the critical debate mentioned about the Election Commission's internal structure?",
+    "options": [
+      "The number of Election Commissioners",
+      "The tenure of the commissioners",
+      "The authority of the Chief Election Commissioner in relation to other commissioners",
+      "The method of voter registration"
+    ],
+    "correctAnswer": "The authority of the Chief Election Commissioner in relation to other commissioners"
   },
   {
     "id": 19,
-    "question": "Accurate and transparent changes to electoral rolls are crucial for fair elections in all Indian states, including Telangana and Andhra Pradesh, as they directly impact:",
-    "options": ["Government budgets", "Voter eligibility and representation", "Infrastructure development projects", "International relations"],
-    "correctAnswer": "Voter eligibility and representation"
+    "question": "The news describes tensions emerging within the Election Commission surrounding form modifications and what other issue?",
+    "options": [
+      "Polling station logistics",
+      "Voter database access",
+      "Security arrangements",
+      "Candidate spending limits"
+    ],
+    "correctAnswer": "Voter database access"
   },
   {
     "id": 20,
-    "question": "The authority of the Chief Election Commissioner, currently a subject of debate, directly influences the conduct of general and state assembly elections across India, including in Telangana and Andhra Pradesh, through:",
-    "options": ["Foreign policy decisions", "Economic reforms", "Decision-making on electoral processes and schedules", "Defense strategy planning"],
-    "correctAnswer": "Decision-making on electoral processes and schedules"
+    "question": "What type of concerns have Election Commissioners themselves reportedly voiced about internal decision-making?",
+    "options": [
+      "Financial irregularities",
+      "Security threats",
+      "Apprehensions about internal decision-making and communication challenges",
+      "Logistical difficulties"
+    ],
+    "correctAnswer": "Apprehensions about internal decision-making and communication challenges"
   },
   {
     "id": 21,
-    "question": "The INDIA bloc's concerns over the Election Commission's electoral roll changes, while discussed nationally, have direct implications for voter lists and election fairness in which regions?",
-    "options": ["Only metropolitan cities", "Only North Indian states", "All Indian states, including Telangana and Andhra Pradesh", "Only border areas"],
-    "correctAnswer": "All Indian states, including Telangana and Andhra Pradesh"
+    "question": "The Election Commission clarified the role of which individuals amidst the SIR row concerning voter inclusion?",
+    "options": [
+      "Political party agents",
+      "Media personnel",
+      "Officers involved in the process",
+      "International observers"
+    ],
+    "correctAnswer": "Officers involved in the process"
   },
   {
     "id": 22,
-    "question": "The Election Commission's clarification on the voter inclusion process is essential for ensuring that eligible citizens in states like Telangana and Andhra Pradesh can exercise their fundamental right to:",
-    "options": ["Form new political parties", "Protest government policies", "Vote in upcoming elections", "Access government benefits"],
-    "correctAnswer": "Vote in upcoming elections"
+    "question": "Which of the following parties has specifically raised alarms over Chief Election Commissioner Gyanesh Kumar's strategies?",
+    "options": [
+      "BJP",
+      "BJD",
+      "Trinamool Congress",
+      "NCP"
+    ],
+    "correctAnswer": "Trinamool Congress"
   },
   {
     "id": 23,
-    "question": "Which constitutional body is ultimately responsible for supervising, directing, and controlling the preparation of electoral rolls and the conduct of elections in Andhra Pradesh and Telangana?",
-    "options": ["State Election Commission", "Union Home Ministry", "Election Commission of India", "Supreme Court of India"],
-    "correctAnswer": "Election Commission of India"
+    "question": "What did a Union minister state regarding the EC-SIR row, according to one of the headlines?",
+    "options": [
+      "That there is proof of the row",
+      "That the EC is acting impartially",
+      "That there is 'no proof' of the EC-SIR row",
+      "That the opposition's concerns are valid"
+    ],
+    "correctAnswer": "That there is 'no proof' of the EC-SIR row"
   },
   {
     "id": 24,
-    "question": "The electoral roll processes and decisions made by the Election Commission of India, currently under scrutiny, impact which types of elections relevant to Telangana and Andhra Pradesh?",
-    "options": ["Only local body elections", "Only Presidential elections", "Lok Sabha and State Assembly elections", "Only by-elections"],
-    "correctAnswer": "Lok Sabha and State Assembly elections"
+    "question": "The 'referee fumbles' analogy used in the news context refers to issues concerning what body?",
+    "options": [
+      "The Supreme Court",
+      "The Parliament",
+      "The Election Commission",
+      "The Central Bureau of Investigation"
+    ],
+    "correctAnswer": "The Election Commission"
   },
   {
     "id": 25,
-    "question": "The ongoing debate about the Election Commission's decision-making and transparency in electoral processes is critical for maintaining public trust in elections across India, including in Telangana and Andhra Pradesh, particularly regarding:",
-    "options": ["The choice of ballot paper color", "The integrity of the electoral system", "The length of election campaigns", "The number of polling stations"],
-    "correctAnswer": "The integrity of the electoral system"
+    "question": "The discussions within the INDIA bloc regarding the EC are focused on how to collectively address changes to what?",
+    "options": [
+      "The national budget",
+      "The electoral rolls",
+      "Foreign policy",
+      "Infrastructure projects"
+    ],
+    "correctAnswer": "The electoral rolls"
   }
 ]

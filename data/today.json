@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the name of the evolved car safety program planned for October 2027 in India?",
-    "options": ["India Safety Standards 2.0", "Bharat NCAP 2.0", "National Vehicle Safety Program", "Auto Safety Index 2.0"],
-    "correctAnswer": "Bharat NCAP 2.0"
+    "question": "What does 'SIR' primarily refer to in the context of electoral processes, as mentioned in the news and relevant to states like Telangana and Andhra Pradesh?",
+    "options": ["Special Investigative Report", "State Infrastructure Review", "Special Summary Revision", "Senior Indian Representatives"],
+    "correctAnswer": "Special Summary Revision"
   },
   {
     "id": 2,
-    "question": "Which year is targeted for the implementation of Bharat NCAP 2.0?",
-    "options": ["2025", "2026", "2027", "2028"],
-    "correctAnswer": "2027"
+    "question": "According to BJP allies mentioned in the news, what must the Election Commission do to prevent the loss of public trust regarding election-related matters across India, including in states like Telangana and Andhra Pradesh?",
+    "options": ["Appoint new members", "Clear the air", "Hold more rallies", "Change election dates"],
+    "correctAnswer": "Clear the air"
   },
   {
     "id": 3,
-    "question": "What new area of assessment will Bharat NCAP 2.0 include, expanding beyond just occupant protection?",
-    "options": ["Road infrastructure quality", "Vulnerable road users", "Fuel efficiency standards", "Vehicle manufacturing carbon footprint"],
-    "correctAnswer": "Vulnerable road users"
-  },
-  {
-    "id": 4,
-    "question": "Which existing components of vehicle safety evaluation will remain critical under Bharat NCAP 2.0?",
-    "options": ["Engine performance and emissions", "Adult and child occupant protection", "Infotainment system features", "Vehicle aesthetic design"],
-    "correctAnswer": "Adult and child occupant protection"
-  },
-  {
-    "id": 5,
-    "question": "What additional stages of vehicle safety assessment will the revised Bharat NCAP framework cover?",
-    "options": ["Pre-delivery inspection and warranty claims", "Crash avoidance and post-collision care", "Interior comfort and luggage capacity", "Resale value and maintenance costs"],
-    "correctAnswer": "Crash avoidance and post-collision care"
-  },
-  {
-    "id": 6,
-    "question": "Which national body is mentioned in connection with a 'row' that caused unease within the NDA?",
-    "options": ["Supreme Court of India", "Election Commission (EC)", "Reserve Bank of India", "Union Public Service Commission"],
-    "correctAnswer": "Election Commission (EC)"
-  },
-  {
-    "id": 7,
-    "question": "Which political alliance experienced 'unease' and had allies seeking clarification regarding the 'EC-SIR row'?",
-    "options": ["INDIA Bloc", "United Progressive Alliance (UPA)", "National Democratic Alliance (NDA)", "Left Front"],
-    "correctAnswer": "National Democratic Alliance (NDA)"
-  },
-  {
-    "id": 8,
-    "question": "Who sought clarification from the Election Commission regarding the recent 'EC-SIR row'?",
-    "options": ["Opposition parties", "Three BJP allies", "Independent candidates", "State Election Commissions"],
-    "correctAnswer": "Three BJP allies"
-  },
-  {
-    "id": 9,
-    "question": "What was the primary action taken by three BJP allies concerning the 'EC-SIR row'?",
-    "options": ["They filed a public interest litigation", "They sought poll body clarification", "They announced their withdrawal from the alliance", "They demanded a new Chief Election Commissioner"],
-    "correctAnswer": "They sought poll body clarification"
-  },
-  {
-    "id": 10,
-    "question": "The 'EC-SIR row' mentioned in the news primarily highlights pressure from which groups?",
-    "options": ["International observers and media", "Government officials and bureaucrats", "Opposition and BJP allies", "Business leaders and industry experts"],
-    "correctAnswer": "Opposition and BJP allies"
-  },
-  {
-    "id": 11,
-    "question": "Which Union Minister recently gave a sharp reply to a Pakistani journalist?",
-    "options": ["Amit Shah", "Nirmala Sitharaman", "S. Jaishankar", "Rajnath Singh"],
-    "correctAnswer": "S. Jaishankar"
-  },
-  {
-    "id": 12,
-    "question": "To whom did Union Minister S. Jaishankar deliver a sharp reply regarding terrorism?",
-    "options": ["A Chinese diplomat", "A Pakistani journalist", "A US envoy", "An Indian opposition leader"],
-    "correctAnswer": "A Pakistani journalist"
-  },
-  {
-    "id": 13,
-    "question": "What was the central theme of S. Jaishankar's sharp reply to the Pakistani journalist?",
-    "options": ["Economic cooperation", "India's space program", "Terrorism", "Climate change initiatives"],
-    "correctAnswer": "Terrorism"
-  },
-  {
-    "id": 14,
-    "question": "The incident involving S. Jaishankar's reply highlights India's stance against which specific issue?",
-    "options": ["Cybercrime", "Cross-border terrorism", "Illegal immigration", "Trade disputes"],
-    "correctAnswer": "Cross-border terrorism"
-  },
-  {
-    "id": 15,
-    "question": "In what context did S. Jaishankar make his recent statement about a 'terrorist country'?",
-    "options": ["A UN Security Council meeting", "A press conference with a Pakistani journalist", "A bilateral summit", "An address to the Indian Parliament"],
-    "correctAnswer": "A press conference with a Pakistani journalist"
-  },
-  {
-    "id": 16,
-    "question": "Which political party recently targeted the Centre over the bail of a US national in a terror conspiracy case?",
-    "options": ["BJP", "Samajwadi Party", "Congress", "Trinamool Congress"],
+    "question": "Which political party, as per the headlines, staged protests across India against the Chief Election Commissioner concerning electoral issues?",
+    "options": ["BJP", "Samajwadi Party", "Congress", "AAP"],
     "correctAnswer": "Congress"
   },
   {
+    "id": 4,
+    "question": "Officials clarified that 'marking VIPs' is a routine process that was part of which electoral revision even before SIR, affecting voter lists in all states including Telangana and Andhra Pradesh?",
+    "options": ["General Election Roll", "Special Electoral Survey", "Summary Special Revision (SSR)", "Public Consultation Record"],
+    "correctAnswer": "Summary Special Revision (SSR)"
+  },
+  {
+    "id": 5,
+    "question": "Who moved the Supreme Court and Attorney General for action against the poll panel chief regarding alleged 'unilateral' moves in the electoral process, a matter of national importance?",
+    "options": ["Political leaders", "Journalists", "Lawyers", "Public activists"],
+    "correctAnswer": "Lawyers"
+  },
+  {
+    "id": 6,
+    "question": "The Supreme Court is scheduled to hear a plea related to seizing assets in which specific type of cases, which are relevant to public examinations in all states including Telangana and Andhra Pradesh?",
+    "options": ["Land dispute cases", "Cybercrime cases", "Paper-leak cases", "Money laundering cases"],
+    "correctAnswer": "Paper-leak cases"
+  },
+  {
+    "id": 7,
+    "question": "Which major political party, as per the headlines, defended the 'SIR' process against opposition criticism regarding its conduct in Indian elections?",
+    "options": ["Congress", "BJP", "DMK", "BJD"],
+    "correctAnswer": "BJP"
+  },
+  {
+    "id": 8,
+    "question": "The ongoing discussions about the Election Commission's integrity are crucial for ensuring fair and free elections in states like Telangana and Andhra Pradesh. Which constitutional body is central to this?",
+    "options": ["Supreme Court", "Parliament", "Election Commission of India", "Prime Minister's Office"],
+    "correctAnswer": "Election Commission of India"
+  },
+  {
+    "id": 9,
+    "question": "The plea against the CEC in the Supreme Court specifically refers to allegations of what kind of moves by the poll panel chief?",
+    "options": ["Corrupt", "Unilateral", "Biased", "Inefficient"],
+    "correctAnswer": "Unilateral"
+  },
+  {
+    "id": 10,
+    "question": "The Supreme Court's decision on seizing assets in paper-leak cases could have significant implications for public recruitment and examinations in all Indian states, including Andhra Pradesh and Telangana. What is the primary concern addressed by such cases?",
+    "options": ["Environmental damage", "Examination integrity", "Foreign policy", "Infrastructure development"],
+    "correctAnswer": "Examination integrity"
+  },
+  {
+    "id": 11,
+    "question": "What is the critical element that 3 BJP allies emphasized the Election Commission must not lose, as per the news, for the proper functioning of democracy across India?",
+    "options": ["Political power", "International support", "People's trust", "Financial stability"],
+    "correctAnswer": "People's trust"
+  },
+  {
+    "id": 12,
+    "question": "What is the primary purpose of processes like SIR and SSR carried out by the Election Commission, which are vital for democratic elections in states like Telangana and Andhra Pradesh?",
+    "options": ["To elect new leaders", "To revise and update voter lists", "To conduct political surveys", "To distribute government schemes"],
+    "correctAnswer": "To revise and update voter lists"
+  },
+  {
+    "id": 13,
+    "question": "The Congress party's protests against the CEC were noted to be taking place in what geographical scope?",
+    "options": ["Only in Delhi", "Across major cities", "Across India", "Only in specific states"],
+    "correctAnswer": "Across India"
+  },
+  {
+    "id": 14,
+    "question": "Apart from the Supreme Court, to which other high legal authority did lawyers move for action against the poll panel chief regarding election-related concerns?",
+    "options": ["Chief Justice of India", "Attorney General", "President of India", "Law Minister"],
+    "correctAnswer": "Attorney General"
+  },
+  {
+    "id": 15,
+    "question": "The BJP's defense of SIR against opposition's criticism was described with what adjective in the headline, indicating a strong stance?",
+    "options": ["Cautious", "Conciliatory", "Combative", "Reserved"],
+    "correctAnswer": "Combative"
+  },
+  {
+    "id": 16,
+    "question": "In the context of electoral roll revision (SIR/SSR), what vital information for voters in states like Telangana and Andhra Pradesh is typically updated?",
+    "options": ["Income tax details", "Residential address and age", "Property records", "Vehicle registration"],
+    "correctAnswer": "Residential address and age"
+  },
+  {
     "id": 17,
-    "question": "What is the name of the US national whose bail sparked criticism from the Congress against the Centre?",
-    "options": ["John Smith", "Matthew Aaron VanDyke", "David Johnson", "Robert Brown"],
-    "correctAnswer": "Matthew Aaron VanDyke"
+    "question": "How long will the Supreme Court wait before hearing the plea on seizing assets in paper-leak cases, a decision impacting all Indian states?",
+    "options": ["6 days", "6 months", "6 weeks", "6 years"],
+    "correctAnswer": "6 weeks"
   },
   {
     "id": 18,
-    "question": "Matthew Aaron VanDyke, the US national, was held in connection with what kind of case?",
-    "options": ["Espionage case", "Financial fraud case", "Terror conspiracy case", "Drug trafficking case"],
-    "correctAnswer": "Terror conspiracy case"
+    "question": "Why is the routine marking of 'VIPs' and other voters in electoral rolls (as part of SSR/SIR) important for democratic processes in states like Telangana and Andhra Pradesh?",
+    "options": ["To identify donors", "To ensure accurate voter registration", "To provide special privileges", "To track political affiliations"],
+    "correctAnswer": "To ensure accurate voter registration"
   },
   {
     "id": 19,
-    "question": "The Congress party's criticism in this context was directed towards which entity?",
-    "options": ["The judiciary", "The state government", "The Centre (Prime Minister)", "The US Embassy"],
-    "correctAnswer": "The Centre (Prime Minister)"
+    "question": "The concerns raised by various parties regarding the CEC's actions highlight the importance of what characteristic of the Election Commission of India for fair elections?",
+    "options": ["Financial dependence", "Political affiliation", "Operational independence", "Bureaucratic hierarchy"],
+    "correctAnswer": "Operational independence"
   },
   {
     "id": 20,
-    "question": "What was the specific accusation made by Congress against the PM in relation to VanDyke's bail?",
-    "options": ["Incompetence", "Compromised", "Lack of transparency", "Unpatriotic"],
-    "correctAnswer": "Compromised"
+    "question": "What is a potential negative consequence for the democratic process if the Election Commission loses people's trust, as warned by BJP allies, affecting states like Telangana and Andhra Pradesh?",
+    "options": ["Decrease in government spending", "Reduced voter turnout and legitimacy crisis", "Increase in international aid", "Slower economic growth"],
+    "correctAnswer": "Reduced voter turnout and legitimacy crisis"
   },
   {
     "id": 21,
-    "question": "What is the broader goal of India's Bharat NCAP program, as indicated by its evolution to 2.0?",
-    "options": ["To increase vehicle production", "To enhance overall vehicle safety standards", "To promote electric vehicles", "To reduce import duties on cars"],
-    "correctAnswer": "To enhance overall vehicle safety standards"
+    "question": "The fact that the Supreme Court is hearing pleas regarding the CEC's actions demonstrates which principle of Indian democracy?",
+    "options": ["Executive supremacy", "Legislative review", "Judicial review", "Media freedom"],
+    "correctAnswer": "Judicial review"
   },
   {
     "id": 22,
-    "question": "The 'EC-SIR row' and subsequent demand for clarification from BJP allies suggests what about the current political climate?",
-    "options": ["Strong unity within the ruling alliance", "Increased scrutiny and pressure on constitutional bodies", "Decline in opposition influence", "Uncontested authority of the Election Commission"],
-    "correctAnswer": "Increased scrutiny and pressure on constitutional bodies"
+    "question": "The opposition created a 'political storm' around SIR, indicating strong disagreement with what aspect of the electoral revision process?",
+    "options": ["Its necessity", "Its timing", "Its conduct or fairness", "Its budget"],
+    "correctAnswer": "Its conduct or fairness"
   },
   {
     "id": 23,
-    "question": "S. Jaishankar's recent statement is indicative of India's firm diplomatic stance against which specific threat?",
-    "options": ["Climate change denial", "Economic protectionism", "State-sponsored terrorism", "Cyber warfare"],
-    "correctAnswer": "State-sponsored terrorism"
+    "question": "What is the legal consequence being sought in the Supreme Court for individuals involved in paper-leak cases, a measure that would apply across India including in Telangana and Andhra Pradesh?",
+    "options": ["Imprisonment only", "Fines only", "Seizing of assets", "Community service"],
+    "correctAnswer": "Seizing of assets"
   },
   {
     "id": 24,
-    "question": "The criticism from Congress regarding the bail of a US national in a terror conspiracy case reflects ongoing tension between which two political entities in India?",
-    "options": ["Judiciary and Legislature", "Central Government and State Governments", "Ruling Party and Opposition", "Defence Ministry and Home Ministry"],
-    "correctAnswer": "Ruling Party and Opposition"
+    "question": "In the context of Indian elections and the news headlines, who is referred to as the 'poll panel chief'?",
+    "options": ["The Prime Minister", "The Chief Justice of India", "The Chief Election Commissioner", "The Speaker of Lok Sabha"],
+    "correctAnswer": "The Chief Election Commissioner"
   },
   {
     "id": 25,
-    "question": "According to Union Minister Amit Shah, what two key factors have helped transform India into a global manufacturing hub under PM Modi's leadership?",
-    "options": ["International trade agreements and foreign aid", "Reduced taxation and export subsidies", "Political stability and policy continuity/implementation", "Enhanced agricultural output and rural development"],
-    "correctAnswer": "Political stability and policy continuity/implementation"
+    "question": "What kind of records are regularly updated through processes like SIR and SSR across India, including in Telangana and Andhra Pradesh, to facilitate democratic elections?",
+    "options": ["Birth certificates", "Land records", "Voter records", "Business licenses"],
+    "correctAnswer": "Voter records"
   }
 ]

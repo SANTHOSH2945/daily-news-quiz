@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which political party emerged victorious in the 2023 Telangana Assembly Elections?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "The Government has deployed an AI tool to scrutinize Detailed Project Reports (DPRs) for rural road projects across India. For states like Telangana and Andhra Pradesh, what is the primary purpose of this deployment?",
+    "options": [
+      "To monitor traffic flow on existing roads",
+      "To streamline the evaluation and approval of new project proposals",
+      "To manage land acquisition processes",
+      "To survey new areas for agricultural development"
+    ],
+    "correctAnswer": "To streamline the evaluation and approval of new project proposals"
   },
   {
     "id": 2,
-    "question": "Who is the current Chief Electoral Officer (CEO) of Andhra Pradesh?",
-    "options": ["Gopal Krishna Dwivedi", "Mukesh Kumar Meena", "Bhanwar Lal", "Rajat Kumar"],
-    "correctAnswer": "Mukesh Kumar Meena"
+    "question": "What specific documents related to rural road projects are being scrutinized by the recently deployed AI tool, a national initiative beneficial to states like Andhra Pradesh?",
+    "options": [
+      "Environmental Impact Assessments (EIAs)",
+      "Financial Audit Reports (FARs)",
+      "Detailed Project Reports (DPRs)",
+      "Quarterly Progress Reports (QPRs)"
+    ],
+    "correctAnswer": "Detailed Project Reports (DPRs)"
   },
   {
     "id": 3,
-    "question": "Which leader was sworn in as the Chief Minister of Telangana following the 2023 Assembly elections?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Eatala Rajender", "Bandi Sanjay Kumar"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "The deployment of an AI tool for rural road project DPRs is intended to enhance what aspect of infrastructure development in states such as Telangana?",
+    "options": [
+      "The speed of road construction",
+      "The accuracy and efficiency of project proposal evaluation",
+      "The training of local road engineers",
+      "The procurement of construction materials"
+    ],
+    "correctAnswer": "The accuracy and efficiency of project proposal evaluation"
   },
   {
     "id": 4,
-    "question": "How many Lok Sabha constituencies are there in Andhra Pradesh?",
-    "options": ["17", "25", "32", "42"],
-    "correctAnswer": "25"
+    "question": "In the context of the AI tool scrutinizing rural road project DPRs, what does 'DPR' specifically stand for, a critical component in infrastructure planning for states like Andhra Pradesh?",
+    "options": [
+      "Development Plan Requirement",
+      "Digital Project Record",
+      "District Planning Review",
+      "Detailed Project Report"
+    ],
+    "correctAnswer": "Detailed Project Report"
   },
   {
     "id": 5,
-    "question": "The Election Commission of India plays a crucial role in conducting state assembly elections. When were the last Assembly elections held in Telangana?",
-    "options": ["November 2022", "December 2023", "October 2023", "November 2023"],
-    "correctAnswer": "November 2023"
+    "question": "The central government's initiative to deploy an AI tool for rural road projects aims to benefit all states, including Telangana, by improving which key process?",
+    "options": [
+      "Identifying suitable contractors",
+      "Post-construction quality checks",
+      "Pre-approval scrutiny of project plans",
+      "Public grievance redressal related to roads"
+    ],
+    "correctAnswer": "Pre-approval scrutiny of project plans"
   },
   {
     "id": 6,
-    "question": "What is the name of the flagship women's empowerment scheme launched by the Telangana government, providing financial assistance?",
-    "options": ["Rythu Bandhu", "Kalyana Lakshmi", "Aasara Pensions", "Mahalakshmi Scheme"],
-    "correctAnswer": "Mahalakshmi Scheme"
+    "question": "How is the AI tool for scrutinizing rural road project DPRs expected to contribute to better infrastructure development in states like Andhra Pradesh?",
+    "options": [
+      "By directly funding new road projects",
+      "By ensuring faster and more accurate assessment of project viability",
+      "By providing real-time construction updates",
+      "By engaging local communities in project planning"
+    ],
+    "correctAnswer": "By ensuring faster and more accurate assessment of project viability"
   },
   {
     "id": 7,
-    "question": "Which of the following is a key social welfare scheme implemented by the Andhra Pradesh government for financial aid to mothers?",
-    "options": ["Amma Vodi", "Rythu Bharosa", "Jagananna Vidya Deevena", "Cheyutha"],
-    "correctAnswer": "Amma Vodi"
+    "question": "Which sector of infrastructure development, particularly relevant for rural connectivity in states such as Telangana, is currently utilizing a new AI tool for scrutiny?",
+    "options": [
+      "Rural electrification projects",
+      "Rural drinking water supply projects",
+      "Rural road construction projects",
+      "Rural housing projects"
+    ],
+    "correctAnswer": "Rural road construction projects"
   },
   {
     "id": 8,
-    "question": "The 'Kanti Velugu' program, a universal eye screening initiative, is a prominent healthcare scheme of which Indian state?",
-    "options": ["Karnataka", "Kerala", "Telangana", "Andhra Pradesh"],
-    "correctAnswer": "Telangana"
+    "question": "The Government's new AI tool is designed to enhance the scrutiny of project documents for rural roads. This move is part of a broader push for efficiency in which stage of project lifecycle, critical for states like Andhra Pradesh?",
+    "options": [
+      "Execution and monitoring",
+      "Maintenance and repair",
+      "Planning and approval",
+      "Post-completion audit"
+    ],
+    "correctAnswer": "Planning and approval"
   },
   {
     "id": 9,
-    "question": "Which welfare program in Andhra Pradesh provides financial assistance to eligible women from SC, ST, BC, and Minority communities to improve their livelihood?",
-    "options": ["Pension Kanuka", "YSR Bima", "Jagananna Vidya Kanuka", "YSR Cheyutha"],
-    "correctAnswer": "YSR Cheyutha"
+    "question": "According to the UNFPA report, which of the following is explicitly cited as a primary reason for migrant workers moving out for a better life from regions like Telangana?",
+    "options": [
+      "Desire for urban lifestyle",
+      "Livelihood insecurity",
+      "Lack of entertainment options",
+      "Family disputes"
+    ],
+    "correctAnswer": "Livelihood insecurity"
   },
   {
     "id": 10,
-    "question": "What is the current executive capital of Andhra Pradesh, as declared by the state government?",
-    "options": ["Hyderabad", "Amaravati", "Visakhapatnam", "Kurnool"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "The UNFPA report highlights 'low wages' as a significant factor for migrant workers seeking opportunities elsewhere. This issue is particularly relevant for which demographic in states such as Andhra Pradesh?",
+    "options": [
+      "High-skill IT professionals",
+      "Industrial factory owners",
+      "Rural migrant workers",
+      "Government employees"
+    ],
+    "correctAnswer": "Rural migrant workers"
   },
   {
     "id": 11,
-    "question": "Which major river forms a significant part of the border between Telangana and Andhra Pradesh?",
-    "options": ["Godavari", "Krishna", "Penna", "Tungabhadra"],
-    "correctAnswer": "Krishna"
+    "question": "Which international organization released a report that identifies key reasons for migrant workers moving out for a better life, affecting states like Telangana and Andhra Pradesh?",
+    "options": [
+      "World Bank (WB)",
+      "International Monetary Fund (IMF)",
+      "United Nations Population Fund (UNFPA)",
+      "World Health Organization (WHO)"
+    ],
+    "correctAnswer": "United Nations Population Fund (UNFPA)"
   },
   {
     "id": 12,
-    "question": "Which city is known as the 'IT Hub' and capital of Telangana?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nalgonda"],
-    "correctAnswer": "Hyderabad"
+    "question": "The UNFPA report identifies 'poverty and debt' as crucial reasons compelling migrant workers to leave their native places. This phenomenon is commonly observed among which segment of the population in states like Andhra Pradesh?",
+    "options": [
+      "Wealthy landowners",
+      "Agricultural laborers and daily wage earners",
+      "Established businessmen",
+      "University students"
+    ],
+    "correctAnswer": "Agricultural laborers and daily wage earners"
   },
   {
     "id": 13,
-    "question": "The 'Polavaram Project', a multi-purpose irrigation project, is located in which Indian state?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Odisha"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What is the overarching theme of the UNFPA report mentioned in the news, which describes the challenges faced by migrant workers originating from various Indian states including Telangana?",
+    "options": [
+      "Impact of climate change on agriculture",
+      "Reasons for internal migration in India",
+      "Healthcare access for urban populations",
+      "Education reforms in rural areas"
+    ],
+    "correctAnswer": "Reasons for internal migration in India"
   },
   {
     "id": 14,
-    "question": "Which port is one of the busiest in India and the deepest landlocked port, located in Andhra Pradesh?",
-    "options": ["Kakinada Port", "Gangavaram Port", "Visakhapatnam Port", "Machilipatnam Port"],
-    "correctAnswer": "Visakhapatnam Port"
+    "question": "The UNFPA report provides insights into the motivations for migration in India. Which combination of factors is listed as reasons for migrant workers seeking better lives, a situation prevalent in states like Andhra Pradesh?",
+    "options": [
+      "Religious pilgrimage, cultural exchange, tourism",
+      "Livelihood insecurity, low wages, poverty, and debt",
+      "Political instability, natural disasters, conflict",
+      "Adventure sports, luxury travel, culinary exploration"
+    ],
+    "correctAnswer": "Livelihood insecurity, low wages, poverty, and debt"
   },
   {
     "id": 15,
-    "question": "What is the primary agricultural crop grown extensively in both Telangana and Andhra Pradesh?",
-    "options": ["Wheat", "Sugarcane", "Rice", "Cotton"],
-    "correctAnswer": "Rice"
+    "question": "The reasons for migrant workers moving out for a better life, as highlighted by the UNFPA report, underscore the socio-economic conditions in various Indian regions. Which term best describes the core issue that drives this migration from states like Telangana?",
+    "options": [
+      "Social mobility",
+      "Economic distress",
+      "Educational advancement",
+      "Environmental concerns"
+    ],
+    "correctAnswer": "Economic distress"
   },
   {
     "id": 16,
-    "question": "The High Court for the State of Telangana was established in which year?",
-    "options": ["2014", "2019", "2016", "2020"],
-    "correctAnswer": "2019"
+    "question": "According to the UNFPA report, what challenge specifically contributes to livelihood insecurity for migrant workers in states such as Andhra Pradesh, prompting them to move?",
+    "options": [
+      "Lack of access to internet",
+      "Insufficient and unreliable income sources",
+      "High cost of urban living",
+      "Poor public transportation"
+    ],
+    "correctAnswer": "Insufficient and unreliable income sources"
   },
   {
     "id": 17,
-    "question": "Who is the current Chief Justice of the High Court for the State of Andhra Pradesh?",
-    "options": ["Justice Prashant Kumar Mishra", "Justice Dhiraj Singh Thakur", "Justice Satish Chandra Sharma", "Justice Raghvendra Singh Chauhan"],
-    "correctAnswer": "Justice Dhiraj Singh Thakur"
+    "question": "What is the name of the joint Indo-French satellite mission that is on a fast-track to map Earth's water sources, providing crucial data for water management in states like Telangana?",
+    "options": [
+      "Saraswati",
+      "Varuna",
+      "Trishna",
+      "Ganga"
+    ],
+    "correctAnswer": "Trishna"
   },
   {
     "id": 18,
-    "question": "Which prominent legal institution is located in Hyderabad, serving as the common capital's High Court until its bifurcation?",
-    "options": ["Andhra Pradesh High Court", "Telangana High Court", "Hyderabad High Court", "United High Court for AP & TS"],
-    "correctAnswer": "Telangana High Court"
+    "question": "The 'Trishna' mission is a collaboration between India and which other country, focusing on mapping Earth's water sources for global environmental monitoring and regional benefits, including for Andhra Pradesh?",
+    "options": [
+      "USA",
+      "Russia",
+      "France",
+      "Japan"
+    ],
+    "correctAnswer": "France"
   },
   {
     "id": 19,
-    "question": "The 'Village Secretariats/Ward Secretariats' system, aimed at decentralizing governance and service delivery, was introduced in which state?",
-    "options": ["Telangana", "Kerala", "Andhra Pradesh", "Karnataka"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What is the primary objective of the 'Trishna' satellite mission, co-developed by India and France, which is significant for water resource management in river-rich states like Telangana?",
+    "options": [
+      "To monitor atmospheric pollution levels",
+      "To map Earth's surface temperature",
+      "To map Earth's water sources",
+      "To track deforestation rates"
+    ],
+    "correctAnswer": "To map Earth's water sources"
   },
   {
     "id": 20,
-    "question": "The state of Telangana recently inaugurated a new integrated command and control center for police. In which city is it located?",
-    "options": ["Warangal", "Hyderabad", "Nizamabad", "Khammam"],
-    "correctAnswer": "Hyderabad"
+    "question": "Space Minister Jitendra Singh announced the fast-tracking of the 'Trishna' mission. What kind of mission is 'Trishna', and what area of study will it primarily contribute to, relevant for hydrological planning in states like Andhra Pradesh?",
+    "options": [
+      "A lunar exploration mission focusing on geology",
+      "A deep space probe studying exoplanets",
+      "An Earth observation satellite mission focused on hydrology",
+      "A planetary defense mission to detect asteroids"
+    ],
+    "correctAnswer": "An Earth observation satellite mission focused on hydrology"
   },
   {
     "id": 21,
-    "question": "Which project in Telangana aims to provide irrigation water to dry areas by lifting water from the Godavari river?",
-    "options": ["Kaleshwaram Lift Irrigation Project", "Nagarjuna Sagar Project", "Sriram Sagar Project", "Kadam Project"],
-    "correctAnswer": "Kaleshwaram Lift Irrigation Project"
+    "question": "The 'Trishna' mission, an Indo-French collaboration, aims to provide valuable data that can assist in better planning and management of a critical natural resource. For states like Telangana, what resource will it primarily help map and monitor?",
+    "options": [
+      "Mineral deposits",
+      "Forest cover",
+      "Water resources",
+      "Urban expansion"
+    ],
+    "correctAnswer": "Water resources"
   },
   {
     "id": 22,
-    "question": "The city of Tirupati, a major pilgrimage and economic center, is located in which state?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Which Indian government official provided an update on the 'Trishna' satellite mission, emphasizing its fast-track status and importance for India's scientific capabilities, including those beneficial for states like Andhra Pradesh?",
+    "options": [
+      "Defence Minister",
+      "Finance Minister",
+      "Space Minister",
+      "Home Minister"
+    ],
+    "correctAnswer": "Space Minister"
   },
   {
     "id": 23,
-    "question": "Which festival, unique to Telangana, involves the worship of Goddess Gauri with flowers arranged in a conical shape?",
-    "options": ["Bonalu", "Bathukamma", "Sankranti", "Ugadi"],
-    "correctAnswer": "Bathukamma"
+    "question": "The 'Trishna' mission is specifically designed to provide comprehensive maps of which essential component of the Earth's system, crucial for agricultural and ecological planning in states such as Telangana?",
+    "options": [
+      "Atmospheric composition",
+      "Ocean currents",
+      "Land use patterns",
+      "Water sources"
+    ],
+    "correctAnswer": "Water sources"
   },
   {
     "id": 24,
-    "question": "What is the name of the upper house of the state legislature in Andhra Pradesh?",
-    "options": ["Vidhan Parishad", "Rajya Sabha", "Lok Sabha", "Vidhan Sabha"],
-    "correctAnswer": "Vidhan Parishad"
+    "question": "By mapping Earth's water sources, the Indo-French 'Trishna' mission is expected to contribute significantly to what global and national challenge, particularly for water-stressed regions including parts of Andhra Pradesh?",
+    "options": [
+      "Renewable energy production",
+      "Water resource management and climate change adaptation",
+      "Telecommunications infrastructure development",
+      "Biodiversity conservation"
+    ],
+    "correctAnswer": "Water resource management and climate change adaptation"
   },
   {
     "id": 25,
-    "question": "Which city in Andhra Pradesh is a major educational and industrial hub, often referred to as the 'City of Destiny'?",
-    "options": ["Vijayawada", "Guntur", "Visakhapatnam", "Nellore"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "The 'Trishna' mission, a joint effort by India and France, is described as being on a 'fast-track'. What does this imply about the project's timeline and perceived importance for national scientific endeavors, applicable to states like Telangana?",
+    "options": [
+      "It has faced significant delays in recent months.",
+      "Its development and launch are being expedited due to its critical nature.",
+      "It is being converted into a purely domestic Indian mission.",
+      "It is undergoing a major redesign to alter its primary objective."
+    ],
+    "correctAnswer": "Its development and launch are being expedited due to its critical nature."
   }
 ]

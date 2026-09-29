@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the current Chief Minister of Telangana, recently in the news for remarks about Lord Ram and Shiva?",
-    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Revanth Reddy", "Jagan Mohan Reddy"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "What is the primary purpose of the PM-RAHAT scheme mentioned in the news?",
+    "options": ["Providing financial aid to farmers", "Treating crash victims and reimbursing hospitals", "Supporting small businesses", "Offering scholarships for higher education"],
+    "correctAnswer": "Treating crash victims and reimbursing hospitals"
   },
   {
     "id": 2,
-    "question": "Which political party does Telangana Chief Minister Revanth Reddy belong to?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "Approximately how many crash victims have been treated under the PM-RAHAT scheme as per recent reports?",
+    "options": ["13,000", "20,000", "25,000", "30,000"],
+    "correctAnswer": "25,000"
   },
   {
     "id": 3,
-    "question": "What specific religious figures were at the center of the recent controversy involving Telangana CM Revanth Reddy?",
-    "options": ["Lord Krishna and Ganesha", "Lord Vishnu and Brahma", "Lord Ram and Shiva", "Goddess Lakshmi and Saraswati"],
-    "correctAnswer": "Lord Ram and Shiva"
+    "question": "For how many cases have hospitals been reimbursed under the PM-RAHAT scheme as per the news?",
+    "options": ["13,000", "25,000", "7,000", "10,000"],
+    "correctAnswer": "13,000"
   },
   {
     "id": 4,
-    "question": "Which national political party demanded an apology from Telangana CM Revanth Reddy regarding his recent religious remarks?",
-    "options": ["Aam Aadmi Party (AAP)", "Bharatiya Janata Party (BJP)", "Dravida Munnetra Kazhagam (DMK)", "Trinamool Congress (TMC)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "question": "The PM-RAHAT scheme is primarily focused on providing assistance to victims of what type of incident?",
+    "options": ["Natural disasters", "Industrial accidents", "Road accidents (crash victims)", "Medical emergencies not related to trauma"],
+    "correctAnswer": "Road accidents (crash victims)"
   },
   {
     "id": 5,
-    "question": "The recent controversy involving Telangana CM Revanth Reddy pertains to his remarks on which two prominent deities?",
-    "options": ["Hanuman and Rama", "Sita and Lakshmi", "Krishna and Radha", "Ram and Shiva"],
-    "correctAnswer": "Ram and Shiva"
+    "question": "Which Indian institution's team recently used blue light to switch on cell division, potentially aiding cancer research?",
+    "options": ["AIIMS", "IIT Bombay", "IISc", "TIFR"],
+    "correctAnswer": "IISc"
   },
   {
     "id": 6,
-    "question": "The political controversy surrounding Telangana CM Revanth Reddy and his remarks on religious figures led to demands for an apology from which other major party?",
-    "options": ["Samajwadi Party", "Bahujan Samaj Party", "Bharatiya Janata Party", "Communist Party of India (Marxist)"],
-    "correctAnswer": "Bharatiya Janata Party"
+    "question": "What specific light spectrum was used by an IISc team to influence cell division for cancer research?",
+    "options": ["Red light", "Green light", "Blue light", "UV light"],
+    "correctAnswer": "Blue light"
   },
   {
     "id": 7,
-    "question": "In which Indian state did a recent political controversy erupt regarding the Chief Minister's remarks on Lord Ram and Shiva?",
-    "options": ["Andhra Pradesh", "Kerala", "Telangana", "Karnataka"],
-    "correctAnswer": "Telangana"
+    "question": "The research involving blue light and cell division by an IISc team is primarily aimed at aiding which medical field?",
+    "options": ["Cardiology", "Neurology", "Cancer research", "Orthopedics"],
+    "correctAnswer": "Cancer research"
   },
   {
     "id": 8,
-    "question": "Which prominent political figure from Telangana was recently defended by his party over controversial remarks on religious figures?",
-    "options": ["K.T. Rama Rao", "Etela Rajender", "Revanth Reddy", "Bandaru Dattatreya"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "What is a key concern being addressed by the INDIA bloc regarding the Election Commission?",
+    "options": ["Funding transparency", "Special Intensive Revision process", "Appointment of state election commissioners", "Digital voting implementation"],
+    "correctAnswer": "Special Intensive Revision process"
   },
   {
     "id": 9,
-    "question": "The 'Ram-Shiva remarks' controversy involves the Chief Minister of which southern Indian state?",
-    "options": ["Tamil Nadu", "Telangana", "Kerala", "Karnataka"],
-    "correctAnswer": "Telangana"
+    "question": "The INDIA bloc meeting is discussing a potential motion for the removal of which official?",
+    "options": ["Union Law Minister", "Chief Election Commissioner", "Speaker of Lok Sabha", "Prime Minister's Principal Secretary"],
+    "correctAnswer": "Chief Election Commissioner"
   },
   {
     "id": 10,
-    "question": "Which organization recently released a new Class 9 social science textbook titled 'Understanding Society: India and Beyond-Part 2'?",
-    "options": ["UGC", "CBSE", "NCERT", "NITI Aayog"],
-    "correctAnswer": "NCERT"
+    "question": "What is the name of the Chief Election Commissioner whose removal is being discussed by the INDIA bloc?",
+    "options": ["Rajiv Kumar", "Anup Chandra Pandey", "Arun Goel", "Gyanesh Kumar"],
+    "correctAnswer": "Gyanesh Kumar"
   },
   {
     "id": 11,
-    "question": "What is the title of the new Class 9 social science textbook by NCERT that discusses India's historical experience with warfare?",
-    "options": ["Ancient Indian Warfare", "Understanding Society: India and Beyond-Part 2", "India's Military History", "Social Dynamics of India"],
-    "correctAnswer": "Understanding Society: India and Beyond-Part 2"
+    "question": "Which of the following is NOT one of the entities that the INDIA bloc meeting is aimed at stepping up attack on?",
+    "options": ["Election Commission", "BJP", "MHA", "Opposition parties"],
+    "correctAnswer": "MHA"
   },
   {
     "id": 12,
-    "question": "According to the new NCERT Class 9 textbook, which deities were culturally worshipped for protection during conflicts by Indian kings?",
-    "options": ["Saraswati and Lakshmi", "Vishnu and Brahma", "Kali and Durga", "Ganesha and Kartikeya"],
-    "correctAnswer": "Kali and Durga"
+    "question": "Which two political parties were mentioned as potentially absent from the recent INDIA bloc meeting?",
+    "options": ["SP and RJD", "AAP and DMK", "NCP and JMM", "Shiv Sena (UBT) and CPI(M)"],
+    "correctAnswer": "AAP and DMK"
   },
   {
     "id": 13,
-    "question": "The new NCERT textbook discusses invasions in India starting from which century?",
-    "options": ["Third century", "Fifth century", "Seventh century", "Ninth century"],
-    "correctAnswer": "Seventh century"
+    "question": "Which national agency recently arrested 13 suspects in a JMB-linked terror conspiracy case?",
+    "options": ["CBI", "ED", "NIA", "RAW"],
+    "correctAnswer": "NIA"
   },
   {
     "id": 14,
-    "question": "What is one of the primary aims of the new NCERT social science textbook mentioned in the news?",
-    "options": ["To promote religious studies", "To enhance analytical thinking and foster intercultural dialogue", "To simplify historical events", "To focus solely on military history"],
-    "correctAnswer": "To enhance analytical thinking and foster intercultural dialogue"
+    "question": "The recent arrests by NIA were linked to which terrorist group?",
+    "options": ["Lashkar-e-Taiba (LeT)", "Jamaat ul Mujahideen Bangladesh (JMB)", "Indian Mujahideen (IM)", "Students' Islamic Movement of India (SIMI)"],
+    "correctAnswer": "Jamaat ul Mujahideen Bangladesh (JMB)"
   },
   {
     "id": 15,
-    "question": "The new NCERT Class 9 social science textbook emphasizes the valor of Indian rulers against which type of aggressors?",
-    "options": ["Internal rebellions", "Foreign aggressors", "Regional rivals", "Natural calamities"],
-    "correctAnswer": "Foreign aggressors"
+    "question": "What common items were confiscated by NIA during searches related to the JMB terror conspiracy case?",
+    "options": ["Firearms and ammunition", "Fake currency notes", "Digital gadgets", "Explosive materials"],
+    "correctAnswer": "Digital gadgets"
   },
   {
     "id": 16,
-    "question": "The new NCERT book details Indian kings receiving swords from goddesses to resist what kind of invasions?",
-    "options": ["Economic", "Political", "Religion-driven", "Cultural"],
-    "correctAnswer": "Religion-driven"
+    "question": "The NIA's recent searches in the JMB terror conspiracy case were conducted across how many states?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Three"
   },
   {
     "id": 17,
-    "question": "Which subject is the new NCERT textbook 'Understanding Society: India and Beyond-Part 2' primarily focused on for Class 9 students?",
-    "options": ["Mathematics", "Science", "Social Science", "Literature"],
-    "correctAnswer": "Social Science"
+    "question": "Which ministry's officials were recently apprehended on corruption charges related to FCRA registration?",
+    "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Corporate Affairs"],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 18,
-    "question": "The new NCERT textbook highlights the cultural worship of deities like Kali and Durga for protection during which historical context?",
-    "options": ["Harvest festivals", "Royal weddings", "Conflicts and warfare", "Peace treaties"],
-    "correctAnswer": "Conflicts and warfare"
+    "question": "What type of registration process was involved in the corruption case against MHA officials?",
+    "options": ["GST registration", "Passport application", "FCRA registration", "Company incorporation"],
+    "correctAnswer": "FCRA registration"
   },
   {
     "id": 19,
-    "question": "Which grade level is the new NCERT social science textbook 'Understanding Society: India and Beyond-Part 2' designed for?",
-    "options": ["Class 6", "Class 8", "Class 9", "Class 10"],
-    "correctAnswer": "Class 9"
+    "question": "To enhance transparency and minimize human involvement, how has the FCRA registration process been changed?",
+    "options": ["It now requires approval from the PMO", "All processes have been shifted to a digital platform", "A new committee has been formed", "The fees have been significantly reduced"],
+    "correctAnswer": "All processes have been shifted to a digital platform"
   },
   {
     "id": 20,
-    "question": "Which organization hosted the 'Hindi Pakhwada' event where students from 30 countries participated?",
-    "options": ["Ministry of Culture", "Indian Council for Cultural Relations (ICCR)", "Sahitya Akademi", "Kendriya Hindi Sansthan"],
-    "correctAnswer": "Indian Council for Cultural Relations (ICCR)"
+    "question": "The corruption charges against MHA officials were related to allegedly seeking bribes to facilitate what?",
+    "options": ["Issuing visas", "Granting citizenship", "Expediting pending FCRA applications", "Approving defense contracts"],
+    "correctAnswer": "Expediting pending FCRA applications"
   },
   {
     "id": 21,
-    "question": "Students from how many countries reportedly participated in the recent 'Hindi Pakhwada' event organized by ICCR?",
-    "options": ["15 countries", "20 countries", "30 countries", "45 countries"],
-    "correctAnswer": "30 countries"
+    "question": "At a recent CWC meet, Rahul Gandhi credited which party for 'revelations' regarding the Election Commission?",
+    "options": ["BJP", "Congress", "Samajwadi Party", "Trinamool Congress"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 22,
-    "question": "What event was recently organized by ICCR where international students expressed their affection for India with the phrase 'India lives in our hearts'?",
-    "options": ["Bharat Utsav", "Hindi Pakhwada", "Global India Fest", "Cultural Exchange Summit"],
-    "correctAnswer": "Hindi Pakhwada"
+    "question": "What message did Rahul Gandhi give at the CWC meet regarding the EC row?",
+    "options": ["Collaborate and unite", "Oppose and resist", "Debate and discuss", "Accept and move on"],
+    "correctAnswer": "Oppose and resist"
   },
   {
     "id": 23,
-    "question": "The phrase 'India lives in our hearts' was expressed by students from 30 countries during an event organized by which cultural body?",
-    "options": ["National Museum", "Indian Council of Historical Research (ICHR)", "Indian Council for Cultural Relations (ICCR)", "Archaeological Survey of India (ASI)"],
-    "correctAnswer": "Indian Council for Cultural Relations (ICCR)"
+    "question": "RSS chief Mohan Bhagwat emphasized that Dharma stands on how many pillars?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Four"
   },
   {
     "id": 24,
-    "question": "'Hindi Pakhwada' is an event related to the promotion and celebration of which Indian language?",
-    "options": ["English", "Sanskrit", "Hindi", "Bengali"],
-    "correctAnswer": "Hindi"
+    "question": "According to RSS chief Mohan Bhagwat, what should true development focus on, beyond mere economic growth?",
+    "options": ["Military strength and defense", "Space exploration and technology", "Well-being of all living beings and the environment", "Global trade and partnerships"],
+    "correctAnswer": "Well-being of all living beings and the environment"
   },
   {
     "id": 25,
-    "question": "The recent 'Hindi Pakhwada' event saw participation from students representing approximately how many nations?",
-    "options": ["Around 10", "Around 20", "Around 30", "Around 50"],
-    "correctAnswer": "Around 30"
+    "question": "What term did RSS chief Mohan Bhagwat use to refer to the upliftment of society's most vulnerable sections?",
+    "options": ["Sarvodaya", "Antyodaya", "Gramodaya", "Janodaya"],
+    "correctAnswer": "Antyodaya"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian constitutional body is primarily responsible for regulating the finances and donations of political parties across states like Telangana and Andhra Pradesh?",
-    "options": ["Reserve Bank of India (RBI)", "Election Commission of India (ECI)", "Ministry of Finance", "Supreme Court of India"],
-    "correctAnswer": "Election Commission of India (ECI)"
+    "question": "Who is the current Chief Minister of Telangana, whose recent remarks drew criticism from the BJP?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 2,
-    "question": "Political parties in India, including those operating in Telangana and Andhra Pradesh, are required to submit reports on contributions received to which authority?",
-    "options": ["Comptroller and Auditor General (CAG)", "Income Tax Department", "Election Commission of India (ECI)", "Central Bureau of Investigation (CBI)"],
-    "correctAnswer": "Election Commission of India (ECI)"
+    "question": "Telangana CM Revanth Reddy recently made a controversial remark linking Shiva and Ram to different social classes. Which political party strongly criticized these comments?",
+    "options": ["Bharatiya Janata Party (BJP)", "Telangana Rashtra Samithi (TRS)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)", "Communist Party of India (CPI)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 3,
-    "question": "Transparency in political funding is crucial for healthy democracy in Indian states like Andhra Pradesh and Telangana. What is one of the primary mechanisms for political parties to receive corporate donations in India?",
-    "options": ["Direct cash payments", "Electoral Bonds", "Foreign direct investment", "Government grants"],
-    "correctAnswer": "Electoral Bonds"
+    "question": "The Congress party recently accused the Election Commission's ECINet of acting as a 'star campaigner' for the BJP amidst which specific controversy?",
+    "options": ["Financial disclosure irregularities", "Electoral bond scheme", "Electoral roll changes (SIR row)", "Candidate nomination rejections"],
+    "correctAnswer": "Electoral roll changes (SIR row)"
   },
   {
     "id": 4,
-    "question": "In the context of political funding in India, including for parties active in Telangana, what does the term 'anonymous donations' generally refer to?",
-    "options": ["Donations from foreign entities", "Donations below a certain threshold where the donor's identity is not disclosed", "Donations made online without verification", "Donations from non-profit organizations"],
-    "correctAnswer": "Donations below a certain threshold where the donor's identity is not disclosed"
+    "question": "What is one of the key demands made by the Congress party to the Election Commission of India (ECI) regarding the electoral roll changes?",
+    "options": ["Full disclosure of voter ID numbers", "Full disclosure of electoral roll changes", "Public access to EVM software", "Mandatory online voting"],
+    "correctAnswer": "Full disclosure of electoral roll changes"
   },
   {
     "id": 5,
-    "question": "What is a common legal requirement for political parties in India, including those in Andhra Pradesh, regarding donations above a specific amount?",
-    "options": ["They must be disclosed to the public via a press conference.", "They must be made only through cheques or digital payments.", "They must be used exclusively for election campaigns.", "They must be reported to the Election Commission of India with donor details."],
-    "correctAnswer": "They must be reported to the Election Commission of India with donor details."
+    "question": "Which apex judicial body has agreed to an early listing of a plea challenging the ECI's decision-making process amidst the electoral roll controversy?",
+    "options": ["High Court of Delhi", "Supreme Court of India", "National Green Tribunal", "Central Administrative Tribunal"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 6,
-    "question": "The Indian government is mulling steps to save Rabi crops from drought. In agricultural states like Telangana and Andhra Pradesh, which of these is a significant concern for Rabi crop cultivation during drought conditions?",
-    "options": ["Excessive rainfall", "Lack of irrigation water", "Pest outbreaks unique to drought", "Low market prices"],
-    "correctAnswer": "Lack of irrigation water"
+    "question": "According to External Affairs Minister S. Jaishankar, what is one of the factors weighing on India-US ties?",
+    "options": ["Lack of empathy over terror concerns", "Excessive trade surplus from India", "India's growing alliance with China", "US criticism of India's internal policies"],
+    "correctAnswer": "Lack of empathy over terror concerns"
   },
   {
     "id": 7,
-    "question": "Rabi crops are sown in winter and harvested in spring. In drought-prone regions of India, including parts of Andhra Pradesh, what critical resource becomes scarce, directly threatening Rabi crop yields?",
-    "options": ["Fertilizers", "Seeds", "Water", "Labor"],
-    "correctAnswer": "Water"
+    "question": "At a UN High-Level Week event, External Affairs Minister Jaishankar highlighted global conflicts and referred to a specific challenge as the '4F' crisis. Who is S. Jaishankar?",
+    "options": ["Finance Minister", "Defence Minister", "Home Minister", "External Affairs Minister"],
+    "correctAnswer": "External Affairs Minister"
   },
   {
     "id": 8,
-    "question": "What measure might the government implement to help farmers in states like Telangana protect their Rabi crops from drought, as mentioned in the news context?",
-    "options": ["Promote cultivation of water-intensive crops", "Provide subsidies for diesel pumps for irrigation", "Encourage crop rotation with water-intensive crops", "Impose a ban on Rabi crop cultivation"],
-    "correctAnswer": "Provide subsidies for diesel pumps for irrigation"
+    "question": "According to a recent Supreme Court ruling, what cannot be the sole ground to convict a person under the National Security Act (NSA)?",
+    "options": ["Witness testimony", "Confession", "Digital evidence", "Forensic analysis"],
+    "correctAnswer": "Confession"
   },
   {
     "id": 9,
-    "question": "Drought conditions during the Rabi season in India, including in Telangana and Andhra Pradesh, can lead to severe consequences for the agricultural sector. Which of the following is a direct economic impact?",
-    "options": ["Increased food exports", "Reduced farmer income and rural distress", "Higher government tax revenue", "Expansion of cultivated land"],
-    "correctAnswer": "Reduced farmer income and rural distress"
+    "question": "Which state government was recently fined Rs 10 lakh by the Supreme Court for improper application of the National Security Act (NSA) in a specific case?",
+    "options": ["Uttar Pradesh", "Bihar", "Rajasthan", "Madhya Pradesh"],
+    "correctAnswer": "Uttar Pradesh"
   },
   {
     "id": 10,
-    "question": "Apart from direct irrigation support, what other government intervention is crucial for farmers in drought-affected areas of states like Andhra Pradesh to cope with Rabi crop losses?",
-    "options": ["Promoting urban migration", "Providing crop insurance and financial aid", "Encouraging shift to industrial work", "Banning all agricultural activities"],
-    "correctAnswer": "Providing crop insurance and financial aid"
+    "question": "The Congress party's primary concern regarding the Election Commission's ECINet, as stated in recent news, is related to:",
+    "options": ["Ineffective voter registration", "Excluding citizens intentionally from electoral rolls", "Slow processing of election results", "Lack of digital security for voting machines"],
+    "correctAnswer": "Excluding citizens intentionally from electoral rolls"
   },
   {
     "id": 11,
-    "question": "According to the WHO, H1N1 dominates flu strains in India. What is H1N1 commonly known as?",
-    "options": ["Bird Flu", "Swine Flu", "Dengue Fever", "Malaria"],
-    "correctAnswer": "Swine Flu"
+    "question": "What kind of remark was Telangana CM Revanth Reddy's comment about Shiva and Ram described as in the news?",
+    "options": ["Pre-planned statement", "Written speech", "Off-the-cuff remark", "Official policy declaration"],
+    "correctAnswer": "Off-the-cuff remark"
   },
   {
     "id": 12,
-    "question": "The news indicates that H1N1 accounts for 3 out of 4 flu cases in India. This highlights the importance of public health awareness in states like Telangana. Which organization released this data?",
-    "options": ["Indian Council of Medical Research (ICMR)", "World Health Organization (WHO)", "Centers for Disease Control and Prevention (CDC)", "Ministry of Health and Family Welfare, India"],
-    "correctAnswer": "World Health Organization (WHO)"
+    "question": "The controversy surrounding electoral roll changes, often referred to as the 'SIR row,' primarily concerns which aspect of the electoral process?",
+    "options": ["Funding for political parties", "Campaign finance transparency", "Accuracy and fairness of voter lists", "Electoral bond disclosures"],
+    "correctAnswer": "Accuracy and fairness of voter lists"
   },
   {
     "id": 13,
-    "question": "What is a common recommendation by health authorities in states like Andhra Pradesh to prevent the spread of influenza strains like H1N1?",
-    "options": ["Consuming specific herbal remedies", "Practicing good hand hygiene and respiratory etiquette", "Avoiding all indoor gatherings", "Daily consumption of antibiotics"],
-    "correctAnswer": "Practicing good hand hygiene and respiratory etiquette"
+    "question": "Which deities were mentioned by Telangana CM Revanth Reddy in a controversial remark that drew ire from the BJP?",
+    "options": ["Vishnu and Lakshmi", "Brahma and Saraswati", "Shiva and Ram", "Krishna and Radha"],
+    "correctAnswer": "Shiva and Ram"
   },
   {
     "id": 14,
-    "question": "If a person in Telangana exhibits flu-like symptoms, which medical professional should they primarily consult for diagnosis and treatment?",
-    "options": ["A traditional healer", "A general physician or doctor", "A pharmacist for self-medication", "A nutritionist"],
-    "correctAnswer": "A general physician or doctor"
+    "question": "What does ECINet, as criticized by Congress, refer to in the context of the Election Commission of India?",
+    "options": ["A political alliance", "An election observation body", "The Election Commission's online system for electoral processes", "A media campaigning agency"],
+    "correctAnswer": "The Election Commission's online system for electoral processes"
   },
   {
     "id": 15,
-    "question": "Given the dominance of H1N1, public health departments in states like Andhra Pradesh and Telangana would likely prioritize what intervention during flu season?",
-    "options": ["Mass distribution of dietary supplements", "Promoting vaccination campaigns for vulnerable groups", "Shutting down all public transport", "Encouraging consumption of street food"],
-    "correctAnswer": "Promoting vaccination campaigns for vulnerable groups"
+    "question": "The Supreme Court's recent ruling on the National Security Act (NSA) underscores the importance of which legal principle when considering convictions?",
+    "options": ["Speedy trial", "Bail as a right", "Sufficient evidence beyond confession", "Public interest immunity"],
+    "correctAnswer": "Sufficient evidence beyond confession"
   },
   {
     "id": 16,
-    "question": "According to HM Amit Shah, 288 fugitives have been brought back to India since 2019. Which ministry is primarily responsible for internal security and law enforcement, including efforts to repatriate fugitives, across all states like Telangana?",
-    "options": ["Ministry of External Affairs", "Ministry of Defence", "Ministry of Home Affairs", "Ministry of Law and Justice"],
-    "correctAnswer": "Ministry of Home Affairs"
+    "question": "Which international forum was the venue where S. Jaishankar highlighted global conflicts and mentioned the '4F' crisis?",
+    "options": ["G20 Summit", "World Economic Forum", "UN High-Level Week event", "BRICS Summit"],
+    "correctAnswer": "UN High-Level Week event"
   },
   {
     "id": 17,
-    "question": "The process of bringing a fugitive back from a foreign country to face justice in India, which applies to cases originating from states like Andhra Pradesh, is known as what?",
-    "options": ["Deportation", "Asylum", "Extradition", "Immigration"],
-    "correctAnswer": "Extradition"
+    "question": "What is another factor, besides 'lack of empathy over terror concerns,' that S. Jaishankar cited as weighing on India-US ties?",
+    "options": ["Cultural differences", "Trade 'bump'", "Military disputes", "Visa policy disagreements"],
+    "correctAnswer": "Trade 'bump'"
   },
   {
     "id": 18,
-    "question": "Indian law enforcement agencies, including those operating in Telangana, often collaborate with international agencies to locate and apprehend fugitives. Which agency plays a significant role in international police cooperation?",
-    "options": ["UNESCO", "Interpol", "NATO", "World Bank"],
-    "correctAnswer": "Interpol"
+    "question": "The Congress party's demands for full disclosure of electoral roll changes primarily aim to achieve what in the election process?",
+    "options": ["Increased voter turnout", "Faster election counting", "Greater transparency and fairness", "Reduced campaign expenditure"],
+    "correctAnswer": "Greater transparency and fairness"
   },
   {
     "id": 19,
-    "question": "When a person is declared a 'fugitive from justice' in India, including for crimes committed in states like Andhra Pradesh, it implies they have done what?",
-    "options": ["Refused to pay taxes", "Fled to avoid legal prosecution or imprisonment", "Publicly criticized the government", "Violated traffic rules"],
-    "correctAnswer": "Fled to avoid legal prosecution or imprisonment"
+    "question": "Which national political party does Telangana Chief Minister Revanth Reddy belong to?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "Telangana Rashtra Samithi (TRS)", "YSR Congress Party (YSRCP)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 20,
-    "question": "The efforts to bring back fugitives serve to uphold the rule of law. What is a key objective of such operations for the Indian judicial system, applicable to cases from states like Telangana?",
-    "options": ["To increase prison populations", "To ensure justice is served for victims and society", "To demonstrate military power", "To generate international headlines"],
-    "correctAnswer": "To ensure justice is served for victims and society"
+    "question": "In the context of the Election Commission, what does 'electoral roll' specifically refer to?",
+    "options": ["List of polling stations", "Record of registered voters", "Budget for elections", "Details of election candidates"],
+    "correctAnswer": "Record of registered voters"
   },
   {
     "id": 21,
-    "question": "The Supreme Court will fix a timeline for FSSAI to enforce front-of-pack labelling. What does FSSAI stand for in the context of food regulation in India, including in states like Andhra Pradesh?",
-    "options": ["Food Security Standards Authority of India", "Food Safety and Standards Authority of India", "Federal System of Safety Assessments in India", "Food Supply and Storage Administration of India"],
-    "correctAnswer": "Food Safety and Standards Authority of India"
+    "question": "The recent criticisms by Congress against the Election Commission of India (ECI) mainly revolve around which aspect of its functioning?",
+    "options": ["Budget allocation", "Staff recruitment", "Electoral roll management and decision-making", "Website design"],
+    "correctAnswer": "Electoral roll management and decision-making"
   },
   {
     "id": 22,
-    "question": "What is the primary purpose of 'front-of-pack labelling' that FSSAI aims to enforce, which would benefit consumers in states like Telangana?",
-    "options": ["To promote specific food brands", "To provide clear, concise nutritional information to consumers at a glance", "To encourage bulk purchasing of food items", "To inform consumers about food processing methods only"],
-    "correctAnswer": "To provide clear, concise nutritional information to consumers at a glance"
+    "question": "The Supreme Court's fine of Rs 10 lakh against a state government for improper application of NSA indicates a concern regarding:",
+    "options": ["Excessive use of force by police", "Violation of fundamental rights", "Financial mismanagement", "Misuse of intelligence agencies"],
+    "correctAnswer": "Violation of fundamental rights"
   },
   {
     "id": 23,
-    "question": "The Supreme Court's involvement in setting a timeline for FSSAI's front-of-pack labelling highlights its role in what aspect of governance in India, affecting all states including Andhra Pradesh?",
-    "options": ["Direct legislative action", "Judicial oversight of regulatory body implementation", "Executive policy making", "International trade negotiations"],
-    "correctAnswer": "Judicial oversight of regulatory body implementation"
+    "question": "Which central government figure articulated concerns about 'lack of empathy over terror concerns' impacting India-US relations?",
+    "options": ["Prime Minister Narendra Modi", "Home Minister Amit Shah", "External Affairs Minister S. Jaishankar", "Finance Minister Nirmala Sitharaman"],
+    "correctAnswer": "External Affairs Minister S. Jaishankar"
   },
   {
     "id": 24,
-    "question": "Which of the following is an expected benefit of front-of-pack labelling for public health in states like Telangana?",
-    "options": ["Increased consumption of sugary drinks", "Better informed dietary choices and reduction in non-communicable diseases", "Decrease in local food production", "Promotion of packaged snacks over fresh produce"],
-    "correctAnswer": "Better informed dietary choices and reduction in non-communicable diseases"
+    "question": "The Congress party's accusation that ECINet is BJP's 'star campaigner' implies a concern about:",
+    "options": ["Efficiency of the system", "Bias or favoritism in electoral processes", "Cost of the technology", "Speed of voter registration"],
+    "correctAnswer": "Bias or favoritism in electoral processes"
   },
   {
     "id": 25,
-    "question": "The FSSAI is the apex food regulator in India. Its mandate extends to ensuring food safety and quality for all citizens, including those residing in Telangana and Andhra Pradesh. Which Act establishes FSSAI?",
-    "options": ["Consumer Protection Act, 1986", "Essential Commodities Act, 1955", "Food Safety and Standards Act, 2006", "Prevention of Food Adulteration Act, 1954"],
-    "correctAnswer": "Food Safety and Standards Act, 2006"
+    "question": "Telangana Chief Minister Revanth Reddy's controversial remark about deities was made in which state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Maharashtra"],
+    "correctAnswer": "Telangana"
   }
 ]

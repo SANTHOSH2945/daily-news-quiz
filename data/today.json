@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Government has deployed an AI tool to scrutinize Detailed Project Reports (DPRs) for rural road projects across India. For states like Telangana and Andhra Pradesh, what is the primary purpose of this deployment?",
-    "options": [
-      "To monitor traffic flow on existing roads",
-      "To streamline the evaluation and approval of new project proposals",
-      "To manage land acquisition processes",
-      "To survey new areas for agricultural development"
-    ],
-    "correctAnswer": "To streamline the evaluation and approval of new project proposals"
+    "question": "Which Indian constitutional body is primarily responsible for regulating the finances and donations of political parties across states like Telangana and Andhra Pradesh?",
+    "options": ["Reserve Bank of India (RBI)", "Election Commission of India (ECI)", "Ministry of Finance", "Supreme Court of India"],
+    "correctAnswer": "Election Commission of India (ECI)"
   },
   {
     "id": 2,
-    "question": "What specific documents related to rural road projects are being scrutinized by the recently deployed AI tool, a national initiative beneficial to states like Andhra Pradesh?",
-    "options": [
-      "Environmental Impact Assessments (EIAs)",
-      "Financial Audit Reports (FARs)",
-      "Detailed Project Reports (DPRs)",
-      "Quarterly Progress Reports (QPRs)"
-    ],
-    "correctAnswer": "Detailed Project Reports (DPRs)"
+    "question": "Political parties in India, including those operating in Telangana and Andhra Pradesh, are required to submit reports on contributions received to which authority?",
+    "options": ["Comptroller and Auditor General (CAG)", "Income Tax Department", "Election Commission of India (ECI)", "Central Bureau of Investigation (CBI)"],
+    "correctAnswer": "Election Commission of India (ECI)"
   },
   {
     "id": 3,
-    "question": "The deployment of an AI tool for rural road project DPRs is intended to enhance what aspect of infrastructure development in states such as Telangana?",
-    "options": [
-      "The speed of road construction",
-      "The accuracy and efficiency of project proposal evaluation",
-      "The training of local road engineers",
-      "The procurement of construction materials"
-    ],
-    "correctAnswer": "The accuracy and efficiency of project proposal evaluation"
+    "question": "Transparency in political funding is crucial for healthy democracy in Indian states like Andhra Pradesh and Telangana. What is one of the primary mechanisms for political parties to receive corporate donations in India?",
+    "options": ["Direct cash payments", "Electoral Bonds", "Foreign direct investment", "Government grants"],
+    "correctAnswer": "Electoral Bonds"
   },
   {
     "id": 4,
-    "question": "In the context of the AI tool scrutinizing rural road project DPRs, what does 'DPR' specifically stand for, a critical component in infrastructure planning for states like Andhra Pradesh?",
-    "options": [
-      "Development Plan Requirement",
-      "Digital Project Record",
-      "District Planning Review",
-      "Detailed Project Report"
-    ],
-    "correctAnswer": "Detailed Project Report"
+    "question": "In the context of political funding in India, including for parties active in Telangana, what does the term 'anonymous donations' generally refer to?",
+    "options": ["Donations from foreign entities", "Donations below a certain threshold where the donor's identity is not disclosed", "Donations made online without verification", "Donations from non-profit organizations"],
+    "correctAnswer": "Donations below a certain threshold where the donor's identity is not disclosed"
   },
   {
     "id": 5,
-    "question": "The central government's initiative to deploy an AI tool for rural road projects aims to benefit all states, including Telangana, by improving which key process?",
-    "options": [
-      "Identifying suitable contractors",
-      "Post-construction quality checks",
-      "Pre-approval scrutiny of project plans",
-      "Public grievance redressal related to roads"
-    ],
-    "correctAnswer": "Pre-approval scrutiny of project plans"
+    "question": "What is a common legal requirement for political parties in India, including those in Andhra Pradesh, regarding donations above a specific amount?",
+    "options": ["They must be disclosed to the public via a press conference.", "They must be made only through cheques or digital payments.", "They must be used exclusively for election campaigns.", "They must be reported to the Election Commission of India with donor details."],
+    "correctAnswer": "They must be reported to the Election Commission of India with donor details."
   },
   {
     "id": 6,
-    "question": "How is the AI tool for scrutinizing rural road project DPRs expected to contribute to better infrastructure development in states like Andhra Pradesh?",
-    "options": [
-      "By directly funding new road projects",
-      "By ensuring faster and more accurate assessment of project viability",
-      "By providing real-time construction updates",
-      "By engaging local communities in project planning"
-    ],
-    "correctAnswer": "By ensuring faster and more accurate assessment of project viability"
+    "question": "The Indian government is mulling steps to save Rabi crops from drought. In agricultural states like Telangana and Andhra Pradesh, which of these is a significant concern for Rabi crop cultivation during drought conditions?",
+    "options": ["Excessive rainfall", "Lack of irrigation water", "Pest outbreaks unique to drought", "Low market prices"],
+    "correctAnswer": "Lack of irrigation water"
   },
   {
     "id": 7,
-    "question": "Which sector of infrastructure development, particularly relevant for rural connectivity in states such as Telangana, is currently utilizing a new AI tool for scrutiny?",
-    "options": [
-      "Rural electrification projects",
-      "Rural drinking water supply projects",
-      "Rural road construction projects",
-      "Rural housing projects"
-    ],
-    "correctAnswer": "Rural road construction projects"
+    "question": "Rabi crops are sown in winter and harvested in spring. In drought-prone regions of India, including parts of Andhra Pradesh, what critical resource becomes scarce, directly threatening Rabi crop yields?",
+    "options": ["Fertilizers", "Seeds", "Water", "Labor"],
+    "correctAnswer": "Water"
   },
   {
     "id": 8,
-    "question": "The Government's new AI tool is designed to enhance the scrutiny of project documents for rural roads. This move is part of a broader push for efficiency in which stage of project lifecycle, critical for states like Andhra Pradesh?",
-    "options": [
-      "Execution and monitoring",
-      "Maintenance and repair",
-      "Planning and approval",
-      "Post-completion audit"
-    ],
-    "correctAnswer": "Planning and approval"
+    "question": "What measure might the government implement to help farmers in states like Telangana protect their Rabi crops from drought, as mentioned in the news context?",
+    "options": ["Promote cultivation of water-intensive crops", "Provide subsidies for diesel pumps for irrigation", "Encourage crop rotation with water-intensive crops", "Impose a ban on Rabi crop cultivation"],
+    "correctAnswer": "Provide subsidies for diesel pumps for irrigation"
   },
   {
     "id": 9,
-    "question": "According to the UNFPA report, which of the following is explicitly cited as a primary reason for migrant workers moving out for a better life from regions like Telangana?",
-    "options": [
-      "Desire for urban lifestyle",
-      "Livelihood insecurity",
-      "Lack of entertainment options",
-      "Family disputes"
-    ],
-    "correctAnswer": "Livelihood insecurity"
+    "question": "Drought conditions during the Rabi season in India, including in Telangana and Andhra Pradesh, can lead to severe consequences for the agricultural sector. Which of the following is a direct economic impact?",
+    "options": ["Increased food exports", "Reduced farmer income and rural distress", "Higher government tax revenue", "Expansion of cultivated land"],
+    "correctAnswer": "Reduced farmer income and rural distress"
   },
   {
     "id": 10,
-    "question": "The UNFPA report highlights 'low wages' as a significant factor for migrant workers seeking opportunities elsewhere. This issue is particularly relevant for which demographic in states such as Andhra Pradesh?",
-    "options": [
-      "High-skill IT professionals",
-      "Industrial factory owners",
-      "Rural migrant workers",
-      "Government employees"
-    ],
-    "correctAnswer": "Rural migrant workers"
+    "question": "Apart from direct irrigation support, what other government intervention is crucial for farmers in drought-affected areas of states like Andhra Pradesh to cope with Rabi crop losses?",
+    "options": ["Promoting urban migration", "Providing crop insurance and financial aid", "Encouraging shift to industrial work", "Banning all agricultural activities"],
+    "correctAnswer": "Providing crop insurance and financial aid"
   },
   {
     "id": 11,
-    "question": "Which international organization released a report that identifies key reasons for migrant workers moving out for a better life, affecting states like Telangana and Andhra Pradesh?",
-    "options": [
-      "World Bank (WB)",
-      "International Monetary Fund (IMF)",
-      "United Nations Population Fund (UNFPA)",
-      "World Health Organization (WHO)"
-    ],
-    "correctAnswer": "United Nations Population Fund (UNFPA)"
+    "question": "According to the WHO, H1N1 dominates flu strains in India. What is H1N1 commonly known as?",
+    "options": ["Bird Flu", "Swine Flu", "Dengue Fever", "Malaria"],
+    "correctAnswer": "Swine Flu"
   },
   {
     "id": 12,
-    "question": "The UNFPA report identifies 'poverty and debt' as crucial reasons compelling migrant workers to leave their native places. This phenomenon is commonly observed among which segment of the population in states like Andhra Pradesh?",
-    "options": [
-      "Wealthy landowners",
-      "Agricultural laborers and daily wage earners",
-      "Established businessmen",
-      "University students"
-    ],
-    "correctAnswer": "Agricultural laborers and daily wage earners"
+    "question": "The news indicates that H1N1 accounts for 3 out of 4 flu cases in India. This highlights the importance of public health awareness in states like Telangana. Which organization released this data?",
+    "options": ["Indian Council of Medical Research (ICMR)", "World Health Organization (WHO)", "Centers for Disease Control and Prevention (CDC)", "Ministry of Health and Family Welfare, India"],
+    "correctAnswer": "World Health Organization (WHO)"
   },
   {
     "id": 13,
-    "question": "What is the overarching theme of the UNFPA report mentioned in the news, which describes the challenges faced by migrant workers originating from various Indian states including Telangana?",
-    "options": [
-      "Impact of climate change on agriculture",
-      "Reasons for internal migration in India",
-      "Healthcare access for urban populations",
-      "Education reforms in rural areas"
-    ],
-    "correctAnswer": "Reasons for internal migration in India"
+    "question": "What is a common recommendation by health authorities in states like Andhra Pradesh to prevent the spread of influenza strains like H1N1?",
+    "options": ["Consuming specific herbal remedies", "Practicing good hand hygiene and respiratory etiquette", "Avoiding all indoor gatherings", "Daily consumption of antibiotics"],
+    "correctAnswer": "Practicing good hand hygiene and respiratory etiquette"
   },
   {
     "id": 14,
-    "question": "The UNFPA report provides insights into the motivations for migration in India. Which combination of factors is listed as reasons for migrant workers seeking better lives, a situation prevalent in states like Andhra Pradesh?",
-    "options": [
-      "Religious pilgrimage, cultural exchange, tourism",
-      "Livelihood insecurity, low wages, poverty, and debt",
-      "Political instability, natural disasters, conflict",
-      "Adventure sports, luxury travel, culinary exploration"
-    ],
-    "correctAnswer": "Livelihood insecurity, low wages, poverty, and debt"
+    "question": "If a person in Telangana exhibits flu-like symptoms, which medical professional should they primarily consult for diagnosis and treatment?",
+    "options": ["A traditional healer", "A general physician or doctor", "A pharmacist for self-medication", "A nutritionist"],
+    "correctAnswer": "A general physician or doctor"
   },
   {
     "id": 15,
-    "question": "The reasons for migrant workers moving out for a better life, as highlighted by the UNFPA report, underscore the socio-economic conditions in various Indian regions. Which term best describes the core issue that drives this migration from states like Telangana?",
-    "options": [
-      "Social mobility",
-      "Economic distress",
-      "Educational advancement",
-      "Environmental concerns"
-    ],
-    "correctAnswer": "Economic distress"
+    "question": "Given the dominance of H1N1, public health departments in states like Andhra Pradesh and Telangana would likely prioritize what intervention during flu season?",
+    "options": ["Mass distribution of dietary supplements", "Promoting vaccination campaigns for vulnerable groups", "Shutting down all public transport", "Encouraging consumption of street food"],
+    "correctAnswer": "Promoting vaccination campaigns for vulnerable groups"
   },
   {
     "id": 16,
-    "question": "According to the UNFPA report, what challenge specifically contributes to livelihood insecurity for migrant workers in states such as Andhra Pradesh, prompting them to move?",
-    "options": [
-      "Lack of access to internet",
-      "Insufficient and unreliable income sources",
-      "High cost of urban living",
-      "Poor public transportation"
-    ],
-    "correctAnswer": "Insufficient and unreliable income sources"
+    "question": "According to HM Amit Shah, 288 fugitives have been brought back to India since 2019. Which ministry is primarily responsible for internal security and law enforcement, including efforts to repatriate fugitives, across all states like Telangana?",
+    "options": ["Ministry of External Affairs", "Ministry of Defence", "Ministry of Home Affairs", "Ministry of Law and Justice"],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 17,
-    "question": "What is the name of the joint Indo-French satellite mission that is on a fast-track to map Earth's water sources, providing crucial data for water management in states like Telangana?",
-    "options": [
-      "Saraswati",
-      "Varuna",
-      "Trishna",
-      "Ganga"
-    ],
-    "correctAnswer": "Trishna"
+    "question": "The process of bringing a fugitive back from a foreign country to face justice in India, which applies to cases originating from states like Andhra Pradesh, is known as what?",
+    "options": ["Deportation", "Asylum", "Extradition", "Immigration"],
+    "correctAnswer": "Extradition"
   },
   {
     "id": 18,
-    "question": "The 'Trishna' mission is a collaboration between India and which other country, focusing on mapping Earth's water sources for global environmental monitoring and regional benefits, including for Andhra Pradesh?",
-    "options": [
-      "USA",
-      "Russia",
-      "France",
-      "Japan"
-    ],
-    "correctAnswer": "France"
+    "question": "Indian law enforcement agencies, including those operating in Telangana, often collaborate with international agencies to locate and apprehend fugitives. Which agency plays a significant role in international police cooperation?",
+    "options": ["UNESCO", "Interpol", "NATO", "World Bank"],
+    "correctAnswer": "Interpol"
   },
   {
     "id": 19,
-    "question": "What is the primary objective of the 'Trishna' satellite mission, co-developed by India and France, which is significant for water resource management in river-rich states like Telangana?",
-    "options": [
-      "To monitor atmospheric pollution levels",
-      "To map Earth's surface temperature",
-      "To map Earth's water sources",
-      "To track deforestation rates"
-    ],
-    "correctAnswer": "To map Earth's water sources"
+    "question": "When a person is declared a 'fugitive from justice' in India, including for crimes committed in states like Andhra Pradesh, it implies they have done what?",
+    "options": ["Refused to pay taxes", "Fled to avoid legal prosecution or imprisonment", "Publicly criticized the government", "Violated traffic rules"],
+    "correctAnswer": "Fled to avoid legal prosecution or imprisonment"
   },
   {
     "id": 20,
-    "question": "Space Minister Jitendra Singh announced the fast-tracking of the 'Trishna' mission. What kind of mission is 'Trishna', and what area of study will it primarily contribute to, relevant for hydrological planning in states like Andhra Pradesh?",
-    "options": [
-      "A lunar exploration mission focusing on geology",
-      "A deep space probe studying exoplanets",
-      "An Earth observation satellite mission focused on hydrology",
-      "A planetary defense mission to detect asteroids"
-    ],
-    "correctAnswer": "An Earth observation satellite mission focused on hydrology"
+    "question": "The efforts to bring back fugitives serve to uphold the rule of law. What is a key objective of such operations for the Indian judicial system, applicable to cases from states like Telangana?",
+    "options": ["To increase prison populations", "To ensure justice is served for victims and society", "To demonstrate military power", "To generate international headlines"],
+    "correctAnswer": "To ensure justice is served for victims and society"
   },
   {
     "id": 21,
-    "question": "The 'Trishna' mission, an Indo-French collaboration, aims to provide valuable data that can assist in better planning and management of a critical natural resource. For states like Telangana, what resource will it primarily help map and monitor?",
-    "options": [
-      "Mineral deposits",
-      "Forest cover",
-      "Water resources",
-      "Urban expansion"
-    ],
-    "correctAnswer": "Water resources"
+    "question": "The Supreme Court will fix a timeline for FSSAI to enforce front-of-pack labelling. What does FSSAI stand for in the context of food regulation in India, including in states like Andhra Pradesh?",
+    "options": ["Food Security Standards Authority of India", "Food Safety and Standards Authority of India", "Federal System of Safety Assessments in India", "Food Supply and Storage Administration of India"],
+    "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
     "id": 22,
-    "question": "Which Indian government official provided an update on the 'Trishna' satellite mission, emphasizing its fast-track status and importance for India's scientific capabilities, including those beneficial for states like Andhra Pradesh?",
-    "options": [
-      "Defence Minister",
-      "Finance Minister",
-      "Space Minister",
-      "Home Minister"
-    ],
-    "correctAnswer": "Space Minister"
+    "question": "What is the primary purpose of 'front-of-pack labelling' that FSSAI aims to enforce, which would benefit consumers in states like Telangana?",
+    "options": ["To promote specific food brands", "To provide clear, concise nutritional information to consumers at a glance", "To encourage bulk purchasing of food items", "To inform consumers about food processing methods only"],
+    "correctAnswer": "To provide clear, concise nutritional information to consumers at a glance"
   },
   {
     "id": 23,
-    "question": "The 'Trishna' mission is specifically designed to provide comprehensive maps of which essential component of the Earth's system, crucial for agricultural and ecological planning in states such as Telangana?",
-    "options": [
-      "Atmospheric composition",
-      "Ocean currents",
-      "Land use patterns",
-      "Water sources"
-    ],
-    "correctAnswer": "Water sources"
+    "question": "The Supreme Court's involvement in setting a timeline for FSSAI's front-of-pack labelling highlights its role in what aspect of governance in India, affecting all states including Andhra Pradesh?",
+    "options": ["Direct legislative action", "Judicial oversight of regulatory body implementation", "Executive policy making", "International trade negotiations"],
+    "correctAnswer": "Judicial oversight of regulatory body implementation"
   },
   {
     "id": 24,
-    "question": "By mapping Earth's water sources, the Indo-French 'Trishna' mission is expected to contribute significantly to what global and national challenge, particularly for water-stressed regions including parts of Andhra Pradesh?",
-    "options": [
-      "Renewable energy production",
-      "Water resource management and climate change adaptation",
-      "Telecommunications infrastructure development",
-      "Biodiversity conservation"
-    ],
-    "correctAnswer": "Water resource management and climate change adaptation"
+    "question": "Which of the following is an expected benefit of front-of-pack labelling for public health in states like Telangana?",
+    "options": ["Increased consumption of sugary drinks", "Better informed dietary choices and reduction in non-communicable diseases", "Decrease in local food production", "Promotion of packaged snacks over fresh produce"],
+    "correctAnswer": "Better informed dietary choices and reduction in non-communicable diseases"
   },
   {
     "id": 25,
-    "question": "The 'Trishna' mission, a joint effort by India and France, is described as being on a 'fast-track'. What does this imply about the project's timeline and perceived importance for national scientific endeavors, applicable to states like Telangana?",
-    "options": [
-      "It has faced significant delays in recent months.",
-      "Its development and launch are being expedited due to its critical nature.",
-      "It is being converted into a purely domestic Indian mission.",
-      "It is undergoing a major redesign to alter its primary objective."
-    ],
-    "correctAnswer": "Its development and launch are being expedited due to its critical nature."
+    "question": "The FSSAI is the apex food regulator in India. Its mandate extends to ensuring food safety and quality for all citizens, including those residing in Telangana and Andhra Pradesh. Which Act establishes FSSAI?",
+    "options": ["Consumer Protection Act, 1986", "Essential Commodities Act, 1955", "Food Safety and Standards Act, 2006", "Prevention of Food Adulteration Act, 1954"],
+    "correctAnswer": "Food Safety and Standards Act, 2006"
   }
 ]

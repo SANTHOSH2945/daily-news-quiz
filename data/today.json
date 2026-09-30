@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary purpose of the PM-RAHAT scheme mentioned in the news?",
-    "options": ["Providing financial aid to farmers", "Treating crash victims and reimbursing hospitals", "Supporting small businesses", "Offering scholarships for higher education"],
-    "correctAnswer": "Treating crash victims and reimbursing hospitals"
+    "question": "In the context of the national government's focus on drug pricing and the pharmaceutical sector, which city in Telangana is widely known as a global hub for pharmaceutical manufacturing and research?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "Approximately how many crash victims have been treated under the PM-RAHAT scheme as per recent reports?",
-    "options": ["13,000", "20,000", "25,000", "30,000"],
-    "correctAnswer": "25,000"
+    "question": "Andhra Pradesh, like Telangana, plays a significant role in India's pharmaceutical industry. Which major port city in Andhra Pradesh has seen growth in pharmaceutical and chemical industries?",
+    "options": ["Guntur", "Vijayawada", "Visakhapatnam", "Nellore"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 3,
-    "question": "For how many cases have hospitals been reimbursed under the PM-RAHAT scheme as per the news?",
-    "options": ["13,000", "25,000", "7,000", "10,000"],
-    "correctAnswer": "13,000"
+    "question": "What is the common term used to describe the cluster of pharmaceutical companies and biotech firms predominantly located around Hyderabad, Telangana?",
+    "options": ["Biotech Park", "Pharma City", "Life Sciences Corridor", "MedTech Hub"],
+    "correctAnswer": "Pharma City"
   },
   {
     "id": 4,
-    "question": "The PM-RAHAT scheme is primarily focused on providing assistance to victims of what type of incident?",
-    "options": ["Natural disasters", "Industrial accidents", "Road accidents (crash victims)", "Medical emergencies not related to trauma"],
-    "correctAnswer": "Road accidents (crash victims)"
+    "question": "Given the discussions on drug affordability (as highlighted nationally), which national body regulates drug prices in India, impacting manufacturers in states like Telangana and Andhra Pradesh?",
+    "options": ["FSSAI", "NPPA", "CCI", "SEBI"],
+    "correctAnswer": "NPPA"
   },
   {
     "id": 5,
-    "question": "Which Indian institution's team recently used blue light to switch on cell division, potentially aiding cancer research?",
-    "options": ["AIIMS", "IIT Bombay", "IISc", "TIFR"],
-    "correctAnswer": "IISc"
+    "question": "The pharmaceutical industry in Telangana and Andhra Pradesh significantly contributes to India's status as the 'pharmacy of the world' due to its strength in which specific segment?",
+    "options": ["Medical Devices", "Generic Drugs", "Herbal Medicines", "Ayurvedic Products"],
+    "correctAnswer": "Generic Drugs"
   },
   {
     "id": 6,
-    "question": "What specific light spectrum was used by an IISc team to influence cell division for cancer research?",
-    "options": ["Red light", "Green light", "Blue light", "UV light"],
-    "correctAnswer": "Blue light"
+    "question": "Following national concerns about electoral roll integrity and voter registration, who is the current Chief Electoral Officer (CEO) for the state of Telangana?",
+    "options": ["Vikas Raj", "Anil Kumar Singhal", "Bhanwar Lal", "Shashi Bhushan Kumar"],
+    "correctAnswer": "Vikas Raj"
   },
   {
     "id": 7,
-    "question": "The research involving blue light and cell division by an IISc team is primarily aimed at aiding which medical field?",
-    "options": ["Cardiology", "Neurology", "Cancer research", "Orthopedics"],
-    "correctAnswer": "Cancer research"
+    "question": "The process of voter registration and addressing deleted entries, highlighted in national news, falls under the purview of which state-level body in Andhra Pradesh?",
+    "options": ["State Human Rights Commission", "Andhra Pradesh Election Commission", "Chief Electoral Officer, Andhra Pradesh", "Andhra Pradesh Public Service Commission"],
+    "correctAnswer": "Chief Electoral Officer, Andhra Pradesh"
   },
   {
     "id": 8,
-    "question": "What is a key concern being addressed by the INDIA bloc regarding the Election Commission?",
-    "options": ["Funding transparency", "Special Intensive Revision process", "Appointment of state election commissioners", "Digital voting implementation"],
-    "correctAnswer": "Special Intensive Revision process"
+    "question": "Which political party emerged victorious in the Telangana Assembly elections held in late 2023, amidst national discussions on electoral processes?",
+    "options": ["BRS", "Congress", "BJP", "AIMIM"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 9,
-    "question": "The INDIA bloc meeting is discussing a potential motion for the removal of which official?",
-    "options": ["Union Law Minister", "Chief Election Commissioner", "Speaker of Lok Sabha", "Prime Minister's Principal Secretary"],
-    "correctAnswer": "Chief Election Commissioner"
+    "question": "In Andhra Pradesh, the State Election Commission, responsible for conducting local body elections, is typically located in which city?",
+    "options": ["Visakhapatnam", "Amaravati", "Vijayawada", "Kurnool"],
+    "correctAnswer": "Vijayawada"
   },
   {
     "id": 10,
-    "question": "What is the name of the Chief Election Commissioner whose removal is being discussed by the INDIA bloc?",
-    "options": ["Rajiv Kumar", "Anup Chandra Pandey", "Arun Goel", "Gyanesh Kumar"],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "Amidst national debates on election funding and transparency, which national political party is the ruling party in Andhra Pradesh currently?",
+    "options": ["TDP", "YSRCP", "BJP", "Congress"],
+    "correctAnswer": "YSRCP"
   },
   {
     "id": 11,
-    "question": "Which of the following is NOT one of the entities that the INDIA bloc meeting is aimed at stepping up attack on?",
-    "options": ["Election Commission", "BJP", "MHA", "Opposition parties"],
-    "correctAnswer": "MHA"
+    "question": "The FCRA (Foreign Contribution Regulation Act) Bill, discussed nationally, impacts NGOs and charitable organizations in all states. Which prominent NGO from Telangana is known for its social development initiatives?",
+    "options": ["Akshaya Patra Foundation", "Bala Vikasa", "HelpAge India", "Teach For India"],
+    "correctAnswer": "Bala Vikasa"
   },
   {
     "id": 12,
-    "question": "Which two political parties were mentioned as potentially absent from the recent INDIA bloc meeting?",
-    "options": ["SP and RJD", "AAP and DMK", "NCP and JMM", "Shiv Sena (UBT) and CPI(M)"],
-    "correctAnswer": "AAP and DMK"
+    "question": "If an educational trust in Visakhapatnam, Andhra Pradesh, receives significant funding from foreign donors, it would be regulated primarily by which national act mentioned in the news?",
+    "options": ["Companies Act", "Foreign Exchange Management Act", "Foreign Contribution (Regulation) Act", "Societies Registration Act"],
+    "correctAnswer": "Foreign Contribution (Regulation) Act"
   },
   {
     "id": 13,
-    "question": "Which national agency recently arrested 13 suspects in a JMB-linked terror conspiracy case?",
-    "options": ["CBI", "ED", "NIA", "RAW"],
-    "correctAnswer": "NIA"
-  },
-  {
-    "id": 14,
-    "question": "The recent arrests by NIA were linked to which terrorist group?",
-    "options": ["Lashkar-e-Taiba (LeT)", "Jamaat ul Mujahideen Bangladesh (JMB)", "Indian Mujahideen (IM)", "Students' Islamic Movement of India (SIMI)"],
-    "correctAnswer": "Jamaat ul Mujahideen Bangladesh (JMB)"
-  },
-  {
-    "id": 15,
-    "question": "What common items were confiscated by NIA during searches related to the JMB terror conspiracy case?",
-    "options": ["Firearms and ammunition", "Fake currency notes", "Digital gadgets", "Explosive materials"],
-    "correctAnswer": "Digital gadgets"
-  },
-  {
-    "id": 16,
-    "question": "The NIA's recent searches in the JMB terror conspiracy case were conducted across how many states?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Three"
-  },
-  {
-    "id": 17,
-    "question": "Which ministry's officials were recently apprehended on corruption charges related to FCRA registration?",
+    "question": "Which central ministry is responsible for the administration and enforcement of the FCRA, affecting thousands of non-profits in states like Telangana?",
     "options": ["Ministry of Finance", "Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Corporate Affairs"],
     "correctAnswer": "Ministry of Home Affairs"
   },
   {
+    "id": 14,
+    "question": "The FCRA requires NGOs receiving foreign funds, including those in Andhra Pradesh, to maintain their FCRA accounts with which specific type of bank?",
+    "options": ["Private Sector Bank", "Cooperative Bank", "Scheduled Bank", "Regional Rural Bank"],
+    "correctAnswer": "Scheduled Bank"
+  },
+  {
+    "id": 15,
+    "question": "What is the validity period for the FCRA registration of an organization in India, including those operating in Telangana, before it needs to be renewed?",
+    "options": ["3 years", "5 years", "7 years", "10 years"],
+    "correctAnswer": "5 years"
+  },
+  {
+    "id": 16,
+    "question": "Hyderabad is the permanent seat for the High Court of which Indian state, handling various legal matters including those stemming from national laws?",
+    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Odisha"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 17,
+    "question": "The Andhra Pradesh High Court, separated from the common High Court after state bifurcation, is located in which city/region?",
+    "options": ["Kurnool", "Vijayawada", "Amaravati", "Guntur"],
+    "correctAnswer": "Amaravati"
+  },
+  {
     "id": 18,
-    "question": "What type of registration process was involved in the corruption case against MHA officials?",
-    "options": ["GST registration", "Passport application", "FCRA registration", "Company incorporation"],
-    "correctAnswer": "FCRA registration"
+    "question": "Who was the first Chief Justice of the newly constituted Telangana High Court after its bifurcation from the common High Court for AP and Telangana?",
+    "options": ["Justice T.B. Radhakrishnan", "Justice Hima Kohli", "Justice Raghvendra Singh Chauhan", "Justice Ujjal Bhuyan"],
+    "correctAnswer": "Justice T.B. Radhakrishnan"
   },
   {
     "id": 19,
-    "question": "To enhance transparency and minimize human involvement, how has the FCRA registration process been changed?",
-    "options": ["It now requires approval from the PMO", "All processes have been shifted to a digital platform", "A new committee has been formed", "The fees have been significantly reduced"],
-    "correctAnswer": "All processes have been shifted to a digital platform"
+    "question": "The Supreme Court's directives, as mentioned in national news, are binding on all lower courts. What is the highest judicial body within a state like Andhra Pradesh?",
+    "options": ["District Court", "Session Court", "High Court", "Civil Court"],
+    "correctAnswer": "High Court"
   },
   {
     "id": 20,
-    "question": "The corruption charges against MHA officials were related to allegedly seeking bribes to facilitate what?",
-    "options": ["Issuing visas", "Granting citizenship", "Expediting pending FCRA applications", "Approving defense contracts"],
-    "correctAnswer": "Expediting pending FCRA applications"
+    "question": "The Andhra Pradesh Reorganisation Act, 2014, led to the establishment of separate High Courts for Telangana and Andhra Pradesh. In which year did the Andhra Pradesh High Court officially commence its operations as a distinct entity?",
+    "options": ["2014", "2015", "2018", "2019"],
+    "correctAnswer": "2019"
   },
   {
     "id": 21,
-    "question": "At a recent CWC meet, Rahul Gandhi credited which party for 'revelations' regarding the Election Commission?",
-    "options": ["BJP", "Congress", "Samajwadi Party", "Trinamool Congress"],
-    "correctAnswer": "Congress"
+    "question": "While NCERT focuses on national curriculum, which prestigious central university located in Hyderabad, Telangana, is known for its wide range of academic programs and research?",
+    "options": ["Osmania University", "Kakatiya University", "University of Hyderabad", "Jawaharlal Nehru Technological University"],
+    "correctAnswer": "University of Hyderabad"
   },
   {
     "id": 22,
-    "question": "What message did Rahul Gandhi give at the CWC meet regarding the EC row?",
-    "options": ["Collaborate and unite", "Oppose and resist", "Debate and discuss", "Accept and move on"],
-    "correctAnswer": "Oppose and resist"
+    "question": "In the context of promoting local culture and education, which classical dance form is native to Andhra Pradesh?",
+    "options": ["Bharatanatyam", "Kathakali", "Kuchipudi", "Odissi"],
+    "correctAnswer": "Kuchipudi"
   },
   {
     "id": 23,
-    "question": "RSS chief Mohan Bhagwat emphasized that Dharma stands on how many pillars?",
-    "options": ["Two", "Three", "Four", "Five"],
-    "correctAnswer": "Four"
+    "question": "Telangana is making efforts in education and skill development. Which city in Telangana is home to the Maulana Azad National Urdu University, a central university?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 24,
-    "question": "According to RSS chief Mohan Bhagwat, what should true development focus on, beyond mere economic growth?",
-    "options": ["Military strength and defense", "Space exploration and technology", "Well-being of all living beings and the environment", "Global trade and partnerships"],
-    "correctAnswer": "Well-being of all living beings and the environment"
+    "question": "Andhra Pradesh, similar to other states, has numerous state universities. Which city in Andhra Pradesh hosts Acharya Nagarjuna University?",
+    "options": ["Guntur", "Nellore", "Kurnool", "Kakinada"],
+    "correctAnswer": "Guntur"
   },
   {
     "id": 25,
-    "question": "What term did RSS chief Mohan Bhagwat use to refer to the upliftment of society's most vulnerable sections?",
-    "options": ["Sarvodaya", "Antyodaya", "Gramodaya", "Janodaya"],
-    "correctAnswer": "Antyodaya"
+    "question": "What is the primary official language of administration and instruction in most government schools in Telangana, alongside English?",
+    "options": ["Tamil", "Kannada", "Telugu", "Marathi"],
+    "correctAnswer": "Telugu"
   }
 ]

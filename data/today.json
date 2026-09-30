@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who did PM Modi have a productive conversation with regarding trade, defence, and energy?",
-    "options": ["President Biden", "President Putin", "President Trump", "President Macron"],
-    "correctAnswer": "President Trump"
+    "question": "An Indian pilot recently received recognition from Israeli PM Netanyahu for preventing an air incident. This event highlights which country's contribution to aviation safety?",
+    "options": ["India", "UAE", "Oman", "Israel"],
+    "correctAnswer": "India"
   },
   {
     "id": 2,
-    "question": "Which three key areas were discussed between PM Modi and US President Trump?",
-    "options": ["Climate, Education, Health", "Trade, Defence, Energy", "Technology, Tourism, Culture", "Space, Agriculture, Finance"],
-    "correctAnswer": "Trade, Defence, Energy"
+    "question": "The incident where an Indian pilot averted a plane crash involved an Omani co-pilot and a flight from which airline, as mentioned in the news?",
+    "options": ["Emirates", "Qatar Airways", "Flydubai", "Etihad Airways"],
+    "correctAnswer": "Flydubai"
   },
   {
     "id": 3,
-    "question": "India's Consul General recently met with the mayor of which international city?",
-    "options": ["Beijing", "Tokyo", "Shanghai", "Seoul"],
-    "correctAnswer": "Shanghai"
+    "question": "India is set to host its inaugural 'India Mining Week' in which month of 2026?",
+    "options": ["October", "November", "December", "September"],
+    "correctAnswer": "November"
   },
   {
     "id": 4,
-    "question": "What occasion was India's Consul General extending wishes for to the Shanghai mayor?",
-    "options": ["Lunar New Year", "Shanghai Festival", "China’s National Day", "Economic Summit"],
-    "correctAnswer": "China’s National Day"
+    "question": "What is the primary objective of the inaugural India Mining Week event planned for November 2026, which would include significant mining states like Telangana and Andhra Pradesh?",
+    "options": ["To promote tourism", "To foster global engagement and investment in the mining sector", "To discuss agricultural policies", "To launch new railway projects"],
+    "correctAnswer": "To foster global engagement and investment in the mining sector"
   },
   {
     "id": 5,
-    "question": "Which Indian state's police force was recently pulled up by the Supreme Court over unnamed FIRs?",
-    "options": ["Madhya Pradesh", "Uttar Pradesh", "Rajasthan", "Bihar"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "Which key topics are expected to be discussed at India Mining Week, focusing on policy advancements and essential minerals?",
+    "options": ["Textile manufacturing", "Mining technology and sustainability", "Pharmaceutical research", "Renewable energy sources"],
+    "correctAnswer": "Mining technology and sustainability"
   },
   {
     "id": 6,
-    "question": "What investigative body did the Supreme Court suggest for probes into cases involving unnamed FIRs in Uttar Pradesh?",
-    "options": ["State Crime Branch", "National Investigation Agency (NIA)", "Central Bureau of Investigation (CBI)", "Anti-Terrorism Squad (ATS)"],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
+    "question": "India Mining Week aims to attract major players from which sector, vital to the economies of states like Telangana and Andhra Pradesh?",
+    "options": ["Agriculture", "Information Technology", "Mining", "Education"],
+    "correctAnswer": "Mining"
   },
   {
     "id": 7,
-    "question": "What specific issue did the Supreme Court address concerning the UP Police?",
-    "options": ["Delay in filing charge sheets", "Misconduct during arrests", "Unnamed FIRs", "Lack of cybercrime expertise"],
-    "correctAnswer": "Unnamed FIRs"
+    "question": "The upcoming India Mining Week event will feature a high-profile conference, exhibitions, and dialogues related to which of the following?",
+    "options": ["Food processing and exports", "Space exploration", "Mining technology and sustainability", "Digital infrastructure"],
+    "correctAnswer": "Mining technology and sustainability"
   },
   {
     "id": 8,
-    "question": "A terrorist wanted for an attack in which region of India was recently killed in an encounter?",
-    "options": ["Punjab", "Jammu & Kashmir", "Assam", "Chhattisgarh"],
-    "correctAnswer": "Jammu & Kashmir"
+    "question": "Besides fostering investment, India Mining Week aims to spotlight which specific area within the mining sector?",
+    "options": ["Policy advancements", "Historic mining practices", "Tourist attractions in mining regions", "Agricultural mineral use"],
+    "correctAnswer": "Policy advancements"
   },
   {
     "id": 9,
-    "question": "What accusation did the BJP make against the INDIA bloc regarding their protest against the Election Commission?",
-    "options": ["Trying to destabilize the government", "Preempting election losses", "Spreading misinformation", "Violating public order"],
-    "correctAnswer": "Preempting election losses"
+    "question": "Which aspect of mining, alongside technology, is a key focus for discussion at the first India Mining Week?",
+    "options": ["Labor union negotiations", "Environmental sustainability", "International trade agreements", "Historical preservation"],
+    "correctAnswer": "Environmental sustainability"
   },
   {
     "id": 10,
-    "question": "Which organization introduced a new Class IX social science textbook linking governance principles with ancient Indian wisdom?",
-    "options": ["UGC", "CBSE", "NCERT", "AICTE"],
-    "correctAnswer": "NCERT"
+    "question": "Which national authority is set to conduct special inspections on 17 highway projects across various states, including those potentially in Telangana and Andhra Pradesh?",
+    "options": ["Ministry of Road Transport and Highways", "National Highways Authority of India (NHAI)", "Border Roads Organisation (BRO)", "Public Works Department (PWD)"],
+    "correctAnswer": "National Highways Authority of India (NHAI)"
   },
   {
     "id": 11,
-    "question": "What ancient Indian texts are referenced in the new NCERT Class IX social science textbook for governance themes?",
-    "options": ["Vedas and Puranas", "Ramayana and Bhagavad Gita", "Upanishads and Mahabharata", "Arthashastra and Manusmriti"],
-    "correctAnswer": "Upanishads and Mahabharata"
+    "question": "What is the specific criterion for the 17 highway projects selected for special inspection by NHAI?",
+    "options": ["Projects delayed by over 2 years", "Projects awarded at least 15% below estimated costs", "Projects covering only state highways", "Projects located in hilly regions"],
+    "correctAnswer": "Projects awarded at least 15% below estimated costs"
   },
   {
     "id": 12,
-    "question": "What key governance themes are advocated in the new NCERT Class IX social science textbook by drawing on ancient wisdom?",
-    "options": ["Austerity, Discipline, Loyalty", "Accountability, Inclusiveness, Transparency", "Centralization, Hierarchy, Obedience", "Innovation, Globalization, Digitization"],
-    "correctAnswer": "Accountability, Inclusiveness, Transparency"
+    "question": "What is the primary aim of NHAI's special inspections on these highway projects?",
+    "options": ["To identify new contractors", "To uphold quality standards", "To increase project costs", "To change project designs"],
+    "correctAnswer": "To uphold quality standards"
   },
   {
     "id": 13,
-    "question": "For which class has NCERT introduced a new social science textbook connecting modern governance principles with ancient Indian wisdom?",
-    "options": ["Class VI", "Class VIII", "Class IX", "Class XI"],
-    "correctAnswer": "Class IX"
+    "question": "When are the initial reviews for the NHAI highway inspections expected to begin?",
+    "options": ["By September", "By October", "By November", "By December"],
+    "correctAnswer": "By December"
   },
   {
     "id": 14,
-    "question": "What was the nationality of the pilot who reportedly prevented a Flydubai flight from crashing after an altercation?",
-    "options": ["Omani", "Israeli", "Indian-origin", "Emirati"],
-    "correctAnswer": "Indian-origin"
+    "question": "Who will be overseeing the NHAI special inspections to ensure quality standards?",
+    "options": ["Junior engineers", "Teams of seasoned engineers", "Local government officials", "Independent auditors appointed by the UN"],
+    "correctAnswer": "Teams of seasoned engineers"
   },
   {
     "id": 15,
-    "question": "Which flight number from Dubai to Tel Aviv experienced a mid-air incident involving pilots, as per news reports?",
-    "options": ["FZ1070", "FZ1071", "FZ1073", "FZ1075"],
-    "correctAnswer": "FZ1073"
+    "question": "What measure will be taken if quality inconsistencies are found during NHAI's inspections?",
+    "options": ["Projects will be abandoned", "Contractors will be given bonuses", "Rectification in line with contractual obligations", "Projects will be re-awarded immediately"],
+    "correctAnswer": "Rectification in line with contractual obligations"
   },
   {
     "id": 16,
-    "question": "In which city did a court recently convict a wife and her lover for a husband's murder in the 'blue drum case'?",
-    "options": ["Lucknow", "Agra", "Meerut", "Varanasi"],
-    "correctAnswer": "Meerut"
+    "question": "How often will follow-up checks be conducted on the 17 highway projects after the initial NHAI reviews?",
+    "options": ["Monthly", "Quarterly", "Annually", "In six months"],
+    "correctAnswer": "In six months"
   },
   {
     "id": 17,
-    "question": "Which political leader claimed that several BJP alliance MLAs are in contact with his party ahead of Rajya Sabha polls?",
-    "options": ["Rahul Gandhi", "Akhilesh Yadav", "Mamata Banerjee", "Arvind Kejriwal"],
-    "correctAnswer": "Akhilesh Yadav"
+    "question": "The NHAI's initiative to inspect under-cost highway projects demonstrates its commitment to which aspect of public infrastructure development in India?",
+    "options": ["Aesthetic design", "Timely completion", "Financial profitability", "Quality and accountability"],
+    "correctAnswer": "Quality and accountability"
   },
   {
     "id": 18,
-    "question": "What type of election was Akhilesh Yadav referring to when he claimed BJP alliance MLAs were in touch with the Samajwadi Party?",
-    "options": ["General Elections", "Assembly Elections", "Rajya Sabha Polls", "Local Body Elections"],
-    "correctAnswer": "Rajya Sabha Polls"
+    "question": "The contractual obligations mentioned in the NHAI inspection context primarily refer to ensuring what from the contractors?",
+    "options": ["Timely payment to laborers", "Use of local materials", "Adherence to quality standards", "Engagement of specific subcontractors"],
+    "correctAnswer": "Adherence to quality standards"
   },
   {
     "id": 19,
-    "question": "Which industrialist was nominated by the Samajwadi Party for the Rajya Sabha, a move defended by Akhilesh Yadav?",
-    "options": ["Mukesh Ambani", "Gautam Adani", "Dhanraj Parimal Nathwani", "Anil Ambani"],
-    "correctAnswer": "Dhanraj Parimal Nathwani"
+    "question": "The INDIA bloc, under Congress's leadership, is preparing for a vigorous campaign against which of the following, a matter of national political importance relevant to Telangana and Andhra Pradesh?",
+    "options": ["Economic liberalization", "Electoral misconduct and the Election Commission's authority", "Agricultural subsidies", "Foreign policy decisions"],
+    "correctAnswer": "Electoral misconduct and the Election Commission's authority"
   },
   {
     "id": 20,
-    "question": "What did the BJP allege was the true purpose of the INDIA bloc's planned October 2 march?",
-    "options": ["To highlight government failures", "To save dynasty, not democracy", "To promote national unity", "To celebrate Gandhi Jayanti"],
-    "correctAnswer": "To save dynasty, not democracy"
+    "question": "What is the name of the pivotal march planned by the INDIA bloc to elevate public consciousness regarding electoral issues?",
+    "options": ["'Democracy First March'", "'Save Democracy March'", "'Electoral Reform March'", "'Voter Rights March'"],
+    "correctAnswer": "'Save Democracy March'"
   },
   {
     "id": 21,
-    "question": "Which political alliance planned a march for October 2, which the BJP criticized?",
-    "options": ["NDA", "UPA", "INDIA bloc", "Left Front"],
-    "correctAnswer": "INDIA bloc"
+    "question": "The INDIA bloc intends to approach which judicial body concerning ongoing electoral challenges?",
+    "options": ["High Courts", "District Courts", "Supreme Court", "International Court of Justice"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 22,
-    "question": "What was the name of the LeT terrorist and alleged mastermind of the Pahalgam attack recently killed in a J&K encounter?",
-    "options": ["Syed Salahuddin", "Hafiz Saeed", "Zakiur Rehman Lakhvi", "Hashim Moosa"],
-    "correctAnswer": "Hashim Moosa"
+    "question": "One of the key proposals by the INDIA bloc for electoral reforms includes reinstating which voting method?",
+    "options": ["Online voting", "Postal voting", "Ballot voting", "Biometric voting"],
+    "correctAnswer": "Ballot voting"
   },
   {
     "id": 23,
-    "question": "Hashim Moosa, a terrorist killed in a J&K encounter, was identified as an ex-commando from which country's special forces?",
-    "options": ["Afghanistan", "Pakistan", "Iran", "Syria"],
-    "correctAnswer": "Pakistan"
+    "question": "Which major political party is leading the INDIA bloc's campaign against electoral misconduct, a coalition active across India including Telangana and Andhra Pradesh?",
+    "options": ["Bharatiya Janata Party (BJP)", "Bahujan Samaj Party (BSP)", "Indian National Congress", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 24,
-    "question": "Besides Upanishads and Mahabharata, what other elements of Indian wisdom are mentioned as roots for national and Supreme Court mottos in the new NCERT textbook?",
-    "options": ["Ramayana and Bhagavad Gita", "Vedic hymns and Buddhist sutras", "National motto and Supreme Court mottos", "Ancient epics and folklores"],
-    "correctAnswer": "National motto and Supreme Court mottos"
+    "question": "The INDIA bloc's strategy includes widespread protests and a pivotal march to pressure for essential reforms concerning which national body?",
+    "options": ["The Reserve Bank of India", "The Election Commission", "The NITI Aayog", "The Union Public Service Commission"],
+    "correctAnswer": "The Election Commission"
   },
   {
     "id": 25,
-    "question": "The Supreme Court suggested a CBI probe for cases involving unnamed FIRs after pulling up the police of which state?",
-    "options": ["Bihar", "Rajasthan", "Uttar Pradesh", "Punjab"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "The NHAI's decision to inspect highway projects awarded significantly below estimated costs underscores the importance of quality in infrastructure development across all Indian states, including:",
+    "options": ["Only major metropolitan areas", "North-Eastern states only", "All states, particularly those with extensive road networks like Telangana and Andhra Pradesh", "Specific Union Territories"],
+    "correctAnswer": "All states, particularly those with extensive road networks like Telangana and Andhra Pradesh"
   }
 ]

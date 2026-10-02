@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The 'one-nation, one-election' proposal, recently discussed by a parliamentary panel, would primarily impact which level of elections in states like Telangana and Andhra Pradesh?",
-    "options": ["Lok Sabha only", "State Assembly only", "Both Lok Sabha and State Assembly", "Local Body elections only"],
-    "correctAnswer": "Both Lok Sabha and State Assembly"
+    "question": "Which specific portal of the Election Commission was accused by the Congress of being 'not in accordance with law'?",
+    "options": ["e-Voter Portal", "ECINet", "MyVote India", "Digital Election Gateway"],
+    "correctAnswer": "ECINet"
   },
   {
     "id": 2,
-    "question": "The Supreme Court judges' decline to meet on the 'one-nation, one-election' proposal highlights discussions on electoral reforms. What is a potential benefit of synchronized elections for states like Andhra Pradesh?",
-    "options": ["Increased frequency of elections", "Reduced election expenditure", "Extended terms for state assemblies", "Greater political instability"],
-    "correctAnswer": "Reduced election expenditure"
+    "question": "Which political party recently accused the Election Commission of 'lying' regarding one of its portals?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "Aam Aadmi Party (AAP)", "All India Trinamool Congress (AITC)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 3,
-    "question": "What is a commonly cited argument against the 'one-nation, one-election' proposal, which could impact the autonomy of state governments in Telangana?",
-    "options": ["It reduces voter turnout", "It strengthens regional parties", "It may undermine federalism", "It simplifies election logistics"],
-    "correctAnswer": "It may undermine federalism"
+    "question": "The Congress's accusation against the Election Commission centered on the claim that a particular portal was what?",
+    "options": ["Too expensive to maintain", "Developed by a private company", "Not user-friendly", "Not in accordance with law"],
+    "correctAnswer": "Not in accordance with law"
   },
   {
     "id": 4,
-    "question": "The PFRDA is considering enabling funds to invest directly in infrastructure. Which sector in Telangana would likely see a boost from such investments?",
-    "options": ["Tourism", "Agriculture", "Road and port development", "Software services"],
-    "correctAnswer": "Road and port development"
+    "question": "What is the core allegation made by Congress about the ECINet portal?",
+    "options": ["It was hacked", "It displayed incorrect election results", "It was not legally compliant", "It only catered to specific regions"],
+    "correctAnswer": "It was not legally compliant"
   },
   {
     "id": 5,
-    "question": "PFRDA's move to allow direct investment in infrastructure could attract more capital to states. What type of long-term financial instrument is typically associated with infrastructure funding in India, relevant to Andhra Pradesh?",
-    "options": ["Equity shares", "Corporate bonds", "Sovereign gold bonds", "Infrastructure Investment Trusts (InvITs)"],
-    "correctAnswer": "Infrastructure Investment Trusts (InvITs)"
+    "question": "The Election Commission was accused of 'lying' about which aspect related to the ECINet portal?",
+    "options": ["Its development cost", "Its operational efficiency", "Its compliance with legal standards", "Its user base"],
+    "correctAnswer": "Its compliance with legal standards"
   },
   {
     "id": 6,
-    "question": "Beyond national funding agencies like PFRDA, what is a primary source of infrastructure funding for state governments such as Telangana?",
-    "options": ["Foreign aid", "State bonds and loans", "Personal donations", "Crowd-funding campaigns"],
-    "correctAnswer": "State bonds and loans"
+    "question": "What entity manages the ECINet portal, which was recently under scrutiny?",
+    "options": ["Ministry of Law and Justice", "National Informatics Centre", "Election Commission of India", "A private IT firm"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 7,
-    "question": "The government has mandated full body scanners at 8 airports. Which of the following airports, a major hub in Telangana, is highly likely to be among them?",
-    "options": ["Warangal Airport", "Rajiv Gandhi International Airport (Hyderabad)", "Begumpet Airport", "Kadapa Airport"],
-    "correctAnswer": "Rajiv Gandhi International Airport (Hyderabad)"
+    "question": "What does 'ECINet' refer to in the context of the news?",
+    "options": ["An election news channel", "A network of election booths", "An Election Commission portal", "An electoral data analysis tool"],
+    "correctAnswer": "An Election Commission portal"
   },
   {
     "id": 8,
-    "question": "Considering the mandate for full body scanners at 8 Indian airports, which major airport in Andhra Pradesh serves as a significant gateway and might be included?",
-    "options": ["Tirupati Airport", "Visakhapatnam International Airport", "Rajahmundry Airport", "Kurnool Airport"],
-    "correctAnswer": "Visakhapatnam International Airport"
+    "question": "The accusation about ECINet primarily highlights concerns regarding its:",
+    "options": ["Technological sophistication", "Transparency and legal validity", "Geographical coverage", "Speed and accessibility"],
+    "correctAnswer": "Transparency and legal validity"
   },
   {
     "id": 9,
-    "question": "What is the primary purpose of implementing full body scanners at airports, a measure relevant for passenger safety at hubs like Hyderabad?",
-    "options": ["Speeding up check-in", "Detecting non-metallic threats", "Reducing baggage weight", "Monitoring passenger health"],
-    "correctAnswer": "Detecting non-metallic threats"
+    "question": "According to the news, what was the nature of the statement the Congress accused the Election Commission of making about ECINet?",
+    "options": ["An exaggeration", "A false promise", "A lie", "An understatement"],
+    "correctAnswer": "A lie"
   },
   {
     "id": 10,
-    "question": "The political dynamics between BJP and Congress are prominent nationally. In the context of Andhra Pradesh state politics, which party currently holds a strong presence in the state legislature?",
-    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Bharatiya Janata Party (BJP)", "Indian National Congress (INC)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "The controversy surrounding ECINet involved allegations from which major political party in India?",
+    "options": ["Bahujan Samaj Party", "Communist Party of India (Marxist)", "Indian National Congress", "Narendra Modi-led BJP"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 11,
-    "question": "The accusations exchanged between BJP and Congress reflect national political rivalries. In Telangana, which of these two parties is currently leading the state government?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "What organization recently launched a special drive to restore names of dropped voters and trace left-out voters?",
+    "options": ["Ministry of Home Affairs", "Unique Identification Authority of India (UIDAI)", "Election Commission (EC)", "Panchayati Raj Ministry"],
+    "correctAnswer": "Election Commission (EC)"
   },
   {
     "id": 12,
-    "question": "While focused on international relations, PM Modi's peace push contributes to India's global standing. How does a strong national image indirectly benefit states like Telangana?",
-    "options": ["Attracts foreign investment", "Increases local tourism", "Reduces state taxes", "Boosts agricultural exports only"],
-    "correctAnswer": "Attracts foreign investment"
+    "question": "What is the primary objective of the special drive launched by the Election Commission?",
+    "options": ["To update Aadhaar details", "To conduct a new census", "To restore names dropped from voter lists", "To register new political parties"],
+    "correctAnswer": "To restore names dropped from voter lists"
   },
   {
     "id": 13,
-    "question": "The collegium system, whose decisions are in the news, is responsible for appointments and transfers in which part of the Indian judiciary, relevant to the High Courts of Telangana and Andhra Pradesh?",
-    "options": ["District Courts", "Tribunals", "High Courts and Supreme Court", "Gram Nyayalayas"],
-    "correctAnswer": "High Courts and Supreme Court"
+    "question": "In the context of the EC's special drive, what is the role of 'BLOs'?",
+    "options": ["To supervise polling stations only", "To monitor election expenditures", "To trace left-out voters and verify details", "To design voter awareness campaigns"],
+    "correctAnswer": "To trace left-out voters and verify details"
   },
   {
     "id": 14,
-    "question": "What is the name of the High Court that serves as the apex judicial body for the state of Telangana?",
-    "options": ["Andhra Pradesh High Court", "Hyderabad High Court", "Telangana High Court", "Secunderabad High Court"],
-    "correctAnswer": "Telangana High Court"
+    "question": "The Election Commission's special drive aims to restore names dropped during 'SIR'. What does 'SIR' commonly refer to in electoral processes?",
+    "options": ["Systematic Inclusion Record", "Special Investigation Report", "Summary Revision of electoral rolls", "State Electoral Registry"],
+    "correctAnswer": "Summary Revision of electoral rolls"
   },
   {
     "id": 15,
-    "question": "The concept of judicial appointments and transfers, as per collegium decisions, ensures the functioning of state judicial systems. Which High Court is designated for the state of Andhra Pradesh?",
-    "options": ["Amaravati High Court", "Visakhapatnam High Court", "Guntur High Court", "Andhra Pradesh High Court"],
-    "correctAnswer": "Andhra Pradesh High Court"
+    "question": "Who are specifically tasked with tracing 'left-out voters' during the Election Commission's special drive?",
+    "options": ["District Collectors", "Police Officers", "Booth Level Officers (BLOs)", "Political Party Workers"],
+    "correctAnswer": "Booth Level Officers (BLOs)"
   },
   {
     "id": 16,
-    "question": "The reminder that officials are 'public servants' emphasizes their accountability. Which of the following is a key responsibility of state government officials in Andhra Pradesh?",
-    "options": ["Engaging in private business", "Serving only specific communities", "Implementing government policies", "Representing political parties"],
-    "correctAnswer": "Implementing government policies"
+    "question": "The special drive launched by the EC is aimed at correcting issues that arose during which process?",
+    "options": ["General Elections", "Voter ID card issuance", "Summary Revision of electoral rolls", "Boundary delimitation"],
+    "correctAnswer": "Summary Revision of electoral rolls"
   },
   {
     "id": 17,
-    "question": "For citizens in Telangana, which government body at the state level is primarily responsible for the overall administration and execution of state policies?",
-    "options": ["Municipal Corporations", "Zilla Parishads", "State Secretariat", "District Courts"],
-    "correctAnswer": "State Secretariat"
+    "question": "What does the acronym 'BLOs' stand for in the context of the Election Commission's activities?",
+    "options": ["Block Level Organizers", "Booth Level Officials", "Boundary Liaison Officers", "Ballot Link Operators"],
+    "correctAnswer": "Booth Level Officials"
   },
   {
     "id": 18,
-    "question": "If PFRDA-enabled pension funds invest in infrastructure, which major ongoing infrastructure project in Andhra Pradesh might be a suitable target?",
-    "options": ["Mumbai Trans Harbour Sea Link", "Delhi-Mumbai Industrial Corridor", "Amaravati Capital City Project", "Ayodhya Ram Temple Complex"],
-    "correctAnswer": "Amaravati Capital City Project"
+    "question": "What is the significance of the Election Commission's special drive in relation to voter lists?",
+    "options": ["It's a trial run for new technology", "It ensures the accuracy and inclusiveness of electoral rolls", "It's a program for youth voter registration", "It aims to increase voter turnout in specific areas"],
+    "correctAnswer": "It ensures the accuracy and inclusiveness of electoral rolls"
   },
   {
     "id": 19,
-    "question": "The PFRDA's plan for direct infrastructure investment seeks to channel long-term funds. In Telangana, what type of infrastructure is often crucial for rural economic development?",
-    "options": ["Space research facilities", "High-speed rail networks", "Irrigation projects and rural roads", "Large-scale industrial parks only"],
-    "correctAnswer": "Irrigation projects and rural roads"
+    "question": "The EC's special drive is a response to names being 'dropped'. What does 'dropped' imply in this context?",
+    "options": ["Voluntarily removed by voters", "Incorrectly deleted or missed from the list", "Temporarily suspended from voting", "Moved to a different constituency list"],
+    "correctAnswer": "Incorrectly deleted or missed from the list"
   },
   {
     "id": 20,
-    "question": "What specific technology is being mandated by the Indian government at 8 airports, including potentially those in AP and Telangana, for enhanced security screening?",
-    "options": ["Metal detectors", "X-ray machines", "Full body scanners", "Biometric scanners"],
-    "correctAnswer": "Full body scanners"
+    "question": "What specific action are BLOs expected to perform as part of the special drive for voters?",
+    "options": ["Conducting exit polls", "Supervising ballot counting", "Tracing and verifying voters who were left out", "Organizing political rallies"],
+    "correctAnswer": "Tracing and verifying voters who were left out"
   },
   {
     "id": 21,
-    "question": "The 'one-nation, one-election' proposal, a subject of discussion with the Supreme Court, aims to bring uniformity. What part of the Indian Constitution primarily governs elections to state legislative assemblies in Andhra Pradesh?",
-    "options": ["Part IV", "Part V", "Part VI", "Part XV"],
-    "correctAnswer": "Part XV"
+    "question": "The Election Commission's initiative to launch a special drive suggests a concern about the integrity of what?",
+    "options": ["Election funding", "Electronic Voting Machines (EVMs)", "The electoral roll/voter list", "Candidate nominations"],
+    "correctAnswer": "The electoral roll/voter list"
   },
   {
     "id": 22,
-    "question": "Prime Minister Modi's leadership in both foreign policy and national recognition for bravehearts reflects national governance. What is the current political party affiliation of the Chief Minister of Telangana?",
-    "options": ["BRS", "Congress", "BJP", "MIM"],
-    "correctAnswer": "Congress"
+    "question": "What is the broader goal of the Election Commission by taking steps like this special drive?",
+    "options": ["To reduce election expenses", "To ensure free, fair, and inclusive elections", "To introduce new voting methods", "To centralize voter data nationally"],
+    "correctAnswer": "To ensure free, fair, and inclusive elections"
   },
   {
     "id": 23,
-    "question": "The political accusations between BJP and Congress are a common feature of Indian democracy. In which house of the Indian Parliament are representatives from Telangana primarily elected to represent their state's interests?",
-    "options": ["Rajya Sabha", "Lok Sabha", "Vidhan Parishad", "Vidhan Sabha"],
-    "correctAnswer": "Lok Sabha"
+    "question": "The phrase 'left-out voters' in the news refers to individuals who:",
+    "options": ["Did not cast their vote in the last election", "Have moved to a new address", "Are eligible but not on the current voter list", "Are too young to vote"],
+    "correctAnswer": "Are eligible but not on the current voter list"
   },
   {
     "id": 24,
-    "question": "PFRDA is the regulatory body for the pension sector in India. Its focus on infrastructure investment could support large-scale projects. Which major port city in Andhra Pradesh is a key hub for trade and infrastructure development?",
-    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What is the typical consequence for a voter whose name has been dropped from the electoral rolls during a revision process like SIR?",
+    "options": ["They are automatically re-registered elsewhere", "They lose their right to vote until rectified", "They receive a new voter ID card by mail", "They must pay a fine to be re-added"],
+    "correctAnswer": "They lose their right to vote until rectified"
   },
   {
     "id": 25,
-    "question": "The debate surrounding 'one-nation, one-election' involves various stakeholders, including the judiciary. Which constitutional body in India is responsible for conducting elections for both the Lok Sabha and State Legislative Assemblies, thereby directly impacting Telangana and Andhra Pradesh?",
-    "options": ["Planning Commission", "Election Commission of India", "NITI Aayog", "Union Public Service Commission"],
-    "correctAnswer": "Election Commission of India"
+    "question": "What is the fundamental principle that the Election Commission's special drive for voter restoration upholds?",
+    "options": ["First-past-the-post voting", "Universal adult franchise", "Secrecy of the ballot", "Proportional representation"],
+    "correctAnswer": "Universal adult franchise"
   }
 ]

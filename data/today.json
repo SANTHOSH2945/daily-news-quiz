@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What national authority is responsible for regulating food safety and combating adulteration, with its directives also extending to states like Telangana and Andhra Pradesh?",
-    "options": ["FSSAI", "NITI Aayog", "BIS", "AGMARK"],
-    "correctAnswer": "FSSAI"
+    "question": "Which set of new criminal laws, including the Bharatiya Nyaya Sanhita (BNS), is replacing existing colonial-era laws across India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Indian Evidence Act, 1872",
+      "Code of Criminal Procedure, 1973",
+      "Bharatiya Nyaya Sanhita (BNS), Bharatiya Sakshya Adhiniyam (BSA), Bharatiya Nagarik Suraksha Sanhita (BNSS)",
+      "National Security Act, 1980"
+    ],
+    "correctAnswer": "Bharatiya Nyaya Sanhita (BNS), Bharatiya Sakshya Adhiniyam (BSA), Bharatiya Nagarik Suraksha Sanhita (BNSS)"
   },
   {
     "id": 2,
-    "question": "In the context of the FSSAI's intensified crackdown on food adulteration across India, what major concern are state food safety departments in Telangana and Andhra Pradesh also actively addressing, especially during festive seasons?",
-    "options": ["Water pollution", "Air quality", "Food quality and safety", "Traffic management"],
-    "correctAnswer": "Food quality and safety"
+    "question": "A primary objective of the Bharatiya Nyaya Sanhita (BNS), as highlighted by the Union Home Minister, is to ensure justice is delivered within what approximate timeframe?",
+    "options": [
+      "10 years",
+      "7 years",
+      "5 years",
+      "3 years"
+    ],
+    "correctAnswer": "3 years"
   },
   {
     "id": 3,
-    "question": "What is the primary objective of FSSAI's nationwide initiatives against food adulteration, which benefits consumers in all Indian states including Telangana and Andhra Pradesh?",
-    "options": ["Increase food prices", "Ensure safe and wholesome food", "Promote organic farming", "Reduce food waste"],
-    "correctAnswer": "Ensure safe and wholesome food"
+    "question": "The overhaul of criminal laws in India, which includes the BNS, aims to shift the focus from 'tareekh pe tareekh' to which outcome?",
+    "options": [
+      "Increased arrests",
+      "Justice within a defined timeframe",
+      "More complex legal procedures",
+      "Reduced legal aid"
+    ],
+    "correctAnswer": "Justice within a defined timeframe"
   },
   {
     "id": 4,
-    "question": "Beyond Delhi and Mewat, what general enforcement action is expected to be reinforced by FSSAI in other states, including Telangana and Andhra Pradesh, to ensure adherence to food standards?",
-    "options": ["Conducting market surveys", "Issuing product advisories", "Intensifying raids and inspections", "Organizing cooking competitions"],
-    "correctAnswer": "Intensifying raids and inspections"
+    "question": "The Bharatiya Nyaya Sanhita (BNS) is a significant legislative change in India. Which Union Ministry is primarily responsible for its formulation and oversight?",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of External Affairs",
+      "Ministry of Home Affairs",
+      "Ministry of Law and Justice"
+    ],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 5,
-    "question": "If FSSAI-mandated authorities destroy adulterated food products in one region, what similar action would be taken against such products found by food safety officials in Telangana or Andhra Pradesh?",
-    "options": ["Redistribution to charity", "Exporting", "Destruction of unhygienic/adulterated stock", "Re-packaging"],
-    "correctAnswer": "Destruction of unhygienic/adulterated stock"
+    "question": "The implementation of the new criminal laws like BNS will necessitate training and adaptation for police forces and judiciary across all Indian states, including Telangana and Andhra Pradesh. Which key aspect will be most affected?",
+    "options": [
+      "Traffic management rules",
+      "Investigation procedures and timelines",
+      "Environmental protection regulations",
+      "Public health policies"
+    ],
+    "correctAnswer": "Investigation procedures and timelines"
   },
   {
     "id": 6,
-    "question": "The ICMR has launched a 'First in the World Challenge' for breakthrough healthcare innovation. How might this initiative specifically benefit research institutions and scientists in Telangana and Andhra Pradesh?",
-    "options": ["By increasing international travel", "By encouraging participation in global clinical trials", "By providing funding for novel health technologies", "By limiting research to traditional medicine"],
-    "correctAnswer": "By providing funding for novel health technologies"
+    "question": "What common issue is cited as a 'crushing burden' on college teachers across India, impacting their effectiveness in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Lack of vacation time",
+      "Excessive administrative and non-teaching duties",
+      "Low student enrollment",
+      "Limited access to international conferences"
+    ],
+    "correctAnswer": "Excessive administrative and non-teaching duties"
   },
   {
     "id": 7,
-    "question": "What is the primary aim of the \"First in the World Challenge\" launched by ICMR, which encourages scientists from across India, including those in Telangana and Andhra Pradesh, to develop pioneering health solutions?",
-    "options": ["To replicate existing technologies", "To focus solely on space research", "To develop breakthrough drugs, vaccines, and diagnostics", "To promote historical medical practices"],
-    "correctAnswer": "To develop breakthrough drugs, vaccines, and diagnostics"
+    "question": "The article discussing the burden on college teachers implies a need for reforms in which sector of education across India?",
+    "options": [
+      "Primary school education",
+      "Secondary vocational training",
+      "Higher education",
+      "Adult literacy programs"
+    ],
+    "correctAnswer": "Higher education"
   },
   {
     "id": 8,
-    "question": "Drawing inspiration from Chandrayaan-3, what kind of ambitious projects is ICMR encouraging in the healthcare sector, which researchers in states like Andhra Pradesh are invited to propose?",
-    "options": ["Projects for space tourism", "Projects focusing on incremental improvements", "Projects attempting previously untried global health innovations", "Projects related to agricultural techniques"],
-    "correctAnswer": "Projects attempting previously untried global health innovations"
+    "question": "To alleviate the burden on college teachers in states like Telangana and Andhra Pradesh, what kind of institutional support is generally advocated?",
+    "options": [
+      "More external audits",
+      "Reduced research funding",
+      "Streamlining administrative tasks and providing adequate support staff",
+      "Increasing class sizes significantly"
+    ],
+    "correctAnswer": "Streamlining administrative tasks and providing adequate support staff"
   },
   {
     "id": 9,
-    "question": "What is the maximum funding offered by ICMR for a single project under its \"First in the World Challenge,\" making it an attractive opportunity for research institutions in Telangana?",
-    "options": ["Up to Rs 8 lakh", "Up to Rs 80 lakh", "Up to Rs 8 crore", "Up to Rs 80 crore"],
-    "correctAnswer": "Up to Rs 8 crore"
+    "question": "The quality of higher education in India, including in Telangana and Andhra Pradesh, is directly affected by the well-being and workload of its teaching staff. This issue primarily concerns:",
+    "options": [
+      "Infrastructure development only",
+      "Student discipline only",
+      "Faculty morale and instructional time",
+      "Sports facilities"
+    ],
+    "correctAnswer": "Faculty morale and instructional time"
   },
   {
     "id": 10,
-    "question": "Which national medical research body is currently inviting researchers, including those from Telangana and Andhra Pradesh, to participate in a challenge aimed at developing 'first-in-the-world' health technologies?",
-    "options": ["AIIMS", "NITI Aayog", "ICMR", "DRDO"],
-    "correctAnswer": "ICMR"
+    "question": "What is a key implication of the 'crushing burden' on India's college teachers for students in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "More personalized attention",
+      "Improved course materials",
+      "Potentially reduced quality of instruction and mentoring",
+      "Greater access to extracurricular activities"
+    ],
+    "correctAnswer": "Potentially reduced quality of instruction and mentoring"
   },
   {
     "id": 11,
-    "question": "What national regulatory body for medical education issued a directive for all medical colleges, including those in Telangana and Andhra Pradesh, to establish dedicated disability units?",
-    "options": ["UGC", "AICTE", "NMC", "MCI"],
-    "correctAnswer": "NMC"
+    "question": "The demand for police officers to wear name plates, as highlighted by a CPI MP, is primarily aimed at enhancing which aspect of law enforcement?",
+    "options": [
+      "Ease of identification and accountability",
+      "Uniform aesthetic appeal",
+      "Rank identification",
+      "Faster crime reporting"
+    ],
+    "correctAnswer": "Ease of identification and accountability"
   },
   {
     "id": 12,
-    "question": "The NMC directive aims to ensure what specific facility for students with disabilities in medical colleges across Indian states, including institutions in Telangana and Andhra Pradesh?",
-    "options": ["Separate cafeterias", "Disability units for support and accessibility", "Exclusive sports facilities", "Reserved parking for all students"],
-    "correctAnswer": "Disability units for support and accessibility"
+    "question": "Police conduct and accountability are critical issues across all Indian states, including Telangana and Andhra Pradesh. Wearing name plates is a measure related to:",
+    "options": [
+      "Operational security protocols",
+      "Transparency and public trust",
+      "Internal departmental hierarchy",
+      "Special task force recognition"
+    ],
+    "correctAnswer": "Transparency and public trust"
   },
   {
     "id": 13,
-    "question": "If nearly half of India's medical colleges, including some in Andhra Pradesh and Telangana, fail to comply with the NMC directive, what implications does this have for disabled students aspiring to study medicine?",
-    "options": ["Increased tuition fees", "Limited access and support", "Automatic admission", "Relaxed academic standards"],
-    "correctAnswer": "Limited access and support"
+    "question": "The Communist Party of India (CPI), whose MP was mentioned in a protest context, is recognized as what kind of political party in India?",
+    "options": [
+      "Regional party",
+      "National party",
+      "State-specific party",
+      "Micro-party"
+    ],
+    "correctAnswer": "National party"
   },
   {
     "id": 14,
-    "question": "Which sector in India, directly impacting states like Telangana, is currently facing challenges in implementing inclusive infrastructure as per a directive from a national regulatory body concerning disability support?",
-    "options": ["Engineering education", "Medical education", "Law enforcement", "Agricultural sector"],
-    "correctAnswer": "Medical education"
+    "question": "In the context of protests and police interaction, what constitutional right of citizens is often invoked, which is equally applicable in Telangana and Andhra Pradesh?",
+    "options": [
+      "Right to property",
+      "Right to freedom of speech and expression",
+      "Right to privacy",
+      "Right to education"
+    ],
+    "correctAnswer": "Right to freedom of speech and expression"
   },
   {
     "id": 15,
-    "question": "According to a recent NMC assessment, what is a key area where many medical colleges, including those in Telangana and Andhra Pradesh, are reported to be falling short?",
-    "options": ["Faculty recruitment", "Research output", "Compliance with disability unit directive", "Hostel accommodation"],
-    "correctAnswer": "Compliance with disability unit directive"
+    "question": "Which Union Minister was written to by a CPI MP regarding police conduct during a protest, as mentioned in the news?",
+    "options": [
+      "Minister of Defence",
+      "Minister of External Affairs",
+      "Minister of Home Affairs",
+      "Minister of Finance"
+    ],
+    "correctAnswer": "Minister of Home Affairs"
   },
   {
     "id": 16,
-    "question": "Rahul Gandhi launched a 'Satyagraha' website to provide information on protests across India. How might citizens and activists in Telangana and Andhra Pradesh utilize this platform?",
-    "options": ["To book train tickets", "To find information on ongoing public movements", "To apply for government jobs", "To stream entertainment content"],
-    "correctAnswer": "To find information on ongoing public movements"
+    "question": "The overhaul of India's criminal justice system, including the introduction of BNS, is expected to streamline which process for victims and accused alike in all states?",
+    "options": [
+      "Election campaigning",
+      "Judicial proceedings",
+      "Tax filing",
+      "Passport application"
+    ],
+    "correctAnswer": "Judicial proceedings"
   },
   {
     "id": 17,
-    "question": "The 'Satyagraha' website, launched by Rahul Gandhi, aims to centralize information about what type of democratic activity occurring across various Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["Cultural festivals", "Election campaigns", "Protests and public movements", "Economic summits"],
-    "correctAnswer": "Protests and public movements"
+    "question": "What is the full form of BNS, the new criminal law frequently mentioned in the context of India's justice system reform?",
+    "options": [
+      "Basic National Security",
+      "Bharatiya Nyaya Sanhita",
+      "Bharat Nirman Scheme",
+      "Bureau of National Statistics"
+    ],
+    "correctAnswer": "Bharatiya Nyaya Sanhita"
   },
   {
     "id": 18,
-    "question": "What national political figure recently launched a digital platform intended to provide information on ongoing protests and public movements throughout India, relevant to states like Andhra Pradesh?",
-    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "The previous criminal laws, like the Indian Penal Code (IPC), were remnants of which historical period in India?",
+    "options": [
+      "Ancient India",
+      "Medieval India",
+      "British colonial era",
+      "Post-independence early years"
+    ],
+    "correctAnswer": "British colonial era"
   },
   {
     "id": 19,
-    "question": "Which political party, with a significant organizational presence in states like Telangana, is associated with the launch of the 'Satyagraha' website for consolidating protest information?",
-    "options": ["BJP", "Congress", "BRS", "YSRCP"],
-    "correctAnswer": "Congress"
+    "question": "The burden on college teachers, as a national issue, can impact the implementation of which key national education policy in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Mid-day Meal Scheme",
+      "National Education Policy (NEP) 2020",
+      "Sarva Shiksha Abhiyan",
+      "Swachh Bharat Abhiyan"
+    ],
+    "correctAnswer": "National Education Policy (NEP) 2020"
   },
   {
     "id": 20,
-    "question": "What is the symbolic name of the website launched by Rahul Gandhi to gather and disseminate information on protests, harking back to a historical non-violent resistance movement, accessible to citizens in Telangana and Andhra Pradesh?",
-    "options": ["Swaraj", "Jan Andolan", "Satyagraha", "Ahimsa"],
-    "correctAnswer": "Satyagraha"
+    "question": "To improve policing and public interaction in states like Telangana and Andhra Pradesh, along with wearing name plates, what other measure is often suggested for police personnel?",
+    "options": [
+      "Increased use of private vehicles",
+      "Better training in public relations and de-escalation",
+      "Stricter uniform codes",
+      "Longer working hours"
+    ],
+    "correctAnswer": "Better training in public relations and de-escalation"
   },
   {
     "id": 21,
-    "question": "What is the broader national policy objective behind FSSAI's actions in ensuring food safety, an objective shared by state food regulatory bodies in Telangana and Andhra Pradesh?",
-    "options": ["Promoting international trade", "Ensuring public health and consumer confidence", "Expanding agricultural exports", "Reducing administrative burden"],
-    "correctAnswer": "Ensuring public health and consumer confidence"
+    "question": "What is the primary function of a Member of Parliament (MP) in India, such as the CPI MP mentioned in the news, representing their constituency?",
+    "options": [
+      "To serve as a district collector",
+      "To enact laws and represent constituents in the Parliament",
+      "To manage state-level police forces",
+      "To lead local municipal corporations"
+    ],
+    "correctAnswer": "To enact laws and represent constituents in the Parliament"
   },
   {
     "id": 22,
-    "question": "How do national healthcare innovation challenges, such as the one initiated by ICMR, contribute to fostering scientific development within prominent research hubs located in Telangana and Andhra Pradesh?",
-    "options": ["By restricting research topics", "By providing competitive grants and recognition", "By mandating international collaborations", "By reducing local funding"],
-    "correctAnswer": "By providing competitive grants and recognition"
+    "question": "The reform of criminal laws in India, including the BNS, is part of a broader effort to update and modernize which fundamental aspect of governance?",
+    "options": [
+      "Economic planning",
+      "Defense strategy",
+      "Legal and justice system",
+      "Agricultural policy"
+    ],
+    "correctAnswer": "Legal and justice system"
   },
   {
     "id": 23,
-    "question": "What is the overall goal of the National Medical Commission (NMC) regarding inclusivity in medical education, particularly for students with disabilities in states like Telangana and Andhra Pradesh?",
-    "options": ["To increase medical college intake", "To ensure equal access and supportive environments", "To standardize medical curriculum", "To promote private medical colleges"],
-    "correctAnswer": "To ensure equal access and supportive environments"
+    "question": "What type of protests are often undertaken by political parties like the CPI to raise concerns about governance issues or public grievances?",
+    "options": [
+      "Online gaming competitions",
+      "Peaceful demonstrations and rallies",
+      "Charity marathons",
+      "Academic seminars"
+    ],
+    "correctAnswer": "Peaceful demonstrations and rallies"
   },
   {
     "id": 24,
-    "question": "In the context of national political engagement, what crucial role do digital platforms like the 'Satyagraha' website play in mobilizing public opinion and informing citizens, including those in states like Andhra Pradesh?",
-    "options": ["Restricting communication", "Centralizing information and facilitating activism", "Replacing traditional media", "Creating online gaming communities"],
-    "correctAnswer": "Centralizing information and facilitating activism"
+    "question": "The issue of police accountability and transparent governance is relevant for fostering public trust in law enforcement agencies across all states, including where?",
+    "options": [
+      "Only Union Territories",
+      "Only metropolitan cities",
+      "All states and Union Territories of India",
+      "Only border regions"
+    ],
+    "correctAnswer": "All states and Union Territories of India"
   },
   {
     "id": 25,
-    "question": "Given the national directive from NMC regarding disability units, what responsibility do state governments in Telangana and Andhra Pradesh share in ensuring their medical colleges comply with these essential requirements?",
-    "options": ["To passively observe", "To actively monitor and facilitate compliance", "To delegate entirely to central government", "To provide exemptions"],
-    "correctAnswer": "To actively monitor and facilitate compliance"
+    "question": "Considering the 'crushing burden' on college teachers, what is a crucial long-term goal for higher education institutions in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Increase teacher-student ratio significantly",
+      "Focus solely on administrative efficiency",
+      "Improve teacher welfare and professional development opportunities",
+      "Reduce the number of academic programs"
+    ],
+    "correctAnswer": "Improve teacher welfare and professional development opportunities"
   }
 ]

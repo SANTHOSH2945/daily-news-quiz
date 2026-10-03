@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "According to an ex-CEC, which form cannot be used by voters whose names have been deleted from the electoral rolls, even in states like Telangana?",
-    "options": ["Form 6", "Form 7", "Form 8", "Form 9"],
-    "correctAnswer": "Form 6"
+    "question": "Which specific form is generally used for new voter enrollment or updating voter details in India, as per the Election Commission's guidelines?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctAnswer": "Option A"
   },
   {
     "id": 2,
-    "question": "The Election Commission (EC) points to existing rules regarding the use of Form 6 by deleted voters. What is the EC's stance on deleted voters using Form 6?",
-    "options": ["They can use it freely", "They must use Form 7", "It's permitted under special circumstances", "It is not permissible for deleted voters"],
-    "correctAnswer": "It is not permissible for deleted voters"
+    "question": "According to an ex-CEC mentioned in the news, who is explicitly prohibited from using Form 6 for re-enrollment after being removed from the electoral rolls?",
+    "options": [
+      "New voters",
+      "Voters changing addresses",
+      "Deleted voters",
+      "Voters updating photos"
+    ],
+    "correctAnswer": "Deleted voters"
   },
   {
     "id": 3,
-    "question": "Following criticism, the Election Commission ordered a special drive across India, including Andhra Pradesh, to address what specific issue related to voters?",
-    "options": ["To register new voters only", "To delete ineligible voters", "To add genuine electors 'left out' during SIR", "To update addresses of all voters"],
-    "correctAnswer": "To add genuine electors 'left out' during SIR"
+    "question": "What is the Election Commission's general stance regarding the rules for deleted voters who wish to re-enroll, as per recent reports?",
+    "options": [
+      "They can re-enroll using Form 6 directly without any issues.",
+      "They must follow existing rules that do not permit Form 6 for re-enrollment in specific cases.",
+      "They are automatically re-enrolled after a specified period of time.",
+      "They need a special court order to initiate the re-enrollment process."
+    ],
+    "correctAnswer": "They must follow existing rules that do not permit Form 6 for re-enrollment in specific cases."
   },
   {
     "id": 4,
-    "question": "As part of the Election Commission's special drive to re-enroll genuine electors, which officials are tasked with visiting homes of missing pre-SIR voters in states like Telangana?",
-    "options": ["District Collectors", "Booth Level Officers (BLOs)", "Election Observers", "Police Officials"],
-    "correctAnswer": "Booth Level Officers (BLOs)"
+    "question": "What specific electoral process in India underwent a review by a panel of former judges recently due to allegations of irregularities?",
+    "options": [
+      "Delimitation exercise of constituencies",
+      "Special Intensive Revision (SIR) of electoral rolls",
+      "Procurement process of Electronic Voting Machines (EVMs)",
+      "Appointment process of election observers"
+    ],
+    "correctAnswer": "Special Intensive Revision (SIR) of electoral rolls"
   },
   {
     "id": 5,
-    "question": "The Election Commission's special drive instructs BLOs to re-enroll 'left out' voters using which specific form?",
-    "options": ["Form 6", "Form 7", "Form 8", "Form 6A"],
-    "correctAnswer": "Form 6"
+    "question": "What was the primary objective of the 'Special Intensive Revision' (SIR) of electoral rolls conducted by the Election Commission across various states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "To identify new polling booth locations for upcoming elections",
+      "To update and verify voter information, ensuring accuracy",
+      "To conduct mock elections for training purposes",
+      "To train election officials on new digital technologies"
+    ],
+    "correctAnswer": "To update and verify voter information, ensuring accuracy"
   },
   {
     "id": 6,
-    "question": "Protests have recently erupted in various Indian cities, including Ahmedabad and Patna, calling for the resignation of which key Election Commission official?",
-    "options": ["Chief Election Commissioner (CEC) Gyanesh Kumar", "Election Commissioner Arun Goel", "Former CEC N. Gopalaswami", "Chief Electoral Officer of a state"],
-    "correctAnswer": "Chief Election Commissioner (CEC) Gyanesh Kumar"
+    "question": "What significant action did the Election Commission order in response to genuine electors being 'left out' during the Special Intensive Revision (SIR) process?",
+    "options": [
+      "Postponement of all upcoming state elections",
+      "A special drive to identify and add them to the rolls",
+      "A complete redo of the entire SIR process",
+      "Fining election officials responsible for exclusions"
+    ],
+    "correctAnswer": "A special drive to identify and add them to the rolls"
   },
   {
     "id": 7,
-    "question": "What is the primary reason cited for the ongoing protests and demands for CEC Gyanesh Kumar's resignation, applicable to all states with electoral processes?",
-    "options": ["Introduction of EVMs", "Allegations of EVM tampering", "Perceived electoral roll issues and irregularities", "Delay in election announcements"],
-    "correctAnswer": "Perceived electoral roll issues and irregularities"
-  },
-  {
-    "id": 8,
-    "question": "Which lawyers’ body has formed a panel of former judges to review the constitutional and statutory validity of the Election Commission's Special Intensive Revision (SIR), a process affecting states like Andhra Pradesh?",
-    "options": ["Bar Council of India", "Supreme Court Bar Association", "Lawyers Association for Constitution", "High Court Advocates' Forum"],
+    "question": "Which organization is forming a panel of former judges to review the constitutional and statutory validity of the Election Commission's Special Intensive Revision?",
+    "options": [
+      "Supreme Court Bar Association",
+      "Indian National Congress",
+      "Lawyers Association for Constitution",
+      "Election Law Society of India"
+    ],
     "correctAnswer": "Lawyers Association for Constitution"
   },
   {
+    "id": 8,
+    "question": "Who are specifically expected to provide strategic legal advice to the panel reviewing the Special Intensive Revision (SIR) of electoral rolls?",
+    "options": [
+      "Current Election Commissioners",
+      "Senior lawyers",
+      "Government solicitors",
+      "University law professors"
+    ],
+    "correctAnswer": "Senior lawyers"
+  },
+  {
     "id": 9,
-    "question": "The panel formed to review the Election Commission's Special Intensive Revision (SIR) comprises individuals from which professional background, relevant to electoral legal scrutiny across India?",
-    "options": ["Senior Advocates", "Retired Bureaucrats", "Former Chief Election Commissioners", "Former SC and HC judges"],
-    "correctAnswer": "Former SC and HC judges"
+    "question": "What is the primary role of BLOs (Booth Level Officers) in the special drive ordered by the EC to include genuine electors, which impacts states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Campaigning for political parties in their assigned booths",
+      "Visiting homes of missing pre-SIR voters for enrollment",
+      "Managing the logistics of EVM deployment",
+      "Conducting exit polls on election day"
+    ],
+    "correctAnswer": "Visiting homes of missing pre-SIR voters for enrollment"
   },
   {
     "id": 10,
-    "question": "The panel of former judges is tasked with examining what specific aspects of the Election Commission's Special Intensive Revision (SIR), which impacts voter lists in states like Telangana?",
-    "options": ["Its financial implications", "Its technological robustness", "Its constitutional and statutory validity", "Its impact on voter turnout"],
-    "correctAnswer": "Its constitutional and statutory validity"
+    "question": "For genuine electors who were 'left out' during the SIR, what specific action are BLOs instructed to take to enroll them?",
+    "options": [
+      "Direct them to district election offices for further assistance.",
+      "Enroll them via Form 6 directly at their homes.",
+      "Refer their cases to higher authorities for review.",
+      "Provide them with temporary voter IDs for immediate use."
+    ],
+    "correctAnswer": "Enroll them via Form 6 directly at their homes."
   },
   {
     "id": 11,
-    "question": "The 'SIR' mentioned in the context of voter roll revisions and subsequent reviews by legal bodies stands for what, a process applicable to all Indian states?",
-    "options": ["State Internal Review", "Special Information Regulation", "Special Intensive Revision", "Systematic Inclusion Regulation"],
-    "correctAnswer": "Special Intensive Revision"
+    "question": "What is the specific form that BLOs are using to enroll missing pre-SIR voters during the special drive initiated by the Election Commission?",
+    "options": [
+      "Form 7 for objections",
+      "Form 8 for corrections",
+      "Form 6 for new enrollment/transfer",
+      "Form 6A for overseas electors"
+    ],
+    "correctAnswer": "Form 6 for new enrollment/transfer"
   },
   {
     "id": 12,
-    "question": "The Election Commission of India, responsible for electoral processes in states like Andhra Pradesh, has recently been in news for its handling of what?",
-    "options": ["Delimitation exercises", "Municipal elections", "Electoral roll revisions", "Presidential elections"],
-    "correctAnswer": "Electoral roll revisions"
+    "question": "Who is the current Chief Election Commissioner facing calls for resignation due to perceived irregularities in the electoral-roll revision exercise?",
+    "options": [
+      "Rajiv Kumar",
+      "Anup Chandra Pandey",
+      "Gyanesh Kumar",
+      "Arun Goel"
+    ],
+    "correctAnswer": "Gyanesh Kumar"
   },
   {
     "id": 13,
-    "question": "Which form is primarily used for the enrollment of new voters in India, a process crucial for electoral integrity in states like Telangana?",
-    "options": ["Form 6", "Form 7", "Form 8", "Form 6A"],
-    "correctAnswer": "Form 6"
+    "question": "What is the primary allegation against the Chief Election Commissioner that led to recent national protests and demands for his resignation?",
+    "options": [
+      "Misuse of public funds for personal gain",
+      "Irregularities in the electoral-roll revision exercise",
+      "Demonstrating bias towards a particular political party",
+      "Unnecessary delays in announcing election schedules"
+    ],
+    "correctAnswer": "Irregularities in the electoral-roll revision exercise"
   },
   {
     "id": 14,
-    "question": "Which Election Commission form is typically used for objections to the inclusion of names in the electoral roll or for seeking deletion of names, a process relevant to states like Andhra Pradesh?",
-    "options": ["Form 6", "Form 7", "Form 8", "Form 6A"],
-    "correctAnswer": "Form 7"
+    "question": "Which prominent political leader from a national party recently demanded the resignation of CEC Gyanesh Kumar amidst widespread protests over electoral roll issues?",
+    "options": [
+      "Sonia Gandhi",
+      "Mallikarjun Kharge",
+      "Rahul Gandhi",
+      "Priyanka Gandhi Vadra"
+    ],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 15,
-    "question": "The integrity of the electoral rolls is a fundamental responsibility of which constitutional body in India, affecting all states including Telangana?",
-    "options": ["Ministry of Home Affairs", "Parliament of India", "Election Commission of India", "Supreme Court of India"],
-    "correctAnswer": "Election Commission of India"
+    "question": "The recent national protests and calls for the CEC's resignation primarily concern issues related to what aspect of the electoral process, which is vital for states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Campaign finance regulations",
+      "Functionality of Electronic Voting Machines (EVMs)",
+      "Electoral roll revision and voter deletion procedures",
+      "Eligibility criteria for election candidates"
+    ],
+    "correctAnswer": "Electoral roll revision and voter deletion procedures"
   },
   {
     "id": 16,
-    "question": "The Election Commission's special drive aims to specifically identify and add which category of voters, particularly in the context of the recent Special Intensive Revision (SIR) across India?",
-    "options": ["Overseas electors", "Service voters", "Genuine electors 'left out'", "Young voters below 18"],
-    "correctAnswer": "Genuine electors 'left out'"
+    "question": "How many former judges are part of the panel specifically formed to review the Election Commission's Special Intensive Revision (SIR)?",
+    "options": [
+      "Three judges",
+      "Four judges",
+      "Five judges",
+      "Six judges"
+    ],
+    "correctAnswer": "Five judges"
   },
   {
     "id": 17,
-    "question": "The Lawyers Association for Constitution emphasizes what quality for the panel reviewing the Special Intensive Revision (SIR) of voter rolls, crucial for its unbiased assessment in any state?",
-    "options": ["Political affiliation", "Financial expertise", "Independence", "Technical proficiency"],
-    "correctAnswer": "Independence"
+    "question": "What two key aspects of the Special Intensive Revision (SIR) are the former judges on the review panel examining?",
+    "options": [
+      "Its financial expenditure and logistical planning",
+      "Its constitutional and statutory validity",
+      "Its technological implementation and public outreach efforts",
+      "Its international comparisons and adoption of best practices"
+    ],
+    "correctAnswer": "Its constitutional and statutory validity"
   },
   {
     "id": 18,
-    "question": "While protests against CEC Gyanesh Kumar and perceived electoral roll issues have taken place in various Indian cities, which two major cities were prominently mentioned as primary sites for these demonstrations?",
-    "options": ["Hyderabad and Chennai", "Bengaluru and Kolkata", "Delhi and Mumbai", "Lucknow and Jaipur"],
-    "correctAnswer": "Delhi and Mumbai"
+    "question": "What characteristic does the Lawyers Association for Constitution emphasize regarding the panel reviewing the Special Intensive Revision (SIR)?",
+    "options": [
+      "Its speed in delivering a verdict",
+      "Its political affiliation to a specific party",
+      "Its independence from the Election Commission",
+      "Its extensive media presence and public engagement"
+    ],
+    "correctAnswer": "Its independence from the Election Commission"
   },
   {
     "id": 19,
-    "question": "The recent discussions and controversies surrounding voter lists in India, relevant to states like Andhra Pradesh, primarily revolve around what process?",
-    "options": ["Ballot paper design", "EVM procurement", "Electoral roll cleaning and revision", "Polling booth allocation"],
-    "correctAnswer": "Electoral roll cleaning and revision"
+    "question": "What is a critical step recently taken by the Election Commission to ensure all eligible voters are included in the electoral rolls, impacting states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Introducing online voting for the first time",
+      "Ordering a special drive for re-enrollment of left-out electors",
+      "Reducing the minimum voting age nationwide",
+      "Mandating compulsory voting for all citizens"
+    ],
+    "correctAnswer": "Ordering a special drive for re-enrollment of left-out electors"
   },
   {
     "id": 20,
-    "question": "The Election Commission's special drive mandates BLOs to visit the homes of which specific group of voters for re-enrollment in states across India?",
-    "options": ["Newly married voters", "Missing pre-SIR voters", "Voters who shifted residence recently", "Voters with criminal records"],
-    "correctAnswer": "Missing pre-SIR voters"
+    "question": "What potential issue could arise if a significant number of genuine, eligible voters are 'left out' during electoral roll revisions in a state like Telangana or Andhra Pradesh?",
+    "options": [
+      "Increased overall voter turnout in elections",
+      "Compromised democratic fairness and representation",
+      "Faster processing and counting of election ballots",
+      "Reduced administrative costs for election management"
+    ],
+    "correctAnswer": "Compromised democratic fairness and representation"
   },
   {
     "id": 21,
-    "question": "Ensuring transparent and fair electoral rolls is a cornerstone of democratic elections overseen by the EC. What principle is central to its efforts to include all eligible citizens, including those in Telangana?",
-    "options": ["Voter suppression", "Exclusive registration", "Universal adult franchise", "Elite voter preference"],
-    "correctAnswer": "Universal adult franchise"
+    "question": "What is the overall objective of the Election Commission's recent directives regarding voter enrollment and revision, especially concerning 'left out' electors, which applies to all Indian states?",
+    "options": [
+      "To reduce the total number of registered voters",
+      "To ensure inclusive and accurate electoral rolls",
+      "To streamline the voter deletion process exclusively",
+      "To significantly increase the administrative burden on BLOs"
+    ],
+    "correctAnswer": "To ensure inclusive and accurate electoral rolls"
   },
   {
     "id": 22,
-    "question": "During the protests in Delhi against CEC Gyanesh Kumar regarding electoral roll issues, approximately how many individuals were reported to have been detained?",
-    "options": ["70", "700", "7000", "70000"],
-    "correctAnswer": "700"
+    "question": "Why is the accuracy and inclusivity of electoral rolls particularly important for upcoming democratic exercises in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "To facilitate international observer missions more easily",
+      "To uphold the fundamental principle of 'one person, one vote'",
+      "To allow for faster counting of ballots on election day",
+      "To identify specific areas for future development projects"
+    ],
+    "correctAnswer": "To uphold the fundamental principle of 'one person, one vote'"
   },
   {
     "id": 23,
-    "question": "The panel of former judges will specifically examine the 'validity' of the Special Intensive Revision (SIR) through what two lenses, a review impacting electoral practices nationwide?",
-    "options": ["Economic and social", "Political and ethical", "Constitutional and statutory", "Procedural and technical"],
-    "correctAnswer": "Constitutional and statutory"
+    "question": "What is the term for a systematic process undertaken by the Election Commission to update, correct, and verify voter information, as highlighted by the recent news on SIR?",
+    "options": [
+      "Electoral Audit",
+      "Voter Census",
+      "Electoral Roll Revision",
+      "Polling Station Mapping"
+    ],
+    "correctAnswer": "Electoral Roll Revision"
   },
   {
     "id": 24,
-    "question": "The Election Commission's order for a special drive to add genuine electors comes in response to what situation, reflecting concerns applicable to states like Andhra Pradesh?",
-    "options": ["A new government directive", "International pressure", "Public criticism and allegations of irregularities", "A routine annual exercise"],
-    "correctAnswer": "Public criticism and allegations of irregularities"
+    "question": "What mechanism is implied as available for citizens to register for voting or appeal their exclusion if they believe they were wrongly removed from the electoral rolls in any Indian state?",
+    "options": [
+      "Direct contact with the Prime Minister's Office",
+      "Using specified forms like Form 6 and participation in EC-ordered drives",
+      "Filing a criminal complaint with the local police",
+      "Waiting for the next general election cycle to re-register"
+    ],
+    "correctAnswer": "Using specified forms like Form 6 and participation in EC-ordered drives"
   },
   {
     "id": 25,
-    "question": "The recent news headlines highlight a significant national focus on the integrity and accuracy of what crucial component of India's democratic process, including in states like Andhra Pradesh?",
-    "options": ["Election funding", "Candidate nomination process", "Electronic Voting Machines (EVMs)", "Electoral rolls"],
-    "correctAnswer": "Electoral rolls"
+    "question": "The recent controversies surrounding the Special Intensive Revision of electoral rolls underscore the critical importance of what fundamental principle in a democratic election process across India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Majority rule in legislative decisions",
+      "Secrecy of the ballot cast by voters",
+      "Transparency and fairness in voter registration procedures",
+      "Universal adult suffrage as a right"
+    ],
+    "correctAnswer": "Transparency and fairness in voter registration procedures"
   }
 ]

@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which specific form is generally used for new voter enrollment or updating voter details in India, as per the Election Commission's guidelines?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "correctAnswer": "Option A"
+    "question": "What national authority is responsible for regulating food safety and combating adulteration, with its directives also extending to states like Telangana and Andhra Pradesh?",
+    "options": ["FSSAI", "NITI Aayog", "BIS", "AGMARK"],
+    "correctAnswer": "FSSAI"
   },
   {
     "id": 2,
-    "question": "According to an ex-CEC mentioned in the news, who is explicitly prohibited from using Form 6 for re-enrollment after being removed from the electoral rolls?",
-    "options": [
-      "New voters",
-      "Voters changing addresses",
-      "Deleted voters",
-      "Voters updating photos"
-    ],
-    "correctAnswer": "Deleted voters"
+    "question": "In the context of the FSSAI's intensified crackdown on food adulteration across India, what major concern are state food safety departments in Telangana and Andhra Pradesh also actively addressing, especially during festive seasons?",
+    "options": ["Water pollution", "Air quality", "Food quality and safety", "Traffic management"],
+    "correctAnswer": "Food quality and safety"
   },
   {
     "id": 3,
-    "question": "What is the Election Commission's general stance regarding the rules for deleted voters who wish to re-enroll, as per recent reports?",
-    "options": [
-      "They can re-enroll using Form 6 directly without any issues.",
-      "They must follow existing rules that do not permit Form 6 for re-enrollment in specific cases.",
-      "They are automatically re-enrolled after a specified period of time.",
-      "They need a special court order to initiate the re-enrollment process."
-    ],
-    "correctAnswer": "They must follow existing rules that do not permit Form 6 for re-enrollment in specific cases."
+    "question": "What is the primary objective of FSSAI's nationwide initiatives against food adulteration, which benefits consumers in all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["Increase food prices", "Ensure safe and wholesome food", "Promote organic farming", "Reduce food waste"],
+    "correctAnswer": "Ensure safe and wholesome food"
   },
   {
     "id": 4,
-    "question": "What specific electoral process in India underwent a review by a panel of former judges recently due to allegations of irregularities?",
-    "options": [
-      "Delimitation exercise of constituencies",
-      "Special Intensive Revision (SIR) of electoral rolls",
-      "Procurement process of Electronic Voting Machines (EVMs)",
-      "Appointment process of election observers"
-    ],
-    "correctAnswer": "Special Intensive Revision (SIR) of electoral rolls"
+    "question": "Beyond Delhi and Mewat, what general enforcement action is expected to be reinforced by FSSAI in other states, including Telangana and Andhra Pradesh, to ensure adherence to food standards?",
+    "options": ["Conducting market surveys", "Issuing product advisories", "Intensifying raids and inspections", "Organizing cooking competitions"],
+    "correctAnswer": "Intensifying raids and inspections"
   },
   {
     "id": 5,
-    "question": "What was the primary objective of the 'Special Intensive Revision' (SIR) of electoral rolls conducted by the Election Commission across various states, including Telangana and Andhra Pradesh?",
-    "options": [
-      "To identify new polling booth locations for upcoming elections",
-      "To update and verify voter information, ensuring accuracy",
-      "To conduct mock elections for training purposes",
-      "To train election officials on new digital technologies"
-    ],
-    "correctAnswer": "To update and verify voter information, ensuring accuracy"
+    "question": "If FSSAI-mandated authorities destroy adulterated food products in one region, what similar action would be taken against such products found by food safety officials in Telangana or Andhra Pradesh?",
+    "options": ["Redistribution to charity", "Exporting", "Destruction of unhygienic/adulterated stock", "Re-packaging"],
+    "correctAnswer": "Destruction of unhygienic/adulterated stock"
   },
   {
     "id": 6,
-    "question": "What significant action did the Election Commission order in response to genuine electors being 'left out' during the Special Intensive Revision (SIR) process?",
-    "options": [
-      "Postponement of all upcoming state elections",
-      "A special drive to identify and add them to the rolls",
-      "A complete redo of the entire SIR process",
-      "Fining election officials responsible for exclusions"
-    ],
-    "correctAnswer": "A special drive to identify and add them to the rolls"
+    "question": "The ICMR has launched a 'First in the World Challenge' for breakthrough healthcare innovation. How might this initiative specifically benefit research institutions and scientists in Telangana and Andhra Pradesh?",
+    "options": ["By increasing international travel", "By encouraging participation in global clinical trials", "By providing funding for novel health technologies", "By limiting research to traditional medicine"],
+    "correctAnswer": "By providing funding for novel health technologies"
   },
   {
     "id": 7,
-    "question": "Which organization is forming a panel of former judges to review the constitutional and statutory validity of the Election Commission's Special Intensive Revision?",
-    "options": [
-      "Supreme Court Bar Association",
-      "Indian National Congress",
-      "Lawyers Association for Constitution",
-      "Election Law Society of India"
-    ],
-    "correctAnswer": "Lawyers Association for Constitution"
+    "question": "What is the primary aim of the \"First in the World Challenge\" launched by ICMR, which encourages scientists from across India, including those in Telangana and Andhra Pradesh, to develop pioneering health solutions?",
+    "options": ["To replicate existing technologies", "To focus solely on space research", "To develop breakthrough drugs, vaccines, and diagnostics", "To promote historical medical practices"],
+    "correctAnswer": "To develop breakthrough drugs, vaccines, and diagnostics"
   },
   {
     "id": 8,
-    "question": "Who are specifically expected to provide strategic legal advice to the panel reviewing the Special Intensive Revision (SIR) of electoral rolls?",
-    "options": [
-      "Current Election Commissioners",
-      "Senior lawyers",
-      "Government solicitors",
-      "University law professors"
-    ],
-    "correctAnswer": "Senior lawyers"
+    "question": "Drawing inspiration from Chandrayaan-3, what kind of ambitious projects is ICMR encouraging in the healthcare sector, which researchers in states like Andhra Pradesh are invited to propose?",
+    "options": ["Projects for space tourism", "Projects focusing on incremental improvements", "Projects attempting previously untried global health innovations", "Projects related to agricultural techniques"],
+    "correctAnswer": "Projects attempting previously untried global health innovations"
   },
   {
     "id": 9,
-    "question": "What is the primary role of BLOs (Booth Level Officers) in the special drive ordered by the EC to include genuine electors, which impacts states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Campaigning for political parties in their assigned booths",
-      "Visiting homes of missing pre-SIR voters for enrollment",
-      "Managing the logistics of EVM deployment",
-      "Conducting exit polls on election day"
-    ],
-    "correctAnswer": "Visiting homes of missing pre-SIR voters for enrollment"
+    "question": "What is the maximum funding offered by ICMR for a single project under its \"First in the World Challenge,\" making it an attractive opportunity for research institutions in Telangana?",
+    "options": ["Up to Rs 8 lakh", "Up to Rs 80 lakh", "Up to Rs 8 crore", "Up to Rs 80 crore"],
+    "correctAnswer": "Up to Rs 8 crore"
   },
   {
     "id": 10,
-    "question": "For genuine electors who were 'left out' during the SIR, what specific action are BLOs instructed to take to enroll them?",
-    "options": [
-      "Direct them to district election offices for further assistance.",
-      "Enroll them via Form 6 directly at their homes.",
-      "Refer their cases to higher authorities for review.",
-      "Provide them with temporary voter IDs for immediate use."
-    ],
-    "correctAnswer": "Enroll them via Form 6 directly at their homes."
+    "question": "Which national medical research body is currently inviting researchers, including those from Telangana and Andhra Pradesh, to participate in a challenge aimed at developing 'first-in-the-world' health technologies?",
+    "options": ["AIIMS", "NITI Aayog", "ICMR", "DRDO"],
+    "correctAnswer": "ICMR"
   },
   {
     "id": 11,
-    "question": "What is the specific form that BLOs are using to enroll missing pre-SIR voters during the special drive initiated by the Election Commission?",
-    "options": [
-      "Form 7 for objections",
-      "Form 8 for corrections",
-      "Form 6 for new enrollment/transfer",
-      "Form 6A for overseas electors"
-    ],
-    "correctAnswer": "Form 6 for new enrollment/transfer"
+    "question": "What national regulatory body for medical education issued a directive for all medical colleges, including those in Telangana and Andhra Pradesh, to establish dedicated disability units?",
+    "options": ["UGC", "AICTE", "NMC", "MCI"],
+    "correctAnswer": "NMC"
   },
   {
     "id": 12,
-    "question": "Who is the current Chief Election Commissioner facing calls for resignation due to perceived irregularities in the electoral-roll revision exercise?",
-    "options": [
-      "Rajiv Kumar",
-      "Anup Chandra Pandey",
-      "Gyanesh Kumar",
-      "Arun Goel"
-    ],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "The NMC directive aims to ensure what specific facility for students with disabilities in medical colleges across Indian states, including institutions in Telangana and Andhra Pradesh?",
+    "options": ["Separate cafeterias", "Disability units for support and accessibility", "Exclusive sports facilities", "Reserved parking for all students"],
+    "correctAnswer": "Disability units for support and accessibility"
   },
   {
     "id": 13,
-    "question": "What is the primary allegation against the Chief Election Commissioner that led to recent national protests and demands for his resignation?",
-    "options": [
-      "Misuse of public funds for personal gain",
-      "Irregularities in the electoral-roll revision exercise",
-      "Demonstrating bias towards a particular political party",
-      "Unnecessary delays in announcing election schedules"
-    ],
-    "correctAnswer": "Irregularities in the electoral-roll revision exercise"
+    "question": "If nearly half of India's medical colleges, including some in Andhra Pradesh and Telangana, fail to comply with the NMC directive, what implications does this have for disabled students aspiring to study medicine?",
+    "options": ["Increased tuition fees", "Limited access and support", "Automatic admission", "Relaxed academic standards"],
+    "correctAnswer": "Limited access and support"
   },
   {
     "id": 14,
-    "question": "Which prominent political leader from a national party recently demanded the resignation of CEC Gyanesh Kumar amidst widespread protests over electoral roll issues?",
-    "options": [
-      "Sonia Gandhi",
-      "Mallikarjun Kharge",
-      "Rahul Gandhi",
-      "Priyanka Gandhi Vadra"
-    ],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Which sector in India, directly impacting states like Telangana, is currently facing challenges in implementing inclusive infrastructure as per a directive from a national regulatory body concerning disability support?",
+    "options": ["Engineering education", "Medical education", "Law enforcement", "Agricultural sector"],
+    "correctAnswer": "Medical education"
   },
   {
     "id": 15,
-    "question": "The recent national protests and calls for the CEC's resignation primarily concern issues related to what aspect of the electoral process, which is vital for states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Campaign finance regulations",
-      "Functionality of Electronic Voting Machines (EVMs)",
-      "Electoral roll revision and voter deletion procedures",
-      "Eligibility criteria for election candidates"
-    ],
-    "correctAnswer": "Electoral roll revision and voter deletion procedures"
+    "question": "According to a recent NMC assessment, what is a key area where many medical colleges, including those in Telangana and Andhra Pradesh, are reported to be falling short?",
+    "options": ["Faculty recruitment", "Research output", "Compliance with disability unit directive", "Hostel accommodation"],
+    "correctAnswer": "Compliance with disability unit directive"
   },
   {
     "id": 16,
-    "question": "How many former judges are part of the panel specifically formed to review the Election Commission's Special Intensive Revision (SIR)?",
-    "options": [
-      "Three judges",
-      "Four judges",
-      "Five judges",
-      "Six judges"
-    ],
-    "correctAnswer": "Five judges"
+    "question": "Rahul Gandhi launched a 'Satyagraha' website to provide information on protests across India. How might citizens and activists in Telangana and Andhra Pradesh utilize this platform?",
+    "options": ["To book train tickets", "To find information on ongoing public movements", "To apply for government jobs", "To stream entertainment content"],
+    "correctAnswer": "To find information on ongoing public movements"
   },
   {
     "id": 17,
-    "question": "What two key aspects of the Special Intensive Revision (SIR) are the former judges on the review panel examining?",
-    "options": [
-      "Its financial expenditure and logistical planning",
-      "Its constitutional and statutory validity",
-      "Its technological implementation and public outreach efforts",
-      "Its international comparisons and adoption of best practices"
-    ],
-    "correctAnswer": "Its constitutional and statutory validity"
+    "question": "The 'Satyagraha' website, launched by Rahul Gandhi, aims to centralize information about what type of democratic activity occurring across various Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Cultural festivals", "Election campaigns", "Protests and public movements", "Economic summits"],
+    "correctAnswer": "Protests and public movements"
   },
   {
     "id": 18,
-    "question": "What characteristic does the Lawyers Association for Constitution emphasize regarding the panel reviewing the Special Intensive Revision (SIR)?",
-    "options": [
-      "Its speed in delivering a verdict",
-      "Its political affiliation to a specific party",
-      "Its independence from the Election Commission",
-      "Its extensive media presence and public engagement"
-    ],
-    "correctAnswer": "Its independence from the Election Commission"
+    "question": "What national political figure recently launched a digital platform intended to provide information on ongoing protests and public movements throughout India, relevant to states like Andhra Pradesh?",
+    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 19,
-    "question": "What is a critical step recently taken by the Election Commission to ensure all eligible voters are included in the electoral rolls, impacting states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Introducing online voting for the first time",
-      "Ordering a special drive for re-enrollment of left-out electors",
-      "Reducing the minimum voting age nationwide",
-      "Mandating compulsory voting for all citizens"
-    ],
-    "correctAnswer": "Ordering a special drive for re-enrollment of left-out electors"
+    "question": "Which political party, with a significant organizational presence in states like Telangana, is associated with the launch of the 'Satyagraha' website for consolidating protest information?",
+    "options": ["BJP", "Congress", "BRS", "YSRCP"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 20,
-    "question": "What potential issue could arise if a significant number of genuine, eligible voters are 'left out' during electoral roll revisions in a state like Telangana or Andhra Pradesh?",
-    "options": [
-      "Increased overall voter turnout in elections",
-      "Compromised democratic fairness and representation",
-      "Faster processing and counting of election ballots",
-      "Reduced administrative costs for election management"
-    ],
-    "correctAnswer": "Compromised democratic fairness and representation"
+    "question": "What is the symbolic name of the website launched by Rahul Gandhi to gather and disseminate information on protests, harking back to a historical non-violent resistance movement, accessible to citizens in Telangana and Andhra Pradesh?",
+    "options": ["Swaraj", "Jan Andolan", "Satyagraha", "Ahimsa"],
+    "correctAnswer": "Satyagraha"
   },
   {
     "id": 21,
-    "question": "What is the overall objective of the Election Commission's recent directives regarding voter enrollment and revision, especially concerning 'left out' electors, which applies to all Indian states?",
-    "options": [
-      "To reduce the total number of registered voters",
-      "To ensure inclusive and accurate electoral rolls",
-      "To streamline the voter deletion process exclusively",
-      "To significantly increase the administrative burden on BLOs"
-    ],
-    "correctAnswer": "To ensure inclusive and accurate electoral rolls"
+    "question": "What is the broader national policy objective behind FSSAI's actions in ensuring food safety, an objective shared by state food regulatory bodies in Telangana and Andhra Pradesh?",
+    "options": ["Promoting international trade", "Ensuring public health and consumer confidence", "Expanding agricultural exports", "Reducing administrative burden"],
+    "correctAnswer": "Ensuring public health and consumer confidence"
   },
   {
     "id": 22,
-    "question": "Why is the accuracy and inclusivity of electoral rolls particularly important for upcoming democratic exercises in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "To facilitate international observer missions more easily",
-      "To uphold the fundamental principle of 'one person, one vote'",
-      "To allow for faster counting of ballots on election day",
-      "To identify specific areas for future development projects"
-    ],
-    "correctAnswer": "To uphold the fundamental principle of 'one person, one vote'"
+    "question": "How do national healthcare innovation challenges, such as the one initiated by ICMR, contribute to fostering scientific development within prominent research hubs located in Telangana and Andhra Pradesh?",
+    "options": ["By restricting research topics", "By providing competitive grants and recognition", "By mandating international collaborations", "By reducing local funding"],
+    "correctAnswer": "By providing competitive grants and recognition"
   },
   {
     "id": 23,
-    "question": "What is the term for a systematic process undertaken by the Election Commission to update, correct, and verify voter information, as highlighted by the recent news on SIR?",
-    "options": [
-      "Electoral Audit",
-      "Voter Census",
-      "Electoral Roll Revision",
-      "Polling Station Mapping"
-    ],
-    "correctAnswer": "Electoral Roll Revision"
+    "question": "What is the overall goal of the National Medical Commission (NMC) regarding inclusivity in medical education, particularly for students with disabilities in states like Telangana and Andhra Pradesh?",
+    "options": ["To increase medical college intake", "To ensure equal access and supportive environments", "To standardize medical curriculum", "To promote private medical colleges"],
+    "correctAnswer": "To ensure equal access and supportive environments"
   },
   {
     "id": 24,
-    "question": "What mechanism is implied as available for citizens to register for voting or appeal their exclusion if they believe they were wrongly removed from the electoral rolls in any Indian state?",
-    "options": [
-      "Direct contact with the Prime Minister's Office",
-      "Using specified forms like Form 6 and participation in EC-ordered drives",
-      "Filing a criminal complaint with the local police",
-      "Waiting for the next general election cycle to re-register"
-    ],
-    "correctAnswer": "Using specified forms like Form 6 and participation in EC-ordered drives"
+    "question": "In the context of national political engagement, what crucial role do digital platforms like the 'Satyagraha' website play in mobilizing public opinion and informing citizens, including those in states like Andhra Pradesh?",
+    "options": ["Restricting communication", "Centralizing information and facilitating activism", "Replacing traditional media", "Creating online gaming communities"],
+    "correctAnswer": "Centralizing information and facilitating activism"
   },
   {
     "id": 25,
-    "question": "The recent controversies surrounding the Special Intensive Revision of electoral rolls underscore the critical importance of what fundamental principle in a democratic election process across India, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Majority rule in legislative decisions",
-      "Secrecy of the ballot cast by voters",
-      "Transparency and fairness in voter registration procedures",
-      "Universal adult suffrage as a right"
-    ],
-    "correctAnswer": "Transparency and fairness in voter registration procedures"
+    "question": "Given the national directive from NMC regarding disability units, what responsibility do state governments in Telangana and Andhra Pradesh share in ensuring their medical colleges comply with these essential requirements?",
+    "options": ["To passively observe", "To actively monitor and facilitate compliance", "To delegate entirely to central government", "To provide exemptions"],
+    "correctAnswer": "To actively monitor and facilitate compliance"
   }
 ]

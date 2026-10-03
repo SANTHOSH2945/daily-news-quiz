@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which set of new criminal laws, including the Bharatiya Nyaya Sanhita (BNS), is replacing existing colonial-era laws across India, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Indian Evidence Act, 1872",
-      "Code of Criminal Procedure, 1973",
-      "Bharatiya Nyaya Sanhita (BNS), Bharatiya Sakshya Adhiniyam (BSA), Bharatiya Nagarik Suraksha Sanhita (BNSS)",
-      "National Security Act, 1980"
-    ],
-    "correctAnswer": "Bharatiya Nyaya Sanhita (BNS), Bharatiya Sakshya Adhiniyam (BSA), Bharatiya Nagarik Suraksha Sanhita (BNSS)"
+    "question": "In the context of India's national leadership, which major irrigation project in Andhra Pradesh, crucial for the state's agricultural development, has seen significant central government attention?",
+    "options": ["Polavaram Project", "Kaleshwaram Lift Irrigation Project", "Nagarjuna Sagar Project", "Srisailam Project"],
+    "correctAnswer": "Polavaram Project"
   },
   {
     "id": 2,
-    "question": "A primary objective of the Bharatiya Nyaya Sanhita (BNS), as highlighted by the Union Home Minister, is to ensure justice is delivered within what approximate timeframe?",
-    "options": [
-      "10 years",
-      "7 years",
-      "5 years",
-      "3 years"
-    ],
-    "correctAnswer": "3 years"
+    "question": "Reflecting India's focus on skill development for global opportunities, which Telangana government body is dedicated to enhancing employability skills among its youth?",
+    "options": ["Telangana Academy for Skill and Knowledge (TASK)", "Kakatiya Sandbox", "T-Hub", "WE-Hub"],
+    "correctAnswer": "Telangana Academy for Skill and Knowledge (TASK)"
   },
   {
     "id": 3,
-    "question": "The overhaul of criminal laws in India, which includes the BNS, aims to shift the focus from 'tareekh pe tareekh' to which outcome?",
-    "options": [
-      "Increased arrests",
-      "Justice within a defined timeframe",
-      "More complex legal procedures",
-      "Reduced legal aid"
-    ],
-    "correctAnswer": "Justice within a defined timeframe"
+    "question": "Echoing India's drive for a skilled workforce, which organization in Andhra Pradesh is a nodal agency for imparting industry-relevant skills to the state's population?",
+    "options": ["Andhra Pradesh State Skill Development Corporation (APSSDC)", "Andhra Pradesh Innovation Society", "Andhra Pradesh Industrial Infrastructure Corporation", "Andhra Pradesh Mineral Development Corporation"],
+    "correctAnswer": "Andhra Pradesh State Skill Development Corporation (APSSDC)"
   },
   {
     "id": 4,
-    "question": "The Bharatiya Nyaya Sanhita (BNS) is a significant legislative change in India. Which Union Ministry is primarily responsible for its formulation and oversight?",
-    "options": [
-      "Ministry of Finance",
-      "Ministry of External Affairs",
-      "Ministry of Home Affairs",
-      "Ministry of Law and Justice"
-    ],
-    "correctAnswer": "Ministry of Home Affairs"
+    "question": "Given India's increasing global economic engagement, which sector in Telangana has consistently attracted significant international and domestic investment, bolstering the state's economy?",
+    "options": ["Information Technology (IT)", "Agriculture", "Textiles", "Tourism"],
+    "correctAnswer": "Information Technology (IT)"
   },
   {
     "id": 5,
-    "question": "The implementation of the new criminal laws like BNS will necessitate training and adaptation for police forces and judiciary across all Indian states, including Telangana and Andhra Pradesh. Which key aspect will be most affected?",
-    "options": [
-      "Traffic management rules",
-      "Investigation procedures and timelines",
-      "Environmental protection regulations",
-      "Public health policies"
-    ],
-    "correctAnswer": "Investigation procedures and timelines"
+    "question": "Considering India's emphasis on trade and foreign relations, which port city in Andhra Pradesh serves as a vital gateway for international commerce and naval operations?",
+    "options": ["Visakhapatnam", "Kakinada", "Machilipatnam", "Krishnapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 6,
-    "question": "What common issue is cited as a 'crushing burden' on college teachers across India, impacting their effectiveness in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Lack of vacation time",
-      "Excessive administrative and non-teaching duties",
-      "Low student enrollment",
-      "Limited access to international conferences"
-    ],
-    "correctAnswer": "Excessive administrative and non-teaching duties"
+    "question": "As India strengthens support for its diaspora, which specific government department in Telangana focuses on the welfare and protection of Non-Resident Indians (NRIs) from the state?",
+    "options": ["Department of NRI Affairs, Government of Telangana", "Department of Youth Services", "Department of Labour", "Department of Social Welfare"],
+    "correctAnswer": "Department of NRI Affairs, Government of Telangana"
   },
   {
     "id": 7,
-    "question": "The article discussing the burden on college teachers implies a need for reforms in which sector of education across India?",
-    "options": [
-      "Primary school education",
-      "Secondary vocational training",
-      "Higher education",
-      "Adult literacy programs"
-    ],
-    "correctAnswer": "Higher education"
+    "question": "Aligned with India's efforts to safeguard its citizens abroad, which organization in Andhra Pradesh is dedicated to facilitating the welfare of Non-Resident Telugus?",
+    "options": ["Andhra Pradesh Non-Resident Telugu Society (APNRT)", "Andhra Pradesh Overseas Manpower Company", "Andhra Pradesh State Council of Higher Education", "Andhra Pradesh Tourism Development Corporation"],
+    "correctAnswer": "Andhra Pradesh Non-Resident Telugu Society (APNRT)"
   },
   {
     "id": 8,
-    "question": "To alleviate the burden on college teachers in states like Telangana and Andhra Pradesh, what kind of institutional support is generally advocated?",
-    "options": [
-      "More external audits",
-      "Reduced research funding",
-      "Streamlining administrative tasks and providing adequate support staff",
-      "Increasing class sizes significantly"
-    ],
-    "correctAnswer": "Streamlining administrative tasks and providing adequate support staff"
+    "question": "While India engages in global diplomacy, which cultural landmark in Telangana recently received UNESCO World Heritage status, contributing to India's cultural soft power?",
+    "options": ["Ramappa Temple (Kakatiya Rudreshwara Temple)", "Charminar", "Golconda Fort", "Thousand Pillar Temple"],
+    "correctAnswer": "Ramappa Temple (Kakatiya Rudreshwara Temple)"
   },
   {
     "id": 9,
-    "question": "The quality of higher education in India, including in Telangana and Andhra Pradesh, is directly affected by the well-being and workload of its teaching staff. This issue primarily concerns:",
-    "options": [
-      "Infrastructure development only",
-      "Student discipline only",
-      "Faculty morale and instructional time",
-      "Sports facilities"
-    ],
-    "correctAnswer": "Faculty morale and instructional time"
+    "question": "In line with India's rich cultural heritage and international promotion, which classical dance form predominantly associated with Andhra Pradesh is celebrated worldwide?",
+    "options": ["Kuchipudi", "Bharatanatyam", "Kathak", "Odissi"],
+    "correctAnswer": "Kuchipudi"
   },
   {
     "id": 10,
-    "question": "What is a key implication of the 'crushing burden' on India's college teachers for students in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "More personalized attention",
-      "Improved course materials",
-      "Potentially reduced quality of instruction and mentoring",
-      "Greater access to extracurricular activities"
-    ],
-    "correctAnswer": "Potentially reduced quality of instruction and mentoring"
+    "question": "Inspired by India's collaborations in advanced technology, such as with countries like Israel, which agricultural method is extensively promoted in Andhra Pradesh for efficient water usage?",
+    "options": ["Drip irrigation", "Shifting cultivation", "Terrace farming", "Jhum cultivation"],
+    "correctAnswer": "Drip irrigation"
   },
   {
     "id": 11,
-    "question": "The demand for police officers to wear name plates, as highlighted by a CPI MP, is primarily aimed at enhancing which aspect of law enforcement?",
-    "options": [
-      "Ease of identification and accountability",
-      "Uniform aesthetic appeal",
-      "Rank identification",
-      "Faster crime reporting"
-    ],
-    "correctAnswer": "Ease of identification and accountability"
+    "question": "Following the WHO report highlighting road injuries as a major cause of death in India, which specific enforcement initiative has Telangana police strengthened to curb traffic violations?",
+    "options": ["Enhanced enforcement of helmet laws and speed limits", "SHE Teams", "Cybercrime units", "Anti-narcotics cells"],
+    "correctAnswer": "Enhanced enforcement of helmet laws and speed limits"
   },
   {
     "id": 12,
-    "question": "Police conduct and accountability are critical issues across all Indian states, including Telangana and Andhra Pradesh. Wearing name plates is a measure related to:",
-    "options": [
-      "Operational security protocols",
-      "Transparency and public trust",
-      "Internal departmental hierarchy",
-      "Special task force recognition"
-    ],
-    "correctAnswer": "Transparency and public trust"
+    "question": "In response to national concerns about road safety, which dedicated initiative does Andhra Pradesh have to ensure quick medical response and aid to road accident victims?",
+    "options": ["108 Emergency Services", "Janani Shishu Suraksha Karyakram", "Arogyasri Scheme", "Village Secretariat system"],
+    "correctAnswer": "108 Emergency Services"
   },
   {
     "id": 13,
-    "question": "The Communist Party of India (CPI), whose MP was mentioned in a protest context, is recognized as what kind of political party in India?",
-    "options": [
-      "Regional party",
-      "National party",
-      "State-specific party",
-      "Micro-party"
-    ],
-    "correctAnswer": "National party"
+    "question": "The WHO report indicates road injuries are a significant cause of mortality in India. Which factor is consistently identified as a primary contributor to severe road accidents in both Telangana and Andhra Pradesh?",
+    "options": ["Over-speeding", "Poor road infrastructure", "Vehicle malfunction", "Lack of streetlights"],
+    "correctAnswer": "Over-speeding"
   },
   {
     "id": 14,
-    "question": "In the context of protests and police interaction, what constitutional right of citizens is often invoked, which is equally applicable in Telangana and Andhra Pradesh?",
-    "options": [
-      "Right to property",
-      "Right to freedom of speech and expression",
-      "Right to privacy",
-      "Right to education"
-    ],
-    "correctAnswer": "Right to freedom of speech and expression"
+    "question": "To improve post-crash response, a critical aspect of reducing road injury fatalities in India, what is the universal emergency medical service number active in states like Telangana and Andhra Pradesh?",
+    "options": ["108", "100", "112", "101"],
+    "correctAnswer": "108"
   },
   {
     "id": 15,
-    "question": "Which Union Minister was written to by a CPI MP regarding police conduct during a protest, as mentioned in the news?",
-    "options": [
-      "Minister of Defence",
-      "Minister of External Affairs",
-      "Minister of Home Affairs",
-      "Minister of Finance"
-    ],
-    "correctAnswer": "Minister of Home Affairs"
+    "question": "Considering the national challenge of road safety, which major city in Telangana has implemented 'Smart Traffic' initiatives to better manage congestion and reduce accidents?",
+    "options": ["Hyderabad", "Warangal", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 16,
-    "question": "The overhaul of India's criminal justice system, including the introduction of BNS, is expected to streamline which process for victims and accused alike in all states?",
-    "options": [
-      "Election campaigning",
-      "Judicial proceedings",
-      "Tax filing",
-      "Passport application"
-    ],
-    "correctAnswer": "Judicial proceedings"
+    "question": "Aligning with national efforts to enhance urban road safety, which coastal city in Andhra Pradesh has been recognized for its efforts in developing safer road infrastructure and traffic management systems?",
+    "options": ["Visakhapatnam", "Vijayawada", "Guntur", "Tirupati"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 17,
-    "question": "What is the full form of BNS, the new criminal law frequently mentioned in the context of India's justice system reform?",
-    "options": [
-      "Basic National Security",
-      "Bharatiya Nyaya Sanhita",
-      "Bharat Nirman Scheme",
-      "Bureau of National Statistics"
-    ],
-    "correctAnswer": "Bharatiya Nyaya Sanhita"
+    "question": "In light of the WHO report on road injuries, what type of infrastructure development is a priority for both Telangana and Andhra Pradesh to ensure safer and smoother transportation?",
+    "options": ["Construction of flyovers and underpasses", "Development of new railway lines", "Expansion of waterways", "Building new airports"],
+    "correctAnswer": "Construction of flyovers and underpasses"
   },
   {
     "id": 18,
-    "question": "The previous criminal laws, like the Indian Penal Code (IPC), were remnants of which historical period in India?",
-    "options": [
-      "Ancient India",
-      "Medieval India",
-      "British colonial era",
-      "Post-independence early years"
-    ],
-    "correctAnswer": "British colonial era"
+    "question": "Recognizing that human factors are crucial in road safety, what is a key focus of public awareness campaigns conducted by transport authorities in Telangana and Andhra Pradesh?",
+    "options": ["Avoiding drunk driving", "Promoting public transport", "Encouraging cycling", "Using electric vehicles"],
+    "correctAnswer": "Avoiding drunk driving"
   },
   {
     "id": 19,
-    "question": "The burden on college teachers, as a national issue, can impact the implementation of which key national education policy in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Mid-day Meal Scheme",
-      "National Education Policy (NEP) 2020",
-      "Sarva Shiksha Abhiyan",
-      "Swachh Bharat Abhiyan"
-    ],
-    "correctAnswer": "National Education Policy (NEP) 2020"
+    "question": "Amidst discussions on election expenditures in various assembly elections, which constitutional body is primarily responsible for the conduct and oversight of general elections in states like Telangana and Andhra Pradesh?",
+    "options": ["Election Commission of India (ECI)", "State Election Commission (SEC)", "Union Public Service Commission (UPSC)", "NITI Aayog"],
+    "correctAnswer": "Election Commission of India (ECI)"
   },
   {
     "id": 20,
-    "question": "To improve policing and public interaction in states like Telangana and Andhra Pradesh, along with wearing name plates, what other measure is often suggested for police personnel?",
-    "options": [
-      "Increased use of private vehicles",
-      "Better training in public relations and de-escalation",
-      "Stricter uniform codes",
-      "Longer working hours"
-    ],
-    "correctAnswer": "Better training in public relations and de-escalation"
+    "question": "While the Election Commission of India oversees state and national elections, which distinct body is responsible for conducting local body elections (Panchayats and Municipalities) in Andhra Pradesh and Telangana?",
+    "options": ["State Election Commission (SEC)", "District Election Officer", "Revenue Department", "Panchayati Raj Department"],
+    "correctAnswer": "State Election Commission (SEC)"
   },
   {
     "id": 21,
-    "question": "What is the primary function of a Member of Parliament (MP) in India, such as the CPI MP mentioned in the news, representing their constituency?",
-    "options": [
-      "To serve as a district collector",
-      "To enact laws and represent constituents in the Parliament",
-      "To manage state-level police forces",
-      "To lead local municipal corporations"
-    ],
-    "correctAnswer": "To enact laws and represent constituents in the Parliament"
+    "question": "In the context of ensuring transparency in electoral processes, a key aspect discussed nationally, what information regarding candidates is mandated for public disclosure in states like Telangana and Andhra Pradesh?",
+    "options": ["Assets and liabilities", "Academic performance", "Social media activity", "Travel history"],
+    "correctAnswer": "Assets and liabilities"
   },
   {
     "id": 22,
-    "question": "The reform of criminal laws in India, including the BNS, is part of a broader effort to update and modernize which fundamental aspect of governance?",
-    "options": [
-      "Economic planning",
-      "Defense strategy",
-      "Legal and justice system",
-      "Agricultural policy"
-    ],
-    "correctAnswer": "Legal and justice system"
+    "question": "Reflecting the standardized electoral technology across India, which system is universally utilized for recording votes in assembly and parliamentary elections held in Telangana and Andhra Pradesh?",
+    "options": ["Electronic Voting Machines (EVMs)", "Ballot boxes", "Open ballot system", "Voice vote system"],
+    "correctAnswer": "Electronic Voting Machines (EVMs)"
   },
   {
     "id": 23,
-    "question": "What type of protests are often undertaken by political parties like the CPI to raise concerns about governance issues or public grievances?",
-    "options": [
-      "Online gaming competitions",
-      "Peaceful demonstrations and rallies",
-      "Charity marathons",
-      "Academic seminars"
-    ],
-    "correctAnswer": "Peaceful demonstrations and rallies"
+    "question": "Following recent assembly election trends across India, which regional political party currently holds the majority and forms the government in Andhra Pradesh?",
+    "options": ["YSR Congress Party (YSRCP)", "Telugu Desam Party (TDP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 24,
-    "question": "The issue of police accountability and transparent governance is relevant for fostering public trust in law enforcement agencies across all states, including where?",
-    "options": [
-      "Only Union Territories",
-      "Only metropolitan cities",
-      "All states and Union Territories of India",
-      "Only border regions"
-    ],
-    "correctAnswer": "All states and Union Territories of India"
+    "question": "In line with the dynamic political landscape observed in assembly elections, which regional political party recently came to power in Telangana, ending the previous party's decade-long rule?",
+    "options": ["Indian National Congress", "Bharat Rashtra Samithi (BRS)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 25,
-    "question": "Considering the 'crushing burden' on college teachers, what is a crucial long-term goal for higher education institutions in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Increase teacher-student ratio significantly",
-      "Focus solely on administrative efficiency",
-      "Improve teacher welfare and professional development opportunities",
-      "Reduce the number of academic programs"
-    ],
-    "correctAnswer": "Improve teacher welfare and professional development opportunities"
+    "question": "To promote greater participation in assembly elections, which program of the Election Commission of India is actively implemented in Telangana and Andhra Pradesh to educate and motivate voters?",
+    "options": ["SVEEP (Systematic Voters' Education and Electoral Participation)", "My Vote My Right", "Youth for Democracy", "Election Literacy Clubs"],
+    "correctAnswer": "SVEEP (Systematic Voters' Education and Electoral Participation)"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian state was recently the subject of a political exchange between Union Minister Sitharaman and Jairam Ramesh regarding a 'viral clip' and 'public anger'?",
-    "options": ["Telangana", "Kerala", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Which political party recently announced a nationwide campaign titled ‘Vote Bachao, Desh Bachao’ against CEC Gyanesh Kumar?",
+    "options": ["BJP", "Congress", "Samajwadi Party", "Aam Aadmi Party"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 2,
-    "question": "Union Minister Nirmala Sitharaman recently responded to a claim by Jairam Ramesh regarding 'public anger' concerning a viral clip from which state?",
-    "options": ["Karnataka", "Odisha", "Maharashtra", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The ‘Vote Bachao, Desh Bachao’ campaign announced by Congress targets which high-ranking official?",
+    "options": ["Prime Minister", "Chief Justice of India", "Chief Election Commissioner", "Union Home Minister"],
+    "correctAnswer": "Chief Election Commissioner"
   },
   {
     "id": 3,
-    "question": "Jairam Ramesh's claim about 'public anger' was recently countered by Nirmala Sitharaman, relating to a viral clip from which South Indian state?",
-    "options": ["Telangana", "Andhra Pradesh", "Kerala", "Goa"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Who is the current Chief Election Commissioner of India, facing scrutiny from opposition parties and various courts?",
+    "options": ["Rajiv Kumar", "Anup Chandra Pandey", "Gyanesh Kumar", "Arun Goel"],
+    "correctAnswer": "Gyanesh Kumar"
   },
   {
     "id": 4,
-    "question": "Which city recently hosted a global real estate dialogue, attracting over 2,000 delegates for IREC 2026 at HITEX?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Pune"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which specific form, used for voter enrollment, was recently at the center of controversy after allegations by Rahul Gandhi were fact-checked by the Election Commission?",
+    "options": ["Form 4", "Form 6", "Form 8", "Form 10"],
+    "correctAnswer": "Form 6"
   },
   {
     "id": 5,
-    "question": "What major event, bringing over 2,000 delegates, was recently hosted at HITEX in Hyderabad, focusing on global real estate?",
-    "options": ["GIS Summit 2025", "IREC 2026", "Global Housing Expo", "Property Investors Meet"],
-    "correctAnswer": "IREC 2026"
+    "question": "The Supreme Court recently refused to pass an interim order regarding the suspension of which constitutional post holder?",
+    "options": ["President of India", "Chief Justice of India", "Chief Election Commissioner", "Attorney General"],
+    "correctAnswer": "Chief Election Commissioner"
   },
   {
     "id": 6,
-    "question": "The global real estate dialogue, IREC 2026, was held at which specific venue in Hyderabad?",
-    "options": ["HICC", "HITEX", "Gachibowli Stadium", "LB Stadium"],
-    "correctAnswer": "HITEX"
+    "question": "According to observations by the Supreme Court, whose primary responsibility is it to ensure the inclusion of Indian citizens in the final voter list?",
+    "options": ["State Governments", "Central Government", "Election Commission of India", "Local Municipalities"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 7,
-    "question": "Approximately how many delegates did the IREC 2026 global real estate dialogue in Hyderabad bring to HITEX?",
-    "options": ["Around 1,000", "Exactly 1,500", "Over 2,000", "Less than 500"],
-    "correctAnswer": "Over 2,000"
+    "question": "The term 'SIR exercise' mentioned in the context of voter deletions by the Election Commission most likely refers to which process?",
+    "options": ["Systematic Institutional Review", "Summary Internal Redressal", "Summary Revision of Electoral Rolls", "State Information Repository"],
+    "correctAnswer": "Summary Revision of Electoral Rolls"
   },
   {
     "id": 8,
-    "question": "Hyderabad, the capital of which Indian state, recently hosted the IREC 2026 global real estate dialogue?",
-    "options": ["Karnataka", "Andhra Pradesh", "Telangana", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "The recent controversy involving the Election Commission and the judiciary highlighted by former judges, centered around which specific Supreme Court judge's remarks?",
+    "options": ["Justice N.V. Ramana", "Justice D.Y. Chandrachud", "Justice Ujjal Bhuyan", "Justice S.A. Bobde"],
+    "correctAnswer": "Justice Ujjal Bhuyan"
   },
   {
     "id": 9,
-    "question": "Union Finance Minister Nirmala Sitharaman engaged in a political debate concerning a 'viral clip' and 'public anger' related to the governance of which state?",
-    "options": ["Andhra Pradesh", "West Bengal", "Uttar Pradesh", "Bihar"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Rahul Gandhi's recent post, which was fact-checked as 'misleading' by the Election Commission, alleged illegal changes to which election-related document?",
+    "options": ["EVM software", "Voter ID card design", "Form 6", "Election Manifesto"],
+    "correctAnswer": "Form 6"
   },
   {
     "id": 10,
-    "question": "Which political leader's claim about 'public anger' in Andhra Pradesh, based on a viral clip, was countered by Union Minister Nirmala Sitharaman?",
-    "options": ["Rahul Gandhi", "Arvind Kejriwal", "Jairam Ramesh", "Mallikarjun Kharge"],
-    "correctAnswer": "Jairam Ramesh"
+    "question": "Who made the statement, 'World is an age of flux, but India will rise to challenges'?",
+    "options": ["Prime Minister Narendra Modi", "External Affairs Minister S Jaishankar", "Defence Minister Rajnath Singh", "Finance Minister Nirmala Sitharaman"],
+    "correctAnswer": "External Affairs Minister S Jaishankar"
   },
   {
     "id": 11,
-    "question": "The IREC 2026 global dialogue, recently hosted in Hyderabad, focused on what specific economic sector?",
-    "options": ["Information Technology", "Healthcare", "Automobile Manufacturing", "Real estate"],
-    "correctAnswer": "Real estate"
+    "question": "The opposition recently intensified its demand for the removal of which high-ranking official after a Supreme Court clarification on Form 6?",
+    "options": ["Attorney General of India", "Comptroller and Auditor General", "Chief Election Commissioner", "Cabinet Secretary"],
+    "correctAnswer": "Chief Election Commissioner"
   },
   {
     "id": 12,
-    "question": "The Indian Prime Minister recently held talks with a high-level official from which European country to fast-track bilateral ties?",
-    "options": ["Germany", "France", "Switzerland", "Italy"],
-    "correctAnswer": "Switzerland"
+    "question": "Which independent constitutional body is responsible for conducting elections in India, including those for state assemblies?",
+    "options": ["Planning Commission", "NITI Aayog", "Election Commission of India", "Finance Commission"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 13,
-    "question": "In which Indian city did PM Modi meet the Swiss President to discuss bilateral trade and investment, as per the news?",
-    "options": ["Mumbai", "Bengaluru", "Delhi", "Ahmedabad"],
-    "correctAnswer": "Delhi"
+    "question": "The Supreme Court's involvement in matters concerning the Election Commission and electoral rolls underscores its role as the ultimate arbiter in which type of disputes in India?",
+    "options": ["International trade disputes", "Electoral and constitutional disputes", "Inter-state river disputes", "Labor union disputes"],
+    "correctAnswer": "Electoral and constitutional disputes"
   },
   {
     "id": 14,
-    "question": "The Supreme Court recently instructed authorities in which city to be 'very harsh' in cracking down on rape incidents and ensuring women's safety?",
-    "options": ["Kolkata", "Delhi", "Mumbai", "Chennai"],
-    "correctAnswer": "Delhi"
+    "question": "The recent nationwide political campaign and judicial scrutiny primarily revolve around alleged irregularities and concerns related to the actions of which body/person?",
+    "options": ["State Election Commissions", "Union Public Service Commission", "Chief Election Commissioner and Election Commission", "Comptroller and Auditor General"],
+    "correctAnswer": "Chief Election Commissioner and Election Commission"
   },
   {
     "id": 15,
-    "question": "Rahul Gandhi recently criticized the Delhi Police concerning complaints related to what specific issue?",
-    "options": ["Traffic management", "Sexual harassment complaints", "Protest handling", "Cybercrime"],
-    "correctAnswer": "Sexual harassment complaints"
+    "question": "What was the primary concern raised by the Bombay High Court's Goa bench regarding the SIR exercise conducted by the Election Commission?",
+    "options": ["Lack of funding", "Delays in publication", "Unjustified voter deletions", "Insufficient security during the process"],
+    "correctAnswer": "Unjustified voter deletions"
   },
   {
     "id": 16,
-    "question": "Protesters were recently detained outside Parliament Street Police Station in Delhi while demonstrating against alleged sexual misconduct involving which group?",
-    "options": ["Students", "Activists", "Farmers", "Women journalists"],
-    "correctAnswer": "Women journalists"
+    "question": "The ongoing controversies regarding voter lists and Form 6 highlight the foundational importance of what aspect for a free and fair electoral process in India?",
+    "options": ["Party funding", "Candidate advertisements", "Accurate and inclusive electoral rolls", "Public debates"],
+    "correctAnswer": "Accurate and inclusive electoral rolls"
   },
   {
     "id": 17,
-    "question": "Koel Mallick, an ex-TMC MP, recently joined which national political party?",
-    "options": ["Congress", "BJP", "AAP", "SP"],
-    "correctAnswer": "BJP"
+    "question": "Which national body officially fact-checked and deemed Rahul Gandhi's post regarding Form 6 as 'misleading'?",
+    "options": ["Press Information Bureau", "Election Commission of India", "Supreme Court", "Ministry of Law and Justice"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 18,
-    "question": "Koel Mallick, who recently joined the BJP, was formerly associated with which political party?",
-    "options": ["Aam Aadmi Party (AAP)", "Trinamool Congress (TMC)", "Biju Janata Dal (BJD)", "Samajwadi Party (SP)"],
-    "correctAnswer": "Trinamool Congress (TMC)"
+    "question": "A core principle reaffirmed by the Supreme Court regarding the Election Commission's duty is its responsibility to ensure what for Indian citizens?",
+    "options": ["Free legal aid", "Right to information", "Inclusion in the final voter list", "Access to public healthcare"],
+    "correctAnswer": "Inclusion in the final voter list"
   },
   {
     "id": 19,
-    "question": "In which Indian city did the CJP protest, which Naseeruddin Shah attended, take place, leading to comments from Piyush Mishra?",
-    "options": ["Kolkata", "Delhi", "Bengaluru", "Mumbai"],
-    "correctAnswer": "Mumbai"
+    "question": "The numerous controversies surrounding the Election Commission, CEC, and voter lists can potentially impact public trust in which democratic process?",
+    "options": ["Judicial appointments", "Parliamentary debates", "Electoral fairness and integrity", "Budget formulation"],
+    "correctAnswer": "Electoral fairness and integrity"
   },
   {
     "id": 20,
-    "question": "A High Court recently ordered a CBI probe into corruption allegations involving the OSD of the Chief Minister's office in which Indian state?",
-    "options": ["Gujarat", "Rajasthan", "Punjab", "Haryana"],
-    "correctAnswer": "Punjab"
+    "question": "The news mentions a common pre-election challenge faced by political parties, especially in alliance formations, regarding what issue?",
+    "options": ["Manifesto drafting", "Candidate selection", "Seat-sharing arrangements", "Fundraising strategies"],
+    "correctAnswer": "Seat-sharing arrangements"
   },
   {
     "id": 21,
-    "question": "The recent talks between PM Modi and the Swiss President aimed to strengthen bilateral ties, particularly focusing on which two economic aspects?",
-    "options": ["Agriculture and tourism", "Healthcare and education", "Defense and security", "Trade and investment"],
-    "correctAnswer": "Trade and investment"
+    "question": "According to External Affairs Minister S Jaishankar, despite the current global state of 'flux,' what is his outlook for India?",
+    "options": ["India will face decline", "India will remain stagnant", "India will rise to challenges", "India will isolate itself"],
+    "correctAnswer": "India will rise to challenges"
   },
   {
     "id": 22,
-    "question": "The phrase 'new pace, new height' was used to describe India's recently invigorated ties with which European nation, following talks with PM Modi?",
-    "options": ["United Kingdom", "Russia", "Switzerland", "Germany"],
-    "correctAnswer": "Switzerland"
+    "question": "Which High Court's bench recently criticized the Election Commission concerning voter deletions during the SIR exercise?",
+    "options": ["Delhi High Court", "Calcutta High Court", "Bombay High Court (Goa bench)", "Madras High Court"],
+    "correctAnswer": "Bombay High Court (Goa bench)"
   },
   {
     "id": 23,
-    "question": "The Supreme Court recently used strong words, telling authorities to be 'very harsh' in what specific context, particularly referencing incidents in Delhi?",
-    "options": ["Environmental protection", "Rape crackdown", "Public health enforcement", "Traffic law violations"],
-    "correctAnswer": "Rape crackdown"
+    "question": "Which national body is primarily responsible for the supervision and control of the preparation of electoral rolls for all elections to Parliament and to the Legislature of every State?",
+    "options": ["Registrar General of India", "Ministry of Home Affairs", "Election Commission of India", "Department of Electoral Reforms"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 24,
-    "question": "Which Rajya Sabha nominee from the TMC recently switched allegiance to the BJP a day after being nominated for a seat?",
-    "options": ["Mimi Chakraborty", "Nusrat Jahan", "Koel Mallick", "Shabana Azmi"],
-    "correctAnswer": "Koel Mallick"
+    "question": "The opposition's demand for the Chief Election Commissioner's removal intensified following what specific event?",
+    "options": ["A budget announcement", "A Supreme Court clarification on Form 6", "A major international summit", "A state election result"],
+    "correctAnswer": "A Supreme Court clarification on Form 6"
   },
   {
     "id": 25,
-    "question": "According to the news, what did Rahul Gandhi slam the Delhi Police for in connection with sexual harassment complaints?",
-    "options": ["Lack of resources", "Slow investigation", "Trying to silence women who ask questions", "Not registering FIRs"],
-    "correctAnswer": "Trying to silence women who ask questions"
+    "question": "Which major national opposition party initiated the 'Vote Bachao, Desh Bachao' campaign?",
+    "options": ["Bahujan Samaj Party", "Nationalist Congress Party", "Indian National Congress", "Trinamool Congress"],
+    "correctAnswer": "Indian National Congress"
   }
 ]

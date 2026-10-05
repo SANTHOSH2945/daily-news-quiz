@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The news mentions Singeetham Srinivasa Rao, a veteran figure in Indian cinema. For which regional film industry is he predominantly known?",
-    "options": ["Bollywood", "Kollywood", "Tollywood", "Mollywood"],
-    "correctAnswer": "Tollywood"
+    "question": "Singeetham Srinivasa Rao, a veteran Indian film director mentioned in the news for his seven decades in cinema, is primarily known for his extensive contributions to which regional cinema?",
+    "options": ["A) Tamil", "B) Malayalam", "C) Telugu", "D) Kannada"],
+    "correctAnswer": "C) Telugu"
   },
   {
     "id": 2,
-    "question": "Singeetham Srinivasa Rao, featured in the news for his seven decades in cinema, is primarily recognized as a:",
-    "options": ["Playback Singer", "Film Director", "Music Composer", "Action Choreographer"],
-    "correctAnswer": "Film Director"
+    "question": "How many decades of contribution to cinema are highlighted for Singeetham Srinivasa Rao in the recent news, a figure prominently associated with the Telugu film industry in Telangana and Andhra Pradesh?",
+    "options": ["A) Five", "B) Six", "C) Seven", "D) Eight"],
+    "correctAnswer": "C) Seven"
   },
   {
     "id": 3,
-    "question": "Singeetham Srinivasa Rao's extensive career, spanning seven decades, highlights his significant contributions to which part of Indian cinema?",
-    "options": ["North Indian cinema", "Bengali cinema", "South Indian cinema", "Punjabi cinema"],
-    "correctAnswer": "South Indian cinema"
+    "question": "Singeetham Srinivasa Rao, a prominent personality whose career spans 'many worlds of cinema', is closely associated with which regional film industry that has a strong presence in Telangana and Andhra Pradesh?",
+    "options": ["A) Tamil cinema", "B) Kannada cinema", "C) Telugu cinema", "D) Malayalam cinema"],
+    "correctAnswer": "C) Telugu cinema"
   },
   {
     "id": 4,
-    "question": "The news describes Singeetham Srinivasa Rao's career as encompassing 'many worlds of cinema.' This phrase often alludes to his versatility across which aspects?",
-    "options": ["Acting and Singing", "Direction and Screenwriting", "Cinematography and Editing", "Production Design and Stunts"],
-    "correctAnswer": "Direction and Screenwriting"
+    "question": "The news highlights Singeetham Srinivasa Rao's extensive career in cinema. Which language film industry, central to the cultural landscape of Telangana and Andhra Pradesh, has been a significant part of his work?",
+    "options": ["A) Tamil", "B) Hindi", "C) Telugu", "D) Kannada"],
+    "correctAnswer": "C) Telugu"
   },
   {
     "id": 5,
-    "question": "Singeetham Srinivasa Rao is celebrated for his unique storytelling and technical innovation. His work has significantly enriched the cinematic heritage of which Indian states?",
-    "options": ["Gujarat and Maharashtra", "Uttar Pradesh and Bihar", "Andhra Pradesh and Telangana", "Rajasthan and Madhya Pradesh"],
-    "correctAnswer": "Andhra Pradesh and Telangana"
+    "question": "Singeetham Srinivasa Rao, a veteran figure in Indian cinema spanning seven decades, is celebrated for his unique storytelling and versatile filmmaking that significantly influenced which regional film industry, deeply rooted in the culture of Telangana and Andhra Pradesh?",
+    "options": ["A) Hindi film industry", "B) Tamil film industry", "C) Telugu film industry", "D) Kannada film industry"],
+    "correctAnswer": "C) Telugu film industry"
   },
   {
     "id": 6,
-    "question": "Justice Ujjal Bhuyan, who recently commented on the deletion of voter names, was formerly the Chief Justice of the High Court in which Indian state?",
-    "options": ["Karnataka", "Kerala", "Telangana", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "The news reports an attack on a 'desi pharma plant' in Ukraine. Which Indian state, home to Hyderabad, is often referred to as a leading pharmaceutical hub, with numerous companies having global operations?",
+    "options": ["A) Maharashtra", "B) Gujarat", "C) Telangana", "D) Karnataka"],
+    "correctAnswer": "C) Telangana"
   },
   {
     "id": 7,
-    "question": "Justice Ujjal Bhuyan, currently a Supreme Court judge, expressed concerns that the Special Intensive Revision (SIR) process in India undermines a core principle of the Constitution related to:",
-    "options": ["Freedom of Speech", "Right to Education", "Right to Vote", "Right to Property"],
-    "correctAnswer": "Right to Vote"
+    "question": "The incident involving an Indian pharmaceutical plant in Ukraine underscores India's significant presence in the global pharma sector. Which two South Indian states are particularly prominent in pharmaceutical manufacturing and exports?",
+    "options": ["A) Kerala and Karnataka", "B) Tamil Nadu and Karnataka", "C) Andhra Pradesh and Telangana", "D) Goa and Pondicherry"],
+    "correctAnswer": "C) Andhra Pradesh and Telangana"
   },
   {
     "id": 8,
-    "question": "According to Justice Ujjal Bhuyan, what is the impact of extensive deletion of voter names from electoral rolls, as mentioned in the news?",
-    "options": ["It streamlines election processes", "It increases voter turnout", "It disenfranchises millions of citizens", "It ensures accurate voter data"],
-    "correctAnswer": "It disenfranchises millions of citizens"
+    "question": "The news mentions an Indian pharmaceutical company, Kusum Group, facing significant damages from an attack in Ukraine. What is the estimated financial damage from this incident, impacting operations of this 'desi pharma' firm?",
+    "options": ["A) Under $10 million", "B) Around $25 million", "C) Exceeding $50 million", "D) Up to $100 million"],
+    "correctAnswer": "C) Exceeding $50 million"
   },
   {
     "id": 9,
-    "question": "Justice Ujjal Bhuyan emphasized that no citizen should be denied the right to vote without what?",
-    "options": ["A specific political party's approval", "Due process", "A national referendum", "A public announcement"],
-    "correctAnswer": "Due process"
+    "question": "The 'desi pharma plant' attacked in Ukraine, which highlights India's global pharmaceutical footprint including contributions from states like Telangana and Andhra Pradesh, belongs to which Indian group?",
+    "options": ["A) Sun Pharma", "B) Dr. Reddy's Laboratories", "C) Cipla", "D) Kusum Group"],
+    "correctAnswer": "D) Kusum Group"
   },
   {
     "id": 10,
-    "question": "The news reports an attack on a 'desi pharma plant' in Ukraine. Which Indian city is often referred to as the 'Pharmaceutical Capital of India' or 'Genome Valley' due to its prominent pharmaceutical industry?",
-    "options": ["Bengaluru", "Mumbai", "Hyderabad", "Chennai"],
-    "correctAnswer": "Hyderabad"
+    "question": "The attack on the Kusum Group's pharmaceutical plant, an Indian company, occurred in which region of Ukraine?",
+    "options": ["A) Kyiv", "B) Lviv", "C) Sumy", "D) Odesa"],
+    "correctAnswer": "C) Sumy"
   },
   {
     "id": 11,
-    "question": "The incident involving an Indian pharmaceutical plant highlights the global presence of Indian companies. What is India's global standing in terms of pharmaceutical production by volume?",
-    "options": ["First", "Second", "Third", "Fifth"],
-    "correctAnswer": "Third"
+    "question": "The report highlights a 'targeted strike' on the Kusum Group's Indian plant. How many Russian drones were involved in this specific attack that resulted in damages to a 'desi pharma' facility?",
+    "options": ["A) Three", "B) Four", "C) Five", "D) Six"],
+    "correctAnswer": "D) Six"
   },
   {
     "id": 12,
-    "question": "The term 'desi pharma' refers to pharmaceutical companies originating from which country?",
-    "options": ["Russia", "United States", "India", "Ukraine"],
-    "correctAnswer": "India"
+    "question": "The incident at the Kusum Group's Indian plant resulted in which unfortunate consequence for its personnel?",
+    "options": ["A) Several missing", "B) One engineer killed", "C) Many critically injured", "D) Mass evacuation"],
+    "correctAnswer": "B) One engineer killed"
   },
   {
     "id": 13,
-    "question": "The damage to an Indian pharmaceutical plant in Ukraine underscores the vulnerabilities of global supply chains. Which state in India is a major hub for pharmaceutical manufacturing and exports?",
-    "options": ["Punjab", "West Bengal", "Telangana", "Rajasthan"],
-    "correctAnswer": "Telangana"
+    "question": "The news states the main structure of the Kusum Group's facility was largely destroyed. This company, representing India's 'desi pharma' strength often seen in states like Telangana, is a significant player in which global industry?",
+    "options": ["A) Automotive", "B) Information Technology", "C) Pharmaceuticals", "D) Textile Manufacturing"],
+    "correctAnswer": "C) Pharmaceuticals"
   },
   {
     "id": 14,
-    "question": "External Affairs Minister S Jaishankar stated that India aims to mediate in the Russia-Ukraine conflict through which primary means?",
-    "options": ["Military intervention", "Economic sanctions", "Dialogue and diplomacy", "Cyber warfare"],
-    "correctAnswer": "Dialogue and diplomacy"
+    "question": "The attack on the Indian pharma plant in Ukraine, with potential impact on global supply chains, contributes to disruptions in which specific global sector?",
+    "options": ["A) Energy supply", "B) Global trade routes", "C) Pharmaceutical supply chain", "D) Food security"],
+    "correctAnswer": "C) Pharmaceutical supply chain"
   },
   {
     "id": 15,
-    "question": "S Jaishankar's recent comments discussed the changing global position of a major world power, stating it has chosen to become a 'lonelier power'. Which country was he referring to?",
-    "options": ["China", "Russia", "United States", "United Kingdom"],
-    "correctAnswer": "United States"
+    "question": "Justice Ujjal Bhuyan, a Supreme Court judge who recently spoke on electoral roll deletions, previously held the prestigious position of Chief Justice in the High Court of which Indian state, directly linking him to the region?",
+    "options": ["A) Assam", "B) Bombay", "C) Telangana", "D) Gujarat"],
+    "correctAnswer": "C) Telangana"
   },
   {
     "id": 16,
-    "question": "The news highlights India's active diplomatic role. Who is the current External Affairs Minister of India?",
-    "options": ["Nirmala Sitharaman", "Subrahmanyam Jaishankar", "Amit Shah", "Rajnath Singh"],
-    "correctAnswer": "Subrahmanyam Jaishankar"
+    "question": "In his statement, Supreme Court judge Justice Ujjal Bhuyan condemned the extensive deletion of voter names. What specific process was he referring to that he believes undermines the core of the Indian Constitution?",
+    "options": ["A) Judicial Review Process", "B) Special Intensive Revision", "C) Electoral Delimitation Exercise", "D) Voter ID Card Linkage"],
+    "correctAnswer": "B) Special Intensive Revision"
   },
   {
     "id": 17,
-    "question": "India has proposed ideas addressing issues like grain and energy exports in the context of the Russia-Ukraine conflict. These proposals reflect India's strategy of:",
-    "options": ["Taking sides in the conflict", "Remaining neutral and inactive", "Facilitating practical solutions and de-escalation", "Imposing trade restrictions"],
-    "correctAnswer": "Facilitating practical solutions and de-escalation"
+    "question": "Justice Ujjal Bhuyan emphasized that extensive deletion of voter names, impacting democratic processes across India including states like Telangana and Andhra Pradesh, undermines the core principles of which foundational document?",
+    "options": ["A) Election Commission Guidelines", "B) Indian Penal Code", "C) Indian Constitution", "D) Code of Civil Procedure"],
+    "correctAnswer": "C) Indian Constitution"
   },
   {
     "id": 18,
-    "question": "Farmer organizations, represented by Samyukta Kisan Morcha (SKM), rejected the government's announced Minimum Support Prices (MSP) for which category of crops?",
-    "options": ["Kharif crops", "Zaid crops", "Rabi crops", "Cash crops"],
-    "correctAnswer": "Rabi crops"
+    "question": "According to Justice Ujjal Bhuyan, what essential right for free and fair elections in India is jeopardized by improper voter name deletions, affecting citizens in all states including Telangana and Andhra Pradesh?",
+    "options": ["A) Right to Information", "B) Right to Privacy", "C) Right to Vote", "D) Right to Protest"],
+    "correctAnswer": "C) Right to Vote"
   },
   {
     "id": 19,
-    "question": "What was the primary reason given by farmer organizations for rejecting the recent MSP hike for wheat, calling it an 'insult'?",
-    "options": ["The hike was too high", "The hike was too small", "The government delayed the announcement", "Farmers prefer direct subsidies"],
-    "correctAnswer": "The hike was too small"
+    "question": "Justice Ujjal Bhuyan's statement highlights that no citizen should be denied the right to vote without what, reinforcing constitutional safeguards for all Indians?",
+    "options": ["A) A police report", "B) A court order", "C) Due process", "D) A public announcement"],
+    "correctAnswer": "C) Due process"
   },
   {
     "id": 20,
-    "question": "Beyond the MSP, farmer organizations also highlighted the impact of rising costs on farming. Which two major input costs were specifically mentioned in the context of this concern?",
-    "options": ["Seeds and Fertilizers", "Diesel and Input costs", "Water and Electricity", "Labor and Land rent"],
-    "correctAnswer": "Diesel and Input costs"
+    "question": "The Samyukta Kisan Morcha criticized the recent MSP hike for Rabi crops. Which major Rabi crop, though not the primary one in Telangana and Andhra Pradesh, was specifically mentioned in the national protests for its minimal price increase?",
+    "options": ["A) Rice", "B) Wheat", "C) Sugarcane", "D) Cotton"],
+    "correctAnswer": "B) Wheat"
   },
   {
     "id": 21,
-    "question": "The Supreme Court recently ordered a father to return to India with his child within four weeks in a child custody case. What legal instrument was indicated to be issued against his parents if he fails to comply?",
-    "options": ["Arrest Warrant", "Property Seizure Order", "Look Out Circular", "Contempt of Court Notice"],
-    "correctAnswer": "Look Out Circular"
+    "question": "Farmer organizations highlighted the impact of rising input costs on farming. What are two significant input costs mentioned that affect farmers across India, including those in Telangana and Andhra Pradesh?",
+    "options": ["A) Land taxes and water rates", "B) Diesel and fertilizer costs", "C) Labour wages and seed prices", "D) Storage and transport charges"],
+    "correctAnswer": "B) Diesel and fertilizer costs"
   },
   {
     "id": 22,
-    "question": "This Supreme Court case emphasizes the importance of a child's connection with which parent, particularly in cases involving NRI couples?",
-    "options": ["The father", "The mother", "Grandparents", "Either parent equally"],
-    "correctAnswer": "The mother"
+    "question": "The Samyukta Kisan Morcha called for states to offer bonuses to farmers in addition to the MSP. Which two states in India are known for agricultural support schemes that often include bonuses or direct transfers to farmers, impacting regional economies significantly?",
+    "options": ["A) Punjab and Haryana", "B) Uttar Pradesh and Bihar", "C) Andhra Pradesh and Telangana", "D) Maharashtra and Madhya Pradesh"],
+    "correctAnswer": "C) Andhra Pradesh and Telangana"
   },
   {
     "id": 23,
-    "question": "What type of cases are 'Look Out Circulars' (LOCs) typically issued in, as highlighted by the Supreme Court's action in the child custody matter?",
-    "options": ["Traffic violations", "Civil disputes", "Cases involving absconding individuals or flight risk", "Minor offenses"],
-    "correctAnswer": "Cases involving absconding individuals or flight risk"
+    "question": "External Affairs Minister S Jaishankar highlighted India's diplomatic efforts and mentioned domestic repercussions, including commercial shipping disruptions. Which major port city in Andhra Pradesh plays a crucial role in India's commercial shipping and international trade?",
+    "options": ["A) Chennai", "B) Kochi", "C) Visakhapatnam", "D) Mangaluru"],
+    "correctAnswer": "C) Visakhapatnam"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's decision in the child custody case underscores the Indian judiciary's jurisdiction over citizens even when abroad, particularly concerning:",
-    "options": ["Financial disputes", "Constitutional amendments", "Family law matters", "International trade agreements"],
-    "correctAnswer": "Family law matters"
+    "question": "External Affairs Minister S Jaishankar stated India's proposals for addressing issues like grain and energy exports in the Russia-Ukraine conflict. Which major crop, vital for India's food security and a significant produce in Telangana and Andhra Pradesh, is often subject to export policies and global market fluctuations?",
+    "options": ["A) Wheat", "B) Rice", "C) Sugarcane", "D) Cotton"],
+    "correctAnswer": "B) Rice"
   },
   {
     "id": 25,
-    "question": "The issue of deletion of voter names from electoral rolls, as condemned by Justice Ujjal Bhuyan, is critical for upholding which fundamental aspect of Indian democracy?",
-    "options": ["Executive power", "Free and fair elections", "Parliamentary debates", "Judicial appointments"],
-    "correctAnswer": "Free and fair elections"
+    "question": "Beyond his directorial work, Singeetham Srinivasa Rao is recognized for his contributions across 'many worlds of cinema.' What other primary roles best describe his significant impact on filmmaking within the regional industry he shaped?",
+    "options": ["A) Lead Actor and Singer", "B) Choreographer and Editor", "C) Screenwriter and Producer", "D) Cinematographer and Music Composer"],
+    "correctAnswer": "C) Screenwriter and Producer"
   }
 ]

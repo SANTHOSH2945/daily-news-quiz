@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What was the primary reason for the INDIA bloc's protest mentioned in the news?",
-    "options": ["Against rising fuel prices", "Against alleged irregularities in the Election Commission (EC)", "For farmers' rights", "Demanding immediate elections"],
-    "correctAnswer": "Against alleged irregularities in the Election Commission (EC)"
+    "question": "Which messaging platform, founded by Jack Dorsey, was recently taken off Indian app stores?",
+    "options": ["WhatsApp", "Telegram", "Signal", "Bitchat"],
+    "correctAnswer": "Bitchat"
   },
   {
     "id": 2,
-    "question": "Which prominent political leader led the INDIA bloc march against the Election Commission?",
-    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "Mamata Banerjee", "Arvind Kejriwal"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "What was the primary reason cited for Bitchat's removal from Indian app stores?",
+    "options": ["Data privacy concerns", "Law-and-order concerns", "Market competition issues", "Technical glitches"],
+    "correctAnswer": "Law-and-order concerns"
   },
   {
     "id": 3,
-    "question": "What specific demand did Rahul Gandhi make towards the Election Commissioner, Gyanesh, during the protest?",
-    "options": ["To hold a press conference", "To meet the protesting MPs", "To resign from his post", "To implement new electoral reforms"],
-    "correctAnswer": "To resign from his post"
+    "question": "Which prominent tech personality is associated with the messaging app Bitchat, recently removed from Indian app stores?",
+    "options": ["Mark Zuckerberg", "Elon Musk", "Jack Dorsey", "Sundar Pichai"],
+    "correctAnswer": "Jack Dorsey"
   },
   {
     "id": 4,
-    "question": "What was the BJP's counter-allegation regarding the Congress's Form 6 claims and protests?",
-    "options": ["Congress is ignoring state issues", "Congress is creating anarchy to relaunch Rahul Gandhi", "Congress is disrupting parliamentary proceedings", "Congress is spreading false economic data"],
-    "correctAnswer": "Congress is creating anarchy to relaunch Rahul Gandhi"
+    "question": "Which Indian pilot was honored by the US House of Representatives for his courageous actions?",
+    "options": ["Captain Vikram Batra", "Captain Rakesh Sharma", "Captain Smit Machchhar", "Captain Gopinath"],
+    "correctAnswer": "Captain Smit Machchhar"
   },
   {
     "id": 5,
-    "question": "In which city did the INDIA bloc's march against the Election Commission take place?",
-    "options": ["Mumbai", "Bengaluru", "Kolkata", "Delhi"],
-    "correctAnswer": "Delhi"
+    "question": "Captain Smit Machchhar was honored for his actions while flying for which airline?",
+    "options": ["Emirates", "Qatar Airways", "Flydubai", "Etihad Airways"],
+    "correctAnswer": "Flydubai"
   },
   {
     "id": 6,
-    "question": "How many students and journalists were granted bail by a Delhi court following the CEC protest?",
-    "options": ["10", "15", "17", "20"],
-    "correctAnswer": "17"
+    "question": "The US House resolution honored Captain Smit Machchhar for defending his aircraft against an act by whom?",
+    "options": ["A passenger", "A security personnel", "His co-pilot", "An external threat"],
+    "correctAnswer": "His co-pilot"
   },
   {
     "id": 7,
-    "question": "The Congress's 'Form 6 claims' mentioned by the BJP are generally related to what aspect of elections?",
-    "options": ["Candidate nominations", "Voter registration and electoral rolls", "Campaign finance", "Counting of votes"],
-    "correctAnswer": "Voter registration and electoral rolls"
+    "question": "The flight involving Captain Smit Machchhar safely reached which city in Saudi Arabia?",
+    "options": ["Riyadh", "Jeddah", "Tabuk", "Dammam"],
+    "correctAnswer": "Tabuk"
   },
   {
     "id": 8,
-    "question": "What symbolic action did Rahul Gandhi perform during the INDIA bloc march when stopped by police?",
-    "options": ["Broke barricades", "Climbed barricades and waved the Tricolour", "Sat on a hunger strike", "Addressed the media from afar"],
-    "correctAnswer": "Climbed barricades and waved the Tricolour"
+    "question": "Besides Captain Machchhar, whose vital contributions were acknowledged in the US House resolution regarding the incident?",
+    "options": ["Airport ground staff", "Air traffic controllers", "Off-duty pilots and crew members", "Security agencies"],
+    "correctAnswer": "Off-duty pilots and crew members"
   },
   {
     "id": 9,
-    "question": "The INDIA bloc's march was directed towards which institution?",
-    "options": ["Prime Minister's Office", "Parliament House", "Election Commission", "Supreme Court"],
-    "correctAnswer": "Election Commission"
+    "question": "Which prominent Congress leaders were involved in a protest near the Election Commission's office?",
+    "options": ["Mallikarjun Kharge and Sonia Gandhi", "Rahul Gandhi and Priyanka Gandhi Vadra", "Digvijaya Singh and Shashi Tharoor", "Kapil Sibal and P. Chidambaram"],
+    "correctAnswer": "Rahul Gandhi and Priyanka Gandhi Vadra"
   },
   {
     "id": 10,
-    "question": "What major declaration did Rahul Gandhi make concerning the BJP during the opposition protest?",
-    "options": ["We are going to defeat BJP in upcoming elections", "We are going to destroy BJP", "We will cooperate with BJP on national issues", "BJP is a minor threat"],
-    "correctAnswer": "We are going to destroy BJP"
+    "question": "The protest led by Rahul and Priyanka Gandhi was primarily aimed at questioning whom?",
+    "options": ["The Prime Minister", "The Chief Election Commissioner", "The Home Minister", "The Supreme Court Chief Justice"],
+    "correctAnswer": "The Chief Election Commissioner"
   },
   {
     "id": 11,
-    "question": "What was the subject of the alleged fake AI poster for which a man was arrested by Delhi Police?",
-    "options": ["A politician giving a speech", "A police officer sexually assaulting a woman", "A public figure protesting", "An animal welfare event"],
-    "correctAnswer": "A police officer sexually assaulting a woman"
+    "question": "What were the alleged concerns raised by the protesting leaders regarding the Election Commission?",
+    "options": ["Funding discrepancies", "Electoral irregularities", "Lack of digital infrastructure", "Slow pace of reforms"],
+    "correctAnswer": "Electoral irregularities"
   },
   {
     "id": 12,
-    "question": "Who was arrested by Delhi Police for creating the alleged fake AI poster?",
-    "options": ["Abhijeet Dipke", "Nadeem Ahmed", "ACP Bhagat", "S Jaishankar"],
-    "correctAnswer": "Nadeem Ahmed"
+    "question": "Near which significant Indian institution did Rahul and Priyanka Gandhi stage their protest?",
+    "options": ["Parliament House", "Supreme Court", "Election Commission's office", "Prime Minister's Office"],
+    "correctAnswer": "Election Commission's office"
   },
   {
     "id": 13,
-    "question": "What specific technology did the arrested individual, Nadeem Ahmed, allegedly use to create the misleading content?",
-    "options": ["Photoshop", "Video editing software", "AI tools", "Traditional graphic design"],
-    "correctAnswer": "AI tools"
+    "question": "What action did the police take during the protest by opposition leaders near the Election Commission?",
+    "options": ["Issued a warning", "Detained several leaders", "Blocked traffic", "Initiated a dialogue"],
+    "correctAnswer": "Detained several leaders"
   },
   {
     "id": 14,
-    "question": "What was the stated intention behind creating the fake AI poster, according to Delhi Police?",
-    "options": ["To raise awareness about police brutality", "To tarnish the image of the police", "To create a piece of protest art", "To document a real incident"],
-    "correctAnswer": "To tarnish the image of the police"
+    "question": "What was the Election Commission's official statement regarding a meeting request from the protesting party?",
+    "options": ["Meeting scheduled for next week", "Request denied due to security reasons", "No meeting request received from any party", "Awaiting official written request"],
+    "correctAnswer": "No meeting request received from any party"
   },
   {
     "id": 15,
-    "question": "According to External Affairs Minister S. Jaishankar, what was his assessment of the United Nations' effectiveness?",
-    "options": ["Highly effective", "Partially effective", "Largely irrelevant", "Continuously improving"],
-    "correctAnswer": "Largely irrelevant"
+    "question": "Which political alliance was mentioned as part of the march to the Election Commission office?",
+    "options": ["NDA", "UPA", "INDIA bloc", "Mahagathbandhan"],
+    "correctAnswer": "INDIA bloc"
   },
   {
     "id": 16,
-    "question": "Which regions/issues did S. Jaishankar specifically mention where the UN was failing?",
-    "options": ["East Asia, Climate Change, Poverty, Trade", "Gulf, Ukraine, Africa, and Covid", "South America, Nuclear Proliferation, Cyber Security, Education", "Arctic, Space Exploration, Human Rights, Food Security"],
-    "correctAnswer": "Gulf, Ukraine, Africa, and Covid"
+    "question": "Who is the Chief Election Commissioner whose actions were questioned by opposition leaders during their protest?",
+    "options": ["Om Prakash Rawat", "Sunil Arora", "Rajiv Kumar", "Gyanesh Kumar"],
+    "correctAnswer": "Gyanesh Kumar"
   },
   {
     "id": 17,
-    "question": "An Indian sailor was injured in a recent strike on a ship in which body of water?",
-    "options": ["Arabian Sea", "Indian Ocean", "Black Sea", "Red Sea"],
-    "correctAnswer": "Black Sea"
+    "question": "The Ministry of External Affairs (MEA) recently condemned attacks on which group, as per the evening news wrap?",
+    "options": ["Diplomatic staff", "Indian tourists abroad", "Indian seafarers", "Border security forces"],
+    "correctAnswer": "Indian seafarers"
   },
   {
     "id": 18,
-    "question": "What was the name of the ship involved in the Black Sea incident where an Indian sailor was injured?",
-    "options": ["MV Ganga", "MV Brahmaputra", "MV ROYAD MAMMADOV", "MV Yamuna"],
-    "correctAnswer": "MV ROYAD MAMMADOV"
+    "question": "What significant leadership change was noted for the Indian Air Force (IAF) in recent news?",
+    "options": ["A new chief was appointed", "The term of the current chief was extended", "A new training academy was inaugurated", "A major policy shift was announced"],
+    "correctAnswer": "A new chief was appointed"
   },
   {
     "id": 19,
-    "question": "Which Indian Embassy provided assistance to the Indian crew members after the Black Sea incident?",
-    "options": ["Indian Embassy in Russia", "Indian Embassy in Ukraine", "Indian Embassy in Romania", "Indian Embassy in Turkey"],
-    "correctAnswer": "Indian Embassy in Romania"
+    "question": "According to a recent report on 'The India Mood', which country leads in consumer confidence?",
+    "options": ["USA", "China", "India", "Germany"],
+    "correctAnswer": "India"
   },
   {
     "id": 20,
-    "question": "India strongly condemned the attack on the MV ROYAD MAMMADOV as what?",
-    "options": ["An act of piracy", "An unacceptable act", "A declaration of war", "An economic blockade"],
-    "correctAnswer": "An unacceptable act"
+    "question": "Despite high consumer confidence, what significant worries do Indians express about their careers?",
+    "options": ["High taxation rates", "Lack of innovation", "Unemployment and education quality", "Poor work-life balance"],
+    "correctAnswer": "Unemployment and education quality"
   },
   {
     "id": 21,
-    "question": "What issue did Abhijeet Dipke claim CJP activists were receiving police notices for?",
-    "options": ["Tax evasion", "Environmental pollution", "Threatening a protest could turn violent", "Defamation lawsuits"],
-    "correctAnswer": "Threatening a protest could turn violent"
+    "question": "What overall sentiment do many Indians hold regarding the country's direction, according to 'The India Mood' report?",
+    "options": ["It's on the wrong track", "It's stagnant", "It's on the right track", "It's uncertain"],
+    "correctAnswer": "It's on the right track"
   },
   {
     "id": 22,
-    "question": "What organization were the activists mentioned by Abhijeet Dipke associated with?",
-    "options": ["BJP", "Congress", "CJP", "Amnesty International"],
-    "correctAnswer": "CJP"
+    "question": "The 'India Mood' report highlights a disconnect between economic optimism and which other factor?",
+    "options": ["Political stability", "Environmental concerns", "Job security", "Technological advancement"],
+    "correctAnswer": "Job security"
   },
   {
     "id": 23,
-    "question": "Which date was associated with the potential protest mentioned in the police notices to CJP activists?",
-    "options": ["September 30", "October 5", "October 10", "October 15"],
-    "correctAnswer": "October 10"
+    "question": "What was the police's initial attempt to stop the INDIA bloc's march to the Election Commission described as?",
+    "options": ["A peaceful negotiation", "A strict warning", "A surprise maneuver called 'Dhappa'", "A formal barricade"],
+    "correctAnswer": "A surprise maneuver called 'Dhappa'"
   },
   {
     "id": 24,
-    "question": "What was the role claimed by Nadeem Ahmed, who was arrested for creating the fake AI poster?",
-    "options": ["Political activist", "IT professional", "Independent journalist", "Student leader"],
-    "correctAnswer": "Independent journalist"
+    "question": "Who, alongside Rahul Gandhi, was noted for giving the INDIA bloc protest an 'unexpected second act' after police intervention?",
+    "options": ["Sonia Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi Vadra", "Akhilesh Yadav"],
+    "correctAnswer": "Priyanka Gandhi Vadra"
   },
   {
     "id": 25,
-    "question": "Besides the CEC protest, Rahul Gandhi accused the police of what during the march?",
-    "options": ["Providing inadequate security", "Stopping and threatening them", "Using excessive force", "Failing to manage crowds"],
-    "correctAnswer": "Stopping and threatening them"
+    "question": "What did the Congress leaders demand to discuss with the Election Commission officials?",
+    "options": ["Upcoming election dates", "Alleged electoral irregularities", "Budget allocation for elections", "Security arrangements for polling booths"],
+    "correctAnswer": "Alleged electoral irregularities"
   }
 ]

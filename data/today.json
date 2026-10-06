@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Supreme Court Justice raised concerns regarding the deletion of voters through special intensive revision (SIR)?",
-    "options": [
-      "Justice Ujjal Bhuyan",
-      "Ex-CJI BR Gavai",
-      "Justice Rohinton Fali Nariman",
-      "Justice Vikram Nath"
-    ],
-    "correctAnswer": "Justice Ujjal Bhuyan"
+    "question": "What was the primary reason for the INDIA bloc's protest mentioned in the news?",
+    "options": ["Against rising fuel prices", "Against alleged irregularities in the Election Commission (EC)", "For farmers' rights", "Demanding immediate elections"],
+    "correctAnswer": "Against alleged irregularities in the Election Commission (EC)"
   },
   {
     "id": 2,
-    "question": "Ex-CJI BR Gavai criticized Justice Ujjal Bhuyan's remarks on SIR, terming it as what?",
-    "options": [
-      "Judicial overreach",
-      "Judicial activism",
-      "Judicial impropriety",
-      "Judicial review concern"
-    ],
-    "correctAnswer": "Judicial impropriety"
+    "question": "Which prominent political leader led the INDIA bloc march against the Election Commission?",
+    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "Mamata Banerjee", "Arvind Kejriwal"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 3,
-    "question": "What fundamental issue did Justice Ujjal Bhuyan emphasize is violated by disenfranchising citizens through voter list deletions, relevant to all Indian states including Telangana and Andhra Pradesh?",
-    "options": [
-      "Economic rights",
-      "Cultural rights",
-      "Constitutional rights",
-      "Property rights"
-    ],
-    "correctAnswer": "Constitutional rights"
+    "question": "What specific demand did Rahul Gandhi make towards the Election Commissioner, Gyanesh, during the protest?",
+    "options": ["To hold a press conference", "To meet the protesting MPs", "To resign from his post", "To implement new electoral reforms"],
+    "correctAnswer": "To resign from his post"
   },
   {
     "id": 4,
-    "question": "Former Supreme Court judge Rohinton Fali Nariman voiced concerns about the democratic implications of what process, affecting electoral integrity nationwide?",
-    "options": [
-      "Judicial appointments",
-      "Voters being removed from lists",
-      "Parliamentary debates",
-      "International treaties"
-    ],
-    "correctAnswer": "Voters being removed from lists"
+    "question": "What was the BJP's counter-allegation regarding the Congress's Form 6 claims and protests?",
+    "options": ["Congress is ignoring state issues", "Congress is creating anarchy to relaunch Rahul Gandhi", "Congress is disrupting parliamentary proceedings", "Congress is spreading false economic data"],
+    "correctAnswer": "Congress is creating anarchy to relaunch Rahul Gandhi"
   },
   {
     "id": 5,
-    "question": "The Supreme Court asked which body to clarify decision-making processes related to voter roll revisions, impacting elections in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Parliament",
-      "Ministry of Law",
-      "Election Commission",
-      "National Human Rights Commission"
-    ],
-    "correctAnswer": "Election Commission"
+    "question": "In which city did the INDIA bloc's march against the Election Commission take place?",
+    "options": ["Mumbai", "Bengaluru", "Kolkata", "Delhi"],
+    "correctAnswer": "Delhi"
   },
   {
     "id": 6,
-    "question": "Regarding voter roll revisions, the Supreme Court emphasized that Election Commission decisions should be taken how?",
-    "options": [
-      "By the Chief Election Commissioner unilaterally",
-      "Unanimously or by majority among commission members only",
-      "After consulting state governments",
-      "With approval from the central government"
-    ],
-    "correctAnswer": "Unanimously or by majority among commission members only"
+    "question": "How many students and journalists were granted bail by a Delhi court following the CEC protest?",
+    "options": ["10", "15", "17", "20"],
+    "correctAnswer": "17"
   },
   {
     "id": 7,
-    "question": "What did the Supreme Court state it would do to Election Commission orders that are not in keeping with the law, a pronouncement relevant for electoral processes nationwide?",
-    "options": [
-      "Recommend review",
-      "Annul them",
-      "Refer to a larger bench",
-      "Issue an advisory"
-    ],
-    "correctAnswer": "Annul them"
+    "question": "The Congress's 'Form 6 claims' mentioned by the BJP are generally related to what aspect of elections?",
+    "options": ["Candidate nominations", "Voter registration and electoral rolls", "Campaign finance", "Counting of votes"],
+    "correctAnswer": "Voter registration and electoral rolls"
   },
   {
     "id": 8,
-    "question": "Allegations of unilateral actions in the Election Commission's decision-making process were being examined against whom?",
-    "options": [
-      "Senior Advocate Vikas Singh",
-      "A former Chief Justice",
-      "The Chief Election Commissioner",
-      "A specific political party"
-    ],
-    "correctAnswer": "The Chief Election Commissioner"
+    "question": "What symbolic action did Rahul Gandhi perform during the INDIA bloc march when stopped by police?",
+    "options": ["Broke barricades", "Climbed barricades and waved the Tricolour", "Sat on a hunger strike", "Addressed the media from afar"],
+    "correctAnswer": "Climbed barricades and waved the Tricolour"
   },
   {
     "id": 9,
-    "question": "Senior advocate Vikas Singh argued for preserving what crucial element regarding the Election Commission's actions to ensure transparency?",
-    "options": [
-      "Political manifestos",
-      "Campaign finance reports",
-      "Records and scrutiny of the commission's actions",
-      "Voter registration drives"
-    ],
-    "correctAnswer": "Records and scrutiny of the commission's actions"
+    "question": "The INDIA bloc's march was directed towards which institution?",
+    "options": ["Prime Minister's Office", "Parliament House", "Election Commission", "Supreme Court"],
+    "correctAnswer": "Election Commission"
   },
   {
     "id": 10,
-    "question": "India recently signed five agreements to strengthen cooperation in trade, investment, and technology with which European country, impacting India's overall economic ties?",
-    "options": [
-      "Germany",
-      "France",
-      "Switzerland",
-      "UK"
-    ],
-    "correctAnswer": "Switzerland"
+    "question": "What major declaration did Rahul Gandhi make concerning the BJP during the opposition protest?",
+    "options": ["We are going to defeat BJP in upcoming elections", "We are going to destroy BJP", "We will cooperate with BJP on national issues", "BJP is a minor threat"],
+    "correctAnswer": "We are going to destroy BJP"
   },
   {
     "id": 11,
-    "question": "What new agreement, signed between India and Switzerland, will facilitate easier access for Indian professionals and students to Switzerland?",
-    "options": [
-      "Economic Partnership Agreement",
-      "Free Trade Agreement",
-      "Mobility agreement",
-      "Cultural Exchange Pact"
-    ],
-    "correctAnswer": "Mobility agreement"
+    "question": "What was the subject of the alleged fake AI poster for which a man was arrested by Delhi Police?",
+    "options": ["A politician giving a speech", "A police officer sexually assaulting a woman", "A public figure protesting", "An animal welfare event"],
+    "correctAnswer": "A police officer sexually assaulting a woman"
   },
   {
     "id": 12,
-    "question": "Beyond trade and investment, what other key sector did India and Switzerland aim to strengthen cooperation in as part of their recent agreements?",
-    "options": [
-      "Defence",
-      "Agriculture",
-      "Technology",
-      "Tourism"
-    ],
-    "correctAnswer": "Technology"
+    "question": "Who was arrested by Delhi Police for creating the alleged fake AI poster?",
+    "options": ["Abhijeet Dipke", "Nadeem Ahmed", "ACP Bhagat", "S Jaishankar"],
+    "correctAnswer": "Nadeem Ahmed"
   },
   {
     "id": 13,
-    "question": "During discussions between Indian and Swiss leaders, what global issue was emphasized with a focus on dialogue for peace?",
-    "options": [
-      "Climate change impacts",
-      "Global conflicts",
-      "Cybersecurity threats",
-      "Pandemic preparedness"
-    ],
-    "correctAnswer": "Global conflicts"
+    "question": "What specific technology did the arrested individual, Nadeem Ahmed, allegedly use to create the misleading content?",
+    "options": ["Photoshop", "Video editing software", "AI tools", "Traditional graphic design"],
+    "correctAnswer": "AI tools"
   },
   {
     "id": 14,
-    "question": "A key objective for India from the recent agreements with Switzerland includes enhancing market access for Indian exports and attracting investments in which areas?",
-    "options": [
-      "Agricultural sector",
-      "Key sectors",
-      "Textile manufacturing",
-      "Pharmaceutical research"
-    ],
-    "correctAnswer": "Key sectors"
+    "question": "What was the stated intention behind creating the fake AI poster, according to Delhi Police?",
+    "options": ["To raise awareness about police brutality", "To tarnish the image of the police", "To create a piece of protest art", "To document a real incident"],
+    "correctAnswer": "To tarnish the image of the police"
   },
   {
     "id": 15,
-    "question": "Which national body recently issued safety guidelines to improve monitoring of app-based and digital transport services for women passengers across India, including in Telangana and Andhra Pradesh?",
-    "options": [
-      "Ministry of Road Transport and Highways",
-      "National Commission for Women",
-      "Bureau of Indian Standards",
-      "All India Council for Technical Education"
-    ],
-    "correctAnswer": "National Commission for Women"
+    "question": "According to External Affairs Minister S. Jaishankar, what was his assessment of the United Nations' effectiveness?",
+    "options": ["Highly effective", "Partially effective", "Largely irrelevant", "Continuously improving"],
+    "correctAnswer": "Largely irrelevant"
   },
   {
     "id": 16,
-    "question": "What is one of the key safety measures included in the National Commission for Women's guidelines for app-based transport services?",
-    "options": [
-      "Mandatory installation of dashcams",
-      "Verification of drivers' background and identification",
-      "Exclusive women-only services",
-      "Reduction of fares for late-night travel"
-    ],
-    "correctAnswer": "Verification of drivers' background and identification"
+    "question": "Which regions/issues did S. Jaishankar specifically mention where the UN was failing?",
+    "options": ["East Asia, Climate Change, Poverty, Trade", "Gulf, Ukraine, Africa, and Covid", "South America, Nuclear Proliferation, Cyber Security, Education", "Arctic, Space Exploration, Human Rights, Food Security"],
+    "correctAnswer": "Gulf, Ukraine, Africa, and Covid"
   },
   {
     "id": 17,
-    "question": "The NCW guidelines for app-based transport services also addressed issues related to unauthorized changes in what aspects, particularly during late-night travel?",
-    "options": [
-      "Route planning",
-      "Fare structure",
-      "Drivers or vehicles",
-      "Payment methods"
-    ],
-    "correctAnswer": "Drivers or vehicles"
+    "question": "An Indian sailor was injured in a recent strike on a ship in which body of water?",
+    "options": ["Arabian Sea", "Indian Ocean", "Black Sea", "Red Sea"],
+    "correctAnswer": "Black Sea"
   },
   {
     "id": 18,
-    "question": "To enhance safety for women, what did the National Commission for Women encourage app-based transport aggregators to create?",
-    "options": [
-      "A national database of passengers",
-      "A verified pool of women drivers",
-      "New luxury transport options",
-      "More stringent cancellation policies"
-    ],
-    "correctAnswer": "A verified pool of women drivers"
+    "question": "What was the name of the ship involved in the Black Sea incident where an Indian sailor was injured?",
+    "options": ["MV Ganga", "MV Brahmaputra", "MV ROYAD MAMMADOV", "MV Yamuna"],
+    "correctAnswer": "MV ROYAD MAMMADOV"
   },
   {
     "id": 19,
-    "question": "The primary focus of the new guidelines issued by the National Commission for Women is on ensuring what for women passengers?",
-    "options": [
-      "Affordability",
-      "Speed and efficiency",
-      "Safety",
-      "Comfort"
-    ],
-    "correctAnswer": "Safety"
+    "question": "Which Indian Embassy provided assistance to the Indian crew members after the Black Sea incident?",
+    "options": ["Indian Embassy in Russia", "Indian Embassy in Ukraine", "Indian Embassy in Romania", "Indian Embassy in Turkey"],
+    "correctAnswer": "Indian Embassy in Romania"
   },
   {
     "id": 20,
-    "question": "Which Supreme Court Justice recently stated that 'compassion in judging is not favour or leniency'?",
-    "options": [
-      "Justice Ujjal Bhuyan",
-      "Justice Vikram Nath",
-      "Justice Rohinton Fali Nariman",
-      "Ex-CJI BR Gavai"
-    ],
-    "correctAnswer": "Justice Vikram Nath"
+    "question": "India strongly condemned the attack on the MV ROYAD MAMMADOV as what?",
+    "options": ["An act of piracy", "An unacceptable act", "A declaration of war", "An economic blockade"],
+    "correctAnswer": "An unacceptable act"
   },
   {
     "id": 21,
-    "question": "Justice Vikram Nath delivered his remarks on 'compassion in judging' at which annual lecture?",
-    "options": [
-      "Dr. APJ Abdul Kalam Memorial Lecture",
-      "Prof. (Dr) N R Madhava Menon Memorial Lecture",
-      "Gandhi Peace Foundation Lecture",
-      "Indian Law Institute Annual Address"
-    ],
-    "correctAnswer": "Prof. (Dr) N R Madhava Menon Memorial Lecture"
+    "question": "What issue did Abhijeet Dipke claim CJP activists were receiving police notices for?",
+    "options": ["Tax evasion", "Environmental pollution", "Threatening a protest could turn violent", "Defamation lawsuits"],
+    "correctAnswer": "Threatening a protest could turn violent"
   },
   {
     "id": 22,
-    "question": "What was the specific theme of the memorial lecture where Justice Vikram Nath spoke about judging with compassion?",
-    "options": [
-      "Law and Society: A Contemporary Perspective",
-      "Human Rights in the 21st Century",
-      "Judging with Compassion: Human Understanding in the Practice of Law",
-      "The Future of Judiciary in India"
-    ],
-    "correctAnswer": "Judging with Compassion: Human Understanding in the Practice of Law"
+    "question": "What organization were the activists mentioned by Abhijeet Dipke associated with?",
+    "options": ["BJP", "Congress", "CJP", "Amnesty International"],
+    "correctAnswer": "CJP"
   },
   {
     "id": 23,
-    "question": "According to Justice Vikram Nath, what must courts ensure does not overshadow the human realities of those involved in a case?",
-    "options": [
-      "Public opinion",
-      "Political pressures",
-      "Legal principles",
-      "Media scrutiny"
-    ],
-    "correctAnswer": "Legal principles"
+    "question": "Which date was associated with the potential protest mentioned in the police notices to CJP activists?",
+    "options": ["September 30", "October 5", "October 10", "October 15"],
+    "correctAnswer": "October 10"
   },
   {
     "id": 24,
-    "question": "The views expressed by Justice Vikram Nath on 'compassion in judging' are broadly relevant to which aspect of the legal system in all Indian states, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Legislative drafting",
-      "Police investigations",
-      "Judicial practice and decision-making",
-      "Legal aid services"
-    ],
-    "correctAnswer": "Judicial practice and decision-making"
+    "question": "What was the role claimed by Nadeem Ahmed, who was arrested for creating the fake AI poster?",
+    "options": ["Political activist", "IT professional", "Independent journalist", "Student leader"],
+    "correctAnswer": "Independent journalist"
   },
   {
     "id": 25,
-    "question": "The Supreme Court's scrutiny over the Election Commission's decision-making on voter lists (SIR) is essential to uphold the integrity of which fundamental process in Indian democracy, particularly significant for states with upcoming elections?",
-    "options": [
-      "Legislative debates",
-      "Electoral process",
-      "Judicial appointments",
-      "Budget allocation"
-    ],
-    "correctAnswer": "Electoral process"
+    "question": "Besides the CEC protest, Rahul Gandhi accused the police of what during the march?",
+    "options": ["Providing inadequate security", "Stopping and threatening them", "Using excessive force", "Failing to manage crowds"],
+    "correctAnswer": "Stopping and threatening them"
   }
 ]

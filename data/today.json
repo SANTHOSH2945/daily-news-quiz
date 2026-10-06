@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which political party recently announced a nationwide campaign titled ‘Vote Bachao, Desh Bachao’ against CEC Gyanesh Kumar?",
-    "options": ["BJP", "Congress", "Samajwadi Party", "Aam Aadmi Party"],
-    "correctAnswer": "Congress"
-  },
-  {
-    "id": 2,
-    "question": "The ‘Vote Bachao, Desh Bachao’ campaign announced by Congress targets which high-ranking official?",
-    "options": ["Prime Minister", "Chief Justice of India", "Chief Election Commissioner", "Union Home Minister"],
-    "correctAnswer": "Chief Election Commissioner"
-  },
-  {
-    "id": 3,
-    "question": "Who is the current Chief Election Commissioner of India, facing scrutiny from opposition parties and various courts?",
-    "options": ["Rajiv Kumar", "Anup Chandra Pandey", "Gyanesh Kumar", "Arun Goel"],
-    "correctAnswer": "Gyanesh Kumar"
-  },
-  {
-    "id": 4,
-    "question": "Which specific form, used for voter enrollment, was recently at the center of controversy after allegations by Rahul Gandhi were fact-checked by the Election Commission?",
-    "options": ["Form 4", "Form 6", "Form 8", "Form 10"],
-    "correctAnswer": "Form 6"
-  },
-  {
-    "id": 5,
-    "question": "The Supreme Court recently refused to pass an interim order regarding the suspension of which constitutional post holder?",
-    "options": ["President of India", "Chief Justice of India", "Chief Election Commissioner", "Attorney General"],
-    "correctAnswer": "Chief Election Commissioner"
-  },
-  {
-    "id": 6,
-    "question": "According to observations by the Supreme Court, whose primary responsibility is it to ensure the inclusion of Indian citizens in the final voter list?",
-    "options": ["State Governments", "Central Government", "Election Commission of India", "Local Municipalities"],
-    "correctAnswer": "Election Commission of India"
-  },
-  {
-    "id": 7,
-    "question": "The term 'SIR exercise' mentioned in the context of voter deletions by the Election Commission most likely refers to which process?",
-    "options": ["Systematic Institutional Review", "Summary Internal Redressal", "Summary Revision of Electoral Rolls", "State Information Repository"],
-    "correctAnswer": "Summary Revision of Electoral Rolls"
-  },
-  {
-    "id": 8,
-    "question": "The recent controversy involving the Election Commission and the judiciary highlighted by former judges, centered around which specific Supreme Court judge's remarks?",
-    "options": ["Justice N.V. Ramana", "Justice D.Y. Chandrachud", "Justice Ujjal Bhuyan", "Justice S.A. Bobde"],
+    "question": "Which Supreme Court Justice raised concerns regarding the deletion of voters through special intensive revision (SIR)?",
+    "options": [
+      "Justice Ujjal Bhuyan",
+      "Ex-CJI BR Gavai",
+      "Justice Rohinton Fali Nariman",
+      "Justice Vikram Nath"
+    ],
     "correctAnswer": "Justice Ujjal Bhuyan"
   },
   {
+    "id": 2,
+    "question": "Ex-CJI BR Gavai criticized Justice Ujjal Bhuyan's remarks on SIR, terming it as what?",
+    "options": [
+      "Judicial overreach",
+      "Judicial activism",
+      "Judicial impropriety",
+      "Judicial review concern"
+    ],
+    "correctAnswer": "Judicial impropriety"
+  },
+  {
+    "id": 3,
+    "question": "What fundamental issue did Justice Ujjal Bhuyan emphasize is violated by disenfranchising citizens through voter list deletions, relevant to all Indian states including Telangana and Andhra Pradesh?",
+    "options": [
+      "Economic rights",
+      "Cultural rights",
+      "Constitutional rights",
+      "Property rights"
+    ],
+    "correctAnswer": "Constitutional rights"
+  },
+  {
+    "id": 4,
+    "question": "Former Supreme Court judge Rohinton Fali Nariman voiced concerns about the democratic implications of what process, affecting electoral integrity nationwide?",
+    "options": [
+      "Judicial appointments",
+      "Voters being removed from lists",
+      "Parliamentary debates",
+      "International treaties"
+    ],
+    "correctAnswer": "Voters being removed from lists"
+  },
+  {
+    "id": 5,
+    "question": "The Supreme Court asked which body to clarify decision-making processes related to voter roll revisions, impacting elections in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Parliament",
+      "Ministry of Law",
+      "Election Commission",
+      "National Human Rights Commission"
+    ],
+    "correctAnswer": "Election Commission"
+  },
+  {
+    "id": 6,
+    "question": "Regarding voter roll revisions, the Supreme Court emphasized that Election Commission decisions should be taken how?",
+    "options": [
+      "By the Chief Election Commissioner unilaterally",
+      "Unanimously or by majority among commission members only",
+      "After consulting state governments",
+      "With approval from the central government"
+    ],
+    "correctAnswer": "Unanimously or by majority among commission members only"
+  },
+  {
+    "id": 7,
+    "question": "What did the Supreme Court state it would do to Election Commission orders that are not in keeping with the law, a pronouncement relevant for electoral processes nationwide?",
+    "options": [
+      "Recommend review",
+      "Annul them",
+      "Refer to a larger bench",
+      "Issue an advisory"
+    ],
+    "correctAnswer": "Annul them"
+  },
+  {
+    "id": 8,
+    "question": "Allegations of unilateral actions in the Election Commission's decision-making process were being examined against whom?",
+    "options": [
+      "Senior Advocate Vikas Singh",
+      "A former Chief Justice",
+      "The Chief Election Commissioner",
+      "A specific political party"
+    ],
+    "correctAnswer": "The Chief Election Commissioner"
+  },
+  {
     "id": 9,
-    "question": "Rahul Gandhi's recent post, which was fact-checked as 'misleading' by the Election Commission, alleged illegal changes to which election-related document?",
-    "options": ["EVM software", "Voter ID card design", "Form 6", "Election Manifesto"],
-    "correctAnswer": "Form 6"
+    "question": "Senior advocate Vikas Singh argued for preserving what crucial element regarding the Election Commission's actions to ensure transparency?",
+    "options": [
+      "Political manifestos",
+      "Campaign finance reports",
+      "Records and scrutiny of the commission's actions",
+      "Voter registration drives"
+    ],
+    "correctAnswer": "Records and scrutiny of the commission's actions"
   },
   {
     "id": 10,
-    "question": "Who made the statement, 'World is an age of flux, but India will rise to challenges'?",
-    "options": ["Prime Minister Narendra Modi", "External Affairs Minister S Jaishankar", "Defence Minister Rajnath Singh", "Finance Minister Nirmala Sitharaman"],
-    "correctAnswer": "External Affairs Minister S Jaishankar"
+    "question": "India recently signed five agreements to strengthen cooperation in trade, investment, and technology with which European country, impacting India's overall economic ties?",
+    "options": [
+      "Germany",
+      "France",
+      "Switzerland",
+      "UK"
+    ],
+    "correctAnswer": "Switzerland"
   },
   {
     "id": 11,
-    "question": "The opposition recently intensified its demand for the removal of which high-ranking official after a Supreme Court clarification on Form 6?",
-    "options": ["Attorney General of India", "Comptroller and Auditor General", "Chief Election Commissioner", "Cabinet Secretary"],
-    "correctAnswer": "Chief Election Commissioner"
+    "question": "What new agreement, signed between India and Switzerland, will facilitate easier access for Indian professionals and students to Switzerland?",
+    "options": [
+      "Economic Partnership Agreement",
+      "Free Trade Agreement",
+      "Mobility agreement",
+      "Cultural Exchange Pact"
+    ],
+    "correctAnswer": "Mobility agreement"
   },
   {
     "id": 12,
-    "question": "Which independent constitutional body is responsible for conducting elections in India, including those for state assemblies?",
-    "options": ["Planning Commission", "NITI Aayog", "Election Commission of India", "Finance Commission"],
-    "correctAnswer": "Election Commission of India"
+    "question": "Beyond trade and investment, what other key sector did India and Switzerland aim to strengthen cooperation in as part of their recent agreements?",
+    "options": [
+      "Defence",
+      "Agriculture",
+      "Technology",
+      "Tourism"
+    ],
+    "correctAnswer": "Technology"
   },
   {
     "id": 13,
-    "question": "The Supreme Court's involvement in matters concerning the Election Commission and electoral rolls underscores its role as the ultimate arbiter in which type of disputes in India?",
-    "options": ["International trade disputes", "Electoral and constitutional disputes", "Inter-state river disputes", "Labor union disputes"],
-    "correctAnswer": "Electoral and constitutional disputes"
+    "question": "During discussions between Indian and Swiss leaders, what global issue was emphasized with a focus on dialogue for peace?",
+    "options": [
+      "Climate change impacts",
+      "Global conflicts",
+      "Cybersecurity threats",
+      "Pandemic preparedness"
+    ],
+    "correctAnswer": "Global conflicts"
   },
   {
     "id": 14,
-    "question": "The recent nationwide political campaign and judicial scrutiny primarily revolve around alleged irregularities and concerns related to the actions of which body/person?",
-    "options": ["State Election Commissions", "Union Public Service Commission", "Chief Election Commissioner and Election Commission", "Comptroller and Auditor General"],
-    "correctAnswer": "Chief Election Commissioner and Election Commission"
+    "question": "A key objective for India from the recent agreements with Switzerland includes enhancing market access for Indian exports and attracting investments in which areas?",
+    "options": [
+      "Agricultural sector",
+      "Key sectors",
+      "Textile manufacturing",
+      "Pharmaceutical research"
+    ],
+    "correctAnswer": "Key sectors"
   },
   {
     "id": 15,
-    "question": "What was the primary concern raised by the Bombay High Court's Goa bench regarding the SIR exercise conducted by the Election Commission?",
-    "options": ["Lack of funding", "Delays in publication", "Unjustified voter deletions", "Insufficient security during the process"],
-    "correctAnswer": "Unjustified voter deletions"
+    "question": "Which national body recently issued safety guidelines to improve monitoring of app-based and digital transport services for women passengers across India, including in Telangana and Andhra Pradesh?",
+    "options": [
+      "Ministry of Road Transport and Highways",
+      "National Commission for Women",
+      "Bureau of Indian Standards",
+      "All India Council for Technical Education"
+    ],
+    "correctAnswer": "National Commission for Women"
   },
   {
     "id": 16,
-    "question": "The ongoing controversies regarding voter lists and Form 6 highlight the foundational importance of what aspect for a free and fair electoral process in India?",
-    "options": ["Party funding", "Candidate advertisements", "Accurate and inclusive electoral rolls", "Public debates"],
-    "correctAnswer": "Accurate and inclusive electoral rolls"
+    "question": "What is one of the key safety measures included in the National Commission for Women's guidelines for app-based transport services?",
+    "options": [
+      "Mandatory installation of dashcams",
+      "Verification of drivers' background and identification",
+      "Exclusive women-only services",
+      "Reduction of fares for late-night travel"
+    ],
+    "correctAnswer": "Verification of drivers' background and identification"
   },
   {
     "id": 17,
-    "question": "Which national body officially fact-checked and deemed Rahul Gandhi's post regarding Form 6 as 'misleading'?",
-    "options": ["Press Information Bureau", "Election Commission of India", "Supreme Court", "Ministry of Law and Justice"],
-    "correctAnswer": "Election Commission of India"
+    "question": "The NCW guidelines for app-based transport services also addressed issues related to unauthorized changes in what aspects, particularly during late-night travel?",
+    "options": [
+      "Route planning",
+      "Fare structure",
+      "Drivers or vehicles",
+      "Payment methods"
+    ],
+    "correctAnswer": "Drivers or vehicles"
   },
   {
     "id": 18,
-    "question": "A core principle reaffirmed by the Supreme Court regarding the Election Commission's duty is its responsibility to ensure what for Indian citizens?",
-    "options": ["Free legal aid", "Right to information", "Inclusion in the final voter list", "Access to public healthcare"],
-    "correctAnswer": "Inclusion in the final voter list"
+    "question": "To enhance safety for women, what did the National Commission for Women encourage app-based transport aggregators to create?",
+    "options": [
+      "A national database of passengers",
+      "A verified pool of women drivers",
+      "New luxury transport options",
+      "More stringent cancellation policies"
+    ],
+    "correctAnswer": "A verified pool of women drivers"
   },
   {
     "id": 19,
-    "question": "The numerous controversies surrounding the Election Commission, CEC, and voter lists can potentially impact public trust in which democratic process?",
-    "options": ["Judicial appointments", "Parliamentary debates", "Electoral fairness and integrity", "Budget formulation"],
-    "correctAnswer": "Electoral fairness and integrity"
+    "question": "The primary focus of the new guidelines issued by the National Commission for Women is on ensuring what for women passengers?",
+    "options": [
+      "Affordability",
+      "Speed and efficiency",
+      "Safety",
+      "Comfort"
+    ],
+    "correctAnswer": "Safety"
   },
   {
     "id": 20,
-    "question": "The news mentions a common pre-election challenge faced by political parties, especially in alliance formations, regarding what issue?",
-    "options": ["Manifesto drafting", "Candidate selection", "Seat-sharing arrangements", "Fundraising strategies"],
-    "correctAnswer": "Seat-sharing arrangements"
+    "question": "Which Supreme Court Justice recently stated that 'compassion in judging is not favour or leniency'?",
+    "options": [
+      "Justice Ujjal Bhuyan",
+      "Justice Vikram Nath",
+      "Justice Rohinton Fali Nariman",
+      "Ex-CJI BR Gavai"
+    ],
+    "correctAnswer": "Justice Vikram Nath"
   },
   {
     "id": 21,
-    "question": "According to External Affairs Minister S Jaishankar, despite the current global state of 'flux,' what is his outlook for India?",
-    "options": ["India will face decline", "India will remain stagnant", "India will rise to challenges", "India will isolate itself"],
-    "correctAnswer": "India will rise to challenges"
+    "question": "Justice Vikram Nath delivered his remarks on 'compassion in judging' at which annual lecture?",
+    "options": [
+      "Dr. APJ Abdul Kalam Memorial Lecture",
+      "Prof. (Dr) N R Madhava Menon Memorial Lecture",
+      "Gandhi Peace Foundation Lecture",
+      "Indian Law Institute Annual Address"
+    ],
+    "correctAnswer": "Prof. (Dr) N R Madhava Menon Memorial Lecture"
   },
   {
     "id": 22,
-    "question": "Which High Court's bench recently criticized the Election Commission concerning voter deletions during the SIR exercise?",
-    "options": ["Delhi High Court", "Calcutta High Court", "Bombay High Court (Goa bench)", "Madras High Court"],
-    "correctAnswer": "Bombay High Court (Goa bench)"
+    "question": "What was the specific theme of the memorial lecture where Justice Vikram Nath spoke about judging with compassion?",
+    "options": [
+      "Law and Society: A Contemporary Perspective",
+      "Human Rights in the 21st Century",
+      "Judging with Compassion: Human Understanding in the Practice of Law",
+      "The Future of Judiciary in India"
+    ],
+    "correctAnswer": "Judging with Compassion: Human Understanding in the Practice of Law"
   },
   {
     "id": 23,
-    "question": "Which national body is primarily responsible for the supervision and control of the preparation of electoral rolls for all elections to Parliament and to the Legislature of every State?",
-    "options": ["Registrar General of India", "Ministry of Home Affairs", "Election Commission of India", "Department of Electoral Reforms"],
-    "correctAnswer": "Election Commission of India"
+    "question": "According to Justice Vikram Nath, what must courts ensure does not overshadow the human realities of those involved in a case?",
+    "options": [
+      "Public opinion",
+      "Political pressures",
+      "Legal principles",
+      "Media scrutiny"
+    ],
+    "correctAnswer": "Legal principles"
   },
   {
     "id": 24,
-    "question": "The opposition's demand for the Chief Election Commissioner's removal intensified following what specific event?",
-    "options": ["A budget announcement", "A Supreme Court clarification on Form 6", "A major international summit", "A state election result"],
-    "correctAnswer": "A Supreme Court clarification on Form 6"
+    "question": "The views expressed by Justice Vikram Nath on 'compassion in judging' are broadly relevant to which aspect of the legal system in all Indian states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Legislative drafting",
+      "Police investigations",
+      "Judicial practice and decision-making",
+      "Legal aid services"
+    ],
+    "correctAnswer": "Judicial practice and decision-making"
   },
   {
     "id": 25,
-    "question": "Which major national opposition party initiated the 'Vote Bachao, Desh Bachao' campaign?",
-    "options": ["Bahujan Samaj Party", "Nationalist Congress Party", "Indian National Congress", "Trinamool Congress"],
-    "correctAnswer": "Indian National Congress"
+    "question": "The Supreme Court's scrutiny over the Election Commission's decision-making on voter lists (SIR) is essential to uphold the integrity of which fundamental process in Indian democracy, particularly significant for states with upcoming elections?",
+    "options": [
+      "Legislative debates",
+      "Electoral process",
+      "Judicial appointments",
+      "Budget allocation"
+    ],
+    "correctAnswer": "Electoral process"
   }
 ]

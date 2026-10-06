@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which messaging platform, founded by Jack Dorsey, was recently taken off Indian app stores?",
-    "options": ["WhatsApp", "Telegram", "Signal", "Bitchat"],
-    "correctAnswer": "Bitchat"
+    "question": "What central agency recently uncovered a large-scale bribe racket involving top executives from PSUs and banks across India?",
+    "options": ["CBI", "ED", "NIA", "Income Tax Department"],
+    "correctAnswer": "ED"
   },
   {
     "id": 2,
-    "question": "What was the primary reason cited for Bitchat's removal from Indian app stores?",
-    "options": ["Data privacy concerns", "Law-and-order concerns", "Market competition issues", "Technical glitches"],
-    "correctAnswer": "Law-and-order concerns"
+    "question": "The recent bribe racket unearthed by the ED involved the laundering of which specific type of funds?",
+    "options": ["Export earnings", "Corporate Social Responsibility (CSR) funds", "Foreign direct investment", "Government grants"],
+    "correctAnswer": "Corporate Social Responsibility (CSR) funds"
   },
   {
     "id": 3,
-    "question": "Which prominent tech personality is associated with the messaging app Bitchat, recently removed from Indian app stores?",
-    "options": ["Mark Zuckerberg", "Elon Musk", "Jack Dorsey", "Sundar Pichai"],
-    "correctAnswer": "Jack Dorsey"
+    "question": "Through what means were CSR funds laundered in the bribe racket uncovered by the ED?",
+    "options": ["Offshore accounts", "Cryptocurrency transactions", "Multiple trusts operated by a fake doctor", "Hawala networks"],
+    "correctAnswer": "Multiple trusts operated by a fake doctor"
   },
   {
     "id": 4,
-    "question": "Which Indian pilot was honored by the US House of Representatives for his courageous actions?",
-    "options": ["Captain Vikram Batra", "Captain Rakesh Sharma", "Captain Smit Machchhar", "Captain Gopinath"],
-    "correctAnswer": "Captain Smit Machchhar"
+    "question": "Approximately how many public sector undertakings (PSUs) and banks were implicated in the bribe racket unearthed by the Enforcement Directorate?",
+    "options": ["Around 10", "At least 20", "At least 40", "Over 50"],
+    "correctAnswer": "At least 40"
   },
   {
     "id": 5,
-    "question": "Captain Smit Machchhar was honored for his actions while flying for which airline?",
-    "options": ["Emirates", "Qatar Airways", "Flydubai", "Etihad Airways"],
-    "correctAnswer": "Flydubai"
+    "question": "What profession was impersonated by the individual operating multiple trusts for money laundering in the ED's recent investigation?",
+    "options": ["Lawyer", "Chartered Accountant", "Doctor", "Engineer"],
+    "correctAnswer": "Doctor"
   },
   {
     "id": 6,
-    "question": "The US House resolution honored Captain Smit Machchhar for defending his aircraft against an act by whom?",
-    "options": ["A passenger", "A security personnel", "His co-pilot", "An external threat"],
-    "correctAnswer": "His co-pilot"
+    "question": "The Election Commission recently declined to meet opposition MPs at which specific location?",
+    "options": ["EC Headquarters", "Parliament House annexe", "Sansad Bhavan", "Vigyan Bhavan"],
+    "correctAnswer": "Parliament House annexe"
   },
   {
     "id": 7,
-    "question": "The flight involving Captain Smit Machchhar safely reached which city in Saudi Arabia?",
-    "options": ["Riyadh", "Jeddah", "Tabuk", "Dammam"],
-    "correctAnswer": "Tabuk"
+    "question": "The Election Commission stated its preference for meetings with political parties to occur on which premises?",
+    "options": ["Parliament House", "Supreme Court", "Its own premises", "Prime Minister's Office"],
+    "correctAnswer": "Its own premises"
   },
   {
     "id": 8,
-    "question": "Besides Captain Machchhar, whose vital contributions were acknowledged in the US House resolution regarding the incident?",
-    "options": ["Airport ground staff", "Air traffic controllers", "Off-duty pilots and crew members", "Security agencies"],
-    "correctAnswer": "Off-duty pilots and crew members"
-  },
-  {
-    "id": 9,
-    "question": "Which prominent Congress leaders were involved in a protest near the Election Commission's office?",
-    "options": ["Mallikarjun Kharge and Sonia Gandhi", "Rahul Gandhi and Priyanka Gandhi Vadra", "Digvijaya Singh and Shashi Tharoor", "Kapil Sibal and P. Chidambaram"],
-    "correctAnswer": "Rahul Gandhi and Priyanka Gandhi Vadra"
-  },
-  {
-    "id": 10,
-    "question": "The protest led by Rahul and Priyanka Gandhi was primarily aimed at questioning whom?",
-    "options": ["The Prime Minister", "The Chief Election Commissioner", "The Home Minister", "The Supreme Court Chief Justice"],
-    "correctAnswer": "The Chief Election Commissioner"
-  },
-  {
-    "id": 11,
-    "question": "What were the alleged concerns raised by the protesting leaders regarding the Election Commission?",
-    "options": ["Funding discrepancies", "Electoral irregularities", "Lack of digital infrastructure", "Slow pace of reforms"],
-    "correctAnswer": "Electoral irregularities"
-  },
-  {
-    "id": 12,
-    "question": "Near which significant Indian institution did Rahul and Priyanka Gandhi stage their protest?",
-    "options": ["Parliament House", "Supreme Court", "Election Commission's office", "Prime Minister's Office"],
-    "correctAnswer": "Election Commission's office"
-  },
-  {
-    "id": 13,
-    "question": "What action did the police take during the protest by opposition leaders near the Election Commission?",
-    "options": ["Issued a warning", "Detained several leaders", "Blocked traffic", "Initiated a dialogue"],
-    "correctAnswer": "Detained several leaders"
-  },
-  {
-    "id": 14,
-    "question": "What was the Election Commission's official statement regarding a meeting request from the protesting party?",
-    "options": ["Meeting scheduled for next week", "Request denied due to security reasons", "No meeting request received from any party", "Awaiting official written request"],
-    "correctAnswer": "No meeting request received from any party"
-  },
-  {
-    "id": 15,
-    "question": "Which political alliance was mentioned as part of the march to the Election Commission office?",
-    "options": ["NDA", "UPA", "INDIA bloc", "Mahagathbandhan"],
+    "question": "Which political bloc led the protest march to the Election Commission, which was stopped near Akashvani Bhavan?",
+    "options": ["NDA", "UPA", "INDIA bloc", "Third Front"],
     "correctAnswer": "INDIA bloc"
   },
   {
+    "id": 9,
+    "question": "Who led the opposition MPs in their protest march to the Election Commission, as mentioned in recent news?",
+    "options": ["Mallikarjun Kharge", "Sonia Gandhi", "Rahul Gandhi", "Priyanka Gandhi"],
+    "correctAnswer": "Rahul Gandhi"
+  },
+  {
+    "id": 10,
+    "question": "What did the Election Commission propose as an alternative to a full meeting with opposition MPs at their chosen venue?",
+    "options": ["A video conference", "Submitting a memorandum through authorized representatives", "Meeting individually with party leaders", "Delaying the meeting indefinitely"],
+    "correctAnswer": "Submitting a memorandum through authorized representatives"
+  },
+  {
+    "id": 11,
+    "question": "How many years of public service (as Chief Minister and Prime Minister) by Narendra Modi were recognized in a recent Cabinet resolution?",
+    "options": ["15 years", "20 years", "25 years", "30 years"],
+    "correctAnswer": "25 years"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following initiatives was mentioned in the Cabinet resolution as improving governance and service delivery under PM Modi's leadership?",
+    "options": ["MNREGA", "SWAGAT and PRAGATI", "PDS", "Make in India"],
+    "correctAnswer": "SWAGAT and PRAGATI"
+  },
+  {
+    "id": 13,
+    "question": "The Cabinet resolution highlighted PM Modi's governance style through policies that primarily benefited which segment of the population?",
+    "options": ["Only industrialists", "Only government employees", "The common man", "Only the urban population"],
+    "correctAnswer": "The common man"
+  },
+  {
+    "id": 14,
+    "question": "The Cabinet resolution noted that PM Modi's welfare schemes helped millions escape what condition?",
+    "options": ["Illiteracy", "Unemployment", "Poverty", "Debt"],
+    "correctAnswer": "Poverty"
+  },
+  {
+    "id": 15,
+    "question": "Which aspect of society was specifically mentioned as being empowered by PM Modi's initiatives in the recent Cabinet resolution?",
+    "options": ["Youth", "Senior citizens", "Women", "Farmers"],
+    "correctAnswer": "Women"
+  },
+  {
     "id": 16,
-    "question": "Who is the Chief Election Commissioner whose actions were questioned by opposition leaders during their protest?",
-    "options": ["Om Prakash Rawat", "Sunil Arora", "Rajiv Kumar", "Gyanesh Kumar"],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "What is the proposed name of the new body approved by the Cabinet to bring roads, rail, ports, and aviation under one planning framework?",
+    "options": ["National Infrastructure Authority", "Integrated Transport and Logistics Authority (ITLA)", "Ministry of Multi-modal Transport", "Indian Logistics Board"],
+    "correctAnswer": "Integrated Transport and Logistics Authority (ITLA)"
   },
   {
     "id": 17,
-    "question": "The Ministry of External Affairs (MEA) recently condemned attacks on which group, as per the evening news wrap?",
-    "options": ["Diplomatic staff", "Indian tourists abroad", "Indian seafarers", "Border security forces"],
-    "correctAnswer": "Indian seafarers"
+    "question": "The newly approved Integrated Transport and Logistics Authority (ITLA) will oversee projects exceeding what financial threshold?",
+    "options": ["Rs 100 crore", "Rs 250 crore", "Rs 500 crore", "Rs 1000 crore"],
+    "correctAnswer": "Rs 500 crore"
   },
   {
     "id": 18,
-    "question": "What significant leadership change was noted for the Indian Air Force (IAF) in recent news?",
-    "options": ["A new chief was appointed", "The term of the current chief was extended", "A new training academy was inaugurated", "A major policy shift was announced"],
-    "correctAnswer": "A new chief was appointed"
+    "question": "What is one of the primary goals of the Integrated Transport and Logistics Authority (ITLA) regarding different transport ministries?",
+    "options": ["To merge them", "To improve coordination among them", "To reduce their budgets", "To centralize all operations under one ministry"],
+    "correctAnswer": "To improve coordination among them"
   },
   {
     "id": 19,
-    "question": "According to a recent report on 'The India Mood', which country leads in consumer confidence?",
-    "options": ["USA", "China", "India", "Germany"],
-    "correctAnswer": "India"
+    "question": "What kind of plan is ITLA tasked with developing for India's transport sector?",
+    "options": ["A five-year plan", "A comprehensive National Transport Master Plan", "An annual project outline", "A regional development plan"],
+    "correctAnswer": "A comprehensive National Transport Master Plan"
   },
   {
     "id": 20,
-    "question": "Despite high consumer confidence, what significant worries do Indians express about their careers?",
-    "options": ["High taxation rates", "Lack of innovation", "Unemployment and education quality", "Poor work-life balance"],
-    "correctAnswer": "Unemployment and education quality"
+    "question": "What is the projected time horizon for the National Transport Master Plan to be developed by ITLA?",
+    "options": ["Five years", "Seven years", "Ten years", "Fifteen years"],
+    "correctAnswer": "Ten years"
   },
   {
     "id": 21,
-    "question": "What overall sentiment do many Indians hold regarding the country's direction, according to 'The India Mood' report?",
-    "options": ["It's on the wrong track", "It's stagnant", "It's on the right track", "It's uncertain"],
-    "correctAnswer": "It's on the right track"
+    "question": "What will the Integrated Transport and Logistics Authority (ITLA) establish to aid in project assessment?",
+    "options": ["A dedicated project funding body", "A unified transport data repository", "An international consultancy panel", "A public feedback portal"],
+    "correctAnswer": "A unified transport data repository"
   },
   {
     "id": 22,
-    "question": "The 'India Mood' report highlights a disconnect between economic optimism and which other factor?",
-    "options": ["Political stability", "Environmental concerns", "Job security", "Technological advancement"],
-    "correctAnswer": "Job security"
+    "question": "What specific type of integration is ITLA expected to ensure among transport sectors?",
+    "options": ["Financial integration", "Regulatory integration", "Multi-modal integration", "Workforce integration"],
+    "correctAnswer": "Multi-modal integration"
   },
   {
     "id": 23,
-    "question": "What was the police's initial attempt to stop the INDIA bloc's march to the Election Commission described as?",
-    "options": ["A peaceful negotiation", "A strict warning", "A surprise maneuver called 'Dhappa'", "A formal barricade"],
-    "correctAnswer": "A surprise maneuver called 'Dhappa'"
+    "question": "Which of the following sectors will NOT be directly overseen by the new Integrated Transport and Logistics Authority (ITLA)?",
+    "options": ["Roads", "Rail", "Ports", "Telecommunications"],
+    "correctAnswer": "Telecommunications"
   },
   {
     "id": 24,
-    "question": "Who, alongside Rahul Gandhi, was noted for giving the INDIA bloc protest an 'unexpected second act' after police intervention?",
-    "options": ["Sonia Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi Vadra", "Akhilesh Yadav"],
-    "correctAnswer": "Priyanka Gandhi Vadra"
+    "question": "The approval for the establishment of the Integrated Transport and Logistics Authority (ITLA) was given by which government body?",
+    "options": ["Parliament", "Supreme Court", "Cabinet", "NITI Aayog"],
+    "correctAnswer": "Cabinet"
   },
   {
     "id": 25,
-    "question": "What did the Congress leaders demand to discuss with the Election Commission officials?",
-    "options": ["Upcoming election dates", "Alleged electoral irregularities", "Budget allocation for elections", "Security arrangements for polling booths"],
-    "correctAnswer": "Alleged electoral irregularities"
+    "question": "The establishment of ITLA aims to improve planning for various infrastructure projects to enhance what aspect?",
+    "options": ["Inter-state political relations", "Security protocols", "Environmental impact assessments", "Overall project efficiency and coordination"],
+    "correctAnswer": "Overall project efficiency and coordination"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Union Cabinet recently approved the creation of the Integrated Transport and Logistics Authority (ITLA) for better planning of infrastructure across India. Which of the following sectors will this new authority oversee, impacting potential projects in states like Andhra Pradesh and Telangana?",
-    "options": ["Only road and rail networks", "Roads, rail, ports, and aviation", "Waterways and pipelines", "Urban public transport and telecommunications"],
-    "correctAnswer": "Roads, rail, ports, and aviation"
+    "question": "Which former Chief Minister was accused by H.D. Kumaraswamy of being forced to resign due to a 'sting operation' involving D.K. Shivakumar?",
+    "options": ["Siddaramaiah", "Basavaraj Bommai", "B.S. Yeddyurappa", "H.D. Deve Gowda"],
+    "correctAnswer": "Siddaramaiah"
   },
   {
     "id": 2,
-    "question": "The newly approved Integrated Transport and Logistics Authority (ITLA) is tasked with overseeing projects exceeding a certain monetary value. What is this minimum project cost that will fall under ITLA's purview, relevant for large-scale infrastructure in states like Andhra Pradesh and Telangana?",
-    "options": ["Rs 100 crore", "Rs 250 crore", "Rs 500 crore", "Rs 1000 crore"],
-    "correctAnswer": "Rs 500 crore"
+    "question": "The news mentions a 'sting operation' charge by H.D. Kumaraswamy against D.K. Shivakumar concerning the resignation of a former CM. In which Indian state did this political event unfold?",
+    "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+    "correctAnswer": "Karnataka"
   },
   {
     "id": 3,
-    "question": "One of the key mandates of the Integrated Transport and Logistics Authority (ITLA) is to develop a comprehensive National Transport Master Plan. What is the intended time horizon for this master plan, crucial for long-term infrastructure development in states including Telangana and Andhra Pradesh?",
-    "options": ["Five-year horizon", "Seven-year horizon", "Ten-year horizon", "Fifteen-year horizon"],
-    "correctAnswer": "Ten-year horizon"
+    "question": "Who is the current Deputy Chief Minister of Karnataka, implicated in a 'sting operation' charge by H.D. Kumaraswamy?",
+    "options": ["H.D. Kumaraswamy", "Siddaramaiah", "D.K. Shivakumar", "Basavaraj Bommai"],
+    "correctAnswer": "D.K. Shivakumar"
   },
   {
     "id": 4,
-    "question": "What is a primary objective of the Integrated Transport and Logistics Authority (ITLA) in India, which will promote efficient movement of goods and people across regions including Andhra Pradesh and Telangana?",
-    "options": ["To privatize all public transport", "To reduce environmental impact of transport", "To improve coordination among transport ministries and ensure multi-modal integration", "To focus solely on rural road development"],
-    "correctAnswer": "To improve coordination among transport ministries and ensure multi-modal integration"
+    "question": "The Biju Janata Dal (BJD) participated in the INDIA bloc's protest against the Chief Election Commissioner but stated its commitment to what?",
+    "options": ["Forming a new alliance", "Staying neutral between BJP and its rivals", "Joining the INDIA bloc officially", "Leading the opposition"],
+    "correctAnswer": "Staying neutral between BJP and its rivals"
   },
   {
     "id": 5,
-    "question": "The Enforcement Directorate (ED) recently unearthed a bribery racket involving top executives from various public sector undertakings and banks across India. Which specific type of corporate funds were allegedly laundered through this scheme, potentially affecting companies operating in Telangana and Andhra Pradesh?",
-    "options": ["Employee provident funds", "Corporate Social Responsibility (CSR) funds", "Shareholder dividends", "Pension funds"],
-    "correctAnswer": "Corporate Social Responsibility (CSR) funds"
+    "question": "Which regional political party, led by Naveen Patnaik, recently engaged in a protest against the Chief Election Commissioner in New Delhi?",
+    "options": ["Trinamool Congress (TMC)", "Biju Janata Dal (BJD)", "Dravida Munnetra Kazhagam (DMK)", "Telugu Desam Party (TDP)"],
+    "correctAnswer": "Biju Janata Dal (BJD)"
   },
   {
     "id": 6,
-    "question": "The bribe racket uncovered by the Enforcement Directorate (ED) involved a 'fake doctor' operating multiple trusts. For how many decades had this individual allegedly been impersonating a medical professional while receiving substantial donations?",
-    "options": ["One decade", "Two decades", "Three decades", "Four decades"],
-    "correctAnswer": "Three decades"
+    "question": "Naveen Patnaik's party stated its intention to stay away from a bandh (strike) in its home state, even while joining a national protest. Which state is associated with Naveen Patnaik and the BJD?",
+    "options": ["West Bengal", "Odisha", "Bihar", "Assam"],
+    "correctAnswer": "Odisha"
   },
   {
     "id": 7,
-    "question": "The Enforcement Directorate's investigation revealed a bribery racket involving top executives from approximately how many public sector undertakings (PSUs) and banks?",
-    "options": ["Around 10", "Around 20", "Around 30", "Around 40"],
-    "correctAnswer": "Around 40"
+    "question": "The BJD's recent actions, including participating in a national protest while maintaining neutrality, are seen by political analysts as an attempt to preserve its sway in which state?",
+    "options": ["Chhattisgarh", "Jharkhand", "Odisha", "Telangana"],
+    "correctAnswer": "Odisha"
   },
   {
     "id": 8,
-    "question": "What was the mechanism used in the recently unearthed bribe racket to return funds to donors after deducting commissions?",
-    "options": ["Direct bank transfers via digital platforms", "Physical cash payouts", "Through multiple trusts operated by a fake doctor", "Via cryptocurrency transactions"],
-    "correctAnswer": "Through multiple trusts operated by a fake doctor"
+    "question": "Who is the leader of the Samajwadi Party who recently made a comment about not attending an INDIA bloc lunch hosted by Mallikarjun Kharge?",
+    "options": ["Mayawati", "Akhilesh Yadav", "Mulayam Singh Yadav", "Priyanka Gandhi"],
+    "correctAnswer": "Akhilesh Yadav"
   },
   {
     "id": 9,
-    "question": "India's National Security Advisor recently hosted his Canadian counterpart for discussions on security issues to strengthen bilateral relations. Who is India's current NSA?",
-    "options": ["Ajit Doval", "P.K. Mishra", "G.K. Pillai", "Shivshankar Menon"],
-    "correctAnswer": "Ajit Doval"
+    "question": "Mallikarjun Kharge is mentioned as hosting an INDIA bloc lunch that a prominent leader did not attend. Which political position does Mallikarjun Kharge currently hold?",
+    "options": ["Prime Minister of India", "Leader of Opposition in Rajya Sabha", "President of the Indian National Congress", "Speaker of Lok Sabha"],
+    "correctAnswer": "President of the Indian National Congress"
   },
   {
     "id": 10,
-    "question": "What was the primary focus of the recent high-level discussions between the National Security Advisors of India and Canada?",
-    "options": ["Economic trade agreements", "Cultural exchange programs", "Security cooperation", "Educational partnerships"],
-    "correctAnswer": "Security cooperation"
+    "question": "Which country's government expressed backing for India's Ukraine peace push and thanked New Delhi for its readiness to broker solutions?",
+    "options": ["United States", "France", "Russia", "Germany"],
+    "correctAnswer": "Russia"
   },
   {
     "id": 11,
-    "question": "Apart from the NSA, which Canadian minister was also scheduled to visit India later this month, indicating continued diplomatic engagement?",
-    "options": ["Minister of Finance, Chrystia Freeland", "Minister of Innovation, Science and Industry, François-Philippe Champagne", "Foreign Minister, Anita Anand", "Minister of National Defence, Bill Blair"],
-    "correctAnswer": "Foreign Minister, Anita Anand"
+    "question": "India has been acknowledged by the Kremlin for its readiness to broker solutions in which ongoing international conflict?",
+    "options": ["Israel-Palestine conflict", "Nagorno-Karabakh conflict", "Ukraine conflict", "South China Sea dispute"],
+    "correctAnswer": "Ukraine conflict"
   },
   {
     "id": 12,
-    "question": "The Election Commission of India recently declined a meeting with opposition MPs at their chosen venue. Where did the Commission emphasize that meetings with political parties should occur?",
-    "options": ["At Parliament House annexe", "At the Prime Minister's Office", "On the Election Commission's premises", "At a neutral third-party venue"],
-    "correctAnswer": "On the Election Commission's premises"
+    "question": "Opposition MPs, including Rahul Gandhi, continued protests against which key election official in India?",
+    "options": ["Chief Justice of India", "Chief Election Commissioner", "Comptroller and Auditor General", "Attorney General of India"],
+    "correctAnswer": "Chief Election Commissioner"
   },
   {
     "id": 13,
-    "question": "Which prominent political leader led the opposition MPs from the INDIA bloc in their protest march towards the Election Commission?",
-    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "Mamata Banerjee", "Arvind Kejriwal"],
+    "question": "The BJP accused the Leader of Opposition (LoP) of working with 'anti-social elements' amidst protests against the Chief Election Commissioner. Who is referred to as leading opposition protests in this context?",
+    "options": ["Sonia Gandhi", "Mallikarjun Kharge", "Rahul Gandhi", "Adhir Ranjan Chowdhury"],
     "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 14,
-    "question": "The opposition's recent march to the Election Commission was organized by which political alliance in India?",
-    "options": ["National Democratic Alliance (NDA)", "United Progressive Alliance (UPA)", "INDIA bloc", "Left Front"],
-    "correctAnswer": "INDIA bloc"
+    "question": "The news highlights the return of street protests in India with a 'new playbook.' Which of the following is NOT described as a characteristic of these new protests?",
+    "options": ["Younger voices", "Looser networks", "Reliance solely on traditional media", "Social media and viral slogans"],
+    "correctAnswer": "Reliance solely on traditional media"
   },
   {
     "id": 15,
-    "question": "During the opposition's march to the Election Commission, police stopped their procession just before reaching which landmark building?",
-    "options": ["Rashtrapati Bhavan", "Parliament House", "Akashvani Bhavan", "Supreme Court of India"],
-    "correctAnswer": "Akashvani Bhavan"
+    "question": "The article mentions new protest strategies like 'vote chori' and 'Chita Andolan'. What is highlighted as a key factor in how these protests spread and draw attention?",
+    "options": ["Exclusive reliance on print media", "Hierarchical organizational structures", "Social media and viral slogans", "Large, centralized funding"],
+    "correctAnswer": "Social media and viral slogans"
   },
   {
     "id": 16,
-    "question": "The Union Cabinet recently adopted a resolution hailing the achievements of Prime Minister Narendra Modi, recognizing his public service as Chief Minister and Prime Minister for how many years?",
-    "options": ["15 years", "20 years", "25 years", "30 years"],
-    "correctAnswer": "25 years"
+    "question": "Meta claimed it proactively found and acted on over 98% of which type of harmful content in India?",
+    "options": ["Hate speech content", "Child abuse content", "Misinformation content", "Terrorist propaganda"],
+    "correctAnswer": "Child abuse content"
   },
   {
     "id": 17,
-    "question": "According to the Cabinet's resolution on PM Modi's achievements, what was a significant impact of his welfare schemes on millions of people across India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Increased foreign investments", "Millions escaped poverty and women were empowered", "Development of smart cities only", "Expansion of military capabilities"],
-    "correctAnswer": "Millions escaped poverty and women were empowered"
+    "question": "How many instances of child abuse content did Meta claim to have acted upon in India, with over 98% found proactively?",
+    "options": ["530,000", "5.3 million", "53 million", "530 million"],
+    "correctAnswer": "5.3 million"
   },
   {
     "id": 18,
-    "question": "Which of the following initiatives was mentioned in the Cabinet resolution as improving governance and service delivery during PM Modi's tenure?",
-    "options": ["MGNREGA and Jan Dhan Yojana", "SWAGAT and PRAGATI", "Make in India and Startup India", "Digital India and Ayushman Bharat"],
-    "correctAnswer": "SWAGAT and PRAGATI"
+    "question": "The Indian government told Meta that it could not continue to invoke its 'intermediary status' and needed to take greater responsibility for what?",
+    "options": ["Data privacy breaches", "Political advertising", "Child sexual abuse material", "Hate speech content"],
+    "correctAnswer": "Child sexual abuse material"
   },
   {
     "id": 19,
-    "question": "The Integrated Transport and Logistics Authority (ITLA) will aim to improve coordination among transport ministries. This objective is particularly vital for states like Andhra Pradesh with its coastal infrastructure and Telangana with its growing logistics hubs to ensure:",
-    "options": ["Reduced bureaucratic oversight", "Increased competition among ministries", "Seamless multi-modal integration", "Prioritization of private sector projects"],
-    "correctAnswer": "Seamless multi-modal integration"
+    "question": "Meta admitted to lapses in dealing with which specific type of content on its platforms after government intervention?",
+    "options": ["Adult content", "Violent content", "Child sexual abuse material", "Intellectual property infringement"],
+    "correctAnswer": "Child sexual abuse material"
   },
   {
     "id": 20,
-    "question": "The Enforcement Directorate (ED) investigation into the bribe racket revealed that funds were laundered through multiple trusts. This scheme involved the fake doctor receiving substantial donations and then returning kickbacks after deducting what?",
-    "options": ["Operational costs", "Taxes and duties", "Commissions", "Charitable contributions"],
-    "correctAnswer": "Commissions"
+    "question": "The recent disclosures by Meta regarding child safety measures come after which entity stressed the need for greater responsibility from social media platforms?",
+    "options": ["Supreme Court of India", "Indian Parliament", "Indian Government", "Cybercrime Investigation Agency"],
+    "correctAnswer": "Indian Government"
   },
   {
     "id": 21,
-    "question": "The new Integrated Transport and Logistics Authority (ITLA) is set to establish a unified transport data repository. This initiative will aid in better project assessment and planning for infrastructure development across all Indian states, including in what specific aspect?",
-    "options": ["Determining funding sources", "Assessing environmental impact only", "Gathering public feedback", "Project assessment and multi-modal integration"],
-    "correctAnswer": "Project assessment and multi-modal integration"
+    "question": "The Ministry of External Affairs (MEA) condemned attacks on seafarers in which specific body of water?",
+    "options": ["Mediterranean Sea", "Arabian Sea", "Black Sea", "South China Sea"],
+    "correctAnswer": "Black Sea"
   },
   {
     "id": 22,
-    "question": "In the context of India's relations with Canada, what type of cooperation did NSA Ajit Doval and his Canadian counterpart David Morrison review and identify areas for further collaboration?",
-    "options": ["Cultural exchange cooperation", "Law enforcement cooperation", "Space research cooperation", "Agricultural trade cooperation"],
-    "correctAnswer": "Law enforcement cooperation"
+    "question": "India's MEA stated that the targeting of what specific activity must end, following condemnation of attacks in the Black Sea?",
+    "options": ["Fishing", "Shipping", "Naval exercises", "Tourism"],
+    "correctAnswer": "Shipping"
   },
   {
     "id": 23,
-    "question": "The Cabinet resolution on PM Modi's achievements highlighted policies that benefited the common man. This emphasis underscores the government's focus on inclusive growth, which extends to citizens in all states, including where?",
-    "options": ["Only large metropolitan areas", "Predominantly Northern states", "All states, including Telangana and Andhra Pradesh", "Primarily states with high industrial output"],
-    "correctAnswer": "All states, including Telangana and Andhra Pradesh"
+    "question": "The 'INDIA bloc' is a significant political development mentioned in the news. What does 'INDIA' stand for in this context?",
+    "options": ["Indian National Development and Inclusive Alliance", "Indian National Democratic International Alliance", "India's New Democratic Initiative for All", "Indian National Development of Integrated Alliance"],
+    "correctAnswer": "Indian National Development and Inclusive Alliance"
   },
   {
     "id": 24,
-    "question": "The bribe racket unearthed by the ED involved a 'fake doctor' who impersonated a medical professional for nearly three decades. This highlights vulnerabilities in which sector, requiring vigilance in all states, including Andhra Pradesh and Telangana?",
-    "options": ["Aviation sector", "Corporate governance and trust regulation", "Telecommunications", "Agricultural supply chains"],
-    "correctAnswer": "Corporate governance and trust regulation"
+    "question": "Protests against the Chief Election Commissioner and discussions around political alliances like the INDIA bloc are examples of which aspect of India's governance?",
+    "options": ["Economic planning", "Judicial review", "Democratic processes", "Foreign relations"],
+    "correctAnswer": "Democratic processes"
   },
   {
     "id": 25,
-    "question": "The Election Commission stated it had not received prior appointment requests from the opposition parties until late in the day. This emphasizes the importance of what procedural aspect for official meetings with constitutional bodies in India?",
-    "options": ["Spontaneous protests", "Formal appointment protocols", "Social media engagement", "Direct ministerial intervention"],
-    "correctAnswer": "Formal appointment protocols"
+    "question": "Which Indian government body is responsible for providing health updates on individuals like Captain Smit Machchhar and condemning international incidents affecting Indian seafarers?",
+    "options": ["Ministry of Home Affairs (MHA)", "Ministry of Defence (MoD)", "Ministry of External Affairs (MEA)", "Ministry of Finance (MoF)"],
+    "correctAnswer": "Ministry of External Affairs (MEA)"
   }
 ]

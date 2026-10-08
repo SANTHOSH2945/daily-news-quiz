@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which country did India recently review its bilateral ties with, aiming to deepen partnership in sectors like trade, defense, and emerging technologies?",
-    "options": ["Uzbekistan", "Kyrgyzstan", "Kazakhstan", "Turkmenistan"],
-    "correctAnswer": "Kazakhstan"
+    "question": "India is set to introduce a national plan focusing on boosting which specific economic sector?",
+    "options": ["Textile manufacturing", "Small-scale fisheries", "Information technology", "Automobile production"],
+    "correctAnswer": "Small-scale fisheries"
   },
   {
     "id": 2,
-    "question": "Who represented India in the recent bilateral relations review with Kazakhstan?",
-    "options": ["S. Jaishankar", "YK Sailas Thangal", "Ajit Doval", "Nirmala Sitharaman"],
-    "correctAnswer": "YK Sailas Thangal"
+    "question": "What is the primary objective of the upcoming national plan in India's fisheries sector?",
+    "options": ["To promote deep-sea mining", "To develop large-scale aquaculture", "To boost small-scale fisheries", "To regulate international fishing treaties"],
+    "correctAnswer": "To boost small-scale fisheries"
   },
   {
     "id": 3,
-    "question": "The recent meeting between Indian and Kazakh officials followed discussions between their leaders at which international summit?",
-    "options": ["G7 Summit", "BRICS Summit", "SCO Summit", "ASEAN Summit"],
-    "correctAnswer": "BRICS Summit"
+    "question": "The new national plan for fisheries is expected to primarily benefit which group within the sector?",
+    "options": ["Large corporate fishing companies", "Recreational anglers", "Small-scale fishers and communities", "Seafood exporters"],
+    "correctAnswer": "Small-scale fishers and communities"
   },
   {
     "id": 4,
-    "question": "Which Indian subscription service is distributing Rs 1 lakh reward envelopes across vending machines?",
-    "options": ["Amazon Prime", "Flipkart Plus", "Times Prime", "Myntra Insider"],
-    "correctAnswer": "Times Prime"
+    "question": "Which Indian state, known for its extensive coastline, is likely to significantly benefit from a national plan to boost small-scale fisheries?",
+    "options": ["Punjab", "Rajasthan", "Andhra Pradesh", "Uttar Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 5,
-    "question": "Times Prime has partnered with which vending machine company for its Rs 1 lakh reward campaign?",
-    "options": ["Vendify", "InstaSnack", "Daalchini", "QuickBites"],
-    "correctAnswer": "Daalchini"
+    "question": "A national plan targeting inland water bodies and reservoirs could greatly benefit which landlocked South Indian state's fishing communities?",
+    "options": ["Kerala", "Telangana", "Karnataka", "Goa"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 6,
-    "question": "How many Daalchini vending machines are involved in Times Prime's recent reward envelope rollout?",
-    "options": ["1,000", "2,500", "5,000", "10,000"],
-    "correctAnswer": "5,000"
+    "question": "The government's initiative to boost small-scale fisheries reflects its recognition of the importance of what?",
+    "options": ["Industrial farming", "Traditional livelihoods and food security", "Space exploration", "Military advancements"],
+    "correctAnswer": "Traditional livelihoods and food security"
   },
   {
     "id": 7,
-    "question": "Which prominent personality stated, 'I have not come here for regime change,' during a CJP protest?",
-    "options": ["Ravish Kumar", "Dhruv Rathee", "Faye D'Souza", "Barkha Dutt"],
-    "correctAnswer": "Dhruv Rathee"
+    "question": "What kind of plan is India developing to enhance the output and welfare of traditional fishing communities?",
+    "options": ["State-specific fishing bans", "A national strategy for fisheries", "International trade agreements only", "Research into marine biology"],
+    "correctAnswer": "A national strategy for fisheries"
   },
   {
     "id": 8,
-    "question": "In which Indian city did Dhruv Rathee make statements during a CJP protest regarding his intentions?",
-    "options": ["Mumbai", "Chennai", "Hyderabad", "Bengaluru"],
-    "correctAnswer": "Bengaluru"
+    "question": "The emphasis on 'small-scale' in the national fisheries plan suggests a focus on what aspect of the industry?",
+    "options": ["Large trawlers", "Subsistence and artisanal fishing", "Automated processing plants", "Offshore oil rigs"],
+    "correctAnswer": "Subsistence and artisanal fishing"
   },
   {
     "id": 9,
-    "question": "What kind of event was Dhruv Rathee participating in when he made comments about not seeking 'regime change'?",
-    "options": ["Political rally", "Charity drive", "CJP protest", "Media conference"],
-    "correctAnswer": "CJP protest"
+    "question": "What is the general scope of the upcoming national plan regarding India's fisheries?",
+    "options": ["Limiting all fishing activities", "Boosting a specific sub-sector nationally", "Promoting only ornamental fish farming", "Importing more seafood"],
+    "correctAnswer": "Boosting a specific sub-sector nationally"
   },
   {
     "id": 10,
-    "question": "India recently condemned an attack on civilian infrastructure in Riyadh. Which group was primarily responsible for this attack?",
-    "options": ["Al-Qaeda", "ISIS", "Houthis", "Taliban"],
-    "correctAnswer": "Houthis"
+    "question": "Why might a national plan for fisheries be particularly relevant for states like Andhra Pradesh and Telangana?",
+    "options": ["They have no fishing activity", "They have significant coastal and inland fishing communities", "They specialize in deep-sea mining", "They are major exporters of textiles"],
+    "correctAnswer": "They have significant coastal and inland fishing communities"
   },
   {
     "id": 11,
-    "question": "The attack condemned by India as 'unacceptable' targeted airports in which city?",
-    "options": ["Dubai", "Abu Dhabi", "Riyadh", "Doha"],
-    "correctAnswer": "Riyadh"
+    "question": "A new law has come into force mandating a quota for which service in senior posts of the CAPF?",
+    "options": ["IAS", "IFS", "IPS", "IRS"],
+    "correctAnswer": "IPS"
   },
   {
     "id": 12,
-    "question": "India's condemnation of the attack on Riyadh airports emphasized the unacceptable nature of targeting what kind of infrastructure?",
-    "options": ["Military bases", "Government buildings", "Civilian infrastructure", "Religious sites"],
-    "correctAnswer": "Civilian infrastructure"
+    "question": "What does the recently enacted CAPF law introduce regarding the leadership structure of these forces?",
+    "options": ["It abolishes all quotas", "It mandates an IPS quota in senior ranks", "It reserves all posts for CAPF cadre officers", "It allows only state police to lead CAPF units"],
+    "correctAnswer": "It mandates an IPS quota in senior ranks"
   },
   {
     "id": 13,
-    "question": "A plea in the Supreme Court has challenged the appointment of which Chief Election Commissioner?",
-    "options": ["Rajiv Kumar", "Om Prakash Rawat", "Gyanesh Kumar", "Sunil Arora"],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "The new CAPF law aims to ensure the participation of officers from which cadre in higher positions within Central Armed Police Forces?",
+    "options": ["Indian Forest Service", "Indian Police Service", "Indian Railway Service", "Indian Foreign Service"],
+    "correctAnswer": "Indian Police Service"
   },
   {
     "id": 14,
-    "question": "The Supreme Court plea challenges the appointment of the CEC and how many other Election Commissioners?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "The CAPF law implies a change in the staffing pattern of senior roles within what type of Indian forces?",
+    "options": ["State Police Forces", "Paramilitary Forces", "Municipal Police", "Private Security Agencies"],
+    "correctAnswer": "Paramilitary Forces"
   },
   {
     "id": 15,
-    "question": "The plea regarding the appointment of Election Commissioners has been filed in which Indian court?",
-    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court", "Calcutta High Court"],
-    "correctAnswer": "Supreme Court"
+    "question": "What is a significant provision of the new law concerning the Central Armed Police Forces?",
+    "options": ["Increased retirement age for all personnel", "A mandated quota for IPS officers in senior positions", "Direct recruitment of senior officers from the private sector", "Abolition of all training academies"],
+    "correctAnswer": "A mandated quota for IPS officers in senior positions"
   },
   {
     "id": 16,
-    "question": "Which Indian male contraceptive method is mentioned in a WHO blueprint for new male contraceptives, having completed Phase 1 and 2 trials?",
-    "options": ["Vasalgel", "RISUG", "ADAM", "M-Pill"],
-    "correctAnswer": "RISUG"
+    "question": "The Indian government is proposing prior approval for advertisements of which specific categories of drugs?",
+    "options": ["Over-the-counter drugs", "Herbal remedies", "Schedule H, H1, and X drugs", "Ayurvedic medicines"],
+    "correctAnswer": "Schedule H, H1, and X drugs"
   },
   {
     "id": 17,
-    "question": "RISUG, an Indian innovation, is associated with the development of which type of medical product?",
-    "options": ["Female contraceptives", "Male contraceptives", "Cancer treatment", "Diabetes medication"],
-    "correctAnswer": "Male contraceptives"
+    "question": "What new regulation is being proposed for the advertising of Schedule H, H1, and X drugs in India?",
+    "options": ["Complete ban on all ads", "Mandatory celebrity endorsements", "Requirement of prior government approval", "Only digital advertising permitted"],
+    "correctAnswer": "Requirement of prior government approval"
   },
   {
     "id": 18,
-    "question": "According to the news, which international organization has developed a blueprint for new male contraceptives, highlighting various approaches?",
-    "options": ["UNICEF", "UNESCO", "WHO", "UNFPA"],
-    "correctAnswer": "WHO"
+    "question": "What is the likely primary objective behind the government's proposal for prior approval of drug advertisements?",
+    "options": ["To increase government revenue", "To protect public health and prevent misleading claims", "To boost pharmaceutical sales", "To promote specific drug brands"],
+    "correctAnswer": "To protect public health and prevent misleading claims"
   },
   {
     "id": 19,
-    "question": "Following a recent PG doctor suicide, the NMC sought a report on harassment allegations at a medical college in which Indian city?",
-    "options": ["Bhopal", "Lucknow", "Indore", "Jaipur"],
-    "correctAnswer": "Indore"
+    "question": "The proposed regulation for drug advertisements targets what stage of promotion for certain critical medicines?",
+    "options": ["Manufacturing", "Distribution", "Pre-publication/broadcast", "Post-sale feedback"],
+    "correctAnswer": "Pre-publication/broadcast"
   },
   {
     "id": 20,
-    "question": "Which national body is investigating harassment allegations at an Indore medical college after a PG doctor's suicide?",
-    "options": ["Medical Council of India (MCI)", "National Medical Commission (NMC)", "Indian Medical Association (IMA)", "Ministry of Health and Family Welfare"],
-    "correctAnswer": "National Medical Commission (NMC)"
+    "question": "The government's proposal to regulate drug ads focuses on drugs that typically require what?",
+    "options": ["No prescription", "Heavy marketing", "A doctor's prescription due to potential risks", "Only international sales"],
+    "correctAnswer": "A doctor's prescription due to potential risks"
   },
   {
     "id": 21,
-    "question": "India expressed support for WHO's new 10-year traditional medicine research agenda. Which health area is NOT explicitly listed as a primary focus?",
-    "options": ["Stroke", "Mental Health", "Cancer", "Cardiac Arrest"],
-    "correctAnswer": "Cardiac Arrest"
+    "question": "Which company, founded by Elon Musk, is facing regulatory hurdles for its satellite internet services in India?",
+    "options": ["Tesla", "SpaceX", "Starlink", "Neuralink"],
+    "correctAnswer": "Starlink"
   },
   {
     "id": 22,
-    "question": "The WHO's 10-year traditional medicine research agenda, supported by India, points out significant underfunding in which areas?",
-    "options": ["Cancer and reproductive health", "Stroke and mental health", "Diabetes and heart disease", "Infectious diseases"],
-    "correctAnswer": "Stroke and mental health"
+    "question": "What type of service does Starlink intend to provide in India, which has been subject to regulatory obstacles?",
+    "options": ["Electric vehicle manufacturing", "High-speed satellite internet", "Space tourism", "Battery storage solutions"],
+    "correctAnswer": "High-speed satellite internet"
   },
   {
     "id": 23,
-    "question": "India's support for the WHO's traditional medicine initiative aims to enhance evidence for its integration into what?",
-    "options": ["Economic policies", "Education system", "Healthcare practices", "Cultural festivals"],
-    "correctAnswer": "Healthcare practices"
+    "question": "Elon Musk voiced exasperation over what regarding Starlink's commercial operations in India?",
+    "options": ["Lack of consumer demand", "Shortage of skilled labor", "Regulatory obstacles and perceived influence of oligarchs", "High import duties on hardware"],
+    "correctAnswer": "Regulatory obstacles and perceived influence of oligarchs"
   },
   {
     "id": 24,
-    "question": "The Delhi High Court recently sought a response regarding a plea for an independent probe in the 'slap' row involving which political figure?",
-    "options": ["Arvind Kejriwal", "Parvesh Verma", "Manish Sisodia", "Gautam Gambhir"],
-    "correctAnswer": "Parvesh Verma"
+    "question": "In response to Elon Musk's remarks, the Indian government emphasized what regarding its regulations for satellite operators?",
+    "options": ["Their exclusivity to domestic companies", "Their flexibility and ad-hoc nature", "Their fairness, security compliance, and importance for data safeguarding", "Their goal to restrict all foreign investment"],
+    "correctAnswer": "Their fairness, security compliance, and importance for data safeguarding"
   },
   {
     "id": 25,
-    "question": "In the context of India's bilateral talks, what type of technologies were discussed with Kazakhstan for enhanced cooperation?",
-    "options": ["Agricultural technologies", "Biotechnology", "Emerging technologies", "Space technologies"],
-    "correctAnswer": "Emerging technologies"
+    "question": "What core concern does the Indian government highlight when discussing regulations for satellite internet operators like Starlink?",
+    "options": ["Maximizing profit for state-owned enterprises", "Ensuring security compliance for users and data", "Preventing competition in the telecom sector", "Promoting terrestrial cable networks"],
+    "correctAnswer": "Ensuring security compliance for users and data"
   }
 ]

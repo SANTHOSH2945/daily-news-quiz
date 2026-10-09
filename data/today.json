@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "At which event did Prime Minister Narendra Modi call for a global effort to address cyber frauds and deepfakes?",
-    "options": ["Digital India Summit", "World Economic Forum", "India Mobile Congress", "G20 Tech Leaders Summit"],
-    "correctAnswer": "India Mobile Congress"
+    "question": "The INDIA bloc recently met President Murmu to raise concerns about electoral integrity. Which constitutional body is primarily responsible for conducting elections and ensuring fairness across all states of India, including Telangana and Andhra Pradesh?",
+    "options": ["Supreme Court", "Election Commission of India", "Parliament", "Prime Minister's Office"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 2,
-    "question": "What two specific issues did PM Modi urge a global effort to address, according to the news?",
-    "options": ["Climate Change and Pollution", "Economic Recession and Inflation", "Cyber Frauds and Deepfakes", "Poverty and Illiteracy"],
-    "correctAnswer": "Cyber Frauds and Deepfakes"
+    "question": "News reports mention the INDIA bloc's allegations of 'vote chori' and demands to repeal assembly polls. If such allegations were made concerning elections in Telangana or Andhra Pradesh, to whom would the primary representation typically be made for investigation?",
+    "options": ["State Governor", "Chief Minister", "Election Commission of India", "High Court of the respective state"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 3,
-    "question": "What did PM Modi highlight as a crucial tool for governance and effective service delivery?",
-    "options": ["Artificial Intelligence", "Blockchain Technology", "Mobile Technology", "Satellite Communication"],
-    "correctAnswer": "Mobile Technology"
+    "question": "President Droupadi Murmu recently received representations from the INDIA bloc MPs regarding electoral concerns. Under the Indian Constitution, what is the primary role of the President in such political representations, affecting all states?",
+    "options": ["To actively investigate the claims", "To immediately dismiss the demands", "To act as a neutral arbiter and Head of State", "To legislate on the demands"],
+    "correctAnswer": "To act as a neutral arbiter and Head of State"
   },
   {
     "id": 4,
-    "question": "PM Modi attributed significant financial savings to which initiative in India?",
-    "options": ["Goods and Services Tax (GST)", "Demonetization", "Digital Direct Benefit Transfers (DBT)", "Make in India Campaign"],
-    "correctAnswer": "Digital Direct Benefit Transfers (DBT)"
+    "question": "Delhi Police cited the need to prevent the city from being 'brought to a halt' as a reason for restrictions on protests. In a democratic country like India, which fundamental right is often balanced against public order and safety during protests, applicable in states like Telangana?",
+    "options": ["Right to Property", "Right to Freedom of Speech and Expression", "Right to Education", "Right to Constitutional Remedies"],
+    "correctAnswer": "Right to Freedom of Speech and Expression"
   },
   {
     "id": 5,
-    "question": "What did PM Modi urge collaboration among governments and tech companies to enhance in the telecom sector?",
-    "options": ["Network Coverage", "Data Speeds", "Security Measures", "Affordability of Services"],
-    "correctAnswer": "Security Measures"
+    "question": "Reports mention allegations of manipulation of electoral rolls. What is the main purpose of electoral rolls in the context of elections in any Indian state, including Andhra Pradesh?",
+    "options": ["To list all citizens for tax purposes", "To identify eligible voters", "To track political party memberships", "To record government employee details"],
+    "correctAnswer": "To identify eligible voters"
   },
   {
     "id": 6,
-    "question": "The India Mobile Congress serves as a platform to discuss advancements primarily in which sector?",
-    "options": ["Automotive", "Healthcare", "Aerospace", "Telecom"],
-    "correctAnswer": "Telecom"
+    "question": "The INDIA bloc MPs demanded the resignation of the Chief Election Commissioner. Who appoints the Chief Election Commissioner of India, a position crucial for electoral integrity across states?",
+    "options": ["Prime Minister", "Chief Justice of India", "President of India", "Speaker of Lok Sabha"],
+    "correctAnswer": "President of India"
   },
   {
     "id": 7,
-    "question": "According to PM Modi, what is a key benefit of mobile technology in the context of government functions?",
-    "options": ["Increased Bureaucracy", "Enhanced Public Transportation", "Effective Governance", "Reduced Tourism"],
-    "correctAnswer": "Effective Governance"
+    "question": "The INDIA bloc demanded the repeal of assembly polls over the last two years. In India, assembly polls are conducted to elect members to which legislative body in states like Telangana and Andhra Pradesh?",
+    "options": ["Rajya Sabha", "Lok Sabha", "State Legislative Assembly", "Municipal Corporation"],
+    "correctAnswer": "State Legislative Assembly"
   },
   {
     "id": 8,
-    "question": "What kind of collaboration did PM Modi stress for strengthening the telecom sector?",
-    "options": ["International trade agreements", "Academic research partnerships", "Government and tech company collaboration", "Public-private infrastructure projects"],
-    "correctAnswer": "Government and tech company collaboration"
+    "question": "While specific 'guarantees' were unveiled for Goa, similar promises are common in election campaigns nationwide. What is the general term for government-funded programs aimed at improving the well-being of the population in states like Andhra Pradesh?",
+    "options": ["Corporate Investments", "Market Subsidies", "Welfare Schemes", "Foreign Aid Programs"],
+    "correctAnswer": "Welfare Schemes"
   },
   {
     "id": 9,
-    "question": "What is one major advantage of Digital Direct Benefit Transfers (DBT) highlighted by the Prime Minister?",
-    "options": ["Increased tax collection", "Reduced administrative costs", "Significant financial savings", "Faster infrastructure development"],
-    "correctAnswer": "Significant financial savings"
+    "question": "News mentions Nagaland exploring partnerships to boost learning in government schools. What is the broader goal of such initiatives to improve education in government schools across Indian states, including Telangana?",
+    "options": ["To reduce private school enrollment", "To enhance learning outcomes and employability", "To replace traditional teaching methods entirely", "To increase urban migration"],
+    "correctAnswer": "To enhance learning outcomes and employability"
   },
   {
     "id": 10,
-    "question": "What does PM Modi's call for global effort against cyber frauds imply about these threats?",
-    "options": ["They are localized problems", "They require international cooperation to combat", "They are minor inconveniences", "They only affect governments"],
-    "correctAnswer": "They require international cooperation to combat"
+    "question": "The Nagaland education initiative emphasizes enhancing digital infrastructure. How does improved digital infrastructure typically benefit students in government schools in states like Andhra Pradesh?",
+    "options": ["By replacing all teachers with robots", "By providing access to online resources and modern learning tools", "By eliminating the need for textbooks", "By encouraging students to drop out"],
+    "correctAnswer": "By providing access to online resources and modern learning tools"
   },
   {
     "id": 11,
-    "question": "The emphasis on mobile technology for 'effective service delivery' primarily aims to benefit whom?",
-    "options": ["Telecom companies", "Government officials", "Citizens across India", "International businesses"],
-    "correctAnswer": "Citizens across India"
+    "question": "Police often issue advisories and enforce restrictions ahead of major protests to maintain law and order. In states like Telangana, which state authority is primarily responsible for maintaining public order?",
+    "options": ["Central Reserve Police Force (CRPF)", "Indian Army", "State Police", "Border Security Force (BSF)"],
+    "correctAnswer": "State Police"
   },
   {
     "id": 12,
-    "question": "What is the implied broader goal of enhancing security measures in the telecom sector, as per PM Modi?",
-    "options": ["To limit internet access", "To boost smartphone sales", "To protect digital infrastructure and users", "To centralize data storage"],
-    "correctAnswer": "To protect digital infrastructure and users"
+    "question": "The demand for the CEC's resignation highlights the significance of the position. What core power does the Election Commission of India possess regarding the conduct of elections in states, including Telangana?",
+    "options": ["To determine the national budget", "To appoint Chief Ministers", "To superintend, direct, and control the preparation of electoral rolls and conduct elections", "To declare national emergencies"],
+    "correctAnswer": "To superintend, direct, and control the preparation of electoral rolls and conduct elections"
   },
   {
     "id": 13,
-    "question": "Which term describes misleading or manipulated media created using AI, mentioned by PM Modi?",
-    "options": ["Vlogs", "Podcasts", "Deepfakes", "Infographics"],
-    "correctAnswer": "Deepfakes"
+    "question": "The INDIA bloc MPs were seen protesting and demanding changes. What type of activity is this in the context of Indian democracy, common across states like Andhra Pradesh?",
+    "options": ["Economic Sanctions", "Diplomatic Negotiations", "Political Agitation and Advocacy", "Military Operations"],
+    "correctAnswer": "Political Agitation and Advocacy"
   },
   {
     "id": 14,
-    "question": "What mechanism has led to 'significant financial savings' by ensuring benefits reach the intended recipients efficiently?",
-    "options": ["Online banking portals", "Digital Direct Benefit Transfers", "Cash transactions", "Postal money orders"],
-    "correctAnswer": "Digital Direct Benefit Transfers"
+    "question": "As Head of State, President Murmu met the INDIA bloc. What does being the Head of State primarily signify in the Indian parliamentary system, affecting all states?",
+    "options": ["The highest executive authority", "The commander-in-chief of the armed forces", "A ceremonial and constitutional head representing the nation", "The leader of the ruling party"],
+    "correctAnswer": "A ceremonial and constitutional head representing the nation"
   },
   {
     "id": 15,
-    "question": "PM Modi's address at the India Mobile Congress reflects India's commitment to which overarching national program?",
-    "options": ["Swachh Bharat Abhiyan", "Ayushman Bharat", "Digital India", "Make in India"],
-    "correctAnswer": "Digital India"
+    "question": "The term 'vote chori' implies electoral malpractices. Which of the following is a common form of electoral malpractice that the Election Commission strives to prevent in all Indian states?",
+    "options": ["Encouraging voter turnout", "Providing civic education", "Booth capturing", "Issuing voter IDs"],
+    "correctAnswer": "Booth capturing"
   },
   {
     "id": 16,
-    "question": "What type of financial crime did PM Modi highlight as needing global attention?",
-    "options": ["Money Laundering", "Tax Evasion", "Cyber Frauds", "Insider Trading"],
-    "correctAnswer": "Cyber Frauds"
+    "question": "Many states, similar to the Nagaland initiative, explore partnerships to improve social sectors. What type of governance model does this reflect when state governments collaborate with external groups, applicable in Andhra Pradesh?",
+    "options": ["Centralized Command", "Autocratic Rule", "Public-Private Partnership (PPP) or Collaborative Governance", "Unilateral Decision-Making"],
+    "correctAnswer": "Public-Private Partnership (PPP) or Collaborative Governance"
   },
   {
     "id": 17,
-    "question": "Who are the primary beneficiaries of the increased efficiency and transparency brought by digital direct benefit transfers?",
-    "options": ["Private banks", "Government treasuries", "Subsidy recipients and citizens", "International aid organizations"],
-    "correctAnswer": "Subsidy recipients and citizens"
+    "question": "The demand to repeal assembly polls highlights the ongoing electoral cycle in India. What is the typical duration of an elected State Legislative Assembly in India, including those in Telangana and Andhra Pradesh, before fresh elections are held?",
+    "options": ["3 years", "4 years", "5 years", "6 years"],
+    "correctAnswer": "5 years"
   },
   {
     "id": 18,
-    "question": "The call for enhanced security in the telecom sector suggests a recognition of what aspect of modern technology?",
-    "options": ["Its potential for entertainment", "Its vulnerability to malicious activities", "Its impact on global trade", "Its role in space exploration"],
-    "correctAnswer": "Its vulnerability to malicious activities"
+    "question": "The 'free electricity' promise for Goa is a type of populist measure. Which government department in states like Telangana would be responsible for implementing and managing such a scheme if introduced?",
+    "options": ["Department of Health", "Department of Power/Energy", "Department of Education", "Department of Finance"],
+    "correctAnswer": "Department of Power/Energy"
   },
   {
     "id": 19,
-    "question": "What role does mobile technology play in 'service delivery' according to PM Modi?",
-    "options": ["Making services slower", "Making services more complex", "Making services more effective", "Making services more expensive"],
-    "correctAnswer": "Making services more effective"
+    "question": "Offering monthly aid for women, as promised in Goa, is a form of direct benefit transfer. Such schemes aim to empower women financially. Which social welfare objective is primarily targeted by such schemes in states like Andhra Pradesh?",
+    "options": ["Reducing male employment", "Encouraging rural-urban migration", "Enhancing women's economic independence", "Promoting foreign investments"],
+    "correctAnswer": "Enhancing women's economic independence"
   },
   {
     "id": 20,
-    "question": "By urging collaboration against deepfakes, what broader concern about digital information is PM Modi addressing?",
-    "options": ["Copyright infringement", "Data storage limits", "Misinformation and disinformation", "Internet speed restrictions"],
-    "correctAnswer": "Misinformation and disinformation"
+    "question": "Beyond education, enhancing digital infrastructure has broader implications. How does digital infrastructure generally aid governance and public service delivery in Indian states, including Telangana?",
+    "options": ["By increasing manual paperwork", "By slowing down communication", "By enabling e-governance and transparent service delivery", "By limiting access to information"],
+    "correctAnswer": "By enabling e-governance and transparent service delivery"
   },
   {
     "id": 21,
-    "question": "What does 'DBT' stand for in the context of PM Modi's speech?",
-    "options": ["Digital Banking Transactions", "Direct Benefit Transfers", "Data Backup Technology", "Dynamic Business Trends"],
-    "correctAnswer": "Direct Benefit Transfers"
+    "question": "Nagaland is teaming up with Indian and German philanthropic groups. What is the primary role of philanthropic groups in contributing to social sectors like education in Indian states?",
+    "options": ["To replace government funding entirely", "To provide supplementary resources and expertise", "To dictate government policy", "To operate as a profit-making entity"],
+    "correctAnswer": "To provide supplementary resources and expertise"
   },
   {
     "id": 22,
-    "question": "The India Mobile Congress is an important platform for discussing the future of which industry in India?",
-    "options": ["Automobile industry", "Healthcare industry", "Digital communications and mobile technology industry", "Agriculture industry"],
-    "correctAnswer": "Digital communications and mobile technology industry"
+    "question": "The Nagaland education initiative aims to create job opportunities to encourage young individuals to remain in the state. What term describes this strategy to prevent skilled workers from leaving their home state, relevant to states like Andhra Pradesh?",
+    "options": ["Brain Drain", "Urbanization", "Rural Migration", "Youth Retention"],
+    "correctAnswer": "Youth Retention"
   },
   {
     "id": 23,
-    "question": "What is a primary benefit of digitalizing government services through mobile technology, as implied by PM Modi?",
-    "options": ["Increasing paper usage", "Reducing public access", "Enhancing accessibility and convenience for citizens", "Limiting service options"],
-    "correctAnswer": "Enhancing accessibility and convenience for citizens"
+    "question": "The INDIA bloc MPs are frequently protesting and making demands. In a parliamentary democracy like India, including in state assemblies, what is a crucial role of the opposition parties?",
+    "options": ["To always agree with the ruling party", "To implement government policies", "To hold the government accountable and offer alternative viewpoints", "To form the government independently"],
+    "correctAnswer": "To hold the government accountable and offer alternative viewpoints"
   },
   {
     "id": 24,
-    "question": "PM Modi's statement about collaboration among governments and tech companies highlights the need for a unified approach to what?",
-    "options": ["Market competition", "Regulatory frameworks", "Global security challenges in technology", "Product innovation"],
-    "correctAnswer": "Global security challenges in technology"
+    "question": "Delhi Police's actions highlight their authority during public demonstrations. Which law grants police forces in Indian states, like Telangana, the power to impose restrictions on public gatherings?",
+    "options": ["Indian Penal Code (IPC)", "Code of Criminal Procedure (CrPC)", "Epidemic Diseases Act", "Prevention of Money Laundering Act"],
+    "correctAnswer": "Code of Criminal Procedure (CrPC)"
   },
   {
     "id": 25,
-    "question": "The 'significant financial savings' from digital DBT systems primarily arise from what?",
-    "options": ["Reduced payment processing fees", "Elimination of intermediaries and leakages", "Increased taxation on digital transactions", "Decreased number of beneficiaries"],
-    "correctAnswer": "Elimination of intermediaries and leakages"
+    "question": "Rahul Gandhi's statement about President Murmu seeking proof for 'vote chori' claims emphasizes the need for evidence in electoral disputes. What document serves as primary proof of identity and eligibility for a citizen to cast a vote in elections across Indian states, including Andhra Pradesh?",
+    "options": ["Driving License", "PAN Card", "Aadhaar Card", "Voter ID Card (EPIC)"],
+    "correctAnswer": "Voter ID Card (EPIC)"
   }
 ]

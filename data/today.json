@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "India is set to introduce a national plan focusing on boosting which specific economic sector?",
-    "options": ["Textile manufacturing", "Small-scale fisheries", "Information technology", "Automobile production"],
-    "correctAnswer": "Small-scale fisheries"
+    "question": "At which event did Prime Minister Narendra Modi call for a global effort to address cyber frauds and deepfakes?",
+    "options": ["Digital India Summit", "World Economic Forum", "India Mobile Congress", "G20 Tech Leaders Summit"],
+    "correctAnswer": "India Mobile Congress"
   },
   {
     "id": 2,
-    "question": "What is the primary objective of the upcoming national plan in India's fisheries sector?",
-    "options": ["To promote deep-sea mining", "To develop large-scale aquaculture", "To boost small-scale fisheries", "To regulate international fishing treaties"],
-    "correctAnswer": "To boost small-scale fisheries"
+    "question": "What two specific issues did PM Modi urge a global effort to address, according to the news?",
+    "options": ["Climate Change and Pollution", "Economic Recession and Inflation", "Cyber Frauds and Deepfakes", "Poverty and Illiteracy"],
+    "correctAnswer": "Cyber Frauds and Deepfakes"
   },
   {
     "id": 3,
-    "question": "The new national plan for fisheries is expected to primarily benefit which group within the sector?",
-    "options": ["Large corporate fishing companies", "Recreational anglers", "Small-scale fishers and communities", "Seafood exporters"],
-    "correctAnswer": "Small-scale fishers and communities"
+    "question": "What did PM Modi highlight as a crucial tool for governance and effective service delivery?",
+    "options": ["Artificial Intelligence", "Blockchain Technology", "Mobile Technology", "Satellite Communication"],
+    "correctAnswer": "Mobile Technology"
   },
   {
     "id": 4,
-    "question": "Which Indian state, known for its extensive coastline, is likely to significantly benefit from a national plan to boost small-scale fisheries?",
-    "options": ["Punjab", "Rajasthan", "Andhra Pradesh", "Uttar Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "PM Modi attributed significant financial savings to which initiative in India?",
+    "options": ["Goods and Services Tax (GST)", "Demonetization", "Digital Direct Benefit Transfers (DBT)", "Make in India Campaign"],
+    "correctAnswer": "Digital Direct Benefit Transfers (DBT)"
   },
   {
     "id": 5,
-    "question": "A national plan targeting inland water bodies and reservoirs could greatly benefit which landlocked South Indian state's fishing communities?",
-    "options": ["Kerala", "Telangana", "Karnataka", "Goa"],
-    "correctAnswer": "Telangana"
+    "question": "What did PM Modi urge collaboration among governments and tech companies to enhance in the telecom sector?",
+    "options": ["Network Coverage", "Data Speeds", "Security Measures", "Affordability of Services"],
+    "correctAnswer": "Security Measures"
   },
   {
     "id": 6,
-    "question": "The government's initiative to boost small-scale fisheries reflects its recognition of the importance of what?",
-    "options": ["Industrial farming", "Traditional livelihoods and food security", "Space exploration", "Military advancements"],
-    "correctAnswer": "Traditional livelihoods and food security"
+    "question": "The India Mobile Congress serves as a platform to discuss advancements primarily in which sector?",
+    "options": ["Automotive", "Healthcare", "Aerospace", "Telecom"],
+    "correctAnswer": "Telecom"
   },
   {
     "id": 7,
-    "question": "What kind of plan is India developing to enhance the output and welfare of traditional fishing communities?",
-    "options": ["State-specific fishing bans", "A national strategy for fisheries", "International trade agreements only", "Research into marine biology"],
-    "correctAnswer": "A national strategy for fisheries"
+    "question": "According to PM Modi, what is a key benefit of mobile technology in the context of government functions?",
+    "options": ["Increased Bureaucracy", "Enhanced Public Transportation", "Effective Governance", "Reduced Tourism"],
+    "correctAnswer": "Effective Governance"
   },
   {
     "id": 8,
-    "question": "The emphasis on 'small-scale' in the national fisheries plan suggests a focus on what aspect of the industry?",
-    "options": ["Large trawlers", "Subsistence and artisanal fishing", "Automated processing plants", "Offshore oil rigs"],
-    "correctAnswer": "Subsistence and artisanal fishing"
+    "question": "What kind of collaboration did PM Modi stress for strengthening the telecom sector?",
+    "options": ["International trade agreements", "Academic research partnerships", "Government and tech company collaboration", "Public-private infrastructure projects"],
+    "correctAnswer": "Government and tech company collaboration"
   },
   {
     "id": 9,
-    "question": "What is the general scope of the upcoming national plan regarding India's fisheries?",
-    "options": ["Limiting all fishing activities", "Boosting a specific sub-sector nationally", "Promoting only ornamental fish farming", "Importing more seafood"],
-    "correctAnswer": "Boosting a specific sub-sector nationally"
+    "question": "What is one major advantage of Digital Direct Benefit Transfers (DBT) highlighted by the Prime Minister?",
+    "options": ["Increased tax collection", "Reduced administrative costs", "Significant financial savings", "Faster infrastructure development"],
+    "correctAnswer": "Significant financial savings"
   },
   {
     "id": 10,
-    "question": "Why might a national plan for fisheries be particularly relevant for states like Andhra Pradesh and Telangana?",
-    "options": ["They have no fishing activity", "They have significant coastal and inland fishing communities", "They specialize in deep-sea mining", "They are major exporters of textiles"],
-    "correctAnswer": "They have significant coastal and inland fishing communities"
+    "question": "What does PM Modi's call for global effort against cyber frauds imply about these threats?",
+    "options": ["They are localized problems", "They require international cooperation to combat", "They are minor inconveniences", "They only affect governments"],
+    "correctAnswer": "They require international cooperation to combat"
   },
   {
     "id": 11,
-    "question": "A new law has come into force mandating a quota for which service in senior posts of the CAPF?",
-    "options": ["IAS", "IFS", "IPS", "IRS"],
-    "correctAnswer": "IPS"
+    "question": "The emphasis on mobile technology for 'effective service delivery' primarily aims to benefit whom?",
+    "options": ["Telecom companies", "Government officials", "Citizens across India", "International businesses"],
+    "correctAnswer": "Citizens across India"
   },
   {
     "id": 12,
-    "question": "What does the recently enacted CAPF law introduce regarding the leadership structure of these forces?",
-    "options": ["It abolishes all quotas", "It mandates an IPS quota in senior ranks", "It reserves all posts for CAPF cadre officers", "It allows only state police to lead CAPF units"],
-    "correctAnswer": "It mandates an IPS quota in senior ranks"
+    "question": "What is the implied broader goal of enhancing security measures in the telecom sector, as per PM Modi?",
+    "options": ["To limit internet access", "To boost smartphone sales", "To protect digital infrastructure and users", "To centralize data storage"],
+    "correctAnswer": "To protect digital infrastructure and users"
   },
   {
     "id": 13,
-    "question": "The new CAPF law aims to ensure the participation of officers from which cadre in higher positions within Central Armed Police Forces?",
-    "options": ["Indian Forest Service", "Indian Police Service", "Indian Railway Service", "Indian Foreign Service"],
-    "correctAnswer": "Indian Police Service"
+    "question": "Which term describes misleading or manipulated media created using AI, mentioned by PM Modi?",
+    "options": ["Vlogs", "Podcasts", "Deepfakes", "Infographics"],
+    "correctAnswer": "Deepfakes"
   },
   {
     "id": 14,
-    "question": "The CAPF law implies a change in the staffing pattern of senior roles within what type of Indian forces?",
-    "options": ["State Police Forces", "Paramilitary Forces", "Municipal Police", "Private Security Agencies"],
-    "correctAnswer": "Paramilitary Forces"
+    "question": "What mechanism has led to 'significant financial savings' by ensuring benefits reach the intended recipients efficiently?",
+    "options": ["Online banking portals", "Digital Direct Benefit Transfers", "Cash transactions", "Postal money orders"],
+    "correctAnswer": "Digital Direct Benefit Transfers"
   },
   {
     "id": 15,
-    "question": "What is a significant provision of the new law concerning the Central Armed Police Forces?",
-    "options": ["Increased retirement age for all personnel", "A mandated quota for IPS officers in senior positions", "Direct recruitment of senior officers from the private sector", "Abolition of all training academies"],
-    "correctAnswer": "A mandated quota for IPS officers in senior positions"
+    "question": "PM Modi's address at the India Mobile Congress reflects India's commitment to which overarching national program?",
+    "options": ["Swachh Bharat Abhiyan", "Ayushman Bharat", "Digital India", "Make in India"],
+    "correctAnswer": "Digital India"
   },
   {
     "id": 16,
-    "question": "The Indian government is proposing prior approval for advertisements of which specific categories of drugs?",
-    "options": ["Over-the-counter drugs", "Herbal remedies", "Schedule H, H1, and X drugs", "Ayurvedic medicines"],
-    "correctAnswer": "Schedule H, H1, and X drugs"
+    "question": "What type of financial crime did PM Modi highlight as needing global attention?",
+    "options": ["Money Laundering", "Tax Evasion", "Cyber Frauds", "Insider Trading"],
+    "correctAnswer": "Cyber Frauds"
   },
   {
     "id": 17,
-    "question": "What new regulation is being proposed for the advertising of Schedule H, H1, and X drugs in India?",
-    "options": ["Complete ban on all ads", "Mandatory celebrity endorsements", "Requirement of prior government approval", "Only digital advertising permitted"],
-    "correctAnswer": "Requirement of prior government approval"
+    "question": "Who are the primary beneficiaries of the increased efficiency and transparency brought by digital direct benefit transfers?",
+    "options": ["Private banks", "Government treasuries", "Subsidy recipients and citizens", "International aid organizations"],
+    "correctAnswer": "Subsidy recipients and citizens"
   },
   {
     "id": 18,
-    "question": "What is the likely primary objective behind the government's proposal for prior approval of drug advertisements?",
-    "options": ["To increase government revenue", "To protect public health and prevent misleading claims", "To boost pharmaceutical sales", "To promote specific drug brands"],
-    "correctAnswer": "To protect public health and prevent misleading claims"
+    "question": "The call for enhanced security in the telecom sector suggests a recognition of what aspect of modern technology?",
+    "options": ["Its potential for entertainment", "Its vulnerability to malicious activities", "Its impact on global trade", "Its role in space exploration"],
+    "correctAnswer": "Its vulnerability to malicious activities"
   },
   {
     "id": 19,
-    "question": "The proposed regulation for drug advertisements targets what stage of promotion for certain critical medicines?",
-    "options": ["Manufacturing", "Distribution", "Pre-publication/broadcast", "Post-sale feedback"],
-    "correctAnswer": "Pre-publication/broadcast"
+    "question": "What role does mobile technology play in 'service delivery' according to PM Modi?",
+    "options": ["Making services slower", "Making services more complex", "Making services more effective", "Making services more expensive"],
+    "correctAnswer": "Making services more effective"
   },
   {
     "id": 20,
-    "question": "The government's proposal to regulate drug ads focuses on drugs that typically require what?",
-    "options": ["No prescription", "Heavy marketing", "A doctor's prescription due to potential risks", "Only international sales"],
-    "correctAnswer": "A doctor's prescription due to potential risks"
+    "question": "By urging collaboration against deepfakes, what broader concern about digital information is PM Modi addressing?",
+    "options": ["Copyright infringement", "Data storage limits", "Misinformation and disinformation", "Internet speed restrictions"],
+    "correctAnswer": "Misinformation and disinformation"
   },
   {
     "id": 21,
-    "question": "Which company, founded by Elon Musk, is facing regulatory hurdles for its satellite internet services in India?",
-    "options": ["Tesla", "SpaceX", "Starlink", "Neuralink"],
-    "correctAnswer": "Starlink"
+    "question": "What does 'DBT' stand for in the context of PM Modi's speech?",
+    "options": ["Digital Banking Transactions", "Direct Benefit Transfers", "Data Backup Technology", "Dynamic Business Trends"],
+    "correctAnswer": "Direct Benefit Transfers"
   },
   {
     "id": 22,
-    "question": "What type of service does Starlink intend to provide in India, which has been subject to regulatory obstacles?",
-    "options": ["Electric vehicle manufacturing", "High-speed satellite internet", "Space tourism", "Battery storage solutions"],
-    "correctAnswer": "High-speed satellite internet"
+    "question": "The India Mobile Congress is an important platform for discussing the future of which industry in India?",
+    "options": ["Automobile industry", "Healthcare industry", "Digital communications and mobile technology industry", "Agriculture industry"],
+    "correctAnswer": "Digital communications and mobile technology industry"
   },
   {
     "id": 23,
-    "question": "Elon Musk voiced exasperation over what regarding Starlink's commercial operations in India?",
-    "options": ["Lack of consumer demand", "Shortage of skilled labor", "Regulatory obstacles and perceived influence of oligarchs", "High import duties on hardware"],
-    "correctAnswer": "Regulatory obstacles and perceived influence of oligarchs"
+    "question": "What is a primary benefit of digitalizing government services through mobile technology, as implied by PM Modi?",
+    "options": ["Increasing paper usage", "Reducing public access", "Enhancing accessibility and convenience for citizens", "Limiting service options"],
+    "correctAnswer": "Enhancing accessibility and convenience for citizens"
   },
   {
     "id": 24,
-    "question": "In response to Elon Musk's remarks, the Indian government emphasized what regarding its regulations for satellite operators?",
-    "options": ["Their exclusivity to domestic companies", "Their flexibility and ad-hoc nature", "Their fairness, security compliance, and importance for data safeguarding", "Their goal to restrict all foreign investment"],
-    "correctAnswer": "Their fairness, security compliance, and importance for data safeguarding"
+    "question": "PM Modi's statement about collaboration among governments and tech companies highlights the need for a unified approach to what?",
+    "options": ["Market competition", "Regulatory frameworks", "Global security challenges in technology", "Product innovation"],
+    "correctAnswer": "Global security challenges in technology"
   },
   {
     "id": 25,
-    "question": "What core concern does the Indian government highlight when discussing regulations for satellite internet operators like Starlink?",
-    "options": ["Maximizing profit for state-owned enterprises", "Ensuring security compliance for users and data", "Preventing competition in the telecom sector", "Promoting terrestrial cable networks"],
-    "correctAnswer": "Ensuring security compliance for users and data"
+    "question": "The 'significant financial savings' from digital DBT systems primarily arise from what?",
+    "options": ["Reduced payment processing fees", "Elimination of intermediaries and leakages", "Increased taxation on digital transactions", "Decreased number of beneficiaries"],
+    "correctAnswer": "Elimination of intermediaries and leakages"
   }
 ]

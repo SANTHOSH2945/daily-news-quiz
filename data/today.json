@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The INDIA bloc recently met President Murmu to raise concerns about electoral integrity. Which constitutional body is primarily responsible for conducting elections and ensuring fairness across all states of India, including Telangana and Andhra Pradesh?",
-    "options": ["Supreme Court", "Election Commission of India", "Parliament", "Prime Minister's Office"],
-    "correctAnswer": "Election Commission of India"
+    "question": "What did the Supreme Court recently affirm regarding the deletion of names from electoral rolls, a principle applicable to all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["Names can only be deleted with the voter's explicit consent.", "Deleting names of deceased or shifted voters is permissible.", "Only the Election Commission can initiate deletion requests.", "Deletions are strictly prohibited during election periods."],
+    "correctAnswer": "Deleting names of deceased or shifted voters is permissible."
   },
   {
     "id": 2,
-    "question": "News reports mention the INDIA bloc's allegations of 'vote chori' and demands to repeal assembly polls. If such allegations were made concerning elections in Telangana or Andhra Pradesh, to whom would the primary representation typically be made for investigation?",
-    "options": ["State Governor", "Chief Minister", "Election Commission of India", "High Court of the respective state"],
-    "correctAnswer": "Election Commission of India"
+    "question": "The Election Commission of India recently introduced a limit on bulk filing of which specific form, a measure applicable across all states including Telangana and Andhra Pradesh, aimed at addressing concerns about voter list manipulation?",
+    "options": ["Form 6", "Form 7", "Form 8", "Form 9"],
+    "correctAnswer": "Form 7"
   },
   {
     "id": 3,
-    "question": "President Droupadi Murmu recently received representations from the INDIA bloc MPs regarding electoral concerns. Under the Indian Constitution, what is the primary role of the President in such political representations, affecting all states?",
-    "options": ["To actively investigate the claims", "To immediately dismiss the demands", "To act as a neutral arbiter and Head of State", "To legislate on the demands"],
-    "correctAnswer": "To act as a neutral arbiter and Head of State"
+    "question": "What is the new limit set by the Election Commission for filing Form 7 applications by a single elector, a regulation that impacts the electoral process in states like Telangana and Andhra Pradesh?",
+    "options": ["5 applications", "10 applications", "15 applications", "20 applications"],
+    "correctAnswer": "10 applications"
   },
   {
     "id": 4,
-    "question": "Delhi Police cited the need to prevent the city from being 'brought to a halt' as a reason for restrictions on protests. In a democratic country like India, which fundamental right is often balanced against public order and safety during protests, applicable in states like Telangana?",
-    "options": ["Right to Property", "Right to Freedom of Speech and Expression", "Right to Education", "Right to Constitutional Remedies"],
-    "correctAnswer": "Right to Freedom of Speech and Expression"
+    "question": "What is the primary purpose of Form 7 in the Indian electoral process, including in Andhra Pradesh and Telangana, which was recently subject to new limits by the EC?",
+    "options": ["Application for new voter registration.", "Request for correction in voter details.", "Objection to inclusion of name or request for deletion.", "Change of address within the same constituency."],
+    "correctAnswer": "Objection to inclusion of name or request for deletion."
   },
   {
     "id": 5,
-    "question": "Reports mention allegations of manipulation of electoral rolls. What is the main purpose of electoral rolls in the context of elections in any Indian state, including Andhra Pradesh?",
-    "options": ["To list all citizens for tax purposes", "To identify eligible voters", "To track political party memberships", "To record government employee details"],
-    "correctAnswer": "To identify eligible voters"
+    "question": "Who typically has the authority to request the deletion of a voter's name from the electoral roll in India, a process overseen by the Election Commission in all states like Telangana?",
+    "options": ["Only political parties.", "Any elector, or the electoral registration officer suo motu.", "Only the Chief Election Commissioner.", "Local municipal authorities."],
+    "correctAnswer": "Any elector, or the electoral registration officer suo motu."
   },
   {
     "id": 6,
-    "question": "The INDIA bloc MPs demanded the resignation of the Chief Election Commissioner. Who appoints the Chief Election Commissioner of India, a position crucial for electoral integrity across states?",
-    "options": ["Prime Minister", "Chief Justice of India", "President of India", "Speaker of Lok Sabha"],
-    "correctAnswer": "President of India"
+    "question": "Regarding challenges to voter list deletions, what did the Supreme Court emphasize should be prioritized by electoral authorities in all states, including Andhra Pradesh?",
+    "options": ["Pleas for bulk deletion requests.", "Challenges against deletions by affected individuals.", "Data verification by local authorities.", "Expedited new registrations."],
+    "correctAnswer": "Challenges against deletions by affected individuals."
   },
   {
     "id": 7,
-    "question": "The INDIA bloc demanded the repeal of assembly polls over the last two years. In India, assembly polls are conducted to elect members to which legislative body in states like Telangana and Andhra Pradesh?",
-    "options": ["Rajya Sabha", "Lok Sabha", "State Legislative Assembly", "Municipal Corporation"],
-    "correctAnswer": "State Legislative Assembly"
+    "question": "Besides being deceased, what is another common reason affirmed by the Supreme Court for permissible deletion of a voter's name from the electoral roll in India?",
+    "options": ["Non-payment of taxes.", "Shifting residence to another constituency.", "Absence from the locality for more than a year.", "Failure to update Aadhaar details."],
+    "correctAnswer": "Shifting residence to another constituency."
   },
   {
     "id": 8,
-    "question": "While specific 'guarantees' were unveiled for Goa, similar promises are common in election campaigns nationwide. What is the general term for government-funded programs aimed at improving the well-being of the population in states like Andhra Pradesh?",
-    "options": ["Corporate Investments", "Market Subsidies", "Welfare Schemes", "Foreign Aid Programs"],
-    "correctAnswer": "Welfare Schemes"
+    "question": "Which autonomous body in India is responsible for the administration of elections and maintaining electoral rolls, including in states like Telangana and Andhra Pradesh?",
+    "options": ["Supreme Court of India", "Ministry of Home Affairs", "Election Commission of India", "State Legislative Assemblies"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 9,
-    "question": "News mentions Nagaland exploring partnerships to boost learning in government schools. What is the broader goal of such initiatives to improve education in government schools across Indian states, including Telangana?",
-    "options": ["To reduce private school enrollment", "To enhance learning outcomes and employability", "To replace traditional teaching methods entirely", "To increase urban migration"],
-    "correctAnswer": "To enhance learning outcomes and employability"
+    "question": "Supreme Court rulings regarding electoral rolls apply universally across all Indian states, including Telangana and Andhra Pradesh. This highlights the _______ nature of such judgments.",
+    "options": ["Advisory", "Binding", "Recommendatory", "Provisional"],
+    "correctAnswer": "Binding"
   },
   {
     "id": 10,
-    "question": "The Nagaland education initiative emphasizes enhancing digital infrastructure. How does improved digital infrastructure typically benefit students in government schools in states like Andhra Pradesh?",
-    "options": ["By replacing all teachers with robots", "By providing access to online resources and modern learning tools", "By eliminating the need for textbooks", "By encouraging students to drop out"],
-    "correctAnswer": "By providing access to online resources and modern learning tools"
+    "question": "The recent focus by the EC and SC on voter list deletions and Form 7 limitations primarily aims to ensure what aspect of electoral rolls in all Indian states?",
+    "options": ["Maximum inclusivity of all adults.", "Accuracy and purity of the electoral rolls.", "Rapid expansion of the voter base.", "Simplification of election procedures for officials."],
+    "correctAnswer": "Accuracy and purity of the electoral rolls."
   },
   {
     "id": 11,
-    "question": "Police often issue advisories and enforce restrictions ahead of major protests to maintain law and order. In states like Telangana, which state authority is primarily responsible for maintaining public order?",
-    "options": ["Central Reserve Police Force (CRPF)", "Indian Army", "State Police", "Border Security Force (BSF)"],
-    "correctAnswer": "State Police"
+    "question": "Which entities may soon require government approval to advertise prescription drugs in India, a regulation that would apply to businesses in Telangana and Andhra Pradesh?",
+    "options": ["Only pharmaceutical manufacturers.", "Chemists and wholesalers.", "Doctors and medical practitioners.", "Hospitals and clinics."],
+    "correctAnswer": "Chemists and wholesalers"
   },
   {
     "id": 12,
-    "question": "The demand for the CEC's resignation highlights the significance of the position. What core power does the Election Commission of India possess regarding the conduct of elections in states, including Telangana?",
-    "options": ["To determine the national budget", "To appoint Chief Ministers", "To superintend, direct, and control the preparation of electoral rolls and conduct elections", "To declare national emergencies"],
-    "correctAnswer": "To superintend, direct, and control the preparation of electoral rolls and conduct elections"
+    "question": "The potential requirement for government nod to advertise prescription drugs in India is likely aimed at what?",
+    "options": ["Boosting the sales of generic medicines.", "Preventing misleading claims and promoting responsible drug use.", "Encouraging more competition in the pharmaceutical market.", "Reducing the overall cost of medicines for consumers."],
+    "correctAnswer": "Preventing misleading claims and promoting responsible drug use."
   },
   {
     "id": 13,
-    "question": "The INDIA bloc MPs were seen protesting and demanding changes. What type of activity is this in the context of Indian democracy, common across states like Andhra Pradesh?",
-    "options": ["Economic Sanctions", "Diplomatic Negotiations", "Political Agitation and Advocacy", "Military Operations"],
-    "correctAnswer": "Political Agitation and Advocacy"
+    "question": "Which Union Ministry is typically responsible for formulating policies and regulations concerning the advertising of prescription drugs in India, impacting states like Andhra Pradesh?",
+    "options": ["Ministry of Finance", "Ministry of Commerce and Industry", "Ministry of Health and Family Welfare", "Ministry of Law and Justice."],
+    "correctAnswer": "Ministry of Health and Family Welfare"
   },
   {
     "id": 14,
-    "question": "As Head of State, President Murmu met the INDIA bloc. What does being the Head of State primarily signify in the Indian parliamentary system, affecting all states?",
-    "options": ["The highest executive authority", "The commander-in-chief of the armed forces", "A ceremonial and constitutional head representing the nation", "The leader of the ruling party"],
-    "correctAnswer": "A ceremonial and constitutional head representing the nation"
+    "question": "A new national policy requiring government approval for prescription drug advertisements would apply to pharmaceutical businesses operating in all Indian states, including Telangana and Andhra Pradesh. This demonstrates the ______ scope of such policies.",
+    "options": ["State-specific", "Union Territory-specific", "Pan-Indian", "Localized"],
+    "correctAnswer": "Pan-Indian"
   },
   {
     "id": 15,
-    "question": "The term 'vote chori' implies electoral malpractices. Which of the following is a common form of electoral malpractice that the Election Commission strives to prevent in all Indian states?",
-    "options": ["Encouraging voter turnout", "Providing civic education", "Booth capturing", "Issuing voter IDs"],
-    "correctAnswer": "Booth capturing"
+    "question": "By-elections in India are typically held to fill vacancies in legislative bodies that arise due to reasons such as resignation, death, or disqualification of an elected member. These elections are conducted by which authority across all states, including Telangana?",
+    "options": ["State High Court", "Governor of the State", "Election Commission of India", "Parliament of India"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 16,
-    "question": "Many states, similar to the Nagaland initiative, explore partnerships to improve social sectors. What type of governance model does this reflect when state governments collaborate with external groups, applicable in Andhra Pradesh?",
-    "options": ["Centralized Command", "Autocratic Rule", "Public-Private Partnership (PPP) or Collaborative Governance", "Unilateral Decision-Making"],
-    "correctAnswer": "Public-Private Partnership (PPP) or Collaborative Governance"
+    "question": "National political parties often contest by-elections across India. What do the results of these by-elections often indicate to political analysts regarding the mood of the electorate in specific regions like Andhra Pradesh?",
+    "options": ["The immediate financial health of the state.", "Localized sentiment and the current political mood.", "The success of national economic policies.", "International diplomatic relations."],
+    "correctAnswer": "Localized sentiment and the current political mood."
   },
   {
     "id": 17,
-    "question": "The demand to repeal assembly polls highlights the ongoing electoral cycle in India. What is the typical duration of an elected State Legislative Assembly in India, including those in Telangana and Andhra Pradesh, before fresh elections are held?",
-    "options": ["3 years", "4 years", "5 years", "6 years"],
-    "correctAnswer": "5 years"
+    "question": "The Indian Government recently expressed strong disapproval of certain remarks made internationally, terming them 'deeply offensive'. This highlights India's commitment to what principle in international discourse?",
+    "options": ["Economic protectionism.", "Cultural exchange.", "Protecting the dignity of its citizens abroad.", "Promoting global tourism."],
+    "correctAnswer": "Protecting the dignity of its citizens abroad."
   },
   {
     "id": 18,
-    "question": "The 'free electricity' promise for Goa is a type of populist measure. Which government department in states like Telangana would be responsible for implementing and managing such a scheme if introduced?",
-    "options": ["Department of Health", "Department of Power/Energy", "Department of Education", "Department of Finance"],
-    "correctAnswer": "Department of Power/Energy"
+    "question": "The Chief Election Commissioner (CEC) heads which vital institution in Indian democracy, an institution whose decisions directly impact states like Telangana and Andhra Pradesh?",
+    "options": ["Supreme Court of India", "Reserve Bank of India", "Election Commission of India", "Comptroller and Auditor General"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 19,
-    "question": "Offering monthly aid for women, as promised in Goa, is a form of direct benefit transfer. Such schemes aim to empower women financially. Which social welfare objective is primarily targeted by such schemes in states like Andhra Pradesh?",
-    "options": ["Reducing male employment", "Encouraging rural-urban migration", "Enhancing women's economic independence", "Promoting foreign investments"],
-    "correctAnswer": "Enhancing women's economic independence"
+    "question": "The Chief Election Commissioner (CEC) of India holds a crucial role in ensuring what aspect of Indian elections in all states?",
+    "options": ["Government funding for political parties.", "Free, fair, and impartial conduct of elections.", "Appointment of state governors.", "Drafting of new electoral laws."],
+    "correctAnswer": "Free, fair, and impartial conduct of elections."
   },
   {
     "id": 20,
-    "question": "Beyond education, enhancing digital infrastructure has broader implications. How does digital infrastructure generally aid governance and public service delivery in Indian states, including Telangana?",
-    "options": ["By increasing manual paperwork", "By slowing down communication", "By enabling e-governance and transparent service delivery", "By limiting access to information"],
-    "correctAnswer": "By enabling e-governance and transparent service delivery"
+    "question": "Both the Election Commission of India and the Supreme Court of India are examples of ______ bodies established by the Constitution of India, which govern across states like Andhra Pradesh and Telangana.",
+    "options": ["Statutory", "Non-governmental", "Advisory", "Constitutional"],
+    "correctAnswer": "Constitutional"
   },
   {
     "id": 21,
-    "question": "Nagaland is teaming up with Indian and German philanthropic groups. What is the primary role of philanthropic groups in contributing to social sectors like education in Indian states?",
-    "options": ["To replace government funding entirely", "To provide supplementary resources and expertise", "To dictate government policy", "To operate as a profit-making entity"],
-    "correctAnswer": "To provide supplementary resources and expertise"
+    "question": "The process of linking Aadhaar with Voter ID is often discussed in the context of voter list purification. This voluntary process, conducted by the ECI for residents of all states including Telangana and Andhra Pradesh, primarily aims to prevent what?",
+    "options": ["Under-registration of young voters.", "Duplication of voter entries.", "Delays in election schedule.", "Increase in election expenditure."],
+    "correctAnswer": "Duplication of voter entries."
   },
   {
     "id": 22,
-    "question": "The Nagaland education initiative aims to create job opportunities to encourage young individuals to remain in the state. What term describes this strategy to prevent skilled workers from leaving their home state, relevant to states like Andhra Pradesh?",
-    "options": ["Brain Drain", "Urbanization", "Rural Migration", "Youth Retention"],
-    "correctAnswer": "Youth Retention"
+    "question": "If an individual's name is wrongly deleted from the electoral roll in states like Andhra Pradesh or Telangana, what is the standard course of action they can take to challenge the deletion?",
+    "options": ["File a direct petition to the Supreme Court.", "Approach the Electoral Registration Officer (ERO) or an appellate authority.", "Contact their local Member of Parliament (MP).", "Wait for the next election cycle to re-register."],
+    "correctAnswer": "Approach the Electoral Registration Officer (ERO) or an appellate authority."
   },
   {
     "id": 23,
-    "question": "The INDIA bloc MPs are frequently protesting and making demands. In a parliamentary democracy like India, including in state assemblies, what is a crucial role of the opposition parties?",
-    "options": ["To always agree with the ruling party", "To implement government policies", "To hold the government accountable and offer alternative viewpoints", "To form the government independently"],
-    "correctAnswer": "To hold the government accountable and offer alternative viewpoints"
+    "question": "In Telangana and Andhra Pradesh, who is the state-level official responsible for supervising elections and electoral roll management under the Election Commission of India?",
+    "options": ["District Collector", "Chief Secretary of the State", "Chief Electoral Officer (CEO) of the State", "State Election Commissioner (for local body elections)"],
+    "correctAnswer": "Chief Electoral Officer (CEO) of the State"
   },
   {
     "id": 24,
-    "question": "Delhi Police's actions highlight their authority during public demonstrations. Which law grants police forces in Indian states, like Telangana, the power to impose restrictions on public gatherings?",
-    "options": ["Indian Penal Code (IPC)", "Code of Criminal Procedure (CrPC)", "Epidemic Diseases Act", "Prevention of Money Laundering Act"],
-    "correctAnswer": "Code of Criminal Procedure (CrPC)"
+    "question": "The ongoing efforts by the Supreme Court and Election Commission regarding voter list management, including deletion of deceased or shifted voters, fall under the broader objective of maintaining what for upcoming elections in states like Telangana?",
+    "options": ["Political party funding records.", "Accurate and updated electoral rolls.", "Campaign expenditure limits.", "Public opinion polls."],
+    "correctAnswer": "Accurate and updated electoral rolls."
   },
   {
     "id": 25,
-    "question": "Rahul Gandhi's statement about President Murmu seeking proof for 'vote chori' claims emphasizes the need for evidence in electoral disputes. What document serves as primary proof of identity and eligibility for a citizen to cast a vote in elections across Indian states, including Andhra Pradesh?",
-    "options": ["Driving License", "PAN Card", "Aadhaar Card", "Voter ID Card (EPIC)"],
-    "correctAnswer": "Voter ID Card (EPIC)"
+    "question": "Why is the accuracy of electoral rolls, as emphasized by the Supreme Court's directives and EC's regulations, crucial for democratic processes in India, including Andhra Pradesh and Telangana?",
+    "options": ["To reduce the number of polling booths.", "To ensure fair representation and prevent electoral fraud.", "To encourage international observers.", "To simplify the voting process for election officials."],
+    "correctAnswer": "To ensure fair representation and prevent electoral fraud."
   }
 ]

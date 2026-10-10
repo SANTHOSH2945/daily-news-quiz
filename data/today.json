@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who was recently sworn in as the new Chief Minister of Telangana after the 2023 assembly elections?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Eatala Rajender"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "Who is the current Chief Minister of Telangana, as mentioned in the news, who directed officials to prepare an El Nino action plan?",
+    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "A Revanth Reddy", "Y. S. Jagan Mohan Reddy"],
+    "correctAnswer": "A Revanth Reddy"
   },
   {
     "id": 2,
-    "question": "The Hyderabad Metro Rail network currently covers approximately how many operational kilometers, making it one of the largest in India?",
-    "options": ["Approximately 40 km", "Approximately 50 km", "Approximately 69 km", "Approximately 85 km"],
-    "correctAnswer": "Approximately 69 km"
+    "question": "What natural phenomenon is Telangana's Chief Minister directing officials to prepare an action plan for?",
+    "options": ["Monsoon Floods", "Heatwave", "El Nino", "Cyclone"],
+    "correctAnswer": "El Nino"
   },
   {
     "id": 3,
-    "question": "Andhra Pradesh recently launched a new scheme to provide financial assistance for women's self-help groups, known as what?",
-    "options": ["Amma Vodi", "YSR Cheyutha", "Jagananna Vidya Deevena", "YSR Aasara"],
-    "correctAnswer": "YSR Aasara"
+    "question": "What percentage of monsoon rainfall deficit has Telangana faced, leading to drought conditions, according to the news?",
+    "options": ["10 percent", "15 percent", "17 percent", "20 percent"],
+    "correctAnswer": "17 percent"
   },
   {
     "id": 4,
-    "question": "Which major river is the primary source of water for the Palamuru-Rangareddy Lift Irrigation Scheme in Telangana?",
-    "options": ["Godavari River", "Krishna River", "Musi River", "Manjeera River"],
-    "correctAnswer": "Krishna River"
+    "question": "Which type of conditions has Telangana been facing due to the deficit in monsoon rainfall?",
+    "options": ["Flooding", "Heatwave", "Drought", "Cyclone impact"],
+    "correctAnswer": "Drought"
   },
   {
     "id": 5,
-    "question": "What is the name of the new integrated police command and control center recently inaugurated in Hyderabad, often referred to as a 'Police Twin Towers'?",
-    "options": ["Cyberabad Security Hub", "Hyderabad Police Central Tower", "Telangana State Police Integrated Command & Control Centre", "Rachakonda Police Command Center"],
-    "correctAnswer": "Telangana State Police Integrated Command & Control Centre"
+    "question": "Which three essential needs were highlighted in the Telangana CM's meeting to tackle the repercussions of El Nino?",
+    "options": ["Healthcare, Education, Finance", "Agriculture, Water, Electricity", "Tourism, Infrastructure, Mining", "Industry, Transport, Communication"],
+    "correctAnswer": "Agriculture, Water, Electricity"
   },
   {
     "id": 6,
-    "question": "Which major port in Andhra Pradesh is currently undergoing a significant modernization and expansion project?",
-    "options": ["Kakinada Port", "Machilipatnam Port", "Gangavaram Port", "Visakhapatnam Port"],
-    "correctAnswer": "Visakhapatnam Port"
+    "question": "What was the primary directive given by the Telangana CM to officials regarding El Nino?",
+    "options": ["To implement new agricultural schemes", "To prepare an El Nino action plan", "To conduct a statewide survey", "To seek central government aid"],
+    "correctAnswer": "To prepare an El Nino action plan"
   },
   {
     "id": 7,
-    "question": "Telangana's 'Kanti Velugu' program is a flagship initiative focused on which sector?",
-    "options": ["Education", "Agriculture", "Health (Eye Screenings)", "Rural Development"],
-    "correctAnswer": "Health (Eye Screenings)"
+    "question": "What kind of meeting did CM A Revanth Reddy convene to address the El Nino repercussions?",
+    "options": ["A routine review meeting", "A cabinet meeting", "An urgent meeting", "A public outreach meeting"],
+    "correctAnswer": "An urgent meeting"
   },
   {
     "id": 8,
-    "question": "Which city in Andhra Pradesh is designated as the 'Executive Capital' as per the state's three-capital proposal?",
-    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Vijayawada"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What did CM Reddy underscore the need for regarding energy use in Telangana in response to El Nino?",
+    "options": ["Increasing energy production", "Reducing energy tariffs", "Community engagement in responsible energy use", "Exploring renewable energy sources"],
+    "correctAnswer": "Community engagement in responsible energy use"
   },
   {
     "id": 9,
-    "question": "The 'Rythu Bandhu' scheme, a direct benefit transfer program for farmers, is implemented by the government of which state?",
-    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "What is being planned as a follow-up to the CM's meeting on El Nino repercussions in Telangana?",
+    "options": ["A press conference", "A session with ministers to explore agricultural strategies", "A visit to affected regions", "A relief fund announcement"],
+    "correctAnswer": "A session with ministers to explore agricultural strategies"
   },
   {
     "id": 10,
-    "question": "Who was recently appointed as the Chief Justice of the Telangana High Court?",
-    "options": ["Alok Aradhe", "Ujjal Bhuyan", "Hima Kohli", "Satish Chandra Sharma"],
-    "correctAnswer": "Alok Aradhe"
+    "question": "What specific type of strategies are to be explored in the follow-up session with ministers regarding the El Nino situation in Telangana?",
+    "options": ["Economic strategies", "Health strategies", "Agricultural strategies", "Industrial strategies"],
+    "correctAnswer": "Agricultural strategies"
   },
   {
     "id": 11,
-    "question": "Andhra Pradesh is a leading producer of which crop, often called the 'Chilli Bowl of India'?",
-    "options": ["Cotton", "Turmeric", "Chillies", "Tobacco"],
-    "correctAnswer": "Chillies"
+    "question": "According to the news, what is the main cause of the current drought conditions in Telangana?",
+    "options": ["Excessive irrigation", "Urbanization", "Monsoon rainfall deficit", "Industrial pollution"],
+    "correctAnswer": "Monsoon rainfall deficit"
   },
   {
     "id": 12,
-    "question": "What is the primary focus of the 'Palle Pragathi' program launched by the Telangana government?",
-    "options": ["Industrial development", "Urban infrastructure", "Village development and sanitation", "Women empowerment"],
-    "correctAnswer": "Village development and sanitation"
+    "question": "The Telangana CM directed officials to prepare an action plan for what specific issue?",
+    "options": ["Flood management", "Industrial growth", "El Nino repercussions", "Tourism promotion"],
+    "correctAnswer": "El Nino repercussions"
   },
   {
     "id": 13,
-    "question": "Which Information Technology Special Economic Zone (SEZ) is a prominent hub for IT and ITeS companies in Visakhapatnam, Andhra Pradesh?",
-    "options": ["HITEC City", "Rushikonda IT SEZ", "Cyber Towers", "Gachibowli IT Park"],
-    "correctAnswer": "Rushikonda IT SEZ"
-  },
-  {
-    "id": 14,
-    "question": "The 'Amma Vodi' scheme, providing financial assistance to mothers for sending their children to private schools, is a flagship program of which state?",
-    "options": ["Telangana", "Andhra Pradesh", "Tamil Nadu", "Kerala"],
-    "correctAnswer": "Andhra Pradesh"
-  },
-  {
-    "id": 15,
-    "question": "Which Indian city is home to the Ramoji Film City, one of the largest film studio complexes in the world?",
-    "options": ["Bengaluru", "Chennai", "Mumbai", "Hyderabad"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 16,
-    "question": "The 'Dharani' portal was launched by the Telangana government primarily for which purpose?",
-    "options": ["Online education", "Land records management", "Healthcare services", "Public transport booking"],
-    "correctAnswer": "Land records management"
-  },
-  {
-    "id": 17,
-    "question": "What is the name of the airport inaugurated in Andhra Pradesh recently to enhance regional connectivity in the Kurnool region?",
-    "options": ["Vijayawada International Airport", "Tirupati International Airport", "Orvakal Airport (Kurnool Airport)", "Kadapa Airport"],
-    "correctAnswer": "Orvakal Airport (Kurnool Airport)"
-  },
-  {
-    "id": 18,
-    "question": "The Sammakka Saralamma Jatara, one of the largest tribal festivals in Asia, is celebrated biennially in which state?",
-    "options": ["Odisha", "Chhattisgarh", "Telangana", "Andhra Pradesh"],
+    "question": "Which state's Chief Minister recently convened a meeting to tackle the repercussions of El Nino?",
+    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Kerala"],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 14,
+    "question": "What was one key aspect of community involvement emphasized by the Telangana CM for the El Nino action plan?",
+    "options": ["Participating in tree plantation drives", "Responsible energy use and awareness", "Volunteering for water conservation projects", "Donating to drought relief funds"],
+    "correctAnswer": "Responsible energy use and awareness"
+  },
+  {
+    "id": 15,
+    "question": "The repercussions of El Nino in Telangana primarily impacted which three areas mentioned by the CM?",
+    "options": ["Housing, Transport, Education", "Agriculture, Water, Electricity", "Healthcare, Sanitation, Roads", "Forestry, Wildlife, Tourism"],
+    "correctAnswer": "Agriculture, Water, Electricity"
+  },
+  {
+    "id": 16,
+    "question": "How did the 17 percent monsoon rainfall deficit affect Telangana, as stated in the news?",
+    "options": ["Led to severe flooding", "Caused a bumper harvest", "Resulted in drought conditions", "Improved groundwater levels"],
+    "correctAnswer": "Resulted in drought conditions"
+  },
+  {
+    "id": 17,
+    "question": "What kind of strategies will be discussed with ministers following the urgent meeting on El Nino in Telangana?",
+    "options": ["Financial investment strategies", "Public health strategies", "Agricultural strategies", "Industrial development strategies"],
+    "correctAnswer": "Agricultural strategies"
+  },
+  {
+    "id": 18,
+    "question": "What was the reported status of the monsoon rainfall in Telangana that prompted the CM's urgent meeting?",
+    "options": ["17 percent surplus", "Normal rainfall", "17 percent deficit", "Unrecorded rainfall"],
+    "correctAnswer": "17 percent deficit"
+  },
+  {
     "id": 19,
-    "question": "Who is the current Chief Secretary of Andhra Pradesh?",
-    "options": ["Sameer Sharma", "K.S. Jawahar Reddy", "Adityanath Das", "Neerabh Kumar Prasad"],
-    "correctAnswer": "Neerabh Kumar Prasad"
+    "question": "In the context of El Nino, what did the Telangana CM emphasize for the community to be involved in?",
+    "options": ["Rainwater harvesting projects", "Responsible energy use and awareness", "Disaster relief operations", "Awareness about global warming"],
+    "correctAnswer": "Responsible energy use and awareness"
   },
   {
     "id": 20,
-    "question": "Which project in Telangana aims to provide safe drinking water to every household through pipelines?",
-    "options": ["Mission Bhagiratha", "Haritha Haram", "Kaleshwaram Project", "Rythu Vedika"],
-    "correctAnswer": "Mission Bhagiratha"
+    "question": "What is the primary objective of the El Nino action plan being prepared by Telangana officials?",
+    "options": ["To attract foreign investment", "To mitigate the repercussions of El Nino", "To promote cultural events", "To improve urban infrastructure"],
+    "correctAnswer": "To mitigate the repercussions of El Nino"
   },
   {
     "id": 21,
-    "question": "Andhra Pradesh has recently attracted significant investments in which advanced manufacturing sector, particularly in the Sri City region?",
-    "options": ["Automobile manufacturing", "Electronics manufacturing", "Aerospace components", "Pharmaceutical production"],
-    "correctAnswer": "Electronics manufacturing"
+    "question": "The news states that Telangana has faced a 17 percent deficit in what specific type of rainfall?",
+    "options": ["Winter rainfall", "Post-monsoon rainfall", "Pre-monsoon rainfall", "Monsoon rainfall"],
+    "correctAnswer": "Monsoon rainfall"
   },
   {
     "id": 22,
-    "question": "The 'T-Hub', an innovation ecosystem and startup incubator, is located in which city?",
-    "options": ["Visakhapatnam", "Vijayawada", "Hyderabad", "Warangal"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which official position does A Revanth Reddy hold in Telangana, according to the news?",
+    "options": ["Finance Minister", "Chief Secretary", "Chief Minister", "Agriculture Minister"],
+    "correctAnswer": "Chief Minister"
   },
   {
     "id": 23,
-    "question": "Which UNESCO World Heritage Site in Telangana is known for its intricate Kakatiya architecture?",
-    "options": ["Charminar", "Golconda Fort", "Ramappa Temple (Kakatiya Rudreshwara Temple)", "Bhongir Fort"],
-    "correctAnswer": "Ramappa Temple (Kakatiya Rudreshwara Temple)"
+    "question": "What crucial resource management was a focus of the urgent meeting regarding El Nino in Telangana, specifically mentioned alongside agriculture and electricity?",
+    "options": ["Mineral resources", "Forest resources", "Water resources", "Human resources"],
+    "correctAnswer": "Water resources"
   },
   {
     "id": 24,
-    "question": "Andhra Pradesh recently initiated a program to convert all government schools into English medium schools, along with infrastructure upgrades, named what?",
-    "options": ["Amma Vodi", "Nadu-Nedu", "Jagananna Vidya Kanuka", "Mana Badi"],
-    "correctAnswer": "Nadu-Nedu"
+    "question": "The follow-up session with ministers in Telangana will specifically explore strategies for which sector in light of El Nino challenges?",
+    "options": ["Education", "Healthcare", "Agriculture", "Industry"],
+    "correctAnswer": "Agriculture"
   },
   {
     "id": 25,
-    "question": "What is the new state emblem of Telangana, prominently featuring the Kakatiya Arch and Charminar?",
-    "options": ["Gopuram and Elephant", "Swarna Simhasanam and Lotus", "Kakatiya Arch and Charminar", "Warangal Fort and Kohinoor Diamond"],
-    "correctAnswer": "Kakatiya Arch and Charminar"
+    "question": "What was the overall nature of the meeting convened by the Telangana CM regarding El Nino repercussions?",
+    "options": ["Casual and informal", "Long-term planning focused", "Urgent and action-oriented", "Review of past policies"],
+    "correctAnswer": "Urgent and action-oriented"
   }
 ]

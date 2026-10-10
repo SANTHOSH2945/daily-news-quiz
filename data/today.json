@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Supreme Court recently stated there's nothing wrong in deleting voters who are dead or have shifted residence. How would this ruling impact electoral roll maintenance in Telangana?",
-    "options": [
-      "It would simplify the process for election officials.",
-      "It would make deletions more challenging.",
-      "It would require a new census.",
-      "It would primarily affect voter registration for youth."
-    ],
-    "correctAnswer": "It would simplify the process for election officials."
+    "question": "Who was recently sworn in as the new Chief Minister of Telangana after the 2023 assembly elections?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Eatala Rajender"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 2,
-    "question": "What is Form 7 related to, in the context of electoral rolls, which has recently seen limits imposed by the Election Commission of India?",
-    "options": [
-      "Voter registration for new voters",
-      "Transfer of voter registration",
-      "Deletion or objection to an entry in the electoral roll",
-      "Updating voter address details"
-    ],
-    "correctAnswer": "Deletion or objection to an entry in the electoral roll"
+    "question": "The Hyderabad Metro Rail network currently covers approximately how many operational kilometers, making it one of the largest in India?",
+    "options": ["Approximately 40 km", "Approximately 50 km", "Approximately 69 km", "Approximately 85 km"],
+    "correctAnswer": "Approximately 69 km"
   },
   {
     "id": 3,
-    "question": "The Election Commission of India recently limited the bulk filing of Form 7 applications to how many per elector?",
-    "options": [
-      "5",
-      "10",
-      "15",
-      "20"
-    ],
-    "correctAnswer": "10"
+    "question": "Andhra Pradesh recently launched a new scheme to provide financial assistance for women's self-help groups, known as what?",
+    "options": ["Amma Vodi", "YSR Cheyutha", "Jagananna Vidya Deevena", "YSR Aasara"],
+    "correctAnswer": "YSR Aasara"
   },
   {
     "id": 4,
-    "question": "Which national judicial body recently clarified the process of deleting names from electoral rolls, impacting all states including Andhra Pradesh?",
-    "options": [
-      "High Court",
-      "Supreme Court",
-      "National Green Tribunal",
-      "Election Commission of India"
-    ],
-    "correctAnswer": "Supreme Court"
+    "question": "Which major river is the primary source of water for the Palamuru-Rangareddy Lift Irrigation Scheme in Telangana?",
+    "options": ["Godavari River", "Krishna River", "Musi River", "Manjeera River"],
+    "correctAnswer": "Krishna River"
   },
   {
     "id": 5,
-    "question": "Concerns around the deletion of names from electoral rolls, particularly addressed by the SC, are relevant for ensuring fair elections in states like Andhra Pradesh and Telangana. What is the primary reason for these deletions deemed acceptable by the SC?",
-    "options": [
-      "Voters not participating in previous elections",
-      "Voters being deceased or having shifted residence",
-      "Voters changing political affiliation",
-      "Voters failing to update their Aadhaar link"
-    ],
-    "correctAnswer": "Voters being deceased or having shifted residence"
+    "question": "What is the name of the new integrated police command and control center recently inaugurated in Hyderabad, often referred to as a 'Police Twin Towers'?",
+    "options": ["Cyberabad Security Hub", "Hyderabad Police Central Tower", "Telangana State Police Integrated Command & Control Centre", "Rachakonda Police Command Center"],
+    "correctAnswer": "Telangana State Police Integrated Command & Control Centre"
   },
   {
     "id": 6,
-    "question": "The Election Commission's decision to limit Form 7 applications was made amidst what controversy?",
-    "options": [
-      "Allegations of voter fraud by new registrants",
-      "Reports of bulk filing of deletion requests",
-      "Disputes over election dates",
-      "Lack of awareness about voter registration"
-    ],
-    "correctAnswer": "Reports of bulk filing of deletion requests"
+    "question": "Which major port in Andhra Pradesh is currently undergoing a significant modernization and expansion project?",
+    "options": ["Kakinada Port", "Machilipatnam Port", "Gangavaram Port", "Visakhapatnam Port"],
+    "correctAnswer": "Visakhapatnam Port"
   },
   {
     "id": 7,
-    "question": "Which form is primarily used by citizens in India to object to or seek deletion of a name from the electoral roll?",
-    "options": [
-      "Form 6",
-      "Form 8",
-      "Form 7",
-      "Form 6A"
-    ],
-    "correctAnswer": "Form 7"
+    "question": "Telangana's 'Kanti Velugu' program is a flagship initiative focused on which sector?",
+    "options": ["Education", "Agriculture", "Health (Eye Screenings)", "Rural Development"],
+    "correctAnswer": "Health (Eye Screenings)"
   },
   {
     "id": 8,
-    "question": "How could the Supreme Court's direction to prioritize challenges to deletions over pleas for deletion affect the electoral process in Andhra Pradesh ahead of an election?",
-    "options": [
-      "It would speed up the overall deletion process.",
-      "It would ensure a more accurate and vetted electoral roll by addressing grievances first.",
-      "It would make it easier to add new voters.",
-      "It would reduce the need for voter awareness campaigns."
-    ],
-    "correctAnswer": "It would ensure a more accurate and vetted electoral roll by addressing grievances first."
+    "question": "Which city in Andhra Pradesh is designated as the 'Executive Capital' as per the state's three-capital proposal?",
+    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Vijayawada"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 9,
-    "question": "What is the significance of the Election Commission limiting Form 7 submissions, especially for political parties operating in states like Telangana?",
-    "options": [
-      "It encourages more individual applications.",
-      "It aims to prevent misuse of the deletion process for political gains.",
-      "It simplifies the task of election officials.",
-      "It standardizes the application format."
-    ],
-    "correctAnswer": "It aims to prevent misuse of the deletion process for political gains."
+    "question": "The 'Rythu Bandhu' scheme, a direct benefit transfer program for farmers, is implemented by the government of which state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Maharashtra"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 10,
-    "question": "The recent guidelines on electoral roll maintenance, including acceptable reasons for deletion, are primarily set and overseen by which national authority in India?",
-    "options": [
-      "Ministry of Home Affairs",
-      "Law Commission of India",
-      "Election Commission of India",
-      "National Human Rights Commission"
-    ],
-    "correctAnswer": "Election Commission of India"
+    "question": "Who was recently appointed as the Chief Justice of the Telangana High Court?",
+    "options": ["Alok Aradhe", "Ujjal Bhuyan", "Hima Kohli", "Satish Chandra Sharma"],
+    "correctAnswer": "Alok Aradhe"
   },
   {
     "id": 11,
-    "question": "Which national body's directive regarding voter list deletions mandates that challenges to existing deletions be given precedence over new deletion requests?",
-    "options": [
-      "Parliament of India",
-      "Supreme Court of India",
-      "High Court of respective state",
-      "Central Vigilance Commission"
-    ],
-    "correctAnswer": "Supreme Court of India"
+    "question": "Andhra Pradesh is a leading producer of which crop, often called the 'Chilli Bowl of India'?",
+    "options": ["Cotton", "Turmeric", "Chillies", "Tobacco"],
+    "correctAnswer": "Chillies"
   },
   {
     "id": 12,
-    "question": "The Election Commission of India's recent actions on Form 7 applications aim to uphold the integrity of which core democratic process across all Indian states, including Andhra Pradesh?",
-    "options": [
-      "Legislative debates",
-      "Electoral rolls management",
-      "Judicial appointments",
-      "Public referendums"
-    ],
-    "correctAnswer": "Electoral rolls management"
+    "question": "What is the primary focus of the 'Palle Pragathi' program launched by the Telangana government?",
+    "options": ["Industrial development", "Urban infrastructure", "Village development and sanitation", "Women empowerment"],
+    "correctAnswer": "Village development and sanitation"
   },
   {
     "id": 13,
-    "question": "A recent proposal suggests that chemists and wholesalers may need government approval to advertise prescription drugs. Which sector in Telangana would be directly affected by this regulation?",
-    "options": [
-      "Automobile industry",
-      "Pharmaceutical retail and wholesale",
-      "IT services",
-      "Agriculture"
-    ],
-    "correctAnswer": "Pharmaceutical retail and wholesale"
+    "question": "Which Information Technology Special Economic Zone (SEZ) is a prominent hub for IT and ITeS companies in Visakhapatnam, Andhra Pradesh?",
+    "options": ["HITEC City", "Rushikonda IT SEZ", "Cyber Towers", "Gachibowli IT Park"],
+    "correctAnswer": "Rushikonda IT SEZ"
   },
   {
     "id": 14,
-    "question": "What kind of drugs are proposed to require government nod for advertisement by chemists and wholesalers?",
-    "options": [
-      "Over-the-counter drugs",
-      "Herbal remedies",
-      "Prescription drugs",
-      "Vitamins and supplements"
-    ],
-    "correctAnswer": "Prescription drugs"
+    "question": "The 'Amma Vodi' scheme, providing financial assistance to mothers for sending their children to private schools, is a flagship program of which state?",
+    "options": ["Telangana", "Andhra Pradesh", "Tamil Nadu", "Kerala"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 15,
-    "question": "The proposed regulation on advertising prescription drugs aims to achieve what primary objective in the pharmaceutical sector across states like Andhra Pradesh?",
-    "options": [
-      "Increase drug sales",
-      "Promote self-medication",
-      "Ensure responsible advertising and consumer protection",
-      "Reduce drug manufacturing costs"
-    ],
-    "correctAnswer": "Ensure responsible advertising and consumer protection"
+    "question": "Which Indian city is home to the Ramoji Film City, one of the largest film studio complexes in the world?",
+    "options": ["Bengaluru", "Chennai", "Mumbai", "Hyderabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 16,
-    "question": "Which national body or ministry would typically be responsible for formulating regulations concerning the advertising of prescription drugs in India, impacting states like Telangana?",
-    "options": [
-      "Ministry of Finance",
-      "Ministry of Health and Family Welfare",
-      "Ministry of Commerce and Industry",
-      "Ministry of Information and Broadcasting"
-    ],
-    "correctAnswer": "Ministry of Health and Family Welfare"
+    "question": "The 'Dharani' portal was launched by the Telangana government primarily for which purpose?",
+    "options": ["Online education", "Land records management", "Healthcare services", "Public transport booking"],
+    "correctAnswer": "Land records management"
   },
   {
     "id": 17,
-    "question": "If implemented, how would the new rule regarding advertising prescription drugs specifically impact pharmacies and drug distributors in a major city like Hyderabad, Telangana?",
-    "options": [
-      "They would be free to advertise any drug without restriction.",
-      "They would need to seek prior government permission for advertising prescription drugs.",
-      "They would only be allowed to advertise generic drugs.",
-      "They would be prohibited from advertising any drugs."
-    ],
-    "correctAnswer": "They would need to seek prior government permission for advertising prescription drugs."
+    "question": "What is the name of the airport inaugurated in Andhra Pradesh recently to enhance regional connectivity in the Kurnool region?",
+    "options": ["Vijayawada International Airport", "Tirupati International Airport", "Orvakal Airport (Kurnool Airport)", "Kadapa Airport"],
+    "correctAnswer": "Orvakal Airport (Kurnool Airport)"
   },
   {
     "id": 18,
-    "question": "A recent stir was organized against the Chief Election Commissioner (CEC) by certain political parties. Which national political party, also prominent in Telangana and Andhra Pradesh, reportedly stayed away from this protest?",
-    "options": [
-      "Bharatiya Janata Party (BJP)",
-      "Indian National Congress",
-      "Aam Aadmi Party (AAP)",
-      "Communist Party of India (Marxist)"
-    ],
-    "correctAnswer": "Indian National Congress"
+    "question": "The Sammakka Saralamma Jatara, one of the largest tribal festivals in Asia, is celebrated biennially in which state?",
+    "options": ["Odisha", "Chhattisgarh", "Telangana", "Andhra Pradesh"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 19,
-    "question": "Which political fronts, as per the news, reportedly joined the stir against the Chief Election Commissioner (CEC) while the Congress stayed away?",
-    "options": [
-      "BJP and TMC",
-      "Left and AAP",
-      "DMK and AIADMK",
-      "BJD and YSRCP"
-    ],
-    "correctAnswer": "Left and AAP"
+    "question": "Who is the current Chief Secretary of Andhra Pradesh?",
+    "options": ["Sameer Sharma", "K.S. Jawahar Reddy", "Adityanath Das", "Neerabh Kumar Prasad"],
+    "correctAnswer": "Neerabh Kumar Prasad"
   },
   {
     "id": 20,
-    "question": "The Chief Election Commissioner (CEC) is the head of which constitutional body responsible for conducting elections in India, including in states like Andhra Pradesh?",
-    "options": [
-      "Supreme Court of India",
-      "Parliament of India",
-      "Election Commission of India",
-      "Planning Commission"
-    ],
-    "correctAnswer": "Election Commission of India"
+    "question": "Which project in Telangana aims to provide safe drinking water to every household through pipelines?",
+    "options": ["Mission Bhagiratha", "Haritha Haram", "Kaleshwaram Project", "Rythu Vedika"],
+    "correctAnswer": "Mission Bhagiratha"
   },
   {
     "id": 21,
-    "question": "The stir against the CEC by certain political parties signifies what general sentiment regarding the functioning of the election body?",
-    "options": [
-      "Appreciation for its efficiency",
-      "Concerns about impartiality or procedural fairness",
-      "Demand for more holidays",
-      "Request for increased funding"
-    ],
-    "correctAnswer": "Concerns about impartiality or procedural fairness"
+    "question": "Andhra Pradesh has recently attracted significant investments in which advanced manufacturing sector, particularly in the Sri City region?",
+    "options": ["Automobile manufacturing", "Electronics manufacturing", "Aerospace components", "Pharmaceutical production"],
+    "correctAnswer": "Electronics manufacturing"
   },
   {
     "id": 22,
-    "question": "What is the term for an election held to fill a vacant seat in a legislative body due to resignation, death, or disqualification of a member, which is a common occurrence across states like Telangana and Andhra Pradesh?",
-    "options": [
-      "General Election",
-      "Mid-term Election",
-      "By-election (Bypoll)",
-      "Presidential Election"
-    ],
-    "correctAnswer": "By-election (Bypoll)"
+    "question": "The 'T-Hub', an innovation ecosystem and startup incubator, is located in which city?",
+    "options": ["Visakhapatnam", "Vijayawada", "Hyderabad", "Warangal"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 23,
-    "question": "Maintaining accurate electoral rolls is fundamental for free and fair elections in any democratic state. Which specific document serves as primary proof of a citizen's right to vote in India and is used in states like Andhra Pradesh?",
-    "options": [
-      "Aadhaar Card",
-      "Passport",
-      "Voter ID Card (EPIC)",
-      "Driving License"
-    ],
-    "correctAnswer": "Voter ID Card (EPIC)"
+    "question": "Which UNESCO World Heritage Site in Telangana is known for its intricate Kakatiya architecture?",
+    "options": ["Charminar", "Golconda Fort", "Ramappa Temple (Kakatiya Rudreshwara Temple)", "Bhongir Fort"],
+    "correctAnswer": "Ramappa Temple (Kakatiya Rudreshwara Temple)"
   },
   {
     "id": 24,
-    "question": "The Election Commission of India's role in electoral reforms, such as regulating Form 7 filings, primarily aims to enhance which aspect of democratic governance in states like Telangana?",
-    "options": [
-      "Economic growth",
-      "Transparency and fairness of elections",
-      "International relations",
-      "Cultural development"
-    ],
-    "correctAnswer": "Transparency and fairness of elections"
+    "question": "Andhra Pradesh recently initiated a program to convert all government schools into English medium schools, along with infrastructure upgrades, named what?",
+    "options": ["Amma Vodi", "Nadu-Nedu", "Jagananna Vidya Kanuka", "Mana Badi"],
+    "correctAnswer": "Nadu-Nedu"
   },
   {
     "id": 25,
-    "question": "Which national legal principle ensures that the judiciary reviews administrative actions, as seen in the Supreme Court's involvement in electoral roll matters for states like Andhra Pradesh?",
-    "options": [
-      "Separation of Powers",
-      "Judicial Review",
-      "Doctrine of Lapse",
-      "Parliamentary Sovereignty"
-    ],
-    "correctAnswer": "Judicial Review"
+    "question": "What is the new state emblem of Telangana, prominently featuring the Kakatiya Arch and Charminar?",
+    "options": ["Gopuram and Elephant", "Swarna Simhasanam and Lotus", "Kakatiya Arch and Charminar", "Warangal Fort and Kohinoor Diamond"],
+    "correctAnswer": "Kakatiya Arch and Charminar"
   }
 ]

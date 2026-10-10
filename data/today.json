@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What did the Supreme Court recently affirm regarding the deletion of names from electoral rolls, a principle applicable to all Indian states including Telangana and Andhra Pradesh?",
-    "options": ["Names can only be deleted with the voter's explicit consent.", "Deleting names of deceased or shifted voters is permissible.", "Only the Election Commission can initiate deletion requests.", "Deletions are strictly prohibited during election periods."],
-    "correctAnswer": "Deleting names of deceased or shifted voters is permissible."
+    "question": "The Supreme Court recently stated there's nothing wrong in deleting voters who are dead or have shifted residence. How would this ruling impact electoral roll maintenance in Telangana?",
+    "options": [
+      "It would simplify the process for election officials.",
+      "It would make deletions more challenging.",
+      "It would require a new census.",
+      "It would primarily affect voter registration for youth."
+    ],
+    "correctAnswer": "It would simplify the process for election officials."
   },
   {
     "id": 2,
-    "question": "The Election Commission of India recently introduced a limit on bulk filing of which specific form, a measure applicable across all states including Telangana and Andhra Pradesh, aimed at addressing concerns about voter list manipulation?",
-    "options": ["Form 6", "Form 7", "Form 8", "Form 9"],
-    "correctAnswer": "Form 7"
+    "question": "What is Form 7 related to, in the context of electoral rolls, which has recently seen limits imposed by the Election Commission of India?",
+    "options": [
+      "Voter registration for new voters",
+      "Transfer of voter registration",
+      "Deletion or objection to an entry in the electoral roll",
+      "Updating voter address details"
+    ],
+    "correctAnswer": "Deletion or objection to an entry in the electoral roll"
   },
   {
     "id": 3,
-    "question": "What is the new limit set by the Election Commission for filing Form 7 applications by a single elector, a regulation that impacts the electoral process in states like Telangana and Andhra Pradesh?",
-    "options": ["5 applications", "10 applications", "15 applications", "20 applications"],
-    "correctAnswer": "10 applications"
+    "question": "The Election Commission of India recently limited the bulk filing of Form 7 applications to how many per elector?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswer": "10"
   },
   {
     "id": 4,
-    "question": "What is the primary purpose of Form 7 in the Indian electoral process, including in Andhra Pradesh and Telangana, which was recently subject to new limits by the EC?",
-    "options": ["Application for new voter registration.", "Request for correction in voter details.", "Objection to inclusion of name or request for deletion.", "Change of address within the same constituency."],
-    "correctAnswer": "Objection to inclusion of name or request for deletion."
+    "question": "Which national judicial body recently clarified the process of deleting names from electoral rolls, impacting all states including Andhra Pradesh?",
+    "options": [
+      "High Court",
+      "Supreme Court",
+      "National Green Tribunal",
+      "Election Commission of India"
+    ],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 5,
-    "question": "Who typically has the authority to request the deletion of a voter's name from the electoral roll in India, a process overseen by the Election Commission in all states like Telangana?",
-    "options": ["Only political parties.", "Any elector, or the electoral registration officer suo motu.", "Only the Chief Election Commissioner.", "Local municipal authorities."],
-    "correctAnswer": "Any elector, or the electoral registration officer suo motu."
+    "question": "Concerns around the deletion of names from electoral rolls, particularly addressed by the SC, are relevant for ensuring fair elections in states like Andhra Pradesh and Telangana. What is the primary reason for these deletions deemed acceptable by the SC?",
+    "options": [
+      "Voters not participating in previous elections",
+      "Voters being deceased or having shifted residence",
+      "Voters changing political affiliation",
+      "Voters failing to update their Aadhaar link"
+    ],
+    "correctAnswer": "Voters being deceased or having shifted residence"
   },
   {
     "id": 6,
-    "question": "Regarding challenges to voter list deletions, what did the Supreme Court emphasize should be prioritized by electoral authorities in all states, including Andhra Pradesh?",
-    "options": ["Pleas for bulk deletion requests.", "Challenges against deletions by affected individuals.", "Data verification by local authorities.", "Expedited new registrations."],
-    "correctAnswer": "Challenges against deletions by affected individuals."
+    "question": "The Election Commission's decision to limit Form 7 applications was made amidst what controversy?",
+    "options": [
+      "Allegations of voter fraud by new registrants",
+      "Reports of bulk filing of deletion requests",
+      "Disputes over election dates",
+      "Lack of awareness about voter registration"
+    ],
+    "correctAnswer": "Reports of bulk filing of deletion requests"
   },
   {
     "id": 7,
-    "question": "Besides being deceased, what is another common reason affirmed by the Supreme Court for permissible deletion of a voter's name from the electoral roll in India?",
-    "options": ["Non-payment of taxes.", "Shifting residence to another constituency.", "Absence from the locality for more than a year.", "Failure to update Aadhaar details."],
-    "correctAnswer": "Shifting residence to another constituency."
+    "question": "Which form is primarily used by citizens in India to object to or seek deletion of a name from the electoral roll?",
+    "options": [
+      "Form 6",
+      "Form 8",
+      "Form 7",
+      "Form 6A"
+    ],
+    "correctAnswer": "Form 7"
   },
   {
     "id": 8,
-    "question": "Which autonomous body in India is responsible for the administration of elections and maintaining electoral rolls, including in states like Telangana and Andhra Pradesh?",
-    "options": ["Supreme Court of India", "Ministry of Home Affairs", "Election Commission of India", "State Legislative Assemblies"],
-    "correctAnswer": "Election Commission of India"
+    "question": "How could the Supreme Court's direction to prioritize challenges to deletions over pleas for deletion affect the electoral process in Andhra Pradesh ahead of an election?",
+    "options": [
+      "It would speed up the overall deletion process.",
+      "It would ensure a more accurate and vetted electoral roll by addressing grievances first.",
+      "It would make it easier to add new voters.",
+      "It would reduce the need for voter awareness campaigns."
+    ],
+    "correctAnswer": "It would ensure a more accurate and vetted electoral roll by addressing grievances first."
   },
   {
     "id": 9,
-    "question": "Supreme Court rulings regarding electoral rolls apply universally across all Indian states, including Telangana and Andhra Pradesh. This highlights the _______ nature of such judgments.",
-    "options": ["Advisory", "Binding", "Recommendatory", "Provisional"],
-    "correctAnswer": "Binding"
+    "question": "What is the significance of the Election Commission limiting Form 7 submissions, especially for political parties operating in states like Telangana?",
+    "options": [
+      "It encourages more individual applications.",
+      "It aims to prevent misuse of the deletion process for political gains.",
+      "It simplifies the task of election officials.",
+      "It standardizes the application format."
+    ],
+    "correctAnswer": "It aims to prevent misuse of the deletion process for political gains."
   },
   {
     "id": 10,
-    "question": "The recent focus by the EC and SC on voter list deletions and Form 7 limitations primarily aims to ensure what aspect of electoral rolls in all Indian states?",
-    "options": ["Maximum inclusivity of all adults.", "Accuracy and purity of the electoral rolls.", "Rapid expansion of the voter base.", "Simplification of election procedures for officials."],
-    "correctAnswer": "Accuracy and purity of the electoral rolls."
+    "question": "The recent guidelines on electoral roll maintenance, including acceptable reasons for deletion, are primarily set and overseen by which national authority in India?",
+    "options": [
+      "Ministry of Home Affairs",
+      "Law Commission of India",
+      "Election Commission of India",
+      "National Human Rights Commission"
+    ],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 11,
-    "question": "Which entities may soon require government approval to advertise prescription drugs in India, a regulation that would apply to businesses in Telangana and Andhra Pradesh?",
-    "options": ["Only pharmaceutical manufacturers.", "Chemists and wholesalers.", "Doctors and medical practitioners.", "Hospitals and clinics."],
-    "correctAnswer": "Chemists and wholesalers"
+    "question": "Which national body's directive regarding voter list deletions mandates that challenges to existing deletions be given precedence over new deletion requests?",
+    "options": [
+      "Parliament of India",
+      "Supreme Court of India",
+      "High Court of respective state",
+      "Central Vigilance Commission"
+    ],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 12,
-    "question": "The potential requirement for government nod to advertise prescription drugs in India is likely aimed at what?",
-    "options": ["Boosting the sales of generic medicines.", "Preventing misleading claims and promoting responsible drug use.", "Encouraging more competition in the pharmaceutical market.", "Reducing the overall cost of medicines for consumers."],
-    "correctAnswer": "Preventing misleading claims and promoting responsible drug use."
+    "question": "The Election Commission of India's recent actions on Form 7 applications aim to uphold the integrity of which core democratic process across all Indian states, including Andhra Pradesh?",
+    "options": [
+      "Legislative debates",
+      "Electoral rolls management",
+      "Judicial appointments",
+      "Public referendums"
+    ],
+    "correctAnswer": "Electoral rolls management"
   },
   {
     "id": 13,
-    "question": "Which Union Ministry is typically responsible for formulating policies and regulations concerning the advertising of prescription drugs in India, impacting states like Andhra Pradesh?",
-    "options": ["Ministry of Finance", "Ministry of Commerce and Industry", "Ministry of Health and Family Welfare", "Ministry of Law and Justice."],
-    "correctAnswer": "Ministry of Health and Family Welfare"
+    "question": "A recent proposal suggests that chemists and wholesalers may need government approval to advertise prescription drugs. Which sector in Telangana would be directly affected by this regulation?",
+    "options": [
+      "Automobile industry",
+      "Pharmaceutical retail and wholesale",
+      "IT services",
+      "Agriculture"
+    ],
+    "correctAnswer": "Pharmaceutical retail and wholesale"
   },
   {
     "id": 14,
-    "question": "A new national policy requiring government approval for prescription drug advertisements would apply to pharmaceutical businesses operating in all Indian states, including Telangana and Andhra Pradesh. This demonstrates the ______ scope of such policies.",
-    "options": ["State-specific", "Union Territory-specific", "Pan-Indian", "Localized"],
-    "correctAnswer": "Pan-Indian"
+    "question": "What kind of drugs are proposed to require government nod for advertisement by chemists and wholesalers?",
+    "options": [
+      "Over-the-counter drugs",
+      "Herbal remedies",
+      "Prescription drugs",
+      "Vitamins and supplements"
+    ],
+    "correctAnswer": "Prescription drugs"
   },
   {
     "id": 15,
-    "question": "By-elections in India are typically held to fill vacancies in legislative bodies that arise due to reasons such as resignation, death, or disqualification of an elected member. These elections are conducted by which authority across all states, including Telangana?",
-    "options": ["State High Court", "Governor of the State", "Election Commission of India", "Parliament of India"],
-    "correctAnswer": "Election Commission of India"
+    "question": "The proposed regulation on advertising prescription drugs aims to achieve what primary objective in the pharmaceutical sector across states like Andhra Pradesh?",
+    "options": [
+      "Increase drug sales",
+      "Promote self-medication",
+      "Ensure responsible advertising and consumer protection",
+      "Reduce drug manufacturing costs"
+    ],
+    "correctAnswer": "Ensure responsible advertising and consumer protection"
   },
   {
     "id": 16,
-    "question": "National political parties often contest by-elections across India. What do the results of these by-elections often indicate to political analysts regarding the mood of the electorate in specific regions like Andhra Pradesh?",
-    "options": ["The immediate financial health of the state.", "Localized sentiment and the current political mood.", "The success of national economic policies.", "International diplomatic relations."],
-    "correctAnswer": "Localized sentiment and the current political mood."
+    "question": "Which national body or ministry would typically be responsible for formulating regulations concerning the advertising of prescription drugs in India, impacting states like Telangana?",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of Health and Family Welfare",
+      "Ministry of Commerce and Industry",
+      "Ministry of Information and Broadcasting"
+    ],
+    "correctAnswer": "Ministry of Health and Family Welfare"
   },
   {
     "id": 17,
-    "question": "The Indian Government recently expressed strong disapproval of certain remarks made internationally, terming them 'deeply offensive'. This highlights India's commitment to what principle in international discourse?",
-    "options": ["Economic protectionism.", "Cultural exchange.", "Protecting the dignity of its citizens abroad.", "Promoting global tourism."],
-    "correctAnswer": "Protecting the dignity of its citizens abroad."
+    "question": "If implemented, how would the new rule regarding advertising prescription drugs specifically impact pharmacies and drug distributors in a major city like Hyderabad, Telangana?",
+    "options": [
+      "They would be free to advertise any drug without restriction.",
+      "They would need to seek prior government permission for advertising prescription drugs.",
+      "They would only be allowed to advertise generic drugs.",
+      "They would be prohibited from advertising any drugs."
+    ],
+    "correctAnswer": "They would need to seek prior government permission for advertising prescription drugs."
   },
   {
     "id": 18,
-    "question": "The Chief Election Commissioner (CEC) heads which vital institution in Indian democracy, an institution whose decisions directly impact states like Telangana and Andhra Pradesh?",
-    "options": ["Supreme Court of India", "Reserve Bank of India", "Election Commission of India", "Comptroller and Auditor General"],
-    "correctAnswer": "Election Commission of India"
+    "question": "A recent stir was organized against the Chief Election Commissioner (CEC) by certain political parties. Which national political party, also prominent in Telangana and Andhra Pradesh, reportedly stayed away from this protest?",
+    "options": [
+      "Bharatiya Janata Party (BJP)",
+      "Indian National Congress",
+      "Aam Aadmi Party (AAP)",
+      "Communist Party of India (Marxist)"
+    ],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 19,
-    "question": "The Chief Election Commissioner (CEC) of India holds a crucial role in ensuring what aspect of Indian elections in all states?",
-    "options": ["Government funding for political parties.", "Free, fair, and impartial conduct of elections.", "Appointment of state governors.", "Drafting of new electoral laws."],
-    "correctAnswer": "Free, fair, and impartial conduct of elections."
+    "question": "Which political fronts, as per the news, reportedly joined the stir against the Chief Election Commissioner (CEC) while the Congress stayed away?",
+    "options": [
+      "BJP and TMC",
+      "Left and AAP",
+      "DMK and AIADMK",
+      "BJD and YSRCP"
+    ],
+    "correctAnswer": "Left and AAP"
   },
   {
     "id": 20,
-    "question": "Both the Election Commission of India and the Supreme Court of India are examples of ______ bodies established by the Constitution of India, which govern across states like Andhra Pradesh and Telangana.",
-    "options": ["Statutory", "Non-governmental", "Advisory", "Constitutional"],
-    "correctAnswer": "Constitutional"
+    "question": "The Chief Election Commissioner (CEC) is the head of which constitutional body responsible for conducting elections in India, including in states like Andhra Pradesh?",
+    "options": [
+      "Supreme Court of India",
+      "Parliament of India",
+      "Election Commission of India",
+      "Planning Commission"
+    ],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 21,
-    "question": "The process of linking Aadhaar with Voter ID is often discussed in the context of voter list purification. This voluntary process, conducted by the ECI for residents of all states including Telangana and Andhra Pradesh, primarily aims to prevent what?",
-    "options": ["Under-registration of young voters.", "Duplication of voter entries.", "Delays in election schedule.", "Increase in election expenditure."],
-    "correctAnswer": "Duplication of voter entries."
+    "question": "The stir against the CEC by certain political parties signifies what general sentiment regarding the functioning of the election body?",
+    "options": [
+      "Appreciation for its efficiency",
+      "Concerns about impartiality or procedural fairness",
+      "Demand for more holidays",
+      "Request for increased funding"
+    ],
+    "correctAnswer": "Concerns about impartiality or procedural fairness"
   },
   {
     "id": 22,
-    "question": "If an individual's name is wrongly deleted from the electoral roll in states like Andhra Pradesh or Telangana, what is the standard course of action they can take to challenge the deletion?",
-    "options": ["File a direct petition to the Supreme Court.", "Approach the Electoral Registration Officer (ERO) or an appellate authority.", "Contact their local Member of Parliament (MP).", "Wait for the next election cycle to re-register."],
-    "correctAnswer": "Approach the Electoral Registration Officer (ERO) or an appellate authority."
+    "question": "What is the term for an election held to fill a vacant seat in a legislative body due to resignation, death, or disqualification of a member, which is a common occurrence across states like Telangana and Andhra Pradesh?",
+    "options": [
+      "General Election",
+      "Mid-term Election",
+      "By-election (Bypoll)",
+      "Presidential Election"
+    ],
+    "correctAnswer": "By-election (Bypoll)"
   },
   {
     "id": 23,
-    "question": "In Telangana and Andhra Pradesh, who is the state-level official responsible for supervising elections and electoral roll management under the Election Commission of India?",
-    "options": ["District Collector", "Chief Secretary of the State", "Chief Electoral Officer (CEO) of the State", "State Election Commissioner (for local body elections)"],
-    "correctAnswer": "Chief Electoral Officer (CEO) of the State"
+    "question": "Maintaining accurate electoral rolls is fundamental for free and fair elections in any democratic state. Which specific document serves as primary proof of a citizen's right to vote in India and is used in states like Andhra Pradesh?",
+    "options": [
+      "Aadhaar Card",
+      "Passport",
+      "Voter ID Card (EPIC)",
+      "Driving License"
+    ],
+    "correctAnswer": "Voter ID Card (EPIC)"
   },
   {
     "id": 24,
-    "question": "The ongoing efforts by the Supreme Court and Election Commission regarding voter list management, including deletion of deceased or shifted voters, fall under the broader objective of maintaining what for upcoming elections in states like Telangana?",
-    "options": ["Political party funding records.", "Accurate and updated electoral rolls.", "Campaign expenditure limits.", "Public opinion polls."],
-    "correctAnswer": "Accurate and updated electoral rolls."
+    "question": "The Election Commission of India's role in electoral reforms, such as regulating Form 7 filings, primarily aims to enhance which aspect of democratic governance in states like Telangana?",
+    "options": [
+      "Economic growth",
+      "Transparency and fairness of elections",
+      "International relations",
+      "Cultural development"
+    ],
+    "correctAnswer": "Transparency and fairness of elections"
   },
   {
     "id": 25,
-    "question": "Why is the accuracy of electoral rolls, as emphasized by the Supreme Court's directives and EC's regulations, crucial for democratic processes in India, including Andhra Pradesh and Telangana?",
-    "options": ["To reduce the number of polling booths.", "To ensure fair representation and prevent electoral fraud.", "To encourage international observers.", "To simplify the voting process for election officials."],
-    "correctAnswer": "To ensure fair representation and prevent electoral fraud."
+    "question": "Which national legal principle ensures that the judiciary reviews administrative actions, as seen in the Supreme Court's involvement in electoral roll matters for states like Andhra Pradesh?",
+    "options": [
+      "Separation of Powers",
+      "Judicial Review",
+      "Doctrine of Lapse",
+      "Parliamentary Sovereignty"
+    ],
+    "correctAnswer": "Judicial Review"
   }
 ]

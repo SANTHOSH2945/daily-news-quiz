@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which prominent leader urged 'Muslim voters' to build their own leadership, criticizing established parties like SP and Congress?",
-    "options": ["Akhilesh Yadav", "Asaduddin Owaisi", "Rahul Gandhi", "Mamata Banerjee"],
+    "question": "Who is the leader of the All India Majlis-e-Ittehadul Muslimeen (AIMIM), a party with significant influence in Telangana?",
+    "options": ["Akbaruddin Owaisi", "Asaduddin Owaisi", "Mahmood Ali", "K. Chandrashekar Rao"],
     "correctAnswer": "Asaduddin Owaisi"
   },
   {
     "id": 2,
-    "question": "Asaduddin Owaisi, who recently advocated for minority political autonomy, is the leader of which political party?",
-    "options": ["Bahujan Samaj Party (BSP)", "Samajwadi Party (SP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)", "Indian Union Muslim League (IUML)"],
-    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
-  },
-  {
-    "id": 3,
-    "question": "Asaduddin Owaisi, a key political figure in Telangana, primarily represents which Lok Sabha constituency?",
-    "options": ["Secunderabad", "Warangal", "Hyderabad", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 4,
-    "question": "In his speech, Owaisi called on which specific demographic to pursue political autonomy?",
-    "options": ["Youth voters", "Women voters", "Farmers", "Minority communities"],
-    "correctAnswer": "Minority communities"
-  },
-  {
-    "id": 5,
-    "question": "What was a core argument made by Asaduddin Owaisi against long-established parties like Congress and SP?",
-    "options": ["They have successfully empowered minority groups.", "They are too focused on economic policies.", "They have failed to genuinely advocate for minority rights.", "They promote regionalism over nationalism."],
-    "correctAnswer": "They have failed to genuinely advocate for minority rights."
-  },
-  {
-    "id": 6,
-    "question": "Which historical Indian leader's connections with minority leaders did Owaisi question in his speech?",
-    "options": ["Sardar Vallabhbhai Patel", "Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose"],
-    "correctAnswer": "Jawaharlal Nehru"
-  },
-  {
-    "id": 7,
-    "question": "The All India Majlis-e-Ittehadul Muslimeen (AIMIM) led by Asaduddin Owaisi has a significant political base in which Indian state?",
-    "options": ["Uttar Pradesh", "Bihar", "Telangana", "Maharashtra"],
+    "question": "Asaduddin Owaisi recently urged minority communities to take charge of their own political representation and build their own leadership. This message is particularly relevant in which Indian state where his party holds sway?",
+    "options": ["Uttar Pradesh", "Maharashtra", "Telangana", "Bihar"],
     "correctAnswer": "Telangana"
   },
   {
-    "id": 8,
-    "question": "What does Asaduddin Owaisi's call for 'political autonomy' for minority communities primarily aim to achieve?",
-    "options": ["Complete separation from India", "Reliance on central government for all decisions", "Taking charge of their own representation and leadership", "Forming alliances with all national parties"],
-    "correctAnswer": "Taking charge of their own representation and leadership"
-  },
-  {
-    "id": 9,
-    "question": "Which city is the capital of Telangana and a prominent stronghold for AIMIM?",
-    "options": ["Warangal", "Khammam", "Karimnagar", "Hyderabad"],
-    "correctAnswer": "Hyderabad"
-  },
-  {
-    "id": 10,
-    "question": "Which political party recently came to power in Telangana, potentially affecting the political dynamics involving AIMIM?",
-    "options": ["Bharatiya Janata Party (BJP)", "Telangana Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Telugu Desam Party (TDP)"],
-    "correctAnswer": "Indian National Congress (INC)"
-  },
-  {
-    "id": 11,
-    "question": "What is the full form of AIMIM, the party led by Asaduddin Owaisi?",
-    "options": ["All India Muslim Integration Movement", "All India Majlis-e-Inquilab-e-Millat", "All India Majlis-e-Ittehadul Muslimeen", "All India Minority's Interest Movement"],
-    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen"
-  },
-  {
-    "id": 12,
-    "question": "Who is the current Chief Minister of Telangana?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy"],
-    "correctAnswer": "Revanth Reddy"
-  },
-  {
-    "id": 13,
-    "question": "In the context of Owaisi's criticism, what concern did he raise about established parties and minority groups?",
-    "options": ["Their over-reliance on minority votes", "Their inability to form stable governments", "Their failure to genuinely empower minority groups", "Their focus on infrastructure development"],
-    "correctAnswer": "Their failure to genuinely empower minority groups"
-  },
-  {
-    "id": 14,
-    "question": "The political rhetoric of leaders like Asaduddin Owaisi often highlights the importance of what for regional parties and specific communities?",
-    "options": ["National integration initiatives", "Global trade agreements", "Self-representation and regional specific demands", "Centralized governance models"],
-    "correctAnswer": "Self-representation and regional specific demands"
-  },
-  {
-    "id": 15,
-    "question": "Which two national parties were specifically named by Owaisi as having failed minority rights in his criticism?",
-    "options": ["BJP and AAP", "Congress and BSP", "Congress and SP", "BJP and Congress"],
+    "id": 3,
+    "question": "Which two long-established political parties did Asaduddin Owaisi criticize for allegedly failing to advocate for minority rights in his recent speech?",
+    "options": ["BJP and BRS", "Congress and SP", "TDP and YSRCP", "AAP and Trinamool Congress"],
     "correctAnswer": "Congress and SP"
   },
   {
+    "id": 4,
+    "question": "What was the central theme of Asaduddin Owaisi's recent speech regarding minority communities and political leadership?",
+    "options": ["Advocating for coalition governments", "Urging political autonomy and self-representation", "Promoting alliances with national parties", "Demanding more ministerial berths"],
+    "correctAnswer": "Urging political autonomy and self-representation"
+  },
+  {
+    "id": 5,
+    "question": "Asaduddin Owaisi's critique of established parties also touched upon historical connections, questioning whether current parties genuinely empower which groups?",
+    "options": ["Farmers", "Youth", "Minority communities", "Women"],
+    "correctAnswer": "Minority communities"
+  },
+  {
+    "id": 6,
+    "question": "The All India Majlis-e-Ittehadul Muslimeen (AIMIM), led by Asaduddin Owaisi, has its stronghold primarily in the historic city of Hyderabad, which is the capital of which state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Maharashtra", "Telangana"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 7,
+    "question": "In his recent address, Asaduddin Owaisi emphasized the importance of which aspect for minority communities to achieve better political outcomes?",
+    "options": ["Electoral reforms", "Building their own leadership", "National alliances", "International support"],
+    "correctAnswer": "Building their own leadership"
+  },
+  {
+    "id": 8,
+    "question": "Asaduddin Owaisi's political discourse often centers on the issues faced by which specific demographic group in India?",
+    "options": ["Scheduled Castes", "Tribal communities", "Muslim minority", "Urban poor"],
+    "correctAnswer": "Muslim minority"
+  },
+  {
+    "id": 9,
+    "question": "The criticism by Asaduddin Owaisi towards SP and Congress implies a belief that these parties have failed in what specific area concerning minorities?",
+    "options": ["Economic development", "Representation in bureaucracy", "Advocating for their rights", "Educational reforms"],
+    "correctAnswer": "Advocating for their rights"
+  },
+  {
+    "id": 10,
+    "question": "Owaisi's call for minority communities to build their own leadership can be seen as an effort to foster what among these communities?",
+    "options": ["Political dependence", "Political apathy", "Political empowerment", "Political isolation"],
+    "correctAnswer": "Political empowerment"
+  },
+  {
+    "id": 11,
+    "question": "What percentage of India's national highway stretches have been reduced to less than two lanes, reflecting significant infrastructure development?",
+    "options": ["15%", "8%", "20%", "12%"],
+    "correctAnswer": "8%"
+  },
+  {
+    "id": 12,
+    "question": "Over the past nine years, high-speed corridors in India have expanded by approximately how many times?",
+    "options": ["Five times", "Eight times", "Twelve times", "Ten times"],
+    "correctAnswer": "Twelve times"
+  },
+  {
+    "id": 13,
+    "question": "What is the approximate target length of access-controlled corridors India aims to construct in the next decade to boost transport efficiency?",
+    "options": ["30,000 km", "40,000 km", "51,000 km", "60,000 km"],
+    "correctAnswer": "51,000 km"
+  },
+  {
+    "id": 14,
+    "question": "The expansion of high-speed corridors across India, including routes that connect or pass through states like Andhra Pradesh and Telangana, is primarily aimed at improving what?",
+    "options": ["Tourism only", "Transport efficiency and logistics expenses", "Agricultural output", "Water management"],
+    "correctAnswer": "Transport efficiency and logistics expenses"
+  },
+  {
+    "id": 15,
+    "question": "Newer expressways being built as part of India's national highway enhancements allow trucks to travel significantly faster than traditional highways, primarily benefiting which sector?",
+    "options": ["Healthcare", "Education", "Logistics and commerce", "Residential development"],
+    "correctAnswer": "Logistics and commerce"
+  },
+  {
     "id": 16,
-    "question": "How many Lok Sabha constituencies are there in the state of Telangana?",
-    "options": ["10", "15", "17", "25"],
-    "correctAnswer": "17"
+    "question": "The overall improvement in national highway infrastructure across India is expected to lead to a reduction in what for businesses and consumers?",
+    "options": ["Fuel prices", "Road accidents", "Logistics expenses", "Toll charges"],
+    "correctAnswer": "Logistics expenses"
   },
   {
     "id": 17,
-    "question": "Beyond Telangana, what other South Indian state does the quiz master prioritize in its focus?",
-    "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Kerala"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Which type of road infrastructure is rapidly expanding in India, contributing to the shrinking of less-than-2-lane national highway stretches?",
+    "options": ["Rural roads", "State highways", "High-speed corridors", "Urban bypasses"],
+    "correctAnswer": "High-speed corridors"
   },
   {
     "id": 18,
-    "question": "Who is the current Chief Minister of Andhra Pradesh?",
-    "options": ["N. Chandrababu Naidu", "K. Chandrashekar Rao", "Y. S. Jagan Mohan Reddy", "Revanth Reddy"],
-    "correctAnswer": "Y. S. Jagan Mohan Reddy"
+    "question": "The government's plan to construct approximately 51,000 kilometers of access-controlled corridors in the next ten years reflects a commitment to improving what aspect of the Indian economy?",
+    "options": ["Agricultural sector", "Industrial output", "Infrastructure and connectivity", "Digital services"],
+    "correctAnswer": "Infrastructure and connectivity"
   },
   {
     "id": 19,
-    "question": "What is the capital city of Andhra Pradesh, post bifurcation from Telangana?",
-    "options": ["Hyderabad (joint capital for 10 years)", "Visakhapatnam", "Amaravati (legislative capital)", "Kurnool"],
-    "correctAnswer": "Amaravati (legislative capital)"
+    "question": "What is a key benefit for truck movement on India's newer expressways, as mentioned in the recent reports on national highway enhancements?",
+    "options": ["Lower maintenance costs", "Reduced travel time due to higher speeds", "Increased carrying capacity", "Better driver amenities"],
+    "correctAnswer": "Reduced travel time due to higher speeds"
   },
   {
     "id": 20,
-    "question": "How many Lok Sabha constituencies are there in the state of Andhra Pradesh?",
-    "options": ["17", "25", "32", "42"],
-    "correctAnswer": "25"
+    "question": "The nationwide drive to upgrade national highways, which includes enhancing connectivity for states like Andhra Pradesh and Telangana, aims to make the transportation network more what?",
+    "options": ["Localized", "Segmented", "Obsolete", "Efficient and modern"],
+    "correctAnswer": "Efficient and modern"
   },
   {
     "id": 21,
-    "question": "In the context of Owaisi's discourse, what is the historical significance of Hyderabad as a center for Muslim politics in India?",
-    "options": ["It was a princely state with a significant Muslim population and leadership.", "It was the capital of the Mughal Empire.", "It was a major center for the Indian National Congress.", "It was the birthplace of Mahatma Gandhi."],
-    "correctAnswer": "It was a princely state with a significant Muslim population and leadership."
+    "question": "The INDIA bloc, a coalition of opposition parties, has recently planned protests concerning which key constitutional body, whose functioning impacts elections in all Indian states?",
+    "options": ["Union Public Service Commission", "Reserve Bank of India", "Election Commission of India", "National Human Rights Commission"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 22,
-    "question": "Which of the following is a major regional political party in Andhra Pradesh?",
-    "options": ["Telangana Rashtra Samithi (BRS)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)", "YSR Congress Party (YSRCP)", "Dravida Munnetra Kazhagam (DMK)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "What was the stated reason for the INDIA bloc leaders' request for a meeting with the Chief Justice of India, which was subsequently rejected, highlighting national electoral integrity concerns?",
+    "options": ["Demand for new legislation", "Allegations of 'vote chori' (vote theft)", "Seeking judicial appointments", "Review of economic policies"],
+    "correctAnswer": "Allegations of 'vote chori' (vote theft)"
   },
   {
     "id": 23,
-    "question": "The criticism of 'long-established parties' by Owaisi can be seen as a push for greater influence of what type of political entities?",
-    "options": ["International organizations", "Non-governmental organizations (NGOs)", "Regional and community-specific parties", "Multi-national corporations"],
-    "correctAnswer": "Regional and community-specific parties"
+    "question": "The Chief Justice of India recently rejected a request for a meeting from leaders of a political bloc. This action reinforces what fundamental principle of India's governance structure?",
+    "options": ["Direct lobbying", "Judicial activism", "Separation of powers", "Policy making"],
+    "correctAnswer": "Separation of powers"
   },
   {
     "id": 24,
-    "question": "The concept of 'minority rights' and 'representation' is a significant aspect of political discourse in multi-cultural states like Telangana and Andhra Pradesh, often raised by leaders like Owaisi. What constitutional provision in India primarily safeguards minority rights?",
-    "options": ["Article 19 (Freedom of Speech)", "Article 21 (Right to Life)", "Articles 29 and 30 (Cultural and Educational Rights)", "Article 32 (Right to Constitutional Remedies)"],
-    "correctAnswer": "Articles 29 and 30 (Cultural and Educational Rights)"
+    "question": "National protests mentioned in recent news, involving political groups and police action, often stem from concerns about what fundamental aspect of Indian democracy, applicable across all states?",
+    "options": ["Economic inequality", "Freedom of expression and assembly", "Foreign policy", "Space exploration"],
+    "correctAnswer": "Freedom of expression and assembly"
   },
   {
     "id": 25,
-    "question": "Asaduddin Owaisi's advocacy for minority leadership aligns with the broader demand for greater representation of diverse communities in the legislative bodies of Indian states, including Telangana and Andhra Pradesh. Which institution is primarily responsible for ensuring fair representation through elections?",
-    "options": ["The Supreme Court of India", "The President of India", "The Election Commission of India", "The NITI Aayog"],
-    "correctAnswer": "The Election Commission of India"
+    "question": "When a Member of Parliament (MP) alleges assault by law enforcement during a protest, as recently reported, it raises questions about which key rights and privileges relevant to all Indian citizens and elected representatives?",
+    "options": ["Right to privacy", "Parliamentary privileges and citizen rights", "Right to property", "Right to education"],
+    "correctAnswer": "Parliamentary privileges and citizen rights"
   }
 ]

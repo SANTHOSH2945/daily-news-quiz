@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Based on recent political discourse, which political leader was recently accused by the BJP of trying to create a 'north-south divide' in India?",
-    "options": ["Narendra Modi", "Rahul Gandhi", "Mamata Banerjee", "M. K. Stalin"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "The recent discussions around the Supreme Court and the Chief Justice of India (CJI) highlight the role of the judiciary in India. Which of the following best describes the Supreme Court's jurisdiction over legal matters originating in states like Telangana and Andhra Pradesh?",
+    "options": ["Limited to constitutional disputes only.", "Extends to all civil, criminal, and constitutional matters via appeals.", "Only intervenes if a state High Court requests it.", "Primarily focused on matters related to the Union Government."],
+    "correctAnswer": "Extends to all civil, criminal, and constitutional matters via appeals."
   },
   {
     "id": 2,
-    "question": "The 'north-south divide' discussion in India often involves the equitable distribution of financial resources. Which constitutional body primarily recommends the division of tax revenues between the Union and states?",
-    "options": ["NITI Aayog", "Election Commission", "Finance Commission", "Inter-State Council"],
-    "correctAnswer": "Finance Commission"
+    "question": "The INDIA bloc's attempt to meet the Chief Justice of India, as reported, reflects concerns about national institutions. In the context of the Indian federal structure, how does the Supreme Court's independence safeguard democratic principles across states, including Andhra Pradesh and Telangana?",
+    "options": ["By allowing states to interpret laws differently.", "By ensuring fair application of laws and constitutional rights, independent of political pressures.", "By only reviewing cases from states ruled by opposition parties.", "By setting direct policies for state governments."],
+    "correctAnswer": "By ensuring fair application of laws and constitutional rights, independent of political pressures."
   },
   {
     "id": 3,
-    "question": "A significant concern for Southern states like Andhra Pradesh and Telangana in the context of financial devolution from the Union government often revolves around what factor?",
-    "options": ["Lack of representation in Rajya Sabha", "Over-reliance on agricultural income", "Population-based distribution criteria", "Insufficient foreign investment"],
-    "correctAnswer": "Population-based distribution criteria"
+    "question": "Following the Supreme Court's dismissal of a petition against the Chief Election Commissioner, as mentioned in the news, political figures like Kapil Sibal commented on the SC restoring people's faith. How crucial is public faith in the Supreme Court for maintaining law and order and constitutional governance in states like Telangana?",
+    "options": ["It is solely the responsibility of state governments.", "Public faith in the apex court reinforces the rule of law and democratic stability nationwide, including in Telangana.", "State High Courts are more relevant for maintaining public faith at the state level.", "Public faith only matters for national-level political disputes."],
+    "correctAnswer": "Public faith in the apex court reinforces the rule of law and democratic stability nationwide, including in Telangana."
   },
   {
     "id": 4,
-    "question": "The Supreme Court recently made observations regarding the peaceful assembly of citizens. Which article of the Indian Constitution guarantees the fundamental right to assemble peaceably and without arms?",
-    "options": ["Article 14", "Article 19(1)(a)", "Article 19(1)(b)", "Article 21"],
-    "correctAnswer": "Article 19(1)(b)"
+    "question": "Shashi Tharoor's statement ahead of a Congress march to the Supreme Court indicates ongoing political discourse around the judiciary. What is the primary method for citizens, including those from Andhra Pradesh, to seek redressal from the Supreme Court for violation of their fundamental rights?",
+    "options": ["Direct petition to the President.", "Filing a writ petition under Article 32 of the Constitution.", "Approaching their local district court first.", "Through their elected Member of Parliament."],
+    "correctAnswer": "Filing a writ petition under Article 32 of the Constitution."
   },
   {
     "id": 5,
-    "question": "If citizens in Telangana believe their fundamental right to peaceful protest has been violated, to which specific High Court would they typically file a petition for redressal?",
-    "options": ["Andhra Pradesh High Court", "Karnataka High Court", "Telangana High Court", "Madras High Court"],
-    "correctAnswer": "Telangana High Court"
+    "question": "The news highlights the Chief Justice of India's role in maintaining the decorum of the Supreme Court by declining a meeting with political leaders. What is the constitutional position of the Chief Justice of India, whose decisions impact legal interpretations across all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Appointed by the Prime Minister.", "Head of the Indian judiciary and chief judge of the Supreme Court.", "An advisory role to the President.", "Primarily a ceremonial figure."],
+    "correctAnswer": "Head of the Indian judiciary and chief judge of the Supreme Court."
   },
   {
     "id": 6,
-    "question": "The Chief Justice of India recently emphasized the principle of 'separation of powers'. Who is the current Chief Justice of India?",
-    "options": ["Ranjan Gogoi", "U. U. Lalit", "D. Y. Chandrachud", "N. V. Ramana"],
-    "correctAnswer": "D. Y. Chandrachud"
+    "question": "Yogi Adityanath's criticism of the INDIA bloc for blaming the Election Commission (EC) when they lose, underscores the EC's role. What is the Election Commission of India's primary responsibility concerning elections in states like Andhra Pradesh and Telangana?",
+    "options": ["To manage political party internal affairs.", "To conduct free and fair elections for Parliament, State Legislatures, and Presidential/Vice-Presidential offices.", "To approve state budgets related to elections.", "To nominate candidates for political parties."],
+    "correctAnswer": "To conduct free and fair elections for Parliament, State Legislatures, and Presidential/Vice-Presidential offices."
   },
   {
     "id": 7,
-    "question": "The principle of 'separation of powers' in India dictates that governmental functions are distributed among which three main organs?",
-    "options": ["President, Vice-President, Prime Minister", "Legislature, Executive, Judiciary", "Parliament, State Assemblies, Panchayats", "Union, State, Local Governments"],
-    "correctAnswer": "Legislature, Executive, Judiciary"
+    "question": "The protests led by Rahul Gandhi against the Chief Election Commissioner, as reported, involve a key national institution. How does the appointment of the Chief Election Commissioner (CEC) affect the perception of electoral fairness in states like Telangana?",
+    "options": ["The CEC is appointed by the ruling party, making fairness subjective.", "The process of appointment, if perceived as impartial, enhances public trust in the electoral system across all states.", "State Election Commissions are more relevant for state-level fairness.", "The CEC's appointment has no bearing on state-level elections."],
+    "correctAnswer": "The process of appointment, if perceived as impartial, enhances public trust in the electoral system across all states."
   },
   {
     "id": 8,
-    "question": "Which major city in Telangana boasts an extensive metro rail system, recognized as one of the largest Public-Private Partnership (PPP) metro projects globally?",
-    "options": ["Warangal", "Vijayawada", "Hyderabad", "Visakhapatnam"],
-    "correctAnswer": "Hyderabad"
+    "question": "The INDIA bloc's frustration over the CJI declining their meeting request, as mentioned by Raut, is a national political event. Which of the following national alliances is the INDIA bloc primarily challenging in the upcoming elections, impacting political dynamics in states like Andhra Pradesh?",
+    "options": ["National Democratic Alliance (NDA)", "United Progressive Alliance (UPA)", "Left Front", "Third Front"],
+    "correctAnswer": "National Democratic Alliance (NDA)"
   },
   {
     "id": 9,
-    "question": "For the state of Andhra Pradesh, which city is currently designated as the judicial capital and houses the High Court?",
-    "options": ["Amaravati", "Visakhapatnam", "Kurnool", "Guntur"],
-    "correctAnswer": "Amaravati"
+    "question": "Rahul Gandhi leading protests against the Election Commission, despite a Supreme Court dismissal of a petition, signifies a political challenge. Which constitutional body in India is responsible for the overall supervision, direction, and control of elections to state legislatures, including those in Telangana?",
+    "options": ["State Election Commission", "Election Commission of India", "Ministry of Home Affairs", "Parliament of India"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 10,
-    "question": "The Supreme Court of India, which is the final interpreter of the Constitution and hears appeals from High Courts including those in Telangana and Andhra Pradesh, is located in which city?",
-    "options": ["Mumbai", "Kolkata", "New Delhi", "Bengaluru"],
-    "correctAnswer": "New Delhi"
+    "question": "The news implies ongoing political tensions between the ruling party and the opposition (Congress, INDIA bloc). How do these national-level political alignments and conflicts influence the political landscape and voter choices in a state like Andhra Pradesh?",
+    "options": ["National politics have minimal impact on state-level voting patterns.", "They significantly shape public discourse, electoral strategies, and party allegiances, even in state elections.", "Only local issues determine voter choices in state elections.", "The influence is limited to urban areas."],
+    "correctAnswer": "They significantly shape public discourse, electoral strategies, and party allegiances, even in state elections."
   },
   {
     "id": 11,
-    "question": "The Supreme Court's directives on protecting peaceful protesters reinforce fundamental rights. Which fundamental right is most directly associated with individuals expressing their views and opinions during a protest?",
-    "options": ["Right to Equality", "Right to Freedom of Speech and Expression", "Right to Life and Personal Liberty", "Right against Exploitation"],
-    "correctAnswer": "Right to Freedom of Speech and Expression"
+    "question": "The Congress party, a key component of the INDIA bloc mentioned in the news, plans a march to the Supreme Court. In the Indian political system, what is the role of the opposition party (like Congress) in holding the government accountable at both national and state levels, including Telangana?",
+    "options": ["To unconditionally support government policies.", "To only protest against non-economic policies.", "To scrutinize government actions, debate policies, and represent alternative viewpoints.", "To form shadow cabinets that directly govern."],
+    "correctAnswer": "To scrutinize government actions, debate policies, and represent alternative viewpoints."
   },
   {
     "id": 12,
-    "question": "The recent political rhetoric, including accusations of creating a 'north-south divide', is often heightened in anticipation of which major democratic exercise in India?",
-    "options": ["State Assembly Elections", "Municipal Elections", "Presidential Elections", "General Elections (Lok Sabha)"],
-    "correctAnswer": "General Elections (Lok Sabha)"
+    "question": "Yogi Adityanath's criticism of political parties blaming the Election Commission is a comment on the integrity of the electoral process. Which of the following is a key power of the Election Commission of India that directly affects electoral conduct in all states, including Andhra Pradesh?",
+    "options": ["Setting up state government policies.", "Delimitation of constituencies.", "Appointing Chief Ministers.", "Controlling state police forces during normal times."],
+    "correctAnswer": "Delimitation of constituencies."
   },
   {
     "id": 13,
-    "question": "In the Indian federal system, who holds the constitutional position of the head of the executive in a state government, responsible for its administration and policies?",
-    "options": ["Governor", "Chief Secretary", "Chief Minister", "Advocate General"],
-    "correctAnswer": "Chief Minister"
+    "question": "The news highlights the INDIA bloc's challenges to national institutions. The formation of such political alliances at the national level often aims to consolidate power against the incumbent. How might the success or failure of such an alliance nationally affect regional parties in Telangana?",
+    "options": ["It has no effect, as regional parties operate independently.", "It can influence their strategic alliances, bargaining power, and electoral performance in state and national elections.", "Regional parties only focus on local issues and are unaffected.", "It only affects states where no regional parties exist."],
+    "correctAnswer": "It can influence their strategic alliances, bargaining power, and electoral performance in state and national elections."
   },
   {
     "id": 14,
-    "question": "Who is the current Chief Minister of Telangana, having assumed office following the recent Assembly elections?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Eatala Rajender"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "Rahul Gandhi's leadership in the protests against the Election Commissioner is a prominent national news point. What is a key criticism often leveled against the opposition's protest tactics, as implied in the news, that might affect public perception in states like Andhra Pradesh?",
+    "options": ["They are too diplomatic.", "They fail to attract media attention.", "They are seen as disruptive or aimed more at publicity than substantive change.", "They primarily focus on state-specific issues rather than national ones."],
+    "correctAnswer": "They are seen as disruptive or aimed more at publicity than substantive change."
   },
   {
     "id": 15,
-    "question": "Who is the current Chief Minister of Andhra Pradesh, leading the state government?",
-    "options": ["N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan", "Botsa Satyanarayana"],
-    "correctAnswer": "Y. S. Jagan Mohan Reddy"
+    "question": "The news discusses political protests in Delhi and the role of the Supreme Court. In the context of the Indian parliamentary democracy, what is the significance of the 'INDIA bloc' as a unified opposition front for voters in states like Telangana and Andhra Pradesh?",
+    "options": ["It represents a direct challenge to state autonomy.", "It offers a consolidated alternative to the ruling national party in upcoming elections.", "It primarily focuses on international relations.", "It has no bearing on state-level electoral outcomes."],
+    "correctAnswer": "It offers a consolidated alternative to the ruling national party in upcoming elections."
   },
   {
     "id": 16,
-    "question": "As of recent updates, how many High Courts are established and functioning across various states and Union Territories in India?",
-    "options": ["22", "24", "25", "28"],
-    "correctAnswer": "25"
+    "question": "India’s agri-seed sector accounts for the largest share of receipts under benefit sharing regulations. Given that agriculture is a significant sector in Telangana and Andhra Pradesh, what is the importance of a robust agri-seed sector for these states?",
+    "options": ["It primarily benefits export-oriented cash crops.", "Quality seeds are crucial for improving crop yield, farmers' income, and food security in agricultural states.", "It mostly impacts the manufacturing sector.", "It is only relevant for specific food grains, not all crops."],
+    "correctAnswer": "Quality seeds are crucial for improving crop yield, farmers' income, and food security in agricultural states."
   },
   {
     "id": 17,
-    "question": "The High Court for the state of Andhra Pradesh, established after the state's reorganization, functions from which city?",
-    "options": ["Visakhapatnam", "Vijayawada", "Kurnool", "Amaravati"],
-    "correctAnswer": "Amaravati"
+    "question": "The benefit-sharing regulations in India’s agri-seed sector mentioned in the news are designed to reward innovation and traditional knowledge. How do these regulations potentially impact local farmers and seed producers in Andhra Pradesh?",
+    "options": ["They have no direct impact on local farmers.", "They encourage fair compensation for genetic resources and traditional knowledge, potentially benefiting local communities.", "They solely benefit large multinational corporations.", "They lead to increased seed prices without any benefit to local producers."],
+    "correctAnswer": "They encourage fair compensation for genetic resources and traditional knowledge, potentially benefiting local communities."
   },
   {
     "id": 18,
-    "question": "The High Court for the state of Telangana, which was bifurcated from the common High Court, is located in which prominent city?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "India's agri-seed sector's contribution to benefit-sharing receipts highlights its economic significance. What kind of crops, common in Telangana, would significantly rely on advancements and regulations within the agri-seed sector?",
+    "options": ["Only non-food crops like cotton.", "Major food grains like rice and maize, as well as cash crops such as cotton and chili.", "Primarily horticultural crops.", "Only exotic and imported varieties."],
+    "correctAnswer": "Major food grains like rice and maize, as well as cash crops such as cotton and chili."
   },
   {
     "id": 19,
-    "question": "India, a sovereign nation, is a founding member of which intergovernmental organization dedicated to promoting international cooperation and human rights globally?",
-    "options": ["SAARC", "BRICS", "United Nations", "G20"],
-    "correctAnswer": "United Nations"
+    "question": "The 'benefit sharing regulations' in the agri-seed sector relate to the Protection of Plant Varieties and Farmers' Rights Act. What is a key right granted to farmers in Telangana and Andhra Pradesh under this act?",
+    "options": ["The right to freely sell proprietary seeds without restriction.", "The right to save, use, sow, re-sow, exchange, share, or sell farm produce including seed of a protected variety.", "The right to import any seed variety without government approval.", "The right to refuse to pay for any seeds purchased."],
+    "correctAnswer": "The right to save, use, sow, re-sow, exchange, share, or sell farm produce including seed of a protected variety."
   },
   {
     "id": 20,
-    "question": "Which regulatory body in India is primarily responsible for the safety oversight and regulation of civil aviation, including investigation of incidents like flight diversions due to onboard issues?",
-    "options": ["Airports Authority of India (AAI)", "Bureau of Civil Aviation Security (BCAS)", "Directorate General of Civil Aviation (DGCA)", "Ministry of Civil Aviation"],
-    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
+    "question": "The agri-seed sector is vital for India's food security. Which of the following government initiatives, at a national level, would indirectly support the growth and regulatory framework of the agri-seed sector in states like Andhra Pradesh and Telangana?",
+    "options": ["Industrial subsidies for urban factories.", "Schemes promoting agricultural research and development, and farmer welfare programs.", "Military modernization projects.", "Urban housing development schemes."],
+    "correctAnswer": "Schemes promoting agricultural research and development, and farmer welfare programs."
   },
   {
     "id": 21,
-    "question": "Which of the following national political parties, currently in power at the Union level, is also a significant political force and alliance partner in Andhra Pradesh and Telangana?",
-    "options": ["Aam Aadmi Party", "Communist Party of India (Marxist)", "Bharatiya Janata Party", "Bahujan Samaj Party"],
-    "correctAnswer": "Bharatiya Janata Party"
+    "question": "The recent political developments and judicial observations, such as those related to the Election Commission and Supreme Court, underscore the importance of constitutional bodies in India. Which article of the Indian Constitution primarily deals with the establishment and powers of the Supreme Court, whose decisions are binding on all courts and states, including Telangana and Andhra Pradesh?",
+    "options": ["Article 124", "Article 324", "Article 280", "Article 148"],
+    "correctAnswer": "Article 124"
   },
   {
     "id": 22,
-    "question": "The Indian National Congress, mentioned in the context of Rahul Gandhi, is currently the ruling party in which of the following two Telugu states?",
-    "options": ["Andhra Pradesh", "Telangana", "Both Andhra Pradesh and Telangana", "Neither Andhra Pradesh nor Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "The news extensively covers the role of the Election Commission of India. Beyond conducting elections, what is another significant function of the ECI that impacts political parties across all states, including Andhra Pradesh?",
+    "options": ["Allocating funds to political parties for campaigning.", "Registering political parties and allotting them symbols.", "Appointing state governors.", "Drafting state-specific election laws."],
+    "correctAnswer": "Registering political parties and allotting them symbols."
   },
   {
     "id": 23,
-    "question": "Besides Hyderabad, which other major Southern Indian city is well-known for its extensive and rapidly expanding metro rail network?",
-    "options": ["Kochi", "Chennai", "Thiruvananthapuram", "Mysuru"],
-    "correctAnswer": "Chennai"
+    "question": "The protests by the INDIA bloc and comments by leaders like Shashi Tharoor and Kapil Sibal highlight the dynamic nature of Indian democracy. What fundamental right enshrined in the Indian Constitution allows citizens, including those in Telangana, to peacefully protest against government policies or express dissent?",
+    "options": ["Right to Property", "Right to Freedom of Speech and Expression", "Right to Education", "Right against Exploitation"],
+    "correctAnswer": "Right to Freedom of Speech and Expression"
   },
   {
     "id": 24,
-    "question": "In India's parliamentary democracy, the Prime Minister is the head of which main branch of the government?",
-    "options": ["Legislative", "Executive", "Judiciary", "Media"],
-    "correctAnswer": "Executive"
+    "question": "The news about national political parties and institutions like the Supreme Court and Election Commission is widely consumed across India. What is the role of media in disseminating information about these national events to citizens in states like Andhra Pradesh, ensuring informed participation in democracy?",
+    "options": ["To only report on local issues.", "To act as a watchdog, inform the public, and facilitate public discourse on national matters.", "To exclusively support the government's narrative.", "To only focus on entertainment news."],
+    "correctAnswer": "To act as a watchdog, inform the public, and facilitate public discourse on national matters."
   },
   {
     "id": 25,
-    "question": "Which specific Part of the Indian Constitution enumerates the Fundamental Rights, which are enforceable by the Supreme Court and High Courts, and include rights like freedom of speech and assembly?",
-    "options": ["Part II", "Part III", "Part IV", "Part V"],
-    "correctAnswer": "Part III"
+    "question": "The INDIA bloc represents a coalition of opposition parties aiming to challenge the ruling government. What is a key characteristic of a coalition government at the national level that could potentially include representation from regional parties in Telangana or Andhra Pradesh?",
+    "options": ["It is formed by a single party with an absolute majority.", "It involves multiple political parties cooperating to form a government.", "It is always led by the largest national party.", "It requires the dissolution of all regional parties."],
+    "correctAnswer": "It involves multiple political parties cooperating to form a government."
   }
 ]

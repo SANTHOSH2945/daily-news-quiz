@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What recent development highlights India's trusted healthcare capacity in its partnership with the US?",
-    "options": ["Option A", "Option B", "Option C", "Option D"],
-    "correctAnswer": "Option B"
+    "question": "How could concerns raised by the Supreme Court regarding electoral processes, such as those related to the Election Commission, impact voter confidence in states like Telangana and Andhra Pradesh?",
+    "options": ["By enhancing voter turnout significantly", "By potentially leading to increased scrutiny of state-level election management", "By encouraging new political parties to emerge", "By simplifying the election schedule"],
+    "correctAnswer": "By potentially leading to increased scrutiny of state-level election management"
   },
   {
     "id": 2,
-    "question": "Which city in India is a major hub for the generic pharmaceutical industry, contributing to India's global healthcare capacity mentioned in the context of India-US ties?",
-    "options": ["Bengaluru", "Mumbai", "Hyderabad", "Chennai"],
-    "correctAnswer": "Hyderabad"
+    "question": "The Supreme Court's scrutiny of pleas against election officials, while national, underlines the importance of transparency in the electoral system. Which body is primarily responsible for conducting elections fairly in Indian states, including Andhra Pradesh?",
+    "options": ["State Election Commission", "District Collectorate", "Election Commission of India", "Ministry of Home Affairs"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 3,
-    "question": "According to the US envoy, Sergio Gor, which sectors are seeing increasing collaboration between India and the United States?",
-    "options": ["Agriculture, tourism, and education", "Defence, technology, and healthcare", "Space exploration, sports, and fashion", "Mining, textiles, and fisheries"],
-    "correctAnswer": "Defence, technology, and healthcare"
+    "question": "Issues flagged by the Supreme Court in a recent plea against a high-ranking election official often pertain to procedural correctness. What is the fundamental principle the SC upholds in such matters, relevant to all elections across India, including in Telangana?",
+    "options": ["Political affiliation of officials", "Administrative efficiency", "Integrity and fairness of the electoral process", "Speed of judicial proceedings"],
+    "correctAnswer": "Integrity and fairness of the electoral process"
   },
   {
     "id": 4,
-    "question": "Who are the two leaders whose conversations were mentioned as indicating promising advancements in India-US relations?",
-    "options": ["Prime Minister Narendra Modi and US President Joe Biden", "Prime Minister Narendra Modi and US President Donald Trump", "External Affairs Minister S. Jaishankar and US Secretary of State Antony Blinken", "Finance Minister Nirmala Sitharaman and US Treasury Secretary Janet Yellen"],
-    "correctAnswer": "Prime Minister Narendra Modi and US President Donald Trump"
+    "question": "Form 6 is critical for voter registration in India. What is its primary purpose, a process actively undertaken by citizens in states like Andhra Pradesh and Telangana?",
+    "options": ["To apply for a new passport", "To register as a new voter or shift constituency", "To declare income tax", "To apply for a driving license"],
+    "correctAnswer": "To register as a new voter or shift constituency"
   },
   {
     "id": 5,
-    "question": "What type of military exercises were highlighted by the US ambassador as enhancing the India-US partnership?",
-    "options": ["Naval drills", "Army maneuvers", "Critical military drills", "Air Force exercises"],
-    "correctAnswer": "Critical military drills"
+    "question": "The Supreme Court's stance on Form 6 indicates ongoing judicial oversight of electoral procedures. What is the significance of accurate electoral rolls for a state like Telangana?",
+    "options": ["It determines the state's economic budget.", "It ensures fair representation and prevents voter fraud.", "It dictates the state's cultural policies.", "It influences international trade agreements."],
+    "correctAnswer": "It ensures fair representation and prevents voter fraud."
   },
   {
     "id": 6,
-    "question": "Beyond defence and technology, what other significant area of collaboration was highlighted by the US envoy?",
-    "options": ["Renewable energy", "Space research", "Healthcare", "Automotive industry"],
-    "correctAnswer": "Healthcare"
+    "question": "Challenges and rulings related to Form 6 directly affect the democratic rights of citizens. Which government body in India is responsible for maintaining and updating electoral rolls for state assembly elections in Andhra Pradesh?",
+    "options": ["State Election Commission", "Election Commission of India", "Panchayat Raj Department", "Ministry of Law and Justice"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 7,
-    "question": "The US ambassador's statement about 'so much happening' in India-US ties indicates potential for which aspect between the two nations?",
-    "options": ["Cultural exchange initiatives", "Enhanced economic prospects", "Bilateral sporting events", "Joint tourism promotions"],
-    "correctAnswer": "Enhanced economic prospects"
+    "question": "The Supreme Court's involvement in electoral matters like Form 6 highlights the judiciary's role in protecting democratic institutions. How does this impact citizens' ability to participate in elections in states like Telangana?",
+    "options": ["It delays the election process indefinitely.", "It empowers citizens by ensuring their right to vote is accurately recorded.", "It allows for arbitrary removal of names from the voter list.", "It restricts public access to polling booths."],
+    "correctAnswer": "It empowers citizens by ensuring their right to vote is accurately recorded."
   },
   {
     "id": 8,
-    "question": "The news mentions India's role in the global supply of generic pharmaceuticals. Which state is particularly known for its pharmaceutical manufacturing and research facilities in India?",
-    "options": ["Gujarat", "Maharashtra", "Telangana", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "Ensuring the integrity of voter registration through forms like Form 6 is crucial for democratic governance. What is a common challenge faced in maintaining accurate voter lists in densely populated regions, including parts of Andhra Pradesh?",
+    "options": ["Lack of political parties", "High literacy rates", "Migration and duplicate entries", "Abundance of polling stations"],
+    "correctAnswer": "Migration and duplicate entries"
   },
   {
     "id": 9,
-    "question": "What does the transfer of generic pharmaceuticals signify about India's capabilities in the context of its partnership with the US?",
-    "options": ["India's reliance on foreign aid", "India's trusted healthcare capacity", "India's growing agricultural exports", "India's expertise in space technology"],
-    "correctAnswer": "India's trusted healthcare capacity"
+    "question": "A recent initiative involves a steelmaker investing ₹440 crore to revamp ITIs. What is the primary goal of such a collaboration between industry and educational institutions, especially in industrially growing states like Telangana?",
+    "options": ["To reduce the number of ITIs", "To upgrade skills of the workforce to match industry needs", "To convert ITIs into universities", "To promote agricultural education"],
+    "correctAnswer": "To upgrade skills of the workforce to match industry needs"
   },
   {
     "id": 10,
-    "question": "Who is the US Ambassador to India mentioned in the context of the growing India-US ties?",
-    "options": ["Eric Garcetti", "Kenneth Juster", "Sergio Gor", "Richard Verma"],
-    "correctAnswer": "Sergio Gor"
+    "question": "The involvement of a steelmaker in ITI revamp underscores the role of heavy industries in skill development. Which major steel plant is located in Visakhapatnam, Andhra Pradesh, and could potentially benefit from improved ITI training?",
+    "options": ["Bhilai Steel Plant", "Rourkela Steel Plant", "Visakhapatnam Steel Plant (RINL)", "Tata Steel Jamshedpur"],
+    "correctAnswer": "Visakhapatnam Steel Plant (RINL)"
   },
   {
     "id": 11,
-    "question": "What is a key outcome expected from the strengthening partnership between India and the US, as suggested by the US envoy?",
-    "options": ["Increased competition in global markets", "Promising economic prospects for both nations", "Reduced bilateral trade", "Shift in diplomatic relations"],
-    "correctAnswer": "Promising economic prospects for both nations"
+    "question": "The ₹440 crore investment in ITIs focuses on enhancing industrial training. How would this benefit the 'Make in India' initiative, particularly for manufacturing hubs in states like Andhra Pradesh?",
+    "options": ["By decreasing the demand for manufactured goods.", "By creating a highly skilled local workforce for manufacturing industries.", "By encouraging imports of finished products.", "By shifting focus from manufacturing to services."],
+    "correctAnswer": "By creating a highly skilled local workforce for manufacturing industries."
   },
   {
     "id": 12,
-    "question": "The expansion of India-US ties covers which of the following areas primarily mentioned in the news?",
-    "options": ["Arts and Literature", "Defence, Technology, and Healthcare", "Sports and Entertainment", "Fashion and Lifestyle"],
-    "correctAnswer": "Defence, Technology, and Healthcare"
+    "question": "Public-private partnerships, like the steelmaker-ITI revamp, are crucial for modernizing vocational training. What kind of job roles are typically targeted by ITIs, relevant to industrial sectors in Telangana?",
+    "options": ["Software developers and AI specialists", "Lawyers and chartered accountants", "Electricians, fitters, and welders", "Doctors and nurses"],
+    "correctAnswer": "Electricians, fitters, and welders"
   },
   {
     "id": 13,
-    "question": "The appointment of new governors in India is primarily a decision made by which authority?",
-    "options": ["Chief Ministers of respective states", "The President of India", "The Election Commission", "The Chief Justice of India"],
-    "correctAnswer": "The President of India"
+    "question": "Given the investment in ITI infrastructure, what is a key outcome expected in terms of employment opportunities for youth in regions with industrial presence, such as parts of Andhra Pradesh?",
+    "options": ["Reduced employability due to automation", "Increased access to skilled blue-collar jobs", "Higher demand for purely academic degrees", "Shift towards agricultural labor"],
+    "correctAnswer": "Increased access to skilled blue-collar jobs"
   },
   {
     "id": 14,
-    "question": "The news suggests that the new gubernatorial appointments reflect the BJP's focus on what?",
-    "options": ["Economic reforms", "Social welfare programs", "Upcoming elections", "International relations"],
-    "correctAnswer": "Upcoming elections"
+    "question": "The revamp of ITIs by a steelmaker highlights industry-specific needs. Which sector's growth in states like Telangana and Andhra Pradesh relies heavily on a robust supply of industrially trained manpower from ITIs?",
+    "options": ["Information Technology", "Textile and Garment manufacturing", "Heavy engineering and manufacturing", "Tourism and hospitality"],
+    "correctAnswer": "Heavy engineering and manufacturing"
   },
   {
     "id": 15,
-    "question": "What is the constitutional role of a Governor in an Indian state, a position recently seeing new appointments?",
-    "options": ["Head of the state government", "Chief administrator of law and order", "Nominal head of the state and representative of the President", "Presiding officer of the state legislature"],
-    "correctAnswer": "Nominal head of the state and representative of the President"
+    "question": "What type of skills are primarily imparted by Industrial Training Institutes (ITIs) to cater to the demands of industries, including those prevalent in states like Telangana?",
+    "options": ["Managerial skills", "Vocational and technical skills", "Research and development skills", "Artistic and creative skills"],
+    "correctAnswer": "Vocational and technical skills"
   },
   {
     "id": 16,
-    "question": "Which Indian regulatory body is closely monitoring SpiceJet's operational and financial troubles?",
-    "options": ["Bureau of Civil Aviation Security (BCAS)", "Airports Authority of India (AAI)", "Directorate General of Civil Aviation (DGCA)", "Ministry of Civil Aviation"],
-    "correctAnswer": "Directorate General of Civil Aviation (DGCA)"
+    "question": "The financial outlay of ₹440 crore for ITI revamp signifies a significant push for what kind of education system in India, which is vital for developing states like Andhra Pradesh?",
+    "options": ["Higher education", "Primary education", "Vocational education", "Distance education"],
+    "correctAnswer": "Vocational education"
   },
   {
     "id": 17,
-    "question": "What is the primary reason approximately 40 SpiceJet Q400 pilots have opted not to fly, as per the report?",
-    "options": ["Demand for better training facilities", "Protest against unpaid wages", "Concerns over aircraft maintenance", "Opposition to new flight routes"],
-    "correctAnswer": "Protest against unpaid wages"
+    "question": "The collaboration between a steelmaker and ITIs is an example of Corporate Social Responsibility (CSR) and skill development. How can this model be replicated to boost local economies in districts of Telangana?",
+    "options": ["By focusing solely on raw material extraction.", "By encouraging other major industries to adopt local training institutes.", "By outsourcing all training abroad.", "By reducing government funding for education."],
+    "correctAnswer": "By encouraging other major industries to adopt local training institutes."
   },
   {
     "id": 18,
-    "question": "Which association is backing the SpiceJet pilots' demand for fair treatment?",
-    "options": ["Indian Commercial Pilots' Association", "Airline Pilots' Association of India", "Air Traffic Controllers' Guild", "National Aviators' Guild"],
-    "correctAnswer": "Airline Pilots' Association of India"
+    "question": "The Supreme Court's directive to cap prices of non-patented medicines aims to address what critical issue for citizens across India, including those in Andhra Pradesh and Telangana?",
+    "options": ["Lack of medicine availability", "High cost of healthcare and medicine affordability", "Shortage of medical professionals", "Quality of medical research"],
+    "correctAnswer": "High cost of healthcare and medicine affordability"
   },
   {
     "id": 19,
-    "question": "The operational crisis at SpiceJet involves not only pilots but also what other issue?",
-    "options": ["Lack of ground staff", "Vendors withholding services due to delayed payments", "Shortage of fuel", "Air traffic control strikes"],
-    "correctAnswer": "Vendors withholding services due to delayed payments"
+    "question": "Capping medicine prices would particularly benefit which segment of the population in states like Telangana, often struggling with healthcare costs?",
+    "options": ["High-income earners", "Large pharmaceutical companies", "Economically weaker sections and the middle class", "International tourists"],
+    "correctAnswer": "Economically weaker sections and the middle class"
   },
   {
     "id": 20,
-    "question": "A High Court recently urged the law commission to recommend amendments to which central act?",
-    "options": ["Indian Penal Code (IPC)", "Protection of Children from Sexual Offences (POCSO) Act", "Juvenile Justice Act", "Criminal Procedure Code (CrPC)"],
-    "correctAnswer": "Protection of Children from Sexual Offences (POCSO) Act"
+    "question": "The Supreme Court's intervention in medicine pricing reflects a focus on public welfare. How might this impact the accessibility of essential medicines in rural areas of Andhra Pradesh?",
+    "options": ["It would make essential medicines less accessible.", "It could improve access by making them more affordable.", "It would only affect patented medicines.", "It would lead to a complete withdrawal of medicines from rural markets."],
+    "correctAnswer": "It could improve access by making them more affordable."
   },
   {
     "id": 21,
-    "question": "The High Court's request for amendments to the POCSO Act is aimed at addressing cases involving whom?",
-    "options": ["Adult offenders", "Minor couples", "Child laborers", "Victims of human trafficking"],
-    "correctAnswer": "Minor couples"
+    "question": "Non-patented medicines are often referred to by another common term in the pharmaceutical industry. What are these medicines called, and why is their affordability crucial for states like Telangana?",
+    "options": ["Brand-name drugs, due to marketing costs.", "Orphan drugs, due to rare diseases.", "Generic medicines, as they are cheaper alternatives.", "Luxury drugs, due to their exclusivity."],
+    "correctAnswer": "Generic medicines, as they are cheaper alternatives."
   },
   {
     "id": 22,
-    "question": "The court noted that strict enforcement of the POCSO Act can sometimes promote what under certain circumstances?",
-    "options": ["Increased public safety", "Greater accountability", "Injustice", "Swift resolution"],
-    "correctAnswer": "Injustice"
+    "question": "What is the overarching goal of judicial directives aimed at regulating medicine prices in India, a policy that impacts the health budget of families in Andhra Pradesh?",
+    "options": ["To boost profits for pharmaceutical companies.", "To ensure equitable access to essential healthcare for all citizens.", "To encourage the export of medicines.", "To restrict the types of medicines available."],
+    "correctAnswer": "To ensure equitable access to essential healthcare for all citizens."
   },
   {
     "id": 23,
-    "question": "What did the judges suggest allowing special judges to have in POCSO cases involving minor couples?",
-    "options": ["Mandatory minimum sentences", "Greater scrutiny of victim statements", "Flexibility to take individual cases into account", "Power to overturn previous rulings"],
-    "correctAnswer": "Flexibility to take individual cases into account"
+    "question": "The Supreme Court's call to cap prices for non-patented medicines could lead to reforms in India's drug pricing policy. Which government body is primarily responsible for implementing such pricing controls in India, impacting states like Telangana?",
+    "options": ["Reserve Bank of India (RBI)", "National Pharmaceutical Pricing Authority (NPPA)", "Ministry of Finance", "Food Safety and Standards Authority of India (FSSAI)"],
+    "correctAnswer": "National Pharmaceutical Pricing Authority (NPPA)"
   },
   {
     "id": 24,
-    "question": "What was the primary focus of the INDIA bloc's protest march to the Supreme Court?",
-    "options": ["Economic policy reforms", "Alleged discrepancies and the Election Commission’s handling of voter deletions", "Foreign policy decisions", "Environmental protection laws"],
-    "correctAnswer": "Alleged discrepancies and the Election Commission’s handling of voter deletions"
+    "question": "Beyond capping prices, what other measure could enhance access to affordable medicines in states like Andhra Pradesh, complementing the Supreme Court's directive?",
+    "options": ["Increasing taxes on all medicines.", "Promoting awareness and availability of Jan Aushadhi Kendras (generic medicine stores).", "Limiting the production of all medicines.", "Discontinuing public health insurance schemes."],
+    "correctAnswer": "Promoting awareness and availability of Jan Aushadhi Kendras (generic medicine stores)."
   },
   {
     "id": 25,
-    "question": "What did Rahul Gandhi and fellow leaders petition the Supreme Court for after the INDIA bloc march?",
-    "options": ["Immediate dissolution of the government", "Disclosure of Election Commission documents and measures to prevent unannounced voter deletions", "A recount of all past elections", "Increased funding for political parties"],
-    "correctAnswer": "Disclosure of Election Commission documents and measures to prevent unannounced voter deletions"
+    "question": "The affordability of non-patented medicines is a key factor in mitigating the financial burden of illness. In which Sustainable Development Goal (SDG) framework does this initiative align, benefiting public health outcomes in states like Telangana?",
+    "options": ["SDG 1: No Poverty", "SDG 3: Good Health and Well-being", "SDG 4: Quality Education", "SDG 8: Decent Work and Economic Growth"],
+    "correctAnswer": "SDG 3: Good Health and Well-being"
   }
 ]

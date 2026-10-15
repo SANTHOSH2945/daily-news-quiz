@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the maximum gestation period for Medical Termination of Pregnancy (MTP) allowed under Indian law for certain categories of women, a provision relevant to healthcare services in states like Telangana and Andhra Pradesh?",
-    "options": ["12 weeks", "20 weeks", "24 weeks", "28 weeks"],
-    "correctAnswer": "24 weeks"
+    "question": "Which political party was cited in recent news for receiving support from Mary Millben?",
+    "options": ["Congress", "BJP", "AAP", "SP"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 2,
-    "question": "The recent observations by the J&K High Court highlight issues with MTP access. In which year was the Medical Termination of Pregnancy Act originally enacted in India, governing such procedures across all states including Telangana and Andhra Pradesh?",
-    "options": ["1961", "1971", "1981", "1991"],
-    "correctAnswer": "1971"
+    "question": "Which Indian government body recently expressed concern over 'anti-India hate' and demanded a probe into a temple attack plot abroad?",
+    "options": ["Ministry of Home Affairs", "Ministry of External Affairs (MEA)", "Ministry of Defence", "Ministry of Culture"],
+    "correctAnswer": "Ministry of External Affairs (MEA)"
   },
   {
     "id": 3,
-    "question": "Following the bifurcation of the state, which High Court exclusively serves Telangana, impacting judicial oversight on healthcare matters within the state?",
-    "options": ["High Court of Telangana", "High Court of Hyderabad", "High Court of Andhra Pradesh", "High Court of Secunderabad"],
-    "correctAnswer": "High Court of Telangana"
+    "question": "The MEA called for a comprehensive investigation following an arrest related to a plot against which type of religious institution in the US?",
+    "options": ["Mosque", "Church", "Gurudwara", "Hindu Temple"],
+    "correctAnswer": "Hindu Temple"
   },
   {
     "id": 4,
-    "question": "In light of recent controversies regarding the political neutrality of Governors, which article of the Indian Constitution outlines the Governor's appointment by the President for states such as Telangana and Andhra Pradesh?",
-    "options": ["Article 153", "Article 155", "Article 163", "Article 174"],
-    "correctAnswer": "Article 155"
+    "question": "What issue did the MEA highlight regarding the safety of Indian communities abroad in the context of the US temple plot?",
+    "options": ["Economic exploitation", "Visa restrictions", "Growing concern over anti-India hate", "Educational discrimination"],
+    "correctAnswer": "Growing concern over anti-India hate"
   },
   {
     "id": 5,
-    "question": "Who currently holds the additional charge as the Governor of Telangana, a constitutional head responsible for administering the state?",
-    "options": ["E.S.L. Narasimhan", "Dr. Tamilisai Soundararajan", "C. P. Radhakrishnan", "Biswabhusan Harichandan"],
-    "correctAnswer": "C. P. Radhakrishnan"
+    "question": "In which country was Alexandros Paporakis arrested for allegedly plotting an attack on a Hindu temple, prompting MEA's concern?",
+    "options": ["Canada", "United Kingdom", "Australia", "United States"],
+    "correctAnswer": "United States"
   },
   {
     "id": 6,
-    "question": "Which prominent political party is currently in power in Telangana, shaping its state policies and governance after the recent state assembly elections?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "Which apex judicial body in India recently heard pleas concerning sexual harassment of women journalists and attacks on children?",
+    "options": ["High Court", "District Court", "Supreme Court", "National Green Tribunal"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 7,
-    "question": "Following natural calamities like hailstorms, states like Andhra Pradesh and Telangana often provide relief to farmers. Which of the following is a flagship farmer investment support scheme launched by the Telangana government?",
-    "options": ["Rythu Bandhu", "PM-KISAN", "YSR Rythu Bharosa", "Fasal Bima Yojana"],
-    "correctAnswer": "Rythu Bandhu"
+    "question": "The Supreme Court addressed petitions related to which major societal issue affecting women journalists?",
+    "options": ["Wage disparities", "Lack of promotions", "Sexual harassment", "Limited foreign assignments"],
+    "correctAnswer": "Sexual harassment"
   },
   {
     "id": 8,
-    "question": "In Andhra Pradesh, a similar scheme provides financial assistance to farmers at a crucial time for crop investment. What is this scheme called?",
-    "options": ["Rythu Nestham", "YSR Rythu Bharosa", "Kaleshwaram Project", "Annadata Sukhibhava"],
-    "correctAnswer": "YSR Rythu Bharosa"
+    "question": "What concept is central to the petitions heard by the SC concerning protest-related matters, alongside women's and children's safety?",
+    "options": ["Right to information", "Right to protest", "Right to privacy", "Right to property"],
+    "correctAnswer": "Right to protest"
   },
   {
     "id": 9,
-    "question": "What is the primary crop significantly impacted by unseasonal rains and hailstorms in the Telangana region, leading to calls for increased farmer relief efforts?",
-    "options": ["Sugarcane", "Cotton", "Paddy", "Groundnut"],
-    "correctAnswer": "Paddy"
+    "question": "Which famous site in Delhi is central to a Supreme Court plea challenging its de-notification as a protest site?",
+    "options": ["India Gate", "Red Fort", "Jantar Mantar", "Parliament House"],
+    "correctAnswer": "Jantar Mantar"
   },
   {
     "id": 10,
-    "question": "Inspired by efforts in states like Uttarakhand to ban tobacco products, which of the following is a major health insurance scheme by the Andhra Pradesh government aimed at providing cashless medical care to eligible families?",
-    "options": ["Aarogyasri", "Kanti Velugu", "Mission Bhagiratha", "Balamitra"],
-    "correctAnswer": "Aarogyasri"
+    "question": "The Supreme Court sought responses from which two entities regarding the plea challenging Jantar Mantar's status as a protest site?",
+    "options": ["State Government and NGOs", "Centre and Delhi Police", "Local Municipal Corporation and Residents", "Ministry of Culture and ASI"],
+    "correctAnswer": "Centre and Delhi Police"
   },
   {
     "id": 11,
-    "question": "Which organization is primarily responsible for enforcing food safety standards and regulations on products like gutkha and paan masala across India, including Telangana and Andhra Pradesh?",
-    "options": ["World Health Organization (WHO)", "Food Safety and Standards Authority of India (FSSAI)", "Indian Council of Medical Research (ICMR)", "NITI Aayog"],
-    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
+    "question": "What fundamental right is implicitly debated in the context of de-notifying traditional protest sites like Jantar Mantar?",
+    "options": ["Right to education", "Right to freedom of religion", "Right to peaceful assembly/protest", "Right to work"],
+    "correctAnswer": "Right to peaceful assembly/protest"
   },
   {
     "id": 12,
-    "question": "While not a complete ban, what common measure do many states, including Telangana, implement to discourage tobacco use, often cited in public health campaigns?",
-    "options": ["Free tobacco distribution", "Advertising bans for tobacco products", "Tobacco cultivation subsidies", "Mandatory sales in schools"],
-    "correctAnswer": "Advertising bans for tobacco products"
+    "question": "Which region's local body recently condemned the Chinese government over its remarks?",
+    "options": ["Arunachal Pradesh", "Sikkim", "Ladakh", "Uttarakhand"],
+    "correctAnswer": "Ladakh"
   },
   {
     "id": 13,
-    "question": "With national political alliances like the INDIA bloc gaining prominence, which of the following is a major regional party in Andhra Pradesh that currently holds a significant number of seats in the state assembly?",
-    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "The condemnation by the Leh Apex Body highlights ongoing concerns related to which country's relations with India?",
+    "options": ["Pakistan", "Nepal", "China", "Bangladesh"],
+    "correctAnswer": "China"
   },
   {
     "id": 14,
-    "question": "Who is the current Chief Minister of Andhra Pradesh, leading the state government?",
-    "options": ["N. Chandrababu Naidu", "Y.S. Jagan Mohan Reddy", "Pawan Kalyan", "D. Purandeswari"],
-    "correctAnswer": "Y.S. Jagan Mohan Reddy"
+    "question": "The Ankita Bhandari case, mentioned by the Uttarakhand BJP chief, is primarily associated with issues of:",
+    "options": ["Environmental protection", "Economic development", "Justice for victims of violence / Women's safety", "Infrastructure projects"],
+    "correctAnswer": "Justice for victims of violence / Women's safety"
   },
   {
     "id": 15,
-    "question": "In Telangana's political landscape, which party, other than the ruling Congress, emerged as a strong contender in recent elections, often forming alliances or contesting independently at the national level?",
-    "options": ["All India Majlis-e-Ittehadul Muslimeen (AIMIM)", "Telugu Desam Party (TDP)", "Bharat Rashtra Samithi (BRS)", "Bahujan Samaj Party (BSP)"],
-    "correctAnswer": "Bharat Rashtra Samithi (BRS)"
+    "question": "Which political party's chief in Uttarakhand commented on the government's actions in the Ankita Bhandari case?",
+    "options": ["Congress", "AAP", "BJP", "BSP"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 16,
-    "question": "The right to peaceful protest is a fundamental right in India. Which article of the Indian Constitution guarantees the right to assemble peacefully and without arms, a right exercised by citizens in states like Andhra Pradesh and Telangana?",
-    "options": ["Article 19(1)(a)", "Article 19(1)(b)", "Article 21", "Article 22"],
-    "correctAnswer": "Article 19(1)(b)"
+    "question": "Which prominent Indian university was mentioned in a political discourse between BJP and Congress regarding a dismissal?",
+    "options": ["University of Delhi", "Jawaharlal Nehru University (JNU)", "Banaras Hindu University", "Aligarh Muslim University"],
+    "correctAnswer": "Jawaharlal Nehru University (JNU)"
   },
   {
     "id": 17,
-    "question": "In the context of protests and public gatherings, what is the primary role of the state police forces in Telangana and Andhra Pradesh, under the powers granted by the Code of Criminal Procedure?",
-    "options": ["To join protests as participants", "To prevent all protests entirely", "To maintain law and order and ensure public safety", "To issue political statements supporting specific groups"],
-    "correctAnswer": "To maintain law and order and ensure public safety"
+    "question": "BJP recently criticized Congress, alleging it consistently sides with those who exploit which demographic group?",
+    "options": ["Farmers", "Students", "Women", "Senior citizens"],
+    "correctAnswer": "Women"
   },
   {
     "id": 18,
-    "question": "Which court would citizens in Telangana primarily approach to challenge restrictions on fundamental rights like the right to protest, through a writ petition?",
-    "options": ["Supreme Court of India", "High Court of Telangana", "District Court", "Sessions Court"],
-    "correctAnswer": "High Court of Telangana"
+    "question": "Which healthcare initiative, focusing on accessible and affordable services, recently saw an expansion in an Indian state with over 150 new facilities?",
+    "options": ["Jan Aushadhi Kendras", "Ayushman Bharat", "Aam Aadmi Clinics", "Pradhan Mantri Swasthya Suraksha Yojana"],
+    "correctAnswer": "Aam Aadmi Clinics"
   },
   {
     "id": 19,
-    "question": "In matters of women's safety and justice, what is the 'SHE Teams' initiative primarily associated with in Telangana?",
-    "options": ["Women's self-help groups", "Special task force for women's safety in public places", "All-women police stations across the state", "Women's sports teams promoted by the government"],
-    "correctAnswer": "Special task force for women's safety in public places"
+    "question": "Free bus travel for women was highlighted by CM Bhagwant Mann as an example of what type of government initiative?",
+    "options": ["Tax reform programs", "Industrial development plans", "Public welfare programs", "Agricultural subsidies"],
+    "correctAnswer": "Public welfare programs"
   },
   {
     "id": 20,
-    "question": "Andhra Pradesh also has significant initiatives for women's safety. What is the 'Disha Act' primarily aimed at in Andhra Pradesh?",
-    "options": ["Women's economic empowerment through micro-finance", "Protection of women and children from specified offenses including sexual assault", "Promoting women's representation in political leadership", "Enhancing women's education and literacy rates"],
-    "correctAnswer": "Protection of women and children from specified offenses including sexual assault"
+    "question": "The expansion of 'Aam Aadmi Clinics' aims to support which key sector across states implementing the initiative?",
+    "options": ["Education", "Tourism", "Healthcare", "Manufacturing"],
+    "correctAnswer": "Healthcare"
   },
   {
     "id": 21,
-    "question": "Which national emergency helpline number is widely promoted in Telangana and Andhra Pradesh for women facing domestic violence or other forms of abuse?",
-    "options": ["100", "108", "1098", "112"],
-    "correctAnswer": "112"
+    "question": "Which Chief Minister inaugurated over 150 new 'Aam Aadmi Clinics' in Punjab?",
+    "options": ["Arvind Kejriwal", "Bhagwant Mann", "Charanjit Singh Channi", "Amarinder Singh"],
+    "correctAnswer": "Bhagwant Mann"
   },
   {
     "id": 22,
-    "question": "While India faces external challenges, states like Telangana and Andhra Pradesh contribute significantly to national defense. Which major public sector undertaking, involved in missile manufacturing, is headquartered in Hyderabad, Telangana?",
-    "options": ["Hindustan Aeronautics Limited (HAL)", "Bharat Electronics Limited (BEL)", "Bharat Dynamics Limited (BDL)", "Defence Research and Development Organisation (DRDO)"],
-    "correctAnswer": "Bharat Dynamics Limited (BDL)"
+    "question": "Which Indian institution was recently emphasized as immune to being 'browbeaten' in a Supreme Court statement?",
+    "options": ["Legislature", "Executive", "Judiciary", "Press"],
+    "correctAnswer": "Judiciary"
   },
   {
     "id": 23,
-    "question": "Andhra Pradesh has a strategic coastline vital for national security. Which of the following major naval commands of the Indian Navy is headquartered in Visakhapatnam, Andhra Pradesh?",
-    "options": ["Western Naval Command", "Eastern Naval Command", "Southern Naval Command", "Andaman & Nicobar Command"],
-    "correctAnswer": "Eastern Naval Command"
+    "question": "The Supreme Court issued notices to political figures like Rahul Gandhi and Akhilesh Yadav concerning what event?",
+    "options": ["A political rally", "An election campaign", "An October 12 march", "A parliamentary debate"],
+    "correctAnswer": "An October 12 march"
   },
   {
     "id": 24,
-    "question": "In response to concerns about police conduct during protests, states like Telangana and Andhra Pradesh have grievance redressal mechanisms. Which independent body is responsible for inquiring into serious complaints against police officers in Telangana?",
-    "options": ["State Human Rights Commission", "State Police Complaints Authority", "Lokayukta", "High Court"],
-    "correctAnswer": "State Police Complaints Authority"
+    "question": "Which judicial body refused an urgent hearing on a woman journalist's arrest protection plea in a recent case?",
+    "options": ["Supreme Court", "High Court", "District Court", "Magistrate Court"],
+    "correctAnswer": "High Court"
   },
   {
     "id": 25,
-    "question": "What is the highest-ranking police officer responsible for law and order throughout the entire state of Andhra Pradesh, acting as the head of the state police force?",
-    "options": ["Inspector General of Police", "Commissioner of Police", "Director General of Police", "Superintendent of Police"],
-    "correctAnswer": "Director General of Police"
+    "question": "The MEA's concern over anti-India hate in the US follows the arrest of Alexandros Paporakis, accused of plotting what against a Hindu temple?",
+    "options": ["Vandalism", "Theft", "Mass shooting", "Arson"],
+    "correctAnswer": "Mass shooting"
   }
 ]

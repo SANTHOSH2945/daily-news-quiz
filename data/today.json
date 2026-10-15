@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which political party was cited in recent news for receiving support from Mary Millben?",
-    "options": ["Congress", "BJP", "AAP", "SP"],
-    "correctAnswer": "BJP"
+    "question": "Which Union Minister recently vowed to eliminate Naxalism, an issue that has historically impacted tribal communities and development in states like Telangana and Andhra Pradesh?",
+    "options": ["Rajnath Singh", "Amit Shah", "Nirmala Sitharaman", "Nitin Gadkari"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 2,
-    "question": "Which Indian government body recently expressed concern over 'anti-India hate' and demanded a probe into a temple attack plot abroad?",
-    "options": ["Ministry of Home Affairs", "Ministry of External Affairs (MEA)", "Ministry of Defence", "Ministry of Culture"],
-    "correctAnswer": "Ministry of External Affairs (MEA)"
+    "question": "Union Home Minister Amit Shah's recent statement on eradicating Naxalism mentioned its impact causing \"five decades of tribal suffering.\" In which broader geographical region are Naxal-affected areas like parts of Telangana and Andhra Pradesh located?",
+    "options": ["North-East India", "Southern India", "Central and Eastern India", "Western India"],
+    "correctAnswer": "Central and Eastern India"
   },
   {
     "id": 3,
-    "question": "The MEA called for a comprehensive investigation following an arrest related to a plot against which type of religious institution in the US?",
-    "options": ["Mosque", "Church", "Gurudwara", "Hindu Temple"],
-    "correctAnswer": "Hindu Temple"
+    "question": "Naxalism has been a long-standing challenge for law and order in Andhra Pradesh and Telangana. What is the primary objective of the government's efforts against Naxalism, as highlighted by the Union Home Minister?",
+    "options": ["Promoting tourism", "Restoring growth and development", "Expanding Naxal influence", "Increasing agricultural output"],
+    "correctAnswer": "Restoring growth and development"
   },
   {
     "id": 4,
-    "question": "What issue did the MEA highlight regarding the safety of Indian communities abroad in the context of the US temple plot?",
-    "options": ["Economic exploitation", "Visa restrictions", "Growing concern over anti-India hate", "Educational discrimination"],
-    "correctAnswer": "Growing concern over anti-India hate"
+    "question": "The news mentioned a distribution program for disabled individuals, particularly Naxal violence victims. What specific type of assistance was provided in such programs, often seen in Naxal-affected regions of Telangana and Andhra Pradesh?",
+    "options": ["Financial loans", "Assistive devices", "Vocational training", "Housing subsidies"],
+    "correctAnswer": "Assistive devices"
   },
   {
     "id": 5,
-    "question": "In which country was Alexandros Paporakis arrested for allegedly plotting an attack on a Hindu temple, prompting MEA's concern?",
-    "options": ["Canada", "United Kingdom", "Australia", "United States"],
-    "correctAnswer": "United States"
+    "question": "Historically, which major Naxalite group has had a significant presence and influence in the regions that now constitute Telangana and Andhra Pradesh?",
+    "options": ["ULFA", "LTTE", "CPI (Maoist)", "SIMI"],
+    "correctAnswer": "CPI (Maoist)"
   },
   {
     "id": 6,
-    "question": "Which apex judicial body in India recently heard pleas concerning sexual harassment of women journalists and attacks on children?",
-    "options": ["High Court", "District Court", "Supreme Court", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "The government's strategy against Naxalism, as implied by Amit Shah's statement, includes efforts to heal past wounds. What are these efforts primarily aimed at for affected tribal populations in states like AP/TS?",
+    "options": ["Economic sanctions", "Military operations", "Rehabilitation and welfare", "Forced relocation"],
+    "correctAnswer": "Rehabilitation and welfare"
   },
   {
     "id": 7,
-    "question": "The Supreme Court addressed petitions related to which major societal issue affecting women journalists?",
-    "options": ["Wage disparities", "Lack of promotions", "Sexual harassment", "Limited foreign assignments"],
-    "correctAnswer": "Sexual harassment"
+    "question": "The focus on eradicating Naxalism aims to improve conditions in affected regions. What sector is most directly impacted and often hindered by Naxal activity in tribal areas of Andhra Pradesh and Telangana?",
+    "options": ["Information Technology", "Industrial manufacturing", "Infrastructure development", "Maritime trade"],
+    "correctAnswer": "Infrastructure development"
   },
   {
     "id": 8,
-    "question": "What concept is central to the petitions heard by the SC concerning protest-related matters, alongside women's and children's safety?",
-    "options": ["Right to information", "Right to protest", "Right to privacy", "Right to property"],
-    "correctAnswer": "Right to protest"
+    "question": "Which state, carved out of Andhra Pradesh, has also actively engaged in operations to counter Naxalism within its borders?",
+    "options": ["Karnataka", "Odisha", "Telangana", "Tamil Nadu"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 9,
-    "question": "Which famous site in Delhi is central to a Supreme Court plea challenging its de-notification as a protest site?",
-    "options": ["India Gate", "Red Fort", "Jantar Mantar", "Parliament House"],
-    "correctAnswer": "Jantar Mantar"
+    "question": "The Union Home Minister highlighted the importance of tribal leadership in combating Naxalism. What role do local communities often play in counter-Naxal operations in states like AP/TS?",
+    "options": ["Providing logistical support to Naxalites", "Supporting Naxal recruitment", "Aiding intelligence gathering and development initiatives", "Ignoring government efforts"],
+    "correctAnswer": "Aiding intelligence gathering and development initiatives"
   },
   {
     "id": 10,
-    "question": "The Supreme Court sought responses from which two entities regarding the plea challenging Jantar Mantar's status as a protest site?",
-    "options": ["State Government and NGOs", "Centre and Delhi Police", "Local Municipal Corporation and Residents", "Ministry of Culture and ASI"],
-    "correctAnswer": "Centre and Delhi Police"
+    "question": "The statement mentioned \"five decades of tribal suffering.\" Which fundamental aspect of life for tribal populations in Naxal-affected areas of AP/TS is severely compromised by Naxal violence?",
+    "options": ["Right to freedom of speech", "Right to education and livelihood", "Right to choose religion", "Right to form associations"],
+    "correctAnswer": "Right to education and livelihood"
   },
   {
     "id": 11,
-    "question": "What fundamental right is implicitly debated in the context of de-notifying traditional protest sites like Jantar Mantar?",
-    "options": ["Right to education", "Right to freedom of religion", "Right to peaceful assembly/protest", "Right to work"],
-    "correctAnswer": "Right to peaceful assembly/protest"
+    "question": "Experts have emphasized aligning renewable energy expansion with transmission readiness. Which of the following is a key renewable energy source being extensively developed in Andhra Pradesh and Telangana?",
+    "options": ["Tidal energy", "Geothermal energy", "Solar and Wind energy", "Biomass energy from waste"],
+    "correctAnswer": "Solar and Wind energy"
   },
   {
     "id": 12,
-    "question": "Which region's local body recently condemned the Chinese government over its remarks?",
-    "options": ["Arunachal Pradesh", "Sikkim", "Ladakh", "Uttarakhand"],
-    "correctAnswer": "Ladakh"
+    "question": "What critical infrastructure challenge is highlighted for renewable energy expansion, directly impacting states like Andhra Pradesh and Telangana which are major producers?",
+    "options": ["Lack of skilled labor", "Insufficient land availability", "Transmission readiness", "High cost of raw materials"],
+    "correctAnswer": "Transmission readiness"
   },
   {
     "id": 13,
-    "question": "The condemnation by the Leh Apex Body highlights ongoing concerns related to which country's relations with India?",
-    "options": ["Pakistan", "Nepal", "China", "Bangladesh"],
-    "correctAnswer": "China"
+    "question": "Andhra Pradesh and Telangana have ambitious renewable energy targets. What does \"transmission readiness\" primarily involve in this context?",
+    "options": ["Training new engineers", "Upgrading the power grid to handle intermittent renewable energy", "Importing more coal", "Reducing energy consumption"],
+    "correctAnswer": "Upgrading the power grid to handle intermittent renewable energy"
   },
   {
     "id": 14,
-    "question": "The Ankita Bhandari case, mentioned by the Uttarakhand BJP chief, is primarily associated with issues of:",
-    "options": ["Environmental protection", "Economic development", "Justice for victims of violence / Women's safety", "Infrastructure projects"],
-    "correctAnswer": "Justice for victims of violence / Women's safety"
+    "question": "The push for renewable energy in India, including states like AP/TS, aligns with broader climate goals. Which major international agreement does India aim to fulfill through such initiatives?",
+    "options": ["Kyoto Protocol", "Paris Agreement", "Montreal Protocol", "Basel Convention"],
+    "correctAnswer": "Paris Agreement"
   },
   {
     "id": 15,
-    "question": "Which political party's chief in Uttarakhand commented on the government's actions in the Ankita Bhandari case?",
-    "options": ["Congress", "AAP", "BJP", "BSP"],
-    "correctAnswer": "BJP"
+    "question": "What role do states like Andhra Pradesh and Telangana typically play in India's overall renewable energy landscape?",
+    "options": ["Minimal contribution", "Primary consumers", "Significant producers and developers", "Solely focused on fossil fuels"],
+    "correctAnswer": "Significant producers and developers"
   },
   {
     "id": 16,
-    "question": "Which prominent Indian university was mentioned in a political discourse between BJP and Congress regarding a dismissal?",
-    "options": ["University of Delhi", "Jawaharlal Nehru University (JNU)", "Banaras Hindu University", "Aligarh Muslim University"],
-    "correctAnswer": "Jawaharlal Nehru University (JNU)"
+    "question": "The intermittency of renewable energy sources like solar and wind necessitates solutions for grid stability. What type of technology is crucial for \"transmission readiness\" in AP/TS to manage this intermittency?",
+    "options": ["Diesel generators", "Hydro-electric plants", "Battery energy storage systems", "Coal-fired power plants"],
+    "correctAnswer": "Battery energy storage systems"
   },
   {
     "id": 17,
-    "question": "BJP recently criticized Congress, alleging it consistently sides with those who exploit which demographic group?",
-    "options": ["Farmers", "Students", "Women", "Senior citizens"],
-    "correctAnswer": "Women"
+    "question": "What is a key benefit of improving \"transmission readiness\" for renewable energy projects in states like Andhra Pradesh and Telangana?",
+    "options": ["Increased reliance on thermal power", "Reduced energy security", "Efficient evacuation of generated power", "Higher power tariffs"],
+    "correctAnswer": "Efficient evacuation of generated power"
   },
   {
     "id": 18,
-    "question": "Which healthcare initiative, focusing on accessible and affordable services, recently saw an expansion in an Indian state with over 150 new facilities?",
-    "options": ["Jan Aushadhi Kendras", "Ayushman Bharat", "Aam Aadmi Clinics", "Pradhan Mantri Swasthya Suraksha Yojana"],
-    "correctAnswer": "Aam Aadmi Clinics"
+    "question": "The Central Transmission Utility (CTU) plays a vital role in ensuring transmission readiness for states. Which central body is primarily responsible for planning and coordinating the inter-state transmission system in India, impacting AP/TS?",
+    "options": ["State Electricity Boards", "Power Grid Corporation of India Limited (POWERGRID)", "NTPC", "BHEL"],
+    "correctAnswer": "Power Grid Corporation of India Limited (POWERGRID)"
   },
   {
     "id": 19,
-    "question": "Free bus travel for women was highlighted by CM Bhagwant Mann as an example of what type of government initiative?",
-    "options": ["Tax reform programs", "Industrial development plans", "Public welfare programs", "Agricultural subsidies"],
-    "correctAnswer": "Public welfare programs"
+    "question": "Given the significant agricultural sector in Andhra Pradesh and Telangana, what type of renewable energy could also be expanded with proper transmission infrastructure, besides solar and wind?",
+    "options": ["Ocean Thermal Energy Conversion (OTEC)", "Biomass power", "Geothermal energy", "Tidal Stream Generators"],
+    "correctAnswer": "Biomass power"
   },
   {
     "id": 20,
-    "question": "The expansion of 'Aam Aadmi Clinics' aims to support which key sector across states implementing the initiative?",
-    "options": ["Education", "Tourism", "Healthcare", "Manufacturing"],
-    "correctAnswer": "Healthcare"
+    "question": "What is one of the financial challenges associated with achieving \"transmission readiness\" for large-scale renewable energy projects in states like AP/TS?",
+    "options": ["Low cost of land acquisition", "Abundant availability of private funding", "High capital investment for grid upgrades", "Lack of government subsidies"],
+    "correctAnswer": "High capital investment for grid upgrades"
   },
   {
     "id": 21,
-    "question": "Which Chief Minister inaugurated over 150 new 'Aam Aadmi Clinics' in Punjab?",
-    "options": ["Arvind Kejriwal", "Bhagwant Mann", "Charanjit Singh Channi", "Amarinder Singh"],
-    "correctAnswer": "Bhagwant Mann"
+    "question": "The Supreme Court recently addressed a plea concerning the accountability of protest organizers. What type of damages were specifically mentioned as potential liabilities for organizers?",
+    "options": ["Damages to reputation", "Loss of life, injuries, and property damage", "Emotional distress", "Lost business opportunities"],
+    "correctAnswer": "Loss of life, injuries, and property damage"
   },
   {
     "id": 22,
-    "question": "Which Indian institution was recently emphasized as immune to being 'browbeaten' in a Supreme Court statement?",
-    "options": ["Legislature", "Executive", "Judiciary", "Press"],
-    "correctAnswer": "Judiciary"
+    "question": "One key proposal in the Supreme Court plea regarding protests is to advocate for what specific measure to minimize public disturbance, particularly relevant in densely populated cities of Andhra Pradesh and Telangana?",
+    "options": ["Increased police presence", "Designated protest locations", "Complete ban on protests", "Mandatory online protests"],
+    "correctAnswer": "Designated protest locations"
   },
   {
     "id": 23,
-    "question": "The Supreme Court issued notices to political figures like Rahul Gandhi and Akhilesh Yadav concerning what event?",
-    "options": ["A political rally", "An election campaign", "An October 12 march", "A parliamentary debate"],
-    "correctAnswer": "An October 12 march"
+    "question": "The Supreme Court plea also suggests a measure to ensure transparency from protest organizers. What is this measure related to?",
+    "options": ["Disclosing political affiliations", "Disclosing educational qualifications", "Disclosing funding sources", "Disclosing personal details of participants"],
+    "correctAnswer": "Disclosing funding sources"
   },
   {
     "id": 24,
-    "question": "Which judicial body refused an urgent hearing on a woman journalist's arrest protection plea in a recent case?",
-    "options": ["Supreme Court", "High Court", "District Court", "Magistrate Court"],
-    "correctAnswer": "High Court"
+    "question": "In the context of the Supreme Court's deliberations on protest liability, what is the underlying principle behind holding organizers accountable for damages?",
+    "options": ["To encourage more protests", "To protect public order and property", "To limit freedom of expression", "To generate revenue for the state"],
+    "correctAnswer": "To protect public order and property"
   },
   {
     "id": 25,
-    "question": "The MEA's concern over anti-India hate in the US follows the arrest of Alexandros Paporakis, accused of plotting what against a Hindu temple?",
-    "options": ["Vandalism", "Theft", "Mass shooting", "Arson"],
-    "correctAnswer": "Mass shooting"
+    "question": "If the Supreme Court's proposed guidelines on protest liability are implemented, how might this impact the planning and execution of protests in states like Andhra Pradesh and Telangana?",
+    "options": ["Lead to more spontaneous protests", "Discourage organizers from seeking permits", "Encourage more responsible and peaceful conduct", "Result in increased violence"],
+    "correctAnswer": "Encourage more responsible and peaceful conduct"
   }
 ]

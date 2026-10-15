@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which Union Minister recently vowed to eliminate Naxalism, an issue that has historically impacted tribal communities and development in states like Telangana and Andhra Pradesh?",
-    "options": ["Rajnath Singh", "Amit Shah", "Nirmala Sitharaman", "Nitin Gadkari"],
-    "correctAnswer": "Amit Shah"
+    "question": "Which independent constitutional body is primarily responsible for conducting elections and revising electoral rolls in Indian states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Union Public Service Commission",
+      "Election Commission of India",
+      "Comptroller and Auditor General",
+      "NITI Aayog"
+    ],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 2,
-    "question": "Union Home Minister Amit Shah's recent statement on eradicating Naxalism mentioned its impact causing \"five decades of tribal suffering.\" In which broader geographical region are Naxal-affected areas like parts of Telangana and Andhra Pradesh located?",
-    "options": ["North-East India", "Southern India", "Central and Eastern India", "Western India"],
-    "correctAnswer": "Central and Eastern India"
+    "question": "The Supreme Court recently sought replies from the Election Commission regarding an opposition plea. What is the primary function of the Election Commission of India concerning states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Formulating state budgets",
+      "Conducting free and fair elections",
+      "Appointing state governors",
+      "Managing law and order"
+    ],
+    "correctAnswer": "Conducting free and fair elections"
   },
   {
     "id": 3,
-    "question": "Naxalism has been a long-standing challenge for law and order in Andhra Pradesh and Telangana. What is the primary objective of the government's efforts against Naxalism, as highlighted by the Union Home Minister?",
-    "options": ["Promoting tourism", "Restoring growth and development", "Expanding Naxal influence", "Increasing agricultural output"],
-    "correctAnswer": "Restoring growth and development"
+    "question": "The Supreme Court is reviewing matters related to the Election Commission. Which constitutional article primarily deals with the establishment and powers of the Election Commission of India, whose functions extend to states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Article 324",
+      "Article 280",
+      "Article 148",
+      "Article 315"
+    ],
+    "correctAnswer": "Article 324"
   },
   {
     "id": 4,
-    "question": "The news mentioned a distribution program for disabled individuals, particularly Naxal violence victims. What specific type of assistance was provided in such programs, often seen in Naxal-affected regions of Telangana and Andhra Pradesh?",
-    "options": ["Financial loans", "Assistive devices", "Vocational training", "Housing subsidies"],
-    "correctAnswer": "Assistive devices"
+    "question": "A special summary revision of the electoral roll is underway in 17 states. What is the main objective of this process for citizens in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "To update tax records",
+      "To issue new Aadhaar cards",
+      "To update the voter list with new eligible voters and remove deceased/shifted voters",
+      "To conduct a population census"
+    ],
+    "correctAnswer": "To update the voter list with new eligible voters and remove deceased/shifted voters"
   },
   {
     "id": 5,
-    "question": "Historically, which major Naxalite group has had a significant presence and influence in the regions that now constitute Telangana and Andhra Pradesh?",
-    "options": ["ULFA", "LTTE", "CPI (Maoist)", "SIMI"],
-    "correctAnswer": "CPI (Maoist)"
+    "question": "The special summary revision of poll rolls aims to include all eligible citizens. What is the minimum age to be registered as a voter in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "21 years",
+      "25 years",
+      "18 years",
+      "16 years"
+    ],
+    "correctAnswer": "18 years"
   },
   {
     "id": 6,
-    "question": "The government's strategy against Naxalism, as implied by Amit Shah's statement, includes efforts to heal past wounds. What are these efforts primarily aimed at for affected tribal populations in states like AP/TS?",
-    "options": ["Economic sanctions", "Military operations", "Rehabilitation and welfare", "Forced relocation"],
-    "correctAnswer": "Rehabilitation and welfare"
+    "question": "Which document is primarily updated during the special summary revision of poll rolls, impacting electoral processes in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "PAN Card",
+      "Driving License",
+      "Electoral Roll",
+      "Passport"
+    ],
+    "correctAnswer": "Electoral Roll"
   },
   {
     "id": 7,
-    "question": "The focus on eradicating Naxalism aims to improve conditions in affected regions. What sector is most directly impacted and often hindered by Naxal activity in tribal areas of Andhra Pradesh and Telangana?",
-    "options": ["Information Technology", "Industrial manufacturing", "Infrastructure development", "Maritime trade"],
-    "correctAnswer": "Infrastructure development"
+    "question": "The Election Commission initiates special summary revisions. For which type of elections in states like Andhra Pradesh and Telangana is this revision particularly crucial?",
+    "options": [
+      "Gram Panchayat elections only",
+      "State Assembly and Lok Sabha elections",
+      "Municipal Corporation elections only",
+      "Presidential elections"
+    ],
+    "correctAnswer": "State Assembly and Lok Sabha elections"
   },
   {
     "id": 8,
-    "question": "Which state, carved out of Andhra Pradesh, has also actively engaged in operations to counter Naxalism within its borders?",
-    "options": ["Karnataka", "Odisha", "Telangana", "Tamil Nadu"],
-    "correctAnswer": "Telangana"
+    "question": "The Supreme Court recently ruled on reservation for OBC/Dalits who convert. This ruling implies that a person's religious identity can affect their eligibility for reservations based on what, impacting policies in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Income status",
+      "Caste-based social backwardness",
+      "Geographical location",
+      "Educational qualifications"
+    ],
+    "correctAnswer": "Caste-based social backwardness"
   },
   {
     "id": 9,
-    "question": "The Union Home Minister highlighted the importance of tribal leadership in combating Naxalism. What role do local communities often play in counter-Naxal operations in states like AP/TS?",
-    "options": ["Providing logistical support to Naxalites", "Supporting Naxal recruitment", "Aiding intelligence gathering and development initiatives", "Ignoring government efforts"],
-    "correctAnswer": "Aiding intelligence gathering and development initiatives"
+    "question": "The Supreme Court's ruling on reservations for converts is based on the principle that 'backwardness cannot be carried forward' after conversion. This directly impacts reservation policies across all states, including which categories in Telangana and Andhra Pradesh?",
+    "options": [
+      "Only Economically Weaker Sections (EWS)",
+      "Scheduled Castes and Other Backward Classes",
+      "Only Women's reservations",
+      "Only Persons with Disabilities"
+    ],
+    "correctAnswer": "Scheduled Castes and Other Backward Classes"
   },
   {
     "id": 10,
-    "question": "The statement mentioned \"five decades of tribal suffering.\" Which fundamental aspect of life for tribal populations in Naxal-affected areas of AP/TS is severely compromised by Naxal violence?",
-    "options": ["Right to freedom of speech", "Right to education and livelihood", "Right to choose religion", "Right to form associations"],
-    "correctAnswer": "Right to education and livelihood"
+    "question": "The recent Supreme Court decision regarding reservations for converted individuals is rooted in constitutional principles related to social justice and equality. Which article of the Indian Constitution primarily deals with reservations, relevant to states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Article 19",
+      "Article 21",
+      "Article 15 and 16",
+      "Article 32"
+    ],
+    "correctAnswer": "Article 15 and 16"
   },
   {
     "id": 11,
-    "question": "Experts have emphasized aligning renewable energy expansion with transmission readiness. Which of the following is a key renewable energy source being extensively developed in Andhra Pradesh and Telangana?",
-    "options": ["Tidal energy", "Geothermal energy", "Solar and Wind energy", "Biomass energy from waste"],
-    "correctAnswer": "Solar and Wind energy"
+    "question": "The Supreme Court emphasized that the purpose of reservation is to address historical discrimination. Which specific communities in states like Andhra Pradesh and Telangana are primarily targeted by reservation policies?",
+    "options": [
+      "Only Forward Castes",
+      "Scheduled Castes and Scheduled Tribes",
+      "Only Religious Minorities",
+      "Only Urban Poor"
+    ],
+    "correctAnswer": "Scheduled Castes and Scheduled Tribes"
   },
   {
     "id": 12,
-    "question": "What critical infrastructure challenge is highlighted for renewable energy expansion, directly impacting states like Andhra Pradesh and Telangana which are major producers?",
-    "options": ["Lack of skilled labor", "Insufficient land availability", "Transmission readiness", "High cost of raw materials"],
-    "correctAnswer": "Transmission readiness"
+    "question": "A panel is seeking citizens' inputs on 'unnatural' demographic shifts in India. Which government body is typically responsible for conducting demographic surveys and collecting data at the state level, including in Telangana and Andhra Pradesh?",
+    "options": [
+      "Ministry of Finance",
+      "Registrar General and Census Commissioner of India",
+      "National Human Rights Commission",
+      "Ministry of External Affairs"
+    ],
+    "correctAnswer": "Registrar General and Census Commissioner of India"
   },
   {
     "id": 13,
-    "question": "Andhra Pradesh and Telangana have ambitious renewable energy targets. What does \"transmission readiness\" primarily involve in this context?",
-    "options": ["Training new engineers", "Upgrading the power grid to handle intermittent renewable energy", "Importing more coal", "Reducing energy consumption"],
-    "correctAnswer": "Upgrading the power grid to handle intermittent renewable energy"
+    "question": "The concept of 'demographic shifts' can refer to changes in population composition. Which factor is NOT typically considered a primary driver of natural demographic shifts in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Birth rates",
+      "Death rates",
+      "Migration patterns",
+      "Political affiliations"
+    ],
+    "correctAnswer": "Political affiliations"
   },
   {
     "id": 14,
-    "question": "The push for renewable energy in India, including states like AP/TS, aligns with broader climate goals. Which major international agreement does India aim to fulfill through such initiatives?",
-    "options": ["Kyoto Protocol", "Paris Agreement", "Montreal Protocol", "Basel Convention"],
-    "correctAnswer": "Paris Agreement"
+    "question": "If 'unnatural demographic shifts' were identified in a state like Telangana, what kind of societal impact might be a concern regarding its political and economic landscape?",
+    "options": [
+      "Changes in seasonal rainfall patterns",
+      "Increased tourist arrivals",
+      "Changes in electoral outcomes and resource distribution",
+      "Improved public transportation"
+    ],
+    "correctAnswer": "Changes in electoral outcomes and resource distribution"
   },
   {
     "id": 15,
-    "question": "What role do states like Andhra Pradesh and Telangana typically play in India's overall renewable energy landscape?",
-    "options": ["Minimal contribution", "Primary consumers", "Significant producers and developers", "Solely focused on fossil fuels"],
-    "correctAnswer": "Significant producers and developers"
+    "question": "The panel seeking inputs on demographic shifts would analyze data on various aspects. Which of the following is a key demographic indicator relevant to population studies in any Indian state, including Andhra Pradesh and Telangana?",
+    "options": [
+      "Stock market index",
+      "Sex ratio",
+      "Average daily temperature",
+      "Number of national parks"
+    ],
+    "correctAnswer": "Sex ratio"
   },
   {
     "id": 16,
-    "question": "The intermittency of renewable energy sources like solar and wind necessitates solutions for grid stability. What type of technology is crucial for \"transmission readiness\" in AP/TS to manage this intermittency?",
-    "options": ["Diesel generators", "Hydro-electric plants", "Battery energy storage systems", "Coal-fired power plants"],
-    "correctAnswer": "Battery energy storage systems"
+    "question": "Who is the current Chief Election Commissioner of India, overseeing electoral processes in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Sushil Chandra",
+      "Om Prakash Rawat",
+      "Rajiv Kumar",
+      "Sunil Arora"
+    ],
+    "correctAnswer": "Rajiv Kumar"
   },
   {
     "id": 17,
-    "question": "What is a key benefit of improving \"transmission readiness\" for renewable energy projects in states like Andhra Pradesh and Telangana?",
-    "options": ["Increased reliance on thermal power", "Reduced energy security", "Efficient evacuation of generated power", "Higher power tariffs"],
-    "correctAnswer": "Efficient evacuation of generated power"
+    "question": "The Supreme Court's involvement in electoral matters underscores the importance of a fair democratic process for all states. Which of the following is a common issue addressed by the Election Commission during assembly elections in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Setting commodity prices",
+      "Regulating campaign expenditure",
+      "Managing international trade agreements",
+      "Issuing passports"
+    ],
+    "correctAnswer": "Regulating campaign expenditure"
   },
   {
     "id": 18,
-    "question": "The Central Transmission Utility (CTU) plays a vital role in ensuring transmission readiness for states. Which central body is primarily responsible for planning and coordinating the inter-state transmission system in India, impacting AP/TS?",
-    "options": ["State Electricity Boards", "Power Grid Corporation of India Limited (POWERGRID)", "NTPC", "BHEL"],
-    "correctAnswer": "Power Grid Corporation of India Limited (POWERGRID)"
+    "question": "The 'special summary revision of poll rolls' is a periodic exercise. How often is the electoral roll typically revised by the Election Commission for states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Every five years",
+      "Biennially",
+      "Annually",
+      "Only before general elections"
+    ],
+    "correctAnswer": "Annually"
   },
   {
     "id": 19,
-    "question": "Given the significant agricultural sector in Andhra Pradesh and Telangana, what type of renewable energy could also be expanded with proper transmission infrastructure, besides solar and wind?",
-    "options": ["Ocean Thermal Energy Conversion (OTEC)", "Biomass power", "Geothermal energy", "Tidal Stream Generators"],
-    "correctAnswer": "Biomass power"
+    "question": "During the special summary revision, individuals can file claims and objections. What is the primary purpose of filing a Form 6 during this process in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "To apply for a new ration card",
+      "To apply for inclusion of name in the electoral roll",
+      "To change one's address in Aadhaar",
+      "To register a business"
+    ],
+    "correctAnswer": "To apply for inclusion of name in the electoral roll"
   },
   {
     "id": 20,
-    "question": "What is one of the financial challenges associated with achieving \"transmission readiness\" for large-scale renewable energy projects in states like AP/TS?",
-    "options": ["Low cost of land acquisition", "Abundant availability of private funding", "High capital investment for grid upgrades", "Lack of government subsidies"],
-    "correctAnswer": "High capital investment for grid upgrades"
+    "question": "The Supreme Court's stance on reservation for converts reinforces the focus on historical backwardness. In the context of states like Andhra Pradesh and Telangana, which constitutional body primarily advises the government on matters related to OBC status and lists?",
+    "options": [
+      "National Commission for Women",
+      "National Commission for Backward Classes (NCBC)",
+      "National Green Tribunal",
+      "Union Public Service Commission"
+    ],
+    "correctAnswer": "National Commission for Backward Classes (NCBC)"
   },
   {
     "id": 21,
-    "question": "The Supreme Court recently addressed a plea concerning the accountability of protest organizers. What type of damages were specifically mentioned as potential liabilities for organizers?",
-    "options": ["Damages to reputation", "Loss of life, injuries, and property damage", "Emotional distress", "Lost business opportunities"],
-    "correctAnswer": "Loss of life, injuries, and property damage"
+    "question": "The ruling from the Supreme Court mentions that 'backwardness cannot be carried forward' after conversion. This legal interpretation aligns with the intent of reservations to address which specific historical injustice in communities, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "Economic disparities only",
+      "Social and educational backwardness based on caste",
+      "Geographical isolation",
+      "Linguistic differences"
+    ],
+    "correctAnswer": "Social and educational backwardness based on caste"
   },
   {
     "id": 22,
-    "question": "One key proposal in the Supreme Court plea regarding protests is to advocate for what specific measure to minimize public disturbance, particularly relevant in densely populated cities of Andhra Pradesh and Telangana?",
-    "options": ["Increased police presence", "Designated protest locations", "Complete ban on protests", "Mandatory online protests"],
-    "correctAnswer": "Designated protest locations"
+    "question": "The Election Commission ensures political parties adhere to guidelines during elections. In which recent state assembly elections in South India, directly involving one of the Telugu states, did the EC monitor campaigning and expenditures?",
+    "options": [
+      "Kerala Assembly Elections 2021",
+      "Telangana Assembly Elections 2023",
+      "Tamil Nadu Assembly Elections 2021",
+      "Karnataka Assembly Elections 2023"
+    ],
+    "correctAnswer": "Telangana Assembly Elections 2023"
   },
   {
     "id": 23,
-    "question": "The Supreme Court plea also suggests a measure to ensure transparency from protest organizers. What is this measure related to?",
-    "options": ["Disclosing political affiliations", "Disclosing educational qualifications", "Disclosing funding sources", "Disclosing personal details of participants"],
-    "correctAnswer": "Disclosing funding sources"
+    "question": "If a citizen in Andhra Pradesh wishes to lodge a complaint regarding discrepancies in the electoral roll during the special summary revision, to whom should they primarily appeal at the local level?",
+    "options": [
+      "Chief Minister's Office",
+      "District Collector",
+      "Electoral Registration Officer (ERO)",
+      "Director General of Police"
+    ],
+    "correctAnswer": "Electoral Registration Officer (ERO)"
   },
   {
     "id": 24,
-    "question": "In the context of the Supreme Court's deliberations on protest liability, what is the underlying principle behind holding organizers accountable for damages?",
-    "options": ["To encourage more protests", "To protect public order and property", "To limit freedom of expression", "To generate revenue for the state"],
-    "correctAnswer": "To protect public order and property"
+    "question": "The Supreme Court's pronouncements on various matters, including elections and reservations, are binding across all states. What is the highest judicial body in the state of Telangana, beneath the Supreme Court of India?",
+    "options": [
+      "District Court",
+      "Lok Adalat",
+      "High Court of Telangana",
+      "Revenue Court"
+    ],
+    "correctAnswer": "High Court of Telangana"
   },
   {
     "id": 25,
-    "question": "If the Supreme Court's proposed guidelines on protest liability are implemented, how might this impact the planning and execution of protests in states like Andhra Pradesh and Telangana?",
-    "options": ["Lead to more spontaneous protests", "Discourage organizers from seeking permits", "Encourage more responsible and peaceful conduct", "Result in increased violence"],
-    "correctAnswer": "Encourage more responsible and peaceful conduct"
+    "question": "In the context of Supreme Court rulings impacting social welfare schemes and reservations in states like Andhra Pradesh and Telangana, which Directive Principle of State Policy (DPSP) is most relevant to the promotion of interests of weaker sections?",
+    "options": [
+      "Separation of judiciary from executive (Article 50)",
+      "Promotion of educational and economic interests of SCs, STs and other weaker sections (Article 46)",
+      "Protection of monuments and places and objects of national importance (Article 49)",
+      "Organisation of agriculture and animal husbandry (Article 48)"
+    ],
+    "correctAnswer": "Promotion of educational and economic interests of SCs, STs and other weaker sections (Article 46)"
   }
 ]

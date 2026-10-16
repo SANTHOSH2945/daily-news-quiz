@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which independent constitutional body is primarily responsible for conducting elections and revising electoral rolls in Indian states, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Union Public Service Commission",
-      "Election Commission of India",
-      "Comptroller and Auditor General",
-      "NITI Aayog"
-    ],
-    "correctAnswer": "Election Commission of India"
+    "question": "Union Home Minister Amit Shah recently stated that violent Naxalism is over and the task now is to heal wounds. Which Indian states have historically been significantly impacted by Naxalite activities, making this statement particularly relevant?",
+    "options": ["Rajasthan and Gujarat", "Punjab and Haryana", "Telangana and Andhra Pradesh", "Goa and Kerala"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "The Supreme Court recently sought replies from the Election Commission regarding an opposition plea. What is the primary function of the Election Commission of India concerning states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Formulating state budgets",
-      "Conducting free and fair elections",
-      "Appointing state governors",
-      "Managing law and order"
-    ],
-    "correctAnswer": "Conducting free and fair elections"
+    "question": "According to Union Home Minister Amit Shah, what is the current primary focus regarding the issue of Naxalism in India?",
+    "options": ["Increasing military operations", "Strengthening border security", "Healing the wounds of affected regions", "Promoting international diplomacy"],
+    "correctAnswer": "Healing the wounds of affected regions"
   },
   {
     "id": 3,
-    "question": "The Supreme Court is reviewing matters related to the Election Commission. Which constitutional article primarily deals with the establishment and powers of the Election Commission of India, whose functions extend to states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Article 324",
-      "Article 280",
-      "Article 148",
-      "Article 315"
-    ],
-    "correctAnswer": "Article 324"
+    "question": "The statement by Amit Shah about Naxalism being 'over' refers to the decline of which specific type of Naxalite activity?",
+    "options": ["Political protests", "Intellectual discourse", "Violent insurgency", "Electoral participation"],
+    "correctAnswer": "Violent insurgency"
   },
   {
     "id": 4,
-    "question": "A special summary revision of the electoral roll is underway in 17 states. What is the main objective of this process for citizens in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "To update tax records",
-      "To issue new Aadhaar cards",
-      "To update the voter list with new eligible voters and remove deceased/shifted voters",
-      "To conduct a population census"
-    ],
-    "correctAnswer": "To update the voter list with new eligible voters and remove deceased/shifted voters"
+    "question": "Historically, Naxalism in states like Telangana and Andhra Pradesh has been associated with which ideology?",
+    "options": ["Gandhian philosophy", "Maoist insurgency", "Liberal democracy", "Capitalist economy"],
+    "correctAnswer": "Maoist insurgency"
   },
   {
     "id": 5,
-    "question": "The special summary revision of poll rolls aims to include all eligible citizens. What is the minimum age to be registered as a voter in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "21 years",
-      "25 years",
-      "18 years",
-      "16 years"
-    ],
-    "correctAnswer": "18 years"
+    "question": "The 'healing wounds' aspect of Amit Shah's statement on Naxalism would most likely involve which of the following measures in states previously affected, such as Telangana and Andhra Pradesh?",
+    "options": ["Economic development and rehabilitation", "Imposing stricter curfews", "Relocating entire villages", "Building new military bases"],
+    "correctAnswer": "Economic development and rehabilitation"
   },
   {
     "id": 6,
-    "question": "Which document is primarily updated during the special summary revision of poll rolls, impacting electoral processes in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "PAN Card",
-      "Driving License",
-      "Electoral Roll",
-      "Passport"
-    ],
-    "correctAnswer": "Electoral Roll"
+    "question": "Which Union Ministry is primarily responsible for internal security, including addressing issues like Naxalism, as per the recent statement by Amit Shah?",
+    "options": ["Ministry of External Affairs", "Ministry of Finance", "Ministry of Home Affairs", "Ministry of Defence"],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 7,
-    "question": "The Election Commission initiates special summary revisions. For which type of elections in states like Andhra Pradesh and Telangana is this revision particularly crucial?",
-    "options": [
-      "Gram Panchayat elections only",
-      "State Assembly and Lok Sabha elections",
-      "Municipal Corporation elections only",
-      "Presidential elections"
-    ],
-    "correctAnswer": "State Assembly and Lok Sabha elections"
+    "question": "The term 'Naxalism' originated from a village in which Indian state?",
+    "options": ["Andhra Pradesh", "Telangana", "West Bengal", "Chhattisgarh"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 8,
-    "question": "The Supreme Court recently ruled on reservation for OBC/Dalits who convert. This ruling implies that a person's religious identity can affect their eligibility for reservations based on what, impacting policies in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Income status",
-      "Caste-based social backwardness",
-      "Geographical location",
-      "Educational qualifications"
-    ],
-    "correctAnswer": "Caste-based social backwardness"
+    "question": "What is the primary objective behind the government's approach of 'healing wounds' in Naxal-affected areas, as highlighted by Amit Shah?",
+    "options": ["To attract foreign investment", "To ensure lasting peace and development", "To promote tourism", "To establish new industrial zones"],
+    "correctAnswer": "To ensure lasting peace and development"
   },
   {
     "id": 9,
-    "question": "The Supreme Court's ruling on reservations for converts is based on the principle that 'backwardness cannot be carried forward' after conversion. This directly impacts reservation policies across all states, including which categories in Telangana and Andhra Pradesh?",
-    "options": [
-      "Only Economically Weaker Sections (EWS)",
-      "Scheduled Castes and Other Backward Classes",
-      "Only Women's reservations",
-      "Only Persons with Disabilities"
-    ],
-    "correctAnswer": "Scheduled Castes and Other Backward Classes"
+    "question": "In the context of Naxalism, which term is often used interchangeably with Naxalites, particularly in central and eastern India, including parts of Andhra Pradesh and Telangana?",
+    "options": ["Separatists", "Insurgents", "Maoists", "Revolutionaries"],
+    "correctAnswer": "Maoists"
   },
   {
     "id": 10,
-    "question": "The recent Supreme Court decision regarding reservations for converted individuals is rooted in constitutional principles related to social justice and equality. Which article of the Indian Constitution primarily deals with reservations, relevant to states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Article 19",
-      "Article 21",
-      "Article 15 and 16",
-      "Article 32"
-    ],
-    "correctAnswer": "Article 15 and 16"
+    "question": "The Supreme Court recently ruled that fees for professional courses can be hiked midstream only in exceptional cases. This ruling would have a significant impact on students pursuing professional courses in which states, including Telangana and Andhra Pradesh?",
+    "options": ["Northern Indian states only", "Southern Indian states only", "All states and Union Territories across India", "Northeastern states only"],
+    "correctAnswer": "All states and Union Territories across India"
   },
   {
     "id": 11,
-    "question": "The Supreme Court emphasized that the purpose of reservation is to address historical discrimination. Which specific communities in states like Andhra Pradesh and Telangana are primarily targeted by reservation policies?",
-    "options": [
-      "Only Forward Castes",
-      "Scheduled Castes and Scheduled Tribes",
-      "Only Religious Minorities",
-      "Only Urban Poor"
-    ],
-    "correctAnswer": "Scheduled Castes and Scheduled Tribes"
+    "question": "What is the primary implication of the Supreme Court's ruling on midstream fee hikes for professional courses for students in states like Telangana and Andhra Pradesh?",
+    "options": ["Fees can be arbitrarily increased at any time.", "Fee hikes during a course are generally restricted.", "All professional courses will now be free.", "Only government colleges are affected by this ruling."],
+    "correctAnswer": "Fee hikes during a course are generally restricted."
   },
   {
     "id": 12,
-    "question": "A panel is seeking citizens' inputs on 'unnatural' demographic shifts in India. Which government body is typically responsible for conducting demographic surveys and collecting data at the state level, including in Telangana and Andhra Pradesh?",
-    "options": [
-      "Ministry of Finance",
-      "Registrar General and Census Commissioner of India",
-      "National Human Rights Commission",
-      "Ministry of External Affairs"
-    ],
-    "correctAnswer": "Registrar General and Census Commissioner of India"
+    "question": "The Supreme Court's decision on fee hikes for professional courses aims to protect the interests of which group?",
+    "options": ["Educational institutions", "State governments", "Enrolled students", "Regulatory bodies"],
+    "correctAnswer": "Enrolled students"
   },
   {
     "id": 13,
-    "question": "The concept of 'demographic shifts' can refer to changes in population composition. Which factor is NOT typically considered a primary driver of natural demographic shifts in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Birth rates",
-      "Death rates",
-      "Migration patterns",
-      "Political affiliations"
-    ],
-    "correctAnswer": "Political affiliations"
+    "question": "What kind of 'exceptional cases' might allow for a midstream fee hike in professional courses, according to the Supreme Court?",
+    "options": ["Any increase in operational costs", "Sudden, unforeseen financial exigencies impacting the institution", "Desire to generate more profit", "Change in curriculum"],
+    "correctAnswer": "Sudden, unforeseen financial exigencies impacting the institution"
   },
   {
     "id": 14,
-    "question": "If 'unnatural demographic shifts' were identified in a state like Telangana, what kind of societal impact might be a concern regarding its political and economic landscape?",
-    "options": [
-      "Changes in seasonal rainfall patterns",
-      "Increased tourist arrivals",
-      "Changes in electoral outcomes and resource distribution",
-      "Improved public transportation"
-    ],
-    "correctAnswer": "Changes in electoral outcomes and resource distribution"
+    "question": "Which type of educational programs are specifically mentioned in the Supreme Court's ruling regarding fee hikes?",
+    "options": ["Primary school education", "Professional courses", "Vocational training", "Distance learning programs"],
+    "correctAnswer": "Professional courses"
   },
   {
     "id": 15,
-    "question": "The panel seeking inputs on demographic shifts would analyze data on various aspects. Which of the following is a key demographic indicator relevant to population studies in any Indian state, including Andhra Pradesh and Telangana?",
-    "options": [
-      "Stock market index",
-      "Sex ratio",
-      "Average daily temperature",
-      "Number of national parks"
-    ],
-    "correctAnswer": "Sex ratio"
+    "question": "In the context of the Supreme Court's ruling, what does 'midstream' refer to regarding fee hikes?",
+    "options": ["Before the admission process begins", "During the ongoing academic period of a course", "After a student has completed their course", "At the beginning of a new academic year"],
+    "correctAnswer": "During the ongoing academic period of a course"
   },
   {
     "id": 16,
-    "question": "Who is the current Chief Election Commissioner of India, overseeing electoral processes in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Sushil Chandra",
-      "Om Prakash Rawat",
-      "Rajiv Kumar",
-      "Sunil Arora"
-    ],
-    "correctAnswer": "Rajiv Kumar"
+    "question": "The BJP recently commented that the Supreme Court's quota ruling hits the opposition's 'appeasement politics'. This ruling pertains to reservations, a sensitive issue that often sparks debate in states like Telangana and Andhra Pradesh concerning various communities. What is the fundamental principle behind such quota rulings in India?",
+    "options": ["Promoting economic liberalization", "Ensuring social justice and equality for disadvantaged groups", "Encouraging religious harmony", "Decentralizing political power"],
+    "correctAnswer": "Ensuring social justice and equality for disadvantaged groups"
   },
   {
     "id": 17,
-    "question": "The Supreme Court's involvement in electoral matters underscores the importance of a fair democratic process for all states. Which of the following is a common issue addressed by the Election Commission during assembly elections in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Setting commodity prices",
-      "Regulating campaign expenditure",
-      "Managing international trade agreements",
-      "Issuing passports"
-    ],
-    "correctAnswer": "Regulating campaign expenditure"
+    "question": "In the context of the Supreme Court's quota ruling and political discourse, what does 'appeasement politics' generally refer to?",
+    "options": ["Policies aimed at fair distribution of resources.", "Political strategies to gain support by catering to specific groups' demands, often at the expense of others.", "Efforts to promote national unity.", "International diplomatic negotiations."],
+    "correctAnswer": "Political strategies to gain support by catering to specific groups' demands, often at the expense of others."
   },
   {
     "id": 18,
-    "question": "The 'special summary revision of poll rolls' is a periodic exercise. How often is the electoral roll typically revised by the Election Commission for states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Every five years",
-      "Biennially",
-      "Annually",
-      "Only before general elections"
-    ],
-    "correctAnswer": "Annually"
+    "question": "The Supreme Court's rulings on quotas directly impact the reservation policies implemented by state governments, including those in Telangana and Andhra Pradesh, for which of the following?",
+    "options": ["International trade agreements", "Public employment and educational institutions", "Agricultural subsidies", "Foreign aid distribution"],
+    "correctAnswer": "Public employment and educational institutions"
   },
   {
     "id": 19,
-    "question": "During the special summary revision, individuals can file claims and objections. What is the primary purpose of filing a Form 6 during this process in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "To apply for a new ration card",
-      "To apply for inclusion of name in the electoral roll",
-      "To change one's address in Aadhaar",
-      "To register a business"
-    ],
-    "correctAnswer": "To apply for inclusion of name in the electoral roll"
+    "question": "What role does the Supreme Court play in matters related to reservation policies and quotas in India?",
+    "options": ["It only advises the government.", "It formulates new reservation policies.", "It interprets constitutional provisions and reviews the legality of reservation policies.", "It implements reservation schemes directly."],
+    "correctAnswer": "It interprets constitutional provisions and reviews the legality of reservation policies."
   },
   {
     "id": 20,
-    "question": "The Supreme Court's stance on reservation for converts reinforces the focus on historical backwardness. In the context of states like Andhra Pradesh and Telangana, which constitutional body primarily advises the government on matters related to OBC status and lists?",
-    "options": [
-      "National Commission for Women",
-      "National Commission for Backward Classes (NCBC)",
-      "National Green Tribunal",
-      "Union Public Service Commission"
-    ],
-    "correctAnswer": "National Commission for Backward Classes (NCBC)"
+    "question": "The Supreme Court recently ruled against writing off AT-1 bonds of Yes Bank worth Rs 8.4k crore. This ruling has implications for the stability and investor confidence in the banking sector across India, including in financial markets in states like Telangana and Andhra Pradesh. What does 'AT-1 bonds' stand for?",
+    "options": ["Andhra Telangana - 1 Bonds", "Additional Tier - 1 Bonds", "Asset Transfer - 1 Bonds", "Automated Transaction - 1 Bonds"],
+    "correctAnswer": "Additional Tier - 1 Bonds"
   },
   {
     "id": 21,
-    "question": "The ruling from the Supreme Court mentions that 'backwardness cannot be carried forward' after conversion. This legal interpretation aligns with the intent of reservations to address which specific historical injustice in communities, including those in Telangana and Andhra Pradesh?",
-    "options": [
-      "Economic disparities only",
-      "Social and educational backwardness based on caste",
-      "Geographical isolation",
-      "Linguistic differences"
-    ],
-    "correctAnswer": "Social and educational backwardness based on caste"
+    "question": "The Supreme Court's decision regarding Yes Bank's AT-1 bonds primarily affects which sector of the Indian economy?",
+    "options": ["Agriculture", "Manufacturing", "Banking and Finance", "Information Technology"],
+    "correctAnswer": "Banking and Finance"
   },
   {
     "id": 22,
-    "question": "The Election Commission ensures political parties adhere to guidelines during elections. In which recent state assembly elections in South India, directly involving one of the Telugu states, did the EC monitor campaigning and expenditures?",
-    "options": [
-      "Kerala Assembly Elections 2021",
-      "Telangana Assembly Elections 2023",
-      "Tamil Nadu Assembly Elections 2021",
-      "Karnataka Assembly Elections 2023"
-    ],
-    "correctAnswer": "Telangana Assembly Elections 2023"
+    "question": "The Supreme Court recently sought a reply from the police regarding the alleged 'harassment' of journalists. This issue relates to the freedom of the press, a fundamental aspect of democracy impacting media professionals across all Indian states, including Telangana and Andhra Pradesh. Which fundamental right is most directly linked to the freedom of the press in India?",
+    "options": ["Right to equality", "Right to freedom of speech and expression", "Right to life and personal liberty", "Right to constitutional remedies"],
+    "correctAnswer": "Right to freedom of speech and expression"
   },
   {
     "id": 23,
-    "question": "If a citizen in Andhra Pradesh wishes to lodge a complaint regarding discrepancies in the electoral roll during the special summary revision, to whom should they primarily appeal at the local level?",
-    "options": [
-      "Chief Minister's Office",
-      "District Collector",
-      "Electoral Registration Officer (ERO)",
-      "Director General of Police"
-    ],
-    "correctAnswer": "Electoral Registration Officer (ERO)"
+    "question": "The Supreme Court recently observed that 'if every citizen becomes a journalist, it will create problems for all.' This statement highlights the importance of which aspect in journalism?",
+    "options": ["Widespread citizen participation", "Professional standards and accountability", "Open-source reporting", "Immediate news dissemination"],
+    "correctAnswer": "Professional standards and accountability"
   },
   {
     "id": 24,
-    "question": "The Supreme Court's pronouncements on various matters, including elections and reservations, are binding across all states. What is the highest judicial body in the state of Telangana, beneath the Supreme Court of India?",
-    "options": [
-      "District Court",
-      "Lok Adalat",
-      "High Court of Telangana",
-      "Revenue Court"
-    ],
-    "correctAnswer": "High Court of Telangana"
+    "question": "India recently pushed for a 'resolution through dialogue and diplomacy' regarding the Middle East conflict at the UNSC. What does UNSC stand for?",
+    "options": ["United Nations Social Council", "Union Nations Security Committee", "United Nations Security Council", "Universal National Security Council"],
+    "correctAnswer": "United Nations Security Council"
   },
   {
     "id": 25,
-    "question": "In the context of Supreme Court rulings impacting social welfare schemes and reservations in states like Andhra Pradesh and Telangana, which Directive Principle of State Policy (DPSP) is most relevant to the promotion of interests of weaker sections?",
-    "options": [
-      "Separation of judiciary from executive (Article 50)",
-      "Promotion of educational and economic interests of SCs, STs and other weaker sections (Article 46)",
-      "Protection of monuments and places and objects of national importance (Article 49)",
-      "Organisation of agriculture and animal husbandry (Article 48)"
-    ],
-    "correctAnswer": "Promotion of educational and economic interests of SCs, STs and other weaker sections (Article 46)"
+    "question": "Prime Minister Modi is scheduled to visit Canada in December to boost ties. This visit is an example of India's ongoing efforts in which domain?",
+    "options": ["Domestic economic reforms", "State-level infrastructure projects", "International relations and diplomacy", "Judicial reforms"],
+    "correctAnswer": "International relations and diplomacy"
   }
 ]

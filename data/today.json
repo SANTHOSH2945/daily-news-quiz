@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which High Court recently issued an order restricting non-Hindus from proceeding beyond the flagmast of certain temples unless they submit an undertaking affirming their faith?",
-    "options": ["Bombay High Court", "Madras High Court", "Calcutta High Court", "Delhi High Court"],
-    "correctAnswer": "Madras High Court"
+    "question": "Which national examination's July protests led to an SC panel opening a web portal for complaints?",
+    "options": ["JEE Main", "NEET-UG", "CLAT", "UPSC Civil Services"],
+    "correctAnswer": "NEET-UG"
   },
   {
     "id": 2,
-    "question": "The BJP recently criticized ministers in Tamil Nadu for an incident in a temple. What was one of the alleged violations?",
-    "options": ["Allowing a non-Hindu without an undertaking", "Disrupting temple rituals", "Damaging temple property", "Promoting a different religion"],
-    "correctAnswer": "Allowing a non-Hindu without an undertaking"
+    "question": "What kind of mechanism did an SC panel introduce to collect complaints regarding the July NEET protests?",
+    "options": ["Toll-free helpline", "Web portal", "Physical submission centers", "Dedicated email address"],
+    "correctAnswer": "Web portal"
   },
   {
     "id": 3,
-    "question": "Which prominent opposition leader recently backed a call for 'regime change' against the government, citing concerns about fundamental rights?",
-    "options": ["Rahul Gandhi", "Mamata Banerjee", "Uddhav Thackeray", "Arvind Kejriwal"],
-    "correctAnswer": "Uddhav Thackeray"
+    "question": "Which judicial body established a panel to investigate complaints related to the July NEET protests?",
+    "options": ["High Court of Telangana", "Supreme Court of India", "National Green Tribunal", "Central Administrative Tribunal"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 4,
-    "question": "According to a recent statement by an opposition leader, which two fundamental rights were cited as being 'taken away' by the government?",
-    "options": ["Right to education and equality", "Right to speech and assembly", "Right to vote and protest", "Right to life and liberty"],
-    "correctAnswer": "Right to vote and protest"
+    "question": "The recent protests regarding the NEET examination, subject to an SC panel investigation, occurred in which month?",
+    "options": ["June", "July", "August", "September"],
+    "correctAnswer": "July"
   },
   {
     "id": 5,
-    "question": "Which central agency recently busted two synthetic drug labs in Greater Noida, seizing drugs worth Rs 50 crore?",
-    "options": ["Central Bureau of Investigation (CBI)", "Enforcement Directorate (ED)", "Narcotics Control Bureau (NCB)", "National Investigation Agency (NIA)"],
-    "correctAnswer": "Narcotics Control Bureau (NCB)"
+    "question": "Students from which states, including Telangana and Andhra Pradesh, are directly impacted by the NEET examination results and related decisions?",
+    "options": ["Only Southern states", "Only Northern states", "All Indian states and Union Territories", "Only states with medical colleges"],
+    "correctAnswer": "All Indian states and Union Territories"
   },
   {
     "id": 6,
-    "question": "What was the estimated value of the drugs seized in the recent NCB operation that busted two synthetic drug labs?",
-    "options": ["Rs 10 crore", "Rs 25 crore", "Rs 50 crore", "Rs 100 crore"],
-    "correctAnswer": "Rs 50 crore"
+    "question": "For which month's rituals was the revered Sabarimala Lord Ayyappa temple recently opened, drawing devotees from across South India including Andhra Pradesh and Telangana?",
+    "options": ["Vrischikam", "Thulam", "Makaram", "Medam"],
+    "correctAnswer": "Thulam"
   },
   {
     "id": 7,
-    "question": "Besides Methamphetamine, what other significant items were seized during the recent NCB raid on synthetic drug labs?",
-    "options": ["Illegal firearms", "Counterfeit currency", "Precursor chemicals", "Stolen vehicles"],
-    "correctAnswer": "Precursor chemicals"
+    "question": "In which state is the famous Sabarimala Lord Ayyappa temple, a significant pilgrimage destination for devotees from Andhra Pradesh and Telangana, located?",
+    "options": ["Tamil Nadu", "Karnataka", "Kerala", "Odisha"],
+    "correctAnswer": "Kerala"
   },
   {
     "id": 8,
-    "question": "One of the individuals arrested in connection with the Greater Noida drug lab bust was of which nationality, using a false identity?",
-    "options": ["Pakistani", "Chinese", "Nigerian", "Afghan"],
-    "correctAnswer": "Nigerian"
+    "question": "Which prominent state Chief Minister, along with other guests, visited the Sabarimala shrine for prayers upon its recent opening for Thulam month rituals?",
+    "options": ["Karnataka CM", "Kerala CM", "Tamil Nadu CM", "Andhra Pradesh CM"],
+    "correctAnswer": "Kerala CM"
   },
   {
     "id": 9,
-    "question": "Which national body's enquiry committee recently launched a complaint portal for individuals affected by violence during July protests?",
-    "options": ["Parliamentary Committee", "National Human Rights Commission", "Supreme Court", "Ministry of Home Affairs"],
-    "correctAnswer": "Supreme Court"
+    "question": "The Sabarimala temple's recent opening for Thulam month rituals uniquely coincided with which two significant Hindu festivals?",
+    "options": ["Diwali and Eid", "Christmas and New Year", "Mahanavami and Vijayadashami", "Onam and Vishu"],
+    "correctAnswer": "Mahanavami and Vijayadashami"
   },
   {
     "id": 10,
-    "question": "What is the primary purpose of the complaint portal launched by the High Powered Enquiry Committee?",
-    "options": ["To gather opinions on new policies", "To allow victims to confidentially submit complaints regarding protest violence", "To register participants for future protests", "To facilitate dialogue between protesters and authorities"],
-    "correctAnswer": "To allow victims to confidentially submit complaints regarding protest violence"
+    "question": "Devotees from states like Telangana and Andhra Pradesh frequently undertake pilgrimages to which of the following famous South Indian temples, apart from local shrines?",
+    "options": ["Meenakshi Amman Temple", "Sree Padmanabhaswamy Temple", "Sabarimala Lord Ayyappa Temple", "Brihadeeswarar Temple"],
+    "correctAnswer": "Sabarimala Lord Ayyappa Temple"
   },
   {
     "id": 11,
-    "question": "The Ministry of Home Affairs stated that submissions to the Supreme Court's enquiry committee regarding protest violence can be made in person, via the portal, or by what other method?",
-    "options": ["Email", "Fax", "Via post", "SMS"],
-    "correctAnswer": "Via post"
+    "question": "The Supreme Court of India, which established a panel for NEET protests, derives its powers from which part of the Indian Constitution?",
+    "options": ["Part IV", "Part V", "Part VI", "Part VII"],
+    "correctAnswer": "Part V"
   },
   {
     "id": 12,
-    "question": "Which type of cases will the Supreme Court's enquiry committee prioritize, especially regarding protest violence?",
-    "options": ["Cases involving property damage", "Cases involving serious violence, especially against women protesters", "Cases involving public inconvenience", "Cases involving economic losses"],
-    "correctAnswer": "Cases involving serious violence, especially against women protesters"
+    "question": "Following incidents like public stampedes, state governments often review and strengthen public safety measures. Which government body in Telangana is primarily responsible for disaster management and public safety during large gatherings?",
+    "options": ["Telangana State Disaster Management Authority", "Telangana Tourism Department", "Telangana Roads & Buildings Department", "Telangana Education Department"],
+    "correctAnswer": "Telangana State Disaster Management Authority"
   },
   {
     "id": 13,
-    "question": "A woman journalist recently filed a complaint against Rahul Gandhi, alleging mistreatment while she was reporting on what event?",
-    "options": ["A press conference", "An election rally", "An INDIA bloc protest near the Supreme Court", "A parliamentary session"],
-    "correctAnswer": "An INDIA bloc protest near the Supreme Court"
+    "question": "State governments frequently announce ex-gratia payments for victims of major public incidents. Which fund primarily supports states like Andhra Pradesh and Telangana in providing immediate relief for such disasters?",
+    "options": ["National Disaster Response Fund (NDRF)", "Prime Minister's Relief Fund (PMRF)", "State Disaster Response Fund (SDRF)", "Ministry of Home Affairs Special Grant"],
+    "correctAnswer": "State Disaster Response Fund (SDRF)"
   },
   {
     "id": 14,
-    "question": "In which city did Congress workers recently vandalize a BJP office over remarks made by BJP leader Madan Rathore?",
-    "options": ["Jaipur", "Udaipur", "Jodhpur", "Ajmer"],
-    "correctAnswer": "Ajmer"
+    "question": "The legal profession demands resilience, as highlighted by the CJI. Which city in Telangana is home to NALSAR University of Law, a prominent national institution for legal studies?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Khammam"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 15,
-    "question": "What kind of remarks by BJP leader Madan Rathore provoked Congress workers to vandalize a BJP office?",
-    "options": ["Economic policy remarks", "Remarks concerning Pakistan", "Remarks on local governance", "Remarks on social media"],
-    "correctAnswer": "Remarks concerning Pakistan"
+    "question": "Many national professional exams, including NEET, involve a state-specific counseling process. Which state, along with Telangana, often has coordinated or similar counseling procedures for various professional courses due to their shared history?",
+    "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Odisha"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 16,
-    "question": "Which airline's aircraft was recently damaged by a bird strike at Delhi airport, causing flight delays?",
-    "options": ["Air India", "Indigo", "Emirates", "Qatar Airways"],
-    "correctAnswer": "Emirates"
+    "question": "Efficient pilgrim traffic management is crucial for major temples like Sabarimala. Which temple in Andhra Pradesh is renowned for its massive pilgrim influx and sophisticated crowd management systems?",
+    "options": ["Srikalahasteeswara Temple", "Kanaka Durga Temple", "Simhachalam Temple", "Tirumala Venkateswara Temple"],
+    "correctAnswer": "Tirumala Venkateswara Temple"
   },
   {
     "id": 17,
-    "question": "What was the direct consequence of the bird strike incident involving an Emirates aircraft at Delhi airport?",
-    "options": ["Emergency landing", "Engine failure", "Flight delayed", "Major structural damage"],
-    "correctAnswer": "Flight delayed"
+    "question": "The news of an Indian pilot's mid-flight incident underscores aviation safety. Which major city in Telangana hosts a world-class international airport and is a significant aviation hub in South India?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 18,
-    "question": "In which state is the legislator Anant Singh popularly known by the local moniker 'Chhote Sarkar'?",
-    "options": ["Uttar Pradesh", "Bihar", "Madhya Pradesh", "Rajasthan"],
-    "correctAnswer": "Bihar"
+    "question": "Political parties in India often attract popular personalities, such as actors, into their fold. Which prominent actor from Andhra Pradesh has successfully ventured into state politics and currently leads a political party?",
+    "options": ["Mahesh Babu", "Jr NTR", "Pawan Kalyan", "Allu Arjun"],
+    "correctAnswer": "Pawan Kalyan"
   },
   {
     "id": 19,
-    "question": "Anant Singh, also known as 'Chhote Sarkar', gained early political prominence through his elder brother who served as a minister in which former Chief Minister's cabinet?",
-    "options": ["Nitish Kumar's cabinet", "Lalu Prasad's cabinet", "Rabri Devi's cabinet", "Jitan Ram Manjhi's cabinet"],
-    "correctAnswer": "Lalu Prasad's cabinet"
+    "question": "In the context of national events and protests like those related to NEET, which article of the Indian Constitution guarantees the fundamental rights to freedom of speech and assembly?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "correctAnswer": "Article 19"
   },
   {
     "id": 20,
-    "question": "What was the nationality of the co-pilot who assaulted Indian Captain Smit Machchhar aboard a flydubai flight?",
-    "options": ["Emirati", "Omani", "Saudi", "Indian"],
-    "correctAnswer": "Omani"
+    "question": "The Kolkata stampede occurred during Durga Puja, a major festival. Which festival in Telangana and Andhra Pradesh is known for its grand public celebrations, often involving large gatherings and cultural events?",
+    "options": ["Holi", "Eid al-Fitr", "Ugadi", "Dasara/Bathukamma"],
+    "correctAnswer": "Dasara/Bathukamma"
   },
   {
     "id": 21,
-    "question": "Following the assault on Captain Smit Machchhar, the flydubai aircraft made a safe landing in which Saudi Arabian city?",
-    "options": ["Riyadh", "Jeddah", "Dammam", "Tabuk"],
-    "correctAnswer": "Tabuk"
+    "question": "The introduction of a 'web portal' by the SC panel for NEET complaints is an e-governance initiative. What is a key benefit of such e-governance services for citizens in states like Telangana and Andhra Pradesh?",
+    "options": ["Increasing manual paperwork", "Decreasing citizen accessibility", "Enhancing transparency and efficiency", "Limiting public participation"],
+    "correctAnswer": "Enhancing transparency and efficiency"
   },
   {
     "id": 22,
-    "question": "What critical aviation issue occurred during the flydubai incident involving Captain Smit Machchhar, necessitating quick action?",
-    "options": ["Engine shutdown", "Loss of communication", "Critical altitude drop", "Fuel leak"],
-    "correctAnswer": "Critical altitude drop"
+    "question": "The Chief Justice of India's remarks on legal education were made at NLSIU Bengaluru. Which city in Andhra Pradesh hosts the Damodaram Sanjivayya National Law University, a prominent legal institution?",
+    "options": ["Guntur", "Visakhapatnam", "Nellore", "Kurnool"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 23,
-    "question": "In which state did a suspected militant attack recently occur in a Kuki village, leading to one fatality and multiple injuries?",
-    "options": ["Assam", "Nagaland", "Manipur", "Mizoram"],
-    "correctAnswer": "Manipur"
+    "question": "Which state in India, known for its significant advancements in Information Technology and pharmaceuticals, also has a large student population aspiring for professional courses like NEET?",
+    "options": ["Gujarat", "Maharashtra", "Telangana", "West Bengal"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 24,
-    "question": "The recent militant attack in Manipur involved gunfire between the militants and what other group?",
-    "options": ["Indian Army", "State Police", "A local armed faction", "Central Reserve Police Force (CRPF)"],
-    "correctAnswer": "A local armed faction"
+    "question": "Sabarimala Temple's rituals are based on specific dates from the Hindu calendar. Which festival, widely celebrated in Telangana and Andhra Pradesh, marks the traditional New Year according to the Telugu calendar?",
+    "options": ["Holi", "Eid al-Fitr", "Ugadi", "Christmas"],
+    "correctAnswer": "Ugadi"
   },
   {
     "id": 25,
-    "question": "Besides the Madras High Court order, what else was allegedly violated during the temple incident in Tamil Nadu, as claimed by the BJP?",
-    "options": ["Temple's financial regulations", "Temple's dress code and religious traditions", "Temple's administrative procedures", "Temple's sound regulations"],
-    "correctAnswer": "Temple's dress code and religious traditions"
+    "question": "The Prime Minister and other national leaders expressed grief over the Kolkata stampede. Which national body in India is primarily responsible for framing policies and guidelines for disaster management across all states, including Telangana and Andhra Pradesh?",
+    "options": ["National Disaster Response Force (NDRF)", "National Disaster Management Authority (NDMA)", "Central Reserve Police Force (CRPF)", "Border Security Force (BSF)"],
+    "correctAnswer": "National Disaster Management Authority (NDMA)"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "In which district of Jammu and Kashmir did a recent encounter occur between security forces and terrorists, as per news reports?",
-    "options": ["Pulwama", "Shopian", "Kupwara", "Baramulla"],
-    "correctAnswer": "Kupwara"
+    "question": "Which High Court recently issued an order restricting non-Hindus from proceeding beyond the flagmast of certain temples unless they submit an undertaking affirming their faith?",
+    "options": ["Bombay High Court", "Madras High Court", "Calcutta High Court", "Delhi High Court"],
+    "correctAnswer": "Madras High Court"
   },
   {
     "id": 2,
-    "question": "Which prominent BJP veteran was recently admitted to a Delhi hospital due to pulmonary issues?",
-    "options": ["Murli Manohar Joshi", "LK Advani", "Yashwant Sinha", "Arun Jaitley"],
-    "correctAnswer": "LK Advani"
+    "question": "The BJP recently criticized ministers in Tamil Nadu for an incident in a temple. What was one of the alleged violations?",
+    "options": ["Allowing a non-Hindu without an undertaking", "Disrupting temple rituals", "Damaging temple property", "Promoting a different religion"],
+    "correctAnswer": "Allowing a non-Hindu without an undertaking"
   },
   {
     "id": 3,
-    "question": "What kind of health issues led to BJP veteran LK Advani's recent admission to a Delhi hospital?",
-    "options": ["Cardiac problems", "Neurological disorder", "Pulmonary issues", "Renal failure"],
-    "correctAnswer": "Pulmonary issues"
+    "question": "Which prominent opposition leader recently backed a call for 'regime change' against the government, citing concerns about fundamental rights?",
+    "options": ["Rahul Gandhi", "Mamata Banerjee", "Uddhav Thackeray", "Arvind Kejriwal"],
+    "correctAnswer": "Uddhav Thackeray"
   },
   {
     "id": 4,
-    "question": "India recently rejected claims made by a UN rapporteur concerning what specific issue?",
-    "options": ["Border disputes", "Economic sanctions", "Youth protests", "Climate change policies"],
-    "correctAnswer": "Youth protests"
+    "question": "According to a recent statement by an opposition leader, which two fundamental rights were cited as being 'taken away' by the government?",
+    "options": ["Right to education and equality", "Right to speech and assembly", "Right to vote and protest", "Right to life and liberty"],
+    "correctAnswer": "Right to vote and protest"
   },
   {
     "id": 5,
-    "question": "What was India's general response to the UN rapporteur's claims regarding youth protests?",
-    "options": ["Accepted the claims", "Initiated an inquiry", "Rejected the claims", "Ignored the report"],
-    "correctAnswer": "Rejected the claims"
+    "question": "Which central agency recently busted two synthetic drug labs in Greater Noida, seizing drugs worth Rs 50 crore?",
+    "options": ["Central Bureau of Investigation (CBI)", "Enforcement Directorate (ED)", "Narcotics Control Bureau (NCB)", "National Investigation Agency (NIA)"],
+    "correctAnswer": "Narcotics Control Bureau (NCB)"
   },
   {
     "id": 6,
-    "question": "Which political party defended its 'regime change' remark by stating the opposition's duty is to 'oppose, expose, depose'?",
-    "options": ["Bharatiya Janata Party (BJP)", "Communist Party of India (Marxist)", "Indian National Congress", "Aam Aadmi Party (AAP)"],
-    "correctAnswer": "Indian National Congress"
+    "question": "What was the estimated value of the drugs seized in the recent NCB operation that busted two synthetic drug labs?",
+    "options": ["Rs 10 crore", "Rs 25 crore", "Rs 50 crore", "Rs 100 crore"],
+    "correctAnswer": "Rs 50 crore"
   },
   {
     "id": 7,
-    "question": "The Congress party recently defended its 'regime change' remark, stating that the opposition's duty includes which three actions?",
-    "options": ["Legislate, debate, reform", "Oppose, expose, depose", "Govern, administrate, lead", "Support, collaborate, improve"],
-    "correctAnswer": "Oppose, expose, depose"
+    "question": "Besides Methamphetamine, what other significant items were seized during the recent NCB raid on synthetic drug labs?",
+    "options": ["Illegal firearms", "Counterfeit currency", "Precursor chemicals", "Stolen vehicles"],
+    "correctAnswer": "Precursor chemicals"
   },
   {
     "id": 8,
-    "question": "Prime Minister Modi is scheduled to visit which country on December 11-12, as confirmed by Mark Carney?",
-    "options": ["United States", "United Kingdom", "Canada", "Australia"],
-    "correctAnswer": "Canada"
+    "question": "One of the individuals arrested in connection with the Greater Noida drug lab bust was of which nationality, using a false identity?",
+    "options": ["Pakistani", "Chinese", "Nigerian", "Afghan"],
+    "correctAnswer": "Nigerian"
   },
   {
     "id": 9,
-    "question": "Who confirmed PM Modi's upcoming visit to Canada after a phone call?",
-    "options": ["Justin Trudeau", "Mark Carney", "Chrystia Freeland", "Mélanie Joly"],
-    "correctAnswer": "Mark Carney"
+    "question": "Which national body's enquiry committee recently launched a complaint portal for individuals affected by violence during July protests?",
+    "options": ["Parliamentary Committee", "National Human Rights Commission", "Supreme Court", "Ministry of Home Affairs"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 10,
-    "question": "What are the dates for PM Modi's confirmed visit to Canada?",
-    "options": ["December 1-2", "December 5-6", "December 11-12", "December 15-16"],
-    "correctAnswer": "December 11-12"
+    "question": "What is the primary purpose of the complaint portal launched by the High Powered Enquiry Committee?",
+    "options": ["To gather opinions on new policies", "To allow victims to confidentially submit complaints regarding protest violence", "To register participants for future protests", "To facilitate dialogue between protesters and authorities"],
+    "correctAnswer": "To allow victims to confidentially submit complaints regarding protest violence"
   },
   {
     "id": 11,
-    "question": "Who questioned the night-long detentions of women involved in an 'anti-SIR stir', stating they should be released after sunset?",
-    "options": ["Sonia Gandhi", "Smriti Irani", "Neha Bora", "Priyanka Gandhi"],
-    "correctAnswer": "Neha Bora"
+    "question": "The Ministry of Home Affairs stated that submissions to the Supreme Court's enquiry committee regarding protest violence can be made in person, via the portal, or by what other method?",
+    "options": ["Email", "Fax", "Via post", "SMS"],
+    "correctAnswer": "Via post"
   },
   {
     "id": 12,
-    "question": "The detentions questioned by Neha Bora were related to protests against what specific issue?",
-    "options": ["Agricultural reforms", "Tax policies", "Anti-SIR stir", "Environmental regulations"],
-    "correctAnswer": "Anti-SIR stir"
+    "question": "Which type of cases will the Supreme Court's enquiry committee prioritize, especially regarding protest violence?",
+    "options": ["Cases involving property damage", "Cases involving serious violence, especially against women protesters", "Cases involving public inconvenience", "Cases involving economic losses"],
+    "correctAnswer": "Cases involving serious violence, especially against women protesters"
   },
   {
     "id": 13,
-    "question": "During a recent Delhi protest, who was held under preventive detention and scheduled to face a magistrate?",
-    "options": ["Neha Bora", "Dipke", "Rahul Gandhi", "Arvind Kejriwal"],
-    "correctAnswer": "Dipke"
+    "question": "A woman journalist recently filed a complaint against Rahul Gandhi, alleging mistreatment while she was reporting on what event?",
+    "options": ["A press conference", "An election rally", "An INDIA bloc protest near the Supreme Court", "A parliamentary session"],
+    "correctAnswer": "An INDIA bloc protest near the Supreme Court"
   },
   {
     "id": 14,
-    "question": "Which organization is associated with Neha Bora, who was released after a Delhi protest?",
-    "options": ["NSUI", "ABVP", "AISA", "SFI"],
-    "correctAnswer": "AISA"
+    "question": "In which city did Congress workers recently vandalize a BJP office over remarks made by BJP leader Madan Rathore?",
+    "options": ["Jaipur", "Udaipur", "Jodhpur", "Ajmer"],
+    "correctAnswer": "Ajmer"
   },
   {
     "id": 15,
-    "question": "In which city did the protest occur where Dipke was held under preventive detention and Neha Bora was released?",
-    "options": ["Mumbai", "Kolkata", "Delhi", "Bengaluru"],
-    "correctAnswer": "Delhi"
+    "question": "What kind of remarks by BJP leader Madan Rathore provoked Congress workers to vandalize a BJP office?",
+    "options": ["Economic policy remarks", "Remarks concerning Pakistan", "Remarks on local governance", "Remarks on social media"],
+    "correctAnswer": "Remarks concerning Pakistan"
   },
   {
     "id": 16,
-    "question": "The Congress party recently stated it never hid its aim of toppling the government through what means?",
-    "options": ["Revolutionary means", "Violent means", "Democratic means", "Judicial means"],
-    "correctAnswer": "Democratic means"
+    "question": "Which airline's aircraft was recently damaged by a bird strike at Delhi airport, causing flight delays?",
+    "options": ["Air India", "Indigo", "Emirates", "Qatar Airways"],
+    "correctAnswer": "Emirates"
   },
   {
     "id": 17,
-    "question": "What was the Congress party's stance regarding its intention to change the government?",
-    "options": ["It was a secret agenda", "It was always open and democratic", "It was denied by the party", "It was a misunderstanding"],
-    "correctAnswer": "It was always open and democratic"
+    "question": "What was the direct consequence of the bird strike incident involving an Emirates aircraft at Delhi airport?",
+    "options": ["Emergency landing", "Engine failure", "Flight delayed", "Major structural damage"],
+    "correctAnswer": "Flight delayed"
   },
   {
     "id": 18,
-    "question": "In which district of Jammu and Kashmir was a missing SPO (Special Police Officer) found dead?",
-    "options": ["Anantnag", "Kishtwar", "Udhampur", "Doda"],
-    "correctAnswer": "Kishtwar"
+    "question": "In which state is the legislator Anant Singh popularly known by the local moniker 'Chhote Sarkar'?",
+    "options": ["Uttar Pradesh", "Bihar", "Madhya Pradesh", "Rajasthan"],
+    "correctAnswer": "Bihar"
   },
   {
     "id": 19,
-    "question": "What was the missing item that the SPO was last seen with before being found dead?",
-    "options": ["His service pistol", "His communication device", "His uniform", "His rifle"],
-    "correctAnswer": "His rifle"
+    "question": "Anant Singh, also known as 'Chhote Sarkar', gained early political prominence through his elder brother who served as a minister in which former Chief Minister's cabinet?",
+    "options": ["Nitish Kumar's cabinet", "Lalu Prasad's cabinet", "Rabri Devi's cabinet", "Jitan Ram Manjhi's cabinet"],
+    "correctAnswer": "Lalu Prasad's cabinet"
   },
   {
     "id": 20,
-    "question": "Which groups recently alleged that the Centre is deviating from its assurances?",
-    "options": ["Jammu groups", "Kashmir groups", "Ladakh groups", "Himachal groups"],
-    "correctAnswer": "Ladakh groups"
+    "question": "What was the nationality of the co-pilot who assaulted Indian Captain Smit Machchhar aboard a flydubai flight?",
+    "options": ["Emirati", "Omani", "Saudi", "Indian"],
+    "correctAnswer": "Omani"
   },
   {
     "id": 21,
-    "question": "The groups from Ladakh are protesting against the Centre for deviating from what?",
-    "options": ["Financial aid packages", "Security arrangements", "Development projects", "Assurances"],
-    "correctAnswer": "Assurances"
+    "question": "Following the assault on Captain Smit Machchhar, the flydubai aircraft made a safe landing in which Saudi Arabian city?",
+    "options": ["Riyadh", "Jeddah", "Dammam", "Tabuk"],
+    "correctAnswer": "Tabuk"
   },
   {
     "id": 22,
-    "question": "The discussion around detentions over protests, including those involving Neha Bora and Dipke, highlights concerns regarding which fundamental right in India?",
-    "options": ["Right to education", "Right to privacy", "Right to peaceful protest", "Right to property"],
-    "correctAnswer": "Right to peaceful protest"
+    "question": "What critical aviation issue occurred during the flydubai incident involving Captain Smit Machchhar, necessitating quick action?",
+    "options": ["Engine shutdown", "Loss of communication", "Critical altitude drop", "Fuel leak"],
+    "correctAnswer": "Critical altitude drop"
   },
   {
     "id": 23,
-    "question": "The UN rapporteur's claims and India's rejection of them relate to the broader context of how a nation handles what within its borders?",
-    "options": ["Economic growth", "Cultural preservation", "International trade agreements", "Internal dissent and human rights"],
-    "correctAnswer": "Internal dissent and human rights"
+    "question": "In which state did a suspected militant attack recently occur in a Kuki village, leading to one fatality and multiple injuries?",
+    "options": ["Assam", "Nagaland", "Manipur", "Mizoram"],
+    "correctAnswer": "Manipur"
   },
   {
     "id": 24,
-    "question": "The Congress party's statements about the opposition's role and 'toppling the government' are part of the political discourse leading up to which significant event in India?",
-    "options": ["State Assembly Elections", "Panchayat Elections", "General Elections", "Presidential Elections"],
-    "correctAnswer": "General Elections"
+    "question": "The recent militant attack in Manipur involved gunfire between the militants and what other group?",
+    "options": ["Indian Army", "State Police", "A local armed faction", "Central Reserve Police Force (CRPF)"],
+    "correctAnswer": "A local armed faction"
   },
   {
     "id": 25,
-    "question": "The incidents involving security forces in Kupwara and Kishtwar districts are indicative of ongoing challenges in which region of India?",
-    "options": ["Northeast India", "Central India", "Jammu and Kashmir", "Western India"],
-    "correctAnswer": "Jammu and Kashmir"
+    "question": "Besides the Madras High Court order, what else was allegedly violated during the temple incident in Tamil Nadu, as claimed by the BJP?",
+    "options": ["Temple's financial regulations", "Temple's dress code and religious traditions", "Temple's administrative procedures", "Temple's sound regulations"],
+    "correctAnswer": "Temple's dress code and religious traditions"
   }
 ]

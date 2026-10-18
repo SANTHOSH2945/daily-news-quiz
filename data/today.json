@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian state is home to the Tummalapalle uranium mine, a significant site for domestic uranium production?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Rajasthan"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Which prominent actress, known for her work in Telugu cinema, is mentioned in the news as currently filming a movie with Akshay Kumar in Uttarakhand?",
+    "options": ["Raashii Khanna", "Samantha Ruth Prabhu", "Pooja Hegde", "Keerthy Suresh"],
+    "correctAnswer": "Raashii Khanna"
   },
   {
     "id": 2,
-    "question": "In which district of Andhra Pradesh is the Tummalapalle uranium mine primarily located?",
-    "options": ["Guntur", "Krishna", "YSR Kadapa", "Anantapur"],
-    "correctAnswer": "YSR Kadapa"
+    "question": "Akshay Kumar recently met the Chief Minister of which state to discuss its film policy, a topic relevant to filmmakers and artists, including those from Andhra Pradesh and Telangana?",
+    "options": ["Uttarakhand", "Himachal Pradesh", "Madhya Pradesh", "Uttar Pradesh"],
+    "correctAnswer": "Uttarakhand"
   },
   {
     "id": 3,
-    "question": "The Peddagattu-Lambapur region, known for its uranium reserves, is situated in which Indian state?",
-    "options": ["Telangana", "Andhra Pradesh", "Odisha", "Jharkhand"],
-    "correctAnswer": "Telangana"
+    "question": "The discussion between Akshay Kumar and CM Pushkar Singh Dhami focused on attracting film productions and enhancing local employment. What primary subject of discussion would interest state governments like Telangana and Andhra Pradesh for their own film industries?",
+    "options": ["State's film policy", "Wildlife conservation", "Agricultural subsidies", "Tourism promotion (beyond film)"],
+    "correctAnswer": "State's film policy"
   },
   {
     "id": 4,
-    "question": "According to the IAEA report, what percentage dip in global uranium production is projected by 2040?",
-    "options": ["25%", "50%", "75%", "100%"],
-    "correctAnswer": "50%"
+    "question": "Raashii Khanna, mentioned in a news headline, is primarily known for her contributions to which Indian film industry, highly popular in Telangana and Andhra Pradesh?",
+    "options": ["Telugu cinema", "Bollywood", "Tamil cinema", "Malayalam cinema"],
+    "correctAnswer": "Telugu cinema"
   },
   {
     "id": 5,
-    "question": "The IAEA report forecasts global uranium demand to change by what factor by 2040?",
-    "options": ["Halve", "Remain stable", "Double", "Triple"],
-    "correctAnswer": "Double"
+    "question": "An IAEA report forecasts a significant dip in global uranium production by 2040. This forecast is particularly relevant for India, especially for states like Andhra Pradesh, due to the presence of what kind of vital resource?",
+    "options": ["Uranium reserves", "Coal mines", "Offshore oil fields", "Bauxite deposits"],
+    "correctAnswer": "Uranium reserves"
   },
   {
     "id": 6,
-    "question": "Which international organization published the report on future global uranium production and demand?",
-    "options": ["World Nuclear Association (WNA)", "International Atomic Energy Agency (IAEA)", "United Nations (UN)", "Organisation for Economic Co-operation and Development (OECD)"],
-    "correctAnswer": "International Atomic Energy Agency (IAEA)"
-  },
-  {
-    "id": 7,
-    "question": "The forecast dip in global uranium production could specifically impact the energy security of which nation, as per the report?",
-    "options": ["China", "Russia", "India", "USA"],
-    "correctAnswer": "India"
-  },
-  {
-    "id": 8,
-    "question": "What is the primary application of uranium in India's energy sector?",
-    "options": ["Thermal power generation", "Hydroelectric power generation", "Solar power generation", "Nuclear power generation"],
-    "correctAnswer": "Nuclear power generation"
-  },
-  {
-    "id": 9,
-    "question": "Which public sector undertaking (PSU) is primarily responsible for uranium mining and milling in India?",
-    "options": ["Nuclear Power Corporation of India Limited (NPCIL)", "Heavy Water Board (HWB)", "Uranium Corporation of India Limited (UCIL)", "Atomic Minerals Directorate for Exploration and Research (AMD)"],
-    "correctAnswer": "Uranium Corporation of India Limited (UCIL)"
-  },
-  {
-    "id": 10,
-    "question": "The proposed Kovvada Nuclear Power Project, which would rely on uranium fuel, is planned for which Indian state?",
-    "options": ["Tamil Nadu", "Andhra Pradesh", "Gujarat", "Maharashtra"],
+    "question": "The Tummalapalle uranium mine, a significant source for India's nuclear energy program, is located in which Indian state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Jharkhand", "Rajasthan"],
     "correctAnswer": "Andhra Pradesh"
   },
   {
+    "id": 7,
+    "question": "The International Atomic Energy Agency (IAEA) report on future uranium production could 'pinch India too'. What major sector in India relies heavily on uranium, impacting states like Andhra Pradesh with related infrastructure?",
+    "options": ["Nuclear energy", "Thermal power", "Solar energy", "Hydroelectric power"],
+    "correctAnswer": "Nuclear energy"
+  },
+  {
+    "id": 8,
+    "question": "By what percentage is global uranium production expected to dip by 2040, according to the recent IAEA report, potentially affecting India's energy security?",
+    "options": ["50%", "25%", "75%", "10%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "id": 9,
+    "question": "Which international organization's report has warned about a potential 50% dip in global uranium production by 2040, raising concerns for India's energy future?",
+    "options": ["IAEA", "WTO", "UNSC", "WHO"],
+    "correctAnswer": "IAEA"
+  },
+  {
+    "id": 10,
+    "question": "Given the IAEA forecast, the increasing demand for uranium could have implications for states like Andhra Pradesh, which contributes to India's domestic uranium supply. What does 'IAEA' stand for?",
+    "options": ["International Atomic Energy Agency", "Indian Atomic Energy Authority", "International Agency for Energy Alternatives", "Institute of Atomic Energy Analysis"],
+    "correctAnswer": "International Atomic Energy Agency"
+  },
+  {
     "id": 11,
-    "question": "Which city in Telangana hosts the Nuclear Fuel Complex (NFC), a vital facility for India's nuclear power program?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Visakhapatnam"],
-    "correctAnswer": "Hyderabad"
+    "question": "A recent espionage case in India, involving an Army officer's wife, has led to investigations into alleged links with which country, posing a national security concern for all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["China", "Pakistan", "Russia", "Myanmar"],
+    "correctAnswer": "China"
   },
   {
     "id": 12,
-    "question": "What is the primary function of the Nuclear Fuel Complex (NFC) located in Hyderabad?",
-    "options": ["Refining crude oil", "Manufacturing heavy water", "Fabricating nuclear fuel bundles", "Producing solar panels"],
-    "correctAnswer": "Fabricating nuclear fuel bundles"
+    "question": "The espionage case is centered around an individual connected to which Indian institution, highlighting national security vulnerabilities for the entire country?",
+    "options": ["Indian Army", "Indian Navy", "Indian Air Force", "Intelligence Bureau"],
+    "correctAnswer": "Indian Army"
   },
   {
     "id": 13,
-    "question": "The Heavy Water Plant at Manuguru, crucial for India's pressurized heavy water reactors, is located in which state?",
-    "options": ["Odisha", "Telangana", "Gujarat", "Kerala"],
-    "correctAnswer": "Telangana"
+    "question": "What is the nature of the serious allegations being investigated against an Army officer's wife, which poses a threat to India's national security?",
+    "options": ["Espionage", "Financial fraud", "Human trafficking", "Cyberbullying"],
+    "correctAnswer": "Espionage"
   },
   {
     "id": 14,
-    "question": "Which organization in India is responsible for exploring and locating uranium deposits?",
-    "options": ["Geological Survey of India (GSI)", "Oil and Natural Gas Corporation (ONGC)", "Atomic Minerals Directorate for Exploration and Research (AMD)", "National Mineral Development Corporation (NMDC)"],
-    "correctAnswer": "Atomic Minerals Directorate for Exploration and Research (AMD)"
+    "question": "The BJP recently criticized the Congress, accusing them of 'politics of shoot and scoot' concerning what crucial aspect of the democratic process that affects all states like Telangana and Andhra Pradesh?",
+    "options": ["Readable electoral rolls", "GST implementation", "Farm laws", "Digital currency adoption"],
+    "correctAnswer": "Readable electoral rolls"
   },
   {
     "id": 15,
-    "question": "What type of uranium deposit is predominantly found at the Tummalapalle mine?",
-    "options": ["Sandstone-type", "Vein-type", "Calcrete-type", "Volcanic-type"],
-    "correctAnswer": "Calcrete-type"
+    "question": "The issue of 'readable electoral rolls' is a matter of debate between the BJP and Congress. Why is the readability of electoral rolls important for states like Telangana and Andhra Pradesh during elections?",
+    "options": ["Ensures fair and transparent elections", "Reduces campaigning costs", "Promotes party affiliations", "Simplifies ballot counting"],
+    "correctAnswer": "Ensures fair and transparent elections"
   },
   {
     "id": 16,
-    "question": "Which entity oversees India's Department of Atomic Energy, which manages the country's nuclear power program?",
-    "options": ["Ministry of Power", "Ministry of Science and Technology", "Prime Minister's Office (PMO)", "Ministry of Mines"],
-    "correctAnswer": "Prime Minister's Office (PMO)"
+    "question": "The political controversy around electoral rolls involves which two major Indian political parties?",
+    "options": ["BJP and Congress", "AAP and BJP", "Congress and TMC", "SP and BSP"],
+    "correctAnswer": "BJP and Congress"
   },
   {
     "id": 17,
-    "question": "Who is credited with envisioning India's 'three-stage nuclear power program'?",
-    "options": ["Vikram Sarabhai", "Homi J. Bhabha", "A.P.J. Abdul Kalam", "C.V. Raman"],
-    "correctAnswer": "Homi J. Bhabha"
+    "question": "The discussion on film policy in Uttarakhand aims to enhance local employment opportunities. What role do state film policies play in boosting economic activity in regions like Telangana and Andhra Pradesh?",
+    "options": ["Attracting investments", "Increasing tourism", "Providing job opportunities", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 18,
-    "question": "What is the key element required for the second stage of India's nuclear power program, involving Fast Breeder Reactors?",
-    "options": ["Uranium-235", "Thorium", "Plutonium-239", "Deuterium"],
-    "correctAnswer": "Plutonium-239"
+    "question": "Film shootings contribute to the local economy. If a film featuring an actress like Raashii Khanna (from Telugu cinema) is shot in an Indian state, what kind of local businesses in states like Andhra Pradesh and Telangana could potentially benefit from similar ventures?",
+    "options": ["Hospitality", "Transport", "Technical crew", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 19,
-    "question": "Beyond electricity generation, what strategic importance does uranium processing hold for India?",
-    "options": ["Space exploration", "Agricultural fertilizers", "Nuclear weapons development", "Telecommunication advancements"],
-    "correctAnswer": "Nuclear weapons development"
+    "question": "India's demand for uranium is projected to double. What implication does this have for states like Andhra Pradesh, which are significant contributors to India's nuclear power infrastructure?",
+    "options": ["Increased focus on resource exploration", "Development of new energy policies", "Potential for international collaboration", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 20,
-    "question": "What percentage of India's total electricity generation currently comes from nuclear power, approximately?",
-    "options": ["Under 1%", "3-4%", "10-12%", "20-25%"],
-    "correctAnswer": "3-4%"
+    "question": "The IAEA report highlights a global trend that could impact India's long-term energy planning. Which of the following is a key aspect of India's strategy to address its energy needs, relevant for states like Telangana and Andhra Pradesh?",
+    "options": ["Expanding nuclear power capacity", "Importing more fossil fuels", "Investing solely in solar energy", "Reducing overall energy consumption"],
+    "correctAnswer": "Expanding nuclear power capacity"
   },
   {
     "id": 21,
-    "question": "To mitigate the impact of global uranium supply challenges, India has focused on developing its domestic reserves and which other resource?",
-    "options": ["Coal", "Natural Gas", "Thorium", "Wind energy"],
-    "correctAnswer": "Thorium"
+    "question": "National security is a paramount concern for all Indian states. In the context of the recent espionage case, who is ultimately responsible for addressing threats to India's internal and external security?",
+    "options": ["Central Government", "State Governments", "Local Police", "Judiciary"],
+    "correctAnswer": "Central Government"
   },
   {
     "id": 22,
-    "question": "The increase in global uranium demand mentioned in the IAEA report is primarily driven by expansion in which sector?",
-    "options": ["Industrial manufacturing", "Electric vehicle production", "Nuclear power programs worldwide", "Medical imaging technologies"],
-    "correctAnswer": "Nuclear power programs worldwide"
+    "question": "The alleged 'China links' in the espionage case underscore the importance of border security. While not directly bordering China, how do states like Telangana and Andhra Pradesh indirectly contribute to national security efforts?",
+    "options": ["Providing personnel to armed forces", "Supporting defense industries", "Maintaining internal law and order", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 23,
-    "question": "Which body is responsible for regulatory and safety aspects of nuclear power plants and facilities in India?",
-    "options": ["Nuclear Power Corporation of India Limited (NPCIL)", "Bhabha Atomic Research Centre (BARC)", "Atomic Energy Regulatory Board (AERB)", "Defence Research and Development Organisation (DRDO)"],
-    "correctAnswer": "Atomic Energy Regulatory Board (AERB)"
+    "question": "The debate over electoral rolls is crucial for maintaining democratic integrity. Which body in India is primarily responsible for ensuring accurate and readable electoral rolls for all elections, including those in Telangana and Andhra Pradesh?",
+    "options": ["Election Commission of India", "Parliament", "State Legislatures", "Ministry of Home Affairs"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 24,
-    "question": "A potential 'pinch' on India due to global uranium trends implies challenges in securing which aspect for its nuclear reactors?",
-    "options": ["Cooling water supply", "Manpower for operations", "Fuel supply", "Waste disposal solutions"],
-    "correctAnswer": "Fuel supply"
+    "question": "Electoral roll issues can impact voter participation. What is the fundamental right that a clear and accurate electoral roll upholds for citizens in states like Telangana and Andhra Pradesh?",
+    "options": ["Right to vote", "Right to information", "Right to freedom of speech", "Right to privacy"],
+    "correctAnswer": "Right to vote"
   },
   {
     "id": 25,
-    "question": "What is a key characteristic of the uranium ore found in the Lambapur-Peddagattu region that makes it attractive for potential mining?",
-    "options": ["High grade ore", "Easy accessibility", "Large reserves", "Low processing cost"],
-    "correctAnswer": "Large reserves"
+    "question": "The discussion around 'readable electoral rolls' between political parties like BJP and Congress is essential for the smooth conduct of elections in India. What is a direct benefit of having transparent and easily accessible electoral rolls for voters in states such as Telangana and Andhra Pradesh?",
+    "options": ["Increased voter turnout", "Reduced polling station queues", "Easier candidate registration", "Lower election expenses"],
+    "correctAnswer": "Increased voter turnout"
   }
 ]

@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What did the Supreme Court recently rule regarding the requirement for prosecuting government officials seeking bribes?",
-    "options": ["Requires prior sanction from the government", "No prior sanction is needed", "Only applies to officials above a certain pay grade", "Mandates approval from the state's Chief Secretary"],
-    "correctAnswer": "No prior sanction is needed"
+    "question": "What is the primary role of the FSSAI, whose regulations impact food standards and consumer safety in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Regulating telecommunications",
+      "Ensuring food safety and standards",
+      "Managing public transportation",
+      "Overseeing banking operations"
+    ],
+    "correctAnswer": "Ensuring food safety and standards"
   },
   {
     "id": 2,
-    "question": "Which Indian judicial body made the recent ruling that no prior nod is needed to prosecute government officials seeking bribes?",
-    "options": ["High Courts", "District Courts", "Supreme Court", "Central Administrative Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "Based on recent news, what specific food category is FSSAI considering curbing sugar content in, a decision impacting the health of young consumers in Andhra Pradesh and Telangana?",
+    "options": [
+      "Packaged snacks",
+      "Soft drinks",
+      "Baby food",
+      "Processed meats"
+    ],
+    "correctAnswer": "Baby food"
   },
   {
     "id": 3,
-    "question": "The Supreme Court's latest ruling primarily targets which unethical practice by government officials?",
-    "options": ["Dereliction of duty", "Seeking bribes", "Unauthorized foreign travel", "Misuse of public funds for personal use"],
-    "correctAnswer": "Seeking bribes"
+    "question": "FSSAI is also looking to set caps for what substance in tea, a measure that would apply to tea consumed across Indian states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Caffeine levels",
+      "Artificial flavors",
+      "Pesticide residues",
+      "Sugar content"
+    ],
+    "correctAnswer": "Pesticide residues"
   },
   {
     "id": 4,
-    "question": "How many specific cancer drugs are set to have their prices reduced starting November 9?",
-    "options": ["70", "137", "200", "50"],
-    "correctAnswer": "137"
+    "question": "The FSSAI recently took action against which specific biscuit manufacturer mentioned in the news, affecting product quality assurance nationwide, including for consumers in Telangana and AP?",
+    "options": [
+      "Britannia",
+      "Parle",
+      "Priyagold",
+      "Sunfeast"
+    ],
+    "correctAnswer": "Priyagold"
   },
   {
     "id": 5,
-    "question": "By what maximum percentage are the prices of these 137 cancer drugs expected to fall from November 9?",
-    "options": ["30%", "50%", "70%", "90%"],
-    "correctAnswer": "70%"
+    "question": "The actions by FSSAI to regulate food products, such as those related to baby food and tea, directly contribute to enhancing what aspect for citizens in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Economic growth",
+      "Consumer financial literacy",
+      "Public health and safety",
+      "Digital infrastructure"
+    ],
+    "correctAnswer": "Public health and safety"
   },
   {
     "id": 6,
-    "question": "When are the price reductions for 137 cancer drugs scheduled to come into effect across India?",
-    "options": ["October 20", "November 1", "November 9", "December 1"],
-    "correctAnswer": "November 9"
+    "question": "Which national body is responsible for establishing science-based standards for food items throughout India, ensuring consistency for products sold in Telangana and Andhra Pradesh?",
+    "options": [
+      "Bureau of Indian Standards (BIS)",
+      "Food Safety and Standards Authority of India (FSSAI)",
+      "Agricultural and Processed Food Products Export Development Authority (APEDA)",
+      "National Bank for Agriculture and Rural Development (NABARD)"
+    ],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 7,
-    "question": "Which health condition will primarily benefit from the upcoming price reduction on 137 specific medications?",
-    "options": ["Diabetes", "Heart Disease", "Cancer", "Tuberculosis"],
-    "correctAnswer": "Cancer"
+    "question": "How might FSSAI's proposed regulations on sugar in baby food and pesticides in tea affect food manufacturers operating in or supplying to Telangana and Andhra Pradesh?",
+    "options": [
+      "Increase their marketing budget",
+      "Require them to adjust product formulations and sourcing",
+      "Reduce their electricity costs",
+      "Expand their export opportunities"
+    ],
+    "correctAnswer": "Require them to adjust product formulations and sourcing"
   },
   {
     "id": 8,
-    "question": "What significant declaration did the Supreme Court recently make regarding internet access?",
-    "options": ["It is a luxury, not a right", "It is a fundamental right for adults only", "It is a fundamental right for all, even children", "It requires government subsidy for all citizens"],
-    "correctAnswer": "It is a fundamental right for all, even children"
+    "question": "Beyond curbing sugar, FSSAI's focus on baby food regulations is generally aimed at promoting what for infants in India, including states like AP and Telangana?",
+    "options": [
+      "Early childhood literacy",
+      "Better nutritional outcomes",
+      "Increased screen time",
+      "Foreign language acquisition"
+    ],
+    "correctAnswer": "Better nutritional outcomes"
   },
   {
     "id": 9,
-    "question": "According to the Supreme Court, internet access is considered a fundamental right for whom?",
-    "options": ["Only government employees", "Only adults over 18", "All citizens including children", "Only students and educators"],
-    "correctAnswer": "All citizens including children"
+    "question": "The FSSAI's move to set caps on pesticides in tea aims to address concerns about what in consumer products across all Indian states, including Telangana?",
+    "options": [
+      "Packaging waste",
+      "Environmental pollution",
+      "Adulteration and harmful chemical exposure",
+      "Price fluctuations"
+    ],
+    "correctAnswer": "Adulteration and harmful chemical exposure"
   },
   {
     "id": 10,
-    "question": "Which type of right has the Supreme Court affirmed internet access to be for all individuals in India?",
-    "options": ["Economic Right", "Political Right", "Fundamental Right", "Social Right"],
-    "correctAnswer": "Fundamental Right"
+    "question": "What does FSSAI stand for, the national body whose decisions have a direct bearing on food safety and standards in Andhra Pradesh and Telangana?",
+    "options": [
+      "Federal System for Standardized Agriculture in India",
+      "Food Safety and Standards Authority of India",
+      "Forum for Sustainable Sourcing and Agricultural Innovations",
+      "Financial Services and Security Assessment Initiative"
+    ],
+    "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
     "id": 11,
-    "question": "A web portal was recently opened by an SC panel to receive complaints related to protests concerning which national examination?",
-    "options": ["JEE Advanced", "UPSC Civil Services", "NEET", "CLAT"],
-    "correctAnswer": "NEET"
+    "question": "Which central authority ensures compliance with food safety and standards across all Indian states, including Andhra Pradesh and Telangana, through its regulatory mandates?",
+    "options": [
+      "Ministry of Agriculture",
+      "NITI Aayog",
+      "FSSAI",
+      "Reserve Bank of India"
+    ],
+    "correctAnswer": "FSSAI"
   },
   {
     "id": 12,
-    "question": "The SC panel's new web portal is specifically for receiving complaints about NEET protests that occurred in which month?",
-    "options": ["May", "June", "July", "August"],
-    "correctAnswer": "July"
+    "question": "NCERT is reportedly eyeing a new training model for teachers focused on addressing what specific challenge in classrooms across India, including those in linguistically diverse states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Lack of digital infrastructure",
+      "Multilingual learning environments",
+      "Shortage of science teachers",
+      "Discipline issues among students"
+    ],
+    "correctAnswer": "Multilingual learning environments"
   },
   {
     "id": 13,
-    "question": "What is the primary function of the web portal launched by the SC panel concerning NEET?",
-    "options": ["To apply for NEET examination", "To check NEET results", "To lodge complaints about protests related to NEET", "To register for counselling sessions"],
-    "correctAnswer": "To lodge complaints about protests related to NEET"
+    "question": "The NCERT's proposed 'one teacher, multiple languages' model aims to improve what aspect of education delivery in diverse linguistic states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Teacher-student ratio",
+      "Access to international curricula",
+      "Language proficiency and inclusivity",
+      "Sports education funding"
+    ],
+    "correctAnswer": "Language proficiency and inclusivity"
   },
   {
     "id": 14,
-    "question": "Which body's panel initiated the opening of a web portal for complaints regarding NEET protests?",
-    "options": ["High Court", "Supreme Court", "National Testing Agency", "Ministry of Education"],
-    "correctAnswer": "Supreme Court"
+    "question": "The NCERT initiative for teacher training focused on language management is primarily aimed at enhancing what among educators in states such as Telangana and Andhra Pradesh?",
+    "options": [
+      "Their administrative skills",
+      "Their ability to handle diverse linguistic backgrounds",
+      "Their proficiency in coding",
+      "Their participation in sports events"
+    ],
+    "correctAnswer": "Their ability to handle diverse linguistic backgrounds"
   },
   {
     "id": 15,
-    "question": "The 'nonstop drive' connecting Delhi and Mumbai is now anticipated to be completed by which year?",
-    "options": ["December 2025", "December 2027", "December 2029", "December 2031"],
-    "correctAnswer": "December 2029"
+    "question": "What national council is responsible for curriculum development and teacher training initiatives that affect the education system in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "University Grants Commission (UGC)",
+      "National Council of Educational Research and Training (NCERT)",
+      "Central Board of Secondary Education (CBSE)",
+      "All India Council for Technical Education (AICTE)"
+    ],
+    "correctAnswer": "National Council of Educational Research and Training (NCERT)"
   },
   {
     "id": 16,
-    "question": "Which two major Indian cities are intended to be connected by the proposed 'nonstop drive' project?",
-    "options": ["Delhi and Kolkata", "Mumbai and Chennai", "Delhi and Mumbai", "Bengaluru and Hyderabad"],
-    "correctAnswer": "Delhi and Mumbai"
+    "question": "The NCERT's new model seeks to equip teachers to effectively manage what common challenge in classrooms, especially relevant in linguistically diverse regions like Telangana?",
+    "options": [
+      "Lack of textbooks",
+      "Dealing with students from different economic backgrounds",
+      "Overcoming the language barrier for effective learning",
+      "Managing large class sizes"
+    ],
+    "correctAnswer": "Overcoming the language barrier for effective learning"
   },
   {
     "id": 17,
-    "question": "What type of infrastructure project is the 'nonstop Delhi-Mumbai drive' described as?",
-    "options": ["High-speed rail corridor", "Dedicated air cargo route", "Expressway/Road network", "Inland waterway system"],
-    "correctAnswer": "Expressway/Road network"
+    "question": "NCERT plays a crucial role in implementing national education policies across India. Which specific aspect of teacher capability is being targeted for enhancement by NCERT's new training model?",
+    "options": [
+      "Financial management skills",
+      "Multilingual instructional strategies",
+      "Scientific research aptitude",
+      "Physical fitness training"
+    ],
+    "correctAnswer": "Multilingual instructional strategies"
   },
   {
     "id": 18,
-    "question": "What is the current status of the nonstop Delhi-Mumbai drive project as per recent reports?",
-    "options": ["It has been completed ahead of schedule", "It is facing delays and will be completed later than planned", "It has been put on hold indefinitely", "Construction has not yet begun"],
-    "correctAnswer": "It is facing delays and will be completed later than planned"
+    "question": "How might the NCERT's new training model on multiple languages indirectly influence state education boards and their teacher training programs in Andhra Pradesh and Telangana?",
+    "options": [
+      "It will reduce their budget for school infrastructure.",
+      "It will encourage them to adopt similar pedagogical approaches for linguistic diversity.",
+      "It will require them to change their school uniforms.",
+      "It will lead to a decrease in student enrollment."
+    ],
+    "correctAnswer": "It will encourage them to adopt similar pedagogical approaches for linguistic diversity."
   },
   {
     "id": 19,
-    "question": "Chief Justice Surya Kant recently emphasized a particular quality about the legal profession, stating it is 'not for the faint-hearted'. What does this imply?",
-    "options": ["It requires minimal effort", "It demands intellectual laziness", "It calls for resilience and strong determination", "It is only for financially privileged individuals"],
-    "correctAnswer": "It calls for resilience and strong determination"
+    "question": "Who represented India at the 25th SCO Council of Heads of Government meeting, which discussed trade and connectivity relevant to India's economic interests, including opportunities for Southern states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Prime Minister Narendra Modi",
+      "External Affairs Minister S. Jaishankar",
+      "Defence Minister Rajnath Singh",
+      "Finance Minister Nirmala Sitharaman"
+    ],
+    "correctAnswer": "Defence Minister Rajnath Singh"
   },
   {
     "id": 20,
-    "question": "At which prominent legal institution did Chief Justice Surya Kant deliver his address stating the legal profession is 'not for the faint-hearted'?",
-    "options": ["Indian Law Institute (ILI)", "NLSIU Bengaluru", "NALSAR Hyderabad", "National Judicial Academy (NJA)"],
-    "correctAnswer": "NLSIU Bengaluru"
+    "question": "What were the primary themes of discussion at the recent SCO meeting attended by India, which are crucial for economic growth and market access for Indian states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Cultural exchange and tourism promotion",
+      "Trade, economic collaboration, and improved connectivity",
+      "Space exploration and technological research",
+      "Military alliances and defense strategies"
+    ],
+    "correctAnswer": "Trade, economic collaboration, and improved connectivity"
   },
   {
     "id": 21,
-    "question": "Who made the statement that the legal profession is 'not for the faint-hearted'?",
-    "options": ["The Attorney General of India", "The Union Law Minister", "Chief Justice Surya Kant", "A senior advocate of the Supreme Court"],
-    "correctAnswer": "Chief Justice Surya Kant"
+    "question": "India's participation in the SCO meeting emphasizes its commitment to fostering what among member nations, potentially benefiting Indian industries in states like Andhra Pradesh through expanded markets?",
+    "options": [
+      "Unilateral trade policies",
+      "Economic collaboration and trade partnerships",
+      "Strict isolationist policies",
+      "Reliance on single-country trade"
+    ],
+    "correctAnswer": "Economic collaboration and trade partnerships"
   },
   {
     "id": 22,
-    "question": "Where is the NLSIU, the institution mentioned in connection with Chief Justice Surya Kant's statement?",
-    "options": ["Hyderabad", "Chennai", "Bengaluru", "Pune"],
-    "correctAnswer": "Bengaluru"
+    "question": "The SCO discussions on improved connectivity aim to facilitate what, a factor important for logistical benefits to industries across India, including those in Telangana that rely on efficient transport networks?",
+    "options": [
+      "Cultural festivals",
+      "Ease of goods movement and trade routes",
+      "Educational scholarships",
+      "Political debates"
+    ],
+    "correctAnswer": "Ease of goods movement and trade routes"
   },
   {
     "id": 23,
-    "question": "The ruling by the Supreme Court that no prior nod is needed for prosecuting officials seeking bribes aims to address which specific issue in public administration?",
-    "options": ["Bureaucratic inefficiencies", "Corruption", "Lack of transparency in government schemes", "Delays in project implementation"],
-    "correctAnswer": "Corruption"
+    "question": "The SCO meeting provides India a platform to advocate for enhanced trade partnerships globally. How does this align with the economic aspirations of rapidly developing states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It promotes self-sufficiency and reduced external trade.",
+      "It supports their goal of attracting foreign investment and expanding export markets.",
+      "It encourages a shift from industrial to agricultural economy.",
+      "It prioritizes local consumption over international trade."
+    ],
+    "correctAnswer": "It supports their goal of attracting foreign investment and expanding export markets."
   },
   {
     "id": 24,
-    "question": "What is the broader impact expected from the reduction in cancer drug prices from November 9?",
-    "options": ["Increased pharmaceutical company profits", "Improved access to cancer treatment for common citizens", "Reduced number of cancer patients in India", "A boost in drug exports"],
-    "correctAnswer": "Improved access to cancer treatment for common citizens"
+    "question": "According to a recent IMF report, AI has reduced job demand in certain occupations by nearly 10% across Asia. How might this trend broadly impact the job market in technologically advanced Indian states like Telangana and Andhra Pradesh?",
+    "options": [
+      "It will lead to a complete disappearance of all jobs.",
+      "It will require upskilling and reskilling efforts to adapt to new job profiles.",
+      "It will only affect jobs in the agricultural sector.",
+      "It will cause a mass exodus of workers to other countries."
+    ],
+    "correctAnswer": "It will require upskilling and reskilling efforts to adapt to new job profiles."
   },
   {
     "id": 25,
-    "question": "The Supreme Court's declaration of internet as a fundamental right underscores the importance of which aspect in modern India?",
-    "options": ["Physical infrastructure development", "Digital literacy and accessibility", "Traditional forms of communication", "Restricting information flow"],
-    "correctAnswer": "Digital literacy and accessibility"
+    "question": "The IMF report highlights AI's role in cutting job demand. In which sector, particularly prevalent in states like Telangana (e.g., Hyderabad as an IT hub), might this impact be significantly observed in India?",
+    "options": [
+      "Primary agriculture",
+      "Manufacturing and industrial production",
+      "Information Technology and BPO services",
+      "Traditional handicrafts"
+    ],
+    "correctAnswer": "Information Technology and BPO services"
   }
 ]

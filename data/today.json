@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Indian government issued an advisory for citizens abroad. Which city in Telangana hosts a major Passport Seva Kendra facilitating international travel for its residents?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Khammam"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which Indian state is home to the Tummalapalle uranium mine, a significant site for domestic uranium production?",
+    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Rajasthan"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "Andhra Pradesh has a significant diaspora. Which Union Ministry is primarily responsible for the welfare and protection of Indian citizens residing abroad, including those from Andhra Pradesh?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of External Affairs", "Ministry of Commerce and Industry"],
-    "correctAnswer": "Ministry of External Affairs"
+    "question": "In which district of Andhra Pradesh is the Tummalapalle uranium mine primarily located?",
+    "options": ["Guntur", "Krishna", "YSR Kadapa", "Anantapur"],
+    "correctAnswer": "YSR Kadapa"
   },
   {
     "id": 3,
-    "question": "Akhilesh Yadav raised concerns about electoral rolls. Which constitutional body is responsible for the conduct of Assembly elections in both Telangana and Andhra Pradesh?",
-    "options": ["State Election Commission", "Election Commission of India", "Union Public Service Commission", "Delimitation Commission"],
-    "correctAnswer": "Election Commission of India"
-  },
-  {
-    "id": 4,
-    "question": "The process of 'Summary Revision of Electoral Rolls' (SSR) is crucial for accurate voter lists. In Telangana, who heads the state election machinery responsible for this process?",
-    "options": ["Chief Minister", "Chief Secretary", "Chief Electoral Officer", "Director General of Police"],
-    "correctAnswer": "Chief Electoral Officer"
-  },
-  {
-    "id": 5,
-    "question": "The concept of voter vigilance against 'fake votes' was mentioned. What is the minimum age requirement for a citizen to be registered as a voter in Telangana or Andhra Pradesh?",
-    "options": ["21 years", "25 years", "18 years", "16 years"],
-    "correctAnswer": "18 years"
-  },
-  {
-    "id": 6,
-    "question": "Which article of the Indian Constitution primarily deals with the powers of the Election Commission for the superintendence, direction, and control of elections, applicable to states like Andhra Pradesh?",
-    "options": ["Article 324", "Article 326", "Article 243K", "Article 323"],
-    "correctAnswer": "Article 324"
-  },
-  {
-    "id": 7,
-    "question": "Rahul Gandhi, a prominent leader of the Indian National Congress, made statements. In which South Indian state did the Congress party recently come to power in the Assembly elections, defeating the BRS?",
-    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Kerala"],
+    "question": "The Peddagattu-Lambapur region, known for its uranium reserves, is situated in which Indian state?",
+    "options": ["Telangana", "Andhra Pradesh", "Odisha", "Jharkhand"],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 4,
+    "question": "According to the IAEA report, what percentage dip in global uranium production is projected by 2040?",
+    "options": ["25%", "50%", "75%", "100%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "id": 5,
+    "question": "The IAEA report forecasts global uranium demand to change by what factor by 2040?",
+    "options": ["Halve", "Remain stable", "Double", "Triple"],
+    "correctAnswer": "Double"
+  },
+  {
+    "id": 6,
+    "question": "Which international organization published the report on future global uranium production and demand?",
+    "options": ["World Nuclear Association (WNA)", "International Atomic Energy Agency (IAEA)", "United Nations (UN)", "Organisation for Economic Co-operation and Development (OECD)"],
+    "correctAnswer": "International Atomic Energy Agency (IAEA)"
+  },
+  {
+    "id": 7,
+    "question": "The forecast dip in global uranium production could specifically impact the energy security of which nation, as per the report?",
+    "options": ["China", "Russia", "India", "USA"],
+    "correctAnswer": "India"
+  },
+  {
     "id": 8,
-    "question": "The BJP is a major national party. Who is the current Chief Minister of Telangana, representing the Congress party?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "N. Chandrababu Naidu"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "What is the primary application of uranium in India's energy sector?",
+    "options": ["Thermal power generation", "Hydroelectric power generation", "Solar power generation", "Nuclear power generation"],
+    "correctAnswer": "Nuclear power generation"
   },
   {
     "id": 9,
-    "question": "The emphasis on 'women voters' was highlighted in the news. Which of these flagship welfare schemes by the Andhra Pradesh government provides financial assistance to mothers for sending their children to private schools/colleges?",
-    "options": ["Rythu Bharosa", "Jagananna Vidya Deevena", "YSR Cheyutha", "Amma Vodi"],
-    "correctAnswer": "Amma Vodi"
+    "question": "Which public sector undertaking (PSU) is primarily responsible for uranium mining and milling in India?",
+    "options": ["Nuclear Power Corporation of India Limited (NPCIL)", "Heavy Water Board (HWB)", "Uranium Corporation of India Limited (UCIL)", "Atomic Minerals Directorate for Exploration and Research (AMD)"],
+    "correctAnswer": "Uranium Corporation of India Limited (UCIL)"
   },
   {
     "id": 10,
-    "question": "Which regional political party is currently in power in Andhra Pradesh?",
-    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "The proposed Kovvada Nuclear Power Project, which would rely on uranium fuel, is planned for which Indian state?",
+    "options": ["Tamil Nadu", "Andhra Pradesh", "Gujarat", "Maharashtra"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 11,
-    "question": "The Bharatiya Janata Party (BJP) is a national party with a presence in Telangana. Who is the current state president of the BJP in Telangana?",
-    "options": ["K. Laxman", "Bandi Sanjay Kumar", "G. Kishen Reddy", "Nallu Indrasena Reddy"],
-    "correctAnswer": "G. Kishen Reddy"
-  },
-  {
-    "id": 12,
-    "question": "The Congress party formed the government in Telangana after the 2023 Assembly elections. What is the full form of BRS, the party it unseated?",
-    "options": ["Bharat Rashtra Suraksha", "Bharat Rashtra Samithi", "Bahujan Rajya Sena", "Bharatiya Rajya Samithi"],
-    "correctAnswer": "Bharat Rashtra Samithi"
-  },
-  {
-    "id": 13,
-    "question": "Which national party currently leads the opposition in the Lok Sabha but is also a major contender in Telangana and Andhra Pradesh politics?",
-    "options": ["Bahujan Samaj Party", "Aam Aadmi Party", "Indian National Congress", "All India Trinamool Congress"],
-    "correctAnswer": "Indian National Congress"
-  },
-  {
-    "id": 14,
-    "question": "While Akhilesh Yadav leads a regional party, Telangana and Andhra Pradesh also have strong regional parties. Which of the following is a prominent regional party in Andhra Pradesh that has previously governed the state?",
-    "options": ["Bharat Rashtra Samithi (BRS)", "Telangana Rashtra Samithi (TRS)", "Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)"],
-    "correctAnswer": "Telugu Desam Party (TDP)"
-  },
-  {
-    "id": 15,
-    "question": "The news mentioned tragedies due to poor crowd management. Which agency is primarily responsible for disaster management at the state level in Telangana?",
-    "options": ["National Disaster Response Force (NDRF)", "State Disaster Management Authority (SDMA)", "District Collectorate", "Municipal Corporation"],
-    "correctAnswer": "State Disaster Management Authority (SDMA)"
-  },
-  {
-    "id": 16,
-    "question": "Following incidents of public safety concerns, the state police play a crucial role. Who is the current head of the police force in Andhra Pradesh?",
-    "options": ["Home Secretary", "Director General of Police (DGP)", "Commissioner of Police", "Inspector General of Police (IGP)"],
-    "correctAnswer": "Director General of Police (DGP)"
-  },
-  {
-    "id": 17,
-    "question": "Gwalior temple tragedy involved police personnel's negligence. Which police force is responsible for maintaining law and order in the capital city of Telangana?",
-    "options": ["Telangana State Police", "Hyderabad City Police", "Central Reserve Police Force", "Cyberabad Police"],
-    "correctAnswer": "Hyderabad City Police"
-  },
-  {
-    "id": 18,
-    "question": "In the context of large public gatherings and potential stampedes, which administrative official in a district of Andhra Pradesh is generally responsible for overall law and order and crowd control?",
-    "options": ["Superintendent of Police", "District Collector", "Municipal Commissioner", "Revenue Divisional Officer"],
-    "correctAnswer": "District Collector"
-  },
-  {
-    "id": 19,
-    "question": "Several headlines discussed political allegations and government performance. Which of these is a major river flowing through Telangana and Andhra Pradesh, crucial for the regional economy?",
-    "options": ["Yamuna", "Godavari", "Narmada", "Brahmaputra"],
-    "correctAnswer": "Godavari"
-  },
-  {
-    "id": 20,
-    "question": "The political discourse touched upon various issues impacting citizens. Which city serves as the joint capital of Telangana and the de jure capital of Andhra Pradesh until 2024?",
-    "options": ["Visakhapatnam", "Amaravati", "Hyderabad", "Kurnool"],
+    "question": "Which city in Telangana hosts the Nuclear Fuel Complex (NFC), a vital facility for India's nuclear power program?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Visakhapatnam"],
     "correctAnswer": "Hyderabad"
   },
   {
+    "id": 12,
+    "question": "What is the primary function of the Nuclear Fuel Complex (NFC) located in Hyderabad?",
+    "options": ["Refining crude oil", "Manufacturing heavy water", "Fabricating nuclear fuel bundles", "Producing solar panels"],
+    "correctAnswer": "Fabricating nuclear fuel bundles"
+  },
+  {
+    "id": 13,
+    "question": "The Heavy Water Plant at Manuguru, crucial for India's pressurized heavy water reactors, is located in which state?",
+    "options": ["Odisha", "Telangana", "Gujarat", "Kerala"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 14,
+    "question": "Which organization in India is responsible for exploring and locating uranium deposits?",
+    "options": ["Geological Survey of India (GSI)", "Oil and Natural Gas Corporation (ONGC)", "Atomic Minerals Directorate for Exploration and Research (AMD)", "National Mineral Development Corporation (NMDC)"],
+    "correctAnswer": "Atomic Minerals Directorate for Exploration and Research (AMD)"
+  },
+  {
+    "id": 15,
+    "question": "What type of uranium deposit is predominantly found at the Tummalapalle mine?",
+    "options": ["Sandstone-type", "Vein-type", "Calcrete-type", "Volcanic-type"],
+    "correctAnswer": "Calcrete-type"
+  },
+  {
+    "id": 16,
+    "question": "Which entity oversees India's Department of Atomic Energy, which manages the country's nuclear power program?",
+    "options": ["Ministry of Power", "Ministry of Science and Technology", "Prime Minister's Office (PMO)", "Ministry of Mines"],
+    "correctAnswer": "Prime Minister's Office (PMO)"
+  },
+  {
+    "id": 17,
+    "question": "Who is credited with envisioning India's 'three-stage nuclear power program'?",
+    "options": ["Vikram Sarabhai", "Homi J. Bhabha", "A.P.J. Abdul Kalam", "C.V. Raman"],
+    "correctAnswer": "Homi J. Bhabha"
+  },
+  {
+    "id": 18,
+    "question": "What is the key element required for the second stage of India's nuclear power program, involving Fast Breeder Reactors?",
+    "options": ["Uranium-235", "Thorium", "Plutonium-239", "Deuterium"],
+    "correctAnswer": "Plutonium-239"
+  },
+  {
+    "id": 19,
+    "question": "Beyond electricity generation, what strategic importance does uranium processing hold for India?",
+    "options": ["Space exploration", "Agricultural fertilizers", "Nuclear weapons development", "Telecommunication advancements"],
+    "correctAnswer": "Nuclear weapons development"
+  },
+  {
+    "id": 20,
+    "question": "What percentage of India's total electricity generation currently comes from nuclear power, approximately?",
+    "options": ["Under 1%", "3-4%", "10-12%", "20-25%"],
+    "correctAnswer": "3-4%"
+  },
+  {
     "id": 21,
-    "question": "With discussions around electoral vigilance (News 2), which major irrigation project in Telangana aims to provide water for irrigation and drinking purposes, significantly impacting regional voters?",
-    "options": ["Polavaram Project", "Kaleshwaram Lift Irrigation Project", "Nagarjuna Sagar Dam", "Srisailam Project"],
-    "correctAnswer": "Kaleshwaram Lift Irrigation Project"
+    "question": "To mitigate the impact of global uranium supply challenges, India has focused on developing its domestic reserves and which other resource?",
+    "options": ["Coal", "Natural Gas", "Thorium", "Wind energy"],
+    "correctAnswer": "Thorium"
   },
   {
     "id": 22,
-    "question": "Rahul Gandhi's statements involved national figures. In which year was the state of Telangana formally bifurcated from Andhra Pradesh?",
-    "options": ["2012", "2013", "2014", "2015"],
-    "correctAnswer": "2014"
+    "question": "The increase in global uranium demand mentioned in the IAEA report is primarily driven by expansion in which sector?",
+    "options": ["Industrial manufacturing", "Electric vehicle production", "Nuclear power programs worldwide", "Medical imaging technologies"],
+    "correctAnswer": "Nuclear power programs worldwide"
   },
   {
     "id": 23,
-    "question": "The news highlights political competition (News 2, 4, 5). Which port city in Andhra Pradesh is a major economic hub and strategic location on the Bay of Bengal?",
-    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "Which body is responsible for regulatory and safety aspects of nuclear power plants and facilities in India?",
+    "options": ["Nuclear Power Corporation of India Limited (NPCIL)", "Bhabha Atomic Research Centre (BARC)", "Atomic Energy Regulatory Board (AERB)", "Defence Research and Development Organisation (DRDO)"],
+    "correctAnswer": "Atomic Energy Regulatory Board (AERB)"
   },
   {
     "id": 24,
-    "question": "The Election Commission's role in electoral processes (News 2) is vital. Which body is responsible for conducting elections to Panchayats and Municipalities in Telangana and Andhra Pradesh?",
-    "options": ["Election Commission of India", "State Election Commission", "District Collectorate", "Respective State Legislatures"],
-    "correctAnswer": "State Election Commission"
+    "question": "A potential 'pinch' on India due to global uranium trends implies challenges in securing which aspect for its nuclear reactors?",
+    "options": ["Cooling water supply", "Manpower for operations", "Fuel supply", "Waste disposal solutions"],
+    "correctAnswer": "Fuel supply"
   },
   {
     "id": 25,
-    "question": "Political parties address various issues (News 2, 4, 5). Which famous pilgrimage site in Andhra Pradesh is dedicated to Lord Venkateswara and attracts millions of devotees annually?",
-    "options": ["Srisailam", "Annavaram", "Tirumala-Tirupati", "Simhachalam"],
-    "correctAnswer": "Tirumala-Tirupati"
+    "question": "What is a key characteristic of the uranium ore found in the Lambapur-Peddagattu region that makes it attractive for potential mining?",
+    "options": ["High grade ore", "Easy accessibility", "Large reserves", "Low processing cost"],
+    "correctAnswer": "Large reserves"
   }
 ]

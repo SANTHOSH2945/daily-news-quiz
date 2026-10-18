@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What is the primary role of the FSSAI, whose regulations impact food standards and consumer safety in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Regulating telecommunications",
-      "Ensuring food safety and standards",
-      "Managing public transportation",
-      "Overseeing banking operations"
-    ],
-    "correctAnswer": "Ensuring food safety and standards"
+    "question": "The Indian government issued an advisory for citizens abroad. Which city in Telangana hosts a major Passport Seva Kendra facilitating international travel for its residents?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Khammam"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "Based on recent news, what specific food category is FSSAI considering curbing sugar content in, a decision impacting the health of young consumers in Andhra Pradesh and Telangana?",
-    "options": [
-      "Packaged snacks",
-      "Soft drinks",
-      "Baby food",
-      "Processed meats"
-    ],
-    "correctAnswer": "Baby food"
+    "question": "Andhra Pradesh has a significant diaspora. Which Union Ministry is primarily responsible for the welfare and protection of Indian citizens residing abroad, including those from Andhra Pradesh?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of External Affairs", "Ministry of Commerce and Industry"],
+    "correctAnswer": "Ministry of External Affairs"
   },
   {
     "id": 3,
-    "question": "FSSAI is also looking to set caps for what substance in tea, a measure that would apply to tea consumed across Indian states, including Telangana and Andhra Pradesh?",
-    "options": [
-      "Caffeine levels",
-      "Artificial flavors",
-      "Pesticide residues",
-      "Sugar content"
-    ],
-    "correctAnswer": "Pesticide residues"
+    "question": "Akhilesh Yadav raised concerns about electoral rolls. Which constitutional body is responsible for the conduct of Assembly elections in both Telangana and Andhra Pradesh?",
+    "options": ["State Election Commission", "Election Commission of India", "Union Public Service Commission", "Delimitation Commission"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 4,
-    "question": "The FSSAI recently took action against which specific biscuit manufacturer mentioned in the news, affecting product quality assurance nationwide, including for consumers in Telangana and AP?",
-    "options": [
-      "Britannia",
-      "Parle",
-      "Priyagold",
-      "Sunfeast"
-    ],
-    "correctAnswer": "Priyagold"
+    "question": "The process of 'Summary Revision of Electoral Rolls' (SSR) is crucial for accurate voter lists. In Telangana, who heads the state election machinery responsible for this process?",
+    "options": ["Chief Minister", "Chief Secretary", "Chief Electoral Officer", "Director General of Police"],
+    "correctAnswer": "Chief Electoral Officer"
   },
   {
     "id": 5,
-    "question": "The actions by FSSAI to regulate food products, such as those related to baby food and tea, directly contribute to enhancing what aspect for citizens in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Economic growth",
-      "Consumer financial literacy",
-      "Public health and safety",
-      "Digital infrastructure"
-    ],
-    "correctAnswer": "Public health and safety"
+    "question": "The concept of voter vigilance against 'fake votes' was mentioned. What is the minimum age requirement for a citizen to be registered as a voter in Telangana or Andhra Pradesh?",
+    "options": ["21 years", "25 years", "18 years", "16 years"],
+    "correctAnswer": "18 years"
   },
   {
     "id": 6,
-    "question": "Which national body is responsible for establishing science-based standards for food items throughout India, ensuring consistency for products sold in Telangana and Andhra Pradesh?",
-    "options": [
-      "Bureau of Indian Standards (BIS)",
-      "Food Safety and Standards Authority of India (FSSAI)",
-      "Agricultural and Processed Food Products Export Development Authority (APEDA)",
-      "National Bank for Agriculture and Rural Development (NABARD)"
-    ],
-    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
+    "question": "Which article of the Indian Constitution primarily deals with the powers of the Election Commission for the superintendence, direction, and control of elections, applicable to states like Andhra Pradesh?",
+    "options": ["Article 324", "Article 326", "Article 243K", "Article 323"],
+    "correctAnswer": "Article 324"
   },
   {
     "id": 7,
-    "question": "How might FSSAI's proposed regulations on sugar in baby food and pesticides in tea affect food manufacturers operating in or supplying to Telangana and Andhra Pradesh?",
-    "options": [
-      "Increase their marketing budget",
-      "Require them to adjust product formulations and sourcing",
-      "Reduce their electricity costs",
-      "Expand their export opportunities"
-    ],
-    "correctAnswer": "Require them to adjust product formulations and sourcing"
+    "question": "Rahul Gandhi, a prominent leader of the Indian National Congress, made statements. In which South Indian state did the Congress party recently come to power in the Assembly elections, defeating the BRS?",
+    "options": ["Andhra Pradesh", "Karnataka", "Telangana", "Kerala"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 8,
-    "question": "Beyond curbing sugar, FSSAI's focus on baby food regulations is generally aimed at promoting what for infants in India, including states like AP and Telangana?",
-    "options": [
-      "Early childhood literacy",
-      "Better nutritional outcomes",
-      "Increased screen time",
-      "Foreign language acquisition"
-    ],
-    "correctAnswer": "Better nutritional outcomes"
+    "question": "The BJP is a major national party. Who is the current Chief Minister of Telangana, representing the Congress party?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "N. Chandrababu Naidu"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 9,
-    "question": "The FSSAI's move to set caps on pesticides in tea aims to address concerns about what in consumer products across all Indian states, including Telangana?",
-    "options": [
-      "Packaging waste",
-      "Environmental pollution",
-      "Adulteration and harmful chemical exposure",
-      "Price fluctuations"
-    ],
-    "correctAnswer": "Adulteration and harmful chemical exposure"
+    "question": "The emphasis on 'women voters' was highlighted in the news. Which of these flagship welfare schemes by the Andhra Pradesh government provides financial assistance to mothers for sending their children to private schools/colleges?",
+    "options": ["Rythu Bharosa", "Jagananna Vidya Deevena", "YSR Cheyutha", "Amma Vodi"],
+    "correctAnswer": "Amma Vodi"
   },
   {
     "id": 10,
-    "question": "What does FSSAI stand for, the national body whose decisions have a direct bearing on food safety and standards in Andhra Pradesh and Telangana?",
-    "options": [
-      "Federal System for Standardized Agriculture in India",
-      "Food Safety and Standards Authority of India",
-      "Forum for Sustainable Sourcing and Agricultural Innovations",
-      "Financial Services and Security Assessment Initiative"
-    ],
-    "correctAnswer": "Food Safety and Standards Authority of India"
+    "question": "Which regional political party is currently in power in Andhra Pradesh?",
+    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 11,
-    "question": "Which central authority ensures compliance with food safety and standards across all Indian states, including Andhra Pradesh and Telangana, through its regulatory mandates?",
-    "options": [
-      "Ministry of Agriculture",
-      "NITI Aayog",
-      "FSSAI",
-      "Reserve Bank of India"
-    ],
-    "correctAnswer": "FSSAI"
+    "question": "The Bharatiya Janata Party (BJP) is a national party with a presence in Telangana. Who is the current state president of the BJP in Telangana?",
+    "options": ["K. Laxman", "Bandi Sanjay Kumar", "G. Kishen Reddy", "Nallu Indrasena Reddy"],
+    "correctAnswer": "G. Kishen Reddy"
   },
   {
     "id": 12,
-    "question": "NCERT is reportedly eyeing a new training model for teachers focused on addressing what specific challenge in classrooms across India, including those in linguistically diverse states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Lack of digital infrastructure",
-      "Multilingual learning environments",
-      "Shortage of science teachers",
-      "Discipline issues among students"
-    ],
-    "correctAnswer": "Multilingual learning environments"
+    "question": "The Congress party formed the government in Telangana after the 2023 Assembly elections. What is the full form of BRS, the party it unseated?",
+    "options": ["Bharat Rashtra Suraksha", "Bharat Rashtra Samithi", "Bahujan Rajya Sena", "Bharatiya Rajya Samithi"],
+    "correctAnswer": "Bharat Rashtra Samithi"
   },
   {
     "id": 13,
-    "question": "The NCERT's proposed 'one teacher, multiple languages' model aims to improve what aspect of education delivery in diverse linguistic states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Teacher-student ratio",
-      "Access to international curricula",
-      "Language proficiency and inclusivity",
-      "Sports education funding"
-    ],
-    "correctAnswer": "Language proficiency and inclusivity"
+    "question": "Which national party currently leads the opposition in the Lok Sabha but is also a major contender in Telangana and Andhra Pradesh politics?",
+    "options": ["Bahujan Samaj Party", "Aam Aadmi Party", "Indian National Congress", "All India Trinamool Congress"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 14,
-    "question": "The NCERT initiative for teacher training focused on language management is primarily aimed at enhancing what among educators in states such as Telangana and Andhra Pradesh?",
-    "options": [
-      "Their administrative skills",
-      "Their ability to handle diverse linguistic backgrounds",
-      "Their proficiency in coding",
-      "Their participation in sports events"
-    ],
-    "correctAnswer": "Their ability to handle diverse linguistic backgrounds"
+    "question": "While Akhilesh Yadav leads a regional party, Telangana and Andhra Pradesh also have strong regional parties. Which of the following is a prominent regional party in Andhra Pradesh that has previously governed the state?",
+    "options": ["Bharat Rashtra Samithi (BRS)", "Telangana Rashtra Samithi (TRS)", "Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)"],
+    "correctAnswer": "Telugu Desam Party (TDP)"
   },
   {
     "id": 15,
-    "question": "What national council is responsible for curriculum development and teacher training initiatives that affect the education system in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "University Grants Commission (UGC)",
-      "National Council of Educational Research and Training (NCERT)",
-      "Central Board of Secondary Education (CBSE)",
-      "All India Council for Technical Education (AICTE)"
-    ],
-    "correctAnswer": "National Council of Educational Research and Training (NCERT)"
+    "question": "The news mentioned tragedies due to poor crowd management. Which agency is primarily responsible for disaster management at the state level in Telangana?",
+    "options": ["National Disaster Response Force (NDRF)", "State Disaster Management Authority (SDMA)", "District Collectorate", "Municipal Corporation"],
+    "correctAnswer": "State Disaster Management Authority (SDMA)"
   },
   {
     "id": 16,
-    "question": "The NCERT's new model seeks to equip teachers to effectively manage what common challenge in classrooms, especially relevant in linguistically diverse regions like Telangana?",
-    "options": [
-      "Lack of textbooks",
-      "Dealing with students from different economic backgrounds",
-      "Overcoming the language barrier for effective learning",
-      "Managing large class sizes"
-    ],
-    "correctAnswer": "Overcoming the language barrier for effective learning"
+    "question": "Following incidents of public safety concerns, the state police play a crucial role. Who is the current head of the police force in Andhra Pradesh?",
+    "options": ["Home Secretary", "Director General of Police (DGP)", "Commissioner of Police", "Inspector General of Police (IGP)"],
+    "correctAnswer": "Director General of Police (DGP)"
   },
   {
     "id": 17,
-    "question": "NCERT plays a crucial role in implementing national education policies across India. Which specific aspect of teacher capability is being targeted for enhancement by NCERT's new training model?",
-    "options": [
-      "Financial management skills",
-      "Multilingual instructional strategies",
-      "Scientific research aptitude",
-      "Physical fitness training"
-    ],
-    "correctAnswer": "Multilingual instructional strategies"
+    "question": "Gwalior temple tragedy involved police personnel's negligence. Which police force is responsible for maintaining law and order in the capital city of Telangana?",
+    "options": ["Telangana State Police", "Hyderabad City Police", "Central Reserve Police Force", "Cyberabad Police"],
+    "correctAnswer": "Hyderabad City Police"
   },
   {
     "id": 18,
-    "question": "How might the NCERT's new training model on multiple languages indirectly influence state education boards and their teacher training programs in Andhra Pradesh and Telangana?",
-    "options": [
-      "It will reduce their budget for school infrastructure.",
-      "It will encourage them to adopt similar pedagogical approaches for linguistic diversity.",
-      "It will require them to change their school uniforms.",
-      "It will lead to a decrease in student enrollment."
-    ],
-    "correctAnswer": "It will encourage them to adopt similar pedagogical approaches for linguistic diversity."
+    "question": "In the context of large public gatherings and potential stampedes, which administrative official in a district of Andhra Pradesh is generally responsible for overall law and order and crowd control?",
+    "options": ["Superintendent of Police", "District Collector", "Municipal Commissioner", "Revenue Divisional Officer"],
+    "correctAnswer": "District Collector"
   },
   {
     "id": 19,
-    "question": "Who represented India at the 25th SCO Council of Heads of Government meeting, which discussed trade and connectivity relevant to India's economic interests, including opportunities for Southern states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Prime Minister Narendra Modi",
-      "External Affairs Minister S. Jaishankar",
-      "Defence Minister Rajnath Singh",
-      "Finance Minister Nirmala Sitharaman"
-    ],
-    "correctAnswer": "Defence Minister Rajnath Singh"
+    "question": "Several headlines discussed political allegations and government performance. Which of these is a major river flowing through Telangana and Andhra Pradesh, crucial for the regional economy?",
+    "options": ["Yamuna", "Godavari", "Narmada", "Brahmaputra"],
+    "correctAnswer": "Godavari"
   },
   {
     "id": 20,
-    "question": "What were the primary themes of discussion at the recent SCO meeting attended by India, which are crucial for economic growth and market access for Indian states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Cultural exchange and tourism promotion",
-      "Trade, economic collaboration, and improved connectivity",
-      "Space exploration and technological research",
-      "Military alliances and defense strategies"
-    ],
-    "correctAnswer": "Trade, economic collaboration, and improved connectivity"
+    "question": "The political discourse touched upon various issues impacting citizens. Which city serves as the joint capital of Telangana and the de jure capital of Andhra Pradesh until 2024?",
+    "options": ["Visakhapatnam", "Amaravati", "Hyderabad", "Kurnool"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 21,
-    "question": "India's participation in the SCO meeting emphasizes its commitment to fostering what among member nations, potentially benefiting Indian industries in states like Andhra Pradesh through expanded markets?",
-    "options": [
-      "Unilateral trade policies",
-      "Economic collaboration and trade partnerships",
-      "Strict isolationist policies",
-      "Reliance on single-country trade"
-    ],
-    "correctAnswer": "Economic collaboration and trade partnerships"
+    "question": "With discussions around electoral vigilance (News 2), which major irrigation project in Telangana aims to provide water for irrigation and drinking purposes, significantly impacting regional voters?",
+    "options": ["Polavaram Project", "Kaleshwaram Lift Irrigation Project", "Nagarjuna Sagar Dam", "Srisailam Project"],
+    "correctAnswer": "Kaleshwaram Lift Irrigation Project"
   },
   {
     "id": 22,
-    "question": "The SCO discussions on improved connectivity aim to facilitate what, a factor important for logistical benefits to industries across India, including those in Telangana that rely on efficient transport networks?",
-    "options": [
-      "Cultural festivals",
-      "Ease of goods movement and trade routes",
-      "Educational scholarships",
-      "Political debates"
-    ],
-    "correctAnswer": "Ease of goods movement and trade routes"
+    "question": "Rahul Gandhi's statements involved national figures. In which year was the state of Telangana formally bifurcated from Andhra Pradesh?",
+    "options": ["2012", "2013", "2014", "2015"],
+    "correctAnswer": "2014"
   },
   {
     "id": 23,
-    "question": "The SCO meeting provides India a platform to advocate for enhanced trade partnerships globally. How does this align with the economic aspirations of rapidly developing states like Telangana and Andhra Pradesh?",
-    "options": [
-      "It promotes self-sufficiency and reduced external trade.",
-      "It supports their goal of attracting foreign investment and expanding export markets.",
-      "It encourages a shift from industrial to agricultural economy.",
-      "It prioritizes local consumption over international trade."
-    ],
-    "correctAnswer": "It supports their goal of attracting foreign investment and expanding export markets."
+    "question": "The news highlights political competition (News 2, 4, 5). Which port city in Andhra Pradesh is a major economic hub and strategic location on the Bay of Bengal?",
+    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 24,
-    "question": "According to a recent IMF report, AI has reduced job demand in certain occupations by nearly 10% across Asia. How might this trend broadly impact the job market in technologically advanced Indian states like Telangana and Andhra Pradesh?",
-    "options": [
-      "It will lead to a complete disappearance of all jobs.",
-      "It will require upskilling and reskilling efforts to adapt to new job profiles.",
-      "It will only affect jobs in the agricultural sector.",
-      "It will cause a mass exodus of workers to other countries."
-    ],
-    "correctAnswer": "It will require upskilling and reskilling efforts to adapt to new job profiles."
+    "question": "The Election Commission's role in electoral processes (News 2) is vital. Which body is responsible for conducting elections to Panchayats and Municipalities in Telangana and Andhra Pradesh?",
+    "options": ["Election Commission of India", "State Election Commission", "District Collectorate", "Respective State Legislatures"],
+    "correctAnswer": "State Election Commission"
   },
   {
     "id": 25,
-    "question": "The IMF report highlights AI's role in cutting job demand. In which sector, particularly prevalent in states like Telangana (e.g., Hyderabad as an IT hub), might this impact be significantly observed in India?",
-    "options": [
-      "Primary agriculture",
-      "Manufacturing and industrial production",
-      "Information Technology and BPO services",
-      "Traditional handicrafts"
-    ],
-    "correctAnswer": "Information Technology and BPO services"
+    "question": "Political parties address various issues (News 2, 4, 5). Which famous pilgrimage site in Andhra Pradesh is dedicated to Lord Venkateswara and attracts millions of devotees annually?",
+    "options": ["Srisailam", "Annavaram", "Tirumala-Tirupati", "Simhachalam"],
+    "correctAnswer": "Tirumala-Tirupati"
   }
 ]

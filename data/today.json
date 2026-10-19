@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which prominent actress, known for her work in Telugu cinema, is mentioned in the news as currently filming a movie with Akshay Kumar in Uttarakhand?",
-    "options": ["Raashii Khanna", "Samantha Ruth Prabhu", "Pooja Hegde", "Keerthy Suresh"],
-    "correctAnswer": "Raashii Khanna"
+    "question": "Who is the current Chief Minister of Telangana, representing the Congress party, following their victory in the recent assembly elections?",
+    "options": [
+      "K. Chandrashekar Rao",
+      "Revanth Reddy",
+      "Bandi Sanjay Kumar",
+      "N. Chandrababu Naidu"
+    ],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 2,
-    "question": "Akshay Kumar recently met the Chief Minister of which state to discuss its film policy, a topic relevant to filmmakers and artists, including those from Andhra Pradesh and Telangana?",
-    "options": ["Uttarakhand", "Himachal Pradesh", "Madhya Pradesh", "Uttar Pradesh"],
-    "correctAnswer": "Uttarakhand"
+    "question": "Which political party currently leads the opposition in the Andhra Pradesh Legislative Assembly?",
+    "options": [
+      "YSR Congress Party",
+      "Telugu Desam Party",
+      "Jana Sena Party",
+      "Bharatiya Janata Party"
+    ],
+    "correctAnswer": "Telugu Desam Party"
   },
   {
     "id": 3,
-    "question": "The discussion between Akshay Kumar and CM Pushkar Singh Dhami focused on attracting film productions and enhancing local employment. What primary subject of discussion would interest state governments like Telangana and Andhra Pradesh for their own film industries?",
-    "options": ["State's film policy", "Wildlife conservation", "Agricultural subsidies", "Tourism promotion (beyond film)"],
-    "correctAnswer": "State's film policy"
+    "question": "In which year did the Congress party secure a significant victory in the Telangana Assembly elections, leading to the formation of the current government?",
+    "options": [
+      "2018",
+      "2020",
+      "2023",
+      "2024"
+    ],
+    "correctAnswer": "2023"
   },
   {
     "id": 4,
-    "question": "Raashii Khanna, mentioned in a news headline, is primarily known for her contributions to which Indian film industry, highly popular in Telangana and Andhra Pradesh?",
-    "options": ["Telugu cinema", "Bollywood", "Tamil cinema", "Malayalam cinema"],
-    "correctAnswer": "Telugu cinema"
+    "question": "Which political alliance involving regional parties is often discussed in Andhra Pradesh as a potential significant force in upcoming elections?",
+    "options": [
+      "UPA",
+      "NDA",
+      "TDP-JSP-BJP",
+      "TRS-MIM"
+    ],
+    "correctAnswer": "TDP-JSP-BJP"
   },
   {
     "id": 5,
-    "question": "An IAEA report forecasts a significant dip in global uranium production by 2040. This forecast is particularly relevant for India, especially for states like Andhra Pradesh, due to the presence of what kind of vital resource?",
-    "options": ["Uranium reserves", "Coal mines", "Offshore oil fields", "Bauxite deposits"],
-    "correctAnswer": "Uranium reserves"
+    "question": "One of the flagship 'Six Guarantees' implemented by the Congress government in Telangana is the 'Mahalakshmi scheme'. What is its primary focus?",
+    "options": [
+      "Free electricity for farmers",
+      "Financial assistance for women and free bus travel",
+      "Housing for the poor",
+      "Unemployment allowance for youth"
+    ],
+    "correctAnswer": "Financial assistance for women and free bus travel"
   },
   {
     "id": 6,
-    "question": "The Tummalapalle uranium mine, a significant source for India's nuclear energy program, is located in which Indian state?",
-    "options": ["Andhra Pradesh", "Karnataka", "Jharkhand", "Rajasthan"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "Who currently serves as the President of the Bharatiya Janata Party (BJP) in Telangana?",
+    "options": [
+      "G. Kishan Reddy",
+      "Bandi Sanjay Kumar",
+      "Etela Rajender",
+      "Dharmapuri Arvind"
+    ],
+    "correctAnswer": "G. Kishan Reddy"
   },
   {
     "id": 7,
-    "question": "The International Atomic Energy Agency (IAEA) report on future uranium production could 'pinch India too'. What major sector in India relies heavily on uranium, impacting states like Andhra Pradesh with related infrastructure?",
-    "options": ["Nuclear energy", "Thermal power", "Solar energy", "Hydroelectric power"],
-    "correctAnswer": "Nuclear energy"
+    "question": "The Election Commission of India frequently undertakes special summary revision of electoral rolls. Which officer is primarily responsible for updating these rolls at the assembly constituency level in Andhra Pradesh?",
+    "options": [
+      "District Collector",
+      "Revenue Divisional Officer",
+      "Electoral Registration Officer",
+      "Mandal Parishad Development Officer"
+    ],
+    "correctAnswer": "Electoral Registration Officer"
   },
   {
     "id": 8,
-    "question": "By what percentage is global uranium production expected to dip by 2040, according to the recent IAEA report, potentially affecting India's energy security?",
-    "options": ["50%", "25%", "75%", "10%"],
-    "correctAnswer": "50%"
+    "question": "Who currently holds the office of Governor for the state of Telangana?",
+    "options": [
+      "Biswabhusan Harichandan",
+      "Arif Mohammed Khan",
+      "C. P. Radhakrishnan",
+      "Dr. Tamilisai Soundararajan"
+    ],
+    "correctAnswer": "Dr. Tamilisai Soundararajan"
   },
   {
     "id": 9,
-    "question": "Which international organization's report has warned about a potential 50% dip in global uranium production by 2040, raising concerns for India's energy future?",
-    "options": ["IAEA", "WTO", "UNSC", "WHO"],
-    "correctAnswer": "IAEA"
+    "question": "Who is the leader of the opposition in the Andhra Pradesh Legislative Assembly?",
+    "options": [
+      "Y. S. Jagan Mohan Reddy",
+      "N. Chandrababu Naidu",
+      "Pawan Kalyan",
+      "K. Atchannaidu"
+    ],
+    "correctAnswer": "N. Chandrababu Naidu"
   },
   {
     "id": 10,
-    "question": "Given the IAEA forecast, the increasing demand for uranium could have implications for states like Andhra Pradesh, which contributes to India's domestic uranium supply. What does 'IAEA' stand for?",
-    "options": ["International Atomic Energy Agency", "Indian Atomic Energy Authority", "International Agency for Energy Alternatives", "Institute of Atomic Energy Analysis"],
-    "correctAnswer": "International Atomic Energy Agency"
+    "question": "The issue of Andhra Pradesh's capital city has been a significant political discussion point. Which city was initially proposed as the sole capital under the previous TDP government?",
+    "options": [
+      "Visakhapatnam",
+      "Kurnool",
+      "Amaravati",
+      "Vijayawada"
+    ],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 11,
-    "question": "A recent espionage case in India, involving an Army officer's wife, has led to investigations into alleged links with which country, posing a national security concern for all Indian states, including Telangana and Andhra Pradesh?",
-    "options": ["China", "Pakistan", "Russia", "Myanmar"],
-    "correctAnswer": "China"
+    "question": "Which political party currently holds the majority and forms the government in the Andhra Pradesh Legislative Assembly?",
+    "options": [
+      "Telugu Desam Party (TDP)",
+      "YSR Congress Party (YSRCP)",
+      "Jana Sena Party (JSP)",
+      "Bharatiya Janata Party (BJP)"
+    ],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 12,
-    "question": "The espionage case is centered around an individual connected to which Indian institution, highlighting national security vulnerabilities for the entire country?",
-    "options": ["Indian Army", "Indian Navy", "Indian Air Force", "Intelligence Bureau"],
-    "correctAnswer": "Indian Army"
+    "question": "The Telangana government has implemented various welfare schemes. Which scheme primarily aims to provide financial assistance for marriage to economically backward women and Scheduled Castes/Tribes in Telangana?",
+    "options": [
+      "Rythu Bandhu",
+      "Dalit Bandhu",
+      "Kalyana Lakshmi/Shaadi Mubarak",
+      "KCR Kit"
+    ],
+    "correctAnswer": "Kalyana Lakshmi/Shaadi Mubarak"
   },
   {
     "id": 13,
-    "question": "What is the nature of the serious allegations being investigated against an Army officer's wife, which poses a threat to India's national security?",
-    "options": ["Espionage", "Financial fraud", "Human trafficking", "Cyberbullying"],
-    "correctAnswer": "Espionage"
+    "question": "Which level of local self-governance bodies, distinct from urban municipalities, holds elections in rural Andhra Pradesh to elect representatives for regional administration?",
+    "options": [
+      "Ward Committees",
+      "Mandal Parishads",
+      "Town Panchayats",
+      "Metropolitan Councils"
+    ],
+    "correctAnswer": "Mandal Parishads"
   },
   {
     "id": 14,
-    "question": "The BJP recently criticized the Congress, accusing them of 'politics of shoot and scoot' concerning what crucial aspect of the democratic process that affects all states like Telangana and Andhra Pradesh?",
-    "options": ["Readable electoral rolls", "GST implementation", "Farm laws", "Digital currency adoption"],
-    "correctAnswer": "Readable electoral rolls"
+    "question": "In the context of governance and land administration in Telangana, what does the term 'Dharani portal' primarily refer to?",
+    "options": [
+      "An online land records management system",
+      "A portal for government job applications",
+      "A digital platform for agricultural subsidies",
+      "A website for public grievance redressal"
+    ],
+    "correctAnswer": "An online land records management system"
   },
   {
     "id": 15,
-    "question": "The issue of 'readable electoral rolls' is a matter of debate between the BJP and Congress. Why is the readability of electoral rolls important for states like Telangana and Andhra Pradesh during elections?",
-    "options": ["Ensures fair and transparent elections", "Reduces campaigning costs", "Promotes party affiliations", "Simplifies ballot counting"],
-    "correctAnswer": "Ensures fair and transparent elections"
+    "question": "Before the bifurcation of the state, the Congress party was a dominant force in united Andhra Pradesh. Who was the last Chief Minister of united Andhra Pradesh from the Congress party?",
+    "options": [
+      "K. Rosaiah",
+      "N. Kiran Kumar Reddy",
+      "Y. S. Rajasekhara Reddy",
+      "M. Chenna Reddy"
+    ],
+    "correctAnswer": "N. Kiran Kumar Reddy"
   },
   {
     "id": 16,
-    "question": "The political controversy around electoral rolls involves which two major Indian political parties?",
-    "options": ["BJP and Congress", "AAP and BJP", "Congress and TMC", "SP and BSP"],
-    "correctAnswer": "BJP and Congress"
+    "question": "The central government, led by the BJP, has emphasized national infrastructure projects. Which major national highway project, significantly impacting connectivity in Andhra Pradesh, aims to develop and upgrade highways?",
+    "options": [
+      "East-West Corridor",
+      "North-South Corridor",
+      "Bharatmala Pariyojana",
+      "Golden Quadrilateral"
+    ],
+    "correctAnswer": "Bharatmala Pariyojana"
   },
   {
     "id": 17,
-    "question": "The discussion on film policy in Uttarakhand aims to enhance local employment opportunities. What role do state film policies play in boosting economic activity in regions like Telangana and Andhra Pradesh?",
-    "options": ["Attracting investments", "Increasing tourism", "Providing job opportunities", "All of the above"],
-    "correctAnswer": "All of the above"
+    "question": "The Jana Sena Party, a key political entity in Andhra Pradesh, is led by which prominent personality?",
+    "options": [
+      "J. C. Diwakar Reddy",
+      "Raghuveera Reddy",
+      "Pawan Kalyan",
+      "Undavalli Arun Kumar"
+    ],
+    "correctAnswer": "Pawan Kalyan"
   },
   {
     "id": 18,
-    "question": "Film shootings contribute to the local economy. If a film featuring an actress like Raashii Khanna (from Telugu cinema) is shot in an Indian state, what kind of local businesses in states like Andhra Pradesh and Telangana could potentially benefit from similar ventures?",
-    "options": ["Hospitality", "Transport", "Technical crew", "All of the above"],
-    "correctAnswer": "All of the above"
+    "question": "According to recent guidelines from Indian Railways, what is the consequence for passengers using their phone on speaker mode in a manner that disturbs co-passengers?",
+    "options": [
+      "A verbal warning only",
+      "A monetary fine and potential jail time",
+      "Confiscation of the phone",
+      "Removal from the train at the next station"
+    ],
+    "correctAnswer": "A monetary fine and potential jail time"
   },
   {
     "id": 19,
-    "question": "India's demand for uranium is projected to double. What implication does this have for states like Andhra Pradesh, which are significant contributors to India's nuclear power infrastructure?",
-    "options": ["Increased focus on resource exploration", "Development of new energy policies", "Potential for international collaboration", "All of the above"],
-    "correctAnswer": "All of the above"
+    "question": "Which is one of the busiest and most significant railway junctions located in Hyderabad, Telangana, serving as a major hub for South Central Railway?",
+    "options": [
+      "Secunderabad Junction",
+      "Kacheguda Railway Station",
+      "Nampally Railway Station",
+      "Begumpet Railway Station"
+    ],
+    "correctAnswer": "Secunderabad Junction"
   },
   {
     "id": 20,
-    "question": "The IAEA report highlights a global trend that could impact India's long-term energy planning. Which of the following is a key aspect of India's strategy to address its energy needs, relevant for states like Telangana and Andhra Pradesh?",
-    "options": ["Expanding nuclear power capacity", "Importing more fossil fuels", "Investing solely in solar energy", "Reducing overall energy consumption"],
-    "correctAnswer": "Expanding nuclear power capacity"
+    "question": "The South Central Railway (SCR) zone, a major division of Indian Railways, primarily covers which two states in its operational jurisdiction?",
+    "options": [
+      "Karnataka and Kerala",
+      "Telangana and Andhra Pradesh",
+      "Tamil Nadu and Puducherry",
+      "Odisha and Chhattisgarh"
+    ],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 21,
-    "question": "National security is a paramount concern for all Indian states. In the context of the recent espionage case, who is ultimately responsible for addressing threats to India's internal and external security?",
-    "options": ["Central Government", "State Governments", "Local Police", "Judiciary"],
-    "correctAnswer": "Central Government"
+    "question": "Which major high-speed train service, part of Indian Railways' modernization efforts, has recently been introduced connecting important cities within or from Andhra Pradesh/Telangana?",
+    "options": [
+      "Tejas Express",
+      "Gatimaan Express",
+      "Vande Bharat Express",
+      "Duronto Express"
+    ],
+    "correctAnswer": "Vande Bharat Express"
   },
   {
     "id": 22,
-    "question": "The alleged 'China links' in the espionage case underscore the importance of border security. While not directly bordering China, how do states like Telangana and Andhra Pradesh indirectly contribute to national security efforts?",
-    "options": ["Providing personnel to armed forces", "Supporting defense industries", "Maintaining internal law and order", "All of the above"],
-    "correctAnswer": "All of the above"
+    "question": "The railway network in Andhra Pradesh plays a crucial role in connecting its port cities to the hinterland. Which major port city in AP is well-connected by rail for freight and passenger movement?",
+    "options": [
+      "Kakinada",
+      "Machilipatnam",
+      "Visakhapatnam",
+      "Krishnapatnam"
+    ],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 23,
-    "question": "The debate over electoral rolls is crucial for maintaining democratic integrity. Which body in India is primarily responsible for ensuring accurate and readable electoral rolls for all elections, including those in Telangana and Andhra Pradesh?",
-    "options": ["Election Commission of India", "Parliament", "State Legislatures", "Ministry of Home Affairs"],
-    "correctAnswer": "Election Commission of India"
+    "question": "The Multi-Modal Transport System (MMTS) is an important suburban rail system primarily serving which major metropolitan area in Telangana?",
+    "options": [
+      "Warangal",
+      "Hyderabad",
+      "Karimnagar",
+      "Nizamabad"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 24,
-    "question": "Electoral roll issues can impact voter participation. What is the fundamental right that a clear and accurate electoral roll upholds for citizens in states like Telangana and Andhra Pradesh?",
-    "options": ["Right to vote", "Right to information", "Right to freedom of speech", "Right to privacy"],
-    "correctAnswer": "Right to vote"
+    "question": "The Indian Railways has plans for a dedicated freight corridor. Which major freight corridor project is expected to significantly enhance rail cargo movement through Andhra Pradesh?",
+    "options": [
+      "Eastern Dedicated Freight Corridor",
+      "Western Dedicated Freight Corridor",
+      "East Coast Dedicated Freight Corridor",
+      "North-South Dedicated Freight Corridor"
+    ],
+    "correctAnswer": "East Coast Dedicated Freight Corridor"
   },
   {
     "id": 25,
-    "question": "The discussion around 'readable electoral rolls' between political parties like BJP and Congress is essential for the smooth conduct of elections in India. What is a direct benefit of having transparent and easily accessible electoral rolls for voters in states such as Telangana and Andhra Pradesh?",
-    "options": ["Increased voter turnout", "Reduced polling station queues", "Easier candidate registration", "Lower election expenses"],
-    "correctAnswer": "Increased voter turnout"
+    "question": "If a passenger from Vijayawada travels on an Indian Railways train and is found violating the new speaker phone rule, under which legal framework could they potentially be penalized?",
+    "options": [
+      "The Indian Penal Code",
+      "The Railways Act, 1989",
+      "The Consumer Protection Act",
+      "The Motor Vehicles Act"
+    ],
+    "correctAnswer": "The Railways Act, 1989"
   }
 ]

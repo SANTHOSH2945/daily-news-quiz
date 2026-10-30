@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which ISRO facility, located in Andhra Pradesh, was the launch site for the recent GSLV-F18/NVS-03 mission?",
-    "options": [
-      "Vikram Sarabhai Space Centre (VSSC)",
-      "Satish Dhawan Space Centre (SDSC-SHAR)",
-      "ISRO Propulsion Complex (IPRC)",
-      "Space Applications Centre (SAC)"
-    ],
-    "correctAnswer": "Satish Dhawan Space Centre (SDSC-SHAR)"
+    "question": "The national Digital Personal Data Protection Act, applicable across all Indian states including Telangana and Andhra Pradesh, primarily focuses on protecting what?",
+    "options": ["Government secrets", "Personal digital data", "Corporate intellectual property", "National security information"],
+    "correctAnswer": "Personal digital data"
   },
   {
     "id": 2,
-    "question": "The NVS-03 satellite, launched from Sriharikota, is designed to boost which Indian satellite navigation constellation?",
-    "options": [
-      "IRNSS",
-      "GPS",
-      "Galileo",
-      "NavIC"
-    ],
-    "correctAnswer": "NavIC"
+    "question": "The central government's flexibility regarding the Digital Personal Data Protection Act (DPDP Act) impacts data handling by state bodies. What kind of entity within the Telangana or Andhra Pradesh government would be considered a 'Data Fiduciary' under this act?",
+    "options": ["A state library", "A private school", "A government department collecting citizen data", "A local cultural society"],
+    "correctAnswer": "A government department collecting citizen data"
   },
   {
     "id": 3,
-    "question": "What was the name of the next-generation navigation satellite successfully placed into orbit from Satish Dhawan Space Centre?",
-    "options": [
-      "GSAT-24",
-      "EOS-06",
-      "NVS-03",
-      "INSAT-3DR"
-    ],
-    "correctAnswer": "NVS-03"
+    "question": "For a citizen in Andhra Pradesh concerned about their digital privacy, which fundamental right is most directly safeguarded by laws like the Digital Personal Data Protection Act?",
+    "options": ["Right to freedom of speech", "Right to equality", "Right to privacy", "Right to education"],
+    "correctAnswer": "Right to privacy"
   },
   {
     "id": 4,
-    "question": "Which launch vehicle was used for the recent GSLV-F18/NVS-03 mission from Sriharikota?",
-    "options": [
-      "PSLV-C56",
-      "LVM3-M4",
-      "GSLV-F18",
-      "SSLV-D2"
-    ],
-    "correctAnswer": "GSLV-F18"
+    "question": "Compliance with national data privacy laws, such as the Digital Personal Data Protection Act, requires state governments like Telangana to establish robust internal mechanisms. Which of the following is a key requirement for data fiduciaries under this act?",
+    "options": ["Only store data physically", "Obtain consent for data processing", "Share data freely with private entities", "Destroy all data after 24 hours"],
+    "correctAnswer": "Obtain consent for data processing"
   },
   {
     "id": 5,
-    "question": "Sriharikota, the launch site for ISRO's NVS-03 mission, is located in which Indian state?",
-    "options": [
-      "Odisha",
-      "Kerala",
-      "Tamil Nadu",
-      "Andhra Pradesh"
-    ],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The Supreme Court's observation on the misuse of rape law (Section 376 IPC) is significant for judicial proceedings across all states, including Telangana and Andhra Pradesh. Which section of the Indian Penal Code (IPC) primarily deals with the offense of rape?",
+    "options": ["Section 302", "Section 376", "Section 420", "Section 144"],
+    "correctAnswer": "Section 376"
   },
   {
     "id": 6,
-    "question": "What is the primary function of the NVS-03 satellite, which was recently launched by ISRO?",
-    "options": [
-      "Earth observation",
-      "Communication",
-      "Weather monitoring",
-      "Next-generation navigation"
-    ],
-    "correctAnswer": "Next-generation navigation"
+    "question": "How might the Supreme Court's observation on the 'weaponization' of rape law influence the approach of law enforcement agencies and the judiciary in states like Andhra Pradesh?",
+    "options": ["Encourage automatic conviction", "Promote stricter bail conditions", "Call for more careful scrutiny of complaints", "Recommend harsher penalties"],
+    "correctAnswer": "Call for more careful scrutiny of complaints"
   },
   {
     "id": 7,
-    "question": "What was the approximate weight of the NVS-03 satellite that GSLV-F18 placed into orbit?",
-    "options": [
-      "1,500 kg",
-      "2,000 kg",
-      "2,250 kg",
-      "2,500 kg"
-    ],
-    "correctAnswer": "2,250 kg"
+    "question": "In which specific court level within Telangana would serious criminal cases, including those related to sexual assault, typically be tried at the first instance?",
+    "options": ["Supreme Court", "High Court", "Sessions Court", "Gram Panchayat Court"],
+    "correctAnswer": "Sessions Court"
   },
   {
     "id": 8,
-    "question": "The NVS-03 satellite was placed into which type of initial orbit?",
-    "options": [
-      "Low Earth Orbit (LEO)",
-      "Sun-Synchronous Orbit (SSO)",
-      "Geosynchronous Transfer Orbit (GTO)",
-      "Polar Orbit (PO)"
-    ],
-    "correctAnswer": "Geosynchronous Transfer Orbit (GTO)"
+    "question": "The broader implication of the Supreme Court's stance on the weaponization of laws for the justice system in Indian states like Telangana and Andhra Pradesh is to ensure what?",
+    "options": ["Quicker disposal of all cases", "Fairness and prevent abuse of legal provisions", "Increased convictions", "Reduced workload for police"],
+    "correctAnswer": "Fairness and prevent abuse of legal provisions"
   },
   {
     "id": 9,
-    "question": "How many minutes after lift-off was the NVS-03 satellite placed into its initial orbit by the GSLV-F18?",
-    "options": [
-      "Approximately 10 minutes",
-      "Around 18 minutes",
-      "About 25 minutes",
-      "Around 30 minutes"
-    ],
-    "correctAnswer": "Around 18 minutes"
+    "question": "The central government's directive to withdraw certain cases aims to reduce judicial backlog. How would this initiative likely benefit the state judicial systems in Telangana and Andhra Pradesh?",
+    "options": ["Increase government revenue", "Reduce burden on courts", "Promote political interference", "Enhance public dissatisfaction"],
+    "correctAnswer": "Reduce burden on courts"
   },
   {
     "id": 10,
-    "question": "What does the acronym \"NavIC\" stand for, which is being enhanced by satellites like NVS-03?",
-    "options": [
-      "National Aviation Vehicle Identification Code",
-      "Navigation with Indian Constellation",
-      "Navigational Aid for Indian Carriers",
-      "Network for Advanced Vehicle Information and Control"
-    ],
-    "correctAnswer": "Navigation with Indian Constellation"
+    "question": "Which of the following types of cases is the central government most likely aiming to withdraw from various courts to ease the judicial burden, a move that would also impact state courts in Andhra Pradesh?",
+    "options": ["Serious crimes like murder", "Constitutional disputes", "Minor offenses or cases with small penalties", "High-profile corruption cases"],
+    "correctAnswer": "Minor offenses or cases with small penalties"
   },
   {
     "id": 11,
-    "question": "What does \"SDSC\" in Satish Dhawan Space Centre (SDSC-SHAR) primarily denote?",
-    "options": [
-      "Space Development & Science Centre",
-      "Satellite Data & System Centre",
-      "Satish Dhawan Space Centre",
-      "Sriharikota Data Service Centre"
-    ],
-    "correctAnswer": "Satish Dhawan Space Centre"
+    "question": "In Telangana, which state government department would primarily be responsible for reviewing and recommending the withdrawal of cases under its purview as per a central directive?",
+    "options": ["Ministry of Finance", "Ministry of Education", "Law Department", "Department of Tourism"],
+    "correctAnswer": "Law Department"
   },
   {
     "id": 12,
-    "question": "Which component of the NavIC constellation did the NVS-03 satellite add to?",
-    "options": [
-      "Meteorological satellite",
-      "Communication satellite",
-      "Earth observation satellite",
-      "Next-generation navigation satellite"
-    ],
-    "correctAnswer": "Next-generation navigation satellite"
+    "question": "The concept of withdrawing certain cases from courts is associated with enhancing which aspect of the justice delivery system in states like Andhra Pradesh?",
+    "options": ["Judicial independence", "Judicial efficiency", "Judicial activism", "Judicial review"],
+    "correctAnswer": "Judicial efficiency"
   },
   {
     "id": 13,
-    "question": "The GSLV-F18 mission successfully launched a satellite from Sriharikota. What does \"GSLV\" stand for?",
-    "options": [
-      "Geospatial Satellite Launch Vehicle",
-      "Global Satellite Launching Vehicle",
-      "Geosynchronous Satellite Launch Vehicle",
-      "Geostationary Satellite Logistics Vehicle"
-    ],
-    "correctAnswer": "Geosynchronous Satellite Launch Vehicle"
+    "question": "The upcoming Census 2027 will involve a record 50-day enumeration phase. What is the primary purpose of conducting a national census in India, and how does it specifically aid states like Telangana and Andhra Pradesh?",
+    "options": ["To elect new political leaders", "To collect comprehensive demographic and socio-economic data for planning", "To conduct public opinion polls", "To regulate international trade"],
+    "correctAnswer": "To collect comprehensive demographic and socio-economic data for planning"
   },
   {
     "id": 14,
-    "question": "The Satish Dhawan Space Centre is situated on an island named Sriharikota. Which district in Andhra Pradesh is this island primarily associated with?",
-    "options": [
-      "Visakhapatnam District",
-      "Krishna District",
-      "Nellore District",
-      "Guntur District"
-    ],
-    "correctAnswer": "Nellore District"
+    "question": "Which central government body is primarily responsible for conducting the Census of India, including the enumeration in states such as Andhra Pradesh?",
+    "options": ["Election Commission of India", "NITI Aayog", "Registrar General and Census Commissioner of India", "Ministry of Statistics and Programme Implementation"],
+    "correctAnswer": "Registrar General and Census Commissioner of India"
   },
   {
     "id": 15,
-    "question": "What was the full designation of the specific GSLV mission that carried the NVS-03 satellite?",
-    "options": [
-      "GSLV-Mk III",
-      "GSLV-F10",
-      "GSLV-F18",
-      "GSLV-D5"
-    ],
-    "correctAnswer": "GSLV-F18"
+    "question": "For the Census 2027, what kind of data is most crucial for states like Telangana to plan for future resource allocation and developmental projects?",
+    "options": ["Number of tourist attractions", "Agricultural output", "Population size, distribution, age, gender, and literacy rates", "Foreign investments received"],
+    "correctAnswer": "Population size, distribution, age, gender, and literacy rates"
   },
   {
     "id": 16,
-    "question": "The NVS-03 mission aims to provide enhanced services for which indigenous regional satellite navigation system?",
-    "options": [
-      "BeiDou",
-      "GLONASS",
-      "NavIC",
-      "QZSS"
-    ],
-    "correctAnswer": "NavIC"
+    "question": "Historically, how frequently is the population census conducted in India, a process that includes detailed enumeration in states like Telangana and Andhra Pradesh?",
+    "options": ["Every 5 years", "Every 10 years", "Every 15 years", "Every 20 years"],
+    "correctAnswer": "Every 10 years"
   },
   {
     "id": 17,
-    "question": "What was the apogee of the Geosynchronous Transfer Orbit (GTO) for the NVS-03 satellite as mentioned in the launch details?",
-    "options": [
-      "170 km",
-      "36,000 km",
-      "37,023 km",
-      "42,164 km"
-    ],
-    "correctAnswer": "37,023 km"
+    "question": "In the previous Census 2011, which key demographic indicator was collected that directly influences political representation for states like Andhra Pradesh in the Lok Sabha and State Assemblies?",
+    "options": ["Literacy rate", "Total population", "Economic status", "Religious composition"],
+    "correctAnswer": "Total population"
   },
   {
     "id": 18,
-    "question": "What was the perigee of the Geosynchronous Transfer Orbit (GTO) for the NVS-03 satellite?",
-    "options": [
-      "100 km",
-      "170 km",
-      "250 km",
-      "300 km"
-    ],
-    "correctAnswer": "170 km"
+    "question": "The EWS reservation for postgraduate seats in private colleges, as highlighted, is a national policy. What does EWS stand for in the context of Indian reservation policy, applicable to states like Telangana and Andhra Pradesh?",
+    "options": ["Economically Weaker Sections", "Education and Welfare Society", "Essential Worker Scheme", "Environmental Water Systems"],
+    "correctAnswer": "Economically Weaker Sections"
   },
   {
     "id": 19,
-    "question": "Which launch pad at the Satish Dhawan Space Centre was used for the GSLV-F18/NVS-03 lift-off?",
-    "options": [
-      "First launch pad",
-      "Second launch pad",
-      "Third launch pad",
-      "Vehicle Assembly Building"
-    ],
-    "correctAnswer": "Second launch pad"
+    "question": "What is the percentage of reservation generally allocated for the Economically Weaker Sections (EWS) in central government institutions, a policy framework that states like Telangana often adapt or consider?",
+    "options": ["5%", "10%", "15%", "20%"],
+    "correctAnswer": "10%"
   },
   {
     "id": 20,
-    "question": "The NVS-03 satellite launch, boosting NavIC, contributes to India's self-reliance in which critical technology area?",
-    "options": [
-      "Remote sensing",
-      "Telecommunication",
-      "Satellite navigation",
-      "Weather forecasting"
-    ],
-    "correctAnswer": "Satellite navigation"
+    "question": "Which of the following criteria is not typically considered for EWS eligibility in states like Andhra Pradesh under the central government's guidelines?",
+    "options": ["Annual family income", "Agricultural land ownership", "Residential flat area", "Caste (as EWS is distinct from OBC/SC/ST)"],
+    "correctAnswer": "Caste (as EWS is distinct from OBC/SC/ST)"
   },
   {
     "id": 21,
-    "question": "At which international meeting did EAM Jaishankar recently express concerns about attacks on ships and Indian seafarers?",
-    "options": [
-      "BRICS Summit",
-      "G7 Summit",
-      "G20 meet",
-      "UN General Assembly"
-    ],
-    "correctAnswer": "G20 meet"
+    "question": "How does the EWS quota aim to promote social equity in higher education across states, including Telangana and Andhra Pradesh?",
+    "options": ["By reserving seats for wealthy individuals", "By providing opportunities for financially disadvantaged non-reserved categories", "By increasing tuition fees for all", "By reducing overall seats in colleges"],
+    "correctAnswer": "By providing opportunities for financially disadvantaged non-reserved categories"
   },
   {
     "id": 22,
-    "question": "EAM Jaishankar highlighted the burden on the \"Global South\" due to attacks on ships and Indian seafarers in which specific waterway?",
-    "options": [
-      "Suez Canal",
-      "Malacca Strait",
-      "Strait of Hormuz",
-      "Bab-el-Mandeb"
-    ],
-    "correctAnswer": "Strait of Hormuz"
+    "question": "The significant increase in cancer drug margins affects healthcare accessibility across India. Which central government body is primarily responsible for regulating drug prices in India, impacting their availability and cost in states like Telangana and Andhra Pradesh?",
+    "options": ["Ministry of Health and Family Welfare", "National Pharmaceutical Pricing Authority (NPPA)", "Indian Medical Association (IMA)", "Drug Controller General of India (DCGI)"],
+    "correctAnswer": "National Pharmaceutical Pricing Authority (NPPA)"
   },
   {
     "id": 23,
-    "question": "Which Indian minister recently raised concerns about the \"Global South\" bearing the burden of global issues at a G20 meet?",
-    "options": [
-      "Nirmala Sitharaman",
-      "Piyush Goyal",
-      "EAM S. Jaishankar",
-      "Amit Shah"
-    ],
-    "correctAnswer": "EAM S. Jaishankar"
+    "question": "What is a common challenge faced by healthcare systems in states like Andhra Pradesh due to high margins on essential medicines like cancer drugs?",
+    "options": ["Over-prescription of drugs", "Increased accessibility for rural populations", "Affordability issues for patients, leading to unmet medical needs", "Reduced demand for generic medicines"],
+    "correctAnswer": "Affordability issues for patients, leading to unmet medical needs"
   },
   {
     "id": 24,
-    "question": "Which government body recently announced a special stray vacancy round to fill approximately 2,000 vacant MBBS seats across India?",
-    "options": [
-      "National Medical Commission (NMC)",
-      "Medical Council of India (MCI)",
-      "DGHS (Directorate General of Health Services)",
-      "Ministry of Health and Family Welfare"
-    ],
-    "correctAnswer": "DGHS (Directorate General of Health Services)"
+    "question": "What kind of initiative can state governments in regions like Andhra Pradesh undertake to mitigate the impact of high cancer drug costs on their citizens?",
+    "options": ["Restrict all drug imports", "Implement state-funded health insurance schemes or procurement of generic drugs", "Close down private hospitals", "Increase taxes on all medical supplies"],
+    "correctAnswer": "Implement state-funded health insurance schemes or procurement of generic drugs"
   },
   {
     "id": 25,
-    "question": "When is the next population enumeration for India (Census 2027) scheduled to take place?",
-    "options": [
-      "March 1 - April 30, 2026",
-      "January 25 - February 28, 2027",
-      "June 1 - July 31, 2027",
-      "October 1 - November 30, 2028"
-    ],
-    "correctAnswer": "January 25 - February 28, 2027"
+    "question": "The World Bank's projection on India's poverty reduction is a positive national trend. Which key economic indicator is often used to measure poverty levels in states like Telangana and Andhra Pradesh?",
+    "options": ["Gross State Domestic Product (GSDP)", "Headcount Ratio (HCR) based on consumption expenditure", "Inflation rate", "Foreign Direct Investment (FDI)"],
+    "correctAnswer": "Headcount Ratio (HCR) based on consumption expenditure"
   }
 ]

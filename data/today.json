@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "According to the news, what is the full form of the rural employment scheme MGNREGA, highly relevant for states like Telangana and Andhra Pradesh?",
-    "options": ["Mahatma Gandhi National Rural Employment Guarantee Act", "Manpower Generation National Rural Empowerment Grant Act", "Modernization of Government National Rural Economic Growth Act", "Mandated Green National Rural Environment and Growth Act"],
-    "correctAnswer": "Mahatma Gandhi National Rural Employment Guarantee Act"
+    "question": "Which ISRO facility, located in Andhra Pradesh, was the launch site for the recent GSLV-F18/NVS-03 mission?",
+    "options": [
+      "Vikram Sarabhai Space Centre (VSSC)",
+      "Satish Dhawan Space Centre (SDSC-SHAR)",
+      "ISRO Propulsion Complex (IPRC)",
+      "Space Applications Centre (SAC)"
+    ],
+    "correctAnswer": "Satish Dhawan Space Centre (SDSC-SHAR)"
   },
   {
     "id": 2,
-    "question": "What primary objective does MGNREGA serve, as highlighted by Jairam Ramesh in his criticism regarding rural welfare in India, including states like Telangana and Andhra Pradesh?",
-    "options": ["Providing urban infrastructure development", "Serving as a rural safety net", "Promoting industrial growth in villages", "Subsidizing agricultural exports"],
-    "correctAnswer": "Serving as a rural safety net"
+    "question": "The NVS-03 satellite, launched from Sriharikota, is designed to boost which Indian satellite navigation constellation?",
+    "options": [
+      "IRNSS",
+      "GPS",
+      "Galileo",
+      "NavIC"
+    ],
+    "correctAnswer": "NavIC"
   },
   {
     "id": 3,
-    "question": "Who criticized the proposed replacement for MGNREGA, calling it a 'surgical strike' on the rural safety net in India, a scheme vital for states like Telangana and Andhra Pradesh?",
-    "options": ["Prime Minister Narendra Modi", "Defense Minister Rajnath Singh", "Jairam Ramesh", "Mohan Bhagwat"],
-    "correctAnswer": "Jairam Ramesh"
+    "question": "What was the name of the next-generation navigation satellite successfully placed into orbit from Satish Dhawan Space Centre?",
+    "options": [
+      "GSAT-24",
+      "EOS-06",
+      "NVS-03",
+      "INSAT-3DR"
+    ],
+    "correctAnswer": "NVS-03"
   },
   {
     "id": 4,
-    "question": "In the context of MGNREGA, what does the criticism by Jairam Ramesh primarily focus on for its potential replacement, impacting rural areas in states like Telangana and Andhra Pradesh?",
-    "options": ["Increasing administrative overhead", "Undermining the rural safety net", "Lack of funding for urban areas", "Overemphasis on digital payments"],
-    "correctAnswer": "Undermining the rural safety net"
+    "question": "Which launch vehicle was used for the recent GSLV-F18/NVS-03 mission from Sriharikota?",
+    "options": [
+      "PSLV-C56",
+      "LVM3-M4",
+      "GSLV-F18",
+      "SSLV-D2"
+    ],
+    "correctAnswer": "GSLV-F18"
   },
   {
     "id": 5,
-    "question": "Which sector of the population is primarily targeted for employment benefits by MGNREGA, a scheme whose functioning is crucial for the rural economies of Telangana and Andhra Pradesh?",
-    "options": ["Urban skilled workers", "Rural households with adult members willing to do unskilled manual work", "Industrial sector employees", "Government administrative staff"],
-    "correctAnswer": "Rural households with adult members willing to do unskilled manual work"
+    "question": "Sriharikota, the launch site for ISRO's NVS-03 mission, is located in which Indian state?",
+    "options": [
+      "Odisha",
+      "Kerala",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 6,
-    "question": "MGNREGA guarantees a certain number of days of employment in a financial year to rural households. How many days are generally guaranteed under this scheme, which is implemented in states like Telangana and Andhra Pradesh?",
-    "options": ["50 days", "75 days", "100 days", "150 days"],
-    "correctAnswer": "100 days"
+    "question": "What is the primary function of the NVS-03 satellite, which was recently launched by ISRO?",
+    "options": [
+      "Earth observation",
+      "Communication",
+      "Weather monitoring",
+      "Next-generation navigation"
+    ],
+    "correctAnswer": "Next-generation navigation"
   },
   {
     "id": 7,
-    "question": "The news reports a political debate regarding MGNREGA's future. What kind of political leader was Jairam Ramesh identified as in the context of this criticism?",
-    "options": ["A Union Minister", "A State Chief Minister", "A Congress leader", "A Supreme Court Justice"],
-    "correctAnswer": "A Congress leader"
+    "question": "What was the approximate weight of the NVS-03 satellite that GSLV-F18 placed into orbit?",
+    "options": [
+      "1,500 kg",
+      "2,000 kg",
+      "2,250 kg",
+      "2,500 kg"
+    ],
+    "correctAnswer": "2,250 kg"
   },
   {
     "id": 8,
-    "question": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) provides a legal guarantee for which type of work?",
-    "options": ["Skilled professional work", "Agricultural supervisory roles", "Unskilled manual work", "IT and software development"],
-    "correctAnswer": "Unskilled manual work"
+    "question": "The NVS-03 satellite was placed into which type of initial orbit?",
+    "options": [
+      "Low Earth Orbit (LEO)",
+      "Sun-Synchronous Orbit (SSO)",
+      "Geosynchronous Transfer Orbit (GTO)",
+      "Polar Orbit (PO)"
+    ],
+    "correctAnswer": "Geosynchronous Transfer Orbit (GTO)"
   },
   {
     "id": 9,
-    "question": "What does the term 'surgical strike' used by Jairam Ramesh imply in his criticism of the proposed MGNREGA replacement, regarding its impact on rural areas in states like Telangana and Andhra Pradesh?",
-    "options": ["A highly precise and beneficial policy change", "A sudden and damaging attack on the existing system", "A phased and strategic improvement", "A collaborative effort for reform"],
-    "correctAnswer": "A sudden and damaging attack on the existing system"
+    "question": "How many minutes after lift-off was the NVS-03 satellite placed into its initial orbit by the GSLV-F18?",
+    "options": [
+      "Approximately 10 minutes",
+      "Around 18 minutes",
+      "About 25 minutes",
+      "Around 30 minutes"
+    ],
+    "correctAnswer": "Around 18 minutes"
   },
   {
     "id": 10,
-    "question": "Beyond providing employment, what broader socio-economic benefit is MGNREGA designed to achieve for rural communities in states like Telangana and Andhra Pradesh, as suggested by its description as a 'safety net'?",
-    "options": ["Promote migration to urban areas", "Increase reliance on private industries", "Reduce rural poverty and distress", "Encourage large-scale farming"],
-    "correctAnswer": "Reduce rural poverty and distress"
+    "question": "What does the acronym \"NavIC\" stand for, which is being enhanced by satellites like NVS-03?",
+    "options": [
+      "National Aviation Vehicle Identification Code",
+      "Navigation with Indian Constellation",
+      "Navigational Aid for Indian Carriers",
+      "Network for Advanced Vehicle Information and Control"
+    ],
+    "correctAnswer": "Navigation with Indian Constellation"
   },
   {
     "id": 11,
-    "question": "Which organization's 'Sthapana Divas' (Founding Day) was celebrated, featuring a speech by Mohan Bhagwat that garnered praise from PM Modi and emphasized themes relevant to national development, including in states like Telangana and Andhra Pradesh?",
-    "options": ["Indian National Congress", "Rashtriya Swayamsevak Sangh (RSS)", "Bharatiya Janata Party (BJP)", "Communist Party of India (Marxist)"],
-    "correctAnswer": "Rashtriya Swayamsevak Sangh (RSS)"
+    "question": "What does \"SDSC\" in Satish Dhawan Space Centre (SDSC-SHAR) primarily denote?",
+    "options": [
+      "Space Development & Science Centre",
+      "Satellite Data & System Centre",
+      "Satish Dhawan Space Centre",
+      "Sriharikota Data Service Centre"
+    ],
+    "correctAnswer": "Satish Dhawan Space Centre"
   },
   {
     "id": 12,
-    "question": "Who is the current chief of the Rashtriya Swayamsevak Sangh (RSS), whose speeches on national growth and self-reliance hold significance across India, including Telangana and Andhra Pradesh?",
-    "options": ["Narendra Modi", "Rajnath Singh", "Mohan Bhagwat", "Jairam Ramesh"],
-    "correctAnswer": "Mohan Bhagwat"
+    "question": "Which component of the NavIC constellation did the NVS-03 satellite add to?",
+    "options": [
+      "Meteorological satellite",
+      "Communication satellite",
+      "Earth observation satellite",
+      "Next-generation navigation satellite"
+    ],
+    "correctAnswer": "Next-generation navigation satellite"
   },
   {
     "id": 13,
-    "question": "What key theme related to national progress and economic development, applicable to all states including Telangana and Andhra Pradesh, was emphasized by Mohan Bhagwat in his speech at the RSS centenary celebrations?",
-    "options": ["Globalization at all costs", "Dependence on foreign aid", "Self-reliance and Swadeshi movement", "Rapid urbanization without rural focus"],
-    "correctAnswer": "Self-reliance and Swadeshi movement"
+    "question": "The GSLV-F18 mission successfully launched a satellite from Sriharikota. What does \"GSLV\" stand for?",
+    "options": [
+      "Geospatial Satellite Launch Vehicle",
+      "Global Satellite Launching Vehicle",
+      "Geosynchronous Satellite Launch Vehicle",
+      "Geostationary Satellite Logistics Vehicle"
+    ],
+    "correctAnswer": "Geosynchronous Satellite Launch Vehicle"
   },
   {
     "id": 14,
-    "question": "Besides Prime Minister Modi, which high-ranking dignitary attended the RSS Vijayadashami event where Mohan Bhagwat spoke about 'Svabodh' and national unity, concepts widely discussed across India?",
-    "options": ["The President of India", "The Vice President of India", "The Chief Justice of India", "The Speaker of Lok Sabha"],
-    "correctAnswer": "The Vice President of India"
+    "question": "The Satish Dhawan Space Centre is situated on an island named Sriharikota. Which district in Andhra Pradesh is this island primarily associated with?",
+    "options": [
+      "Visakhapatnam District",
+      "Krishna District",
+      "Nellore District",
+      "Guntur District"
+    ],
+    "correctAnswer": "Nellore District"
   },
   {
     "id": 15,
-    "question": "Mohan Bhagwat cited Captain Smit Machchhar in his Vijayadashami speech to highlight certain values. What aspect of individual character or societal contribution was likely emphasized through this citation, relevant to citizens nationwide, including Telangana and Andhra Pradesh?",
-    "options": ["Aggressive competition", "Self-awareness and noble values", "Material wealth accumulation", "Political activism"],
-    "correctAnswer": "Self-awareness and noble values"
+    "question": "What was the full designation of the specific GSLV mission that carried the NVS-03 satellite?",
+    "options": [
+      "GSLV-Mk III",
+      "GSLV-F10",
+      "GSLV-F18",
+      "GSLV-D5"
+    ],
+    "correctAnswer": "GSLV-F18"
   },
   {
     "id": 16,
-    "question": "The RSS chief's speech touched upon 'Svabodh'. In the context of national unity and individual contribution across India, including states like Telangana and Andhra Pradesh, what does 'Svabodh' broadly refer to?",
-    "options": ["Self-interest", "Self-awareness or understanding of one's true self", "External knowledge", "Economic self-sufficiency"],
-    "correctAnswer": "Self-awareness or understanding of one's true self"
+    "question": "The NVS-03 mission aims to provide enhanced services for which indigenous regional satellite navigation system?",
+    "options": [
+      "BeiDou",
+      "GLONASS",
+      "NavIC",
+      "QZSS"
+    ],
+    "correctAnswer": "NavIC"
   },
   {
     "id": 17,
-    "question": "Mohan Bhagwat acknowledged the vital roles of historical figures in fostering a specific kind of unity among Indians in his speech. What type of unity was highlighted as important for the nation, including its diverse regions like Telangana and Andhra Pradesh?",
-    "options": ["Economic unity", "Political party unity", "Spiritual unity", "Technological unity"],
-    "correctAnswer": "Spiritual unity"
+    "question": "What was the apogee of the Geosynchronous Transfer Orbit (GTO) for the NVS-03 satellite as mentioned in the launch details?",
+    "options": [
+      "170 km",
+      "36,000 km",
+      "37,023 km",
+      "42,164 km"
+    ],
+    "correctAnswer": "37,023 km"
   },
   {
     "id": 18,
-    "question": "According to the news, what is the primary focus of the young innovators who impressed juries with their ideas, a trend highly relevant to the burgeoning tech and startup ecosystem in states like Telangana and Andhra Pradesh?",
-    "options": ["Developing luxury goods", "Solving real-world challenges", "Creating abstract art", "Reviving ancient technologies"],
-    "correctAnswer": "Solving real-world challenges"
+    "question": "What was the perigee of the Geosynchronous Transfer Orbit (GTO) for the NVS-03 satellite?",
+    "options": [
+      "100 km",
+      "170 km",
+      "250 km",
+      "300 km"
+    ],
+    "correctAnswer": "170 km"
   },
   {
     "id": 19,
-    "question": "Which type of skills are particularly crucial for young innovators in regions like Telangana and Andhra Pradesh to impress juries with their solutions for real-world problems?",
-    "options": ["Manual labor skills", "Academic theoretical knowledge only", "Creativity, problem-solving, and presentation skills", "Political lobbying skills"],
-    "correctAnswer": "Creativity, problem-solving, and presentation skills"
+    "question": "Which launch pad at the Satish Dhawan Space Centre was used for the GSLV-F18/NVS-03 lift-off?",
+    "options": [
+      "First launch pad",
+      "Second launch pad",
+      "Third launch pad",
+      "Vehicle Assembly Building"
+    ],
+    "correctAnswer": "Second launch pad"
   },
   {
     "id": 20,
-    "question": "In the context of nurturing innovation, what role do 'juries' typically play in events involving young innovators in states with vibrant startup scenes like Telangana and Andhra Pradesh?",
-    "options": ["Funding all projects indiscriminately", "Providing direct employment to innovators", "Evaluating ideas and providing feedback/recognition", "Dictating the innovation topics"],
-    "correctAnswer": "Evaluating ideas and providing feedback/recognition"
+    "question": "The NVS-03 satellite launch, boosting NavIC, contributes to India's self-reliance in which critical technology area?",
+    "options": [
+      "Remote sensing",
+      "Telecommunication",
+      "Satellite navigation",
+      "Weather forecasting"
+    ],
+    "correctAnswer": "Satellite navigation"
   },
   {
     "id": 21,
-    "question": "The encouragement of young innovators across India, including states known for their tech prowess like Telangana and Andhra Pradesh, aligns with which broader national goal?",
-    "options": ["Increasing reliance on imported technology", "Promoting brain drain", "Fostering indigenous solutions and national growth", "Discouraging academic pursuits"],
-    "correctAnswer": "Fostering indigenous solutions and national growth"
+    "question": "At which international meeting did EAM Jaishankar recently express concerns about attacks on ships and Indian seafarers?",
+    "options": [
+      "BRICS Summit",
+      "G7 Summit",
+      "G20 meet",
+      "UN General Assembly"
+    ],
+    "correctAnswer": "G20 meet"
   },
   {
     "id": 22,
-    "question": "What is a common characteristic of the 'real-world challenges' that young innovators in India, including those from Telangana and Andhra Pradesh, aim to solve?",
-    "options": ["They are exclusively theoretical problems", "They often involve societal, environmental, or economic issues", "They are limited to entertainment industry problems", "They primarily focus on military applications"],
-    "correctAnswer": "They often involve societal, environmental, or economic issues"
+    "question": "EAM Jaishankar highlighted the burden on the \"Global South\" due to attacks on ships and Indian seafarers in which specific waterway?",
+    "options": [
+      "Suez Canal",
+      "Malacca Strait",
+      "Strait of Hormuz",
+      "Bab-el-Mandeb"
+    ],
+    "correctAnswer": "Strait of Hormuz"
   },
   {
     "id": 23,
-    "question": "Given its focus on rural employment, which Union Ministry in India is primarily responsible for the implementation and oversight of schemes like MGNREGA, vital for the rural populations of Telangana and Andhra Pradesh?",
-    "options": ["Ministry of Finance", "Ministry of Urban Development", "Ministry of Rural Development", "Ministry of External Affairs"],
-    "correctAnswer": "Ministry of Rural Development"
+    "question": "Which Indian minister recently raised concerns about the \"Global South\" bearing the burden of global issues at a G20 meet?",
+    "options": [
+      "Nirmala Sitharaman",
+      "Piyush Goyal",
+      "EAM S. Jaishankar",
+      "Amit Shah"
+    ],
+    "correctAnswer": "EAM S. Jaishankar"
   },
   {
     "id": 24,
-    "question": "The concept of 'self-reliance' (Atmanirbharta), often discussed in national speeches, aims to achieve what for India and its states, including Telangana and Andhra Pradesh?",
-    "options": ["Increased dependence on foreign manufacturing", "Economic and technological independence", "Reduced domestic production", "Prioritizing imports over local goods"],
-    "correctAnswer": "Economic and technological independence"
+    "question": "Which government body recently announced a special stray vacancy round to fill approximately 2,000 vacant MBBS seats across India?",
+    "options": [
+      "National Medical Commission (NMC)",
+      "Medical Council of India (MCI)",
+      "DGHS (Directorate General of Health Services)",
+      "Ministry of Health and Family Welfare"
+    ],
+    "correctAnswer": "DGHS (Directorate General of Health Services)"
   },
   {
     "id": 25,
-    "question": "The celebration of 'Sthapana Divas' by a national organization across India, including in states like Telangana and Andhra Pradesh, primarily serves what purpose?",
-    "options": ["To elect new leaders", "To commemorate its founding and reaffirm its principles", "To launch new political parties", "To announce new government policies"],
-    "correctAnswer": "To commemorate its founding and reaffirm its principles"
+    "question": "When is the next population enumeration for India (Census 2027) scheduled to take place?",
+    "options": [
+      "March 1 - April 30, 2026",
+      "January 25 - February 28, 2027",
+      "June 1 - July 31, 2027",
+      "October 1 - November 30, 2028"
+    ],
+    "correctAnswer": "January 25 - February 28, 2027"
   }
 ]

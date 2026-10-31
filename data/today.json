@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which high-ranking election official is the target of a 'public impeachment' event announced by the INDIA bloc?",
-    "options": ["Rajiv Kumar", "Gyanesh Kumar", "Anup Chandra Pandey", "Om Prakash Rawat"],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "The National Investigation Agency (NIA) is a central agency in India primarily dealing with which type of cases?",
+    "options": ["Civil disputes", "Terrorism and national security", "Environmental violations", "Corporate fraud"],
+    "correctAnswer": "Terrorism and national security"
   },
   {
     "id": 2,
-    "question": "Who is the current Chief Election Commissioner of India whose neutrality has been publicly questioned by the INDIA bloc?",
-    "options": ["Sunil Arora", "Gyanesh Kumar", "Nasim Zaidi", "V.S. Sampath"],
-    "correctAnswer": "Gyanesh Kumar"
+    "question": "What is the primary function of a High Court in India regarding appeals in criminal cases?",
+    "options": ["To conduct initial investigations", "To try cases of petty offenses", "To hear appeals from lower courts and exercise revisional powers", "To draft new legislation"],
+    "correctAnswer": "To hear appeals from lower courts and exercise revisional powers"
   },
   {
     "id": 3,
-    "question": "Which political leader controversially questioned the CEC's neutrality, likening him to a 'biased match umpire'?",
-    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Sachin Pilot", "Arvind Kejriwal"],
-    "correctAnswer": "Sachin Pilot"
+    "question": "Justice Bhuyan, who recently commented on authoritarianism and societal fear of questions, previously served as the Chief Justice of which Indian High Court?",
+    "options": ["Bombay High Court", "Calcutta High Court", "Telangana High Court", "Madras High Court"],
+    "correctAnswer": "Telangana High Court"
   },
   {
     "id": 4,
-    "question": "The INDIA bloc's event concerning the Chief Election Commissioner was reported to be organized at whose residence?",
-    "options": ["Sonia Gandhi's", "Rahul Gandhi's", "Mallikarjun Kharge's", "Akhilesh Yadav's"],
-    "correctAnswer": "Mallikarjun Kharge's"
+    "question": "The statement 'Authoritarianism sets in when society fears questions' emphasizes the importance of which democratic principle?",
+    "options": ["Unquestioning obedience", "Freedom of speech and inquiry", "Centralized power", "Military strength"],
+    "correctAnswer": "Freedom of speech and inquiry"
   },
   {
     "id": 5,
-    "question": "At which prominent location in Delhi is the INDIA bloc rally, referred to as the 'Delhi Chalo' rally, scheduled to take place?",
-    "options": ["Jantar Mantar", "India Gate", "Ramlila Maidan", "Parliament House"],
-    "correctAnswer": "Ramlila Maidan"
+    "question": "In the context of Indian parliamentary democracy, what is the role of MLAs (Members of Legislative Assembly)?",
+    "options": ["To serve in the Rajya Sabha", "To represent constituencies in the state legislative assembly", "To be appointed as Supreme Court judges", "To govern Union Territories directly"],
+    "correctAnswer": "To represent constituencies in the state legislative assembly"
   },
   {
     "id": 6,
-    "question": "Who extended an invitation to people to 'walk together' ahead of the INDIA bloc rally at Ramlila Maidan?",
-    "options": ["Mallikarjun Kharge", "Rahul Gandhi", "Arvind Kejriwal", "Mamata Banerjee"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "Which prominent political party, recently mentioned for facing an internal revolt with demands for ministerial changes, is primarily active in Jammu & Kashmir?",
+    "options": ["Indian National Congress", "Bharatiya Janata Party", "National Conference", "Aam Aadmi Party"],
+    "correctAnswer": "National Conference"
   },
   {
     "id": 7,
-    "question": "Which Union Minister challenged the Congress with five questions in anticipation of the INDIA bloc's 'Delhi Chalo' rally?",
-    "options": ["Amit Shah", "Nitin Gadkari", "Kiren Rijiju", "Smriti Irani"],
-    "correctAnswer": "Kiren Rijiju"
+    "question": "The historic practice of 'Darbar Move' involves the seasonal shifting of government offices in which Indian Union Territory?",
+    "options": ["Puducherry", "Chandigarh", "Jammu & Kashmir", "Delhi"],
+    "correctAnswer": "Jammu & Kashmir"
   },
   {
     "id": 8,
-    "question": "What specific timing aspect of the INDIA bloc rally did the Vishwa Hindu Parishad (VHP) question?",
-    "options": ["Its proximity to elections", "Its clash with a festival", "Its morning schedule", "Its long duration"],
-    "correctAnswer": "Its clash with a festival"
+    "question": "Recent medical research is exploring the potential link between high blood sugar and the ability of which cells to fight cancer?",
+    "options": ["Red blood cells", "Nerve cells", "Immune cells", "Muscle cells"],
+    "correctAnswer": "Immune cells"
   },
   {
     "id": 9,
-    "question": "Which previous political march by Rahul Gandhi was recalled by the VHP in their statement regarding the INDIA bloc rally?",
-    "options": ["Kisan Yatra", "Nyay Yatra", "Bharat Jodo Yatra", "Sandesh Yatra"],
-    "correctAnswer": "Bharat Jodo Yatra"
+    "question": "What is the primary focus of studies investigating new clues for cancer treatment and immunity?",
+    "options": ["The effect of planetary alignments on health", "The role of dietary fats in obesity", "The interaction between metabolic states and immune responses", "The impact of climate change on disease vectors"],
+    "correctAnswer": "The interaction between metabolic states and immune responses"
   },
   {
     "id": 10,
-    "question": "The concerns over the CEC's neutrality directly relate to the functioning of which constitutional body in India?",
-    "options": ["Supreme Court of India", "NITI Aayog", "Election Commission of India", "Union Public Service Commission"],
-    "correctAnswer": "Election Commission of India"
+    "question": "The Line of Control (LoC) demarcates the de facto boundary between India and which neighboring country?",
+    "options": ["China", "Nepal", "Pakistan", "Bangladesh"],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 11,
-    "question": "The INDIA bloc is a coalition of several political parties at what level of Indian politics?",
-    "options": ["State-level", "Local-level", "National-level", "Regional-level"],
-    "correctAnswer": "National-level"
+    "question": "Which prominent Islamic organization in India recently passed resolutions concerning hate crimes and the 'demographic jihad' narrative?",
+    "options": ["Jamaat-e-Islami Hind", "Jamiat Ulema-e-Hind", "All India Muslim Personal Law Board", "Islamic Cultural Centre of India"],
+    "correctAnswer": "Jamiat Ulema-e-Hind"
   },
   {
     "id": 12,
-    "question": "What was the central accusation leveled by Sachin Pilot against the Chief Election Commissioner?",
-    "options": ["Lack of experience", "Partisan bias", "Ineffective leadership", "Misuse of funds"],
-    "correctAnswer": "Partisan bias"
+    "question": "The rising incidents of hate speech in India, as discussed by a religious council, raise concerns about the responsibilities of which government agencies?",
+    "options": ["Forest and wildlife departments", "Law enforcement agencies", "Public works departments", "Revenue collection agencies"],
+    "correctAnswer": "Law enforcement agencies"
   },
   {
     "id": 13,
-    "question": "What is the full form of the political alliance frequently mentioned in the news regarding its rally in Delhi?",
-    "options": ["Indian National Democratic Alliance", "Indian National Developmental Inclusive Alliance", "Integrated National Democratic Alliance", "India's New Democratic Alliance"],
-    "correctAnswer": "Indian National Developmental Inclusive Alliance"
+    "question": "What percentage of reported hate speech incidents over the past year were alleged to lack FIR registration, as highlighted in a recent resolution by Jamiat Ulema-e-Hind?",
+    "options": ["Approximately 25%", "Approximately 50%", "Approximately 70%", "Approximately 87%"],
+    "correctAnswer": "Approximately 87%"
   },
   {
     "id": 14,
-    "question": "In which city is the INDIA bloc preparing for a major rally as mentioned in the headlines?",
-    "options": ["Mumbai", "Kolkata", "Delhi", "Bengaluru"],
-    "correctAnswer": "Delhi"
+    "question": "The northeastern state of Manipur recently witnessed large rallies protesting against which ongoing issue?",
+    "options": ["River water disputes", "Ethnic conflict and recent killings", "Economic blockade by neighboring states", "Industrial pollution"],
+    "correctAnswer": "Ethnic conflict and recent killings"
   },
   {
     "id": 15,
-    "question": "What specific issue has led to the INDIA bloc organizing a 'public impeachment' event against the CEC?",
-    "options": ["Budget allocation", "Policy decisions", "Questioning his neutrality", "International relations"],
-    "correctAnswer": "Questioning his neutrality"
+    "question": "Rahul Gandhi recently raised concerns about the actions of which constitutional body's head, accusing him of undermining democratic institutions?",
+    "options": ["Union Public Service Commission", "Comptroller and Auditor General", "Election Commission of India", "National Human Rights Commission"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 16,
-    "question": "What kind of political gathering is the INDIA bloc organizing at Ramlila Maidan?",
-    "options": ["A press conference", "A protest march", "A public rally", "A closed-door meeting"],
-    "correctAnswer": "A public rally"
+    "question": "Who is the current Chief Election Commissioner (CEC) of India, mentioned in recent political discussions by opposition leaders?",
+    "options": ["Sunil Arora", "Rajiv Kumar", "Gyanesh Kumar", "Om Prakash Rawat"],
+    "correctAnswer": "Gyanesh Kumar"
   },
   {
     "id": 17,
-    "question": "Which political party did Kiren Rijiju specifically address his questions to regarding electoral performance?",
-    "options": ["Aam Aadmi Party", "Trinamool Congress", "Congress", "Bharatiya Janata Party"],
-    "correctAnswer": "Congress"
+    "question": "The leader of the opposition in the Lok Sabha recently warned against the assumption of constitutional immunity for officials involved in undermining which key aspect of India?",
+    "options": ["Economic growth", "Cultural heritage", "Democratic institutions", "Space exploration"],
+    "correctAnswer": "Democratic institutions"
   },
   {
     "id": 18,
-    "question": "The VHP's statement mentioned Diwali in connection to what aspect of the INDIA bloc rally?",
-    "options": ["Its theme", "Its duration", "Its timing", "Its funding"],
-    "correctAnswer": "Its timing"
+    "question": "Mamata Banerjee, often referred to as 'Didi', is the Chief Minister of which Indian state?",
+    "options": ["Bihar", "Odisha", "West Bengal", "Jharkhand"],
+    "correctAnswer": "West Bengal"
   },
   {
     "id": 19,
-    "question": "Who was the primary leader associated with the 'Bharat Jodo Yatra' recalled by the VHP?",
-    "options": ["Sonia Gandhi", "Priyanka Gandhi", "Rahul Gandhi", "Mallikarjun Kharge"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "The 'INDIA bloc' is a political alliance formed by opposition parties in India with what primary objective?",
+    "options": ["To promote regional cinema", "To challenge the ruling dispensation in national elections", "To strengthen trade relations with foreign countries", "To focus solely on state-level development projects"],
+    "correctAnswer": "To challenge the ruling dispensation in national elections"
   },
   {
     "id": 20,
-    "question": "What was the core message of Rahul Gandhi's invitation to people ahead of the INDIA bloc rally?",
-    "options": ["To demand resignation", "To walk together", "To boycott elections", "To critique policies"],
-    "correctAnswer": "To walk together"
+    "question": "Which political leader, representing the CJP, recently met Mamata Banerjee and clarified their party's stance on joining the INDIA bloc rally?",
+    "options": ["Akhilesh Yadav", "MK Stalin", "Sharad Pawar", "Dipke"],
+    "correctAnswer": "Dipke"
   },
   {
     "id": 21,
-    "question": "What new Vande Bharat service, described as a 'sleeper train', was recently launched connecting Kashi?",
-    "options": ["Kashi-Mumbai Vande Bharat", "Kashi-Chennai Vande Bharat", "Kashi-Delhi Vande Bharat", "Kashi-Kolkata Vande Bharat"],
-    "correctAnswer": "Kashi-Delhi Vande Bharat"
+    "question": "What does 'nixes' imply in the context of a court's decision regarding a plea, as seen in a recent High Court ruling?",
+    "options": ["To approve", "To postpone", "To reject or veto", "To modify slightly"],
+    "correctAnswer": "To reject or veto"
   },
   {
     "id": 22,
-    "question": "To which city does the newly launched Kashi Vande Bharat sleeper train provide connectivity, welcomed by PM Modi?",
-    "options": ["Bengaluru", "Ahmedabad", "Delhi", "Hyderabad"],
-    "correctAnswer": "Delhi"
+    "question": "Which constitutional body is primarily responsible for conducting free and fair elections in India, whose head was recently criticized by opposition leaders?",
+    "options": ["NITI Aayog", "Finance Commission", "Election Commission of India", "Union Public Service Commission"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 23,
-    "question": "Who expressed welcome for the launch of the Kashi-Delhi Vande Bharat sleeper train, calling it a 'historic day'?",
-    "options": ["Union Railway Minister", "Prime Minister Modi", "Chief Minister of Uttar Pradesh", "Chief Minister of Delhi"],
-    "correctAnswer": "Prime Minister Modi"
+    "question": "The resolution on hate crimes mentioned a lack of FIR registration. What does FIR stand for in Indian legal parlance?",
+    "options": ["Final Investigation Report", "First Information Report", "Federal Inquiry Record", "Forensic Investigation Review"],
+    "correctAnswer": "First Information Report"
   },
   {
     "id": 24,
-    "question": "What is the distinguishing feature of the Vande Bharat train launched on the Kashi-Delhi route, as highlighted in the news?",
-    "options": ["It is a freight train", "It is a sleeper train", "It is a double-decker train", "It runs on solar power"],
-    "correctAnswer": "It is a sleeper train"
+    "question": "Justice Bhuyan, a former Chief Justice of the Telangana High Court, currently serves in which of the following highest judicial bodies in India?",
+    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court of India", "Madras High Court"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 25,
-    "question": "Which prominent Indian YouTuber is facing fresh legal action in the form of bailable warrants related to a 2018 defamation case?",
-    "options": ["CarryMinati", "BB Ki Vines", "Dhruv Rathee", "Ashish Chanchlani"],
-    "correctAnswer": "Dhruv Rathee"
+    "question": "In the Indian political system, what is the term for the leader of the opposition party in the Lok Sabha?",
+    "options": ["Prime Minister", "Speaker of the Lok Sabha", "Leader of the Opposition", "Chief Whip"],
+    "correctAnswer": "Leader of the Opposition"
   }
 ]

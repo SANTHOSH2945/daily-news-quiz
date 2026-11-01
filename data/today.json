@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to the news, a total of 490 police personnel were awarded Home Minister's Medals. For which specific type of operation are these medals prominently mentioned, relevant to states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Disaster relief operations",
-      "Anti-Naxal operations",
-      "Cybercrime investigations",
-      "Border patrolling duties"
-    ],
-    "correctAnswer": "Anti-Naxal operations"
+    "question": "Who was sworn in as the Chief Minister of Telangana following the Assembly elections in December 2023?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Etela Rajender"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 2,
-    "question": "Which paramilitary force received a significant number of 115 Home Minister's Medals, specifically for its role in anti-Naxal operations, a concern for states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Border Security Force (BSF)",
-      "Central Reserve Police Force (CRPF)",
-      "Indo-Tibetan Border Police (ITBP)",
-      "National Security Guard (NSG)"
-    ],
-    "correctAnswer": "Central Reserve Police Force (CRPF)"
+    "question": "Which political party emerged victorious in the Telangana Assembly elections held in November 2023?",
+    "options": ["Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 3,
-    "question": "Rajnath Singh recently stated that Sardar Patel could have integrated Kashmir as easily as which other princely state, had Pandit Nehru not intervened? This state is central to the history of Telangana and Andhra Pradesh.",
-    "options": [
-      "Mysore",
-      "Travancore",
-      "Hyderabad",
-      "Bhopal"
-    ],
-    "correctAnswer": "Hyderabad"
+    "question": "What is the name of the scheme launched by the newly formed Telangana government to provide financial assistance and free bus travel to women?",
+    "options": ["Aasara Pension", "Kanti Velugu", "Mahalakshmi Scheme", "Rythu Bandhu"],
+    "correctAnswer": "Mahalakshmi Scheme"
   },
   {
     "id": 4,
-    "question": "The historical integration of Hyderabad, mentioned by Rajnath Singh, was a pivotal event that shaped the territorial boundaries of which contemporary Indian state, known for its capital city of Hyderabad?",
-    "options": [
-      "Karnataka",
-      "Tamil Nadu",
-      "Telangana",
-      "Kerala"
-    ],
-    "correctAnswer": "Telangana"
+    "question": "Under the Mahalakshmi scheme in Telangana, what is the specified monthly financial assistance provided to eligible women?",
+    "options": ["₹1,500", "₹2,000", "₹2,500", "₹3,000"],
+    "correctAnswer": "₹2,500"
   },
   {
     "id": 5,
-    "question": "Sardar Patel is widely credited for the integration of Hyderabad. What was the military action commonly known as, used to incorporate the princely state of Hyderabad into the Indian Union?",
-    "options": [
-      "Operation Vijay",
-      "Operation Polo",
-      "Operation Blue Star",
-      "Operation Cactus"
-    ],
-    "correctAnswer": "Operation Polo"
+    "question": "Which major lift irrigation project in Telangana, built across the Godavari River, is recognized as the world's largest multi-stage lift irrigation scheme?",
+    "options": ["Nagarjuna Sagar Project", "Srisailam Project", "Kaleshwaram Lift Irrigation Project", "Polavaram Project"],
+    "correctAnswer": "Kaleshwaram Lift Irrigation Project"
   },
   {
     "id": 6,
-    "question": "The Home Minister's Medals for anti-Naxal operations acknowledge the bravery and service of police personnel. In the context of Telangana and Andhra Pradesh, where are Naxal activities historically concentrated?",
-    "options": [
-      "Coastal regions",
-      "Urban centers",
-      "Remote forest and tribal areas",
-      "Industrial zones"
-    ],
-    "correctAnswer": "Remote forest and tribal areas"
+    "question": "What is the proposed administrative capital of Andhra Pradesh as envisioned by the current state government's multi-capital concept?",
+    "options": ["Visakhapatnam", "Amaravati", "Kurnool", "Guntur"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 7,
-    "question": "Rajnath Singh's recent remarks highlighted Sardar Patel's role in the integration of Hyderabad. Who was the last Nizam of Hyderabad at the time of its merger with India?",
-    "options": [
-      "Mir Osman Ali Khan",
-      "Mir Mahboob Ali Khan",
-      "Mir Laiq Ali",
-      "Mir Qamar-ud-din Khan"
-    ],
-    "correctAnswer": "Mir Osman Ali Khan"
+    "question": "In the context of Andhra Pradesh's three-capital proposal, which city is designated as the judicial capital?",
+    "options": ["Amaravati", "Visakhapatnam", "Kurnool", "Tirupati"],
+    "correctAnswer": "Kurnool"
   },
   {
     "id": 8,
-    "question": "The news context implies that anti-Naxal operations are ongoing concerns in several Indian states. Which of the following pairs of states are particularly known for facing Naxal challenges, making the Home Minister's Medals highly relevant?",
-    "options": [
-      "Punjab and Haryana",
-      "Gujarat and Rajasthan",
-      "Telangana and Chhattisgarh",
-      "Himachal Pradesh and Uttarakhand"
-    ],
-    "correctAnswer": "Telangana and Chhattisgarh"
+    "question": "Who is the current Chief Minister of Andhra Pradesh?",
+    "options": ["N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "Pawan Kalyan", "K. Atchannaidu"],
+    "correctAnswer": "Y. S. Jagan Mohan Reddy"
   },
   {
     "id": 9,
-    "question": "The integration of Hyderabad, which Rajnath Singh referenced, occurred in which year, marking a significant milestone for the region now part of Telangana and Andhra Pradesh?",
-    "options": [
-      "1947",
-      "1948",
-      "1950",
-      "1956"
-    ],
-    "correctAnswer": "1948"
+    "question": "Which political party is currently in power in Andhra Pradesh?",
+    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharatiya Janata Party (BJP)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 10,
-    "question": "The CRPF, awarded for anti-Naxal operations, is a key central armed police force. What does CRPF stand for?",
-    "options": [
-      "Central Rapid Police Force",
-      "Civilian Reserve Police Force",
-      "Central Reserve Police Force",
-      "Combined Regiment Police Force"
-    ],
-    "correctAnswer": "Central Reserve Police Force"
+    "question": "The 'Amma Vodi' scheme, a flagship initiative of the Andhra Pradesh government, aims to support which of the following?",
+    "options": ["Farmers' income", "Women entrepreneurship", "Mothers sending their children to school", "Senior citizens' pensions"],
+    "correctAnswer": "Mothers sending their children to school"
   },
   {
     "id": 11,
-    "question": "The historical integration of Hyderabad by Sardar Patel, mentioned by Rajnath Singh, is considered a significant achievement in India's post-independence nation-building. This event ensured the unification of the princely state with the Indian Union. What was the dynasty that ruled Hyderabad?",
-    "options": [
-      "Maratha Dynasty",
-      "Nizam Dynasty",
-      "Mughal Dynasty",
-      "Chola Dynasty"
-    ],
-    "correctAnswer": "Nizam Dynasty"
+    "question": "What is the name of the social security pension scheme in Andhra Pradesh that provides enhanced financial aid to the elderly, widows, and persons with disabilities?",
+    "options": ["Rythu Bharosa", "Jagananna Vidya Deevena", "YSR Pension Kanuka", "Pedalandariki Illu"],
+    "correctAnswer": "YSR Pension Kanuka"
   },
   {
     "id": 12,
-    "question": "The Home Minister's Medals for anti-Naxal operations highlight efforts to counter internal security threats. Which ministry is responsible for internal security and awards these medals?",
-    "options": [
-      "Ministry of Defence",
-      "Ministry of External Affairs",
-      "Ministry of Home Affairs",
-      "Ministry of Finance"
-    ],
-    "correctAnswer": "Ministry of Home Affairs"
+    "question": "Which UNESCO World Heritage site in Telangana is renowned for its intricate Kakatiya architecture, particularly its floating bricks?",
+    "options": ["Golconda Fort", "Charminar", "Thousand Pillar Temple", "Ramappa Temple"],
+    "correctAnswer": "Ramappa Temple"
   },
   {
     "id": 13,
-    "question": "Rajnath Singh's statement about Hyderabad's integration involved a comparison with Kashmir. The integration of princely states into India, championed by Sardar Patel, was guided by the principle of:",
-    "options": [
-      "Economic partnership",
-      "Cultural exchange",
-      "Territorial integrity and national unity",
-      "Political autonomy"
-    ],
-    "correctAnswer": "Territorial integrity and national unity"
+    "question": "Hyderabad is often referred to as 'Cyberabad' due to its significant contribution to which economic sector?",
+    "options": ["Textile industry", "Agricultural production", "Information Technology and Biotechnology", "Automotive manufacturing"],
+    "correctAnswer": "Information Technology and Biotechnology"
   },
   {
     "id": 14,
-    "question": "The 'Police Action' that led to Hyderabad's integration was partly necessitated by the actions of a private militia associated with the Nizam. What was this militia known as?",
-    "options": [
-      "Sena Dal",
-      "Vishwa Sena",
-      "Razakars",
-      "Praja Mitra"
-    ],
-    "correctAnswer": "Razakars"
+    "question": "The Dr. B.R. Ambedkar Telangana State Secretariat was recently inaugurated in which city?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 15,
-    "question": "The total number of Home Minister's Medals awarded to police personnel for anti-Naxal operations, which includes contributions from states like Telangana and Andhra Pradesh, was:",
-    "options": [
-      "350",
-      "490",
-      "510",
-      "225"
-    ],
-    "correctAnswer": "490"
+    "question": "Which tiger reserve, located in the Nallamala Hills, is one of the largest tiger reserves in India and is partly situated in Telangana?",
+    "options": ["Nagarjunsagar-Srisailam Tiger Reserve", "Kawal Tiger Reserve", "Amrabad Tiger Reserve", "Eturnagaram Wildlife Sanctuary"],
+    "correctAnswer": "Amrabad Tiger Reserve"
   },
   {
     "id": 16,
-    "question": "The city of Hyderabad, central to Rajnath Singh's statement about integration, currently serves as the capital for which two Indian states?",
-    "options": [
-      "Karnataka and Telangana",
-      "Andhra Pradesh and Odisha",
-      "Telangana and Andhra Pradesh",
-      "Maharashtra and Telangana"
-    ],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "Which unique flower festival, primarily celebrated by women, is a major cultural highlight of Telangana?",
+    "options": ["Bonalu", "Bathukamma", "Ugadi", "Dasara"],
+    "correctAnswer": "Bathukamma"
   },
   {
     "id": 17,
-    "question": "Sardar Patel's role in the integration of Hyderabad is often highlighted. He was independent India's first:",
-    "options": [
-      "Prime Minister",
-      "President",
-      "Home Minister and Deputy Prime Minister",
-      "Chief Justice"
-    ],
-    "correctAnswer": "Home Minister and Deputy Prime Minister"
+    "question": "Which major multi-purpose irrigation project on the Godavari River, currently under construction, is considered a national project for Andhra Pradesh?",
+    "options": ["Handri-Neeva Project", "Galeru-Nagari Project", "Polavaram Project", "Pattiseema Lift Irrigation Project"],
+    "correctAnswer": "Polavaram Project"
   },
   {
     "id": 18,
-    "question": "The Home Minister's Medals for anti-Naxal operations are given to personnel exhibiting exceptional bravery or distinguished service. This directly relates to efforts to curb insurgency in which type of regions, also found in Telangana and Andhra Pradesh?",
-    "options": [
-      "Coastal fishing villages",
-      "Deserts and arid zones",
-      "Urban slum areas",
-      "Left Wing Extremism (LWE) affected zones"
-    ],
-    "correctAnswer": "Left Wing Extremism (LWE) affected zones"
+    "question": "The Indian Institute of Management (IIM) is located in which city of Andhra Pradesh?",
+    "options": ["Visakhapatnam", "Vijayawada", "Tirupati", "Guntur"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 19,
-    "question": "Rajnath Singh's reference to the integration of Hyderabad by Sardar Patel underlines the complex process of state unification. Which former Prime Minister's intervention, according to Singh, was a point of contrast in handling Kashmir versus Hyderabad?",
-    "options": [
-      "Lal Bahadur Shastri",
-      "Jawaharlal Nehru",
-      "Indira Gandhi",
-      "Morarji Desai"
-    ],
-    "correctAnswer": "Jawaharlal Nehru"
+    "question": "What does GHMC stand for, the urban local body responsible for the civic administration of Hyderabad?",
+    "options": ["Greater Hyderabad Municipal Council", "General Hyderabad Metro Corporation", "Greater Hyderabad Municipal Corporation", "Government Housing and Management Committee"],
+    "correctAnswer": "Greater Hyderabad Municipal Corporation"
   },
   {
     "id": 20,
-    "question": "The historical event of Hyderabad's integration, discussed in relation to Sardar Patel, is commemorated annually as 'Hyderabad Liberation Day' by the government of Telangana on which date?",
-    "options": [
-      "August 15th",
-      "January 26th",
-      "September 17th",
-      "October 31st"
-    ],
-    "correctAnswer": "September 17th"
+    "question": "Who is the current Governor of Telangana?",
+    "options": ["Dr. Tamilisai Soundararajan", "C. P. Radhakrishnan", "Biswabhusan Harichandan", "Arif Mohammed Khan"],
+    "correctAnswer": "Dr. Tamilisai Soundararajan"
   },
   {
     "id": 21,
-    "question": "The CRPF's involvement in anti-Naxal operations, for which its personnel received medals, is crucial for maintaining law and order and state authority in affected areas, including parts of Telangana and Andhra Pradesh. CRPF primarily falls under the administrative control of which Union Ministry?",
-    "options": [
-      "Ministry of Defence",
-      "Ministry of Finance",
-      "Ministry of Home Affairs",
-      "Ministry of Personnel, Public Grievances and Pensions"
-    ],
-    "correctAnswer": "Ministry of Home Affairs"
+    "question": "The 'Navaratnalu' is a flagship program of the Andhra Pradesh government encompassing nine welfare schemes. Which of the following is NOT typically considered part of Navaratnalu?",
+    "options": ["YSR Rythu Bharosa", "Jagananna Vidya Deevena", "Amma Vodi", "Swachh Andhra"],
+    "correctAnswer": "Swachh Andhra"
   },
   {
     "id": 22,
-    "question": "The discussion around Hyderabad's integration by Sardar Patel points to his monumental task of unifying numerous princely states into the Indian Union. Approximately how many princely states were integrated into India post-independence?",
-    "options": [
-      "Around 100",
-      "Around 250",
-      "Around 560",
-      "Around 700"
-    ],
-    "correctAnswer": "Around 560"
+    "question": "The Medaram Sammakka Saralamma Jatara, one of the largest tribal festivals in India, is celebrated in which state?",
+    "options": ["Andhra Pradesh", "Telangana", "Odisha", "Chhattisgarh"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 23,
-    "question": "The anti-Naxal operations, for which police personnel received awards, are part of a broader strategy to ensure stability and development in regions often characterized by:",
-    "options": [
-      "High industrial growth",
-      "Significant urban migration",
-      "Underdevelopment and socio-economic disparities",
-      "Flourishing tourism industries"
-    ],
-    "correctAnswer": "Underdevelopment and socio-economic disparities"
+    "question": "Which city in Andhra Pradesh hosts the ACA-VDCA Cricket Stadium, a prominent venue for international cricket matches?",
+    "options": ["Vijayawada", "Guntur", "Visakhapatnam", "Nellore"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 24,
-    "question": "The historical integration of Hyderabad, as highlighted by Rajnath Singh, was essential for the geographical and political contiguity of which part of India with the newly formed Indian Union?",
-    "options": [
-      "North-Eastern India",
-      "Northern India",
-      "Southern and Central India",
-      "Western India"
-    ],
-    "correctAnswer": "Southern and Central India"
+    "question": "Which major pharmaceutical hub, often called 'India's Pharmaceutical Capital,' is largely concentrated around Hyderabad in Telangana?",
+    "options": ["Bangalore Pharma City", "Mumbai Pharma Hub", "Genome Valley", "Vizag Pharma Zone"],
+    "correctAnswer": "Genome Valley"
   },
   {
     "id": 25,
-    "question": "The Naxalite movement, targeted by anti-Naxal operations for which medals were awarded, traces its ideological roots primarily to which political philosophy?",
-    "options": [
-      "Anarchism",
-      "Communism/Maoism",
-      "Capitalism",
-      "Fascism"
-    ],
-    "correctAnswer": "Communism/Maoism"
+    "question": "Which well-known bird sanctuary, located in the Krishna and West Godavari districts of Andhra Pradesh, is famous for being one of the largest freshwater lakes and a breeding ground for migratory birds?",
+    "options": ["Rollapadu Wildlife Sanctuary", "Coringa Wildlife Sanctuary", "Kolleru Bird Sanctuary", "Pulicat Lake Bird Sanctuary"],
+    "correctAnswer": "Kolleru Bird Sanctuary"
   }
 ]

@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which nation recently dedicated a Buddhist stupa to Prime Minister Narendra Modi?",
-    "options": ["Nepal", "Sri Lanka", "Bhutan", "Thailand"],
-    "correctAnswer": "Bhutan"
+    "question": "Following the Chief Justice of India's call for improved judiciary responsiveness, which of the following is a key initiative launched by the Telangana High Court to enhance case management and efficiency?",
+    "options": [
+      "Mandatory weekend court sessions for all cases",
+      "Implementation of advanced e-courts for digital case filing and hearings",
+      "Appointment of a separate judiciary for traffic offenses only",
+      "Exclusive jurisdiction for the Supreme Court on state-level cases"
+    ],
+    "correctAnswer": "Implementation of advanced e-courts for digital case filing and hearings"
   },
   {
     "id": 2,
-    "question": "In which city in Bhutan was a stupa dedicated to Prime Minister Narendra Modi?",
-    "options": ["Thimphu", "Paro", "Gelephu Mindfulness City", "Punakha"],
-    "correctAnswer": "Gelephu Mindfulness City"
+    "question": "In the context of the need for improved judicial responsiveness, which current Chief Justice heads the High Court for the State of Telangana?",
+    "options": [
+      "Justice Satish Chandra Sharma",
+      "Justice Alok Aradhe",
+      "Justice Ujjal Bhuyan",
+      "Justice Hima Kohli"
+    ],
+    "correctAnswer": "Justice Alok Aradhe"
   },
   {
     "id": 3,
-    "question": "According to the news, how many stupas are being raised in Gelephu Mindfulness City, Bhutan?",
-    "options": ["54", "76", "108", "216"],
-    "correctAnswer": "108"
+    "question": "The Chief Justice of India emphasized judiciary responsiveness. Which body in Andhra Pradesh is primarily responsible for providing free legal services to the weaker sections of society, aligning with efforts to make justice accessible?",
+    "options": [
+      "Andhra Pradesh Police Department",
+      "Andhra Pradesh State Legal Services Authority (APSLSA)",
+      "Andhra Pradesh Bar Council",
+      "Andhra Pradesh High Court Registry"
+    ],
+    "correctAnswer": "Andhra Pradesh State Legal Services Authority (APSLSA)"
   },
   {
     "id": 4,
-    "question": "Which Union Minister represented India at the dedication ceremony of the stupa in Bhutan for PM Modi?",
-    "options": ["Amit Shah", "Nirmala Sitharaman", "Kiren Rijiju", "S. Jaishankar"],
-    "correctAnswer": "Kiren Rijiju"
+    "question": "Considering the call for judiciary improvements, which recent step was taken by the High Court of Andhra Pradesh to address the backlog of cases in lower courts?",
+    "options": [
+      "Introducing a new dress code for lawyers",
+      "Establishing evening courts and increasing judicial working hours",
+      "Declaring a moratorium on new case registrations",
+      "Transferring all pending cases to neighboring states"
+    ],
+    "correctAnswer": "Establishing evening courts and increasing judicial working hours"
   },
   {
     "id": 5,
-    "question": "What specific number was assigned to the stupa dedicated to PM Modi in Gelephu?",
-    "options": ["25", "50", "76", "100"],
-    "correctAnswer": "76"
+    "question": "To improve judicial responsiveness, what role does the Lok Adalat play in Telangana and Andhra Pradesh's legal system?",
+    "options": [
+      "It handles only criminal cases of high profile",
+      "It serves as an alternative dispute resolution forum for amicable settlements",
+      "It is solely responsible for appointing new judges",
+      "It issues judicial pronouncements on constitutional matters"
+    ],
+    "correctAnswer": "It serves as an alternative dispute resolution forum for amicable settlements"
   },
   {
     "id": 6,
-    "question": "What record did Coal India achieve in October regarding monthly supplies?",
-    "options": ["Lowest-ever monthly supplies", "Highest-ever monthly supplies", "Consistent monthly supplies", "Reduced monthly supplies"],
-    "correctAnswer": "Highest-ever monthly supplies"
+    "question": "Following PM Modi's remarks on poverty removal, which flagship scheme of the Telangana government directly aims to support farmers and uplift rural economic conditions?",
+    "options": [
+      "Jagananna Vidya Deevena",
+      "Rythu Bandhu",
+      "Amma Vodi",
+      "PM Kisan Samman Nidhi"
+    ],
+    "correctAnswer": "Rythu Bandhu"
   },
   {
     "id": 7,
-    "question": "What was the reported volume of Coal India's monthly supplies in October?",
-    "options": ["50.1 MT", "65.5 MT", "70.3 MT", "82.9 MT"],
-    "correctAnswer": "70.3 MT"
+    "question": "In line with efforts for poverty eradication, which scheme in Andhra Pradesh provides financial assistance to mothers for sending their children to private schools or colleges?",
+    "options": [
+      "Rythu Bharosa",
+      "Jagananna Thodu",
+      "Amma Vodi",
+      "YSR Cheyutha"
+    ],
+    "correctAnswer": "Amma Vodi"
   },
   {
     "id": 8,
-    "question": "What was the percentage increase in Coal India's monthly supplies in October?",
-    "options": ["10%", "15%", "19%", "25%"],
-    "correctAnswer": "19%"
+    "question": "Considering the focus on poverty removal, what is the primary objective of Telangana's 'Dalit Bandhu' scheme?",
+    "options": [
+      "To provide interest-free loans for education abroad",
+      "To offer financial assistance as a one-time grant for Dalit entrepreneurship",
+      "To distribute free agricultural land to landless Dalits",
+      "To establish exclusive residential schools for Dalit children"
+    ],
+    "correctAnswer": "To offer financial assistance as a one-time grant for Dalit entrepreneurship"
   },
   {
     "id": 9,
-    "question": "Which public sector undertaking recorded its highest-ever monthly coal supplies in October?",
-    "options": ["NTPC", "BHEL", "SAIL", "Coal India"],
-    "correctAnswer": "Coal India"
+    "question": "To combat poverty, the Andhra Pradesh government launched a scheme providing financial assistance to eligible women from SC, ST, BC, and minority communities. What is this scheme called?",
+    "options": [
+      "Rythu Bandhu",
+      "Kanti Velugu",
+      "YSR Cheyutha",
+      "Arogyasri"
+    ],
+    "correctAnswer": "YSR Cheyutha"
   },
   {
     "id": 10,
-    "question": "When are new airfare rules set to be implemented in India?",
-    "options": ["This year", "Next year", "In two years", "No fixed date"],
-    "correctAnswer": "Next year"
+    "question": "As part of poverty alleviation efforts, which scheme in Telangana provides universal eye screening and free corrective surgeries/spectacles?",
+    "options": [
+      "Arogyasri",
+      "Kanti Velugu",
+      "Rythu Bima",
+      "Mission Bhagiratha"
+    ],
+    "correctAnswer": "Kanti Velugu"
   },
   {
     "id": 11,
-    "question": "Under the new airfare rules, what is the general stance of the government regarding intervention to prevent fare spikes?",
-    "options": ["Frequent intervention", "Regular monitoring and intervention", "No intervention except in 'extraordinary situations'", "Full government control"],
-    "correctAnswer": "No intervention except in 'extraordinary situations'"
+    "question": "Which initiative by the Andhra Pradesh government focuses on providing nine essential welfare schemes under a single umbrella, aiming for holistic poverty reduction?",
+    "options": [
+      "Navaratnalu",
+      "Mana Ooru - Mana Badi",
+      "Telangana Ku Haritha Haram",
+      "Mission Indradhanush"
+    ],
+    "correctAnswer": "Navaratnalu"
   },
   {
     "id": 12,
-    "question": "How many airports are initially slated for International Digi Yatra trials this year for Indian nationals?",
-    "options": ["3 airports", "5 airports", "7 airports", "10 airports"],
-    "correctAnswer": "7 airports"
+    "question": "In the context of poverty reduction, what is a significant goal of the 'Mission Bhagiratha' program in Telangana?",
+    "options": [
+      "To provide universal health insurance coverage",
+      "To ensure safe and potable drinking water to every household",
+      "To establish new industrial parks across the state",
+      "To offer free electricity to all farmers"
+    ],
+    "correctAnswer": "To ensure safe and potable drinking water to every household"
   },
   {
     "id": 13,
-    "question": "For whom are the International Digi Yatra trials set to begin at 7 airports this year?",
-    "options": ["All international travelers", "Foreign nationals", "Indian nationals", "Government officials only"],
-    "correctAnswer": "Indian nationals"
+    "question": "Which of the following schemes by the Andhra Pradesh government provides an annual financial incentive to tenant farmers?",
+    "options": [
+      "Jagananna Vidya Deevena",
+      "YSR Rythu Bharosa",
+      "YSR Pelli Kanuka",
+      "Jagananna Gorumudda"
+    ],
+    "correctAnswer": "YSR Rythu Bharosa"
   },
   {
     "id": 14,
-    "question": "When is the wider rollout of International Digi Yatra for Indian nationals planned?",
-    "options": ["2025", "2027", "2028", "2030"],
-    "correctAnswer": "2027"
+    "question": "To address poverty and promote self-employment, what is the 'Jagananna Thodu' scheme in Andhra Pradesh primarily focused on?",
+    "options": [
+      "Providing free housing to the urban poor",
+      "Offering interest-free loans to street vendors and small traders",
+      "Distributing free smartphones to students",
+      "Subsidizing air travel for senior citizens"
+    ],
+    "correctAnswer": "Offering interest-free loans to street vendors and small traders"
   },
   {
     "id": 15,
-    "question": "What new travel technology is undergoing international trials at 7 Indian airports this year?",
-    "options": ["FastPass", "AirScan", "Digi Yatra", "TravelKey"],
-    "correctAnswer": "Digi Yatra"
+    "question": "Considering efforts towards poverty removal and financial inclusion, which scheme in Telangana provides life insurance coverage for farmers?",
+    "options": [
+      "Rythu Bandhu",
+      "Rythu Bima",
+      "Kanti Velugu",
+      "Aasara Pensions"
+    ],
+    "correctAnswer": "Rythu Bima"
   },
   {
     "id": 16,
-    "question": "What is the government's aim for the wider rollout of International Digi Yatra?",
-    "options": ["To increase air travel costs", "To streamline travel processes", "To reduce airport staff", "To limit international travel"],
-    "correctAnswer": "To streamline travel processes"
+    "question": "Following reports of a techie couple involved in land and tax evasion, what digital platform has the Telangana government introduced to streamline land records and curb fraudulent transactions?",
+    "options": [
+      "MeeSeva",
+      "Dharani Portal",
+      "e-Panchayat",
+      "TS-iPASS"
+    ],
+    "correctAnswer": "Dharani Portal"
   },
   {
     "id": 17,
-    "question": "Which political alliance recently held a rally at Ramlila Maidan, drawing criticism from the BJP?",
-    "options": ["NDA", "INDIA bloc", "Third Front", "United Progressive Alliance"],
-    "correctAnswer": "INDIA bloc"
+    "question": "Given the news about tax evasion and fake claims, what is a common measure the Income Tax department implements in major tech hubs like Hyderabad to investigate high-value property transactions?",
+    "options": [
+      "Automatic tax exemption for all tech professionals",
+      "Mandatory public declaration of all assets by techies",
+      "Scrutiny of property registrations and financial records of buyers and sellers",
+      "Random audits of all individual bank accounts irrespective of income"
+    ],
+    "correctAnswer": "Scrutiny of property registrations and financial records of buyers and sellers"
   },
   {
     "id": 18,
-    "question": "Which political party made a 'big attack' on Rahul Gandhi regarding his sister, as per the news?",
-    "options": ["Congress", "Aam Aadmi Party", "BJP", "Trinamool Congress"],
-    "correctAnswer": "BJP"
+    "question": "The news of a techie couple's involvement in land and tax evasion highlights potential issues in the real estate sector. What is the capital region of Andhra Pradesh where land transactions have seen significant scrutiny?",
+    "options": [
+      "Visakhapatnam",
+      "Tirupati",
+      "Kurnool",
+      "Amaravati"
+    ],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 19,
-    "question": "Which Indian agency successfully extradited the Mahadev App kingpin from Oman?",
-    "options": ["NIA", "ED", "CBI", "RAW"],
-    "correctAnswer": "CBI"
+    "question": "To prevent 'fake claims' and ensure transparency in property transactions, what government department in Telangana is primarily responsible for land registration and revenue collection from such deals?",
+    "options": [
+      "Department of Industries",
+      "Revenue and Registration Department",
+      "Department of Municipal Administration",
+      "Department of Tourism"
+    ],
+    "correctAnswer": "Revenue and Registration Department"
   },
   {
     "id": 20,
-    "question": "From which country was the Mahadev App kingpin, Sourabh Chandrakar, recently extradited by CBI?",
-    "options": ["UAE", "Oman", "Qatar", "Saudi Arabia"],
-    "correctAnswer": "Oman"
+    "question": "Reports of tax evasion by a techie couple underscore the importance of proper tax compliance. Which IT major has a significant presence in Hyderabad, contributing to its status as a tech hub?",
+    "options": [
+      "Tata Motors",
+      "Wipro",
+      "Reliance Industries",
+      "Adani Ports"
+    ],
+    "correctAnswer": "Wipro"
   },
   {
     "id": 21,
-    "question": "What is the primary significance of Bhutan dedicating a stupa to PM Modi?",
-    "options": ["Economic cooperation", "Cultural exchange only", "Deep-rooted friendship between the nations", "Military alliance"],
-    "correctAnswer": "Deep-rooted friendship between the nations"
+    "question": "In light of concerns about financial irregularities, what is a key feature of the Andhra Pradesh online property registration system designed to reduce fraud?",
+    "options": [
+      "Manual submission of all documents at the sub-registrar office only",
+      "Mandatory biometric authentication and Aadhaar linkage for all parties",
+      "Exemption from stamp duty for online registrations",
+      "Only government employees are allowed to register properties"
+    ],
+    "correctAnswer": "Mandatory biometric authentication and Aadhaar linkage for all parties"
   },
   {
     "id": 22,
-    "question": "The robust monthly supplies by Coal India in October mainly contribute to which sector in India?",
-    "options": ["Agriculture", "Manufacturing", "Energy/Power sector", "Telecommunications"],
-    "correctAnswer": "Energy/Power sector"
+    "question": "The case of a techie couple involved in land fraud points to the need for robust regulatory frameworks. What is the name of Hyderabad's prominent IT corridor that has seen massive real estate development?",
+    "options": [
+      "Hitech City",
+      "Auto Nagar",
+      "Gachibowli",
+      "Both A and C"
+    ],
+    "correctAnswer": "Both A and C"
   },
   {
     "id": 23,
-    "question": "What is the core principle behind the new airfare rules effective next year?",
-    "options": ["Complete deregulation", "Government price capping", "Market-driven fares with minimal government interference", "Airline self-regulation"],
-    "correctAnswer": "Market-driven fares with minimal government interference"
+    "question": "While Bhutan dedicated a Buddhist stupa to PM Modi, highlighting India's Buddhist heritage, which ancient site in Andhra Pradesh is renowned for its Buddhist stupas and sculptures, often referred to as 'The Abode of the Buddha'?",
+    "options": [
+      "Hampi",
+      "Mahabalipuram",
+      "Amaravati",
+      "Ajanta Caves"
+    ],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 24,
-    "question": "What is the name of the alleged kingpin of the Mahadev App, recently extradited by the CBI?",
-    "options": ["Vijay Mallya", "Nirav Modi", "Sourabh Chandrakar", "Mehul Choksi"],
-    "correctAnswer": "Sourabh Chandrakar"
+    "question": "To commemorate India's rich Buddhist legacy, which major Buddhist heritage theme park was recently developed in Telangana?",
+    "options": [
+      "Dharma Vanam",
+      "Buddha Vanam",
+      "Shanti Vanam",
+      "Maha Bodhi Park"
+    ],
+    "correctAnswer": "Buddha Vanam"
   },
   {
     "id": 25,
-    "question": "The concept of 'Digi Yatra' primarily aims to enhance which aspect of travel?",
-    "options": ["Luggage tracking efficiency", "Check-in and boarding experience", "In-flight entertainment", "Food and beverage services"],
-    "correctAnswer": "Check-in and boarding experience"
+    "question": "Continuing with India's significant Buddhist heritage, which site, now submerged under the Nagarjuna Sagar Dam reservoir, was once a thriving Buddhist learning center in the Telugu region?",
+    "options": [
+      "Undavalli Caves",
+      "Nagarjunakonda",
+      "Guntupalli Caves",
+      "Kapilavastu"
+    ],
+    "correctAnswer": "Nagarjunakonda"
   }
 ]

@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Which Union Minister recently stated that Sardar Patel could have integrated Kashmir as easily as Hyderabad if Pandit Nehru had not intervened?",
-    "options": ["Amit Shah", "Nitin Gadkari", "Rajnath Singh", "S. Jaishankar"],
-    "correctAnswer": "Rajnath Singh"
+    "question": "According to the news, a total of 490 police personnel were awarded Home Minister's Medals. For which specific type of operation are these medals prominently mentioned, relevant to states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Disaster relief operations",
+      "Anti-Naxal operations",
+      "Cybercrime investigations",
+      "Border patrolling duties"
+    ],
+    "correctAnswer": "Anti-Naxal operations"
   },
   {
     "id": 2,
-    "question": "The historical statement attributed to Sardar Patel in the news concerns the integration of which princely state?",
-    "options": ["Mysore", "Travancore", "Hyderabad", "Junagadh"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which paramilitary force received a significant number of 115 Home Minister's Medals, specifically for its role in anti-Naxal operations, a concern for states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Border Security Force (BSF)",
+      "Central Reserve Police Force (CRPF)",
+      "Indo-Tibetan Border Police (ITBP)",
+      "National Security Guard (NSG)"
+    ],
+    "correctAnswer": "Central Reserve Police Force (CRPF)"
   },
   {
     "id": 3,
-    "question": "The integration of Hyderabad into the Indian Union is historically associated with an operation named:",
-    "options": ["Operation Vijay", "Operation Cactus", "Operation Polo", "Operation Meghdoot"],
-    "correctAnswer": "Operation Polo"
+    "question": "Rajnath Singh recently stated that Sardar Patel could have integrated Kashmir as easily as which other princely state, had Pandit Nehru not intervened? This state is central to the history of Telangana and Andhra Pradesh.",
+    "options": [
+      "Mysore",
+      "Travancore",
+      "Hyderabad",
+      "Bhopal"
+    ],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 4,
-    "question": "In what year did the Hyderabad State accede to the Indian Union?",
-    "options": ["1947", "1950", "1948", "1956"],
-    "correctAnswer": "1948"
-  },
-  {
-    "id": 5,
-    "question": "Who was the last ruling Nizam of the princely state of Hyderabad before its integration into India?",
-    "options": ["Mir Mahboob Ali Khan", "Nawab Salar Jung", "Osman Ali Khan, Asaf Jah VII", "Fath Jang"],
-    "correctAnswer": "Osman Ali Khan, Asaf Jah VII"
-  },
-  {
-    "id": 6,
-    "question": "The statement about Sardar Patel's role in integration indirectly references the contribution of which former Indian Prime Minister?",
-    "options": ["Lal Bahadur Shastri", "Indira Gandhi", "Jawaharlal Nehru", "Morarji Desai"],
-    "correctAnswer": "Jawaharlal Nehru"
-  },
-  {
-    "id": 7,
-    "question": "Sardar Patel is widely known for his pivotal role in integrating numerous princely states into the Indian Union, earning him what title?",
-    "options": ["Father of the Nation", "Frontier Gandhi", "Iron Man of India", "Lokmanya"],
-    "correctAnswer": "Iron Man of India"
-  },
-  {
-    "id": 8,
-    "question": "The historical context of Hyderabad's integration is most directly relevant to the formation and identity of which current Indian state?",
-    "options": ["Karnataka", "Maharashtra", "Telangana", "Kerala"],
+    "question": "The historical integration of Hyderabad, mentioned by Rajnath Singh, was a pivotal event that shaped the territorial boundaries of which contemporary Indian state, known for its capital city of Hyderabad?",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Telangana",
+      "Kerala"
+    ],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 5,
+    "question": "Sardar Patel is widely credited for the integration of Hyderabad. What was the military action commonly known as, used to incorporate the princely state of Hyderabad into the Indian Union?",
+    "options": [
+      "Operation Vijay",
+      "Operation Polo",
+      "Operation Blue Star",
+      "Operation Cactus"
+    ],
+    "correctAnswer": "Operation Polo"
+  },
+  {
+    "id": 6,
+    "question": "The Home Minister's Medals for anti-Naxal operations acknowledge the bravery and service of police personnel. In the context of Telangana and Andhra Pradesh, where are Naxal activities historically concentrated?",
+    "options": [
+      "Coastal regions",
+      "Urban centers",
+      "Remote forest and tribal areas",
+      "Industrial zones"
+    ],
+    "correctAnswer": "Remote forest and tribal areas"
+  },
+  {
+    "id": 7,
+    "question": "Rajnath Singh's recent remarks highlighted Sardar Patel's role in the integration of Hyderabad. Who was the last Nizam of Hyderabad at the time of its merger with India?",
+    "options": [
+      "Mir Osman Ali Khan",
+      "Mir Mahboob Ali Khan",
+      "Mir Laiq Ali",
+      "Mir Qamar-ud-din Khan"
+    ],
+    "correctAnswer": "Mir Osman Ali Khan"
+  },
+  {
+    "id": 8,
+    "question": "The news context implies that anti-Naxal operations are ongoing concerns in several Indian states. Which of the following pairs of states are particularly known for facing Naxal challenges, making the Home Minister's Medals highly relevant?",
+    "options": [
+      "Punjab and Haryana",
+      "Gujarat and Rajasthan",
+      "Telangana and Chhattisgarh",
+      "Himachal Pradesh and Uttarakhand"
+    ],
+    "correctAnswer": "Telangana and Chhattisgarh"
+  },
+  {
     "id": 9,
-    "question": "The former Hyderabad State, after its integration, contributed territories to which modern Indian states?",
-    "options": ["Karnataka and Maharashtra only", "Andhra Pradesh, Telangana, and parts of Maharashtra & Karnataka", "Tamil Nadu and Kerala", "Odisha and Chhattisgarh"],
-    "correctAnswer": "Andhra Pradesh, Telangana, and parts of Maharashtra & Karnataka"
+    "question": "The integration of Hyderabad, which Rajnath Singh referenced, occurred in which year, marking a significant milestone for the region now part of Telangana and Andhra Pradesh?",
+    "options": [
+      "1947",
+      "1948",
+      "1950",
+      "1956"
+    ],
+    "correctAnswer": "1948"
   },
   {
     "id": 10,
-    "question": "The city of Hyderabad served as the capital of which major princely state prior to its accession to India?",
-    "options": ["Mysore State", "Travancore State", "Hyderabad State", "Baroda State"],
-    "correctAnswer": "Hyderabad State"
+    "question": "The CRPF, awarded for anti-Naxal operations, is a key central armed police force. What does CRPF stand for?",
+    "options": [
+      "Central Rapid Police Force",
+      "Civilian Reserve Police Force",
+      "Central Reserve Police Force",
+      "Combined Regiment Police Force"
+    ],
+    "correctAnswer": "Central Reserve Police Force"
   },
   {
     "id": 11,
-    "question": "The recent news highlights Sardar Patel's perceived ability to integrate Hyderabad, contrasting it with the perceived difficulty in integrating which other region?",
-    "options": ["Goa", "Junagadh", "Puducherry", "Kashmir"],
-    "correctAnswer": "Kashmir"
+    "question": "The historical integration of Hyderabad by Sardar Patel, mentioned by Rajnath Singh, is considered a significant achievement in India's post-independence nation-building. This event ensured the unification of the princely state with the Indian Union. What was the dynasty that ruled Hyderabad?",
+    "options": [
+      "Maratha Dynasty",
+      "Nizam Dynasty",
+      "Mughal Dynasty",
+      "Chola Dynasty"
+    ],
+    "correctAnswer": "Nizam Dynasty"
   },
   {
     "id": 12,
-    "question": "The integration of Hyderabad in 1948 was a crucial step in India's post-independence process of:",
-    "options": ["Economic liberalization", "Space exploration", "National unification", "Agricultural revolution"],
-    "correctAnswer": "National unification"
+    "question": "The Home Minister's Medals for anti-Naxal operations highlight efforts to counter internal security threats. Which ministry is responsible for internal security and awards these medals?",
+    "options": [
+      "Ministry of Defence",
+      "Ministry of External Affairs",
+      "Ministry of Home Affairs",
+      "Ministry of Finance"
+    ],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 13,
-    "question": "Which Indian organization successfully launched the NVS-03 satellite?",
-    "options": ["DRDO", "HAL", "ISRO", "BARC"],
-    "correctAnswer": "ISRO"
+    "question": "Rajnath Singh's statement about Hyderabad's integration involved a comparison with Kashmir. The integration of princely states into India, championed by Sardar Patel, was guided by the principle of:",
+    "options": [
+      "Economic partnership",
+      "Cultural exchange",
+      "Territorial integrity and national unity",
+      "Political autonomy"
+    ],
+    "correctAnswer": "Territorial integrity and national unity"
   },
   {
     "id": 14,
-    "question": "The NVS-03 is primarily categorized as what type of satellite?",
-    "options": ["Communication satellite", "Earth observation satellite", "Navigation satellite", "Weather satellite"],
-    "correctAnswer": "Navigation satellite"
+    "question": "The 'Police Action' that led to Hyderabad's integration was partly necessitated by the actions of a private militia associated with the Nizam. What was this militia known as?",
+    "options": [
+      "Sena Dal",
+      "Vishwa Sena",
+      "Razakars",
+      "Praja Mitra"
+    ],
+    "correctAnswer": "Razakars"
   },
   {
     "id": 15,
-    "question": "ISRO's main launch facility, from which NVS-03 was launched, is located in which Indian state?",
-    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The total number of Home Minister's Medals awarded to police personnel for anti-Naxal operations, which includes contributions from states like Telangana and Andhra Pradesh, was:",
+    "options": [
+      "350",
+      "490",
+      "510",
+      "225"
+    ],
+    "correctAnswer": "490"
   },
   {
     "id": 16,
-    "question": "What is the name of ISRO's primary launch centre situated in Sriharikota, Andhra Pradesh?",
-    "options": ["Vikram Sarabhai Space Centre", "Liquid Propulsion Systems Centre", "Satish Dhawan Space Centre (SDSC SHAR)", "U R Rao Satellite Centre"],
-    "correctAnswer": "Satish Dhawan Space Centre (SDSC SHAR)"
+    "question": "The city of Hyderabad, central to Rajnath Singh's statement about integration, currently serves as the capital for which two Indian states?",
+    "options": [
+      "Karnataka and Telangana",
+      "Andhra Pradesh and Odisha",
+      "Telangana and Andhra Pradesh",
+      "Maharashtra and Telangana"
+    ],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 17,
-    "question": "The NVS-03 launch contributes to bolstering India's indigenous navigation satellite constellation, commonly known as:",
-    "options": ["GPS-India", "Gagan", "NavIC (Navigation with Indian Constellation)", "Bhuvana"],
-    "correctAnswer": "NavIC (Navigation with Indian Constellation)"
+    "question": "Sardar Patel's role in the integration of Hyderabad is often highlighted. He was independent India's first:",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Home Minister and Deputy Prime Minister",
+      "Chief Justice"
+    ],
+    "correctAnswer": "Home Minister and Deputy Prime Minister"
   },
   {
     "id": 18,
-    "question": "According to the ISRO chief's statement, how many more navigation satellites are planned for launch to strengthen the constellation?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "The Home Minister's Medals for anti-Naxal operations are given to personnel exhibiting exceptional bravery or distinguished service. This directly relates to efforts to curb insurgency in which type of regions, also found in Telangana and Andhra Pradesh?",
+    "options": [
+      "Coastal fishing villages",
+      "Deserts and arid zones",
+      "Urban slum areas",
+      "Left Wing Extremism (LWE) affected zones"
+    ],
+    "correctAnswer": "Left Wing Extremism (LWE) affected zones"
   },
   {
     "id": 19,
-    "question": "Which prominent Indian leader lauded the space scientists for the successful launch of NVS-03?",
-    "options": ["ISRO Chairman", "Union Minister of Science & Technology", "Prime Minister Modi", "President of India"],
-    "correctAnswer": "Prime Minister Modi"
+    "question": "Rajnath Singh's reference to the integration of Hyderabad by Sardar Patel underlines the complex process of state unification. Which former Prime Minister's intervention, according to Singh, was a point of contrast in handling Kashmir versus Hyderabad?",
+    "options": [
+      "Lal Bahadur Shastri",
+      "Jawaharlal Nehru",
+      "Indira Gandhi",
+      "Morarji Desai"
+    ],
+    "correctAnswer": "Jawaharlal Nehru"
   },
   {
     "id": 20,
-    "question": "What is the full form of ISRO?",
-    "options": ["Indian Satellite Research Organization", "International Space Research Office", "Indian Space Research Organisation", "Indian Scientific Research Organization"],
-    "correctAnswer": "Indian Space Research Organisation"
+    "question": "The historical event of Hyderabad's integration, discussed in relation to Sardar Patel, is commemorated annually as 'Hyderabad Liberation Day' by the government of Telangana on which date?",
+    "options": [
+      "August 15th",
+      "January 26th",
+      "September 17th",
+      "October 31st"
+    ],
+    "correctAnswer": "September 17th"
   },
   {
     "id": 21,
-    "question": "The primary function of navigation satellites like NVS-03 is to provide which essential services?",
-    "options": ["Broadcasting television channels", "Weather forecasting", "Positioning, navigation, and timing (PNT)", "Deep space exploration"],
-    "correctAnswer": "Positioning, navigation, and timing (PNT)"
+    "question": "The CRPF's involvement in anti-Naxal operations, for which its personnel received medals, is crucial for maintaining law and order and state authority in affected areas, including parts of Telangana and Andhra Pradesh. CRPF primarily falls under the administrative control of which Union Ministry?",
+    "options": [
+      "Ministry of Defence",
+      "Ministry of Finance",
+      "Ministry of Home Affairs",
+      "Ministry of Personnel, Public Grievances and Pensions"
+    ],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 22,
-    "question": "Sriharikota, the site of ISRO's Satish Dhawan Space Centre, is located in which district of Andhra Pradesh?",
-    "options": ["Visakhapatnam", "Nellore", "Chittoor", "Guntur"],
-    "correctAnswer": "Nellore"
+    "question": "The discussion around Hyderabad's integration by Sardar Patel points to his monumental task of unifying numerous princely states into the Indian Union. Approximately how many princely states were integrated into India post-independence?",
+    "options": [
+      "Around 100",
+      "Around 250",
+      "Around 560",
+      "Around 700"
+    ],
+    "correctAnswer": "Around 560"
   },
   {
     "id": 23,
-    "question": "India's commitment to developing its own navigation satellite system, exemplified by NVS-03, primarily aims for:",
-    "options": ["International collaboration only", "Complete reliance on foreign systems", "Strategic independence in navigation", "Commercial satellite launch services exclusively"],
-    "correctAnswer": "Strategic independence in navigation"
+    "question": "The anti-Naxal operations, for which police personnel received awards, are part of a broader strategy to ensure stability and development in regions often characterized by:",
+    "options": [
+      "High industrial growth",
+      "Significant urban migration",
+      "Underdevelopment and socio-economic disparities",
+      "Flourishing tourism industries"
+    ],
+    "correctAnswer": "Underdevelopment and socio-economic disparities"
   },
   {
     "id": 24,
-    "question": "The NVS series satellites are designed to augment and replace older satellites within which Indian regional navigation system?",
-    "options": ["INSAT system", "GSAT system", "IRNSS (Indian Regional Navigation Satellite System)", "CARTOSAT series"],
-    "correctAnswer": "IRNSS (Indian Regional Navigation Satellite System)"
+    "question": "The historical integration of Hyderabad, as highlighted by Rajnath Singh, was essential for the geographical and political contiguity of which part of India with the newly formed Indian Union?",
+    "options": [
+      "North-Eastern India",
+      "Northern India",
+      "Southern and Central India",
+      "Western India"
+    ],
+    "correctAnswer": "Southern and Central India"
   },
   {
     "id": 25,
-    "question": "The successful launch of NVS-03 contributes to India's efforts in which global technological domain?",
-    "options": ["Biotechnology", "Renewable Energy", "Space Technology", "Artificial Intelligence"],
-    "correctAnswer": "Space Technology"
+    "question": "The Naxalite movement, targeted by anti-Naxal operations for which medals were awarded, traces its ideological roots primarily to which political philosophy?",
+    "options": [
+      "Anarchism",
+      "Communism/Maoism",
+      "Capitalism",
+      "Fascism"
+    ],
+    "correctAnswer": "Communism/Maoism"
   }
 ]

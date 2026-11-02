@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Following the Chief Justice of India's call for improved judiciary responsiveness, which of the following is a key initiative launched by the Telangana High Court to enhance case management and efficiency?",
-    "options": [
-      "Mandatory weekend court sessions for all cases",
-      "Implementation of advanced e-courts for digital case filing and hearings",
-      "Appointment of a separate judiciary for traffic offenses only",
-      "Exclusive jurisdiction for the Supreme Court on state-level cases"
-    ],
-    "correctAnswer": "Implementation of advanced e-courts for digital case filing and hearings"
+    "question": "According to recent news, what is the current status of the \"Desi Bullet Train\" project in India?",
+    "options": ["Design phase completion", "Track laying underway", "Squeeze test nearing completion", "First operational route launched"],
+    "correctAnswer": "Squeeze test nearing completion"
   },
   {
     "id": 2,
-    "question": "In the context of the need for improved judicial responsiveness, which current Chief Justice heads the High Court for the State of Telangana?",
-    "options": [
-      "Justice Satish Chandra Sharma",
-      "Justice Alok Aradhe",
-      "Justice Ujjal Bhuyan",
-      "Justice Hima Kohli"
-    ],
-    "correctAnswer": "Justice Alok Aradhe"
+    "question": "The term \"Desi Bullet Train\" emphasizes which aspect of India's high-speed rail development?",
+    "options": ["Imported technology", "International collaboration", "Indigenous technology and manufacturing", "Private sector funding"],
+    "correctAnswer": "Indigenous technology and manufacturing"
   },
   {
     "id": 3,
-    "question": "The Chief Justice of India emphasized judiciary responsiveness. Which body in Andhra Pradesh is primarily responsible for providing free legal services to the weaker sections of society, aligning with efforts to make justice accessible?",
-    "options": [
-      "Andhra Pradesh Police Department",
-      "Andhra Pradesh State Legal Services Authority (APSLSA)",
-      "Andhra Pradesh Bar Council",
-      "Andhra Pradesh High Court Registry"
-    ],
-    "correctAnswer": "Andhra Pradesh State Legal Services Authority (APSLSA)"
+    "question": "How is the progress in high-speed rail technology, as exemplified by the \"Desi Bullet Train,\" expected to impact regional connectivity in major Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["Lead to significant air travel reduction", "Primarily benefit freight movement", "Enhance inter-state travel and economic integration", "Cause major traffic congestion in cities"],
+    "correctAnswer": "Enhance inter-state travel and economic integration"
   },
   {
     "id": 4,
-    "question": "Considering the call for judiciary improvements, which recent step was taken by the High Court of Andhra Pradesh to address the backlog of cases in lower courts?",
-    "options": [
-      "Introducing a new dress code for lawyers",
-      "Establishing evening courts and increasing judicial working hours",
-      "Declaring a moratorium on new case registrations",
-      "Transferring all pending cases to neighboring states"
-    ],
-    "correctAnswer": "Establishing evening courts and increasing judicial working hours"
+    "question": "While initial high-speed rail routes are under development, what kind of economic benefits could states like Telangana and Andhra Pradesh anticipate from future high-speed rail corridors?",
+    "options": ["Increased dependency on road transport", "Reduced industrial investment", "Boost in tourism, trade, and logistics", "Exclusively benefit agricultural sector"],
+    "correctAnswer": "Boost in tourism, trade, and logistics"
   },
   {
     "id": 5,
-    "question": "To improve judicial responsiveness, what role does the Lok Adalat play in Telangana and Andhra Pradesh's legal system?",
-    "options": [
-      "It handles only criminal cases of high profile",
-      "It serves as an alternative dispute resolution forum for amicable settlements",
-      "It is solely responsible for appointing new judges",
-      "It issues judicial pronouncements on constitutional matters"
-    ],
-    "correctAnswer": "It serves as an alternative dispute resolution forum for amicable settlements"
+    "question": "What is the primary purpose of the \"squeeze test\" mentioned in relation to India's bullet train technology?",
+    "options": ["Testing passenger comfort", "Evaluating aerodynamic efficiency", "Assessing structural integrity under pressure", "Verifying signaling systems"],
+    "correctAnswer": "Assessing structural integrity under pressure"
   },
   {
     "id": 6,
-    "question": "Following PM Modi's remarks on poverty removal, which flagship scheme of the Telangana government directly aims to support farmers and uplift rural economic conditions?",
-    "options": [
-      "Jagananna Vidya Deevena",
-      "Rythu Bandhu",
-      "Amma Vodi",
-      "PM Kisan Samman Nidhi"
-    ],
-    "correctAnswer": "Rythu Bandhu"
+    "question": "The Supreme Court recently upheld a High Court order concerning the Income-Tax Department's power. What was the core issue of this order?",
+    "options": ["Dismissing I-T notices", "Allowing I-T to reassess income", "Limiting I-T investigative powers", "Mandating I-T to disclose sources"],
+    "correctAnswer": "Allowing I-T to reassess income"
   },
   {
     "id": 7,
-    "question": "In line with efforts for poverty eradication, which scheme in Andhra Pradesh provides financial assistance to mothers for sending their children to private schools or colleges?",
-    "options": [
-      "Rythu Bharosa",
-      "Jagananna Thodu",
-      "Amma Vodi",
-      "YSR Cheyutha"
-    ],
-    "correctAnswer": "Amma Vodi"
+    "question": "Whose income was primarily under reassessment in the case where the Supreme Court upheld the High Court order?",
+    "options": ["Current CJI's family", "Ex-CJI's sons", "Prominent industrialists", "Political leaders"],
+    "correctAnswer": "Ex-CJI's sons"
   },
   {
     "id": 8,
-    "question": "Considering the focus on poverty removal, what is the primary objective of Telangana's 'Dalit Bandhu' scheme?",
-    "options": [
-      "To provide interest-free loans for education abroad",
-      "To offer financial assistance as a one-time grant for Dalit entrepreneurship",
-      "To distribute free agricultural land to landless Dalits",
-      "To establish exclusive residential schools for Dalit children"
-    ],
-    "correctAnswer": "To offer financial assistance as a one-time grant for Dalit entrepreneurship"
+    "question": "This Supreme Court ruling reinforces the authority of which government body in investigating financial discrepancies across India, including in states like Telangana and Andhra Pradesh?",
+    "options": ["Enforcement Directorate", "Central Bureau of Investigation", "Income-Tax Department", "Reserve Bank of India"],
+    "correctAnswer": "Income-Tax Department"
   },
   {
     "id": 9,
-    "question": "To combat poverty, the Andhra Pradesh government launched a scheme providing financial assistance to eligible women from SC, ST, BC, and minority communities. What is this scheme called?",
-    "options": [
-      "Rythu Bandhu",
-      "Kanti Velugu",
-      "YSR Cheyutha",
-      "Arogyasri"
-    ],
-    "correctAnswer": "YSR Cheyutha"
+    "question": "The upholding of the I-T reassessment order signifies what broader principle for financial compliance in India?",
+    "options": ["Exemption for judicial families", "Limited scope for tax audits", "Increased scrutiny for high-value transactions", "Reliance on self-declaration only"],
+    "correctAnswer": "Increased scrutiny for high-value transactions"
   },
   {
     "id": 10,
-    "question": "As part of poverty alleviation efforts, which scheme in Telangana provides universal eye screening and free corrective surgeries/spectacles?",
-    "options": [
-      "Arogyasri",
-      "Kanti Velugu",
-      "Rythu Bima",
-      "Mission Bhagiratha"
-    ],
-    "correctAnswer": "Kanti Velugu"
+    "question": "How might this Supreme Court decision impact tax compliance and financial transparency in the business sectors of states such as Telangana and Andhra Pradesh?",
+    "options": ["Encourage tax exemptions", "Lead to less rigorous audits", "Foster greater adherence to tax laws", "Primarily affect international corporations"],
+    "correctAnswer": "Foster greater adherence to tax laws"
   },
   {
     "id": 11,
-    "question": "Which initiative by the Andhra Pradesh government focuses on providing nine essential welfare schemes under a single umbrella, aiming for holistic poverty reduction?",
-    "options": [
-      "Navaratnalu",
-      "Mana Ooru - Mana Badi",
-      "Telangana Ku Haritha Haram",
-      "Mission Indradhanush"
-    ],
-    "correctAnswer": "Navaratnalu"
+    "question": "What was the Chief Justice of India's recent call regarding the Indian judiciary?",
+    "options": ["To increase court holidays", "To reduce judicial appointments", "To introspect on improving responsiveness", "To adopt a new judicial code"],
+    "correctAnswer": "To introspect on improving responsiveness"
   },
   {
     "id": 12,
-    "question": "In the context of poverty reduction, what is a significant goal of the 'Mission Bhagiratha' program in Telangana?",
-    "options": [
-      "To provide universal health insurance coverage",
-      "To ensure safe and potable drinking water to every household",
-      "To establish new industrial parks across the state",
-      "To offer free electricity to all farmers"
-    ],
-    "correctAnswer": "To ensure safe and potable drinking water to every household"
+    "question": "The CJI's statement on judiciary responsiveness is primarily aimed at addressing which concern in the Indian legal system?",
+    "options": ["Lack of judicial infrastructure", "High number of pending cases and delays", "Insufficient legal aid for the poor", "Over-reliance on digital platforms"],
+    "correctAnswer": "High number of pending cases and delays"
   },
   {
     "id": 13,
-    "question": "Which of the following schemes by the Andhra Pradesh government provides an annual financial incentive to tenant farmers?",
-    "options": [
-      "Jagananna Vidya Deevena",
-      "YSR Rythu Bharosa",
-      "YSR Pelli Kanuka",
-      "Jagananna Gorumudda"
-    ],
-    "correctAnswer": "YSR Rythu Bharosa"
+    "question": "How does improved judicial responsiveness directly benefit citizens and businesses in states like Telangana and Andhra Pradesh?",
+    "options": ["It increases court fees", "It accelerates dispute resolution and enhances trust in the legal system", "It introduces new types of lawsuits", "It restricts access to legal counsel"],
+    "correctAnswer": "It accelerates dispute resolution and enhances trust in the legal system"
   },
   {
     "id": 14,
-    "question": "To address poverty and promote self-employment, what is the 'Jagananna Thodu' scheme in Andhra Pradesh primarily focused on?",
-    "options": [
-      "Providing free housing to the urban poor",
-      "Offering interest-free loans to street vendors and small traders",
-      "Distributing free smartphones to students",
-      "Subsidizing air travel for senior citizens"
-    ],
-    "correctAnswer": "Offering interest-free loans to street vendors and small traders"
+    "question": "Which High Courts, specifically those serving Telangana and Andhra Pradesh, would be directly implicated in the CJI's call for introspection on judiciary responsiveness?",
+    "options": ["Bombay and Delhi High Courts", "High Court of Telangana and Andhra Pradesh High Court", "Karnataka and Madras High Courts", "Calcutta and Punjab & Haryana High Courts"],
+    "correctAnswer": "High Court of Telangana and Andhra Pradesh High Court"
   },
   {
     "id": 15,
-    "question": "Considering efforts towards poverty removal and financial inclusion, which scheme in Telangana provides life insurance coverage for farmers?",
-    "options": [
-      "Rythu Bandhu",
-      "Rythu Bima",
-      "Kanti Velugu",
-      "Aasara Pensions"
-    ],
-    "correctAnswer": "Rythu Bima"
+    "question": "Beyond judicial bodies, which other stakeholders in states like Telangana and Andhra Pradesh play a crucial role in enhancing overall judicial responsiveness?",
+    "options": ["Only law enforcement agencies", "Legal professionals, government departments, and citizens", "International judicial bodies", "Only state bar councils"],
+    "correctAnswer": "Legal professionals, government departments, and citizens"
   },
   {
     "id": 16,
-    "question": "Following reports of a techie couple involved in land and tax evasion, what digital platform has the Telangana government introduced to streamline land records and curb fraudulent transactions?",
-    "options": [
-      "MeeSeva",
-      "Dharani Portal",
-      "e-Panchayat",
-      "TS-iPASS"
-    ],
-    "correctAnswer": "Dharani Portal"
+    "question": "According to recent news, what was PM Modi's statement regarding poverty removal in India, referencing World Bank data?",
+    "options": ["Poverty is a persistent challenge", "Poverty has been completely eradicated", "Poverty removal is not just a slogan", "Poverty data is unreliable"],
+    "correctAnswer": "Poverty removal is not just a slogan"
   },
   {
     "id": 17,
-    "question": "Given the news about tax evasion and fake claims, what is a common measure the Income Tax department implements in major tech hubs like Hyderabad to investigate high-value property transactions?",
-    "options": [
-      "Automatic tax exemption for all tech professionals",
-      "Mandatory public declaration of all assets by techies",
-      "Scrutiny of property registrations and financial records of buyers and sellers",
-      "Random audits of all individual bank accounts irrespective of income"
-    ],
-    "correctAnswer": "Scrutiny of property registrations and financial records of buyers and sellers"
+    "question": "Which international organization's data was mentioned by PM Modi in his recent statement on poverty removal in India?",
+    "options": ["International Monetary Fund (IMF)", "United Nations Development Programme (UNDP)", "World Bank", "World Economic Forum (WEF)"],
+    "correctAnswer": "World Bank"
   },
   {
     "id": 18,
-    "question": "The news of a techie couple's involvement in land and tax evasion highlights potential issues in the real estate sector. What is the capital region of Andhra Pradesh where land transactions have seen significant scrutiny?",
-    "options": [
-      "Visakhapatnam",
-      "Tirupati",
-      "Kurnool",
-      "Amaravati"
-    ],
-    "correctAnswer": "Amaravati"
+    "question": "What is the broader implication of PM Modi's statement on poverty for India's socio-economic development goals?",
+    "options": ["Shift focus away from poverty", "A renewed commitment to poverty alleviation programs", "Increased foreign aid dependency", "Prioritizing only urban development"],
+    "correctAnswer": "A renewed commitment to poverty alleviation programs"
   },
   {
     "id": 19,
-    "question": "To prevent 'fake claims' and ensure transparency in property transactions, what government department in Telangana is primarily responsible for land registration and revenue collection from such deals?",
-    "options": [
-      "Department of Industries",
-      "Revenue and Registration Department",
-      "Department of Municipal Administration",
-      "Department of Tourism"
-    ],
-    "correctAnswer": "Revenue and Registration Department"
+    "question": "How do welfare schemes implemented in states like Telangana (e.g., Rythu Bandhu) and Andhra Pradesh (e.g., Jagananna Vidya Deevena) contribute to the national goal of poverty reduction?",
+    "options": ["They only benefit urban populations", "They increase agricultural dependency", "They provide direct financial aid and support for education/livelihoods", "They are primarily aimed at industrial growth"],
+    "correctAnswer": "They provide direct financial aid and support for education/livelihoods"
   },
   {
     "id": 20,
-    "question": "Reports of tax evasion by a techie couple underscore the importance of proper tax compliance. Which IT major has a significant presence in Hyderabad, contributing to its status as a tech hub?",
-    "options": [
-      "Tata Motors",
-      "Wipro",
-      "Reliance Industries",
-      "Adani Ports"
-    ],
-    "correctAnswer": "Wipro"
+    "question": "What role does economic growth in states like Telangana and Andhra Pradesh play in supporting the national objective of poverty removal?",
+    "options": ["It exacerbates regional inequalities", "It has no direct correlation with poverty reduction", "It creates employment opportunities and increases state revenues for welfare programs", "It only benefits the wealthy"],
+    "correctAnswer": "It creates employment opportunities and increases state revenues for welfare programs"
   },
   {
     "id": 21,
-    "question": "In light of concerns about financial irregularities, what is a key feature of the Andhra Pradesh online property registration system designed to reduce fraud?",
-    "options": [
-      "Manual submission of all documents at the sub-registrar office only",
-      "Mandatory biometric authentication and Aadhaar linkage for all parties",
-      "Exemption from stamp duty for online registrations",
-      "Only government employees are allowed to register properties"
-    ],
-    "correctAnswer": "Mandatory biometric authentication and Aadhaar linkage for all parties"
+    "question": "An Income Tax investigation recently uncovered a significant case of fake claims and land evasion involving which specific demographic?",
+    "options": ["Political activists", "Bureaucrats", "A techie couple", "Retired defence personnel"],
+    "correctAnswer": "A techie couple"
   },
   {
     "id": 22,
-    "question": "The case of a techie couple involved in land fraud points to the need for robust regulatory frameworks. What is the name of Hyderabad's prominent IT corridor that has seen massive real estate development?",
-    "options": [
-      "Hitech City",
-      "Auto Nagar",
-      "Gachibowli",
-      "Both A and C"
-    ],
-    "correctAnswer": "Both A and C"
+    "question": "What was the approximate value of the land evasion reported in the I-T net case involving the techie couple?",
+    "options": ["Rs 53 lakh", "Rs 5.3 crore", "Rs 53 crore", "Rs 530 crore"],
+    "correctAnswer": "Rs 5.3 crore"
   },
   {
     "id": 23,
-    "question": "While Bhutan dedicated a Buddhist stupa to PM Modi, highlighting India's Buddhist heritage, which ancient site in Andhra Pradesh is renowned for its Buddhist stupas and sculptures, often referred to as 'The Abode of the Buddha'?",
-    "options": [
-      "Hampi",
-      "Mahabalipuram",
-      "Amaravati",
-      "Ajanta Caves"
-    ],
-    "correctAnswer": "Amaravati"
+    "question": "This case of fake claims and land evasion highlights tax compliance challenges often seen in which rapidly developing urban sectors of India, including those in Telangana and Andhra Pradesh?",
+    "options": ["Rural agricultural sector", "Traditional manufacturing hubs", "IT and real estate sectors", "Heavy industry sector"],
+    "correctAnswer": "IT and real estate sectors"
   },
   {
     "id": 24,
-    "question": "To commemorate India's rich Buddhist legacy, which major Buddhist heritage theme park was recently developed in Telangana?",
-    "options": [
-      "Dharma Vanam",
-      "Buddha Vanam",
-      "Shanti Vanam",
-      "Maha Bodhi Park"
-    ],
-    "correctAnswer": "Buddha Vanam"
+    "question": "What specific asset was primarily involved in the reported Rs 5.3 crore evasion case by the techie couple?",
+    "options": ["Gold and jewellery", "Bank deposits", "Land", "Luxury vehicles"],
+    "correctAnswer": "Land"
   },
   {
     "id": 25,
-    "question": "Continuing with India's significant Buddhist heritage, which site, now submerged under the Nagarjuna Sagar Dam reservoir, was once a thriving Buddhist learning center in the Telugu region?",
-    "options": [
-      "Undavalli Caves",
-      "Nagarjunakonda",
-      "Guntupalli Caves",
-      "Kapilavastu"
-    ],
-    "correctAnswer": "Nagarjunakonda"
+    "question": "What are the general implications of such Income Tax investigations for white-collar professionals and the real estate market in major Indian cities like Hyderabad (Telangana) and Visakhapatnam (Andhra Pradesh)?",
+    "options": ["Increased tax exemptions", "Reduced oversight on property transactions", "Enhanced scrutiny and demand for transparency", "No significant impact"],
+    "correctAnswer": "Enhanced scrutiny and demand for transparency"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian court recently issued guidelines regarding Diwali firecrackers, specifying dates and time slots?",
-    "options": ["High Court of Delhi", "Supreme Court of India", "National Green Tribunal", "Bombay High Court"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "What did the Supreme Court recently rule regarding the Election Commission's role in voter awareness campaigns, specifically concerning civil society participation?",
+    "options": ["EC has exclusive monopoly over campaigns", "Civil society requires prior approval from State Govt. only", "EC cannot monopolize voter awareness campaigns", "Only political parties can conduct voter awareness"],
+    "correctAnswer": "EC cannot monopolize voter awareness campaigns"
   },
   {
     "id": 2,
-    "question": "For which specific festival did the Supreme Court of India issue guidelines on bursting firecrackers?",
-    "options": ["Holi", "Diwali", "Eid", "Christmas"],
-    "correctAnswer": "Diwali"
+    "question": "The Supreme Court's decision on civil society involvement in voter awareness campaigns, though specifically relating to Rajasthan, sets a precedent applicable to electoral processes in all Indian states. This would include which of the following states?",
+    "options": ["Only Rajasthan and Maharashtra", "Andhra Pradesh, Telangana, and all other Indian states", "Only Union Territories", "Northeastern states exclusively"],
+    "correctAnswer": "Andhra Pradesh, Telangana, and all other Indian states"
   },
   {
     "id": 3,
-    "question": "According to the Supreme Court's guidelines, what dates were specified for bursting firecrackers during Diwali?",
-    "options": ["November 1-2", "November 7-8", "November 14-15", "November 21-22"],
-    "correctAnswer": "November 7-8"
+    "question": "What specific instruction did the Supreme Court give to the State Election Commission mentioned in the news regarding a civil society group's request for voter awareness campaigns?",
+    "options": ["To reject the request outright", "To postpone consideration indefinitely", "To reconsider its request within 48 hours", "To forward the request to the central government"],
+    "correctAnswer": "To reconsider its request within 48 hours"
   },
   {
     "id": 4,
-    "question": "How many specific time slots were mandated by the Supreme Court for bursting firecrackers on the designated Diwali dates?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "The civil society group involved in the Supreme Court case regarding voter awareness campaigns, which impacts democratic participation nationwide including in Telangana and Andhra Pradesh, was led by which prominent activist?",
+    "options": ["Medha Patkar", "Aruna Roy", "Anna Hazare", "Kiran Bedi"],
+    "correctAnswer": "Aruna Roy"
   },
   {
     "id": 5,
-    "question": "What type of firecrackers did the Supreme Court advocate for during the Diwali celebrations?",
-    "options": ["Loud crackers", "Imported crackers", "Green crackers", "Traditional crackers"],
-    "correctAnswer": "Green crackers"
+    "question": "What is a primary objective behind the Home Ministry's unveiling of new Foreigners Regional Registration Offices (FRROs) across India, benefiting states like Andhra Pradesh and Telangana through enhanced visitor experience?",
+    "options": ["To increase visa processing fees", "To strictly limit foreign visitors", "To improve accessibility for international visitors and boost tourism/education", "To centralize all immigration data in one office"],
+    "correctAnswer": "To improve accessibility for international visitors and boost tourism/education"
   },
   {
     "id": 6,
-    "question": "What was the implicit environmental focus of the Supreme Court's recent Diwali cracker guidelines?",
-    "options": ["Promoting local manufacturing", "Reducing noise pollution", "Keeping the environment green", "Encouraging community gatherings"],
-    "correctAnswer": "Keeping the environment green"
+    "question": "The new FRROs are part of India's broader mission to establish itself as a premier destination for which two key sectors, relevant to the economic growth of states like Telangana and Andhra Pradesh?",
+    "options": ["Manufacturing and Agriculture", "Tourism and Education", "Defense and Space", "IT and Healthcare"],
+    "correctAnswer": "Tourism and Education"
   },
   {
     "id": 7,
-    "question": "Which Indian defense force recently rescued 20 crew members from armed pirates aboard a fishing vessel?",
-    "options": ["Indian Army", "Indian Air Force", "Indian Navy", "Indian Coast Guard"],
-    "correctAnswer": "Indian Navy"
+    "question": "Though initially aimed at West Bengal, the modernization of tribunal portals through e-signatures for judges signifies a national move towards digital efficiency. Which states, including Telangana and Andhra Pradesh, could benefit from such advancements in their judicial processes?",
+    "options": ["Only West Bengal and Kerala", "All states across India", "Primarily Himalayan states", "Only states with coastal borders"],
+    "correctAnswer": "All states across India"
   },
   {
     "id": 8,
-    "question": "How many crew members were rescued by the Indian Navy from a fishing vessel that was attacked by armed pirates?",
-    "options": ["10", "15", "20", "25"],
-    "correctAnswer": "20"
+    "question": "The implementation of e-signatures for judges on tribunal portals, a step towards digital governance, aims to significantly enhance the efficiency of what process for the judiciary across India, including in states like Andhra Pradesh and Telangana?",
+    "options": ["Jury selection", "Police investigations", "Appeal processing and bulk uploading orders", "Prison management"],
+    "correctAnswer": "Appeal processing and bulk uploading orders"
   },
   {
     "id": 9,
-    "question": "What specific threat did the Indian Navy successfully neutralize during its recent rescue operation involving a fishing vessel?",
-    "options": ["Stormy weather", "Mechanical failure", "Armed pirates", "Fuel shortage"],
-    "correctAnswer": "Armed pirates"
+    "question": "What did the Supreme Court recently rule regarding marital discord in the context of pregnancy termination, a ruling applicable across all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["It is always a valid ground for termination", "It can be a ground if both spouses agree", "Marital discord is not a ground for termination of pregnancy", "Only judicial separation is a valid ground"],
+    "correctAnswer": "Marital discord is not a ground for termination of pregnancy"
   },
   {
     "id": 10,
-    "question": "Approximately how far from Mumbai did the Indian Navy's rescue operation of the fishing vessel take place?",
-    "options": ["Within 500 km", "Around 1,000 km", "Over 3,000 km", "Less than 100 km"],
-    "correctAnswer": "Over 3,000 km"
+    "question": "The Supreme Court's ruling on marital discord not being a ground for pregnancy termination ensures a uniform legal interpretation across which geographical area?",
+    "options": ["Specific urban centers only", "Only metropolitan cities", "All states and union territories of India, including Andhra Pradesh and Telangana", "International courts only"],
+    "correctAnswer": "All states and union territories of India, including Andhra Pradesh and Telangana"
   },
   {
     "id": 11,
-    "question": "What was the reported duration of the Indian Navy's rescue operation that saved 20 crew members from pirates?",
-    "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
-    "correctAnswer": "48 hours"
+    "question": "According to PM Modi, what strategic investment helped India mitigate the economic impact from the Iran war?",
+    "options": ["Investment in fossil fuels", "Investment in renewable energy", "Investment in gold reserves", "Investment in defense manufacturing"],
+    "correctAnswer": "Investment in renewable energy"
   },
   {
     "id": 12,
-    "question": "Who specifically praised the Indian Navy's 48-hour rescue operation?",
-    "options": ["Prime Minister Narendra Modi", "Defense Minister Rajnath Singh", "Home Minister Amit Shah", "Navy Chief Admiral R. Hari Kumar"],
-    "correctAnswer": "Defense Minister Rajnath Singh"
+    "question": "India's focus on renewable energy, as highlighted by PM Modi, has implications for states with significant clean energy potential. Which of the following states are actively pursuing renewable energy projects?",
+    "options": ["Only Bihar and Jharkhand", "Andhra Pradesh and Telangana", "Primarily Jammu & Kashmir", "Lakshadweep and Andaman & Nicobar Islands"],
+    "correctAnswer": "Andhra Pradesh and Telangana"
   },
   {
     "id": 13,
-    "question": "What type of vessel was rescued by the Indian Navy from armed pirates?",
-    "options": ["Cargo ship", "Cruise liner", "Fishing vessel", "Oil tanker"],
-    "correctAnswer": "Fishing vessel"
+    "question": "The Prime Minister's statement on renewable energy underscores India's commitment to energy security and sustainable development, a goal shared by states like Telangana and Andhra Pradesh. What type of energy is being promoted?",
+    "options": ["Nuclear energy", "Thermal energy", "Renewable energy", "Hydrocarbon energy"],
+    "correctAnswer": "Renewable energy"
   },
   {
     "id": 14,
-    "question": "Which foreign government recently caused a 'row' by awarding an IT contract to an Indian city?",
-    "options": ["US Government", "German Government", "Scottish Government", "Canadian Government"],
-    "correctAnswer": "Scottish Government"
+    "question": "What was the Supreme Court's recent observation regarding domestic air travel in India?",
+    "options": ["Air fares have become very affordable", "Air fares have increased by 700%, suggesting people 'don't fly'", "New airlines are rapidly expanding routes", "Government subsidies have stabilized air travel costs"],
+    "correctAnswer": "Air fares have increased by 700%, suggesting people 'don't fly'"
   },
   {
     "id": 15,
-    "question": "Which Indian city was recently awarded an IT contract by the Scottish government?",
-    "options": ["Hyderabad", "Chennai", "Bengaluru", "Pune"],
-    "correctAnswer": "Bengaluru"
+    "question": "The significant increase in air fares, a concern raised by the Supreme Court, directly impacts the cost of travel for citizens, including those residing in major cities of Telangana and Andhra Pradesh such as Hyderabad and Visakhapatnam. What was the approximate percentage increase mentioned?",
+    "options": ["100%", "300%", "700%", "1000%"],
+    "correctAnswer": "700%"
   },
   {
     "id": 16,
-    "question": "The IT contract awarded to Bengaluru by the Scottish government is intended to administer what specific service?",
-    "options": ["Tax collection", "Healthcare records", "Welfare payments", "Education grants"],
-    "correctAnswer": "Welfare payments"
+    "question": "Which Indian constitutional body is primarily responsible for conducting elections and has recently been reminded by the Supreme Court not to monopolize voter awareness campaigns, affecting all states including Telangana and Andhra Pradesh?",
+    "options": ["NITI Aayog", "Election Commission of India", "Union Public Service Commission", "Comptroller and Auditor General"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 17,
-    "question": "In which Indian state is the city of Bengaluru, which received an IT contract from the Scottish government, located?",
-    "options": ["Andhra Pradesh", "Telangana", "Kerala", "Karnataka"],
-    "correctAnswer": "Karnataka"
+    "question": "The Indian Navy's successful operation off Somalia highlights India's maritime capabilities. Which of the following states has a significant coastline and a major naval base, contributing to India's maritime security from its eastern flank?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Uttar Pradesh", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 18,
-    "question": "What was the general reaction mentioned in the news after the Scottish government awarded an IT contract to an Indian city?",
-    "options": ["Celebration", "Confusion", "A 'row' erupted", "Strong approval"],
-    "correctAnswer": "A 'row' erupted"
+    "question": "The Home Ministry's initiative to establish India as a premier destination for tourism and education through new FRROs aims to attract more international visitors. Which major airport and city in Telangana is a key gateway for international travelers benefiting from such initiatives?",
+    "options": ["Begumpet Airport, Hyderabad", "Rajiv Gandhi International Airport, Hyderabad", "Vijayawada International Airport", "Tirupati Airport"],
+    "correctAnswer": "Rajiv Gandhi International Airport, Hyderabad"
   },
   {
     "id": 19,
-    "question": "Which prominent Indian institution recently developed a 3D-printed model for studying cancer drugs?",
-    "options": ["IIT Bombay", "AIIMS Delhi", "IISc Bengaluru", "NIMHANS"],
-    "correctAnswer": "IISc Bengaluru"
+    "question": "The CRPF achieved a significant milestone with no operational fatalities in a year. While operating nationwide, CRPF personnel are deployed in various states, including those facing internal security challenges. From which states are CRPF personnel recruited, including from regions like Andhra Pradesh and Telangana?",
+    "options": ["Only Kashmir Valley", "Only Northeast India", "Across all states and union territories of India", "Primarily Punjab and Haryana"],
+    "correctAnswer": "Across all states and union territories of India"
   },
   {
     "id": 20,
-    "question": "What specific type of model was developed by IISc for advanced medical research?",
-    "options": ["2D simulation model", "Biological tissue model", "3D-printed model", "Virtual reality model"],
-    "correctAnswer": "3D-printed model"
+    "question": "The Supreme Court's emphasis on legal clarity and citizen's rights, as demonstrated in recent rulings, is crucial for good governance across India. Which state's High Court would be responsible for interpreting and applying such SC rulings for its citizens in Hyderabad?",
+    "options": ["Only Delhi High Court", "Bombay High Court", "High Court for the State of Telangana", "Kolkata High Court"],
+    "correctAnswer": "High Court for the State of Telangana"
   },
   {
     "id": 21,
-    "question": "The 3D-printed model developed by IISc is designed to study what aspect of cancer treatment?",
-    "options": ["Drug side effects", "Cancer drug penetration into tumours", "Surgical techniques for tumours", "Early detection of cancer"],
-    "correctAnswer": "Cancer drug penetration into tumours"
+    "question": "India's commitment to renewable energy, as mentioned by PM Modi, has led to significant projects across the country. Which of the following is a prominent renewable energy source being actively developed in states like Andhra Pradesh and Telangana to boost their energy security?",
+    "options": ["Tidal energy", "Geothermal energy", "Solar energy", "Biomass energy (excluding agricultural waste)"],
+    "correctAnswer": "Solar energy"
   },
   {
     "id": 22,
-    "question": "What does the abbreviation IISc primarily stand for?",
-    "options": ["Indian Institute of Communication", "Indian Institute of Chemistry", "Indian Institute of Science", "International Institute of Systems"],
-    "correctAnswer": "Indian Institute of Science"
+    "question": "The Supreme Court's concern about high airfares could impact pilgrims and tourists traveling to famous religious and historical sites in states like Andhra Pradesh. Which famous temple town in Andhra Pradesh relies heavily on air connectivity for pilgrims?",
+    "options": ["Srisailam", "Lepakshi", "Tirupati", "Amaravati"],
+    "correctAnswer": "Tirupati"
   },
   {
     "id": 23,
-    "question": "Where is the Indian Institute of Science (IISc), which developed the 3D-printed model, primarily located?",
-    "options": ["Hyderabad", "Chennai", "Bengaluru", "Mumbai"],
-    "correctAnswer": "Bengaluru"
+    "question": "The principle that the Election Commission cannot monopolize voter awareness campaigns encourages greater civic participation. This principle empowers civil society organizations in states like Andhra Pradesh and Telangana to contribute to which aspect of democratic functioning?",
+    "options": ["Electoral candidate selection", "Voter registration and education", "Election result declaration", "Setting election dates"],
+    "correctAnswer": "Voter registration and education"
   },
   {
     "id": 24,
-    "question": "What national real estate regulation act was a homebuyers body urging the Prime Minister to recast?",
-    "options": ["SEBI", "RBI", "RERA", "IRDAI"],
-    "correctAnswer": "RERA"
+    "question": "The modernization of judicial processes, including the use of e-signatures for judges, aims to streamline justice delivery. Which part of the Indian judicial system, including in Telangana and Andhra Pradesh, benefits from faster appeal processing?",
+    "options": ["Police stations", "Appellate tribunals", "Primary schools", "Municipal corporations"],
+    "correctAnswer": "Appellate tribunals"
   },
   {
     "id": 25,
-    "question": "What was a key recommendation made by the homebuyers body regarding the reform of RERA?",
-    "options": ["To increase property prices", "To separate promotion from protection", "To simplify property registration", "To abolish the act completely"],
-    "correctAnswer": "To separate promotion from protection"
+    "question": "The Home Ministry's initiative to boost tourism and education nationally would include efforts to promote cultural heritage. Which of the following is a famous historical site in Telangana that would benefit from increased tourism due to such national initiatives?",
+    "options": ["Hampi", "Ajanta Caves", "Charminar", "Konark Sun Temple"],
+    "correctAnswer": "Charminar"
   }
 ]

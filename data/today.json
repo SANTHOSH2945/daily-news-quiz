@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Supreme Court recently highlighted a critical concern regarding India's demographic trends, stating the country would face 'serious consequences.' What is this primary concern?",
-    "options": ["Declining literacy rates", "Rapid urbanization", "Crumbling fear of overpopulation", "Lack of technological innovation"],
-    "correctAnswer": "Crumbling fear of overpopulation"
+    "question": "Which Indian state hosts the primary space launch center, Satish Dhawan Space Centre (SDSC) SHAR, crucial for India's space missions mentioned in the context of safeguarding strategic autonomy?",
+    "options": ["Karnataka", "Odisha", "Tamil Nadu", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 2,
-    "question": "The Supreme Court's remarks on India's overpopulation issue indirectly call for effective demographic planning which is relevant for states like Telangana and Andhra Pradesh. What fundamental aspect of national life is most directly impacted by overpopulation?",
-    "options": ["International trade relations", "Resource allocation and public services", "Space exploration programs", "Cultural diversity"],
-    "correctAnswer": "Resource allocation and public services"
+    "question": "The news mentions India's challenge in safeguarding its strategic autonomy in space. Which Indian organization is primarily responsible for India's space exploration and satellite launch activities?",
+    "options": ["DRDO", "ISRO", "BARC", "HAL"],
+    "correctAnswer": "ISRO"
   },
   {
     "id": 3,
-    "question": "Which new platform has TRAI recently launched to enable users to check internet speeds and network quality across India, including in Telangana and Andhra Pradesh?",
-    "options": ["NetSpeed Pro", "Digital Connect", "Network Anubhav Platform", "Broadband Monitor"],
-    "correctAnswer": "Network Anubhav Platform"
+    "question": "The Satish Dhawan Space Centre (SDSC) SHAR, located in Andhra Pradesh, is well-known for what primary function in India's space program?",
+    "options": ["Satellite manufacturing", "Deep space communication", "Rocket launching", "Astronaut training"],
+    "correctAnswer": "Rocket launching"
   },
   {
     "id": 4,
-    "question": "What is the primary objective of TRAI's Network Anubhav Platform?",
-    "options": ["To promote new telecom operators", "To provide insights about internet speeds and network quality", "To manage subscriber billing", "To regulate international calls"],
-    "correctAnswer": "To provide insights about internet speeds and network quality"
+    "question": "Given India's focus on strategic autonomy in space, what is a key facility in Andhra Pradesh that plays a crucial role in achieving this autonomy?",
+    "options": ["National Remote Sensing Centre", "Liquid Propulsion Systems Centre", "Satish Dhawan Space Centre", "Vikram Sarabhai Space Centre"],
+    "correctAnswer": "Satish Dhawan Space Centre"
   },
   {
     "id": 5,
-    "question": "The Network Anubhav Platform compiles user test data from which existing TRAI applications?",
-    "options": ["MyPlan and MyData", "MySpeed and MyCall", "NetTest and VoiceQuality", "SignalCheck and DataUsage"],
-    "correctAnswer": "MySpeed and MyCall"
+    "question": "An Interpol Red Notice was issued at the request of Indian investigating agencies for the arrest of an accused abroad. Which central Indian agency is typically involved in coordinating such international requests for law enforcement, applicable to cases potentially affecting states like Telangana and Andhra Pradesh?",
+    "options": ["RAW", "NIA", "CBI", "IB"],
+    "correctAnswer": "CBI"
   },
   {
     "id": 6,
-    "question": "How does TRAI's Network Anubhav Platform aim to enhance transparency for telecom consumers, including those in Andhra Pradesh and Telangana?",
-    "options": ["By offering discounted plans", "By providing geospatial maps of network performance", "By allowing direct complaints against operators", "By publishing financial reports of service providers"],
-    "correctAnswer": "By providing geospatial maps of network performance"
+    "question": "The news mentions Ravi Uppal's extradition to India from UAE. Which international organization is responsible for issuing Red Notices that facilitate the arrest and extradition of fugitives globally?",
+    "options": ["United Nations", "World Police Organization (INTERPOL)", "International Criminal Court", "Europol"],
+    "correctAnswer": "World Police Organization (INTERPOL)"
   },
   {
     "id": 7,
-    "question": "Apart from consumers, which entities can utilize the data and insights from TRAI's Network Anubhav Platform for network optimization?",
-    "options": ["Government tax departments", "International telecom regulatory bodies", "Telecom service providers", "Smartphone manufacturers"],
-    "correctAnswer": "Telecom service providers"
+    "question": "Apart from CBI, which other Indian agency was mentioned as coordinating efforts to secure the extradition of Ravi Uppal in connection with the Mahadev betting app case, an agency whose operations extend to states like Telangana and Andhra Pradesh?",
+    "options": ["Income Tax Department", "Directorate of Revenue Intelligence (DRI)", "Enforcement Directorate (ED)", "Serious Fraud Investigation Office (SFIO)"],
+    "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 8,
-    "question": "The geospatial maps on the Network Anubhav Platform categorize results primarily by which two criteria?",
-    "options": ["Population density and income level", "Service provider and technology", "City size and user age", "Data usage and time of day"],
-    "correctAnswer": "Service provider and technology"
+    "question": "The extradition of accused individuals from the UAE to India, as seen in the news, is governed by agreements between the two countries. Such legal cooperation is essential for tackling which type of crimes that may impact any Indian state, including Telangana and Andhra Pradesh?",
+    "options": ["Local property disputes", "Transnational organized crime", "Traffic violations", "Civil defamation cases"],
+    "correctAnswer": "Transnational organized crime"
   },
   {
     "id": 9,
-    "question": "The Supreme Court recently issued a notice to the Centre and the poll body regarding what specific aspect concerning the Chief Election Commissioner (CEC)?",
-    "options": ["The CEC's salary structure", "The CEC's retirement age", "Blanket immunity to the CEC", "The CEC's power to postpone elections"],
-    "correctAnswer": "Blanket immunity to the CEC"
+    "question": "What is the primary purpose of an Interpol Red Notice, as highlighted by the arrests and extraditions mentioned in the news, relevant for Indian law enforcement in all states?",
+    "options": ["To issue travel warnings for citizens.", "To seek the provisional arrest of a person pending extradition.", "To impose sanctions on countries.", "To facilitate intelligence sharing between agencies."],
+    "correctAnswer": "To seek the provisional arrest of a person pending extradition."
   },
   {
     "id": 10,
-    "question": "To which two entities did the Supreme Court issue notices concerning the blanket immunity of the Chief Election Commissioner (CEC)?",
-    "options": ["The Prime Minister's Office and Parliament", "The Centre and the Election Commission", "The President and the Judiciary", "State Governments and Governors"],
-    "correctAnswer": "The Centre and the Election Commission"
+    "question": "The Mahadev betting app case, leading to the arrest of Ravi Uppal, involves allegations of money laundering and illegal online betting. These types of financial crimes fall under the purview of which Indian agency, whose jurisdiction covers states like Telangana and Andhra Pradesh?",
+    "options": ["Narcotics Control Bureau", "Central Bureau of Investigation", "Enforcement Directorate", "National Investigation Agency"],
+    "correctAnswer": "Enforcement Directorate"
   },
   {
     "id": 11,
-    "question": "The ongoing discussion in the Supreme Court regarding the Chief Election Commissioner's (CEC) immunity has implications for the fairness and independence of electoral processes in all states, including Telangana and Andhra Pradesh. What is a key principle often debated in relation to such immunities?",
-    "options": ["Executive privilege", "Judicial activism", "Accountability and transparency", "Legislative supremacy"],
-    "correctAnswer": "Accountability and transparency"
+    "question": "The news specifies that Ravi Uppal secured a passport from Vanuatu. The effort to extradite him back to India involves which branch of the Indian government, which oversees such international legal processes for all states?",
+    "options": ["Legislative", "Executive", "Judiciary", "Military"],
+    "correctAnswer": "Executive"
   },
   {
     "id": 12,
-    "question": "The Chief Election Commissioner (CEC) heads which constitutional body responsible for conducting elections in India, relevant for states like Telangana and Andhra Pradesh?",
-    "options": ["Union Public Service Commission", "Election Commission of India", "NITI Aayog", "Comptroller and Auditor General"],
-    "correctAnswer": "Election Commission of India"
+    "question": "The CBI successfully extradited a sexual assault accused from the UAE. This highlights the importance of which aspect in combating international crime, a benefit to law and order across all Indian states including Telangana and Andhra Pradesh?",
+    "options": ["Bilateral trade agreements", "International police cooperation", "Cultural exchange programs", "Tourism initiatives"],
+    "correctAnswer": "International police cooperation"
   },
   {
     "id": 13,
-    "question": "Assam Chief Minister Himanta Biswa Sarma criticized Rahul Gandhi's proposal for a public debate with PM Modi, suggesting that such discussions should primarily occur where?",
-    "options": ["On social media platforms", "During press conferences", "In Parliament", "At public rallies"],
-    "correctAnswer": "In Parliament"
+    "question": "The news refers to the 'Special Intensive Revision of voter lists'. Which independent constitutional body in India is responsible for conducting such revisions and preparing electoral rolls for elections in all states, including Telangana and Andhra Pradesh?",
+    "options": ["Ministry of Home Affairs", "Parliament of India", "Election Commission of India", "Supreme Court of India"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 14,
-    "question": "Which Congress leader recently proposed a public debate with Prime Minister Modi to address national issues?",
-    "options": ["Mallikarjun Kharge", "P. Chidambaram", "Rahul Gandhi", "Shashi Tharoor"],
-    "correctAnswer": "Rahul Gandhi"
+    "question": "What is the primary objective of the Special Intensive Revision of voter lists, as discussed in the context of ensuring fair electoral processes across Indian states like Telangana and Andhra Pradesh?",
+    "options": ["To update property records.", "To identify eligible voters and remove duplicate/ineligible names.", "To register political parties.", "To determine election dates."],
+    "correctAnswer": "To identify eligible voters and remove duplicate/ineligible names."
   },
   {
     "id": 15,
-    "question": "What types of issues did Rahul Gandhi reportedly wish to address in his proposed debate with PM Modi, a topic of interest for citizens across India including those in AP and Telangana?",
-    "options": ["International sports and cultural exchange", "Regional tourism and heritage sites", "National connections and financial matters", "Environmental conservation and climate change"],
-    "correctAnswer": "National connections and financial matters"
+    "question": "The news mentions Booth Level Officers (BLOs) facilitating voter registration door-to-door. These officers play a crucial role at which level of the electoral administration in states like Telangana and Andhra Pradesh?",
+    "options": ["State level", "District level", "Polling booth level", "National level"],
+    "correctAnswer": "Polling booth level"
   },
   {
     "id": 16,
-    "question": "Himanta Biswa Sarma challenged Rahul Gandhi to raise various critical issues during parliamentary sessions. Which of the following examples did he explicitly mention?",
-    "options": ["Demonetization and GST implementation", "Bofors and the Bhopal Gas Tragedy", "Farm Laws and Pegasus controversy", "Ayodhya dispute and Article 370"],
-    "correctAnswer": "Bofors and the Bhopal Gas Tragedy"
+    "question": "Accusations against a political party for 'opposing SIR to legitimise outsiders' relate to concerns about the integrity of which fundamental democratic process in India, vital for elections in states like Telangana and Andhra Pradesh?",
+    "options": ["Judicial appointments", "Electoral process", "Legislative debates", "Cabinet formation"],
+    "correctAnswer": "Electoral process"
   },
   {
     "id": 17,
-    "question": "An FIR was recently filed against which prominent lawyer and activist for allegedly sharing a fake video of a Russian minister criticizing India?",
-    "options": ["Kapil Sibal", "Ram Jethmalani", "Prashant Bhushan", "Abhishek Manu Singhvi"],
-    "correctAnswer": "Prashant Bhushan"
+    "question": "The Election Commission of India's credibility was mentioned in the context of electoral losses. What is a key constitutional mandate of the ECI that it upholds across all Indian states, including Telangana and Andhra Pradesh?",
+    "options": ["To manage government finances.", "To ensure free and fair elections.", "To appoint state governors.", "To formulate foreign policy."],
+    "correctAnswer": "To ensure free and fair elections."
   },
   {
     "id": 18,
-    "question": "The FIR against Prashant Bhushan was filed due to his alleged involvement in sharing what type of content?",
-    "options": ["A copyrighted song", "A fake video", "Classified government documents", "Hate speech against a community"],
-    "correctAnswer": "A fake video"
+    "question": "The process of voter list revision is critical for ensuring that elections in states like Telangana and Andhra Pradesh accurately reflect the will of which group?",
+    "options": ["Political party members", "Eligible adult citizens", "Government employees", "Foreign nationals"],
+    "correctAnswer": "Eligible adult citizens"
   },
   {
     "id": 19,
-    "question": "The incident involving Prashant Bhushan and a fake video highlights a growing national concern about the spread of what type of information, relevant to public discourse in states like Andhra Pradesh and Telangana?",
-    "options": ["Academic research papers", "Misinformation and disinformation", "Official government statistics", "Historical archives"],
-    "correctAnswer": "Misinformation and disinformation"
+    "question": "When the Election Commission undertakes a 'Special Intensive Revision' of voter lists, it aims to achieve what for the electoral rolls in every constituency, including those in Telangana and Andhra Pradesh?",
+    "options": ["Expansion without verification", "Accuracy and completeness", "Exclusion of certain demographics", "Random selection of voters"],
+    "correctAnswer": "Accuracy and completeness"
   },
   {
     "id": 20,
-    "question": "Another Indian seafarer was recently killed, bringing the total toll to 23, near which country?",
-    "options": ["Somalia", "Yemen", "Oman", "Iran"],
-    "correctAnswer": "Oman"
+    "question": "The importance of door-to-door voter registration facilitated by Booth Level Officers (BLOs) is to ensure which principle of democracy in states like Telangana and Andhra Pradesh?",
+    "options": ["Exclusive voting rights", "Universal adult franchise", "Limited suffrage", "Indirect elections"],
+    "correctAnswer": "Universal adult franchise"
   },
   {
     "id": 21,
-    "question": "The tragic incidents of deaths among Indian citizens near Oman specifically concern individuals employed in which profession, relevant to families in various Indian states including AP and Telangana?",
-    "options": ["Migrant laborers", "Seafarers", "Medical professionals", "IT workers"],
-    "correctAnswer": "Seafarers"
+    "question": "What is the overall goal for India in space activities, as suggested by the phrase 'safeguarding strategic autonomy' in the news context, a goal supported by facilities like those in Andhra Pradesh?",
+    "options": ["To solely rely on international partners for space technology.", "To establish independent capabilities and decision-making in space.", "To privatize all government space assets.", "To only focus on military applications of space."],
+    "correctAnswer": "To establish independent capabilities and decision-making in space."
   },
   {
     "id": 22,
-    "question": "A recent news report highlighted a judge facing a serious charge while still presiding over a POCSO court. What was the nature of this charge?",
-    "options": ["Embezzlement", "Assault", "Rape", "Bribery"],
-    "correctAnswer": "Rape"
+    "question": "Extradition treaties and cooperation between countries like India and the UAE are primarily aimed at facilitating justice in cases involving which kind of offenders, relevant for law enforcement in all Indian states?",
+    "options": ["Individuals seeking political asylum.", "Persons accused of committing crimes in one country and fleeing to another.", "Economic migrants without valid documents.", "Tourists overstaying their visas."],
+    "correctAnswer": "Persons accused of committing crimes in one country and fleeing to another."
   },
   {
     "id": 23,
-    "question": "The P.O.C.S.O. Act, under which the mentioned court operates and is implemented in all Indian states including Telangana and Andhra Pradesh, primarily aims to protect which vulnerable group?",
-    "options": ["Senior citizens", "Women", "Children", "Persons with disabilities"],
-    "correctAnswer": "Children"
+    "question": "The CBI and ED are two prominent central agencies in India, whose investigative work can touch upon cases originating from or affecting states like Telangana and Andhra Pradesh. What is the primary difference in their typical investigative focus?",
+    "options": ["CBI focuses on financial crimes; ED focuses on general criminal cases.", "CBI focuses on corruption and major criminal cases; ED focuses on economic offenses and money laundering.", "CBI focuses on cybercrime; ED focuses on terrorism.", "CBI focuses on state-level issues; ED focuses on national issues."],
+    "correctAnswer": "CBI focuses on corruption and major criminal cases; ED focuses on economic offenses and money laundering."
   },
   {
     "id": 24,
-    "question": "The Supreme Court, in its statement about India facing 'serious consequences' due to overpopulation, described the 'fear' of this as what?",
-    "options": ["Mounting", "Growing", "Crumbling", "Alarming"],
-    "correctAnswer": "Crumbling"
+    "question": "The term 'outsiders' in the context of voter lists often refers to individuals who are alleged to be what, a concern for accurate electoral rolls in any state, including Telangana and Andhra Pradesh?",
+    "options": ["Non-citizens or residents not legally entitled to vote in a particular constituency.", "People from other states who have migrated legally.", "Voters belonging to a different political party.", "Individuals who have not voted in previous elections."],
+    "correctAnswer": "Non-citizens or residents not legally entitled to vote in a particular constituency."
   },
   {
     "id": 25,
-    "question": "TRAI's Network Anubhav Platform enhances transparency for telecom consumers by compiling user test data from which two specific sources?",
-    "options": ["Official government surveys and media reports", "Telecom provider reports and public feedback", "MySpeed and MyCall applications", "User-submitted online forums and social media polls"],
-    "correctAnswer": "MySpeed and MyCall applications"
+    "question": "Criticism of the Election Commission, as mentioned in the news, often arises in the context of which political outcome, a phenomenon observed across all Indian states during election cycles?",
+    "options": ["Successful government policy implementation.", "Declaration of election results.", "Economic growth figures.", "International relations."],
+    "correctAnswer": "Declaration of election results."
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian city is home to the company that recently tested expandable space habitat technology for the first time?",
-    "options": ["Bengaluru", "Hyderabad", "Chennai", "Mumbai"],
-    "correctAnswer": "Bengaluru"
+    "question": "The Supreme Court recently highlighted a critical concern regarding India's demographic trends, stating the country would face 'serious consequences.' What is this primary concern?",
+    "options": ["Declining literacy rates", "Rapid urbanization", "Crumbling fear of overpopulation", "Lack of technological innovation"],
+    "correctAnswer": "Crumbling fear of overpopulation"
   },
   {
     "id": 2,
-    "question": "What innovative technology did an Indian company recently test in a near-space mission?",
-    "options": ["Expandable space habitat", "Reusable rocket propulsion", "Martian rover prototype", "Lunar mining equipment"],
-    "correctAnswer": "Expandable space habitat"
+    "question": "The Supreme Court's remarks on India's overpopulation issue indirectly call for effective demographic planning which is relevant for states like Telangana and Andhra Pradesh. What fundamental aspect of national life is most directly impacted by overpopulation?",
+    "options": ["International trade relations", "Resource allocation and public services", "Space exploration programs", "Cultural diversity"],
+    "correctAnswer": "Resource allocation and public services"
   },
   {
     "id": 3,
-    "question": "The company Bellatrix Aerospace, known for its recent space tech achievement, is primarily based in which Indian state?",
-    "options": ["Karnataka", "Telangana", "Andhra Pradesh", "Maharashtra"],
-    "correctAnswer": "Karnataka"
+    "question": "Which new platform has TRAI recently launched to enable users to check internet speeds and network quality across India, including in Telangana and Andhra Pradesh?",
+    "options": ["NetSpeed Pro", "Digital Connect", "Network Anubhav Platform", "Broadband Monitor"],
+    "correctAnswer": "Network Anubhav Platform"
   },
   {
     "id": 4,
-    "question": "The recent test of expandable space habitat technology by an Indian company signifies a stride in which sector?",
-    "options": ["Commercial aviation", "Space exploration", "Renewable energy", "Biomedical research"],
-    "correctAnswer": "Space exploration"
+    "question": "What is the primary objective of TRAI's Network Anubhav Platform?",
+    "options": ["To promote new telecom operators", "To provide insights about internet speeds and network quality", "To manage subscriber billing", "To regulate international calls"],
+    "correctAnswer": "To provide insights about internet speeds and network quality"
   },
   {
     "id": 5,
-    "question": "Expandable space habitats are designed to primarily address which aspect of long-duration space missions?",
-    "options": ["Increased cargo capacity", "Enhanced crew comfort and volume", "Faster travel speeds", "Improved re-entry safety"],
-    "correctAnswer": "Enhanced crew comfort and volume"
+    "question": "The Network Anubhav Platform compiles user test data from which existing TRAI applications?",
+    "options": ["MyPlan and MyData", "MySpeed and MyCall", "NetTest and VoiceQuality", "SignalCheck and DataUsage"],
+    "correctAnswer": "MySpeed and MyCall"
   },
   {
     "id": 6,
-    "question": "Which international space agency's 1.5-tonne space observatory was recently set to crash on Earth, with a possibility of debris falling in India?",
-    "options": ["NASA", "ESA", "Roscosmos", "JAXA"],
-    "correctAnswer": "NASA"
+    "question": "How does TRAI's Network Anubhav Platform aim to enhance transparency for telecom consumers, including those in Andhra Pradesh and Telangana?",
+    "options": ["By offering discounted plans", "By providing geospatial maps of network performance", "By allowing direct complaints against operators", "By publishing financial reports of service providers"],
+    "correctAnswer": "By providing geospatial maps of network performance"
   },
   {
     "id": 7,
-    "question": "What was the approximate mass of the NASA space observatory that was projected to crash on Earth with potential debris falling in India?",
-    "options": ["1.5 tonnes", "500 kg", "3 tonnes", "10 tonnes"],
-    "correctAnswer": "1.5 tonnes"
+    "question": "Apart from consumers, which entities can utilize the data and insights from TRAI's Network Anubhav Platform for network optimization?",
+    "options": ["Government tax departments", "International telecom regulatory bodies", "Telecom service providers", "Smartphone manufacturers"],
+    "correctAnswer": "Telecom service providers"
   },
   {
     "id": 8,
-    "question": "The news highlighted the possibility of debris from a deorbiting NASA observatory falling in which country?",
-    "options": ["India", "China", "USA", "Australia"],
-    "correctAnswer": "India"
+    "question": "The geospatial maps on the Network Anubhav Platform categorize results primarily by which two criteria?",
+    "options": ["Population density and income level", "Service provider and technology", "City size and user age", "Data usage and time of day"],
+    "correctAnswer": "Service provider and technology"
   },
   {
     "id": 9,
-    "question": "Which Indian state, known for its space launch facilities like Sriharikota, could potentially be affected by the general possibility of space debris falling in India?",
-    "options": ["Andhra Pradesh", "Kerala", "Tamil Nadu", "Odisha"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "The Supreme Court recently issued a notice to the Centre and the poll body regarding what specific aspect concerning the Chief Election Commissioner (CEC)?",
+    "options": ["The CEC's salary structure", "The CEC's retirement age", "Blanket immunity to the CEC", "The CEC's power to postpone elections"],
+    "correctAnswer": "Blanket immunity to the CEC"
   },
   {
     "id": 10,
-    "question": "While a NASA observatory was deorbiting, which Indian space agency is responsible for monitoring such events and space debris over Indian airspace, and has facilities in Andhra Pradesh?",
-    "options": ["ISRO", "DRDO", "CSIR", "BARC"],
-    "correctAnswer": "ISRO"
+    "question": "To which two entities did the Supreme Court issue notices concerning the blanket immunity of the Chief Election Commissioner (CEC)?",
+    "options": ["The Prime Minister's Office and Parliament", "The Centre and the Election Commission", "The President and the Judiciary", "State Governments and Governors"],
+    "correctAnswer": "The Centre and the Election Commission"
   },
   {
     "id": 11,
-    "question": "The event of a large space object re-entering Earth's atmosphere, as mentioned in the news, primarily raises concerns about which type of impact?",
-    "options": ["Environmental pollution", "Air traffic disruption", "Satellite communication interference", "Risk of ground impact from debris"],
-    "correctAnswer": "Risk of ground impact from debris"
+    "question": "The ongoing discussion in the Supreme Court regarding the Chief Election Commissioner's (CEC) immunity has implications for the fairness and independence of electoral processes in all states, including Telangana and Andhra Pradesh. What is a key principle often debated in relation to such immunities?",
+    "options": ["Executive privilege", "Judicial activism", "Accountability and transparency", "Legislative supremacy"],
+    "correctAnswer": "Accountability and transparency"
   },
   {
     "id": 12,
-    "question": "India has stated its intention to oppose which specific international environmental policy at upcoming climate summits?",
-    "options": ["EU carbon tax", "Global plastic ban", "International whaling moratorium", "Antarctic drilling treaty"],
-    "correctAnswer": "EU carbon tax"
+    "question": "The Chief Election Commissioner (CEC) heads which constitutional body responsible for conducting elections in India, relevant for states like Telangana and Andhra Pradesh?",
+    "options": ["Union Public Service Commission", "Election Commission of India", "NITI Aayog", "Comptroller and Auditor General"],
+    "correctAnswer": "Election Commission of India"
   },
   {
     "id": 13,
-    "question": "India's primary reason for opposing the proposed EU carbon tax stems from its continued reliance on which energy source?",
-    "options": ["Fossil fuels", "Solar power", "Wind energy", "Hydroelectric power"],
-    "correctAnswer": "Fossil fuels"
+    "question": "Assam Chief Minister Himanta Biswa Sarma criticized Rahul Gandhi's proposal for a public debate with PM Modi, suggesting that such discussions should primarily occur where?",
+    "options": ["On social media platforms", "During press conferences", "In Parliament", "At public rallies"],
+    "correctAnswer": "In Parliament"
   },
   {
     "id": 14,
-    "question": "At which upcoming international climate change conference is India expected to articulate its opposition to the EU carbon tax?",
-    "options": ["COP31", "G20 Summit", "BRICS Summit", "WTO Ministerial Conference"],
-    "correctAnswer": "COP31"
-  },
-  {
-    "id": 15,
-    "question": "The EU carbon tax, which India plans to oppose, is designed to reduce which type of emissions?",
-    "options": ["Carbon emissions", "Methane emissions", "Nitrogen oxide emissions", "Sulfur dioxide emissions"],
-    "correctAnswer": "Carbon emissions"
-  },
-  {
-    "id": 16,
-    "question": "Which sector in India, including those in states like Telangana and Andhra Pradesh, would be significantly impacted by an international carbon tax on exports due to fossil fuel use?",
-    "options": ["Manufacturing and energy", "IT services", "Tourism", "Agriculture"],
-    "correctAnswer": "Manufacturing and energy"
-  },
-  {
-    "id": 17,
-    "question": "India's stance on fossil fuel use for its energy needs, as discussed regarding the EU carbon tax, reflects its commitment to which developmental priority?",
-    "options": ["Economic growth and energy security", "Transition to 100% renewable energy", "Reducing import dependence on oil", "Promoting nuclear power exclusively"],
-    "correctAnswer": "Economic growth and energy security"
-  },
-  {
-    "id": 18,
-    "question": "Which prominent Indian political leader recently challenged the Prime Minister to an open debate based on political allegations?",
-    "options": ["Rahul Gandhi", "Mallikarjun Kharge", "Priyanka Gandhi Vadra", "Shashi Tharoor"],
+    "question": "Which Congress leader recently proposed a public debate with Prime Minister Modi to address national issues?",
+    "options": ["Mallikarjun Kharge", "P. Chidambaram", "Rahul Gandhi", "Shashi Tharoor"],
     "correctAnswer": "Rahul Gandhi"
   },
   {
+    "id": 15,
+    "question": "What types of issues did Rahul Gandhi reportedly wish to address in his proposed debate with PM Modi, a topic of interest for citizens across India including those in AP and Telangana?",
+    "options": ["International sports and cultural exchange", "Regional tourism and heritage sites", "National connections and financial matters", "Environmental conservation and climate change"],
+    "correctAnswer": "National connections and financial matters"
+  },
+  {
+    "id": 16,
+    "question": "Himanta Biswa Sarma challenged Rahul Gandhi to raise various critical issues during parliamentary sessions. Which of the following examples did he explicitly mention?",
+    "options": ["Demonetization and GST implementation", "Bofors and the Bhopal Gas Tragedy", "Farm Laws and Pegasus controversy", "Ayodhya dispute and Article 370"],
+    "correctAnswer": "Bofors and the Bhopal Gas Tragedy"
+  },
+  {
+    "id": 17,
+    "question": "An FIR was recently filed against which prominent lawyer and activist for allegedly sharing a fake video of a Russian minister criticizing India?",
+    "options": ["Kapil Sibal", "Ram Jethmalani", "Prashant Bhushan", "Abhishek Manu Singhvi"],
+    "correctAnswer": "Prashant Bhushan"
+  },
+  {
+    "id": 18,
+    "question": "The FIR against Prashant Bhushan was filed due to his alleged involvement in sharing what type of content?",
+    "options": ["A copyrighted song", "A fake video", "Classified government documents", "Hate speech against a community"],
+    "correctAnswer": "A fake video"
+  },
+  {
     "id": 19,
-    "question": "The challenge for an open debate between Rahul Gandhi and PM Modi was initiated following allegations related to what?",
-    "options": ["Foreign help in becoming PM", "Economic policy failures", "Border disputes", "Healthcare system reforms"],
-    "correctAnswer": "Foreign help in becoming PM"
+    "question": "The incident involving Prashant Bhushan and a fake video highlights a growing national concern about the spread of what type of information, relevant to public discourse in states like Andhra Pradesh and Telangana?",
+    "options": ["Academic research papers", "Misinformation and disinformation", "Official government statistics", "Historical archives"],
+    "correctAnswer": "Misinformation and disinformation"
   },
   {
     "id": 20,
-    "question": "PM Modi's 'Ekta Diwas' speech, mentioned in the news context, accused the opposition of turning into what?",
-    "options": ["An 'obstructionist force'", "A constructive critic", "A unifying factor", "A regional alliance"],
-    "correctAnswer": "An 'obstructionist force'"
+    "question": "Another Indian seafarer was recently killed, bringing the total toll to 23, near which country?",
+    "options": ["Somalia", "Yemen", "Oman", "Iran"],
+    "correctAnswer": "Oman"
   },
   {
     "id": 21,
-    "question": "'Ekta Diwas' in India is celebrated to commemorate the birth anniversary of which national leader?",
-    "options": ["Sardar Vallabhbhai Patel", "Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose"],
-    "correctAnswer": "Sardar Vallabhbhai Patel"
+    "question": "The tragic incidents of deaths among Indian citizens near Oman specifically concern individuals employed in which profession, relevant to families in various Indian states including AP and Telangana?",
+    "options": ["Migrant laborers", "Seafarers", "Medical professionals", "IT workers"],
+    "correctAnswer": "Seafarers"
   },
   {
     "id": 22,
-    "question": "Which political party does Rahul Gandhi represent, a party with significant presence and political activity in states like Telangana and Andhra Pradesh?",
-    "options": ["Indian National Congress", "Bharatiya Janata Party", "Aam Aadmi Party", "Bahujan Samaj Party"],
-    "correctAnswer": "Indian National Congress"
+    "question": "A recent news report highlighted a judge facing a serious charge while still presiding over a POCSO court. What was the nature of this charge?",
+    "options": ["Embezzlement", "Assault", "Rape", "Bribery"],
+    "correctAnswer": "Rape"
   },
   {
     "id": 23,
-    "question": "The advancements in private Indian space technology, such as the expandable habitats tested by a Bengaluru company, complement the efforts of which major national space organization with a prominent launch facility in Andhra Pradesh?",
-    "options": ["ISRO", "DRDO", "TIFR", "VSSC"],
-    "correctAnswer": "ISRO"
+    "question": "The P.O.C.S.O. Act, under which the mentioned court operates and is implemented in all Indian states including Telangana and Andhra Pradesh, primarily aims to protect which vulnerable group?",
+    "options": ["Senior citizens", "Women", "Children", "Persons with disabilities"],
+    "correctAnswer": "Children"
   },
   {
     "id": 24,
-    "question": "The discussion on India's energy needs and continued reliance on fossil fuels, as per the COP31 news, highlights the importance of energy infrastructure in states like Telangana, which heavily relies on which type of power plants for its energy needs?",
-    "options": ["Thermal power plants", "Nuclear power plants", "Tidal power plants", "Geothermal power plants"],
-    "correctAnswer": "Thermal power plants"
+    "question": "The Supreme Court, in its statement about India facing 'serious consequences' due to overpopulation, described the 'fear' of this as what?",
+    "options": ["Mounting", "Growing", "Crumbling", "Alarming"],
+    "correctAnswer": "Crumbling"
   },
   {
     "id": 25,
-    "question": "The political debate about national leadership and opposition roles, exemplified by Rahul Gandhi's challenge, is a crucial aspect of democratic engagement observed across all Indian states, including which two neighboring states known for active political participation?",
-    "options": ["Telangana and Andhra Pradesh", "Punjab and Haryana", "Gujarat and Rajasthan", "West Bengal and Odisha"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "TRAI's Network Anubhav Platform enhances transparency for telecom consumers by compiling user test data from which two specific sources?",
+    "options": ["Official government surveys and media reports", "Telecom provider reports and public feedback", "MySpeed and MyCall applications", "User-submitted online forums and social media polls"],
+    "correctAnswer": "MySpeed and MyCall applications"
   }
 ]

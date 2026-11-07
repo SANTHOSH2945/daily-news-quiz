@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "As per recent reports, what percentage of High Court judge vacancies was noted across India, a figure described as a decade-low, impacting states like Telangana and Andhra Pradesh?",
-    "options": ["15%", "26%", "38%", "45%"],
-    "correctAnswer": "26%"
+    "question": "Telangana has been proactive in promoting which crop for ethanol production to meet national E20 blending targets?",
+    "options": ["Paddy", "Maize", "Sugarcane", "Cotton"],
+    "correctAnswer": "Sugarcane"
   },
   {
     "id": 2,
-    "question": "What is the current sanctioned strength of judges for the Telangana High Court, as per available public information related to judicial appointments and vacancies?",
-    "options": ["24", "32", "42", "56"],
-    "correctAnswer": "42"
+    "question": "What is Andhra Pradesh's targeted ethanol blending percentage as part of the national E20 initiative?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "correctAnswer": "20%"
   },
   {
     "id": 3,
-    "question": "What is the current sanctioned strength of judges for the Andhra Pradesh High Court, as per available public information related to judicial appointments and vacancies?",
-    "options": ["24", "31", "37", "45"],
-    "correctAnswer": "37"
+    "question": "What potential challenge might Telangana face in achieving its E20 blending targets, considering the general issue of fuel quality?",
+    "options": ["Lack of distilleries", "Insufficient raw material", "High transportation costs", "Low demand for ethanol-blended fuel"],
+    "correctAnswer": "Insufficient raw material"
   },
   {
     "id": 4,
-    "question": "Which of the following is a significant consequence of the increasing number of judge vacancies and case pendency in High Courts, including those in Telangana and Andhra Pradesh?",
-    "options": ["Increased judicial holidays", "Slower dispensation of justice", "Reduced legal fees for litigants", "Decreased workload for legal professionals"],
-    "correctAnswer": "Slower dispensation of justice"
+    "question": "How does the Andhra Pradesh government typically support farmers in shifting to ethanol-producing crops?",
+    "options": ["Direct cash subsidies", "Free electricity", "Minimum Support Price (MSP) for ethanol crops", "Crop insurance schemes"],
+    "correctAnswer": "Minimum Support Price (MSP) for ethanol crops"
   },
   {
     "id": 5,
-    "question": "Who is the current Chief Justice of the Telangana High Court as of recent appointments?",
-    "options": ["Justice Alok Aradhe", "Justice Ujjal Bhuyan", "Justice Hima Kohli", "Justice Raghvendra Singh Chauhan"],
-    "correctAnswer": "Justice Alok Aradhe"
+    "question": "The national E20 policy, relevant to states like Telangana and AP, aims to primarily reduce India's reliance on which resource?",
+    "options": ["Coal", "Natural Gas", "Crude Oil imports", "Uranium"],
+    "correctAnswer": "Crude Oil imports"
   },
   {
     "id": 6,
-    "question": "Who is the current Chief Justice of the Andhra Pradesh High Court as of recent appointments?",
-    "options": ["Justice Prashant Kumar Mishra", "Justice Dhiraj Singh Thakur", "Justice C. Praveen Kumar", "Justice Arup Kumar Goswami"],
-    "correctAnswer": "Justice Dhiraj Singh Thakur"
+    "question": "In the context of OBC reservations, what is the 'creamy layer' threshold primarily based on for government jobs in states like Telangana?",
+    "options": ["Educational qualification", "Annual family income", "Land ownership", "Political affiliation"],
+    "correctAnswer": "Annual family income"
   },
   {
     "id": 7,
-    "question": "How many PG medical seats were recently added across India by the National Medical Commission (NMC), impacting the availability of higher medical education in states like Telangana and Andhra Pradesh?",
-    "options": ["5,540", "7,215", "9,783", "12,120"],
-    "correctAnswer": "9,783"
+    "question": "Which body in Andhra Pradesh is generally responsible for identifying and recommending the 'creamy layer' criteria for Other Backward Classes (OBCs)?",
+    "options": ["State Public Service Commission", "High Court", "State Backward Classes Commission", "Revenue Department"],
+    "correctAnswer": "State Backward Classes Commission"
   },
   {
     "id": 8,
-    "question": "What is the primary regulatory body for medical education in India, responsible for the recent increase in PG medical seats, which directly affects states like Telangana and Andhra Pradesh?",
-    "options": ["All India Council for Technical Education (AICTE)", "University Grants Commission (UGC)", "National Medical Commission (NMC)", "Medical Council of India (MCI) (defunct)"],
-    "correctAnswer": "National Medical Commission (NMC)"
+    "question": "How does the Supreme Court's stance on the 'creamy layer' ruling primarily impact reservation policies in states like Telangana and Andhra Pradesh?",
+    "options": ["It abolishes all OBC reservations", "It ensures fair access for the most deserving", "It extends reservations to all income groups", "It increases the total reservation quota"],
+    "correctAnswer": "It ensures fair access for the most deserving"
   },
   {
     "id": 9,
-    "question": "Which of the following initiatives has the Telangana government notably undertaken to improve healthcare infrastructure and medical education in the state, potentially benefiting from increased PG seats?",
-    "options": ["'Kanti Velugu' Eye Screening Program", "'Mana Ooru Mana Badi' school revamp", "'Telangana Haritha Haram' plantation drive", "'Basti Dawakhanas' urban clinics"],
-    "correctAnswer": "'Basti Dawakhanas' urban clinics"
+    "question": "What is a common point of contention for states, including AP and Telangana, when implementing the 'creamy layer' concept?",
+    "options": ["Defining backwardness", "Excluding socially advanced individuals", "Identifying economic criteria", "Integrating caste and economic factors"],
+    "correctAnswer": "Identifying economic criteria"
   },
   {
     "id": 10,
-    "question": "Which of the following initiatives has the Andhra Pradesh government notably undertaken to improve healthcare infrastructure and medical education in the state, potentially benefiting from increased PG seats?",
-    "options": ["'Amma Vodi' scheme for mothers", "'Nadu-Nedu' program for schools", "'Jagananna Vidya Deevena' for fee reimbursement", "'Dr. YSR Aarogyasri' health scheme expansion"],
-    "correctAnswer": "'Dr. YSR Aarogyasri' health scheme expansion"
+    "question": "The 'creamy layer' exclusion aims to benefit which segment among the Backward Classes in states like Telangana and Andhra Pradesh?",
+    "options": ["The economically advanced", "The socially disadvantaged", "The politically powerful", "The religiously diverse"],
+    "correctAnswer": "The socially disadvantaged"
   },
   {
     "id": 11,
-    "question": "Approximately how many new government medical colleges have been established or planned in Telangana in recent years, significantly contributing to the state's medical education capacity?",
-    "options": ["5", "9", "15", "20"],
-    "correctAnswer": "9"
+    "question": "Which central investigative agency has recently been active in Telangana regarding alleged financial irregularities in various sectors?",
+    "options": ["Narcotics Control Bureau (NCB)", "Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Central Bureau of Investigation (CBI)"],
+    "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 12,
-    "question": "Approximately how many new government medical colleges have been established or planned in Andhra Pradesh in recent years, significantly contributing to the state's medical education capacity?",
-    "options": ["5", "11", "17", "22"],
-    "correctAnswer": "17"
+    "question": "The Andhra Pradesh Police, in collaboration with central agencies, frequently tackles which type of large-scale fraud, often involving investment schemes?",
+    "options": ["Cyberbullying", "Drug trafficking", "Multi-level marketing (MLM) scams", "Intellectual property theft"],
+    "correctAnswer": "Multi-level marketing (MLM) scams"
   },
   {
     "id": 13,
-    "question": "When are the CBSE Class X & XII board exams scheduled to begin across India for the upcoming academic session, affecting numerous students in CBSE-affiliated schools in Telangana and Andhra Pradesh?",
-    "options": ["February 1", "February 16", "March 1", "March 15"],
-    "correctAnswer": "February 16"
+    "question": "What is the primary role of the Telangana Anti-Corruption Bureau (ACB) in investigating cases within the state?",
+    "options": ["Inter-state cybercrimes", "Cases of bribery and corruption involving public servants", "Terrorism-related offenses", "Wildlife poaching"],
+    "correctAnswer": "Cases of bribery and corruption involving public servants"
   },
   {
     "id": 14,
-    "question": "Which state board is primarily responsible for conducting Class X and XII examinations for the majority of non-CBSE affiliated schools in Telangana?",
-    "options": ["Andhra Pradesh Board of Intermediate Education (APBIE)", "Telangana State Board of Intermediate Education (TSBIE)", "Board of Secondary Education, Telangana (BSET)", "Central Board of Secondary Education (CBSE)"],
-    "correctAnswer": "Telangana State Board of Intermediate Education (TSBIE)"
+    "question": "In high-profile fraud cases involving government officials in Andhra Pradesh, which state agency typically initiates the first investigation before central agencies might step in?",
+    "options": ["CID (Crime Investigation Department)", "State Intelligence Bureau", "Special Protection Force", "Home Guards"],
+    "correctAnswer": "CID (Crime Investigation Department)"
   },
   {
     "id": 15,
-    "question": "Which state board is primarily responsible for conducting Class X and XII examinations for the majority of non-CBSE affiliated schools in Andhra Pradesh?",
-    "options": ["Board of Secondary Education, Andhra Pradesh (BSEAP)", "Telangana State Board of Intermediate Education (TSBIE)", "Andhra Pradesh Board of Intermediate Education (APBIE)", "Central Board of Secondary Education (CBSE)"],
-    "correctAnswer": "Andhra Pradesh Board of Intermediate Education (APBIE)"
+    "question": "When a significant financial fraud case with interstate implications emerges in Telangana, which central agency is most likely to take over the investigation from state police?",
+    "options": ["RAW (Research and Analysis Wing)", "CBI (Central Bureau of Investigation)", "IB (Intelligence Bureau)", "BSF (Border Security Force)"],
+    "correctAnswer": "CBI (Central Bureau of Investigation)"
   },
   {
     "id": 16,
-    "question": "Besides CBSE, which other popular national board operates schools in both Telangana and Andhra Pradesh, following a different curriculum?",
-    "options": ["State Board of Telangana", "State Board of Andhra Pradesh", "Indian Certificate of Secondary Education (ICSE)", "National Institute of Open Schooling (NIOS)"],
-    "correctAnswer": "Indian Certificate of Secondary Education (ICSE)"
+    "question": "During the Emergency period (1975-77), which political party held dominant power in the erstwhile unified Andhra Pradesh?",
+    "options": ["Swatantra Party", "Communist Party of India (CPI)", "Indian National Congress", "Telugu Desam Party (TDP)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 17,
-    "question": "The Supreme Court's observation on citizens violating curbs is relevant to which common public order regulations enforced by state police in Telangana and Andhra Pradesh?",
-    "options": ["Traffic rules and helmet mandates", "Forest conservation laws", "Fishing regulations", "Agricultural subsidy policies"],
-    "correctAnswer": "Traffic rules and helmet mandates"
+    "question": "What was a significant impact of the Emergency on media freedom in states like Andhra Pradesh?",
+    "options": ["Increased government funding for media", "Relaxation of censorship", "Strict censorship and control over news", "Promotion of diverse viewpoints"],
+    "correctAnswer": "Strict censorship and control over news"
   },
   {
     "id": 18,
-    "question": "What is a common 'curb' or regulation implemented by urban local bodies in Telangana and Andhra Pradesh that citizens might violate, often leading to civic issues?",
-    "options": ["Restrictions on commercial crop cultivation", "Bans on use of single-use plastics", "Rules for obtaining professional licenses", "Regulations on interstate travel"],
-    "correctAnswer": "Bans on use of single-use plastics"
+    "question": "Which fundamental right, as reflected in discussions about the Emergency, is particularly emphasized in the democratic discourse of Telangana today?",
+    "options": ["Right to property", "Right to education", "Right to freedom of speech and expression", "Right to work"],
+    "correctAnswer": "Right to freedom of speech and expression"
   },
   {
     "id": 19,
-    "question": "Which international multi-sport event did the Prime Minister recently cite for India's success, motivating athletes for the 2028 Olympics, including potential participants from Telangana and Andhra Pradesh?",
-    "options": ["Commonwealth Games", "Asian Games", "Para Games", "World Athletics Championships"],
-    "correctAnswer": "Para Games"
+    "question": "Post-Emergency, the call for greater decentralization of power gained traction in many states, including Andhra Pradesh. This primarily aimed to strengthen which level of governance?",
+    "options": ["Central government", "State government", "Local self-governments (Panchayats and Municipalities)", "Judiciary"],
+    "correctAnswer": "Local self-governments (Panchayats and Municipalities)"
   },
   {
     "id": 20,
-    "question": "What is a prominent sports policy or initiative launched by the Telangana government to encourage athletic talent and promote sports in the state?",
-    "options": ["'Khel Mahakumbh'", "'Mission Indradhanush'", "'Palle Pragathi'", "'Telangana Krida Pranganam'"],
-    "correctAnswer": "'Telangana Krida Pranganam'"
+    "question": "How did political activism in the region, which is now Telangana, during the Emergency broadly compare to other parts of India?",
+    "options": ["It remained largely unaffected", "It witnessed significant suppression", "It saw an increase in organized protests", "It aligned with the ruling party's policies"],
+    "correctAnswer": "It witnessed significant suppression"
   },
   {
     "id": 21,
-    "question": "What is a prominent sports policy or initiative launched by the Andhra Pradesh government to encourage athletic talent and promote sports in the state?",
-    "options": ["'Adarsh Gram Yojana'", "'Jagananna Vidya Kanuka'", "'Khel Vikas Yojana'", "'Jagananna Sports Clubs'"],
-    "correctAnswer": "'Jagananna Sports Clubs'"
+    "question": "What is a major environmental initiative undertaken by the Telangana government to increase green cover and improve air quality?",
+    "options": ["Swachh Bharat Abhiyan", "Haritha Haram", "Jal Jeevan Mission", "Atal Bhujal Yojana"],
+    "correctAnswer": "Haritha Haram"
   },
   {
     "id": 22,
-    "question": "The news about allowing more evidence in a voter list case highlights the importance of electoral rolls. Who is the current Chief Electoral Officer (CEO) for Telangana, responsible for maintaining accurate voter lists?",
-    "options": ["Vikas Raj", "Shashank Goel", "Rajiv Kumar", "Sunil Arora"],
-    "correctAnswer": "Vikas Raj"
+    "question": "Which significant environmental challenge does Andhra Pradesh frequently face along its coast, inspired by the general theme of environmental concerns?",
+    "options": ["Desertification", "Landslides", "Coastal erosion and rising sea levels", "Glacier melt"],
+    "correctAnswer": "Coastal erosion and rising sea levels"
   },
   {
     "id": 23,
-    "question": "The news about allowing more evidence in a voter list case highlights the importance of electoral rolls. Who is the current Chief Electoral Officer (CEO) for Andhra Pradesh, responsible for maintaining accurate voter lists?",
-    "options": ["Mukesh Kumar Meena", "Gopal Krishna Dwivedi", "N Ramesh Kumar", "Sanjay Kumar"],
-    "correctAnswer": "Mukesh Kumar Meena"
+    "question": "What is a common point of financial contention between the central government and states like Telangana regarding revenue sharing?",
+    "options": ["Division of GST revenue", "Allocation of defense budget", "Control over monetary policy", "Foreign exchange reserves"],
+    "correctAnswer": "Division of GST revenue"
   },
   {
     "id": 24,
-    "question": "What is the constitutional body primarily responsible for conducting elections and maintaining voter lists in India, including for assembly elections in Telangana and Andhra Pradesh?",
-    "options": ["Supreme Court of India", "Union Public Service Commission (UPSC)", "Election Commission of India (ECI)", "NITI Aayog"],
-    "correctAnswer": "Election Commission of India (ECI)"
+    "question": "The Special Category Status (SCS) demand is a long-standing economic issue for which of these two states?",
+    "options": ["Telangana", "Andhra Pradesh", "Both Telangana and Andhra Pradesh", "Neither state"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 25,
-    "question": "What is the minimum age to be eligible to vote in state assembly elections in Telangana and Andhra Pradesh, as per the Representation of the People Act?",
-    "options": ["16 years", "18 years", "21 years", "25 years"],
-    "correctAnswer": "18 years"
+    "question": "The sharing of waters from which major river continues to be a point of dispute between Telangana and Andhra Pradesh?",
+    "options": ["Godavari", "Krishna", "Mahanadi", "Tungabhadra"],
+    "correctAnswer": "Krishna"
   }
 ]

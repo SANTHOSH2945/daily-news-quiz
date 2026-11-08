@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which Indian agency is primarily responsible for coordinating international extradition requests from India, as seen in the news about Harry Boxer?",
-    "options": ["Central Bureau of Investigation (CBI)", "National Investigation Agency (NIA)", "Enforcement Directorate (ED)", "Intelligence Bureau (IB)"],
-    "correctAnswer": "Central Bureau of Investigation (CBI)"
+    "question": "Which political party, headquartered in Hyderabad, has its national spokesperson Waris Pathan recently pitching for increased Muslim political power?",
+    "options": ["Indian Union Muslim League", "All India Majlis-e-Ittehadul Muslimeen", "Samajwadi Party", "Bahujan Samaj Party"],
+    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen"
   },
   {
     "id": 2,
-    "question": "The news regarding extradition efforts for Lawrence aide Harry Boxer involves cooperation with which country?",
-    "options": ["United Kingdom", "Canada", "United States", "Australia"],
-    "correctAnswer": "United States"
+    "question": "Waris Pathan, a national spokesperson, recently made a statement regarding a potential Muslim Chief Minister and Prime Minister in the future. Which party does he represent, known for its significant presence in Telangana?",
+    "options": ["Telangana Rashtra Samithi", "YSR Congress Party", "All India Majlis-e-Ittehadul Muslimeen", "Congress"],
+    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen"
   },
   {
     "id": 3,
-    "question": "The national news indicating a significant plunge in Congress donations could impact its operations. Which of the following states recently saw a major electoral victory for the Indian National Congress in its assembly elections?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Kerala"],
-    "correctAnswer": "Telangana"
+    "question": "The All India Majlis-e-Ittehadul Muslimeen (AIMIM), a party with its base in Telangana, was in the news due to its spokesperson Waris Pathan's comments about a future Chief Minister in which state?",
+    "options": ["Maharashtra", "Bihar", "Uttar Pradesh", "West Bengal"],
+    "correctAnswer": "Uttar Pradesh"
   },
   {
     "id": 4,
-    "question": "Who is the current President of the Telangana Pradesh Congress Committee (TPCC), a key leader in the party's recent resurgence in the state?",
-    "options": ["Uttam Kumar Reddy", "K. Jana Reddy", "Revanth Reddy", "Ponnam Prabhakar"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "Waris Pathan's recent statement advocating for Muslim political power is associated with which political party that plays a significant role in Hyderabad's municipal politics?",
+    "options": ["TRS", "AIMIM", "BJP", "Congress"],
+    "correctAnswer": "AIMIM"
   },
   {
     "id": 5,
-    "question": "In the context of national political party funding, what has been the general performance trend of the Indian National Congress in Andhra Pradesh's state elections since the bifurcation of the state?",
-    "options": ["Significant resurgence", "Gradual decline", "Maintained dominant position", "Became the leading opposition party"],
-    "correctAnswer": "Gradual decline"
+    "question": "Which prominent leader of the All India Majlis-e-Ittehadul Muslimeen (AIMIM) made headlines for his remarks about a Muslim potentially becoming a Chief Minister and Prime Minister?",
+    "options": ["Asaduddin Owaisi", "Akbaruddin Owaisi", "Waris Pathan", "Imtiaz Jaleel"],
+    "correctAnswer": "Waris Pathan"
   },
   {
     "id": 6,
-    "question": "The national trend of Congress donations plunging could affect campaign strategies. The current Chief Minister of Telangana, belonging to the Congress party, represents which Lok Sabha constituency?",
-    "options": ["Secunderabad", "Malkajgiri", "Chevella", "Karimnagar"],
-    "correctAnswer": "Malkajgiri"
+    "question": "Kirti Azad, associated with the TMC, recently stated he would never visit the Ram Temple, invoking which mythological event?",
+    "options": ["Krishna's Ras Leela", "Sita's Agni Pariksha", "Rama's exile", "Hanuman's devotion"],
+    "correctAnswer": "Sita's Agni Pariksha"
   },
   {
     "id": 7,
-    "question": "Apart from national parties like Congress and BJP, which major regional political party in Andhra Pradesh has significantly shaped the state's political landscape?",
-    "options": ["Biju Janata Dal (BJD)", "Trinamool Congress (TMC)", "Telugu Desam Party (TDP)", "Shiv Sena"],
-    "correctAnswer": "Telugu Desam Party (TDP)"
+    "question": "Which political party does Kirti Azad represent, who made news for his controversial comments regarding the Ram Temple?",
+    "options": ["BJP", "Congress", "Trinamool Congress", "Aam Aadmi Party"],
+    "correctAnswer": "Trinamool Congress"
   },
   {
     "id": 8,
-    "question": "The national policy to offer Class X Board students a second chance in a skill subject aims to improve educational outcomes. Which state board governs Class X examinations in Telangana?",
-    "options": ["Board of Intermediate Education, Telangana (TSBIE)", "Board of Secondary Education, Telangana (BSE Telangana)", "State Council of Educational Research and Training (SCERT Telangana)", "Telangana State Open School Society (TSOSS)"],
-    "correctAnswer": "Board of Secondary Education, Telangana (BSE Telangana)"
+    "question": "The debate around the construction and inauguration of the Ram Temple has been a significant national topic. Which prominent national party, also active in Telangana and Andhra Pradesh, is closely associated with this project?",
+    "options": ["Congress", "BJP", "CPI(M)", "AIMIM"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 9,
-    "question": "What type of subjects are typically introduced as 'skill subjects' in the Indian education system to provide vocational pathways for students?",
-    "options": ["Core academic subjects", "Fine arts and performing arts", "Vocational and applied subjects", "Classical languages"],
-    "correctAnswer": "Vocational and applied subjects"
+    "question": "Kirti Azad's comments about the Ram Temple were made in an attack against which national political party?",
+    "options": ["Congress", "SP", "BJP", "TMC"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 10,
-    "question": "In Andhra Pradesh, which board is responsible for conducting the Class X (SSC) examinations, similar to the national and Telangana state boards?",
-    "options": ["Board of Intermediate Education, Andhra Pradesh (BIE AP)", "Directorate of Government Examinations, Andhra Pradesh (DGE AP)", "Andhra Pradesh Board of Secondary Education (APBSE)", "Andhra Pradesh Open School Society (APOSS)"],
-    "correctAnswer": "Directorate of Government Examinations, Andhra Pradesh (DGE AP)"
+    "question": "Karnataka leader D.K. Shivakumar recently accused the Centre of a 'cover up' regarding issues with which fuel component's blending?",
+    "options": ["CNG", "LPG", "Ethanol", "Methanol"],
+    "correctAnswer": "Ethanol"
   },
   {
     "id": 11,
-    "question": "The initiative for skill subjects in Class X aligns with the broader reforms of which significant national education policy recently implemented across India?",
-    "options": ["National Policy on Education 1986", "Right to Education Act 2009", "National Education Policy 2020", "Sarva Shiksha Abhiyan"],
-    "correctAnswer": "National Education Policy 2020"
+    "question": "The 'ethanol blending row' mentioned in recent news primarily concerns issues with which part of vehicles, according to D.K. Shivakumar?",
+    "options": ["Tires", "Engines", "Brakes", "Steering"],
+    "correctAnswer": "Engines"
   },
   {
     "id": 12,
-    "question": "The political discourse around religious nationalism, as seen with the Ram Temple issue, has varying impacts across states. Which political party, with a strong alliance presence in Andhra Pradesh, generally aligns with the BJP on such issues?",
-    "options": ["YSR Congress Party", "Telugu Desam Party", "Jana Sena Party", "Communist Party of India (Marxist)"],
-    "correctAnswer": "Jana Sena Party"
+    "question": "The Central government's policy on ethanol blending in fuel has implications for the agricultural sector, including in states like Telangana and Andhra Pradesh, primarily due to the production of which crop?",
+    "options": ["Cotton", "Paddy", "Sugarcane", "Groundnut"],
+    "correctAnswer": "Sugarcane"
   },
   {
     "id": 13,
-    "question": "Following the inauguration of the Ram Temple in Ayodhya, which prominent temple town in Andhra Pradesh is internationally recognized for its significant Hindu pilgrimage site?",
-    "options": ["Srikalahasti", "Dwaraka Tirumala", "Tirupati", "Srisailam"],
-    "correctAnswer": "Tirupati"
+    "question": "The ongoing debate about ethanol blending in fuel, as highlighted by DKS, aims to reduce India's reliance on which resource?",
+    "options": ["Coal", "Natural Gas", "Imported Crude Oil", "Hydroelectric Power"],
+    "correctAnswer": "Imported Crude Oil"
   },
   {
     "id": 14,
-    "question": "The ruling Congress party in Telangana generally adheres to what kind of approach regarding religious matters and state governance?",
-    "options": ["Strongly promoting Hindutva ideology", "A strictly secular approach", "Aligning with the Majlis-e-Ittehadul Muslimeen (AIMIM)", "Promoting Christian welfare initiatives primarily"],
-    "correctAnswer": "A strictly secular approach"
+    "question": "Prime Minister Narendra Modi is known for his tradition of celebrating Diwali with which group of personnel?",
+    "options": ["Healthcare workers", "Farmers", "Security forces (Jawans)", "Industrialists"],
+    "correctAnswer": "Security forces (Jawans)"
   },
   {
     "id": 15,
-    "question": "Which of the following Hindu festivals, celebrating the birth of Lord Rama, is widely and traditionally celebrated with great fervor across Andhra Pradesh and Telangana?",
-    "options": ["Diwali", "Holi", "Sree Rama Navami", "Ganesh Chaturthi"],
-    "correctAnswer": "Sree Rama Navami"
+    "question": "For his inaugural Diwali celebration in a specific state since assuming office, PM Modi visited which region of Chhattisgarh to celebrate with security forces?",
+    "options": ["Raipur", "Bilaspur", "Bastar", "Korba"],
+    "correctAnswer": "Bastar"
   },
   {
     "id": 16,
-    "question": "L.K. Advani, a recipient of the Bharat Ratna, was a prominent BJP leader. Which former Prime Minister of India, hailing from the Telugu-speaking region, was also honored with the Bharat Ratna?",
-    "options": ["Morarji Desai", "H. D. Deve Gowda", "P. V. Narasimha Rao", "Inder Kumar Gujral"],
-    "correctAnswer": "P. V. Narasimha Rao"
+    "question": "PM Modi's visit to Bastar for Diwali underscored transformation efforts in the area, specifically moving from which type of insurgency to developmental progress?",
+    "options": ["Separatist", "Naxalite/Maoist", "Religious", "Ethnic"],
+    "correctAnswer": "Naxalite/Maoist"
   },
   {
     "id": 17,
-    "question": "The Bharat Ratna is India's highest civilian award. Which distinguished individual, who served as President of India and was associated with the Telugu-speaking region, was awarded this honor?",
-    "options": ["Neelam Sanjiva Reddy", "V. V. Giri", "Sarvepalli Radhakrishnan", "Zakir Husain"],
-    "correctAnswer": "Sarvepalli Radhakrishnan"
+    "question": "The tradition of PM Modi celebrating Diwali with security personnel emphasizes the importance of their service to which country?",
+    "options": ["China", "Pakistan", "India", "Bangladesh"],
+    "correctAnswer": "India"
   },
   {
     "id": 18,
-    "question": "L.K. Advani's political career significantly shaped the trajectory of the BJP. What is the current general political standing of the BJP in Andhra Pradesh relative to dominant regional parties like YSRCP and TDP?",
-    "options": ["As the primary ruling party", "As the main opposition party", "As a significant alliance partner with a minor role", "As an independent dominant force"],
-    "correctAnswer": "As a significant alliance partner with a minor role"
+    "question": "According to recent reports, the Congress party's donations plunged by approximately what percentage, reaching their lowest in three years?",
+    "options": ["25%", "50%", "75%", "90%"],
+    "correctAnswer": "75%"
   },
   {
     "id": 19,
-    "question": "The National Medical Commission (NMC) has warned against fake medical colleges. In which city of Telangana are historically prominent government medical colleges like Osmania Medical College and Gandhi Medical College located?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "The national plunge in donations for the Congress party could potentially impact its operational capabilities in states like Telangana, especially ahead of which major event?",
+    "options": ["Assembly Elections", "Local Body Elections", "Party Plenary Sessions", "Youth Wing Rallies"],
+    "correctAnswer": "Assembly Elections"
   },
   {
     "id": 20,
-    "question": "The issue of doctors quitting premier medical institutes highlights challenges in the healthcare sector. Which flagship health scheme, primarily by the Telangana government, aims to provide financial assistance for medical treatments to eligible families?",
-    "options": ["Rythu Bandhu", "Kanti Velugu", "Aarogyasri", "Kalyana Lakshmi"],
-    "correctAnswer": "Aarogyasri"
+    "question": "In which timeframe did the Congress party's donations reportedly reach their lowest point in terms of recent financial years?",
+    "options": ["1 year", "2 years", "3 years", "5 years"],
+    "correctAnswer": "3 years"
   },
   {
     "id": 21,
-    "question": "The NMC's warning about fake medical colleges underscores the importance of verifying institutions. Which city in Andhra Pradesh is home to a centrally established All India Institute of Medical Sciences (AIIMS)?",
-    "options": ["Visakhapatnam", "Guntur", "Mangalagiri", "Tirupati"],
-    "correctAnswer": "Mangalagiri"
+    "question": "The reported decline in donations affected which major political party in India, a prominent opposition force in Telangana and Andhra Pradesh?",
+    "options": ["BJP", "AAP", "Congress", "BSP"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 22,
-    "question": "The challenges in retaining postgraduate doctors suggest a need for strengthening healthcare. Which of the following is a key initiative by the Telangana government focused on providing accessible primary healthcare services, especially in urban slums?",
-    "options": ["Mission Bhagiratha", "Mana Ooru Mana Badi", "Basthi Dawakhana", "KCR Kit"],
-    "correctAnswer": "Basthi Dawakhana"
+    "question": "Sonia Gandhi recently commented that even Indira Gandhi came to feel that imposing which historical event was a mistake?",
+    "options": ["Partition of India", "Green Revolution", "The Emergency", "Nationalization of Banks"],
+    "correctAnswer": "The Emergency"
   },
   {
     "id": 23,
-    "question": "The news regarding Congress donations nationally shows a significant decrease. In Telangana, what was the approximate percentage of votes secured by the Congress party in the 2023 Assembly elections that led to its victory?",
-    "options": ["Around 25%", "Around 35%", "Around 40%", "Around 50%"],
-    "correctAnswer": "Around 40%"
+    "question": "The Emergency in India was imposed by which former Prime Minister?",
+    "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Rajiv Gandhi"],
+    "correctAnswer": "Indira Gandhi"
   },
   {
     "id": 24,
-    "question": "The concept of skill subjects in Class X aligns with the government's push for skill development. Which major industrial corridor project, partly passing through Andhra Pradesh, aims to boost economic development and create skilled employment opportunities?",
-    "options": ["Delhi-Mumbai Industrial Corridor (DMIC)", "Chennai-Bengaluru Industrial Corridor (CBIC)", "Visakhapatnam-Chennai Industrial Corridor (VCIC)", "Amritsar-Kolkata Industrial Corridor (AKIC)"],
-    "correctAnswer": "Visakhapatnam-Chennai Industrial Corridor (VCIC)"
+    "question": "The comments about the Emergency being a mistake were made by which prominent leader of the Indian National Congress?",
+    "options": ["Rahul Gandhi", "Priyanka Gandhi", "Sonia Gandhi", "Mallikarjun Kharge"],
+    "correctAnswer": "Sonia Gandhi"
   },
   {
     "id": 25,
-    "question": "The warning about fake medical colleges highlights regulatory concerns in higher education. Which regional university in Telangana is known for its extensive network of affiliated colleges and plays a crucial role in regulating professional courses including medical education?",
-    "options": ["Kakatiya University", "Osmania University", "Jawaharlal Nehru Technological University, Hyderabad (JNTUH)", "Palamuru University"],
-    "correctAnswer": "Osmania University"
+    "question": "The period of 'The Emergency' in India, referred to by Sonia Gandhi, primarily occurred during which decade?",
+    "options": ["1960s", "1970s", "1980s", "1990s"],
+    "correctAnswer": "1970s"
   }
 ]

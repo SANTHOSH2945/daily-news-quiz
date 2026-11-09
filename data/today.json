@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which prominent Telangana Congress leader recently launched a personal attack against KT Rama Rao regarding family property?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Eatala Rajender", "Bandi Sanjay Kumar"],
-    "correctAnswer": "Revanth Reddy"
-  },
-  {
-    "id": 2,
-    "question": "KT Rama Rao, the subject of recent personal attacks by Revanth Reddy, belongs to which political party in Telangana?",
-    "options": ["Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Bharat Rashtra Samithi (BRS)"
-  },
-  {
-    "id": 3,
-    "question": "Revanth Reddy, a key political figure in Telangana, is associated with which national political party?",
-    "options": ["Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "Communist Party of India (Marxist)"],
-    "correctAnswer": "Indian National Congress (INC)"
-  },
-  {
-    "id": 4,
-    "question": "The recent political discourse involving Revanth Reddy and KT Rama Rao is centered in which South Indian state?",
-    "options": ["Andhra Pradesh", "Kerala", "Telangana", "Karnataka"],
+    "question": "The Prime Minister recently spoke about 'Reds' and 'Dimagi Naxals'. Which of the following states has historically seen significant Naxalite activity, impacting its socio-political landscape?",
+    "options": ["Gujarat", "Punjab", "Telangana", "Goa"],
     "correctAnswer": "Telangana"
   },
   {
+    "id": 2,
+    "question": "Which forest region, known for its dense cover, has historically served as a base for Naxalite groups operating across parts of Andhra Pradesh and Telangana?",
+    "options": ["Gir Forest", "Sunderbans", "Nallamala Forest", "Jim Corbett National Park"],
+    "correctAnswer": "Nallamala Forest"
+  },
+  {
+    "id": 3,
+    "question": "The erstwhile People's War Group (PWG), a prominent Naxalite organization, primarily operated in which region before its merger to form the CPI (Maoist)?",
+    "options": ["Bihar and Jharkhand", "West Bengal and Odisha", "Andhra Pradesh and Maharashtra", "Karnataka and Kerala"],
+    "correctAnswer": "Andhra Pradesh and Maharashtra"
+  },
+  {
+    "id": 4,
+    "question": "What specialized anti-Naxal force, known for its effectiveness, was raised by the Andhra Pradesh government and later served the successor states?",
+    "options": ["Cobra Battalion", "Greyhounds", "Garud Commando Force", "National Security Guard"],
+    "correctAnswer": "Greyhounds"
+  },
+  {
     "id": 5,
-    "question": "What was the specific nature of the personal attack made by Revanth Reddy against KT Rama Rao?",
-    "options": ["Allegations of corruption in land deals", "Accusations of diverting government funds", "Forcing his sister out over family property", "Criticism over public policy decisions"],
-    "correctAnswer": "Forcing his sister out over family property"
+    "question": "In the context of Naxal-affected areas of Telangana and Andhra Pradesh, what does the term 'Platoon Area' generally refer to?",
+    "options": ["A military training camp", "A region under significant Naxalite influence or control", "A designated rehabilitation zone", "A government administrative division"],
+    "correctAnswer": "A region under significant Naxalite influence or control"
   },
   {
     "id": 6,
-    "question": "Prime Minister Modi recently warned against 'Dimagi Naxals'. The issue of Naxalism has historically affected which Indian states, including parts of Andhra Pradesh and Telangana?",
-    "options": ["Punjab and Haryana", "Gujarat and Rajasthan", "Uttar Pradesh and Bihar", "Chhattisgarh, Jharkhand, Odisha, and parts of AP/Telangana"],
-    "correctAnswer": "Chhattisgarh, Jharkhand, Odisha, and parts of AP/Telangana"
+    "question": "The PM's reference to 'Dimagi Naxals' implies an intellectual or ideological aspect of Naxalism. Which university in Andhra Pradesh/Telangana was historically associated with intellectual support or student movements related to Naxalite ideology?",
+    "options": ["Osmania University", "Andhra University", "Kakatiya University", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 7,
-    "question": "Which major political party took a swipe at Prime Minister Modi's 'Dimagi Naxals' remark, stating 'Jhola-picking-up time fast approaching'?",
-    "options": ["Bharatiya Janata Party (BJP)", "Aam Aadmi Party (AAP)", "Indian National Congress (INC)", "Trinamool Congress (TMC)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "Which major river basin in Andhra Pradesh and Telangana has been historically utilized by Naxalite groups for movement and operations due to its challenging terrain?",
+    "options": ["Krishna River Basin", "Godavari River Basin", "Penna River Basin", "Tungabhadra River Basin"],
+    "correctAnswer": "Godavari River Basin"
   },
   {
     "id": 8,
-    "question": "The term 'Dimagi Naxals' was recently brought into political discourse by which national leader?",
-    "options": ["Rahul Gandhi", "Mamata Banerjee", "Narendra Modi", "Arvind Kejriwal"],
-    "correctAnswer": "Narendra Modi"
+    "question": "The 'Janata Sarkar' or 'People's Government' concept was often promoted by Naxalites in areas under their influence, including parts of Andhra Pradesh. What does this term generally signify in their ideology?",
+    "options": ["A democratic election process", "An alternative governance structure established by Naxalites", "A federal system of government", "A collaborative development program"],
+    "correctAnswer": "An alternative governance structure established by Naxalites"
   },
   {
     "id": 9,
-    "question": "The political discourse surrounding 'Dimagi Naxals' refers to concerns about which perceived threat?",
-    "options": ["Economic recession", "External aggression", "Ideological extremism or urban Naxalism", "Climate change impact"],
-    "correctAnswer": "Ideological extremism or urban Naxalism"
+    "question": "What was a key socio-economic issue often exploited by Naxalite groups to gain support among rural and tribal populations in undivided Andhra Pradesh?",
+    "options": ["High literacy rates", "Land alienation and exploitation", "Industrial development projects", "Religious conversions"],
+    "correctAnswer": "Land alienation and exploitation"
   },
   {
     "id": 10,
-    "question": "The regions historically affected by Naxalism, often referred to as the 'Red Corridor', primarily extend across which part of India, bordering states like Andhra Pradesh and Telangana?",
-    "options": ["North-Eastern India", "North-Western India", "Central and Eastern India", "Southern Peninsular India excluding AP/Telangana"],
-    "correctAnswer": "Central and Eastern India"
+    "question": "Which district in Telangana, bordering Chhattisgarh, is often cited as a critical corridor and stronghold for Naxalite movements in the region?",
+    "options": ["Adilabad", "Mulugu", "Bhadradri Kothagudem", "Nalgonda"],
+    "correctAnswer": "Bhadradri Kothagudem"
   },
   {
     "id": 11,
-    "question": "Which veteran BJP leader did Prime Minister Modi recently visit on his birthday as he entered his 100th year?",
-    "options": ["Murli Manohar Joshi", "Yashwant Sinha", "L.K. Advani", "Atal Bihari Vajpayee"],
-    "correctAnswer": "L.K. Advani"
+    "question": "The banning of Naxalite organizations has been a recurring state policy in both Andhra Pradesh and Telangana. Under which act are such organizations typically proscribed?",
+    "options": ["Indian Penal Code", "Prevention of Money Laundering Act", "Unlawful Activities (Prevention) Act (UAPA)", "Public Safety Act"],
+    "correctAnswer": "Unlawful Activities (Prevention) Act (UAPA)"
   },
   {
     "id": 12,
-    "question": "L.K. Advani, a recipient of the Padma Vibhushan and former Deputy Prime Minister, is a key figure of which political party?",
-    "options": ["Indian National Congress (INC)", "Bharatiya Janata Party (BJP)", "Samajwadi Party (SP)", "Janata Dal (United)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "question": "In the context of addressing Naxalism in Telangana, what role did the 'Surrender and Rehabilitation Policy' play?",
+    "options": ["Encouraging Naxalites to join the police force", "Providing incentives for Naxalites to disarm and reintegrate into society", "Forcibly relocating Naxalite families", "Establishing special economic zones for ex-Naxalites"],
+    "correctAnswer": "Providing incentives for Naxalites to disarm and reintegrate into society"
   },
   {
     "id": 13,
-    "question": "The visit by PM Modi to L.K. Advani on his birthday signifies an important gesture within which national political party?",
-    "options": ["Indian National Congress", "Communist Party of India (Marxist)", "Bharatiya Janata Party", "All India Trinamool Congress"],
-    "correctAnswer": "Bharatiya Janata Party"
+    "question": "Which former Chief Minister of undivided Andhra Pradesh is known for his strong stance and efforts in combating Naxalism, including initiating peace talks that eventually failed?",
+    "options": ["N. Chandrababu Naidu", "Y.S. Rajasekhara Reddy", "K. Vijay Bhaskara Reddy", "Nedurumalli Janardhana Reddy"],
+    "correctAnswer": "Y.S. Rajasekhara Reddy"
   },
   {
     "id": 14,
-    "question": "What significant age milestone did veteran BJP leader L.K. Advani recently achieve?",
-    "options": ["90th birthday", "95th birthday", "Entering his 100th year", "Celebrating his 85th birthday"],
-    "correctAnswer": "Entering his 100th year"
+    "question": "The term 'Forest Rights Act' (FRA), 2006, is relevant in Naxal-affected areas of Telangana and Andhra Pradesh because it addresses which key issue often central to Naxalite grievances?",
+    "options": ["Industrialization", "Tribal land rights and access to forest resources", "Urban development", "Agricultural subsidies"],
+    "correctAnswer": "Tribal land rights and access to forest resources"
   },
   {
     "id": 15,
-    "question": "Who is the current Prime Minister of India, who recently visited L.K. Advani on his birthday?",
-    "options": ["Amit Shah", "Narendra Modi", "Rajnath Singh", "J.P. Nadda"],
-    "correctAnswer": "Narendra Modi"
+    "question": "What is the primary objective behind Naxalite 'bandhs' (strikes) and calls for boycotts in areas like parts of Telangana and Andhra Pradesh?",
+    "options": ["To protest against local festivals", "To disrupt public life and demonstrate their influence", "To promote tourism", "To support government policies"],
+    "correctAnswer": "To disrupt public life and demonstrate their influence"
   },
   {
     "id": 16,
-    "question": "Which prominent Congress leader is set to release a memoir described as 'not a political book, but a personal one'?",
-    "options": ["Priyanka Gandhi Vadra", "Rahul Gandhi", "Sonia Gandhi", "Mallikarjun Kharge"],
-    "correctAnswer": "Sonia Gandhi"
+    "question": "Which renowned poet and activist from Telangana was often associated with revolutionary literary movements that sometimes overlapped with Naxalite ideology?",
+    "options": ["Kaloji Narayana Rao", "C. Narayana Reddy", "Gaddar (Gummadi Vittal Rao)", "Dasaradhi Krishnamacharyulu"],
+    "correctAnswer": "Gaddar (Gummadi Vittal Rao)"
   },
   {
     "id": 17,
-    "question": "Sonia Gandhi, a former President of the Indian National Congress, is expected to release what kind of publication?",
-    "options": ["A political manifesto", "An economic policy document", "A memoir", "A collection of speeches"],
-    "correctAnswer": "A memoir"
+    "question": "The 'Red Corridor' in India, which includes parts of Telangana and Andhra Pradesh, is characterized by what primary feature?",
+    "options": ["High industrial development", "Significant Naxalite presence and activity", "Major tourist destinations", "High agricultural productivity"],
+    "correctAnswer": "Significant Naxalite presence and activity"
   },
   {
     "id": 18,
-    "question": "How did Sonia Gandhi personally characterize her upcoming memoir?",
-    "options": ["'A historical account of India'", "'An analysis of global politics'", "'Not a political book, but a personal one'", "'A guide to parliamentary procedures'"],
-    "correctAnswer": "'Not a political book, but a personal one'"
+    "question": "What strategy, alongside armed operations, has been increasingly emphasized by both Telangana and Andhra Pradesh governments to counter Naxalism effectively?",
+    "options": ["Increasing military presence only", "Development and welfare programs in affected areas", "Imposing stricter curfews", "Promoting private sector investment without local consultation"],
+    "correctAnswer": "Development and welfare programs in affected areas"
   },
   {
     "id": 19,
-    "question": "The release of a memoir by a key figure from the Indian National Congress is a national event of interest to citizens in all states, including where Congress has significant presence. What significant role did Sonia Gandhi play in the party?",
-    "options": ["Chief Spokesperson", "General Secretary", "President", "Treasurer"],
-    "correctAnswer": "President"
+    "question": "The concept of 'political power flows from the barrel of a gun' is a core tenet of Naxalite ideology. How has this manifested in parts of Andhra Pradesh and Telangana historically?",
+    "options": ["Through democratic elections", "Through armed struggle against the state", "Through peaceful protests", "Through diplomatic negotiations"],
+    "correctAnswer": "Through armed struggle against the state"
   },
   {
     "id": 20,
-    "question": "Sonia Gandhi's memoir is expected to touch upon various national political events relevant to all Indian states. Which prominent political family is she a part of?",
-    "options": ["Nehru-Gandhi family", "Patel family", "Bose family", "Shastri family"],
-    "correctAnswer": "Nehru-Gandhi family"
+    "question": "In areas of Telangana and Andhra Pradesh, Naxalites often engage in 'extortion' activities. What is the primary purpose of these activities?",
+    "options": ["To fund local schools", "To finance their movement and operations", "To support agricultural projects", "To build public infrastructure"],
+    "correctAnswer": "To finance their movement and operations"
   },
   {
     "id": 21,
-    "question": "Diwali is celebrated with great fervor across India, including in states like Andhra Pradesh and Telangana. Which city's iconic Lal Chowk was recently illuminated as part of Diwali celebrations?",
-    "options": ["Mumbai", "Bengaluru", "Srinagar", "Chennai"],
-    "correctAnswer": "Srinagar"
+    "question": "The Srikakulam armed peasant uprising, a precursor to the Naxalite movement, took place in which present-day state?",
+    "options": ["Odisha", "Andhra Pradesh", "West Bengal", "Telangana"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 22,
-    "question": "Urban air pollution is a growing concern for major Indian cities, including Hyderabad and Visakhapatnam. Which Indian capital city recently reported 'very poor' air quality on Diwali as per recent reports?",
-    "options": ["Gandhinagar", "Thiruvananthapuram", "Delhi", "Bhubaneswar"],
-    "correctAnswer": "Delhi"
+    "question": "Which socio-economic group has historically been a significant base of support and recruitment for Naxalite movements in tribal regions of Telangana and Andhra Pradesh?",
+    "options": ["Urban middle-class professionals", "Wealthy landlords", "Marginalized tribal communities and landless laborers", "Industrial workers in metros"],
+    "correctAnswer": "Marginalized tribal communities and landless laborers"
   },
   {
     "id": 23,
-    "question": "The construction of the Ram Temple in Ayodhya is a national project in India, a matter of significant cultural and religious importance to citizens across states, including Telangana and Andhra Pradesh. In which state is Ayodhya, the site of the Ram Temple, located?",
-    "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Bihar"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "What was the primary reason for the formation of the Communist Party of India (Maoist) through the merger of various Naxalite factions, including the PWG from Andhra Pradesh?",
+    "options": ["To participate in mainstream elections", "To consolidate forces and intensify armed struggle", "To promote cultural exchange programs", "To establish a new political party for urban youth"],
+    "correctAnswer": "To consolidate forces and intensify armed struggle"
   },
   {
     "id": 24,
-    "question": "The proposed Ram Temple visit by Akhilesh Yadav, which garnered comments from the Congress, involves a prominent leader from which Indian state?",
-    "options": ["Maharashtra", "West Bengal", "Uttar Pradesh", "Gujarat"],
-    "correctAnswer": "Uttar Pradesh"
+    "question": "When PM Modi refers to 'Reds' having largely left, but 'Dimagi Naxals' still instigating people, it suggests a shift in focus. What could 'Dimagi Naxals' imply in the context of states like Telangana, which have seen a decline in overt armed Naxal activity?",
+    "options": ["Naxals involved in brain-related scientific research", "Individuals spreading Naxalite ideology through intellectual and propaganda means", "Naxals focusing on traditional agricultural practices", "Naxals operating entirely within government institutions"],
+    "correctAnswer": "Individuals spreading Naxalite ideology through intellectual and propaganda means"
   },
   {
     "id": 25,
-    "question": "The festival of Diwali is a significant cultural event celebrated nationwide. According to recent reports, how was the atmosphere described at Srinagar's Ghanta Ghar during Diwali celebrations?",
-    "options": ["Restricted due to security concerns", "Quiet with minimal participation", "Tourists and locals celebrating", "Marked by official government ceremonies only"],
-    "correctAnswer": "Tourists and locals celebrating"
+    "question": "The term 'Guerilla Zone' has been frequently used in the past to describe certain remote areas of undivided Andhra Pradesh and now parts of Telangana. What does this term indicate about Naxalite operations in these zones?",
+    "options": ["Areas designated for wildlife protection", "Regions where Naxalites practice conventional warfare", "Remote areas where Naxalites operate using hit-and-run tactics and blend with locals", "Urban areas where Naxalites hold public rallies"],
+    "correctAnswer": "Remote areas where Naxalites operate using hit-and-run tactics and blend with locals"
   }
 ]

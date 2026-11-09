@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Prime Minister recently spoke about 'Reds' and 'Dimagi Naxals'. Which of the following states has historically seen significant Naxalite activity, impacting its socio-political landscape?",
-    "options": ["Gujarat", "Punjab", "Telangana", "Goa"],
-    "correctAnswer": "Telangana"
+    "question": "In which city of Andhra Pradesh were E20 petrol samples sent for lab tests concerning ethanol blending quality?",
+    "options": ["Visakhapatnam", "Vijayawada", "Kakinada", "Guntur"],
+    "correctAnswer": "Kakinada"
   },
   {
     "id": 2,
-    "question": "Which forest region, known for its dense cover, has historically served as a base for Naxalite groups operating across parts of Andhra Pradesh and Telangana?",
-    "options": ["Gir Forest", "Sunderbans", "Nallamala Forest", "Jim Corbett National Park"],
-    "correctAnswer": "Nallamala Forest"
+    "question": "What specific type of fuel is currently undergoing quality checks in India, with samples tested in places like Kakinada, Andhra Pradesh, for ethanol content?",
+    "options": ["E5 Petrol", "E10 Petrol", "E20 Petrol", "Diesel"],
+    "correctAnswer": "E20 Petrol"
   },
   {
     "id": 3,
-    "question": "The erstwhile People's War Group (PWG), a prominent Naxalite organization, primarily operated in which region before its merger to form the CPI (Maoist)?",
-    "options": ["Bihar and Jharkhand", "West Bengal and Odisha", "Andhra Pradesh and Maharashtra", "Karnataka and Kerala"],
-    "correctAnswer": "Andhra Pradesh and Maharashtra"
+    "question": "The concern prompting E20 petrol quality checks, which led to samples being sent to Kakinada, is primarily related to what aspect of the fuel?",
+    "options": ["Low octane levels", "Excessive ethanol blending", "Presence of harmful additives", "Adulteration with water"],
+    "correctAnswer": "Excessive ethanol blending"
   },
   {
     "id": 4,
-    "question": "What specialized anti-Naxal force, known for its effectiveness, was raised by the Andhra Pradesh government and later served the successor states?",
-    "options": ["Cobra Battalion", "Greyhounds", "Garud Commando Force", "National Security Guard"],
-    "correctAnswer": "Greyhounds"
+    "question": "Which Union Ministry clarified that all E20 petrol samples adhere to quality norms, despite concerns leading to inspections and tests in Kakinada?",
+    "options": ["Ministry of Environment, Forest and Climate Change", "Ministry of Road Transport and Highways", "Ministry of Petroleum and Natural Gas", "Ministry of Chemicals and Fertilizers"],
+    "correctAnswer": "Ministry of Petroleum and Natural Gas"
   },
   {
     "id": 5,
-    "question": "In the context of Naxal-affected areas of Telangana and Andhra Pradesh, what does the term 'Platoon Area' generally refer to?",
-    "options": ["A military training camp", "A region under significant Naxalite influence or control", "A designated rehabilitation zone", "A government administrative division"],
-    "correctAnswer": "A region under significant Naxalite influence or control"
+    "question": "Recently, which significant industrial sector is Telangana actively promoting with new policies and incentives, building on its existing strengths?",
+    "options": ["Textile manufacturing", "Aerospace and Defence", "Food Processing", "Pharma and Life Sciences"],
+    "correctAnswer": "Pharma and Life Sciences"
   },
   {
     "id": 6,
-    "question": "The PM's reference to 'Dimagi Naxals' implies an intellectual or ideological aspect of Naxalism. Which university in Andhra Pradesh/Telangana was historically associated with intellectual support or student movements related to Naxalite ideology?",
-    "options": ["Osmania University", "Andhra University", "Kakatiya University", "All of the above"],
-    "correctAnswer": "All of the above"
+    "question": "The Kaleshwaram Lift Irrigation Project, a major infrastructure initiative, is primarily located in which Indian state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Maharashtra", "Telangana"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 7,
-    "question": "Which major river basin in Andhra Pradesh and Telangana has been historically utilized by Naxalite groups for movement and operations due to its challenging terrain?",
-    "options": ["Krishna River Basin", "Godavari River Basin", "Penna River Basin", "Tungabhadra River Basin"],
-    "correctAnswer": "Godavari River Basin"
+    "question": "Which city in Telangana is widely recognized as a major IT and biotechnology hub, often referred to as 'Cyberabad'?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 8,
-    "question": "The 'Janata Sarkar' or 'People's Government' concept was often promoted by Naxalites in areas under their influence, including parts of Andhra Pradesh. What does this term generally signify in their ideology?",
-    "options": ["A democratic election process", "An alternative governance structure established by Naxalites", "A federal system of government", "A collaborative development program"],
-    "correctAnswer": "An alternative governance structure established by Naxalites"
+    "question": "The Congress government in Telangana, after coming to power, announced several 'six guarantees'. Which of the following is NOT one of the key promises under these guarantees?",
+    "options": ["Mahalakshmi scheme", "Indiramma Housing", "Telangana Ku Haritha Haram", "Rythu Bharosa"],
+    "correctAnswer": "Telangana Ku Haritha Haram"
   },
   {
     "id": 9,
-    "question": "What was a key socio-economic issue often exploited by Naxalite groups to gain support among rural and tribal populations in undivided Andhra Pradesh?",
-    "options": ["High literacy rates", "Land alienation and exploitation", "Industrial development projects", "Religious conversions"],
-    "correctAnswer": "Land alienation and exploitation"
+    "question": "What is the name of the state festival of flowers primarily celebrated in Telangana?",
+    "options": ["Sankranti", "Bathukamma", "Bonalu", "Ugadi"],
+    "correctAnswer": "Bathukamma"
   },
   {
     "id": 10,
-    "question": "Which district in Telangana, bordering Chhattisgarh, is often cited as a critical corridor and stronghold for Naxalite movements in the region?",
-    "options": ["Adilabad", "Mulugu", "Bhadradri Kothagudem", "Nalgonda"],
-    "correctAnswer": "Bhadradri Kothagudem"
+    "question": "Telangana recently launched a comprehensive land records modernization program. What is the popular name of this digital initiative?",
+    "options": ["Dharani Portal", "MeeSeva", "e-Panchayat", "Bhoomi Portal"],
+    "correctAnswer": "Dharani Portal"
   },
   {
     "id": 11,
-    "question": "The banning of Naxalite organizations has been a recurring state policy in both Andhra Pradesh and Telangana. Under which act are such organizations typically proscribed?",
-    "options": ["Indian Penal Code", "Prevention of Money Laundering Act", "Unlawful Activities (Prevention) Act (UAPA)", "Public Safety Act"],
-    "correctAnswer": "Unlawful Activities (Prevention) Act (UAPA)"
+    "question": "Which international company recently inaugurated its largest campus outside its headquarters in Hyderabad, Telangana?",
+    "options": ["Apple", "Microsoft", "Amazon", "Google"],
+    "correctAnswer": "Google"
   },
   {
     "id": 12,
-    "question": "In the context of addressing Naxalism in Telangana, what role did the 'Surrender and Rehabilitation Policy' play?",
-    "options": ["Encouraging Naxalites to join the police force", "Providing incentives for Naxalites to disarm and reintegrate into society", "Forcibly relocating Naxalite families", "Establishing special economic zones for ex-Naxalites"],
-    "correctAnswer": "Providing incentives for Naxalites to disarm and reintegrate into society"
+    "question": "What is the current status of the dispute between Telangana and Andhra Pradesh regarding the sharing of Krishna River waters?",
+    "options": ["Fully resolved", "Under arbitration by the Brijesh Kumar Tribunal", "Disputed only regarding Godavari waters", "Resolved by mutual agreement"],
+    "correctAnswer": "Under arbitration by the Brijesh Kumar Tribunal"
   },
   {
     "id": 13,
-    "question": "Which former Chief Minister of undivided Andhra Pradesh is known for his strong stance and efforts in combating Naxalism, including initiating peace talks that eventually failed?",
-    "options": ["N. Chandrababu Naidu", "Y.S. Rajasekhara Reddy", "K. Vijay Bhaskara Reddy", "Nedurumalli Janardhana Reddy"],
-    "correctAnswer": "Y.S. Rajasekhara Reddy"
+    "question": "The Telangana State Road Transport Corporation (TSRTC) recently made headlines for which new initiative aimed at improving services for women?",
+    "options": ["Introduction of electric buses on all routes", "Women-only buses", "Digitization of ticket booking and bus tracking", "Free travel for women"],
+    "correctAnswer": "Free travel for women"
   },
   {
     "id": 14,
-    "question": "The term 'Forest Rights Act' (FRA), 2006, is relevant in Naxal-affected areas of Telangana and Andhra Pradesh because it addresses which key issue often central to Naxalite grievances?",
-    "options": ["Industrialization", "Tribal land rights and access to forest resources", "Urban development", "Agricultural subsidies"],
-    "correctAnswer": "Tribal land rights and access to forest resources"
+    "question": "Which region in Telangana is set to become a major hub for pharmaceutical manufacturing and research, often dubbed as 'Pharma City'?",
+    "options": ["Shamshabad", "Mucherla", "Patancheru", "Genome Valley"],
+    "correctAnswer": "Mucherla"
   },
   {
     "id": 15,
-    "question": "What is the primary objective behind Naxalite 'bandhs' (strikes) and calls for boycotts in areas like parts of Telangana and Andhra Pradesh?",
-    "options": ["To protest against local festivals", "To disrupt public life and demonstrate their influence", "To promote tourism", "To support government policies"],
-    "correctAnswer": "To disrupt public life and demonstrate their influence"
+    "question": "Which major international literary and cultural event is annually hosted in Hyderabad, featuring authors and artists?",
+    "options": ["Hyderabad Book Fair", "Hyderabad Literary Festival", "Hyderabad Film Festival", "Golconda Festival"],
+    "correctAnswer": "Hyderabad Literary Festival"
   },
   {
     "id": 16,
-    "question": "Which renowned poet and activist from Telangana was often associated with revolutionary literary movements that sometimes overlapped with Naxalite ideology?",
-    "options": ["Kaloji Narayana Rao", "C. Narayana Reddy", "Gaddar (Gummadi Vittal Rao)", "Dasaradhi Krishnamacharyulu"],
-    "correctAnswer": "Gaddar (Gummadi Vittal Rao)"
+    "question": "In recent electoral news, which political party secured a significant majority in the Telangana Assembly elections, forming the new government?",
+    "options": ["BRS", "BJP", "Congress", "AIMIM"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 17,
-    "question": "The 'Red Corridor' in India, which includes parts of Telangana and Andhra Pradesh, is characterized by what primary feature?",
-    "options": ["High industrial development", "Significant Naxalite presence and activity", "Major tourist destinations", "High agricultural productivity"],
-    "correctAnswer": "Significant Naxalite presence and activity"
+    "question": "Andhra Pradesh recently announced its new industrial policy with a strong focus on attracting investments in which primary sector?",
+    "options": ["Tourism and Hospitality", "Information Technology and Electronics", "Heavy Manufacturing", "Mining and Minerals"],
+    "correctAnswer": "Information Technology and Electronics"
   },
   {
     "id": 18,
-    "question": "What strategy, alongside armed operations, has been increasingly emphasized by both Telangana and Andhra Pradesh governments to counter Naxalism effectively?",
-    "options": ["Increasing military presence only", "Development and welfare programs in affected areas", "Imposing stricter curfews", "Promoting private sector investment without local consultation"],
-    "correctAnswer": "Development and welfare programs in affected areas"
+    "question": "Which city is currently serving as the executive capital of Andhra Pradesh, as per recent government announcements?",
+    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Vijayawada"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 19,
-    "question": "The concept of 'political power flows from the barrel of a gun' is a core tenet of Naxalite ideology. How has this manifested in parts of Andhra Pradesh and Telangana historically?",
-    "options": ["Through democratic elections", "Through armed struggle against the state", "Through peaceful protests", "Through diplomatic negotiations"],
-    "correctAnswer": "Through armed struggle against the state"
+    "question": "The Polavaram Project, a multi-purpose irrigation project, is being constructed on which river in Andhra Pradesh?",
+    "options": ["Krishna River", "Penna River", "Godavari River", "Tungabhadra River"],
+    "correctAnswer": "Godavari River"
   },
   {
     "id": 20,
-    "question": "In areas of Telangana and Andhra Pradesh, Naxalites often engage in 'extortion' activities. What is the primary purpose of these activities?",
-    "options": ["To fund local schools", "To finance their movement and operations", "To support agricultural projects", "To build public infrastructure"],
-    "correctAnswer": "To finance their movement and operations"
+    "question": "Andhra Pradesh is a major producer of which cash crop, particularly a variety often referred to as 'Virginia tobacco'?",
+    "options": ["Cotton", "Sugarcane", "Tobacco", "Jute"],
+    "correctAnswer": "Tobacco"
   },
   {
     "id": 21,
-    "question": "The Srikakulam armed peasant uprising, a precursor to the Naxalite movement, took place in which present-day state?",
-    "options": ["Odisha", "Andhra Pradesh", "West Bengal", "Telangana"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What is the name of the flagship scheme launched by the Andhra Pradesh government for universal healthcare coverage for economically disadvantaged sections?",
+    "options": ["Ayushman Bharat", "Aarogyasri Scheme", "Jagananna Vidya Deevena", "Amma Vodi"],
+    "correctAnswer": "Aarogyasri Scheme"
   },
   {
     "id": 22,
-    "question": "Which socio-economic group has historically been a significant base of support and recruitment for Naxalite movements in tribal regions of Telangana and Andhra Pradesh?",
-    "options": ["Urban middle-class professionals", "Wealthy landlords", "Marginalized tribal communities and landless laborers", "Industrial workers in metros"],
-    "correctAnswer": "Marginalized tribal communities and landless laborers"
+    "question": "Which major port city in Andhra Pradesh is often called the 'Jewel of the East Coast' due to its scenic beauty and industrial significance?",
+    "options": ["Machilipatnam", "Kakinada", "Visakhapatnam", "Nellore"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 23,
-    "question": "What was the primary reason for the formation of the Communist Party of India (Maoist) through the merger of various Naxalite factions, including the PWG from Andhra Pradesh?",
-    "options": ["To participate in mainstream elections", "To consolidate forces and intensify armed struggle", "To promote cultural exchange programs", "To establish a new political party for urban youth"],
-    "correctAnswer": "To consolidate forces and intensify armed struggle"
+    "question": "Andhra Pradesh government recently initiated a program to provide financial assistance for students' education fees, named after the current Chief Minister. What is it called?",
+    "options": ["Rythu Bharosa", "Amma Vodi", "YSR Cheyutha", "Jagananna Vidya Deevena"],
+    "correctAnswer": "Jagananna Vidya Deevena"
   },
   {
     "id": 24,
-    "question": "When PM Modi refers to 'Reds' having largely left, but 'Dimagi Naxals' still instigating people, it suggests a shift in focus. What could 'Dimagi Naxals' imply in the context of states like Telangana, which have seen a decline in overt armed Naxal activity?",
-    "options": ["Naxals involved in brain-related scientific research", "Individuals spreading Naxalite ideology through intellectual and propaganda means", "Naxals focusing on traditional agricultural practices", "Naxals operating entirely within government institutions"],
-    "correctAnswer": "Individuals spreading Naxalite ideology through intellectual and propaganda means"
+    "question": "Which dance form, originating from Andhra Pradesh, is one of the eight classical dance forms of India, known for its narrative expressiveness?",
+    "options": ["Bharatanatyam", "Kathakali", "Kuchipudi", "Odissi"],
+    "correctAnswer": "Kuchipudi"
   },
   {
     "id": 25,
-    "question": "The term 'Guerilla Zone' has been frequently used in the past to describe certain remote areas of undivided Andhra Pradesh and now parts of Telangana. What does this term indicate about Naxalite operations in these zones?",
-    "options": ["Areas designated for wildlife protection", "Regions where Naxalites practice conventional warfare", "Remote areas where Naxalites operate using hit-and-run tactics and blend with locals", "Urban areas where Naxalites hold public rallies"],
-    "correctAnswer": "Remote areas where Naxalites operate using hit-and-run tactics and blend with locals"
+    "question": "In the recent past, Andhra Pradesh faced challenges with its capital city development. Which city was initially designated as the sole capital but is now part of a three-capital proposal?",
+    "options": ["Vijayawada", "Guntur", "Amaravati", "Nellore"],
+    "correctAnswer": "Amaravati"
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Following the Supreme Court's stance on government's wide powers to improve efficiency, which Telangana initiative focuses on streamlining public service delivery through digital means?",
-    "options": ["Mee Seva", "Rythu Bandhu", "Kanti Velugu", "Dalit Bandhu"],
-    "correctAnswer": "Mee Seva"
+    "question": "Which prominent political leader from Telangana recently criticized the Maharashtra government's approach to the Uniform Civil Code (UCC)?",
+    "options": ["K. Chandrashekar Rao", "Asaduddin Owaisi", "N. Chandrababu Naidu", "Revanth Reddy"],
+    "correctAnswer": "Asaduddin Owaisi"
   },
   {
     "id": 2,
-    "question": "In light of the emphasis on government efficiency, which Andhra Pradesh scheme aims to empower village and ward secretariats for better public service delivery at the grassroots level?",
-    "options": ["Amma Vodi", "Jagananna Vidya Deevena", "Village/Ward Secretariat System", "YSR Rythu Bharosa"],
-    "correctAnswer": "Village/Ward Secretariat System"
+    "question": "Asaduddin Owaisi, an MP from Hyderabad, Telangana, expressed concerns that the Maharashtra government's proposed move on UCC aims to 'snatch' which community's identity?",
+    "options": ["Sikh community", "Christian community", "Muslims' identity", "Jain community"],
+    "correctAnswer": "Muslims' identity"
   },
   {
     "id": 3,
-    "question": "Given concerns about low adult vaccination rates and public health, what is a prominent public health initiative by the Telangana government primarily aimed at universal eye care?",
-    "options": ["Kanti Velugu", "Arogya Telangana", "Basthi Dawakhana", "Mana Ooru - Mana Sabji"],
-    "correctAnswer": "Kanti Velugu"
+    "question": "What specific term did AIMIM chief Asaduddin Owaisi, a leader from Telangana, use to describe the Maharashtra government's UCC proposal, indicating his disagreement with its nature?",
+    "options": ["Secular Code", "Common Civil Code", "Hindu Civil Code", "Universal Family Code"],
+    "correctAnswer": "Hindu Civil Code"
   },
   {
     "id": 4,
-    "question": "Which Andhra Pradesh government scheme provides financial assistance for medical expenses to families below the poverty line, addressing a broader aspect of public health access?",
-    "options": ["YSR Arogyasri", "Jagananna Gorumudda", "YSR Cheyutha", "YSR Kapu Nestham"],
-    "correctAnswer": "YSR Arogyasri"
+    "question": "The political party All India Majlis-e-Ittehadul Muslimeen (AIMIM), led by Asaduddin Owaisi, primarily holds its influence and political base in which Indian state, making his national comments relevant regionally?",
+    "options": ["Maharashtra", "Andhra Pradesh", "Uttar Pradesh", "Telangana"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 5,
-    "question": "Considering increasing urban pollution, which city in Telangana has consistently been recognized for its efforts in green initiatives and improving air quality, often cited as a role model?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "The debate on the Uniform Civil Code, commented on by Telangana's Asaduddin Owaisi, broadly aims to standardize laws concerning what aspects for all citizens?",
+    "options": ["Criminal offenses and penalties", "Taxation and fiscal policy", "Personal matters like marriage and inheritance", "Inter-state trade and commerce"],
+    "correctAnswer": "Personal matters like marriage and inheritance"
   },
   {
     "id": 6,
-    "question": "Following national concerns about urban pollution, which major initiative by the Andhra Pradesh government focuses on enhancing green cover and promoting sustainable environmental practices?",
-    "options": ["Jagananna Palle Velugu", "Pedalandariki Illu", "Jagananna Haritha Andhra", "Amma Vodi"],
-    "correctAnswer": "Jagananna Haritha Andhra"
+    "question": "Which city's Lok Sabha constituency does Asaduddin Owaisi, prominent in the UCC debate, currently represent?",
+    "options": ["Secunderabad", "Vijayawada", "Hyderabad", "Warangal"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 7,
-    "question": "In the context of judicial efficiency, which city is home to the High Court for the state of Telangana, established after the state's bifurcation?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "The Supreme Court of India recently sought a prevention plan for 'digital arrest scams' from which two primary entities?",
+    "options": ["SEBI and NPCI", "TRAI and DoT", "WhatsApp and RBI", "MeitY and NASSCOM"],
+    "correctAnswer": "WhatsApp and RBI"
   },
   {
     "id": 8,
-    "question": "Which city in Andhra Pradesh serves as the permanent seat of the Andhra Pradesh High Court, operational since 2019?",
-    "options": ["Visakhapatnam", "Vijayawada", "Amaravati", "Kurnool"],
-    "correctAnswer": "Amaravati"
+    "question": "What type of fraudulent activity, where victims are tricked into believing they are under arrest, prompted the Supreme Court's intervention?",
+    "options": ["Loan shark scams", "Lottery scams", "Digital arrest scams", "Online shopping fraud"],
+    "correctAnswer": "Digital arrest scams"
   },
   {
     "id": 9,
-    "question": "Which flagship scheme of the Telangana government provides investment support to farmers for two crops a year, aiming to boost agricultural productivity?",
-    "options": ["Rythu Bandhu", "Dalit Bandhu", "Mission Kakatiya", "Kaleshwaram Project"],
-    "correctAnswer": "Rythu Bandhu"
+    "question": "Which major messaging platform was specifically mentioned by the Supreme Court in its notice regarding prevention of digital arrest scams?",
+    "options": ["Telegram", "Signal", "WhatsApp", "Facebook Messenger"],
+    "correctAnswer": "WhatsApp"
   },
   {
     "id": 10,
-    "question": "Which Andhra Pradesh scheme provides financial assistance to farmers for crop cultivation and post-harvest needs, supplementing the central government's PM-KISAN scheme?",
-    "options": ["YSR Rythu Bharosa", "Jagananna Vidya Deevena", "Amma Vodi", "YSR Cheyutha"],
-    "correctAnswer": "YSR Rythu Bharosa"
+    "question": "The Reserve Bank of India (RBI) was issued a notice by the Supreme Court concerning digital arrest scams due to its role as the regulator of what in India?",
+    "options": ["Telecommunication networks", "Capital markets", "Financial and banking systems", "Cybersecurity infrastructure"],
+    "correctAnswer": "Financial and banking systems"
   },
   {
     "id": 11,
-    "question": "Which major Hindu festival, celebrating the harvest season and the triumph of good over evil, is particularly significant in Telangana and Andhra Pradesh, often involving rituals like Bathukamma or Dasara?",
-    "options": ["Holi", "Diwali", "Dasara/Dussehra", "Pongal"],
-    "correctAnswer": "Dasara/Dussehra"
+    "question": "The Supreme Court's action against digital arrest scams underscores a national effort to combat which broader category of crime affecting citizens across India, including Telangana and Andhra Pradesh?",
+    "options": ["Property disputes", "Environmental crimes", "Cybercrime and financial fraud", "Human trafficking"],
+    "correctAnswer": "Cybercrime and financial fraud"
   },
   {
     "id": 12,
-    "question": "Following concerns over environmental impact during festivals, what is a popular flower festival celebrated predominantly by women in Telangana, recognized for its unique floral arrangements?",
-    "options": ["Bonalu", "Bathukamma", "Sammakka Saralamma Jatara", "Ugadi"],
-    "correctAnswer": "Bathukamma"
+    "question": "India has made significant strides in immunization campaigns, leading to the elimination or major reduction of diseases such as:",
+    "options": ["Tuberculosis and Malaria", "Dengue and Chikungunya", "Smallpox and Polio", "HIV/AIDS and Hepatitis B"],
+    "correctAnswer": "Smallpox and Polio"
   },
   {
     "id": 13,
-    "question": "The central government has been pushing for infrastructure development. Which major irrigation project, primarily in Telangana, is considered a multi-purpose lift irrigation scheme and has been described as an engineering marvel?",
-    "options": ["Nagarjuna Sagar", "Sriram Sagar", "Kaleshwaram Lift Irrigation Project", "Pothireddypadu Head Regulator"],
-    "correctAnswer": "Kaleshwaram Lift Irrigation Project"
+    "question": "Despite reaching immunization milestones, what challenge persists across various Indian states and communities, as noted in recent reports?",
+    "options": ["Over-immunization", "Lack of vaccine supply", "Disparities in immunization coverage", "Excessive public demand for vaccines"],
+    "correctAnswer": "Disparities in immunization coverage"
   },
   {
     "id": 14,
-    "question": "What major infrastructure corridor, connecting Visakhapatnam, Chennai, and other coastal cities, is a focus for economic development in Andhra Pradesh with central government support?",
-    "options": ["Golden Quadrilateral", "East Coast Economic Corridor", "Sagarmala Project", "Bharatmala Pariyojana"],
-    "correctAnswer": "East Coast Economic Corridor"
+    "question": "Current immunization initiatives in India are specifically working to enhance accessibility and monitoring of vaccinations, particularly addressing which groups?",
+    "options": ["Healthcare workers and frontline staff", "Politicians and government officials", "Caregiver hesitancy and obstacles for migrants", "International travelers and tourists"],
+    "correctAnswer": "Caregiver hesitancy and obstacles for migrants"
   },
   {
     "id": 15,
-    "question": "Which city from Telangana was designated as one of the initial Smart Cities under the central government's Smart Cities Mission, aiming for sustainable urban development?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
-    "correctAnswer": "Warangal"
+    "question": "What factor is highlighted as a significant contributor to millions of people still missing their vaccination shots in India?",
+    "options": ["Lack of vaccine efficacy", "High cost of vaccines", "Caregiver hesitancy", "Insufficient number of vaccination centers"],
+    "correctAnswer": "Caregiver hesitancy"
   },
   {
     "id": 16,
-    "question": "Which city in Andhra Pradesh was selected as one of the initial Smart Cities under the central government's Smart Cities Mission, focusing on urban planning and infrastructure?",
-    "options": ["Anantapur", "Tirupati", "Kurnool", "Visakhapatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What group faces specific obstacles in accessing immunization services, requiring targeted initiatives in India?",
+    "options": ["Urban elites", "Migrants", "Students in boarding schools", "Government employees"],
+    "correctAnswer": "Migrants"
   },
   {
     "id": 17,
-    "question": "Which Telangana government initiative provides free coaching for competitive exams to youth from disadvantaged sections, aimed at improving employment opportunities and skill development?",
-    "options": ["T-Hub", "TASK", "TSPSC Guru", "Study Circles for BC/SC/ST"],
-    "correctAnswer": "Study Circles for BC/SC/ST"
+    "question": "Beyond enhancing accessibility, what two consistent efforts are deemed vital for boosting future vaccination rates throughout India?",
+    "options": ["Imposing fines and penalties", "Mandatory vaccination for all", "Raising awareness and consistent follow-up", "Reducing vaccine prices and introducing new vaccines"],
+    "correctAnswer": "Raising awareness and consistent follow-up"
   },
   {
     "id": 18,
-    "question": "Which Andhra Pradesh government program provides financial assistance to mothers for sending their children to private schools or colleges, promoting education access?",
-    "options": ["Amma Vodi", "Jagananna Vidya Deevena", "YSR Rythu Bharosa", "YSR Bima"],
-    "correctAnswer": "Amma Vodi"
+    "question": "India's immunization campaigns are designed to reduce the incidence of preventable diseases across all states, including Telangana and Andhra Pradesh, by ensuring what?",
+    "options": ["Strict quarantine measures", "Widespread vaccine uptake", "New drug development", "Advanced surgical procedures"],
+    "correctAnswer": "Widespread vaccine uptake"
   },
   {
     "id": 19,
-    "question": "T-Hub, a prominent startup incubator and innovation ecosystem, is located in which city of Telangana, fostering entrepreneurship and technological advancements?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nalgonda"],
-    "correctAnswer": "Hyderabad"
+    "question": "The phrase 'Do boond zindagi ki' is popularly associated with campaigns aimed at eradicating which disease in India?",
+    "options": ["Tuberculosis", "Measles", "Polio", "Malaria"],
+    "correctAnswer": "Polio"
   },
   {
     "id": 20,
-    "question": "Which sector is a major contributor to Andhra Pradesh's economy, with significant port activity and special economic zones along its extensive coastline, making it a leading producer in India?",
-    "options": ["Information Technology", "Fisheries and Aquaculture", "Mining", "Textiles"],
-    "correctAnswer": "Fisheries and Aquaculture"
+    "question": "What is one of the primary goals of current initiatives to enhance accessibility and monitoring of vaccinations in India?",
+    "options": ["Developing new vaccines", "Addressing disparities between states", "Increasing vaccine exports", "Reducing the number of vaccination campaigns"],
+    "correctAnswer": "Addressing disparities between states"
   },
   {
     "id": 21,
-    "question": "What is the primary objective of Telangana's Mission Kakatiya, a flagship program launched to revitalize the state's rural economy?",
-    "options": ["To provide free electricity to farmers", "To restore irrigation tanks and lakes", "To construct new residential buildings", "To offer financial support to Dalit families"],
-    "correctAnswer": "To restore irrigation tanks and lakes"
+    "question": "The success of India's immunization efforts in states like Telangana and Andhra Pradesh relies on overcoming which specific challenge mentioned in the news?",
+    "options": ["Scarcity of healthcare professionals", "Hesitancy among caregivers", "Lack of cold chain infrastructure", "High rates of vaccine-resistant strains"],
+    "correctAnswer": "Hesitancy among caregivers"
   },
   {
     "id": 22,
-    "question": "Which major river is a significant source of irrigation and drinking water for both Telangana and Andhra Pradesh, leading to various inter-state agreements and disputes?",
-    "options": ["Godavari", "Krishna", "Penna", "Tungabhadra"],
-    "correctAnswer": "Krishna"
+    "question": "The news highlights that 'raising awareness' is a crucial aspect for boosting vaccination rates. What does this primarily aim to combat?",
+    "options": ["Budget constraints for healthcare", "Misinformation and lack of knowledge about vaccines", "Over-reliance on traditional medicine", "Issues with vaccine storage"],
+    "correctAnswer": "Misinformation and lack of knowledge about vaccines"
   },
   {
     "id": 23,
-    "question": "The Gram Panchayat system, fundamental to local self-governance and rural development, has been strengthened in Telangana through which initiative, focusing on village cleanliness and greenery?",
-    "options": ["Palle Pragathi", "Pattana Pragathi", "Mana Ooru - Mana Pranalika", "Haritha Haram"],
-    "correctAnswer": "Palle Pragathi"
+    "question": "What is the fundamental aim behind India's continuous immunization drives, which have achieved significant milestones?",
+    "options": ["Boosting pharmaceutical profits", "Protecting public health from infectious diseases", "Promoting medical tourism", "Reducing birth rates"],
+    "correctAnswer": "Protecting public health from infectious diseases"
   },
   {
     "id": 24,
-    "question": "Andhra Pradesh implemented the Village and Ward Secretariat system primarily to achieve what, thereby bringing governance closer to the people?",
-    "options": ["Centralize administrative powers", "Enhance public service delivery at the grassroots level", "Promote industrial development", "Boost tourism"],
-    "correctAnswer": "Enhance public service delivery at the grassroots level"
+    "question": "The term 'digital arrest' in the context of scams refers to fraudsters coercing individuals by falsely claiming they are involved in what?",
+    "options": ["Winning a lottery", "Obtaining a visa", "Legal or police matters", "A job recruitment process"],
+    "correctAnswer": "Legal or police matters"
   },
   {
     "id": 25,
-    "question": "What initiative by the Telangana government focuses on providing affordable primary healthcare services in urban slum areas and remote villages, establishing community health clinics?",
-    "options": ["Basthi Dawakhana", "Arogya Lakshmi", "Netanna Bima", "Telangana Ku Haritha Haram"],
-    "correctAnswer": "Basthi Dawakhana"
+    "question": "India's immunization program is a key public health strategy implemented by which level of government to ensure widespread coverage across states?",
+    "options": ["Local municipal corporations only", "State governments only", "The central government in collaboration with state governments", "Private healthcare providers only"],
+    "correctAnswer": "The central government in collaboration with state governments"
   }
 ]

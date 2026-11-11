@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which prominent political leader from Telangana recently criticized the Maharashtra government's approach to the Uniform Civil Code (UCC)?",
-    "options": ["K. Chandrashekar Rao", "Asaduddin Owaisi", "N. Chandrababu Naidu", "Revanth Reddy"],
-    "correctAnswer": "Asaduddin Owaisi"
+    "question": "Which government initiative has recently invited fresh applications, specifically for the medical devices sector?",
+    "options": ["Make in India Initiative", "Start-up India Seed Fund Scheme", "Production-Linked Incentive (PLI) scheme for medical devices", "National Health Mission"],
+    "correctAnswer": "Production-Linked Incentive (PLI) scheme for medical devices"
   },
   {
     "id": 2,
-    "question": "Asaduddin Owaisi, an MP from Hyderabad, Telangana, expressed concerns that the Maharashtra government's proposed move on UCC aims to 'snatch' which community's identity?",
-    "options": ["Sikh community", "Christian community", "Muslims' identity", "Jain community"],
-    "correctAnswer": "Muslims' identity"
+    "question": "The government's PLI scheme for medical devices primarily aims to boost which activity within India?",
+    "options": ["Medical research and development", "Import of advanced medical equipment", "Domestic manufacturing of medical devices", "Export of traditional medicine"],
+    "correctAnswer": "Domestic manufacturing of medical devices"
   },
   {
     "id": 3,
-    "question": "What specific term did AIMIM chief Asaduddin Owaisi, a leader from Telangana, use to describe the Maharashtra government's UCC proposal, indicating his disagreement with its nature?",
-    "options": ["Secular Code", "Common Civil Code", "Hindu Civil Code", "Universal Family Code"],
-    "correctAnswer": "Hindu Civil Code"
+    "question": "What does the acronym 'PLI' stand for in the context of government schemes like the one for medical devices?",
+    "options": ["Public-Led Investment", "Production-Linked Incentive", "Project Logistics Infrastructure", "Policy and Legal Initiative"],
+    "correctAnswer": "Production-Linked Incentive"
   },
   {
     "id": 4,
-    "question": "The political party All India Majlis-e-Ittehadul Muslimeen (AIMIM), led by Asaduddin Owaisi, primarily holds its influence and political base in which Indian state, making his national comments relevant regionally?",
-    "options": ["Maharashtra", "Andhra Pradesh", "Uttar Pradesh", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "The invitation for fresh applications under the PLI scheme for medical devices reflects India's broader economic strategy of promoting:",
+    "options": ["Globalization", "Self-reliance", "Liberalization", "Privatization"],
+    "correctAnswer": "Self-reliance"
   },
   {
     "id": 5,
-    "question": "The debate on the Uniform Civil Code, commented on by Telangana's Asaduddin Owaisi, broadly aims to standardize laws concerning what aspects for all citizens?",
-    "options": ["Criminal offenses and penalties", "Taxation and fiscal policy", "Personal matters like marriage and inheritance", "Inter-state trade and commerce"],
-    "correctAnswer": "Personal matters like marriage and inheritance"
+    "question": "What type of incentive does a Production-Linked Incentive scheme typically provide to manufacturers who increase their output?",
+    "options": ["Preferential land allocation", "Tax holidays on exports", "Financial incentives/subsidies based on increased production", "Direct grants for marketing"],
+    "correctAnswer": "Financial incentives/subsidies based on increased production"
   },
   {
     "id": 6,
-    "question": "Which city's Lok Sabha constituency does Asaduddin Owaisi, prominent in the UCC debate, currently represent?",
-    "options": ["Secunderabad", "Vijayawada", "Hyderabad", "Warangal"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which Public Sector Undertaking (PSU) is mentioned as the sole applicant in the second round of a coal gasification scheme?",
+    "options": ["Oil India Limited (OIL)", "Coal India Limited (CIL)", "Bharat Heavy Electricals Limited (BHEL)", "NTPC Limited"],
+    "correctAnswer": "NTPC Limited"
   },
   {
     "id": 7,
-    "question": "The Supreme Court of India recently sought a prevention plan for 'digital arrest scams' from which two primary entities?",
-    "options": ["SEBI and NPCI", "TRAI and DoT", "WhatsApp and RBI", "MeitY and NASSCOM"],
-    "correctAnswer": "WhatsApp and RBI"
+    "question": "The scheme involving NTPC as the sole applicant pertains to which energy process?",
+    "options": ["Solar panel manufacturing", "Nuclear power generation", "Coal gasification", "Wind turbine installation"],
+    "correctAnswer": "Coal gasification"
   },
   {
     "id": 8,
-    "question": "What type of fraudulent activity, where victims are tricked into believing they are under arrest, prompted the Supreme Court's intervention?",
-    "options": ["Loan shark scams", "Lottery scams", "Digital arrest scams", "Online shopping fraud"],
-    "correctAnswer": "Digital arrest scams"
+    "question": "NTPC's involvement in the coal gasification scheme is part of which round of applications?",
+    "options": ["First round", "Second round", "Third round", "Pilot phase"],
+    "correctAnswer": "Second round"
   },
   {
     "id": 9,
-    "question": "Which major messaging platform was specifically mentioned by the Supreme Court in its notice regarding prevention of digital arrest scams?",
-    "options": ["Telegram", "Signal", "WhatsApp", "Facebook Messenger"],
-    "correctAnswer": "WhatsApp"
+    "question": "What is the primary role of NTPC in India's energy sector, making its participation in coal gasification significant?",
+    "options": ["Oil exploration", "Natural gas distribution", "Power generation", "Renewable energy research"],
+    "correctAnswer": "Power generation"
   },
   {
     "id": 10,
-    "question": "The Reserve Bank of India (RBI) was issued a notice by the Supreme Court concerning digital arrest scams due to its role as the regulator of what in India?",
-    "options": ["Telecommunication networks", "Capital markets", "Financial and banking systems", "Cybersecurity infrastructure"],
-    "correctAnswer": "Financial and banking systems"
+    "question": "What is a key advantage of coal gasification compared to traditional coal burning for power generation, often highlighted in environmental discussions?",
+    "options": ["Higher initial investment", "Increased water consumption", "Cleaner energy/reduced emissions", "Faster plant construction"],
+    "correctAnswer": "Cleaner energy/reduced emissions"
   },
   {
     "id": 11,
-    "question": "The Supreme Court's action against digital arrest scams underscores a national effort to combat which broader category of crime affecting citizens across India, including Telangana and Andhra Pradesh?",
-    "options": ["Property disputes", "Environmental crimes", "Cybercrime and financial fraud", "Human trafficking"],
-    "correctAnswer": "Cybercrime and financial fraud"
+    "question": "Which agricultural policy or initiative is at the center of a recent 'row' mentioned in the news, involving a Union minister and Rahul Gandhi?",
+    "options": ["Farm loan waivers", "Minimum Support Price (MSP) policy", "Ethanol blending with fuel", "Subsidies for fertilizers"],
+    "correctAnswer": "Ethanol blending with fuel"
   },
   {
     "id": 12,
-    "question": "India has made significant strides in immunization campaigns, leading to the elimination or major reduction of diseases such as:",
-    "options": ["Tuberculosis and Malaria", "Dengue and Chikungunya", "Smallpox and Polio", "HIV/AIDS and Hepatitis B"],
-    "correctAnswer": "Smallpox and Polio"
+    "question": "What is a major objective of ethanol blending with fuel in India?",
+    "options": ["Increasing crude oil imports", "Reducing domestic fuel prices directly", "Boosting vehicle engine performance", "Reducing import dependency and promoting biofuels"],
+    "correctAnswer": "Reducing import dependency and promoting biofuels"
   },
   {
     "id": 13,
-    "question": "Despite reaching immunization milestones, what challenge persists across various Indian states and communities, as noted in recent reports?",
-    "options": ["Over-immunization", "Lack of vaccine supply", "Disparities in immunization coverage", "Excessive public demand for vaccines"],
-    "correctAnswer": "Disparities in immunization coverage"
+    "question": "What type of fuel is typically blended with ethanol in India to create E10 or E20 fuels?",
+    "options": ["Diesel", "Kerosene", "Petrol", "Natural Gas"],
+    "correctAnswer": "Petrol"
   },
   {
     "id": 14,
-    "question": "Current immunization initiatives in India are specifically working to enhance accessibility and monitoring of vaccinations, particularly addressing which groups?",
-    "options": ["Healthcare workers and frontline staff", "Politicians and government officials", "Caregiver hesitancy and obstacles for migrants", "International travelers and tourists"],
-    "correctAnswer": "Caregiver hesitancy and obstacles for migrants"
+    "question": "Which sector benefits directly from increased demand for ethanol production, primarily in states like Andhra Pradesh and Telangana?",
+    "options": ["IT Sector", "Manufacturing Sector", "Agriculture Sector", "Tourism Sector"],
+    "correctAnswer": "Agriculture Sector"
   },
   {
     "id": 15,
-    "question": "What factor is highlighted as a significant contributor to millions of people still missing their vaccination shots in India?",
-    "options": ["Lack of vaccine efficacy", "High cost of vaccines", "Caregiver hesitancy", "Insufficient number of vaccination centers"],
-    "correctAnswer": "Caregiver hesitancy"
+    "question": "What are common agricultural raw materials used for ethanol production in India?",
+    "options": ["Cotton, Jute, Tea", "Wheat, Barley, Oats", "Sugarcane, Maize, Damaged Foodgrains", "Mustard, Groundnut, Soybean"],
+    "correctAnswer": "Sugarcane, Maize, Damaged Foodgrains"
   },
   {
     "id": 16,
-    "question": "What group faces specific obstacles in accessing immunization services, requiring targeted initiatives in India?",
-    "options": ["Urban elites", "Migrants", "Students in boarding schools", "Government employees"],
-    "correctAnswer": "Migrants"
+    "question": "What is the long-term goal for ethanol blending in India, often cited in government announcements related to energy policy?",
+    "options": ["E5 by 2030", "E10 by 2025", "E20 by 2025", "E100 by 2040"],
+    "correctAnswer": "E20 by 2025"
   },
   {
     "id": 17,
-    "question": "Beyond enhancing accessibility, what two consistent efforts are deemed vital for boosting future vaccination rates throughout India?",
-    "options": ["Imposing fines and penalties", "Mandatory vaccination for all", "Raising awareness and consistent follow-up", "Reducing vaccine prices and introducing new vaccines"],
-    "correctAnswer": "Raising awareness and consistent follow-up"
+    "question": "The COP31 presidency is pitching for a global '35-by-35 electrification pledge.' What does 'COP' typically stand for in this context?",
+    "options": ["Committee of Parties", "Conference of Presidents", "Conference of the Parties", "Congress of People"],
+    "correctAnswer": "Conference of the Parties"
   },
   {
     "id": 18,
-    "question": "India's immunization campaigns are designed to reduce the incidence of preventable diseases across all states, including Telangana and Andhra Pradesh, by ensuring what?",
-    "options": ["Strict quarantine measures", "Widespread vaccine uptake", "New drug development", "Advanced surgical procedures"],
-    "correctAnswer": "Widespread vaccine uptake"
+    "question": "What specific target year is proposed for the '35-by-35 electrification pledge' by the COP31 presidency?",
+    "options": ["2030", "2035", "2040", "2050"],
+    "correctAnswer": "2035"
   },
   {
     "id": 19,
-    "question": "The phrase 'Do boond zindagi ki' is popularly associated with campaigns aimed at eradicating which disease in India?",
-    "options": ["Tuberculosis", "Measles", "Polio", "Malaria"],
-    "correctAnswer": "Polio"
+    "question": "What is India's potential stance on signing the proposed '35-by-35 electrification pledge'?",
+    "options": ["India has already signed it", "India is a co-sponsor of the pledge", "India may skip signing this informal commitment", "India is leading the negotiations for this pledge"],
+    "correctAnswer": "India may skip signing this informal commitment"
   },
   {
     "id": 20,
-    "question": "What is one of the primary goals of current initiatives to enhance accessibility and monitoring of vaccinations in India?",
-    "options": ["Developing new vaccines", "Addressing disparities between states", "Increasing vaccine exports", "Reducing the number of vaccination campaigns"],
-    "correctAnswer": "Addressing disparities between states"
+    "question": "The 'electrification pledge' proposed at COP31 is described as what kind of commitment?",
+    "options": ["Legally binding treaty", "Mandatory resolution", "Informal commitment", "Financial aid package"],
+    "correctAnswer": "Informal commitment"
   },
   {
     "id": 21,
-    "question": "The success of India's immunization efforts in states like Telangana and Andhra Pradesh relies on overcoming which specific challenge mentioned in the news?",
-    "options": ["Scarcity of healthcare professionals", "Hesitancy among caregivers", "Lack of cold chain infrastructure", "High rates of vaccine-resistant strains"],
-    "correctAnswer": "Hesitancy among caregivers"
+    "question": "What do COP meetings primarily address on a global scale, making the electrification pledge a relevant topic?",
+    "options": ["Trade agreements", "Global security issues", "Climate change and environmental issues", "Economic development strategies"],
+    "correctAnswer": "Climate change and environmental issues"
   },
   {
     "id": 22,
-    "question": "The news highlights that 'raising awareness' is a crucial aspect for boosting vaccination rates. What does this primarily aim to combat?",
-    "options": ["Budget constraints for healthcare", "Misinformation and lack of knowledge about vaccines", "Over-reliance on traditional medicine", "Issues with vaccine storage"],
-    "correctAnswer": "Misinformation and lack of knowledge about vaccines"
+    "question": "India's potential decision to skip the COP31 electrification pledge could be linked to its unique energy needs and challenges. What is a primary challenge for India in achieving universal electrification rapidly?",
+    "options": ["Lack of technological expertise", "Limited natural resources", "Vast population, high energy demand, and infrastructure costs", "Excessive reliance on nuclear power"],
+    "correctAnswer": "Vast population, high energy demand, and infrastructure costs"
   },
   {
     "id": 23,
-    "question": "What is the fundamental aim behind India's continuous immunization drives, which have achieved significant milestones?",
-    "options": ["Boosting pharmaceutical profits", "Protecting public health from infectious diseases", "Promoting medical tourism", "Reducing birth rates"],
-    "correctAnswer": "Protecting public health from infectious diseases"
+    "question": "The news about the PLI scheme, NTPC's coal gasification, and ethanol blending are all examples of India's efforts in which broad policy area?",
+    "options": ["International diplomacy", "Space exploration", "Economic development and energy security", "Cultural heritage preservation"],
+    "correctAnswer": "Economic development and energy security"
   },
   {
     "id": 24,
-    "question": "The term 'digital arrest' in the context of scams refers to fraudsters coercing individuals by falsely claiming they are involved in what?",
-    "options": ["Winning a lottery", "Obtaining a visa", "Legal or police matters", "A job recruitment process"],
-    "correctAnswer": "Legal or police matters"
+    "question": "The government's focus on national schemes like PLI for medical devices aims to reduce India's reliance on what aspect in critical sectors?",
+    "options": ["Domestic talent", "Skilled labor", "Foreign imports", "Local raw materials"],
+    "correctAnswer": "Foreign imports"
   },
   {
     "id": 25,
-    "question": "India's immunization program is a key public health strategy implemented by which level of government to ensure widespread coverage across states?",
-    "options": ["Local municipal corporations only", "State governments only", "The central government in collaboration with state governments", "Private healthcare providers only"],
-    "correctAnswer": "The central government in collaboration with state governments"
+    "question": "Topics such as the PLI scheme, ethanol blending, and coal gasification are significant for states like Telangana and Andhra Pradesh primarily due to their impact on:",
+    "options": ["Religious tourism and pilgrimages", "Regional languages and literature", "Industrial growth, agricultural income, and energy infrastructure", "Historical monument preservation"],
+    "correctAnswer": "Industrial growth, agricultural income, and energy infrastructure"
   }
 ]

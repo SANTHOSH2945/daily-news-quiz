@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Asaduddin Owaisi, whose party AIMIM was recently mentioned in national news regarding an alliance, primarily represents which Lok Sabha constituency in Telangana?",
-    "options": ["Secunderabad", "Hyderabad", "Warangal", "Karimnagar"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which city from Andhra Pradesh secured a top-3 position in the 2025-26 Swachh Survekshan Awards for cleanest cities?",
+    "options": ["Visakhapatnam", "Guntur", "Vijayawada", "Tirupati"],
+    "correctAnswer": "Vijayawada"
   },
   {
     "id": 2,
-    "question": "The All India Majlis-e-Ittehadul Muslimeen (AIMIM), a significant political party rooted in Telangana, is known for its strong political presence in which city?",
-    "options": ["Vijayawada", "Hyderabad", "Visakhapatnam", "Warangal"],
-    "correctAnswer": "Hyderabad"
+    "question": "What was Vijayawada's ranking in the 2025-26 Swachh Survekshan Awards for cleanest cities?",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "correctAnswer": "Third"
   },
   {
     "id": 3,
-    "question": "During the most recent Telangana Assembly elections (Dec 2023), how many seats did Asaduddin Owaisi's AIMIM secure?",
-    "options": ["5", "7", "9", "11"],
-    "correctAnswer": "7"
-  },
-  {
-    "id": 4,
-    "question": "Which of the following states, neighboring Telangana, has seen some political activity or presence from AIMIM in recent years, particularly in urban local bodies?",
-    "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Odisha"],
+    "question": "The city of Vijayawada, which ranked third in the Swachh Survekshan Awards, is located in which Indian state?",
+    "options": ["Telangana", "Kerala", "Karnataka", "Andhra Pradesh"],
     "correctAnswer": "Andhra Pradesh"
   },
   {
+    "id": 4,
+    "question": "In the 2025-26 Swachh Survekshan Awards, which city claimed the top title of India's cleanest city?",
+    "options": ["Indore", "Surat", "Navi Mumbai", "Rewa"],
+    "correctAnswer": "Navi Mumbai"
+  },
+  {
     "id": 5,
-    "question": "Beyond its core constituencies, AIMIM has also contested municipal elections in several towns in Andhra Pradesh. Which type of electoral body is this usually associated with?",
-    "options": ["Zilla Parishads", "Gram Panchayats", "Municipal Corporations", "State Assemblies"],
-    "correctAnswer": "Municipal Corporations"
+    "question": "Which city secured the second position in the 2025-26 Swachh Survekshan Awards?",
+    "options": ["Vijayawada", "Navi Mumbai", "Surat", "Indore"],
+    "correctAnswer": "Surat"
   },
   {
     "id": 6,
-    "question": "Who is the current president of the All India Majlis-e-Ittehadul Muslimeen (AIMIM)?",
-    "options": ["Akbaruddin Owaisi", "Asaduddin Owaisi", "Sultan Salahuddin Owaisi", "Imtiaz Jaleel"],
-    "correctAnswer": "Asaduddin Owaisi"
+    "question": "The Swachh Survekshan Awards mentioned in the news, recognizing Vijayawada's achievement, are for which assessment year?",
+    "options": ["2023-24", "2024-25", "2025-26", "2022-23"],
+    "correctAnswer": "2025-26"
   },
   {
     "id": 7,
-    "question": "In Telangana's political landscape, AIMIM is often considered a key player primarily in which region?",
-    "options": ["North Telangana", "South Telangana", "Hyderabad Urban", "Eastern Telangana"],
-    "correctAnswer": "Hyderabad Urban"
+    "question": "Besides Vijayawada, which other cities completed the top three in the 2025-26 Swachh Survekshan Awards?",
+    "options": ["Indore and Bhopal", "Navi Mumbai and Surat", "Ahmedabad and Pune", "Delhi and Chennai"],
+    "correctAnswer": "Navi Mumbai and Surat"
   },
   {
     "id": 8,
-    "question": "The AIMIM, known for its focus on minority rights, has historically been a strong advocate for which linguistic group in Hyderabad?",
-    "options": ["Telugu", "Urdu", "Hindi", "Kannada"],
-    "correctAnswer": "Urdu"
+    "question": "Which specific category of award did Rewa from Madhya Pradesh receive in the recent Swachh Survekshan?",
+    "options": ["Cleanest Big City", "Cleanest Riverfront Town", "Cleanest Himalayan City", "Most Innovative City"],
+    "correctAnswer": "Cleanest Riverfront Town"
   },
   {
     "id": 9,
-    "question": "Which former leader is largely credited with establishing the AIMIM as a prominent political force in Hyderabad before Asaduddin Owaisi?",
-    "options": ["Abdul Wahed Owaisi", "Qasim Razvi", "Sultan Salahuddin Owaisi", "Khaja Abdul Hameed"],
-    "correctAnswer": "Sultan Salahuddin Owaisi"
+    "question": "Which city's domination as India's cleanest city ended in the 2025-26 Swachh Survekshan Awards?",
+    "options": ["Ahmedabad", "Bhopal", "Indore", "Mysuru"],
+    "correctAnswer": "Indore"
   },
   {
     "id": 10,
-    "question": "What is the reported primary objective behind AIMIM's exploration of alliances in other states like Uttar Pradesh, as suggested by recent political analyses?",
-    "options": ["To secure a national party status", "To challenge regional parties", "To expand Muslim representation", "To influence central government policies"],
-    "correctAnswer": "To expand Muslim representation"
+    "question": "What is the name of the survey that recognized Vijayawada among India's cleanest cities for 2025-26?",
+    "options": ["Swachh Bharat Abhiyan", "Clean India Index", "Swachh Survekshan Awards", "National City Ranking"],
+    "correctAnswer": "Swachh Survekshan Awards"
   },
   {
     "id": 11,
-    "question": "Who is the current Chief Electoral Officer (CEO) of Telangana, overseeing the state's election preparedness?",
-    "options": ["Rajat Kumar", "Vikas Raj", "Shashank Goel", "Somesh Kumar"],
-    "correctAnswer": "Vikas Raj"
+    "question": "The Supreme Court collegium is working to establish a systematic policy for the transfer of which judicial personnel among high courts?",
+    "options": ["District Judges", "Chief Justices of India", "High Court Judges", "Magistrates"],
+    "correctAnswer": "High Court Judges"
   },
   {
     "id": 12,
-    "question": "In the most recent Assembly elections held in Telangana (Dec 2023), which political party emerged victorious?",
-    "options": ["BRS", "Congress", "BJP", "AIMIM"],
-    "correctAnswer": "Congress"
+    "question": "What is the primary objective of the new policy being developed by the Supreme Court collegium regarding the transfer of High Court judges?",
+    "options": ["To increase judicial salaries", "To reduce personal biases and enhance accountability", "To limit the number of judges", "To decentralize judicial powers"],
+    "correctAnswer": "To reduce personal biases and enhance accountability"
   },
   {
     "id": 13,
-    "question": "What was the approximate percentage of voter turnout recorded in the recent Telangana Assembly elections (Dec 2023)?",
-    "options": ["60-65%", "70-75%", "80-85%", "55-60%"],
-    "correctAnswer": "70-75%"
+    "question": "The current system for transferring High Court judges, which the SC collegium aims to revise, is largely based on what criteria?",
+    "options": ["Objective performance metrics", "Judicial seniority", "Personal criteria", "Regional representation quotas"],
+    "correctAnswer": "Personal criteria"
   },
   {
     "id": 14,
-    "question": "The Election Commission of India recently conducted elections in Telangana. What is the total number of Assembly constituencies in Telangana?",
-    "options": ["109", "119", "129", "139"],
-    "correctAnswer": "119"
+    "question": "What body is responsible for streamlining the transfer process of judges among High Courts in India, as per the news?",
+    "options": ["Parliament", "Law Ministry", "Supreme Court Collegium", "President of India"],
+    "correctAnswer": "Supreme Court Collegium"
   },
   {
     "id": 15,
-    "question": "What is the total number of Lok Sabha constituencies allocated to Andhra Pradesh?",
-    "options": ["17", "20", "25", "28"],
-    "correctAnswer": "25"
+    "question": "According to a recent Supreme Court ruling, divorces executed overseas are invalid in India if based on what condition?",
+    "options": ["Lack of mutual consent", "Not acknowledged under Indian law", "Parties holding foreign citizenship", "Not filed within a specific timeframe"],
+    "correctAnswer": "Not acknowledged under Indian law"
   },
   {
     "id": 16,
-    "question": "When were the last general Assembly elections held in Andhra Pradesh?",
-    "options": ["2017", "2019", "2021", "2023"],
-    "correctAnswer": "2019"
+    "question": "What potential legal consequence do individuals face if they remarry in India after an overseas divorce not recognized under Indian law?",
+    "options": ["Penalty for fraud", "Prosecution for bigamy", "Civil lawsuit for damages", "Revocation of foreign citizenship"],
+    "correctAnswer": "Prosecution for bigamy"
   },
   {
     "id": 17,
-    "question": "The process of electoral roll revision is regularly carried out by the Election Commission. What is the primary purpose of this exercise in states like Telangana and Andhra Pradesh?",
-    "options": ["To change constituency boundaries", "To update voter lists", "To appoint new election officers", "To introduce new voting machines"],
-    "correctAnswer": "To update voter lists"
+    "question": "The Supreme Court recently affirmed that marriages conducted according to which traditions hold validity in India, irrespective of foreign citizenship?",
+    "options": ["International customs", "Foreign civil codes", "Indian traditions", "Religious tenets only"],
+    "correctAnswer": "Indian traditions"
   },
   {
     "id": 18,
-    "question": "Which major infrastructure project, often highlighted by the Central Government, is significantly impacting connectivity and economic growth in Telangana?",
-    "options": ["Kaleshwaram Lift Irrigation Project", "Hyderabad Metro Rail", "Pharma City", "Regional Ring Road (RRR)"],
-    "correctAnswer": "Regional Ring Road (RRR)"
+    "question": "Which court in India made the landmark decision regarding the validity of foreign divorces for Indian citizens?",
+    "options": ["High Court of Delhi", "Bombay High Court", "Supreme Court", "International Court of Justice"],
+    "correctAnswer": "Supreme Court"
   },
   {
     "id": 19,
-    "question": "What is the name of the prestigious integrated steel plant project in Kadapa district of Andhra Pradesh, which has seen recent central government involvement and attention?",
-    "options": ["Visakhapatnam Steel Plant", "JSW Kadapa Steel Plant", "Brahmani Steel Plant", "Bellary Steel Plant"],
-    "correctAnswer": "JSW Kadapa Steel Plant"
+    "question": "Which organization plans to establish exam centers in every district across India to enhance accessibility for candidates?",
+    "options": ["UPSC", "SSC", "NTA (National Testing Agency)", "CBSE"],
+    "correctAnswer": "NTA (National Testing Agency)"
   },
   {
     "id": 20,
-    "question": "The Central Government recently sanctioned funds for the development of new economic corridors. Which specific corridor passing through Andhra Pradesh is aimed at boosting industrial growth?",
-    "options": ["East Coast Economic Corridor", "Mumbai-Bengaluru Industrial Corridor", "Chennai-Bengaluru Industrial Corridor", "Hyderabad-Nagpur Industrial Corridor"],
-    "correctAnswer": "East Coast Economic Corridor"
+    "question": "What is the main aim of the National Testing Agency's (NTA) plan to establish exam centers in every district?",
+    "options": ["To reduce examination fees", "To increase the number of exams", "To enhance accessibility for candidates", "To standardize exam patterns"],
+    "correctAnswer": "To enhance accessibility for candidates"
   },
   {
     "id": 21,
-    "question": "Which central government scheme, focused on providing housing for all, has seen significant implementation efforts in both Telangana and Andhra Pradesh?",
-    "options": ["PM-KISAN", "Ayushman Bharat", "Pradhan Mantri Awas Yojana", "Jal Jeevan Mission"],
-    "correctAnswer": "Pradhan Mantri Awas Yojana"
+    "question": "What is the name of the trade agreement that Canada’s high commissioner to India hopes to finalize with India?",
+    "options": ["Free Trade Agreement (FTA)", "Bilateral Investment Treaty (BIT)", "Comprehensive Economic Partnership Agreement (CEPA)", "Strategic Economic Dialogue (SED)"],
+    "correctAnswer": "Comprehensive Economic Partnership Agreement (CEPA)"
   },
   {
     "id": 22,
-    "question": "Hyderabad is a hub for IT and pharmaceutical industries. Which Central Government initiative often supports such economic zones with special benefits?",
-    "options": ["Make in India", "Digital India", "Special Economic Zone (SEZ) policy", "Startup India"],
-    "correctAnswer": "Special Economic Zone (SEZ) policy"
+    "question": "Christopher Cooter, who expressed confidence in an upcoming trade pact with India, is the high commissioner of which country?",
+    "options": ["United States", "United Kingdom", "Canada", "Australia"],
+    "correctAnswer": "Canada"
   },
   {
     "id": 23,
-    "question": "Which innovative initiative of the Telangana State Police primarily focuses on ensuring the safety and security of women in public places?",
-    "options": ["Dial 100", "Hawk Eye", "SHE Teams", "Cyber Dost"],
-    "correctAnswer": "SHE Teams"
+    "question": "The new international student policies, as mentioned by Canada's high commissioner, focus on eliminating what?",
+    "options": ["High tuition fees", "Visa application delays", "Fraudulent schools", "Student loan defaults"],
+    "correctAnswer": "Fraudulent schools"
   },
   {
     "id": 24,
-    "question": "The Andhra Pradesh Police, in collaboration with various agencies, frequently conducts operations against which illicit activity prevalent in some rural and forest areas of the state?",
-    "options": ["Sand mining", "Ganja cultivation", "Wildlife poaching", "Illegal logging"],
-    "correctAnswer": "Ganja cultivation"
+    "question": "How much in reduced costs for coal and natural gas imports has India saved over the last 15 years due to its renewable energy capacity, according to IEA?",
+    "options": ["$50 billion", "$75 billion", "$100 billion", "$120 billion"],
+    "correctAnswer": "$100 billion"
   },
   {
     "id": 25,
-    "question": "Which specialized police unit in Telangana is specifically trained to combat Naxalite (Maoist) insurgency in the state's forested and border regions?",
-    "options": ["Greyhounds", "Octopus", "Rapid Action Force", "Home Guards"],
-    "correctAnswer": "Greyhounds"
+    "question": "According to the International Energy Agency (IEA), what is India's global ranking in terms of being the fastest-growing market worldwide for renewable power?",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "correctAnswer": "Second"
   }
 ]

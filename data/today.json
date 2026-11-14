@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "During which summit did Congress leader Rahul Gandhi challenge the legitimacy of the 2024 Lok Sabha elections in Hyderabad?",
-    "options": ["India Economic Forum", "Global Investors Meet", "Bharat Summit", "National Dialogue Conference"],
-    "correctAnswer": "Bharat Summit"
-  },
-  {
-    "id": 2,
-    "question": "Which city in Telangana hosted the event where Rahul Gandhi raised concerns about the integrity of the 2024 Lok Sabha elections?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "question": "Air India, a major Indian airline, was involved in a recent incident where its flights landed safely despite US ATC failure. Which of the following cities in Telangana is served by a major international airport?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
     "correctAnswer": "Hyderabad"
   },
   {
+    "id": 2,
+    "question": "The Air India incident involved flights to and from the US. Which major city in Andhra Pradesh is recognized for its growing ties and connectivity with international destinations, including the US?",
+    "options": ["Tirupati", "Visakhapatnam", "Kurnool", "Anantapur"],
+    "correctAnswer": "Visakhapatnam"
+  },
+  {
     "id": 3,
-    "question": "Rahul Gandhi claimed that how many million voters were incorrectly labeled as non-existent or non-voters by the Election Commission?",
-    "options": ["100 million", "120 million", "140 million", "160 million"],
-    "correctAnswer": "140 million"
+    "question": "PM Modi and Nepal PM are set to flag off the Ayodhya-Janakpur train, connecting India and Nepal. Which city in Andhra Pradesh is renowned as a major pilgrimage center, drawing millions of devotees annually?",
+    "options": ["Rajahmundry", "Vijayawada", "Tirupati", "Nellore"],
+    "correctAnswer": "Tirupati"
   },
   {
     "id": 4,
-    "question": "What was the primary concern raised by Rahul Gandhi in Hyderabad regarding the 2024 Lok Sabha elections?",
-    "options": ["Campaign funding", "Voter turnout", "Election integrity", "Candidate selection"],
-    "correctAnswer": "Election integrity"
+    "question": "The Ayodhya-Janakpur train flagging-off involves a virtual ceremony. Which of the following states, Telangana or Andhra Pradesh, has been actively promoting digital governance and technological advancements?",
+    "options": ["Telangana", "Andhra Pradesh", "Both have equally", "Neither have"],
+    "correctAnswer": "Both have equally"
   },
   {
     "id": 5,
-    "question": "Which year's Lok Sabha elections did Rahul Gandhi specifically question the legitimacy of during his speech in Hyderabad?",
-    "options": ["2019", "2024", "2029", "2014"],
-    "correctAnswer": "2024"
-  },
-  {
-    "id": 6,
-    "question": "Rahul Gandhi, speaking in Hyderabad, criticized the controversial influence of what on politics?",
-    "options": ["Foreign governments", "Religious organizations", "Big business", "Social media"],
-    "correctAnswer": "Big business"
-  },
-  {
-    "id": 7,
-    "question": "Which businessman did Rahul Gandhi specifically criticize in connection with Prime Minister Narendra Modi during his speech?",
-    "options": ["Mukesh Ambani", "Ratan Tata", "Gautam Adani", "Azim Premji"],
-    "correctAnswer": "Gautam Adani"
-  },
-  {
-    "id": 8,
-    "question": "According to Rahul Gandhi's allegations made in Hyderabad, which governmental body was responsible for the incorrect voter classification?",
-    "options": ["Supreme Court", "Parliament of India", "Election Commission", "Prime Minister's Office"],
-    "correctAnswer": "Election Commission"
-  },
-  {
-    "id": 9,
-    "question": "Chirag Paswan responded to Rahul Gandhi's claims, accusing him of raising phone-tapping charges to disrupt what?",
-    "options": ["Party meetings", "Parliamentary proceedings", "Public rallies", "Judicial inquiries"],
-    "correctAnswer": "Parliamentary proceedings"
-  },
-  {
-    "id": 10,
-    "question": "Chirag Paswan characterized Rahul Gandhi's actions, including his allegations about voter deletions, with which phrase?",
-    "options": ["Speaks and clarifies", "Proves and argues", "Shoots and scoots", "Thinks and deliberates"],
-    "correctAnswer": "Shoots and scoots"
-  },
-  {
-    "id": 11,
-    "question": "Rahul Gandhi, a leader of the Congress party, made these significant allegations concerning election legitimacy while addressing which event?",
-    "options": ["A press conference", "A television debate", "The Bharat Summit", "A private meeting"],
-    "correctAnswer": "The Bharat Summit"
-  },
-  {
-    "id": 12,
-    "question": "What specifically did Rahul Gandhi allege about the 140 million voters regarding their status?",
-    "options": ["They were unregistered", "They were declared non-existent or non-voters", "They voted illegally", "They were relocated"],
-    "correctAnswer": "They were declared non-existent or non-voters"
-  },
-  {
-    "id": 13,
-    "question": "The controversy surrounding Rahul Gandhi's remarks in Hyderabad centered on questions about the fairness of which national democratic process?",
-    "options": ["State Assembly Elections", "Presidential Elections", "2024 Lok Sabha elections", "Municipal Elections"],
-    "correctAnswer": "2024 Lok Sabha elections"
-  },
-  {
-    "id": 14,
-    "question": "Chirag Paswan highlighted Rahul Gandhi's 'consistent irresponsibility' concerning which type of allegations, including those about voter deletions?",
-    "options": ["Economic policies", "National security", "Unverified claims", "International relations"],
-    "correctAnswer": "Unverified claims"
-  },
-  {
-    "id": 15,
-    "question": "What did Chirag Paswan emphasize about the public's reaction to Rahul Gandhi's rallies and tactics?",
-    "options": ["Overwhelming support", "Increased participation", "Lack of public support", "Mixed reactions"],
-    "correctAnswer": "Lack of public support"
-  },
-  {
-    "id": 16,
-    "question": "Rahul Gandhi's claims in Hyderabad were part of a broader criticism aimed at whose connections with big business?",
-    "options": ["Chief Justice of India", "Election Commissioner", "Prime Minister Narendra Modi", "Home Minister"],
-    "correctAnswer": "Prime Minister Narendra Modi"
-  },
-  {
-    "id": 17,
-    "question": "The issues raised by Rahul Gandhi concerning voter classification fall under the purview of which aspect of election administration?",
-    "options": ["Campaign finance", "Delimitation", "Electoral rolls management", "Polling booth logistics"],
-    "correctAnswer": "Electoral rolls management"
-  },
-  {
-    "id": 18,
-    "question": "During the Bharat Summit in Hyderabad, Rahul Gandhi's challenge focused on the 'legitimacy' of the upcoming national polls, indicating a question of their what?",
-    "options": ["Popularity", "Speed", "Validity or lawfulness", "Expensiveness"],
-    "correctAnswer": "Validity or lawfulness"
-  },
-  {
-    "id": 19,
-    "question": "Which political party does the leader, Rahul Gandhi, represent, who made the allegations in Hyderabad?",
-    "options": ["Bharatiya Janata Party (BJP)", "Communist Party of India (CPI)", "Indian National Congress (INC)", "All India Trinamool Congress (AITC)"],
+    "question": "A political event involving Rahul Gandhi was recently in the news. Which major political party, mentioned in the context of Indian politics, currently holds power in Telangana?",
+    "options": ["Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
     "correctAnswer": "Indian National Congress (INC)"
   },
   {
+    "id": 6,
+    "question": "Political events and statements often spark discussions. Which political party currently holds the Chief Minister's office in Andhra Pradesh?",
+    "options": ["Telugu Desam Party (TDP)", "Jana Sena Party (JSP)", "YSR Congress Party (YSRCP)", "Bharatiya Janata Party (BJP)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
+  },
+  {
+    "id": 7,
+    "question": "India recently won the U-19 Asia Cup in cricket, receiving praise from national leaders. Which prominent international cricket stadium is located in Hyderabad, Telangana?",
+    "options": ["M. Chinnaswamy Stadium", "Eden Gardens", "Rajiv Gandhi International Cricket Stadium", "Wankhede Stadium"],
+    "correctAnswer": "Rajiv Gandhi International Cricket Stadium"
+  },
+  {
+    "id": 8,
+    "question": "Cricket is a widely celebrated sport across India. Which of the following cricketers, known for representing India internationally, hails from Andhra Pradesh?",
+    "options": ["VVS Laxman", "Ambati Rayudu", "Hanuma Vihari", "Mohammad Azharuddin"],
+    "correctAnswer": "Hanuma Vihari"
+  },
+  {
+    "id": 9,
+    "question": "India hit back at a US religious freedom panel. Which of the following regions in Telangana is known for its multi-religious demographic and cultural festivals?",
+    "options": ["Adilabad", "Nizamabad", "Old City (Hyderabad)", "Karimnagar"],
+    "correctAnswer": "Old City (Hyderabad)"
+  },
+  {
+    "id": 10,
+    "question": "The US religious freedom panel was in the news regarding India. What is the official language of administration and education in Telangana, reflecting its cultural identity?",
+    "options": ["English", "Hindi", "Telugu", "Urdu"],
+    "correctAnswer": "Telugu"
+  },
+  {
+    "id": 11,
+    "question": "Karnataka CM DKS shared an anecdote about a metro ride. Which city in Telangana boasts an extensive and modern metro rail network?",
+    "options": ["Warangal", "Hyderabad", "Khammam", "Mahabubnagar"],
+    "correctAnswer": "Hyderabad"
+  },
+  {
+    "id": 12,
+    "question": "Public transport infrastructure like metros is vital for urban centers. Which city is designated as the executive capital of Andhra Pradesh, driving its urban development?",
+    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Vijayawada"],
+    "correctAnswer": "Visakhapatnam"
+  },
+  {
+    "id": 13,
+    "question": "Manipur CM chaired a security review after recent violence. Which district in Telangana is known for its historic Kakatiya architecture and promoting a peaceful tourism environment?",
+    "options": ["Nalgonda", "Warangal Urban", "Medak", "Jagtial"],
+    "correctAnswer": "Warangal Urban"
+  },
+  {
+    "id": 14,
+    "question": "Internal security is a crucial aspect for any state. Which law enforcement agency is primarily responsible for maintaining law and order within Andhra Pradesh?",
+    "options": ["Andhra Pradesh Police", "Central Reserve Police Force (CRPF)", "Border Security Force (BSF)", "National Security Guard (NSG)"],
+    "correctAnswer": "Andhra Pradesh Police"
+  },
+  {
+    "id": 15,
+    "question": "The news mentioned political party dynamics. Which regional political party in Andhra Pradesh has frequently engaged in alliances with national parties?",
+    "options": ["YSR Congress Party (YSRCP)", "Telugu Desam Party (TDP)", "Jana Sena Party (JSP)", "Communist Party of India (CPI)"],
+    "correctAnswer": "Telugu Desam Party (TDP)"
+  },
+  {
+    "id": 16,
+    "question": "Political leaders often make significant statements affecting their parties and states. Who is the current Chief Minister of Telangana?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Etela Rajender"],
+    "correctAnswer": "Revanth Reddy"
+  },
+  {
+    "id": 17,
+    "question": "India and Somalia reviewed security cooperation during a bilateral visit. Which city in Telangana is a prominent hub for international relations, hosting numerous consulates and diplomatic offices?",
+    "options": ["Warangal", "Nizamabad", "Hyderabad", "Karimnagar"],
+    "correctAnswer": "Hyderabad"
+  },
+  {
+    "id": 18,
+    "question": "Bilateral relations often involve trade and commerce. Which major port city in Andhra Pradesh plays a crucial role in India's maritime trade and economic connectivity?",
+    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
+    "correctAnswer": "Visakhapatnam"
+  },
+  {
+    "id": 19,
+    "question": "Security concerns were highlighted in Jammu & Kashmir. Which state police force is responsible for maintaining public order and safety in Telangana?",
+    "options": ["Telangana Police", "Central Industrial Security Force (CISF)", "Rapid Action Force (RAF)", "Indo-Tibetan Border Police (ITBP)"],
+    "correctAnswer": "Telangana Police"
+  },
+  {
     "id": 20,
-    "question": "Chirag Paswan referenced Rahul Gandhi's 'previous allegations' as being what, in terms of their effectiveness?",
-    "options": ["Highly successful", "Largely ignored", "Consistently effective", "Ineffective"],
-    "correctAnswer": "Ineffective"
+    "question": "National political parties often comment on various issues across India. Which national political party has a significant, albeit not dominant, presence in both Telangana and Andhra Pradesh?",
+    "options": ["Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)", "Bharatiya Janata Party (BJP)", "Communist Party of India (Marxist)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
   },
   {
     "id": 21,
-    "question": "Rahul Gandhi's speech in Hyderabad involved questioning the Election Commission's process of what, regarding voters?",
-    "options": ["Voter registration fees", "Voter ID distribution", "Voter classification", "Voter awareness campaigns"],
-    "correctAnswer": "Voter classification"
+    "question": "Air India, a Tata Group company, was in the news. Which major Tata Group company is a significant employer and has extensive operations in Hyderabad, Telangana, particularly in the IT sector?",
+    "options": ["Tata Steel", "Tata Motors", "Tata Consultancy Services (TCS)", "Titan Company"],
+    "correctAnswer": "Tata Consultancy Services (TCS)"
   },
   {
     "id": 22,
-    "question": "The 'Bharat Summit' in Hyderabad served as a platform for Rahul Gandhi to articulate his concerns about what broader aspect of the Indian democratic process?",
-    "options": ["Economic growth strategies", "Social welfare schemes", "Electoral transparency and fairness", "Foreign policy initiatives"],
-    "correctAnswer": "Electoral transparency and fairness"
+    "question": "The Ayodhya-Janakpur train emphasizes connectivity. Which of the following high-speed rail corridors is being planned to enhance connectivity within Telangana and Andhra Pradesh?",
+    "options": ["Mumbai-Ahmedabad HSR", "Delhi-Varanasi HSR", "Hyderabad-Vijayawada HSR", "Chennai-Bengaluru HSR"],
+    "correctAnswer": "Hyderabad-Vijayawada HSR"
   },
   {
     "id": 23,
-    "question": "What type of claims did Chirag Paswan accuse Rahul Gandhi of making that were 'unverified'?",
-    "options": ["Economic reform claims", "Phone-tapping claims", "Environmental pollution claims", "Infrastructure development claims"],
-    "correctAnswer": "Phone-tapping claims"
+    "question": "Political events and rallies are common across India. Which prominent public ground in Hyderabad, Telangana, is renowned for hosting large political gatherings and public events?",
+    "options": ["NTR Stadium", "Lal Bahadur Shastri Stadium", "Parade Ground", "Gachibowli Stadium"],
+    "correctAnswer": "Parade Ground"
   },
   {
     "id": 24,
-    "question": "Rahul Gandhi's allegations about 140 million voters being mislabeled primarily raised doubts about the accuracy of which official record?",
-    "options": ["The national census", "The voter list", "Income tax records", "Aadhaar database"],
-    "correctAnswer": "The voter list"
+    "question": "India's U-19 cricket victory was celebrated, highlighting sporting talent. Which sport, besides cricket, has a strong presence and has produced numerous international players from Telangana, especially Hyderabad?",
+    "options": ["Football", "Badminton", "Kabaddi", "Field Hockey"],
+    "correctAnswer": "Badminton"
   },
   {
     "id": 25,
-    "question": "The criticisms by Rahul Gandhi against the Election Commission regarding voter classification primarily focused on the potential impact on the integrity of which elections?",
-    "options": ["Upcoming municipal elections", "State Assembly elections in Telangana", "The 2024 Lok Sabha elections", "Bye-elections in Andhra Pradesh"],
-    "correctAnswer": "The 2024 Lok Sabha elections"
+    "question": "India's secular fabric is often discussed in national contexts. Which of these festivals is widely celebrated in both Telangana and Andhra Pradesh, symbolizing the region's diverse cultural and religious harmony?",
+    "options": ["Bonalu", "Bathukamma", "Sankranti", "All of the above"],
+    "correctAnswer": "All of the above"
   }
 ]

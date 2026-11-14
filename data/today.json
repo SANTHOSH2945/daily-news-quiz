@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The news highlighting '1 stenographer, 4,500 cases' in a High Court points to a significant challenge in which area of judicial administration in India, applicable to states like Telangana and Andhra Pradesh?",
-    "options": ["Judicial independence", "Efficiency and staffing of courts", "Jurisdictional disputes", "Legal aid services"],
-    "correctAnswer": "Efficiency and staffing of courts"
+    "question": "What is AIIMS New Delhi planning to launch to monitor poisoning incidents across the country?",
+    "options": ["National Disease Database", "National Poisoning Registry", "National Health Alert System", "National Emergency Response Index"],
+    "correctAnswer": "National Poisoning Registry"
   },
   {
     "id": 2,
-    "question": "What is a direct consequence of significant delays in pronouncing orders by High Courts, as implicated by the news, on the justice delivery system in states like Telangana and Andhra Pradesh?",
-    "options": ["Increased legislative scrutiny", "Erosion of public trust and case backlogs", "Faster case resolutions", "Reduction in legal fees"],
-    "correctAnswer": "Erosion of public trust and case backlogs"
+    "question": "One of the key objectives of the National Poisoning Registry being established by AIIMS is to facilitate:",
+    "options": ["Real-time data sharing among poison-control centers", "Global collaboration on toxicology", "Development of new vaccines", "Expansion of AIIMS branches"],
+    "correctAnswer": "Real-time data sharing among poison-control centers"
   },
   {
     "id": 3,
-    "question": "Which body is typically responsible for overseeing and seeking explanations from High Courts regarding administrative and procedural delays in India?",
-    "options": ["The State Legislative Assembly", "The Bar Council of India", "The Supreme Court of India", "The Union Law Ministry"],
-    "correctAnswer": "The Supreme Court of India"
+    "question": "Besides a registry, what additional facility does AIIMS plan to establish to aid in poisoning emergencies?",
+    "options": ["A national blood bank", "A national organ donation center", "A national antidote bank", "A national vaccine storage unit"],
+    "correctAnswer": "A national antidote bank"
   },
   {
     "id": 4,
-    "question": "In the context of a High Court's functioning, what crucial role does a stenographer play, the shortage of which can lead to delays as highlighted?",
-    "options": ["Providing legal counsel to litigants", "Drafting final judgments independently", "Recording court proceedings and dictations", "Managing court finances"],
-    "correctAnswer": "Recording court proceedings and dictations"
+    "question": "What type of research does AIIMS aim to foster through its new initiatives for addressing poisoning cases?",
+    "options": ["Oncology research", "Cardiology research", "Toxicology research", "Neurology research"],
+    "correctAnswer": "Toxicology research"
   },
   {
     "id": 5,
-    "question": "The issue of judicial delays due to staff shortages, while highlighted nationally, is a pertinent challenge for High Courts in which Indian states, among others?",
-    "options": ["Gujarat and Rajasthan", "Telangana and Andhra Pradesh", "Kerala and Tamil Nadu", "Punjab and Haryana"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "What community-level programs are part of AIIMS's new initiatives regarding poisoning awareness?",
+    "options": ["Cleanliness drives", "Nutrition camps", "Poison awareness programs", "First aid training for police"],
+    "correctAnswer": "Poison awareness programs"
   },
   {
     "id": 6,
-    "question": "What is a primary long-term solution suggested to address administrative bottlenecks and staff shortages in High Courts across India, including those in Telangana and Andhra Pradesh?",
-    "options": ["Increasing judicial holidays", "Implementing strict appearance rules for lawyers", "Regular and sufficient recruitment along with technological integration", "Reducing the number of eligible cases"],
-    "correctAnswer": "Regular and sufficient recruitment along with technological integration"
+    "question": "Which central agency recently conducted raids across six states in connection with the Mahadev betting app scam?",
+    "options": ["ED (Enforcement Directorate)", "NIA (National Investigation Agency)", "CBI (Central Bureau of Investigation)", "Income Tax Department"],
+    "correctAnswer": "CBI (Central Bureau of Investigation)"
   },
   {
     "id": 7,
-    "question": "What agricultural input is reported to be overused in 169 districts across India, raising 'red flags' and prompting a CAG probe?",
-    "options": ["Pesticides", "Urea", "Potash", "Organic manure"],
-    "correctAnswer": "Urea"
+    "question": "How many locations were raided by the CBI in relation to the Mahadev betting app case across six states?",
+    "options": ["15", "22", "33", "40"],
+    "correctAnswer": "33"
   },
   {
     "id": 8,
-    "question": "Which independent constitutional authority in India is probing the diversion of subsidised fertilisers, as per the news?",
-    "options": ["NITI Aayog", "Comptroller and Auditor General (CAG)", "Reserve Bank of India (RBI)", "Election Commission of India (ECI)"],
-    "correctAnswer": "Comptroller and Auditor General (CAG)"
+    "question": "The CBI raids related to the Mahadev betting app scam followed the extradition of which key individual?",
+    "options": ["Vijay Mallya", "Nirav Modi", "Dawood Ibrahim", "Chandrakar"],
+    "correctAnswer": "Chandrakar"
   },
   {
     "id": 9,
-    "question": "Why is the overuse of urea a significant concern for agricultural states like Telangana and Andhra Pradesh?",
-    "options": ["It increases crop yield excessively", "It can harm soil health and groundwater quality", "It makes crops less resistant to pests", "It reduces the need for irrigation"],
-    "correctAnswer": "It can harm soil health and groundwater quality"
+    "question": "The Mahadev betting app case primarily involves a scam related to what type of activity?",
+    "options": ["Online stock trading", "Online real estate", "Online betting", "Online retail fraud"],
+    "correctAnswer": "Online betting"
   },
   {
     "id": 10,
-    "question": "The 'red flags' raised by urea overuse and diversion, especially from border states, primarily indicate what issue?",
-    "options": ["Increased crop production", "Ineffective agricultural policies", "Smuggling and leakage of subsidised goods", "Improved farmer incomes"],
-    "correctAnswer": "Smuggling and leakage of subsidised goods"
+    "question": "The CBI investigation into the Mahadev betting app case extends to how many states in India?",
+    "options": ["Four", "Six", "Eight", "Ten"],
+    "correctAnswer": "Six"
   },
   {
     "id": 11,
-    "question": "How does excessive use of chemical fertilisers like urea impact agricultural sustainability in regions such as Telangana and Andhra Pradesh?",
-    "options": ["Enhances biodiversity", "Leads to long-term soil degradation and imbalance", "Promotes natural pest control", "Reduces water consumption"],
-    "correctAnswer": "Leads to long-term soil degradation and imbalance"
+    "question": "What agricultural input is being overused in 169 districts across India, raising red flags about diversion?",
+    "options": ["Pesticides", "Seeds", "Urea", "Water"],
+    "correctAnswer": "Urea"
   },
   {
     "id": 12,
-    "question": "The probe by the CAG into fertiliser diversion highlights the government's concern about the integrity of what system?",
-    "options": ["Agricultural export policies", "Public procurement processes", "Subsidy distribution and public spending", "Crop insurance schemes"],
-    "correctAnswer": "Subsidy distribution and public spending"
+    "question": "Which national auditing body is reportedly probing the diversion of subsidised urea in India?",
+    "options": ["RBI (Reserve Bank of India)", "SEBI (Securities and Exchange Board of India)", "CAG (Comptroller and Auditor General)", "NITI Aayog"],
+    "correctAnswer": "CAG (Comptroller and Auditor General)"
   },
   {
     "id": 13,
-    "question": "For farmers in Telangana and Andhra Pradesh, what is often encouraged as an alternative to excessive urea usage to promote balanced nutrition?",
-    "options": ["Sole reliance on pesticides", "Increased use of water", "Integrated Nutrient Management and organic farming practices", "Reduced crop rotation"],
-    "correctAnswer": "Integrated Nutrient Management and organic farming practices"
+    "question": "The overuse of urea in 169 districts has primarily raised concerns about what potential issue?",
+    "options": ["Soil erosion", "Crop diversification", "Diversion of subsidised fertiliser", "Water pollution"],
+    "correctAnswer": "Diversion of subsidised fertiliser"
   },
   {
     "id": 14,
-    "question": "Which Indian city is globally recognized as a major pharmaceutical hub, making news about drug patents and pricing particularly relevant to its economy?",
-    "options": ["Bengaluru", "Chennai", "Hyderabad", "Mumbai"],
-    "correctAnswer": "Hyderabad"
+    "question": "According to the news, where might the subsidised fertiliser be going from India's border states?",
+    "options": ["To neighboring districts", "To other agricultural states", "Out of India", "To industrial units"],
+    "correctAnswer": "Out of India"
   },
   {
     "id": 15,
-    "question": "What is the typical effect of multiple patent filings for a breakthrough drug on the availability and affordability of its generic versions?",
-    "options": ["It accelerates generic production", "It has no impact on generics", "It can significantly delay the introduction of affordable generics", "It makes generic versions more expensive"],
-    "correctAnswer": "It can significantly delay the introduction of affordable generics"
+    "question": "How many districts nationwide have reported an overuse of urea, prompting a CAG probe?",
+    "options": ["50", "100", "169", "200"],
+    "correctAnswer": "169"
   },
   {
     "id": 16,
-    "question": "The news mentions a breakthrough drug, specifically for HIV, seeing numerous patent filings. What is the primary concern arising from this for patient access?",
-    "options": ["Increased research and development", "Enhanced drug efficacy", "Potential delay in affordable generics and accessibility", "Expanded clinical trials"],
-    "correctAnswer": "Potential delay in affordable generics and accessibility"
+    "question": "What is the subject of the recent controversy involving foreign-trained medical professionals in India?",
+    "options": ["Working hours", "Salary disparities", "The use of 'MD Physician' title", "Clinic registration fees"],
+    "correctAnswer": "The use of 'MD Physician' title"
   },
   {
     "id": 17,
-    "question": "How does the pharmaceutical industry in Telangana, particularly in Hyderabad, contribute to global drug accessibility, especially concerning generic medicines?",
-    "options": ["It primarily focuses on innovative patented drugs", "It is a major global producer of affordable generic drugs", "It specializes in traditional medicine exports only", "It plays a minor role in drug manufacturing"],
-    "correctAnswer": "It is a major global producer of affordable generic drugs"
+    "question": "The row over the 'MD Physician' title in India primarily affects which group of professionals?",
+    "options": ["Indian-trained doctors", "Foreign-trained medicos", "Allied health professionals", "Medical researchers"],
+    "correctAnswer": "Foreign-trained medicos"
   },
   {
     "id": 18,
-    "question": "What is the overarching concern when a high number of patent filings are made for essential drugs, such as HIV medication?",
-    "options": ["Protection of intellectual property", "Encouragement of pharmaceutical innovation", "Balancing innovation with public access and affordability", "Promoting competition among drug manufacturers"],
-    "correctAnswer": "Balancing innovation with public access and affordability"
+    "question": "This controversy among medical practitioners in India is related to the recognition and use of specific what?",
+    "options": ["Medical instruments", "Professional titles", "Diagnostic procedures", "Treatment protocols"],
+    "correctAnswer": "Professional titles"
   },
   {
     "id": 19,
-    "question": "Which sector in Telangana and Andhra Pradesh is directly involved in the development, manufacturing, and distribution of pharmaceuticals, making it sensitive to patent issues and drug pricing regulations?",
-    "options": ["Automobile manufacturing", "Information Technology", "Textile and Apparel", "Pharmaceuticals and Biotechnology"],
-    "correctAnswer": "Pharmaceuticals and Biotechnology"
+    "question": "The dispute regarding the 'MD Physician' title highlights regulatory challenges concerning medical qualifications obtained from where?",
+    "options": ["Private medical colleges in India", "Government medical colleges in India", "Foreign countries", "Online medical courses"],
+    "correctAnswer": "Foreign countries"
   },
   {
     "id": 20,
-    "question": "Which Indian authority mandates the prominent display of revised anti-cancer drug prices to ensure transparency and accessibility?",
-    "options": ["Food Safety and Standards Authority of India (FSSAI)", "National Pharmaceutical Pricing Authority (NPPA)", "Drug Controller General of India (DCGI)", "Indian Medical Association (IMA)"],
-    "correctAnswer": "National Pharmaceutical Pricing Authority (NPPA)"
+    "question": "Which central armed police force recently terminated a jawan for threatening a commander on social media?",
+    "options": ["BSF (Border Security Force)", "CISF (Central Industrial Security Force)", "ITBP (Indo-Tibetan Border Police)", "CRPF (Central Reserve Police Force)"],
+    "correctAnswer": "CRPF (Central Reserve Police Force)"
   },
   {
     "id": 21,
-    "question": "What is the main goal of the National Pharmaceutical Pricing Authority (NPPA) in regulating drug prices, particularly for essential medicines like anti-cancer drugs?",
-    "options": ["To maximize pharmaceutical company profits", "To ensure affordability and accessibility of essential medicines for the public", "To promote only imported drugs", "To discourage drug research and development"],
-    "correctAnswer": "To ensure affordability and accessibility of essential medicines for the public"
+    "question": "What was the primary reason cited for the termination of a CRPF jawan as per recent news reports?",
+    "options": ["Absenteeism", "Misuse of official vehicle", "Threatening to kill commander in social media post", "Financial fraud"],
+    "correctAnswer": "Threatening to kill commander in social media post"
   },
   {
     "id": 22,
-    "question": "How does Hyderabad's status as a pharmaceutical manufacturing hub relate to the NPPA's regulations on drug prices?",
-    "options": ["The NPPA's regulations do not apply to drugs produced in Hyderabad", "Hyderabad-based companies are exempt from price controls", "Many drugs produced in Hyderabad are subject to NPPA's pricing regulations", "Hyderabad companies only produce drugs not under price control"],
-    "correctAnswer": "Many drugs produced in Hyderabad are subject to NPPA's pricing regulations"
+    "question": "Which political party recently demanded the return of 51 cartons of historical documents belonging to Jawaharlal Nehru?",
+    "options": ["Congress", "BJP", "AAP", "SP"],
+    "correctAnswer": "BJP"
   },
   {
     "id": 23,
-    "question": "What positive impact do price regulations by the NPPA have on patients seeking treatment for diseases like cancer in states like Telangana and Andhra Pradesh?",
-    "options": ["It increases the variety of available drugs", "It leads to reduced treatment costs and improved access", "It complicates the purchase process", "It only affects international patients"],
-    "correctAnswer": "It leads to reduced treatment costs and improved access"
+    "question": "These documents, allegedly taken in 2008, are emphasized as important for India's heritage and what other key purpose?",
+    "options": ["Political campaigning", "Private collection", "Research", "International exhibitions"],
+    "correctAnswer": "Research"
   },
   {
     "id": 24,
-    "question": "The oversight by the Comptroller and Auditor General (CAG) on issues like fertiliser diversion directly pertains to which aspect of governance in India?",
-    "options": ["Legislative drafting", "Judicial interpretation", "Public finance and accountability", "Foreign policy formulation"],
-    "correctAnswer": "Public finance and accountability"
+    "question": "Leaders from various political parties, including PM Modi and Rahul Gandhi, recently paid tributes on the birth anniversary of which former Indian Prime Minister?",
+    "options": ["Lal Bahadur Shastri", "Indira Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+    "correctAnswer": "Jawaharlal Nehru"
   },
   {
     "id": 25,
-    "question": "Considering the challenges in High Courts and the emphasis on judicial efficiency, what technological intervention could significantly aid in managing cases and information in courts across Telangana and Andhra Pradesh?",
-    "options": ["Manual ledger systems", "Paper-based archiving", "Digitalization of records and e-courts initiatives", "Physical document couriers"],
-    "correctAnswer": "Digitalization of records and e-courts initiatives"
+    "question": "What issue did a High Court recently seek an explanation for, citing the presence of only one stenographer for 4,500 cases?",
+    "options": ["Lack of judicial reforms", "Delay in pronouncing orders", "Insufficient court infrastructure", "High legal fees"],
+    "correctAnswer": "Delay in pronouncing orders"
   }
 ]

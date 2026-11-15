@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Air India, a major Indian airline, was involved in a recent incident where its flights landed safely despite US ATC failure. Which of the following cities in Telangana is served by a major international airport?",
-    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "What is the full name of the new Indian law under which companies can apply to be consent managers, significantly impacting data privacy for citizens in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Digital Personal Data Protection Act, 2023",
+      "Information Technology Act, 2000 (Amendment)",
+      "Right to Privacy Act, 2017",
+      "Cyber Security and Data Protection Act, 2022"
+    ],
+    "correctAnswer": "Digital Personal Data Protection Act, 2023"
   },
   {
     "id": 2,
-    "question": "The Air India incident involved flights to and from the US. Which major city in Andhra Pradesh is recognized for its growing ties and connectivity with international destinations, including the US?",
-    "options": ["Tirupati", "Visakhapatnam", "Kurnool", "Anantapur"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "Which Union Ministry is primarily responsible for the development and implementation of the Digital Personal Data Protection Act, 2023, which affects digital services used by residents of Telangana and Andhra Pradesh?",
+    "options": [
+      "Ministry of Home Affairs",
+      "Ministry of Law and Justice",
+      "Ministry of Electronics and Information Technology (MeitY)",
+      "Ministry of Finance"
+    ],
+    "correctAnswer": "Ministry of Electronics and Information Technology (MeitY)"
   },
   {
     "id": 3,
-    "question": "PM Modi and Nepal PM are set to flag off the Ayodhya-Janakpur train, connecting India and Nepal. Which city in Andhra Pradesh is renowned as a major pilgrimage center, drawing millions of devotees annually?",
-    "options": ["Rajahmundry", "Vijayawada", "Tirupati", "Nellore"],
-    "correctAnswer": "Tirupati"
+    "question": "Under the Digital Personal Data Protection Act, 2023, what is the term used for the individual to whom personal data relates, whose rights are protected across all states including Telangana and Andhra Pradesh?",
+    "options": [
+      "Data Processor",
+      "Data Collector",
+      "Data Principal",
+      "Data Steward"
+    ],
+    "correctAnswer": "Data Principal"
   },
   {
     "id": 4,
-    "question": "The Ayodhya-Janakpur train flagging-off involves a virtual ceremony. Which of the following states, Telangana or Andhra Pradesh, has been actively promoting digital governance and technological advancements?",
-    "options": ["Telangana", "Andhra Pradesh", "Both have equally", "Neither have"],
-    "correctAnswer": "Both have equally"
+    "question": "The new data law introduces 'Data Fiduciaries'. What is a core responsibility of a Data Fiduciary operating in states like Telangana and Andhra Pradesh under this Act?",
+    "options": [
+      "To share personal data with third parties without consent",
+      "To protect personal data and notify data breaches",
+      "To anonymize all data immediately upon collection",
+      "To exclusively store data on servers within India"
+    ],
+    "correctAnswer": "To protect personal data and notify data breaches"
   },
   {
     "id": 5,
-    "question": "A political event involving Rahul Gandhi was recently in the news. Which major political party, mentioned in the context of Indian politics, currently holds power in Telangana?",
-    "options": ["Bharatiya Janata Party (BJP)", "Bharat Rashtra Samithi (BRS)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"],
-    "correctAnswer": "Indian National Congress (INC)"
+    "question": "What specific aspect of individual rights is primarily addressed by the 'consent managers' system under the Digital Personal Data Protection Act, 2023, crucial for citizens in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "The right to anonymity online",
+      "The right to access government data",
+      "The right to give, manage, and withdraw consent for data processing",
+      "The right to financial compensation for data usage"
+    ],
+    "correctAnswer": "The right to give, manage, and withdraw consent for data processing"
   },
   {
     "id": 6,
-    "question": "Political events and statements often spark discussions. Which political party currently holds the Chief Minister's office in Andhra Pradesh?",
-    "options": ["Telugu Desam Party (TDP)", "Jana Sena Party (JSP)", "YSR Congress Party (YSRCP)", "Bharatiya Janata Party (BJP)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "The Supreme Court highlighted that the Whistleblower Protection Act has been in limbo. When was this Act originally passed by the Indian Parliament, aiming to protect individuals reporting corruption in public offices across states like Telangana and Andhra Pradesh?",
+    "options": [
+      "2004",
+      "2009",
+      "2014",
+      "2019"
+    ],
+    "correctAnswer": "2014"
   },
   {
     "id": 7,
-    "question": "India recently won the U-19 Asia Cup in cricket, receiving praise from national leaders. Which prominent international cricket stadium is located in Hyderabad, Telangana?",
-    "options": ["M. Chinnaswamy Stadium", "Eden Gardens", "Rajiv Gandhi International Cricket Stadium", "Wankhede Stadium"],
-    "correctAnswer": "Rajiv Gandhi International Cricket Stadium"
+    "question": "What is the primary purpose of the Whistleblower Protection Act, which is crucial for promoting transparency and accountability in governance across Indian states, including Andhra Pradesh and Telangana?",
+    "options": [
+      "To regulate public-private partnerships",
+      "To establish a unified land record system",
+      "To protect whistleblowers and facilitate reporting of corruption",
+      "To streamline administrative procedures"
+    ],
+    "correctAnswer": "To protect whistleblowers and facilitate reporting of corruption"
   },
   {
     "id": 8,
-    "question": "Cricket is a widely celebrated sport across India. Which of the following cricketers, known for representing India internationally, hails from Andhra Pradesh?",
-    "options": ["VVS Laxman", "Ambati Rayudu", "Hanuma Vihari", "Mohammad Azharuddin"],
-    "correctAnswer": "Hanuma Vihari"
+    "question": "At the central level, which authority is typically designated to receive complaints under the Whistleblower Protection Act, a mechanism important for robust governance in all states, including Telangana?",
+    "options": [
+      "National Human Rights Commission",
+      "Election Commission of India",
+      "Central Vigilance Commission (CVC)",
+      "Comptroller and Auditor General of India (CAG)"
+    ],
+    "correctAnswer": "Central Vigilance Commission (CVC)"
   },
   {
     "id": 9,
-    "question": "India hit back at a US religious freedom panel. Which of the following regions in Telangana is known for its multi-religious demographic and cultural festivals?",
-    "options": ["Adilabad", "Nizamabad", "Old City (Hyderabad)", "Karimnagar"],
-    "correctAnswer": "Old City (Hyderabad)"
+    "question": "The Magsaysay awardee mentioned the Whistleblower Protection Act. This act is intended to protect individuals who report corruption in which specific sector, important for public service integrity in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Private sector companies only",
+      "Religious institutions",
+      "Public sector undertakings and government bodies",
+      "Non-governmental organizations (NGOs)"
+    ],
+    "correctAnswer": "Public sector undertakings and government bodies"
   },
   {
     "id": 10,
-    "question": "The US religious freedom panel was in the news regarding India. What is the official language of administration and education in Telangana, reflecting its cultural identity?",
-    "options": ["English", "Hindi", "Telugu", "Urdu"],
-    "correctAnswer": "Telugu"
+    "question": "Home Minister Amit Shah interacted with trainee IPS officers at which prestigious institution, which is notably located in Telangana?",
+    "options": [
+      "Lal Bahadur Shastri National Academy of Administration, Mussoorie",
+      "National Defence Academy, Khadakwasla",
+      "Sardar Vallabhbhai Patel National Police Academy, Hyderabad",
+      "Indian Institute of Public Administration, New Delhi"
+    ],
+    "correctAnswer": "Sardar Vallabhbhai Patel National Police Academy, Hyderabad"
   },
   {
     "id": 11,
-    "question": "Karnataka CM DKS shared an anecdote about a metro ride. Which city in Telangana boasts an extensive and modern metro rail network?",
-    "options": ["Warangal", "Hyderabad", "Khammam", "Mahabubnagar"],
-    "correctAnswer": "Hyderabad"
+    "question": "IPS officers, upon completion of training, are allocated to various state cadres, including Telangana and Andhra Pradesh. What is the fundamental responsibility of an IPS officer in maintaining public order and security within their assigned state?",
+    "options": [
+      "Formulating economic policies",
+      "Maintaining law and order",
+      "Managing public sector enterprises",
+      "Overseeing national defense"
+    ],
+    "correctAnswer": "Maintaining law and order"
   },
   {
     "id": 12,
-    "question": "Public transport infrastructure like metros is vital for urban centers. Which city is designated as the executive capital of Andhra Pradesh, driving its urban development?",
-    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Vijayawada"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What is the highest competitive examination conducted by the UPSC through which candidates are selected for All India Services, including the Indian Police Service cadre for states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Engineering Services Examination",
+      "Combined Medical Services Examination",
+      "Civil Services Examination",
+      "Indian Forest Service Examination"
+    ],
+    "correctAnswer": "Civil Services Examination"
   },
   {
     "id": 13,
-    "question": "Manipur CM chaired a security review after recent violence. Which district in Telangana is known for its historic Kakatiya architecture and promoting a peaceful tourism environment?",
-    "options": ["Nalgonda", "Warangal Urban", "Medak", "Jagtial"],
-    "correctAnswer": "Warangal Urban"
+    "question": "Beyond law enforcement, IPS officers in states like Andhra Pradesh and Telangana also play a critical role in which other administrative function?",
+    "options": [
+      "Budget allocation for state infrastructure",
+      "Intelligence gathering and crime investigation",
+      "International diplomacy",
+      "Agricultural policy implementation"
+    ],
+    "correctAnswer": "Intelligence gathering and crime investigation"
   },
   {
     "id": 14,
-    "question": "Internal security is a crucial aspect for any state. Which law enforcement agency is primarily responsible for maintaining law and order within Andhra Pradesh?",
-    "options": ["Andhra Pradesh Police", "Central Reserve Police Force (CRPF)", "Border Security Force (BSF)", "National Security Guard (NSG)"],
-    "correctAnswer": "Andhra Pradesh Police"
+    "question": "IPS officers, after their foundational training, undergo district practical training. What is a key objective of this phase for officers serving in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "To specialize in cyber warfare",
+      "To gain practical experience in local policing and administration",
+      "To conduct foreign policy analyses",
+      "To manage national highways projects"
+    ],
+    "correctAnswer": "To gain practical experience in local policing and administration"
   },
   {
     "id": 15,
-    "question": "The news mentioned political party dynamics. Which regional political party in Andhra Pradesh has frequently engaged in alliances with national parties?",
-    "options": ["YSR Congress Party (YSRCP)", "Telugu Desam Party (TDP)", "Jana Sena Party (JSP)", "Communist Party of India (CPI)"],
-    "correctAnswer": "Telugu Desam Party (TDP)"
+    "question": "The National Medical Commission (NMC) has directed strict action against ragging. Which specific type of educational institutions in states like Telangana and Andhra Pradesh are directly under the NMC's regulatory purview for these directives?",
+    "options": [
+      "Engineering colleges",
+      "Law schools",
+      "Medical colleges",
+      "Management institutes"
+    ],
+    "correctAnswer": "Medical colleges"
   },
   {
     "id": 16,
-    "question": "Political leaders often make significant statements affecting their parties and states. Who is the current Chief Minister of Telangana?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Etela Rajender"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "What is the full form of NMC, the body responsible for regulating medical education and professionals in India, including those in Telangana and Andhra Pradesh?",
+    "options": [
+      "National Medical Council",
+      "National Medicos Committee",
+      "National Medical Commission",
+      "New Medical Corporation"
+    ],
+    "correctAnswer": "National Medical Commission"
   },
   {
     "id": 17,
-    "question": "India and Somalia reviewed security cooperation during a bilateral visit. Which city in Telangana is a prominent hub for international relations, hosting numerous consulates and diplomatic offices?",
-    "options": ["Warangal", "Nizamabad", "Hyderabad", "Karimnagar"],
-    "correctAnswer": "Hyderabad"
+    "question": "According to NMC guidelines, which group of students are typically the primary targets and victims of ragging, prompting the commission's strict directives to colleges in states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Final-year PG students",
+      "Medical faculty members",
+      "First-year MBBS students",
+      "Interns"
+    ],
+    "correctAnswer": "First-year MBBS students"
   },
   {
     "id": 18,
-    "question": "Bilateral relations often involve trade and commerce. Which major port city in Andhra Pradesh plays a crucial role in India's maritime trade and economic connectivity?",
-    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "Who holds the primary responsibility for enforcing strict actions against students found guilty of ragging within medical colleges, as per NMC's directives for states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Union Health Ministry",
+      "The Supreme Court of India",
+      "State authorities and college managements",
+      "National Anti-Ragging Cell"
+    ],
+    "correctAnswer": "State authorities and college managements"
   },
   {
     "id": 19,
-    "question": "Security concerns were highlighted in Jammu & Kashmir. Which state police force is responsible for maintaining public order and safety in Telangana?",
-    "options": ["Telangana Police", "Central Industrial Security Force (CISF)", "Rapid Action Force (RAF)", "Indo-Tibetan Border Police (ITBP)"],
-    "correctAnswer": "Telangana Police"
+    "question": "What is a crucial measure mandated by the NMC for medical colleges in Telangana and Andhra Pradesh to ensure a safe environment for students and prevent ragging?",
+    "options": [
+      "Conducting daily academic reviews",
+      "Implementing strict dress codes",
+      "Establishing anti-ragging committees and helplines",
+      "Organizing mandatory cultural events"
+    ],
+    "correctAnswer": "Establishing anti-ragging committees and helplines"
   },
   {
     "id": 20,
-    "question": "National political parties often comment on various issues across India. Which national political party has a significant, albeit not dominant, presence in both Telangana and Andhra Pradesh?",
-    "options": ["Aam Aadmi Party (AAP)", "Bahujan Samaj Party (BSP)", "Bharatiya Janata Party (BJP)", "Communist Party of India (Marxist)"],
-    "correctAnswer": "Bharatiya Janata Party (BJP)"
+    "question": "The NMC emphasizes preventing retaliation against complainants. What mechanism is often provided by colleges and regulatory bodies in states like Telangana and Andhra Pradesh to ensure the safety of whistleblowers in ragging cases?",
+    "options": [
+      "Public announcement of complaints",
+      "Mandatory legal representation for all parties",
+      "Confidential reporting and protection measures",
+      "Immediate expulsion of all accused students"
+    ],
+    "correctAnswer": "Confidential reporting and protection measures"
   },
   {
     "id": 21,
-    "question": "Air India, a Tata Group company, was in the news. Which major Tata Group company is a significant employer and has extensive operations in Hyderabad, Telangana, particularly in the IT sector?",
-    "options": ["Tata Steel", "Tata Motors", "Tata Consultancy Services (TCS)", "Titan Company"],
-    "correctAnswer": "Tata Consultancy Services (TCS)"
+    "question": "The NMC was established replacing which former central regulatory body for medical education in India, including oversight of institutions in Andhra Pradesh and Telangana?",
+    "options": [
+      "All India Council for Technical Education (AICTE)",
+      "University Grants Commission (UGC)",
+      "Medical Council of India (MCI)",
+      "Pharmacy Council of India (PCI)"
+    ],
+    "correctAnswer": "Medical Council of India (MCI)"
   },
   {
     "id": 22,
-    "question": "The Ayodhya-Janakpur train emphasizes connectivity. Which of the following high-speed rail corridors is being planned to enhance connectivity within Telangana and Andhra Pradesh?",
-    "options": ["Mumbai-Ahmedabad HSR", "Delhi-Varanasi HSR", "Hyderabad-Vijayawada HSR", "Chennai-Bengaluru HSR"],
-    "correctAnswer": "Hyderabad-Vijayawada HSR"
+    "question": "What does MBBS stand for, the undergraduate medical degree often associated with the ragging incidents highlighted by the NMC, pursued by students in medical colleges across India, including Telangana and Andhra Pradesh?",
+    "options": [
+      "Master of Biomedical Science",
+      "Bachelor of Medicine, Bachelor of Surgery",
+      "Medical and Biomedical Studies",
+      "Modern Biosciences and Surgery"
+    ],
+    "correctAnswer": "Bachelor of Medicine, Bachelor of Surgery"
   },
   {
     "id": 23,
-    "question": "Political events and rallies are common across India. Which prominent public ground in Hyderabad, Telangana, is renowned for hosting large political gatherings and public events?",
-    "options": ["NTR Stadium", "Lal Bahadur Shastri Stadium", "Parade Ground", "Gachibowli Stadium"],
-    "correctAnswer": "Parade Ground"
+    "question": "Apart from physical abuse, what other common form of harassment does the NMC aim to curb through its anti-ragging directives in medical colleges, impacting student well-being in states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Academic pressure",
+      "Financial exploitation by faculty",
+      "Psychological and verbal abuse",
+      "Strict curfew timings"
+    ],
+    "correctAnswer": "Psychological and verbal abuse"
   },
   {
     "id": 24,
-    "question": "India's U-19 cricket victory was celebrated, highlighting sporting talent. Which sport, besides cricket, has a strong presence and has produced numerous international players from Telangana, especially Hyderabad?",
-    "options": ["Football", "Badminton", "Kabaddi", "Field Hockey"],
-    "correctAnswer": "Badminton"
+    "question": "The Digital Personal Data Protection Act, 2023, applies to the processing of digital personal data within India. What is the implication for data breaches occurring in companies serving customers in Telangana and Andhra Pradesh?",
+    "options": [
+      "Companies are exempt from reporting breaches if they occur outside capital cities",
+      "Companies are legally obligated to notify relevant authorities and affected individuals",
+      "Only breaches involving more than 1 million users must be reported",
+      "State governments are solely responsible for investigating such breaches"
+    ],
+    "correctAnswer": "Companies are legally obligated to notify relevant authorities and affected individuals"
   },
   {
     "id": 25,
-    "question": "India's secular fabric is often discussed in national contexts. Which of these festivals is widely celebrated in both Telangana and Andhra Pradesh, symbolizing the region's diverse cultural and religious harmony?",
-    "options": ["Bonalu", "Bathukamma", "Sankranti", "All of the above"],
-    "correctAnswer": "All of the above"
+    "question": "The NMC's strict directives against ragging aim to foster a culture of respect and professionalism in medical colleges. What long-term impact is expected on the medical fraternity in states like Telangana and Andhra Pradesh by effectively curbing ragging?",
+    "options": [
+      "Increased tuition fees for medical courses",
+      "A decline in the number of medical graduates",
+      "Improved quality of medical education and professional conduct",
+      "More stringent admission criteria for all students"
+    ],
+    "correctAnswer": "Improved quality of medical education and professional conduct"
   }
 ]

@@ -1,277 +1,277 @@
 [
   {
     "id": 1,
-    "question": "What is the full name of the new Indian law under which companies can apply to be consent managers, significantly impacting data privacy for citizens in states like Telangana and Andhra Pradesh?",
+    "question": "Which specific issue regarding tribals did PM Modi criticize previous governments for?",
     "options": [
-      "Digital Personal Data Protection Act, 2023",
-      "Information Technology Act, 2000 (Amendment)",
-      "Right to Privacy Act, 2017",
-      "Cyber Security and Data Protection Act, 2022"
+      "Lack of industrial training",
+      "Abandonment leading to Naxal violence",
+      "Insufficient agricultural subsidies",
+      "Poor access to urban employment"
     ],
-    "correctAnswer": "Digital Personal Data Protection Act, 2023"
+    "correctAnswer": "Abandonment leading to Naxal violence"
   },
   {
     "id": 2,
-    "question": "Which Union Ministry is primarily responsible for the development and implementation of the Digital Personal Data Protection Act, 2023, which affects digital services used by residents of Telangana and Andhra Pradesh?",
+    "question": "What type of violence was explicitly linked by PM Modi to the abandonment of tribals?",
     "options": [
-      "Ministry of Home Affairs",
-      "Ministry of Law and Justice",
-      "Ministry of Electronics and Information Technology (MeitY)",
-      "Ministry of Finance"
+      "Communal violence",
+      "Naxal violence",
+      "Caste-based violence",
+      "Border conflicts"
     ],
-    "correctAnswer": "Ministry of Electronics and Information Technology (MeitY)"
+    "correctAnswer": "Naxal violence"
   },
   {
     "id": 3,
-    "question": "Under the Digital Personal Data Protection Act, 2023, what is the term used for the individual to whom personal data relates, whose rights are protected across all states including Telangana and Andhra Pradesh?",
+    "question": "Which political leader recently made remarks about previous governments' handling of tribals and Naxal violence?",
     "options": [
-      "Data Processor",
-      "Data Collector",
-      "Data Principal",
-      "Data Steward"
+      "Rahul Gandhi",
+      "Narendra Modi",
+      "Amit Shah",
+      "Mallikarjun Kharge"
     ],
-    "correctAnswer": "Data Principal"
+    "correctAnswer": "Narendra Modi"
   },
   {
     "id": 4,
-    "question": "The new data law introduces 'Data Fiduciaries'. What is a core responsibility of a Data Fiduciary operating in states like Telangana and Andhra Pradesh under this Act?",
+    "question": "In the context of the PM's remarks, which segment of the population is often affected by Naxal violence in states like Telangana and Andhra Pradesh?",
     "options": [
-      "To share personal data with third parties without consent",
-      "To protect personal data and notify data breaches",
-      "To anonymize all data immediately upon collection",
-      "To exclusively store data on servers within India"
+      "Urban laborers",
+      "Coastal fishermen",
+      "Tribal communities",
+      "Small business owners"
     ],
-    "correctAnswer": "To protect personal data and notify data breaches"
+    "correctAnswer": "Tribal communities"
   },
   {
     "id": 5,
-    "question": "What specific aspect of individual rights is primarily addressed by the 'consent managers' system under the Digital Personal Data Protection Act, 2023, crucial for citizens in states like Telangana and Andhra Pradesh?",
+    "question": "The issue of Naxal violence and tribal welfare, as highlighted by PM Modi, is particularly significant in which region type often found in Andhra Pradesh and Telangana?",
     "options": [
-      "The right to anonymity online",
-      "The right to access government data",
-      "The right to give, manage, and withdraw consent for data processing",
-      "The right to financial compensation for data usage"
+      "Dense metropolitan areas",
+      "Desert fringes",
+      "Forested and hilly 'agency areas'",
+      "Coastal fishing villages"
     ],
-    "correctAnswer": "The right to give, manage, and withdraw consent for data processing"
+    "correctAnswer": "Forested and hilly 'agency areas'"
   },
   {
     "id": 6,
-    "question": "The Supreme Court highlighted that the Whistleblower Protection Act has been in limbo. When was this Act originally passed by the Indian Parliament, aiming to protect individuals reporting corruption in public offices across states like Telangana and Andhra Pradesh?",
+    "question": "Historically, what role has perceived lack of development in tribal areas played in the rise of Naxalism in states like Andhra Pradesh?",
     "options": [
-      "2004",
-      "2009",
-      "2014",
-      "2019"
+      "It has had no impact",
+      "It primarily led to technological stagnation",
+      "It fueled grievances and provided fertile ground for recruitment",
+      "It encouraged migration to urban centers"
     ],
-    "correctAnswer": "2014"
+    "correctAnswer": "It fueled grievances and provided fertile ground for recruitment"
   },
   {
     "id": 7,
-    "question": "What is the primary purpose of the Whistleblower Protection Act, which is crucial for promoting transparency and accountability in governance across Indian states, including Andhra Pradesh and Telangana?",
+    "question": "Which former unified state had significant Naxal activity in its tribal belts, now comprising parts of Telangana and Andhra Pradesh?",
     "options": [
-      "To regulate public-private partnerships",
-      "To establish a unified land record system",
-      "To protect whistleblowers and facilitate reporting of corruption",
-      "To streamline administrative procedures"
+      "Madras State",
+      "Mysore State",
+      "Hyderabad State",
+      "Andhra Pradesh"
     ],
-    "correctAnswer": "To protect whistleblowers and facilitate reporting of corruption"
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 8,
-    "question": "At the central level, which authority is typically designated to receive complaints under the Whistleblower Protection Act, a mechanism important for robust governance in all states, including Telangana?",
+    "question": "What kind of development is crucial to counter Naxal influence among tribal populations in states like Telangana, as implied by PM Modi's criticism?",
     "options": [
-      "National Human Rights Commission",
-      "Election Commission of India",
-      "Central Vigilance Commission (CVC)",
-      "Comptroller and Auditor General of India (CAG)"
+      "Military-focused development",
+      "Inclusive socio-economic development",
+      "Urbanization-centric development",
+      "Industrial agriculture promotion"
     ],
-    "correctAnswer": "Central Vigilance Commission (CVC)"
+    "correctAnswer": "Inclusive socio-economic development"
   },
   {
     "id": 9,
-    "question": "The Magsaysay awardee mentioned the Whistleblower Protection Act. This act is intended to protect individuals who report corruption in which specific sector, important for public service integrity in states like Telangana and Andhra Pradesh?",
+    "question": "Which central ministry is primarily responsible for the welfare of tribal communities across India, including those in Andhra Pradesh?",
     "options": [
-      "Private sector companies only",
-      "Religious institutions",
-      "Public sector undertakings and government bodies",
-      "Non-governmental organizations (NGOs)"
+      "Ministry of Home Affairs",
+      "Ministry of Rural Development",
+      "Ministry of Tribal Affairs",
+      "Ministry of Social Justice and Empowerment"
     ],
-    "correctAnswer": "Public sector undertakings and government bodies"
+    "correctAnswer": "Ministry of Tribal Affairs"
   },
   {
     "id": 10,
-    "question": "Home Minister Amit Shah interacted with trainee IPS officers at which prestigious institution, which is notably located in Telangana?",
+    "question": "What constitutional provision aims to protect the land rights of Scheduled Tribes in India, relevant to Naxal-affected regions in AP/Telangana?",
     "options": [
-      "Lal Bahadur Shastri National Academy of Administration, Mussoorie",
-      "National Defence Academy, Khadakwasla",
-      "Sardar Vallabhbhai Patel National Police Academy, Hyderabad",
-      "Indian Institute of Public Administration, New Delhi"
+      "Article 14 (Equality before Law)",
+      "Fifth Schedule and Sixth Schedule",
+      "Article 21 (Protection of Life and Personal Liberty)",
+      "Article 32 (Right to Constitutional Remedies)"
     ],
-    "correctAnswer": "Sardar Vallabhbhai Patel National Police Academy, Hyderabad"
+    "correctAnswer": "Fifth Schedule and Sixth Schedule"
   },
   {
     "id": 11,
-    "question": "IPS officers, upon completion of training, are allocated to various state cadres, including Telangana and Andhra Pradesh. What is the fundamental responsibility of an IPS officer in maintaining public order and security within their assigned state?",
+    "question": "Which term is officially used by the Indian government to refer to Left-Wing Extremism, as mentioned in the context of tribal areas like those in Telangana?",
     "options": [
-      "Formulating economic policies",
-      "Maintaining law and order",
-      "Managing public sector enterprises",
-      "Overseeing national defense"
+      "Urban Guerrilla Warfare",
+      "Maoist Insurgency",
+      "Naxalism",
+      "All of the above"
     ],
-    "correctAnswer": "Maintaining law and order"
+    "correctAnswer": "Naxalism"
   },
   {
     "id": 12,
-    "question": "What is the highest competitive examination conducted by the UPSC through which candidates are selected for All India Services, including the Indian Police Service cadre for states like Telangana and Andhra Pradesh?",
+    "question": "What is a common socio-economic issue that makes tribal communities vulnerable to Naxal ideologies in states like Andhra Pradesh, as hinted by PM Modi?",
     "options": [
-      "Engineering Services Examination",
-      "Combined Medical Services Examination",
-      "Civil Services Examination",
-      "Indian Forest Service Examination"
+      "High literacy rates",
+      "Lack of access to justice and land rights issues",
+      "Rapid industrialization",
+      "Strong social mobility"
     ],
-    "correctAnswer": "Civil Services Examination"
+    "correctAnswer": "Lack of access to justice and land rights issues"
   },
   {
     "id": 13,
-    "question": "Beyond law enforcement, IPS officers in states like Andhra Pradesh and Telangana also play a critical role in which other administrative function?",
+    "question": "Which district in present-day Telangana has historically witnessed significant Naxal-related incidents concerning tribal rights and forest resources?",
     "options": [
-      "Budget allocation for state infrastructure",
-      "Intelligence gathering and crime investigation",
-      "International diplomacy",
-      "Agricultural policy implementation"
+      "Hyderabad",
+      "Warangal",
+      "Khammam",
+      "Karimnagar"
     ],
-    "correctAnswer": "Intelligence gathering and crime investigation"
+    "correctAnswer": "Khammam"
   },
   {
     "id": 14,
-    "question": "IPS officers, after their foundational training, undergo district practical training. What is a key objective of this phase for officers serving in states like Andhra Pradesh and Telangana?",
+    "question": "What is the primary aim of welfare schemes implemented for tribal populations in Naxal-affected areas of Andhra Pradesh, beyond immediate relief?",
     "options": [
-      "To specialize in cyber warfare",
-      "To gain practical experience in local policing and administration",
-      "To conduct foreign policy analyses",
-      "To manage national highways projects"
+      "Promoting tourism",
+      "Enhancing political participation",
+      "Fostering socio-economic inclusion and countering extremism",
+      "Establishing large-scale industries"
     ],
-    "correctAnswer": "To gain practical experience in local policing and administration"
+    "correctAnswer": "Fostering socio-economic inclusion and countering extremism"
   },
   {
     "id": 15,
-    "question": "The National Medical Commission (NMC) has directed strict action against ragging. Which specific type of educational institutions in states like Telangana and Andhra Pradesh are directly under the NMC's regulatory purview for these directives?",
+    "question": "What role do infrastructure projects play in integrating tribal areas and reducing Naxal influence in states like Telangana?",
     "options": [
-      "Engineering colleges",
-      "Law schools",
-      "Medical colleges",
-      "Management institutes"
+      "They are irrelevant to Naxal influence",
+      "They can improve connectivity, access to services, and economic opportunities",
+      "They only serve the urban population",
+      "They primarily benefit private contractors"
     ],
-    "correctAnswer": "Medical colleges"
+    "correctAnswer": "They can improve connectivity, access to services, and economic opportunities"
   },
   {
     "id": 16,
-    "question": "What is the full form of NMC, the body responsible for regulating medical education and professionals in India, including those in Telangana and Andhra Pradesh?",
+    "question": "Which security forces are primarily engaged in anti-Naxal operations in affected states, including Andhra Pradesh and Telangana?",
     "options": [
-      "National Medical Council",
-      "National Medicos Committee",
-      "National Medical Commission",
-      "New Medical Corporation"
+      "Indian Navy",
+      "Central Reserve Police Force (CRPF) and State Police",
+      "Indian Air Force",
+      "Border Security Force (BSF)"
     ],
-    "correctAnswer": "National Medical Commission"
+    "correctAnswer": "Central Reserve Police Force (CRPF) and State Police"
   },
   {
     "id": 17,
-    "question": "According to NMC guidelines, which group of students are typically the primary targets and victims of ragging, prompting the commission's strict directives to colleges in states like Andhra Pradesh and Telangana?",
+    "question": "PM Modi's statement implies a lack of what critical support for tribal communities by previous governments, contributing to Naxalism?",
     "options": [
-      "Final-year PG students",
-      "Medical faculty members",
-      "First-year MBBS students",
-      "Interns"
+      "Support for traditional art forms",
+      "Protection of rights and inclusive development",
+      "Promotion of foreign trade",
+      "Encouragement of online education"
     ],
-    "correctAnswer": "First-year MBBS students"
+    "correctAnswer": "Protection of rights and inclusive development"
   },
   {
     "id": 18,
-    "question": "Who holds the primary responsibility for enforcing strict actions against students found guilty of ragging within medical colleges, as per NMC's directives for states like Telangana and Andhra Pradesh?",
+    "question": "What is often referred to as the 'Red Corridor' in India, encompassing parts of Telangana and Andhra Pradesh, in the context of Naxalism?",
     "options": [
-      "Union Health Ministry",
-      "The Supreme Court of India",
-      "State authorities and college managements",
-      "National Anti-Ragging Cell"
+      "A tourist circuit with red soil",
+      "Regions affected by Left Wing Extremism (LWE)",
+      "Areas with high red chilli production",
+      "A network of ancient temples"
     ],
-    "correctAnswer": "State authorities and college managements"
+    "correctAnswer": "Regions affected by Left Wing Extremism (LWE)"
   },
   {
     "id": 19,
-    "question": "What is a crucial measure mandated by the NMC for medical colleges in Telangana and Andhra Pradesh to ensure a safe environment for students and prevent ragging?",
+    "question": "What is the strategic objective behind Naxal groups targeting development infrastructure in tribal areas of AP/Telangana?",
     "options": [
-      "Conducting daily academic reviews",
-      "Implementing strict dress codes",
-      "Establishing anti-ragging committees and helplines",
-      "Organizing mandatory cultural events"
+      "To encourage private investment",
+      "To improve road safety",
+      "To hinder government's outreach and maintain control over local populations",
+      "To promote sustainable energy"
     ],
-    "correctAnswer": "Establishing anti-ragging committees and helplines"
+    "correctAnswer": "To hinder government's outreach and maintain control over local populations"
   },
   {
     "id": 20,
-    "question": "The NMC emphasizes preventing retaliation against complainants. What mechanism is often provided by colleges and regulatory bodies in states like Telangana and Andhra Pradesh to ensure the safety of whistleblowers in ragging cases?",
+    "question": "Which government body coordinates efforts between central and state governments to address Left Wing Extremism in states like Andhra Pradesh and Telangana?",
     "options": [
-      "Public announcement of complaints",
-      "Mandatory legal representation for all parties",
-      "Confidential reporting and protection measures",
-      "Immediate expulsion of all accused students"
+      "Ministry of External Affairs",
+      "NITI Aayog",
+      "Ministry of Home Affairs",
+      "Ministry of Finance"
     ],
-    "correctAnswer": "Confidential reporting and protection measures"
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 21,
-    "question": "The NMC was established replacing which former central regulatory body for medical education in India, including oversight of institutions in Andhra Pradesh and Telangana?",
+    "question": "What term is broadly used to describe the extremist movement often linked with tribal areas in India, as discussed by PM Modi?",
     "options": [
-      "All India Council for Technical Education (AICTE)",
-      "University Grants Commission (UGC)",
-      "Medical Council of India (MCI)",
-      "Pharmacy Council of India (PCI)"
+      "Separatism",
+      "Communalism",
+      "Left Wing Extremism (LWE)",
+      "Ethno-nationalism"
     ],
-    "correctAnswer": "Medical Council of India (MCI)"
+    "correctAnswer": "Left Wing Extremism (LWE)"
   },
   {
     "id": 22,
-    "question": "What does MBBS stand for, the undergraduate medical degree often associated with the ragging incidents highlighted by the NMC, pursued by students in medical colleges across India, including Telangana and Andhra Pradesh?",
+    "question": "Which act is crucial for protecting the land rights of tribals and their access to forest resources, a common demand in Naxal-affected areas including AP/Telangana?",
     "options": [
-      "Master of Biomedical Science",
-      "Bachelor of Medicine, Bachelor of Surgery",
-      "Medical and Biomedical Studies",
-      "Modern Biosciences and Surgery"
+      "Right to Education Act",
+      "Forest Rights Act (FRA)",
+      "Companies Act",
+      "Motor Vehicles Act"
     ],
-    "correctAnswer": "Bachelor of Medicine, Bachelor of Surgery"
+    "correctAnswer": "Forest Rights Act (FRA)"
   },
   {
     "id": 23,
-    "question": "Apart from physical abuse, what other common form of harassment does the NMC aim to curb through its anti-ragging directives in medical colleges, impacting student well-being in states like Telangana and Andhra Pradesh?",
+    "question": "What is a primary objective of integrated development plans in tribal areas prone to Naxal influence in states like Telangana and Andhra Pradesh?",
     "options": [
-      "Academic pressure",
-      "Financial exploitation by faculty",
-      "Psychological and verbal abuse",
-      "Strict curfew timings"
+      "To encourage large-scale mining operations",
+      "To promote urbanization and migration",
+      "To improve governance, basic services, and livelihoods",
+      "To establish military bases"
     ],
-    "correctAnswer": "Psychological and verbal abuse"
+    "correctAnswer": "To improve governance, basic services, and livelihoods"
   },
   {
     "id": 24,
-    "question": "The Digital Personal Data Protection Act, 2023, applies to the processing of digital personal data within India. What is the implication for data breaches occurring in companies serving customers in Telangana and Andhra Pradesh?",
+    "question": "What challenge do Naxal activities pose to the development projects intended for tribal communities in states like Telangana and Andhra Pradesh?",
     "options": [
-      "Companies are exempt from reporting breaches if they occur outside capital cities",
-      "Companies are legally obligated to notify relevant authorities and affected individuals",
-      "Only breaches involving more than 1 million users must be reported",
-      "State governments are solely responsible for investigating such breaches"
+      "Naxal groups actively assist in project implementation",
+      "They cause delays, destruction, and diversion of resources",
+      "They promote sustainable resource management",
+      "They boost local employment through construction"
     ],
-    "correctAnswer": "Companies are legally obligated to notify relevant authorities and affected individuals"
+    "correctAnswer": "They cause delays, destruction, and diversion of resources"
   },
   {
     "id": 25,
-    "question": "The NMC's strict directives against ragging aim to foster a culture of respect and professionalism in medical colleges. What long-term impact is expected on the medical fraternity in states like Telangana and Andhra Pradesh by effectively curbing ragging?",
+    "question": "PM Modi's critique implies that previous governments failed to ensure what for tribal populations, which then led to their vulnerability to Naxalism?",
     "options": [
-      "Increased tuition fees for medical courses",
-      "A decline in the number of medical graduates",
-      "Improved quality of medical education and professional conduct",
-      "More stringent admission criteria for all students"
+      "Access to luxury goods",
+      "Effective governance and protection of their rights",
+      "Participation in international events",
+      "High-speed internet in every home"
     ],
-    "correctAnswer": "Improved quality of medical education and professional conduct"
+    "correctAnswer": "Effective governance and protection of their rights"
   }
 ]

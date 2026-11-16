@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which specific issue regarding tribals did PM Modi criticize previous governments for?",
-    "options": [
-      "Lack of industrial training",
-      "Abandonment leading to Naxal violence",
-      "Insufficient agricultural subsidies",
-      "Poor access to urban employment"
-    ],
-    "correctAnswer": "Abandonment leading to Naxal violence"
+    "question": "What is the primary focus of anti-Naxal operations often conducted by forces like CRPF in regions such as the Telangana-Chhattisgarh border and Andhra Pradesh's Visakhapatnam region?",
+    "options": ["Economic development", "Tourism promotion", "Counter-insurgency and maintaining law & order", "Agricultural reforms"],
+    "correctAnswer": "Counter-insurgency and maintaining law & order"
   },
   {
     "id": 2,
-    "question": "What type of violence was explicitly linked by PM Modi to the abandonment of tribals?",
-    "options": [
-      "Communal violence",
-      "Naxal violence",
-      "Caste-based violence",
-      "Border conflicts"
-    ],
-    "correctAnswer": "Naxal violence"
+    "question": "Which major extremist ideology is primarily associated with Naxalite activities in states like Telangana and Andhra Pradesh, impacting internal security?",
+    "options": ["Religious fundamentalism", "Left-wing extremism (Maoism)", "Separatist nationalism", "Economic protectionism"],
+    "correctAnswer": "Left-wing extremism (Maoism)"
   },
   {
     "id": 3,
-    "question": "Which political leader recently made remarks about previous governments' handling of tribals and Naxal violence?",
-    "options": [
-      "Rahul Gandhi",
-      "Narendra Modi",
-      "Amit Shah",
-      "Mallikarjun Kharge"
-    ],
-    "correctAnswer": "Narendra Modi"
+    "question": "Besides central forces like the CRPF, which specialized state police unit in Telangana and Andhra Pradesh is renowned for its anti-Maoist operations?",
+    "options": ["Greyhounds", "Octopus", "Black Cats", "Thunderbolt"],
+    "correctAnswer": "Greyhounds"
   },
   {
     "id": 4,
-    "question": "In the context of the PM's remarks, which segment of the population is often affected by Naxal violence in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Urban laborers",
-      "Coastal fishermen",
-      "Tribal communities",
-      "Small business owners"
-    ],
-    "correctAnswer": "Tribal communities"
+    "question": "The diversion of CRPF from anti-Naxal operations, as mentioned in the news, could potentially affect security in which Naxal-affected region that borders Telangana?",
+    "options": ["Karnataka-Kerala border", "Telangana-Chhattisgarh border", "Gujarat-Rajasthan border", "Punjab-Haryana border"],
+    "correctAnswer": "Telangana-Chhattisgarh border"
   },
   {
     "id": 5,
-    "question": "The issue of Naxal violence and tribal welfare, as highlighted by PM Modi, is particularly significant in which region type often found in Andhra Pradesh and Telangana?",
-    "options": [
-      "Dense metropolitan areas",
-      "Desert fringes",
-      "Forested and hilly 'agency areas'",
-      "Coastal fishing villages"
-    ],
-    "correctAnswer": "Forested and hilly 'agency areas'"
+    "question": "What is the primary purpose of Form 6 as per the Election Commission of India, relevant for voters in Telangana and Andhra Pradesh?",
+    "options": ["To register a new political party", "To apply for a passport", "To register as a new voter", "To change address on Aadhar card"],
+    "correctAnswer": "To register as a new voter"
   },
   {
     "id": 6,
-    "question": "Historically, what role has perceived lack of development in tribal areas played in the rise of Naxalism in states like Andhra Pradesh?",
-    "options": [
-      "It has had no impact",
-      "It primarily led to technological stagnation",
-      "It fueled grievances and provided fertile ground for recruitment",
-      "It encouraged migration to urban centers"
-    ],
-    "correctAnswer": "It fueled grievances and provided fertile ground for recruitment"
+    "question": "According to the Election Commission's recent commitment, what assurance has been given regarding individuals who re-register to vote through Form 6 in states like Telangana and Andhra Pradesh?",
+    "options": ["They will face legal prosecution", "Their applications will be rejected", "No legal action will be taken against them", "They must pay a re-registration fee"],
+    "correctAnswer": "No legal action will be taken against them"
   },
   {
     "id": 7,
-    "question": "Which former unified state had significant Naxal activity in its tribal belts, now comprising parts of Telangana and Andhra Pradesh?",
-    "options": [
-      "Madras State",
-      "Mysore State",
-      "Hyderabad State",
-      "Andhra Pradesh"
-    ],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "When submitting a fresh Form 6 for re-enrollment, what crucial step is advised for voters in any state, including Telangana and Andhra Pradesh, to ensure?",
+    "options": ["To submit proof of income", "To ensure their names are not listed in other constituencies", "To provide a medical certificate", "To get it attested by a gazetted officer"],
+    "correctAnswer": "To ensure their names are not listed in other constituencies"
   },
   {
     "id": 8,
-    "question": "What kind of development is crucial to counter Naxal influence among tribal populations in states like Telangana, as implied by PM Modi's criticism?",
-    "options": [
-      "Military-focused development",
-      "Inclusive socio-economic development",
-      "Urbanization-centric development",
-      "Industrial agriculture promotion"
-    ],
-    "correctAnswer": "Inclusive socio-economic development"
+    "question": "According to the Election Commission, who among the following can submit fresh forms for their names to be reinstated in the electoral rolls?",
+    "options": ["Only government employees", "Those previously removed erroneously", "Only non-resident Indians", "Individuals below 18 years of age"],
+    "correctAnswer": "Those previously removed erroneously"
   },
   {
     "id": 9,
-    "question": "Which central ministry is primarily responsible for the welfare of tribal communities across India, including those in Andhra Pradesh?",
-    "options": [
-      "Ministry of Home Affairs",
-      "Ministry of Rural Development",
-      "Ministry of Tribal Affairs",
-      "Ministry of Social Justice and Empowerment"
-    ],
-    "correctAnswer": "Ministry of Tribal Affairs"
+    "question": "The current process mentioned by the Election Commission aims to include whom in the electoral rolls across all eligible states, including Telangana and Andhra Pradesh?",
+    "options": ["Only existing voters", "Only first-time voters", "Every eligible citizen", "Only individuals above 60"],
+    "correctAnswer": "Every eligible citizen"
   },
   {
     "id": 10,
-    "question": "What constitutional provision aims to protect the land rights of Scheduled Tribes in India, relevant to Naxal-affected regions in AP/Telangana?",
-    "options": [
-      "Article 14 (Equality before Law)",
-      "Fifth Schedule and Sixth Schedule",
-      "Article 21 (Protection of Life and Personal Liberty)",
-      "Article 32 (Right to Constitutional Remedies)"
-    ],
-    "correctAnswer": "Fifth Schedule and Sixth Schedule"
+    "question": "Which of the following is a prominent Vande Bharat Express route connecting a major city in Telangana or Andhra Pradesh to another important destination?",
+    "options": ["Secunderabad to Tirupati", "Mumbai to Ahmedabad", "Chennai to Mysuru", "Delhi to Varanasi"],
+    "correctAnswer": "Secunderabad to Tirupati"
   },
   {
     "id": 11,
-    "question": "Which term is officially used by the Indian government to refer to Left-Wing Extremism, as mentioned in the context of tribal areas like those in Telangana?",
-    "options": [
-      "Urban Guerrilla Warfare",
-      "Maoist Insurgency",
-      "Naxalism",
-      "All of the above"
-    ],
-    "correctAnswer": "Naxalism"
+    "question": "What is the primary characteristic that makes Vande Bharat trains significant for boosting regional connectivity in India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Low ticket prices", "Slow travel speeds", "Semi high-speed and modern amenities", "Limited seating capacity"],
+    "correctAnswer": "Semi high-speed and modern amenities"
   },
   {
     "id": 12,
-    "question": "What is a common socio-economic issue that makes tribal communities vulnerable to Naxal ideologies in states like Andhra Pradesh, as hinted by PM Modi?",
-    "options": [
-      "High literacy rates",
-      "Lack of access to justice and land rights issues",
-      "Rapid industrialization",
-      "Strong social mobility"
-    ],
-    "correctAnswer": "Lack of access to justice and land rights issues"
+    "question": "Vande Bharat trains are manufactured primarily under which Indian government initiative promoting domestic production?",
+    "options": ["Make in India", "Digital India", "Swachh Bharat Abhiyan", "Skill India"],
+    "correctAnswer": "Make in India"
   },
   {
     "id": 13,
-    "question": "Which district in present-day Telangana has historically witnessed significant Naxal-related incidents concerning tribal rights and forest resources?",
-    "options": [
-      "Hyderabad",
-      "Warangal",
-      "Khammam",
-      "Karimnagar"
-    ],
-    "correctAnswer": "Khammam"
+    "question": "The Enforcement Directorate (ED), which investigates financial misconduct, primarily deals with which types of offenses under its mandate in India, impacting states like Telangana and Andhra Pradesh?",
+    "options": ["Petty theft and vandalism", "Traffic violations", "Money laundering and foreign exchange violations", "Environmental pollution"],
+    "correctAnswer": "Money laundering and foreign exchange violations"
   },
   {
     "id": 14,
-    "question": "What is the primary aim of welfare schemes implemented for tribal populations in Naxal-affected areas of Andhra Pradesh, beyond immediate relief?",
-    "options": [
-      "Promoting tourism",
-      "Enhancing political participation",
-      "Fostering socio-economic inclusion and countering extremism",
-      "Establishing large-scale industries"
-    ],
-    "correctAnswer": "Fostering socio-economic inclusion and countering extremism"
+    "question": "What is the key Indian legislation that the Enforcement Directorate primarily enforces in cases of financial misconduct like money laundering?",
+    "options": ["Indian Penal Code (IPC)", "Prevention of Money Laundering Act (PMLA)", "Goods and Services Tax Act (GST Act)", "Companies Act"],
+    "correctAnswer": "Prevention of Money Laundering Act (PMLA)"
   },
   {
     "id": 15,
-    "question": "What role do infrastructure projects play in integrating tribal areas and reducing Naxal influence in states like Telangana?",
-    "options": [
-      "They are irrelevant to Naxal influence",
-      "They can improve connectivity, access to services, and economic opportunities",
-      "They only serve the urban population",
-      "They primarily benefit private contractors"
-    ],
-    "correctAnswer": "They can improve connectivity, access to services, and economic opportunities"
+    "question": "PM Modi's attendance at ASEAN summits is often linked to which of India's foreign policy initiatives that emphasizes stronger ties with Southeast Asian nations, relevant for coastal states like Andhra Pradesh for trade?",
+    "options": ["Look West Policy", "Act East Policy", "Neighbourhood First Policy", "Silk Route Initiative"],
+    "correctAnswer": "Act East Policy"
   },
   {
     "id": 16,
-    "question": "Which security forces are primarily engaged in anti-Naxal operations in affected states, including Andhra Pradesh and Telangana?",
-    "options": [
-      "Indian Navy",
-      "Central Reserve Police Force (CRPF) and State Police",
-      "Indian Air Force",
-      "Border Security Force (BSF)"
-    ],
-    "correctAnswer": "Central Reserve Police Force (CRPF) and State Police"
+    "question": "What is a broader objective of India's participation in forums like the East Asia Summit, which has implications for states like Telangana and Andhra Pradesh through economic and strategic policies?",
+    "options": ["Promoting isolationism", "Strengthening regional security and economic cooperation", "Reducing cultural exchange", "Focusing solely on domestic issues"],
+    "correctAnswer": "Strengthening regional security and economic cooperation"
   },
   {
     "id": 17,
-    "question": "PM Modi's statement implies a lack of what critical support for tribal communities by previous governments, contributing to Naxalism?",
-    "options": [
-      "Support for traditional art forms",
-      "Protection of rights and inclusive development",
-      "Promotion of foreign trade",
-      "Encouragement of online education"
-    ],
-    "correctAnswer": "Protection of rights and inclusive development"
+    "question": "Which major Indian festival, recently mentioned by the PM, is observed with significant cultural importance in Telangana and Andhra Pradesh, often involving traditional celebrations?",
+    "options": ["Eid al-Fitr", "Christmas", "Diwali", "Holi"],
+    "correctAnswer": "Diwali"
   },
   {
     "id": 18,
-    "question": "What is often referred to as the 'Red Corridor' in India, encompassing parts of Telangana and Andhra Pradesh, in the context of Naxalism?",
-    "options": [
-      "A tourist circuit with red soil",
-      "Regions affected by Left Wing Extremism (LWE)",
-      "Areas with high red chilli production",
-      "A network of ancient temples"
-    ],
-    "correctAnswer": "Regions affected by Left Wing Extremism (LWE)"
+    "question": "Many government services, including electoral processes and other citizen services in states like Telangana and Andhra Pradesh, are being digitized under which major Indian initiative?",
+    "options": ["Swachh Bharat Abhiyan", "Jan Dhan Yojana", "Digital India", "Beti Bachao Beti Padhao"],
+    "correctAnswer": "Digital India"
   },
   {
     "id": 19,
-    "question": "What is the strategic objective behind Naxal groups targeting development infrastructure in tribal areas of AP/Telangana?",
-    "options": [
-      "To encourage private investment",
-      "To improve road safety",
-      "To hinder government's outreach and maintain control over local populations",
-      "To promote sustainable energy"
-    ],
-    "correctAnswer": "To hinder government's outreach and maintain control over local populations"
-  },
-  {
-    "id": 20,
-    "question": "Which government body coordinates efforts between central and state governments to address Left Wing Extremism in states like Andhra Pradesh and Telangana?",
-    "options": [
-      "Ministry of External Affairs",
-      "NITI Aayog",
-      "Ministry of Home Affairs",
-      "Ministry of Finance"
-    ],
+    "question": "The CRPF, a key force in anti-Naxal operations and general law enforcement, falls under the administrative control of which Union Ministry?",
+    "options": ["Ministry of Defence", "Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Finance"],
     "correctAnswer": "Ministry of Home Affairs"
   },
   {
+    "id": 20,
+    "question": "Given the shared rivers like Krishna and Godavari, which national body primarily mediates inter-state water disputes in India, often involving states like Telangana and Andhra Pradesh?",
+    "options": ["Supreme Court of India", "National Green Tribunal", "Inter-State Water Disputes Tribunal", "Ministry of Jal Shakti"],
+    "correctAnswer": "Inter-State Water Disputes Tribunal"
+  },
+  {
     "id": 21,
-    "question": "What term is broadly used to describe the extremist movement often linked with tribal areas in India, as discussed by PM Modi?",
-    "options": [
-      "Separatism",
-      "Communalism",
-      "Left Wing Extremism (LWE)",
-      "Ethno-nationalism"
-    ],
-    "correctAnswer": "Left Wing Extremism (LWE)"
+    "question": "Which of the following is a key economic indicator often used to measure the overall economic output and development of states like Telangana and Andhra Pradesh?",
+    "options": ["Gross State Domestic Product (GSDP)", "Literacy Rate", "Infant Mortality Rate", "Forest Cover Percentage"],
+    "correctAnswer": "Gross State Domestic Product (GSDP)"
   },
   {
     "id": 22,
-    "question": "Which act is crucial for protecting the land rights of tribals and their access to forest resources, a common demand in Naxal-affected areas including AP/Telangana?",
-    "options": [
-      "Right to Education Act",
-      "Forest Rights Act (FRA)",
-      "Companies Act",
-      "Motor Vehicles Act"
-    ],
-    "correctAnswer": "Forest Rights Act (FRA)"
+    "question": "The Election Commission has committed to include 'every eligible citizen' in the electoral rolls. What is the minimum age for an Indian citizen to be eligible to vote in elections in states like Telangana and Andhra Pradesh?",
+    "options": ["21 years", "25 years", "18 years", "16 years"],
+    "correctAnswer": "18 years"
   },
   {
     "id": 23,
-    "question": "What is a primary objective of integrated development plans in tribal areas prone to Naxal influence in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "To encourage large-scale mining operations",
-      "To promote urbanization and migration",
-      "To improve governance, basic services, and livelihoods",
-      "To establish military bases"
-    ],
-    "correctAnswer": "To improve governance, basic services, and livelihoods"
+    "question": "PM Modi mentioned a 'ray of hope' reaching Gadchiroli, often affected by Naxalism. Which significant government initiative aims to bring development and connectivity to Naxal-affected areas in India, including parts of Telangana?",
+    "options": ["Smart Cities Mission", "Bharatmala Pariyojana", "Pradhan Mantri Gram Sadak Yojana", "Aspirational Districts Program"],
+    "correctAnswer": "Aspirational Districts Program"
   },
   {
     "id": 24,
-    "question": "What challenge do Naxal activities pose to the development projects intended for tribal communities in states like Telangana and Andhra Pradesh?",
-    "options": [
-      "Naxal groups actively assist in project implementation",
-      "They cause delays, destruction, and diversion of resources",
-      "They promote sustainable resource management",
-      "They boost local employment through construction"
-    ],
-    "correctAnswer": "They cause delays, destruction, and diversion of resources"
+    "question": "The news highlights issues reported by loco pilots regarding train safety. Which Indian institution is primarily responsible for ensuring safety standards and conducting inquiries into railway accidents across the country, affecting train services in TS/AP?",
+    "options": ["Directorate General of Civil Aviation", "Railway Safety Commissioner", "Bureau of Indian Standards", "Archaeological Survey of India"],
+    "correctAnswer": "Railway Safety Commissioner"
   },
   {
     "id": 25,
-    "question": "PM Modi's critique implies that previous governments failed to ensure what for tribal populations, which then led to their vulnerability to Naxalism?",
-    "options": [
-      "Access to luxury goods",
-      "Effective governance and protection of their rights",
-      "Participation in international events",
-      "High-speed internet in every home"
-    ],
-    "correctAnswer": "Effective governance and protection of their rights"
+    "question": "While there's political discourse about 'defaming India at global platforms,' what is the fundamental form of government followed in India, including states like Telangana and Andhra Pradesh?",
+    "options": ["Presidential Republic", "Absolute Monarchy", "Parliamentary Democracy", "Military Junta"],
+    "correctAnswer": "Parliamentary Democracy"
   }
 ]

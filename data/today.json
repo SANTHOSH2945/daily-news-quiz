@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Sonia Gandhi's memoir highlights the Congress party's history. Which state, recently bifurcated from Andhra Pradesh, saw the Congress party come to power in its recent assembly elections?",
-    "options": ["Telangana", "Karnataka", "Rajasthan", "Chhattisgarh"],
-    "correctAnswer": "Telangana"
+    "question": "What was the recent stance of the Supreme Court regarding the individual right to claim reservation for seats in Zilla Parishads and Panchayat Samitis, a ruling relevant to local governance in states like Andhra Pradesh and Telangana?",
+    "options": ["It affirmed an individual's right to reservation.", "It stated that neither a voter nor a candidate has an inherent right to reservation.", "It suggested reservations should be increased for all categories.", "It mandated reservations for specific communities in all local bodies."],
+    "correctAnswer": "It stated that neither a voter nor a candidate has an inherent right to reservation."
   },
   {
     "id": 2,
-    "question": "Rahul Gandhi, who spoke at Sonia Gandhi's memoir launch, recently undertook a 'Bharat Jodo Yatra'. Through which major city of Telangana did this yatra pass?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which judicial body recently ruled that the reservation of seats in local self-governing bodies like Zilla Parishads and Panchayat Samitis is not an individual right, impacting electoral processes in all states including Telangana?",
+    "options": ["High Courts of respective states", "Election Commission of India", "Supreme Court of India", "Parliamentary Committee"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 3,
-    "question": "The 2004 Congress victory, mentioned in Sonia Gandhi's memoir, brought a prominent leader from unified Andhra Pradesh to power as Chief Minister. Who was this leader?",
-    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Y.S. Rajasekhara Reddy", "Jagan Mohan Reddy"],
-    "correctAnswer": "Y.S. Rajasekhara Reddy"
+    "question": "The Supreme Court refused to entertain a petition challenging the government's amendment to which Act, regarding seat reservation in Zilla Parishads and Panchayat Samitis, an issue pertinent to local administration in Andhra Pradesh?",
+    "options": ["Panchayati Raj Act, 1992", "Zilla Parishads and Panchayat Samitis Act, 1961", "Municipalities Act, 1956", "Representation of the People Act, 1951"],
+    "correctAnswer": "Zilla Parishads and Panchayat Samitis Act, 1961"
   },
   {
     "id": 4,
-    "question": "Sonia Gandhi expressed feelings of acceptance in India. Which political party, central to her memoir, was the ruling party at the center when Telangana was formally carved out as a state?",
-    "options": ["BJP", "Congress", "TDP", "BRS"],
-    "correctAnswer": "Congress"
+    "question": "The Supreme Court's ruling on the non-existence of an individual right to reserved seats in local bodies (Zilla Parishads and Panchayat Samitis) primarily clarifies the scope of which aspect of electoral law in states like Telangana?",
+    "options": ["Candidate eligibility criteria", "Voter registration processes", "Nature of reservations as policy, not an individual claim", "Campaign finance regulations"],
+    "correctAnswer": "Nature of reservations as policy, not an individual claim"
   },
   {
     "id": 5,
-    "question": "Rahul Gandhi mentioned his father, Rajiv Gandhi, at the memoir launch. Rajiv Gandhi served as Prime Minister. Which major dam project in Andhra Pradesh was inaugurated during his tenure, playing a crucial role in regional irrigation?",
-    "options": ["Polavaram Project", "Nagarjuna Sagar Dam", "Srisailam Dam", "Dowleswaram Barrage"],
-    "correctAnswer": "Srisailam Dam"
+    "question": "What was the primary reason cited by the Supreme Court for refusing to entertain a petition challenging the Zilla Parishads and Panchayat Samitis Act amendment regarding reservations, a decision impacting local governance in Andhra Pradesh?",
+    "options": ["Lack of jurisdiction", "The petition was filed too late", "Voter or candidate has no right to get a seat reserved", "The amendment was already challenged successfully"],
+    "correctAnswer": "Voter or candidate has no right to get a seat reserved"
   },
   {
     "id": 6,
-    "question": "The memoir discusses the Congress's legacy. Historically, which city served as the joint capital for both Telangana and Andhra Pradesh for a decade after the bifurcation?",
-    "options": ["Vijayawada", "Visakhapatnam", "Hyderabad", "Warangal"],
-    "correctAnswer": "Hyderabad"
+    "question": "The second phase of the nationwide Census has commenced, collecting data across approximately how many fields, including caste, a process critical for planning in states like Telangana and Andhra Pradesh?",
+    "options": ["10 fields", "25 fields", "40 fields", "60 fields"],
+    "correctAnswer": "40 fields"
   },
   {
     "id": 7,
-    "question": "The Congress party, prominently featured in Sonia Gandhi's memoir, recently secured a significant victory in the assembly elections of which Southern Indian state?",
-    "options": ["Karnataka", "Tamil Nadu", "Telangana", "Kerala"],
-    "correctAnswer": "Telangana"
+    "question": "What significant demographic data point, among others, is being collected during Phase-II of the Census, which is crucial for socio-economic planning in Indian states, including Andhra Pradesh?",
+    "options": ["Religious affiliations only", "Income levels only", "Caste", "Number of vehicles owned"],
+    "correctAnswer": "Caste"
   },
   {
     "id": 8,
-    "question": "Sonia Gandhi's memoir highlights key political moments. Post-bifurcation, which leader became the first Chief Minister of the residual Andhra Pradesh state?",
-    "options": ["N. Chandrababu Naidu", "Y.S. Jagan Mohan Reddy", "K. Chandrashekar Rao", "Kiran Kumar Reddy"],
-    "correctAnswer": "N. Chandrababu Naidu"
+    "question": "The ongoing national Census exercise, impacting data collection across all states including Telangana, will see its house-to-house enumeration phase begin in which month?",
+    "options": ["October", "November", "December", "January"],
+    "correctAnswer": "December"
   },
   {
     "id": 9,
-    "question": "Sonia Gandhi's memoir reflects on her family's political legacy. Which former President of India, who hailed from Andhra Pradesh, had a close association with the Nehru-Gandhi family?",
-    "options": ["Sarvepalli Radhakrishnan", "V.V. Giri", "Neelam Sanjiva Reddy", "Giani Zail Singh"],
-    "correctAnswer": "Neelam Sanjiva Reddy"
+    "question": "What is the general interval at which the comprehensive Census operation is typically conducted in India, an exercise vital for resource allocation in states like Andhra Pradesh?",
+    "options": ["Every 5 years", "Every 10 years", "Every 15 years", "Every 20 years"],
+    "correctAnswer": "Every 10 years"
   },
   {
     "id": 10,
-    "question": "Rahul Gandhi's participation underscores the family's continuing role in the Congress. Which major national highway, connecting Hyderabad to Bengaluru, is crucial for trade and connectivity between Telangana and Karnataka?",
-    "options": ["NH 44", "NH 65", "NH 16", "NH 7"],
-    "correctAnswer": "NH 44"
+    "question": "While Phase-II of the Census has started in some poll-bound states, it was postponed in which specific state, a decision that affects the national data collection schedule and is distinct from the ongoing process in Telangana and Andhra Pradesh?",
+    "options": ["Uttar Pradesh", "Manipur", "Gujarat", "West Bengal"],
+    "correctAnswer": "Manipur"
   },
   {
     "id": 11,
-    "question": "While Congress forms screening committees for other states, it recently emerged victorious in Telangana. What is the name of the current Chief Minister of Telangana, belonging to the Congress party?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "Etela Rajender"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "The data collected in Phase-II of the Census, including information on various fields, is crucial for policy formulation related to which of the following in states like Telangana?",
+    "options": ["Foreign trade policies", "Defense strategies", "Social welfare schemes and resource allocation", "Space exploration programs"],
+    "correctAnswer": "Social welfare schemes and resource allocation"
   },
   {
     "id": 12,
-    "question": "The formation of screening committees indicates strategic planning. Which river dispute remains a key inter-state issue between Telangana and Andhra Pradesh?",
-    "options": ["Godavari", "Krishna", "Penna", "Tungabhadra"],
-    "correctAnswer": "Krishna"
+    "question": "What does the term 'house-to-house enumeration' refer to in the context of the ongoing Census operation in India, a method used across all states including Andhra Pradesh?",
+    "options": ["Digital survey only", "Collection of data from individual households by enumerators", "Data collected via postal mail", "Online self-registration only"],
+    "correctAnswer": "Collection of data from individual households by enumerators"
   },
   {
     "id": 13,
-    "question": "Congress, in its national capacity, is gearing up for elections. Which renowned spiritual pilgrimage site, shared by Andhra Pradesh and Telangana, attracts millions of devotees annually?",
-    "options": ["Tirupati", "Srisailam", "Bhadrachalam", "Yadagirigutta"],
-    "correctAnswer": "Srisailam"
+    "question": "The Ministry of Culture is planning to establish a national visual library to catalogue and track which specific type of items, an initiative that would benefit the protection of heritage in Telangana?",
+    "options": ["Modern art pieces", "Stolen artefacts", "Historical documents", "Architectural blueprints"],
+    "correctAnswer": "Stolen artefacts"
   },
   {
     "id": 14,
-    "question": "The Congress party, forming screening committees for upcoming elections, has historically championed welfare schemes. Which flagship health scheme, benefitting many in Telangana and Andhra Pradesh, was launched by the Congress government in erstwhile Andhra Pradesh?",
-    "options": ["Aarogyasri", "Kanti Velugu", "Amma Vodi", "Mission Bhagiratha"],
-    "correctAnswer": "Aarogyasri"
+    "question": "What advanced technology does the Indian government plan to deploy for the verification and identification of stolen artefacts in the proposed visual library, benefiting heritage institutions across states like Andhra Pradesh?",
+    "options": ["Biometric scanning", "Augmented Reality", "Artificial Intelligence (AI)", "Blockchain technology"],
+    "correctAnswer": "Artificial Intelligence (AI)"
   },
   {
     "id": 15,
-    "question": "Congress's national strategy includes focusing on poll-bound states. Which major port in Andhra Pradesh is a key economic gateway for goods moving to and from Telangana?",
-    "options": ["Kakinada Port", "Krishnapatnam Port", "Visakhapatnam Port", "Gangavaram Port"],
-    "correctAnswer": "Visakhapatnam Port"
+    "question": "What is the specific name of the mission planned by the Ministry of Culture to trace the ownership and collection history of antiquities back to their place of origin, a measure critical for states like Telangana rich in ancient history?",
+    "options": ["Heritage Preservation Drive", "Provenance Mission for Antiquities", "Cultural Exchange Program", "Archaeological Survey Initiative"],
+    "correctAnswer": "Provenance Mission for Antiquities"
   },
   {
     "id": 16,
-    "question": "The Census 2027 process has begun in some states, with self-enumeration. When was the last full Census conducted across all states of India, including Telangana and Andhra Pradesh?",
-    "options": ["2001", "2011", "2018", "2020"],
-    "correctAnswer": "2011"
+    "question": "Which central government ministry is leading the initiative to create a visual library of stolen artefacts and deploy AI for their verification, an effort relevant to the cultural wealth of Andhra Pradesh?",
+    "options": ["Ministry of Home Affairs", "Ministry of External Affairs", "Ministry of Culture", "Ministry of Science and Technology"],
+    "correctAnswer": "Ministry of Culture"
   },
   {
     "id": 17,
-    "question": "The Census 2027 aims to gather various data, including caste details. Which specific tribal group is predominantly found in the forest regions of both Andhra Pradesh and Telangana?",
-    "options": ["Gond", "Koya", "Bhil", "Santhal"],
-    "correctAnswer": "Koya"
+    "question": "How would the establishment of a national visual library of stolen artefacts directly assist states like Andhra Pradesh in preserving their cultural heritage?",
+    "options": ["By funding new museum constructions", "By providing a database to identify and repatriate stolen cultural property", "By promoting modern art forms", "By digitizing all historical texts"],
+    "correctAnswer": "By providing a database to identify and repatriate stolen cultural property"
   },
   {
     "id": 18,
-    "question": "The census data is crucial for planning. Which city, known as the 'City of Pearls', serves as the capital of Telangana and is a major metropolitan area to be covered by the census?",
-    "options": ["Vijayawada", "Hyderabad", "Warangal", "Visakhapatnam"],
-    "correctAnswer": "Hyderabad"
+    "question": "The 'provenance mission for antiquities' aims to achieve what specific outcome for India's historical items, including those potentially from Telangana?",
+    "options": ["To determine their market value", "To trace their ownership and collection history back to origin", "To create replicas for tourism", "To organize international auctions"],
+    "correctAnswer": "To trace their ownership and collection history back to origin"
   },
   {
     "id": 19,
-    "question": "Census 2027 involves house-to-house enumeration. What was the approximate literacy rate in Andhra Pradesh, according to the last full census (2011)?",
-    "options": ["67.4%", "72.8%", "80.1%", "59.5%"],
-    "correctAnswer": "67.4%"
+    "question": "According to the Prime Minister, which international grouping's ties are crucial for India's 'Act East Policy', a policy that seeks to enhance India's economic and strategic relations with Southeast Asian countries, relevant to maritime states like Andhra Pradesh?",
+    "options": ["BRICS", "ASEAN", "SAARC", "G20"],
+    "correctAnswer": "ASEAN"
   },
   {
     "id": 20,
-    "question": "The Census 2027 is a nationwide effort. Which bird, native to India and found in both Telangana and Andhra Pradesh, is the state bird of Telangana?",
-    "options": ["Indian Roller", "Great Indian Bustard", "Paradise Flycatcher", "Peacock"],
-    "correctAnswer": "Indian Roller"
+    "question": "What is the primary focus of India's 'Act East Policy', for which strong ties with ASEAN are considered crucial, impacting India's overall strategic position including its peninsular states like Andhra Pradesh?",
+    "options": ["Boosting ties with African nations", "Strengthening relations with European Union", "Expanding engagement with Southeast Asian and East Asian countries", "Focusing solely on South Asian neighbors"],
+    "correctAnswer": "Expanding engagement with Southeast Asian and East Asian countries"
   },
   {
     "id": 21,
-    "question": "IISc researchers in Bengaluru found a new antibiotic combination. Bengaluru is the capital of which state that shares its border with both Telangana and Andhra Pradesh?",
-    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Maharashtra"],
-    "correctAnswer": "Karnataka"
+    "question": "The mention of the Quad leaders' summit in the context of India's foreign policy underscores its focus on which region, strategically important for India's maritime security and trade routes that involve states like Andhra Pradesh?",
+    "options": ["Atlantic Ocean", "Indo-Pacific", "Arctic Region", "Mediterranean Sea"],
+    "correctAnswer": "Indo-Pacific"
   },
   {
     "id": 22,
-    "question": "The research on TB drug resistance has national health implications. Which major government hospital in Hyderabad is renowned for its research and treatment facilities for infectious diseases like TB?",
-    "options": ["Osmania General Hospital", "Gandhi Hospital", "NIMS", "Apollo Hospitals"],
-    "correctAnswer": "Gandhi Hospital"
+    "question": "How might strengthened economic ties with ASEAN, a goal of India's Act East Policy, specifically benefit states like Andhra Pradesh and Telangana?",
+    "options": ["Increase in cultural exchanges only", "Limited impact, as they are not coastal states", "Potential for increased trade, investment, and port activity", "Primarily impacts northern border states"],
+    "correctAnswer": "Potential for increased trade, investment, and port activity"
   },
   {
     "id": 23,
-    "question": "Scientific advancements from institutions like IISc impact public health across India. Which scheme in Telangana aims to provide free eye screening and corrective surgeries to its citizens, addressing a different health concern?",
-    "options": ["Kanti Velugu", "Aarogyasri", "Basti Dawakhana", "Mission Indradhanush"],
-    "correctAnswer": "Kanti Velugu"
+    "question": "The Prime Minister's emphasis on ties with ASEAN for the Act East Policy highlights India's commitment to multilateralism and regional cooperation. What economic aspect is particularly relevant for Indian states, including Telangana, in this policy?",
+    "options": ["Agricultural subsidies", "Digital infrastructure development for border areas", "Market access and supply chain integration", "Space technology advancements"],
+    "correctAnswer": "Market access and supply chain integration"
   },
   {
     "id": 24,
-    "question": "IISc is a premier research institute. Which city in Andhra Pradesh is home to the Indian Institute of Management (IIM), another prominent educational institution?",
-    "options": ["Vijayawada", "Tirupati", "Visakhapatnam", "Guntur"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "The recent political events surrounding a memoir launch, while specific to Delhi, underscore the role of national political parties in shaping discourse across India. Which major political party, with significant presence in Andhra Pradesh and Telangana, was central to the recent news about a memoir launch?",
+    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress", "All India Trinamool Congress (AITC)", "Aam Aadmi Party (AAP)"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 25,
-    "question": "The research addresses a critical health issue. Which organization, headquartered in Hyderabad, is a major pharmaceutical company known for producing affordable medicines, including those for infectious diseases?",
-    "options": ["Cipla", "Sun Pharma", "Dr. Reddy's Laboratories", "Lupin"],
-    "correctAnswer": "Dr. Reddy's Laboratories"
+    "question": "Considering the national push for using AI in areas like artefact verification and protecting tech supply chains, how could states like Telangana, known for its IT sector, contribute or benefit from these national initiatives?",
+    "options": ["By focusing solely on agricultural AI", "By developing localized AI solutions and contributing to national tech workforce", "By restricting AI development to central government agencies", "By importing all AI technology from abroad"],
+    "correctAnswer": "By developing localized AI solutions and contributing to national tech workforce"
   }
 ]

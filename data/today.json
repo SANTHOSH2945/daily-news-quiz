@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What percentage quota for women in the legal profession was recently recommended by an SC judge?",
-    "options": ["25%", "33%", "40%", "50%"],
-    "correctAnswer": "33%"
+    "question": "Who is the Indian cricketer from Hyderabad whose recent exclusion from a national team match sparked a political debate?",
+    "options": ["Jasprit Bumrah", "Mohammed Siraj", "Ravindra Jadeja", "Virat Kohli"],
+    "correctAnswer": "Mohammed Siraj"
   },
   {
     "id": 2,
-    "question": "The recommendation for a 33% quota for women in the legal profession was made by which judicial body?",
-    "options": ["High Court", "District Court", "Supreme Court", "Legal Services Authority"],
-    "correctAnswer": "Supreme Court"
+    "question": "Which Indian state's capital city is the hometown of pace bowler Mohammed Siraj, who was recently in news due to a political controversy?",
+    "options": ["Telangana", "Karnataka", "Maharashtra", "Uttar Pradesh"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 3,
-    "question": "If implemented, the recommended 33% quota for women in the legal profession would primarily aim to address what?",
-    "options": ["Judicial vacancies", "Gender representation", "Legal education standards", "Court backlog"],
-    "correctAnswer": "Gender representation"
+    "question": "The political debate surrounding cricketer Mohammed Siraj's exclusion from India's playing XI occurred in the context of a match against which country?",
+    "options": ["Australia", "England", "New Zealand", "South Africa"],
+    "correctAnswer": "New Zealand"
   },
   {
     "id": 4,
-    "question": "Which agency was criticized by a court for not following norms in the Associated Journals Ltd. (AJL) case?",
-    "options": ["Central Bureau of Investigation (CBI)", "Enforcement Directorate (ED)", "National Investigation Agency (NIA)", "Income Tax Department"],
-    "correctAnswer": "Enforcement Directorate (ED)"
-  },
-  {
-    "id": 5,
-    "question": "The Supreme Court upheld interim bail for Azam Khan, rejecting a plea from which agency?",
-    "options": ["CBI", "ED", "NIA", "Delhi Police"],
-    "correctAnswer": "ED"
-  },
-  {
-    "id": 6,
-    "question": "What is a primary function of the Enforcement Directorate (ED) in India, as frequently highlighted in recent news?",
-    "options": ["Maintaining law and order", "Investigating financial crimes", "Border security", "Managing public sector banks"],
-    "correctAnswer": "Investigating financial crimes"
-  },
-  {
-    "id": 7,
-    "question": "Which court in India recently ruled on an international child custody case, allowing a German mother to take her child to Singapore?",
-    "options": ["Delhi High Court", "Mumbai High Court", "Supreme Court of India", "International Court of Justice"],
-    "correctAnswer": "Supreme Court of India"
-  },
-  {
-    "id": 8,
-    "question": "In the recent international child custody case, what key right did the Supreme Court ensure for the father?",
-    "options": ["Sole custody", "Financial support", "Visitation rights", "Educational decisions"],
-    "correctAnswer": "Visitation rights"
-  },
-  {
-    "id": 9,
-    "question": "Which institution recently stated its willingness to consider extending the voter registration deadline for Delhi if needed?",
-    "options": ["Election Commission of India", "Parliament", "Supreme Court", "Ministry of Law and Justice"],
-    "correctAnswer": "Supreme Court"
-  },
-  {
-    "id": 10,
-    "question": "The Supreme Court was willing to consider extending a deadline related to what specific process?",
-    "options": ["Tax filing", "Aadhaar linking", "Voter registration", "Passport renewal"],
-    "correctAnswer": "Voter registration"
-  },
-  {
-    "id": 11,
-    "question": "Prime Minister Modi recently questioned the industry regarding the impact of tax cuts on what two key areas?",
-    "options": ["Exports and imports", "Government revenue and expenditure", "Hires and salary hikes", "Production and consumption"],
-    "correctAnswer": "Hires and salary hikes"
-  },
-  {
-    "id": 12,
-    "question": "Despite tax reductions, what did PM Modi express concern about not seeing enough of from the industry?",
-    "options": ["Foreign investments", "Technological innovation", "Job creation and wage growth", "Corporate social responsibility"],
-    "correctAnswer": "Job creation and wage growth"
-  },
-  {
-    "id": 13,
-    "question": "BJP recently cited remarks from M. Veerappa Moily to claim which political party tried to 'frame' PM Modi?",
-    "options": ["Bahujan Samaj Party (BSP)", "Samajwadi Party (SP)", "Congress", "Aam Aadmi Party (AAP)"],
+    "question": "Which political party's MP, Imran Masood, alleged religious discrimination regarding Mohammed Siraj's exclusion from the team?",
+    "options": ["Bharatiya Janata Party (BJP)", "Congress", "Bahujan Samaj Party (BSP)", "Samajwadi Party (SP)"],
     "correctAnswer": "Congress"
   },
   {
+    "id": 5,
+    "question": "What was the primary allegation made by a Congress MP regarding Mohammed Siraj's exclusion from the Indian cricket team?",
+    "options": ["Poor performance", "Religious discrimination", "Injury concerns", "Team management dispute"],
+    "correctAnswer": "Religious discrimination"
+  },
+  {
+    "id": 6,
+    "question": "Which major political party countered Congress's allegations regarding Mohammed Siraj, accusing them of communalizing cricket?",
+    "options": ["Aam Aadmi Party (AAP)", "Communist Party of India (CPI)", "Bharatiya Janata Party (BJP)", "All India Trinamool Congress (TMC)"],
+    "correctAnswer": "Bharatiya Janata Party (BJP)"
+  },
+  {
+    "id": 7,
+    "question": "Mohammed Siraj, the cricketer involved in a recent political controversy, primarily plays what role in the Indian cricket team?",
+    "options": ["Opening Batsman", "Wicketkeeper", "All-rounder", "Pacer (Fast Bowler)"],
+    "correctAnswer": "Pacer (Fast Bowler)"
+  },
+  {
+    "id": 8,
+    "question": "The city of Hyderabad, known for producing cricketers like Mohammed Siraj, is a major urban center in which Southern Indian state?",
+    "options": ["Andhra Pradesh", "Kerala", "Telangana", "Tamil Nadu"],
+    "correctAnswer": "Telangana"
+  },
+  {
+    "id": 9,
+    "question": "What is the name of the Congress MP mentioned in the news who raised concerns about Mohammed Siraj's exclusion?",
+    "options": ["Rahul Gandhi", "Imran Masood", "Adhir Ranjan Chowdhury", "Shashi Tharoor"],
+    "correctAnswer": "Imran Masood"
+  },
+  {
+    "id": 10,
+    "question": "The political argument over Mohammed Siraj's exclusion was characterized by the BJP as an example of which type of politics?",
+    "options": ["Development politics", "Identity politics", "Vote-bank politics", "Economic politics"],
+    "correctAnswer": "Vote-bank politics"
+  },
+  {
+    "id": 11,
+    "question": "Which prominent Indian city, a hub for pharmaceutical manufacturing, is expected to be significantly impacted by the Centre's proposed tighter controls on antibiotic manufacturing and bulk drug trade?",
+    "options": ["Mumbai", "Bengaluru", "Hyderabad", "Chennai"],
+    "correctAnswer": "Hyderabad"
+  },
+  {
+    "id": 12,
+    "question": "The Centre's new stringent regulations on antibiotic manufacturing are primarily aimed at counteracting which growing global health threat?",
+    "options": ["Viral outbreaks", "Cardiovascular diseases", "Antimicrobial Resistance (AMR)", "Genetic disorders"],
+    "correctAnswer": "Antimicrobial Resistance (AMR)"
+  },
+  {
+    "id": 13,
+    "question": "Under the proposed amendments, manufacturers seeking antimicrobial licenses will now need to secure approval from which level of authority?",
+    "options": ["State government", "District administration", "Central government", "Local municipal corporation"],
+    "correctAnswer": "Central government"
+  },
+  {
     "id": 14,
-    "question": "M. Veerappa Moily clarified that which former Prime Minister was NOT involved in attempts to disrupt an investigation concerning PM Modi?",
-    "options": ["Atal Bihari Vajpayee", "Indira Gandhi", "Manmohan Singh", "Rajiv Gandhi"],
-    "correctAnswer": "Manmohan Singh"
+    "question": "Besides manufacturing, the Centre's proposed regulations also aim to tighten controls on which aspect of the drug industry, directly affecting bulk drug trade in regions like Telangana?",
+    "options": ["Retail sales of over-the-counter drugs", "Export of traditional medicines", "Import of medical equipment", "Wholesaling of bulk drugs"],
+    "correctAnswer": "Wholesaling of bulk drugs"
   },
   {
     "id": 15,
-    "question": "What popular video game launch was recently mentioned by PM Modi in a political context to criticize the Congress?",
-    "options": ["Call of Duty", "Grand Theft Auto VI", "Fortnite", "Cyberpunk 2077"],
-    "correctAnswer": "Grand Theft Auto VI"
+    "question": "The Centre is proposing to integrate 'Good Storage and Distribution Practices' into which existing regulatory framework to enhance medicine quality checks?",
+    "options": ["Food Safety and Standards Act", "Indian Penal Code", "Drugs Rules (under Drugs and Cosmetics Act)", "Environmental Protection Act"],
+    "correctAnswer": "Drugs Rules (under Drugs and Cosmetics Act)"
   },
   {
     "id": 16,
-    "question": "Union Home Minister Amit Shah recently described the 'Lateef case' as a milestone in fighting what issue?",
-    "options": ["Economic slowdown", "Climate change", "Militancy", "Cybercrime"],
-    "correctAnswer": "Militancy"
+    "question": "What specific type of drugs are the primary focus of the Centre's new, more stringent manufacturing and distribution regulations?",
+    "options": ["Painkillers", "Vitamins", "Antibiotics", "Antacids"],
+    "correctAnswer": "Antibiotics"
   },
   {
     "id": 17,
-    "question": "What kind of approach did Union Home Minister Amit Shah advocate for against terror?",
-    "options": ["Defensive and cautious", "Reactive and responsive", "Proactive and offensive", "Diplomatic and peaceful"],
-    "correctAnswer": "Proactive and offensive"
+    "question": "The initiative to enhance quality checks for medicines aims to address risks associated with the supply chain, including contamination and what other major concern?",
+    "options": ["High pricing", "Lack of awareness", "Unauthorized distribution", "Shortage of supply"],
+    "correctAnswer": "Unauthorized distribution"
   },
   {
     "id": 18,
-    "question": "India recently collaborated with which country in Tokyo to jointly advocate for a multipolar world?",
-    "options": ["China", "Russia", "United States", "Japan"],
-    "correctAnswer": "Japan"
+    "question": "What is the common term for the large industrial clusters in Telangana, like Genome Valley and Hyderabad Pharma City, which are key to India's pharmaceutical production?",
+    "options": ["Textile parks", "IT corridors", "Pharma hubs", "Food processing zones"],
+    "correctAnswer": "Pharma hubs"
   },
   {
     "id": 19,
-    "question": "What geopolitical concept did India and Japan jointly press for during their recent discussions in Tokyo?",
-    "options": ["Bilateral trade agreements", "Regional security pacts", "Multipolar world", "Climate change initiatives"],
-    "correctAnswer": "Multipolar world"
+    "question": "What opportunity are stakeholders, including those from Telangana and Andhra Pradesh's pharmaceutical sector, being given regarding the proposed new drug regulations?",
+    "options": ["Opportunity to appeal to the Supreme Court", "Opportunity to secure subsidies", "Opportunity to provide public comments/suggestions", "Opportunity to form new trade unions"],
+    "correctAnswer": "Opportunity to provide public comments/suggestions"
   },
   {
     "id": 20,
-    "question": "Beyond direct representation, the recommendation for a 33% quota for women in the legal profession aims to achieve what broader societal goal?",
-    "options": ["Increase judicial salaries", "Expedite court proceedings", "Enhance gender equality and inclusivity", "Reduce legal fees"],
-    "correctAnswer": "Enhance gender equality and inclusivity"
+    "question": "The tighter checks on medicines proposed by the Centre are intended to cover what entire spectrum of the product's journey?",
+    "options": ["Only manufacturing stage", "Only retail stage", "From factory to pharmacy", "Only import and export"],
+    "correctAnswer": "From factory to pharmacy"
   },
   {
     "id": 21,
-    "question": "The court's observation that the ED 'didn't follow norms' in the AJL case underscores the importance of what in investigations?",
-    "options": ["Speed of inquiry", "Adherence to due process", "Public opinion", "Political neutrality"],
-    "correctAnswer": "Adherence to due process"
+    "question": "Which Indian state is home to a significant portion of India's bulk drug and pharmaceutical manufacturing capacity, making it highly relevant to the Centre's new drug regulations?",
+    "options": ["Gujarat", "Maharashtra", "Telangana", "West Bengal"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 22,
-    "question": "Which highest court played a crucial role in upholding Azam Khan's interim bail, thus granting relief against the Enforcement Directorate's plea?",
-    "options": ["Delhi High Court", "Allahabad High Court", "Supreme Court of India", "National Green Tribunal"],
-    "correctAnswer": "Supreme Court of India"
+    "question": "What is one of the key requirements for wholesalers under the new Centre proposal concerning bulk drugs?",
+    "options": ["Obtaining an import-export license", "Securing distinct licenses for bulk drugs", "Registering with the local police", "Implementing online sales platforms"],
+    "correctAnswer": "Securing distinct licenses for bulk drugs"
   },
   {
     "id": 23,
-    "question": "M. Veerappa Moily's recent remarks, which led to BJP's criticism of Congress, pertained to what specific action by some Congress members?",
-    "options": ["Passing new legislation", "Criticizing government policies", "Disrupting an investigation", "Campaigning for elections"],
-    "correctAnswer": "Disrupting an investigation"
+    "question": "The Centre's move to tighten controls on antibiotic manufacturing aims to improve which aspect of drug safety and efficacy?",
+    "options": ["Reducing packaging costs", "Ensuring timely delivery", "Enhancing quality assessments", "Promoting generic drug use"],
+    "correctAnswer": "Enhancing quality assessments"
   },
   {
     "id": 24,
-    "question": "M. Veerappa Moily linked whose past legal issues with political motivations, according to the news?",
-    "options": ["Rahul Gandhi", "Amit Shah", "P Chidambaram", "Sonia Gandhi"],
-    "correctAnswer": "Amit Shah"
+    "question": "What is the primary purpose of inviting public comments on the draft amendments for drug regulations?",
+    "options": ["To delay implementation", "To gather diverse perspectives and feedback", "To identify potential beneficiaries", "To inform international bodies"],
+    "correctAnswer": "To gather diverse perspectives and feedback"
   },
   {
     "id": 25,
-    "question": "What kind of approach did Home Minister Amit Shah emphasize as necessary for India's fight against terror, beyond specific case milestones?",
-    "options": ["Defensive and localized", "Reactive and strategic", "Proactive and offensive", "Diplomatic and international"],
-    "correctAnswer": "Proactive and offensive"
+    "question": "The proposed regulations for stricter monitoring and quality checks in the pharmaceutical sector are a Central government initiative impacting the manufacturing bases located in various states, including which two Southern Indian states prominently?",
+    "options": ["Karnataka and Kerala", "Tamil Nadu and Odisha", "Telangana and Andhra Pradesh", "Goa and Puducherry"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   }
 ]

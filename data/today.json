@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "According to the news, who is credited with making the 'Hyderabadi biryani' jibe that Owaisi responded to?",
-    "options": ["Akhilesh Yadav", "Rahul Gandhi", "Azam Khan", "Mamata Banerjee"],
-    "correctAnswer": "Azam Khan"
+    "question": "What primary concern did ICMR recently highlight regarding common antibiotics in India?",
+    "options": ["Increased efficacy", "Losing potency due to drug resistance", "Reduced availability", "Higher cost"],
+    "correctAnswer": "Losing potency due to drug resistance"
   },
   {
     "id": 2,
-    "question": "Which prominent political leader from Hyderabad was in the news for responding to a 'Hyderabadi biryani' jibe?",
-    "options": ["K. Chandrashekar Rao", "Asaduddin Owaisi", "Revanth Reddy", "N. Chandrababu Naidu"],
-    "correctAnswer": "Asaduddin Owaisi"
+    "question": "Which national medical research body in India issued a warning about rising antibiotic resistance?",
+    "options": ["AIIMS", "NITI Aayog", "ICMR", "DRDO"],
+    "correctAnswer": "ICMR"
   },
   {
     "id": 3,
-    "question": "What specific culinary dish was the subject of a political jibe involving Owaisi, as per the provided news?",
-    "options": ["Delhi Butter Chicken", "Lucknowi Biryani", "Hyderabadi Biryani", "Bengali Rosogolla"],
-    "correctAnswer": "Hyderabadi Biryani"
+    "question": "The phenomenon where bacteria no longer respond to drugs designed to kill them is known as:",
+    "options": ["Drug addiction", "Genetic mutation", "Antibiotic resistance", "Viral immunity"],
+    "correctAnswer": "Antibiotic resistance"
   },
   {
     "id": 4,
-    "question": "Hyderabadi Biryani, central to the recent political discussion, is famously associated with which Indian city?",
-    "options": ["Lucknow", "Delhi", "Kolkata", "Hyderabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "Rising antibiotic resistance poses a significant threat to public health in all Indian states, including Telangana and Andhra Pradesh, primarily by:",
+    "options": ["Increasing food prices", "Making common infections harder to treat", "Improving sanitation", "Reducing chronic diseases"],
+    "correctAnswer": "Making common infections harder to treat"
   },
   {
     "id": 5,
-    "question": "Asaduddin Owaisi, mentioned in the news, is the president of which political party primarily based in Hyderabad?",
-    "options": ["Bharatiya Janata Party (BJP)", "Indian National Congress (INC)", "All India Majlis-e-Ittehadul Muslimeen (AIMIM)", "Telangana Rashtra Samithi (TRS)"],
-    "correctAnswer": "All India Majlis-e-Ittehadul Muslimeen (AIMIM)"
+    "question": "What is one key factor contributing to antibiotic resistance, as often highlighted by health experts for the general public in India?",
+    "options": ["Over-prescription and misuse of antibiotics", "Lack of access to clean water", "Vaccine hesitancy", "Excessive physical activity"],
+    "correctAnswer": "Over-prescription and misuse of antibiotics"
   },
   {
     "id": 6,
-    "question": "Which Lok Sabha constituency does Asaduddin Owaisi, a key figure from Hyderabad, currently represent?",
-    "options": ["Secunderabad", "Chevella", "Hyderabad", "Warangal"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which Union Minister of Home Affairs lauded the joint India-US effort in busting a transnational narcotics network?",
+    "options": ["Rajnath Singh", "Nitin Gadkari", "Amit Shah", "S. Jaishankar"],
+    "correctAnswer": "Amit Shah"
   },
   {
     "id": 7,
-    "question": "Hyderabad, the city central to Owaisi's politics and Hyderabadi Biryani, is the capital of which Indian state?",
-    "options": ["Andhra Pradesh", "Karnataka", "Maharashtra", "Telangana"],
-    "correctAnswer": "Telangana"
+    "question": "The recent joint India-US operation successfully busted a network involved in which illegal activity?",
+    "options": ["Arms trafficking", "Human trafficking", "Cyber espionage", "Transnational narcotics"],
+    "correctAnswer": "Transnational narcotics"
   },
   {
     "id": 8,
-    "question": "Who is the current Chief Minister of Telangana, the state where Hyderabad is located?",
-    "options": ["K. Chandrashekar Rao", "N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "Revanth Reddy"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "For states like Andhra Pradesh and Telangana, which are sometimes routes for illicit trade, effective international cooperation in combating narcotics is crucial for:",
+    "options": ["Boosting agricultural exports", "Ensuring border security and public safety", "Promoting tourism", "Developing urban infrastructure"],
+    "correctAnswer": "Ensuring border security and public safety"
   },
   {
     "id": 9,
-    "question": "Which iconic historical monument is widely recognized as the symbol of Hyderabad?",
-    "options": ["India Gate", "Gateway of India", "Charminar", "Hawa Mahal"],
-    "correctAnswer": "Charminar"
+    "question": "Which central agency in India is primarily responsible for combating drug trafficking and abuse?",
+    "options": ["CBI", "NIA", "NCB (Narcotics Control Bureau)", "ED"],
+    "correctAnswer": "NCB (Narcotics Control Bureau)"
   },
   {
     "id": 10,
-    "question": "What is the official language of Telangana, a state with strong cultural ties to Hyderabad?",
-    "options": ["Kannada", "Tamil", "Telugu", "Marathi"],
-    "correctAnswer": "Telugu"
+    "question": "Combating transnational narcotics networks often presents a challenge for state police forces, including those in Telangana and AP, due to:",
+    "options": ["Lack of local language skills", "Limited jurisdiction and cross-border nature of operations", "Abundance of natural resources", "High literacy rates"],
+    "correctAnswer": "Limited jurisdiction and cross-border nature of operations"
   },
   {
     "id": 11,
-    "question": "Which historical dynasty is most associated with the development and popularization of Hyderabadi cuisine, including Biryani?",
-    "options": ["Mughal Dynasty", "Chola Dynasty", "Nizam Dynasty of Hyderabad", "Kakatiya Dynasty"],
-    "correctAnswer": "Nizam Dynasty of Hyderabad"
+    "question": "Which Indian cyber security agency recently flagged payment fraud on government-linked platforms?",
+    "options": ["NASSCOM", "TRAI", "CERT-In", "DRDO"],
+    "correctAnswer": "CERT-In"
   },
   {
     "id": 12,
-    "question": "Besides biryani, which other famous dish from Hyderabad has received a Geographical Indication (GI) tag?",
-    "options": ["Mysore Pak", "Hyderabadi Haleem", "Amritsari Kulcha", "Vada Pav"],
-    "correctAnswer": "Hyderabadi Haleem"
+    "question": "The warning issued by CERT-In specifically pertained to what type of fraudulent activity?",
+    "options": ["Identity theft via email", "Payment fraud in government-linked platforms", "SMS phishing scams", "Malware attacks on critical infrastructure"],
+    "correctAnswer": "Payment fraud in government-linked platforms"
   },
   {
     "id": 13,
-    "question": "Which two major culinary traditions are largely considered to have influenced the unique flavor profile of Hyderabadi Biryani?",
-    "options": ["Bengali and Punjabi", "Mughlai and Telugu", "Rajasthani and Gujarati", "Kerala and Tamil"],
-    "correctAnswer": "Mughlai and Telugu"
+    "question": "Increased awareness about cyber security and payment fraud is particularly important for citizens in states like Telangana and Andhra Pradesh because:",
+    "options": ["These states have low internet penetration", "Digital transactions are becoming more common in daily life", "They are hubs for traditional banking", "Physical cash is being phased out rapidly"],
+    "correctAnswer": "Digital transactions are becoming more common in daily life"
   },
   {
     "id": 14,
-    "question": "Which popular festival, primarily celebrated by women and involving floral arrangements, is a significant cultural event in Telangana?",
-    "options": ["Onam", "Pongal", "Bathukamma", "Bihu"],
-    "correctAnswer": "Bathukamma"
+    "question": "What is the primary role of CERT-In (Indian Computer Emergency Response Team)?",
+    "options": ["To develop new software", "To formulate economic policies", "To respond to computer security incidents", "To regulate telecommunications"],
+    "correctAnswer": "To respond to computer security incidents"
   },
   {
     "id": 15,
-    "question": "When was the state of Telangana officially carved out of Andhra Pradesh?",
-    "options": ["January 26, 2000", "August 15, 2004", "June 2, 2014", "November 1, 2000"],
-    "correctAnswer": "June 2, 2014"
+    "question": "Which of the following is a common method employed by fraudsters in payment scams, a threat relevant to citizens across India, including Telangana and AP?",
+    "options": ["Offering unsolicited lottery winnings", "Asking for bank details over the phone or suspicious links", "Sending job offers via postal mail", "Promoting healthy lifestyle changes"],
+    "correctAnswer": "Asking for bank details over the phone or suspicious links"
   },
   {
     "id": 16,
-    "question": "Which major river flows through Telangana and is crucial for its agriculture and water supply?",
-    "options": ["Yamuna", "Ganga", "Godavari", "Narmada"],
-    "correctAnswer": "Godavari"
+    "question": "What significant milestone in HPV vaccination did India achieve recently?",
+    "options": ["Launched the first indigenous HPV vaccine", "Administered over 1 crore HPV vaccine doses", "Achieved 100% HPV vaccination coverage", "Began exporting HPV vaccines"],
+    "correctAnswer": "Administered over 1 crore HPV vaccine doses"
   },
   {
     "id": 17,
-    "question": "What is the name of the traditional handloom textile known for its distinctive ikat style, originating from Pochampally in Telangana?",
-    "options": ["Kanchipuram Silk", "Banarasi Brocade", "Pochampally Ikat", "Chanderi Saree"],
-    "correctAnswer": "Pochampally Ikat"
+    "question": "Within how many months did India cross the 1 crore mark for HPV vaccinations?",
+    "options": ["3 months", "6 months", "9 months", "12 months"],
+    "correctAnswer": "9 months"
   },
   {
     "id": 18,
-    "question": "Which city, located in Telangana, is popularly known as the 'Pearl City' of India?",
-    "options": ["Chennai", "Mumbai", "Hyderabad", "Jaipur"],
-    "correctAnswer": "Hyderabad"
+    "question": "The Human Papillomavirus (HPV) vaccine primarily protects against which serious health condition?",
+    "options": ["Tuberculosis", "Cervical cancer", "Diabetes", "Heart disease"],
+    "correctAnswer": "Cervical cancer"
   },
   {
     "id": 19,
-    "question": "Which significant man-made lake connects the twin cities of Hyderabad and Secunderabad?",
-    "options": ["Dal Lake", "Vembanad Lake", "Hussain Sagar", "Chilika Lake"],
-    "correctAnswer": "Hussain Sagar"
+    "question": "How do states like Telangana and Andhra Pradesh typically contribute to national vaccination campaigns like the HPV drive?",
+    "options": ["By manufacturing vaccines", "By implementing state-specific vaccination programs and health infrastructure", "By conducting international research", "By providing financial aid to other states"],
+    "correctAnswer": "By implementing state-specific vaccination programs and health infrastructure"
   },
   {
     "id": 20,
-    "question": "Which National Park in Telangana is located within the city limits of Hyderabad and known for its biodiversity?",
-    "options": ["Kaziranga National Park", "Bandipur National Park", "Kasu Brahmananda Reddy National Park", "Ranthambore National Park"],
-    "correctAnswer": "Kasu Brahmananda Reddy National Park"
+    "question": "Which demographic group is primarily targeted for HPV vaccination campaigns to maximize public health impact in India?",
+    "options": ["Elderly population", "Pregnant women", "Adolescent girls and young women", "Infants"],
+    "correctAnswer": "Adolescent girls and young women"
   },
   {
     "id": 21,
-    "question": "What is the current proposed executive capital of Andhra Pradesh, following the bifurcation of the state?",
-    "options": ["Amaravati", "Kurnool", "Visakhapatnam", "Vijayawada"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "Approximately how many postgraduate medical seats were recently reported as being in a 'blocked category' across India?",
+    "options": ["Under 1,000", "Around 5,000", "Over 10,000", "Exactly 1,500"],
+    "correctAnswer": "Over 10,000"
   },
   {
     "id": 22,
-    "question": "Which major port city is a key economic and industrial hub in Andhra Pradesh?",
-    "options": ["Kochi", "Chennai", "Paradip", "Visakhapatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What specific system related to the allocation of medical postgraduate seats is the government reportedly considering reviewing?",
+    "options": ["The reservation system", "The fee structure system", "The float system", "The admission test system"],
+    "correctAnswer": "The float system"
   },
   {
     "id": 23,
-    "question": "Which famous pilgrimage town in Andhra Pradesh is home to the revered Sri Venkateswara Temple?",
-    "options": ["Puri", "Varanasi", "Tirupati", "Shirdi"],
-    "correctAnswer": "Tirupati"
+    "question": "A large number of blocked postgraduate medical seats could negatively impact healthcare infrastructure in states like Andhra Pradesh and Telangana by:",
+    "options": ["Increasing the number of general practitioners", "Limiting the availability of specialist doctors in the future", "Reducing medical research funding", "Boosting rural healthcare services"],
+    "correctAnswer": "Limiting the availability of specialist doctors in the future"
   },
   {
     "id": 24,
-    "question": "What is the official flower of Andhra Pradesh?",
-    "options": ["Lotus", "Rose", "Water Lily", "Jasmine"],
-    "correctAnswer": "Water Lily"
+    "question": "Which autonomous body is primarily responsible for regulating medical education and medical professionals in India?",
+    "options": ["UGC", "AICTE", "NMC (National Medical Commission)", "ICMR"],
+    "correctAnswer": "NMC (National Medical Commission)"
   },
   {
     "id": 25,
-    "question": "Which dance form, originating from Andhra Pradesh, is one of the eight classical dances of India?",
-    "options": ["Bharatanatyam", "Kathak", "Kuchipudi", "Odissi"],
-    "correctAnswer": "Kuchipudi"
+    "question": "What is a common potential reason for a significant number of postgraduate medical seats remaining 'blocked' or unfilled in India?",
+    "options": ["Excessive demand from students", "Strict eligibility criteria or administrative issues in the counselling process", "Lack of interest in medical careers", "Over-supply of medical graduates"],
+    "correctAnswer": "Strict eligibility criteria or administrative issues in the counselling process"
   }
 ]

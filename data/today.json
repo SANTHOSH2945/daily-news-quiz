@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Who is the current Chief Minister of Telangana, mentioned in the news for setting Congress' 2028 targets?",
-    "options": ["K. Chandrashekar Rao", "A Revanth Reddy", "N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy"],
-    "correctAnswer": "A Revanth Reddy"
-  },
-  {
-    "id": 2,
-    "question": "What is the target number of Assembly seats for the Congress party in Telangana for the 2028 elections, as set by CM Revanth Reddy?",
-    "options": ["75 seats", "90 seats", "100 seats", "119 seats"],
-    "correctAnswer": "90 seats"
-  },
-  {
-    "id": 3,
-    "question": "According to CM Revanth Reddy's statement, how many total Assembly seats are there in Telangana?",
-    "options": ["100", "119", "130", "90"],
-    "correctAnswer": "119"
-  },
-  {
-    "id": 4,
-    "question": "What is the vote target set by Telangana CM A Revanth Reddy for the Congress party in the 2028 elections?",
-    "options": ["50 lakh votes", "75 lakh votes", "One crore votes", "1.5 crore votes"],
-    "correctAnswer": "One crore votes"
-  },
-  {
-    "id": 5,
-    "question": "Which political party did Telangana CM A Revanth Reddy criticize for spreading false narratives?",
-    "options": ["Bharatiya Janata Party", "YSR Congress Party", "Bharat Rashtra Samithi", "Telugu Desam Party"],
-    "correctAnswer": "Bharat Rashtra Samithi"
-  },
-  {
-    "id": 6,
-    "question": "For what potential natural crisis is the Telangana government preparing an action plan?",
-    "options": ["Floods", "Earthquakes", "Tsunamis", "Drought conditions"],
-    "correctAnswer": "Drought conditions"
-  },
-  {
-    "id": 7,
-    "question": "The potential drought conditions in Telangana are influenced by which global weather phenomenon?",
-    "options": ["La Niña", "El Niño", "Monsoon depression", "Arctic Oscillation"],
-    "correctAnswer": "El Niño"
-  },
-  {
-    "id": 8,
-    "question": "Telangana Chief Minister A Revanth Reddy belongs to which political party?",
-    "options": ["Bharatiya Janata Party", "Indian National Congress", "Bharat Rashtra Samithi", "All India Majlis-e-Ittehadul Muslimeen"],
+    "question": "What national political party recently criticized the BJP over remarks related to 'Jai Shri Ram' and the name of Mata Sita?",
+    "options": ["Aam Aadmi Party", "Indian National Congress", "Samajwadi Party", "Bahujan Samaj Party"],
     "correctAnswer": "Indian National Congress"
   },
   {
+    "id": 2,
+    "question": "Which political party was criticized by the Congress regarding comments on Mata Sita's name in relation to 'Jai Shri Ram'?",
+    "options": ["Bharatiya Janata Party", "Trinamool Congress", "Communist Party of India (Marxist)", "Nationalist Congress Party"],
+    "correctAnswer": "Bharatiya Janata Party"
+  },
+  {
+    "id": 3,
+    "question": "The recent political discourse between national parties concerning 'Jai Shri Ram' and Mata Sita's name primarily involved which two major political parties?",
+    "options": ["Congress and AAP", "BJP and BSP", "Congress and BJP", "AAP and BSP"],
+    "correctAnswer": "Congress and BJP"
+  },
+  {
+    "id": 4,
+    "question": "Which country did India hold bilateral talks with, discussing cultural cooperation and manuscript preservation?",
+    "options": ["Iraq", "Iran", "Israel", "Indonesia"],
+    "correctAnswer": "Iran"
+  },
+  {
+    "id": 5,
+    "question": "What international organization's heritage network was discussed for joint cooperation during recent India-Iran bilateral talks?",
+    "options": ["ASEAN", "BRICS", "SCO", "SAARC"],
+    "correctAnswer": "SCO"
+  },
+  {
+    "id": 6,
+    "question": "Besides cultural cooperation, what other significant area was discussed for preservation during India-Iran bilateral talks, as mentioned in the news?",
+    "options": ["Ancient historical sites", "Traditional dance forms", "Manuscript preservation", "Wildlife conservation"],
+    "correctAnswer": "Manuscript preservation"
+  },
+  {
+    "id": 7,
+    "question": "How many Indian children were reportedly put in custody by the US in the last four years due to anti-immigration crackdowns?",
+    "options": ["Approximately 1,000", "Approximately 1,389", "Approximately 1,500", "Approximately 2,000"],
+    "correctAnswer": "Approximately 1,389"
+  },
+  {
+    "id": 8,
+    "question": "Which country's anti-immigration crackdown led to the custody of Indian children, as per recent news?",
+    "options": ["Canada", "United Kingdom", "Australia", "United States"],
+    "correctAnswer": "United States"
+  },
+  {
     "id": 9,
-    "question": "For which upcoming election year has Telangana CM Revanth Reddy set ambitious targets for the Congress party in the state?",
-    "options": ["2024", "2026", "2028", "2029"],
-    "correctAnswer": "2028"
+    "question": "The issue of Indian children being held in custody in the US is primarily related to what broader global concern?",
+    "options": ["Child labor laws", "Human trafficking", "Illegal immigration", "Student visa violations"],
+    "correctAnswer": "Illegal immigration"
   },
   {
     "id": 10,
-    "question": "Which Indian state government is mentioned as preparing an action plan for potential drought conditions influenced by El Niño?",
-    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Maharashtra"],
-    "correctAnswer": "Telangana"
+    "question": "Which Indian food regulator recently sanctioned the prosecution of Bisleri and four other firms?",
+    "options": ["Bureau of Indian Standards (BIS)", "Food Safety and Standards Authority of India (FSSAI)", "Consumer Protection Authority (CPA)", "Agricultural and Processed Food Products Export Development Authority (APEDA)"],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 11,
-    "question": "What is the Congress party's leadership in Telangana reportedly devising, according to CM Revanth Reddy?",
-    "options": ["A new welfare scheme", "A strategy for winning 90 seats", "A revised state budget", "A plan for industrial growth"],
-    "correctAnswer": "A strategy for winning 90 seats"
+    "question": "What is the full form of FSSAI, the food regulator mentioned in recent news for sanctioning prosecutions?",
+    "options": ["Food Security and Safety Association of India", "Food Standards and Safety Authority of India", "Food Safety and Standards Authority of India", "Food Service and Supply Association of India"],
+    "correctAnswer": "Food Safety and Standards Authority of India"
   },
   {
     "id": 12,
-    "question": "What new policy has the Indian Navy implemented regarding Agniveers' marital status?",
-    "options": ["Agniveers are prohibited from marriage", "Agniveers can marry after 5 years of service", "Allows marriage for those opting for a 2-year service extension", "Marriage is allowed only for female Agniveers"],
-    "correctAnswer": "Allows marriage for those opting for a 2-year service extension"
+    "question": "According to recent reports, how many firms, including Bisleri, faced prosecution sanctions from FSSAI?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "5"
   },
   {
     "id": 13,
-    "question": "For which specific category of personnel has the Indian Navy recently introduced a policy allowing marriage under certain conditions?",
-    "options": ["Commissioned Officers", "Short Service Commission Officers", "Agniveers", "Permanent Cadre Sailors"],
-    "correctAnswer": "Agniveers"
+    "question": "What action did FSSAI take against two other firms, apart from sanctioning prosecution for Bisleri and others?",
+    "options": ["Issued warning letters", "Imposed heavy fines", "Suspended their licences", "Ordered product recalls"],
+    "correctAnswer": "Suspended their licences"
   },
   {
     "id": 14,
-    "question": "What is the minimum service extension period required for Agniveers to be eligible for marriage under the new Indian Navy policy?",
-    "options": ["1 year", "2 years", "3 years", "4 years"],
-    "correctAnswer": "2 years"
+    "question": "Which Indian political leader recently 'clarified' remarks made about Hamas and Israel after criticism from allies?",
+    "options": ["Narendra Modi", "Rahul Gandhi", "Amit Shah", "Arvind Kejriwal"],
+    "correctAnswer": "Rahul Gandhi"
   },
   {
     "id": 15,
-    "question": "The term 'Agniveer' is associated with which branch of the Indian Armed Forces in the recent news about marital policy?",
-    "options": ["Indian Army", "Indian Air Force", "Indian Coast Guard", "Indian Navy"],
-    "correctAnswer": "Indian Navy"
+    "question": "The recent clarification by Rahul Gandhi was concerning his remarks on the conflict involving which two entities?",
+    "options": ["Russia and Ukraine", "China and Taiwan", "Hamas and Israel", "North Korea and South Korea"],
+    "correctAnswer": "Hamas and Israel"
   },
   {
     "id": 16,
-    "question": "Which nuclear power plant's Unit-1 recently attained criticality again, signifying a 'second life' for the unit?",
-    "options": ["Kudankulam nuclear unit-1", "Tarapur nuclear unit-1", "Kaiga nuclear unit-1", "Rawatbhata nuclear unit-1"],
-    "correctAnswer": "Kaiga nuclear unit-1"
+    "question": "India is set to ink pacts on energy, infrastructure, and technology with which neighboring country?",
+    "options": ["Bhutan", "Bangladesh", "Sri Lanka", "Nepal"],
+    "correctAnswer": "Nepal"
   },
   {
     "id": 17,
-    "question": "In which Indian state is the Kaiga nuclear power plant, whose Unit-1 recently achieved criticality again, located?",
-    "options": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Maharashtra"],
-    "correctAnswer": "Karnataka"
+    "question": "Who is the dignitary from Nepal on his first visit to India, during which pacts on energy, infra, and tech are expected to be signed?",
+    "options": ["Sher Bahadur Deuba", "Pushpa Kamal Dahal", "Balen Shah", "KP Sharma Oli"],
+    "correctAnswer": "Balen Shah"
   },
   {
     "id": 18,
-    "question": "What significant operational milestone did Kaiga nuclear unit-1 recently achieve, as reported in the news, indicating its renewed functionality?",
-    "options": ["Completed refurbishment", "Attained criticality again", "Increased power generation capacity", "Shut down for maintenance"],
-    "correctAnswer": "Attained criticality again"
+    "question": "What are the three key areas of cooperation discussed between India and Nepal during a recent high-level visit, as mentioned in the news?",
+    "options": ["Defense, Space, Healthcare", "Education, Tourism, Agriculture", "Energy, Infrastructure, Technology", "Trade, Finance, Environment"],
+    "correctAnswer": "Energy, Infrastructure, Technology"
   },
   {
     "id": 19,
-    "question": "According to Union Environment Minister Bhupender Yadav, what aspect of climate initiatives in India is not paused despite the absence of a COP31 cover decision?",
-    "options": ["International funding", "Public awareness campaigns", "Climate action", "Research and development"],
-    "correctAnswer": "Climate action"
+    "question": "Which Indian authority is implementing a system to monitor 50,000 km of highways using dashcams?",
+    "options": ["Border Roads Organisation (BRO)", "Central Public Works Department (CPWD)", "National Highways Authority of India (NHAI)", "Ministry of Road Transport and Highways (MoRTH)"],
+    "correctAnswer": "National Highways Authority of India (NHAI)"
   },
   {
     "id": 20,
-    "question": "Which Union Minister articulated India's dedication to climate change initiatives at COP31 in Antalya, Turkey?",
-    "options": ["Nirmala Sitharaman", "S. Jaishankar", "Bhupender Yadav", "Amit Shah"],
-    "correctAnswer": "Bhupender Yadav"
+    "question": "What is the primary purpose of NHAI implementing dashcam surveillance on 50,000 km of highways?",
+    "options": ["To monitor traffic violations by drivers", "To automate penalties for contractors", "To track vehicle movement for security", "To assist in accident investigations"],
+    "correctAnswer": "To automate penalties for contractors"
   },
   {
     "id": 21,
-    "question": "What major international conference, discussed in the news context, recently concluded without a climate pact?",
-    "options": ["G20 Summit", "UN General Assembly", "COP31", "BRICS Summit"],
-    "correctAnswer": "COP31"
+    "question": "Approximately how many kilometers of highways are being put under dashcam watch by NHAI to automate penalties for contractors?",
+    "options": ["10,000 km", "25,000 km", "50,000 km", "100,000 km"],
+    "correctAnswer": "50,000 km"
   },
   {
     "id": 22,
-    "question": "What were the primary points of disagreement that led to COP31 concluding without a consensus on a cover decision, according to the news?",
-    "options": ["Trade tariffs and digital taxation", "Global health pandemic response", "Fossil fuel omission and empty finance promises", "Space exploration regulations"],
-    "correctAnswer": "Fossil fuel omission and empty finance promises"
+    "question": "The automated penalty system being introduced by NHAI on highways is primarily aimed at improving accountability for which group?",
+    "options": ["Drivers and vehicle owners", "Highway patrol officers", "Toll booth operators", "Contractors responsible for road quality"],
+    "correctAnswer": "Contractors responsible for road quality"
   },
   {
     "id": 23,
-    "question": "India's substantial advancements in which energy sectors were highlighted by Union Minister Bhupender Yadav at COP31?",
-    "options": ["Coal and thermal power", "Hydropower and natural gas", "Nuclear and geothermal energy", "Solar power and renewable energy"],
-    "correctAnswer": "Solar power and renewable energy"
+    "question": "Which branch of the Indian Armed Forces recently announced a policy allowing marriage for Agniveers under specific conditions?",
+    "options": ["Indian Army", "Indian Navy", "Indian Air Force", "Indian Coast Guard"],
+    "correctAnswer": "Indian Navy"
   },
   {
     "id": 24,
-    "question": "At COP31, India emphasized which key principles related to climate justice?",
-    "options": ["Economic growth and trade liberalization", "National sovereignty and border control", "Equity and climate justice", "Technological innovation and patent protection"],
-    "correctAnswer": "Equity and climate justice"
+    "question": "For Agniveers in the Indian Navy, what is the specific condition under which marriage is now allowed, as per the new policy?",
+    "options": ["After completion of basic training", "Only if their spouse is also an Agniveer", "After opting for a 2-year service extension", "Upon reaching a certain rank"],
+    "correctAnswer": "After opting for a 2-year service extension"
   },
   {
     "id": 25,
-    "question": "In which country was the COP31 conference, where India's climate initiatives were discussed, held?",
-    "options": ["Germany", "Egypt", "Turkey", "United Arab Emirates"],
-    "correctAnswer": "Turkey"
+    "question": "The Indian Navy's new policy allowing marriage for Agniveers is applicable to those opting for what duration of service extension?",
+    "options": ["1-year extension", "2-year extension", "3-year extension", "5-year extension"],
+    "correctAnswer": "2-year extension"
   }
 ]

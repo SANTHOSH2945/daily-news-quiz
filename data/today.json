@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "What did a recent government survey find regarding the Centre's free ration scheme in India, which also operates in states like Telangana and Andhra Pradesh?",
-    "options": ["Surplus food grain stock", "Widespread fraudulent claims", "Ineligible beneficiaries", "High satisfaction among beneficiaries"],
-    "correctAnswer": "Ineligible beneficiaries"
+    "question": "The Supreme Court recently highlighted issues of selective action by civic bodies against illegal constructions. In the context of Telangana, which authority primarily oversees urban planning and development in the Hyderabad Metropolitan Region?",
+    "options": ["Hyderabad Metropolitan Development Authority (HMDA)", "Greater Hyderabad Municipal Corporation (GHMC)", "Telangana Urban Development Authority (TUDA)", "Warangal Urban Development Authority (WUDA)"],
+    "correctAnswer": "Hyderabad Metropolitan Development Authority (HMDA)"
   },
   {
     "id": 2,
-    "question": "The Centre's free ration scheme aims to provide food security. Which group of beneficiaries were identified as 'ineligible' in a recent survey across India, including states like Telangana?",
-    "options": ["Those who receive rations from state schemes", "Individuals not meeting predefined eligibility criteria", "Migrant workers without proper documentation", "Senior citizens above 60 years of age"],
-    "correctAnswer": "Individuals not meeting predefined eligibility criteria"
+    "question": "Following the Supreme Court's remarks on selective enforcement, what is a key challenge faced by municipal corporations in Andhra Pradesh in uniformly tackling illegal constructions?",
+    "options": ["Lack of political will", "Insufficient funding", "Public non-cooperation", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 3,
-    "question": "What is a potential consequence of having 'ineligible beneficiaries' in the Centre's free ration scheme, as highlighted by a recent survey applicable to all states including Andhra Pradesh?",
-    "options": ["Increased food grain production targets", "Diversion of resources from intended recipients", "Reduced central government funding to states", "Introduction of new ration card types"],
-    "correctAnswer": "Diversion of resources from intended recipients"
+    "question": "What is the primary legislation governing municipal administration and urban development in Telangana, under which civic bodies operate?",
+    "options": ["Telangana Municipalities Act, 2019", "Telangana Urban Development Act, 2014", "Telangana Panchayat Raj Act, 2018", "Hyderabad Development Act, 1975"],
+    "correctAnswer": "Telangana Municipalities Act, 2019"
   },
   {
     "id": 4,
-    "question": "The news mentions a 'Centre's free ration scheme'. What is the primary objective of such a scheme implemented in states like Telangana and Andhra Pradesh?",
-    "options": ["To promote agricultural exports", "To ensure food security for economically vulnerable populations", "To manage food grain buffer stocks", "To support farmers with minimum support price"],
-    "correctAnswer": "To ensure food security for economically vulnerable populations"
+    "question": "The Andhra Pradesh Capital Region Development Authority (APCRDA) is responsible for planning and development in the capital region. Which city is its primary focus?",
+    "options": ["Visakhapatnam", "Vijayawada", "Amaravati", "Tirupati"],
+    "correctAnswer": "Amaravati"
   },
   {
     "id": 5,
-    "question": "A recent government survey highlighted issues with the Centre's free ration scheme. What specific quality problem related to beneficiary identification was mentioned?",
-    "options": ["Lack of digital infrastructure for distribution", "Presence of duplicate ration cards", "Inclusion of ineligible beneficiaries", "Insufficient awareness among target groups"],
-    "correctAnswer": "Inclusion of ineligible beneficiaries"
+    "question": "The Supreme Court's observation on civic bodies being selective could be interpreted as a call for greater ____ in their operations regarding building permit enforcement.",
+    "options": ["Centralization", "Autonomy", "Transparency", "Discretion"],
+    "correctAnswer": "Transparency"
   },
   {
     "id": 6,
-    "question": "Which level of government typically designs and funds a 'Centre's free ration scheme' that is implemented nationwide, including in Andhra Pradesh and Telangana?",
-    "options": ["State Governments", "Central Government", "Local Municipal Bodies", "Joint ventures with NGOs"],
-    "correctAnswer": "Central Government"
+    "question": "Which major city in Andhra Pradesh often faces challenges with unauthorized constructions along its coastal belt, similar to issues highlighted by the Supreme Court?",
+    "options": ["Kurnool", "Guntur", "Anantapur", "Visakhapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 7,
-    "question": "The discovery of ineligible beneficiaries in the free ration scheme prompts a review. What action might the government take to address this issue in states like Telangana?",
-    "options": ["Increasing the ration quota for all", "Verification and updating of beneficiary lists", "Introducing new food processing technologies", "Exporting surplus food grains"],
-    "correctAnswer": "Verification and updating of beneficiary lists"
+    "question": "In Telangana, what is the role of the Directorate of Town and Country Planning (DTCP) in controlling unauthorized development outside metropolitan areas?",
+    "options": ["To provide financial aid for constructions", "To approve building plans and layouts", "To manage public utilities", "To regulate traffic"],
+    "correctAnswer": "To approve building plans and layouts"
   },
   {
     "id": 8,
-    "question": "What is the general term for a system that provides essential food grains at subsidized or no cost to citizens, as seen with the Centre's initiative implemented in states like Andhra Pradesh?",
-    "options": ["Agricultural Market Intervention", "Public Distribution System (PDS)", "Crop Insurance Scheme", "Direct Benefit Transfer (DBT)"],
-    "correctAnswer": "Public Distribution System (PDS)"
+    "question": "What common consequence arises from civic bodies' selective enforcement against illegal constructions in cities like Hyderabad and Vijayawada?",
+    "options": ["Uniform urban growth", "Reduced land prices", "Uneven urban development", "Enhanced green spaces"],
+    "correctAnswer": "Uneven urban development"
   },
   {
     "id": 9,
-    "question": "If ineligible beneficiaries are found in a welfare scheme, it suggests a need for improvement in which administrative process at the state level (e.g., Telangana)?",
-    "options": ["Food storage and logistics", "Supply chain management", "Beneficiary identification and verification", "Agricultural yield forecasting"],
-    "correctAnswer": "Beneficiary identification and verification"
+    "question": "Which of these is a function of the Greater Hyderabad Municipal Corporation (GHMC) concerning urban infrastructure?",
+    "options": ["Interstate highway construction", "Issuing building permits", "National defense", "Monetary policy"],
+    "correctAnswer": "Issuing building permits"
   },
   {
     "id": 10,
-    "question": "The Centre's free ration scheme, implemented across India, including Telangana and Andhra Pradesh, primarily aims to support which demographic?",
-    "options": ["Small and marginal farmers", "Industrial workers", "Economically weaker sections", "Government employees"],
-    "correctAnswer": "Economically weaker sections"
+    "question": "The Andhra Pradesh Urban Development Authority (APUDA) was instrumental in promoting planned growth in specific regions. Which of the following bodies replaced or integrated some of its functions in key urban areas?",
+    "options": ["APCRDA", "VUDA (Visakhapatnam Urban Development Authority)", "VMRDA (Visakhapatnam Metropolitan Region Development Authority)", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 11,
-    "question": "What warning did NCERT recently issue to textbook printers regarding their products?",
-    "options": ["Increasing production volume", "Blacklisting over poor quality", "Adopting new printing technologies", "Reducing textbook prices"],
-    "correctAnswer": "Blacklisting over poor quality"
+    "question": "What is the primary role of municipal town planning officials in Telangana in the context of urban development?",
+    "options": ["Collecting property taxes", "Managing public parks", "Enforcing building bylaws", "Providing civic utilities"],
+    "correctAnswer": "Enforcing building bylaws"
   },
   {
     "id": 12,
-    "question": "NCERT expressed concerns about the quality of textbooks. What specific issues were cited that could affect students in states like Andhra Pradesh?",
-    "options": ["Outdated syllabus content", "Blurred text and poor quality", "Excessive use of illustrations", "High cost of textbooks"],
-    "correctAnswer": "Blurred text and poor quality"
+    "question": "In Andhra Pradesh, if a citizen wants to report an illegal construction, which entity would be the most appropriate local government body to approach?",
+    "options": ["Gram Panchayat", "Municipal Corporation", "District Collectorate", "State Secretariat"],
+    "correctAnswer": "Municipal Corporation"
   },
   {
     "id": 13,
-    "question": "Who is the primary target of NCERT's recent warning regarding the poor quality of textbooks?",
-    "options": ["School principals", "Textbook authors", "Textbook printers", "State education boards"],
-    "correctAnswer": "Textbook printers"
+    "question": "The Supreme Court's concern about selective action by civic bodies points to a potential lack of ____ in urban governance.",
+    "options": ["Standardization", "Privatization", "Digitization", "Deregulation"],
+    "correctAnswer": "Standardization"
   },
   {
     "id": 14,
-    "question": "What is the potential consequence for textbook printers if they fail to address the quality issues highlighted by NCERT, affecting schools nationwide including Telangana?",
-    "options": ["Receiving additional grants", "Being featured in NCERT publications", "Blacklisting from future contracts", "Mandatory mergers with other printers"],
-    "correctAnswer": "Blacklisting from future contracts"
+    "question": "What is a common method adopted by civic bodies in Telangana to detect unauthorized constructions, often highlighted in municipal reports?",
+    "options": ["Satellite imagery analysis", "Public tip-offs", "Field inspections by staff", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 15,
-    "question": "What role does NCERT play in the Indian education system, impacting syllabus and textbooks in states like Andhra Pradesh?",
-    "options": ["Conducting entrance examinations", "Developing curriculum and publishing textbooks", "Managing school infrastructure", "Providing scholarships to students"],
-    "correctAnswer": "Developing curriculum and publishing textbooks"
+    "question": "To address the issue of selective action against illegal constructions, both Telangana and Andhra Pradesh governments are urged to strengthen their ____ departments within urban local bodies.",
+    "options": ["Sanitation", "Enforcement/Town Planning", "Education", "Revenue Collection"],
+    "correctAnswer": "Enforcement/Town Planning"
   },
   {
     "id": 16,
-    "question": "The NCERT warning about blurred text and poor quality is crucial for students across India. What could be the direct impact on a student in Telangana using such textbooks?",
-    "options": ["Increased motivation to study", "Enhanced critical thinking skills", "Difficulty in reading and understanding content", "Better access to digital learning resources"],
-    "correctAnswer": "Difficulty in reading and understanding content"
+    "question": "The news about water samples meeting standards is relevant to consumer safety. In Telangana and Andhra Pradesh, which central authority's standards are primarily adopted for packaged drinking water quality?",
+    "options": ["Bureau of Indian Standards (BIS)", "World Health Organization (WHO)", "Indian Council of Medical Research (ICMR)", "Food and Agriculture Organization (FAO)"],
+    "correctAnswer": "Bureau of Indian Standards (BIS)"
   },
   {
     "id": 17,
-    "question": "Why is it important for NCERT to ensure high-quality textbooks are printed for use in schools, including those in Andhra Pradesh and Telangana?",
-    "options": ["To reduce paper consumption", "To facilitate effective learning and uphold education standards", "To increase the commercial value of textbooks", "To diversify textbook publishers"],
-    "correctAnswer": "To facilitate effective learning and uphold education standards"
+    "question": "In Telangana and Andhra Pradesh, the enforcement of food safety and quality standards, including for packaged drinking water, falls under the purview of which regulatory body's state unit?",
+    "options": ["Bureau of Indian Standards (BIS)", "Food Safety and Standards Authority of India (FSSAI)", "Central Pollution Control Board (CPCB)", "Ministry of Jal Shakti"],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 18,
-    "question": "What is the full form of NCERT, the body responsible for setting standards for school textbooks used throughout India, including Telangana?",
-    "options": ["National Centre for Environmental Research & Technology", "National Council of Economic Reforms & Taxation", "National Council of Educational Research and Training", "National Committee for Electoral Rights & Transparency"],
-    "correctAnswer": "National Council of Educational Research and Training"
+    "question": "What is a key parameter assessed in packaged drinking water samples to ensure they meet applicable standards for public consumption in Andhra Pradesh?",
+    "options": ["Turbidity", "pH level", "Absence of harmful bacteria", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 19,
-    "question": "If NCERT blacklists printers, what would be the immediate challenge for states like Andhra Pradesh in procuring textbooks?",
-    "options": ["Reduced need for textbooks", "Difficulty in finding alternative approved printers", "Lower printing costs", "Increased competition among printers"],
-    "correctAnswer": "Difficulty in finding alternative approved printers"
+    "question": "To ensure consumer protection in Telangana regarding packaged drinking water, what information is mandated to be displayed on the product label?",
+    "options": ["Batch number", "Manufacturing date", "Expiry date", "All of the above"],
+    "correctAnswer": "All of the above"
   },
   {
     "id": 20,
-    "question": "The recent warning from NCERT emphasizes the need for quality control in textbook production. What is a key reason for this vigilance for education in states like Telangana?",
-    "options": ["To promote digital literacy", "To ensure educational equity and quality", "To reduce the burden on teachers", "To standardize examination patterns"],
-    "correctAnswer": "To ensure educational equity and quality"
+    "question": "What initiative by the Telangana government aims to provide safe and sustainable drinking water to rural households, complementing efforts to ensure water quality?",
+    "options": ["Mission Bhagiratha", "Haritha Haram", "Kaleshwaram Project", "Telangana Water Grid"],
+    "correctAnswer": "Mission Bhagiratha"
   },
   {
     "id": 21,
-    "question": "A government survey detected 'ineligible beneficiaries' in the Centre's free ration scheme. This finding is relevant for resource allocation in states like Telangana and Andhra Pradesh. What does 'ineligible' specifically refer to in this context?",
-    "options": ["Individuals living below the poverty line", "Individuals not meeting predefined criteria for the scheme", "Individuals with multiple ration cards", "Individuals who have moved to a different state"],
-    "correctAnswer": "Individuals not meeting predefined criteria for the scheme"
+    "question": "In Andhra Pradesh, what role do municipal corporations play in ensuring the quality of tap water supplied to urban residents, distinct from packaged water?",
+    "options": ["Only manage sewage", "Conduct regular water quality tests", "Generate electricity", "Regulate traffic flow"],
+    "correctAnswer": "Conduct regular water quality tests"
   },
   {
     "id": 22,
-    "question": "The Centre's free ration scheme is a significant welfare program. What is the fundamental principle behind ensuring proper beneficiary identification for its effective operation in states like Andhra Pradesh?",
-    "options": ["Maximizing the number of beneficiaries", "Minimizing administrative costs", "Targeting benefits to the genuinely needy", "Promoting agricultural self-sufficiency"],
-    "correctAnswer": "Targeting benefits to the genuinely needy"
+    "question": "If a consumer in Telangana finds a packaged drinking water product below prescribed standards, what is the recommended action?",
+    "options": ["Report to the local police station", "File a complaint with the consumer affairs department", "Contact the manufacturer directly", "Ignore the issue"],
+    "correctAnswer": "File a complaint with the consumer affairs department"
   },
   {
     "id": 23,
-    "question": "What could be a broader implication of a central government survey finding ineligible beneficiaries in a nationwide scheme, for state governments like Telangana's?",
-    "options": ["Encouragement to launch similar state-specific schemes", "Increased pressure to improve local verification mechanisms", "Mandating higher food grain procurement from farmers", "A shift towards privatized welfare distribution"],
-    "correctAnswer": "Increased pressure to improve local verification mechanisms"
+    "question": "The 'applicable standards' for packaged drinking water, as referenced in the news, are crucial for preventing what type of health issues in states like Andhra Pradesh?",
+    "options": ["Cardiovascular diseases", "Waterborne diseases", "Respiratory infections", "Genetic disorders"],
+    "correctAnswer": "Waterborne diseases"
   },
   {
     "id": 24,
-    "question": "The news implies that central schemes like the free ration program require robust monitoring. What is one way states like Andhra Pradesh contribute to the implementation and oversight of such schemes?",
-    "options": ["Conducting national audits", "Maintaining and updating beneficiary records", "Formulating the central scheme guidelines", "Importing food grains internationally"],
-    "correctAnswer": "Maintaining and updating beneficiary records"
+    "question": "What is the primary purpose of the Bureau of Indian Standards (BIS) certification mark often found on packaged drinking water bottles sold in Telangana and Andhra Pradesh?",
+    "options": ["Indicates origin of water", "Guarantees minimum retail price", "Assures product quality and safety", "Shows company's profit margin"],
+    "correctAnswer": "Assures product quality and safety"
   },
   {
     "id": 25,
-    "question": "NCERT's role extends to setting academic standards for school education nationwide. In states like Telangana, how do NCERT guidelines typically influence the state's education board curriculum?",
-    "options": ["They completely replace the state's curriculum", "They are only applicable to central schools", "They often serve as a reference or basis for state syllabi", "They mandate a single national language for instruction"],
-    "correctAnswer": "They often serve as a reference or basis for state syllabi"
+    "question": "Which department in the Andhra Pradesh government would typically oversee policies related to public health and the quality of consumables like drinking water?",
+    "options": ["Department of Finance", "Department of Education", "Department of Health, Medical & Family Welfare", "Department of Roads & Buildings"],
+    "correctAnswer": "Department of Health, Medical & Family Welfare"
   }
 ]

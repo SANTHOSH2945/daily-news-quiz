@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "Which individual did Saurav Das mention while criticizing the Centre over a UK travel block, suggesting a 'red carpet' treatment for him?",
-    "options": ["Vijay Mallya", "Mehul Choksi", "Nirav Modi", "Lalit Modi"],
-    "correctAnswer": "Nirav Modi"
+    "question": "The Regional Passport Office (RPO) serving citizens of Telangana's capital city is located in which major urban center?",
+    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
+    "correctAnswer": "Hyderabad"
   },
   {
     "id": 2,
-    "question": "The Karthigai Deepam festival, recently in news regarding lamp lighting, is primarily celebrated in which Indian state?",
-    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
-    "correctAnswer": "Tamil Nadu"
+    "question": "Which city in Andhra Pradesh hosts a Regional Passport Office (RPO), crucial for processing passport applications in the state?",
+    "options": ["Vijayawada", "Guntur", "Tirupati", "Visakhapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 3,
-    "question": "The Karthigai Deepam lamp was lit at which traditional spot in Tamil Nadu, as per the news, amidst security restrictions?",
-    "options": ["Thiruparankundram", "Madurai Meenakshi Temple", "Palani Murugan Temple", "Srirangam Temple"],
-    "correctAnswer": "Thiruparankundram"
+    "question": "Issues concerning discrepancies in passport applications, as mentioned in the news, are handled by which Union Ministry through its regional offices in states like Telangana and Andhra Pradesh?",
+    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of External Affairs", "Ministry of Law and Justice"],
+    "correctAnswer": "Ministry of External Affairs"
   },
   {
     "id": 4,
-    "question": "Which two political parties have recently revived their alliance for the 2027 Punjab assembly elections?",
-    "options": ["BJP and Congress", "AAP and SAD", "BJP and SAD", "Congress and SAD"],
-    "correctAnswer": "BJP and SAD"
+    "question": "The first privately built PSLV is set for launch. Which Indian state is home to the Satish Dhawan Space Centre, ISRO's primary launch site for such missions?",
+    "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+    "correctAnswer": "Andhra Pradesh"
   },
   {
     "id": 5,
-    "question": "Over what specific issue did the BJP and Shiromani Akali Dal (SAD) initially split six years ago, as mentioned in the news?",
-    "options": ["Centre’s farm laws", "Seat-sharing disagreements", "Leadership disputes", "State border issues"],
-    "correctAnswer": "Centre’s farm laws"
+    "question": "Sriharikota, a key location for India's space missions and a potential site for the launch of privately built PSLVs, is situated in which district of Andhra Pradesh?",
+    "options": ["Krishna", "Nellore", "Visakhapatnam", "Guntur"],
+    "correctAnswer": "Nellore"
   },
   {
     "id": 6,
-    "question": "For how many years did the BJP and SAD partnership govern Punjab before their initial split?",
-    "options": ["5 years", "10 years", "15 years", "20 years"],
-    "correctAnswer": "15 years"
+    "question": "The Satish Dhawan Space Centre (SDSC), where most of India's satellite launches including PSLV missions occur, is located near the town of Sriharikota in Andhra Pradesh. What is another name for this facility?",
+    "options": ["Vikram Sarabhai Space Centre", "Liquid Propulsion Systems Centre", "SHAR (Sriharikota Range)", "U R Rao Satellite Centre"],
+    "correctAnswer": "SHAR (Sriharikota Range)"
   },
   {
     "id": 7,
-    "question": "Who did Punjab Chief Minister Bhagwant Mann criticize, stating they were 'sitting at the feet of the same BJP' after the alliance revival?",
-    "options": ["Sukhbir Badal", "Parkash Singh Badal", "Harsimrat Kaur Badal", "Navjot Singh Sidhu"],
-    "correctAnswer": "Sukhbir Badal"
+    "question": "The development of the first privately built PSLV-N1 involves a consortium including which major public sector aerospace company, which also has a presence in Telangana?",
+    "options": ["HAL (Hindustan Aeronautics Limited)", "BEL (Bharat Electronics Limited)", "BHEL (Bharat Heavy Electricals Limited)", "DRDO (Defence Research and Development Organisation)"],
+    "correctAnswer": "HAL (Hindustan Aeronautics Limited)"
   },
   {
     "id": 8,
-    "question": "Who is the visionary founder of the Cockroach Janta Party, set to hold a rally on Constitution Day?",
-    "options": ["Saurav Das", "Abhijeet Dipke", "Bhagwant Mann", "Akhilesh Yadav"],
-    "correctAnswer": "Abhijeet Dipke"
+    "question": "The Indian National Congress, whose leader Rahul Gandhi made a statement in the news, is a significant political party in Telangana. Who is the current President of the Telangana Pradesh Congress Committee (TPCC)?",
+    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "G. Kishan Reddy"],
+    "correctAnswer": "Revanth Reddy"
   },
   {
     "id": 9,
-    "question": "In which city is Abhijeet Dipke's significant rally on November 26, coinciding with Constitution Day, scheduled to take place?",
-    "options": ["Delhi", "Mumbai", "Nagpur", "Kolkata"],
-    "correctAnswer": "Nagpur"
+    "question": "Following the bifurcation of Andhra Pradesh, the Indian National Congress has faced challenges in regaining its past dominance. Which state, among the bifurcated entities, saw the Congress party's vote share significantly decline in the initial post-bifurcation elections?",
+    "options": ["Telangana", "Andhra Pradesh", "Both Telangana and Andhra Pradesh", "Neither"],
+    "correctAnswer": "Both Telangana and Andhra Pradesh"
   },
   {
     "id": 10,
-    "question": "Abhijeet Dipke's rally on November 26 is aligned with the celebrations of which significant national day?",
-    "options": ["Republic Day", "Independence Day", "Constitution Day", "Gandhi Jayanti"],
-    "correctAnswer": "Constitution Day"
+    "question": "The Bharatiya Janata Party (BJP) is a national party that has aimed to strengthen its presence in South India. In which of the following states, Telangana or Andhra Pradesh, has the BJP recently made more concerted efforts to emerge as a significant opposition force?",
+    "options": ["Telangana", "Andhra Pradesh", "Both equally", "Neither"],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 11,
-    "question": "What are the primary themes of Abhijeet Dipke's rally, aiming to galvanize the public?",
-    "options": ["'Grow Economy and Promote Digital India'", "'Save Democracy and Save Constitution'", "'Clean India and Green India'", "'Youth Empowerment and Skill Development'"],
-    "correctAnswer": "'Save Democracy and Save Constitution'"
+    "question": "While the BJP forms alliances at a national level, which regional party currently holds power in Andhra Pradesh?",
+    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharat Rashtra Samithi (BRS)"],
+    "correctAnswer": "YSR Congress Party (YSRCP)"
   },
   {
     "id": 12,
-    "question": "The 'Deepam row' in Tamil Nadu involved protests and clashes as the lamp was reportedly not lit at which specific spot?",
-    "options": ["Deepathoon", "Annamalai Hills", "Koodal Azhagar Temple", "Alagar Koyil"],
-    "correctAnswer": "Deepathoon"
+    "question": "The Union Home Minister discusses national security issues. Which states, historically including both Telangana and Andhra Pradesh, have faced significant internal security challenges due to left-wing extremism (Naxalism)?",
+    "options": ["Punjab and Haryana", "Gujarat and Rajasthan", "Telangana and Andhra Pradesh", "Kerala and Goa"],
+    "correctAnswer": "Telangana and Andhra Pradesh"
   },
   {
     "id": 13,
-    "question": "Which High Court directed the Tamil Nadu government to comply with a Supreme Court order regarding the release of detainees ahead of the Deepam lighting?",
-    "options": ["Kerala High Court", "Madras High Court", "Karnataka High Court", "Telangana High Court"],
-    "correctAnswer": "Madras High Court"
+    "question": "To combat health issues like anemia, the Telangana government implements various welfare schemes. Which flagship health insurance scheme provides universal health coverage to the citizens of Telangana?",
+    "options": ["Ayushman Bharat", "Aarogyasri", "Kalayana Lakshmi", "Kanti Velugu"],
+    "correctAnswer": "Aarogyasri"
   },
   {
     "id": 14,
-    "question": "The Samajwadi Party (SP) reportedly offered how many seats to the Congress for a potential tie-up?",
-    "options": ["18", "26", "32", "40"],
-    "correctAnswer": "26"
+    "question": "In Andhra Pradesh, which state-specific scheme provides comprehensive healthcare to all eligible poor families, addressing various medical needs, including those related to nutrition deficiency like anemia?",
+    "options": ["NTR Vaidya Seva", "YSR Aarogyasri", "Amma Vodi", "Jagananna Vidya Deevena"],
+    "correctAnswer": "YSR Aarogyasri"
   },
   {
     "id": 15,
-    "question": "Which leader from the Samajwadi Party signaled 'adjustments' for a potential tie-up with Congress?",
-    "options": ["Mulayam Singh Yadav", "Akhilesh Yadav", "Ram Gopal Yadav", "Shivpal Singh Yadav"],
-    "correctAnswer": "Akhilesh Yadav"
+    "question": "The ICMR report highlights nutritional deficiencies. Which national scheme, implemented in states like Telangana and Andhra Pradesh, specifically targets improving nutritional outcomes for children, adolescents, and pregnant women?",
+    "options": ["National Health Mission", "Poshan Abhiyaan", "Mid-Day Meal Scheme", "Swachh Bharat Abhiyan"],
+    "correctAnswer": "Poshan Abhiyaan"
   },
   {
     "id": 16,
-    "question": "Rebel TMC MPs responded to the Lok Sabha Speaker's notice after reportedly joining which political party?",
-    "options": ["BJP", "Congress", "NCPI", "AAP"],
-    "correctAnswer": "NCPI"
+    "question": "National Security Advisor discusses defence. Which major defence research organization, with several key laboratories and facilities in Hyderabad, Telangana, plays a vital role in India's defence capabilities?",
+    "options": ["ISRO", "DRDO", "BARC", "HAL"],
+    "correctAnswer": "DRDO"
   },
   {
     "id": 17,
-    "question": "Who issued the notice to the rebel TMC MPs who had joined another party, according to the news?",
-    "options": ["Prime Minister", "Chief Minister", "Lok Sabha Speaker", "President of India"],
-    "correctAnswer": "Lok Sabha Speaker"
+    "question": "Hyderabad, the capital of Telangana, is a prominent hub for India's defence and aerospace industries. Which of the following is a major defence public sector undertaking headquartered or having significant operations in Hyderabad?",
+    "options": ["Bharat Dynamics Limited (BDL)", "Hindustan Shipyard Limited (HSL)", "Mazagon Dock Shipbuilders Limited (MDL)", "Goa Shipyard Limited (GSL)"],
+    "correctAnswer": "Bharat Dynamics Limited (BDL)"
   },
   {
     "id": 18,
-    "question": "According to the evening newswrap, where was the Karthigai Deepam lamp lit amid security restrictions in Thiruparankundram?",
-    "options": ["Annamalai Hills", "Deepathoon", "Thiruvannamalai temple", "Kutralam"],
-    "correctAnswer": "Thiruparankundram"
+    "question": "Discussions on Free Trade Agreements aim to boost economic opportunities. Which major port city in Andhra Pradesh serves as a significant gateway for international trade on India's eastern coast?",
+    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 19,
-    "question": "The Congress party hailed the lighting of the Karthigai Deepam lamp at what specific kind of location?",
-    "options": ["A new spot", "The traditional spot", "A private property", "A government building"],
-    "correctAnswer": "The traditional spot"
+    "question": "Hyderabad, the capital of Telangana, is recognized as a major IT and pharmaceutical hub in India, attracting global investments. What is the popular moniker given to Hyderabad's IT cluster?",
+    "options": ["Cyberabad", "Tech City", "Info Hub", "Digital Gateway"],
+    "correctAnswer": "Cyberabad"
   },
   {
     "id": 20,
-    "question": "In the recently revived BJP-SAD alliance for Punjab, which party was given the 'bada bhai' (elder brother) tag?",
-    "options": ["BJP", "Shiromani Akali Dal", "Congress", "Aam Aadmi Party"],
-    "correctAnswer": "SAD"
+    "question": "While Banaras hosts a Biennale, which traditional textile art form from Andhra Pradesh is renowned for its hand-painted or block-printed cotton fabric?",
+    "options": ["Pattachitra", "Kalamkari", "Madhubani", "Warli"],
+    "correctAnswer": "Kalamkari"
   },
   {
     "id": 21,
-    "question": "Despite SAD receiving the 'bada bhai' tag, what is stated about BJP's aspirations in Punjab, according to the news?",
-    "options": ["They are declining", "They are bigger", "They are equal", "They are satisfied"],
-    "correctAnswer": "They are bigger"
+    "question": "Which Indian classical dance form, deeply rooted in the Telugu-speaking regions now encompassing parts of Andhra Pradesh and Telangana, is known for its graceful movements and storytelling?",
+    "options": ["Bharatanatyam", "Kathak", "Odissi", "Kuchipudi"],
+    "correctAnswer": "Kuchipudi"
   },
   {
     "id": 22,
-    "question": "Saurav Das's criticism regarding UK travel blocks was directed at which entity in India?",
-    "options": ["UK Government", "Indian Judiciary", "The Centre", "Opposition parties"],
-    "correctAnswer": "The Centre"
+    "question": "Proposed changes in motor insurance policies could impact vehicle owners. Which state-owned corporation is responsible for providing public bus transport services across Telangana?",
+    "options": ["APTDC", "TSRTC", "SCR", "HMWSSB"],
+    "correctAnswer": "TSRTC"
   },
   {
     "id": 23,
-    "question": "Besides the revived BJP-SAD alliance, which other political parties are mentioned as still being in contention in Punjab politics?",
-    "options": ["BSP and NCP", "JJP and RLD", "AAP and Congress", "CPI and CPM"],
-    "correctAnswer": "AAP and Congress"
+    "question": "What is the full form of APSRTC, the state-owned road transport corporation that provides extensive bus services in Andhra Pradesh?",
+    "options": ["Andhra Pradesh State Road Transport Corporation", "Andhra Pradesh State Railway Transit Corporation", "Andhra Pradesh Service Roadways and Transit Company", "Andhra Pradesh Shipping and Roadways Transport Corporation"],
+    "correctAnswer": "Andhra Pradesh State Road Transport Corporation"
   },
   {
     "id": 24,
-    "question": "What type of outfits were reported to have protested and clashed with police regarding the Deepam lighting controversy in Tamil Nadu?",
-    "options": ["Farmers' unions", "Student organizations", "Hindu outfits", "Environmental activists"],
-    "correctAnswer": "Hindu outfits"
+    "question": "Improving road safety is a national concern. Which major expressway, a significant infrastructure project in Telangana, connects Hyderabad to various parts of the state and beyond, easing traffic congestion?",
+    "options": ["East Coast Road", "Outer Ring Road (ORR) Hyderabad", "Yamuna Expressway", "Western Peripheral Expressway"],
+    "correctAnswer": "Outer Ring Road (ORR) Hyderabad"
   },
   {
     "id": 25,
-    "question": "The news regarding the BJP and SAD reunion mentioned their alliance was revived for the assembly elections in which year?",
-    "options": ["2024", "2025", "2026", "2027"],
-    "correctAnswer": "2027"
+    "question": "The 'no insurance, no fuel' strategy is proposed to ensure motor vehicle compliance. Which state government department in both Telangana and Andhra Pradesh is primarily responsible for the administration of motor vehicle laws and issuance of driving licenses?",
+    "options": ["Home Department", "Finance Department", "Transport Department", "Revenue Department"],
+    "correctAnswer": "Transport Department"
   }
 ]

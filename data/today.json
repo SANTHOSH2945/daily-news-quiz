@@ -1,152 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Regional Passport Office (RPO) serving citizens of Telangana's capital city is located in which major urban center?",
-    "options": ["Warangal", "Hyderabad", "Karimnagar", "Nizamabad"],
-    "correctAnswer": "Hyderabad"
+    "question": "Which Indian court recently quashed Allahabad High Court orders seeking a CBI and ED inquiry in Rahul Gandhi's assets case?",
+    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court of India", "Madras High Court"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 2,
-    "question": "Which city in Andhra Pradesh hosts a Regional Passport Office (RPO), crucial for processing passport applications in the state?",
-    "options": ["Vijayawada", "Guntur", "Tirupati", "Visakhapatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "Which two central agencies were specified in the Allahabad High Court orders concerning Rahul Gandhi's assets case, which were later quashed by the Supreme Court?",
+    "options": ["NIA and NCB", "CBI and ED", "RAW and IB", "DRI and IT"],
+    "correctAnswer": "CBI and ED"
   },
   {
     "id": 3,
-    "question": "Issues concerning discrepancies in passport applications, as mentioned in the news, are handled by which Union Ministry through its regional offices in states like Telangana and Andhra Pradesh?",
-    "options": ["Ministry of Home Affairs", "Ministry of Finance", "Ministry of External Affairs", "Ministry of Law and Justice"],
-    "correctAnswer": "Ministry of External Affairs"
+    "question": "In which district of Kerala did the 2016 murder of a CPM leader occur, leading to life sentences for 3 BJP-RSS workers?",
+    "options": ["Kozhikode", "Thiruvananthapuram", "Kannur", "Ernakulam"],
+    "correctAnswer": "Kannur"
   },
   {
     "id": 4,
-    "question": "The first privately built PSLV is set for launch. Which Indian state is home to the Satish Dhawan Space Centre, ISRO's primary launch site for such missions?",
-    "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What was the sentence given to the 3 BJP-RSS workers convicted for the 2016 murder of a CPM leader in Kannur?",
+    "options": ["Death penalty", "10 years imprisonment", "Life imprisonment", "Acquittal"],
+    "correctAnswer": "Life imprisonment"
   },
   {
     "id": 5,
-    "question": "Sriharikota, a key location for India's space missions and a potential site for the launch of privately built PSLVs, is situated in which district of Andhra Pradesh?",
-    "options": ["Krishna", "Nellore", "Visakhapatnam", "Guntur"],
-    "correctAnswer": "Nellore"
+    "question": "Which High Court did CJP's Saurav Das approach after being prevented from traveling to London due to a passport issue?",
+    "options": ["Bombay High Court", "Calcutta High Court", "Delhi High Court", "Karnataka High Court"],
+    "correctAnswer": "Delhi High Court"
   },
   {
     "id": 6,
-    "question": "The Satish Dhawan Space Centre (SDSC), where most of India's satellite launches including PSLV missions occur, is located near the town of Sriharikota in Andhra Pradesh. What is another name for this facility?",
-    "options": ["Vikram Sarabhai Space Centre", "Liquid Propulsion Systems Centre", "SHAR (Sriharikota Range)", "U R Rao Satellite Centre"],
-    "correctAnswer": "SHAR (Sriharikota Range)"
+    "question": "What was the reason cited for CJP's Saurav Das being stopped from traveling to London?",
+    "options": ["Medical emergency", "Visa cancellation", "Passport row", "Flight delay"],
+    "correctAnswer": "Passport row"
   },
   {
     "id": 7,
-    "question": "The development of the first privately built PSLV-N1 involves a consortium including which major public sector aerospace company, which also has a presence in Telangana?",
-    "options": ["HAL (Hindustan Aeronautics Limited)", "BEL (Bharat Electronics Limited)", "BHEL (Bharat Heavy Electricals Limited)", "DRDO (Defence Research and Development Organisation)"],
-    "correctAnswer": "HAL (Hindustan Aeronautics Limited)"
+    "question": "Which political party does MLA Vinay Kulkarni, whose bail was cancelled by the Supreme Court in the Yogesh Godar murder case, belong to?",
+    "options": ["Bharatiya Janata Party", "Indian National Congress", "Samajwadi Party", "Bahujan Samaj Party"],
+    "correctAnswer": "Indian National Congress"
   },
   {
     "id": 8,
-    "question": "The Indian National Congress, whose leader Rahul Gandhi made a statement in the news, is a significant political party in Telangana. Who is the current President of the Telangana Pradesh Congress Committee (TPCC)?",
-    "options": ["K. Chandrashekar Rao", "Revanth Reddy", "Bandi Sanjay Kumar", "G. Kishan Reddy"],
-    "correctAnswer": "Revanth Reddy"
+    "question": "In which murder case did the Supreme Court cancel the bail of Congress MLA Vinay Kulkarni?",
+    "options": ["Sushant Singh Rajput murder case", "Yogesh Godar murder case", "Priyadarshini Mattoo murder case", "Jessica Lal murder case"],
+    "correctAnswer": "Yogesh Godar murder case"
   },
   {
     "id": 9,
-    "question": "Following the bifurcation of Andhra Pradesh, the Indian National Congress has faced challenges in regaining its past dominance. Which state, among the bifurcated entities, saw the Congress party's vote share significantly decline in the initial post-bifurcation elections?",
-    "options": ["Telangana", "Andhra Pradesh", "Both Telangana and Andhra Pradesh", "Neither"],
-    "correctAnswer": "Both Telangana and Andhra Pradesh"
+    "question": "How long was Congress MLA Vinay Kulkarni directed to surrender by the Supreme Court after his bail cancellation?",
+    "options": ["One week", "Two weeks", "One month", "Three days"],
+    "correctAnswer": "Two weeks"
   },
   {
     "id": 10,
-    "question": "The Bharatiya Janata Party (BJP) is a national party that has aimed to strengthen its presence in South India. In which of the following states, Telangana or Andhra Pradesh, has the BJP recently made more concerted efforts to emerge as a significant opposition force?",
-    "options": ["Telangana", "Andhra Pradesh", "Both equally", "Neither"],
-    "correctAnswer": "Telangana"
+    "question": "Which court refused interim bail to Umar Khalid and Sharjeel Imam in a recent hearing?",
+    "options": ["Delhi High Court", "Supreme Court of India", "Sessions Court", "Patiala House Court"],
+    "correctAnswer": "Supreme Court of India"
   },
   {
     "id": 11,
-    "question": "While the BJP forms alliances at a national level, which regional party currently holds power in Andhra Pradesh?",
-    "options": ["Telugu Desam Party (TDP)", "YSR Congress Party (YSRCP)", "Jana Sena Party (JSP)", "Bharat Rashtra Samithi (BRS)"],
-    "correctAnswer": "YSR Congress Party (YSRCP)"
+    "question": "Which police force was asked to respond by the Supreme Court regarding the interim bail plea of Umar Khalid and Sharjeel Imam?",
+    "options": ["Mumbai Police", "Uttar Pradesh Police", "Delhi Police", "Karnataka Police"],
+    "correctAnswer": "Delhi Police"
   },
   {
     "id": 12,
-    "question": "The Union Home Minister discusses national security issues. Which states, historically including both Telangana and Andhra Pradesh, have faced significant internal security challenges due to left-wing extremism (Naxalism)?",
-    "options": ["Punjab and Haryana", "Gujarat and Rajasthan", "Telangana and Andhra Pradesh", "Kerala and Goa"],
-    "correctAnswer": "Telangana and Andhra Pradesh"
+    "question": "Which two constituencies are referred to as 'traditional Gandhi family strongholds' in the context of Congress-SP seat-sharing talks for upcoming elections?",
+    "options": ["Varanasi and Gorakhpur", "Amethi and Raebareli", "Kanpur and Agra", "Lucknow and Prayagraj"],
+    "correctAnswer": "Amethi and Raebareli"
   },
   {
     "id": 13,
-    "question": "To combat health issues like anemia, the Telangana government implements various welfare schemes. Which flagship health insurance scheme provides universal health coverage to the citizens of Telangana?",
-    "options": ["Ayushman Bharat", "Aarogyasri", "Kalayana Lakshmi", "Kanti Velugu"],
-    "correctAnswer": "Aarogyasri"
+    "question": "In which state are the constituencies of Amethi and Raebareli, significant for the ongoing Congress-SP seat-sharing discussions?",
+    "options": ["Bihar", "Madhya Pradesh", "Rajasthan", "Uttar Pradesh"],
+    "correctAnswer": "Uttar Pradesh"
   },
   {
     "id": 14,
-    "question": "In Andhra Pradesh, which state-specific scheme provides comprehensive healthcare to all eligible poor families, addressing various medical needs, including those related to nutrition deficiency like anemia?",
-    "options": ["NTR Vaidya Seva", "YSR Aarogyasri", "Amma Vodi", "Jagananna Vidya Deevena"],
-    "correctAnswer": "YSR Aarogyasri"
+    "question": "Which political alliance is currently experiencing tensions over seat-sharing in Uttar Pradesh, as highlighted by the Amethi and Raebareli discussions?",
+    "options": ["NDA", "INDIA bloc", "Mahagathbandhan", "United Front"],
+    "correctAnswer": "INDIA bloc"
   },
   {
     "id": 15,
-    "question": "The ICMR report highlights nutritional deficiencies. Which national scheme, implemented in states like Telangana and Andhra Pradesh, specifically targets improving nutritional outcomes for children, adolescents, and pregnant women?",
-    "options": ["National Health Mission", "Poshan Abhiyaan", "Mid-Day Meal Scheme", "Swachh Bharat Abhiyan"],
-    "correctAnswer": "Poshan Abhiyaan"
+    "question": "Which content creator criticized the Centre on social media after Saurav Das was denied flight to London over a passport row?",
+    "options": ["CarryMinati", "BB Ki Vines", "Dhruv Rathee", "Ashish Chanchlani Vines"],
+    "correctAnswer": "Dhruv Rathee"
   },
   {
     "id": 16,
-    "question": "National Security Advisor discusses defence. Which major defence research organization, with several key laboratories and facilities in Hyderabad, Telangana, plays a vital role in India's defence capabilities?",
-    "options": ["ISRO", "DRDO", "BARC", "HAL"],
-    "correctAnswer": "DRDO"
+    "question": "Which state government recently apologized to the Supreme Court regarding the Karthigai Deepam row, stating a 'lamp could not be lit at a designated spot'?",
+    "options": ["Kerala government", "Karnataka government", "Tamil Nadu government", "Andhra Pradesh government"],
+    "correctAnswer": "Tamil Nadu government"
   },
   {
     "id": 17,
-    "question": "Hyderabad, the capital of Telangana, is a prominent hub for India's defence and aerospace industries. Which of the following is a major defence public sector undertaking headquartered or having significant operations in Hyderabad?",
-    "options": ["Bharat Dynamics Limited (BDL)", "Hindustan Shipyard Limited (HSL)", "Mazagon Dock Shipbuilders Limited (MDL)", "Goa Shipyard Limited (GSL)"],
-    "correctAnswer": "Bharat Dynamics Limited (BDL)"
+    "question": "What was the specific issue for which the Tamil Nadu government issued an apology in the Supreme Court concerning the Karthigai Deepam row?",
+    "options": ["Mismanagement of crowds", "Lamp not lit at designated spot", "Environmental pollution", "Violation of temple rituals"],
+    "correctAnswer": "Lamp not lit at designated spot"
   },
   {
     "id": 18,
-    "question": "Discussions on Free Trade Agreements aim to boost economic opportunities. Which major port city in Andhra Pradesh serves as a significant gateway for international trade on India's eastern coast?",
-    "options": ["Kakinada", "Machilipatnam", "Visakhapatnam", "Krishnapatnam"],
-    "correctAnswer": "Visakhapatnam"
+    "question": "What is the name of the nationwide marches being organized by the Congress party to be held on Thursday?",
+    "options": ["Bharat Jodo Yatra", "Nyay Yatra", "Samvidhan Raksha Marches", "Desh Bachao Andolan"],
+    "correctAnswer": "Samvidhan Raksha Marches"
   },
   {
     "id": 19,
-    "question": "Hyderabad, the capital of Telangana, is recognized as a major IT and pharmaceutical hub in India, attracting global investments. What is the popular moniker given to Hyderabad's IT cluster?",
-    "options": ["Cyberabad", "Tech City", "Info Hub", "Digital Gateway"],
-    "correctAnswer": "Cyberabad"
+    "question": "Who is scheduled to lead the Congress's 'Samvidhan Raksha' march from Lucknow?",
+    "options": ["Rahul Gandhi", "Priyanka Gandhi Vadra", "Mallikarjun Kharge", "Sonia Gandhi"],
+    "correctAnswer": "Mallikarjun Kharge"
   },
   {
     "id": 20,
-    "question": "While Banaras hosts a Biennale, which traditional textile art form from Andhra Pradesh is renowned for its hand-painted or block-printed cotton fabric?",
-    "options": ["Pattachitra", "Kalamkari", "Madhubani", "Warli"],
-    "correctAnswer": "Kalamkari"
+    "question": "Which notable figures' statues are mentioned as starting points for the Congress's 'Samvidhan Raksha' marches?",
+    "options": ["Sardar Patel or Subhash Chandra Bose", "Bhagat Singh or Chandrashekhar Azad", "BR Ambedkar or Mahatma Gandhi", "Jawaharlal Nehru or Indira Gandhi"],
+    "correctAnswer": "BR Ambedkar or Mahatma Gandhi"
   },
   {
     "id": 21,
-    "question": "Which Indian classical dance form, deeply rooted in the Telugu-speaking regions now encompassing parts of Andhra Pradesh and Telangana, is known for its graceful movements and storytelling?",
-    "options": ["Bharatanatyam", "Kathak", "Odissi", "Kuchipudi"],
-    "correctAnswer": "Kuchipudi"
+    "question": "Which political leader reportedly offered 26 seats to Congress for the upcoming Uttar Pradesh Assembly elections, causing a strong reaction from Congress?",
+    "options": ["Mayawati", "Akhilesh Yadav", "Yogi Adityanath", "Arvind Kejriwal"],
+    "correctAnswer": "Akhilesh Yadav"
   },
   {
     "id": 22,
-    "question": "Proposed changes in motor insurance policies could impact vehicle owners. Which state-owned corporation is responsible for providing public bus transport services across Telangana?",
-    "options": ["APTDC", "TSRTC", "SCR", "HMWSSB"],
-    "correctAnswer": "TSRTC"
+    "question": "Approximately how many seats is the Congress party reportedly seeking in the upcoming Uttar Pradesh Assembly elections, as mentioned in the news?",
+    "options": ["26 seats", "50 seats", "120 seats", "75 seats"],
+    "correctAnswer": "120 seats"
   },
   {
     "id": 23,
-    "question": "What is the full form of APSRTC, the state-owned road transport corporation that provides extensive bus services in Andhra Pradesh?",
-    "options": ["Andhra Pradesh State Road Transport Corporation", "Andhra Pradesh State Railway Transit Corporation", "Andhra Pradesh Service Roadways and Transit Company", "Andhra Pradesh Shipping and Roadways Transport Corporation"],
-    "correctAnswer": "Andhra Pradesh State Road Transport Corporation"
+    "question": "Which festival was at the center of the row where the Tamil Nadu government apologized to the Supreme Court?",
+    "options": ["Pongal", "Diwali", "Karthigai Deepam", "Onam"],
+    "correctAnswer": "Karthigai Deepam"
   },
   {
     "id": 24,
-    "question": "Improving road safety is a national concern. Which major expressway, a significant infrastructure project in Telangana, connects Hyderabad to various parts of the state and beyond, easing traffic congestion?",
-    "options": ["East Coast Road", "Outer Ring Road (ORR) Hyderabad", "Yamuna Expressway", "Western Peripheral Expressway"],
-    "correctAnswer": "Outer Ring Road (ORR) Hyderabad"
+    "question": "What was the general purpose of the Congress's 'Samvidhan Raksha' marches?",
+    "options": ["To celebrate Independence Day", "To honour Constitution Day", "To protest against inflation", "To demand new elections"],
+    "correctAnswer": "To honour Constitution Day"
   },
   {
     "id": 25,
-    "question": "The 'no insurance, no fuel' strategy is proposed to ensure motor vehicle compliance. Which state government department in both Telangana and Andhra Pradesh is primarily responsible for the administration of motor vehicle laws and issuance of driving licenses?",
-    "options": ["Home Department", "Finance Department", "Transport Department", "Revenue Department"],
-    "correctAnswer": "Transport Department"
+    "question": "The Supreme Court's quashing of the Allahabad HC orders in Rahul Gandhi's assets case relates to an inquiry by which types of agencies?",
+    "options": ["Environmental protection agencies", "Financial investigation agencies", "Space research organizations", "Agricultural development bodies"],
+    "correctAnswer": "Financial investigation agencies"
   }
 ]

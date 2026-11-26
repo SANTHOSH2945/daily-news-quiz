@@ -1,277 +1,152 @@
 [
   {
     "id": 1,
-    "question": "The Supreme Court recently directed the Centre to establish SOPs for which national exercise, specifically concerning caste data collection?",
-    "options": [
-      "National Register of Citizens (NRC) update",
-      "Goods and Services Tax (GST) implementation",
-      "Upcoming Population Census",
-      "State Assembly Elections"
-    ],
-    "correctAnswer": "Upcoming Population Census"
+    "question": "What percentage of reservation for women in state assemblies is proposed by the discussed Women's Reservation Bill, directly impacting legislative bodies in states like Telangana and Andhra Pradesh?",
+    "options": ["25 percent", "33 percent", "40 percent", "50 percent"],
+    "correctAnswer": "33 percent"
   },
   {
     "id": 2,
-    "question": "What assurance did the petitioner seek from the Supreme Court regarding the methodology and privacy in caste data collection for the census?",
-    "options": [
-      "Timely completion of the census",
-      "Transparency in funding for the census",
-      "Accuracy of data collection and individual privacy",
-      "Inclusion of all minority groups"
-    ],
-    "correctAnswer": "Accuracy of data collection and individual privacy"
+    "question": "The Women's Reservation Bill aims to provide reservation for women in which legislative bodies, including those of Telangana and Andhra Pradesh?",
+    "options": ["Only Lok Sabha", "Only State Assemblies", "Lok Sabha and State Assemblies", "Panchayats and Municipalities"],
+    "correctAnswer": "Lok Sabha and State Assemblies"
   },
   {
     "id": 3,
-    "question": "What kind of affidavit related to caste information verification is required by the Supreme Court from the Centre regarding the census?",
-    "options": [
-      "An affidavit detailing the financial allocation for the census",
-      "An affidavit outlining the verification process for caste information",
-      "An affidavit summarizing historical caste data",
-      "An affidavit on the digital infrastructure for data collection"
-    ],
-    "correctAnswer": "An affidavit outlining the verification process for caste information"
+    "question": "The implementation of the Women's Reservation Bill, which will affect constituency arrangements in states like Telangana and Andhra Pradesh, is linked to which future process?",
+    "options": ["Economic Census", "Population Survey", "Delimitation", "Voter Registration Drive"],
+    "correctAnswer": "Delimitation"
   },
   {
     "id": 4,
-    "question": "Which central government body is implicitly tasked with preparing the standard operating procedures for the census, as per the SC directive to the Centre?",
-    "options": [
-      "Ministry of Home Affairs",
-      "NITI Aayog",
-      "Election Commission of India",
-      "Ministry of Finance"
-    ],
-    "correctAnswer": "Ministry of Home Affairs"
+    "question": "How many Lok Sabha seats are proposed to be increased to by the Women's Reservation Bill, a change that could impact the political representation from states like Telangana and Andhra Pradesh?",
+    "options": ["600", "750", "850", "1000"],
+    "correctAnswer": "850"
   },
   {
     "id": 5,
-    "question": "The Supreme Court's directive on census data collection primarily addresses concerns related to which demographic aspect?",
-    "options": [
-      "Religious affiliation",
-      "Caste-related information",
-      "Income levels",
-      "Educational qualifications"
-    ],
-    "correctAnswer": "Caste-related information"
+    "question": "Which Indian city, located in Andhra Pradesh, is strategically significant due to its major naval command and could play a role in national defense initiatives like the India-Germany submarine partnership?",
+    "options": ["Chennai", "Kochi", "Visakhapatnam", "Mumbai"],
+    "correctAnswer": "Visakhapatnam"
   },
   {
     "id": 6,
-    "question": "Which regulatory body was instructed by the Supreme Court to tighten front-of-package labelling for packaged foods in India?",
-    "options": [
-      "Bureau of Indian Standards (BIS)",
-      "Food Safety and Standards Authority of India (FSSAI)",
-      "Consumer Affairs Department",
-      "Ministry of Health and Family Welfare"
-    ],
-    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
+    "question": "The P-75I submarine project with Germany aims to enhance India's capabilities in which specific naval technology, relevant to maritime defense along coastal states like Andhra Pradesh?",
+    "options": ["Ballistic Missile Defense", "Aircraft Carrier Operations", "Air-Independent Propulsion", "Anti-Piracy Operations"],
+    "correctAnswer": "Air-Independent Propulsion"
   },
   {
     "id": 7,
-    "question": "What specific components are now mandated to be highlighted on front-of-package labels for packaged foods by the Supreme Court's directive to FSSAI?",
-    "options": [
-      "Protein and Fiber",
-      "Vitamins and Minerals",
-      "Total sugars and Saturated fat",
-      "Carbohydrates and Sodium"
-    ],
-    "correctAnswer": "Total sugars and Saturated fat"
+    "question": "The India-Germany submarine partnership is expected to position India as a manufacturing hub for submarines for which region, potentially boosting defense industry capabilities in coastal states such as Andhra Pradesh?",
+    "options": ["Middle East", "African Nations", "Southeast Asian nations", "European Union"],
+    "correctAnswer": "Southeast Asian nations"
   },
   {
     "id": 8,
-    "question": "The Supreme Court's recent order to FSSAI includes a mandate for specific warning labels for products high in which three substances?",
-    "options": [
-      "Vitamins, Protein, Calcium",
-      "Fat, Sugar, Salt",
-      "Fiber, Iron, Potassium",
-      "Carbohydrates, Cholesterol, Preservatives"
-    ],
-    "correctAnswer": "Fat, Sugar, Salt"
+    "question": "The road transport ministry has tightened bidding norms for government-funded projects. How might this policy change specifically affect the quality and efficiency of road infrastructure development in states like Telangana and Andhra Pradesh?",
+    "options": ["Increase project delays", "Decrease competition among contractors", "Lead to improved project quality and faster completion", "Result in higher project costs"],
+    "correctAnswer": "Lead to improved project quality and faster completion"
   },
   {
     "id": 9,
-    "question": "What action did the Supreme Court direct FSSAI to undertake regarding the threshold levels of nutrients like fat, sugar, and salt?",
-    "options": [
-      "Maintain current levels",
-      "Increase threshold levels",
-      "Reformulate threshold levels",
-      "Remove all threshold levels"
-    ],
-    "correctAnswer": "Reformulate threshold levels"
+    "question": "What new criteria will now determine contractors' eligibility for fully government-funded road projects, impacting construction companies operating in states like Telangana and Andhra Pradesh?",
+    "options": ["Financial year assessment", "Years of experience", "Performance ratings", "Number of employees"],
+    "correctAnswer": "Performance ratings"
   },
   {
     "id": 10,
-    "question": "The directive to FSSAI regarding front-of-package labelling aims to empower consumers with better information about what?",
-    "options": [
-      "The origin of ingredients",
-      "The manufacturing process",
-      "The nutritional content and health impact of packaged foods",
-      "The shelf life of products"
-    ],
-    "correctAnswer": "The nutritional content and health impact of packaged foods"
+    "question": "Under the revised Request for Proposal framework for road projects, affecting states like Telangana and Andhra Pradesh, what new disclosure is mandated for bidders to ensure transparency?",
+    "options": ["Company employee salaries", "Ongoing disputes", "Annual profit margins", "Supplier lists"],
+    "correctAnswer": "Ongoing disputes"
   },
   {
     "id": 11,
-    "question": "What is a key requirement, as per a recent Supreme Court ruling, for the PMLA Adjudicating Authority to confirm ED property attachments?",
-    "options": [
-      "Presence of a legal counsel for the accused",
-      "Prior approval from the Ministry of Finance",
-      "Presence of a judicial member",
-      "Consent from the state government"
-    ],
-    "correctAnswer": "Presence of a judicial member"
+    "question": "Stricter bidding norms for major infrastructure projects, including road development in states such as Andhra Pradesh and Telangana, have been specifically implemented for which type of entities?",
+    "options": ["Public sector undertakings", "Small local contractors", "Joint ventures", "Foreign construction firms"],
+    "correctAnswer": "Joint ventures"
   },
   {
     "id": 12,
-    "question": "The Prevention of Money Laundering Act (PMLA) falls under the jurisdiction of which specific type of authority for confirming property attachments?",
-    "options": [
-      "District Courts",
-      "High Courts",
-      "Adjudicating Authority",
-      "Central Bureau of Investigation (CBI)"
-    ],
-    "correctAnswer": "Adjudicating Authority"
+    "question": "The government is urging industry to curb the diversion of subsidized farm-grade urea. How would successful implementation of this directive primarily benefit the agricultural sector in states like Telangana and Andhra Pradesh?",
+    "options": ["Reduce water pollution", "Ensure adequate supply of fertilizer for farmers", "Increase industrial production", "Lower fuel costs"],
+    "correctAnswer": "Ensure adequate supply of fertilizer for farmers"
   },
   {
     "id": 13,
-    "question": "Which central agency's actions regarding property attachment are directly impacted by the Supreme Court's ruling on the PMLA Adjudicating Authority?",
-    "options": [
-      "Central Bureau of Investigation (CBI)",
-      "National Investigation Agency (NIA)",
-      "Enforcement Directorate (ED)",
-      "Income Tax Department"
-    ],
-    "correctAnswer": "Enforcement Directorate (ED)"
+    "question": "What is the primary issue highlighted by the Fertilizer Secretary regarding the misuse of farm-grade urea, a concern for agricultural states such as Telangana and Andhra Pradesh?",
+    "options": ["High transportation costs", "Disparity in pricing between agricultural and industrial-grade urea", "Lack of storage facilities", "Excessive rainfall damage"],
+    "correctAnswer": "Disparity in pricing between agricultural and industrial-grade urea"
   },
   {
     "id": 14,
-    "question": "The SC ruling emphasizes the necessity of a specific member type for the PMLA Adjudicating Authority's quorum. Who is this member?",
-    "options": [
-      "An administrative member",
-      "A technical member",
-      "A financial expert",
-      "A judicial member"
-    ],
-    "correctAnswer": "A judicial member"
+    "question": "Which specific practice by dealers was identified as contributing to the diversion of urea, negatively impacting farmers in agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["Under-reporting sales", "Fertiliser tagging practices", "Selling expired products", "Overcharging for delivery"],
+    "correctAnswer": "Fertiliser tagging practices"
   },
   {
     "id": 15,
-    "question": "What is the full form of PMLA, which was recently a subject of a Supreme Court ruling regarding property attachments?",
-    "options": [
-      "Public Money Laundering Act",
-      "Prevention of Money Laundering Act",
-      "Protection of Monetary Liabilities Act",
-      "Prohibition of Money Laundering Authority"
-    ],
-    "correctAnswer": "Prevention of Money Laundering Act"
+    "question": "The Fertilizer Association of India emphasized the need for increased domestic production and diversification of what, crucial for ensuring fertilizer security in agricultural states like Telangana and Andhra Pradesh?",
+    "options": ["Finished products", "Raw materials", "Machinery", "Labor force"],
+    "correctAnswer": "Raw materials"
   },
   {
     "id": 16,
-    "question": "On which annual observance did Prime Minister Modi recently make remarks concerning democracy in India?",
-    "options": [
-      "Republic Day",
-      "Independence Day",
-      "Constitution Day",
-      "Gandhi Jayanti"
-    ],
-    "correctAnswer": "Constitution Day"
+    "question": "Indian exporters, including those from Telangana and Andhra Pradesh, are facing potential challenges due to new US tariffs. What proposed tariff percentage could significantly impact their trade?",
+    "options": ["10 percent", "15 percent", "25 percent", "30 percent"],
+    "correctAnswer": "25 percent"
   },
   {
     "id": 17,
-    "question": "What was the main theme of PM Modi's accusation against a specific political party on Constitution Day?",
-    "options": [
-      "Economic mismanagement",
-      "Weakening democracy",
-      "Lack of infrastructure development",
-      "Corruption in public services"
-    ],
-    "correctAnswer": "Weakening democracy"
+    "question": "Which countries are mentioned as potentially gaining a competitive advantage over India in the US market due to their exclusion from the tariff investigation, affecting exports from regions like Telangana and Andhra Pradesh?",
+    "options": ["China and Russia", "Japan and South Korea", "Pakistan and Sri Lanka", "Bangladesh and Vietnam"],
+    "correctAnswer": "Pakistan and Sri Lanka"
   },
   {
     "id": 18,
-    "question": "Constitution Day in India commemorates the adoption of what significant document?",
-    "options": [
-      "Indian Penal Code",
-      "Code of Criminal Procedure",
-      "Constitution of India",
-      "Right to Information Act"
-    ],
-    "correctAnswer": "Constitution of India"
+    "question": "The uncertainty surrounding US tariffs is primarily causing what for Indian exporters, including those operating from states like Telangana and Andhra Pradesh?",
+    "options": ["Increased demand for Indian goods", "A stable trade environment", "Significant hurdles and trade uncertainty", "Opportunities for new markets"],
+    "correctAnswer": "Significant hurdles and trade uncertainty"
   },
   {
     "id": 19,
-    "question": "In which month is Constitution Day celebrated annually in India?",
-    "options": [
-      "January",
-      "August",
-      "November",
-      "October"
-    ],
-    "correctAnswer": "November"
+    "question": "What potential future development in trade negotiations could mitigate the impact of proposed US tariffs on Indian exporters, including those from Telangana and Andhra Pradesh?",
+    "options": ["Imposition of retaliatory tariffs by India", "A decrease in the proposed tariffs", "Complete waiver of all tariffs", "Shift to a barter system"],
+    "correctAnswer": "A decrease in the proposed tariffs"
   },
   {
     "id": 20,
-    "question": "The observance of Constitution Day primarily aims to promote awareness about what among Indian citizens?",
-    "options": [
-      "Economic policies",
-      "The fundamental principles and values of the Indian Constitution",
-      "Space exploration achievements",
-      "Agricultural reforms"
-    ],
-    "correctAnswer": "The fundamental principles and values of the Indian Constitution"
+    "question": "Which major political party has criticized the government for attempting to revive a previously defeated Women's Reservation Bill, a move that could reshape the political landscape in states like Telangana and Andhra Pradesh?",
+    "options": ["BJP", "Congress", "AAP", "BSP"],
+    "correctAnswer": "Congress"
   },
   {
     "id": 21,
-    "question": "Which government body instructed Netflix not to stream a specific Pakistani web series in India?",
-    "options": [
-      "Ministry of External Affairs",
-      "Ministry of Information and Broadcasting",
-      "Ministry of Communications",
-      "Ministry of Culture"
-    ],
-    "correctAnswer": "Ministry of Information and Broadcasting"
+    "question": "The Women's Reservation Bill proposes a Constitution amendment aimed at increasing the number of seats in which central legislative body, impacting the political representation from states like Telangana and Andhra Pradesh?",
+    "options": ["Rajya Sabha", "Lok Sabha", "Parliamentary Committees", "Zila Parishads"],
+    "correctAnswer": "Lok Sabha"
   },
   {
     "id": 22,
-    "question": "What is the title of the Pakistani web series that was subject to the Information and Broadcasting Ministry's directive to Netflix?",
-    "options": [
-      "Zindagi Gulzar Hai",
-      "Humsafar",
-      "Jo Bachay Hain Sang Samait Lo",
-      "Churails"
-    ],
-    "correctAnswer": "Jo Bachay Hain Sang Samait Lo"
+    "question": "The India-Germany submarine partnership emphasizes significant technology transfer to India. What specific advanced technology, crucial for extended underwater operations and potentially influencing future defense infrastructure in regions like Andhra Pradesh, is mentioned?",
+    "options": ["Stealth technology", "Nuclear propulsion", "Air-Independent Propulsion", "Automated weapon systems"],
+    "correctAnswer": "Air-Independent Propulsion"
   },
   {
     "id": 23,
-    "question": "The directive to Netflix from the Centre specifically concerns content originating from which country?",
-    "options": [
-      "China",
-      "United States",
-      "Pakistan",
-      "United Kingdom"
-    ],
-    "correctAnswer": "Pakistan"
+    "question": "The road transport ministry's new bidding norms replace the old financial year assessment approach with what new standard to evaluate contractors for projects across states, including Telangana and Andhra Pradesh?",
+    "options": ["Annual turnover", "Past project completion rate", "Performance ratings", "Years in business"],
+    "correctAnswer": "Performance ratings"
   },
   {
     "id": 24,
-    "question": "Which streaming platform was asked by the Centre to honor its commitment regarding the non-streaming of certain international content?",
-    "options": [
-      "Amazon Prime Video",
-      "Disney+ Hotstar",
-      "Netflix",
-      "Zee5"
-    ],
-    "correctAnswer": "Netflix"
+    "question": "What is the specific grade of urea that the government is asking the industry to stop diverting from its intended use, a measure vital for agricultural productivity in states like Telangana and Andhra Pradesh?",
+    "options": ["Industrial-grade urea", "Fertilizer-grade urea", "Subsidised farm-grade urea", "Technical-grade urea"],
+    "correctAnswer": "Subsidised farm-grade urea"
   },
   {
     "id": 25,
-    "question": "What type of content did Indian industry bodies and the government seek to prevent from being streamed by Netflix?",
-    "options": [
-      "Historical documentaries",
-      "Children's animated series",
-      "Pakistani-origin web series",
-      "Reality television shows"
-    ],
-    "correctAnswer": "Pakistani-origin web series"
+    "question": "Besides potential tariffs, what broader aspect of India-US trade relations is contributing to uncertainty for Indian businesses, including exporters from Telangana and Andhra Pradesh, according to experts?",
+    "options": ["Fluctuating currency exchange rates", "Lack of bilateral trade agreements", "Future trade negotiations", "Changes in US consumer preferences"],
+    "correctAnswer": "Future trade negotiations"
   }
 ]

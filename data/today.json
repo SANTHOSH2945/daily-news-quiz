@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "A new political movement is forming in Andhra Pradesh led by an 'ex-Jagan confidant'. Which political demographic is this new party primarily targeting?",
-    "options": ["Left-wing intellectuals", "Farmers' cooperatives", "Hindu right space", "Youth employment advocates"],
-    "correctAnswer": "Hindu right space"
+    "question": "The Supreme Court recently directed the Centre to establish SOPs for which national exercise, specifically concerning caste data collection?",
+    "options": [
+      "National Register of Citizens (NRC) update",
+      "Goods and Services Tax (GST) implementation",
+      "Upcoming Population Census",
+      "State Assembly Elections"
+    ],
+    "correctAnswer": "Upcoming Population Census"
   },
   {
     "id": 2,
-    "question": "Which Indian state is currently witnessing a political development where a former associate of a prominent leader is forming a new party to target a specific religious-political demographic?",
-    "options": ["Telangana", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
-    "correctAnswer": "Andhra Pradesh"
+    "question": "What assurance did the petitioner seek from the Supreme Court regarding the methodology and privacy in caste data collection for the census?",
+    "options": [
+      "Timely completion of the census",
+      "Transparency in funding for the census",
+      "Accuracy of data collection and individual privacy",
+      "Inclusion of all minority groups"
+    ],
+    "correctAnswer": "Accuracy of data collection and individual privacy"
   },
   {
     "id": 3,
-    "question": "The news mentions an 'ex-Jagan confidant' forming a new political party in Andhra Pradesh. To which prominent Andhra Pradesh political figure does 'Jagan' refer in this context?",
-    "options": ["N. Chandrababu Naidu", "K. Chandrashekar Rao", "Jagan Mohan Reddy", "Pawan Kalyan"],
-    "correctAnswer": "Jagan Mohan Reddy"
+    "question": "What kind of affidavit related to caste information verification is required by the Supreme Court from the Centre regarding the census?",
+    "options": [
+      "An affidavit detailing the financial allocation for the census",
+      "An affidavit outlining the verification process for caste information",
+      "An affidavit summarizing historical caste data",
+      "An affidavit on the digital infrastructure for data collection"
+    ],
+    "correctAnswer": "An affidavit outlining the verification process for caste information"
   },
   {
     "id": 4,
-    "question": "What is the primary stated objective of the 'ex-Jagan confidant' in forming a new political party in Andhra Pradesh?",
-    "options": ["To promote regional language", "To strengthen inter-state relations", "To target the Hindu right space", "To advocate for greater central funding"],
-    "correctAnswer": "To target the Hindu right space"
+    "question": "Which central government body is implicitly tasked with preparing the standard operating procedures for the census, as per the SC directive to the Centre?",
+    "options": [
+      "Ministry of Home Affairs",
+      "NITI Aayog",
+      "Election Commission of India",
+      "Ministry of Finance"
+    ],
+    "correctAnswer": "Ministry of Home Affairs"
   },
   {
     "id": 5,
-    "question": "PM Narendra Modi emphasized which new approach for enhancing youth employment opportunities across India?",
-    "options": ["Study–Work–Succeed", "Classroom–Company–Career", "Learn–Earn–Grow", "Skill–Implement–Innovate"],
-    "correctAnswer": "Classroom–Company–Career"
+    "question": "The Supreme Court's directive on census data collection primarily addresses concerns related to which demographic aspect?",
+    "options": [
+      "Religious affiliation",
+      "Caste-related information",
+      "Income levels",
+      "Educational qualifications"
+    ],
+    "correctAnswer": "Caste-related information"
   },
   {
     "id": 6,
-    "question": "Which educational institutions did PM Modi highlight for strengthening partnerships with Public Sector Undertakings (PSUs) to meet future manpower needs across India?",
-    "options": ["Universities", "Engineering Colleges", "Industrial Training Institutes (ITIs)", "Management Schools"],
-    "correctAnswer": "Industrial Training Institutes (ITIs)"
+    "question": "Which regulatory body was instructed by the Supreme Court to tighten front-of-package labelling for packaged foods in India?",
+    "options": [
+      "Bureau of Indian Standards (BIS)",
+      "Food Safety and Standards Authority of India (FSSAI)",
+      "Consumer Affairs Department",
+      "Ministry of Health and Family Welfare"
+    ],
+    "correctAnswer": "Food Safety and Standards Authority of India (FSSAI)"
   },
   {
     "id": 7,
-    "question": "PM Modi encouraged the development of decentralized power projects closer to consumption centers. What specific type of energy sources did he mention?",
-    "options": ["Thermal and Hydro power", "Nuclear and Geothermal power", "Solar and wind power", "Biomass and Tidal power"],
-    "correctAnswer": "Solar and wind power"
+    "question": "What specific components are now mandated to be highlighted on front-of-package labels for packaged foods by the Supreme Court's directive to FSSAI?",
+    "options": [
+      "Protein and Fiber",
+      "Vitamins and Minerals",
+      "Total sugars and Saturated fat",
+      "Carbohydrates and Sodium"
+    ],
+    "correctAnswer": "Total sugars and Saturated fat"
   },
   {
     "id": 8,
-    "question": "According to PM Modi, what should Public Sector Undertakings (PSUs) evaluate to strengthen partnerships with Industrial Training Institutes (ITIs) across India?",
-    "options": ["Past financial performance", "Current market share", "Future manpower needs", "Employee satisfaction rates"],
-    "correctAnswer": "Future manpower needs"
+    "question": "The Supreme Court's recent order to FSSAI includes a mandate for specific warning labels for products high in which three substances?",
+    "options": [
+      "Vitamins, Protein, Calcium",
+      "Fat, Sugar, Salt",
+      "Fiber, Iron, Potassium",
+      "Carbohydrates, Cholesterol, Preservatives"
+    ],
+    "correctAnswer": "Fat, Sugar, Salt"
   },
   {
     "id": 9,
-    "question": "The 'Classroom–Company–Career' approach advocated by PM Modi aims to achieve what primary goal for youth in India?",
-    "options": ["To promote entrepreneurship", "To enhance employment opportunities", "To foster academic research", "To improve digital literacy"],
-    "correctAnswer": "To enhance employment opportunities"
+    "question": "What action did the Supreme Court direct FSSAI to undertake regarding the threshold levels of nutrients like fat, sugar, and salt?",
+    "options": [
+      "Maintain current levels",
+      "Increase threshold levels",
+      "Reformulate threshold levels",
+      "Remove all threshold levels"
+    ],
+    "correctAnswer": "Reformulate threshold levels"
   },
   {
     "id": 10,
-    "question": "India's sugar production for the 2026-27 season is expected to decrease by what percentage?",
-    "options": ["5%", "10%", "15%", "20%"],
-    "correctAnswer": "15%"
+    "question": "The directive to FSSAI regarding front-of-package labelling aims to empower consumers with better information about what?",
+    "options": [
+      "The origin of ingredients",
+      "The manufacturing process",
+      "The nutritional content and health impact of packaged foods",
+      "The shelf life of products"
+    ],
+    "correctAnswer": "The nutritional content and health impact of packaged foods"
   },
   {
     "id": 11,
-    "question": "What is the primary reason cited for the expected decrease in India's sugar production for the 2026-27 season?",
-    "options": ["Decrease in cultivated area", "Increased export restrictions", "Poor monsoon/Inadequate rainfall", "Rise in sugar consumption"],
-    "correctAnswer": "Poor monsoon/Inadequate rainfall"
+    "question": "What is a key requirement, as per a recent Supreme Court ruling, for the PMLA Adjudicating Authority to confirm ED property attachments?",
+    "options": [
+      "Presence of a legal counsel for the accused",
+      "Prior approval from the Ministry of Finance",
+      "Presence of a judicial member",
+      "Consent from the state government"
+    ],
+    "correctAnswer": "Presence of a judicial member"
   },
   {
     "id": 12,
-    "question": "Which two Indian states are specifically mentioned as contributing significantly to the anticipated decline in national sugar production?",
-    "options": ["Uttar Pradesh and Bihar", "Andhra Pradesh and Telangana", "Maharashtra and Karnataka", "Gujarat and Punjab"],
-    "correctAnswer": "Maharashtra and Karnataka"
+    "question": "The Prevention of Money Laundering Act (PMLA) falls under the jurisdiction of which specific type of authority for confirming property attachments?",
+    "options": [
+      "District Courts",
+      "High Courts",
+      "Adjudicating Authority",
+      "Central Bureau of Investigation (CBI)"
+    ],
+    "correctAnswer": "Adjudicating Authority"
   },
   {
     "id": 13,
-    "question": "What is the estimated net sugar production for India mentioned for the 2026-27 season?",
-    "options": ["Around 240 lakh tonne", "Around 265 lakh tonne", "Around 280 lakh tonne", "Around 300 lakh tonne"],
-    "correctAnswer": "Around 265 lakh tonne"
+    "question": "Which central agency's actions regarding property attachment are directly impacted by the Supreme Court's ruling on the PMLA Adjudicating Authority?",
+    "options": [
+      "Central Bureau of Investigation (CBI)",
+      "National Investigation Agency (NIA)",
+      "Enforcement Directorate (ED)",
+      "Income Tax Department"
+    ],
+    "correctAnswer": "Enforcement Directorate (ED)"
   },
   {
     "id": 14,
-    "question": "Which association noted various climatic factors affecting sugar crops across key Indian states, contributing to a production decline?",
-    "options": ["National Federation of Farmers", "Indian Sugar & Bio-Energy Manufacturers Association", "Agricultural Producers Union", "Confederation of Indian Industry"],
-    "correctAnswer": "Indian Sugar & Bio-Energy Manufacturers Association"
+    "question": "The SC ruling emphasizes the necessity of a specific member type for the PMLA Adjudicating Authority's quorum. Who is this member?",
+    "options": [
+      "An administrative member",
+      "A technical member",
+      "A financial expert",
+      "A judicial member"
+    ],
+    "correctAnswer": "A judicial member"
   },
   {
     "id": 15,
-    "question": "What is the total financial outlay approved by the Indian government for a new scheme to promote domestic manufacturing of construction and infrastructure equipment?",
-    "options": ["Rs 5,000 crore", "Rs 11,000 crore", "Rs 15,000 crore", "Rs 20,000 crore"],
-    "correctAnswer": "Rs 11,000 crore"
+    "question": "What is the full form of PMLA, which was recently a subject of a Supreme Court ruling regarding property attachments?",
+    "options": [
+      "Public Money Laundering Act",
+      "Prevention of Money Laundering Act",
+      "Protection of Monetary Liabilities Act",
+      "Prohibition of Money Laundering Authority"
+    ],
+    "correctAnswer": "Prevention of Money Laundering Act"
   },
   {
     "id": 16,
-    "question": "The new scheme for domestic manufacturing of construction and infrastructure equipment in India primarily aims to reduce the nation's dependence on what?",
-    "options": ["Foreign technology", "Skilled labor", "Imports", "Raw materials"],
-    "correctAnswer": "Imports"
+    "question": "On which annual observance did Prime Minister Modi recently make remarks concerning democracy in India?",
+    "options": [
+      "Republic Day",
+      "Independence Day",
+      "Constitution Day",
+      "Gandhi Jayanti"
+    ],
+    "correctAnswer": "Constitution Day"
   },
   {
     "id": 17,
-    "question": "How many new 'brownfield' urea plants have been cleared by the Indian government to boost domestic agricultural production?",
-    "options": ["Two", "Four", "Six", "Eight"],
-    "correctAnswer": "Six"
+    "question": "What was the main theme of PM Modi's accusation against a specific political party on Constitution Day?",
+    "options": [
+      "Economic mismanagement",
+      "Weakening democracy",
+      "Lack of infrastructure development",
+      "Corruption in public services"
+    ],
+    "correctAnswer": "Weakening democracy"
   },
   {
     "id": 18,
-    "question": "What is the main objective of increasing domestic urea production through new plants in India?",
-    "options": ["To promote sustainable farming", "To meet national demand and cut imports", "To create rural employment", "To diversify agricultural exports"],
-    "correctAnswer": "To meet national demand and cut imports"
+    "question": "Constitution Day in India commemorates the adoption of what significant document?",
+    "options": [
+      "Indian Penal Code",
+      "Code of Criminal Procedure",
+      "Constitution of India",
+      "Right to Information Act"
+    ],
+    "correctAnswer": "Constitution of India"
   },
   {
     "id": 19,
-    "question": "The government's manufacturing push includes incentivizing the production of advanced machinery over how many years?",
-    "options": ["Five years", "Seven years", "Eight years", "Ten years"],
-    "correctAnswer": "Eight years"
+    "question": "In which month is Constitution Day celebrated annually in India?",
+    "options": [
+      "January",
+      "August",
+      "November",
+      "October"
+    ],
+    "correctAnswer": "November"
   },
   {
     "id": 20,
-    "question": "What type of equipment is specifically targeted for domestic manufacturing promotion under the new Indian government scheme?",
-    "options": ["Medical devices", "Consumer electronics", "Construction and infrastructure equipment", "Automotive components"],
-    "correctAnswer": "Construction and infrastructure equipment"
+    "question": "The observance of Constitution Day primarily aims to promote awareness about what among Indian citizens?",
+    "options": [
+      "Economic policies",
+      "The fundamental principles and values of the Indian Constitution",
+      "Space exploration achievements",
+      "Agricultural reforms"
+    ],
+    "correctAnswer": "The fundamental principles and values of the Indian Constitution"
   },
   {
     "id": 21,
-    "question": "The government's initiatives are described as a 'big manufacturing push' to achieve which broader economic goal for India?",
-    "options": ["Increase service sector output", "Boost domestic production and reduce import dependence", "Expand tourism revenue", "Strengthen diplomatic ties"],
-    "correctAnswer": "Boost domestic production and reduce import dependence"
+    "question": "Which government body instructed Netflix not to stream a specific Pakistani web series in India?",
+    "options": [
+      "Ministry of External Affairs",
+      "Ministry of Information and Broadcasting",
+      "Ministry of Communications",
+      "Ministry of Culture"
+    ],
+    "correctAnswer": "Ministry of Information and Broadcasting"
   },
   {
     "id": 22,
-    "question": "The six new urea plants cleared by the government are categorized as 'brownfield' projects. In the context of industrial projects, what does 'brownfield' generally imply?",
-    "options": ["Completely new construction on undeveloped land", "Expansion or upgrade of existing facilities", "Projects located in environmentally protected areas", "Initiatives focusing on green energy production"],
-    "correctAnswer": "Expansion or upgrade of existing facilities"
+    "question": "What is the title of the Pakistani web series that was subject to the Information and Broadcasting Ministry's directive to Netflix?",
+    "options": [
+      "Zindagi Gulzar Hai",
+      "Humsafar",
+      "Jo Bachay Hain Sang Samait Lo",
+      "Churails"
+    ],
+    "correctAnswer": "Jo Bachay Hain Sang Samait Lo"
   },
   {
     "id": 23,
-    "question": "Besides reducing import dependence, what is another significant benefit expected from the scheme promoting domestic manufacturing of construction equipment in India?",
-    "options": ["Decrease in overall infrastructure projects", "Lower skilled labor requirements", "Enhanced production of advanced machinery", "Increased reliance on manual labor"],
-    "correctAnswer": "Enhanced production of advanced machinery"
+    "question": "The directive to Netflix from the Centre specifically concerns content originating from which country?",
+    "options": [
+      "China",
+      "United States",
+      "Pakistan",
+      "United Kingdom"
+    ],
+    "correctAnswer": "Pakistan"
   },
   {
     "id": 24,
-    "question": "The establishment of six new urea plants in India directly aims to primarily benefit which economic sector?",
-    "options": ["Manufacturing sector", "Service sector", "Agricultural sector", "Information Technology sector"],
-    "correctAnswer": "Agricultural sector"
+    "question": "Which streaming platform was asked by the Centre to honor its commitment regarding the non-streaming of certain international content?",
+    "options": [
+      "Amazon Prime Video",
+      "Disney+ Hotstar",
+      "Netflix",
+      "Zee5"
+    ],
+    "correctAnswer": "Netflix"
   },
   {
     "id": 25,
-    "question": "The government's new scheme to promote domestic manufacturing is expected to incentivize which aspect of production for construction and infrastructure equipment?",
-    "options": ["Reducing labor costs", "Increasing raw material exports", "Producing advanced machinery", "Simplifying design processes"],
-    "correctAnswer": "Producing advanced machinery"
+    "question": "What type of content did Indian industry bodies and the government seek to prevent from being streamed by Netflix?",
+    "options": [
+      "Historical documentaries",
+      "Children's animated series",
+      "Pakistani-origin web series",
+      "Reality television shows"
+    ],
+    "correctAnswer": "Pakistani-origin web series"
   }
 ]

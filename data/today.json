@@ -1,152 +1,277 @@
 [
   {
     "id": 1,
-    "question": "Who is the Union Home Minister who recently stated India's leading role in the global war on terror?",
-    "options": ["Nitin Gadkari", "Amit Shah", "Rajnath Singh", "S. Jaishankar"],
-    "correctAnswer": "Amit Shah"
+    "question": "What is the primary aim of the Delimitation Bill discussed in the news, particularly concerning its impact on representation in legislative bodies across states, including Telangana and Andhra Pradesh?",
+    "options": [
+      "To reduce the number of parliamentary constituencies.",
+      "To ensure equitable representation based on the latest census data.",
+      "To increase the age limit for contesting elections.",
+      "To merge state assemblies."
+    ],
+    "correctAnswer": "To ensure equitable representation based on the latest census data."
   },
   {
     "id": 2,
-    "question": "What significant event's memories were honored by Amit Shah while discussing India's fight against terrorism?",
-    "options": ["Pulwama attack", "Uri attack", "26/11 attacks", "Parliament attack"],
-    "correctAnswer": "26/11 attacks"
+    "question": "The Women's Quota Bill, linked with delimitation in the news, proposes reservation for women in which legislative bodies applicable to states like Andhra Pradesh and Telangana?",
+    "options": [
+      "Only State Legislative Councils.",
+      "Lok Sabha and State Legislative Assemblies.",
+      "Gram Panchayats and Municipalities.",
+      "Rajya Sabha only."
+    ],
+    "correctAnswer": "Lok Sabha and State Legislative Assemblies."
   },
   {
     "id": 3,
-    "question": "According to Amit Shah, what is India's unwavering dedication regarding terrorism?",
-    "options": ["To negotiate with terror groups", "To lead global peacekeeping missions", "To fight terrorism", "To provide humanitarian aid to victims"],
-    "correctAnswer": "To fight terrorism"
+    "question": "As per the recent discussions surrounding the Delimitation Bill, when is the next delimitation exercise, which would affect constituency boundaries in states like Telangana and Andhra Pradesh, expected to take place?",
+    "options": [
+      "Immediately after the next general elections.",
+      "After the first census conducted post-enactment of the Bill.",
+      "Within the next six months.",
+      "It has already been completed."
+    ],
+    "correctAnswer": "After the first census conducted post-enactment of the Bill."
   },
   {
     "id": 4,
-    "question": "What kind of recognition is the Modi government's stance against terrorism garnering, as per Amit Shah?",
-    "options": ["Domestic recognition", "Limited regional recognition", "Academic recognition", "Global recognition"],
-    "correctAnswer": "Global recognition"
+    "question": "What percentage of seats are proposed to be reserved for women in the Lok Sabha and State Assemblies, including those in Andhra Pradesh and Telangana, by the Women's Quota Bill mentioned in the headlines?",
+    "options": [
+      "25%",
+      "33%",
+      "40%",
+      "50%"
+    ],
+    "correctAnswer": "33%"
   },
   {
     "id": 5,
-    "question": "Amit Shah highlighted that what type of action is essential as terrorism remains a grave threat to humanity?",
-    "options": ["Diplomatic action", "Economic sanctions", "United action", "Military action"],
-    "correctAnswer": "United action"
+    "question": "The Delimitation Bill, relevant to future constituency redrawing in states like Andhra Pradesh and Telangana, considers which census data as its basis?",
+    "options": [
+      "1971 Census",
+      "1981 Census",
+      "2001 Census",
+      "The first census conducted after the Bill's enactment."
+    ],
+    "correctAnswer": "The first census conducted after the Bill's enactment."
   },
   {
     "id": 6,
-    "question": "What is the primary focus of Amit Shah's recent statement concerning India's international role?",
-    "options": ["Economic development", "Climate change initiatives", "Global war on terror", "Space exploration"],
-    "correctAnswer": "Global war on terror"
+    "question": "Prior to the current discussions about the Delimitation Bill, when was the last major delimitation exercise conducted in India that significantly affected states including the region now comprising Andhra Pradesh and Telangana?",
+    "options": [
+      "1962",
+      "1972",
+      "2002",
+      "2012"
+    ],
+    "correctAnswer": "2002"
   },
   {
     "id": 7,
-    "question": "In his address, Amit Shah praised the bravery of which two groups in the context of fighting terrorism?",
-    "options": ["Political leaders and activists", "Journalists and researchers", "Soldiers and innocent civilians", "Doctors and scientists"],
-    "correctAnswer": "Soldiers and innocent civilians"
+    "question": "Which major national political party, mentioned in the news, has publicly questioned the linking of women's quota with the delimitation process, a move that would affect states like Telangana and Andhra Pradesh?",
+    "options": [
+      "Bharatiya Janata Party (BJP)",
+      "Indian National Congress (INC)",
+      "Nationalist Congress Party (NCP)",
+      "All India Trinamool Congress (AITC)"
+    ],
+    "correctAnswer": "Indian National Congress (INC)"
   },
   {
     "id": 8,
-    "question": "According to a recent Supreme Court ruling, what type of member is mandatory on a bench confirming PMLA attachments?",
-    "options": ["An administrative member", "A legal expert", "A financial advisor", "A judicial member"],
-    "correctAnswer": "A judicial member"
+    "question": "The Women's Quota Bill, impacting states like Andhra Pradesh and Telangana, also includes provisions for sub-reservation within the women's quota for which specific groups?",
+    "options": [
+      "Only SC/ST women.",
+      "SC/ST women and OBC women.",
+      "Only OBC women.",
+      "No specific sub-reservation mentioned."
+    ],
+    "correctAnswer": "Only SC/ST women."
   },
   {
     "id": 9,
-    "question": "The Supreme Court's decision on PMLA benches aims to ensure what aspect in the proceedings?",
-    "options": ["Financial transparency", "Expedited trials", "Legal objectivity", "Public scrutiny"],
-    "correctAnswer": "Legal objectivity"
+    "question": "How would the implementation of the Delimitation Bill, based on future census data, potentially affect the number of Lok Sabha constituencies allocated to Andhra Pradesh and Telangana?",
+    "options": [
+      "It would uniformly decrease seats for all states.",
+      "It could lead to an increase or decrease based on population growth compared to other states.",
+      "It guarantees an increase in seats for southern states.",
+      "It would freeze the current number of seats indefinitely."
+    ],
+    "correctAnswer": "It could lead to an increase or decrease based on population growth compared to other states."
   },
   {
     "id": 10,
-    "question": "What specific Act's asset attachment proceedings are impacted by the Supreme Court's recent ruling?",
-    "options": ["Income Tax Act", "Companies Act", "Prevention of Money Laundering Act", "Foreign Contribution Regulation Act"],
-    "correctAnswer": "Prevention of Money Laundering Act"
+    "question": "What is the current status of the Delimitation and Women's Quota Bills in the Indian Parliament, as broadly indicated by the provided news regarding Special Session discussions?",
+    "options": [
+      "They are still under parliamentary committee review.",
+      "They have been passed by both houses and received presidential assent.",
+      "They are awaiting introduction in the Lok Sabha.",
+      "They have been withdrawn by the government."
+    ],
+    "correctAnswer": "They have been passed by both houses and received presidential assent."
   },
   {
     "id": 11,
-    "question": "What is the implication of the Supreme Court's ruling being applicable 'prospectively' regarding past PMLA decisions?",
-    "options": ["It allows reopening of all past decisions.", "It applies only to cases currently under appeal.", "It does not allow reopening of past decisions.", "It requires a review of all previous judgments."],
-    "correctAnswer": "It does not allow reopening of past decisions."
+    "question": "The Delimitation Commission, responsible for redrawing constituencies in states like Telangana and Andhra Pradesh, typically considers which primary factor for its process?",
+    "options": [
+      "Linguistic diversity of the region.",
+      "Geographic area of the constituencies.",
+      "Population figures from the latest census.",
+      "Economic development index of the districts."
+    ],
+    "correctAnswer": "Population figures from the latest census."
   },
   {
     "id": 12,
-    "question": "The Supreme Court ruling addressed the competence of which type of members in handling questions of law in PMLA cases?",
-    "options": ["Judicial members", "Administrative members", "Executive members", "Legislative members"],
-    "correctAnswer": "Administrative members"
+    "question": "If the Delimitation Bill, based on a future census, leads to significant changes in constituency boundaries in Andhra Pradesh, how might it influence the political landscape within the Andhra Pradesh Assembly?",
+    "options": [
+      "It will consolidate power in urban areas.",
+      "It could lead to shifts in voter bases and potential changes in seat distribution.",
+      "It ensures that no party gains an advantage.",
+      "It will primarily affect only reserved constituencies."
+    ],
+    "correctAnswer": "It could lead to shifts in voter bases and potential changes in seat distribution."
   },
   {
     "id": 13,
-    "question": "What was the Supreme Court's concern regarding benches deciding asset attachments prior to its new ruling?",
-    "options": ["Lack of public interest", "Inefficiency in case processing", "Lack of legal objectivity", "Overburdening of courts"],
-    "correctAnswer": "Lack of legal objectivity"
+    "question": "How might the Women's Quota Bill, once implemented after delimitation, change the representation of women in the Telangana Legislative Assembly?",
+    "options": [
+      "It will reduce the total number of seats.",
+      "It mandates that 33% of existing seats be occupied by women.",
+      "It will ensure that at least one woman MLA is elected from each district.",
+      "It will only affect women in reserved categories."
+    ],
+    "correctAnswer": "It mandates that 33% of existing seats be occupied by women."
   },
   {
     "id": 14,
-    "question": "What kind of issues did the Supreme Court's ruling on PMLA benches specifically aim to resolve regarding competence?",
-    "options": ["Procedural delays and evidence collection", "Funding disputes and international cooperation", "Questions of law and conflicting judgments", "Jurisdictional overlaps and administrative errors"],
-    "correctAnswer": "Questions of law and conflicting judgments"
+    "question": "What major concern has been raised by political leaders regarding the timing of the delimitation exercise for states like Andhra Pradesh and Telangana, as per the national discussions?",
+    "options": [
+      "It is happening too early, before adequate population growth.",
+      "It links women's reservation to an exercise that will take a long time to implement.",
+      "It prioritizes northern states over southern states.",
+      "It is financially unfeasible for the states."
+    ],
+    "correctAnswer": "It links women's reservation to an exercise that will take a long time to implement."
   },
   {
     "id": 15,
-    "question": "Which high judicial body recently demanded that certain banks provide unconditional sanctions for trying officials?",
-    "options": ["Delhi High Court", "Bombay High Court", "Supreme Court", "National Company Law Tribunal"],
-    "correctAnswer": "Supreme Court"
+    "question": "The concept of 'freezing' the number of Lok Sabha and Assembly constituencies until a certain year, which the new Delimitation Bill might alter for states like AP and Telangana, was originally done to promote what?",
+    "options": [
+      "To prevent overpopulation in urban areas.",
+      "To encourage family planning by not penalizing states that controlled population growth.",
+      "To maintain political stability during economic reforms.",
+      "To ensure equal representation based on linguistic diversity."
+    ],
+    "correctAnswer": "To encourage family planning by not penalizing states that controlled population growth."
   },
   {
     "id": 16,
-    "question": "Name one of the banks explicitly mentioned by the Supreme Court in connection with providing sanctions for trials of officials.",
-    "options": ["Axis Bank", "State Bank of India", "HDFC Bank", "Bank of Baroda"],
-    "correctAnswer": "HDFC Bank"
+    "question": "In the context of the Delimitation Bill's discussions, what role does the Election Commission of India typically play in the process for states like Andhra Pradesh and Telangana?",
+    "options": [
+      "It drafts the Delimitation Bill.",
+      "It conducts the census used for delimitation.",
+      "It assists the Delimitation Commission in its functions and implements its orders.",
+      "It has no role in the delimitation process."
+    ],
+    "correctAnswer": "It assists the Delimitation Commission in its functions and implements its orders."
   },
   {
     "id": 17,
-    "question": "What type of fraud schemes are the implicated bank officials involved in, according to the CBI investigations?",
-    "options": ["Credit card fraud schemes", "Loan default schemes", "Housing fraud schemes", "Investment fraud schemes"],
-    "correctAnswer": "Housing fraud schemes"
+    "question": "The opposition to the linking of women's quota with future delimitation, as mentioned by leaders like Shashi Tharoor, primarily stems from concerns about what for states like AP/Telangana?",
+    "options": [
+      "The cost of conducting the exercise.",
+      "The delay in implementation of women's reservation.",
+      "The unconstitutionality of the delimitation process.",
+      "The lack of clear guidelines for seat rotation."
+    ],
+    "correctAnswer": "The delay in implementation of women's reservation."
   },
   {
     "id": 18,
-    "question": "Within how many days did the Supreme Court instruct the banks to provide the necessary sanctions?",
-    "options": ["3 days", "7 days", "15 days", "30 days"],
-    "correctAnswer": "7 days"
+    "question": "Which state, historically part of the combined Andhra Pradesh, has seen its political representation evolve through various delimitation exercises, most recently impacted by the state bifurcation?",
+    "options": [
+      "Karnataka",
+      "Odisha",
+      "Telangana",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": "Telangana"
   },
   {
     "id": 19,
-    "question": "Whose investigations led to the chargesheets against officials implicated in housing fraud schemes?",
-    "options": ["ED", "NIA", "CBI", "RBI"],
-    "correctAnswer": "CBI"
+    "question": "The Delimitation Bill aims to ensure equitable representation based on which core principle for regions including Telangana and Andhra Pradesh?",
+    "options": [
+      "One region, one vote.",
+      "One language, one state.",
+      "One person, one vote, equal value.",
+      "One political party, one constituency."
+    ],
+    "correctAnswer": "One person, one vote, equal value."
   },
   {
     "id": 20,
-    "question": "What is the consequence if the banks' CMDs do not comply with the Supreme Court's directive within a week?",
-    "options": ["They will face monetary fines.", "They must articulate their non-compliance in court.", "Their licenses will be revoked.", "They will be subject to further investigation."],
-    "correctAnswer": "They must articulate their non-compliance in court."
+    "question": "According to the news, Sharad Pawar's NCP backed the Centre's Delimitation Bill. How does this stance relate to the broader political dynamics surrounding the bill's passage impacting states like Andhra Pradesh and Telangana?",
+    "options": [
+      "It highlights broad consensus across all opposition parties.",
+      "It indicates a split within the opposition on this specific bill.",
+      "It signals a complete rejection of the bill by regional parties.",
+      "It suggests the bill is only supported by the ruling party."
+    ],
+    "correctAnswer": "It indicates a split within the opposition on this specific bill."
   },
   {
     "id": 21,
-    "question": "What process will commence once the necessary sanctions from banks are secured, as per the Supreme Court?",
-    "options": ["Appeals", "Investigations", "Trials", "Settlements"],
-    "correctAnswer": "Trials"
+    "question": "What is the new increased penalty proposed for tampering with vehicle number plates on National Highways, a rule applicable across states like Telangana and Andhra Pradesh, as per recent reports?",
+    "options": [
+      "Two times the toll amount.",
+      "Three times the toll amount.",
+      "Five times the toll amount.",
+      "Ten times the toll amount."
+    ],
+    "correctAnswer": "Five times the toll amount."
   },
   {
     "id": 22,
-    "question": "The Supreme Court's directive to banks underscores the urgency for what judicial aspect?",
-    "options": ["Timely judicial processes", "Extended appeal periods", "Out-of-court settlements", "Reconciliation processes"],
-    "correctAnswer": "Timely judicial processes"
+    "question": "This new rule regarding vehicle number plates and toll evasion on national highways, as reported and applicable to AP/Telangana, is implemented by which central authority?",
+    "options": [
+      "State Transport Departments.",
+      "Ministry of Road Transport and Highways / NHAI.",
+      "Regional Traffic Police.",
+      "Ministry of Finance."
+    ],
+    "correctAnswer": "Ministry of Road Transport and Highways / NHAI."
   },
   {
     "id": 23,
-    "question": "What specific type of fraud is highlighted by the Supreme Court's demand for sanctions against bank officials?",
-    "options": ["Tax evasion", "Cybersecurity breaches", "Collusion in housing fraud schemes", "Money laundering"],
-    "correctAnswer": "Collusion in housing fraud schemes"
+    "question": "The tampering of vehicle number plates on National Highways, now subject to higher penalties in states like Andhra Pradesh and Telangana, is primarily an attempt to avoid what?",
+    "options": [
+      "Traffic fines for speeding.",
+      "Vehicle registration renewal.",
+      "Payment of toll charges.",
+      "Pollution control checks."
+    ],
+    "correctAnswer": "Payment of toll charges."
   },
   {
     "id": 24,
-    "question": "Which financial institutions were ordered to provide sanctions for officials implicated in collusion with builders?",
-    "options": ["State Bank of India and Punjab National Bank", "HDFC Bank, ICICI Bank, Sammaan Capital, and PNB Home Finance", "Axis Bank and Kotak Mahindra Bank", "Bank of Baroda and Union Bank of India"],
-    "correctAnswer": "HDFC Bank, ICICI Bank, Sammaan Capital, and PNB Home Finance"
+    "question": "How would the increased penalty for number plate tampering on National Highways within Telangana impact vehicle owners and transporters operating in the state?",
+    "options": [
+      "It will significantly reduce the cost of road transport.",
+      "It will discourage fraudulent practices and potentially increase toll revenue.",
+      "It will lead to more manual toll collection.",
+      "It only affects vehicles from other states."
+    ],
+    "correctAnswer": "It will discourage fraudulent practices and potentially increase toll revenue."
   },
   {
     "id": 25,
-    "question": "The Supreme Court demanded 'unconditional sanctions' from banks for what purpose related to their officials?",
-    "options": ["To promote them", "To facilitate their transfers", "To try them in housing fraud cases", "To provide them legal aid"],
-    "correctAnswer": "To try them in housing fraud cases"
+    "question": "Which specific type of road infrastructure in Andhra Pradesh would this new rule regarding number plate tampering and toll collection directly apply to?",
+    "options": [
+      "State Highways.",
+      "Rural Roads.",
+      "National Highways.",
+      "Municipal Roads."
+    ],
+    "correctAnswer": "National Highways."
   }
 ]
